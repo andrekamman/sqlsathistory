@@ -1,0 +1,20 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #385 - Dublin 2015</name>
+    <startDate>3/2/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>500</attendeeEstimate>
+    <timezone>(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatDublin</twitterHashtag>
+    <venue>
+      <name>Citywest Hotel and Conference Centre</name>
+      <street>Saggart Co</street>
+      <city>Dublin</city>
+      <state>, Ireland</state>
+      <zipcode>
+      </zipcode>
+      <longitude>-6.450154</longitude>
+      <latitude>53.286162</latitude>
+    </venue>
+  </guide>
+</GuidebookXML>

@@ -1,0 +1,21 @@
+# SQLSaturday #212 - Redmond 2013
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Brent Greenwood|Capitol Hill|[Lean BI Solutions w PowerPivot, Tabular  a Mullet](10724.md)
+00:00:00|Brent Greenwood|Capitol Hill|[Measuring BI Adoption: Dog Food Is Good For You](10725.md)
+00:00:00|Dipti Sangani|Pioneer Square|[SQLCAT: Big Data – All Abuzz About Hive](11389.md)
+00:00:00|David Eichner|Capitol Hill|[SRS Report Builder for Business Intelligence](12769.md)
+00:00:00|Greg Larsen|Capitol Hill|[Data Profiling Using SSIS Data Profiling Task](14812.md)
+00:00:00|Jim Murphy|Pioneer Square|[AlwaysOn - Finally, A usable 'mirror'!](16796.md)
+00:00:00|Joseph Verftido|Pioneer Square|[Data Quality Services Approach to Cleansing](17490.md)
+00:00:00|Nicholas Cain|Queen Anne|[Why I Won't Be Hiring You](21421.md)
+00:00:00|Pat Sinthusan|Queen Anne|[Store This! Why storage matters when virtualizing SQL Server](21747.md)
+00:00:00|Randy Knight|Montlake|[But it worked great in Dev!  Perfomance for Devs](22458.md)
+00:00:00|Rick  Morelan|Montlake|[SQL 2012 Error Handling. Pick your Destiny](22995.md)
+00:00:00|Rob Garrison|Queen Anne|[Deconstructing SQL Server’s Change Data Capture](23233.md)
+00:00:00|Ron Talmage|Montlake|[Adventures in Table Partitioning](23566.md)
+00:00:00|Scott Klein|Pioneer Square|[Windows Azure SQL Database - your cloud database](24070.md)
+00:00:00|Dev Nambi|Montlake|[Machine Learning for Mere Mortals](24871.md)
+00:00:00|Steve Stedman|Montlake|[Unleashing Common Table Expressions in SQL Server](25746.md)
+00:00:00|Carla Sabotta|Capitol Hill|[Executing SSIS Packages using SQL Server Agent](9670.md)
+00:00:00|Argenis Fernandez|Pioneer Square|[Lean and Mean: Running SQL on Windows Server Core](9766.md)

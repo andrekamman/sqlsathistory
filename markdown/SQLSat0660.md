@@ -1,0 +1,20 @@
+# SQLSaturday #660 - Lviv 2017
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+10:00:00|Michal Sadowski|Enterprise Database Administration  Deployment|[How to start working in the multiserver environment?](66546.md)
+10:00:00|Andrii Zrobok|Application  Database Development|[Важливість статистики в MS SQL Server, як вона використовується.](68527.md)
+10:00:00|Yevhen Nedashkivskyi|Strategy and Architecture|[SQL Server: Готуємося до гіршого](68560.md)
+11:10:00|Eugene Polonichko|BI Platform Architecture, Development  Administration|[What’s new in SQL Server 2017 RC for Business Intelligence](64601.md)
+11:10:00|Anton Boyko|Cloud Application Development  Deployment|[Создание data-driven serverless приложений используя Azure Functions](67628.md)
+11:10:00|Marcin Szeliga|Advanced Analysis Techniques|[State-of-the-Art Machine Learning Algorithms in R from Microsoft](67974.md)
+13:10:00|Jan Mulkens|Advanced Analysis Techniques|[Enabling Citizen Data Science with Microsoft](64773.md)
+13:10:00|Catalin Gheorghiu|Application  Database Development|[IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights](66901.md)
+13:10:00|Mihail Mateev|Cloud Application Development  Deployment|[Dealing with CosmosDB](67457.md)
+14:20:00|Andriy Pogorelov|Application  Database Development|["The Time Machine". Change Tracking, Change Data Capture, Temporal Tables](65659.md)
+14:20:00|Taras Bobrovytskyi|Application  Database Development|[Using non-relational data inside SQL Server](67430.md)
+14:20:00|David Williams|Application  Database Development|[SQL Server 2017 New Features (Not Linux support!)](68135.md)
+16:05:00|Mihail Mateev|Cloud Application Development  Deployment|[IoT Duel - Cloud vs. on Premises Solutions](64707.md)
+16:05:00|Sergey Syrovatchenko|Application  Database Development|[SQL Server 2016: JSON vs XML](64944.md)
+16:05:00|Denis Reznik|Enterprise Database Administration  Deployment|[SQL Server Performance Tuning Nowadays](66618.md)
+16:05:00|Andrzej Kukula|Enterprise Database Administration  Deployment|[Introduction to SQL Server 2017 for Linux](68186.md)
+16:05:00|Dmytro Stolpakov|Advanced Analysis Techniques|[Як звучить Data Science у .mid](68802.md)

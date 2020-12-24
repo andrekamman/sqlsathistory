@@ -1,0 +1,360 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #180 - Nepal 2012</name>
+    <startDate>12/15/2012 12:00:00 AM</startDate>
+    <attendeeEstimate>120</attendeeEstimate>
+    <timezone>(GMT+05:45) Kathmandu</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatNepal</twitterHashtag>
+    <venue>
+      <name>United World Trade Center </name>
+      <street>Tripureshor</street>
+      <city>Kathmandu</city>
+      <state>Bagmati, Nepal</state>
+      <zipcode>
+      </zipcode>
+      <longitude>85.313713</longitude>
+      <latitude>27.696325</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>876</importID>
+      <name>Navantis Inc.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.navantis.com</url>
+      <imageURL>https://www.navantis.com/page%20images/logos_SL/navantis_170_60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1</importID>
+      <name>Confio</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.confio.com</url>
+      <imageURL>https://www.pass.org/images/resized-confio_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>125</importID>
+      <name>Cyber International (P). Ltd</name>
+      <label>Bronze Sponsor</label>
+      <url>http://cipl.com.np</url>
+      <imageURL>https://admin.sqlsaturday.com/Himalayan%20SQL%20Server%20User%20Group%20Logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1192</importID>
+      <name>Thakral One Nepal Pvt. Ltd.</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.thakralone.com</url>
+      <imageURL>https://www.thakralone.com/sites/default/files/thakral_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>864</importID>
+      <name>Mercantile Communications Pvt. Ltd</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.mos.com.np</url>
+      <imageURL>https://www.mos.com.np/images/mos_logo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>674</importID>
+      <name>ComTech Group Co.Pvt.Ltd</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.hardwarenepal.com</url>
+      <imageURL>https://www.hardwarenepal.com/images/ComTech%20logojjjjjj.JPG</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1154</importID>
+      <name>Sunway International Business School</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.sunway.edu.np/</url>
+      <imageURL>https://www.educatenepal.com/InstitutionLinks/Multimedia/1315400182sunway_b_s_p1.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>SWAG Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>304</importID>
+      <name>SYNTEGRATE</name>
+      <label>SWAG Sponsor</label>
+      <url>http://syntegrate.com.np</url>
+      <imageURL>https://nepal.pass.org/Portals/247/SYNTEGRATELogoSmall.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1211</importID>
+      <name>TrainSignal, Inc</name>
+      <label>SWAG Sponsor</label>
+      <url>http://www.trainsignal.com/</url>
+      <imageURL>https://www.trainsignal.com/images/00_Core/logo_trainsignal.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>20</importID>
+      <name>O'Reilly Books</name>
+      <label>SWAG Sponsor</label>
+      <url>http://oreilly.com/</url>
+      <imageURL>https://oreilly.com/images/oreilly/oreilly.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>233</importID>
+      <name>Pluralsight LLC</name>
+      <label>SWAG Sponsor</label>
+      <url>http://pluralsight.com</url>
+      <imageURL>https://s.pluralsight.com/sc/img/about/pluralsight-logo-orange-175x49-v1.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>43</importID>
+      <name>SAPIEN Technologies</name>
+      <label>SWAG Sponsor</label>
+      <url>http://www.sapien.com</url>
+      <imageURL>https://www.pass.org/files/596bfb68-a4b3-4852-ad88-011b040d618b.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>10</importID>
+      <name>Apress, Inc.</name>
+      <label>SWAG Sponsor</label>
+      <url>http://www.apress.com</url>
+      <imageURL>https://apress.com/img/masthead_logo.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1260</importID>
+      <name>Verisk Information Technologies</name>
+      <label>Title Sponsor</label>
+      <url>http://www.veriskit.com/</url>
+      <imageURL>https://www.veriskit.com/sites/default/files/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>34641</importID>
+      <name>Gogula Aryalingam</name>
+      <label>
+      </label>
+      <description>Gogula is a data analytics professional from Sri Lanka, with 14+ years on the Microsoft data platform. He has worked with many aspects of data analytics and BI solutions from architecting, designing, developing and consulting across various industries and verticals. He is Regional Mentor for PASS South Asia, Data Platform MVP, MCSE, former MCT, and MSc in IT. Gogula's passion revolves data analytics and BI; hence enjoys writing, teaching and speaking about the things he works with. He was also involved as an SME for Microsoft certification development. He currently juggles his full time job as Lead Architect while speaking at local and foreign events, along with regular stints at the Sri Lankan Data Community which he co-founded.</description>
+      <twitter>http://www.twitter.com/gogula</twitter>
+      <linkedin>http://www.linkedin.com/in/gogula</linkedin>
+      <ContactURL>http://datamaul.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://www.twitter.com/gogula</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>24423</importID>
+      <name>Shree Khanal</name>
+      <label>
+      </label>
+      <description>Shree Khanal is a Database Architect, Speaker and Trainer having 15+ 
+years of professional experience on database solution development 
+and optimization. Mr. Khanal is a Data Platform MVP  Microsoft 
+Certified Database Professional since 2000 to till date. Starting with 
+SQL Server 7, he has been working with all the version of SQL Server 
+up to 2016 in production environment. In context of OLAP cube 
+development, he started working on it from SQL Server 2000 to latest 
+SSAS 2016. He has worked number of years providing SQL BI solutions 
+to various enterprise clients most of them from BI sector. He founded 
+and has been leading the Himalayan SQL Server User Group (www.sqlpassnepal.org) based in 
+Kathmandu, Nepal since 2010.</description>
+      <twitter>shreekhanal</twitter>
+      <linkedin>http://np.linkedin.com/in/shreekhanal</linkedin>
+      <ContactURL>http://www.sqlhelps.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=shreekhanal</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34642</importID>
+      <name>Gogula Aryalingam</name>
+      <label>
+      </label>
+      <description>Gogula is a data analytics professional from Sri Lanka, with 14+ years on the Microsoft data platform. He has worked with many aspects of data analytics and BI solutions from architecting, designing, developing and consulting across various industries and verticals. He is Regional Mentor for PASS South Asia, Data Platform MVP, MCSE, former MCT, and MSc in IT. Gogula's passion revolves data analytics and BI; hence enjoys writing, teaching and speaking about the things he works with. He was also involved as an SME for Microsoft certification development. He currently juggles his full time job as Lead Architect while speaking at local and foreign events, along with regular stints at the Sri Lankan Data Community which he co-founded.</description>
+      <twitter>http://www.twitter.com/gogula</twitter>
+      <linkedin>http://www.linkedin.com/in/gogula</linkedin>
+      <ContactURL>http://datamaul.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://www.twitter.com/gogula</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10233</importID>
+      <name>Ben Miller</name>
+      <label>
+      </label>
+      <description>Ben has been a member of the SQL Server Community since 2000. He loves a challenge and has fixed many SQL Servers and helped hundreds of people get more out of their DBA jobs.  He is a Data Platform MVP a SQL Server Certified Master (MCM). He has worked at various companies throughout the USA, as well as at Microsoft for 7 years. He is passionate about SQL Server Infrastructure, High Availability, Automation and Integration using SMO and PowerShell. He teaches DBAs how to use PowerShell to do their job and teaches SQL Server Internals. He is @DBAduck all around the web (Twitter, LinkedIn, Facebook, Blog) so let's catch up.</description>
+      <twitter>DBAduck</twitter>
+      <linkedin>http://www.linkedin.com/in/dbaduck/</linkedin>
+      <ContactURL>https://dbaduck.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DBAduck</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19361</importID>
+      <name>Margarita Naumova</name>
+      <label>
+      </label>
+      <description>Margarita Naumova is a very well-known SQL Expert. Magi holds the highest possible SQL Server Technical Certification in the field – Microsoft Certified Master, making her one of the best SQL Server Experts Worldwide. Magi is also a Microsoft Data Platform MVP (Most Valuable Professional). She has more than 15 years of SQL Server and BI technologies consulting and training experience and is a trusted advisor for many large companies in SQL Server Platform Area.
+Currently she works as a Managing Partner and Chief SQL Architect of Inspirit, her own Data Platform Consulting Company with offices in Bulgaria (Inspirit) and Norway (Inspir-it AS). Margarita is a regular speaker at the largest IT events, SQLBits, SQL Saturday in Europe.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.inspirit.bg</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27444</importID>
+      <name>Victor Isakov </name>
+      <label>
+      </label>
+      <description>Victor Isakov (MCA, MCM, MCT, MVP) is a Database Architect and Trainer who provides consulting and training services to various organizations in the public, private and NGO sectors globally, and been involved in different capacities at various international events and conferences. He has authored a number of books on SQL Server and worked closely with Microsoft to develop the new generation of SQL Server Certification and Microsoft Official Curriculum for both instructor led training (ILT) and e</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>19361</importID>
+      <speakers>
+        <speaker>
+          <id>19361</id>
+          <name>Margarita Naumova</name>
+        </speaker>
+      </speakers>
+      <track>Data Platform and Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Smart Monitoring with SQL Server 2012 Extended Eve</title>
+      <description>Smart Monitoring with SQL Server 2012 Extended Events
+Extended Events is a really powerful monitoring system in SQL Server which was introduced in SQL Server 2008. The SQL Server 2012 provides a diagnostic tracing facility, built on xEvents. Learn the xEvents changes in SQL Server 2012 and find how the diagnostic system will not only replace the SQL Profiler traces but will exceed it. Works smart using the whole power of xEvents in SQL Server 2012. </description>
+      <startTime>12/15/2012 12:00:00 AM</startTime>
+      <endTime>12/15/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27444</importID>
+      <speakers>
+        <speaker>
+          <id>27444</id>
+          <name>Victor Isakov </name>
+        </speaker>
+      </speakers>
+      <track>Data Platform and Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>What DBAs Should Know About Windows Server 2012</title>
+      <description>Windows Server 2012 is coming! As a DBA, you should understand Microsoft's new operating system and its important set of features that will change the way you deploy SQL Server and design high availability solutions in your environment. In this session, you'll learn about the benefits that Windows Server 2012 brings to SQL Server, see how to install and configure Windows 8 for a SQL Server deployment, and explore new features that will affect your virtualization and high availability architectures</description>
+      <startTime>12/15/2012 12:00:00 AM</startTime>
+      <endTime>12/15/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>24423</importID>
+      <speakers>
+        <speaker>
+          <id>24423</id>
+          <name>Shree Khanal</name>
+        </speaker>
+      </speakers>
+      <track>Data Platform and Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server 2008 Database Internals</title>
+      <description>Do you already wanted to know how SQL Server 2008/2012 stores a database file physically on the hard drive? In this session you will learn the internal structure of a SQL Server 2008/2012 database file, and how SQL Server stores tables and indices internally in the file system. Furthermore you will see the DBCC T-SQL command in action, with which you can analyse the internal storage format of your database files. All these information from this session helps you in your next database design to get out the last percent of performance from your new database solution.</description>
+      <startTime>12/15/2012 12:00:00 AM</startTime>
+      <endTime>12/15/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34641</importID>
+      <speakers>
+        <speaker>
+          <id>34641</id>
+          <name>Gogula Aryalingam</name>
+        </speaker>
+      </speakers>
+      <track>Data Platform and Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>BI For (Almost) Everyone</title>
+      <description>Business Intelligence was for a long time considered something only the "big" companies could do or afford. However in the recent past with shifts in technology paradigms, BI has become a commodity affordable by many. You too can do BI if you have the right edition (and version) of SQL Server.
+This session will showcase how data in an OLTP database can be converted into BI-worthy data: using the SQL Server 2012 Database Engine, Analysis Services and finally visualizing with Excel; along with references to SSIS, SSRS, PowerPivot and PowerView on the way.</description>
+      <startTime>12/15/2012 12:00:00 AM</startTime>
+      <endTime>12/15/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>10233</importID>
+      <speakers>
+        <speaker>
+          <id>10233</id>
+          <name>Ben Miller</name>
+        </speaker>
+      </speakers>
+      <track>Data Platform and Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server TDE</title>
+      <description>Have you ever wanted to know how Transparent Database Encryption (TDE) works or how you set it up? This session will go over all the steps and caveats that go with this technology. This is a topic that is an Enterprise Feature, but allows you to have your database encrypted on disk. We will discuss the Encryption Hierarchy as well as how it relates to SQL Server TDE.
+</description>
+      <startTime>12/15/2012 12:00:00 AM</startTime>
+      <endTime>12/15/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34642</importID>
+      <speakers>
+        <speaker>
+          <id>34642</id>
+          <name>Gogula Aryalingam</name>
+        </speaker>
+      </speakers>
+      <track>Data Platform and Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Integration 101</title>
+      <description>Data exists in different forms and in different places. There is always a need to bring them together; for your data warehouse or into that new CRM application or any other reason that you can think up of. This session discusses and shows how data integration can be developed, scheduled and deployed using SQL Server 2012 and Integration Services.</description>
+      <startTime>12/15/2012 12:00:00 AM</startTime>
+      <endTime>12/15/2012 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

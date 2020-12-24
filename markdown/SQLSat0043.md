@@ -1,0 +1,21 @@
+# SQLSaturday #43 - Redmond 2010
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Buck Woody|Room 2003|[SQL Server for the Oracle DBA](29353.md)
+00:00:00|CLIFFORD DIBBLE|Room 2003|[Utility Control Point in SQL 2008 R2](29425.md)
+00:00:00|Sumeet  Bansal|Room 2015|[Accelerating SQL with Solid State (w/ iPod Raffle)](29619.md)
+00:00:00|Dean Richards|Room 2003|[Tuna Helper for DBAs and Developers](29872.md)
+00:00:00|David Lydston|Room 2011|[Auditing your SQL Server](29913.md)
+00:00:00|Donabel Santos|Room 2007|[SQL Server and PowerShell](29954.md)
+00:00:00|Donabel Santos|Room 2007|[SQL Server 2008 Reporting from the Ground Up](29955.md)
+00:00:00|Doug Wheaton|Room 2011|[Heterogeneous Data Integration with SSIS  CDC](29963.md)
+00:00:00|Greg Larsen|Room 2015|[Exploring SQL Server System Information with DMVs](30282.md)
+00:00:00|Kalen Delaney|Room 2015|[The Compression Session](31170.md)
+00:00:00|Matt Masson|Room 2011|[SSIS Performance Design Patterns](31607.md)
+00:00:00|Remus Rusanu|Room 2015|[High Volume Real Time Contiguous ETL and Audit](32487.md)
+00:00:00|Rick  Morelan|Room 2003|[Explicit Transaction Management](32515.md)
+00:00:00|Robert Davis|Room 2007|[Using SQL Trace/Profiler Effectively](32610.md)
+00:00:00|Robert Davis|Room 2007|[Adventures in SQL Server Masters Certification](32611.md)
+00:00:00|Scott Stauffer|Room 2011|[SSIS for the faint of heart](32813.md)
+00:00:00|Chuck Lathrope|Room 2015|[Replication Performance Tuning and Troubleshooting](33042.md)
+00:00:00|Todd McDermid|Room 2011|[Data Warehouse Dimension Processing with SSIS](33761.md)

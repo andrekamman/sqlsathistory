@@ -1,0 +1,40 @@
+<GuidebookXML>
+  <sponsors>
+    <sponsor>
+      <importID>1860</importID>
+      <name>Ledgent Technology</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.ledgenttech.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/965/EventSponsor_14704.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1817</importID>
+      <name>SentryOne</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.sentryone.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/965/EventSponsor_14694.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Bronze Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/965/EventSponsor_14599.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1588</importID>
+      <name>Quest</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/965/EventSponsor_14537.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

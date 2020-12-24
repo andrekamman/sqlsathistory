@@ -1,0 +1,1539 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #854 - Oslo 2019</name>
+    <startDate>8/31/2019 12:00:00 AM</startDate>
+    <attendeeEstimate>300</attendeeEstimate>
+    <timezone>(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatOslo</twitterHashtag>
+    <venue>
+      <name>Høyskolen Kristiania</name>
+      <street>Christian Krohgs gate 32</street>
+      <city>Oslo</city>
+      <state>Oslo, Norway</state>
+      <zipcode>0186</zipcode>
+      <longitude>10.7601098</longitude>
+      <latitude>59.9159966</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>2278</importID>
+      <name>Kristiania University College</name>
+      <label>Venue partner</label>
+      <url>https://kristiania.no</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/854/EventSponsor_14134.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1488</importID>
+      <name>Microsoft Norway</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.microsoft.no</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/854/EventSponsor_14169.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1432</importID>
+      <name>Capgemini</name>
+      <label>Platinum Sponsor</label>
+      <url>https://www.no.capgemini.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/854/EventSponsor_13176.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1416</importID>
+      <name>EVRY</name>
+      <label>Gold sponsor and venue partner</label>
+      <url>http://www.evry.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/854/EventSponsor_13957.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1928</importID>
+      <name>dbWatch</name>
+      <label>Gold Sponsor</label>
+      <url>http://cilbuper.se/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/854/EventSponsor_13539.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1588</importID>
+      <name>Quest</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/854/EventSponsor_13743.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1961</importID>
+      <name>BI builders</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.bi-builders.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/854/EventSponsor_14122.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/854/EventSponsor_14071.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1817</importID>
+      <name>SentryOne</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.sentryone.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/854/EventSponsor_13889.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2012</importID>
+      <name>Norsk Rikstoto</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.rikstoto.no</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/971/EventSponsor_14805.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2388</importID>
+      <name>Inmeta</name>
+      <label>Silver Sponsor</label>
+      <url>https://inmeta.no</url>
+      <imageURL>https://inmeta.no/kontakt/_/image/f3a36940-5fc1-4da4-a095-254356469c1f:8e13d5690b22a253b969bcd7421499c31b7a5597/width-768/IM_logo_sort_web.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2338</importID>
+      <name>CLOUDBERRIES AS</name>
+      <label>Silver Sponsor</label>
+      <url>http://cloudberries.no/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/854/EventSponsor_13175.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1720</importID>
+      <name>Avanade Norway AS</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.avanade.com/se-no?country=norway</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/854/EventSponsor_13861.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2496</importID>
+      <name>Basefarm</name>
+      <label>Silver Sponsor</label>
+      <url>http://basefarm.no/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/854/EventSponsor_13808.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1275</importID>
+      <name>Webstep Innsikt</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.webstep.no/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/854/EventSponsor_14156.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2573</importID>
+      <name>Manning Publications</name>
+      <label>Raffle Sponsor</label>
+      <url>https://www.manning.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/854/EventSponsor_14189.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>89179</importID>
+      <name>Hugo Kornelis</name>
+      <label>
+      </label>
+      <description>Hugo Kornelis is an established SQL Server community expert who spends a lot of time at various conferences. He is author of "the Execution Plan Reference" (sqlserverfast.com/epr), blogger, technical editor of Grant Fritchey's "SQL Server Execution Plans, 3rd edition" and some other books, and Pluralsight author. He was awarded SQL Server MVP and Data Platform MVP 12 times (2006 - 2016, and 2019-present).
+
+When not working for the community, he is busy at his day job: freelance database developer/consultant.
+
+Hugo has over 20 years of SQL Server experience in various roles. He loves to write and tune complex queries, but he also has a strong database design background.
+
+When not working for the community, he is busy at his day job: freelance database developer/consultant.
+
+Hugo has over 20 years of SQL Server experience in various roles. He loves to write and tune complex queries, but he also has a strong database design background.</description>
+      <twitter>Hugo_Kornelis</twitter>
+      <linkedin>http://nl.linkedin.com/in/hugokornelis</linkedin>
+      <ContactURL>http://sqlblog.com/blogs/hugo_kornelis/default.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Hugo_Kornelis</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>91624</importID>
+      <name>Daniel Hutmacher</name>
+      <label>
+      </label>
+      <description>Senior database developer with a long-running passion for performance tuning on SQL Server. I run my own consultancy business where I help companies with database development, ETL work, performance tuning and technical training on SQL Server.
+Board member of the Swedish SQL Server usergroup 2017-2019, organizer of SQL Saturday Stockholm, and co-organizer of GroupBy.org.</description>
+      <twitter>@dhmacher</twitter>
+      <linkedin>https://se.linkedin.com/in/danielhutmacher</linkedin>
+      <ContactURL>https://sqlsunday.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@dhmacher</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89280</importID>
+      <name>Kellyn Pot'Vin-Gorman</name>
+      <label>
+      </label>
+      <description>Kellyn Pot’Vin-Gorman is a member of the Oak Table Network and an Idera ACE and Oracle ACE Director alumnus. She is a Data Platform Architect in Power BI with AI in the EdTech group at Microsoft. Kellyn is known for her extensive work with multi-database platforms, DevOps, cloud migrations, virtualization, visualizations, scripting, environment optimization tuning, automation, and architecture design. 
+
+Kellyn has spoken at numerous technical conferences for Oracle, Big Data, DevOps, testing, and SQL Server. Her blog (http://dbakevlar.com) and social media activity under her handle, DBAKevlar, is well respected for her insight and content.</description>
+      <twitter>DBAKevlar</twitter>
+      <linkedin>https://www.linkedin.com/in/kellynpotvin</linkedin>
+      <ContactURL>http://dbakevlar.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DBAKevlar</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>91673</importID>
+      <name>Wolfgang Strasser</name>
+      <label>
+      </label>
+      <description>Wolfgang Strasser creates solutions based on the Microsoft Data Platform tools in his day-to-day job as Business Intelligence consultant. Either using SQL Server Database Engine, SSIS, reporting with SSAS and SSRS, implementing Power BI solutions or cloud tools for data analysis - the data-tools-landscape is broadening every day! Based on his professional careers as a software developer he likes to work on structured development processes.
+Wolfgang shares his knowledge with the community at many national and international events. For his community work, Wolfgang has been awarded with the Microsoft MVP Award for Data Platform in October 2015</description>
+      <twitter>wstrasser</twitter>
+      <linkedin>http://www.linkedin.com/pub/wolfgang-strasser/7b/912/22b</linkedin>
+      <ContactURL>http://workingondata.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=wstrasser</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89123</importID>
+      <name>Frank Geisler</name>
+      <label>
+      </label>
+      <description>Frank Geisler is owner and CEO of GDS Business Intelligence GmbH. He is SQL Server MVP, MCT,  MCSE – Business Intelligence, MCSE – Data Plattform and MCSE - Azure Solutions Architect. In his Job he is building Business Intelligence Systems based on Microsoft Technology, mainly on SQL Server and SharePoint.</description>
+      <twitter>@Frank Geisler</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=4839367</linkedin>
+      <ContactURL>http://www.gdsbi.de</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Frank Geisler</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96549</importID>
+      <name>SQLSaturday Oslo Sponsor</name>
+      <label>
+      </label>
+      <description>Proudly sponsoring SQLSaturday Oslo. Please see session details for more information about the speaker.</description>
+      <twitter>@SQLSatOslo</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLSatOslo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98243</importID>
+      <name>SQLSaturday Oslo Sponsor</name>
+      <label>
+      </label>
+      <description>Proudly sponsoring SQLSaturday Oslo. Please see session details for more information about the speaker.</description>
+      <twitter>@SQLSatOslo</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLSatOslo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92049</importID>
+      <name>Rob Sewell</name>
+      <label>
+      </label>
+      <description>Rob was once a production SQL Server DBA, but is now generally found automating the Data Platform and providing training for clients. He has a passion for PowerShell, Data, and DevOps. He is an MVP, an officer for the DevOps PowerShell VG, and has spoken and volunteered at many PowerShell and Data events. He is a member of the committee that organises Data In Devon and the European PowerShell Conference. He is a proud supporter of the Data and PowerShell communities. 
+ 
+He relishes sharing and learning and can be found doing both via Twitter @sqldbawithbeard and his blog sqldbawithabeard.com. He spends most of his time looking at a screen and loves to solve problems.</description>
+      <twitter>sqldbawithbeard</twitter>
+      <linkedin>https://uk.linkedin.com/in/robsewellsqldba</linkedin>
+      <ContactURL>http://sqldbawithabeard.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqldbawithbeard</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90373</importID>
+      <name>Alexander Klein</name>
+      <label>
+      </label>
+      <description>Alexander Klein is a senior Business Intelligence consultant with more than 15 years of experience. He focuses on Business Intelligence and Data Warehouse projects with Microsoft technologies like SQL Server, Power BI, Azure ML or Cortana Intelligence. 
+
+Since 2008, he has been a self-employed consultant in large and medium-sized projects in all sectors across Europe. He has been visiting SQL Saturdays and other Data Conference all over Europe since 2013. Speaker at national and international events since 2017.</description>
+      <twitter>@SQL_Alex</twitter>
+      <linkedin>http://www.linkedin.com/in/alexander-klein-13a04b3a</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQL_Alex</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92361</importID>
+      <name>Bartosz Ratajczyk</name>
+      <label>
+      </label>
+      <description>Database developer and (sometimes) administrator working with SQL Server Data Platform. Currently focusing on ETL development, delivery automation using TFS, query tuning, SQL Server training. Data Community Poland (DC) member, local group and conference speaker.</description>
+      <twitter>@b_ratajczyk</twitter>
+      <linkedin>http://pl.linkedin.com/in/bartoszratajczyk</linkedin>
+      <ContactURL>http://blog.bartekr.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@b_ratajczyk</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89031</importID>
+      <name>Jonathan Stewart</name>
+      <label>
+      </label>
+      <description>Jonathan Stewart is a Business Intelligence consultant specializing in data visualization, data warehousing, and data management technologies. An advocate for educating others, he is a public speaker, teacher and blogger, continually teaching people about the Microsoft BI Stack. Since 2000, he has been working in the database field with industry leaders in healthcare, manufacturing, financial, insurance and federal, state and local governments.
+
+Jonathan is very active in the community. He has presented on SQL Server, SSIS, Reporting Services, Power BI and Business Intelligence at numerous SQLSaturday events, local user groups, and conferences throughout the United States and around the world. He participates in webcasts, podcasts, and on</description>
+      <twitter>sqllocks</twitter>
+      <linkedin>https://www.linkedin.com/in/sqllocks/</linkedin>
+      <ContactURL>https://sqllocks.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqllocks</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89483</importID>
+      <name>Margarita Naumova</name>
+      <label>
+      </label>
+      <description>Margarita Naumova is a very well-known SQL Expert. Magi holds the highest possible SQL Server Technical Certification in the field – Microsoft Certified Master, making her one of the best SQL Server Experts Worldwide. Magi is also a Microsoft Data Platform MVP (Most Valuable Professional). She has more than 15 years of SQL Server and BI technologies consulting and training experience and is a trusted advisor for many large companies in SQL Server Platform Area.
+Currently she works as a Managing Partner and Chief SQL Architect of Inspirit, her own Data Platform Consulting Company with offices in Bulgaria (Inspirit) and Norway (Inspir-it AS). Margarita is a regular speaker at the largest IT events, SQLBits, SQL Saturday in Europe.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.inspirit.bg</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98099</importID>
+      <name>SQLSaturday Oslo Sponsor</name>
+      <label>
+      </label>
+      <description>Proudly sponsoring SQLSaturday Oslo. Please see session details for more information about the speaker.</description>
+      <twitter>@SQLSatOslo</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLSatOslo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90244</importID>
+      <name>Markus Ehrenmueller-Jensen</name>
+      <label>
+      </label>
+      <description>Markus Ehrenmueller-Jensen, as the founder of Savory Data, has a long history of providing customer solutions in the areas of data engineering, data science, and Business Intelligence. He is a certified software engineer, a graduated business educator, and professor of Databases  Project Management at HTL Leonding, and is certified as an MCSE  MCT. He is a published author and writes articles for well-known journals. He co-founded PASS Austria and organizes SQLSaturdays in Austria. Markus is a founding member of Power BI Usergroup Austria. Since 2017 Markus was awarded as an Microsoft Data Platform MVP.</description>
+      <twitter>MEhrenmueller</twitter>
+      <linkedin>https://www.linkedin.com/in/markus-ehrenmueller/</linkedin>
+      <ContactURL>http://www.savorydata.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MEhrenmueller</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89811</importID>
+      <name>Marc Lelijveld</name>
+      <label>
+      </label>
+      <description>Power BI enthusiastic, public speaker and passionated for everything which transforms data into action! Working at Macaw in the Netherlands as a Data  Analytics consultant.
+
+What I like the most? Sharing my thoughts, experience, best-practices and enthusiasm about Power BI and related Microsoft Products with others. I mostly do this in public speaking for the user group, conferences, customer presentations and end-user training. But wouldn't it be great to cross borders and expand the community!</description>
+      <twitter>@Marclelijveld</twitter>
+      <linkedin>https://linkedin.com/in/marclelijveld</linkedin>
+      <ContactURL>https://data-marc.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Marclelijveld</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92262</importID>
+      <name>Marek Jablonski</name>
+      <label>
+      </label>
+      <description>Has Master of Science degree in astrophysics from the University of Oslo. Has worked with database technologies for over 20 years (first time DBA certified on Oracle 7.3, and MS SQL Server 6.5). Works as CTO in dbWatch (is the company's founder), which develops software for management of relational databases.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.dbwatch.com</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89052</importID>
+      <name>Erland Sommarskog</name>
+      <label>
+      </label>
+      <description>Erland Sommarskog is an independent consultant based in Stockholm, working with SQL Server since 1991. He was first awarded SQL Server MVP in 2001, and has been re-awarded every year since. His focus is on systems development with the SQL Server Database Engine and his passion is to help people to write better SQL Server applications.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sommarskog.se</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90579</importID>
+      <name>Antonio Abalos Castillo</name>
+      <label>
+      </label>
+      <description>Started as a humble .NET developer, now with several years of experience in the Microsoft Data Platform, mainly in the Azure cloud. My work involves designing and architecting Data and Analytics cloud solutions. 
+Happy to share experiences and tales from the trenches :)</description>
+      <twitter>@antonioabalos</twitter>
+      <linkedin>https://www.linkedin.com/in/antonioabalos</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@antonioabalos</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92490</importID>
+      <name>Håkon Lenschow</name>
+      <label>
+      </label>
+      <description>Håkon Lenschow is a consultant in the field Big Data  Modernization. He has expertise within SQL Server, data warehouse design, reporting and visualization. He is certified MCSE: Data Management and Analytics.
+
+He has the last year been working with hybrid data warehouse solutions, where the power of On-prem and Azure works as one.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/h%C3%A5kon-lenschow-266b6372/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>94191</importID>
+      <name>Cathrine Wilhelmsen</name>
+      <label>
+      </label>
+      <description>Cathrine loves teaching and sharing knowledge :) She is based in Norway and works as a Senior Business Intelligence Consultant in Inmeta, focusing on Data Warehousing, Data Integration, Analytics, and Reporting projects. Her core skills are Azure Data Factory, SSIS, Biml and T-SQL development, but she enjoys everything from programming to data visualization. Outside of work she's active in the SQL Server community as a Microsoft Data Platform MVP, BimlHero Certified Expert, author, speaker, blogger, organizer and chronic volunteer.</description>
+      <twitter>@cathrinew</twitter>
+      <linkedin>https://www.linkedin.com/in/cathrinewilhelmsen</linkedin>
+      <ContactURL>https://www.cathrinewilhelmsen.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@cathrinew</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89139</importID>
+      <name>John Martin</name>
+      <label>
+      </label>
+      <description>John Martin is a Data Platform Engineer working in the financial sector, as well as Vice President Marketing for the PASS organization and currently a Microsoft Data Platform MVP. Previously John has worked as a product manager for SentryOne and a Premier Field Engineer with Microsoft UK.
+
+John has over a decade of experience working with SQL Server and the Microsoft Data Platform. Working as a DBA, developer and consultant for Microsoft, he has been lucky enough to see how best, and how not, to use SQL Server and the Data Platform effectively.</description>
+      <twitter>SQLDiplomat</twitter>
+      <linkedin>http://uk.linkedin.com/in/johnqmartin/</linkedin>
+      <ContactURL>https://www.mssqltips.com/sqlserverauthor/291/john-martin/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLDiplomat</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88555</importID>
+      <name>Ben Watt</name>
+      <label>
+      </label>
+      <description>Ben came from a SQL Server developer background moving to Business Intelligence consulting in the UK, Australia and Switzerland and now Ireland.</description>
+      <twitter>@benrebooted</twitter>
+      <linkedin>https://www.linkedin.com/in/benonline/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@benrebooted</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92287</importID>
+      <name>Helge Rege Gårdsvoll</name>
+      <label>
+      </label>
+      <description>BI Architect at NHO and responsible for architecting and building data platform in Azure.</description>
+      <twitter>dataHelge</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://www.datahelge.no</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=dataHelge</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89030</importID>
+      <name>Jonathan Stewart</name>
+      <label>
+      </label>
+      <description>Jonathan Stewart is a Business Intelligence consultant specializing in data visualization, data warehousing, and data management technologies. An advocate for educating others, he is a public speaker, teacher and blogger, continually teaching people about the Microsoft BI Stack. Since 2000, he has been working in the database field with industry leaders in healthcare, manufacturing, financial, insurance and federal, state and local governments.
+
+Jonathan is very active in the community. He has presented on SQL Server, SSIS, Reporting Services, Power BI and Business Intelligence at numerous SQLSaturday events, local user groups, and conferences throughout the United States and around the world. He participates in webcasts, podcasts, and on</description>
+      <twitter>sqllocks</twitter>
+      <linkedin>https://www.linkedin.com/in/sqllocks/</linkedin>
+      <ContactURL>https://sqllocks.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqllocks</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98072</importID>
+      <name>SQLSaturday Oslo Sponsor</name>
+      <label>
+      </label>
+      <description>Proudly sponsoring SQLSaturday Oslo. Please see session details for more information about the speaker.</description>
+      <twitter>@SQLSatOslo</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLSatOslo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90198</importID>
+      <name>Jens Vestergaard</name>
+      <label>
+      </label>
+      <description>Jens performs the traditional BI disciplines from imports in Integration Services through data consolidation in Analysis Services, to report in Power BI or Reporting Services. Jens has worked with The Stack since SQL 2000 and has a core competence in Integration Services and Analysis Services. Along with the certified skills in Microsoft SQL Server, Jens has also worked with Microsoft .Net platform for more than 15 years and currently manages a BI Platform in Azure for the CatMan Solution application(s).</description>
+      <twitter>@vestergaardj</twitter>
+      <linkedin>http://dk.linkedin.com/in/jvestergaard</linkedin>
+      <ContactURL>http://www.t-sql.dk</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@vestergaardj</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88762</importID>
+      <name>Ida Bergum</name>
+      <label>
+      </label>
+      <description>Consultant in Avanade for the past 3 years. Experienced on Power BI, Analysis Services, Azure, solution architecture. Enjoy working strategical as well as technical. The intersection between business IT is very interesting. Love talking about Power BI and all of the amazing things you can do with it.</description>
+      <twitter>IdaBergum</twitter>
+      <linkedin>https://www.linkedin.com/in/idabergum/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=IdaBergum</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92460</importID>
+      <name>André Kamman</name>
+      <label>
+      </label>
+      <description>André Kamman is a DBA and SQL Server Solutions Architect for CloudDBA. He has done a lot of DBA work on 1000’s of servers where he discovered his love for Powershell, architecting SQL Server solutions, building and tuning ETL processes (with BIML). He also likes to work with MPP platforms APS and AzureDW. André is a Data Platform MVP, Dutch PASS Chapter Leader and organiser of SQL Saturday Holland.</description>
+      <twitter>@andrekamman</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://andrekamman.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@andrekamman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90575</importID>
+      <name>Mikael Wedham</name>
+      <label>
+      </label>
+      <description>Mikael Wedham is the first SQL Server MCM in Sweden and the only one who also is a Microsoft Certified Trainer. He has been paid to do things in SQL Server since 1993. His long experience makes him an appreciated speaker at events and conferences all over Europe. To be prepared for deep dives, he is also certified as an Open Water Scuba Instructor.</description>
+      <twitter>@wedham</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.wedham.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@wedham</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92479</importID>
+      <name>Gabi Münster</name>
+      <label>
+      </label>
+      <description>Gabi Münster is working as a Business Intelligence consultant and team lead and brings in her experience with SQL Server, data warehousing, relational and multidimensional database design and implementation, report and dashboard design, and Master Data Services, as well as project management into the community as a regional PASS Local Group lead. She is also passionate about motivating other women to start a technical career and therefore initiates and supports "Women in Technology" events. Apart from SQLSaturdays, she also spoke at SQLBits, SQL Nexus, Tuga IT, and 2015's and 2017's PASS Summit. In October 2017 Gabi received her first Data Platform MVP award.</description>
+      <twitter>@SQLMissSunshine</twitter>
+      <linkedin>https://www.linkedin.com/in/gabimuenster/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLMissSunshine</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92593</importID>
+      <name>Grant Fritchey</name>
+      <label>
+      </label>
+      <description>Grant Fritchey is a Data Platform MVP with over 20 years’ experience in IT, including time spent in support and development. He has worked with SQL Server since 6.0 back in 1995. He has also developed in VB, VB.NET, C#, and Java. Grant has written books for Apress and Simple-Talk. Grant presents at conferences and user groups, large and small, all over the world. He joined Redgate Software as a product evangelist in January 2011.</description>
+      <twitter>@gfritchey</twitter>
+      <linkedin>http://www.linkedin.com/in/scarydba</linkedin>
+      <ContactURL>http://scarydba.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@gfritchey</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>91151</importID>
+      <name>Allen White</name>
+      <label>
+      </label>
+      <description>Allen White is a Data Platform consultant. He has been both a developer and an administrator, so he understands both perspectives towards database technology. He loves sharing his experiences and helping people learn how to use SQL Server. Allen has spent over 40 years in IT, using SQL Server since 1992, and has been awarded Microsoft’s MVP Award for the last 13 years. Allen was a PASS Director from 2016 - 2018.</description>
+      <twitter>SQLRunr</twitter>
+      <linkedin>http://www.linkedin.com/pub/allen-white-sql-server-mvp/5/784/b08/</linkedin>
+      <ContactURL>http://dataperfpro.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLRunr</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>91867</importID>
+      <name>Thomas Hütter</name>
+      <label>
+      </label>
+      <description>Thomas holds a degree in Business Administration, but has been a data explorer and a developer at heart ever since the days of dBase and Turbo Pascal. He touched his first SQL Server at V6.5 and used covering indexes before they became a feature.
+
+Thomas has been developing in Navision/Dynamics/Business Central systems for quite some time (since 2001, one year before MS acquired Navision), joined PASS in 2006 and got his hands on R in 2014 (the year before MS bought Revolution Analytics). He has worked for ISVs as well as end-user companies, as a developer, consultant, accidental DBA and is an author for data-related articles as well as a speaker at SQL events across Europe.</description>
+      <twitter>DerFredo</twitter>
+      <linkedin>https://de.linkedin.com/in/derfredo</linkedin>
+      <ContactURL>https://sqlfredo.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DerFredo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89129</importID>
+      <name>Alexander Arvidsson</name>
+      <label>
+      </label>
+      <description>Alexander is a principal solutions architect at Solution Xperts in Linköping, Sweden. Nobody really knows what it means to be a principal solutions architect, but he spends his days helping clients of all shapes and sizes to take better care of their data. 
+
+He has spent the last 23 years toying with databases and related infrastructure services such as storage, networking and virtualization, occasionally emerging from the technical darkness to attend a Star Wars convention somewhere in the world.  
+
+He is a frequent international speaker, a Data Platform MVP, podcaster, blogger and a Microsoft Certified Trainer, focusing on SQL Server, the Azure data stack and Power BI.</description>
+      <twitter>arcticdba</twitter>
+      <linkedin>https://www.linkedin.com/in/alexanderarvidsson</linkedin>
+      <ContactURL>http://www.arcticdba.se</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=arcticdba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90606</importID>
+      <name>Jeroen Bosems</name>
+      <label>
+      </label>
+      <description>Currently working at Inmeta in Oslo, I'm working hard on sharing knowledge on everything BI and Data Development. Worked in production environments and finance among others and noticed how Data can help business processes get better and better. Right now trying to focus on bridging the gap between business and development, so that we can all work as a team on finding proper business solutions.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88960</importID>
+      <name>Isabelle Van Campenhoudt</name>
+      <label>
+      </label>
+      <description>Isabelle Van Campenhoudt is a system engineer (MCSE; MVP SQL Server) who has been working for more than 15 years in the world of databases; she lives in Belgium; Isabelle has strong experience in Business Intelligence. Trainer (Microsoft Certified Trainer), speaker and consultant, she used to collaborate with developers; infra (design and performance). She is also a teacher at EPHEC (Brussels) for the Bachelor of Computer Science curriculum. Isabelle is co-founder of CLUG; V-chapter Francophone</description>
+      <twitter>@thesqlgrrrl</twitter>
+      <linkedin>http://be.linkedin.com/pub/isabelle-van-campenhoudt/2/558/52b/</linkedin>
+      <ContactURL>http://thesqlgrrrl.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@thesqlgrrrl</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88685</importID>
+      <name>Sander Stad</name>
+      <label>
+      </label>
+      <description>Sander is a SQL Server DBA with over 15 years of experience in IT. 
+He has worked with SQL Server since version 2000 and is a PowerShell enthusiast.</description>
+      <twitter>@SQLStad</twitter>
+      <linkedin>https://nl.linkedin.com/in/sanderstad</linkedin>
+      <ContactURL>http://www.sqlstad.nl</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLStad</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90941</importID>
+      <name>Andrew Pruski</name>
+      <label>
+      </label>
+      <description>SQL Server DBA with over 10 year's experience. Originally from Wales but now living in Ireland</description>
+      <twitter>https://twitter.com/DBAFromTheCold</twitter>
+      <linkedin>https://www.linkedin.com/in/andrewpruski</linkedin>
+      <ContactURL>https://dbafromthecold.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/DBAFromTheCold</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92492</importID>
+      <name>Adam Marshall</name>
+      <label>
+      </label>
+      <description>Senior Consultant working with Business Intelligence and Advanced Analytics solutions in EVRY, specialising in Microsoft BI stack: Power BI, Power Query, Powerpivot, Excel. Qualified Management Accountant with a broad background from various functions including Finance, Project Management, and Sales  Marketing, in both the UK and Norway.</description>
+      <twitter>@adam_a_marshall</twitter>
+      <linkedin>https://www.linkedin.com/in/adam-marshall-32413444/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@adam_a_marshall</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>88555</importID>
+      <speakers>
+        <speaker>
+          <id>88555</id>
+          <name>Ben Watt</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Valhalla</name>
+      </location>
+      <title>An IoT/BI/AI session - from Raspberry Pi to Power BI and lots in between</title>
+      <description>In this session Ben will walk you through a home-made IoT project with the data ultimately landing in Power BI for visualisation. A Raspberry Pi is the IoT device, with sensors and camera attached to give an end-to-end streaming solution. 
+
+You will see Python used to run the program and process the images. Microsoft Azure plays its part where Microsoft Cognitive Services enriches the images with facial attributes and recognition, Azure SQL stores the metadata, Azure Blob storage holds the images, Power BI visualises the activity and Microsoft Flow sends mobile notifications. You'll see enough to walk out and get your own project started straight away!
+
+This is a demo heavy session and audience interaction is key!</description>
+      <startTime>8/31/2019 3:15:00 PM</startTime>
+      <endTime>8/31/2019 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>89179</importID>
+      <speakers>
+        <speaker>
+          <id>89179</id>
+          <name>Hugo Kornelis</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Jotunheim</name>
+      </location>
+      <title>Execution plans ... where do I start?</title>
+      <description>SQL (the language) is not a third generation language, where the developer tells the computer every step it needs to take. It is a declarative language that specifies the required results. SQL Server itself will figure out what steps it takes to get to those results. Most of the time, that works very well.
+
+But sometimes it doesn't. Sometimes a query takes too much time. You need to find out why, so you can fix it. That's where the execution plan comes in. In the execution plan, SQL Server exposes exactly which steps it took for your query, so you can see why it's slow.
+
+However, execution plans can be daunting to the uninitiated. Especially for complex queries. Where do you even start?
+
+In this session you will learn how to obtain execution plans. and how to start reading and understanding them.</description>
+      <startTime>8/31/2019 3:15:00 PM</startTime>
+      <endTime>8/31/2019 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>88960</importID>
+      <speakers>
+        <speaker>
+          <id>88960</id>
+          <name>Isabelle Van Campenhoudt</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Bifrost</name>
+      </location>
+      <title>Power BI server and Office Online server, modernize your on-premises BI approach.</title>
+      <description>Your company is not-yet- ready for the cloud ?
+ How to refresh your BI solution by providing the beauty of Power BI reports on premises and the ability from the same place to consume your legacy reports or to share efficiently your data model through a unique place. Demo based session with a strong architecture introduction and a "from the field" real project feedback.This session will explore all the possibilities offered by Power Bi Report server:
+What are the difference with the classical SQL Server Report Server ? 
+What is the difference with Power BI Service ?
+What kind of data sources are used ? How to manage the refresh ?
+What infrastructure is needed to make it working ? How to manage the authentication from the data source to the report ?</description>
+      <startTime>8/31/2019 3:15:00 PM</startTime>
+      <endTime>8/31/2019 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>89483</importID>
+      <speakers>
+        <speaker>
+          <id>89483</id>
+          <name>Margarita Naumova</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Jotunheim</name>
+      </location>
+      <title>Practical Adaptive Query Processing in SQL Server 2019</title>
+      <description>An improvement of cardinality estimation is something we try to find in every next version of SQL Server. Even with all the improvements the SQL Server 2014 Query Processor gained, we still need to deal with Hash and Sort Warnings, extremely high or low Memory grants, or the well-known User Defined Functions performance issues. That’s why we are so existed to find the new wave of adaptive query processing improvements to handle the more intractable cardinality estimation issues that often result in a poor query performance. Join me in this demo rich session to find what’s in Adaptive QP for you and how it affects your queries and workload. You will find answers of questions like is there a reason to migrate my database to SQL Server 2017 or 2019, what it will bring for my workload.</description>
+      <startTime>8/31/2019 4:30:00 PM</startTime>
+      <endTime>8/31/2019 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>89052</importID>
+      <speakers>
+        <speaker>
+          <id>89052</id>
+          <name>Erland Sommarskog</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Jotunheim</name>
+      </location>
+      <title>Don't Bite Off More Than You Chew - Take It in Chunks</title>
+      <description>Any SQL programmer with some experience knows that loops are bad and that you should work with all data at once in set-based statements. However, you may have experienced situations where this strategy did not work out well and you ran into problems like out-growing the transaction log or blocking other users.
+
+You can solve this by operating on the data in chunks. Implementing chunking is not that difficult, but there are still pitfalls you can run into. In this session, I will discuss in what situations you may want to use chunking. I will give some best practices for how to implement chunking for good performance and I will highlight some things you need keep in mind, for instance, recovering from interruptions.
+
+I will also look at how you can use chunking for error handling: You want process many rows and you want the good rows to succeed even if some rows yield errors - something you cannot do in a single set-based statement.</description>
+      <startTime>8/31/2019 11:45:00 AM</startTime>
+      <endTime>8/31/2019 12:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>89811</importID>
+      <speakers>
+        <speaker>
+          <id>89811</id>
+          <name>Marc Lelijveld</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Bifrost</name>
+      </location>
+      <title>End-to-end monitoring for a successful Power BI implementation</title>
+      <description>Implementing Power BI in your organisation is more then allowing people to download Power BI desktop and publish reports to the Power BI Service. People have to be aware of what Power BI is able to achieve for them! But how do you know who is creating what? Using what? Or maybe even more important, sharing (confidential) information with others? 
+
+With a Power BI end-to-end monitor you will be able to monitor all Power BI content allover your tenant. These actionable insights will help you to see who needs some extra help, but also in governing your data solutions within your organisation. 
+
+In this session I will show you which insights you will get with an end-to-end monitor and how you can monitor your own Power BI environment.</description>
+      <startTime>8/31/2019 10:30:00 AM</startTime>
+      <endTime>8/31/2019 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>89280</importID>
+      <speakers>
+        <speaker>
+          <id>89280</id>
+          <name>Kellyn Pot'Vin-Gorman</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Bifrost</name>
+      </location>
+      <title>Taming of the Shrew - Optimizing Power BI</title>
+      <description>No one wants to tell a report user that while running a report in Power BI they have time to go get a cup of coffee…in another town.  Although data sets will often be the focus of performance issues, it’s important to know how to locate performance problems in Power BI and how to eliminate them.  
+
+This session will take the Power User through how to identify time consuming processing in Power BI and how to address it through step-by-step and proven methods used to optimize in multi-tier environments.  This method removes frustration and finger-pointing and gets to the heart of the problem with a goal of correcting performance challenges.  The results are satisfied end users who get the information they need, when they need it.
+
+Take Aways:
+Learn how to identify what is taking the time in a Power BI data set and report.
+Understand the logging and tracing mechanisms and capabilities in the environment.
+Understand when a problem is really a problem.</description>
+      <startTime>8/31/2019 4:30:00 PM</startTime>
+      <endTime>8/31/2019 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90606</importID>
+      <speakers>
+        <speaker>
+          <id>90606</id>
+          <name>Jeroen Bosems</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Yggdrasil</name>
+      </location>
+      <title>Applying Agile in Business Intelligence</title>
+      <description>In this presentation, we will be discussing the merits of Agile processes in Business Intelligence (BI) development. 
+First of all the focus will be on explaining the differences between Agile methodology and Waterfall processes in BI and why Agile is here to stay. 
+Agile requires a specific mindset in BI projects due to being full stack and we give pointers on what rules can make your communication with the business more fluent. 
+This will include the value of maintaining live documentation for both business and developer.
+We then look at technical limitations for implementing Agile that are specific to BI and how to overcome these. 
+Following this, we can describe how we're pragmatically going to apply these principles, and elaborate on splitting up the scopes in a project (staging, Data Warehouse, and reporting layers). 
+By the end of this session, you will have a better understanding of Agile development in BI, and some tools of how to apply this to your day to day operations.</description>
+      <startTime>8/31/2019 11:45:00 AM</startTime>
+      <endTime>8/31/2019 12:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>89129</importID>
+      <speakers>
+        <speaker>
+          <id>89129</id>
+          <name>Alexander Arvidsson</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Valhalla</name>
+      </location>
+      <title>Azure Machine Learning for the absolute beginner</title>
+      <description>Machine learning is one of the hottest trends on the market. According to the popular belief, machine learning will help you do everything from water your plants to help run your multi-million dollar company. Some of the hype is true, much of it is false.  But what IS machine learning - really? How can it be used? What questions can it answer? Har hard is it to get started?
+Join Alexander for a session that will give you a thorough overview of what machine learning tools are available in Azure, how to actually find any use for machine learning, what preconceptions are wrong and how to get started on your first machine learning project.</description>
+      <startTime>8/31/2019 9:15:00 AM</startTime>
+      <endTime>8/31/2019 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>90198</importID>
+      <speakers>
+        <speaker>
+          <id>90198</id>
+          <name>Jens Vestergaard</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Bifrost</name>
+      </location>
+      <title>ABC's of the Power BI REST API</title>
+      <description>In this session we will be looking into managing our Power BI content using only the Power BI REST API. While the Power BI REST API is extensive, we will be limiting this session on the following sections of interest: Dashboards, Datasets, Reports  Groups.
+	• How many Dashboards are there in a workspace?
+	• Which Datasource is this Dataset configured to use?
+	• Who is allowed to see this Report?
+	• Can I take ownership of this Dataset?
+	• How do I resfresh my Dataset?
+	• Is my Dataset refreshing on a schedule?
+	• ...
+Those are just some of the questions we will find the answers to.
+
+Examples will be provided in Powershell, which may require minute skills up front. Not to worry, a quick intro will be provided as well.
+Attending this session will make you familiar with the Power BI REST API and provide you with guidance on how to manage the most common tasks in Power BI.</description>
+      <startTime>8/31/2019 11:45:00 AM</startTime>
+      <endTime>8/31/2019 12:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>91673</importID>
+      <speakers>
+        <speaker>
+          <id>91673</id>
+          <name>Wolfgang Strasser</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Bifrost</name>
+      </location>
+      <title>The Microsoft Power Platform - What is it?</title>
+      <description>May I introduce you to the Microsoft Power Platform!? 
+This new term was introduced by Satya Nadella and James Philips as the serving foundation for building powerful (cloud-baked) applications. PowerApps as the data manipulation part, Microsoft Flow as the connecting workflow engine and Power BI for analysis and reporting. In addition, the Common Data Service (CDS) and the Common Data Model (CDM) provide a solid framework for data storage and modelling.
+Join me in this session if you want to get an overview about the involved technologies, how they work together, see them live  working together in many demos and how they will definitely change the way of building powerful solutions in the future!</description>
+      <startTime>8/31/2019 2:00:00 PM</startTime>
+      <endTime>8/31/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90244</importID>
+      <speakers>
+        <speaker>
+          <id>90244</id>
+          <name>Markus Ehrenmueller-Jensen</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Valhalla</name>
+      </location>
+      <title>A Game of Hierarchies: Introduction to Graph Processing with SQL Server 2019</title>
+      <description>Hierarchies are the bread and butter of most business applications and you find them almost everywhere:
+* Product Categories
+* Sales Territories
+* Bill of Material
+* Calendar and Time
+Even when there is a big need from a business perspective, the solutions in relational databases are mostly sort of awkward. The most flexible hierarchies are usually modeled as self-referenced tables. If you want to successfully query such self-referenced hierarchies, you will need either loops or recursive Common Table Expressions. SQL Server 2017 brought us Graph Database and the MATCH clause and SQL Server 2019 comes with further improvements.
+Join this session for a journey through best practices to transform your hierarchies into useful information. We will have fun playing around with a sample database based on G. R. R. Martin’s famous “Game of Thrones”.</description>
+      <startTime>8/31/2019 2:00:00 PM</startTime>
+      <endTime>8/31/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>92490</importID>
+      <speakers>
+        <speaker>
+          <id>92490</id>
+          <name>Håkon Lenschow</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Asgard</name>
+      </location>
+      <title>Azure Machine Learning Services and Kubernetes – Taking models into production</title>
+      <description>On December 2018 Microsoft announced the general availability of Azure Machine Learning Services. This component contains many advanced capabilities designed to simplify and accelerate the process of building, training, and deploying machine learning models. In combination with Azure Kubernetes Services it has never been easier to facilitate everything from development to operation for machine learning models within Azure.
+
+In this session we will go in depth in both components with demos from a machine learning project from Bane NOR. We will also discuss different Machine learning framework in Azure, and how Azure stands as a Machine Learning platform compared to its biggest competitors.</description>
+      <startTime>8/31/2019 4:30:00 PM</startTime>
+      <endTime>8/31/2019 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>92262</importID>
+      <speakers>
+        <speaker>
+          <id>92262</id>
+          <name>Marek Jablonski</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>Midgard</name>
+      </location>
+      <title>SQL Server database perfomance on Azure, Google and AWS cloud platform</title>
+      <description>The popular image of cloud services is both attractive and enticing. Your systems can run seamlessly at peak performance anywhere in the world, and It is natural to assume that the performance of cloud services is identical and stable, regardless of whether it’s located.
+To confirm if this is really the case, a series of performance tests were conducted on Microsoft SQL Server in three different locations and on three different cloud platforms: Azure, AWS and Google. We also compeer the results, from three Azure Service tiers (Basic 5 DTU, Standard S3 100 DTU and Premium P2 250 DTU) with previous tests from December 2016 and March 2018.
+
+We will present the test methods and the results and findings.
+Based on our measurements we have seen:
+
+-	Significant variations in performance between the different geographical locations
+-	Significant variations in performance for the same database at different times
+-	Surprisingly poor performance of Azure Basic and Standard tiers</description>
+      <startTime>8/31/2019 2:00:00 PM</startTime>
+      <endTime>8/31/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>91624</importID>
+      <speakers>
+        <speaker>
+          <id>91624</id>
+          <name>Daniel Hutmacher</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Jotunheim</name>
+      </location>
+      <title>Not just polish – How good code also runs faster</title>
+      <description>I want to show you how just a little neater and tighter code can also run a lot faster. These are some of the instant performance improvements that won’t change a lot of code, won’t generate weeks of testing and validation for your colleagues, and can be relatively quick to implement.
+
+But most of all, they’ll make the code prettier and easier to understand for the next person.
+
+We’ll look at common ways that null values, implicit datatype conversions and foreign key constraints can radically affect the performance of your queries. Inspired by an actual client case, where I tuned a 20 hour query down to a few minutes, with only a minor code change.
+
+This presentation is all-code, some execution plans, and no-powerpoint.</description>
+      <startTime>8/31/2019 9:15:00 AM</startTime>
+      <endTime>8/31/2019 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>92460</importID>
+      <speakers>
+        <speaker>
+          <id>92460</id>
+          <name>André Kamman</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Asgard</name>
+      </location>
+      <title>ETL with Azure Databricks, The Complete Introduction</title>
+      <description>Azure Databricks seems to be the new sheriff in town. It promises easy but capable ETL (amongst other things). But how does it work? For an SSIS (and possibly BIML) person this all looks new and strange. Python notebooks? Scala? Spark? What is all this, and where do I start? Well, you start by coming to this presentation. We’ll take a look at how to approach making an Azure Databricks based ETL solution from start to finish. Along the way it will become clear how Azure Databricks works and we will use our SSIS based ETL knowledge to see if it can handle the common use-cases from our daily jobs. And of course we will also have some fun and see how fast it can go!</description>
+      <startTime>8/31/2019 11:45:00 AM</startTime>
+      <endTime>8/31/2019 12:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>92361</importID>
+      <speakers>
+        <speaker>
+          <id>92361</id>
+          <name>Bartosz Ratajczyk</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Midgard</name>
+      </location>
+      <title>First steps with SQL Server on Docker</title>
+      <description>Containers are gathering more and more attention. Wherever you take a look at - you have them. SQL Server 2019 introduces Big Data Clusters that utilise Kubernetes to orchestrate SQL Server, Spark and HDFS containers. Starting with SQL Server Express 2014 each next version of SQL Server is available as a Docker container. If your contact with containers technology was somehow limited - it's time to change that.
+ 
+Join me in the session where I will introduce you to the Docker containers world. You will see their phenomena and will take a look at how you can start using them in your work. During the hour we will start from the beginnings, through use cases, to configuring custom SQL Server environment within minutes and starting it in seconds. We will focus on SQL Server, but also take a look at the other applications.</description>
+      <startTime>8/31/2019 9:15:00 AM</startTime>
+      <endTime>8/31/2019 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>89030</importID>
+      <speakers>
+        <speaker>
+          <id>89030</id>
+          <name>Jonathan Stewart</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Jotunheim</name>
+      </location>
+      <title>Data Visualization: How to truly tell a great story!</title>
+      <description>We have more information available to us today than ever before. So much so that we run the risk of not being able to tell concise stories. There's a lot more to creating that story than just getting the correct information. Come learn not just the do's and don'ts, but the whys…</description>
+      <startTime>8/31/2019 2:00:00 PM</startTime>
+      <endTime>8/31/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>92593</importID>
+      <speakers>
+        <speaker>
+          <id>92593</id>
+          <name>Grant Fritchey</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Yggdrasil</name>
+      </location>
+      <title>SQL Injection: What Is It, Prevent It, Monitor For It!</title>
+      <description>This session will explain and demonstrate exactly how a SQL Injection attack occurs. While the core vulnerability is easy to understand, exactly how hackers exploit that vulnerability is not. I'll show you how a hacker explores your database through SQL Injection to find vulnerabilities and sensitive data. Better still, I'll show you the errors that this exploration generates, providing a mechanism for monitoring your systems to identify SQL Injection attacks. Finally, I'll show you the steps you should be taking to properly secure your systems in order to completely avoid SQL Injection attacks. SQL Injection is considered the primary vulnerability for most systems today. Learn how to protect yourself and your organization.</description>
+      <startTime>8/31/2019 2:00:00 PM</startTime>
+      <endTime>8/31/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>94191</importID>
+      <speakers>
+        <speaker>
+          <id>94191</id>
+          <name>Cathrine Wilhelmsen</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Asgard</name>
+      </location>
+      <title>Building Dynamic Data Pipelines in Azure Data Factory</title>
+      <description>You already know how to build, orchestrate, and monitor data pipelines in Azure Data Factory. But how do you go from basic, hardcoded data pipelines to making your solution dynamic and reusable?
+
+In this session, we will dive straight into some of the more advanced features of Azure Data Factory. How do you parameterize your linked services, datasets, and pipelines? What is the difference between parameters and variables, and when should you use them? And how does the expression language and built-in functions really work?
+
+We will answer these questions by going through an existing solution step-by-step and gradually making it dynamic and reusable. Along the way, we will cover best practices and lessons learned.</description>
+      <startTime>8/31/2019 3:15:00 PM</startTime>
+      <endTime>8/31/2019 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>92492</importID>
+      <speakers>
+        <speaker>
+          <id>92492</id>
+          <name>Adam Marshall</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Asgard</name>
+      </location>
+      <title>Tools and techniques for managing big data with Power BI.</title>
+      <description>I've had the pleasure of working on an IoT project recently, which has meant having to make critical decisions related to managing the large data size with Power BI. Power BI has come with various offerings to tackle this challenge, including composite models, aggregations and incremental refresh. I would like to share my experience of working with these new features.</description>
+      <startTime>8/31/2019 9:15:00 AM</startTime>
+      <endTime>8/31/2019 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>96549</importID>
+      <speakers>
+        <speaker>
+          <id>96549</id>
+          <name>SQLSaturday Oslo Sponsor</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Midgard</name>
+      </location>
+      <title>Managing SQL Server Farms VS SQL Server instances by dbWatch</title>
+      <description>The sheer size and complexity of many of todays SQL server sites brings new challenges to the DBA that begs for new tools and solutions. Per Undheim will present a number of techniques and tools we use to obtain overviews and manage large SQL server farms.</description>
+      <startTime>8/31/2019 1:00:00 PM</startTime>
+      <endTime>8/31/2019 1:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>91867</importID>
+      <speakers>
+        <speaker>
+          <id>91867</id>
+          <name>Thomas Hütter</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Valhalla</name>
+      </location>
+      <title>"Can I join you?", one table asked the other</title>
+      <description>So you have your database beautifully set up according to Codd. What do you need when you have to retrieve data from related tables? Most probably a JOIN operator, but which one?
+
+Fom LEFT to RIGHT, when is it INNER and when OUTER? Is a CROSS JOIN something NATURAL? And why may ANTI yield more results than SEMI...? How and when do their buddies MERGE, HASH and NESTED LOOP get to participate? 
+
+We'll have demos for all of this on well-known databases. And if all that doesn't make your head dizzy enough, I might even throw in some CROSS and OUTER APPLY.</description>
+      <startTime>8/31/2019 10:30:00 AM</startTime>
+      <endTime>8/31/2019 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>92049</importID>
+      <speakers>
+        <speaker>
+          <id>92049</id>
+          <name>Rob Sewell</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Yggdrasil</name>
+      </location>
+      <title>SQL Notebooks in Azure Data Studio for the DBA</title>
+      <description>An Azure Data Studio recent release introduced SQL Notebooks as a capability.
+
+While you might have read about notebooks being used for Data Science, this session is for DBAs. You will see how you can use SQL Notebooks to simplify your work.
+
+You will learn about SQL Notebooks from installing them in Azure Data Studio to creating a Notebook for Glenn Berry's Diagnostic queries as well as numerous use cases for you to use in your daily workload</description>
+      <startTime>8/31/2019 3:15:00 PM</startTime>
+      <endTime>8/31/2019 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>89123</importID>
+      <speakers>
+        <speaker>
+          <id>89123</id>
+          <name>Frank Geisler</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Midgard</name>
+      </location>
+      <title>Use Docker to Deploy SQL Server Applications</title>
+      <description>Docker can not only be used for testing purposes, but also for deploying applications. The big advantage for the customer of the application is that nothing has to be installed, there are no obstacles to the application running in the given environment etc. because the environment is defined by the developer. German Data Platform MVP Frank Geisler will show how all of this can be achieved by using docker. There will be plenty of demos in which all the necessary steps will be shown.</description>
+      <startTime>8/31/2019 10:30:00 AM</startTime>
+      <endTime>8/31/2019 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>98243</importID>
+      <speakers>
+        <speaker>
+          <id>98243</id>
+          <name>SQLSaturday Oslo Sponsor</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Asgard</name>
+      </location>
+      <title>Include Power BI metadata in Xpert BI by BI-Builders</title>
+      <description>Does your organisation have a lot of Power BI reports? How do you have control over which data sources are used in which report to keep compliant with both internal and external policies?
+
+This session will give insights into the lates features of the Xpert BI Solution Catalog, which includes controlling the enterprise Power BI environment.  This functionality is to be released this fall and the session will be a sneak-peak of what to expect.
+
+*gives end-to-end data lineage
+
+*document reports, tables and columns
+
+*generate metadata reports of the Power BI.com enterprise environment</description>
+      <startTime>8/31/2019 1:20:00 PM</startTime>
+      <endTime>8/31/2019 1:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>88762</importID>
+      <speakers>
+        <speaker>
+          <id>88762</id>
+          <name>Ida Bergum</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Bifrost</name>
+      </location>
+      <title>Power BI Automation with Microsoft Flow</title>
+      <description>In this session I will cover useful API operations in the Power BI API and present rich demoes on how you can use Microsoft Flow to automate Power BI tasks; Trigger a refresh of a dataset, get refresh of dataset and post to Teams and Automation of managing Premium Capacities</description>
+      <startTime>8/31/2019 9:15:00 AM</startTime>
+      <endTime>8/31/2019 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>89031</importID>
+      <speakers>
+        <speaker>
+          <id>89031</id>
+          <name>Jonathan Stewart</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Valhalla</name>
+      </location>
+      <title>Now you see it, but did you really?  Correcting visual fallacies...</title>
+      <description>Humans see images 60,000x better than text but are we always seeing what is being shown?  In this talk, we will look at ways a visual designer can intentionally or unintentionally confuse readers by using techniques that are common but not correct.  We will discuss topics such as color theory, chart selection and placement among others.  Come join us to learn what makes a visualization clear and learn how to convey your story.</description>
+      <startTime>8/31/2019 11:45:00 AM</startTime>
+      <endTime>8/31/2019 12:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98099</importID>
+      <speakers>
+        <speaker>
+          <id>98099</id>
+          <name>SQLSaturday Oslo Sponsor</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Asgard</name>
+      </location>
+      <title>Add rockets to your database with Hyperscale by Microsoft</title>
+      <description>What’s the hype about Hyperscale? In this lunch session we will explain the tech behind Azure SQL DB Hyperscale, and compare it with other scalable Azure database services such as Azure SQL Data Warehouse, PostgreSQL Hyperscale (Citus), and Snowflake. This talk will be fast, fun, and highly technical.
+
+Speaker: Jon Jahren, Senior Cloud Solution Architect (Data Platform), Microsoft Norway</description>
+      <startTime>8/31/2019 1:00:00 PM</startTime>
+      <endTime>8/31/2019 1:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>92479</importID>
+      <speakers>
+        <speaker>
+          <id>92479</id>
+          <name>Gabi Münster</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Yggdrasil</name>
+      </location>
+      <title>Continuous Intelligence... What's this all about?</title>
+      <description>Continuous Intelligence combines the terms of Continuous Integration and Business Intelligence and aims for defining and implementing processes to keep your implementation and deployment processes for your BI applications flexible and as seamless as possible.
+Even in the near past support for CI processes of BI projects was almost not there. But the last few years brought some changes to the perception of this topic and shifted the mindset.
+Let's look at advantages and challenges for CI in BI and at possibilities to implement such a process for Analysis Services.</description>
+      <startTime>8/31/2019 10:30:00 AM</startTime>
+      <endTime>8/31/2019 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>89139</importID>
+      <speakers>
+        <speaker>
+          <id>89139</id>
+          <name>John Martin</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Midgard</name>
+      </location>
+      <title>Making Managed Instance Perform, a dive into storage.</title>
+      <description>Moving to the cloud means that we need to take a different approach when it comes to how we design and tune databases. Managed Instance is a case in point, get the storage configuration wrong and it will not perform. Together we will look at the storage options and architecture for Managed Instance before demonstrating how to get tune the storage layer to get the performance we need. Of course none of this is any use without knowing what level of performance you need so we will look at how you can get this information before you start testing.</description>
+      <startTime>8/31/2019 3:15:00 PM</startTime>
+      <endTime>8/31/2019 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90579</importID>
+      <speakers>
+        <speaker>
+          <id>90579</id>
+          <name>Antonio Abalos Castillo</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Yggdrasil</name>
+      </location>
+      <title>Azure SQL and Automation, how to keep your database up-to-speed in the cloud</title>
+      <description>While the typical DBA role is being assigned to mission-critical databases, we developers, still need to plan for some basic database maintenance. 
+During this session, we will review the typical maintenance activities that need to be taken in Azure SQL and how to make sure they execute on a regular basis, without a higher cost and with low supervision effort. Several demos will also be reviewed to show the usage and potential of these techniques.</description>
+      <startTime>8/31/2019 9:15:00 AM</startTime>
+      <endTime>8/31/2019 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>98072</importID>
+      <speakers>
+        <speaker>
+          <id>98072</id>
+          <name>SQLSaturday Oslo Sponsor</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Jotunheim</name>
+      </location>
+      <title>SQL Server Auditing and Compliance with Quest</title>
+      <description>In this Quest presentation we shall take a quick look at SQL server auditing options for compliance purposes. With PII data and GDPR what are DBAs doing to ensure their sensitive data is secure and only used by the appropriate personnel or applications. Is it the DBA’s role to self-police and demonstrate compliance to the auditors? This short presentation will look at various options for auditing and reporting.</description>
+      <startTime>8/31/2019 1:00:00 PM</startTime>
+      <endTime>8/31/2019 1:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90373</importID>
+      <speakers>
+        <speaker>
+          <id>90373</id>
+          <name>Alexander Klein</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Asgard</name>
+      </location>
+      <title>BI in Azure one year live</title>
+      <description>After more than one year live with BI in Azure Alexander Klein would like to give an honest feedback. 
+
+Which architecture is the right one? Which tools/services should I use ( Azure Data Factory V1 or V2, Azure Stream Analytics, Logic Apps, Azure Functions, Azure SQL DB, Azure SQL DW, Azure Analysis Service, Azure Data Lake, Power BI, ...) ?
+What was good and what wasn't so good? What do you have to pay attention to? What can you possibly do better in the next project?
+
+Alexander Klein will answer all these questions and more in this presentation.</description>
+      <startTime>8/31/2019 10:30:00 AM</startTime>
+      <endTime>8/31/2019 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>92287</importID>
+      <speakers>
+        <speaker>
+          <id>92287</id>
+          <name>Helge Rege Gårdsvoll</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Asgard</name>
+      </location>
+      <title>Beyond orchestration with Azure Data Factory</title>
+      <description>Back in the old days Azure Data Factory could only trigger data transformation from Azure Batch Service or Data Lake Analytics. With ADFv2 you now have options with SSIS, Mapping Data Flows or Databricks notebooks. This session shows you the strengths and weaknesses of the various approaches and some demos to showcase how to make your choice of data transformation tool in Azure Data Factory.</description>
+      <startTime>8/31/2019 2:00:00 PM</startTime>
+      <endTime>8/31/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90941</importID>
+      <speakers>
+        <speaker>
+          <id>90941</id>
+          <name>Andrew Pruski</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Midgard</name>
+      </location>
+      <title>SQL Server  Kubernetes</title>
+      <description>Running SQL Server in containers has huge benefits for Data Platform professionals but there are challenges to running SQL Server in stand alone containers. Orchestrators provide a platform and the tools to overcome these challenges.
+
+This session will provide an overview of running SQL Server in Kubernetes, which is the leading orchestrator.
+
+Topics covered will be: -
+An overview of Kubernetes.
+Definition of pods and services.
+Deploying SQL Server containers to Kubernetes.
+Persisting data for SQL Server in Kubernetes.
+
+This session is aimed at SQL Server DBAs and Developers who want to learn the what, the why, and the how to run SQL Server in Kubernetes.</description>
+      <startTime>8/31/2019 11:45:00 AM</startTime>
+      <endTime>8/31/2019 12:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90575</importID>
+      <speakers>
+        <speaker>
+          <id>90575</id>
+          <name>Mikael Wedham</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Jotunheim</name>
+      </location>
+      <title>A Masters view on Locking and blocking</title>
+      <description>How do the wait stats show you that you have a locking issue?
+This session will show you how to detect and view blocking and lock waits, and understand the cause of it.
+An extensive walkthrough of the different isolation levels and their respective benefits and drawbacks.
+And finally a real-world quick list of suggestions on what you can do to solve some of the common issues I come across in my daily work.</description>
+      <startTime>8/31/2019 10:30:00 AM</startTime>
+      <endTime>8/31/2019 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>88685</importID>
+      <speakers>
+        <speaker>
+          <id>88685</id>
+          <name>Sander Stad</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Yggdrasil</name>
+      </location>
+      <title>Mask That Data!</title>
+      <description>Within your company you probably have your production data on non-production systems.
+You need data for development, reporting or a devops related scenario.
+
+Data breaches happen more often than ever.
+
+Data that's not on production systems should be masked.
+Especially when you're dealing with regulations like GDPR and HIPAA, you should know how to prevent attackers from acquiring your production data.
+
+In this session will talk about we need to know about data masking.
+Which types of masking there and especially how we can implement it.
+
+If you want to take the next step in data security come to this session.</description>
+      <startTime>8/31/2019 4:30:00 PM</startTime>
+      <endTime>8/31/2019 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>91151</importID>
+      <speakers>
+        <speaker>
+          <id>91151</id>
+          <name>Allen White</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)</track>
+      <location>
+        <name>Valhalla</name>
+      </location>
+      <title>Ransomware Happens - Are You Ready for Disaster to Strike?</title>
+      <description>With viruses like ransomware occurring more frequently, we need to be ready for server and even data center loss. Just like pilots who are prepared for disaster recovery through regular practice, we as Database Administrators need to actually spend time practicing recovering with those backups. Ransomware has made it critical to prepare to rebuild your datacenter at any moment. This session will focus on the kinds of situations that can dramatically affect a data center, and how to practice recovery processes to assure business continuity.</description>
+      <startTime>8/31/2019 4:30:00 PM</startTime>
+      <endTime>8/31/2019 5:30:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

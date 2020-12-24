@@ -1,0 +1,112 @@
+<GuidebookXML>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/942/EventSponsor_14329.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2321</importID>
+      <name>Marathon Consulting</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.marathonus.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/942/EventSponsor_14670.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1848</importID>
+      <name>Solvaria</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.solvaria.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/942/EventSponsor_14620.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1405</importID>
+      <name>COZYROC</name>
+      <label>Gold Sponsor</label>
+      <url>http://bit.ly/cozyrocssis</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/942/EventSponsor_14584.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1817</importID>
+      <name>SentryOne</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.sentryone.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/942/EventSponsor_14647.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>554</importID>
+      <name>Denny Cherry and Associates Consulting</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.dcac.co</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/942/EventSponsor_14673.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2404</importID>
+      <name>Chartway Federal Credit Union</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.chartway.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/942/EventSponsor_14743.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2498</importID>
+      <name>Solisyon GmbH / Community Support</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.nerdycorn.de/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/942/EventSponsor_14675.PNG</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2454</importID>
+      <name>SQL Espresso</name>
+      <label>Personal \ Blog Sponsor</label>
+      <url>https://sqlespresso.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/942/EventSponsor_14674.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2488</importID>
+      <name>davebland.com</name>
+      <label>Personal \ Blog Sponsor</label>
+      <url>http://www.davebland.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/942/EventSponsor_14372.PNG</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>597</importID>
+      <name>ECPI University</name>
+      <label>Premiere Venue Sponsor</label>
+      <url>https://www.ecpi.edu/locations/virginia-beach-va</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/942/EventSponsor_14589.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/942/EventSponsor_14328.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

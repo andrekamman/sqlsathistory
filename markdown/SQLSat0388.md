@@ -1,0 +1,23 @@
+# SQLSaturday #388 - Edinburgh - BI Edition 2015
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+10:15:00|David Parker|The Business of Business Intelligence|[Visualising and Generating SQL data with Microsoft Visio 2013](12849.md)
+10:15:00|Iain Elder|The Technology of Business Intelligence|[Web Scraping with Python - scraping the web, without the sting](36848.md)
+10:15:00|Jen Stirrup|Business Analytics Track|[Business Analytics 101 Jumpstart using Azure Machine Learning](37112.md)
+10:15:00|Chris Webb|The Technology of Business Intelligence|[Best practices for collecting and  combining data with Power Query](37505.md)
+11:15:00|Bob Duffy|Business Analytics Track|[Creating Dashboards with DataZen](10576.md)
+11:15:00|Ian Macdonald|The Technology of Business Intelligence|[One BI Platform to Rule Them All](15147.md)
+11:15:00|Adam Vero - Dynamics CRM MVP|The Business of Business Intelligence|[Better Data Visualisation for CRM and ERP](8952.md)
+13:15:00|Carmel Gunn|Business Analytics Track|[The European Economic Crisis and the Euro-A Data Tale](11709.md)
+13:15:00|Peter Baddeley|The Business of Business Intelligence|[Understanding SharePoint reporting options for SQL Server](21910.md)
+13:15:00|peyman blumstengel|The Technology of Business Intelligence|[Optimizing databases with server side flash, understanding what lies beneat](37432.md)
+14:15:00|Mark Wilcock|Business Analytics Track|[Learning R through a typical BI task](19584.md)
+14:15:00|Thomas Sykes|The Technology of Business Intelligence|[Blue Sky Thinking: SQL Azure Geospatial Mashup](26995.md)
+14:15:00|Niall MacLeod|The Technology of Business Intelligence|[Microsoft SQL Server Data Warehouse Fast Track – Understanding the Program](37799.md)
+15:45:00|Bob Phillips|The Technology of Business Intelligence|[Customising the Excel Ribbon](10578.md)
+15:45:00|Gary Short - C# MVP|Business Analytics Track|[Troll Hunting on the Internet](26143.md)
+15:45:00|Dave Lawrence|The Business of Business Intelligence|[Improve Data Quality, Drive BI Value through Master Data Management](37883.md)
+16:45:00|Jean-Pierre Riehl|The Technology of Business Intelligence|[Data Management Gateway Deep Dive](16270.md)
+16:45:00|Satya Jayanty|Business Analytics Track|[Power BI- best practices to deliver just-in-time insights](25026.md)
+16:45:00|Jen Stirrup|The Business of Business Intelligence|[Big Data's Missing V: Visualisation. How do you BigViz your Big Data? ](37108.md)
+16:45:00|Ric Howe|Business Analytics Track|[Advanced Analytics is where to place your bet](37804.md)

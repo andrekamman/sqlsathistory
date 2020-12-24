@@ -1,0 +1,23 @@
+# SQLSaturday #253 - Brasilia 2013
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Erika Madeira|Academico|[SQL Server 2014, fique por dentro!](13928.md)
+00:00:00|Marcelo Fernandes|Academico|[Conhecendo o SQL Server Express - A edição gratuita do SQL Server](14240.md)
+00:00:00|Marcelo Fernandes|Desenvolvimento|[Dividir e conquistar - Particionando de tabelas no SQL Server](14241.md)
+00:00:00|Gustavo Maia Aguiar|Desenvolvimento|[Concorrência Otimista, Read Committed Snapshot (RCSI) e Snapshot Isolation Level](14708.md)
+00:00:00|Gustavo Maia Aguiar|Desenvolvimento|[Dicas e Recomendações para o Exame 70-461 (Querying Microsoft SQL Server 2012)](14709.md)
+00:00:00|Leandro Ribeiro|Administração|[Usando o Hyper-v 2012 para virtualização de SGBDs](19124.md)
+00:00:00|Luan Moreno Medeiros Maciel|Business Intelligence|[In-Memory OLAP a.k.a ColumnStore Index](19257.md)
+00:00:00|Luan Moreno Medeiros Maciel|Desenvolvimento|[In-Memory OLTP a.k.a Hekaton](19258.md)
+00:00:00|Luciano Moreira|Administração|[Cenários de corrupção no SQL Server](19307.md)
+00:00:00|Luciano Moreira|Business Intelligence|[Do MTA ao MCM*, carreira SQL Server e DBA multiplataforma](19308.md)
+00:00:00|Luciano Moreira|Administração|[Windows Server Failover Cluster Fundamentals](19309.md)
+00:00:00|Nilton Pinheiro|Administração|[Provendo Alta Disponibilidade para suas Apps em Pequenos, Médios e Grandes Ambientes com SQL2012](21450.md)
+00:00:00|Nilton Pinheiro|Administração|[Troubleshooting for Microsoft SQL Server 2005/2008/2012](21451.md)
+00:00:00|Diego Nogare|Academico|[Primeiros passos com BI](21488.md)
+00:00:00|Diego Nogare|Business Intelligence|[Por onde começar no BigData??](21489.md)
+00:00:00|Rodrigo Ribeiro Gomes|Academico|[Índices: Introdução](23407.md)
+00:00:00|Rogério Moraes de Carvalho|Desenvolvimento|[Mapeamento Objeto-Relacional com Entity Framework ](23418.md)
+00:00:00|Rogério Moraes de Carvalho|Academico|[Entenda LINQ (Language-Integrated Query) e sua sintaxe na linguagem C#](23419.md)
+00:00:00|Thiago Zavaschi|Business Intelligence|[Self-service BI de ponta a ponta!](28323.md)
+00:00:00|Thiago Zavaschi|Business Intelligence|[Analysis Services Internals](28324.md)

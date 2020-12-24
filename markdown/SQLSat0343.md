@@ -1,0 +1,23 @@
+# SQLSaturday #343 - Medellin 2014
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Carlos Torres|Track 3|[Always on feature with Sharepoint 2013](12102.md)
+00:00:00|David Sánchez Aguilar|Track 1|[BCS con SharePoint 2013](12854.md)
+00:00:00|David Sánchez Aguilar|Track 3|[Visualización de Datos Analíticos con SharePoint 2013](12855.md)
+00:00:00|Fernando Chiquiza|Track 3|[RBS with FILESTREAM in a SharePoint 2013](13253.md)
+00:00:00|Eduardo Castro|Track 1|[Introducción al análisis predictivo con SQL Server](13632.md)
+00:00:00|Eduardo Castro|Track 1|[Qué debe saber un BI-DBA de SQL Server sobre Hadoop](13633.md)
+00:00:00|Eduardo Castro|Track 3|[SQL 2014 Alta disponibilidad en ambientes empresariales](13635.md)
+00:00:00|Freddy Angarita|Track 1|[Desarrollo de modelos de minería de datos](14341.md)
+00:00:00|Ignacio Salom Rangel|Track 2|[Collecting and analyzing SQL Server performance data with DMOs](15140.md)
+00:00:00|John Bocachica|Track 2|[Buffer Pool y BD en Memoria](16072.md)
+00:00:00|Jose Chinchilla|Track 3|[Aprende todo sobre Business Intelligence con SQL Server 2012, SharePoint y Excel 2013](16139.md)
+00:00:00|Jose Chinchilla|Track 1|[Change Data Capture (CDC) - El mejor amigo secreto de todo profesional SQL](16140.md)
+00:00:00|Jose Chinchilla|Track 2|[SQL Server 2014 Columnstore indexes: Tu data warehouse a todo rock !](16141.md)
+00:00:00|Jesus Gil Velasco|Track 1|[Llaves y contrallaves para ganarle a las malas practicas en TSQL](16700.md)
+00:00:00|Jesus Gil Velasco|Track 2|[SQL2014 -- ¿Cómo crear soluciones de bases de datos hibridas?](16701.md)
+00:00:00|John Alexander Bulla Torres|Track 2|[SQL Server Data Tools la nueva generación de herramientas de desarrollo de bases de datos](17278.md)
+00:00:00|Julián Castiblanco|Track 2|[Tips de desarrollo con SQL Server 2014](17775.md)
+00:00:00|Miguel Mendoza|Track 3|[Control de versiones en base de datos y otros temas de ALM](20974.md)
+00:00:00|Andrei Garzon|Track 2|[Capacidades de Power BI](9460.md)
+00:00:00|Andres Felipe Rojas Parra|Track 3|[Creando soluciones de inteligencia de Negocios con SharePoint 2013](9476.md)

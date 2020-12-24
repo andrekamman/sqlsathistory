@@ -1,0 +1,976 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #675 - Parma 2017</name>
+    <startDate>11/18/2017 12:00:00 AM</startDate>
+    <attendeeEstimate>170</attendeeEstimate>
+    <timezone>(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat675</twitterHashtag>
+    <venue>
+      <name>Università degli Studi di Parma, Dipartimento di Ingegneria dell'Informazione</name>
+      <street>Viale Usberti, 181</street>
+      <city>Parma</city>
+      <state>Emilia-Romagna, Italy</state>
+      <zipcode>43124</zipcode>
+      <longitude>10.3117897301026</longitude>
+      <latitude>44.7658064790994</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1571</importID>
+      <name>Engage IT Services</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.engageitservices.it</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/895/EventSponsor_14006.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2045</importID>
+      <name>Factory Software</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.bifactory.it/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/895/EventSponsor_14185.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1769</importID>
+      <name>Microsys</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.msys.it/Pages/default.aspx</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/895/EventSponsor_14164.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1768</importID>
+      <name>DataSkills</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.dataskills.it/</url>
+      <imageURL>https://www.dataskills.it/file/2015/03/logo01.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1537</importID>
+      <name>Elfo srl</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.elfo.net/</url>
+      <imageURL>https://www.elfo.net/wp-content/uploads/2014/10/logoElfo1.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Bronze Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2056</importID>
+      <name>Digibahn</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.digibahn.it</url>
+      <imageURL>http://www.digibahn.it/portal/wp-content/uploads/2014/04/logo-header.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>929</importID>
+      <name>Overnet Education</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.overneteducation.it/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/871/EventSponsor_13564.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1608</importID>
+      <name>ApexSQL</name>
+      <label>Award sponsor</label>
+      <url>http://www.apexsql.com/</url>
+      <imageURL>https://www.apexsql.com/images/ApexSQL_Logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1817</importID>
+      <name>SentryOne</name>
+      <label>Award sponsor</label>
+      <url>https://www.sentryone.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/908/EventSponsor_14257.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2073</importID>
+      <name>ive</name>
+      <label>Blog Sponsor</label>
+      <url>http://ive.ai/</url>
+      <imageURL>https://res.cloudinary.com/honltqsgi/image/upload/v1510826449/ive-white_pcpmhc.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>68982</importID>
+      <name>Danilo Dominici</name>
+      <label>
+      </label>
+      <description>Danilo Dominici, lavora con SQL Server sin dalla versione 6.5. Si occupa principalmente di progettazione, implementazione ed ottimizzazione architetturale, monitoring e performance tuning.  Alterna le attivit#224; di consulenza a quelle di formatore, speaker ed autore. Microsoft Certified Trainer dal 2000 e SQL Server MVP dal 2014, #232; anche co-leader del PASS Global Italian Virtual Chapter, lo user group quot;virtualequot; in lingua italiana dedicato a SQL Server.</description>
+      <twitter>@danilo_dominici</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@danilo_dominici</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69507</importID>
+      <name>Roberto Grandi</name>
+      <label>
+      </label>
+      <description>I am an enthusiast about MS technlologies. I started working on SQL Server 2000 and now I am working on the latest version of Azure HDInsight.
+I love my work and I like to share what I have discovered and learned.</description>
+      <twitter>@grandirob</twitter>
+      <linkedin>https://www.linkedin.com/in/roberto-grandi-7957444</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@grandirob</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68736</importID>
+      <name>Emanuele Zanchettin</name>
+      <label>
+      </label>
+      <description>Emanuele Zanchettin, after studying in Computer Engineering, began his career with DB2 in the banking sector in 1998. After a few years and a change of scope of application, he encountered Access and Oracle with which he subsequently worked for several years in data access tuning and database design for new application features. Since 2007 he has also launched into the SQLServer world 2K, 2005, 2008* and 201* and more importantly, since 2011, into Azure SQL Database (SQL Azure). In order to have a greater capacity for assessment and familiarity with the various technologies that the market offers, he has deepened his knowledge to include MySQL and DocumentDB. Today Emanuele is mainly involved in IT projects and database management.</description>
+      <twitter>@_thinkIT_</twitter>
+      <linkedin>http://it.linkedin.com/pub/emanuele-zanchettin/18/921/34/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@_thinkIT_</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68841</importID>
+      <name>Salvatore Pellitteri</name>
+      <label>
+      </label>
+      <description>Salvatore Pellitteri lives in Italy. He is Developer Team Manager in Microsys Srl. He works on integration application projects using Microsoft Integration stack and on data platform projects using SQL Server.
+Salvatore works with BizTalk Server and Azure Integration technologies since the first version and has worked in many big integration project with several Italian enterprise organizations using many technologies like SAP, Oracle, SQL Server, Salesforce, Microsoft Dynamics 365/CRM/AX/NAV, AS400, J.D. Edwards, EDI and HL7.
+
+He is Microsoft P-Seller for Data Platform and Microsoft Most Valuable Professional (MVP) for Microsoft Application Integration / Azure for three years.</description>
+      <twitter>@pellittsa</twitter>
+      <linkedin>http://it.linkedin.com/pub/salvatore-pellitteri/2a/184/719/</linkedin>
+      <ContactURL>https://pellitterisbiztalkblog.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@pellittsa</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68512</importID>
+      <name>Marco Parenzan</name>
+      <label>
+      </label>
+      <description>Marco Parenzan is an independent Cloud and IoT Architect and .NET Developer. 
+He has been awarded as a MVP on Microsoft Azure since 2014. 
+He is a speaker in major community events in Italy about Azure and .NET development.
+He is a community lead for 1nn0va, an official Microsoft community in Pordenone, Italy. 
+He has written a book on Azure in 2016. 
+He loves developing retrogames and reading comix.
+
+Marco Parenzan è professionista per le architetture Cloud e IoT e lo sviluppo in .NET. 
+Ha ricevuto il titolo di MVP su Microsoft Azure dal 2014. 
+È uno speaker in Italia su Azure e lo sviluppo di .NET. 
+E' un community lead per 1nn0va, una community ufficiale Microsoft a Pordenone, in Italia. 
+Ha scritto un libro su Azure nel 2016.</description>
+      <twitter>@marco_parenzan</twitter>
+      <linkedin>https://it.linkedin.com/in/marcoparenzan</linkedin>
+      <ContactURL>https://www.linkedin.com/in/marcoparenzan/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@marco_parenzan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68836</importID>
+      <name>Tomaž Kaštrun</name>
+      <label>
+      </label>
+      <description>Tomaž Kaštrun is BI developer and data analyst. His main focus are data mining, T-SQL development, programming and query optimization. He has been working with SQL server since version 2000. He is Microsoft Certified Professional, Microsoft MVP for data platform and Microsoft trainer.</description>
+      <twitter>@tomaz_tsql</twitter>
+      <linkedin>http://www.linkedin.com/tomaz.kastrun</linkedin>
+      <ContactURL>http://www.tomaztsql.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@tomaz_tsql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68440</importID>
+      <name>Lorenzo Vercellati</name>
+      <label>
+      </label>
+      <description>Graduated in Medieval History, I've been working with databases since 2000 and with Microsoft Data Platform since SQL Server 2005. I'm Senior Developer at SolidQ Italy and I love Data storytelling and visualization</description>
+      <twitter>@supergimi</twitter>
+      <linkedin>https://www.linkedin.com/in/lorenzovercellati/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@supergimi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66330</importID>
+      <name>Andrea Martorana Tusa</name>
+      <label>
+      </label>
+      <description>Andrea Martorana Tusa is a Business Intelligence Team Manager at Würth Phoenix,  the IT and consulting company of the Würth-Group. 
+He is awarded as MVP in the Data Platform category
+
+Former BI Specialist at Widex, a Danish manufacturing company, and BI Developer in the IT department of an Italian banking group. 20+ years of experience working with data. 
+He is focused on the entire BI stack: database development, data warehousing, data analysis, reporting, etc. 
+Andrea is a usual speaker at many events: SQLSaturdays, conferences in Europe and PASS Summit, and for PASS Virtual Groups. 
+
+Andrea is an author for sqlshack.com, sqlservercentral.com, and UGISS (User Group Italiano SQL Server).</description>
+      <twitter>bruco441</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=bruco441</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68913</importID>
+      <name>Mark Broadbent</name>
+      <label>
+      </label>
+      <description>Mark Broadbent is a Data Platform MVP and SQL Server MCM with more than 20 years of experience working with SQL Server and principal of SQLCloud, a consultancy specializing in concurrency control and highly available solutions. He is the founder of the UK's SQLSaturday Cambridge (its first and largest), SharePoint Saturday Cambridge, the Hybrid Virtual Chapter and the East Anglia SQL User Group.</description>
+      <twitter>@retracement</twitter>
+      <linkedin>http://www.linkedin.com/in/retracement</linkedin>
+      <ContactURL>http://tenbulls.co.uk</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@retracement</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69487</importID>
+      <name>Emanuele Bartolesi</name>
+      <label>
+      </label>
+      <description>Emanuele Bartolesi è Microsoft MVP su Visual Studio and Development Technologies da 4 anni ed è specializzato in applicazioni web, SharePoint e Office 365. Ha una particolare predilezione per la parte client delle applicazioni che lo ha portato a imparare ad usare HTML5, CSS3, Bootstrap e framework quali AngularJS, Knockout e NodeJS.</description>
+      <twitter>http://twitter.com/kasuken</twitter>
+      <linkedin>https://www.linkedin.com/in/bartolesiemanuele/</linkedin>
+      <ContactURL>https://www.emanuelebartolesi.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/kasuken</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68687</importID>
+      <name>Saverio Lorenzini</name>
+      <label>
+      </label>
+      <description>Saverio Lorenzini is a Principal Engineer at the Premier Field Engineering division in Microsoft Italy. He has a master degree in Computer Science Engineering from University of Pisa, and joined Microsoft in 1998, where he started working on SQL Server from version 7.0.
+With more than 20 years of experience on SQL Server, he works on customer projects, focusing on performance tuning and optimization, solution development. He recently designed and developed SQL Monitoring Dashboard, a monitoring and performance analysis Web solution for SQL Server farms, sold by Microsoft Italy to Premier customers. He is a speaker at Microsoft events (TechReady), SQLPASS Summit and at PASS SQL Saturday community conferences, where he is an active member.</description>
+      <twitter>sqlSavelor</twitter>
+      <linkedin>https://it.linkedin.com/in/saveriolorenzini</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlSavelor</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66682</importID>
+      <name>Sergio Govoni</name>
+      <label>
+      </label>
+      <description>Since 1999 Sergio Govoni has been a software developer; in 2000 he got a degree in Computer Science at "Università degli Studi" in Ferrara (Italy). He has worked for over 18 years in Centro Software, a software house that produces the best ERP for manufacturing companies that are export oriented. Now, he manages the development product team and he is constantly involved on several team projects, where he focues his attention on the architecture and the mission-critical technical details. Since 2016 he is the vice president of the UGISS (www.ugiss.org). For the provided help to technical communities and for sharing his own experience, since 2010 he has received the Microsoft Data Platform MVP award.</description>
+      <twitter>@segovoni</twitter>
+      <linkedin>http://www.linkedin.com/in/sgovoni</linkedin>
+      <ContactURL>https://mvp.microsoft.com/it-it/PublicProfile/4029181?fullName=Sergio%20Govoni</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@segovoni</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67940</importID>
+      <name>Simon Whiteley</name>
+      <label>
+      </label>
+      <description>Simon Whiteley is the Director of Engineering for Advancing Analytics Ltd and a Microsoft Data Platform MVP. Simon is a seasoned solution architect and technical lead with well over a decade of Microsoft Analytics experience. A deep techie with a focus on emerging cloud technologies and applying "big data" thinking to traditional analytics problems, Simon also has a passion for bringing it back to the high level and making sense of the bigger picture. When not tinkering with tech, Simon is a death-dodging London cyclist, a sampler of craft beers, an avid chef, and a generally nerdy person.</description>
+      <twitter>MrSiWhiteley</twitter>
+      <linkedin>https://uk.linkedin.com/pub/simon-whiteley/32/994/aa8</linkedin>
+      <ContactURL>http://blogs.adatis.co.uk/blogs/simonwhiteley/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MrSiWhiteley</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67860</importID>
+      <name>Pierstefano Tucci</name>
+      <label>
+      </label>
+      <description>Developer ERP software since 1997 and magane database since MSSQL Server 6.2... I have a bit homesick</description>
+      <twitter>@pierstefanot</twitter>
+      <linkedin>https://www.linkedin.com/in/stefano-tucci-34270b17/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@pierstefanot</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67541</importID>
+      <name>Marco Pozzan</name>
+      <label>
+      </label>
+      <description>Consultant and trainer in business intelligence, analytics and data mining on Methode . Teacher for ITS courses of data warehouse at the University of Pordenone.</description>
+      <twitter>@marcopozzan</twitter>
+      <linkedin>https://it.linkedin.com/in/marcopozzan</linkedin>
+      <ContactURL>http://www.marcopozzan.it</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@marcopozzan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66684</importID>
+      <name>Alessandro Alpi</name>
+      <label>
+      </label>
+      <description>Alessandro lavora nell#39;IT dal 2000. La passione per l#39;informatica nasce ad 11 anni partendo dal C64 ed oggi #232; CTO di Engage IT Services srl dove si occupa della gestione del team di sviluppo e del contatto tecnico con i clienti.
+Nel team si occupa anche dell#39;amministrazione e del ciclo di vita dei database. E’ MVP SQL Server dal 2008, #232; anche Microsoft Certified Professional, ed oltre ad essere speaker a diversi eventi Microsoft, segue due blog e risponde sui forum di StackOverflow e MSDN</description>
+      <twitter>https://twitter.com/suxstellino</twitter>
+      <linkedin>https://it.linkedin.com/in/suxstellino</linkedin>
+      <ContactURL>http://suxstellino.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/suxstellino</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68216</importID>
+      <name>Luca Ferrari</name>
+      <label>
+      </label>
+      <description>Luca Ferrari lavora in Microsoft Italia come PFE Engineer.
+Lavora con Sql server dalla versione 2000 ed ha seguito con attenzione tutte le evoluzioni del prodotto.
+Si occupa principalmente di:
+MPP  SMP Design
+Troubleshooting
+Performance Tuning
+SSIS e SSRS, Azure SQL Database, Azure DataWarehouse.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=101837495amp;authType=NAME_SEARCHamp;authToken=i4Ctamp;locale=it_ITamp;srchid=1018374951435910175159amp;srchindex=1amp;srchtotal=284amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A1018374951435910175159%2CVSRPtargetId%3A101837495%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue</linkedin>
+      <ContactURL>http://tipsandtrickssqlserver.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67484</importID>
+      <name>Gilberto Zampatti</name>
+      <label>
+      </label>
+      <description>Time ago (a lot of time ago…) an excellent IT pro brought me with him and became my Mentor in the IT wonderland…it was a world full of mainframes…
+I met the Relational theory when there were no commercial RDBMS, and I was spellbound by that “magic”. When Microsoft appeared in the IT market, I felt finally which trek I had to follow. I’m still walking on such road, and in my rucksack I’ve ben putting some other stuff (like SharePoint, for example). My sole regret:  I’ve left the College to consecrate all my time to my job; curiously, since then, I’ve never stop learning…</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69565</importID>
+      <name>Gianluca Hotz</name>
+      <label>
+      </label>
+      <description>Gianluca Hotz is an independent consultant, trainer, speaker and Mentor specialized in architecture, database design, high availability, capacity planning, performance tuning, system integration and migrations for Microsoft SQL Server. He has been working as a consultant in the IT field since 1993 and with SQL Server since 1996. He is among the original founders of ugiss.org, where he served as vice-president from 2001 to 2016 and he is now serving as president, for his contribution to the community he has been a SQL Server MVP since 1998.</description>
+      <twitter>glhotz</twitter>
+      <linkedin>http://it.linkedin.com/in/ghotz</linkedin>
+      <ContactURL>http://www.ghotz.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=glhotz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68773</importID>
+      <name>Rudi Bruchez</name>
+      <label>
+      </label>
+      <description>(same as before)</description>
+      <twitter>nepasderanger</twitter>
+      <linkedin>https://fr.linkedin.com/in/rudibruchez</linkedin>
+      <ContactURL>http://www.babaluga.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=nepasderanger</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69260</importID>
+      <name>Alex Yates</name>
+      <label>
+      </label>
+      <description>Alex Yates has been helping organisations to apply DevOps principles to relational database development and deployment since 2010. He’s most proud of helping Skyscanner develop the ability to deploy 95 times a day. Originally for Redgate, later for DLM Consultants, Alex has worked with clients on every continent except Antarctica – so he’s keen to meet anyone who researches penguins. 
+
+A keen community member, he co-organises SQL Relay, is the founder of www.SpeakingMentors.com and has been recognised as a Microsoft Data Platform MVP since 2017.</description>
+      <twitter>@_alexyates_</twitter>
+      <linkedin>http://uk.linkedin.com/in/alexanderyates</linkedin>
+      <ContactURL>http://www.workingwithdevs.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@_alexyates_</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69304</importID>
+      <name>Gianluca Sartori</name>
+      <label>
+      </label>
+      <description>Gianluca Sartori is a Data Platform MVP, independent consultant and performance tuning specialist. He has been working in the software industry since 1999 and has been working with SQL Server ever since. He also works as a SQL Server trainer and in his spare time he writes technical articles and participates the SQL Server forums. Gianluca enjoys presenting SQL Server topics at conferences in Europe and in Italy in particular. He is currently working as lead DBA at a famous Formula 1 team.</description>
+      <twitter>http://twitter.com/#!/spaghettidba</twitter>
+      <linkedin>http://it.linkedin.com/pub/gianluca-sartori/23/50b/a12</linkedin>
+      <ContactURL>http://spaghettidba.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/#!/spaghettidba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66428</importID>
+      <name>Luca Zavarella</name>
+      <label>
+      </label>
+      <description>Mentor  Technical Director at SolidQ Italy. He loves BI, Advanced Analytics and Machine Learning. He plays piano in the free time.</description>
+      <twitter>@lucazav</twitter>
+      <linkedin>https://www.linkedin.com/in/lucazavarella/</linkedin>
+      <ContactURL>http://blogs.solidq.com/en/author/lzavarella/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@lucazav</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69592</importID>
+      <name>Franco Perduca</name>
+      <label>
+      </label>
+      <description>tdb</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69281</importID>
+      <name>Gaetano Paternò</name>
+      <label>
+      </label>
+      <description>Appassionato d’informatica sin da giovane, dopo gli studi fatti come Ragioniere Programmatore sono stato conquistato dal mondo del lavoro e grazie agli studi fatti in autonomia ho migliorato notevolmente le mie competenze. Nel corso degli anni ho sviluppato prima applicazioni desktop, per poi avvicinarsi allo sviluppo web in C#. Nel 2014 ho conosciuto la community siciliana OrangeDotNet, grazie alla quale mi sono avvicinato ulteriormente al mondo Microsoft. Dall’inizio del 2016 faccio parte anche della community DomusDotNet e mi occupo di sviluppo di applicazioni cross-platform. Alla fine del 2016, assieme ad altri professionisti, ho costituito la community DotNetSicilia con cui sto già svolgendo attività in tutta la Sicilia.</description>
+      <twitter>@tanopaterno</twitter>
+      <linkedin>https://www.linkedin.com/in/tanopaterno/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@tanopaterno</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>66428</importID>
+      <speakers>
+        <speaker>
+          <id>66428</id>
+          <name>Luca Zavarella</name>
+        </speaker>
+      </speakers>
+      <track>Data Science</track>
+      <location>
+        <name>Data Science-Analytics</name>
+      </location>
+      <title>Dai semplici Dati al Modello Predittivo in Azure Machine Learning</title>
+      <description>Oggigiorno le aziende hanno in loro posseso una pletora di dati e si avvalgono ormai da tempo di ottime tecnologie che consentono una valutazione a consuntivo di ciò che è accaduto nel passato, oppure di ciò che sta accadendo ora. Il nuovo obiettivo delle aziende è dunque diventato quello di anticipare gli eventi e ottenere un vantaggio di business. Grazie al Machine Learning si ha la possibilità di “scavare” nei dati ed estrarre informazioni, pattern e relazioni non immediatamente identificabili e non note a priori.
+In questa sessione si toccheranno i concetti principali di Data Science che stanno alla base dello sviluppo di un modello predittivo, utilizzando come dataset di partenza un insieme di transazioni di vendite di hamburger. L'obiettivo sarà quello di determinare la domanda al variare del prezzo.
+Si mostrerà quanto il lavoro necessario per trasformare un "normale" set di dati in un modello predittivo diventi molto più agevole grazie all'utilizzo di Azure Machine Learning.</description>
+      <startTime>11/18/2017 2:00:00 PM</startTime>
+      <endTime>11/18/2017 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67940</importID>
+      <speakers>
+        <speaker>
+          <id>67940</id>
+          <name>Simon Whiteley</name>
+        </speaker>
+      </speakers>
+      <track>Cloud</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>Real-Time Reporting through the medium of Dance</title>
+      <description>The modern data warehouse proposition has to deliver data at much greater velocities than we were previously able to. This is known as the speed layer in lambda architecture parlance.
+
+But how do you start putting a real-time streaming dashboard together? For the first time, it's actually straightforward to achieve. This session will run through an example streaming application, taking live statistics from a dance-mat game through to a live dashboard. We'll go from scanning log files, pushing messages to an Event Hub, through Streaming Analytics into a live PowerBI Streaming Dashboard.
+
+This demo-heavy, practical session will tell you all you need to know to get started with real-time reporting with Microsoft Azure.</description>
+      <startTime>11/18/2017 4:30:00 PM</startTime>
+      <endTime>11/18/2017 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68687</importID>
+      <speakers>
+        <speaker>
+          <id>68687</id>
+          <name>Saverio Lorenzini</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>DBA</name>
+      </location>
+      <title>Performance and query improvements in latest SQL builds</title>
+      <description>Negli ultimi 12 mesi sono stati rilasciati alcuni miglioramenti significativi che hanno migliorato le prestazioni dell’engine, arricchito le funzionalità di monitoraggio e facilitato notevolmente la risoluzione dei problemi di SQL Server. A partire dal rilascio di SQL 2016 Service Pack 1 e successivamente con il prossimo rilascio di SQL Server 2017, vengono introdotti improvements basati sulle conoscenze e sui feedback forniti dai clienti e dalla comunità SQL e molte funzionalità disponibili in passato solo sulla Enterprise Edition.
+La sessione mostra con demo appropriate le nuove funzionalità introdotte, che un DBA/developer non può mancare di conoscere. Tra le altre: Lightweight Query Profiling, ShowPlan enhancements, Database cloning, Automatic database/query tuning, detect plan choice regressions, Adaptive Query Processing, Tempdb setup monitoring and planning improvements, Transaction log monitoring and diagnostics, Smart transaction log and differential backup, new DMVs ed altro.</description>
+      <startTime>11/18/2017 11:00:00 AM</startTime>
+      <endTime>11/18/2017 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68736</importID>
+      <speakers>
+        <speaker>
+          <id>68736</id>
+          <name>Emanuele Zanchettin</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>DBA</name>
+      </location>
+      <title>Performance tips for faster SQL queries – DEV2DEV</title>
+      <description>When you need to extract data from the database you are writing, more or less complex, T-SQL code. Often simplistic and procedural approach reflects what you have in your mind, however this could have a negatively impact about performance because the database engine might think otherwise. Fortunately T-SQL, as a declarative language, allows us to ask the "what" and delegate to the engine the "how". Everything works best as long as you respect a few simple rules and you may use special constructs. In this session, with few slides and a lot of real-case scenarios, you can see the advantages of writing the query for high performance, even when they are written by that "someone else" called ORM</description>
+      <startTime>11/18/2017 12:10:00 PM</startTime>
+      <endTime>11/18/2017 1:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69304</importID>
+      <speakers>
+        <speaker>
+          <id>69304</id>
+          <name>Gianluca Sartori</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>DBA</name>
+      </location>
+      <title>Benchmarking like a Pro</title>
+      <description>Exciting times ahead! You bought a license for SQL Server 2016 and you are going to upgrade to the new shiny version of SQL Server on a beefy new machine!
+Fantastic! Except that you have no idea how your application will work on the new version. There’s a new cardinality estimator in 2016: how will it affect performance? The new features in In-Memory OLTP and Columnstore Indexes look really promising, but how will your workload take advantage of these features?
+The best way to know for sure is to conduct a benchmark and compare it to your current system.
+In this demo-intensive session you will discover how to capture a meaningful workload in production and how to replay it against your test system. You will also learn which performance metrics to capture and compare, and which tools can help you in the task.</description>
+      <startTime>11/18/2017 4:30:00 PM</startTime>
+      <endTime>11/18/2017 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68440</importID>
+      <speakers>
+        <speaker>
+          <id>68440</id>
+          <name>Lorenzo Vercellati</name>
+        </speaker>
+      </speakers>
+      <track>Data Science</track>
+      <location>
+        <name>Data Science-Analytics</name>
+      </location>
+      <title>Reporting Services Monitoring</title>
+      <description>Quando si realizza una piattaforma di reportistica, il lavoro non si esaurisce mai con la pubblicazione dei report. Una volta pubblicati infatti, poterne monitorare l'effettivo utilizzo e le performance rimane una risorsa fondamentale per garantire efficienza e fruibilità del proprio sistema di reportistica.
+Sapere chi utilizza quali report, come e quando, permette di mantenere in efficienza quanto implementato migliorando il servizio all'utente e riducendo i costi di manutenzione dei reports.
+A maggior ragione oggi che le numerose novità, dall'integrazione dei mobile reports a quella con Power BI, hanno decisamente rilanciato le quotazioni di SSRS.
+In questa sessione analizzeremo la struttura del database di Reporting Services alla ricerca degli usage e performance counter a disposizione, utili per realizzare una vera e propria dashboard di monitoraggio.
+Scopriremo inoltre i diversi livelli di profondità delle informazioni in base alla versione, compresa Power BI Rerport Server</description>
+      <startTime>11/18/2017 9:40:00 AM</startTime>
+      <endTime>11/18/2017 10:40:00 AM</endTime>
+    </event>
+    <event>
+      <importID>68836</importID>
+      <speakers>
+        <speaker>
+          <id>68836</id>
+          <name>Tomaž Kaštrun</name>
+        </speaker>
+      </speakers>
+      <track>Data Science</track>
+      <location>
+        <name>Data Science-Analytics</name>
+      </location>
+      <title>Data Science for beginners</title>
+      <description>Data science can be hard to grasp, complex and big, but making data science easy to understand and bringing it closer to all who want to tackle this new emerging field is an important task in world of data.  Exploring, extracting and finding hidden gems  from data using statistical and mathematical methods, computer science and several different technologies is essentially what data science is doing. In practice this means, data science is an iterative process of harvesting data, managing and cleaning the data,  performing analysis and and at the end interpreting, visualizing and using information  that will bring insights to end-user, business people and making decisions much easier.
+We will focus on answering 5 simple questions. 
+
+1) is this weird? 
+2) is A better than B, respectively? 
+3) how much / many of this is needed? 
+4) this belong to group A? 
+5) what is next?
+
+Session we will look into technologies that can be tackled using SQL Server 2016 and ML Azure.</description>
+      <startTime>11/18/2017 12:10:00 PM</startTime>
+      <endTime>11/18/2017 1:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68512</importID>
+      <speakers>
+        <speaker>
+          <id>68512</id>
+          <name>Marco Parenzan</name>
+        </speaker>
+      </speakers>
+      <track>Cloud</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>Azure Functions e Logic Apps: i tuoi coltellini svizzeri per gestire i tuoi dati in un SQL Database</title>
+      <description>Hai più o più SQL Database da gestire. A volte è necessario importare, manipolare, esportare i dati, è necessario lavorare sullo schema. È necessario pianificare alcune attività, è necessario attendere alcuni eventi prima di eseguire alcune attività. O devi inviare o gestire notifiche.
+In tutte queste situazioni, una scarsa piccola conoscenza dei linguaggi di programmazione, come C#, aiuta a svolgere queste attività in modo più semplice e veloce. E si esegue il codice direttamente nel cloud.
+Quindi introduceremo le minime conoscenze .NET necessarie, come scrivere una Function App e le funzioni e come creare workflow di manipolazione dei dati.</description>
+      <startTime>11/18/2017 2:00:00 PM</startTime>
+      <endTime>11/18/2017 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69260</importID>
+      <speakers>
+        <speaker>
+          <id>69260</id>
+          <name>Alex Yates</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>DEV</name>
+      </location>
+      <title>DevOps 101 for data professionals – how your jobs will change</title>
+      <description>In 2009 John Allspaw and Paul Hammond delivered the session “10 deploys per day – Dev  ops cooperation at Flickr.” In forty six minutes they changed the way millions of people would think about the software delivery process for years to come. It didn’t have a name yet, but DevOps was born.
+
+At about the same time ThoughtWorks were making noise about Continuous Delivery and soon afterwards Microsoft started pushing ALM. All the while cloud platforms like Azure began chipping away at the number of businesses that maintain their own servers and databases.
+
+In 2013 Kenny Gorman declared “The DBA is Dead”.
+
+For the record, I don’t believe that, but a lot of people do. What is certain is that the world of IT is changing, and the traditional DBA role is changing with it.
+
+I’m going to explain what DevOps is, where it came from, and its implications for databases. I’m going to discuss some changes data folk need to make. I’m not going to discuss what will happen if they can’t keep up.</description>
+      <startTime>11/18/2017 3:10:00 PM</startTime>
+      <endTime>11/18/2017 4:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69565</importID>
+      <speakers>
+        <speaker>
+          <id>69565</id>
+          <name>Gianluca Hotz</name>
+        </speaker>
+      </speakers>
+      <track>Cloud</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>SQL Server  GDPR</title>
+      <description>Con l'avvicinarsi della scadenza per il recepimento del regolamento generale sulla protezione dei dati (GDPR, General Data Protection Regulation), ma anche per il continuo e preoccupante aumento del numero di crimini informatici, il tema della protezione dei dati diventa sempre più importante. Gli RDBMS sono tradizionalmente uno degli obiettivi principali di attacchi informatici e SQL Server offre svariate tecnologie sia per proteggere i dati in transito e a riposo, che per monitorare in maniera proattiva i tentativi di aggirare i meccanismi di protezione. Lungi dal voler esaurire l'argomento GDPR, che spesso è più una questione di processi che di tecnologia, in questa sessione vedremo quali sono le tecnologie che possono aiutarci nel recepimento del regolamento scendendo più in dettaglio sulle nuove funzionalità introdotte con SQL Server 2016 e faremo anche alcuni cenni alle tecnologie per mitigare i rischi di perdita dei dati.</description>
+      <startTime>11/18/2017 12:10:00 PM</startTime>
+      <endTime>11/18/2017 1:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66682</importID>
+      <speakers>
+        <speaker>
+          <id>66682</id>
+          <name>Sergio Govoni</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>DEV</name>
+      </location>
+      <title>SQL Server 2017 Graph Database</title>
+      <description>SQL Server offre da sempre gli strumenti per gestire dati gerarchici e relazioni tra le entità. A volte, però, le relazioni tra le entità possono diventare complesse. Pensiamo ad una relazione molti-a-molti, i database relazionali non dispongono di soluzioni native per questo tipo di legame, che viene comunemente implementato con una tabella di associazione. SQL Server 2017, grazie all'introduzione di Graph Database, permette di esprimere certi tipi di query più facilmente rispetto ad un database relazionale puro. In questa sessione verrà fornita un'introduzione a SQL Graph e agli scenari di utilizzo. Nell'ultima demo verrà mostrato come costruire un sistema di raccomandazione per le offerte, in grado di determinare i prodotti consigliati sulla base del prodotto che il cliente sta acquistando, uno scenario tipico di utilizzo di SQL Graph.</description>
+      <startTime>11/18/2017 12:10:00 PM</startTime>
+      <endTime>11/18/2017 1:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66330</importID>
+      <speakers>
+        <speaker>
+          <id>66330</id>
+          <name>Andrea Martorana Tusa</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>DEV</name>
+      </location>
+      <title>T-SQL advanced: Grouping and Windowing</title>
+      <description>This session aims to explore all the features offered by the language T-SQL for aggregating and calculating data. There's much more of the clause GROUP BY.
+With grouping and ranking functions you can calculate in your query grandtotal, running totals, find islands in intervals, select the last-not-null value, etc.
+Windows functions apply directly on a set of rows defined by the OVER clause ("a window"). Windows function do not perform aggregation on group level and do not hide row details.
+So they allow mixing detail and total elements in the same query.
+The session is mainly based on a copious array of demos, to make explicit every concept introduced taking into account the impact on performances for every solution.</description>
+      <startTime>11/18/2017 4:30:00 PM</startTime>
+      <endTime>11/18/2017 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68982</importID>
+      <speakers>
+        <speaker>
+          <id>68982</id>
+          <name>Danilo Dominici</name>
+        </speaker>
+      </speakers>
+      <track>Data Science</track>
+      <location>
+        <name>Data Science-Analytics</name>
+      </location>
+      <title>Gestire SSRS con Powershell</title>
+      <description>Powershell consente di automatizzare, attraverso i suoi script, le attività di manutenzione di SQL Server. Reporting Services non fa eccezione. SSRS espone dei web services attraverso i quali è possibile amministrare o ottenere il risultato dei reports in vari formati. In questa sessione vedremo come sfruttare la combinazione Powershell + SSRS web services per gestire le più comuni attività amministrative, come ad esempio importare o esportare dei reports, visualizzare o impostare i parametri di un report, schedulare la produzione di un report da Task scheduler.</description>
+      <startTime>11/18/2017 11:00:00 AM</startTime>
+      <endTime>11/18/2017 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69487</importID>
+      <speakers>
+        <speaker>
+          <id>69487</id>
+          <name>Emanuele Bartolesi</name>
+        </speaker>
+      </speakers>
+      <track>Cloud</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>ASP.NET, Azure Search e Azure SQL Server</title>
+      <description>Ormai l'abbondanza di informazioni aziendali nei sistemi delle nostre aziende o quelle per cui lavoriamo è diventata una cosa a cui siamo abituati.
+Ma come fare per ricercare qualcosa in questa mole di dati?
+Anche in questo caso un servizio di Azure fa al caso nostro: Azure Search.
+In questa sessione vedremo come in poco tempo è possibile indicizzare dei dati presenti su SQL Azure all'interno di Azure Search e come è facile interrogare questo servizio da un'applicazione web o da qualsiasi tipo di app attraverso i suoi servizi REST.</description>
+      <startTime>11/18/2017 11:00:00 AM</startTime>
+      <endTime>11/18/2017 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68913</importID>
+      <speakers>
+        <speaker>
+          <id>68913</id>
+          <name>Mark Broadbent</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>DBA</name>
+      </location>
+      <title>Persistence is Futile - Implementing Delayed Durability in SQL Server</title>
+      <description>The concurrency model of most Relational Database Systems are defined by the ACID properties but as they aim for ever increasing transactional throughput, those rules are bent, ignored, or even broken.
+
+In this session, we will investigate how SQL Server implements transactional durability in order to understand how Delayed Durability bends the rules to remove transactional bottlenecks and achieve improved throughput. We will take a look at how this can be used to compliment In-Memory OLTP performance, and how it might impact or compromise other things.
+
+Attend this session and you will be assimilated!</description>
+      <startTime>11/18/2017 9:40:00 AM</startTime>
+      <endTime>11/18/2017 10:40:00 AM</endTime>
+    </event>
+    <event>
+      <importID>67541</importID>
+      <speakers>
+        <speaker>
+          <id>67541</id>
+          <name>Marco Pozzan</name>
+        </speaker>
+      </speakers>
+      <track>Data Science</track>
+      <location>
+        <name>Data Science-Analytics</name>
+      </location>
+      <title>Power BI: Cleaning and Modelling Data</title>
+      <description>Avrete probabilmente visto molti scenari in cui viene utilizzato Power BI. Tuttavia la maggior parte delle demo si basano su scenari in cui tutto funziona con un drag and drop dei campi del modello.  Ma cosa succede quando il dato non è perfetto o il vostro problema di business è più complesso?  In questa sessione, si vedranno come risolvere le problematiche che inevitabilmente si andrà in contro quando si torna al lavoro. Questa sessione vi darà la possibilità di vedere come si modellano i dati per risolvere i problemi del mondo reale con Power BI.</description>
+      <startTime>11/18/2017 3:10:00 PM</startTime>
+      <endTime>11/18/2017 4:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68841</importID>
+      <speakers>
+        <speaker>
+          <id>68841</id>
+          <name>Salvatore Pellitteri</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>DBA</name>
+      </location>
+      <title>Linux: a new mate for SQL Server</title>
+      <description>Con la versione 2017 è possibile installare SQL Server su Linux. Credo che questa sia una delle novità più rivoluzionarie delle ultime versioni. Vediamo insieme quali dei servizi di SQL Server è possibile eseguire su una installazione Linux e quali sono gli step di setup principali da seguire.</description>
+      <startTime>11/18/2017 2:00:00 PM</startTime>
+      <endTime>11/18/2017 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67484</importID>
+      <speakers>
+        <speaker>
+          <id>67484</id>
+          <name>Gilberto Zampatti</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>DBA</name>
+      </location>
+      <title>Esplorazione dei Metadati di SQL Server</title>
+      <description>Oltre ai dati che i nostri Clienti e/o Utenti depositano e manipolano in un database, vi è un'impressionante quantità di metadati (dati relativi ai dati...). Descrivono com'è configurato il database, come è stato installato; descrivono tutte le proprietà del database e degli oggetti in esso contenuti. Val la pena di smitizzare il tema illustrando come interrogare questa preziosa collezione di informazioni, al fine di aumentare l'efficienza e la gestibilità dei nostri databases.</description>
+      <startTime>11/18/2017 3:10:00 PM</startTime>
+      <endTime>11/18/2017 4:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69592</importID>
+      <speakers>
+        <speaker>
+          <id>69592</id>
+          <name>Franco Perduca</name>
+        </speaker>
+      </speakers>
+      <track>Cloud</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>Real IoT</title>
+      <description>Questa sessione vuole essere un esempio pratico seguendo un caso reale di uno sviluppo di una soluzioen IoT; seguendo quanto ci mette a dispozione la piattaforma Azure
+vedremo come applicare i vari servizi da event hub passando per stream analytics , data lake , sql server ed infine poweer bi per la presentation dei risultati.
+Lo scopo è di partire da zero per arrivare ad avere una soluzione reale seguendo un caso reale.</description>
+      <startTime>11/18/2017 3:10:00 PM</startTime>
+      <endTime>11/18/2017 4:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69281</importID>
+      <speakers>
+        <speaker>
+          <id>69281</id>
+          <name>Gaetano Paternò</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>DEV</name>
+      </location>
+      <title>Common Data Access Patterns for Xamarin’s iOS and Android Platforms</title>
+      <description>La maggior parte delle applicazioni mobile richiedono l'accesso hai dati locali sul dispositivo. A meno che la quantità di dati non sia banale, questo richiede solitamente un database e la gestione dell'accesso al database. Analizziamo come le piattaforme iOS e Android permettono la gestione dei dati e per farlo utilizzeremo Visual Studio 2017 for Mac e Xamarin.</description>
+      <startTime>11/18/2017 2:00:00 PM</startTime>
+      <endTime>11/18/2017 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66684</importID>
+      <speakers>
+        <speaker>
+          <id>66684</id>
+          <name>Alessandro Alpi</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>DEV</name>
+      </location>
+      <title>Deep Space Cosmos DB</title>
+      <description>Possibilità di scalare elasticamente, distribuzione geografica di dati, disponibilità di diversi tipi di consistenza, supporto per un multi-modello, polyglot persistency. Queste sono esigenze sempre più all'ordine del giorno, soprattutto se si parla di dati. Azure Cosmos DB è una piattaforma che consente tutto ciò in maniera trasparente, fornendo un insieme di API intuitivo, estendibile, conosciuto ed adatto ad ogni tipo di esigenza, per i più famosi linguaggi. Andiamo nello "spazio profondo" di Azure Cosmos DB per capire come i dati possono essere organizzati con un semplice set di configurazioni: graph, document, column-family e key-value.</description>
+      <startTime>11/18/2017 11:00:00 AM</startTime>
+      <endTime>11/18/2017 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69507</importID>
+      <speakers>
+        <speaker>
+          <id>69507</id>
+          <name>Roberto Grandi</name>
+        </speaker>
+      </speakers>
+      <track>Data Science</track>
+      <location>
+        <name>Data Science-Analytics</name>
+      </location>
+      <title>Data Engineer VS Data Scientist on Azure</title>
+      <description>Data engineers and Data scientists are two main figures in a data team.
+
+What their job involves? How they interact together? Let's explore how they works on Azure ecosystem using Apache Spark, Jupyter Notebook and tther Azure Systems.
+
+Prerequisites: Basic Knowledge of SQL, Python or Scala
+Nice To Have: Azure HDInsight, Apache Spark</description>
+      <startTime>11/18/2017 4:30:00 PM</startTime>
+      <endTime>11/18/2017 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68216</importID>
+      <speakers>
+        <speaker>
+          <id>68216</id>
+          <name>Luca Ferrari</name>
+        </speaker>
+      </speakers>
+      <track>Cloud</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>Azure SQL Datawarehouse - Datawarehouse on Cloud</title>
+      <description>Azure SQL Data Warehouse è la soluzione cloud di data warehousing che può elaborare volumi massivi di dati sia relazionali che non relazionali. Basato sull'architettura MPP (Massively Parallel Processing), SQL Data Warehouse può gestire carichi di lavoro in modo flessibile dato che consente di aumentare, ridurre, sospendere le risorse di calcolo in pochi secondi. Ma cosa significa MPP ? E perché un Datawarehouse su Azure ? E come posso caricare i dati ? Daremo risposta a questi ed a molti altri quesiti.</description>
+      <startTime>11/18/2017 9:40:00 AM</startTime>
+      <endTime>11/18/2017 10:40:00 AM</endTime>
+    </event>
+    <event>
+      <importID>68773</importID>
+      <speakers>
+        <speaker>
+          <id>68773</id>
+          <name>Rudi Bruchez</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>DEV</name>
+      </location>
+      <title>Transact-SQL traps and nasty surprises</title>
+      <description>At times, T-SQL can exhibit unexpected and even nasty behavior. There are hidden pitfalls in which you might fall into if you are not aware. This session will provide you with the necessary warning signs to help you avoid them. Among other things, you will encounter the implicit conversion surprise, the parameter sniffing ambush, the cardinality estimate attack, the filtered index ruse, the force order trick … Expect baffling demos!</description>
+      <startTime>11/18/2017 9:40:00 AM</startTime>
+      <endTime>11/18/2017 10:40:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

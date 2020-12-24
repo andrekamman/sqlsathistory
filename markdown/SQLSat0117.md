@@ -1,0 +1,23 @@
+# SQLSaturday #117 - Columbus 2012
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Craig Purnell|Track 2|[SQL Server 101 for IT Pros](12025.md)
+00:00:00|Dave Rodabaugh|Track 1|[Transaction and Balance Facts: Identical Cousins](13438.md)
+00:00:00|Louis Davidson|Track 2|[What Sequence objects are (and are not)](13448.md)
+00:00:00|Eddie Wuerch|Track 1|[TempDB Performance Troubleshooting and Optimizing](14043.md)
+00:00:00|Grant Fritchey|Track 4|[Execution Plans a Deep Dive](14755.md)
+00:00:00|Ira Warren|Track 3|[Creating a Metadata Mart w/ SSIS - Data Governance](15485.md)
+00:00:00|Jason Spangler|Track 4|[Profiler? What is this tool you speak of?](15881.md)
+00:00:00|Jose Chinchilla|Track 1|[Change Data Capture a tool for BI,DR,Audit  more ](16129.md)
+00:00:00|John Sterrett|Track 3|[Performance Tuning for Pirates](17691.md)
+00:00:00|Lisa Gardner|Track 2|[SQL Server and Sharepoint: Best Frienemies](19166.md)
+00:00:00|Randy Knight|Track 4|[Understanding SQL Server XML Features ](22486.md)
+00:00:00|MIKE DONNELLY|Track 4|[SSIS: Figuring Out Configuring](24966.md)
+00:00:00|Kevin Bullen|Track 3|[Getting Started With PowerShell and SQL Server ](25097.md)
+00:00:00|Kevin Boles|Track 2|[Parallel Query Execution Deep Dive](26348.md)
+00:00:00|Wendy Pastrick|Track 2|[Visualizing Your Indexes - Science vs Art](27791.md)
+00:00:00|Aaron King|Track 3|[A Complete BI Solution in About an Hour! ](28569.md)
+00:00:00|Karen Lopez|Track 1|[5+ Database Design Blunders and How To Avoid Them](31179.md)
+00:00:00|Thomas LaRock|Track 1|[Choose Your Own Adventure: Performance Tuning](33074.md)
+00:00:00|William E Pearson III|Track 3|[Design and Implement BI Like Edison! ](34413.md)
+00:00:00|Adam Belebczuk|Track 4|[Introduction to SQL Server Service Broker](8988.md)

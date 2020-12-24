@@ -1,0 +1,23 @@
+# SQLSaturday #108 - Redmond 2012
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Aaron Nelson|Pioneer Square|[PowerShell for Data Professionals](28417.md)
+00:00:00|Wesley Brown|Queen Anne|[Fundamentals of SAN, NAS and IP Storage](28491.md)
+00:00:00|Argenis Fernandez|Queen Anne|[Troubleshooting SQL Server with SysInternals Tools](28788.md)
+00:00:00|Robert Davis|Pioneer Square|[Replication Magic: Initializing From Backups](29474.md)
+00:00:00|David Eichner|Montlake|[SRS Report Builder for Business Intelligence](29800.md)
+00:00:00|Dev Nambi|Capitol Hill|[Database Development: Keep It Agile, Not Fragile](29901.md)
+00:00:00|Donabel Santos|Montlake|[SQL Server Reporting Services - Beyond the Basics](29960.md)
+00:00:00|Douglas Barrett|Montlake|[Data Warehousing Update](29976.md)
+00:00:00|Diane Robey|Queen Anne|[Merge Replication for High Availability](29984.md)
+00:00:00|Hugo Kornelis|Queen Anne|[Advanced indexing](30348.md)
+00:00:00|Kevin Kline|Pioneer Square|[Top 10 Admin Mistakes on SQL Server](31323.md)
+00:00:00|Mark Simms|Capitol Hill|[The Elephant in the Room (Hadoop for DBAs)](31600.md)
+00:00:00|Merrill Aldrich|Pioneer Square|[PowerShell 101](31702.md)
+00:00:00|Paul Turley|Montlake|[Dashboard Design: Making Reports Pop](32184.md)
+00:00:00|Piotr Palka|Capitol Hill|[Database lifecycle with Visual Studio 2010 and TFS](32318.md)
+00:00:00|Rick  Morelan|Capitol Hill|[Basic Performance Tips and Gotchas](32514.md)
+00:00:00|Mark Tabladillo|Pioneer Square|[Enterprise Data Mining with SQL Server](33082.md)
+00:00:00|Steve Stedman|Capitol Hill|[Unleashing Common Table Expressions in SQL Server](33215.md)
+00:00:00|Wil Sisney|Montlake|[5 SSIS Tricks to Take You from Beginner to Awesome](34489.md)
+00:00:00|John Huang|Queen Anne|[Parallel Task Scheduling with T-SQL](34694.md)

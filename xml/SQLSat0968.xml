@@ -1,0 +1,673 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #968 – Caxias do Sul – Virtual 2020</name>
+    <startDate>6/20/2020 12:00:00 AM</startDate>
+    <attendeeEstimate>5000</attendeeEstimate>
+    <timezone>(GMT-03:00) Greenland</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatCXS</twitterHashtag>
+    <venue>
+      <name>Uniftec</name>
+      <street>Gustavo Ramos Sehbe, 107 Caxias do Sul - RS</street>
+      <city>Caxias do Sul</city>
+      <state>Rio Grande do Sul, Brazil</state>
+      <zipcode>95012-669</zipcode>
+      <longitude>-51.13879</longitude>
+      <latitude>-29.1684692</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>2678</importID>
+      <name>Google Cloud</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://cloud.google.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/968/EventSponsor_14777.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/968/EventSponsor_14637.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2677</importID>
+      <name>Grupo Uniftec</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.ftec.com.br/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/968/EventSponsor_14772.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2208</importID>
+      <name>Teevo</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.teevo.com.br/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/968/EventSponsor_14771.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>522</importID>
+      <name>CrespiDB</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.crespidb.com.br</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/968/EventSponsor_14773.PNG</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>105216</importID>
+      <name>Vitor Fava</name>
+      <label>
+      </label>
+      <description>I'm a DBA with extensive experience in the areas of Database and Information Technology, working on planning, implementation, and maintenance of large corporate database servers. 
+I have several professional certifications and good experience in development activities and management of entrepreneurial environments using SQL SERVER. 
+I'm a speaker at various technology events such as SQL Saturday, The Developers Conference, InteropMix and also in various discussion groups focused on database technology.
+I teach advanced training in SQL Server and Azure SQL Database and also acting as MCT in Microsoft official training.
+I'm the Chapter Leader of SQLManiacs PASS chapter.</description>
+      <twitter>sqlservermaniacs</twitter>
+      <linkedin>https://br.linkedin.com/in/vitorfava</linkedin>
+      <ContactURL>https://www.vitorfava.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlservermaniacs</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>101914</importID>
+      <name>Anderson Souza</name>
+      <label>
+      </label>
+      <description>Atua como Coordernador de banco de dados na Sequoia Logistica. 
+Possui experiência administrando bancos de dados de diversas companhias dos mais variados setores, como instituições financeiras, consultorias e portais de e-commerce. 
+Adora tecnologia e compartilha conhecimento de tecnologias de Bancos de Dados em apresentações dentro da empresa e eventos.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102354</importID>
+      <name>Marcelo Adade</name>
+      <label>
+      </label>
+      <description>Marcelo is a Database Consultant at The Pythian Group. He has more than 10 years of experience in several Companies from different branches and sizes. Like financial companies, consultant shops, datacenters and e-commerce sites. Currently holds the MCSE, MCT and MCSA Microsoft Certifications and also the Oracle OCP. Loves technology and enjoys sharing his Database knowledge delivering presentations and official Microsoft Training Courses. Currently he is also the co-leader of the SQLMANIACS PASS User Group, based in Sao Paulo, Brazil</description>
+      <twitter>@marceloadade</twitter>
+      <linkedin>https://br.linkedin.com/in/marceloadade</linkedin>
+      <ContactURL>http://www.dbbits.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@marceloadade</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>101759</importID>
+      <name>Luiz Henrique Garetti</name>
+      <label>
+      </label>
+      <description>Arquiteto de Soluções Big Data no Itáu, Bacharel em Ciência da Computação com MBA em Big Data. 
+Palestrante em eventos de tecnologia com participações nacionais como São Paulo, Brasília, Salvador, Belo Horizonte, Caxias do Sul, Joinville e internacionais como Bogotá-Colômbia.
+Nas horas vagas... curto pegar a estrada de moto, é o meu limpa cache :)
+Entusiasta do Ecossistema Big Data, o qual dedica horas de estudos em tecnologias emergentes, compartilhando um pouco no blog www.dataisbig.com.br</description>
+      <twitter>luizhgaretti</twitter>
+      <linkedin>https://www.linkedin.com/in/luizhenriquegaretti</linkedin>
+      <ContactURL>https://dataisbig.com.br/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=luizhgaretti</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105319</importID>
+      <name>LOGAN MERAZZI</name>
+      <label>
+      </label>
+      <description>Um DBA SQL Server que veio da área de infraestrutura, atuou como admin. de sistemas Windows, Linux (e HP-UX) e passou alguns anos na área de desenvolvimento. 
+Conhece bem as áreas de uma empresa de tecnologia e suas interdependências e é um aficionado em automatização de processos</description>
+      <twitter>@loganmerazzi</twitter>
+      <linkedin>https://www.linkedin.com/in/loganmerazzi/</linkedin>
+      <ContactURL>http://blog.merazzi.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@loganmerazzi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105644</importID>
+      <name>Nilton Kazuyuki Ueda</name>
+      <label>
+      </label>
+      <description>Nilton Ueda trabalha como Analista de BI Sênior ajudando as empresas a melhorar o processo de decisão através de melhores práticas de visualização de dados, construindo painéis de analise de dados e dashboards eficientes. Tem experiência em empresas multi nacionais conhecidas. É conhecido nacionalmente por disseminar e evangelizar a pratica de BI com a plataforma Tableau e é Alteryx Designer Core Certified.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/niltonkazuyukiueda/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105213</importID>
+      <name>Rodrigo Dornel</name>
+      <label>
+      </label>
+      <description>Rodrigo Dornel é MVP de Data Platform, MCT, MCSA, consultor na RDdornel Data Platform Experts e professor Universitário.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102069</importID>
+      <name>Ricardo Leka</name>
+      <label>
+      </label>
+      <description>Microsoft Certified Master e Microsoft Certified Solutions Master, Ricardo #233; uma das poucas pessoas do Brasil com o mais alto n#237;vel de certifica#231;#227;o Microsoft em SQL Server.
+Consultor SQL Server a mais de 15 anos, especialista em planejamento de ambientes de Alta disponibilidade e Recupera#231;#227;o de Desastre.</description>
+      <twitter>@bigleka</twitter>
+      <linkedin>http://br.linkedin.com/in/ricardoleka</linkedin>
+      <ContactURL>http://leka.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@bigleka</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105175</importID>
+      <name>Diego Nogare</name>
+      <label>
+      </label>
+      <description>Diego Nogare is Chief Data Officer @ Lambda3. He has graduated in Computer Science, Post-Graduated in Computer Engineering. Author of books in Portuguese about SQL Server, Business Intelligence and Machine Learning. Microsoft Most Valuable Professional [MVP] since 2008, shifting to Artificial Intelligence award in 2017. Spent a time as volunteer at PASS, as, Regional Mentor (2014/2015), Regional Board Advisor for LATAM (2016) and Board Director (2018/2019). Worked on the SQL Server team at Microsoft, in Brazil, engaged in the release of SQL Server 2012. Spent some time as a speaker at Microsoft and PASS events.</description>
+      <twitter>@DiegoNogare</twitter>
+      <linkedin>https://br.linkedin.com/in/diegonogare</linkedin>
+      <ContactURL>http://www.diegonogare.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@DiegoNogare</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105333</importID>
+      <name>Bruno Feldman</name>
+      <label>
+      </label>
+      <description>Atua no ramo de TI desde 2001, sendo que grande parte do trabalho voltado a banco de dados SQL Server, passando um pouco por MySQL e PostgreSQL. Atualmente trabalha como DBA Sr. na empresa Neogrid Software. Possui certifica#231;#245;es MCSE e MCT.</description>
+      <twitter>@FeldmanB</twitter>
+      <linkedin>https://br.linkedin.com/in/brunofeldman</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@FeldmanB</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105214</importID>
+      <name>Rafael Felipe</name>
+      <label>
+      </label>
+      <description>Microsoft Most Valuable Professional em Enterprise Mobility, VMware vExpert 2019 e Dell Principal Software Engineer - Expert em Remote Desktop Services, Virtualização de Aplicação e Enterprise VDI solution. Responsável por desenvolver e coordenar novas iniciativas de soluções de virtualização para a Dell IT.  Profissional com mais de 10 anos de experiência em design, configuração e gerenciamento de infraestrutura de TI é certificado MCT (since 2009), MCSA, MCSE, MCITP, MCTS e também é Bacharel em Adm de Empresas com Gestão de TI e pós graduando em Gestão de equipe e liderança pela PUCRS. Rafael é líder da MSCop (Microsoft Community of Practices) na Dell.</description>
+      <twitter>@rfelipesilva</twitter>
+      <linkedin>https://www.linkedin.com/in/rafaelf/</linkedin>
+      <ContactURL>http://www.rafaelfelipe.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@rfelipesilva</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>101846</importID>
+      <name>Sulamita Dantas</name>
+      <label>
+      </label>
+      <description>Sulamita Dantas é formada em Ciência da Computação pelo Centro Universitário Unibh.
+Possui experiência como DBA SQL Server, Analista Protheus e Analista BI.
+Atualmente é MVP Data Plataform (Microsoft Most Valuable Professional), 
+Lider do Local Group SQL BH, 
+Co-Organizadora do Grupo Random Hacks   
+Conselheira Fiscal da ONG MTAC.
+Apaixonada por Ciclismo!</description>
+      <twitter>@suladantas</twitter>
+      <linkedin>https://www.linkedin.com/in/sulamita-dantas-21976340/</linkedin>
+      <ContactURL>http://www.sulamitadantas.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@suladantas</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>103716</importID>
+      <name>Federico Bernasconi</name>
+      <label>
+      </label>
+      <description>.Net Developer 
+Organizer vOpen UY
+Co-Founder Duett Software
+MTA SQL Server Certification</description>
+      <twitter>bernasfederico</twitter>
+      <linkedin>https://www.linkedin.com/in/federico-bernasconi-48087b56/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=bernasfederico</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105320</importID>
+      <name>Eduardo Kieling</name>
+      <label>
+      </label>
+      <description>Especialista certificado em diversas tecnologias, Mestre em Computação Aplicada, possuindo muitos anos de experiência no mercado, atuando em empresas de médio e grande porte. É responsável pelo desenho de soluções, implementação e administração de projetos com ênfase em Cloud Computing.</description>
+      <twitter>@edu_kieling</twitter>
+      <linkedin>https://www.linkedin.com/in/eduardokieling</linkedin>
+      <ContactURL>https://eduardokieling.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@edu_kieling</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105315</importID>
+      <name>Flávio Farias</name>
+      <label>
+      </label>
+      <description>Atuando como Azure Data Engineer em Portugal na DXC Technology, MVP DataPlatform, MCT, MCSE Data Management and Analytics, MCSA SQL 2016 Database Administration e MCSE Data Management and Analytics, entusiasta pela área de Dados em seus diversos segmentos, PASS Group Leader do grupo de Salvador na Bahia e de Évora em Portugal.
+Acredita que apenas compartilhando conhecimento é que conseguimos crescer e evoluir.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://br.linkedin.com/in/flaviofarias</linkedin>
+      <ContactURL>https://www.flaviofarias.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102050</importID>
+      <name>Marcus Vinícius Bittencourt</name>
+      <label>
+      </label>
+      <description>MVP Data Platform, PASS Regional Mentor, Chapter Leader do SQL Server RS.
+DBA especializado em infraestrutura, troubleshooting. 
+Trabalha com SQL Server há mais de 10 anos.
+SQL Performance Counters and Storage Expert, powershell, speaker na comunidade SQL Server em eventos como SQL Saturday, 24HOP, CMG, Eventos de Chapters Locais e Virtuais, dentre outros...</description>
+      <twitter>http://twitter.com/mvbitt</twitter>
+      <linkedin>http://likedin.com/marcus.bittencourt</linkedin>
+      <ContactURL>http://isqlserver.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/mvbitt</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102476</importID>
+      <name>Tiago Crespi</name>
+      <label>
+      </label>
+      <description>Trabalha a 4 anos como Administrador de Banco de Dados na CrespiDB - Soluções em Plataforma de Dados. Já atuo como desenvolvedor VB.NET, C++ e Delphi em empresas como Lojas Colombo, CWI Software e Lohr Sistemas Eletrônicos. Graduado em Sistemas de Informação | Especialista em Engenharia de Software | MCSE: Data Management and Analytics
+ Palestrante em eventos e meetups relacionados à bancos de dados e desenvolvimento de software. Sendo alguns deles: SQL Saturday, SQL Server RS, .NET Caxias, etc.</description>
+      <twitter>tiagocrespi</twitter>
+      <linkedin>https://www.linkedin.com/in/tiagocrespi</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=tiagocrespi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105180</importID>
+      <name>Javier Villegas</name>
+      <label>
+      </label>
+      <description>Javier Villegas is a Database Administrator Manager for Mediterranean Shipping Company. Javier has more than 20 years working with SQL Server on every version from 6.5 to SQL Server 2019, Including SQL Azure Database and SQL Azure Managed Instance. His specialization is Administration, Performance Tuning and High Availability.
+He is a Microsoft MVP in Data Platform.
+Javier is a frequent speaker in conferences and events such as SQL Saturday , PASS Virtual Groups, 24 Hours SQL PASS , vOpen(NetConf), GroupBy and DataPlatformGeeks.
+@sqlargentina</description>
+      <twitter>https://www.twitter.com/javier_vill</twitter>
+      <linkedin>https://ar.linkedin.com/in/javiervillegas</linkedin>
+      <ContactURL>http://sql-javier-villegas.blogspot.com.ar/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://www.twitter.com/javier_vill</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105380</importID>
+      <name>Sidney Cirqueira</name>
+      <label>
+      </label>
+      <description>Atuando a 9 anos no mercado de Tecnologia da Informação. Analista de Dados  AI na Lanlink, atualmente focado em engenharia de dados e soluções de inteligência artificial no ambiente Microsoft Azure. Participante ativo das Comunidades SQL Server DF, Brasilia Data Group, BSB IA, Data Science, BigData  Analytics e palestrante iniciante em eventos de Plataforma de Dados e Analytics. Possuo as certificações: Azure Data Scientist Associate, Azure Data Engineer Associate, Azure Fundamentals e MCSA - SQL 2016 Database Administrator. 
+Participante ativo das comunidades: [SQL Server DF], [Brasilia Data Group] e [BSB IA, Data Science, BigData  Analytics].</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/sidney-oliveira-60b41128/</linkedin>
+      <ContactURL>https://medium.com/@sidneyocirqueira</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>102050</importID>
+      <speakers>
+        <speaker>
+          <id>102050</id>
+          <name>Marcus Vinícius Bittencourt</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Sala 2</name>
+      </location>
+      <title>Hacking SQL Server 3.0</title>
+      <description>Como garantir a segurança de seu ambiente de banco de dados SQL Server​?
+Desta vez vamos explorar conceitos adquiridos com Hacking SQL Server 2.0 e explorar outros detalhes, focando em brechas e como analisar o ambiente e varrer tópicos de segurança.
+Vamos simular um novo modelo de acesso em um banco de dados e como prevenir estes pontos, falando também sobre LGPD e outros tópicos importantes de segurança.</description>
+      <startTime>6/20/2020 1:30:00 PM</startTime>
+      <endTime>6/20/2020 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105216</importID>
+      <speakers>
+        <speaker>
+          <id>105216</id>
+          <name>Vitor Fava</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Sala 2</name>
+      </location>
+      <title>Quer ser um excelente profissional de dados? Pergunte-me como.</title>
+      <description>Nesta sessão discutiremos quais as características que um excelente profissional de banco de dados necessita no mundo corporativo atual e como adquirir e desenvolver estas habilidades.</description>
+      <startTime>6/20/2020 2:30:00 PM</startTime>
+      <endTime>6/20/2020 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>101846</importID>
+      <speakers>
+        <speaker>
+          <id>101846</id>
+          <name>Sulamita Dantas</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Sala 2</name>
+      </location>
+      <title>LGPD - Lei Geral de Proteção de Dados</title>
+      <description>Essa palestra irá abordar como  adequar sua empresa à LGPD, quais são os principais riscos e de que forma os dados devem ser protegidos.</description>
+      <startTime>6/20/2020 10:30:00 AM</startTime>
+      <endTime>6/20/2020 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105213</importID>
+      <speakers>
+        <speaker>
+          <id>105213</id>
+          <name>Rodrigo Dornel</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Sala 1</name>
+      </location>
+      <title>Power BI - Dicas e Truques para turbinar seu Dashboard</title>
+      <description>Nessa sessão vamos explorar dicas e truques para turbinar sei Dashboard, imagens, ícones, layout, templates, marcadores e DAX para sair do Dashboard tradicional para um Dashboard profissional.</description>
+      <startTime>6/20/2020 1:30:00 PM</startTime>
+      <endTime>6/20/2020 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>101914</importID>
+      <speakers>
+        <speaker>
+          <id>101914</id>
+          <name>Anderson Souza</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Sala 3</name>
+      </location>
+      <title>SQL Server on Linux - Da Instalação a Configurações</title>
+      <description>Veremos nessa palestra como instalar o SQL Server no Linux e também algumas configurações visando boas práticas e performance.</description>
+      <startTime>6/20/2020 1:30:00 PM</startTime>
+      <endTime>6/20/2020 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105214</importID>
+      <speakers>
+        <speaker>
+          <id>105214</id>
+          <name>Rafael Felipe</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 3</name>
+      </location>
+      <title>Gerenciando o seu banco de dados através do Windows Virtual Desktop</title>
+      <description>Através dessa sessão você será capaz de criar o seu ambiente de administração de banco de dados seguro e virtualizado através do Windows Virtual Desktop. Tenha todas as ferramentas disponíveis para o seu trabalho remoto através do 'Modern Workplace' e venha mergulhar neste recurso que tanto fortaleceu a produtividade e disponibilidade do trabalho em época de pandemia.</description>
+      <startTime>6/20/2020 10:30:00 AM</startTime>
+      <endTime>6/20/2020 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>101759</importID>
+      <speakers>
+        <speaker>
+          <id>101759</id>
+          <name>Luiz Henrique Garetti</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Sala 1</name>
+      </location>
+      <title>Streaming Architecture with Big Data Clusters (SQL2019)</title>
+      <description>O Big Data Cluster pode ser implantado em qualquer nuvem em que exista um serviço Kubernetes gerenciado, como o Serviço Aks Kubernetes (AKS) ou em clusters locais do Kubernetes.
+Nesta sessão, vamos aprofundar o assunto e entender (teoria e prática) essa nova funcionalidade do SQL Server 2019. Criando uma arquitetura de ingestão near-real-time com Kafka, capturando dados do twitter e processando com BDC + Spark, simulando um pipeline de dados com modelo de Machine Learning para analise de sentimento.</description>
+      <startTime>6/20/2020 9:30:00 AM</startTime>
+      <endTime>6/20/2020 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105319</importID>
+      <speakers>
+        <speaker>
+          <id>105319</id>
+          <name>LOGAN MERAZZI</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 3</name>
+      </location>
+      <title>SQL Server Backups 101</title>
+      <description>Não tenho dúvidas de que você faz backup da sua base regularmente... Certo?
+E você tem certeza de que a estratégia adotada é a mais adequada para o seu cenário? E, principalmente, de que ela está funcionando 100%?
+Nessa sessão, veremos alguns modelos de estratégias de backups, algumas (des)vantagens e como podemos nos previnir para que, na hora que realmente precisarmos, tenhamos o nosso backup pronto para ser restaurado.</description>
+      <startTime>6/20/2020 11:30:00 AM</startTime>
+      <endTime>6/20/2020 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>102069</importID>
+      <speakers>
+        <speaker>
+          <id>102069</id>
+          <name>Ricardo Leka</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Sala 2</name>
+      </location>
+      <title>Melhores práticas #SQN</title>
+      <description>Vamos implementar todas as melhores práticas conhecidas pelos melhores DBA's #SQN
+Vamos conversar sobre configurações e programação que já encontramos em vários clientes e o que é bom e o que não é bom.</description>
+      <startTime>6/20/2020 11:30:00 AM</startTime>
+      <endTime>6/20/2020 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105644</importID>
+      <speakers>
+        <speaker>
+          <id>105644</id>
+          <name>Nilton Kazuyuki Ueda</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Sala 1</name>
+      </location>
+      <title>Databricks as a Unified Data Analytics Platform</title>
+      <description>Databricks é uma plataforma unificada de dados com capacidades de oferecer recursos nas camadas de acesso à dados, manipulação, extração, apresentação e compartilhamento de insights de negócio. Além de oferecer toda a estrutura para criação de experimentos de machine learning e inteligência artificial. Isso é o que chamamos de "unified data analytics platform".</description>
+      <startTime>6/20/2020 2:30:00 PM</startTime>
+      <endTime>6/20/2020 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105315</importID>
+      <speakers>
+        <speaker>
+          <id>105315</id>
+          <name>Flávio Farias</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Sala 2</name>
+      </location>
+      <title>SQL Server Errorlog Near-Realtime</title>
+      <description>O intuito dessa sessão é mostrar como é possivel integrar os recursos do Azure DataFactory, StreamAnalytics e PowerBI para obter insights do errorlog do SQL Server.</description>
+      <startTime>6/20/2020 9:30:00 AM</startTime>
+      <endTime>6/20/2020 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105180</importID>
+      <speakers>
+        <speaker>
+          <id>105180</id>
+          <name>Javier Villegas</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 3</name>
+      </location>
+      <title>Monitoring SQL Server using Community solutions (Free)</title>
+      <description>In this session we will cover how to monitor and support any SQL Server Environment using free tools created by community members</description>
+      <startTime>6/20/2020 2:30:00 PM</startTime>
+      <endTime>6/20/2020 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105380</importID>
+      <speakers>
+        <speaker>
+          <id>105380</id>
+          <name>Sidney Cirqueira</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Sala 1</name>
+      </location>
+      <title>Tudo que você deveria saber sobre os novos recursos do Azure Synapse Analytics.</title>
+      <description>Nessa sessão apresentarei as novidades sobre o Azure Synapse Analystics já disponíveis para utilização no Azure que foram lançadas no Microsoft Build de 2020. Também farei um hands-on percorrendo as principais features que tornam esse novo serviço uma das ferramentas mais robustas do Micrososft Azure.</description>
+      <startTime>6/20/2020 11:30:00 AM</startTime>
+      <endTime>6/20/2020 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105175</importID>
+      <speakers>
+        <speaker>
+          <id>105175</id>
+          <name>Diego Nogare</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Sala 1</name>
+      </location>
+      <title>Quer começar na carreira de IA e ML... Aqui tem um caminho!</title>
+      <description>Veja como criar um roteiro de aprendizagem para se preparar tecnicamente na sua jornada na área de Machine Learning e Inteligência Artificial.</description>
+      <startTime>6/20/2020 12:30:00 PM</startTime>
+      <endTime>6/20/2020 1:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105333</importID>
+      <speakers>
+        <speaker>
+          <id>105333</id>
+          <name>Bruno Feldman</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Sala 1</name>
+      </location>
+      <title>Azure Synapse Analytics no Dia a Dia</title>
+      <description>O Azure Synapse Analytics é o serviço da Azure para Data Warehouse e Análise de Big Data, sendo uma evolução do Azure SQL Data Warehouse.
+Nessa sessão abordaremos os desafios da migração, dicas para obter o máximo de performance e possibilidades da plataforma, além das novidades mais recentes do produto.</description>
+      <startTime>6/20/2020 10:30:00 AM</startTime>
+      <endTime>6/20/2020 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>103716</importID>
+      <speakers>
+        <speaker>
+          <id>103716</id>
+          <name>Federico Bernasconi</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Sala 3</name>
+      </location>
+      <title>Entity Framework Core - Acesso a dados e controle de migrações</title>
+      <description>Nesta sessão vamos abordar boas práticas de acesso a dados do Entity Framework Core, que cuidados devo tomar ? de que formas posso escrever querys com a ajuda do System.Linq ?  assim como a utilização de serviços genéricos.
+Também vamos dar uma olhada para o recurso de controle de migração de tabelas e como ele pode nos ajudar a cuidar do versionamento do nosso banco de dados.</description>
+      <startTime>6/20/2020 12:30:00 PM</startTime>
+      <endTime>6/20/2020 1:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105320</importID>
+      <speakers>
+        <speaker>
+          <id>105320</id>
+          <name>Eduardo Kieling</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>Sala 3</name>
+      </location>
+      <title>Utilizando o Azure Sentinel para detectar um ataque de força bruta em um MSSQL Server</title>
+      <description>Nessa palestra iremos demonstrar como podemos fazer uso das tecnologias de análise e detecção do Azure Sentinel para responder a um ataque de força bruta a um Microsoft SQL Server. Também iremos demonstrar a construção de consultas KUSTO que irão nos auxiliar na detecção desses eventos.</description>
+      <startTime>6/20/2020 9:30:00 AM</startTime>
+      <endTime>6/20/2020 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>102354</importID>
+      <speakers>
+        <speaker>
+          <id>102354</id>
+          <name>Marcelo Adade</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 2</name>
+      </location>
+      <title>Conceitos de Alta disponibilidade no SQL SERVER</title>
+      <description>Nesta sessão vamos explorar as atuais opções de Alta Disponibilidade e recuperação de desastres no SQL SERVER. Dentre as tecnologias apresentadas, vamos falar sobre: Log Shipping, Always On Failover Cluster Instances e Availability Groups.</description>
+      <startTime>6/20/2020 12:30:00 PM</startTime>
+      <endTime>6/20/2020 2:00:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,496 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #360 - Israel 2015</name>
+    <startDate>1/19/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>150</attendeeEstimate>
+    <timezone>(GMT+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatIsrael</twitterHashtag>
+    <venue>
+      <name>Microsoft - Herzliya RD Center </name>
+      <street>Arieh Shenkar St 13</street>
+      <city>Herzliya</city>
+      <state>, Israel</state>
+      <zipcode>4672513</zipcode>
+      <longitude>34.807936</longitude>
+      <latitude>32.157979</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1365</importID>
+      <name>Xplenty</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.xplenty.com</url>
+      <imageURL>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXuGMYhQLN2KX3hU0ao0h67mGbiatAbYdN_FmdlH-y25VoHyS8mw</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>85</importID>
+      <name>Pyramid Analytics</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.PyramidAnalytics.com</url>
+      <imageURL>http://pages.pyramidanalytics.com/rs/pyramidanalytics/images/logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1115</importID>
+      <name>SQL Sentry</name>
+      <label>Raffle Sponsor</label>
+      <url>http://www.sqlsentry.com/</url>
+      <imageURL>https://www.sentryone.com/Images/logos/sentryone-black.svg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>388</importID>
+      <name>ApexSQL LLC</name>
+      <label>Raffle Sponsor</label>
+      <url>http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/864/EventSponsor_13700.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>735</importID>
+      <name>InterBit</name>
+      <label>Raffle Sponsor</label>
+      <url>http://www.interbit.co.il</url>
+      <imageURL>https://s24.postimg.org/ek0f6l2yd/INTERBIT_LOGO.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>22187</importID>
+      <name>Peter Larsson</name>
+      <label>
+      </label>
+      <description>Peter Larsson is a key player for performance written code. He can turn a 10 hour query into a 3 minute piece of code. Peter is also a SQL Server MVP since 2009. He often hangs out at SQLTeam.com (27k+ posts) and other various sites where he helps all people understand SQL Server.</description>
+      <twitter>SwePeso</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqltopia.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SwePeso</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13751</importID>
+      <name>Eitan Lipovetskey</name>
+      <label>
+      </label>
+      <description>Eitan worked as a senior programmer in the air force for 2 years,
+and in PNM Software for 6.5 years.
+He has been working in Naya for 3 years as a DBA in eToro.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15264</importID>
+      <name>Ido Friedman</name>
+      <label>
+      </label>
+      <description>Data engineer and architect</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9834</importID>
+      <name>Ronen Ariely</name>
+      <label>
+      </label>
+      <description>Ronen Ariely is a senior consultant, an applications  data architect. He has more than 15 years' experience in variety programming languages and technologies, leading development teams and software companies in enterprise level solutions in the fields of Data Platforms, BI, and developing. Ronen is active in communities (aka pituach) in the fields of Microsoft Azure, SQL Server, T-SQL, and Dot.Net programming. He serves as Moderator at MSDN and as one of the Microsoft TechNet WIKI communities' leaders. Ronen writes technical blogs, TechNet articles and blogs, he is co-admin of Microsoft's blogs "TechNet WIki" and "MSDN Forum", and has been awarded as Microsoft Most Valuable Professional.</description>
+      <twitter>https://twitter.com/pitoach</twitter>
+      <linkedin>https://il.linkedin.com/in/pitoach</linkedin>
+      <ContactURL>http://ariely.info/Blog/tabid/83</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/pitoach</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19110</importID>
+      <name>Leonard Lobel</name>
+      <label>
+      </label>
+      <description>Leonard Lobel (Microsoft MVP, Data Platform) is CTO and co-founder of Sleek Technologies, Inc., a New York-based development shop with an early adopter philosophy toward new technologies. He is also a principal consultant at Tallan, Inc., a Microsoft National Systems Integrator and Gold Competency Partner.
+
+Programming since 1979, Lenni specializes in Microsoft-based solutions, with experience that spans a variety of business domains, including publishing, financial, wholesale/retail, health care, and e-commerce. Lenni has served as chief architect and lead developer for various organizations, ranging from small shops to high-profile clients. He is also a consultant, trainer, and frequent speaker at local usergroup meetings, VSLive, SQL PASS, and other industry conferences.
+
+Lenni has also authored several MS Press books and Pluralsight courses on SQL Server programming.</description>
+      <twitter>@lennilobel</twitter>
+      <linkedin>http://www.linkedin.com/in/lennilobel</linkedin>
+      <ContactURL>http://lennilobel.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@lennilobel</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14876</importID>
+      <name>Guy Glantser</name>
+      <label>
+      </label>
+      <description>Guy Glantser, Data Platform MVP, is the leader of the Israeli PASS Local Group, as well as the CEO and founder of Madeira Data Solutions. His career has been focused on the Microsoft Data Platform for the past 20 years, performing various database roles as either an on-site DBA, an external consultant, or a speaker. His main area of expertise is SQL Server development and optimization. Guy is involved in many activities in the Microsoft Data Platform community. He occasionally speaks at community events, such as PASS Summit, SQLBits, SQLSaturdays, and user groups around the world. He also co-hosts the SQL Server Radio podcast.</description>
+      <twitter>guy_glantser</twitter>
+      <linkedin>http://www.linkedin.com/in/glantser</linkedin>
+      <ContactURL>https://www.madeiradata.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=guy_glantser</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>25617</importID>
+      <name>Steve Simon</name>
+      <label>
+      </label>
+      <description>Steve Simon is a Database Solutions Architect with Business Knowledge Services Inc. He has been involved with database design and analysis for over 35 years. Steve has presented papers at numerous PASS Summits and PASS SQL Rallies. He is also regular presenter on the SQL Saturday circuit and he is a contributor on SQLShack.com</description>
+      <twitter>SQLServerBoffin</twitter>
+      <linkedin>http://www.linkedin.com/in/stephenrsimon/</linkedin>
+      <ContactURL>http://www.sqlservercentral.com/blogs/simon_says/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLServerBoffin</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9074</importID>
+      <name>amihay gonen</name>
+      <label>
+      </label>
+      <description>Amichai has more than 20 years of experience in Databases infrastructure. A Database manager at Ectel and a Oracle VLDB (very large database) consultant, Amichai has vast experience developing and working hands on in the field as well as implementing large scale, on site, databases. Amichai served for many years in the Intelligence corps of the IDF dealing with DS and SW development.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.pythiasystems.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23793</importID>
+      <name>Saggi Neumann</name>
+      <label>
+      </label>
+      <description>Founder and CTO of Xplenty, a leading cloud big data startup,  in the last 3 years, former CTO of Valinor, a database professional services company, data expert and a family guy.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.xplenty.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21467</importID>
+      <name>Niv Feldman</name>
+      <label>
+      </label>
+      <description>.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.pyramidanalytics.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19159</importID>
+      <name>Lior Cohen Amikam</name>
+      <label>
+      </label>
+      <description>BI Group Manager at Naya Technologies.Prior positions include CTO at Eternity-it, BI Team Leader and Developer at Elad Systems, Walla, Nuconomy, Metacafe and Hotbar..comNotable clients include Banks, Insurance companies, Internet companies, Online Trading Companies and Startups.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19801</importID>
+      <name>Matan Yungman</name>
+      <label>
+      </label>
+      <description>Matan Yungman is a Data Engineering Team Lead at Taboola</description>
+      <twitter>MatanYungman</twitter>
+      <linkedin>http://il.linkedin.com/in/matanyungman/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MatanYungman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>9834</importID>
+      <speakers>
+        <speaker>
+          <id>9834</id>
+          <name>Ronen Ariely</name>
+        </speaker>
+      </speakers>
+      <track>1.Enterprise Database Administration  Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL CLR from 2005 to 20015, Not how, but why and when</title>
+      <description>2005, Big buzz…. Microsoft added a NEW FEATURE to the SQL Server, which allow users to extend the Server abilities, by importing external CLR libraries. Hundreds of articles and discussions were held around the same time, asking: is Transact-SQL dead? Today we are celebrating Tenth Birthday to CLR feature, and it is best time to open the discussion and get some insights regarding this OLD FEATURE.
+
+In this session we are going to focus on the questions WHY to use SQLCLR, and not less important WHEN to use it over transact-SQL. We are not going to talk about HOW to use it. We are going to demonstrate the SQLCLR abilities in practice (all code will be publish latter), we are going to compare different solutions, explain why you have to use it, and show that in practice we all using SQLCLR, yet most DBAs do not write their own code. As part of the demonstrations, we will show how to implement new features from SQL server 2012 / 2014 on older versions.
+</description>
+      <startTime>1/19/2015 12:00:00 AM</startTime>
+      <endTime>1/19/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>23793</importID>
+      <speakers>
+        <speaker>
+          <id>23793</id>
+          <name>Saggi Neumann</name>
+        </speaker>
+      </speakers>
+      <track>2.BI Platform Architecture</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Big Data: Become a data engineer or kick the bucket!</title>
+      <description>As a long time database consultant, and the current CTO of Xplenty, I've seen many organizations taking in new data technologies and handling the changes with various degrees of success, as well as how these changes affected the data team within the organization.
+
+In this talk I'll discuss the rapid technological changes in the Big Data and NoSQL world and the implications to a business adopting these technologies. 
+
+One outcome of adopting big data technology is that it's not easily accessible to people who touch data on a daily basis, which may quickly become a bottleneck in the organization. Turning into a full-fledged Data Engineer can be challenging, but it is possible. I'll discuss the skills DBAs and BI people need to learn and unlearn in order to work under new data paradigms. I will also review various new and emerging tools as well as integration with older platforms that allow for smoother migration into the new world.
+</description>
+      <startTime>1/19/2015 12:00:00 AM</startTime>
+      <endTime>1/19/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>25617</importID>
+      <speakers>
+        <speaker>
+          <id>25617</id>
+          <name>Steve Simon</name>
+        </speaker>
+      </speakers>
+      <track>2.BI Platform Architecture</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Reporting Services Best Practices</title>
+      <description>SQL Server Reporting Services is a phenomenal tool to get the ‘good word’ out to management. Working with Reporting Services can be challenging at times (to say the least) and one learns to work with its subtleties and nuances.
+In this hands on presentation, we shall be discussing some best practices that one should follow during the project life cycle from development to the production and implementation phases.
+We shall be discussing the pros and cons of utilizing shared datasets, the pluses and pitfalls of utilizing embedded reports, report utilization logging, utilization of graphics and the portability of solutions from one server to another.
+</description>
+      <startTime>1/19/2015 12:00:00 AM</startTime>
+      <endTime>1/19/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21467</importID>
+      <speakers>
+        <speaker>
+          <id>21467</id>
+          <name>Niv Feldman</name>
+        </speaker>
+      </speakers>
+      <track>2.BI Platform Architecture</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>How to use MS SQL 2014  Pyramid Analytics to Deliver the best Governed Self-service solution</title>
+      <description>How to use MS SQL 2014  Pyramid Analytics to Deliver the best Governed Self-service solution for your organization – a live demo </description>
+      <startTime>1/19/2015 12:00:00 AM</startTime>
+      <endTime>1/19/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14876</importID>
+      <speakers>
+        <speaker>
+          <id>14876</id>
+          <name>Guy Glantser</name>
+        </speaker>
+      </speakers>
+      <track>1.Enterprise Database Administration  Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Advanced Query Tuning Techniques</title>
+      <description>You identified a query that is causing performance issues, and your mission is to optimize it and boost performance. You looked at the execution plan and created all the relevant indexes. You even updated statistics, but performance is still bad. Now what?
+In this session we will analyze common use cases of poorly performing queries, such as improper use of scalar functions, inaccurate statistics and bad impact of parameter sniffing. We will learn through extensive demos how to troubleshoot these use cases and how to boost performance using advanced and practical techniques. By the end of this session, you'll have a list of tips and techniques to apply on your environment.</description>
+      <startTime>1/19/2015 12:00:00 AM</startTime>
+      <endTime>1/19/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9074</importID>
+      <speakers>
+        <speaker>
+          <id>9074</id>
+          <name>amihay gonen</name>
+        </speaker>
+      </speakers>
+      <track>2.BI Platform Architecture</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>harnessing the GPU power for Big Data Analytic </title>
+      <description>Today modern graphics cards have a lot of computing power for example the Nvida flagship card Tesla K40 has 2880 cores and is able to peform 4.29 T operations per second !!.
+In this  lecture I will represent the principles of developing for applications for GPU and I'll  discuses the advantages and the limitation  of using the GPU (graphic process unit) on big databases . 
+I'll presents some interesting benchmarks we've  done on a GPU database vs RDBMS and columanr database and we'll try to predict the future in the area.</description>
+      <startTime>1/19/2015 12:00:00 AM</startTime>
+      <endTime>1/19/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15264</importID>
+      <speakers>
+        <speaker>
+          <id>15264</id>
+          <name>Ido Friedman</name>
+        </speaker>
+      </speakers>
+      <track>1.Enterprise Database Administration  Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Delayed Durability - SQL Server goes wild</title>
+      <description>The first time SQL Server brakes the ACID model, this is the biggest change in the engine in a long time.
+
+See why delayed durability is one of the most important features in years and the one that can make SQL Server a valid competitor for high throw put No-SQL systems</description>
+      <startTime>1/19/2015 12:00:00 AM</startTime>
+      <endTime>1/19/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19801</importID>
+      <speakers>
+        <speaker>
+          <id>19801</id>
+          <name>Matan Yungman</name>
+        </speaker>
+      </speakers>
+      <track>2.BI Platform Architecture</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The Data Loading Performance Presentation</title>
+      <description>Microsoft has a famous whitepaper called "The Data Loading Performance Guide".
+The problem is that it's long and full of small details, and we're too lazy to read it. 
+
+On this session, we will turn the whitepaper into a presentation and see a few advanced ways to boost your data loading processes.  
+
+Among other topics, we will talk about: 
+
+•	Minimal Logging 
+•	Transaction Management
+•	Bulk Loading Methods
+•	Indexing Techniques for High Performance Data Loading
+•	Properly Leveraging Parallelism and Partitioning
+•	SQL Server 2014 Delayed Durability
+</description>
+      <startTime>1/19/2015 12:00:00 AM</startTime>
+      <endTime>1/19/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19159</importID>
+      <speakers>
+        <speaker>
+          <id>19159</id>
+          <name>Lior Cohen Amikam</name>
+        </speaker>
+      </speakers>
+      <track>2.BI Platform Architecture</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Managing a BI Project Successfuly</title>
+      <description>How do we measure the success of a BI Project?How can we assure the customer is pleased with the project result?BI Projects pose a considerable challenge and successful management has always been an elusive part of the BI Development life cycle.In this session we will review these concepts and receive tips and guidelines. we will be reviewing real life scenarios.Audience participation is encouraged!</description>
+      <startTime>1/19/2015 12:00:00 AM</startTime>
+      <endTime>1/19/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19110</importID>
+      <speakers>
+        <speaker>
+          <id>19110</id>
+          <name>Leonard Lobel</name>
+        </speaker>
+      </speakers>
+      <track>1.Enterprise Database Administration  Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Native File Streaming with SQL Server</title>
+      <description>In this dynamic session, Lenni will teach you the ins-and-outs of unstructured data storage and native file streaming with FILESTREAM (introduced in SQL Server 2008) and FileTable (new in SQL Server 2012). Learn how to program FILESTREAM using T-SQL and, for maximum performance, using the OpenSqlFileStream API in C#. We’ll also cover the hierarchyid data type, which casts a hierarchical structure over every FileTable, and wrap up with the full-text search improvements and new Statistical Semantic Search in SQL Server 2012 that you can leverage to get the most out of unstructured documents contained in your databases.</description>
+      <startTime>1/19/2015 12:00:00 AM</startTime>
+      <endTime>1/19/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22187</importID>
+      <speakers>
+        <speaker>
+          <id>22187</id>
+          <name>Peter Larsson</name>
+        </speaker>
+      </speakers>
+      <track>1.Enterprise Database Administration  Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Rethink Your Data Model and Make It Super Fast</title>
+      <description>Sometimes you really need an EAV model. In most cases they are ugly and slow.
+After this session you will have gained new insights how to turn your old, slow, EAV model into a slim superfast model.
+
+There will be real life examples from a recent project. With the techniques displayed in the presentation, I cut the execution time down from 134 days down to 0.5 seconds and cut the storage need from 550GB to 45GB.
+</description>
+      <startTime>1/19/2015 12:00:00 AM</startTime>
+      <endTime>1/19/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13751</importID>
+      <speakers>
+        <speaker>
+          <id>13751</id>
+          <name>Eitan Lipovetskey</name>
+        </speaker>
+      </speakers>
+      <track>1.Enterprise Database Administration  Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Spatial data type and its implementation</title>
+      <description>An introduction to the Spatial data type and the functions related to it.
+An interesting implementation developed by the speaker combining SSRS and cellular technologies will be presented.</description>
+      <startTime>1/19/2015 12:00:00 AM</startTime>
+      <endTime>1/19/2015 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

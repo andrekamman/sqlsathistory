@@ -1,0 +1,772 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #100 - São Paulo 2011</name>
+    <startDate>11/26/2011 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT-03:00) Greenland</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat100</twitterHashtag>
+    <venue>
+      <name>Microsoft Brasil - Av das Nações Unidas </name>
+      <street>12901 - Itaim Bibi</street>
+      <city>São Paulo</city>
+      <state>, Brazil</state>
+      <zipcode>04795-100</zipcode>
+      <longitude>-46.697511</longitude>
+      <latitude>-23.609522</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1355</importID>
+      <name>SolidQ</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.solidq.com/es</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/921/EventSponsor_14422.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>807</importID>
+      <name>Mainwork Software</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.mainwork.com.br</url>
+      <imageURL>https://www.mainwork.com.br/v2/wp-content/uploads/Mainwork_Logo_branco.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>775</importID>
+      <name>KA Solution</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.kasolution.com.br</url>
+      <imageURL>https://www.kasolution.com.br/IMAGENS/cabecalho/ka/Lg_ka_18anos.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>190</importID>
+      <name>DoomTech</name>
+      <label>Blog Sponsor</label>
+      <url>http://leka.com.br</url>
+      <imageURL>https://bigleka.files.wordpress.com/2013/07/leka-170x60.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1044</importID>
+      <name>Rodney Landrum</name>
+      <label>Blog Sponsor</label>
+      <url>http://www.simple-talk.com/community/blogs/rodney/default.aspx</url>
+      <imageURL>https://www.gravatar.com/userimage/16784380/8cee550e094a6a1342f636f901112254?size=20048</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>902</importID>
+      <name>TTSSUG</name>
+      <label>Blog Sponsor</label>
+      <url>http://www.nigelpsammy.com/</url>
+      <imageURL>https://3.bp.blogspot.com/_oskJBo0ovcQ/TD4ajgPYSRI/AAAAAAAAACQ/4FZd6qScbYY/S1600-R/ttssug_blog.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>107</importID>
+      <name>SQLAuthority.com</name>
+      <label>Blog Sponsor</label>
+      <url>http://blog.sqlauthority.com</url>
+      <imageURL>https://www.pinaldave.com/bimg/sa.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>281</importID>
+      <name>SQLChicken</name>
+      <label>Blog Sponsor</label>
+      <url>http://sqlchicken.com</url>
+      <imageURL>https://a2.twimg.com/profile_images/1414278939/91fe95ff-5821-45bd-bab3-2ee27fe543bc.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>265</importID>
+      <name>Myself</name>
+      <label>Blog Sponsor</label>
+      <url>http://shellyourexperience.wordpress.com</url>
+      <imageURL>http://i55.tinypic.com/1zbffw0.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>236</importID>
+      <name>Shay Levy</name>
+      <label>Blog Sponsor</label>
+      <url>http://PowerShay.com</url>
+      <imageURL>https://blogs.microsoft.co.il/blogs/scriptfanatic/ShayLevyLogo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>991</importID>
+      <name>Ravichaganti.com</name>
+      <label>Blog Sponsor</label>
+      <url>http://www.ravichaganti.com/blog</url>
+      <imageURL>https://www.ravichaganti.com/uploads/2/7/9/6/2796698/3552706.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1117</importID>
+      <name>SQLServerCentral</name>
+      <label>Blog Sponsor</label>
+      <url>http://www.sqlservercentral.com</url>
+      <imageURL>https://www.sqlservercentral.com/Resources/Images/sqlservercentral_logo.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>819</importID>
+      <name>MCDBABRASIL</name>
+      <label>Blog Sponsor</label>
+      <url>http://www.mcdbabrasil.com.br</url>
+      <imageURL>https://www.mcdbabrasil.com.br/logo-mcdba-azul2.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>263</importID>
+      <name>Sev17</name>
+      <label>Blog Sponsor</label>
+      <url>http://sev17.com/</url>
+      <imageURL>https://sev17.com/wp-content/uploads/sev17.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>299</importID>
+      <name>SQLvariant</name>
+      <label>Blog Sponsor</label>
+      <url>http://sqlvariant.com/</url>
+      <imageURL>https://sqlvariant.com/BlogSupport/Images/SQLvariant_Logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>20</importID>
+      <name>O'Reilly Books</name>
+      <label>Book Sponsor</label>
+      <url>http://oreilly.com/</url>
+      <imageURL>https://oreilly.com/images/oreilly/oreilly.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1357</importID>
+      <name>SSWUG.org</name>
+      <label>Book Sponsor</label>
+      <url>https://www.sswug.org/</url>
+      <imageURL>https://www.sswug.org/img/SSWUG_LOGO-170-notag.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>29905</importID>
+      <name>Diego Nogare</name>
+      <label>
+      </label>
+      <description>Diego Nogare is Chief Data Officer @ Lambda3. He has graduated in Computer Science, Post-Graduated in Computer Engineering. Author of books in Portuguese about SQL Server, Business Intelligence and Machine Learning. Microsoft Most Valuable Professional [MVP] since 2008, shifting to Artificial Intelligence award in 2017. Spent a time as volunteer at PASS, as, Regional Mentor (2014/2015), Regional Board Advisor for LATAM (2016) and Board Director (2018/2019). Worked on the SQL Server team at Microsoft, in Brazil, engaged in the release of SQL Server 2012. Spent some time as a speaker at Microsoft and PASS events.</description>
+      <twitter>@DiegoNogare</twitter>
+      <linkedin>https://br.linkedin.com/in/diegonogare</linkedin>
+      <ContactURL>http://www.diegonogare.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@DiegoNogare</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30258</importID>
+      <name>Gustavo Maia Aguiar</name>
+      <label>
+      </label>
+      <description>Profissional entusiasta do mundo de banco de dados e armazenamento, passou por v#225;rias empresas e hoje trabalha em uma das maiores institui#231;#245;es financeiras do pa#237;s atuando como l#237;der de banco de dados. Acostumado com ambientes de miss#227;o cr#237;tica e palestrante recorrente em eventos ligados a banco de dados e a tecnologias Microsoft.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://gustavomaiaaguiar.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32083</importID>
+      <name>Nilton Pinheiro</name>
+      <label>
+      </label>
+      <description>Nilton has 18+ years of SQL Server experience and is the co-author of the book "SQL Server 2014: High Availability in Practice with AlwaysOn Failover Cluster Instances". He worked as a SQL Server Specialist at Itaú Bank (Brazil) for 11 years working on design and coordination of large database infrastructure projects involving deployment and migration of mission-critical servers. Nilton worked at IBM for 4 years as a SQL Server SME and also at Microsoft as a Sr. Support Engineer in the Microsoft CSS SQL team. Speaker at events like SQLSaturday, TechEd, MS Tech Summit and others, he was Microsoft MVP for 11 years and holds SQL Server MCSA\MCSE certifications. Currently he is a Sr. Database Consultant at AGAP2 IT, working in Brussels.</description>
+      <twitter>nilton_pinheiro</twitter>
+      <linkedin>http://br.linkedin.com/in/niltonpinheiro</linkedin>
+      <ContactURL>http://www.mcdbabrasil.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=nilton_pinheiro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30178</importID>
+      <name>Fabiano Amorim</name>
+      <label>
+      </label>
+      <description>Fabiano Amorim is a Data Platform MVP that loves to conquer complex, challenging problems—especially ones that others aren’t able to solve. He first became interested in technology when his older brother would bring him to his work meetings at the age of 14. With over a decade of experience, Fabiano is well known in the database community for his performance tuning abilities. When he isn’t working, he loves to read and spend time with his family.</description>
+      <twitter>mcflyamorim</twitter>
+      <linkedin>https://www.linkedin.com/in/fabianoamorim/</linkedin>
+      <ContactURL>http:\\blogfabiano.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mcflyamorim</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33815</importID>
+      <name>Daniel CAMILLO </name>
+      <label>
+      </label>
+      <description>Daniel CAMILLO atualmentete atua como especialista em soluções de Infra-estrutura, gerenciamento e virtualização, já foi especialista em soluções de BI, banco de dados e soluções para nuvem na Microsoft Brasil, auxiliando clientes e parceiros na escolha e definição da melhor solução à ser adotada. Evangelista, palestrante e instrutor de tecnologias Microsoft já ministrou palestras e treinamentos no segmento de TI em todo o território nacional nas mais conceituadas instituições de ensino, empresa</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34530</importID>
+      <name>Thiago Zavaschi</name>
+      <label>
+      </label>
+      <description>Thiago is master in computer science (pattern recognition area).
+Worked for a Microsoft Partner as SQL Server group lead, implementing BI solutions (PowerPivot, SSAS, etc) and another consulting tasks related to SQL Server like query tuning and clustering.
+Now works for a Microsoft as Premier Field Engineer (BI/DW) and is a former SQL Server MVP.</description>
+      <twitter>@zavaschi</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.zavaschi.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@zavaschi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30186</importID>
+      <name>Marcelo Fernandes</name>
+      <label>
+      </label>
+      <description>Marcelo Fernandes atua no mercado há 10 anos, especializado na área de Banco de dados. Possui as certificações MCP/MCDBA/MCSA/MCTS, atualmente trabalha como DBA em uma grande instituição financeira com projetos focados para alta performance e disponibilidade, e compartilha seus conhecimentos através de webcasts, palestras e artigos sobre tecnologias Microsoft.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33842</importID>
+      <name>Vitor Fava</name>
+      <label>
+      </label>
+      <description>I'm a DBA with extensive experience in the areas of Database and Information Technology, working on planning, implementation, and maintenance of large corporate database servers. 
+I have several professional certifications and good experience in development activities and management of entrepreneurial environments using SQL SERVER. 
+I'm a speaker at various technology events such as SQL Saturday, The Developers Conference, InteropMix and also in various discussion groups focused on database technology.
+I teach advanced training in SQL Server and Azure SQL Database and also acting as MCT in Microsoft official training.
+I'm the Chapter Leader of SQLManiacs PASS chapter.</description>
+      <twitter>sqlservermaniacs</twitter>
+      <linkedin>https://br.linkedin.com/in/vitorfava</linkedin>
+      <ContactURL>https://www.vitorfava.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlservermaniacs</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31521</importID>
+      <name>Lucas Romão</name>
+      <label>
+      </label>
+      <description>Lucas A. Romão trabalha atualmente como software designer na INVIT (www.invit.com.br) no "Projeto Guarda-Costas" com foco em Windows Azure (http://www.projetoguardacostas.com.br/en-us/Paginas/default.aspx). A mais de 15 anos está na área de TI sendo os últimos 4 anos com desenvolvimento de softwares, é MVP em Windows Azure MVP, mantém um Blog pessoal, é líder da comunidade "Azure Services Br" (http://azureservicesbr.ning.com) e palestrante.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://laromao.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30187</importID>
+      <name>Felipe Ferreira</name>
+      <label>
+      </label>
+      <description>Felipe Ferreira (@SQLBoy) é Diretor de Operações na SolidQ Brasil, onde atua atendendo clientes do mundo todo, principalmente nas áreas de DW/BI. É palestrante frequente nos maiores eventos da área, como o Microsoft Teched, Microsoft CodeCamp Argentina e SQL 24 Hours of PASS LATAM e pode ser visto também escrevendo artigos em seu blog http://blogs.solidq.com/fferreira</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.solidq.com/fferreira</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33851</importID>
+      <name>Viviane Ribeiro</name>
+      <label>
+      </label>
+      <description>Viviane Ribeiro é Especialista em SQL Server e Business Intelligence no time de Comunidades Técnicas da Microsoft Brasil.  Com mais de 13 anos de experiência na área de TI, atuando como profissional certificada Microsoft desde 2000. Engloba em seu currículo a participação dentro do time de Engenharia de Banco de Dados da Dell, atuando como responsável pela parte de CSI e Problem Management, além de ter realizado diversos projetos de implantação e migração de produtos Microsoft.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://vivianeribeiro1.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31522</importID>
+      <name>Luciano Moreira</name>
+      <label>
+      </label>
+      <description>Luciano Moreira is owner of Sr. Nimbus, a consulting and training company. MVP and SQL Server specialist, in the past years he#39;s trying to explore other database engines, relational or not, besides studying subjects related to data science and solution#39;s architecture. Divides his professional time between consulting, training and technical community, helping companies to develop data solutions, utilizing efficiently their products and, of course, troubleshooting hard SQL Server issues.</description>
+      <twitter>@luticm</twitter>
+      <linkedin>http://www.linkedin.com/in/luticm</linkedin>
+      <ContactURL>http://luticm.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@luticm</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32624</importID>
+      <name>Rodney Landrum</name>
+      <label>
+      </label>
+      <description>Rodney Landrum has been architecting solutions for SQL Server for over 12 years. He has worked with and written about many SQL Server technologies, including DTS, Integration Services, Analysis Services, and Reporting Services. He has co-authored 4 books on Reporting Services. He is been a regular contributor to SQL Server magazine, sqlservercentral.com and Simple-talk.com. Rodney is also SQL Server MVP</description>
+      <twitter>@SQLBeat</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://www.simple-talk.com/blogs/author/2133-rodney-landrum/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLBeat</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29982</importID>
+      <name>Andressa Martins</name>
+      <label>
+      </label>
+      <description>Andressa Martins, Graduada em Tecnologia de Banco de Dados, atua como DBA - ETL SQL Server. Presença constante em comunidades de tecnologias Microsoft, participando e organizando eventos, webcasts e conteúdos relacionados ao SQL Server.Mantém os blogs http://estudandopara70433.wordpress.com/ e http://sqlgo.wordpress.com/ </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlgo.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31484</importID>
+      <name>Laerte Junior</name>
+      <label>
+      </label>
+      <description>Laerte Junior  through his technology blog and simple-talk articles, an active member of the Microsoft community in Brasil. He is a skilled Principal Database Architect, Developer, and Administrator, specializing in SQL Server and Powershell Programming with over 8 years of hands-on experience. He holds a degree in Computer Science, has been awarded a number of certifications (including MCDBA), and is an expert in SQL Server 2000 / SQL Server 2005 / SQL Server 2008. Also is developer at SQLPSX </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://shellyourexperience.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32229</importID>
+      <name>Mauro Pichiliani</name>
+      <label>
+      </label>
+      <description>Mauro Pichiliani é bacharel em Ciência da Computação, mestre e doutorando pelo ITA (Instituto Tecnológico de Aeronáutica) e MCP, MCDBA e MCTS. Trabalha há mais de 10 anos utilizando diversos bancos de dados, como o SQL Server, Oracle e MySQL. É escritor da revista SQL Magazine, colunista de SQL Server do web site iMasters  (http://www.imasters.com.br) e mantenedor do DatabaseCast (@databasecast), o podcast brasileiro sobre banco de dados.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.imasters.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34611</importID>
+      <name>Dennes Torres</name>
+      <label>
+      </label>
+      <description>Dennes Torres is a Data Platform MVP with more than 25 years of experience in the IT area. He improves Data Platform Architectures and turns data into knowledge. As a Brazilian living in Malta, Dennes works as a software developer and leads the Malta MDP User Group. Having the MCSE Data Platform, Business Intelligence, and Microsoft Certified Trainer (MCT) certifications, Dennes has been in love with database servers since he was  introduced to SQL Server 6.5, more years ago than he would like to admit.</description>
+      <twitter>Dennes</twitter>
+      <linkedin>https://www.linkedin.com/in/dennestorres/</linkedin>
+      <ContactURL>https://www.red-gate.com/simple-talk/author/dennes-torres/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Dennes</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32544</importID>
+      <name>Rob Ranches</name>
+      <label>
+      </label>
+      <description>Rob Ranches trabalha com gestão de conhecimento, correio e dados não estruturados desde 89.
+Especialização em TI , MCSE e diretor da Taunet Consulting, Rob desenvolveu seu foco no atendimento da comunidade e dos clientes para estes segmentos. GTM de Mensageria ao longo dos anos anteriores e tendo trabalhado em projetos internacionais na América Latina, hoje é executivo para  Taunet  e MVP de Exchange server no Brasil.
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://mvp.support.microsoft.com/profile=77778644-D3C6-4396-B600-D664E1D5629B</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>29905</importID>
+      <speakers>
+        <speaker>
+          <id>29905</id>
+          <name>Diego Nogare</name>
+        </speaker>
+      </speakers>
+      <track>Sala 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Aplicação prática de gráficos menos comuns do SSRS</title>
+      <description>Você que já pensou em utilizar todo o potencial dos gráficos fornecidos no Reporting Services mas não enxergava uma aplicação real para alguns deles?
+Nesta sessão você poderá ver a criação e utilização de alguns dos gráficos que não são tão comuns de se encontrar nos relatórios empresariais. Assista essa sessão do MVP em SQL Server Diego Nogare e seja um diferencial dentro da sua equipe!</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33851</importID>
+      <speakers>
+        <speaker>
+          <id>33851</id>
+          <name>Viviane Ribeiro</name>
+        </speaker>
+      </speakers>
+      <track>Sala 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>As novidades do SQL Server Analysis Services</title>
+      <description>Nesta sessão nós veremos as novidades que acompanham o SQL Server codename "Denali" para o SQL Server Analysis Services. Exploraremos o BI Development Studio (BIDS), e vamos analizar algumas das oportunidades e desafios do novo modelo. Nós mostraremos algumas das grandes novidades que estão vindo para ambos, PowerPivot e BIDS para KPIs, hierarquias, DAX, diagrama, entre outros.</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32229</importID>
+      <speakers>
+        <speaker>
+          <id>32229</id>
+          <name>Mauro Pichiliani</name>
+        </speaker>
+      </speakers>
+      <track>Sala 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Aplicando o poder de uma GPU no SQL Server</title>
+      <description>O uso de GPUs (Graphical Processing Units) era exclusivo da área de computação gráfica até poucos anos atrás. Atualmente existem algumas opções para utilizar o poder de processamento das GPUs em outras áreas, inclusive banco de dados. Apesar de nenhum fabricante oficial (Microsoft, Oracle, IBM, etc) oficialmente suportar o poder de processamento de um GPU em um banco de dados, existem técnicas que podem ser utilizadas para aproveitar o poder de uma GPU no SQL Server. Esta palestra fará uma rápida introdução ao uso de GPUs e mostrará como aplicar este poder de processamento no SQL Server em situações onde o ganho de desempenho pode alcançar até 50X o tempo de execução em relação à CPU.</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30187</importID>
+      <speakers>
+        <speaker>
+          <id>30187</id>
+          <name>Felipe Ferreira</name>
+        </speaker>
+      </speakers>
+      <track>Sala 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Melhores práticas para seu Datawarehouse</title>
+      <description>Seu data warehouse ficou tão grande que é cada vez mais difícil responder os relatórios rapidamente? Ou os clientes estão ligando para reclamar que os relatórios demoram anos para rodar? Você precisa diminuir o tempo de processamento dos seus cubos? 
+Vamos ver como podemos otimizar nosso ambiente, nossa base de dados e nossas técnicas de carga de dados para tirar o máximo proveito do nosso ambiente. </description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33842</importID>
+      <speakers>
+        <speaker>
+          <id>33842</id>
+          <name>Vitor Fava</name>
+        </speaker>
+      </speakers>
+      <track>Sala 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Alta Disponibilidade com o SQL Server R2</title>
+      <description>Todo ambiente de missão crítica quer alcançar os famossos 5 noves, ou seja, 99,999% de disponibilidade.
+Como podemos atingir esta meta com o SQL Server 2008 R2?
+Nesta sessão discutiremos as principais soluções de alta disponibilidade de banco de dados existentes na versão SQL Server 2008 R2 junto com uma discussão sobre suas vantagens e desvantagens.</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31484</importID>
+      <speakers>
+        <speaker>
+          <id>31484</id>
+          <name>Laerte Junior</name>
+        </speaker>
+      </speakers>
+      <track>Sala 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Hey PowerShell eventing, você pode me notificar ?</title>
+      <description>Nesta sessão, veremos como o PowerShell junto com SMO, WMI e WQL (Windows Query Language) pode ser util na notificação de eventos, tais como Finalizar restores assincronos, parada de serviço, espaço em livre em disco.
+Veremos um pouco sobre advanced functions e como criar seus próprios cmdlets usando-as.
+Será uma sessão de alto nivel técnico, então preparem seus neurônios. Prometo fritá-los um pouco.</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32083</importID>
+      <speakers>
+        <speaker>
+          <id>32083</id>
+          <name>Nilton Pinheiro</name>
+        </speaker>
+      </speakers>
+      <track>Sala 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Denali AlwaysOn: Alta Disponibilidade para...</title>
+      <description>--- SQL Denali AlwaysOn: Alta Disponibilidade para Pequenos, Médios e Grandess Ambientes
+Implementado no SQL Server Denali, AlwaysOn é uma nova solução de Alta Disponnibilidade e Disaster Recovery (HADR) que permite a você agrupar seus bancos de dados mais críticos em grupos de alta disponibilidade maximizando a disponibilidade de um ou mais bancos de dados e permitindo que os bancos de dados possam participar de um failover como uma única unidade. Nesta sessão Nilton Pinheiro mostrará como configurar HADR com AlwaysOn de forma a implentar alta disponibilidade em pequenos, médios e grandes ambientes.</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30186</importID>
+      <speakers>
+        <speaker>
+          <id>30186</id>
+          <name>Marcelo Fernandes</name>
+        </speaker>
+      </speakers>
+      <track>Sala 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Protegendo seu banco com o TDE</title>
+      <description>Nesta sessão teremos conhecermos uma das novas funcionalidades do SQL Server 2008 o Transparent Data Encryption.
+Em seu ambieten você pode tomar vários cuidados para proteger seu ambiente, mas imagine se um funcionário mal intencionado rouba o seu arquivo de backup do banco... ele terá acesso ao seus dados, o TDE vai te ajudar a proteger os arquivos do banco e até mesmo o seu backup.</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34530</importID>
+      <speakers>
+        <speaker>
+          <id>34530</id>
+          <name>Thiago Zavaschi</name>
+        </speaker>
+      </speakers>
+      <track>Sala 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Programação DAX Avançada</title>
+      <description>No novo BI Semantic Model da Microsoft há a possibilidade do armazenamento tabular das informações (em paralelo há também o armazenamento multi-dimensional - padrão atual do SSAS) e para a sua manipulação, bem como dos modelos criados através do PowerPivot é necessário a utilização da linguagem DAX (Data Analysis Expressions).
+Nesta sessão vamos aprender a como programar em DAX (já com as modificações do Denali).</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30258</importID>
+      <speakers>
+        <speaker>
+          <id>30258</id>
+          <name>Gustavo Maia Aguiar</name>
+        </speaker>
+      </speakers>
+      <track>Sala 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Replicação em ambientes mistos com SSB, XML e .NET</title>
+      <description>Várias organizações adotam o SQL Server como principal SGBD, mas em muitas delas é comum haver heterogeneidade de SGBDs e presença de outras plataformas (DB2, ORACLE, MySQL, etc) além da necessidade de transportar dados para esses outros bancos de dados. Veja como combinar algumas tecnologias que viabilizam a entrega de dados a partir do SQL Server para outros ambientes não Microsoft.</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33815</importID>
+      <speakers>
+        <speaker>
+          <id>33815</id>
+          <name>Daniel CAMILLO </name>
+        </speaker>
+      </speakers>
+      <track>Sala 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title> DBA MANTENHA O SEU FOCO!! SQL SERVER + SYSTEM CE</title>
+      <description>Nesta sessão mostraremos com a familia System Center, em especial o System Center Operation Manager, pode ajudar o DBA a manter o foco nas tarefas mais relevantes e nobres para a sua função. Deixando tarefas rotineiras, atividades repetitivas e ações de monitoramento do ambiente bem como algumas ações a cargo do System Center. Não Percam!!!</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30178</importID>
+      <speakers>
+        <speaker>
+          <id>30178</id>
+          <name>Fabiano Amorim</name>
+        </speaker>
+      </speakers>
+      <track>Sala 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Windows Functions and Denali</title>
+      <description>Once upon a time in a kingdom of darkness… Denali + Windows Functions…  and they lived happily ever after…
+This session describes the improvements in Windows Functions T-SQL support from SQL Server 2005 through SQL Server 11 --code-named "Denali". Also this session covers the new T-SQL commands introduced on Denali that can help in group calculations. SQL Server MVP Fabiano Amorim will show many samples of how Windows Functions works and explain how they can help-us to write better, more elegant, fast, and efficient code on SQL Server. Functions like, ROW_NUMBER, RANK, DENSE_RANK, NTILE, LEAD, LAG, FIRST_VALUE, LAST_VALUE, PERCENT_RANK, CUME_DIST, OVER Clause, Frame selection and much more.</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31521</importID>
+      <speakers>
+        <speaker>
+          <id>31521</id>
+          <name>Lucas Romão</name>
+        </speaker>
+      </speakers>
+      <track>Sala 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Escalando soluções de BD com SQL Azure Federations</title>
+      <description>Aprenda a tornar suas Base de Dados Escaláveis e Elásticas utilizando o SQL Azure Federations.
+Nesta sessão você aprenderá o que são: Federations, Federation Members, Federation Root, Federation Distribution Key, Atomic Unit, dentre outros ao mesmo tempo que aplicamos o conceito de Federação em uma Base de Dados.</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31522</importID>
+      <speakers>
+        <speaker>
+          <id>31522</id>
+          <name>Luciano Moreira</name>
+        </speaker>
+      </speakers>
+      <track>Sala 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Por dentro dos wait types no SQL Server</title>
+      <description>Essa sessão têm por objetivo explicar o que são wait types, discutir um pouco do funcionamento da engine do SQL Server, qual quais os wait types mais comuns e seu significado. Se você cansou de olhar para a sys.dm_os_wait_stats sem entender direito o que o SQL Server está te informando, essa sessão é para você. 
+Nota: não é uma sessão introdutória, então se usarmos xEvents ou outros recursos do SQL Server, provavelmente não teremos tempo de explicá-las em detalhes.</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32624</importID>
+      <speakers>
+        <speaker>
+          <id>32624</id>
+          <name>Rodney Landrum</name>
+        </speaker>
+      </speakers>
+      <track>Sala 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>T-SQL Alphabet Soup</title>
+      <description>Come see the quick brown fox jump over the lazy dog in creative T-SQL coding ways and possibly learn a few obscure commands you were not familiar with. This session will show 26 unique quries using T-SQL keywords that start with every letter of the alphabet.
+ </description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29982</importID>
+      <speakers>
+        <speaker>
+          <id>29982</id>
+          <name>Andressa Martins</name>
+        </speaker>
+      </speakers>
+      <track>Sala 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Novidades do Denali para Integration Services</title>
+      <description>Conheça as novas funcionalidades do SSIS que estão disponiveis no Denali</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34611</importID>
+      <speakers>
+        <speaker>
+          <id>34611</id>
+          <name>Dennes Torres</name>
+        </speaker>
+      </speakers>
+      <track>Sala 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Criando Bancos com MS "Juneau"</title>
+      <description>Nesta apresentação você irá conhecer o "Juneau", também chamado de SSDT - SQL Server Developer Tools - e descobrir como o SSDT auxilia a união do trabalho entre DBA's e desenvolvedores</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32544</importID>
+      <speakers>
+        <speaker>
+          <id>32544</id>
+          <name>Rob Ranches</name>
+        </speaker>
+      </speakers>
+      <track>Sala 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Criando novas aplicações de BI usando Crescent</title>
+      <description>Esta sessão visa demonstra a aplicação e criação de soluções utilizando o novo modelo semântico e novo modelo de analysis server no modo tabular , gerando uma aplicação com o crescent ao longo da sessão e demonstrando as características desta ferramenta/servidor/tecnologia.</description>
+      <startTime>11/26/2011 12:00:00 AM</startTime>
+      <endTime>11/26/2011 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

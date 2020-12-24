@@ -1,0 +1,22 @@
+# SQLSaturday #1002  – Lima – BI Edition – Virtual 2020
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:00:00|Miguel Arturo Valle Pelaez|Ai and Machine Learning|[IA   SQL Server 2019 Machine Learning Service](106005.md)
+09:00:00|Gian Carlo Poggi Escobar|Data Warehousing|[Azure Synapse Analytics - Power BI Integration  Performance](107352.md)
+09:00:00|Raul Martin Sarachaga Diaz|Power BI |[Consultando Millones de Registros con Power BI](107397.md)
+10:00:00|Alex Rostan|Ai and Machine Learning|[AI Power - Cognitive Services and Power BI](105980.md)
+10:00:00|Martha Chávez|Data Warehousing|[Working with Data Factory](107351.md)
+10:00:00|Miguel Martinez|Power BI |[3 formas de monitorear datos en tiempo real con Power BI](107561.md)
+11:00:00|Kamal Valero|Ai and Machine Learning|[Detección de anomalias en Azure Stream Analytics usando Machine Learning](105958.md)
+11:00:00|Ana Maria Bisbé York|Power BI |[Escenarios de modelado en DAX, el súper lenguaje de Power BI.](105968.md)
+11:00:00|Ahias Portillo|Data Warehousing|[Técnicas de consultas avanzadas para Datawarehouse](107085.md)
+13:00:00|Maximiliano Damian Accotto|Data Warehousing|[SQL Server Machine Learning y Big Data cluster](105997.md)
+13:00:00|Cristobal Ibarra|Ai and Machine Learning|[AI Video Insights with Azure](107348.md)
+13:00:00|Alejandro Humberto Sánchez Núñez|Power BI |[Power BI Intelligence - All Types Calendars](107557.md)
+14:00:00|Gaston Cruz|Power BI |[Ventajas en Enterprise BI con XMLA Endpoints](105963.md)
+14:00:00|Ricardo Estrada|Data Warehousing|[Patrones avanzados con SSIS](107241.md)
+14:00:00|Raul Martin Sarachaga Diaz|Ai and Machine Learning|[Computer Vision con Azure Cognitive Services](107347.md)
+15:00:00|Javier Villegas|Power BI |[Casos de uso de Power BI y Analysis Services](105954.md)
+15:00:00|Mariano Irvin Lopez Jaramillo|BI Information Delivery|[Building an EDSS with Delta Lake in Databricks](106003.md)
+15:00:00|Juan Rafael|Power BI |[PowerBI con Dynamics 365 for Sales.](107034.md)
+15:00:00|Sonia Bravo|Data Warehousing|[Integración y entrega continua (CI/CD) para procesos de analítica de datos sobre Azure Databricks](107088.md)

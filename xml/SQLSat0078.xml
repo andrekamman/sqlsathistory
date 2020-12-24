@@ -1,0 +1,305 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #78 - Portugal 2011</name>
+    <startDate>4/15/2011 12:00:00 AM</startDate>
+    <attendeeEstimate>150</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat78</twitterHashtag>
+    <venue>
+      <name>Edifício Qualidade, C1 - C2 Av. Prof. Doutor Aníbal Cavaco Silva</name>
+      <street>
+      </street>
+      <city>Porto Salvo</city>
+      <state>Prishtina, Portugal</state>
+      <zipcode>2744-010</zipcode>
+      <longitude>-9.299843</longitude>
+      <latitude>38.735392</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>854</importID>
+      <name>Microsoft Portugal</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.pt</url>
+      <imageURL>https://sqlport.com/sql-server/sites/default/files/microsoft.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1135</importID>
+      <name>SQLWorkshops.com</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.sqlworkshops.com</url>
+      <imageURL>https://images.sqlworkshops.com/SQLSaturdayLogo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1016</importID>
+      <name>Rumos</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.rumos.pt</url>
+      <imageURL>https://formacao.rumos.pt/mmedia/logo_rumos_170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>23</importID>
+      <name>Pragmatic Works</name>
+      <label>Friend</label>
+      <url>http://www.pragmaticworks.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/973/EventSponsor_14499.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>33</importID>
+      <name>Telerik</name>
+      <label>Friend</label>
+      <url>http://www.telerik.com/</url>
+      <imageURL>https://s3.amazonaws.com/rockdale_media/projects/543439b0fd67d36b7f000007/Telerik_brandmark_color_without_tagline_Black_1412710457532.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>32538</importID>
+      <name>Ramesh Meyyappan</name>
+      <label>
+      </label>
+      <description>Ramesh Meyyappan is a SQL Server specialist with expertise in Performance Tuning. Ramesh worked at Microsoft Corporation from 1994 to 2004. Nearly half of that time he worked in Redmond in the development teams - specifically as Program Manager in the SQL Server Development Team. Ramesh now offers onsite and offsite consulting and workshops independently as well as by partnering with various Microsoft Subsidiaries.
+Ramesh presented at Microsoft Norway organized TechDays 2011, delivered training for Microsoft Denmark Premier Customers during 2011 and 2012, delivered 1 day and 3 day event for Microsoft Finland.
+Webcasts: www.sqlworkshops.com/webcasts Articles: www.sqlworkshops.com/article
+</description>
+      <twitter>@SQLWorkshops</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlblogcasts.com/blogs/sqlworkshops/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLWorkshops</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28871</importID>
+      <name>Artur Santos</name>
+      <label>
+      </label>
+      <description>Artur Santos, is a trainer  consultant with more than 14 years of experience. Using SQL Server from 6.5, has created several workshops e sessions in SQL Server  SharePoint. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32114</importID>
+      <name>Nuno Godinho</name>
+      <label>
+      </label>
+      <description>Independent Consultant, with 10 years of Experience. Speaker in some main development events for Microsoft Portugal like MSDN, TechDays, DevDays. Also in some international events like TechEd Europe and TechEd Online Worldwide with Building Mesh-Enabled Applications.
+ Main services are Mentoring,Consulting and Advanced Training in Solutions Architecture,and of course .NET Framework related technologies (Windows Azure, Silverlight, Windows Phone 7, ASP.NET and other related techologies</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://msmvps.com/blogs/nunogodinho</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32539</importID>
+      <name>Ramesh Meyyappan</name>
+      <label>
+      </label>
+      <description>Ramesh Meyyappan is a SQL Server specialist with expertise in Performance Tuning. Ramesh worked at Microsoft Corporation from 1994 to 2004. Nearly half of that time he worked in Redmond in the development teams - specifically as Program Manager in the SQL Server Development Team. Ramesh now offers onsite and offsite consulting and workshops independently as well as by partnering with various Microsoft Subsidiaries.
+Ramesh presented at Microsoft Norway organized TechDays 2011, delivered training for Microsoft Denmark Premier Customers during 2011 and 2012, delivered 1 day and 3 day event for Microsoft Finland.
+Webcasts: www.sqlworkshops.com/webcasts Articles: www.sqlworkshops.com/article
+</description>
+      <twitter>@SQLWorkshops</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlblogcasts.com/blogs/sqlworkshops/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLWorkshops</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32048</importID>
+      <name>Niko Neugebauer</name>
+      <label>
+      </label>
+      <description>Niko Neugebauer is a consultant for the biggest portuguese IT company - Novabase, where his responsibilities include development of a monitoring system based on SQL Server. He is a founder and actual leader of the Portuguese SQL Server User Group (SQLPort.com) and he is a PASS regional mentor for Western Europe.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqlport.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32811</importID>
+      <name>Scott Stauffer</name>
+      <label>
+      </label>
+      <description>Scott Stauffer (@SQLSocialite) is very PASSionate about data and enjoys meeting with like-minded data geeks. He started the Vancouver PASS Chapter in 2004. In 2008, Scott was recognized by Microsoft with a SQL Server MVP award. In 2009, Scott started a PASS BI Chapter in Vancouver, and was also at one time the PASS Regional Chapter Mentor for Canada. For over 10 years he has been an independent consultant working with clients to solve their data woes and extract insight from their business data.</description>
+      <twitter>@SQLSocialite</twitter>
+      <linkedin>http://www.linkedin.com/in/scottstauffer</linkedin>
+      <ContactURL>http://scottstauffer.ca</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLSocialite</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32200</importID>
+      <name>Pedro Rosa</name>
+      <label>
+      </label>
+      <description>Formação e Desenvolvimento utilizando as últimas tecnologias são as àreas onde mais tem prazer em trabalhar. Foi durante 5 anos formador das empresas Rumos e ACEPLus e durante os últimos 5 anos trabalhou na Microsoft em áreas onde a técnologia nova, inovadora primeiro passa . Com especial interesse em Sharepoint, Mapping Tecnologies, Cloud, Experiência de Utilização e Práticas de Desenvolvimento. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.linkedin.com/profile/view?id=8247961trk=tab_pro</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>32200</importID>
+      <speakers>
+        <speaker>
+          <id>32200</id>
+          <name>Pedro Rosa</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to SQL Azure Reporting?</title>
+      <description>This session will cover how developers can include reporting functionality in custom applications or extend reporting functionality to support custom features.
+With the preview release of new SQL Azure Reporting capabilities, developers can now take advantage of familiar tools and development techniques to build reporting capabilities embedded within your Windows Azure Platform application. This new service delivers a set of processing components, tools, and programmatic interfaces that support the development and use of rich reports in a managed service environment. </description>
+      <startTime>4/15/2011 12:00:00 AM</startTime>
+      <endTime>4/15/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32811</importID>
+      <speakers>
+        <speaker>
+          <id>32811</id>
+          <name>Scott Stauffer</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SSIS: Overcoming Common Challenges</title>
+      <description>In this session we will explore some common business requirements that you might encounter developing an SSIS project.  We will focus on those requirements which:
+ - people commonly get tripped up with, or 
+ - has a unique design pattern, or 
+ - you need to do back flips to accomplish (do we have insurance for this?)
+Bring YOUR SSIS tricks and tips too!  This session requires audience participation too!  :)</description>
+      <startTime>4/15/2011 12:00:00 AM</startTime>
+      <endTime>4/15/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32538</importID>
+      <speakers>
+        <speaker>
+          <id>32538</id>
+          <name>Ramesh Meyyappan</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Performance Monitoring and Tuning</title>
+      <description>In this session with examples we will monitor and tune SQL Server performance. We will start with the bigger picture; monitoring overall server performance. Then we will drill down to individual queries and find ways to improve them.</description>
+      <startTime>4/15/2011 12:00:00 AM</startTime>
+      <endTime>4/15/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32048</importID>
+      <speakers>
+        <speaker>
+          <id>32048</id>
+          <name>Niko Neugebauer</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Denali CTP1 and more</title>
+      <description>This presentation will focus on some of the new features of the CTP1 of the new SQL Server version, codenamed Denali. The session will cover some of the functionalities of the CTP1 with a focus onthe T-SQL changes, as well as some of the known features of the project Juneau, plus there will be a number of the practical examples.</description>
+      <startTime>4/15/2011 12:00:00 AM</startTime>
+      <endTime>4/15/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28871</importID>
+      <speakers>
+        <speaker>
+          <id>28871</id>
+          <name>Artur Santos</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Optimizing SQL Server for Sharepoint 2010</title>
+      <description>In this session you will learn the SQL Server implementation Best Practices to support a Sharepoint 2010 Environment.
+</description>
+      <startTime>4/15/2011 12:00:00 AM</startTime>
+      <endTime>4/15/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32539</importID>
+      <speakers>
+        <speaker>
+          <id>32539</id>
+          <name>Ramesh Meyyappan</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SAP/SQL Server - Software Integration at its best!</title>
+      <description>In this session with examples we will monitor and tune Microsoft SQL Server performance issues using SQL Server and SAP tools. We will start with the bigger picture; monitoring overall database performance. Then we will drill down to individual queries and find our way to the developer who wrote the code.Take away for developers: You will learn to appreciate how a well integrated software solution feels.</description>
+      <startTime>4/15/2011 12:00:00 AM</startTime>
+      <endTime>4/15/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32114</importID>
+      <speakers>
+        <speaker>
+          <id>32114</id>
+          <name>Nuno Godinho</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Azure Overview - How to Develop and Manage it</title>
+      <description>In this session we will be looking at an overview of SQL Azure in terms of Architecture, Application Topologies it can be used and it's Provisioning Model. We'll also be looking at how Deployment can be done, and which Security we can expect on it. One of the important parts will be understanding the elements that are currently supported and not supported on the current version of SQL Azure, and what we can expect abou the future.</description>
+      <startTime>4/15/2011 12:00:00 AM</startTime>
+      <endTime>4/15/2011 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

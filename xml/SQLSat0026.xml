@@ -1,0 +1,624 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #26 - Redmond 2009</name>
+    <startDate>10/3/2009 12:00:00 AM</startDate>
+    <attendeeEstimate>408</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server</description>
+    <twitterHashtag>#sqlsat26</twitterHashtag>
+    <venue>
+      <name>The MIXER building</name>
+      <street>15255 NE 40th Street</street>
+      <city>Redmond</city>
+      <state>Washington</state>
+      <zipcode>98502</zipcode>
+      <longitude>-122.13679</longitude>
+      <latitude>47.6444294</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1072</importID>
+      <name>SolutionsIQ</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.SolutionsIQ.com</url>
+      <imageURL>https://www.solutionsiq.com/images/newsletter-logo-w2.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1127</importID>
+      <name>SQLSoft+</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.sqlsoft.com</url>
+      <imageURL>https://www.sqlsoft.com/Images/Master/Top_logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Silver Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>714</importID>
+      <name>Pearson-InformIT</name>
+      <label>Donation Sponsor</label>
+      <url>http://www.informit.com</url>
+      <imageURL>https://www.pass.org/files/a9fcf6aa-7399-404a-b3dd-53f082cf7f17.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>20</importID>
+      <name>O'Reilly Books</name>
+      <label>Donation Sponsor</label>
+      <url>http://oreilly.com/</url>
+      <imageURL>https://oreilly.com/images/oreilly/oreilly.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>34975</importID>
+      <name>Arnie Rowland</name>
+      <label>
+      </label>
+      <description>Arnie long ago realized that most issues between Developer and DBA comes from incomplete communication and a misunderstanding of each other's objectives. He is a frequent Trainer and Mentor for Developers and DBAs, bringing both sets of skills to better communicate  with teams to create a working solution. For over a decade, Arnie has been a SQL Server MVP, Certified Trainer, technical editor for several publishers, including MOC, and has served as University and Community College adjunct faculty. Clients include Fortune 500 and Multi-Nationals, Federal and State agencies, Foreign governments, and local enterprises –both public and private.</description>
+      <twitter>@ArnieRowland</twitter>
+      <linkedin>https://www.linkedin.com/in/arnie</linkedin>
+      <ContactURL>http://sqlblog.com/blogs/arnie_rowland/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ArnieRowland</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29962</importID>
+      <name>Don Watters</name>
+      <label>
+      </label>
+      <description>Don Watters is a Group Architect for Data Services at MySpace and lives in Seattle, Washington.  He has been working on Microsoft SQL Server products since version 6.5 and has over 11 years of experience with the product.  He has extensive administrative and developer experience with large OLTP and OLAP systems and enjoys learning and applying his knowledge to new and interesting database challenges including implementing Massively Parallel Processing (MPP) data warehouses.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqlsaturday.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28760</importID>
+      <name>Robert Cain</name>
+      <label>
+      </label>
+      <description>Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.</description>
+      <twitter>https://twitter.com/arcanecode</twitter>
+      <linkedin>http://www.linkedin.com/in/arcanecode</linkedin>
+      <ContactURL>http://arcanecode.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/arcanecode</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32608</importID>
+      <name>Robert Davis</name>
+      <label>
+      </label>
+      <description>Robert started his career working with SQL Server as a database developer in February 2000. In 2003, he accepted his first DBA job. Robert worked as a Data architect/DBA. In 2007, Robert started working as a contractor at Microsoft. He worked contracts at Microsoft as both a production DBA on operations teams and as a development DBA on an engineering team.
+
+In 2009, he accepted an FTE position with the PQO Ops team as an Ops Engineer (DBA). He is the technical lead for the PQO Ops SQL V-Team.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqlservercentral.com/blogs/robert_davis/default.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28758</importID>
+      <name>Robert Cain</name>
+      <label>
+      </label>
+      <description>Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.</description>
+      <twitter>https://twitter.com/arcanecode</twitter>
+      <linkedin>http://www.linkedin.com/in/arcanecode</linkedin>
+      <ContactURL>http://arcanecode.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/arcanecode</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28613</importID>
+      <name>Allan Hirt</name>
+      <label>
+      </label>
+      <description>SQLHA, LLC founder, consultant, trainer, author, and business continuity, infrastructure, and virtualization expert Allan Hirt has been working with SQL Server since 1992 when it was still a Sybase product. He has also been clustering in Windows Server since the late 1990s when it was known as Wolfpack. Currently a dual Microsoft MVP (Data Platform; Cloud and Datacenter Management) as well as a VMware vExpert, Allan works with all sizes of customers, no matter if they are on premises or in the public cloud. He also delivers training and speaks at events over the world.</description>
+      <twitter>SQLHA</twitter>
+      <linkedin>https://www.linkedin.com/pub/allan-hirt/1/b72/673</linkedin>
+      <ContactURL>http://www.sqlha.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLHA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28863</importID>
+      <name>Arnie Rowland</name>
+      <label>
+      </label>
+      <description>Arnie long ago realized that most issues between Developer and DBA comes from incomplete communication and a misunderstanding of each other's objectives. He is a frequent Trainer and Mentor for Developers and DBAs, bringing both sets of skills to better communicate  with teams to create a working solution. For over a decade, Arnie has been a SQL Server MVP, Certified Trainer, technical editor for several publishers, including MOC, and has served as University and Community College adjunct faculty. Clients include Fortune 500 and Multi-Nationals, Federal and State agencies, Foreign governments, and local enterprises –both public and private.</description>
+      <twitter>@ArnieRowland</twitter>
+      <linkedin>https://www.linkedin.com/in/arnie</linkedin>
+      <ContactURL>http://sqlblog.com/blogs/arnie_rowland/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ArnieRowland</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35049</importID>
+      <name>Buck Woody</name>
+      <label>
+      </label>
+      <description>Born helpless, naked, and unable to provide for himself, Buck Woody overcame these amazing handicaps to become a software developer, data professional, teacher, and a productive invertebrate member of society.</description>
+      <twitter>BuckWoodyMSFT</twitter>
+      <linkedin>http://www.linkedin.com/in/buckwoody</linkedin>
+      <ContactURL>http://buckwoody.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=BuckWoodyMSFT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32902</importID>
+      <name>Shalu  Goel</name>
+      <label>
+      </label>
+      <description>Shalu Goel is a Reporting Analyst for F5 Networks based in Seattle, Washington.  She has 10 years of experience with Microsoft SQL Server databases, and has developed in SQL Server Reporting Services since it was known as Rosetta.   She has experience with bringing data from disparate systems together to provide meaningful high level and detailed reporting.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32486</importID>
+      <name>Remus Rusanu</name>
+      <label>
+      </label>
+      <description>Remus Rusanu is a former SQL Server team member. For 12 years he worked on such features as Service Broker, Columnstore Indexes, Query Store and many more. In April 2016 he left Microsoft to found DBHistory.com, a simplified SQL Server monitoring and auditing product.</description>
+      <twitter>rusanu</twitter>
+      <linkedin>https://linkedin.com/in/remusrusanu</linkedin>
+      <ContactURL>http://rusanu.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=rusanu</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35410</importID>
+      <name>Ron Talmage</name>
+      <label>
+      </label>
+      <description>Ron Talmage is database administrator with B3 Group, Inc, on a major healthcare data warehouse. He is also a mentor and co-founder with SolidQ. He is a former SQL Server MVP and chapter leader of the Pacific Northwest SQL Server Users Group. He has authored numerous SQL Server white papers and contributes to SQL Server technical publications.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://rtalmage@solidq.com</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35131</importID>
+      <name>Greg Larsen</name>
+      <label>
+      </label>
+      <description>Greg Larsen has been working with SQL Server since 1999. He has authored 100's of articles related to SQL Server. He holds a MCSE Data Management and Analytics.  Greg also a SQL Server Consultant, adjunct professor and technical writer.</description>
+      <twitter>GregoryALarsen</twitter>
+      <linkedin>https://www.linkedin.com/in/grlarsen/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=GregoryALarsen</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32558</importID>
+      <name>Rob Garrison</name>
+      <label>
+      </label>
+      <description>Rob is a Data Architect working for Fiserv in Portland, Oregon. He has over twenty years of IT experience, with most of that time focused on transactional SQL Server. He has a number of articles published and speaks regularly at user groups and other events.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://persistencevision.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32609</importID>
+      <name>Robert Davis</name>
+      <label>
+      </label>
+      <description>Robert started his career working with SQL Server as a database developer in February 2000. In 2003, he accepted his first DBA job. Robert worked as a Data architect/DBA. In 2007, Robert started working as a contractor at Microsoft. He worked contracts at Microsoft as both a production DBA on operations teams and as a development DBA on an engineering team.
+
+In 2009, he accepted an FTE position with the PQO Ops team as an Ops Engineer (DBA). He is the technical lead for the PQO Ops SQL V-Team.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqlservercentral.com/blogs/robert_davis/default.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28759</importID>
+      <name>Robert Cain</name>
+      <label>
+      </label>
+      <description>Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.</description>
+      <twitter>https://twitter.com/arcanecode</twitter>
+      <linkedin>http://www.linkedin.com/in/arcanecode</linkedin>
+      <ContactURL>http://arcanecode.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/arcanecode</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32557</importID>
+      <name>Rob Garrison</name>
+      <label>
+      </label>
+      <description>Rob is a Data Architect working for Fiserv in Portland, Oregon. He has over twenty years of IT experience, with most of that time focused on transactional SQL Server. He has a number of articles published and speaks regularly at user groups and other events.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://persistencevision.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31169</importID>
+      <name>Kalen Delaney</name>
+      <label>
+      </label>
+      <description>Kalen Delaney is a Data Platform MVP who has worked with SQL Server for more than 32 years. She has provided performance consulting services and taught advanced courses on SQL Server to thousands of people and organizations. In addition to her courseware development, Kalen has been writing about SQL Server for decades. She is the primary author of SQL Server Internals and the Inside SQL Server series. Kalen is also one of the primary editors for the Red Gate SQL Server Stairways tutorials.</description>
+      <twitter>sqlqueen</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlqueen</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>28758</importID>
+      <speakers>
+        <speaker>
+          <id>28758</id>
+          <name>Robert Cain</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Full Text Searching - An Introduction</title>
+      <description>Users have become familiar with the simple search capabilities of tools like Microsoft Live Search and Google. Did you know you can give your users the same ability to search their data with SQL Server? And it's as easy as 1-2-3! Come and learn the how to setup and use full text searching with SQL Server. 
+</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32609</importID>
+      <speakers>
+        <speaker>
+          <id>32609</id>
+          <name>Robert Davis</name>
+        </speaker>
+      </speakers>
+      <track>Track 3 </track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Using SQL Trace/Profiler Effectively:</title>
+      <description>This session will cover how to use SQL Trace/Profiler effectively. Topics include converting trace templates into T-SQL scripts, running server side traces (and why you should do so), reading trace files via T-SQL. Demo will include creating a SQL job that detects high CPU utilization and starts and stops a custom SQL trace when CPU utilization crosses a predefined threshold.</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35410</importID>
+      <speakers>
+        <speaker>
+          <id>35410</id>
+          <name>Ron Talmage</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Table Partitioning Scenarios</title>
+      <description>This session will cover various scenarios for implementing table partitioning, along with anlysis of pro's and con's for each. We will start with a brief review of table partitioning basics.</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28760</importID>
+      <speakers>
+        <speaker>
+          <id>28760</id>
+          <name>Robert Cain</name>
+        </speaker>
+      </speakers>
+      <track>Track 3 </track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to Data Warehousing / BI</title>
+      <description>Business Intelligence is one of the hot job skills for 2009. In this concepts talk you will learn the concepts behind building and designing data warehouses, and cut through the buzz words so you will walk away with a clear understanding of what words like dimensions, facts, and measures mean. You'll also get a peak at the tools available in SQL Server 2008.</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35131</importID>
+      <speakers>
+        <speaker>
+          <id>35131</id>
+          <name>Greg Larsen</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>T-SQL Best Practices</title>
+      <description>This session will cover T-SQL coding best practices. The basics on how to code T-SQL statements to optimize your queries will be covered. In this session you will discover some of the common pitfalls that can cause T-SQL statements to run slow. A number of demos will be done to show how by making slight changes in your code will minimize the resources used to process your queries. From this session you will be able to take home a list of T-SQL coding guidelines to help your code more efficient T-SQL statements. </description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35049</importID>
+      <speakers>
+        <speaker>
+          <id>35049</id>
+          <name>Buck Woody</name>
+        </speaker>
+      </speakers>
+      <track> Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The SQL Server Resource Governor</title>
+      <description>SQL Server 2008 introduces a new feature called the "Resource Governor". It allows you to set limits (both minimum and maximum) on your SQL Server Instance's use of CPU and Memory - helping to prevent runaway queries, shoring up your Service Level Agreements, and aiding in consolidating your SQL Server databases onto fewer Instances or even in Virtualization. Come hear Buck Woody, Microsoft's "Real World DBA", present an introduction to this feature, and show you an overiew of it's functionality and flow.</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29962</importID>
+      <speakers>
+        <speaker>
+          <id>29962</id>
+          <name>Don Watters</name>
+        </speaker>
+      </speakers>
+      <track> Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>PowerShell for the Data Professional</title>
+      <description>Learning PowerShell is a must for all Data Professionals.  As the world of databases becomes more complex to manage and design solutions for, PowerShell is an essential tool to enable processes that were highly convoluted prior to its inception.  Come learn about how to implement PowerShell using beginner to intermediate examples to manage your environment and help ease some of the stress and strain from your every day.</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28863</importID>
+      <speakers>
+        <speaker>
+          <id>28863</id>
+          <name>Arnie Rowland</name>
+        </speaker>
+      </speakers>
+      <track>Track 3 </track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Simple Solutions for Vexing T-SQL Problems</title>
+      <description>Several problems that many folks encounter in their daily work, problems that are often difficult to conceptualize, will be discussed and then Arnie will demonstrate how to find a simple solution. 
+
+</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28759</importID>
+      <speakers>
+        <speaker>
+          <id>28759</id>
+          <name>Robert Cain</name>
+        </speaker>
+      </speakers>
+      <track>Track 3 </track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to SQL Server Integration Services</title>
+      <description>SQL Server Integration Services is Microsoft's powerful tool for doing ETL (Extract, Transform, and Load) in the Business Intelligence arena. In this introductory course you can get up to speed on the basic tools of ETL and learn how to leverage SSIS not just for BI but for data conversion as well. 
+</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32608</importID>
+      <speakers>
+        <speaker>
+          <id>32608</id>
+          <name>Robert Davis</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Database Mirroring: Maximizing Availability Throug</title>
+      <description>Database Mirroring is often thought of as a “set and forget it” technology. But what happens if there are problems and the one person on your team that knows mirroring inside and out is not there? You can have a prolonged outage or you can be prepared ahead of time and set up automation procedures for all of your database mirroring needs.
+
+This session will cover setting up processes to detect problems with database mirroring and setting up processes to automate the maintenance and disaster recovery tasks for database mirroring. Included in the session will be detecting a single database failure and automatically failing over all mirrored databases in response.
+</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28613</importID>
+      <speakers>
+        <speaker>
+          <id>28613</id>
+          <name>Allan Hirt</name>
+        </speaker>
+      </speakers>
+      <track> Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Failover Clustering with Windows Server 2008</title>
+      <description>Forget a good portion of everything you know about clustering - Windows Server 2008 changes the game. Come see how the changes and improvements affect clustered SQL Server deployments. In addition to Windows, both SQL Server 2005 and SQL Server 2008 will also be discussed. The focus will be on SQL Server 2008 and how its changes to the setup, upgrade, and patching processes (among other things) impact the configuration and administration of a clustered SQL Server 2008 instance. Live demos will be shown, and one copy of Allan’s new book, Pro SQL Server 2008 Failover Clustering, will be given away.</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34975</importID>
+      <speakers>
+        <speaker>
+          <id>34975</id>
+          <name>Arnie Rowland</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Hacking SQL / SQL Injection</title>
+      <description>Recently there has been an increase in reported SQL Injection attacks using web applications. We will discuss and demonstrate how hackers will attack a database using a web application. The methods demonstrated are freely available on the internet, and require very little skill. We will also discuss 'hardening' the database in order to protect against most attacks. The discussion will include: How to 'Think like a hacker'; The What/How of SQL Injection; Protecting against SQL injection; How to use SQL Server security to limit risk; Protecting your data; Monitoring database activities with minimal performance impact.
+
+</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31169</importID>
+      <speakers>
+        <speaker>
+          <id>31169</id>
+          <name>Kalen Delaney</name>
+        </speaker>
+      </speakers>
+      <track> Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>DBA Basic Checklist </title>
+      <description>Are you new to managing database systems, or are you wondering if you’re covering all of the bases? Come hear Buck Woody, Microsoft’s “Real World DBA” explain a basic checklist for SQL Server, and what each element means. You’ll also see a few examples of how to implement it, and how you can modify it to fit your installation. Part of our “DBA 101” series.</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32558</importID>
+      <speakers>
+        <speaker>
+          <id>32558</id>
+          <name>Rob Garrison</name>
+        </speaker>
+      </speakers>
+      <track> Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Exploring SQL Server Column-Level Encryption</title>
+      <description>SQL Server 2005 and 2008 support column-level data encryption in many ways. We will start with some of the basics and quickly move to how to use Encrypt/DecryptByKey and ByCert.
+
+This session will include significant information that is not available in Books Online. It will also discuss Message Authentication Codes and how to use them to support efficient searches of encrypted data.</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32486</importID>
+      <speakers>
+        <speaker>
+          <id>32486</id>
+          <name>Remus Rusanu</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Asynchronous T-SQL processing</title>
+      <description>Many times an application needs to launch into execution a T-SQL script, but it is not interested in waiting until the script is finished. Traditionally such a task would be accomplished using a SQL Agent job. I will present an approach that leverages SQL Service Broker Activation mechanism and go over the advantages and disadvantages of this alternative.</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32557</importID>
+      <speakers>
+        <speaker>
+          <id>32557</id>
+          <name>Rob Garrison</name>
+        </speaker>
+      </speakers>
+      <track> Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Exploring SQL 2008’s Transparent Data Encryption</title>
+      <description>On the surface, Transparent Data Encryption seems to be a security “silver bullet”. The most important feature (besides securing the data) is that it does not require any changes to your application code.
+
+This session will explain the basics of TDE and show detailed performance test results. You will leave with an understanding of what it takes to implement TDE and what the cost will likely be. This is a very valuable new feature that you should know about.</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32902</importID>
+      <speakers>
+        <speaker>
+          <id>32902</id>
+          <name>Shalu  Goel</name>
+        </speaker>
+      </speakers>
+      <track>Track 3 </track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>BI Dashboards in Sql Reporting Services</title>
+      <description>Dashboards are a great way to highlight what is most important to your organization.  An interface which brings together data from multiple data sources in a high level format can be a vital tool for decision makers.  See how this can be accomplished using tables, charts, and a little bit of code in SQL Reporting Services.</description>
+      <startTime>10/3/2009 12:00:00 AM</startTime>
+      <endTime>10/3/2009 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

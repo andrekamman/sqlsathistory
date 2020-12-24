@@ -1,0 +1,21 @@
+# SQLSaturday #227 - Charleston 2013
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Jason Brimhall|Track 3|[SQL 2012 Table Compression](10825.md)
+00:00:00|Chris Bell|Track 2|[“Indexing” Encrypted Data](11252.md)
+00:00:00|Robert Davis|Track 1|[10 Things all BI System Administrators Should Know](11434.md)
+00:00:00|Chris Skorlinski|Track 1|[Check Engine Lights](11547.md)
+00:00:00|Christopher Price|Track 3|[Visualizing Data with Reporting Services](11913.md)
+00:00:00|David Klee|Track 3|[Database Health and Performance](12550.md)
+00:00:00|Grant Fritchey|Track 1|[What to look for in Execution Plans](14744.md)
+00:00:00|Jeremy Carroll|Track 2|[The Transaction Log – Beginner's Mind](16614.md)
+00:00:00|Jorge Novo|Track 1|[SSIS Programming Using .NET](17361.md)
+00:00:00|Josh Luedeman|Track 3|[SSRS: On Premises or Azure? What's the difference?](17524.md)
+00:00:00|Brian Kelley|Track 3|[Being the Swiss Army Knife of DB Pros](18009.md)
+00:00:00|Laerte Junior|Track 2|[Full automation of the installation of and Hyper-V VM - (W2012 / SQL2012).Core –PoSh 3.0 Workflows](18924.md)
+00:00:00|Michael Wells|Track 2|[DBA Task Automation: Unleash the PowerShell Hero in You!](20372.md)
+00:00:00|Michael Femenella|Track 1|[Temporary Insanity](20697.md)
+00:00:00|Steve Jones|Track 2|[Branding Yourself for a Dream Job](24490.md)
+00:00:00|Shannon Lowder|Track 2|[OnPremise to Azure](24621.md)
+00:00:00|Wayne Sheffield|Track 1|[Table Vars  Temp Tables - What you NEED to Know!](27690.md)
+00:00:00|Andy Warren|Track 3|[Building Your Professional Development Plan](9577.md)

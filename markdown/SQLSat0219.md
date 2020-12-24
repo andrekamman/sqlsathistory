@@ -1,0 +1,21 @@
+# SQLSaturday #219 - Kiev 2013
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Dmitriy Kostylev|Track 2|[Оптимизация запросов в SQL Server](13055.md)
+00:00:00|Denys Kholod|Track 4|[Azure Storage overview - blobs, table and Queues](13185.md)
+00:00:00|Niko Neugebauer|Track 1|[Inheriting a database for Developers, version 2](15387.md)
+00:00:00|Niko Neugebauer|Track 1|[Analyzing Twitter Data](15388.md)
+00:00:00|Alexandr Domashev|Track 1|[Microsoft SSIS: Best practices, ETL –patterns](15431.md)
+00:00:00|Tobias Koprowski|Track 2|[2 AM. A Disaster just began...](18708.md)
+00:00:00|Tobias Koprowski|Track 4|[SQL Azure from Plan, to Backup, to Cloud ](18710.md)
+00:00:00|Andrey Korshikov|Track 2|[SQL Injection - вы готовы к защите?](18824.md)
+00:00:00|Oleksii Kovalov|Track 3|[Не делай так! Немного об ошибках](19177.md)
+00:00:00|Mihail Mateev|Track 4|[Spatial Data and Windows Azure SQL Database](20290.md)
+00:00:00|Denis Reznik|Track 4|[Deadlock – всё пропало,или ещё рано бить тревогу](20729.md)
+00:00:00|Oleg Alekseev|Track 3|[Extended Events in SQL Server 2012](21577.md)
+00:00:00|Андрей Резник|Track 1|[Архитектура и функциональность аналитических хранилищ SQL Server Parallel Data Warehouse 2012](22321.md)
+00:00:00|Sergey Olontsev|Track 2|[Повреждение данных и как с ним бороться](24359.md)
+00:00:00|Sergey Olontsev|Track 3|[Все о журнале транзакций в SQL Server](24360.md)
+00:00:00|Sergio Govoni|Track 3|[Rewrite your queries with SQL Server 2012](24387.md)
+00:00:00|Turgay Sahtiyan|Track 3|[HA  DR with SQL Server 2012 AlwaysOn Availability Group](27162.md)
+00:00:00|Andrii Zrobok|Track 4|[MS SQL Server: почему не стоит использовать*](9493.md)

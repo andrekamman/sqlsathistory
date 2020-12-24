@@ -1,0 +1,373 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #260 - Milan 2013</name>
+    <startDate>10/8/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>(GMT-06:00) Saskatchewan</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatMilan</twitterHashtag>
+    <venue>
+      <name>Via Lombardia, 2</name>
+      <street>
+      </street>
+      <city>Peschiera Borromeo</city>
+      <state>, Italy</state>
+      <zipcode>20068 </zipcode>
+      <longitude>9.308417</longitude>
+      <latitude>45.460714</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>636</importID>
+      <name>Filippetti</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.filippetti.it</url>
+      <imageURL>https://www.ugiss.org/assets/filippetti_small_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>13</importID>
+      <name>Quest Software</name>
+      <label>Platinum Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://www.sqlsaturday.com/images/sqlsaturday/eventsponsors/Quest_170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>696</importID>
+      <name>IBM</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.ibm.it</url>
+      <imageURL>https://www.ugiss.org/assets/IBM-Small-Logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>8</importID>
+      <name>FusionIO</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.fusionio.com/solutions/microsoft-sql-server/</url>
+      <imageURL>https://www.sqlsaturday.com/files/18b704b1-226d-48fe-b0b8-f7b4d3443b3d.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>687</importID>
+      <name>hp</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.valid.nl/</url>
+      <imageURL>https://1.bp.blogspot.com/-S4tCVJCkApw/VetK1s1IToI/AAAAAAAADpE/iHE2bCXn-to/s1600/HP_Blue_RGB_150_MX.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>691</importID>
+      <name>HTML.it</name>
+      <label>Media Partner</label>
+      <url>http://www.html.it</url>
+      <imageURL>https://www.ugiss.org/assets/HTMLIT-Small-Logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>954</importID>
+      <name>PMI.it</name>
+      <label>Media Partner</label>
+      <url>http://www.pmi.it</url>
+      <imageURL>https://www.ugiss.org/assets/PMI-Small-Logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1355</importID>
+      <name>SolidQ</name>
+      <label>Platinum Supporter</label>
+      <url>http://www.solidq.com/es</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/921/EventSponsor_14422.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>478</importID>
+      <name>Servizi CGN</name>
+      <label>Platinum Supporter</label>
+      <url>http://www.cgn.it</url>
+      <imageURL>https://www.ugiss.org/assets/Servizi-CGN-Small-Logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>19466</importID>
+      <name>Marco Russo</name>
+      <label>
+      </label>
+      <description>Marco is a Business Intelligence consultant and mentor. He wrote several books about Power BI, Analysis Service, and Power Pivot. He also regularly writes articles and white papers that are available on sqlbi.com. Marco is a Microsoft MVP and an SSAS Maestro, the highest level of certification on Microsoft Analysis Services.
+Today, Marco focuses his time with SQLBI customers, traveling extensively to train and consult on DAX and data modeling for Power BI and Analysis Services. Marco also teaches public classes worldwide.
+Marco is a regular speaker at international conferences like Microsoft Ignite, PASS Summit, and SQLBits. He also enjoys delivering evening sessions at local user groups during his trips.</description>
+      <twitter>marcorus</twitter>
+      <linkedin>http://www.linkedin.com/in/sqlbi</linkedin>
+      <ContactURL>https://www.sqlbi.com/blog/marco</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=marcorus</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21572</importID>
+      <name>Fabian Pascal</name>
+      <label>
+      </label>
+      <description>Fabian Pascal is an independent analyst, consultant, educator and writer specializing in data fundamentals. Author of three books and hundreds of articles, he lectured and taught seminars at the business and academic levels. He consulted with IBM, Census Bureau, CIA, Apple, UCSF, Golden Gate University and IRS, among others. In 2000 he founded DATABASE DEBUNKINGS (www.dbdebunk.com), dedicated to making data fundamentals accessible to data professionals via seminars and publications.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.dbdebunk.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18464</importID>
+      <name>Klaus Aschenbrenner</name>
+      <label>
+      </label>
+      <description>Klaus Aschenbrenner provides independent SQL Server consulting services across the United States and Europe, focusing on the .NET Framework and SQL Server 2005 and 2008. In 2004 and 2005, he received the Microsoft MVP award for his support of the .NET community. Klaus has also written a book, “Pro SQL Server 2008 Service Broker,” published by Apress (2008).</description>
+      <twitter>@Aschenbrenner</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.SQLpassion.at/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Aschenbrenner</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15318</importID>
+      <name>Davide Mauri</name>
+      <label>
+      </label>
+      <description>Data Platform MVP for almost 12 years, I love Data and Database in all their forms. Developer for passion (C# and Python), I've been working in the IT field since 1997. My focus has been databases and performance tuning since the start, focusing both on transactional and analytical workloads. I worked for more than 10 years on Business Intelligence and Data Warehousing, then moved to IoT and Big Data for a while. Now back to database space, injecting passion and innovation into Azure SQL as Microsoft Program Manager for Azure SQL Hyperscale, helping developers to re-discover SQL, which is now almost everywhere, and take advantage of all its amazing power!</description>
+      <twitter>mauridb</twitter>
+      <linkedin>http://www.linkedin.com/in/davidemauri</linkedin>
+      <ContactURL>https://medium.com/@mauridb</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mauridb</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9454</importID>
+      <name>Andrea Uggetti</name>
+      <label>
+      </label>
+      <description>Andrea Uggetti lavora in Microsoft nella gruppo di Technical Presales  Deployment Services come Sr. Partner Technical Consultant dedicato ai servizi e prodotti di DataAI. Ha un'esperienza decennale nei database relazionali e negli ultimi anni si è specializzato nei prodotti della piattaforma BI di Microsoft e in particolare di Analysis Services e Power BI. Ha lavorato come Escalation Engineer di Analysis Services per diversi anni risolvendo problemi dei clienti di tutta Europa e collaborato con il Product Team per migliorare i prodotti. Nell'ultimo anno si è occupato di supportare i partner con la consulenza su prodotti e soluzioni di DataAI</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19283</importID>
+      <name>Luca Ferrari</name>
+      <label>
+      </label>
+      <description>Luca Ferrari lavora in Microsoft Italia come PFE Engineer.
+Lavora con Sql server dalla versione 2000 ed ha seguito con attenzione tutte le evoluzioni del prodotto.
+Si occupa principalmente di:
+MPP  SMP Design
+Troubleshooting
+Performance Tuning
+SSIS e SSRS, Azure SQL Database, Azure DataWarehouse.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=101837495amp;authType=NAME_SEARCHamp;authToken=i4Ctamp;locale=it_ITamp;srchid=1018374951435910175159amp;srchindex=1amp;srchtotal=284amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A1018374951435910175159%2CVSRPtargetId%3A101837495%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue</linkedin>
+      <ContactURL>http://tipsandtrickssqlserver.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>24439</importID>
+      <name>Silvano Coriani</name>
+      <label>
+      </label>
+      <description>Silvano Coriani is a Principal Software Engineer in SQL Customer Success Engineering team, part of Azure Data. He has 20+ years experience in application development and database design, troubleshooting and performance tuning. As self-employed first, and then part of SQL CAT and Azure Data engineering teams, he presented at several industry leading conferences and co-wrote a number of articles on data related topics.</description>
+      <twitter>scoriani</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlcat.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=scoriani</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11813</importID>
+      <name>Francesco Milano</name>
+      <label>
+      </label>
+      <description>I've been working with Microsoft technologies since 2000, and I'm specialized in .NET Framework and SQL Server platform. I focus primarily on back-end development, integration solutions, relational model design and implementation. Starting from 2011 I'm also member of UGISS (Italian SQL Server User Group) and speaker at main italian SQL Server conferences and workshops.</description>
+      <twitter>@_fmilano_</twitter>
+      <linkedin>https://it.linkedin.com/in/fmilano</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@_fmilano_</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>21572</importID>
+      <speakers>
+        <speaker>
+          <id>21572</id>
+          <name>Fabian Pascal</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Denormalization for Performance: A Costly Illusion (EN)</title>
+      <description>If you believe that you must "denormalize for performance", you've internalized a very costly misconception prevalent in the industry. The core Principle of Full Normalization (PFN) in database design is there for practical reasons, not just theoretical "purity" and you violate it at your peril. But despite having been amply debunked, this myth is hard to dislodge because both vendors and users lack foundation knowledge.This presentation demonstrates that:1. It is actually impossible for normalization to affect performance2. If performance with databases that are not fully normalized is better than those that are (which is rarely the case):* the gain does not come from denormalization* even if it did, the cost would not justify the benefit</description>
+      <startTime>10/8/2013 12:00:00 AM</startTime>
+      <endTime>10/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15318</importID>
+      <speakers>
+        <speaker>
+          <id>15318</id>
+          <name>Davide Mauri</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Hardware Planning  Sizing for SQL Server (IT)</title>
+      <description>L'acquisto di un server dedicato a SQL Server è ancora un'operazione necessaria. Il cloud è un'ottima scelta ma se dovete creare un datawarehouse di dimensioni non banali o se avete la necessità di avere performance e controllo ottimali del vostro database server di produzione, la scelta del server on-premise è ancora quella vincente.Il problema è quindi: come non buttare via soldi in hardware inutile? In questa sessione vedremo come tutti i componenti concorrono nel formare un hardware bilanciato (questa è la parola chiave!) e senza colli di bottiglia, massimizzando l'investimento fatto. Parlaremo di SAN, CPU, HBA, Fiber Channel, Memoria e tutto quello che pensavate di conoscere bene...</description>
+      <startTime>10/8/2013 12:00:00 AM</startTime>
+      <endTime>10/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>24439</importID>
+      <speakers>
+        <speaker>
+          <id>24439</id>
+          <name>Silvano Coriani</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>CAT: Azure SQL DB Premium – Deep Dive and Mythbuster (IT)</title>
+      <description>There are a number of relational and non-relational storage options available on Azure including; Azure SQL DB, the new premium DB offering, SQL in a Virtual Machine and table storage.  In this session we will do a deep dive on the new Premium offering that Azure SQL Database has in preview.  We will describe how this is implemented and show you how to; determine in a systematic way when to use this technology, estimate your capacity needs, and give you an understanding of the performance and scale you can achieve when leveraging Azure SQL Database Premium and how this compares to storage technology and scale-out approaches on Azure.  You will understand how to select the most appropriate one for a certain scenario and have a practical understanding of what it can achieve. We will demonstrate the learnings and best practices gathered during real customer engagements over the last 12 months with the Premium Database.</description>
+      <startTime>10/8/2013 12:00:00 AM</startTime>
+      <endTime>10/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9454</importID>
+      <speakers>
+        <speaker>
+          <id>9454</id>
+          <name>Andrea Uggetti</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduzione a Power BI (IT)</title>
+      <description>Iniziamo a conoscere le potenzialità di Power BI, un nuovo modo di usare Excel e Office 365 per trovare, trasformare, analizzare e visualizzare i dati. Scopriremo come si usano i vari componenti, tra i quali Power Query, Power Pivot, Power Map, Power View, per creare un semplice modello di dati da visualizzare su qualsiasi dispositivo. </description>
+      <startTime>10/8/2013 12:00:00 AM</startTime>
+      <endTime>10/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18464</importID>
+      <speakers>
+        <speaker>
+          <id>18464</id>
+          <name>Klaus Aschenbrenner</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Let's learn Greek - Hekaton (EN)</title>
+      <description>Hekaton is the Greek word for 100 - the goal of Hekaton in SQL Server 2014 is to improve query performance up to 100 times. In this session we will look under the cover of Hekaton and the Multi Version Concurrency Control (MVCC) principles on which Hekaton is build. We will start the session by looking on the challenges that can be solved by Hekaton, especially Locking, Blocking, and Latching within SQL Server. Based on that foundation we move into the principles of MVCC, and how a Storage Engine and Transaction Manager can be built based on that concepts.</description>
+      <startTime>10/8/2013 12:00:00 AM</startTime>
+      <endTime>10/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19283</importID>
+      <speakers>
+        <speaker>
+          <id>19283</id>
+          <name>Luca Ferrari</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Profiling with Extended Events (IT)</title>
+      <description>Dopo anni di onoratissimo servizio anche per Sql Server Profiler ? giunta l'ora della meritata  pensione...Ma chi lo sostituirà !?!?! Gli Extended Events !!!Gli Extended Events consentono di profilare dettagliatamente le  attivit? di SQL Server e di trarre informazioi per troubleshooting e  performance tuning senza appesantire l'ambiente di produzione come  avveniva con il SQL Server Profiler.</description>
+      <startTime>10/8/2013 12:00:00 AM</startTime>
+      <endTime>10/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11813</importID>
+      <speakers>
+        <speaker>
+          <id>11813</id>
+          <name>Francesco Milano</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Useful everyday tips and tricks for Reporting Services (IT)</title>
+      <description>Reporting Services è uno strumento molto potente e permette di creare report anche complessi in breve tempo. L'esperienza di sviluppo, però, presenta a volte alcuni "spigoli" che possono creare qualche problema e allungare i tempi di realizzazione nel tentativo di trovare una soluzione girovagando tra MSDN e i forum più disparati. Questa sessione vuole fornire una serie di trucchi e consigli, dettati dall'esperienza diretta sul campo -e da molti caffè-, che si sono rivelati utili a limare tali spigoli.</description>
+      <startTime>10/8/2013 12:00:00 AM</startTime>
+      <endTime>10/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19466</importID>
+      <speakers>
+        <speaker>
+          <id>19466</id>
+          <name>Marco Russo</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Power BI in Action (IT)</title>
+      <description>You will see how to create a Data Model in Power Pivot leveraging on Power Query to extract and manipulate data from your data sources. The model will be used to analyze data in Power View and the result will be published on Power BI site.The goal of the session is understanding how to leverage the feature of the on-premise tools in order to enable better reports also when the report is published in Power BI sites.</description>
+      <startTime>10/8/2013 12:00:00 AM</startTime>
+      <endTime>10/8/2013 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

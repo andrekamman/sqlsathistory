@@ -1,0 +1,96 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #401 - Yaounde 2015</name>
+    <startDate>5/23/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>500</attendeeEstimate>
+    <timezone>(GMT+01:00) Brussels, Copenhagen, Madrid, Paris</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatYaounde</twitterHashtag>
+    <venue>
+      <name>Catholic University of Central Africa</name>
+      <street>16326 Coron Yaounde</street>
+      <city>Yaounde</city>
+      <state>, Cameroon</state>
+      <zipcode>16326</zipcode>
+      <longitude>11.515475</longitude>
+      <latitude>3.872005</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>37291</importID>
+      <name>ACHILLE NGUELA NGUELA</name>
+      <label>
+      </label>
+      <description>11 Years Informations technology Pro. MCITP Entreprise Admin MCITP Entreprise Desktop Admin MCITP Sharepoint Admin MCSA Windows Server</description>
+      <twitter>@AchillesB1</twitter>
+      <linkedin>http://www.linkedin.com/in/achil/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@AchillesB1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35808</importID>
+      <name>ACHILLE NGUELA NGUELA</name>
+      <label>
+      </label>
+      <description>11 Years Informations technology Pro. MCITP Entreprise Admin MCITP Entreprise Desktop Admin MCITP Sharepoint Admin MCSA Windows Server</description>
+      <twitter>@AchillesB1</twitter>
+      <linkedin>http://www.linkedin.com/in/achil/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@AchillesB1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37292</importID>
+      <name>Yvan NGNEUNMEU</name>
+      <label>
+      </label>
+      <description>Ultrapassionate, that#39;s how I describe my relationship with technology.
+Microsoft Student Partners Lead - Cameroon, Microsoft Developer.
+Technologies: Windows Phone, Windows Store, Windows Azure, SQL Server.</description>
+      <twitter>@Yv_der</twitter>
+      <linkedin>https://www.linkedin.com/pub/yvan-ngneunmeu/5a/a98/530</linkedin>
+      <ContactURL>http://yvan.azurewebsites.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Yv_der</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>35808</importID>
+      <speakers>
+        <speaker>
+          <id>35808</id>
+          <name>ACHILLE NGUELA NGUELA</name>
+        </speaker>
+      </speakers>
+      <track>Students</track>
+      <location>
+        <name>ROOM2</name>
+      </location>
+      <title>Advantage of Using Excel BI Solution  in Small Business environem</title>
+      <description>Leverage your existing Microsoft technology to boost your business productivity
+
+With your existing and familiar Microsoft products you can gain insights from your data to make it easier to work faster and smarter.</description>
+      <startTime>5/23/2015 9:00:00 AM</startTime>
+      <endTime>5/23/2015 10:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

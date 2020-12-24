@@ -1,0 +1,22 @@
+# SQLSaturday #601 - Belgrade 2017
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:00:00|Goran Milanov|Information Delivery|[Welcome note - Room 1](63421.md)
+09:00:00|Vladimir Markovic|Information Delivery|[Welcome note - Room 2](63422.md)
+09:00:00|Dejan Pervulov|Information Delivery|[Welcome note - Room 3](63423.md)
+09:15:00|Zoltán Horváth|BI Platform Architecture, Development  Administration|[SSAS Query Performance Tuning](59397.md)
+09:15:00|Janos Berke|Enterprise Database Administration  Deployment|[What is new in SQL Server 2016 Availability Group [EN]](61703.md)
+09:15:00|Veljko Vasic|Cloud Application Development  Deployment|[Achieve great performance with Azure SQL Database using built-in intelligence](62571.md)
+10:30:00|Christopher Adkin|Enterprise Database Administration  Deployment|[Problem Solving With The In-Memory Engine](56945.md)
+10:30:00|Maja Damjanic|Analytics and Visualization|[Big data solutions on Microsoft Azure](61738.md)
+11:45:00|Dejan Sarka|BI Platform Architecture, Development  Administration|[High-Performance Statistical Queries](56914.md)
+11:45:00|Catalin Gheorghiu|Application  Database Development|[SQL database on IoT devices, could you? should you? would you?](61150.md)
+11:45:00|Jovan Popovic|Application  Database Development|[SQL Server and JSON in real applications](61740.md)
+13:45:00|Tomaž Kaštrun|Analytics and Visualization|[Microsoft Azure Machine Learning Algorithms](58059.md)
+13:45:00|Milos Todic|Application  Database Development|[Columnstore Index Internals](62435.md)
+13:45:00|Dragoslav Ogar|Enterprise Database Administration  Deployment|[Row-level security](63099.md)
+15:00:00|Dr. Subramani Paramasivam|Analytics and Visualization|[Think  work like a Data Scientist with SQL 2016 R](57938.md)
+15:00:00|Miloš Radivojević|Enterprise Database Administration  Deployment|[Call 555 - 333 for Query Store](59303.md)
+15:00:00|Mladen Andzic|Analytics and Visualization|[Spatial Analytics with SQL Server 2016 and Azure SQL Database](62507.md)
+16:15:00|Ivan Donev|Application  Database Development|[Notes from the field of a Microsoft SQL Engineer](57055.md)
+16:15:00|Mihail Mateev|Cloud Application Development  Deployment|[Creating Custom BI Solutions with Power BI Embedded](57572.md)

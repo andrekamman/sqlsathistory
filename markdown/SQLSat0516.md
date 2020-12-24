@@ -1,0 +1,21 @@
+# SQLSaturday #516 - Iceland 2016
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+08:30:00|David Postlethwaite|DEVOPS|[Putting Your head in the Cloud - Working with SQL Azure](44846.md)
+08:30:00|LEONEL ABREU|DBA|[Security Enhancements in SQL Server 2016](48323.md)
+08:30:00|Oliver Engels|BI|[Really mobile first in Microsoft BI? - What's up in mobilty @ MS](48416.md)
+09:40:00|Alex Whittles|BI|[Data Warehousing, ETL and Cubes in Azure](45086.md)
+09:40:00|Chrissy LeMaire|DBA|[Simplifying SQL Server Migrations using PowerShell](45933.md)
+09:40:00|Christina Leo|DEVOPS|[Building Your T-SQL Tool Kit: Window Function Fundamentals](48445.md)
+10:50:00|Tim Ford|DBA|[How Good Is Your Indexing Strategy?](44854.md)
+10:50:00|Frank Geisler|BI|[What's new in Power BI 2.0](45400.md)
+10:50:00|Rasmus Reinholdt|DEVOPS|[Taking your application to memory](46978.md)
+12:40:00|Mark Broadbent|DBA|[Lock, Block and Two Smoking Barrels](45188.md)
+12:40:00|Oliver Engels|BI|[R shines! The 4th force is coming to visualize your data](48414.md)
+12:40:00|Asgeir Gunnarsson|DEVOPS|[Calling Captain Ahab, from Unknown Knowns to Known](52523.md)
+13:50:00|Mladen Prajdić|DEVOPS|[Digging Into the .Net SqlClient](44816.md)
+13:50:00|Cathrine Wilhelmsen|BI|[Biml for Beginners: Speed up your SSIS development](44842.md)
+13:50:00|Gail Shaw|DBA|[Go, go, QueryStore!](45355.md)
+15:00:00|Rob Volk|DEVOPS|[Revenge: The SQL! - Director's Cut](44836.md)
+15:00:00|André Kamman|DBA|[Re-architecting your old-school database to maximize Azure cloud options](44982.md)
+15:00:00|LEONEL ABREU|BI|[Reporting Services 2016, a reborn product](48340.md)

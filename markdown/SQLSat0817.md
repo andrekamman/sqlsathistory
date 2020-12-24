@@ -1,0 +1,22 @@
+# SQLSaturday #817 - Joinville 2019
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:30:00|Rodrigo Crespi|Enterprise Database Administration  Deployment|[AlwaysOn com Kubernets no SQL Server 2019](86562.md)
+09:30:00|Fabrício Lima|Developer|[Passo a passo de como fiz um Tuning em 7 queries reais do Protheus](89274.md)
+09:30:00|Paulo Ricardo Santos|Analytics and Visualization|[Data Storytelling - Power BI](90417.md)
+09:30:00|Tiago Crespi|Developer|[Hoje no SQL Saturday – Índices! Como vivem? Como se reproduzem? Do que se alimentam?](90616.md)
+10:45:00|Orlando Mariano|Cloud Application Development  Deployment|[Analise de Dados com Azure Machine Learning, R e Power BI](86557.md)
+10:45:00|Walter Coan|Application  Database Development|[Desafios e tendências na utilização de bancos de dados para soluções de Internet das Coisas](87465.md)
+10:45:00|Anderson Souza|Other|[SQL Data Discovery and Classification no ambiente On-Premises e Azure SQL Database](90249.md)
+13:15:00|Rafael Mendonça|BI Platform Architecture, Development  Administration|[Streaming de dados no Power BI utilizando PowerShell](88371.md)
+13:15:00|Renato Groffe|Developer|[Extração de Dados da Web com Selenium WebDriver](89217.md)
+13:15:00|Diego Nogare|Advanced Analysis Techniques|[Azure Machine Learning](90364.md)
+14:30:00|Bruno Feldman|Cloud Application Development  Deployment|[Graph Databases on CosmosDB](86485.md)
+14:30:00|Felipe de Assis|Application  Database Development|[E agora? NoSQL ou SQL?](87689.md)
+14:30:00|Arthur Luz|BI Platform Architecture, Development  Administration|[Big Data e Arquitetura Lambda](88198.md)
+16:15:00|Felipe Togashi|BI Information Delivery|[Power BI na Gestão Operacional](87591.md)
+16:15:00|Luiz Henrique Garetti|Enterprise Database Administration  Deployment|[SQL Server 2019 Big Data Clusters](87994.md)
+16:15:00|Milton Camara|Cloud Application Development  Deployment|[Deploy Automatizado de Banco de Dados SQL Server com Azure DevOps.](89414.md)
+17:00:00|Leandro Domingues|Strategy and Architecture|[MongoDB para DBAs Relacionais e Dev´s](88520.md)
+17:00:00|Diemerson Campos|Enterprise Database Administration  Deployment|[Segurança de dados e Criptografia no SQL Server](88714.md)
+17:00:00|Marcus Vinícius Bittencourt|Strategy and Architecture|[Hacking SQL Server](90028.md)

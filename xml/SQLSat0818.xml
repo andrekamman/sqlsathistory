@@ -1,0 +1,601 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #818 - Malaysia 2019</name>
+    <startDate>1/26/2019 12:00:00 AM</startDate>
+    <attendeeEstimate>180</attendeeEstimate>
+    <timezone>(GMT+08:00) Irkutsk, Ulaan Bataar</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatMalaysia</twitterHashtag>
+    <venue>
+      <name>Microsoft (Malaysia) Sdn Bhd</name>
+      <street>Level 17  18, Menara Shell, No. 211, Jalan Tun Sambanthan</street>
+      <city>Kuala Lumpur</city>
+      <state>Federal Territory of Kuala Lumpur, Malaysia</state>
+      <zipcode>50470</zipcode>
+      <longitude>101.6848482</longitude>
+      <latitude>3.1309542</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/972/EventSponsor_14605.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>86320</importID>
+      <name>Jason Aw</name>
+      <label>
+      </label>
+      <description>A passionate IT leader with over 20 years of experience in in technology, infrastructure, cloud environments particularly with high availability and disaster recovery solutions for different architectures including SQL database applications.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/awjason</linkedin>
+      <ContactURL>http://www.sios-apac.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86589</importID>
+      <name>Asanka Padmakumara</name>
+      <label>
+      </label>
+      <description>Asanka is an experienced data engineer who is currently performing the role of Business Intelligence Consultant in Qrious. He has worked close to 10 years in BI and data analytics field and has implemented BI solutions for different industries. As a technology enthusiastic, he enjoys conducting technical presentations both locally and internationally. He is a MCSE in Data Management and Analytics as well as a Microsoft certified Azure Data Engineer. He is passionate about Data Analytics, Business Intelligence and AI related technologies.</description>
+      <twitter>asanka_e</twitter>
+      <linkedin>https://www.linkedin.com/in/asankapadmakumara/</linkedin>
+      <ContactURL>https://asankap.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=asanka_e</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87941</importID>
+      <name>Chiu Kiang Phua</name>
+      <label>
+      </label>
+      <description>Chiu Kiang is the principal of PCK Consulting, a provider for SQL Server and Microsoft .NET development and consulting services. He works with customers and partners on technologies covering data management, business intelligence, performance tuning and enterprise integration.  He is currently in his 11th year in his role as a Microsoft MVP for SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88328</importID>
+      <name>Ian Choy</name>
+      <label>
+      </label>
+      <description>Ian Choy is Microsoft#39;s Technology Solution Professional for the data platform business, working with customers on Microsoft data platform adoption, architecture design decisions and best practices. His work and passion involves partner enablement on upcoming Microsoft technology and involvement community events. Prior experiences includes managing large scale data warehouse operations, business intelligence implementations and software development projects.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86647</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87722</importID>
+      <name>Danaraj Ram Kumar</name>
+      <label>
+      </label>
+      <description>Danaraj works on modern BI delivery activities that includes corporate BI data models development and data integration in the cloud.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://linkd.in/1BH7dv4</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87951</importID>
+      <name>Janusz Rokicki</name>
+      <label>
+      </label>
+      <description>Microsoft Data Platform Expert and certified Azure Solutions Architect with over 12 years’ experience working in the City of London in the Financial Services Industry (retail and investment banking, multi-asset class trading systems). He has passion for secure, high-performance, maintainable data-driven applications that can be deployed with confidence on-premises and in-cloud. With educational background in intelligent sensor networks and machine learning he is always in search of automation and optimisation opportunities.
+
+Has presented at SqlBits, PASS Summit, SqlDay and multiple Sql Saturday events (Tel-Aviv, Kiev, Paris, Tallinn, Bonn, Bratislava, Goteborg, Kharkiv, Bucharest, Sofia, Ljubljana) and user groups.</description>
+      <twitter>DataSic</twitter>
+      <linkedin>https://www.linkedin.com/in/jrokicki/</linkedin>
+      <ContactURL>https://www.datasic.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DataSic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86648</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87204</importID>
+      <name>Patrick Flynn</name>
+      <label>
+      </label>
+      <description>Patrick Flynn is a Senior Database Administrator with 10 years experience in large 24 x 7 enterprise environments. He is a certified master for SQL Server and a regular attendee of the PASS Summit.
+
+Has presented at SQLSaturday events in Sydney, Melbourne, Brisbane and Auckland, Edmonton and Calgary, Oslo and Cambridge</description>
+      <twitter>sqllensman</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqllensman.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqllensman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87073</importID>
+      <name>Khilitchandra Prajapati</name>
+      <label>
+      </label>
+      <description>Khilitchandra has been working with SQL Server, Data Warehouse amp; Business Intelligence projects for more than 14 yrs. He is currently working as Vice President, BI  Data Analytics for UOB in Singapore. 
+
+He is community leader of Singapore PASS Chapter. He mainly works on Microsoft technologies, which includes Power BI, Azure, SQL Server, SharePoint, SSAS, SSIS, SSRS, C#.Net, VB.Net etc. He is an avid Business Intelligence enthusiast and shares his knowledge, experience  expertise via this blog (http://www.bigator.com) to everyone.</description>
+      <twitter>@khilitchandra</twitter>
+      <linkedin>https://www.linkedin.com/in/smartkhilit</linkedin>
+      <ContactURL>http://www.bigator.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@khilitchandra</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86277</importID>
+      <name>Hamid J. Fard</name>
+      <label>
+      </label>
+      <description>I am SQL Server Data BI Platform Expert with more than 9 years’ of professional experience, I am currently Microsoft Certified Master: SQL Server 2008, Microsoft Certified Solutions Master: Charter-Data Platform, Microsoft Data Platform MVP and CIW Database Design Specialist. After a few years of being a production database administrator I jumped into the role of Data Platform Expert. Being a consultant allows me to work directly with customers to help solve questions regarding database issues for SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://my.linkedin.com/in/hamidjfard</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86478</importID>
+      <name>Jonathan Stewart</name>
+      <label>
+      </label>
+      <description>Jonathan Stewart is a Business Intelligence consultant specializing in data visualization, data warehousing, and data management technologies. An advocate for educating others, he is a public speaker, teacher and blogger, continually teaching people about the Microsoft BI Stack. Since 2000, he has been working in the database field with industry leaders in healthcare, manufacturing, financial, insurance and federal, state and local governments.
+
+Jonathan is very active in the community. He has presented on SQL Server, SSIS, Reporting Services, Power BI and Business Intelligence at numerous SQLSaturday events, local user groups, and conferences throughout the United States and around the world. He participates in webcasts, podcasts, and on</description>
+      <twitter>sqllocks</twitter>
+      <linkedin>https://www.linkedin.com/in/sqllocks/</linkedin>
+      <ContactURL>https://sqllocks.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqllocks</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87442</importID>
+      <name>David Alzamendi</name>
+      <label>
+      </label>
+      <description>Delivering Business Intelligence and Data Analytics Solutions with On-Premises and Cloud technologies since 2011, David Alzamendi is a Microsoft Certified Solutions Expert and event speaker who solves problems with best practice procedures and the latest technology. 
+
+David is passionate about the positive impact data can have on our lives, businesses, economy and the environment. He prides himself on using his creativity and optimism to solve what others thought impossible.</description>
+      <twitter>techtalkcorner</twitter>
+      <linkedin>https://www.linkedin.com/in/dalzamendi</linkedin>
+      <ContactURL>https://www.techtalkcorner.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=techtalkcorner</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86475</importID>
+      <name>Jonathan Stewart</name>
+      <label>
+      </label>
+      <description>Jonathan Stewart is a Business Intelligence consultant specializing in data visualization, data warehousing, and data management technologies. An advocate for educating others, he is a public speaker, teacher and blogger, continually teaching people about the Microsoft BI Stack. Since 2000, he has been working in the database field with industry leaders in healthcare, manufacturing, financial, insurance and federal, state and local governments.
+
+Jonathan is very active in the community. He has presented on SQL Server, SSIS, Reporting Services, Power BI and Business Intelligence at numerous SQLSaturday events, local user groups, and conferences throughout the United States and around the world. He participates in webcasts, podcasts, and on</description>
+      <twitter>sqllocks</twitter>
+      <linkedin>https://www.linkedin.com/in/sqllocks/</linkedin>
+      <ContactURL>https://sqllocks.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqllocks</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86389</importID>
+      <name>Vinod Kumar M</name>
+      <label>
+      </label>
+      <description>Vinod Kumar has worked with SQL Server extensively since joining the industry over more than 17 years back. Working on various versions from SQL Server 7.0, Oracle 7.3 and other database technologies - he now works with Microsoft Technology Center (MTC) as Technology Architect. With extensive database, BI and application background, he currently helps customers maximize on the investments on technologies to solve real world business and technology integration problems. Speaker in major conferences like TechEd India (12 yrs), TechNet, MSDN, Azure Conference etc.</description>
+      <twitter>http://twitter.com/vinodk_sql</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.ExtremeExperts.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/vinodk_sql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86595</importID>
+      <name>Ben Weissman</name>
+      <label>
+      </label>
+      <description>Ben Weissman has been working with SQL Server since SQL Server 6.5, mainly in the BI/Datawarehousing field. He is a Data Platform MVP, MCSE Data Management and Analytics, and a Certified Data Vault Data Modeler. He is also the first BimlHero Certified Expert in Germany and a co-author of  'SQL Server Big Data Clusters' and 'The Biml Book'.
+Ben has been involved in more than 150 BI Projects and is always looking for ways to become more productive and make SQL Server even more fun!
+Together with his team at Solisyon, Ben provides training, implementation and consultancy for SQL/BI developers and data analysts in upper-mid-market companies around the globe.</description>
+      <twitter>bweissman</twitter>
+      <linkedin>https://de.linkedin.com/in/weissmanben</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=bweissman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87060</importID>
+      <name>Ben Weissman</name>
+      <label>
+      </label>
+      <description>Ben Weissman has been working with SQL Server since SQL Server 6.5, mainly in the BI/Datawarehousing field. He is a Data Platform MVP, MCSE Data Management and Analytics, and a Certified Data Vault Data Modeler. He is also the first BimlHero Certified Expert in Germany and a co-author of  'SQL Server Big Data Clusters' and 'The Biml Book'.
+Ben has been involved in more than 150 BI Projects and is always looking for ways to become more productive and make SQL Server even more fun!
+Together with his team at Solisyon, Ben provides training, implementation and consultancy for SQL/BI developers and data analysts in upper-mid-market companies around the globe.</description>
+      <twitter>bweissman</twitter>
+      <linkedin>https://de.linkedin.com/in/weissmanben</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=bweissman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>87204</importID>
+      <speakers>
+        <speaker>
+          <id>87204</id>
+          <name>Patrick Flynn</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Audi</name>
+      </location>
+      <title>GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects</title>
+      <description>In the last few years the requirement to understand and use distributed Source control systems has become an increasing part of a Data Professionals life. 
+With the move into Open Source and community involvement even Microsoft has embraced the use of GitHub!
+
+In this session we will investigate the setup and use of GitHub and Git for source control.
+Using the highly popular DBATools open source project we will also investigate getting involved in an Open Source project and the process of Pull and Push requests!
+
+Based around personal experience of learning not to hate Source control, this session assume no experience with Git or Github</description>
+      <startTime>1/26/2019 1:45:00 PM</startTime>
+      <endTime>1/26/2019 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86595</importID>
+      <speakers>
+        <speaker>
+          <id>86595</id>
+          <name>Ben Weissman</name>
+        </speaker>
+      </speakers>
+      <track>Information Delivery</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Let’s Build SSIS Packages with Biml – Live!</title>
+      <description>Have you heard about the Business Intelligence Markup Language (Biml)? Maybe you’ve even seen a session about it before but you still have doubts about how easily you can make something useful out of it. In this session, we’ll use Biml to build and populate a staging area including the corresponding SSIS packages. But there won’t be any pre-compiled demos - everything is happening live! Starting with a blank staging database, we will end up building a complete solution over the course of this session to prove that you can start from scratch and still quickly be successful.
+Let’s see, how that goes… 
+
+PS: Even if you have not heard about Biml but are still tired of manually building SSIS packages, this is the right session for you!</description>
+      <startTime>1/26/2019 2:45:00 PM</startTime>
+      <endTime>1/26/2019 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87951</importID>
+      <speakers>
+        <speaker>
+          <id>87951</id>
+          <name>Janusz Rokicki</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Audi</name>
+      </location>
+      <title>AIOps for Sql Server - Introduction</title>
+      <description>For years we have been bombarded with AI-enabled/smart/intelligent features, tools and platforms. But what does it actually mean for Sql Server developers and DBAs in practical terms? Is it just marketing hype or contrary - distinct trend that has already started and impacts how and what we do, our workplaces and future careers? This session defines what AIOPs is, provides framework to measure AI, goes through the list and evaluates 'the latest and greatest' tools and features available in Sql Server both on-premises and in the cloud and finally shows practical use cases of the best of them that we have to adopt to stay relevant on increasingly competitive market. Let's find out if maintenance free, self-healing, auto-tuning databases that are able to detect and automatically mitigate security risks are ready for real-world workloads! Areas covered:
+- Conditional Access VS Thread Detection
+- Query Store and Automatic Tuning
+- Intelligent Query Processing</description>
+      <startTime>1/26/2019 2:45:00 PM</startTime>
+      <endTime>1/26/2019 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87722</importID>
+      <speakers>
+        <speaker>
+          <id>87722</id>
+          <name>Danaraj Ram Kumar</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Orchestrating Data Movement in the Cloud</title>
+      <description>Data sourcing has changed a lot in the past. This session walks through on orchestrating data movement by an ELT approach by sourcing data from a centralized data lake store to Azure SQL DW and performing data transformation using Azure Data Factory.</description>
+      <startTime>1/26/2019 1:45:00 PM</startTime>
+      <endTime>1/26/2019 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87073</importID>
+      <speakers>
+        <speaker>
+          <id>87073</id>
+          <name>Khilitchandra Prajapati</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Build Dashboards in Power BI with Real-time* Data</title>
+      <description>In this session, we will go through architecture, components  demos in order to build Power BI Dashboards with Real-time* data. Of course in fun way :)</description>
+      <startTime>1/26/2019 10:45:00 AM</startTime>
+      <endTime>1/26/2019 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>86589</importID>
+      <speakers>
+        <speaker>
+          <id>86589</id>
+          <name>Asanka Padmakumara</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Audi</name>
+      </location>
+      <title>ETL2.0: Data Engineering with Azure Databricks</title>
+      <description>Spark and Azure Databricks have become game changing features in data world and processing large volume of data has never been faster. In this session , I will give a introduction to Azure Databricks, Apache Spark and will walk though step by step on how to use Azure Databricks.Additionally I will showcase how to perform ETL operations using Azure Databricks.</description>
+      <startTime>1/26/2019 10:45:00 AM</startTime>
+      <endTime>1/26/2019 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>87442</importID>
+      <speakers>
+        <speaker>
+          <id>87442</id>
+          <name>David Alzamendi</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Audi</name>
+      </location>
+      <title>Modern Azure Data Warehouse</title>
+      <description>What is a Modern Data Warehouse? How is it different from the traditional Data Warehouse architecture? Where to start building the Data Warehouse? Cloud or no Cloud?
+
+This session will answer and expand upon each one of these questions.
+
+From the traditional data warehouse architecture to the modern data warehouse using Azure technologies, you will learn different services that are a good fit for your solutions and how to integrate them.</description>
+      <startTime>1/26/2019 11:45:00 AM</startTime>
+      <endTime>1/26/2019 12:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87941</importID>
+      <speakers>
+        <speaker>
+          <id>87941</id>
+          <name>Chiu Kiang Phua</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Placeholder (Testing)</title>
+      <description>We will discover what are the best new features in SQL Server 2019!</description>
+      <startTime>1/26/2019 7:00:00 PM</startTime>
+      <endTime>1/26/2019 8:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86647</importID>
+      <speakers>
+        <speaker>
+          <id>86647</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Common TSQL Mistakes</title>
+      <description>We are going to examine a variety of oopsies MANY developers fall prey too - some obvious, some pretty subtle and some down right sneaky! Lots of code examples with the bad AND good code presented. I GUARANTEE that you will find things here that will either prevent you from getting bad data, throwing unwanted errors or vastly improving your database application's performance.  I have given this talk over 100 times now and it is always very highly rated!</description>
+      <startTime>1/26/2019 1:45:00 PM</startTime>
+      <endTime>1/26/2019 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86277</importID>
+      <speakers>
+        <speaker>
+          <id>86277</id>
+          <name>Hamid J. Fard</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Optimum Environment for SQL Server</title>
+      <description>During this session, you will learn about what is neccessary to know
+and learn about SQL Server to have the best performing database environment in
+terms of managability, performance, security, HADR and etc.
+SQL Server is not just only a data storage, and due to very complex and complicated
+interanl engines, requires to be maintained and administrated in proper manner.
+This session will give you enough knowledge about what you are not aware about 
+SQL Server.</description>
+      <startTime>1/26/2019 2:45:00 PM</startTime>
+      <endTime>1/26/2019 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86648</importID>
+      <speakers>
+        <speaker>
+          <id>86648</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Know What Your Code is Doing to SQL Server!</title>
+      <description>ORMs - oh how I LOVE them! As a consultant, when I see them in play at a client I go KACHIIINNNNGGGG!! :-D Seriously though, they can provide some substantial benefits for coding throughput. But if you don't Read The Fine Manual and do some things right and avoid some major gotchas you will fall prey to one of my favorite Guruisms: "Anything that allows developers to slap code together more quickly is inversely proportional to the performance, concurrency and scalability you will get from that code"! Although this talk is based on Entity Framework, all ORMs suffer from the same flaws.</description>
+      <startTime>1/26/2019 4:00:00 PM</startTime>
+      <endTime>1/26/2019 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>88328</importID>
+      <speakers>
+        <speaker>
+          <id>88328</id>
+          <name>Ian Choy</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Microsoft Data  AI Landscape</title>
+      <description>The Data  AI technology landscape have change drastically for the past few years and we are beginning to see more real-life implementation of modern data warehouses, big data, machine learning, chat-bots  IoT in customers environment. In this years keynote session, I will share Microsoft's overall Data  AI technologies and which have been the most asked about from real customers on the ground and how are they implementing the various software  services components to realize business value.</description>
+      <startTime>1/26/2019 9:30:00 AM</startTime>
+      <endTime>1/26/2019 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>86475</importID>
+      <speakers>
+        <speaker>
+          <id>86475</id>
+          <name>Jonathan Stewart</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Data Visualization: How to truly tell a great story!</title>
+      <description>We have more information available to us today than ever before. So much so that we run the risk of not being able to tell concise stories. There's a lot more to creating that story than just getting the correct information. Come learn not just the do's and don'ts, but the whys…</description>
+      <startTime>1/26/2019 11:45:00 AM</startTime>
+      <endTime>1/26/2019 12:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87060</importID>
+      <speakers>
+        <speaker>
+          <id>87060</id>
+          <name>Ben Weissman</name>
+        </speaker>
+      </speakers>
+      <track>Information Delivery</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>SQL Server Big Data Clusters - A game changer?</title>
+      <description>With SQL Server 2019, Microsoft is introducing a new couple of features for data virtualization, data mart scale out and big data analysis. They all together for the SQL Server Big Data Clusters.
+
+Let's take a look at what that means and how you can make use of the extended polybase capabilities, built in spark queries and more!</description>
+      <startTime>1/26/2019 10:45:00 AM</startTime>
+      <endTime>1/26/2019 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>86478</importID>
+      <speakers>
+        <speaker>
+          <id>86478</id>
+          <name>Jonathan Stewart</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Performance Tuning for the BI Professional</title>
+      <description>Being a BI Professional, you need all the performance tuning the DB folks get and more.  In this hour, we will go over important performance tuning tips that you can use to help make your deliverables faster and more effective.  We will touch on the MSBI tools of SSIS, SSAS, SSRS and PowerBI.</description>
+      <startTime>1/26/2019 4:00:00 PM</startTime>
+      <endTime>1/26/2019 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86320</importID>
+      <speakers>
+        <speaker>
+          <id>86320</id>
+          <name>Jason Aw</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Audi</name>
+      </location>
+      <title>SQL Server in "The Cloud": High Availability and Disaster Recovery in Azure, AWS and Google</title>
+      <description>If you are considering moving your SQL Server instances to "The Cloud" you will need to have a plan in place for both high availability and disaster recovery. In this session we will examine the three top public cloud providers and what they have to offer in terms of both high availability and disaster recovery. We will discuss where the providers are the same and where the differ. Some real life customer configurations will be presented. With content from Cloud and Datacenter Management MVP Dave Bermingham, Jason Aw will lead this session and encourages you to bring your questions specific to your environment.</description>
+      <startTime>1/26/2019 4:00:00 PM</startTime>
+      <endTime>1/26/2019 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86389</importID>
+      <speakers>
+        <speaker>
+          <id>86389</id>
+          <name>Vinod Kumar M</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Become a SQL Ninja: SQL Server Tools</title>
+      <description>In this session I will walk through some of the out-of-box SQL Server tools that you will need to know or never knew could be so much fun. A number of commandline utilities exist with SQL Server that we are never exposed to. In this session, I will take a tour of each of these tools and the scenario’s that real world customers used them in innovative ways. From SQL Server Management Studio to every tools will be an hour of Demo extravaganza not to be missed. This is a Zero slide but an hour of demo marathon.</description>
+      <startTime>1/26/2019 11:45:00 AM</startTime>
+      <endTime>1/26/2019 12:45:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

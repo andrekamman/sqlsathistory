@@ -1,0 +1,23 @@
+# SQLSaturday #512 - Rio de Janeiro 2016
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:00:00|Rodrigo Crespi|Carreiras de Sucesso|[Oportunidades com a plataforma de dados da Microsoft](48423.md)
+09:00:00|Frederico Santos|Novidades do SQL Server 2016|[SQL Server 2016 - It Just Runs Faster](49569.md)
+09:00:00|Gustavo Maia Aguiar|Administração e T-SQL|[Corrup#231;#227;o de dados e perda acidental - O que fazer ?](49916.md)
+09:00:00|Viviane Ribeiro|Bussiness Intelligence|[Cortana Intelligence + Spark + PowerBI](49972.md)
+10:30:00|Luiz Mercante|Novidades do SQL Server 2016|[A nova arma do DBA: otimizando com o Query Store](44509.md)
+10:30:00|Nilton Pinheiro|Administração e T-SQL|[Entendendo a Distribui#231;#227;o de Dados entre V#225;rios Arquivos do Database](48139.md)
+10:30:00|André Castro|Bussiness Intelligence|[SQL Server 2016 - Novidades em Business Intelligence](49121.md)
+10:30:00|Thiago Cruz|Carreiras de Sucesso|[O dia a dia de um Administrador de Banco de Dados](49947.md)
+13:00:00|Marcelo Adade|Administração e T-SQL|[SQL SERVER e ORACLE: Semelhan#231;as e Diferen#231;as para o DBA](44878.md)
+13:00:00|Felipe de Assis|Novidades do SQL Server 2016|[Salvando hist#243;rico dos dados com as Temporal Tables do SQL 2016](47009.md)
+13:00:00|Sulamita Dantas|Carreiras de Sucesso|[Seguran#231;a no SQL Server](48508.md)
+13:00:00|Marcos Vinicius Oliveira Schardong|Bussiness Intelligence|[Novidades do SSRS 2016 - O poder da an#225;lise de dados](49590.md)
+14:00:00|Diego Nogare|Carreiras de Sucesso|[O Dia a Dia do Cientista de Dados](44349.md)
+14:00:00|Murilo Miranda|Novidades do SQL Server 2016|[Availability Groups 2016: Quais s#227;o as novidades?](44375.md)
+14:00:00|Fabiano Amorim|Administração e T-SQL|[Escrevendo c#243;digo T-SQL "like a boss"](44378.md)
+14:00:00|Dennes Torres|Bussiness Intelligence|[Super ETL's com as novidades do SSIS 2016](49973.md)
+15:30:00|Vitor Fava|Novidades do SQL Server 2016|[Stretch Database - Armazenamento de dados hist#243;ricos no SQL Server 2016](44852.md)
+15:30:00|Fabrício Lima|Carreiras de Sucesso|[Passo a Passo para realizar uma Consultoria de Tuning em um Cliente](48586.md)
+15:30:00|Alexandre Soteras|Bussiness Intelligence|[Performance Tuning of Tabular Models in SQL Server](49802.md)
+15:30:00|Marcelo Fernandes|Administração e T-SQL|[Criando ambientes hibridos de alta disponibilidade (On Premises e Cloud)](49915.md)

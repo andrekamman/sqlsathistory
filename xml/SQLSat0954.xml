@@ -1,0 +1,49 @@
+<GuidebookXML>
+  <sponsors>
+    <sponsor>
+      <importID>7</importID>
+      <name>SIOS Technology</name>
+      <label>Platinum</label>
+      <url>http://us.sios.com/company/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/954/EventSponsor_14477.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>607</importID>
+      <name>DELL EMC</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.dellemc.com/en-us/index.htm</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/954/EventSponsor_14394.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1617</importID>
+      <name>VMWare</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.vmware.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/954/EventSponsor_14486.eps</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2354</importID>
+      <name>Improving-Atlanta</name>
+      <label>Silver Sponsor</label>
+      <url>https://improving.com/location/atlanta</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/954/EventSponsor_14755.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1853</importID>
+      <name>Insight Enterprises</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.insight.com/en_US/solve/digital-innovation.html</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/954/EventSponsor_14745.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

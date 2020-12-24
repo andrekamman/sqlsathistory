@@ -1,0 +1,20 @@
+# SQLSaturday #932 - Croatia Virtual 2020
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+08:15:00|Denny Cherry|Application  Database Development|[Table Indexing for the .NET Developer](98829.md)
+08:15:00|Vedran Kesegic|Enterprise Database Administration  Deployment|[Logging Actual execution plans in SQL 2017 and 2019](98966.md)
+08:15:00|Mihail Mateev|Cloud Application Development  Deployment|[Creating Custom BI Solutions with Power BI Embedded](99720.md)
+09:30:00|Catalin Gheorghiu|Cloud Application Development  Deployment|[“SQL-like” or query languages in Azure IoT](102846.md)
+09:30:00|Sebastiano Galazzo|Analytics and Visualization|[Creating a photorealistic avatar using generative adversarial net](105763.md)
+09:30:00|Magnus Ahlkvist|Application  Database Development|[Statistics, an unreliable friend.](99196.md)
+10:45:00|Gianluca Sartori|Enterprise Database Administration  Deployment|[Monitoring SQL Server without breaking the bank](101601.md)
+10:45:00|Nicky van Vroenhoven|Analytics and Visualization|[Query Folding in Power BI](101663.md)
+10:45:00|Aleksandar Talev|Enterprise Database Administration  Deployment|[Implementing security in Azure Data Platform Solutions](104353.md)
+12:00:00|Nikola Ilic|BI Platform Architecture, Development  Administration|[Magnificent 7 - Simple tricks to boost your Power BI development](108145.md)
+12:00:00|John Martin|Enterprise Database Administration  Deployment|[Performance Tuning with SQLDiag, the best free tool you never knew you had.](98600.md)
+13:45:00|Tomaž Kaštrun|BI Information Delivery|[Useful DAX and Power BI examples for everyday usage](101212.md)
+13:45:00|Miloš Radivojević|Professional Development|[Transact-SQL Performance Tips](107566.md)
+13:45:00|Dejan Sarka|Analytics and Visualization|[Data Science in Power BI Desktop](98766.md)
+15:00:00|Gergely Csom|BI Platform Architecture, Development  Administration|[Building a modern data warehouse and BI solution in Microsoft cloud](102492.md)
+15:00:00|Torsten Strauss|Enterprise Database Administration  Deployment|[Wait Statistics](105224.md)
+15:00:00|Rudi Bruchez|Cloud Application Development  Deployment|[Diagnosing performance problems on Azure SQL](99699.md)

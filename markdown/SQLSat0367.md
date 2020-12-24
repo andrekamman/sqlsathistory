@@ -1,0 +1,21 @@
+# SQLSaturday #367 - Pordenone 2015
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Francesco Milano|Aula S8|[Transaction Log Demystified](11817.md)
+00:00:00|Davide Mauri|Aula S7|[Back to the Roots: SQL Server Indexing](13265.md)
+00:00:00|Emiliano Pinto|Aula S1|[Ricerche Full-Text](13782.md)
+00:00:00|Emanuele Zanchettin|Aula S8|[Implementing and Maintaining an Azure SQL Database project](14138.md)
+00:00:00|Gianluca Sartori|Aula S7|[Extending the Data Collector to Monitor SQL Server effortlessly](14600.md)
+00:00:00|Gianluca Sartori|Aula S7|[SQL Server Security In An Insecure World](14602.md)
+00:00:00|Gilberto Zampatti|Aula S1|[Analisi prestazionale (Performance Tuning) in Microsoft SQL Server tramite Dynamic Management Object](14634.md)
+00:00:00|Gilberto Zampatti|Aula S1|[Risoluzione dei problemi riscontrabili in SQL Server (Troubleshooting)](14635.md)
+00:00:00|Marco Pozzan|Aula S1|[Xvelocity in deep](15342.md)
+00:00:00|Luca Ferrari|Aula S8|[Migrare a Sql Server 2014 In-Memory Technology](19152.md)
+00:00:00|Michael Denny|Aula S7|[Entity Framework 7, Back To The Future!](20225.md)
+00:00:00|Saverio Lorenzini|Aula S8|[Metriche di valutazione per un database performante ](24003.md)
+00:00:00|Sergio Govoni|Aula S1|[Execution Plans End-to-End in SQL Server (IT)](24394.md)
+00:00:00|Alessandro Alpi|Aula S7|[Database unit testing](25893.md)
+00:00:00|Tomaž Kaštrun|Aula S8|[Usage of R in SQL Server for better data understanding](27013.md)
+00:00:00|Marco Parenzan|Aula S8|[Azure Overview for SQL Server Developers](34762.md)
+00:00:00|andrea benedetti|Aula S1|[SQL Server: miti da sfatare ](9443.md)
+00:00:00|Andrea Martorana Tusa|Aula S7|[Geocoding with SQL Server and Google Maps API (IT)](9446.md)

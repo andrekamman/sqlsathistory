@@ -1,0 +1,23 @@
+# SQLSaturday #278 - Budapest 2014
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Bob Duffy|04 BI Track|[Load Testing Analysis Services](10564.md)
+00:00:00|Boris Hristov|02 Data Platform Track 1|[The nightmare of locking, blocking and isolation levels!](10924.md)
+00:00:00|Dejan Sarka|03 Data Platform Track 2|[Optimizing Temporal Queries](13526.md)
+00:00:00|Erik Bitemo|01 Magyar nyelvu szekcio|[SQL Server and Transactional Replication - senkit sem hagy hidegen](13923.md)
+00:00:00|Francois-Manuel Billault|02 Data Platform Track 1|[Using Fusion ioMemory to leverage SQL Server 2014 features: Buffer Pool Extension and In-memory OLTP](14186.md)
+00:00:00|Zoltán Hangyál|01 Magyar nyelvu szekcio|[A jó index scan, a rossz index seek avagy hogyan olvassunk végrehajtási tervet](14934.md)
+00:00:00|Ian Meade|02 Data Platform Track 1|[Dynamic code for efficient searching ](15304.md)
+00:00:00|Janos Berke|01 Magyar nyelvu szekcio|[T-SQL hibakezelés a gyakorlatban ](15752.md)
+00:00:00|Jen Stirrup|04 BI Track|[Let's PowerBI Hungary with Big Data!](16398.md)
+00:00:00|Tobias Koprowski|02 Data Platform Track 1|[Azure SQL Database Tips and Tricks for Beginners](18673.md)
+00:00:00|Marcin Szeliga|03 Data Platform Track 2|[Stored procedures — facts and myths](19457.md)
+00:00:00|Mihail Mateev|02 Data Platform Track 1|[Entity Framework 6 New Features](20311.md)
+00:00:00|Miloš Radivojević|03 Data Platform Track 2|[SQL Server 2014 - New Cardinality Estimator](20749.md)
+00:00:00|Peter Myers|04 BI Track|[Mastering the Excel CUBE Functions](21999.md)
+00:00:00|Peter Myers|04 BI Track|[Introduction to SQL Server 2012 MDS and DQS](22002.md)
+00:00:00|Peter Larsson|03 Data Platform Track 2|[Remodel your old EAV design](22179.md)
+00:00:00|Tamás Polner|01 Magyar nyelvu szekcio|[Data for everyone with Power BI! The role of the data stewards and analysts inside the organization](22220.md)
+00:00:00|Kevin Boles|02 Data Platform Track 1|[Windowing Functions: THE Reason to Upgrade to 2012](26412.md)
+00:00:00|Uwe Ricken|03 Data Platform Track 2|[SQL Server in motion - Page Splits](27226.md)
+00:00:00|Balázs Farkas|01 Magyar nyelvu szekcio|[Adatbányászat SQL Server Analysis Services-el](27355.md)

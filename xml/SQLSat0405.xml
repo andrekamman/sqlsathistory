@@ -1,0 +1,464 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #405 - Buenos Aires 2015</name>
+    <startDate>5/22/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>150</attendeeEstimate>
+    <timezone>
+    </timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatBuenosAires</twitterHashtag>
+    <venue>
+      <name>Microsoft Argentina</name>
+      <street>Bouchard 710 4° Piso</street>
+      <city>Ciudad Autónoma de Buenos Aires</city>
+      <state>, Argentina</state>
+      <zipcode>1053</zipcode>
+      <longitude>-58.40345</longitude>
+      <latitude>-34.600811</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1395</importID>
+      <name>Precision IT</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.precisionit.com.ar</url>
+      <imageURL>https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xta1/v/t1.0-9/11169191_10155493605900494_3381427666918598895_n.jpg?oh=6abf2ede6d7154d7d6d168721b5413a7oe=55C29951__gda__=1440432412_e7933048b7bb29041d22391e8a98fd27</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1404</importID>
+      <name>TriggerDB Consulting</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.triggerdb.com</url>
+      <imageURL>https://www.triggerdb.com/wp-content/uploads/2016/10/logo-fondo-blanco.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1427</importID>
+      <name>Quest Software Latam</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://www.sqlsaturday.com/images/sqlsaturday/eventsponsors/Quest_170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>9201</importID>
+      <name>Alejandro Cabanchik</name>
+      <label>
+      </label>
+      <description>Senior Consultant SQL DW/BI
+
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://alejandrocabanchik.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36925</importID>
+      <name>Alejandro Cabanchik</name>
+      <label>
+      </label>
+      <description>Senior Consultant SQL DW/BI
+
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://alejandrocabanchik.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36926</importID>
+      <name>Alejandro Cabanchik</name>
+      <label>
+      </label>
+      <description>Senior Consultant SQL DW/BI
+
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://alejandrocabanchik.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35626</importID>
+      <name>Carlos L Chacon</name>
+      <label>
+      </label>
+      <description>Carlos Chacon is the managing partner of SQL Data Partners LLC and co-host of the popular SQL Data Partners Podcast.  While getting his start as a typical accidental DBA, Carlos has sat on Microsoft exam review panels, served as regional mentor and chapter leader.  He enjoys traveling and has been to four continents, speaks Spanish and can eat his weight in raspberries (not yet proven).  He and his family live in Richmond, Virginia.</description>
+      <twitter>@CarlosLChacon</twitter>
+      <linkedin>https://www.linkedin.com/in/carloslchacon</linkedin>
+      <ContactURL>http://sqldatapartners.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@CarlosLChacon</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19886</importID>
+      <name>Maximiliano Damian Accotto</name>
+      <label>
+      </label>
+      <description>Soy socio fundador de Triggerdb Consulting SRL.
+Poseo más de 20 años de experiencia en tecnologías de bases de datos y BI de Microsoft (SQL Server, Analysis Services, Powerbi, Azure, etc)
+Soy orador frecuente desde el 2005 para distintos eventos organizados por Microsoft y comunidades (lanzamientos de productos, SQLSaturday, Microsoft User Group, etc)
+He sido premiado como Microsoft MVP en Data Platform desde el año 2005 al 2019.
+Formó parte del capítulo SQLPass Argentina donde soy orador frecuente.</description>
+      <twitter>https://twitter.com/maxiaccotto</twitter>
+      <linkedin>https://www.linkedin.com/in/maxiaccotto</linkedin>
+      <ContactURL>https://blogs.triggerdb.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/maxiaccotto</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15999</importID>
+      <name>Javier Villegas</name>
+      <label>
+      </label>
+      <description>Javier Villegas is a Database Administrator Manager for Mediterranean Shipping Company. Javier has more than 20 years working with SQL Server on every version from 6.5 to SQL Server 2019, Including SQL Azure Database and SQL Azure Managed Instance. His specialization is Administration, Performance Tuning and High Availability.
+He is a Microsoft MVP in Data Platform.
+Javier is a frequent speaker in conferences and events such as SQL Saturday , PASS Virtual Groups, 24 Hours SQL PASS , vOpen(NetConf), GroupBy and DataPlatformGeeks.
+@sqlargentina</description>
+      <twitter>https://www.twitter.com/javier_vill</twitter>
+      <linkedin>https://ar.linkedin.com/in/javiervillegas</linkedin>
+      <ContactURL>http://sql-javier-villegas.blogspot.com.ar/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://www.twitter.com/javier_vill</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37114</importID>
+      <name>Gustavo Boismoreau</name>
+      <label>
+      </label>
+      <description>Ingeniero en Sistemas recibido en UTN con 22 años de experiencia en la profesión. Estudio un MBA en el IAE.
+Trabajo en compañías como IBM, Telefónica, Sky, Global Crossing y Dell. Se ha desempeñado como implementador, desarrollador, Project Manager, Gerente de Desarrollo y Gerente de IT. Actualmente gerencia el equipo latinoamericano de sales engineers de la linea de negocio information management en Quest.</description>
+      <twitter>@boismo</twitter>
+      <linkedin>https://ar.linkedin.com/in/gboismoreau</linkedin>
+      <ContactURL>http://www.toadworld.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@boismo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35627</importID>
+      <name>Carlos L Chacon</name>
+      <label>
+      </label>
+      <description>Carlos Chacon is the managing partner of SQL Data Partners LLC and co-host of the popular SQL Data Partners Podcast.  While getting his start as a typical accidental DBA, Carlos has sat on Microsoft exam review panels, served as regional mentor and chapter leader.  He enjoys traveling and has been to four continents, speaks Spanish and can eat his weight in raspberries (not yet proven).  He and his family live in Richmond, Virginia.</description>
+      <twitter>@CarlosLChacon</twitter>
+      <linkedin>https://www.linkedin.com/in/carloslchacon</linkedin>
+      <ContactURL>http://sqldatapartners.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@CarlosLChacon</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36739</importID>
+      <name>Adrian Fernandez</name>
+      <label>
+      </label>
+      <description>Adrián Fernández, especializado en bases de datos y analítica avanzada, graduado en tecnología Informática, postgraduado en Big Data y científico de datos I.T.B.A (Instituto Tecnológico Buenos Aires), cursando Magister Data Science UDD.
+Especialista de Soluciones Microsoft en plataforma de datos e Inteligencia Artificial.
+Scope: SQL Server, Azure Machine Learning, Cognitive Services, Business Intelligence, Power BI, Big Data, (Python / R / Julia / Scala).
+Data Science: experto Microsoft R Server (MRS), colaborando con proyectos de investigación avanzada como científico de datos y participando en discusiones de grupo Microsoft Data Scientist en la búsqueda de desarrollo de nuevos productos y resolución de casos de negocio.</description>
+      <twitter>adrianfz10</twitter>
+      <linkedin>https://ar.linkedin.com/in/adrianfz</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=adrianfz10</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19885</importID>
+      <name>Maximiliano Damian Accotto</name>
+      <label>
+      </label>
+      <description>Soy socio fundador de Triggerdb Consulting SRL.
+Poseo más de 20 años de experiencia en tecnologías de bases de datos y BI de Microsoft (SQL Server, Analysis Services, Powerbi, Azure, etc)
+Soy orador frecuente desde el 2005 para distintos eventos organizados por Microsoft y comunidades (lanzamientos de productos, SQLSaturday, Microsoft User Group, etc)
+He sido premiado como Microsoft MVP en Data Platform desde el año 2005 al 2019.
+Formó parte del capítulo SQLPass Argentina donde soy orador frecuente.</description>
+      <twitter>https://twitter.com/maxiaccotto</twitter>
+      <linkedin>https://www.linkedin.com/in/maxiaccotto</linkedin>
+      <ContactURL>https://blogs.triggerdb.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/maxiaccotto</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19884</importID>
+      <name>Maximiliano Damian Accotto</name>
+      <label>
+      </label>
+      <description>Soy socio fundador de Triggerdb Consulting SRL.
+Poseo más de 20 años de experiencia en tecnologías de bases de datos y BI de Microsoft (SQL Server, Analysis Services, Powerbi, Azure, etc)
+Soy orador frecuente desde el 2005 para distintos eventos organizados por Microsoft y comunidades (lanzamientos de productos, SQLSaturday, Microsoft User Group, etc)
+He sido premiado como Microsoft MVP en Data Platform desde el año 2005 al 2019.
+Formó parte del capítulo SQLPass Argentina donde soy orador frecuente.</description>
+      <twitter>https://twitter.com/maxiaccotto</twitter>
+      <linkedin>https://www.linkedin.com/in/maxiaccotto</linkedin>
+      <ContactURL>https://blogs.triggerdb.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/maxiaccotto</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36740</importID>
+      <name>Adrian Fernandez</name>
+      <label>
+      </label>
+      <description>Adrián Fernández, especializado en bases de datos y analítica avanzada, graduado en tecnología Informática, postgraduado en Big Data y científico de datos I.T.B.A (Instituto Tecnológico Buenos Aires), cursando Magister Data Science UDD.
+Especialista de Soluciones Microsoft en plataforma de datos e Inteligencia Artificial.
+Scope: SQL Server, Azure Machine Learning, Cognitive Services, Business Intelligence, Power BI, Big Data, (Python / R / Julia / Scala).
+Data Science: experto Microsoft R Server (MRS), colaborando con proyectos de investigación avanzada como científico de datos y participando en discusiones de grupo Microsoft Data Scientist en la búsqueda de desarrollo de nuevos productos y resolución de casos de negocio.</description>
+      <twitter>adrianfz10</twitter>
+      <linkedin>https://ar.linkedin.com/in/adrianfz</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=adrianfz10</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>36925</importID>
+      <speakers>
+        <speaker>
+          <id>36925</id>
+          <name>Alejandro Cabanchik</name>
+        </speaker>
+      </speakers>
+      <track>Plataforma de Desarrollo y BI</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Power Query</title>
+      <description>Introduction to Power Query</description>
+      <startTime>5/22/2015 11:10:00 AM</startTime>
+      <endTime>5/22/2015 12:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>36926</importID>
+      <speakers>
+        <speaker>
+          <id>36926</id>
+          <name>Alejandro Cabanchik</name>
+        </speaker>
+      </speakers>
+      <track>Plataforma de Desarrollo y BI</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Mobile BI with Datazen</title>
+      <description>Introduction to Datazen</description>
+      <startTime>5/22/2015 2:30:00 PM</startTime>
+      <endTime>5/22/2015 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>19884</importID>
+      <speakers>
+        <speaker>
+          <id>19884</id>
+          <name>Maximiliano Damian Accotto</name>
+        </speaker>
+      </speakers>
+      <track>Administración  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Tuning avanzado para DBa#180;s</title>
+      <description>Optimizaci#243;n de SQL Server 2008R2 / 2012 y 2014 avanzado</description>
+      <startTime>5/22/2015 12:20:00 PM</startTime>
+      <endTime>5/22/2015 1:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>9201</importID>
+      <speakers>
+        <speaker>
+          <id>9201</id>
+          <name>Alejandro Cabanchik</name>
+        </speaker>
+      </speakers>
+      <track>Plataforma de Desarrollo y BI</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>DAX in Action</title>
+      <description>See the power of Data Analysis Expression (DAX) language in PowerPivot and Analysis Services Tabular.
+</description>
+      <startTime>5/22/2015 4:50:00 PM</startTime>
+      <endTime>5/22/2015 5:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>37114</importID>
+      <speakers>
+        <speaker>
+          <id>37114</id>
+          <name>Gustavo Boismoreau</name>
+        </speaker>
+      </speakers>
+      <track>Administración  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Administre, Diagnostique y Resuelva problemas sobre su SQL Server</title>
+      <description>Funcionalidades en Toad y SOSSE</description>
+      <startTime>5/22/2015 3:40:00 PM</startTime>
+      <endTime>5/22/2015 4:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>19885</importID>
+      <speakers>
+        <speaker>
+          <id>19885</id>
+          <name>Maximiliano Damian Accotto</name>
+        </speaker>
+      </speakers>
+      <track>Administración  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>SQL en ambientes virtuales</title>
+      <description>Como instalar y configurar una instalacion de SQL Server de carga en ambientes virtualizados</description>
+      <startTime>5/22/2015 10:00:00 AM</startTime>
+      <endTime>5/22/2015 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35626</importID>
+      <speakers>
+        <speaker>
+          <id>35626</id>
+          <name>Carlos L Chacon</name>
+        </speaker>
+      </speakers>
+      <track>Administración  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>"I Know What You Did Last Query" --SQL Server</title>
+      <description>Starting with the 2005 release, SQL Server captures information about the workload on an instance, which you can use to monitor the system, gather performance metrics, and validate system settings.  This information is available via Dynamic Management View and functions and officially they "return internal, implementation-specific state data." This session gives an introduction to these concepts, how they make DBA life much sweeter and we discuss many of the different community queries available to help you get jump started in your environment.  We also open up the floor for ideas of how you are using these views/functions.  This session will be in Spanglish.</description>
+      <startTime>5/22/2015 2:30:00 PM</startTime>
+      <endTime>5/22/2015 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>36740</importID>
+      <speakers>
+        <speaker>
+          <id>36740</id>
+          <name>Adrian Fernandez</name>
+        </speaker>
+      </speakers>
+      <track>Plataforma de Desarrollo y BI</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Microsoft Azure and Internet of Things (IoT)</title>
+      <description>I present a prototype which performs the "Measurement and temperature display in real-time using Open Hardware and Microsoft Azure" the project describes how to use different types of sensors, microcontroller devices to connect and send burst data to the internet Azure cloud to analyze and visualize the resulting data streams in real time, using new concepts such as Big 
+data, Internet of Things (IoT), Stream Analytcs and Open Hardware.</description>
+      <startTime>5/22/2015 3:40:00 PM</startTime>
+      <endTime>5/22/2015 4:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>15999</importID>
+      <speakers>
+        <speaker>
+          <id>15999</id>
+          <name>Javier Villegas</name>
+        </speaker>
+      </speakers>
+      <track>Administración  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>SQL Monitoring</title>
+      <description>Custom procedures to monitor sql performance
+Extended Events
+DBA Dashboard</description>
+      <startTime>5/22/2015 11:10:00 AM</startTime>
+      <endTime>5/22/2015 12:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>35627</importID>
+      <speakers>
+        <speaker>
+          <id>35627</id>
+          <name>Carlos L Chacon</name>
+        </speaker>
+      </speakers>
+      <track>Plataforma de Desarrollo y BI</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Juez, Jurado Y  Verdugo--Una Primera Observaci#243;n de Planes de Eje</title>
+      <description>Cuando SQL Server recibe una consulta, un plan de ejecuci#243;n es lo que acepta el T-SQL y produce los datos.  Esta charla sirve como una introducci#243;n a como se puede leer y entender los planes.  Repasaremos la t#233;cnicas que podemos hacer para mejorar el rendimiento de las consultas.  Miriamos al ganador del concurso SQLCruise 2013 'Hairy Execution Plan'.  http://sqlcruise.com/winner-of-the-2013-caribbean-landlubber-sql-sentry-hairy-execution-plan/  This session will be in Spanglish.</description>
+      <startTime>5/22/2015 12:20:00 PM</startTime>
+      <endTime>5/22/2015 1:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>19886</importID>
+      <speakers>
+        <speaker>
+          <id>19886</id>
+          <name>Maximiliano Damian Accotto</name>
+        </speaker>
+      </speakers>
+      <track>Administración  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>SQL Server 2014 Cardinaly Estimator</title>
+      <description>Impactos en la performance por el nuevo CE, como configurar la instancia, que cuidados tener, como configurar las consultas</description>
+      <startTime>5/22/2015 4:50:00 PM</startTime>
+      <endTime>5/22/2015 5:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>36739</importID>
+      <speakers>
+        <speaker>
+          <id>36739</id>
+          <name>Adrian Fernandez</name>
+        </speaker>
+      </speakers>
+      <track>Plataforma de Desarrollo y BI</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Big Data and Microsoft Azure</title>
+      <description>I’m going to talk about Big Data concepts, Hadoop and main components.
+Next, I’ll introduce the Lambda Architecture. This is community driven architecture that helps provide a framework for how various Big Data components work together for specific scenarios. 
+I’ll also show how to works in Microsoft Big Data Analytics platform components Azure HDInsight cl#250;ster over Windows, Linux and Machine Learning concepts.</description>
+      <startTime>5/22/2015 10:00:00 AM</startTime>
+      <endTime>5/22/2015 11:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

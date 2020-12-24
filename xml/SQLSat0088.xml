@@ -1,0 +1,581 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #88 - Western Cape 2011</name>
+    <startDate>9/3/2011 12:00:00 AM</startDate>
+    <attendeeEstimate>50</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat88</twitterHashtag>
+    <venue>
+      <name>iSolve Offices</name>
+      <street>31 Brickfield Road</street>
+      <city>Western Cape</city>
+      <state>, South Africa</state>
+      <zipcode>
+      </zipcode>
+      <longitude>18.457279</longitude>
+      <latitude>-33.935084</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1025</importID>
+      <name>Saratoga Software</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.saratoga.co.za</url>
+      <imageURL>https://www.pass.org/files/48a32455-32dc-41ac-a39d-a587fdb85b79.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Silver Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>771</importID>
+      <name>Kalahari.com</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.kalahari.com</url>
+      <imageURL>https://etrader.kalahari.com/referral.asp?linkid=1869partnerid=11604</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>237</importID>
+      <name>Pragmaticworks</name>
+      <label>Silver Sponsor</label>
+      <url>http://pragmaticworks.com</url>
+      <imageURL>https://www.pragmaticworks.com/Portals/0/PragmaticHeaderLogo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>927</importID>
+      <name>Osmosis Consulting</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.osmosisconsulting.co.za/</url>
+      <imageURL>https://www.osmosisconsulting.co.za/images/logo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>749</importID>
+      <name>iSolve</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.isolve.co.za</url>
+      <imageURL>https://www.isolve.co.za/PublishingImages/TopBanner.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>752</importID>
+      <name>IT Business</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.itbusiness.co.za</url>
+      <imageURL>https://www.itbusiness.co.za/images/itb_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>209</importID>
+      <name>Morgan Kaufmann Publishers</name>
+      <label>Bronze Sponsor</label>
+      <url>http://mkp.com/</url>
+      <imageURL>https://mkp.com/wp-content/themes/Reshma_MK/images/mk_logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>3</importID>
+      <name>Idera</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.idera.com/Content/Home.aspx</url>
+      <imageURL>https://www.sqlsaturday.com/images/SQLSaturday/eventsponsors/IDERA170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>33147</importID>
+      <name>Steve Simon</name>
+      <label>
+      </label>
+      <description>Steve Simon is a senior BI engineer with MyWebGrocer. He has been involved with database design and analysis for over 25 years. Steve has presented papers at eight PASS Summits and one at PASS Europe 2009 and 2010. He has just recently presented a Business Intelligence paper at Oracle Open World in San Francisco . Steve has also presented 5 papers at the Information Builders' (IBI) International Summits. He is a PASS regional mentor  chair of the Oracle/SQL Server VC</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.infogoldusa.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30892</importID>
+      <name>Jody Roberts</name>
+      <label>
+      </label>
+      <description>Jody is a DBA at Saratoga Software , has spent the last 12 years  as a DBA </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.saratoga.co.za</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33199</importID>
+      <name>Stephan Lawson</name>
+      <label>
+      </label>
+      <description>I am a seasoned data platform professional, with over 10 years experience in the field, with an interest in data platform technologies, as well as the systems they are built on.
+
+I worked for one of the largest banks in South Africa, and was then recruited into the Premier Field Engineering (PFE) division within Microsoft CSS. I spent over 3 years working in PFE for SQL Server and Analytics Platform System (APS).
+
+Currently I am an Data Architect for a South African startup using Azure, the Microsoft Data Platform, and analytics.
+
+I enjoy spending time with my family, listening to podcasts, and learning about new technologies.</description>
+      <twitter>sqlarcher</twitter>
+      <linkedin>http://www.linkedin.com/in/stephanlawson</linkedin>
+      <ContactURL>https://sqlarcher.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlarcher</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33198</importID>
+      <name>Stephan Lawson</name>
+      <label>
+      </label>
+      <description>I am a seasoned data platform professional, with over 10 years experience in the field, with an interest in data platform technologies, as well as the systems they are built on.
+
+I worked for one of the largest banks in South Africa, and was then recruited into the Premier Field Engineering (PFE) division within Microsoft CSS. I spent over 3 years working in PFE for SQL Server and Analytics Platform System (APS).
+
+Currently I am an Data Architect for a South African startup using Azure, the Microsoft Data Platform, and analytics.
+
+I enjoy spending time with my family, listening to podcasts, and learning about new technologies.</description>
+      <twitter>sqlarcher</twitter>
+      <linkedin>http://www.linkedin.com/in/stephanlawson</linkedin>
+      <ContactURL>https://sqlarcher.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlarcher</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30512</importID>
+      <name>Jason Haddock</name>
+      <label>
+      </label>
+      <description>Jason is a BI architect at Saratoga Software</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>www.saratoga.co.za</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28595</importID>
+      <name>Alistair Pugin</name>
+      <label>
+      </label>
+      <description>Alistair has worked in various capacities in multiple verticals from retail – manufacturing to government, spanning 50 to 4500 users utilizing all aspects of pure Enterprise Information Management. His current position is that of a Senior Technology Consultant at Intervate Cape Town, South Africa assisting companies with architecting their SharePoint environment using “best of breed”, proven methodologies to foster innovation and growth through an ECM framework.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.ecmninja.co.za</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32025</importID>
+      <name>Mark Stacey</name>
+      <label>
+      </label>
+      <description>Mark is the principal architect at PragmaticWorks SA</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32923</importID>
+      <name>Siqhamo Mashologu</name>
+      <label>
+      </label>
+      <description>Siqhamo is a Senior Business Intelligence Consultant at ITB</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.itbusiness.co.za</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32540</importID>
+      <name>Rupert Nicolay</name>
+      <label>
+      </label>
+      <description>Rupert is a Enterprise Architect at Microsoft</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32024</importID>
+      <name>Mark Stacey</name>
+      <label>
+      </label>
+      <description>Mark is the principal architect at PragmaticWorks SA</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34887</importID>
+      <name>Toufiq Abrahams</name>
+      <label>
+      </label>
+      <description>Toufiq Abrahams is the Principal Consultant at Osmosis Consulting and Technology Director at Plain Sight Analytics. He has a passion for turning data into business value with one foot in the cloud and the other on-prem.</description>
+      <twitter>https://twitter.com/ToufiqAbrahams</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.osmosisconsulting.co.za</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/ToufiqAbrahams</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32359</importID>
+      <name>Peter Willmot</name>
+      <label>
+      </label>
+      <description>Peter Willmot is a Microsoft MVP and owner of Willmot.net , specializing in SQL performance tuning</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.Willmot.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33376</importID>
+      <name>Theo Potgieter</name>
+      <label>
+      </label>
+      <description>15 years in IT. What a ride we are on! I am a technical resource that has fell in love with SQL and what it can do. The projects that I work on range from big (50GB) to huge (3 Tb) to massive (30TB) databases and all that that entails. PM, Architect, Lead, Mentor, BA, Developer, DBA, Tester and yes call centre operator.  
+
+Massive for me anyway. :-)</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.businessgenetics.co.za/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31968</importID>
+      <name>Monty Swanepoel</name>
+      <label>
+      </label>
+      <description>Monty is a Senior developer at ITB</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.itbusiness.co.za</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>33147</importID>
+      <speakers>
+        <speaker>
+          <id>33147</id>
+          <name>Steve Simon</name>
+        </speaker>
+      </speakers>
+      <track>BI/DEV</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>MDX</title>
+      <description>The dirty dozen, 12 ways to write poorly performing MDX queries</description>
+      <startTime>9/3/2011 12:00:00 AM</startTime>
+      <endTime>9/3/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30512</importID>
+      <speakers>
+        <speaker>
+          <id>30512</id>
+          <name>Jason Haddock</name>
+        </speaker>
+      </speakers>
+      <track>BI/DEV</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Coffee, Sex and BI</title>
+      <description>Coffee, Sex and BI: Creating a compelling user experience.</description>
+      <startTime>9/3/2011 12:00:00 AM</startTime>
+      <endTime>9/3/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32024</importID>
+      <speakers>
+        <speaker>
+          <id>32024</id>
+          <name>Mark Stacey</name>
+        </speaker>
+      </speakers>
+      <track>BI/DEV</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Using Excel  PowerPivot </title>
+      <description>"Using Excel  PowerPivot to extract, transform and load Statistics SA data"	In this session, Mark will extract data from the Statistics SA , transform it into a clean and usable format using Excel, and load it into a PowerPivot model
+</description>
+      <startTime>9/3/2011 12:00:00 AM</startTime>
+      <endTime>9/3/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30892</importID>
+      <speakers>
+        <speaker>
+          <id>30892</id>
+          <name>Jody Roberts</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The Hangover </title>
+      <description>Recovering SQL Servers</description>
+      <startTime>9/3/2011 12:00:00 AM</startTime>
+      <endTime>9/3/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34887</importID>
+      <speakers>
+        <speaker>
+          <id>34887</id>
+          <name>Toufiq Abrahams</name>
+        </speaker>
+      </speakers>
+      <track>BI/DEV</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Kimball lifecycle and Methodology</title>
+      <description>Kimball lifecycle and Methodology</description>
+      <startTime>9/3/2011 12:00:00 AM</startTime>
+      <endTime>9/3/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33376</importID>
+      <speakers>
+        <speaker>
+          <id>33376</id>
+          <name>Theo Potgieter</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL CLR – SQL 1, CLR 0: Now for round 2</title>
+      <description>Yes, the SQL database engine is faster at dataset operations than CLR. 
+Yes, the SQL database engine is even faster if you let say, a wild monster loose on it (Awed and heaps and heaps of respect). 
+
+So what can we us this SQL CLR thing for? Well! Let us put it to work and make it crunch up some stuff and let me show you what SQL CLR can do for you!</description>
+      <startTime>9/3/2011 12:00:00 AM</startTime>
+      <endTime>9/3/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32359</importID>
+      <speakers>
+        <speaker>
+          <id>32359</id>
+          <name>Peter Willmot</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Things that DBAs need to know about ORM </title>
+      <description>Things that DBAs need to know about ORM </description>
+      <startTime>9/3/2011 12:00:00 AM</startTime>
+      <endTime>9/3/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33198</importID>
+      <speakers>
+        <speaker>
+          <id>33198</id>
+          <name>Stephan Lawson</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server - Transaction Log Optimization</title>
+      <description>The session covers a brief overlook on the transaction log and possible performance bottlenecks when the Log is not properly taken into consideration when designing a database solution.</description>
+      <startTime>9/3/2011 12:00:00 AM</startTime>
+      <endTime>9/3/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32540</importID>
+      <speakers>
+        <speaker>
+          <id>32540</id>
+          <name>Rupert Nicolay</name>
+        </speaker>
+      </speakers>
+      <track>BI/DEV</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SharePoint as your business-focussed BI front-end</title>
+      <description>SharePoint as your business-focussed BI front-end</description>
+      <startTime>9/3/2011 12:00:00 AM</startTime>
+      <endTime>9/3/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28595</importID>
+      <speakers>
+        <speaker>
+          <id>28595</id>
+          <name>Alistair Pugin</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SharePoint 2010 Insights – For the DBA</title>
+      <description>SharePoint 2010 Insights provide users with various mechanisms of accessing and manipulating business information in the organisation. The biggest issue facing organisations is knowing what is available inside SharePoint and how to effectively utilize the BI toolset.</description>
+      <startTime>9/3/2011 12:00:00 AM</startTime>
+      <endTime>9/3/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33199</importID>
+      <speakers>
+        <speaker>
+          <id>33199</id>
+          <name>Stephan Lawson</name>
+        </speaker>
+      </speakers>
+      <track>BI/DEV</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The SQL Stack – Configuring For High Availability</title>
+      <description>The SQL Stack – Configuring For High Availability	The SQL Stack – Configuring For High Availability</description>
+      <startTime>9/3/2011 12:00:00 AM</startTime>
+      <endTime>9/3/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31968</importID>
+      <speakers>
+        <speaker>
+          <id>31968</id>
+          <name>Monty Swanepoel</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SSIS for DBA's</title>
+      <description>SSIS for DBA's</description>
+      <startTime>9/3/2011 12:00:00 AM</startTime>
+      <endTime>9/3/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32923</importID>
+      <speakers>
+        <speaker>
+          <id>32923</id>
+          <name>Siqhamo Mashologu</name>
+        </speaker>
+      </speakers>
+      <track>BI/DEV</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Integration Services (SSIS) for a Busin</title>
+      <description>SQL Server Integration Services (SSIS) for a Business Intelligence Platform </description>
+      <startTime>9/3/2011 12:00:00 AM</startTime>
+      <endTime>9/3/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32025</importID>
+      <speakers>
+        <speaker>
+          <id>32025</id>
+          <name>Mark Stacey</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to Analysis Services for the DBA</title>
+      <description>Introduction to Analysis Services for the DBA
+</description>
+      <startTime>9/3/2011 12:00:00 AM</startTime>
+      <endTime>9/3/2011 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

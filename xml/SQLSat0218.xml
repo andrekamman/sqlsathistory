@@ -1,0 +1,310 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #218 - Philippines 2013</name>
+    <startDate>3/9/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>120</attendeeEstimate>
+    <timezone>(GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat218</twitterHashtag>
+    <venue>
+      <name>Jose Rizal University</name>
+      <street>80 Shaw Boulevard</street>
+      <city>Mandaluyong City</city>
+      <state>, Philippines</state>
+      <zipcode>
+      </zipcode>
+      <longitude>121.02858</longitude>
+      <latitude>14.59266</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>19</importID>
+      <name>MSSQLTips.com</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.mssqltips.com/</url>
+      <imageURL>https://www.pass.org/images/mssql_logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>18</importID>
+      <name>Magenic</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.magenic.com</url>
+      <imageURL>https://www.pass.org/images/SQLSaturday/EventSponsors/magenic.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1168</importID>
+      <name>Takecare Insurance Company Inc.</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.takecareasia.com/</url>
+      <imageURL>https://www.takecareasia.com/wp/wp-content/uploads/2013/03/TakeCare170x60-01.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>868</importID>
+      <name>Julie Koesmarno</name>
+      <label>Personal Sponsor</label>
+      <url>http://www.mssqlgirl.com</url>
+      <imageURL>https://www.mssqlgirl.com/wp-content/uploads/2013/03/mssqlgirl_logo_text_small.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>541</importID>
+      <name>Steve Hughes - Data On Wheels</name>
+      <label>Personal Sponsor</label>
+      <url>http://www.dataonwheels.com</url>
+      <imageURL>https://dataonwheels.files.wordpress.com/2013/02/data-on-wheels-1.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>19678</importID>
+      <name>Mark Nathaniel Ortigas</name>
+      <label>
+      </label>
+      <description>Principal Developer with Magenic Manila</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16522</importID>
+      <name>Jennifer Osorio</name>
+      <label>
+      </label>
+      <description>Jennifer is currently working as an Enterprise Database Administrator of Takecare Insurance Company, Inc. prior to that, she has worked under developer capacity on J2EE and ABAP systems with MySQL and SAPDB before she joined Fortune Tobacco Corporation where she gained experience working in SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10122</importID>
+      <name>Edwin Sarmiento</name>
+      <label>
+      </label>
+      <description>Edwin Sarmiento is a SQL Server MVP from Ottawa,Canada specializing in high availability,disaster recovery  system infrastructures running on the Microsoft server technology stack.He is very passionate about technology but has interests in music,professional  organizational development,leadership  management matters when not working with databases.He lives up to his primary mission statement -“To help people and organizations grow and develop their full potential as God has planned for them."</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://bassplayerdoc.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14962</importID>
+      <name>Henry Hutalle</name>
+      <label>
+      </label>
+      <description>Implementation Project Manager for SAS Institute Philippines
+Data Management. Analytics. Visualization
+Robotics Process Automation
+Director and Technology Evangelist for SQL Technologies of www.phil-it.org.ph</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10123</importID>
+      <name>Edwin Sarmiento</name>
+      <label>
+      </label>
+      <description>Edwin Sarmiento is a SQL Server MVP from Ottawa,Canada specializing in high availability,disaster recovery  system infrastructures running on the Microsoft server technology stack.He is very passionate about technology but has interests in music,professional  organizational development,leadership  management matters when not working with databases.He lives up to his primary mission statement -“To help people and organizations grow and develop their full potential as God has planned for them."</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://bassplayerdoc.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17349</importID>
+      <name>Jon Limjap</name>
+      <label>
+      </label>
+      <description>Jon is a senior software developer for ITRS and Microsoft MVP for C#.
+
+Jon has been writing software professionally for more than a decade. Earlier in his career he made enterprise Microsoft .NET applications for desktop and web, but recently has been developing web and mobile applications using iOS, Java, HTML and Javascript.
+
+Jon has been active in the development community since the mid-2000s and is a member of PHINUG, PHISSUG, and the Devcon Foundation.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://dotnet.kapenilattex.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10119</importID>
+      <name>Edwin Sarmiento</name>
+      <label>
+      </label>
+      <description>Edwin Sarmiento is a SQL Server MVP from Ottawa,Canada specializing in high availability,disaster recovery  system infrastructures running on the Microsoft server technology stack.He is very passionate about technology but has interests in music,professional  organizational development,leadership  management matters when not working with databases.He lives up to his primary mission statement -“To help people and organizations grow and develop their full potential as God has planned for them."</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://bassplayerdoc.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>10122</importID>
+      <speakers>
+        <speaker>
+          <id>10122</id>
+          <name>Edwin Sarmiento</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Windows PowerShell for the SQL Server DBA</title>
+      <description>Windows PowerShell is becoming the scripting language of choice for managing Microsoft servers and workstations. And while T-SQL is still the scripting language for DBAs to administer and manage SQL Server, there are tons of stuff that can be easily done with Windows PowerShell.
+
+In this session, learn Windows PowerShell from the ground up and how you can use it with SQL Server Management Objects (SMO) to administer and manage a SQL Server instance.</description>
+      <startTime>3/9/2013 12:00:00 AM</startTime>
+      <endTime>3/9/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17349</importID>
+      <speakers>
+        <speaker>
+          <id>17349</id>
+          <name>Jon Limjap</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL vs. NoSQL - Data in the world of social media </title>
+      <description>In this session I'll discuss about the differences between SQL and NoSQL, what roles these data stores play in IT, social media, and mobile, and how to figure out which one you need to learn and use for your applications.</description>
+      <startTime>3/9/2013 12:00:00 AM</startTime>
+      <endTime>3/9/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>10123</importID>
+      <speakers>
+        <speaker>
+          <id>10123</id>
+          <name>Edwin Sarmiento</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The Transaction Log and How It Affects HA/DR</title>
+      <description>When choosing the appropriate SQL Server HA/DR solutions, it is important to understand the SQL Server Transaction Log as it affects any solution you choose. In this session, we will look at transaction log basics, how logging and recovery works and how it affects all of the HA/DR solutions available in SQL Server. You'll be surprised to know that the transaction log is the most important part of your database.</description>
+      <startTime>3/9/2013 12:00:00 AM</startTime>
+      <endTime>3/9/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19678</importID>
+      <speakers>
+        <speaker>
+          <id>19678</id>
+          <name>Mark Nathaniel Ortigas</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Using SQL Window Functions</title>
+      <description>SQL Window Functions Overview
+SQL Server 2008 Functions
+SQL Server 2012 Functions
+Wrap Up</description>
+      <startTime>3/9/2013 12:00:00 AM</startTime>
+      <endTime>3/9/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16522</importID>
+      <speakers>
+        <speaker>
+          <id>16522</id>
+          <name>Jennifer Osorio</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Different ways of SQL Server Backup and Restoring</title>
+      <description>It will discuss a different ways of doing an automated backup and restoring database based in a real world scenario.</description>
+      <startTime>3/9/2013 12:00:00 AM</startTime>
+      <endTime>3/9/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>10119</importID>
+      <speakers>
+        <speaker>
+          <id>10119</id>
+          <name>Edwin Sarmiento</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Index Internals</title>
+      <description>Indexes allow SQL Server to access your data in the most efficient manner. Understanding how SQL Server indexes work under-the-hood will give you insights on how to design effective indexing strategies. In this session, you will learn what indexes are, how they work, basic indexing strategies and how query performance is affected by indexes.</description>
+      <startTime>3/9/2013 12:00:00 AM</startTime>
+      <endTime>3/9/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14962</importID>
+      <speakers>
+        <speaker>
+          <id>14962</id>
+          <name>Henry Hutalle</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Tools for Maintaining Data Integrity</title>
+      <description>Protect the data consistency using all of the tools you have available that is usually in a behind-the-scenes manner that the client doesn’t really have to worry about.  Upon the end of the presentation, audience will be able to learn and decide what type of protection to use and where it is applicable.</description>
+      <startTime>3/9/2013 12:00:00 AM</startTime>
+      <endTime>3/9/2013 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

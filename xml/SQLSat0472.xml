@@ -1,0 +1,460 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #472 - Santiago 2015</name>
+    <startDate>12/12/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>(GMT-04:00) Atlantic Time (Canada)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatSantiago</twitterHashtag>
+    <venue>
+      <name>Centro de Extensión UC</name>
+      <street>Avenida Libertador Bernardo O Higgins 390, Santiago, Región Metropolitana</street>
+      <city>Santiago</city>
+      <state>Región Metropolitana, Chile</state>
+      <zipcode>8331150</zipcode>
+      <longitude>-70.63973</longitude>
+      <latitude>-33.43959</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1562</importID>
+      <name>Punto Ticket</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.puntoticket.cl</url>
+      <imageURL>https://static.puntoticket.com/especiales/rs--02-2016/images/logo_puntoticket.svg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1570</importID>
+      <name>Merchise Ltda</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.merchise.cl</url>
+      <imageURL>https://www.metricarts.com/merchise.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>319</importID>
+      <name>Comunidad Windows Costa Rica</name>
+      <label>Bronze Sponsor</label>
+      <url>http://tinyurl.com/comunidadwindows</url>
+      <imageURL>https://www.simsasys.com/LogoComunidadWindows2015.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1561</importID>
+      <name>Metric Arts</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.metricarts.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/964/EventSponsor_14462.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1063</importID>
+      <name>SoftwareONE</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.softwareone.com</url>
+      <imageURL>https://www.softwareone.com/sites/all/themes/softwareone/static/_build/images/logo.svg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1584</importID>
+      <name>Onyxtech</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.onyxtech.cl/</url>
+      <imageURL>https://www.metricarts.com/onyx.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS USE ONLY</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>41632</importID>
+      <name>Marco Ramirez</name>
+      <label>
+      </label>
+      <description>Marco es Ingeniero Civil Industrial en Computaci#243;n. Su carrera profesional lo ha llevado a desempe#241;arse como desarrollador de software, arquitecto de Software y en los #250;ltimos 4 a#241;os, como consultor en Inteligencia de Negocios en Metric Arts, en donde tambi#233;n ha desarrollado su pasi#243;n por la ense#241;anza, en temas de BI y tecnolog#237;a en general. Como consultor, ha tenido contacto con diversas tecnolog#237;as, entre las cuales SQL Server y sus tecnolog#237;as asociadas son las m#225;s importantes</description>
+      <twitter>@maramirm</twitter>
+      <linkedin>https://cl.linkedin.com/pub/marco-ram#237;rez-melcherts/14/775/b04</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@maramirm</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41647</importID>
+      <name>Kamal Valero</name>
+      <label>
+      </label>
+      <description>Gerente de Business Intelligence en Punto Ticket. Microsoft MVP en Data Platform</description>
+      <twitter>kamalvalero</twitter>
+      <linkedin>https://cl.linkedin.com/pub/kamal-valero/5/790/28b</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=kamalvalero</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41370</importID>
+      <name>Carlos Farias</name>
+      <label>
+      </label>
+      <description>Profesional en la Base de datos</description>
+      <twitter>@cfarias90</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqlpasschile.cl</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@cfarias90</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41783</importID>
+      <name>Cristian Lopez</name>
+      <label>
+      </label>
+      <description>Civil Engineer and Master in Computer Technology, with over 15 years experience in leading technology companies. Business Development Specialist IT.
+
+Skills: Business Development LATAM, Systems Engineering, High Performance Transaction Platform, Solutions Architect Cloud Computing Amazon Web Services  amp; Microsoft Azure, Biometrics.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://cl.linkedin.com/pub/cristi#225;n-l#243;pez-urbina/21/30a/790</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41808</importID>
+      <name>Rolando Escobar</name>
+      <label>
+      </label>
+      <description>Asesor Desarrollo Soluciones Empresariales</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41954</importID>
+      <name>Luis A. Hereira Aguilera</name>
+      <label>
+      </label>
+      <description>Gerente General de Merchise, MVP desde el 2004 al 2012</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://cl.linkedin.com/in/luison</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41962</importID>
+      <name>Felipe Zuniga</name>
+      <label>
+      </label>
+      <description>Felipe Zu#241;iga es consultor independiente en SQL Server e Inteligencia de Negocios. Se ha desempe#241;ado como DBA, Arquitecto de Soluciones e Instructor de Tecnolog#237;as Microsoft. Ha presentado en diversos eventos a lo largo de Chile y ha participado en grupos de usuarios de TI desde 2004. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41149</importID>
+      <name>Patricio Cofre</name>
+      <label>
+      </label>
+      <description>Microsoft AI MVP  Regional Director. PASS Chile User Group Leader. Master of Engineering Management, Northwestern University. He has developed and led projects of Analytics for various companies in Latam, mainly in the areas of financial services and retail. He has specialized in Data Warehousing, and Machine Learning. He is co-founder and CEO of Metric Arts, now part of EY. He is also lecturer at the Catholic University of Chile and FIU in USA</description>
+      <twitter>pcofre</twitter>
+      <linkedin>https://cl.linkedin.com/in/pcofre</linkedin>
+      <ContactURL>https://cl.linkedin.com/in/pcofre</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pcofre</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41802</importID>
+      <name>Isabel de la Barra</name>
+      <label>
+      </label>
+      <description>Trainer Microsoft since 2008 in Windows Server, Active Directory, SQL Server, Exchange anr Others.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>42609</importID>
+      <name>Wilson Chiesa</name>
+      <label>
+      </label>
+      <description>I am a highly motivated and enthusiastic IT amp; Sales professional who has the necessary IT and sales skills, personal and teamwork attributes and managerial experience required for a successful career at the highest level. Boasting a strong academic background and a proven track record of bringing value to organizations of different industries: Financial Services, Telcos, Oil amp; Gas and Process Manufacturing; as well as possessing valuable customer facing skills and the ability to come up with inn</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41656</importID>
+      <name>Tomas Stevanovic</name>
+      <label>
+      </label>
+      <description>All areas of software development, with a strong knowledge technologies and processes. Company management and focus on a new information technology research, development of high quality and high end user experience systems, specialized in segments as e-commerce, e-learning, hotel, truism, electronic maintenance, company management and  advanced SaaS Business Intelligence (BI) systems for financial, telecommunication, logistics and other industries.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/tstevanovic</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>41632</importID>
+      <speakers>
+        <speaker>
+          <id>41632</id>
+          <name>Marco Ramirez</name>
+        </speaker>
+      </speakers>
+      <track>BI / Analytics</track>
+      <location>
+        <name>Sala 1</name>
+      </location>
+      <title>Tips para optimizar nuestros ETL con SSIS</title>
+      <description>SSIS es una poderosa herramienta para construir procesos ETL. La necesidad siempre presente al respecto es lograr el m#225;ximo desempe#241;o al menor costo posible en tiempo y recursos de la m#225;quina. Entenderemos los distintos tipos de componentes respecto a su utilizaci#243;n de recursos y revisaremos varios tips para la construcci#243;n de procesos ETL con el performance en mente.</description>
+      <startTime>12/12/2015 12:45:00 PM</startTime>
+      <endTime>12/12/2015 1:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>41962</importID>
+      <speakers>
+        <speaker>
+          <id>41962</id>
+          <name>Felipe Zuniga</name>
+        </speaker>
+      </speakers>
+      <track>DBA / Cloud</track>
+      <location>
+        <name>Sala 2</name>
+      </location>
+      <title>#191;Porque es importante la Seguridad en SQL Server ?</title>
+      <description>En esta sesi#243;n revisaremos no solo las caracter#237;sticas actuales de seguridad en SQL Server, sino que tambi#233;n las que vendr#225;n en SQL Server 2016. Hablaremos sobre m#233;todos para permitir y restringir accesos, como auditar nuestras bases de datos y consejos b#225;sicos de dise#241;o seguro para bases de datos.</description>
+      <startTime>12/12/2015 2:30:00 PM</startTime>
+      <endTime>12/12/2015 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>41808</importID>
+      <speakers>
+        <speaker>
+          <id>41808</id>
+          <name>Rolando Escobar</name>
+        </speaker>
+      </speakers>
+      <track>BI / Analytics</track>
+      <location>
+        <name>Sala 2</name>
+      </location>
+      <title>Power BI, Sharepoint y SQL Servver, una gran conversaci#243;n</title>
+      <description>Exportaci#243;n de datos desde Sharepoint 2013 a una base de datos SQL Server para su analisis con Power BI.
+
+</description>
+      <startTime>12/12/2015 10:45:00 AM</startTime>
+      <endTime>12/12/2015 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>41149</importID>
+      <speakers>
+        <speaker>
+          <id>41149</id>
+          <name>Patricio Cofre</name>
+        </speaker>
+      </speakers>
+      <track>BI / Analytics</track>
+      <location>
+        <name>Sala 2</name>
+      </location>
+      <title>Creaci#243;n de un Modelo de An#225;lisis Predictivo en la Nube</title>
+      <description>Microsoft Azure ofrece una soluci#243;n de an#225;lisis predictivo 100% Cloud, donde es posible realizar el proceso anal#237;tico de b#250;squeda de patrones en los datos, y a la vez la explotaci#243;n de estos modelos en un ambiente de producci#243;n altamente disponible y escalable como lo es Microsoft Azure.
+
+En esta sesi#243;n aprenderemos  a generar un modelo predictivo en la nube, optimizarlo, validarlo y explotarlo utilizando los endpoints que la misma herramienta ofrece.</description>
+      <startTime>12/12/2015 3:15:00 PM</startTime>
+      <endTime>12/12/2015 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>41802</importID>
+      <speakers>
+        <speaker>
+          <id>41802</id>
+          <name>Isabel de la Barra</name>
+        </speaker>
+      </speakers>
+      <track>DBA / Cloud</track>
+      <location>
+        <name>Sala 1</name>
+      </location>
+      <title>Optimizando el desempe#241;o de SQL Server</title>
+      <description>El desempe#241;o juega un papel importante dentro de la base de datos, una buena configuracion de nuestro server y motor, asi como el identificar los probables cuellos de botella es primordial para sacarle el mejor provecho.
+
+Conoce las herramientas que tienes disponibles tales como performance monitor, profiler y otras.</description>
+      <startTime>12/12/2015 2:30:00 PM</startTime>
+      <endTime>12/12/2015 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>41370</importID>
+      <speakers>
+        <speaker>
+          <id>41370</id>
+          <name>Carlos Farias</name>
+        </speaker>
+      </speakers>
+      <track>DBA / Cloud</track>
+      <location>
+        <name>Sala 1</name>
+      </location>
+      <title>10 Tips para SQL Server sea #191;Todos para uno y uno para todos....?</title>
+      <description>En esta sesi#243;n analizaremos experiencias de la vida real como consultor en trabajos de mejora de rendimiento. Veremos mejores pr#225;cticas para la configuraci#243;n de SQL Server, Tips para un mejor T-SQL y un ejercicio de como monitorear mi servidor de base de datos.</description>
+      <startTime>12/12/2015 3:15:00 PM</startTime>
+      <endTime>12/12/2015 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>41783</importID>
+      <speakers>
+        <speaker>
+          <id>41783</id>
+          <name>Cristian Lopez</name>
+        </speaker>
+      </speakers>
+      <track>BI / Analytics</track>
+      <location>
+        <name>Sala 1</name>
+      </location>
+      <title>Caso Pr#225;ctico: Procesamiento BD columnar en Cloud</title>
+      <description>Muestra de un ejemplo simple de uso de base de datos columnar.
+Explicaci#243;n de rendimientos.
+Casos de uso</description>
+      <startTime>12/12/2015 12:00:00 PM</startTime>
+      <endTime>12/12/2015 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>41656</importID>
+      <speakers>
+        <speaker>
+          <id>41656</id>
+          <name>Tomas Stevanovic</name>
+        </speaker>
+      </speakers>
+      <track>DBA / Cloud</track>
+      <location>
+        <name>Sala 2</name>
+      </location>
+      <title>Migraci#243;n de BD SQL Server hacia Azure SQLDB</title>
+      <description>Microsoft Azure SQL provee flexibilidad para grandes vol#250;menes de datos, optimiza las cargas de datos con el mejor rendimiento, asegura la continuidad del negocio a trav#233;s de alta disponibilidad y otorga avanzadas caracter#237;sticas de seguridad.
+
+En esta sesi#243;n vamos a aprender las mejores pr#225;cticas para que a partir de una base de datos en SQL Server, migrar sus datos a la nube en Azure SQL Databases aprovechando todas las ventajas de esta tecnolog#237;a.</description>
+      <startTime>12/12/2015 12:00:00 PM</startTime>
+      <endTime>12/12/2015 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>41954</importID>
+      <speakers>
+        <speaker>
+          <id>41954</id>
+          <name>Luis A. Hereira Aguilera</name>
+        </speaker>
+      </speakers>
+      <track>DBA / Cloud</track>
+      <location>
+        <name>Sala 1</name>
+      </location>
+      <title>SQL Server para Aplicaciones, Cloud y On-Premise</title>
+      <description>En #233;sta ocasi#243;n estaremos presentando las bondades de SQL Server para nuestros desarrolladores, el trabajo con modelos de Dominio, administraci#243;n de transacciones, actualizaciones optimistas y pesimistas, administraci#243;n de concurrencia, tanto para Cloud como para aplicaciones On-Premise</description>
+      <startTime>12/12/2015 10:45:00 AM</startTime>
+      <endTime>12/12/2015 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>41647</importID>
+      <speakers>
+        <speaker>
+          <id>41647</id>
+          <name>Kamal Valero</name>
+        </speaker>
+      </speakers>
+      <track>DBA / Cloud</track>
+      <location>
+        <name>Sala 2</name>
+      </location>
+      <title>Nuevas caracter#237;sticas en SQL Server 2016</title>
+      <description>SQL Server 2016 trae grandes noticias para el mundo del BI y Analytics, as#237; como para el mundo de las BD transaccionales y la integraci#243;n con el mundo Web. Algunas novedades son el soporte de JSON, consultas directas a Hadoop mediante Polybase, seguridad a nivel de filas, mejoras al tratamiento en memoria de datos, la capacidad de tener una BD "estirada" entre un servidor local y SQL, entre otras. Discutiremos lo nuevo y veremos algunos ejemplos de SQL Server 2016 en acci#243;n.</description>
+      <startTime>12/12/2015 12:45:00 PM</startTime>
+      <endTime>12/12/2015 1:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>42609</importID>
+      <speakers>
+        <speaker>
+          <id>42609</id>
+          <name>Wilson Chiesa</name>
+        </speaker>
+      </speakers>
+      <track>BI / Analytics</track>
+      <location>
+        <name>Sala 2</name>
+      </location>
+      <title>Simplificando Big Data a trav#233;s de Azure Data Lake</title>
+      <description>AzureData Lake incluye todas las capacidades necesarias para hacer m#225;s f#225;cil para los desarrolladores, analistas y data scientists,  almacenar datos de cualquier tama#241;o,  y posee interesantes caracter#237;sticas que permiten hacer todo tipo de procesamiento y an#225;lisis a trav#233;s de distintas plataformas y lenguajes. Veremos c#243;mo utilizar Data Lake para nuestras necesidades de Big Data.</description>
+      <startTime>12/12/2015 10:00:00 AM</startTime>
+      <endTime>12/12/2015 10:30:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

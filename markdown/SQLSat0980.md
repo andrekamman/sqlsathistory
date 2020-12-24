@@ -1,0 +1,23 @@
+# SQLSaturday #980 – Plovdiv – Virtual 2020
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+10:10:00|Marco Obinu|Strategy and Architecture|[Implement a disaster recovery solution for your on-prem SQL with Azure? Easy!](102414.md)
+10:10:00|Ramesh Satya|Application  Database Development|[Understanding SQL Server Views - The Right Way](107681.md)
+10:10:00|Mihail Mateev|Application  Database Development|[Creating Custom Visuals in Power BI with TypeScript and D3.j](109224.md)
+10:10:00|Ehab Abdelmonem|Cloud Application Development  Deployment|[Azure DevOps between reality and the fantasy :"Build DevOps CI/CD Pipelines"](109302.md)
+11:20:00|Damir Matesic|Application  Database Development|[MS SQL New functions, syntaxes, tips  tricks](108233.md)
+11:20:00|Dean Savović|Application  Database Development|[SQL Server Intelligent Query Processing](108235.md)
+11:20:00|Georgi Petkov|BI Platform Architecture, Development  Administration|[External Tools for Power BI](109301.md)
+11:20:00|Anton Boyko|Cloud Application Development  Deployment|[Azure Logic Apps – how to integrate different systems with zero coding?](109315.md)
+13:00:00|Dennes Torres|BI Platform Architecture, Development  Administration|[Self-Service ETL: The PowerBI Data Flows](102516.md)
+13:00:00|Marco Dal Pino|Cloud Application Development  Deployment|[Azure SQL Database EDGE, put your SQL wherever you want!](103908.md)
+13:00:00|André Melancia|Application  Database Development|[Row Level Security Deep Dive](107749.md)
+13:00:00|Denis Reznik|Application  Database Development|[Why my query is slow and how to make it fast](109357.md)
+14:10:00|Reinhard Flügel|Application  Database Development|[Known T-SQL but not to everybody  (especially beginners) Insights and samples for T-SQL](102961.md)
+14:10:00|Gonzalo Bissio|Enterprise Database Administration  Deployment|[Azure Sql DB Managed instance, a different sql server?](107807.md)
+14:10:00|Damian Widera|Information Delivery|[Quantum computing explained with demos!](109306.md)
+14:10:00|Aleksandar Vetsev|BI Platform Architecture, Development  Administration|[End-to-End Business Intelligence Architecture in Azure](109332.md)
+15:20:00|Boriana Petrova|BI Platform Architecture, Development  Administration|[Working with parameters in Power Query](102412.md)
+15:20:00|Sebastiano Galazzo|Application  Database Development|[Machine Learning - Best Practices and Vulnerabilities](102426.md)
+15:20:00|André Melancia|Advanced Analysis Techniques|[Machine Learning is full of stars: An Azure Story](104168.md)
+15:20:00|Rui Romano|BI Platform Architecture, Development  Administration|[Big Brother your Power BI deployment](109356.md)

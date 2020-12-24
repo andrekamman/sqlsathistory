@@ -1,0 +1,679 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #630 - Brisbane 2017</name>
+    <startDate>5/27/2017 12:00:00 AM</startDate>
+    <attendeeEstimate>150</attendeeEstimate>
+    <timezone>(GMT+10:00) Canberra, Melbourne, Sydney</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat630</twitterHashtag>
+    <venue>
+      <name>Microsoft Brisbane</name>
+      <street>Level 28, 400 George Street Brisbane</street>
+      <city>Brisbane</city>
+      <state>Queensland, Australia</state>
+      <zipcode>4000</zipcode>
+      <longitude>153.020645</longitude>
+      <latitude>-27.468469</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1272</importID>
+      <name>WARDY IT Solutions</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.wardyit.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/986/EventSponsor_14725.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1588</importID>
+      <name>Quest</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/967/EventSponsor_14754.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1103</importID>
+      <name>SQL Masters Consulting</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.sqlmastersconsulting.com.au</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/986/EventSponsor_14638.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1817</importID>
+      <name>SentryOne</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.sentryone.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/908/EventSponsor_14257.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Swag Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>562</importID>
+      <name>Devart</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.devart.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/880/EventSponsor_14114.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>63457</importID>
+      <name>Manohar Punna</name>
+      <label>
+      </label>
+      <description>Manohar Punna is an Data Platform Geek and Vice President of DataPlatformGeeks by passion and a Data Platform Consultant by profession. He is a speaker at various conferences like PASS Summit, SQLBits, DPS. He has authored over 150 blogs and has written a One DMV a Day series which is a longest one day series on any topic on SQL Server till date.
+Manohar is a product of this community and strongly believes in giving back to the community. So, ask him anything you would like to know and he is happy to learn it with you.</description>
+      <twitter>ManuSQLGeek</twitter>
+      <linkedin>https://www.linkedin.com/pub/manohar-punna/15/153/508</linkedin>
+      <ContactURL>http://www.sqlservergeeks.com/author/manoharpunna/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ManuSQLGeek</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>61280</importID>
+      <name>Matt Allington</name>
+      <label>
+      </label>
+      <description>Matt is a BI Professional with over 30 years’ experience in the Consumer Packaged Goods industry. He has held senior job commercial and IT roles, always leveraging data to drive success.  Matt was the BI Director for Asia Pacific at The Coca-Cola Company before leaving to set up his own consulting business in 2014.
+
+Matt is now the Principal Consultant at Excelerator BI and specialises in helping small, medium and large companies leverage Microsoft Excel, Power Pivot, Power BI and SharePoint to deliver rapid business value through Self Service Business Intelligence.</description>
+      <twitter>@exceleratorbi</twitter>
+      <linkedin>https://au.linkedin.com/in/mattallington</linkedin>
+      <ContactURL>http://exceleratorbi.com.au/exceleratorblog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@exceleratorbi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>61267</importID>
+      <name>Victor Isakov</name>
+      <label>
+      </label>
+      <description>Victor Isakov (MCA, MCM, MCSM, MCT, MVP) is a Database Architect and trainer who provides consulting and training services to various organizations in the public, private, and NGO sectors globally. He regularly speaks at international conferences such as Microsoft TechEd/Ignite, PASS Summit, IT/Dev Connections, and SQLSaturdays.
+Victor has written a number of books on SQL Server and has worked with Microsoft to develop the SQL Server exams and certification. In 2017 he authored "Exam Ref 70-764 Administering a SQL Database Infrastructure (1st Edition)".
+He is one of only three non-Microsoft, Microsoft Certified Architects in the world.</description>
+      <twitter>@victorisakov</twitter>
+      <linkedin>http://www.linkedin.com/in/victorisakov</linkedin>
+      <ContactURL>http://www.victorisakov.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@victorisakov</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>63401</importID>
+      <name>Reza Rad</name>
+      <label>
+      </label>
+      <description>Reza Rad is a Microsoft Regional Director, MVP, author, trainer, speaker and consultant. He is a Microsoft Data Platform MVP for nine years from 2011.
+Reza wrote many books on Power BI subjects including the Power BI from Rookie to Rock Star, and Pro Power BI Architecture.
+Reza is the invited speaker at the world's well-known conferences such as Microsoft Ignite, Microsoft Business Applications Summit, Ignite Tour, PASS Summit, and many other conferences.
+Reza is an active blogger and writes regularly about Power BI at https://radacad.com.</description>
+      <twitter>Rad_Reza</twitter>
+      <linkedin>http://nz.linkedin.com/in/rezarad/</linkedin>
+      <ContactURL>http://radacad.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Rad_Reza</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>61185</importID>
+      <name>Hamish Watson</name>
+      <label>
+      </label>
+      <description>Hamish Watson is a Microsoft Data Platform MVP and VMware Expert with a passion for efficient database and application deployment using DevOps methodologies. 
+
+He has 20+ years of IT experience in managing and deploying large scale databases on SQL Server technologies. 
+
+He has been managing SQL Server since SQL Server 2000, and pragmatic approaches to delivering business value to clients is his career passion.
+
+Educating and helping others learn is a driver for Hamish. He is a Director-At-Large on the PASS Board, international speaker, and a repeat guest lecturer at a local university.</description>
+      <twitter>theHybridDBA</twitter>
+      <linkedin>https://nz.linkedin.com/in/hamishwatson8</linkedin>
+      <ContactURL>http://www.sqlservercentral.com/blogs/the-hybrid-dbas-blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=theHybridDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>63399</importID>
+      <name>Reza Rad</name>
+      <label>
+      </label>
+      <description>Reza Rad is a Microsoft Regional Director, MVP, author, trainer, speaker and consultant. He is a Microsoft Data Platform MVP for nine years from 2011.
+Reza wrote many books on Power BI subjects including the Power BI from Rookie to Rock Star, and Pro Power BI Architecture.
+Reza is the invited speaker at the world's well-known conferences such as Microsoft Ignite, Microsoft Business Applications Summit, Ignite Tour, PASS Summit, and many other conferences.
+Reza is an active blogger and writes regularly about Power BI at https://radacad.com.</description>
+      <twitter>Rad_Reza</twitter>
+      <linkedin>http://nz.linkedin.com/in/rezarad/</linkedin>
+      <ContactURL>http://radacad.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Rad_Reza</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>63374</importID>
+      <name>Leila Etaati</name>
+      <label>
+      </label>
+      <description>Leila Etaati is the First Microsoft AI MVP in New Zealand and Australia, as well as a Data Platform MVP. She has a Ph.D. from the University of Auckland and is the co-director and data scientist in RADACAD company with many clients around the world. Additionally, she is the co-organizer of Microsoft Business Intelligence and Power BI Use group in Auckland with more than 1300 members. Leila has also co-organized 3 main conferences in Auckland: SQL Saturday Auckland (from 2015), Difinity (from 2017) and Global AI Bootcamp. She is a data scientist, BI consultant, trainer, and speaker. She is a well-known International speaker to many conferences such as MS Ignite, SQL PASS, Data Platform Summit, SQL Saturday, Power BI World Tour and in Europe, USA, Asia, Australia, and NZ. She has over 10 years’ experience with databases and software systems. Leila is an active Technical Microsoft AI blogger in RADACAD.</description>
+      <twitter>@leila_etaati</twitter>
+      <linkedin>https://nz.linkedin.com/pub/leila-etaati/36/46/b03</linkedin>
+      <ContactURL>http://blog.radacad.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@leila_etaati</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>61660</importID>
+      <name>Gilbert Quevauvilliers</name>
+      <label>
+      </label>
+      <description>Power BI  Data Analytics Consultant with over 12 years experience.
+
+From small to enterprise implementations on Azure (Azure Analysis Services, Function Apps, Runbooks, Automation Accounts, SQL Serverless DB) and On-Premise Microsoft Platform (SQL Server, Integration Services, Analysis Services Multidimensional and Tabular, Reporting Services)
+
+Recently I have focused on Power BI, with its rapidly changing features and incredible uptake it has allowed me to consult in a variety of different and challenging solutions.
+
+I was awarded the Microsoft MVP award for Power BI since 2017.
+
+I have spoken at the Microsoft Business Applications Summit (Seattle  Atlanta), Power BI World Tour,SQL Saturdays  other events.</description>
+      <twitter>https://twitter.com/gilbertque</twitter>
+      <linkedin>https://www.linkedin.com/in/fourmoo/</linkedin>
+      <ContactURL>https://www.fourmoo.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/gilbertque</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>63484</importID>
+      <name>Martin Catherall</name>
+      <label>
+      </label>
+      <description>Martin is a data consultant in Melbourne, Australia, a Microsoft Data Platform MVP, and PASS Regional Mentor for the Asia Pacific (APAC) region.
+Martin founded the Christchurch, New Zealand PASS Local Group and lead the group for a number of years before relocating to Melbourne.
+He has been using SQL Server in various roles since 2000. In addition to anything data related, he enjoys playing the guitar and having fun with his family.</description>
+      <twitter>MartyCatherall</twitter>
+      <linkedin>https://www.linkedin.com/in/martincatherall</linkedin>
+      <ContactURL>http://martincatherall.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MartyCatherall</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>63113</importID>
+      <name>Craig Bryden</name>
+      <label>
+      </label>
+      <description>Craig has been working with SQL Server for over 20 years and currently holds several SQL Server based certifications. He has also previously held an MCT certification. Craig's contribution to the SQL Server community was recognised in 2018 with a Microsoft MVP award. He was involved with Microsoft Learning to set some of the current SQL server Exams. Craig is the Chief Data Strategist at BiTQ. Craig is an organiser of the QLD Power BI User Group</description>
+      <twitter>@cbryden</twitter>
+      <linkedin>https://www.linkedin.com/in/craigbryden/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@cbryden</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>64299</importID>
+      <name>Peter O'Gorman</name>
+      <label>
+      </label>
+      <description>Peter O’Gorman, is a Data Architect at BICG, having used Power BI, Qlik and Tableau and SQL Server to solve common business problems. BICG is a keen supporter of Open Data Queensland and Peter runs the Big Data special interest group for the Australia Computer Society.  BICG are a Microsoft Partner in Data, Collaboration and Cloud platform Competencies, in what will be the biggest roadmap release for business intelligence to date.  SQL Server 2016 reduces the infrastructure and development risks for Business Intelligence start-up projects with instant, stand up, cloud ready and mobile friendly Business Intelligence as a Service capability.  BICG are an Analytics startup zoning in on Healthcare, Education, Distribution and Finance.</description>
+      <twitter>https://twitter.com/bicg_australia</twitter>
+      <linkedin>https://www.linkedin.com/company/bicg</linkedin>
+      <ContactURL>http://bicg.com.au/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/bicg_australia</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>61718</importID>
+      <name>Peter Myers</name>
+      <label>
+      </label>
+      <description>Peter Myers is a consultant, trainer and presenter, and has worked with Microsoft database and development products since 1997. Today he specializes in all Microsoft Business Intelligence products and also authors training course content for Microsoft products and services.
+
+He has a broad business background supported by a bachelor’s degree in applied economics and accounting, and he extends this with extensive experience backed by current MCSE certifications. He has been a Data Platform MVP since 2007.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://linkedin.com/in/peterjsmyers</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>63325</importID>
+      <name>Patrick Flynn</name>
+      <label>
+      </label>
+      <description>Patrick Flynn is a Senior Database Administrator with 10 years experience in large 24 x 7 enterprise environments. He is a certified master for SQL Server and a regular attendee of the PASS Summit.
+
+Has presented at SQLSaturday events in Sydney, Melbourne, Brisbane and Auckland, Edmonton and Calgary, Oslo and Cambridge</description>
+      <twitter>sqllensman</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqllensman.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqllensman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62565</importID>
+      <name>Peter Myers</name>
+      <label>
+      </label>
+      <description>Peter Myers is a consultant, trainer and presenter, and has worked with Microsoft database and development products since 1997. Today he specializes in all Microsoft Business Intelligence products and also authors training course content for Microsoft products and services.
+
+He has a broad business background supported by a bachelor’s degree in applied economics and accounting, and he extends this with extensive experience backed by current MCSE certifications. He has been a Data Platform MVP since 2007.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://linkedin.com/in/peterjsmyers</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62471</importID>
+      <name>Martin Cairney</name>
+      <label>
+      </label>
+      <description>Martin has 20 years’ experience in SQL Server technologies. His experience spans both the Database Engine and infrastructure requirements, and Data Warehousing and BI implementations. 
+He has worked across many industry sectors including London’s global financial institutions and both State and Federal Government Departments. 
+He is a SQL Server MVP, MCT and an experienced conference presenter, having presented at PASS Summit, SQLBits, and SQL Saturday events and User Groups round the world</description>
+      <twitter>martin_cairney</twitter>
+      <linkedin>http://au.linkedin.com/in/martincairney</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=martin_cairney</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>61717</importID>
+      <name>Peter Myers</name>
+      <label>
+      </label>
+      <description>Peter Myers is a consultant, trainer and presenter, and has worked with Microsoft database and development products since 1997. Today he specializes in all Microsoft Business Intelligence products and also authors training course content for Microsoft products and services.
+
+He has a broad business background supported by a bachelor’s degree in applied economics and accounting, and he extends this with extensive experience backed by current MCSE certifications. He has been a Data Platform MVP since 2007.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://linkedin.com/in/peterjsmyers</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>61267</importID>
+      <speakers>
+        <speaker>
+          <id>61267</id>
+          <name>Victor Isakov</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Hamilton Island</name>
+      </location>
+      <title>SQL Server 2016: It Just Runs FASTER!</title>
+      <description>With the release of SQL Server 2016 Microsoft made some important changes within the Database Engine that take advantage of modern hardware and execute more optimally. Consequently a number of features and operations will work faster on SQL Server 2016 transparently. It enables organizations to simply upgrade in-place to SQL Server 2016 and realise numerous performance benefits without lengthy and costly application or infrastructure changes. In this session we will examine these scalability and performance enhancements, their internal architecture, and how they will benefit you. If you are looking at why SQL Server 2016 makes sense for your business you won't want to miss this session.</description>
+      <startTime>5/27/2017 2:50:00 PM</startTime>
+      <endTime>5/27/2017 3:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>61280</importID>
+      <speakers>
+        <speaker>
+          <id>61280</id>
+          <name>Matt Allington</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>North Stradbroke</name>
+      </location>
+      <title>Power Query is more than just a desktop BI ETL tool</title>
+      <description>Power Query is a relatively new addition to Microsoft Excel that brings ETL to the self service BI user's desktop.  In this level 200 session I cover the basics of Power Query and how it can be used for desktop BI before quickly moving on to demonstrate how you can use Power Query for more advanced scenarios that you may not have thought of before, including:
+	• Use Power Query as a data provider for traditional Excel Pivot Tables without using Power Pivot.
+	• Building a Power Pivot calendar table from scratch using pure Power Query steps.
+	• Add commentary to bank statements and make those comments "stick" using self-referencing tables.
+	• Using Power Query as an auditing and exception management
+        • Using Power Query as a pure ETL tool and exporting more than 1 m rows of transformed data to a file.</description>
+      <startTime>5/27/2017 1:30:00 PM</startTime>
+      <endTime>5/27/2017 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>61185</importID>
+      <speakers>
+        <speaker>
+          <id>61185</id>
+          <name>Hamish Watson</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Hamilton Island</name>
+      </location>
+      <title>DevOPs and the DBA</title>
+      <description>You may have heard the word "DevOps" and wondered whether it is just another buzzword and/or what it can do for you.
+In this session I will demystify the concepts of DevOps and we will look at two aspects of DevOps - Continuous Integration  Continuous Delivery.
+
+Continuous Integration is the practice in which software developers frequently integrate their work with that of other members of the development team.It also involves automating tests around the integrated work
+
+​Continuous Delivery is the next step after Continuous Integration in the deployment pipeline and is the process of automating the deployment of software to  test, staging, and production environments.
+
+Database migrations/changes are an area that may not be typically automated or utilise Continuous Delivery.
+
+Through the use of a comprehensive live demo to a running production database the audience will learn the benefits and how to implement Continuous Delivery in their database systems deployment pipeline.</description>
+      <startTime>5/27/2017 11:00:00 AM</startTime>
+      <endTime>5/27/2017 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62471</importID>
+      <speakers>
+        <speaker>
+          <id>62471</id>
+          <name>Martin Cairney</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Hamilton Island</name>
+      </location>
+      <title>Database Administration for Azure SQL DB</title>
+      <description>Azure SQL DB promises low touch once you have deployed your database.  However the reality is that to gain the maximum benefit and lowest cost, you still need to be proactive with monitoring and management of your database.
+This session will identify the main aspects of the Azure SQL DBA role, including how to ensure you have longer term backups (if you need them for compliance), how to manage your Tier level automatically, how to ensure you have the best performance to keep your DTUs to a minimum.
+You will leave this session with a better story for your manager to convince him to move your workload to Azure and lower your total SQL Server costs.</description>
+      <startTime>5/27/2017 4:00:00 PM</startTime>
+      <endTime>5/27/2017 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>63484</importID>
+      <speakers>
+        <speaker>
+          <id>63484</id>
+          <name>Martin Catherall</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>South Stradbroke</name>
+      </location>
+      <title>Build your first Service Broker application</title>
+      <description>Service broker provides scalable asynchronous message processing that can prove extremely useful to both DBA’s and Developer’s.
+However, Service Broker is possibly one of the least used components of SQL Server despite debuting in the product in 2005.
+This session will aim to demystify Service Broker and introduce people to some of the major benefits that it offers.
+We’ll build a full application which will demonstrate just how easy it is to get up and running with this technology.
+This session is aimed at people with little to no Service Broker knowledge and aims to show how applications can be easily created with Service Broker. You should leave this session with enough knowledge to then take your Service Broker skills to the next level and be capable of handling more complex projects.</description>
+      <startTime>5/27/2017 9:30:00 AM</startTime>
+      <endTime>5/27/2017 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>62565</importID>
+      <speakers>
+        <speaker>
+          <id>62565</id>
+          <name>Peter Myers</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>North Stradbroke</name>
+      </location>
+      <title>Zero to Microsoft Power BI</title>
+      <description>Join Peter Myers—a consultant, trainer, presenter and Data Platform MVP who has worked with Microsoft database and development products since 1997—for a full day workshop on Microsoft Power BI.
+
+The workshop has been specifically designed to empower attendees with the technical knowledge required to become proficient with the Power BI service and also its growing number of capabilities and features. It is sure to inspire attendees with opportunities, and to provide them with resources to help them take the next steps on their path to mastering Power BI.
+
+The workshop will include the following modules:
+
+1: Microsoft Power BI Overview
+2: Working with the Power BI Service
+3: Connecting to Power BI Data Sources
+4: Creating Power BI Desktop Solutions
+
+This workshop is suitable for a broad array of professionals, including business analysts, IT managers, Business Intelligence practice leads and architects. As an introductory workshop, there is no requirement to have existing Powe</description>
+      <startTime>5/26/2017 9:00:00 AM</startTime>
+      <endTime>5/26/2017 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>63113</importID>
+      <speakers>
+        <speaker>
+          <id>63113</id>
+          <name>Craig Bryden</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>North Stradbroke</name>
+      </location>
+      <title>Visual Studio SQL Server Database Projects and integrating into VSTS</title>
+      <description>Some database / data warehouse developers are still using handcrafted scripts to deploy database changes between environments as well developing directly on a database and then scripting changes from that. This was one of the traditional way to do things, but as developers we should not be doing that anymore. Microsoft has provided us an excellent database development tool in SQL Server Database Projects.
+
+In this session, I will demonstrate how to use SQL Server Database Projects, discuss the benefits of using SQL Server Database Projects for authoring databases, and demonstrate the benefits of integrating your database development with Visual Studio Team Services.</description>
+      <startTime>5/27/2017 2:50:00 PM</startTime>
+      <endTime>5/27/2017 3:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>63325</importID>
+      <speakers>
+        <speaker>
+          <id>63325</id>
+          <name>Patrick Flynn</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Hamilton Island</name>
+      </location>
+      <title>Schroedinger’s Backup – will your recovery work?</title>
+      <description>If you do not test your recovery plan you are unknowingly running a Schrödinger’s backup experiment, as your backup can be thought of as both being a good backup and being a bad backup. Until you attempt a restore the condition of any Backup is unknown.
+
+While Schrödinger’s  cat was a thought experiment that may have injured an imaginary feline, a failure to be able to recover databases when required can prove  terminal to both careers   and Companies.
+
+In this session Patrick we will walk you through how to design,  create and test Recovery strategies. Using T-SQL and PowerShell you will leave with the tools necessary to avoid you own failed Schroedinger’s Backup experiment.</description>
+      <startTime>5/27/2017 9:30:00 AM</startTime>
+      <endTime>5/27/2017 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>63457</importID>
+      <speakers>
+        <speaker>
+          <id>63457</id>
+          <name>Manohar Punna</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Hamilton Island</name>
+      </location>
+      <title>Azure Database Migration – Choosing the Right Tier</title>
+      <description>Microsoft has two different types of SQL Server services available in Azure. The SQL Server on an Azure VM is the IaaS (Infrastructure as a Service), which is easier to understand and migrate to. 
+Microsoft offers two types of PaaS (Platform as a Service) or DBaaS (Database as a Service) for SQL Server Database native to could – Single Database and Elastic Pool. Choosing the right tier for your database gets harder with the complexity in calculating the resource utilization for your Azure SQL Database.
+In this session, I will walk you through the steps involved in analyzing the resource utilization and estimating the right tier to choose for your database in Azure.</description>
+      <startTime>5/27/2017 1:30:00 PM</startTime>
+      <endTime>5/27/2017 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>61717</importID>
+      <speakers>
+        <speaker>
+          <id>61717</id>
+          <name>Peter Myers</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>North Stradbroke</name>
+      </location>
+      <title>Reports on the Run: Mobile Reporting with SQL Server 2016</title>
+      <description>Based on the acquisition of Datazen, Reporting Services now includes a new engine enabling the delivery of mobile reports. In this session you will learn about this new capability delivered with SQL Server 2016, including the architecture of the engine and the development of reports.
+
+This session will describe and demonstrate how to prepare data for mobile reporting, and also how to develop and publish mobile reports. In addition, it will describe the architecture of the engine, and how to manage mobile reports.
+
+This session will be of interest to a full range of professionals, including analysts, report developers, IT managers, and data architects.</description>
+      <startTime>5/27/2017 11:00:00 AM</startTime>
+      <endTime>5/27/2017 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>63401</importID>
+      <speakers>
+        <speaker>
+          <id>63401</id>
+          <name>Reza Rad</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>South Stradbroke</name>
+      </location>
+      <title>Data Preparation is the Keystone; Power Query is Building Block</title>
+      <description>Prepare to be amazed with what you can achieve using Power Query in this demo-heavy session. Power Query is the data extraction, transformation, and mash up tool. It can be accessed through Excel or from Power BI Desktop. There are numerous data transformation features that can be used to solve real-world data preparation challenges.
+
+We will use customer case studies to go through scenarios of preparing data for modelling, and visualization. You will learn how to use features of Power Query such as generators, custom functions, and lots of built-in functions to solve those scenarios. You will also learn some data preparation techniques through Excel itself.</description>
+      <startTime>5/27/2017 2:50:00 PM</startTime>
+      <endTime>5/27/2017 3:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>64299</importID>
+      <speakers>
+        <speaker>
+          <id>64299</id>
+          <name>Peter O'Gorman</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>South Stradbroke</name>
+      </location>
+      <title>Drone or Die - Defenders of the Universe</title>
+      <description>Since the movie Avatar it seems, the drone has taken the world by storm... a quadcopter of sorts, a flying spider with half the legs... rocketing to the Christmas lists of many households and a very real and palatable career choice, especially here in our very own Queensland.  For the light-hearted, the pure enthusiast, the evil genius or the business savvy, whether you fly a drone or not you may be completely unaware of the role drones play in your daily life.
+
+And drones actually produce a lot of raw data.... With that data comes great opportunity and great responsibility, as we take to the skies with a guided tour of what drone data looks like, and what are the opportunities but what are the responsibilities.... "Up ahead was Pandora. You grew up hearing about it, but I never figured I’d be goin’ there...".</description>
+      <startTime>5/27/2017 4:00:00 PM</startTime>
+      <endTime>5/27/2017 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>61660</importID>
+      <speakers>
+        <speaker>
+          <id>61660</id>
+          <name>Gilbert Quevauvilliers</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>North Stradbroke</name>
+      </location>
+      <title>Power BI real world tips and tricks</title>
+      <description>Out in the real world, people are starting to use Power BI to gain insights into their data that were previously never seen. With Gilbert currently working full time in Power BI projects, he has first hand experience on how to leverage Power BI in work place.
+
+By providing real world, real working examples I plan to show how some simple tips and tricks can make their reports and dashboards amazing and insightful. This will be an interactive and demo rich presentation. 
+
+The real world tips will cover the following sections of Power BI:
+•	Query Editor
+•	DAX
+•	Visuals
+•	Power BI Service</description>
+      <startTime>5/27/2017 4:00:00 PM</startTime>
+      <endTime>5/27/2017 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>63399</importID>
+      <speakers>
+        <speaker>
+          <id>63399</id>
+          <name>Reza Rad</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>South Stradbroke</name>
+      </location>
+      <title>Security in Power BI; Everything You Need to Know</title>
+      <description>Sharing and Security are two important features of Power BI which is overlooked in many cases. Come to this session to learn all different types of sharing a Power BI content. You will learn best practice to share the content in different situation and an architecture for sharing. Session continues with a deep dive into Row Level Security in Power BI. You will learn three different methods of implementing Row Level Security in Power BI.
+This is a demo-heavy session. Come and get answer to all your questions about Security in Power BI.</description>
+      <startTime>5/27/2017 11:00:00 AM</startTime>
+      <endTime>5/27/2017 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>63374</importID>
+      <speakers>
+        <speaker>
+          <id>63374</id>
+          <name>Leila Etaati</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>South Stradbroke</name>
+      </location>
+      <title>On-premises Machine Learning : SQL Server 2016 with R</title>
+      <description>The R server 2016 provides many functionalities for database developers. It helps us to get more insight out of data by applying descriptive, predictive, and prescriptive analysis on data which located in SQL server 2016.  In this session, first I will provide some descriptions on the descriptive, predictive, and prescriptive analysis. Then I will discuss what algorithm we can use to reach these three analysis using R. Finally, I will show a couple of demos on each of these type of analysis and will present  how to write them in SQL Server 2016. the process of writing R code in SQL Server 2016 will be presented and the best practice for doing that also explained.</description>
+      <startTime>5/27/2017 1:30:00 PM</startTime>
+      <endTime>5/27/2017 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>61718</importID>
+      <speakers>
+        <speaker>
+          <id>61718</id>
+          <name>Peter Myers</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>North Stradbroke</name>
+      </location>
+      <title>Power BI for the Developer</title>
+      <description>Integrate, Extend, Embed! In this session, you will how developers can deliver real-time dashboard scenarios, create custom visuals and embed rich interactive analytics in their apps with Power BI Embedded. This presentation  specifically targets experienced app developers, and also those curious to understand what developers can achieve. Numerous demonstrations will put the theory into action.</description>
+      <startTime>5/27/2017 9:30:00 AM</startTime>
+      <endTime>5/27/2017 10:30:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

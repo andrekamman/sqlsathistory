@@ -1,0 +1,21 @@
+# SQLSaturday #296 - Melbourne 2014
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Craig Bryden|Track 2|[Introducing Microsoft Power Query](11988.md)
+00:00:00|Darren Gosbell|Track 1|[Drop your DAX](13240.md)
+00:00:00|Grant Paisley|Track 3|[Kick-ass Ad-hoc Cube Browser build in SSRS 2014](14724.md)
+00:00:00|Greg Low|Track 5|[Why compression matters so much for SQL Server and BI](14829.md)
+00:00:00|Shehab El-Najjar|Track 5|[T-SQL Performance Guidelines for better DB stress powers](15191.md)
+00:00:00|Julie Koesmarno|Track 2|[Building Your Myth Busting Lab With Power BI](16917.md)
+00:00:00|Konstantin Khomyakov|Track 4|[Data Quality Services (Deep dive)](18670.md)
+00:00:00|Martin Cairney|Track 4|[Automating Deployments with Powershell](19730.md)
+00:00:00|Martin Catherall|Track 5|[Event notifications for the proactive DBA](19758.md)
+00:00:00|Mohamed Kabiruddin|Track 3|[Agile BI with SQL Server 2014 and TFS 2013](20007.md)
+00:00:00|Peter Avenant|Track 2|[VARIGENCE AUSTRALIA - Build an Integrated Metadata Framework](21935.md)
+00:00:00|Peter Myers|Track 2|[Introduction to SQL Server Data Mining](21990.md)
+00:00:00|Paul te Braak|Track 1|[Analytical Data Mining - Using Data Mining to Understand Data](22374.md)
+00:00:00|Rob Farley|Track 5|[The Incredible Shrinking Execution Plan](23225.md)
+00:00:00|Rod Colledge|Track 2|[Hour of Power BI](23377.md)
+00:00:00|Rolf Tesmer|Track 1|[Leveraging SQL Spatial Analytics for Making Business Decisions](23426.md)
+00:00:00|Victor Isakov|Track 3|[Understanding SQL Server 2014's In-Memory OLTP Table Technology](27410.md)
+00:00:00|Warwick Rudd|Track 3|[Performance Eye for the SQL Guy](27656.md)

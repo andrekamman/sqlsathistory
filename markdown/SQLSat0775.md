@@ -1,0 +1,20 @@
+# SQLSaturday #775 - Gothenburg 2018
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:15:00|Alexander Klein|Cloud Application Development  Deployment|[Let the Cognitive Services to help you to find your favourite cocktail.](78501.md)
+09:15:00|Satya Jayanty|Enterprise Database Administration  Deployment|[DevOPS for DBAs - Where is your magic wand?](78503.md)
+09:15:00|Christopher Adkin|Application  Database Development|[Scaling Out Workload Processing Using SQL Server Running Inside Containers](78530.md)
+10:35:00|Janusz Rokicki|Strategy and Architecture|[The Road to The Autonomous Databases](78962.md)
+10:35:00|Jose Manuel Jurado Diaz|Cloud Application Development  Deployment|[SQL Server, Next station Azure](80611.md)
+10:35:00|Lord Richard Douglas|Application  Database Development|[Natural Born Killers, Performance Issues to Avoid](83920.md)
+11:45:00|Marcelo Fernandes|Strategy and Architecture|[How to build solution for High Availability/Disaster Recovery](80848.md)
+11:45:00|Francisco Racionero|Enterprise Database Administration  Deployment|[SQL Server  GDPR](82885.md)
+11:45:00|Erland Sommarskog|Application  Database Development|[Don't Use Cursors or Why You Maybe Should Use a Cursor After All](83714.md)
+13:45:00|Michal Sadowski|Enterprise Database Administration  Deployment|[Encryption in SQL Server](80821.md)
+13:45:00|Sergiy Lunyakin|BI Information Delivery|[Data Wrangling as the key to success with Data Lake](83635.md)
+13:45:00|Nico Jacobs|Advanced Analysis Techniques|[Azure Stream Analytics  Machine learning: better together](83732.md)
+15:00:00|Alexander Arvidsson|Enterprise Database Administration  Deployment|[Headless chicken - calming the sysadmin that turned DBA](78873.md)
+15:00:00|Andrea Martorana Tusa|BI Information Delivery|[Making reports in SSRS: beyond standard tools](82570.md)
+16:10:00|Marcos Freccia|Enterprise Database Administration  Deployment|[My 10 favorite PowerShell commands](80698.md)
+16:10:00|Hylke Peek|Analytics and Visualization|[Automate your work processes with Microsoft Flow and Power BI](83151.md)
+16:10:00|Daniel Hutmacher|Application  Database Development|[Not just polish – How good code also runs faster](84027.md)

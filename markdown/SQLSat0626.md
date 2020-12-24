@@ -1,0 +1,22 @@
+# SQLSaturday #626 - Budapest 2017
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:15:00|Karol Papaj|BI Platform Architecture, Development  Administration|[SQL Server’s 2016 Hidden Gems for BI Developers](59891.md)
+09:15:00|Satya Jayanty|Enterprise Database Administration  Deployment|[2,4,8  16 - Upgrade your journey with SQL Server](61337.md)
+09:15:00|LEONEL ABREU|BI Platform Architecture, Development  Administration|[Self Service BI Solutions with Analysis Services](61417.md)
+09:15:00|Viktor Dudas|Strategy and Architecture|[Microsoft adat platform áttekintés](63466.md)
+10:30:00|Catalin Gheorghiu|Application  Database Development|[Power Bi for beginner IoT developer](61151.md)
+10:30:00|Torsten Strauss|Enterprise Database Administration  Deployment|[hash and stream aggregation](61381.md)
+10:30:00|Janos Berke|Enterprise Database Administration  Deployment|[SQL Server 2016 Availability Group újdonságok](63154.md)
+12:30:00|Sergey Olontsev|Professional Development|[Tricky ways to optimize your T-SQL queries](62417.md)
+12:30:00|Bob Duffy|BI Platform Architecture, Development  Administration|[Complex Tabular Modelling - A Case Study](62459.md)
+12:30:00|André Melancia|Enterprise Database Administration  Deployment|[Hacking SQL Server](62730.md)
+12:30:00|Attila Kővári|Analytics and Visualization|[Önkiszolgáló adatvizualizációs lehetőségek Power BI segítségével a földön, vagy a felhőben](63482.md)
+13:45:00|Miroslav Dimitrov|Enterprise Database Administration  Deployment|[Performance Tuning for the Transaction Log](59888.md)
+13:45:00|Jose Manuel Jurado Diaz|Application  Database Development|[SQL SERVER - Next station Azure](61025.md)
+13:45:00|Dejan Sarka|Advanced Analysis Techniques|[Introducing R](61485.md)
+13:45:00|Zoltán Horváth|BI Platform Architecture, Development  Administration|[Analysis Services biztonság](63142.md)
+15:00:00|Markus Ehrenmueller-Jensen|Application  Database Development|[A Game of Hierarchies: Mastering Recursive Queries](61059.md)
+15:00:00|Mikael Wedham|Enterprise Database Administration  Deployment|[A Masters view on Locking and blocking](62608.md)
+15:00:00|Dejan Pervulov|BI Platform Architecture, Development  Administration|[How to use Temporal Tables in SQL Server 2016](63076.md)
+15:00:00|Zoltán Hangyál|Strategy and Architecture|[Az eltűnt operátor nyomában](63164.md)

@@ -1,0 +1,439 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #591 - Montreal 2017</name>
+    <startDate>3/18/2017 12:00:00 AM</startDate>
+    <attendeeEstimate>80</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatMontreal</twitterHashtag>
+    <venue>
+      <name>MIcrosoft Montreal Offices</name>
+      <street>2000 McGill College, 5e étage, Montréal</street>
+      <city>Montreal</city>
+      <state>Quebec, Canada</state>
+      <zipcode>H3A 3H8</zipcode>
+      <longitude>-73.573576911792</longitude>
+      <latitude>45.5030134042437</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1834</importID>
+      <name>SelectStar</name>
+      <label>Silver Sponsor</label>
+      <url>https://selectstar.io/</url>
+      <imageURL>https://madpass.pass.org/portals/85/sidebarimages/selectStar_logo_RGB.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>56726</importID>
+      <name>Christophe Laporte</name>
+      <label>
+      </label>
+      <description>Christophe Laporte is based in Toulouse, France and has worked with SQL Server since 1997, starting with SQL Server 6.5. Focusing on high availability, VLDBs, and virtualization, Christophe also delivers performance audits on SQL Server and helps companies in choosing the appropriate architectures (Cloud, OnPremise, or Hybrid). 
+In addition to his MCM certification, Christophe is also a SQL MVP, speaker, and Microsoft Certified Trainer since 2000.</description>
+      <twitter>conseilit</twitter>
+      <linkedin>http://fr.linkedin.com/in/christophelaporte</linkedin>
+      <ContactURL>http://conseilit.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=conseilit</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>61503</importID>
+      <name>Michelle Gutzait</name>
+      <label>
+      </label>
+      <description>Involved in IT for more than 30 years as a developer, business analyst and database consultant. Worked exclusively with Microsoft SQL Server for the past 20+ years, consulting for many and diverse clients. Skills include everything related to SQL Server:  infrastructure and database design, Performance tuning, security, High Availability, consolidation, Disaster Recovery, Cloud migrations and much more! 
+Also active in the community as a speaker and a Blogger.
+One of the Organizers of the PASS Chapter in Montreal.</description>
+      <twitter>mgutzait</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=2796867</linkedin>
+      <ContactURL>http://Google me!</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mgutzait</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>55096</importID>
+      <name>Vitor Fava</name>
+      <label>
+      </label>
+      <description>I'm a DBA with extensive experience in the areas of Database and Information Technology, working on planning, implementation, and maintenance of large corporate database servers. 
+I have several professional certifications and good experience in development activities and management of entrepreneurial environments using SQL SERVER. 
+I'm a speaker at various technology events such as SQL Saturday, The Developers Conference, InteropMix and also in various discussion groups focused on database technology.
+I teach advanced training in SQL Server and Azure SQL Database and also acting as MCT in Microsoft official training.
+I'm the Chapter Leader of SQLManiacs PASS chapter.</description>
+      <twitter>sqlservermaniacs</twitter>
+      <linkedin>https://br.linkedin.com/in/vitorfava</linkedin>
+      <ContactURL>https://www.vitorfava.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlservermaniacs</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>56809</importID>
+      <name>Christophe Laporte</name>
+      <label>
+      </label>
+      <description>Christophe Laporte is based in Toulouse, France and has worked with SQL Server since 1997, starting with SQL Server 6.5. Focusing on high availability, VLDBs, and virtualization, Christophe also delivers performance audits on SQL Server and helps companies in choosing the appropriate architectures (Cloud, OnPremise, or Hybrid). 
+In addition to his MCM certification, Christophe is also a SQL MVP, speaker, and Microsoft Certified Trainer since 2000.</description>
+      <twitter>conseilit</twitter>
+      <linkedin>http://fr.linkedin.com/in/christophelaporte</linkedin>
+      <ContactURL>http://conseilit.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=conseilit</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>55099</importID>
+      <name>Vitor Fava</name>
+      <label>
+      </label>
+      <description>I'm a DBA with extensive experience in the areas of Database and Information Technology, working on planning, implementation, and maintenance of large corporate database servers. 
+I have several professional certifications and good experience in development activities and management of entrepreneurial environments using SQL SERVER. 
+I'm a speaker at various technology events such as SQL Saturday, The Developers Conference, InteropMix and also in various discussion groups focused on database technology.
+I teach advanced training in SQL Server and Azure SQL Database and also acting as MCT in Microsoft official training.
+I'm the Chapter Leader of SQLManiacs PASS chapter.</description>
+      <twitter>sqlservermaniacs</twitter>
+      <linkedin>https://br.linkedin.com/in/vitorfava</linkedin>
+      <ContactURL>https://www.vitorfava.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlservermaniacs</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>56814</importID>
+      <name>Jean-Pierre Riehl</name>
+      <label>
+      </label>
+      <description>Architect, Consultant, Trainer and also Manager, Jean-Pierre leads the Data  BI Practice at AZEO, a French Microsoft "pure-player" partner. 
+Jean-Pierre is MVP Data Platform since 2008 and speaks at many events in France and in Europe. JP leads the local community (GUSS) and organize events in France since 2011 : MS Cloud Summit, Les Journées SQL Server, SQLSaturday, etc. 
+JP is passionate by data concerns in business like Data Governance, Data Quality or Data Vizualisation and since 2010, he’s specialized in Self-Service BI. His favorite topic is Power BI and business usages and technical architectures that go with.</description>
+      <twitter>djeepy1</twitter>
+      <linkedin>http://fr.linkedin.com/in/djeepy1</linkedin>
+      <ContactURL>http://blog.djeepy1.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=djeepy1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>56313</importID>
+      <name>Drew Furgiuele</name>
+      <label>
+      </label>
+      <description>Drew Furgiuele is a senior DBA that lives in Dublin, Ohio who is passionate about SQL Server and PowerShell. He's been working with SQL Server since 2002. When he’s not accidentally dropping tables in production, he likes writing automation scripts, blogging about SQL Server Replication, wiring electronics, playing board games, and spending time with his dog. He's also not embarrassed by his Spotify playlists.</description>
+      <twitter>pittfurg</twitter>
+      <linkedin>http://www.linkedin.com/in/pittfurg</linkedin>
+      <ContactURL>http://www.port1433.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pittfurg</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>56727</importID>
+      <name>Christophe Laporte</name>
+      <label>
+      </label>
+      <description>Christophe Laporte is based in Toulouse, France and has worked with SQL Server since 1997, starting with SQL Server 6.5. Focusing on high availability, VLDBs, and virtualization, Christophe also delivers performance audits on SQL Server and helps companies in choosing the appropriate architectures (Cloud, OnPremise, or Hybrid). 
+In addition to his MCM certification, Christophe is also a SQL MVP, speaker, and Microsoft Certified Trainer since 2000.</description>
+      <twitter>conseilit</twitter>
+      <linkedin>http://fr.linkedin.com/in/christophelaporte</linkedin>
+      <ContactURL>http://conseilit.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=conseilit</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>61291</importID>
+      <name>Sophie Marchand</name>
+      <label>
+      </label>
+      <description>Instigatrice du CFO masqu#233;, Sophie Marchand est d#233;tentrice d’une M.Sc. en finance corporative, d’un titre comptable CPA, CGA et d’un titre MVP (Most valuable professional) Excel  et d#39;un titre MVP Data Platform de Microsoft, et cumule de nombreuses ann#233;es d’exp#233;rience dans le milieu des affaires. Elle se sp#233;cialise particuli#232;rement en mod#233;lisation financi#232;re et en intelligence d’affaires. #192; ce titre, elle d#233;veloppe des mod#232;les financiers rigoureux, des tableaux de bord sophistiqu#233;s et des outils de gestion performants. Elle offre </description>
+      <twitter>lecfomasque</twitter>
+      <linkedin>http://www.linkedin.com/in/marchandsophie</linkedin>
+      <ContactURL>http://www.lecfomasque.com/accueil-mon-cher-watson/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=lecfomasque</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>61365</importID>
+      <name>Jean Rene Roy</name>
+      <label>
+      </label>
+      <description>Jean-Ren#233; Roy has been developing IT solution for large and small enterprises since 1987. In 1991 he founded the consulting firm Technologies SoftDesign Inc. 
+
+Since that time he has worked on projects for House of Commons, Innovapost, Bell Canada, CGI, CNSC, Kraft, and many other clients assuming the responsibility of Business Analyst, Software Architect,ETL and BI Architect, Software Developers, Analyst, Team leader and mentor.  Jean-Ren#233; Roy is a SQL Server Microsoft MVP.</description>
+      <twitter>https://twitter.com/#!/DevTeachConfere</twitter>
+      <linkedin>http://www.linkedin.com/in/jeanreneroy</linkedin>
+      <ContactURL>http://www.softdesign.ca/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/#!/DevTeachConfere</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>55098</importID>
+      <name>Vitor Fava</name>
+      <label>
+      </label>
+      <description>I'm a DBA with extensive experience in the areas of Database and Information Technology, working on planning, implementation, and maintenance of large corporate database servers. 
+I have several professional certifications and good experience in development activities and management of entrepreneurial environments using SQL SERVER. 
+I'm a speaker at various technology events such as SQL Saturday, The Developers Conference, InteropMix and also in various discussion groups focused on database technology.
+I teach advanced training in SQL Server and Azure SQL Database and also acting as MCT in Microsoft official training.
+I'm the Chapter Leader of SQLManiacs PASS chapter.</description>
+      <twitter>sqlservermaniacs</twitter>
+      <linkedin>https://br.linkedin.com/in/vitorfava</linkedin>
+      <ContactURL>https://www.vitorfava.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlservermaniacs</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>56813</importID>
+      <name>Jean-Pierre Riehl</name>
+      <label>
+      </label>
+      <description>Architect, Consultant, Trainer and also Manager, Jean-Pierre leads the Data  BI Practice at AZEO, a French Microsoft "pure-player" partner. 
+Jean-Pierre is MVP Data Platform since 2008 and speaks at many events in France and in Europe. JP leads the local community (GUSS) and organize events in France since 2011 : MS Cloud Summit, Les Journées SQL Server, SQLSaturday, etc. 
+JP is passionate by data concerns in business like Data Governance, Data Quality or Data Vizualisation and since 2010, he’s specialized in Self-Service BI. His favorite topic is Power BI and business usages and technical architectures that go with.</description>
+      <twitter>djeepy1</twitter>
+      <linkedin>http://fr.linkedin.com/in/djeepy1</linkedin>
+      <ContactURL>http://blog.djeepy1.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=djeepy1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>56726</importID>
+      <speakers>
+        <speaker>
+          <id>56726</id>
+          <name>Christophe Laporte</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Main room #2</name>
+      </location>
+      <title>Storage Spaces Direct : le géo-cluster SQL Server simplifié</title>
+      <description>Le monde du stockage est en pleine ébullition. Les acteurs historiques ont vu de nouveaux concurrents proposer des solutions innovantes en terme de baie de disque.
+Le disques locaux (DAS) ont aussi connu des évolutions majeures. Les disques SSD ont succédé aux disques rotatifs. Le protocole AHCI laisse place au NVMe avec des performance impressionnantes et des latences extrêmement faibles.
+La virtualisation de stockage a permis de faire évoluer l'offre en matière de de tolérance de panne  pour des systèmes géographiquement répartis en offrant une alternative au SAN mirroring.
+Les architectures hyper-convergées sont apparus ouvrant la porte à de nouvelles possibilités.
+Avec l'arrivée de Windows 2016 et de Storage Spaces Direct, Microsoft offre une alternative crédible au vSan et autres Simplivity et autres Nutanix.
+Au cours de cette session, nous allons découvrir cette fonctionnalité et explorer les bénéfices pour une infrastructure SQL Server hautement disponible.</description>
+      <startTime>3/18/2017 1:30:00 PM</startTime>
+      <endTime>3/18/2017 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>61291</importID>
+      <speakers>
+        <speaker>
+          <id>61291</id>
+          <name>Sophie Marchand</name>
+        </speaker>
+      </speakers>
+      <track>Power BI (Dashboard in a day)</track>
+      <location>
+        <name>St-Laurent</name>
+      </location>
+      <title>Dashboard in a day</title>
+      <description>Le Dashboard in a Day  n’est pas d’une formation en tant que telle. Il s’agit plutôt d’une présentation de différents rapports Power BI élaborés par l’équipe de Microsoft. Tout au long de la journée, nous allons naviguer à travers ces rapports et vous expliquer comment ils ont été construits, publiés et partagés. Vous serez donc en mesure de bien comprendre tout ce que peut vous offrir Power BI, en termes de fonctionnalités. Nous vous invitons à apporter vos ordinateurs portables pour être en mesure de naviguer par vous-mêmes dans ces différents rapports. Pour assister à cette portion de l’événement, vous devez absolument vous inscrire via le lien suivant http://sopmar01.polldaddy.com/s/dashboard-in-a-day , en plus de vous inscrire sur le site sqlsaturday.com, puisque le nombre de place est limité à 20 personnes. Une fois inscrit sur cette liste, vous recevrez un courriel pour vous informer si vous faites partie des chanceux ou si vous êtes sur la liste d’attente.</description>
+      <startTime>3/18/2017 8:45:00 AM</startTime>
+      <endTime>3/18/2017 4:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>55098</importID>
+      <speakers>
+        <speaker>
+          <id>55098</id>
+          <name>Vitor Fava</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Main room #2</name>
+      </location>
+      <title>Azure SQL Database - Scaling In and Scaling Out using  elastic pool</title>
+      <description>On this session will discuss how to configure the elastic pool Azure SQL Database to manage the use of resources and ensure high performance and scalability of your databases stored on Azure.</description>
+      <startTime>3/18/2017 11:00:00 AM</startTime>
+      <endTime>3/18/2017 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>56814</importID>
+      <speakers>
+        <speaker>
+          <id>56814</id>
+          <name>Jean-Pierre Riehl</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Main room #1</name>
+      </location>
+      <title>Azure Data Lake, le big data 2.0</title>
+      <description>Azure Data Lake est LA technologie "big data" maison de Microsoft. En provenance de MS Research (nom de code Cosmos), elle est utilisée  en interne par les équipes X-Box, Bing, O365 depuis quelques années déjà. Cette technologie est disponible depuis l'été dernier dans Azure et s'enrichit mois après mois.
+
+ADL, concrètement, c'est quoi ? C'est la possibilité de stocker et analyser une quantité illimitée de données et de requêter avec un nouveau langage : le U-SQL</description>
+      <startTime>3/18/2017 8:45:00 AM</startTime>
+      <endTime>3/18/2017 9:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>55096</importID>
+      <speakers>
+        <speaker>
+          <id>55096</id>
+          <name>Vitor Fava</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Main room #1</name>
+      </location>
+      <title>Stretch Database - Historical data storage in SQL Server 2016</title>
+      <description>In this session I will display the new functionality of SQL Server 2016 called Stretch Database, with which you can optimize the storage and manipulation of historical data integrating an instance of SQL Server to SQL Azure.</description>
+      <startTime>3/18/2017 3:45:00 PM</startTime>
+      <endTime>3/18/2017 4:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>61365</importID>
+      <speakers>
+        <speaker>
+          <id>61365</id>
+          <name>Jean Rene Roy</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Main room #1</name>
+      </location>
+      <title>Scaling SSIS Package execution is the Server Deployment</title>
+      <description>SSIS 2012 introduced a new way to deploy and execute SSIS package. But did you know that the execution can be done from a Stored Procedure? Come and see how we reverse engineer the server deployment model to horizontally scale the execution. Learn how you can scale your packages execution with elasticity.</description>
+      <startTime>3/18/2017 2:30:00 PM</startTime>
+      <endTime>3/18/2017 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>56313</importID>
+      <speakers>
+        <speaker>
+          <id>56313</id>
+          <name>Drew Furgiuele</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Main room #2</name>
+      </location>
+      <title>SQL Server Transactional Replication: A Deep Dive</title>
+      <description>Ah, SQL Server Transactional Replication. The technology everyone loves to hate. But for all the notoriety, there's some interesting technology to be had in it that might you might want to leverage. In this session, we'll explore what happens when you create a new transactional publication: what happens during a snapshot, how data gets delivered to subscribers, and how you can monitor, tweak, and tune your publications. We'll also see some common trouble spots and how to identify them. There will be plenty of examples and demos and, yes, even some PowerShell!</description>
+      <startTime>3/18/2017 10:00:00 AM</startTime>
+      <endTime>3/18/2017 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>56813</importID>
+      <speakers>
+        <speaker>
+          <id>56813</id>
+          <name>Jean-Pierre Riehl</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Main room #1</name>
+      </location>
+      <title>Partage et Collaboration avec Power BI</title>
+      <description>Power BI offre de nombreuses solutions pour travailler à plusieurs sur un modèle, un rapport ou un tableau de bord. Cette session passe en revue les fonctionnalités de partage et de collaboration de Power BI avec leurs avantages et leurs inconvénients.</description>
+      <startTime>3/18/2017 11:00:00 AM</startTime>
+      <endTime>3/18/2017 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>61503</importID>
+      <speakers>
+        <speaker>
+          <id>61503</id>
+          <name>Michelle Gutzait</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Main room #1</name>
+      </location>
+      <title>Ways to handle large amounts of data</title>
+      <description>Data and databases are growing fast. Some historical data is required for analysis and cannot be purged.
+In this session I will discuss ways to handle large amounts of data in SQL Server 2016 and the cloud.
+Some examples: Database partitioning, Stretch Database, Blob storage and more!</description>
+      <startTime>3/18/2017 1:30:00 PM</startTime>
+      <endTime>3/18/2017 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>56809</importID>
+      <speakers>
+        <speaker>
+          <id>56809</id>
+          <name>Christophe Laporte</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Main room #1</name>
+      </location>
+      <title>Seamless upgrade : mettre à jour un cluster SQL Server</title>
+      <description>Chaque nouvelle version de Windows apporte son lot de nouvelles fonctionnalités, de gains en performance ou stabilité. La recherche de haute disponibilité nous pousse souvent à mettre en place un cluster. Cluster qu'il est difficile de faire évoluer sans interruption de service notable. Etait difficile à faire évoluer, devrais-je dire.
+Après avoir parlé des nouveautés apportées par Windows 2016, nous verrons comment effectuer la mise à jour de l'OS, ou l'ajout d'un nouveau nœud, dans un cluster Windows 2012R2.</description>
+      <startTime>3/18/2017 10:00:00 AM</startTime>
+      <endTime>3/18/2017 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>55099</importID>
+      <speakers>
+        <speaker>
+          <id>55099</id>
+          <name>Vitor Fava</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Main room #2</name>
+      </location>
+      <title>Azure SQL Database - Managing your database on the cloud</title>
+      <description>In this session we will discuss the best practices for managing a database environment created in Azure, what are the available monitoring tools to start a troubleshooting process and how to find and resolve potential performance problems.</description>
+      <startTime>3/18/2017 10:00:00 AM</startTime>
+      <endTime>3/18/2017 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>56727</importID>
+      <speakers>
+        <speaker>
+          <id>56727</id>
+          <name>Christophe Laporte</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Main room #2</name>
+      </location>
+      <title>SQL Server dans un conteneur Docker</title>
+      <description>Encore impensable il y a quelques années, la stratégie de Microsoft envers le monde libre n'en finit pas d'étonner la sphère informatique.
+Sur machine physique ou virtuelle, SQL Server peut à présent être installé sur un OS Windows ou … Linux. 
+En parallèle, la culture DevOps et les micro services semblent s'imposer comme le modèle d'architecture pour les années à venir.
+Au cours de cette session découverte, au travers de quelques lignes de code, venez assister à la création d'un conteneur suivi de l'installation de SQL Server</description>
+      <startTime>3/18/2017 2:30:00 PM</startTime>
+      <endTime>3/18/2017 3:30:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

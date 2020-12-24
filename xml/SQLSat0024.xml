@@ -1,0 +1,19 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #24 (Fri) - Gainesville 2009</name>
+    <startDate>10/9/2009 12:00:00 AM</startDate>
+    <attendeeEstimate>0</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server</description>
+    <twitterHashtag>#sqlsat24</twitterHashtag>
+    <venue>
+      <name>Gainesville State College</name>
+      <street>3820 Mundy Mill Rd</street>
+      <city>Gainesville</city>
+      <state>Georgia</state>
+      <zipcode>30566</zipcode>
+      <longitude>-83.8632584</longitude>
+      <latitude>34.2225685</latitude>
+    </venue>
+  </guide>
+</GuidebookXML>

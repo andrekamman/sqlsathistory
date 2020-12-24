@@ -1,0 +1,905 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #598 - Costa Rica 2017</name>
+    <startDate>4/29/2017 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT-06:00) Central America</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatcostarica</twitterHashtag>
+    <venue>
+      <name>Hotel Park Inn</name>
+      <street>Calle 28, San José, Costa Rica</street>
+      <city>San José</city>
+      <state>San José, Costa Rica</state>
+      <zipcode>11251</zipcode>
+      <longitude>-84.0922379493714</longitude>
+      <latitude>9.93215822601138</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>319</importID>
+      <name>Comunidad Windows Costa Rica</name>
+      <label>Platinum</label>
+      <url>http://tinyurl.com/comunidadwindows</url>
+      <imageURL>https://www.simsasys.com/LogoComunidadWindows2015.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>796</importID>
+      <name>Linchpin People, LLC</name>
+      <label>Platinum</label>
+      <url>http://www.linchpinpeople.com</url>
+      <imageURL>https://www.linchpinpeople.com/wp-content/uploads/2014/06/LP-logo170px-wide-no-tagline.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1878</importID>
+      <name>Stewart Lender Services</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.stewart.com</url>
+      <imageURL>https://www.titleescrowmiami.com/pictures/pages/21/stewart-title.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1616</importID>
+      <name>Red Gate</name>
+      <label>Raffle Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>3</importID>
+      <name>Idera</name>
+      <label>Raffle Sponsor</label>
+      <url>http://www.idera.com/Content/Home.aspx</url>
+      <imageURL>https://www.sqlsaturday.com/images/SQLSaturday/eventsponsors/IDERA170x60.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS USE ONLY</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>62523</importID>
+      <name>Christian Melendez</name>
+      <label>
+      </label>
+      <description>Christian has been in the industry for more than fourteen years now. He started to get interested in software development at school when he was 15 years old. In 2013, he made the switch from developing software to managing infrastructure on the cloud. He helped his employer as they were spending too much money and having too many problems when releasing software. He was able to use his skills as a developer in a different context: infrastructure. 
+
+Christian is now helping customers in their onboard journey to the cloud with the help of agile practices, DevOps culture adoption, and modern tools and technologies like containers, cloud, and serverless.</description>
+      <twitter>Christianhxc</twitter>
+      <linkedin>https://gt.linkedin.com/in/christian-melendez-6174454a</linkedin>
+      <ContactURL>http://cmelendeztech.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Christianhxc</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>57849</importID>
+      <name>Carlos A. Ulate Hernandez</name>
+      <label>
+      </label>
+      <description>Más de 12 años de experiencia en el análisis, desarrollo y soporte de aplicaciones y bases de datos, Ingeniero en Sistemas de la Universidad Fidélitas Costa Rica, Desarrollo de diferentes proyectos bancarios utilizando diferentes herramientas de Microsoft a nivel de BI y bases de datos, DBA/DBE para diversas compañias del mercado tecnológico. Chapter leader del capitulo local para PASS, Data Group Guanacaste, Parte del staff del capitulo virtual en español para PASS.</description>
+      <twitter>https://twitter.com/sql506</twitter>
+      <linkedin>https://cr.linkedin.com/in/carlosulate</linkedin>
+      <ContactURL>http://www.sql506.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/sql506</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>63102</importID>
+      <name>Jorge García</name>
+      <label>
+      </label>
+      <description>I’m a Business Intelligence Consultant and Software Developer with over 7 years of experience. I have Experience in analysis, design, development and implementation of system.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>63362</importID>
+      <name>Yanitza Campos</name>
+      <label>
+      </label>
+      <description>cuatro a#241;os de en SQL Server.
+De los cuales brinde un u#241;o y medio  soporte a las aplicaciones en  produccion y 
+luego pase al areade data wherehouse,  desarrollando  informes para 
+el departamento financiero y area de ventas; paralelamente participe 
+en el equipo de desarrollo de etls y finalmente pase al area
+de implementacion de implementacion en produccion del DW.</description>
+      <twitter>@ycamposwi</twitter>
+      <linkedin>https://cr.linkedin.com/in/yanitza-campos-wilson-241a79112</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ycamposwi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>56789</importID>
+      <name>Carlos Rojas Vargas</name>
+      <label>
+      </label>
+      <description>Carlos Rojas Vargas es Microsoft MVP en SQL-Server desde el año 2001 con 16 años consecutivos de obtener este reconocimiento, trabaja con SQL-Server desde el año 1995. A partir de 1999 se certifica como MCT y comienza a impartir Capacitación certificada Microsoft, actualmente trabaja como Consultor en SQL-Server, Windows Server, Virtualización con Hyper-V, Alta Disponibilidad y Soluciones de Colaboración con Sharepoint en Grupo CMA. En este momento cuenta con las certificaciones MCSA(SQL-Server 2012/2014), MCSA(SQL-Server 2008), MCITPro (Database Adm SQL-Server 2008), MCTS(Sharepoint 2010), MCTS(SQL-Server 2008), MCTS(Windows Server 2008 App Infrastructure), MTA, MCDBA, MCSD.NET, MCAD, MCSE, A+, N+. Fundador del Grupo de Usuarios de SQL CR.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlugcr.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>58144</importID>
+      <name>Michelle Gutzait</name>
+      <label>
+      </label>
+      <description>Involved in IT for more than 30 years as a developer, business analyst and database consultant. Worked exclusively with Microsoft SQL Server for the past 20+ years, consulting for many and diverse clients. Skills include everything related to SQL Server:  infrastructure and database design, Performance tuning, security, High Availability, consolidation, Disaster Recovery, Cloud migrations and much more! 
+Also active in the community as a speaker and a Blogger.
+One of the Organizers of the PASS Chapter in Montreal.</description>
+      <twitter>mgutzait</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=2796867</linkedin>
+      <ContactURL>http://Google me!</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mgutzait</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>56678</importID>
+      <name>Eduardo Castro</name>
+      <label>
+      </label>
+      <description>Eduardo Castro, Microsoft Data Platform MVP and PASS Board of Advisor for LATAM, is well known LATAM SQL Server Expert and focuses on architecture, Business Intelligence and Data Analytics, Eduardo has an specialization and master degree in Data Analysis and Big Data. I have been speaker at PASS Summit delivering session about R and Data Science.
+
+Eduardo Castro has presented in United States, Costa Rica, Colombia, Guatemala, Mexico, Panama, El Salvador and South Korea.</description>
+      <twitter>edocastro</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=7313296amp;authType=NAME_SEARCHamp;authToken=pBHMamp;locale=en_USamp;srchid=73132961426368749508amp;srchindex=1amp;srchtotal=50amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A73132961426368749508%2CVSRPtargetId%3A7313296%2CVSRPcmpt%3Aprimary%2CVSRPnm%3A</linkedin>
+      <ContactURL>http://ecastrom.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=edocastro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62521</importID>
+      <name>Christian Melendez</name>
+      <label>
+      </label>
+      <description>Christian has been in the industry for more than fourteen years now. He started to get interested in software development at school when he was 15 years old. In 2013, he made the switch from developing software to managing infrastructure on the cloud. He helped his employer as they were spending too much money and having too many problems when releasing software. He was able to use his skills as a developer in a different context: infrastructure. 
+
+Christian is now helping customers in their onboard journey to the cloud with the help of agile practices, DevOps culture adoption, and modern tools and technologies like containers, cloud, and serverless.</description>
+      <twitter>Christianhxc</twitter>
+      <linkedin>https://gt.linkedin.com/in/christian-melendez-6174454a</linkedin>
+      <ContactURL>http://cmelendeztech.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Christianhxc</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>57132</importID>
+      <name>Keneth Murillo</name>
+      <label>
+      </label>
+      <description>Consultor en Desarrollo de Software, conocedor de tecnolog#237;as basadas en la Nube y vanguardista entusiasta de las tecnolog#237;as Microsoft, Con conocimientos en las distintas plataformas Web, Escritorio, M#243;vil siempre aplicando las mejores pr#225;cticas y tecnolog#237;as del momento.</description>
+      <twitter>@kenethmurillo1</twitter>
+      <linkedin>http://cr.linkedin.com/in/kenethmurillo</linkedin>
+      <ContactURL>https://kmurillo.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@kenethmurillo1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62585</importID>
+      <name>Kenneth Urena</name>
+      <label>
+      </label>
+      <description>Kenneth Ureña is an experienced technologist with 17 years of experience, including 14 years of experience in SQL server. He has worked on versions from SQL Server 7.0 to SQL server 2016. 
+
+Kenneth has performed the role of Database Developer, Database Architect and Database Administrator, always relying on his disaster recovery and performance tuning skills.
+
+He co-leads the Global Spanish Virtual chapter of PASS. PASS LatAm Regional Mentor, he speaks at multiple SQL Server events in both Spanish and English. Kenneth holds multiple SQL server certifications.</description>
+      <twitter>@sqlcr</twitter>
+      <linkedin>https://www.linkedin.com/in/sqlcr</linkedin>
+      <ContactURL>http://www.sqlcr.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlcr</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62519</importID>
+      <name>Javier Loria</name>
+      <label>
+      </label>
+      <description>Javier Loria es un experimentado Arquitecto de Software y Arquitecto de Inteligencia de Negocios, Desarrollador de BI, con un historial de Ingeniera de redes. 
+Javier tiene más de 20 años de experiencia como Instructor Técnico, casi 30 años como desarrollador; 16 años como arquitecto de software y de inteligencia de negocios.</description>
+      <twitter>@JavierSQL</twitter>
+      <linkedin>http://www.linkedin.com/in/javiersql</linkedin>
+      <ContactURL>http://javiersql.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@JavierSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>57092</importID>
+      <name>Alejandro Cordero</name>
+      <label>
+      </label>
+      <description>DBA with Over 10 years of experience. Focused on SQL Server development , performance tuning, High Availability. Scrum Master Certified, MCTS, MCSA, Entrepreneur and Author at SQLTurbo.com. Currently working as technical leader for database consultants in Pythian Company.
+
+Regular speaker at SQL Saturdays in Latin America ( Costa Rica, Guatemala, Colombia)  and virtual chapters( In-Memory chapter, Spanish Chapter). Have presented in SQL Saturday Ottawa in Canada.</description>
+      <twitter>@ale_corderocr</twitter>
+      <linkedin>https://cr.linkedin.com/in/alejandrocorderocr</linkedin>
+      <ContactURL>http://sqlturbo.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ale_corderocr</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62584</importID>
+      <name>Eduardo Castro</name>
+      <label>
+      </label>
+      <description>Eduardo Castro, Microsoft Data Platform MVP and PASS Board of Advisor for LATAM, is well known LATAM SQL Server Expert and focuses on architecture, Business Intelligence and Data Analytics, Eduardo has an specialization and master degree in Data Analysis and Big Data. I have been speaker at PASS Summit delivering session about R and Data Science.
+
+Eduardo Castro has presented in United States, Costa Rica, Colombia, Guatemala, Mexico, Panama, El Salvador and South Korea.</description>
+      <twitter>edocastro</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=7313296amp;authType=NAME_SEARCHamp;authToken=pBHMamp;locale=en_USamp;srchid=73132961426368749508amp;srchindex=1amp;srchtotal=50amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A73132961426368749508%2CVSRPtargetId%3A7313296%2CVSRPcmpt%3Aprimary%2CVSRPnm%3A</linkedin>
+      <ContactURL>http://ecastrom.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=edocastro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>61517</importID>
+      <name>Patricio Cofre</name>
+      <label>
+      </label>
+      <description>Microsoft AI MVP  Regional Director. PASS Chile User Group Leader. Master of Engineering Management, Northwestern University. He has developed and led projects of Analytics for various companies in Latam, mainly in the areas of financial services and retail. He has specialized in Data Warehousing, and Machine Learning. He is co-founder and CEO of Metric Arts, now part of EY. He is also lecturer at the Catholic University of Chile and FIU in USA</description>
+      <twitter>pcofre</twitter>
+      <linkedin>https://cl.linkedin.com/in/pcofre</linkedin>
+      <ContactURL>https://cl.linkedin.com/in/pcofre</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pcofre</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62779</importID>
+      <name>Jesus Gil</name>
+      <label>
+      </label>
+      <description>Jesus Gil is a professional working with SQL Server since 6.5 version to SQL Server 2017
+I'm an Microsoft Data Platform MVP since 2010 and was coauthor of official WhitePapers: SQL Server 2014 Upgrade Technical Guide and SQL Server 2012 Upgrade Technical Guide
+Author several technical articles, course, workshops, etc.</description>
+      <twitter>@jesus_gilv</twitter>
+      <linkedin>http://mx.linkedin.com/in/jesusgilv/es</linkedin>
+      <ContactURL>https://jesusgilv.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jesus_gilv</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>57586</importID>
+      <name>Marco Tulio Gómez Reyes</name>
+      <label>
+      </label>
+      <description>Gerente General de Soluciones Computarizadas (www.solcomp.com) empresa dedicada a la consultoría, capacitacion y outsourcing de inteligencia de negocios, bases de datos y servicios en azure.
+Anteriormente fue CRM  Commercial Intelligence Leader en Kimberly-Clark Professional Guatemala, Arquitecto de soluciones de SSAS para Tigo Guatemala (Millicom International Cellular) y gerente de operaciones en CADS, S.A. (Grupo Tecun)
+Marco Tulio Posee una maestria en Tecnologías de la informacion y varias certificaciones tecnicas sobre productos Microsoft</description>
+      <twitter>mgomezgt</twitter>
+      <linkedin>http://gt.linkedin.com/in/mgomezgt</linkedin>
+      <ContactURL>http://www.marcotuliogomez.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mgomezgt</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62566</importID>
+      <name>César Oviedo</name>
+      <label>
+      </label>
+      <description>César Oviedo is a Data Platform MVP with more than 12 years of experience working in multidisciplinary projects running roles such as Scrum Master, Project Manager, BI Developer and DB Administrator. With experience leading teams and projects with more than 30 members. Currently focused on Data Science and Big Data platforms. Community Manager at “Business Intelligence LATAM” (BI PASS Chapter Leader for Costa Rica and PowerBI User Community), international speaker and trainer for Data and Cloud technologies.</description>
+      <twitter>@bi_latam</twitter>
+      <linkedin>https://www.linkedin.com/in/cesaroviedo</linkedin>
+      <ContactURL>https://www.facebook.com/BusinessIntelligenceLatam</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@bi_latam</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>57613</importID>
+      <name>David Sánchez Aguilar</name>
+      <label>
+      </label>
+      <description>David S#225;nchez Aguilar, especializado en Tecnolog#237;as Microsoft. Cuenta con el reconocimiento de Microsoft Most Valuable Professional y con varias certificaciones como MCP, MCTS, MCITP, MCSD, Microsoft Specialist y Microsoft Certified Trainer. Es graduado de la carrera de Ingenier#237;a en Sistemas Computacionales y actualmente cursa una Maestr#237;a en Administraci#243;n de Tecnolog#237;as de la Informaci#243;n. Cuenta con m#225;s de siete a#241;os de experiencia trabajando con diferentes plataformas Microsoft.</description>
+      <twitter>@davidsancheza</twitter>
+      <linkedin>https://cr.linkedin.com/in/davidsanchezaguilar</linkedin>
+      <ContactURL>http://davidsanchezaguilar.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@davidsancheza</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>57022</importID>
+      <name>Stephan Torres</name>
+      <label>
+      </label>
+      <description>12 a#241;os de experiencia en Tecnolog#237;as de Informaci#243;n, 7 de ellos trabajando con SQL Server y SharePoint creando soluciones de Inteligencia de Negocios y Colaboracion, Trabajo en Microsoft desarrollando pr#225;cticas de negocio para socios de negocio y soportando actividades competitivas a nivel regional. Actualmente Consultor en Solid Quality Mentors, en BI y SharePoint</description>
+      <twitter>@StephanTorres</twitter>
+      <linkedin>https://cr.linkedin.com/in/stephantorres</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@StephanTorres</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62583</importID>
+      <name>Jose L. Rivera</name>
+      <label>
+      </label>
+      <description>Jose L. Rivera is a seasoned data professional, speaker, homebrewer, trainer (former MCT), Data Platform MVP and community leader based in Puerto Rico working as Senior Financial Analyst for MCS. He shares his knowledge and experiences throughout his community work as Chapter Leader for the PASS Global Spanish VC (facebook.com/SpanishPASSVC), Vice-President of the Puerto Rico PASS (prpass.org), Mentor of GDG Puerto Rico (facebook.com/gdgpuertorico) and LATAM Regional Mentor at PASS. Jose L is a frequent speaker in SQL Saturday events throughout US and Latin America. He loves data, analytics, teaching, learning, having fun with his family, craft beer (a lot) and everything in between.</description>
+      <twitter>SQLConqueror</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=189422534</linkedin>
+      <ContactURL>http://sqlconqueror.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLConqueror</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>61165</importID>
+      <name>Kate Grass</name>
+      <label>
+      </label>
+      <description>Kate Grass is a digital nomad who has worked with SQL Server in the manufacturing, nonprofit and service sectors. Her experience runs the gamut from Database Design to Application and Report Development to ETL and Business Intelligence with a generous mix of other skills in between. 
+After over 15 years in Arizona, she took her passion for all things data and said goodbye to the office life. She now lives and works in an RV, traveling around the United States with her husband and two dogs. As President and SQL Consultant for Grass Williams Enterprises, she is thrilled that every day is "Take your Dog to Work Day" and that the view out the office window is ever-changing.</description>
+      <twitter>@kategrass</twitter>
+      <linkedin>http://www.linkedin.com/in/kategrass</linkedin>
+      <ContactURL>http://www.kategrass.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@kategrass</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62547</importID>
+      <name>Julián Castiblanco</name>
+      <label>
+      </label>
+      <description>Consultor de persistencia para BIT-C SAS.  Certificado como administrador desde la versi#243;n SQL Server 2005. 7 a#241;os de experiencia desarrollando y configurando bases de datos para distintas organizaciones del sector financiero y salud.</description>
+      <twitter>@jcastiblancop</twitter>
+      <linkedin>https://www.linkedin.com/in/juliancastiblancop/</linkedin>
+      <ContactURL>http://julycastiblanco.blogspot.com.co</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jcastiblancop</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>57144</importID>
+      <name>Juan Alvarado</name>
+      <label>
+      </label>
+      <description>MVP de de Data Platform durante 11 años consecutivos.  Consultor de tecnologias de SQL  Server, Power BI, Project, Azure , Azure Data Lakes y Office 365.  Certificado en SQL y Sharepoint. Consultor certificado sobre Sap HANA y Oracle.</description>
+      <twitter>juanbizzz</twitter>
+      <linkedin>https://gt.linkedin.com/in/juanmalvarado</linkedin>
+      <ContactURL>http://medium.com/@juanbizzz</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=juanbizzz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62629</importID>
+      <name>Víctor Zúñiga</name>
+      <label>
+      </label>
+      <description>MVP en SQL Server. Especialista en soluciones de Inteligencia de Negocios, con 15 años de experiencia y con amplio dominio de Tecnologías de DataWareHouse y Cubos multidimensionales de información así como de Balanced ScoreCard, Reportería avanzada y minería de datos. Experiencia como líder de departamento de consultoría Regional y profesor en cursos de especialización de BI durante 11 años. Con proyectos desarrollados en 9 países sobre tecnología Microsoft (SQL Server 2000,2005,2008, 2008 R2, 2012 y 2014)</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/vzunigacr</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>57188</importID>
+      <name>Adrian Miranda</name>
+      <label>
+      </label>
+      <description>Profesional de datos con más de 15 años de experiencia en mercados financieros, seguros, retail, entre otros.  Cuenta con amplia experiencia en la definición de arquitectura de base de datos, soluciones en la nube utilizando Microsoft Azure, ha participado en la definición de estrategias de alta disponibilidad, desastre y recuperación utilizando Microsoft Azure como plataforma y continuidad de negocios en general. Formó parte del equipo de soporte global en SQL Server para Microsoft, además, se desempeñó como consultor para un Microsoft Partner y ha sido conferencista para múltiples eventos relacionados con la comunidad de datos en LATAM.</description>
+      <twitter>@JMCJOSEAD</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@JMCJOSEAD</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62766</importID>
+      <name>Ahias Portillo</name>
+      <label>
+      </label>
+      <description>Soy un loco entusiasta por aprender nuevas tecnologías asociadas a base de datos, análisis de datos, Big Data y Ciencia de datos, cuento con más de 15 años de experiencia. 
+
+Cuento con una maestría en Base de datos, certificación profesional de Microsoft en ciencia de datos y Big Data, actualmente estoy estudiando una maestría académica en ciencia de datos.
+
+Me gusta compartir el conocimiento lo que me ha permitido ser nombrado como MVP de plataforma de datos desde el 2014, también he participado como conferencista en países de El Salvador, Guatemala, Costa Rica, Panamá, Estados Unidos y España.</description>
+      <twitter>PortilloAhias</twitter>
+      <linkedin>https://www.linkedin.com/pub/jose-ahias-lopez-portillo/30/284/977</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=PortilloAhias</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>56789</importID>
+      <speakers>
+        <speaker>
+          <id>56789</id>
+          <name>Carlos Rojas Vargas</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Aqua B</name>
+      </location>
+      <title>Always Encrypted y Row Level Security en SQL-Server 2016</title>
+      <description>Always Encrypted es una función diseñada para proteger datos confidenciales, como por ejemplo números de tarjetas de crédito. Permite a los clientes cifrar datos confidenciales dentro de las aplicaciones cliente y nunca revelar las claves de cifrado al motor de base de datos. Como resultado, Always Encrypted proporciona una separación entre aquellos que poseen los datos (y pueden verlos) y los que administran los datos (pero no deberían tener acceso).
+
+Row-Level Security permite controlar el acceso a los registros en una tabla en base a las características del usuario que ejecuta una consulta, como por ejemplo que un funcionario sólo pueda acceder los registros pertinentes a su departamento.</description>
+      <startTime>4/29/2017 11:30:00 AM</startTime>
+      <endTime>4/29/2017 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>58144</importID>
+      <speakers>
+        <speaker>
+          <id>58144</id>
+          <name>Michelle Gutzait</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Aqua B</name>
+      </location>
+      <title>Las controversias alrededor de las mejores practicas - "Best Practices" - de SQL Server en Windows</title>
+      <description>Are you looking to ensure your SQL Server and Windows environments are properly configured and optimized? Have you researched and found contradicting recommendations?
+In this session I will discuss SQL Server Configuration and Optimization Best Practice and the existing debates around some of them. For each of the debated topics, I will also explain how to choose the best configuration option for YOUR environment
+
+Como verificamos que todas las mejores practicas estan implementadas en nuestro Windows y SQL Server ambientes?
+Has estado investigando el tema y encontrando recomendaciones contradictorias?
+En esta sesion discutiremos las practicas recomendadas y algunos de los debates que existen alreadedor de estas practicas. 
+Tambien hablaremos de como elejir la mejor configuracion para tu Windows y SQL Server ambiente.</description>
+      <startTime>4/29/2017 9:00:00 AM</startTime>
+      <endTime>4/29/2017 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>61165</importID>
+      <speakers>
+        <speaker>
+          <id>61165</id>
+          <name>Kate Grass</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aqua C</name>
+      </location>
+      <title>Let’s Get Meta: an Overview of ETL Frameworks using Biml</title>
+      <description>Do you have SSIS projects that have grown unwieldy, become difficult to troubleshoot or suffer from performance issues? Or maybe you’re getting ready to start a new ETL project and want to learn more about how you can gain efficiency while adding value to your solution? 
+
+In this session we’ll discuss the concept of an ETL framework and the potential elements that can be incorporated within one. We will look at the advantages of implementing a framework based on metadata and look at some database design options for storing that metadata. 
+
+To start you off on your framework building journey, we’ll introduce Biml and BimlScript and provide some simple code demos to showcase how Biml can be used to help automate your SSIS package generation. This session will be geared for those with a beginner to intermediate knowledge of SSIS and SQL. While we won’t be teaching Biml in great detail, you’ll get an overview of the technology and pointers on where to learn more.</description>
+      <startTime>4/29/2017 10:15:00 AM</startTime>
+      <endTime>4/29/2017 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>62584</importID>
+      <speakers>
+        <speaker>
+          <id>62584</id>
+          <name>Eduardo Castro</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aqua C</name>
+      </location>
+      <title>SQL Server 2016 SSIS Catalog</title>
+      <description>El Catálogo SSIS es una características  del ecosistema de SQL Server Integration Services. Permite el almacenamiento integrado de paquetes, configuración de seguridad similar a ACL de Windows y es un elmento clave en muchas arquitecturas ETL. Con toda esta complejidad, es importante entender el funcionamiento interno del catálogo de SSIS para mantenerlo funcionando sin problemas.
+
+En esta presentación demo-pesada, nos sumergiremos en los detalles del catálogo de SSIS. Empezaremos con un rápido levantamiento de las características del catálogo, seguido de una exploración de las partes móviles (tablas, vistas y procedimientos almacenados). También revisaremos las capacidades de seguridad.</description>
+      <startTime>4/29/2017 1:30:00 PM</startTime>
+      <endTime>4/29/2017 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>57132</importID>
+      <speakers>
+        <speaker>
+          <id>57132</id>
+          <name>Keneth Murillo</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Aqua D</name>
+      </location>
+      <title>Design an Evolutionary Database</title>
+      <description>Con el surgimiento de las metodologías ágiles, han ido apareciendo prácticas como Continous Integration y Continous Deployment, las cuales se han visto fuertemente utilizadas en el desarrollo de aplicaciones, por lo tanto en la siguiente charla lo veremos desde el punto de vista de Base de Datos.</description>
+      <startTime>4/29/2017 4:00:00 PM</startTime>
+      <endTime>4/29/2017 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62547</importID>
+      <speakers>
+        <speaker>
+          <id>62547</id>
+          <name>Julián Castiblanco</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aqua C</name>
+      </location>
+      <title>Comparando algunas herramientas ETLs</title>
+      <description>En esta sesión se realizará una visión general de algunas herramientas ETLs existentes en el mercado,  su importancia en una arquitectura de  Inteligencia de negocios y su integración con herramientas de autoservicio de Inteligencia de negocios.  Entre las herramientas a revisar están: SQL Server Integration Services 2016,  Anatella, Alterix y Talend.</description>
+      <startTime>4/29/2017 9:00:00 AM</startTime>
+      <endTime>4/29/2017 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>57144</importID>
+      <speakers>
+        <speaker>
+          <id>57144</id>
+          <name>Juan Alvarado</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Aqua A</name>
+      </location>
+      <title>Lo nuevo de power BI !!</title>
+      <description>Que hay de nuevo en power bi , siempre atraves del tiempo Microsoft a actualizado mensualmente el desktop de power bi y semanalmente el servicio.  En esta sesion se podra ver lo nuevo que nos trae power BI y como aprovechar nuevas funcionalidades que traera en el Q1 del 2017 .. esperamos grandes sorpresas incluyendo ver como funcionara power bi on-premise.</description>
+      <startTime>4/29/2017 11:30:00 AM</startTime>
+      <endTime>4/29/2017 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62566</importID>
+      <speakers>
+        <speaker>
+          <id>62566</id>
+          <name>César Oviedo</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aqua D</name>
+      </location>
+      <title>Business Intelligence 100% Cloud</title>
+      <description>Con la incorporación del Azure Analysis Services al suite de herramientas para creación de Business Intelligence. Microsoft está abriendo el camino a una nueva visión, plataformas de Inteligencia de Negocios 100% basadas en la nube.
+
+En esta sessión discutiremos desafios, adelantos y pendientes de lo que implica una implementación de este tipo.</description>
+      <startTime>4/29/2017 1:30:00 PM</startTime>
+      <endTime>4/29/2017 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>57188</importID>
+      <speakers>
+        <speaker>
+          <id>57188</id>
+          <name>Adrian Miranda</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Aqua D</name>
+      </location>
+      <title>Disaster Recovery Solution utlizando Microsoft Azure</title>
+      <description>Mediante una sesión 95% práctica, diseñaremos e implementaremos una solución de desastre y recuperación como parte de una plan de Continuidad de Negocio que permita a una compañía sobrevivir a una interrupción de sus servicios utilizando Microsoft Azure.</description>
+      <startTime>4/29/2017 2:45:00 PM</startTime>
+      <endTime>4/29/2017 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62583</importID>
+      <speakers>
+        <speaker>
+          <id>62583</id>
+          <name>Jose L. Rivera</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aqua A</name>
+      </location>
+      <title>Transformando datos con R y dplyr</title>
+      <description>Con el creciente uso de R para realizar análisis de datos y visualizaciones, se nos presenta una barrera de que nuestros datos no están en el estado óptimo para extraer información de los mismos y necesitamos limpiarlos o transformarlos. En esta sesión discutiremos como podemos utilizar Microsoft R y la librería dplyr para realizar procesos que típicamente atacaríamos con ETL u otras procesos de transformación para limpiar o transformar nuestra data.</description>
+      <startTime>4/29/2017 2:45:00 PM</startTime>
+      <endTime>4/29/2017 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>57092</importID>
+      <speakers>
+        <speaker>
+          <id>57092</id>
+          <name>Alejandro Cordero</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Aqua A</name>
+      </location>
+      <title>FULL DEMO - Primeros Pasos con Power BI Desktop</title>
+      <description>Esta es la sesión para aprender que es Power BI, como instalarlo, configurarlo y hacer las primeras visualizaciones. Será un demo completo prácticamente sin presentación de power point (demo 90%, PPT 10%)</description>
+      <startTime>4/29/2017 9:00:00 AM</startTime>
+      <endTime>4/29/2017 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>62779</importID>
+      <speakers>
+        <speaker>
+          <id>62779</id>
+          <name>Jesus Gil</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aqua D</name>
+      </location>
+      <title>De Linux a tu BI - No Slides Full Demos</title>
+      <description>Eres un DBA y hoy tienes que instalar SQL en Linux, posteriormente extraer de la base de datos la información para crear tu BI, por ultimo mostrar la información con PowerBI
+Si quieres saber ¿cómo hacerlo? acompañanos a Juan Alvarado y un servidor Jesus Gil a esta charla, donde haremos todos estos pasos.
+Sin slides, solo demos, demos y más demos...</description>
+      <startTime>4/29/2017 9:00:00 AM</startTime>
+      <endTime>4/29/2017 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>57022</importID>
+      <speakers>
+        <speaker>
+          <id>57022</id>
+          <name>Stephan Torres</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Aqua B</name>
+      </location>
+      <title>Como ser victima de un cyberataque y poder contar la historia</title>
+      <description>Todos estamos expuestos a distintos tipos de riesgos informáticos, cada vez más servicios son críticos y mantener nuestra operación "en línea" es crucial.
+En esta charla abordaremos los aspectos más relevantes de cómo asegurar nuestros servidores de base de datos en Windows y Linux, además de cómo establecer estrategias de mitigación y recuperación en caso de ser víctima de un ciberataque.
+Además, hablaremos un poco de estructuras de datos inmutables o persistentes, estilo blockchain.</description>
+      <startTime>4/29/2017 10:15:00 AM</startTime>
+      <endTime>4/29/2017 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>62766</importID>
+      <speakers>
+        <speaker>
+          <id>62766</id>
+          <name>Ahias Portillo</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Aqua C</name>
+      </location>
+      <title>Optimize your Datawarehouse with Column Store Index</title>
+      <description>In this session we will see how columnar indexes work, we will analyze some scenarios with common querys that we perform in our Datawarehouse and how our execution plans behave with and without columnar indexes.</description>
+      <startTime>4/29/2017 4:00:00 PM</startTime>
+      <endTime>4/29/2017 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62629</importID>
+      <speakers>
+        <speaker>
+          <id>62629</id>
+          <name>Víctor Zúñiga</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aqua D</name>
+      </location>
+      <title>Cubos tabulares en SSAS 2016</title>
+      <description>Se creará un cubo tabular y se verán algunos aspectos tales como:
+- Consideraciones de Diseño vs un cubo multidimensional
+- Orígenes de Datos
+- Creación del cubo tabular
+- Manejo de Jerarquías
+- Creación de Particiones
+- Manejo de Roles
+- Medidas calculadas con DAX</description>
+      <startTime>4/29/2017 10:15:00 AM</startTime>
+      <endTime>4/29/2017 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>63362</importID>
+      <speakers>
+        <speaker>
+          <id>63362</id>
+          <name>Yanitza Campos</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Aqua B</name>
+      </location>
+      <title>Introduccion a SQL Power Shell</title>
+      <description>En esta sesión veremos lo que es SQL Power Shell , sus ventajas, en que se puede utilizar  y como construir scripts para ejecuciones de Transact-SQL y SSIS .</description>
+      <startTime>4/29/2017 2:45:00 PM</startTime>
+      <endTime>4/29/2017 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62519</importID>
+      <speakers>
+        <speaker>
+          <id>62519</id>
+          <name>Javier Loria</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aqua C</name>
+      </location>
+      <title>Trucos de T-SQL que deberias estar usando en tu Datawarehouse</title>
+      <description>Si eres un desarrollador de soluciones inteligencia de negocios y piensas que hay algunos trucos de T-SQL que podrían ayudarte a hacer un mejor trabajo, ¡esta sesión podría ayudarte! En ella vamos a revisar algunas tretas que ayudan al desempeño, la programabilidad y manejabilidad de soluciones en ambientes de Bodegas de Datos (Data Warehouse). 
+Más específicamente cubriremos temas variados que incluyen desde configuración de la base de datos (durabilidad de las transacciones), habilidades del motor relacional (compresión de datos), operadores de lenguaje (APPLY) y patrones que usan valores HASH para detectar cambios.</description>
+      <startTime>4/29/2017 11:30:00 AM</startTime>
+      <endTime>4/29/2017 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62521</importID>
+      <speakers>
+        <speaker>
+          <id>62521</id>
+          <name>Christian Melendez</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Aqua D</name>
+      </location>
+      <title>MSSQL 2016 con Docker para agilizar el desarrollo de software</title>
+      <description>Nunca antes te imaginaste levantar un servidor de SQL Server en minutos, mucho menos instalarlo en Windows, Linux o Mac. Docker te da esa facilidad y combinado con SQL ahora tienes la opcion de experimentar tus scripts, migraciones, replicaciones, etc. pero sobre todo tener un ambiente parecido a produccion para los desarrolladoras, sin el miedo de afectar el servidor y tener que volver a instalar de nuevo.</description>
+      <startTime>4/29/2017 11:30:00 AM</startTime>
+      <endTime>4/29/2017 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62585</importID>
+      <speakers>
+        <speaker>
+          <id>62585</id>
+          <name>Kenneth Urena</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Aqua B</name>
+      </location>
+      <title>Mejoras en desempeño de SQL Server con SQL Sentinel</title>
+      <description>Si alguna vez a notado que el desempeño de su base de datos comienza a degradarse paulatinamente, le invito a que venga a para que veamos el porque de la degradacion de la misma, y el como mejorarlo mediante la defragmentacion predictiva de SQL Sentinel.</description>
+      <startTime>4/29/2017 1:30:00 PM</startTime>
+      <endTime>4/29/2017 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>57613</importID>
+      <speakers>
+        <speaker>
+          <id>57613</id>
+          <name>David Sánchez Aguilar</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Aqua B</name>
+      </location>
+      <title>DevOps y SQL Server (Visual Studio y Redgate)</title>
+      <description>En esta sesión les mostraré como integrar proyectos de Bases de Datos en procesos ágiles con Visual Studio para lograr trazabilidad en los controles de cambios de las bases de datos, vamos a ver como podemos tener mayor calidad y control en las implementaciones que hacemos en diferentes ambientes incluido producción.</description>
+      <startTime>4/29/2017 4:00:00 PM</startTime>
+      <endTime>4/29/2017 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>57849</importID>
+      <speakers>
+        <speaker>
+          <id>57849</id>
+          <name>Carlos A. Ulate Hernandez</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aqua C</name>
+      </location>
+      <title>Novedades en SQL Server 2016 Integration Services</title>
+      <description>En esta sesión vamos mostrar las nuevas funcionalidades que se incluyeron en SSIS para la reciente version de SQL Server 2016.</description>
+      <startTime>4/29/2017 2:45:00 PM</startTime>
+      <endTime>4/29/2017 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>63102</importID>
+      <speakers>
+        <speaker>
+          <id>63102</id>
+          <name>Jorge García</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aqua A</name>
+      </location>
+      <title>Ahora me ves... Ahora no me ves... Seguridad dinámica SSAS</title>
+      <description>En esta sesión aprenderemos como crear y configurar en Olap seguridad dinámica desde la creación de usuarios, carga, mdx y proactive caching.</description>
+      <startTime>4/29/2017 4:00:00 PM</startTime>
+      <endTime>4/29/2017 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>61517</importID>
+      <speakers>
+        <speaker>
+          <id>61517</id>
+          <name>Patricio Cofre</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Aqua A</name>
+      </location>
+      <title>Creación de un Modelo Predictivo de Healthcare en Azure Machine Learning</title>
+      <description>Los modelos de salud son una muy interesante área de aplicación del advanced analytics dado su impacto en la mejora de nuestras sociedades. Azure Machine Learning ofrece una excelente alternativa para este sector dado que no se requiere de hardware ni software para comenzar a aprovecharlo, además de tener amplias capacidades para conectarse con fuentes públicas de datos, muy útiles en modelos de healthcare como son la contaminación, hacinamiento, temperaturas, precipitaciones, etc.</description>
+      <startTime>4/29/2017 10:15:00 AM</startTime>
+      <endTime>4/29/2017 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>57586</importID>
+      <speakers>
+        <speaker>
+          <id>57586</id>
+          <name>Marco Tulio Gómez Reyes</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Aqua A</name>
+      </location>
+      <title>Introducción a Mobile Reports</title>
+      <description>Uno de los cambios más grandes en SQL Server 2016 son los Mobile Reports en SQL Server Reporting Services, esta charla tiene como objetivo orientar a quienes quieren aprovechar esta nueva funcionalidad  trasladándoles conocimientos básicos para iniciar con los Mobile Reports</description>
+      <startTime>4/29/2017 1:30:00 PM</startTime>
+      <endTime>4/29/2017 2:30:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

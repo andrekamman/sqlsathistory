@@ -1,0 +1,23 @@
+# SQLSaturday #205 - Puerto Rico 2013
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Jack Corbett|Track 2|[An Introduction to Extended Events](11852.md)
+00:00:00|David Dye|Track 3|[Dealing With Errors in SSIS 2012](12926.md)
+00:00:00|David Dye|Track 2|[Whats New in T-SQL With SQL Server 2012](12927.md)
+00:00:00|Eddie Wuerch|Track 4|[TempDB Performance Troubleshooting and Optimizing](14100.md)
+00:00:00|Eddie Wuerch|Track 2|[Partitioning for Perf and Mgmt of Large Tables](14101.md)
+00:00:00|Guillermo Caicedo Santiago|Track 2|[Power View  Reporting Enhancements in SQL Server ](14853.md)
+00:00:00|Guillermo Caicedo Santiago|Track 4|[SQL Server Data Tools, What can you do for me?](14854.md)
+00:00:00|Jeffrey Garbus|Track 4|[Indexing for performance](16309.md)
+00:00:00|Jeffrey Garbus|Track 1|[How to be a GREAT DBA](16312.md)
+00:00:00|Jose L. Rivera|Track 1|[Upgrade your TSQL to the NEXT level](16959.md)
+00:00:00|Jose L. Rivera|Track 3|[Stay ahead with Change Data Capture](16961.md)
+00:00:00|Jorge Sanchez|Track 4|[SQL Server Performance Troubleshooting for the DBA](17627.md)
+00:00:00|Jorge Sanchez|Track 3|[SQL Server High Availability  Disaster Recovery](17628.md)
+00:00:00|Juan Soto|Track 3|[MS Access with SQL Server Strategies and Tips](17656.md)
+00:00:00|Ramon Ponte|Track 1|[SQL Server Deployment Options](22443.md)
+00:00:00|William E Pearson III|Track 1|[Getting Started with MDX: The (Very) Basics](28078.md)
+00:00:00|William E Pearson III|Track 4|[Serene Velocity: Reporting Services and SSAS Data](28080.md)
+00:00:00|Alan Koo|Track 3|[Predictive Analytics using SQL Analysis Services 2012](9181.md)
+00:00:00|Alan Koo|Track 1|[Tasting the Analysis Services 2012 Flavors](9182.md)
+00:00:00|Andreina Rizo|Track 2|[DW Design Tips Slowly Changing Dimensions](9461.md)

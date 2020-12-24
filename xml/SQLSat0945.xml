@@ -1,0 +1,112 @@
+<GuidebookXML>
+  <sponsors>
+    <sponsor>
+      <importID>1405</importID>
+      <name>COZYROC</name>
+      <label>Premium Sponsor</label>
+      <url>http://bit.ly/cozyrocssis</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/945/EventSponsor_14716.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1817</importID>
+      <name>SentryOne</name>
+      <label>Premium Sponsor</label>
+      <url>https://www.sentryone.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/945/EventSponsor_14406.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2141</importID>
+      <name>Dallas DBAs</name>
+      <label>Premium Sponsor</label>
+      <url>http://www.dallasdbas.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/945/EventSponsor_14294.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>7</importID>
+      <name>SIOS Technology</name>
+      <label>Premium Sponsor</label>
+      <url>http://us.sios.com/company/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/945/EventSponsor_14475.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1617</importID>
+      <name>VMWare</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.vmware.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/945/EventSponsor_14461.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>84</importID>
+      <name>Pure Storage</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.purestorage.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/945/EventSponsor_14396.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1988</importID>
+      <name>Rubrik</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.rubrik.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/945/EventSponsor_14614.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Silver Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/945/EventSponsor_14523.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>3</importID>
+      <name>Idera</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.idera.com/Content/Home.aspx</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/945/EventSponsor_14390.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1495</importID>
+      <name>MinionWare, LLC</name>
+      <label>Silver Sponsor</label>
+      <url>http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/945/EventSponsor_14683.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2641</importID>
+      <name>ZAP</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.zapbi.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/945/EventSponsor_14706.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/945/EventSponsor_14332.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

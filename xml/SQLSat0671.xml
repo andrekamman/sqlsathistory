@@ -1,0 +1,151 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #671 - Bangladesh 2017</name>
+    <startDate>11/25/2017 12:00:00 AM</startDate>
+    <attendeeEstimate>120</attendeeEstimate>
+    <timezone>
+    </timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatBangladesh</twitterHashtag>
+    <venue>
+      <name>Microsoft Bangladesh</name>
+      <street>Laila Tower, 4th Floor, 8 Gulshan Avenue, Gulshan-1</street>
+      <city>Dhaka</city>
+      <state>Dhaka, Bangladesh</state>
+      <zipcode>1212</zipcode>
+      <longitude>90.4160949</longitude>
+      <latitude>23.7771775</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>70170</importID>
+      <name>Md. Sultan-E-Alam Khan</name>
+      <label>
+      </label>
+      <description>A DevOps Manager and a software solution architect with unmediated experience in digital transformation for enterprises. Being a PMP having practical knowledge of managing projects which is intensified by the knowledge of cutting edge software development technologies. Having more than fifteen years of experience in global software development in different domain like banking and financial sector, ERP, defense, e-governance and stock exchange.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/md-sultan-e-alam-khan-pmp-75b78ab</linkedin>
+      <ContactURL>https://sultanealam.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69471</importID>
+      <name>Rahul Biswas</name>
+      <label>
+      </label>
+      <description>9+ years’ experience in Database design, Development, Migration on SQL Server 2000/2005/2008/2008 R2/2012.
+Hands on experience in creating, maintaining and tuning database objects like Tables, Views, Stored Procedures, User Defined Functions and System Functions using SQL Server, T-SQL and PL/SQL.
+Experience in Replication – Snapshot, Merge and Transactional on basis of business specifications. 
+Experience in creating Jobs, Alerts, SQL Mail Agent and SSIS Packages.
+Good experience with Analysis Services (SSAS), Reporting Services (SSRS) and Integration Services (SSIS) in SQL Server 2008.
+Expertise in developing Parameterized, Chart, Graph, Linked, Drill-down, and Drill-through And Cascading reports using SSRS.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://linkedin.com/in/rahul-biswas-77215130</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>65517</importID>
+      <name>Saifullah Al Azad</name>
+      <label>
+      </label>
+      <description>Hi,
+I am azad from bangladesh. I provided speach about iis architecture, sql server, oop, c# advance programming etc under a community group in bangladesh named techforum user group. You can get our information from https://www.facebook.com/techforum.usergroup?fref=ts</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/saifullah-azad-7a860469</linkedin>
+      <ContactURL>www.dotnetbd.wordpress.com; https://social.technet.microsoft.com/Profile/md.%20saifullah%20al%20azad/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69388</importID>
+      <name>Ahsan Kabir</name>
+      <label>
+      </label>
+      <description>Ahsan Kabir is now working as software development project manager from last few years. He has started carrier as Software Engineer. He has more than twelve years of experience of working on large enterprise Application project i.e. Banking Solution, ERP solution. He has worked every phase of SDLC. Beside that he contributed his experience and skill on different professional forum and Microsoft technical community as technical speaker .He writes article on blog and assist other technical people providing problem solving answer through different forum. He is rewarded as MVP Awarded by Microsoft. He is the PASS chapter leader of Bangladesh-quot;techforum PASSquot;. Ahsan is very active in the developer community and volunteers his time for</description>
+      <twitter>ahsan_kabir_</twitter>
+      <linkedin>https://www.linkedin.com/in/Ahsan-Kabir-</linkedin>
+      <ContactURL>https://techforumbd.github.io/techforum/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ahsan_kabir_</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70357</importID>
+      <name>Asif Ahmed</name>
+      <label>
+      </label>
+      <description>I am asif ahmed from Bangladesh  working in a software company as a software engineer</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70171</importID>
+      <name>Zularbine Kamal</name>
+      <label>
+      </label>
+      <description>15 years of experience in different field of software development cycle from development to testing to the DevOps. He is technical community leader, speaker, and writer. His is working with Azure cloud for last 3 years. His company Ardites Bangladesh Ltd is Microsoft BizSpark member which allows him to work closely in Azure platform.</description>
+      <twitter>https://twitter.com/zularbine</twitter>
+      <linkedin>https://bd.linkedin.com/in/zularbine-kamal-7574222</linkedin>
+      <ContactURL>http://www.zularbine.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/zularbine</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70703</importID>
+      <name>Sajid Wasim</name>
+      <label>
+      </label>
+      <description>Can translate Business Objectives into technology. 
+Banking Technology : 7+ Years 
+Technology Vendor : 10 Years 
+
+Experience in various applications areas like Financial  Brokerage, Data warehousing, Production Planning  Control, Personnel  Administration and Contractors  Supplier Information System and Business Intelligent.</description>
+      <twitter>sajidwasim</twitter>
+      <linkedin>http://www.linkedin.com/in/SajidWasim</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sajidwasim</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+</GuidebookXML>

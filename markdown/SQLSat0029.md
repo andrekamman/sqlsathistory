@@ -1,0 +1,23 @@
+# SQLSaturday #29 - Birmingham 2010
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Aaron Nelson|SQL Development|[PowerShell for Data Professionals ](28387.md)
+00:00:00|Aaron Nelson|Database Administration 2|[Virtualize This!](28388.md)
+00:00:00|Robert Cain|Business Intelligence|[PowerPivot for Excel and SharePoint 2010](28748.md)
+00:00:00|Robert Cain|Business Intelligence|[Introduction to SQL Server Integration Services](28750.md)
+00:00:00|Barry Ralston|Business Intelligence|[Introduction to MDX for SQL Programmers](29196.md)
+00:00:00|Louis Davidson|Database Administration|[Database Design Fundamentals](29996.md)
+00:00:00|Louis Davidson|Database Administration|[Database Design Patterns](29997.md)
+00:00:00|Janis Griffin|Database Administration|[Tuna Helper for SQL Server DBA's](30435.md)
+00:00:00|Jim Wooley|Database Administration 2|[LINQ Kinq for the DBA Guy](30852.md)
+00:00:00|Joe Webb|SQL Development|[SQL Server Locking  Blocking Made Simple](30910.md)
+00:00:00|Joe Webb|SQL Development|[Tips  Tricks for Writing Better Queries](30911.md)
+00:00:00|Kevin Grohoske|Business Intelligence|[Location Aware Applications Using SQL Server 2008 ](31328.md)
+00:00:00|Rodney Landrum|Database Administration 2|[DBA Repository Update 2010 Using SSRS and SSIS. ](32616.md)
+00:00:00|Geoff Hiten|Database Administration|[Clustering for Mere Mortals.](33036.md)
+00:00:00|Geoff Hiten|Database Administration|[Scale-Out the DBA.](33038.md)
+00:00:00|Sven Aelterman|SQL Development|[FILESTREAM in Depth](33279.md)
+00:00:00|Sven Aelterman|SQL Development|[FILESTREAM in Breadth](33280.md)
+00:00:00|Kevin Boles|Database Administration 2|[SQL Server Memory Deep Dive](33499.md)
+00:00:00|Kevin Boles|Database Administration 2|[Parallel Query Execution Deep Dive](33500.md)
+00:00:00|Vincent Mayfield|Business Intelligence|[ASP.NET for the Enterprise with NLB and Clustering](33839.md)

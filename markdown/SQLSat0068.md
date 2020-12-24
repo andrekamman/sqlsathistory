@@ -1,0 +1,21 @@
+# SQLSaturday #68 - Olympia 2011
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Arie Jones|151|[Managing Sparse Resources with Resource Governor](28841.md)
+00:00:00|Arie Jones|252|[Monitoring Data Changes with Change Data Capture ](28842.md)
+00:00:00|Buck Woody|252|[Cloud computing for the Data Professional](29354.md)
+00:00:00|Robert Davis|352|[Strategies for Working with VLDBs](29463.md)
+00:00:00|Diane Robey|351|[Get the most out of SQL Server Standard Edition](29983.md)
+00:00:00|Dale Cunningham|351|[Solving Real Life Production Issues](30194.md)
+00:00:00|Greg Larsen|252|[Through the Looking-Glass ](30287.md)
+00:00:00|Hope Foley|151|[Self Service BI in SQL Server 2008 R2 (PowerPivot)](30326.md)
+00:00:00|Rick Morelan|352|[Basic Performance Tips and Gotchas](30367.md)
+00:00:00|John Halunen  Aubra Moore|252|[Load-balancing architectures for Online Reporting ](30920.md)
+00:00:00|Nicholas Cain|351|[Powershell: Are you checking out my profile?](32072.md)
+00:00:00|Paul Turley|151|[Visual Report Design: Bringing Sexy Back](32172.md)
+00:00:00|Ron Talmage|352|[A DBA Looks at Relational Data Warehouses](32681.md)
+00:00:00|Scott Stauffer|352|[SSIS for the faint of heart](32812.md)
+00:00:00|Sopheap Suy|351|[Women in Technology](32973.md)
+00:00:00|Chuck Lathrope|252|[Inside and out of Transactional Replication](33041.md)
+00:00:00|Toshi Watanabe|151|[Row Level Security and SQL-CLR integration](33775.md)
+00:00:00|John Huang|352|[Query Plans](34682.md)

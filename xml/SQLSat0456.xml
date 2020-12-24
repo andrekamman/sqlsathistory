@@ -1,0 +1,251 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #456 - Auckland 2015</name>
+    <startDate>10/3/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>120</attendeeEstimate>
+    <timezone>(GMT+12:00) Fiji, Kamchatka, Marshall Is</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat456</twitterHashtag>
+    <venue>
+      <name>Auckland University of Technology</name>
+      <street>AUT International House Auckland, Wakefield St, Auckland </street>
+      <city>Auckland</city>
+      <state>Auckland, New Zealand</state>
+      <zipcode>1010</zipcode>
+      <longitude>174.7657776</longitude>
+      <latitude>-36.8557281</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1551</importID>
+      <name>RADACAD</name>
+      <label>Gold Sponsor</label>
+      <url>http://radacad.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/982/EventSponsor_14808.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1255</importID>
+      <name>Varigence Australia</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.varigence.com.au</url>
+      <imageURL>https://www.nz-bi.com/wp-content/uploads/2015/09/Varigence-Logo-Orange-Biml.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>89</importID>
+      <name>Profisee</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.profisee.com</url>
+      <imageURL>https://www.profisee.com/Portals/0/lp/assets/img/logo_profisee.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1544</importID>
+      <name>Mettle Consulting Ltd</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.mettle.net.nz</url>
+      <imageURL>https://www.nz-bi.com/wp-content/uploads/2015/09/mettle.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>39807</importID>
+      <name>Leila Etaati</name>
+      <label>
+      </label>
+      <description>Leila Etaati is the First Microsoft AI MVP in New Zealand and Australia, as well as a Data Platform MVP. She has a Ph.D. from the University of Auckland and is the co-director and data scientist in RADACAD company with many clients around the world. Additionally, she is the co-organizer of Microsoft Business Intelligence and Power BI Use group in Auckland with more than 1300 members. Leila has also co-organized 3 main conferences in Auckland: SQL Saturday Auckland (from 2015), Difinity (from 2017) and Global AI Bootcamp. She is a data scientist, BI consultant, trainer, and speaker. She is a well-known International speaker to many conferences such as MS Ignite, SQL PASS, Data Platform Summit, SQL Saturday, Power BI World Tour and in Europe, USA, Asia, Australia, and NZ. She has over 10 years’ experience with databases and software systems. Leila is an active Technical Microsoft AI blogger in RADACAD.</description>
+      <twitter>@leila_etaati</twitter>
+      <linkedin>https://nz.linkedin.com/pub/leila-etaati/36/46/b03</linkedin>
+      <ContactURL>http://blog.radacad.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@leila_etaati</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>39797</importID>
+      <name>Reza Rad</name>
+      <label>
+      </label>
+      <description>Reza Rad is a Microsoft Regional Director, MVP, author, trainer, speaker and consultant. He is a Microsoft Data Platform MVP for nine years from 2011.
+Reza wrote many books on Power BI subjects including the Power BI from Rookie to Rock Star, and Pro Power BI Architecture.
+Reza is the invited speaker at the world's well-known conferences such as Microsoft Ignite, Microsoft Business Applications Summit, Ignite Tour, PASS Summit, and many other conferences.
+Reza is an active blogger and writes regularly about Power BI at https://radacad.com.</description>
+      <twitter>Rad_Reza</twitter>
+      <linkedin>http://nz.linkedin.com/in/rezarad/</linkedin>
+      <ContactURL>http://radacad.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Rad_Reza</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40163</importID>
+      <name>Dave Dustin</name>
+      <label>
+      </label>
+      <description>With more than 35 years industry experience, Dave has worked with organisations and data systems of all sizes. He is currently Principal Engineer at Xero.</description>
+      <twitter>venzann</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=venzann</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40295</importID>
+      <name>Martin Catherall</name>
+      <label>
+      </label>
+      <description>Martin is a data consultant in Melbourne, Australia, a Microsoft Data Platform MVP, and PASS Regional Mentor for the Asia Pacific (APAC) region.
+Martin founded the Christchurch, New Zealand PASS Local Group and lead the group for a number of years before relocating to Melbourne.
+He has been using SQL Server in various roles since 2000. In addition to anything data related, he enjoys playing the guitar and having fun with his family.</description>
+      <twitter>MartyCatherall</twitter>
+      <linkedin>https://www.linkedin.com/in/martincatherall</linkedin>
+      <ContactURL>http://martincatherall.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MartyCatherall</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38049</importID>
+      <name>Warwick Rudd</name>
+      <label>
+      </label>
+      <description>Warwick Rudd is a Data Platform MVP, Microsoft Certified Master, Founder and Principal Consultant at SQL Master Consulting. With 20+ years of experience beginning with the release of SQL Server 6.5, he has worked in both Australia and England from small start-ups to Multi-National Corporations. He hosts the PASS DBA Fundamentals Downunder Virtual Chapter, Organises the PASS SQL Saturday Brisbane event and has spoken at many SQL Server User Groups  SQL Saturday events globally. When not playing with the SQL stack, Warwick likes to get away to the cold and spend time snowboarding.</description>
+      <twitter>warwick_Rudd</twitter>
+      <linkedin>http://au.linkedin.com/pub/warwick-rudd/0/956/718</linkedin>
+      <ContactURL>http://www.sqlmastersconsulting.com.au/Blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=warwick_Rudd</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37918</importID>
+      <name>Aben Samuel</name>
+      <label>
+      </label>
+      <description>Established track record with over 9 years of experience in helping organizations to efficiently use their networks; ensuring that the design of an organization#39;s IT infrastructure allows all of the components, including computers, the network, and software, to fit together and work properly. </description>
+      <twitter>https://twitter.com/neop26</twitter>
+      <linkedin>https://nz.linkedin.com/in/abensamuel</linkedin>
+      <ContactURL>http://wellytonian.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/neop26</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>39807</importID>
+      <speakers>
+        <speaker>
+          <id>39807</id>
+          <name>Leila Etaati</name>
+        </speaker>
+      </speakers>
+      <track>SQL Saturday Main Track</track>
+      <location>
+        <name>SQLSat Room</name>
+      </location>
+      <title>Being Smarter with Azure Machine Learning</title>
+      <description>Machine Learning is a subfield of computer science which is so pervasive today that you probably use it dozens of times a day without knowing it. Azure Machine Learning is a valuable tool that can be employed by data scientists with different skill levels. Azure ML also supports R and Python custom code, which can be dropped directly into your workspace. In this session, I will show a demo of using Azure ML with R. Audience will learn how a Microsoft Azure Machine Learning solution comes to life: From the creation of a workspace, to the preparation of data, to experimentation with machine learning algorithms, choose the right algorithm, and then finally to the integration of predictive insights. </description>
+      <startTime>10/3/2015 10:00:00 AM</startTime>
+      <endTime>10/3/2015 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>39797</importID>
+      <speakers>
+        <speaker>
+          <id>39797</id>
+          <name>Reza Rad</name>
+        </speaker>
+      </speakers>
+      <track>SQL Saturday Main Track</track>
+      <location>
+        <name>SQLSat Room</name>
+      </location>
+      <title>Power BI; Amazing Things You Can Do</title>
+      <description>Power Query, Power View, and Power Pivot has been in the BI market for a while. Microsoft combined these three products into a single product and service with a new designer called Power BI Desktop (Power BI Designer). Power BI gathered features of these three products all in one, so building dashboards and effective visualization items with this tool is much easier nowadays. In this session you will learn all new and great features of Power BI. You will learn how to work with different data source, and apply Power Query transformation on them. You will learn tricks and tips of modelling with Power BI Desktop, and then how to visualize effectively with this tool. You will also learn how to build dashboards on Power BI website. At the end of this session you will be able to use Power BI for your everyday data analysis as well as organizational data mash up and visualization. So expect lots of demos in this session.</description>
+      <startTime>10/3/2015 3:30:00 PM</startTime>
+      <endTime>10/3/2015 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40295</importID>
+      <speakers>
+        <speaker>
+          <id>40295</id>
+          <name>Martin Catherall</name>
+        </speaker>
+      </speakers>
+      <track>SQL Saturday Main Track</track>
+      <location>
+        <name>SQLSat Room</name>
+      </location>
+      <title>SQL Developer Tips and Tricks</title>
+      <description>Martin has seen life from a few different sides of the database environment. Often the world of TSQL and DBA are seen from vastly different viewpoints – but it doesn’t have to be this way. Join Martin to find out some ways that these two groups can enhance each other’s life and work as efficiently as possible. We’ll examine a range of tip during this presentation that most SQL professionals should get value from.</description>
+      <startTime>10/3/2015 1:00:00 PM</startTime>
+      <endTime>10/3/2015 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40163</importID>
+      <speakers>
+        <speaker>
+          <id>40163</id>
+          <name>Dave Dustin</name>
+        </speaker>
+      </speakers>
+      <track>SQL Saturday Main Track</track>
+      <location>
+        <name>SQLSat Room</name>
+      </location>
+      <title>Myths and misconceptions</title>
+      <description>There are a great many theories, anti-patterns and just plain wrong ideas that people (mostly Devs, but including DBAs) believe about SQL Server. Yes, it’s enterprise ready. No, it doesn’t magically tune/tweak itself (it needs some lovin’ from time to time (just nowhere near as much as Oracle)). We’re going to look into debunking some of these falsehoods.</description>
+      <startTime>10/3/2015 2:00:00 PM</startTime>
+      <endTime>10/3/2015 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>37918</importID>
+      <speakers>
+        <speaker>
+          <id>37918</id>
+          <name>Aben Samuel</name>
+        </speaker>
+      </speakers>
+      <track>SQL Saturday Main Track</track>
+      <location>
+        <name>2</name>
+      </location>
+      <title>Deep dive into Running SQL Platform on Azure IAAS</title>
+      <description>In this deep dive session, we dig in on SQL Server VM troubleshooting, best practices and configurations across multiple scenarios.In this demo packed session learn about Performance Tuning, end to end High Availability and Disaster Recovery and look at some of the Hybrid Scenarios and Features.</description>
+      <startTime>10/3/2015 1:00:00 PM</startTime>
+      <endTime>10/3/2015 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>38049</importID>
+      <speakers>
+        <speaker>
+          <id>38049</id>
+          <name>Warwick Rudd</name>
+        </speaker>
+      </speakers>
+      <track>SQL Saturday Main Track</track>
+      <location>
+        <name>SQLSat Room</name>
+      </location>
+      <title>Mission Critical SQL Server and You</title>
+      <description>Mission Critical systems require High Availability, High Performance  High Security of the data, which is the most important part of your company. Could you survive if your environment did not have these? 
+
+In this session I will look at the options available to you to meet your High Availability, High Performance  High Security requirements using some of the new and enhanced features being released in SQL Server 2016 to build better mission critical environments.
+</description>
+      <startTime>10/3/2015 11:00:00 AM</startTime>
+      <endTime>10/3/2015 12:00:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

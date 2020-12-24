@@ -1,0 +1,631 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #90 - Oklahoma City 2011</name>
+    <startDate>8/27/2011 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat90</twitterHashtag>
+    <venue>
+      <name>Moore/Norman Technology Center South Penn Campus</name>
+      <street>13301 South Pennsylvania Avenue</street>
+      <city>Oklahoma City</city>
+      <state>Oklahoma</state>
+      <zipcode>73170</zipcode>
+      <longitude>-97.5476631</longitude>
+      <latitude>35.3360901</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>528</importID>
+      <name>Consulting Services, Inc.</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.csioklahoma.com/</url>
+      <imageURL>https://www.csioklahoma.com/userfiles/csi_image001.GIF</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>851</importID>
+      <name>HP - Microsoft Alliance</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/sqlserver/en/us/solutions-technologies/hp-partnership.aspx</url>
+      <imageURL>https://byfiles.storage.live.com/y1p3hZm-fNC9IULoCNdrUw96Co89phnmg7oFECNS31wVSGw3rqRxi1NqGX7oa63GeRPn65rqd7vV_E/hp-ms_alliance.png?psid=1</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>3</importID>
+      <name>Idera</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.idera.com/Content/Home.aspx</url>
+      <imageURL>https://www.sqlsaturday.com/images/SQLSaturday/eventsponsors/IDERA170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>5</importID>
+      <name>Quest Software</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/947/EventSponsor_14722.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>5</importID>
+      <name>Quest Software</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/947/EventSponsor_14722.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1026</importID>
+      <name>Stonebridge</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.sbti.com/</url>
+      <imageURL>https://www.sbti.com/wp-content/uploads/2014/06/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>45</importID>
+      <name>Cozy Roc</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.cozyroc.com</url>
+      <imageURL>https://www.cozyroc.com/sites/default/files/down/cozyroc-big.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1</importID>
+      <name>Confio</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.confio.com</url>
+      <imageURL>https://www.pass.org/images/resized-confio_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>44</importID>
+      <name>Morgan Kaufmann</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/</url>
+      <imageURL>
+      </imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>20</importID>
+      <name>O'Reilly Books</name>
+      <label>Swag Sponsor</label>
+      <url>http://oreilly.com/</url>
+      <imageURL>https://oreilly.com/images/oreilly/oreilly.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>32738</importID>
+      <name>Ryan Adams</name>
+      <label>
+      </label>
+      <description>Ryan Adams is a Senior Premier Field Engineer for Microsoft.  He works directly with customers to help them realize their business potential and accelerate their digital transformation on premises and in the cloud.
+
+Previously, Ryan was a Microsoft Data Platform MVP and spent 19 years working for a fortune 100 company.  His passion is the SQL Server Engine, High Availability, and Disaster Recovery. He also served on the Board of Directors for the North Texas SQL Server User Group, was President of the PASS Performance Virtual Chapter, was a PASS Regional Mentor, and served as a Director for the PASS organization.</description>
+      <twitter>@ryanjadams</twitter>
+      <linkedin>http://www.linkedin.com/in/ryanjadams</linkedin>
+      <ContactURL>http://www.ryanjadams.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ryanjadams</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33582</importID>
+      <name>Tim Mitchell</name>
+      <label>
+      </label>
+      <description>Tim Mitchell is a business intelligence architect, author, and trainer. He has worked with SQL Server for over a decade, specializing in data warehousing, ETL/SSIS, and reporting. He holds a Bachelor’s Degree in Computer Science from Texas AM at Commerce, and is recognized as a Microsoft Data Platform MVP.  Tim is a business intelligence consultant and principal at Tyleris Data Solutions.
+
+Tim is an active community speaker and volunteer, having spoken at over 100 events including the PASS Summit, SQLBits, Dev Connections, SQL Intersection, and scores of SQL Saturdays. He blogs at TimMitchell.net, and tweets at @Tim_Mitchell.</description>
+      <twitter>@Tim_Mitchell</twitter>
+      <linkedin>https://www.linkedin.com/in/timmitchell/</linkedin>
+      <ContactURL>http://www.TimMitchell.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Tim_Mitchell</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32855</importID>
+      <name>Sean McCown</name>
+      <label>
+      </label>
+      <description>Sean McCown is a Certified Master with 23 years of experience in databases. He is also founder and co-owner of the MidnightDBA.com website, where he records free SQL Server training videos. He also writes the popular Minion Maintenance suite, the most configurable maintenance solution on the planet.</description>
+      <twitter>@KenpoDBA</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.midnightdba.com/dbarant</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KenpoDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33583</importID>
+      <name>Tim Mitchell</name>
+      <label>
+      </label>
+      <description>Tim Mitchell is a business intelligence architect, author, and trainer. He has worked with SQL Server for over a decade, specializing in data warehousing, ETL/SSIS, and reporting. He holds a Bachelor’s Degree in Computer Science from Texas AM at Commerce, and is recognized as a Microsoft Data Platform MVP.  Tim is a business intelligence consultant and principal at Tyleris Data Solutions.
+
+Tim is an active community speaker and volunteer, having spoken at over 100 events including the PASS Summit, SQLBits, Dev Connections, SQL Intersection, and scores of SQL Saturdays. He blogs at TimMitchell.net, and tweets at @Tim_Mitchell.</description>
+      <twitter>@Tim_Mitchell</twitter>
+      <linkedin>https://www.linkedin.com/in/timmitchell/</linkedin>
+      <ContactURL>http://www.TimMitchell.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Tim_Mitchell</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28481</importID>
+      <name>Wesley Brown</name>
+      <label>
+      </label>
+      <description>Wesley Brown is a former SQL Server MVP and PASS Chapter Leader who loves to teach others about SQL Server.He maintains his technical blog at http://www.sqlserverio.com. Wes specializes in high availability, disaster recovery, and large-scale database performance tuning.</description>
+      <twitter>@sqlserverio</twitter>
+      <linkedin>http://www.linkedin.com/sqlserverio</linkedin>
+      <ContactURL>http://www.sqlserverio.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlserverio</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30244</importID>
+      <name>Greg Galloway</name>
+      <label>
+      </label>
+      <description>Greg Galloway is a BI architect with Artis Consulting in Dallas, Texas and a Microsoft Data Platform MVP. He is a coordinator on open-source projects including BI Developer Extensions (formerly BIDS Helper), the Analysis Services Stored Procedure project, and OLAP PivotTable Extensions. He was a co-author of the Analysis Services Tabular Performance Guide.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/in/furmangg/en</linkedin>
+      <ContactURL>http://www.artisconsulting.com/blogs/GregGalloway</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34125</importID>
+      <name>William E Pearson III</name>
+      <label>
+      </label>
+      <description>Bill Pearson created Island Technologies Inc. in 1997, and has developed a large and diverse customer base since. Bill#39;s background as a CPA, Internal Auditor, Management Accountant, and SQL Server MVP (BI) enables him to provide value to clients as a liaison between Accounting / Finance and Information Services. Bill has implemented enterprise business intelligence systems over the years for many Fortune 500 companies and focuses his practice upon the integrated Microsoft Business Intelligence </description>
+      <twitter>@Bill_Pearson</twitter>
+      <linkedin>https://www.linkedin.com/e/fpf/252170891</linkedin>
+      <ContactURL>https://mvp.support.microsoft.com/profile=02C5CD07-7511-4151-A678-3A4A3451F85E</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Bill_Pearson</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32689</importID>
+      <name>Russel Loski</name>
+      <label>
+      </label>
+      <description>Russ Loski is a SQL Server BI Developer based in Dallas-Fort Worth.  He current works as a Data Analytics Engineer for Navisite, a remote managed IT services company.   Twenty years ago, he began working with SQL Server 6.5. He has since continued to develop applications connected to all of the versions of SQL Server. He has worked with clients in industries from insurance to healthcare, from movie theaters to American football.  Russ is a regular speaker at SQLSaturday events, as well as the SQL Server Users Groups in the North Texas region. Russ likes working with data in various shapes.</description>
+      <twitter>sqlmovers</twitter>
+      <linkedin>http://www.linkedin.com/in/russloski</linkedin>
+      <ContactURL>http://www.sqlmovers.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlmovers</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33189</importID>
+      <name>Sri Sridharan</name>
+      <label>
+      </label>
+      <description>Sri is the President of North Texas SQL Server User Group. Sri has been involved with SQL Server since version 4.2 and has held various roles developer/dba/ architect / pre-sales over the years. He is largely responsible for some of few features in SQL 2008 like TDE and tools like MAPS. Sri holds a Bachelor's Degree in Physics , Masters in Computer Information Systems and an MBA in Finance. His wife Hema, made sure he got a 3rd Masters in parenting their 2 sons.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlrocks.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32690</importID>
+      <name>Russel Loski</name>
+      <label>
+      </label>
+      <description>Russ Loski is a SQL Server BI Developer based in Dallas-Fort Worth.  He current works as a Data Analytics Engineer for Navisite, a remote managed IT services company.   Twenty years ago, he began working with SQL Server 6.5. He has since continued to develop applications connected to all of the versions of SQL Server. He has worked with clients in industries from insurance to healthcare, from movie theaters to American football.  Russ is a regular speaker at SQLSaturday events, as well as the SQL Server Users Groups in the North Texas region. Russ likes working with data in various shapes.</description>
+      <twitter>sqlmovers</twitter>
+      <linkedin>http://www.linkedin.com/in/russloski</linkedin>
+      <ContactURL>http://www.sqlmovers.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlmovers</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29014</importID>
+      <name>Ben Miller</name>
+      <label>
+      </label>
+      <description>Ben has been a member of the SQL Server Community since 2000. He loves a challenge and has fixed many SQL Servers and helped hundreds of people get more out of their DBA jobs.  He is a Data Platform MVP a SQL Server Certified Master (MCM). He has worked at various companies throughout the USA, as well as at Microsoft for 7 years. He is passionate about SQL Server Infrastructure, High Availability, Automation and Integration using SMO and PowerShell. He teaches DBAs how to use PowerShell to do their job and teaches SQL Server Internals. He is @DBAduck all around the web (Twitter, LinkedIn, Facebook, Blog) so let's catch up.</description>
+      <twitter>DBAduck</twitter>
+      <linkedin>http://www.linkedin.com/in/dbaduck/</linkedin>
+      <ContactURL>https://dbaduck.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DBAduck</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32081</importID>
+      <name>Paul Hunter</name>
+      <label>
+      </label>
+      <description>I have no bio</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30710</importID>
+      <name>Jennifer McCown</name>
+      <label>
+      </label>
+      <description>Jen McCown is CEO of MinionWare, LLC; a Microsoft Certified Master for SQL Server; and an independent consultant. She is Senior Editor at MidnightDBA.com, where she creates training videos, the DBAs at Midnight webshow, blogs, reviews, and podcasts. Jen is a member, volunteer, and speaker in PASS, and the PASS Women in Technology Virtual Group.</description>
+      <twitter>http://www.Twitter.com/MidnightDBA</twitter>
+      <linkedin>http://www.linkedin.com/in/jennifermccown</linkedin>
+      <ContactURL>http://www.MidnightDBA.com/Jen</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://www.Twitter.com/MidnightDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32600</importID>
+      <name>Rob Vettor</name>
+      <label>
+      </label>
+      <description>Rob Vettor is a C# MVP, INETA Regional Speaker and senior .NET Technologist for OZ Software, a leading provider of Education Healthcare software. Rob has built systems for a number of corporations, including Avanade, Raytheon, American Express and Jack Henry and Associates. Rob lives in Dallas, TX, with his wife, twin sons and three dogs, and is the founder of Hands-On-Coding (http://www.hands-on-coding.net/). You can contact Rob at robvettor@hotmail.com</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29315</importID>
+      <name>Bryan Smith</name>
+      <label>
+      </label>
+      <description>Bryan is a Data Solution Specialist with Microsoft Las Colinas, focused on data-driven solutions in the Azure cloud.  He also teaches analytics technologies within the MBA amp; MSBA programs at SMU Cox School of Business.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/pub/bryan-smith/17/98b/161</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32925</importID>
+      <name>Steve Jones</name>
+      <label>
+      </label>
+      <description>Steve Jones is a Microsoft SQL Server MVP and has been working with SQL Server since version 4.2 on OS/2. After working as a DBA and developer for a variety of companies, Steve co-founded the community website SQLServerCentral.com in 2001.
+Since 2004, Steve has been the full-time editor of the site, ensuring it continues to be a great resource for SQL Server professionals. Over the last decade, Steve has written hundreds of articles about SQL Server for SQLServerCentral.com, SQL Server Standard magazine, SQL Server Magazine, and Database Journal.</description>
+      <twitter>way0utwest</twitter>
+      <linkedin>http://www.linkedin.com/in/way0utwest</linkedin>
+      <ContactURL>http://www.voiceofthedba.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=way0utwest</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>28481</importID>
+      <speakers>
+        <speaker>
+          <id>28481</id>
+          <name>Wesley Brown</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Understanding Storage Systems and SQL Server</title>
+      <description>The most important part of your SQL Server is also the slowest, Storage. This talk will take you through the fundamentals of your server's Disk I/O System. This session should give you a solid foundation over storage systems and help you understand why they are slow and how to overcome some of their limitations. We will cover the basics of computer systems, hard disks and disk controllers. Next, we will move to the fundamentals of RAID and how to configure your arrays for performance and reliability. Later, we will discuss the relationship between SQL Server and the file system, what is required for SQL Server and how to configure the file system for optimal performance. Finally, we will touch on how to monitor the performance and health of</description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30244</importID>
+      <speakers>
+        <speaker>
+          <id>30244</id>
+          <name>Greg Galloway</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Making Heads or Tails of Analysis Services Storage</title>
+      <description>How can you make your cube more real-time? How can you get more out of your enterprise data warehouse by putting Analysis Services on top of it? What’s new in Denali for Analysis Services? In this session we will take a deep dive into storage modes in Analysis Services. We’ll discuss the pros and cons of the two storage modes a Multidimensional model can use: MOLAP and ROLAP. We’ll discuss the storage modes in new Tabular models coming in the next version of Analysis Services: Vertipaq and DirectQuery. We’ll preview the new columnar index in the next version of SQL Server and discuss how it impacts Analysis Services. And we’ll discuss why one Fortune 500 company chose ROLAP and another chose MOLAP.</description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30710</importID>
+      <speakers>
+        <speaker>
+          <id>30710</id>
+          <name>Jennifer McCown</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Unraveling Tangled Code – A Spellbinding Tale</title>
+      <description>Once upon a time, you inherited an application or a database filled with chaos and inconsistencies. The T-SQL code is overly complex. The architecture is painful to behold, and grueling to code for. Query performance is “spectacularly mediocre”. If you’re without good documentation or system architects to guide you, how do you break the curse of confusion? In this session you’ll learn several methods for conquering chaotic code, and how to seek and destroy some of the nastier coding mistakes and inefficiencies. We will break complicated queries into key pieces, turn them upside-down, and reform them into something sensible. We will restructure joins, tame subqueries, and refactor dynamic SQL. We will emerge victorious!</description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32855</importID>
+      <speakers>
+        <speaker>
+          <id>32855</id>
+          <name>Sean McCown</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The Backup Tune-up</title>
+      <description>Have you ever gotten tired of your 1TB database taking 4+ hrs to backup? Are you sick of having your users breathe down your neck for 2hrs because it’s taking too long to restore a DB? Well now you don’t have to worry about that anymore. I’m going to show you some little known tricks, methods, and trace flags you can use to tune your backups just like you would a query. Backups actually have kind of an execution plan that you can access if you know how, and knowing how to get the individual portions of your backup process down will allow you to knock 80% and even more off of your backup and restore time. I’m not holding anything back in this session. This is a method I’ve used for 15yrs to tune my backups and I’ve had great success wi
+
+
+</description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33582</importID>
+      <speakers>
+        <speaker>
+          <id>33582</id>
+          <name>Tim Mitchell</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>ETL Head-to-Head: T-SQL vs. SSIS</title>
+      <description>In this session, we'll compare ETL strategies between SQL Server Integration Services and plain old T-SQL. Is one better than the other? Should I just use SSIS and skip T-SQL altogether, or vice versa? We'll address these questions and more, and will take a look at some practical examples and a few head-to-head comparisons using both tools. 
+Seesion Goals: 
+•Attendees will gain an understanding of the role of Transact-SQL as part of an ETL strategy. 
+•Attendees will gain an understanding of the logistical differences between using SSIS and Transact-SQL for ETL processing. 
+•Attendees will learn, through practical demonstration, some situations that may be better served by Transact-SQL rather than SSIS (and the reverse).  </description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33583</importID>
+      <speakers>
+        <speaker>
+          <id>33583</id>
+          <name>Tim Mitchell</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>BI Drive By: A Quick Tour of SQL Server BI</title>
+      <description>In this session, we'll take a very fast tour through the major components of SQL Server Business Intelligence (Integration Services, Analysis Services, Reporting Services).  We'll discuss the roles of each of these tools in the enterprise, briefly reviewing some practical applications of each.  This session is ideal for software developers, business principals, or other technical professionals who have had little to no exposure to the SQL Server BI stack.</description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32738</importID>
+      <speakers>
+        <speaker>
+          <id>32738</id>
+          <name>Ryan Adams</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Manage your shop with CMS and Policy Based Mgmt</title>
+      <description>In this presentation we talk about Central Management Server and how it can help you manage a disperse environment. We will also cover what Policy Based Management is and how you can leverage its power to better manage your environment. With PBM we'll see what it can and cannot do to help you enforce standards in your enterprise. We will cover and demonstrate PBM for the beginner from creating and evaluating policies to receiving alerts on policy violations.</description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34125</importID>
+      <speakers>
+        <speaker>
+          <id>34125</id>
+          <name>William E Pearson III</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Serene Velocity: Reporting Services and SSAS Data</title>
+      <description>SSRS 2008 R2 provides powerful capabilities to help us develop sophisticated reports from Microsoft SQL Server Analysis Services. Unfortunately, many of these features, such as the server aggregation function, are commonly ignored by report developers. The result: redundant work in the reporting layer. In this session, BI Architect and MVP Bill Pearson exposes ways to optimize reporting from SSAS by writing MDX that leverages, rather than replicates, what the cube is designed to do best.</description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33189</importID>
+      <speakers>
+        <speaker>
+          <id>33189</id>
+          <name>Sri Sridharan</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Governing  Your Database Environment </title>
+      <description>As we all know about SQL sprawl, it becomes cumbersome for the DBAs tostay on top of all the servers in the environment. Come to this sessionand learn about simple techniques can help DBA stay on top of thegrowing SQL environment.</description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32689</importID>
+      <speakers>
+        <speaker>
+          <id>32689</id>
+          <name>Russel Loski</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>How to use the XML Datasource in SSIS</title>
+      <description>XML is a convenient method for transferring data from system to system.  SQL Server SSIS provides the XML Datasource to import this data into SQL Server.  In this session we will learn how to set up a simple XML Datasource.  Then we will look at handling XML files with a more hierarchical structure.</description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32081</importID>
+      <speakers>
+        <speaker>
+          <id>32081</id>
+          <name>Paul Hunter</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>What's so special about PL/SQL in 30 Minutes</title>
+      <description>AKA, things I'd like to see in MS SQL Server.  PL/SQL is a powerful and flexible SQL programming language that supports some nice features.  This is a good overview of people that have to stray across the great divide into “Oracle world”.</description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32690</importID>
+      <speakers>
+        <speaker>
+          <id>32690</id>
+          <name>Russel Loski</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Stored procedure tracing using the xml datatype </title>
+      <description>When running a stored procedure it is difficult to record what is happening. I developed a simple logging mechanism.  In this session we will examine logger code in T-SQL I added to a stored procedure. We will use the xml datatype to record parameter values, variable values and debug statements. We will look at the "For xml" statement as well as the xml datatype methods, especially the modify method.  Finally we will look at how to read the logs when finished.</description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32925</importID>
+      <speakers>
+        <speaker>
+          <id>32925</id>
+          <name>Steve Jones</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The Winding Road</title>
+      <description>Keynote</description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29315</importID>
+      <speakers>
+        <speaker>
+          <id>29315</id>
+          <name>Bryan Smith</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Building Secure Applications with SQL Server</title>
+      <description>As recent breaches and disruptions have demonstrated, application security could not be more critical. As the foundation of many of our applications and the stores of our most sensitive data, databases are a prime target. Still, very few developers take advantage of security features available to them to secure the databases behind their applications. Join Bryan Smith, a Database Technical Specialist with Microsoft, in exploring security features and best practices applicable to Microsoft SQL Server which will allow you to secure your database applications.</description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32600</importID>
+      <speakers>
+        <speaker>
+          <id>32600</id>
+          <name>Rob Vettor</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>EntityFramework 360:  CodeOnly 4.1</title>
+      <description>Come see the new "code-centric" approach to managing your application data. In this session, we’ll • Explore the Entity Framework 4.1, its components and show how it works • Define an object model, implementing persistent POCO classes, while customizing the mapping via the tool's fluent API • Walk through a variety of examples that show how to interact with the model • Demonstrate how the Entity Framework automatically tracks data changes and generates updates. You’ll walk-away with a clear understanding of how the new “code only” extensions enable you to implement a code-centric approach to store persistence.</description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29014</importID>
+      <speakers>
+        <speaker>
+          <id>29014</id>
+          <name>Ben Miller</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server TDE in 30 Minutes</title>
+      <description>Have you ever wanted to know how Transparent Database Encryption (TDE) works or how you set it up?  This session will go over all the steps and caveats that go with this technology.  This is a topic that is an Enterprise Feature, but allows you to have your database encrypted on disk.  We will discuss the Encryption Hierarchy as well as how it relates to SQL Server TDE.</description>
+      <startTime>8/27/2011 12:00:00 AM</startTime>
+      <endTime>8/27/2011 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

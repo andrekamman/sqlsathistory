@@ -1,0 +1,21 @@
+# SQLSaturday #80 - Wheeling 2011
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Abi Chapagai|Track 1|[High Availability Solutions in SQL Server](28449.md)
+00:00:00|Andy Leonard|Track 3|[Designing an SSIS Framework ](28683.md)
+00:00:00|Andy Leonard|Track 3|[“I See a Control Flow Tab. Now What?” ](28684.md)
+00:00:00|Allen White|Track 3|[Let Service Broker Help You Scale Your Application](28935.md)
+00:00:00|Allen White|Track 3|[Automate Policy-Based Management using PowerShell](28936.md)
+00:00:00|Bronwyn Altizer|Track 2|[Wait-Time Based SQL Server Performance Management](29294.md)
+00:00:00|Craig Purnell|Track 1|[Database Mirroring in the Real World](29651.md)
+00:00:00|Craig Purnell|Track 1|[NoSQL- What is it and why do I care? ](29652.md)
+00:00:00|Ed Wilson|Track 1|[Windows PowerShell Best Practices for DBA's part 2](30040.md)
+00:00:00|Ed Wilson|Track 1|[Windows PowerShell Best Practices for DBA's](30042.md)
+00:00:00|James Gaines|Track 2|[Automating Database Source Control](30414.md)
+00:00:00|Joseph D'Antoni|Track 2|[Building Your First SQL Cluster](30639.md)
+00:00:00|Matt Velic|Track 2|[Hello World (Schema) - Introduction to T-SQL](31629.md)
+00:00:00|Paul Hiles|Track 3|[DMVs- What are they and why should a DBA care?](32209.md)
+00:00:00|Paul Hiles|Track 1|[Take Your Automation Script to the Next Level! ](32211.md)
+00:00:00|Shannon Lowder|Track 3|[Lessons Learned: Starting your career as a DBA.](32956.md)
+00:00:00|William E Pearson III|Track 2|[An Overview of PowerPivot ](34165.md)
+00:00:00|William E Pearson III|Track 2|[Design and Implement BI Like Edison!](34171.md)

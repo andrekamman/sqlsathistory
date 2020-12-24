@@ -1,0 +1,20 @@
+# SQLSaturday #72 - Hawaii 2011
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Bob Abernethy|SQL Track|[BI: Then and Now ](29109.md)
+00:00:00|Bob Abernethy|MISC Track|[Mission Possible:  Pervasive BI](29110.md)
+00:00:00|Deepak Puri|SQL Track|[SQL Server Analysis Services: a 10,000-foot view](29685.md)
+00:00:00|David Eichner|MISC Track|[Calling Microsoft Dynamics eConnect Stored Procs](29774.md)
+00:00:00|Wen He|SQL Track|[SQL Server + SharePoint = BI Solutions](30314.md)
+00:00:00|Wen He|SQL Track|[SSIS + SharePoint = Interoperability](30315.md)
+00:00:00|Janis Griffin|SQL Track|[Looney Tuner?  No, there IS a method to my madness](30466.md)
+00:00:00|Janis Griffin|SQL Track|[Confio Ignite VM - Monitoring with a Big Picture V](30468.md)
+00:00:00|Chris Eargle|DEV Track|[Secrets of a .NET Ninja](31464.md)
+00:00:00|Chris Eargle|DEV Track|[What’s new in ASP.NET MVC 3: Building NerdDinner](31465.md)
+00:00:00|Chris Eargle|DEV Track|[Code like a Ninja: Enhance Your Productivity](31467.md)
+00:00:00|Philip Japikse|DEV Track|[Windows Presentation Foundation for Developers](32216.md)
+00:00:00|Philip Japikse|MISC Track|[Mocks, Stubs, and Dependency Injection, Oh My!](32219.md)
+00:00:00|Philip Japikse|MISC Track|[Lessons Learned:Being Agile in a Waterfall Sandbox](32220.md)
+00:00:00|Philip Japikse|MISC Track|[An Intro To Test Driven Development](32221.md)
+00:00:00|Troy Ketsdever|DEV Track|[So... You've Inherited "The DB From Heck" (v2.0)](33792.md)
+00:00:00|Troy Ketsdever|MISC Track|[Predictive Analytics - You Can, Too!](33793.md)

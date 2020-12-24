@@ -1,0 +1,1342 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #66 - Colorado Springs 2011</name>
+    <startDate>2/12/2011 12:00:00 AM</startDate>
+    <attendeeEstimate>50</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat66</twitterHashtag>
+    <venue>
+      <name>Mr. Biggs Fun Center</name>
+      <street>5825 Mark Dabling Boulevard</street>
+      <city>Colorado Springs</city>
+      <state>Colorado</state>
+      <zipcode>80919</zipcode>
+      <longitude>-104.819884</longitude>
+      <latitude>38.917703</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>5</importID>
+      <name>Quest Software</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/947/EventSponsor_14722.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1</importID>
+      <name>Confio</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.confio.com</url>
+      <imageURL>https://www.pass.org/images/resized-confio_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>33</importID>
+      <name>Telerik</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.telerik.com/</url>
+      <imageURL>https://s3.amazonaws.com/rockdale_media/projects/543439b0fd67d36b7f000007/Telerik_brandmark_color_without_tagline_Black_1412710457532.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>31</importID>
+      <name>SQL Server Magazine</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.sqlmag.com</url>
+      <imageURL>https://windowsitpro.com/Common/adforceimages/062607_email_SQLLogo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>654</importID>
+      <name>Gerasus Software</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.gerasus.com/</url>
+      <imageURL>https://www.gerasus.com/images/logoSmall.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1276</importID>
+      <name>Webucator</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.webucator.com/database/sql.cfm</url>
+      <imageURL>https://www.pass.org/files/c598cdca-149c-4ad3-81fe-c3b4d57f98f1.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>43</importID>
+      <name>SAPIEN Technologies</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.sapien.com</url>
+      <imageURL>https://www.pass.org/files/596bfb68-a4b3-4852-ad88-011b040d618b.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>298</importID>
+      <name>SQL Share</name>
+      <label>Swag Sponsor</label>
+      <url>http://sqlshare.com/</url>
+      <imageURL>https://www.pass.org/files/06d1c38f-993d-436b-bc99-36970f4a7a58.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>37</importID>
+      <name>Wrox</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.wrox.com/WileyCDA/</url>
+      <imageURL>https://media.wiley.com/assets/253/59/wrox_logo.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>20</importID>
+      <name>O'Reilly Books</name>
+      <label>Swag Sponsor</label>
+      <url>http://oreilly.com/</url>
+      <imageURL>https://oreilly.com/images/oreilly/oreilly.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>542</importID>
+      <name>Data Realized</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.datarealized.com/</url>
+      <imageURL>https://www.pass.org/files/9c96c827-a67a-41be-b010-865e07b76add.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>480</importID>
+      <name>Chris Gosnell Photography</name>
+      <label>Photograhy</label>
+      <url>http://www.chrisgosnellphoto.com/</url>
+      <imageURL>https://www.pass.org/files/b37ebcb0-f77d-4bdd-a1d7-81132c816615.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>30177</importID>
+      <name>Gabriel Villa</name>
+      <label>
+      </label>
+      <description>Gabriel is a skilled leader, architect, and technical expert focusing primarily on Microsoft technologies and is passionate about open-source technologies for integration, automation, and development. Gabriel’s versatility extends from systems, data and development and leverages hybrid/SaaS/Cloud integration, proven software engineering platforms, and best-of-breed data management and business intelligence solutions.
+
+Originally from El Paso, Texas, Gabriel lives in Colorado Springs with his wife and kids, where he is an Architect for RevGen Partners, volunteers in the tech community and enjoys the Colorado outdoors.</description>
+      <twitter>@extofer</twitter>
+      <linkedin>https://www.linkedin.com/in/gabevilla</linkedin>
+      <ContactURL>https://extofer.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@extofer</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33684</importID>
+      <name>TJay Belt</name>
+      <label>
+      </label>
+      <description>TJay Belt is an outdoorsman at heart who enjoys riding dirtbikes, waterskiing, boating, playing racquetball and spending time with his family. 
+When he can't be out playing, TJay loves to tinker with databases. TJay has been an IT professional for over a decade and a half. Currently serving as a Senior Database Administrator with Imagine Learning.  TJay has progressed through several roles in his database career including developer, data guy, database developer, database analyst and DBA.</description>
+      <twitter>@tjaybelt</twitter>
+      <linkedin>http://www.linkedin.com/in/tjaybelt/</linkedin>
+      <ContactURL>http://tjaybelt.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@tjaybelt</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32409</importID>
+      <name>Randy Knight</name>
+      <label>
+      </label>
+      <description>Randy Knight is a data professional who has worked with Microsoft technology for over 25 years, focusing on SQL Server since 1997. He has worked in a variety of settings, including 6 years as a database architect for match.com. In 2010, he founded SQL Server Solutions Group LLC, a boutique SQL Server consultancy.  A Microsoft Certified Master (MCM) in SQL Server, he speaks often at events all over the country including the  PASS Summit, SQLIntersections, and numerous SQL Saturday and User Groups.</description>
+      <twitter>randy_knight</twitter>
+      <linkedin>http://www.linkedin.com/in/randyknight</linkedin>
+      <ContactURL>http://www.sqlsolutionsgroup.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=randy_knight</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34276</importID>
+      <name>William E Pearson III</name>
+      <label>
+      </label>
+      <description>Bill Pearson created Island Technologies Inc. in 1997, and has developed a large and diverse customer base since. Bill#39;s background as a CPA, Internal Auditor, Management Accountant, and SQL Server MVP (BI) enables him to provide value to clients as a liaison between Accounting / Finance and Information Services. Bill has implemented enterprise business intelligence systems over the years for many Fortune 500 companies and focuses his practice upon the integrated Microsoft Business Intelligence </description>
+      <twitter>@Bill_Pearson</twitter>
+      <linkedin>https://www.linkedin.com/e/fpf/252170891</linkedin>
+      <ContactURL>https://mvp.support.microsoft.com/profile=02C5CD07-7511-4151-A678-3A4A3451F85E</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Bill_Pearson</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31222</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29416</importID>
+      <name>Carlos Bossy</name>
+      <label>
+      </label>
+      <description>Carlos Bossy (MCTS, MCP BI, CBIP) is a data and cloud analytics architect with 25 years of experience in software and database development. As a principal of Datalere, Carlos focuses on developing BI, Data Science, and Advanced Analytics solutions, including modeling data warehouses and delivering predictive models, integration, and visualization. He has developed warehouses and BI solutions for a variety of industries and state agencies, including health insurance, solar energy, foster care, telecom, and manufacturing.</description>
+      <twitter>@carlosbossy</twitter>
+      <linkedin>http://www.linkedin/in/carlosbossy</linkedin>
+      <ContactURL>http://www.carlosbossy.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@carlosbossy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33325</importID>
+      <name>Ted Malone</name>
+      <label>
+      </label>
+      <description>Ted Malone has worked with SQL Server since it's inception (first version was installed from 3.5" disks on OS/2 1.1) and has architected, developed and supported database applications ranging from simple to those in use by Global 100 corporations. Ted is a Microsoft Application Lifecycle Management (ALM) MVP with a focus on Agile database development. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blog.sqltrainer.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31221</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31724</importID>
+      <name>Mark Halstead</name>
+      <label>
+      </label>
+      <description>Mark Halstead is the SQL Server technical lead dba for Xtivia working in the Virtual-DBA group. He had been with Xtivia, Inc. for 7 years and has worked with SQL Server for more than 17 years. He has worked in IT for 20+ years specializing in database administration.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.xtivia.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31217</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31225</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31215</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31223</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31231</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31230</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29865</importID>
+      <name>Dean Richards</name>
+      <label>
+      </label>
+      <description>Dean Richards is a Senior DBA for DBMS Insights and has helped hundreds of companies solve database and virtualization performance issues.  Dean has over 20 years of experience in both development and database administration and has focused his entire career on performance tuning of Oracle and SQL Server environments. Most recently Dean has focused on the trend to virtualize and move databases to the cloud.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/pub/dean-richards/6/167/a90</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33123</importID>
+      <name>Christopher Shaw</name>
+      <label>
+      </label>
+      <description>Chris started his database career while in the Marine Corps working with Lotus Ami Pro databases somewhere in 1993. From there he went on to companies such as Wells Fargo, Pulte Mortgage and Yellow Pages Inc., and later consulted with insurance companies including Anthem Blue Shield. Chris has enjoyed writing and speaking about SQL Server over the last 10 years at events such as SQL Connections, Pass and SSWUG Ultimate conferences. Chris received the Microsoft MVP award. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://chrisshaw.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31229</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29656</importID>
+      <name>Chris  Randall</name>
+      <label>
+      </label>
+      <description>Chris Randall (MCT, MCTS, MCITP, MCDBA)  is the SQL Server Practice Manager for Ameriteach, a Microsoft Gold Training Partner in Greenwood Village and Broomfield. He has been working with and teaching classes in SQL Server and its Business Intelligence tools since the 6.x days.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.ameriteach.com/chris-randall</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33127</importID>
+      <name>Christopher Shaw</name>
+      <label>
+      </label>
+      <description>Chris started his database career while in the Marine Corps working with Lotus Ami Pro databases somewhere in 1993. From there he went on to companies such as Wells Fargo, Pulte Mortgage and Yellow Pages Inc., and later consulted with insurance companies including Anthem Blue Shield. Chris has enjoyed writing and speaking about SQL Server over the last 10 years at events such as SQL Connections, Pass and SSWUG Ultimate conferences. Chris received the Microsoft MVP award. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://chrisshaw.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29965</importID>
+      <name>Doug Lane</name>
+      <label>
+      </label>
+      <description>Doug Lane (MCITP, MCTS) is a consultant with Brent Ozar Unlimited and has over 14 years' experience with SQL Server. He blogs about SQL Server with emphasis on Reporting Services and professional development.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.douglane.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31218</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31226</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33124</importID>
+      <name>Christopher Shaw</name>
+      <label>
+      </label>
+      <description>Chris started his database career while in the Marine Corps working with Lotus Ami Pro databases somewhere in 1993. From there he went on to companies such as Wells Fargo, Pulte Mortgage and Yellow Pages Inc., and later consulted with insurance companies including Anthem Blue Shield. Chris has enjoyed writing and speaking about SQL Server over the last 10 years at events such as SQL Connections, Pass and SSWUG Ultimate conferences. Chris received the Microsoft MVP award. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://chrisshaw.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32926</importID>
+      <name>Steve Jones</name>
+      <label>
+      </label>
+      <description>Steve Jones is a Microsoft SQL Server MVP and has been working with SQL Server since version 4.2 on OS/2. After working as a DBA and developer for a variety of companies, Steve co-founded the community website SQLServerCentral.com in 2001.
+Since 2004, Steve has been the full-time editor of the site, ensuring it continues to be a great resource for SQL Server professionals. Over the last decade, Steve has written hundreds of articles about SQL Server for SQLServerCentral.com, SQL Server Standard magazine, SQL Server Magazine, and Database Journal.</description>
+      <twitter>way0utwest</twitter>
+      <linkedin>http://www.linkedin.com/in/way0utwest</linkedin>
+      <ContactURL>http://www.voiceofthedba.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=way0utwest</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31219</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31227</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33125</importID>
+      <name>Christopher Shaw</name>
+      <label>
+      </label>
+      <description>Chris started his database career while in the Marine Corps working with Lotus Ami Pro databases somewhere in 1993. From there he went on to companies such as Wells Fargo, Pulte Mortgage and Yellow Pages Inc., and later consulted with insurance companies including Anthem Blue Shield. Chris has enjoyed writing and speaking about SQL Server over the last 10 years at events such as SQL Connections, Pass and SSWUG Ultimate conferences. Chris received the Microsoft MVP award. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://chrisshaw.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30255</importID>
+      <name>Glenn Berry</name>
+      <label>
+      </label>
+      <description>Glenn works as a Principal Consultant for Dr. DMV, LLC in Elizabeth, CO. He was a Data Platform MVP from 2007-2017, and he has a whole collection of Microsoft certifications, including MCITP, MCDBA, MCSE, MCSD, MCAD, and MCTS, which proves that he likes to take tests. His expertise includes DMVs, high availability, hardware selection, performance tuning, and Azure SQL Database.  He is also an Adjunct Faculty member at University College - University of Denver, where has been teaching since 2000. He has completed the Master Teacher Program at Denver University - University College. He is heavily involved in the SQL Server community, and is a frequent speaker at user groups, SQL Saturdays, and the PASS Community Summit.</description>
+      <twitter>GlennAlanBerry</twitter>
+      <linkedin>https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile</linkedin>
+      <ContactURL>https://glennsqlperformance.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=GlennAlanBerry</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33695</importID>
+      <name>Thomas Norman</name>
+      <label>
+      </label>
+      <description>Tom Norman is a Database Architect at KPA with a strong fervor to protect data. He works daily to review and improve data protection methodologies while reviewing governing laws affecting finance, healthcare, and personal data. His areas of expertise include encryption, auditing, data identification, and database object deployment. He is the current leader of the PASS Virtualization Group and Vice President of the TRIPASS user group. You can read his blog at https://armordba.com/ and reach him on twitter at @armordba. Tom speaks at a number of SQLSaturday events and SQL Server user groups.</description>
+      <twitter>ArmorDba</twitter>
+      <linkedin>http://www.linkedin.com/in/armordba</linkedin>
+      <ContactURL>https://armordba.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ArmorDba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31216</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31224</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31232</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31220</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31228</importID>
+      <name>Kat Long</name>
+      <label>
+      </label>
+      <description>Kat has been working with SQL Server since 1998 starting with SQL Server 6.5 up to the latest and greatest. Over the years, Kat has worked in many different environments from manufacturing to dotcoms to military and government institutions, and is now back in the private sector. Currently, as a Senior DBA at Xtivia, she is focused on monitoring SQL Server installations and troubleshooting performance issues. </description>
+      <twitter>@KatSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/kat-meadows/2/69b/8ba/</linkedin>
+      <ContactURL>http://blogs.xtivia.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KatSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29579</importID>
+      <name>Meredith Ryan-Smith</name>
+      <label>
+      </label>
+      <description> 
+Meredith is the database administrator for The Bell Group.  With more than 10 years of experience in IT, Meredith’s responsibilities have included everything from manning the Help Desk to VAX/VMS cluster administration. Most recently she has served as the production database administrator specializing in cluster administration and performance. Meredith has attended seven PASS Summits, and had volunteered with the WIT Virtual Chapter since early 2009. Most recently Meredith became the chapter leader for the Women In Technology Virtual Chapter, and has kept busy speaking at SQL Saturday events in the western half of the US. </description>
+      <twitter>@coffegrl</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://meredithryansmith.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@coffegrl</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33126</importID>
+      <name>Christopher Shaw</name>
+      <label>
+      </label>
+      <description>Chris started his database career while in the Marine Corps working with Lotus Ami Pro databases somewhere in 1993. From there he went on to companies such as Wells Fargo, Pulte Mortgage and Yellow Pages Inc., and later consulted with insurance companies including Anthem Blue Shield. Chris has enjoyed writing and speaking about SQL Server over the last 10 years at events such as SQL Connections, Pass and SSWUG Ultimate conferences. Chris received the Microsoft MVP award. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://chrisshaw.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29037</importID>
+      <name>Bill Fellows</name>
+      <label>
+      </label>
+      <description>Bill Fellows is a SQL Server MVP and has been a database developer for most of his career, with the past 15 years focused on ETL. He is the organizer of Kansas City's eight SQL Saturdays and a speaker at many other SQL Saturdays, User Groups and the PASS Summit. Bill is the owner of Sterling Data Consulting where he gets to solve interesting data problems.</description>
+      <twitter>@billinkc</twitter>
+      <linkedin>http://www.linkedin.com/in/billinkc</linkedin>
+      <ContactURL>http://blog.billfellows.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@billinkc</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33122</importID>
+      <name>Christopher Shaw</name>
+      <label>
+      </label>
+      <description>Chris started his database career while in the Marine Corps working with Lotus Ami Pro databases somewhere in 1993. From there he went on to companies such as Wells Fargo, Pulte Mortgage and Yellow Pages Inc., and later consulted with insurance companies including Anthem Blue Shield. Chris has enjoyed writing and speaking about SQL Server over the last 10 years at events such as SQL Connections, Pass and SSWUG Ultimate conferences. Chris received the Microsoft MVP award. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://chrisshaw.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>29656</importID>
+      <speakers>
+        <speaker>
+          <id>29656</id>
+          <name>Chris  Randall</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>"Beyond BIDS" - Caring for and Feeding a SQL Serve</title>
+      <description>Are you a Business Intelligence developer? Have you built a SQL Server Reporting Services, Analysis Services or Integration Services solution? Have you deployed to a test server and are wondering "Now what?" Or are you a production SQL Server DBA who's been informed that since SSAS, SSIS or SSRS have "SQL" in their name, you have to take over the day-to-day management of a SQL BI project? This fast-paced session will look at what it takes to manage and administer projects created with the SQL Server BI products. We'll look at the management tools, deployment lifecycles, security capabilities and disaster recovery processes for these products. We'll see why, if you're a developer, you might still need your DBA, or if you're a DBA, you might </description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30255</importID>
+      <speakers>
+        <speaker>
+          <id>30255</id>
+          <name>Glenn Berry</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Hardware 201: Selecting Database Hardware</title>
+      <description>The foundation of database performance is the underlying server hardware and storage subsystem. Even the best designed and optimized database application can be crippled by an inadequate hardware and storage infrastructure. Recent advances in new processors and chipsets, along with improvements in magnetic and SSD storage have dramatically changed the evaluation and selection process compared to the past. Many database professionals struggle to keep up with new technology and often simply let someone else make their hardware selection and sizing decisions. Don't let this happen to you! This session covers current and upcoming hardware from both Intel and AMD.</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33124</importID>
+      <speakers>
+        <speaker>
+          <id>33124</id>
+          <name>Christopher Shaw</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Welcome</title>
+      <description>Welcome\KeyNote</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31215</importID>
+      <speakers>
+        <speaker>
+          <id>31215</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Networking Session 4</title>
+      <description>Networking Session 4</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31223</importID>
+      <speakers>
+        <speaker>
+          <id>31223</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Break 3</title>
+      <description>Break 3</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31231</importID>
+      <speakers>
+        <speaker>
+          <id>31231</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Break 5</title>
+      <description>Break 5</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33127</importID>
+      <speakers>
+        <speaker>
+          <id>33127</id>
+          <name>Christopher Shaw</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Networking Session 3</title>
+      <description>Networking Session 3</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31218</importID>
+      <speakers>
+        <speaker>
+          <id>31218</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Lunch\Meet the experts\WIT</title>
+      <description>Lunch\Meet the experts\WIT</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31226</importID>
+      <speakers>
+        <speaker>
+          <id>31226</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Networking 9</title>
+      <description>Networking 9</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31724</importID>
+      <speakers>
+        <speaker>
+          <id>31724</id>
+          <name>Mark Halstead</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Performance tuning</title>
+      <description>SQL Server performance tuning with an emphasis on finding the bottlenecks, Query design problems and database design problems. </description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29965</importID>
+      <speakers>
+        <speaker>
+          <id>29965</id>
+          <name>Doug Lane</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Make it fast, make it pretty (SSRS)</title>
+      <description>Designing a fast, elegant report for Reporting Services can be challenging.  In this session, we'll cover design methods you can start using right away to create faster reports with fewer headaches and in less time.  We'll also look at how to deal with potentially frustrating aspects of report appearances like border behavior, multi-column layouts, and unwanted blank pages.</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33122</importID>
+      <speakers>
+        <speaker>
+          <id>33122</id>
+          <name>Christopher Shaw</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Welcome</title>
+      <description>Welcome to SQL Saturday #66. We will be covering the schedule for the day and what attendee's can expect from the training and from the "Special Networking Events".</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31221</importID>
+      <speakers>
+        <speaker>
+          <id>31221</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Break 1</title>
+      <description>Break 1</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31229</importID>
+      <speakers>
+        <speaker>
+          <id>31229</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Networking 12</title>
+      <description>Networking 12</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29416</importID>
+      <speakers>
+        <speaker>
+          <id>29416</id>
+          <name>Carlos Bossy</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>A Data Mining Solution</title>
+      <description>One of my clients, the Department of Human Services, wants to predict which children that leave foster care will have to return to foster care at later date.  Modern day computing power along with SQL Server makes it possible to add sophisticated data mining models to our applications that forecast and predict, perform anomaly detection, and classify data.  This presentation will demonstrate how to develop a data mining model using Analysis Services from conception to deployment using internal and external data, and you will see how to get and display results.  Take a step forward towards making BI pervasive in your organization by integrating data mining into your company’s applications.  </description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33325</importID>
+      <speakers>
+        <speaker>
+          <id>33325</id>
+          <name>Ted Malone</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Managing the Data Tier Application Lifecycle</title>
+      <description>Introduced with SQL Server 2008 R2 and Visual Studio 2010, Data Tier Applications (DACs) help to simplify the development lifecycle of SQL Server database applications. DACs can be integrated into larger Visual Studio application projects and make for a very integration application development lifecycle. In this session, you will learn about DACs and how to use Visual Studio to build SQL Server Data Tier Applications. This session will also discuss creating DACs from existing database structures and will demonstrate how to integrate existing databases into Visual Studio application solutions.</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32926</importID>
+      <speakers>
+        <speaker>
+          <id>32926</id>
+          <name>Steve Jones</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The Modern Resume - Building Your Brand</title>
+      <description>Learn practical ways that you can build your career brand and stand out from the crowd. Steve Jones, editor of SQLServerCentral and longtime DBA shares some of the ways in which he has successfully grown his career over the years. Learn some tips and tricks for social networking, blogging, volunteering, leadership, and resume hints to help you find a great job.</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31220</importID>
+      <speakers>
+        <speaker>
+          <id>31220</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Lunch\Meet the experts\WIT 3</title>
+      <description>Lunch\Meet the experts\WIT 3</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31228</importID>
+      <speakers>
+        <speaker>
+          <id>31228</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Networking 11</title>
+      <description>Networking 11</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34276</importID>
+      <speakers>
+        <speaker>
+          <id>34276</id>
+          <name>William E Pearson III</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Becoming DAX:  An Introduction</title>
+      <description>The Data Analysis Expressions (DAX) language is a library of operators and constants that we can combine to craft formulas and expressions in PowerPivot Client.  In this session Microsoft BI Architect and SQL Server MVP Bill Pearson will concentrate largely upon crafting simple DAX expressions whose purposes, for the most part, are to return a set of data. He’ll overview a simple data source structure, outline the components of simple DAX syntax, and get you started understanding basic expressions.</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29579</importID>
+      <speakers>
+        <speaker>
+          <id>29579</id>
+          <name>Meredith Ryan-Smith</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Helpdesk to DBA in 60-ish minutes</title>
+      <description>Most ‘accidental DBAs’ start their foray in to database administration in a similar way.  You start with little knowledge of SQL server and maybe even little knowledge of system administration basics at all.  I will share some tips and tricks that I have picked up over the years to help you get on your feet as a DBA, by showing you how to find out where your instances of SQL are, what business processes depend on them, what their current states are and how to learn the skills you need to keep your databases safe and available.</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33126</importID>
+      <speakers>
+        <speaker>
+          <id>33126</id>
+          <name>Christopher Shaw</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Networking Session 2</title>
+      <description>Networking Session 2</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31217</importID>
+      <speakers>
+        <speaker>
+          <id>31217</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Networking Session 6</title>
+      <description>Networking Session 6</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31225</importID>
+      <speakers>
+        <speaker>
+          <id>31225</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Networking 8</title>
+      <description>Networking 8</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29865</importID>
+      <speakers>
+        <speaker>
+          <id>29865</id>
+          <name>Dean Richards</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Best Practices for SQL Server on VMWare</title>
+      <description>More and more companies are virtualizing with VMWare, and SQL Server databases are moving in that direction as well.  This presentation will explore the fundamentals of running SQL Server in a VMWare environment. You will learn business and technical benefits of virtualization, master new terms and concepts, pick up useful planning tips and tricks and cover best practices for maintaining optimum performance in a SQL Server / VMWare environment.</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31219</importID>
+      <speakers>
+        <speaker>
+          <id>31219</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Lunch\Meet the experts\WIT 2</title>
+      <description>Lunch\Meet the experts\WIT 2</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31227</importID>
+      <speakers>
+        <speaker>
+          <id>31227</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Networking 10</title>
+      <description>Networking 10</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33684</importID>
+      <speakers>
+        <speaker>
+          <id>33684</id>
+          <name>TJay Belt</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Documentation. You know you love it</title>
+      <description>We will discuss some of the most important things that you as a Data Professional can document to make your job much easier, ensure information consistency between groups, and better prepare your organizations for raising the bar on your day to day business.  Think of this as a sort of Database Library that allows you to finally detail the processes you follow currently to perform repetitive tasks.  
+This Library will also allow you to simply document your systems for your and others knowledge.  </description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33125</importID>
+      <speakers>
+        <speaker>
+          <id>33125</id>
+          <name>Christopher Shaw</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Networking Session 1</title>
+      <description>Networking Session 1</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31216</importID>
+      <speakers>
+        <speaker>
+          <id>31216</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Networking Session 5</title>
+      <description>Networking Session 5</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31224</importID>
+      <speakers>
+        <speaker>
+          <id>31224</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Networking 7</title>
+      <description>Networking 7</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31232</importID>
+      <speakers>
+        <speaker>
+          <id>31232</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Break 6</title>
+      <description>Break 6</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32409</importID>
+      <speakers>
+        <speaker>
+          <id>32409</id>
+          <name>Randy Knight</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Visual Studio 2010 Database Projects </title>
+      <description>Managing DDL scripts has always been one of the biggest challenges facing Database Developers. How do you keep your Development, Test, Stage, and Production Environments in sync? Why aren't databases tightly integrated into source control systems like application code is? Visual Studio 2010 Database projects solve all these problems and more. In this session, we will learn how to use Visual Studio to treat database objects as the first-class citizens they have always been. 
+</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33695</importID>
+      <speakers>
+        <speaker>
+          <id>33695</id>
+          <name>Thomas Norman</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Policy Based Management</title>
+      <description>Policy Based Management, what is this?  What can it do for me?  Do I really need it?  How do I install and configure it?  How can it help me to pass audits?  You mean each server can really be configured the same.  Let's explore Policy Based Management and what it has to offer us in better management of our Sql Servers.</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30177</importID>
+      <speakers>
+        <speaker>
+          <id>30177</id>
+          <name>Gabriel Villa</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Securing your SQL Server</title>
+      <description>Become aware of some commonly overlooked practices in securing you SQL Server databases. Learn about physical security, passwords, privileges and roles, restricting or disabling system stored procedures and preventative best practices. And most importantly, discuss the most commonly used security threat: SQL injection and learn how to prevent them.</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33123</importID>
+      <speakers>
+        <speaker>
+          <id>33123</id>
+          <name>Christopher Shaw</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Welcome</title>
+      <description>Welcome\Keynote</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31222</importID>
+      <speakers>
+        <speaker>
+          <id>31222</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Break 2</title>
+      <description>Break 2</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31230</importID>
+      <speakers>
+        <speaker>
+          <id>31230</id>
+          <name>Kat Long</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Break 4</title>
+      <description>Break 4</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29037</importID>
+      <speakers>
+        <speaker>
+          <id>29037</id>
+          <name>Bill Fellows</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>45 new 2005/2008 TSQL features in 45 minutes</title>
+      <description>Too busy to read BOL to figure out what they've added?  This purely demo based presentation will give you a taste of what new language features are available to make your life easier.  Sure, you might know about CTEs and windowing functions, but what about the new data types (geospatial, xml, etc), DMOs and query hints.  Stop in and see if I can rattle off a feature a minute.</description>
+      <startTime>2/12/2011 12:00:00 AM</startTime>
+      <endTime>2/12/2011 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,22 @@
+# SQLSaturday #768 - Wausau 2018
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+08:30:00|Joshuha Owen|Cloud Application Development  Deployment|[Azure Data Factory V2: The cloud SSIS we have been waiting for?](77209.md)
+08:30:00|Jim Dorame|Application  Database Development|[JSON for the Data Mortals](82252.md)
+08:30:00|Edward Roepe|Enterprise Database Administration  Deployment|[How to Perform a Health Check](84522.md)
+08:30:00|John Eisbrener|Application  Database Development|[Columnstore 101: The Five Ws of Columnstore Indexes](84685.md)
+09:45:00|Joshuha Owen|Cloud Application Development  Deployment|[Let's build a data app with Azure Functions!](77210.md)
+09:45:00|Joe Obbish|Application  Database Development|[Decoding the Cardinality Estimator to Speed Up Queries](77257.md)
+09:45:00|Joe Obbish|Application  Database Development|[Four Rules For Columnstore Query Performance](77258.md)
+09:45:00|Kevin Boles|Enterprise Database Administration  Deployment|[SQL Server Defaults SUCK!!](80564.md)
+09:45:00|Edward Roepe|Enterprise Database Administration  Deployment|[The Ultimate Maintenance Plan](84523.md)
+11:00:00|Dave Bland|Enterprise Database Administration  Deployment|[How to use Execution Plans to find Performance Issues](77103.md)
+11:00:00|Jake Manske|Application  Database Development|[Locking and its effects on queries and maintenance tasks](83982.md)
+11:00:00|Thomas Lane|Application  Database Development|[Data Vault 2.0 An Agile BI DB Design Method](84234.md)
+13:00:00|Dave Bland|Enterprise Database Administration  Deployment|[Extended Events: What are they and How do I use them](77102.md)
+13:00:00|Kevin Boles|Application  Database Development|[Know What Your Code is Doing to SQL Server!](80563.md)
+13:00:00|Frank Gill|Cloud Application Development  Deployment|[Azure Managed Instance: Reducing Maintenance Costs While Making Migration Simple](82884.md)
+14:15:00|Dave Bland|Enterprise Database Administration  Deployment|[Statistics - Why are they there and what do I do with them](77104.md)
+14:15:00|Kevin Boles|Application  Database Development|[Common TSQL Mistakes](80562.md)
+14:15:00|Kevin Boles|Enterprise Database Administration  Deployment|[Recent SSMS Performance Tuning Enhancements](85314.md)
+14:15:00|Lonny Niederstadt|Advanced Analysis Techniques|[Laying Down the Law with SQL Server Resource Governor](85514.md)

@@ -1,0 +1,699 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #75 - Columbus 2011</name>
+    <startDate>6/11/2011 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat75</twitterHashtag>
+    <venue>
+      <name>Goodwill Columbus</name>
+      <street>1331 Edgehill RD</street>
+      <city>Columbus</city>
+      <state>Ohio</state>
+      <zipcode>43212</zipcode>
+      <longitude>-83.030258</longitude>
+      <latitude>39.986541</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>5</importID>
+      <name>Quest Software</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/947/EventSponsor_14722.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1</importID>
+      <name>Confio</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.confio.com</url>
+      <imageURL>https://www.pass.org/images/resized-confio_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>8</importID>
+      <name>FusionIO</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.fusionio.com/solutions/microsoft-sql-server/</url>
+      <imageURL>https://www.sqlsaturday.com/files/18b704b1-226d-48fe-b0b8-f7b4d3443b3d.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>45</importID>
+      <name>Cozy Roc</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.cozyroc.com</url>
+      <imageURL>https://www.cozyroc.com/sites/default/files/down/cozyroc-big.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1357</importID>
+      <name>SSWUG.org</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.sswug.org/</url>
+      <imageURL>https://www.sswug.org/img/SSWUG_LOGO-170-notag.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>30081</importID>
+      <name>Erin Stellato</name>
+      <label>
+      </label>
+      <description>Erin Stellato is a Data Platform MVP and lives outside Cleveland, OH. She has almost 20 years of technology experience and has worked with SQL Server since 2003. Her areas of interest include performance tuning, Query Store, Extended Events, and helping accidental/involuntary DBAs understand how SQL Server works. Erin is an active member of the SQL Server community, has volunteered for PASS at the local and national level, and is a regular speaker at conferences including the PASS Summit, SQLIntersection, and SQLBits. Outside of time with family and friends, she enjoys running, spinning, movies, and all things chocolate.</description>
+      <twitter>erinstellato</twitter>
+      <linkedin>http://www.linkedin.com/in/erinstellato</linkedin>
+      <ContactURL>http://www.sqlskills.com/blogs/erin</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=erinstellato</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32208</importID>
+      <name>Paul Hiles</name>
+      <label>
+      </label>
+      <description>Paul has over 20 years of experience in the IT field which includes: programmer, system administrator, technical manger and both an operational and application DBA. He has been working with SQL Server since 2000 starting with version 7.0. He is currently a Data Architect where he specializes in SSIS, SSRS and database design and performance tuning.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29988</importID>
+      <name>Dave Rodabaugh</name>
+      <label>
+      </label>
+      <description>Located in Columbus, Ohio, Dave Rodabaugh has over a decade of experience doing one thing: data warehousing and business intelligence using the Microsoft suite of products.  His background as an engineer and exclusive focus on business intelligence has helped clients be successful in both initial-effort and rescued BI projects. He co-owns Atlas Analytics, through which he consults to clients in Ohio and beyond.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32784</importID>
+      <name>Sarah Barela</name>
+      <label>
+      </label>
+      <description>Sarah Barela is a Senior Manager at CBeyond Cloud Services, formerly MaximumASP. She has a Master’s degree in Information Science from the University of Texas, where she specialized in Database Management Systems. Sarah has spent over 15 years focusing on the administration of enterprise environments with large numbers of SQL Servers. Sarah is currently responsible for a rapidly growing environment with more than 2000 SQL Server instances. Her latest interests are in applying cloud technologies to SQL Server environments. Sarah has been a guest speaker at a number of PASS Chapter meetings, SSWUG Virtual Conferences, SQL Connections, SQLSaturday events, and the 2007, 2009, and 2010 PASS Summits.</description>
+      <twitter>@sarahspace</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqlsarah.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sarahspace</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30012</importID>
+      <name>Louis Davidson</name>
+      <label>
+      </label>
+      <description>Louis Davidson has worked in the IT industry for over 25 years as a corporate database developer and architect. He has been a Microsoft SQL Server MVP for 15 years and has written five books on database design, and contributed to many other SQL Server books as an author and tech editor. He has a bachelor's degree in Computer Science from the University of Tennessee at Chattanooga. You can read more about Louis at http://drsql.org.</description>
+      <twitter>drsql</twitter>
+      <linkedin>http://www.linkedin.com/in/louisdavidson</linkedin>
+      <ContactURL>https://www.red-gate.com/simple-talk/author/louis-davidson/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=drsql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30147</importID>
+      <name>Eddie Wuerch</name>
+      <label>
+      </label>
+      <description>Eddie Wuerch has 20 years of experience as a SQL Server specialist in a much-longer IT career. A Microsoft Certified Master, Eddie spends his days in the Salesforce Marketing Cloud, focusing on performance, scale, and uptime for the massive SQL Server backend. These SQL Servers churn billions of transactions daily against trillions of rows of data in a 24x7 continuously-available online system accessed by millions worldwide every day.</description>
+      <twitter>@EddieW</twitter>
+      <linkedin>http://www.linkedin.com/in/eddiewuerch</linkedin>
+      <ContactURL>http://www.indydba.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@EddieW</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30778</importID>
+      <name>Jes Schultz</name>
+      <label>
+      </label>
+      <description>Jes Schultz is a Software Engineer with Microsoft who has experience with a wide range of SQL Server features from version 2005 through 2019, and is on the cutting edge with Azure technologies. Since graduating Fox Valley Technical College with an IT-Programmer/Analyst degree, Jes has worked as an SSRS developer, DBA, and consultant. Before joining Microsoft, Jes was a six-time Data Platform MVP, recognized for her community work. Jes tackles every project and problem with tenacity and her enthusiasm is unmatched in the SQL Server community. In her free time, Jes never stops moving, and counts fitness, coffee, cooking, and travel as essentials in life.</description>
+      <twitter>http://twitter.com/grrl_geek</twitter>
+      <linkedin>http://www.linkedin.com/in/jesborland</linkedin>
+      <ContactURL>https://blogs.lessthandot.com/author/jes-borland</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/grrl_geek</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32207</importID>
+      <name>Paul Hiles</name>
+      <label>
+      </label>
+      <description>Paul has over 20 years of experience in the IT field which includes: programmer, system administrator, technical manger and both an operational and application DBA. He has been working with SQL Server since 2000 starting with version 7.0. He is currently a Data Architect where he specializes in SSIS, SSRS and database design and performance tuning.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32783</importID>
+      <name>Sarah Barela</name>
+      <label>
+      </label>
+      <description>Sarah Barela is a Senior Manager at CBeyond Cloud Services, formerly MaximumASP. She has a Master’s degree in Information Science from the University of Texas, where she specialized in Database Management Systems. Sarah has spent over 15 years focusing on the administration of enterprise environments with large numbers of SQL Servers. Sarah is currently responsible for a rapidly growing environment with more than 2000 SQL Server instances. Her latest interests are in applying cloud technologies to SQL Server environments. Sarah has been a guest speaker at a number of PASS Chapter meetings, SSWUG Virtual Conferences, SQL Connections, SQLSaturday events, and the 2007, 2009, and 2010 PASS Summits.</description>
+      <twitter>@sarahspace</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqlsarah.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sarahspace</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28931</importID>
+      <name>Allen White</name>
+      <label>
+      </label>
+      <description>Allen White is a Data Platform consultant. He has been both a developer and an administrator, so he understands both perspectives towards database technology. He loves sharing his experiences and helping people learn how to use SQL Server. Allen has spent over 40 years in IT, using SQL Server since 1992, and has been awarded Microsoft’s MVP Award for the last 13 years. Allen was a PASS Director from 2016 - 2018.</description>
+      <twitter>SQLRunr</twitter>
+      <linkedin>http://www.linkedin.com/pub/allen-white-sql-server-mvp/5/784/b08/</linkedin>
+      <ContactURL>http://dataperfpro.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLRunr</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30148</importID>
+      <name>Eddie Wuerch</name>
+      <label>
+      </label>
+      <description>Eddie Wuerch has 20 years of experience as a SQL Server specialist in a much-longer IT career. A Microsoft Certified Master, Eddie spends his days in the Salesforce Marketing Cloud, focusing on performance, scale, and uptime for the massive SQL Server backend. These SQL Servers churn billions of transactions daily against trillions of rows of data in a 24x7 continuously-available online system accessed by millions worldwide every day.</description>
+      <twitter>@EddieW</twitter>
+      <linkedin>http://www.linkedin.com/in/eddiewuerch</linkedin>
+      <ContactURL>http://www.indydba.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@EddieW</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34220</importID>
+      <name>William E Pearson III</name>
+      <label>
+      </label>
+      <description>Bill Pearson created Island Technologies Inc. in 1997, and has developed a large and diverse customer base since. Bill#39;s background as a CPA, Internal Auditor, Management Accountant, and SQL Server MVP (BI) enables him to provide value to clients as a liaison between Accounting / Finance and Information Services. Bill has implemented enterprise business intelligence systems over the years for many Fortune 500 companies and focuses his practice upon the integrated Microsoft Business Intelligence </description>
+      <twitter>@Bill_Pearson</twitter>
+      <linkedin>https://www.linkedin.com/e/fpf/252170891</linkedin>
+      <ContactURL>https://mvp.support.microsoft.com/profile=02C5CD07-7511-4151-A678-3A4A3451F85E</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Bill_Pearson</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28933</importID>
+      <name>Allen White</name>
+      <label>
+      </label>
+      <description>Allen White is a Data Platform consultant. He has been both a developer and an administrator, so he understands both perspectives towards database technology. He loves sharing his experiences and helping people learn how to use SQL Server. Allen has spent over 40 years in IT, using SQL Server since 1992, and has been awarded Microsoft’s MVP Award for the last 13 years. Allen was a PASS Director from 2016 - 2018.</description>
+      <twitter>SQLRunr</twitter>
+      <linkedin>http://www.linkedin.com/pub/allen-white-sql-server-mvp/5/784/b08/</linkedin>
+      <ContactURL>http://dataperfpro.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLRunr</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33452</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34225</importID>
+      <name>William E Pearson III</name>
+      <label>
+      </label>
+      <description>Bill Pearson created Island Technologies Inc. in 1997, and has developed a large and diverse customer base since. Bill#39;s background as a CPA, Internal Auditor, Management Accountant, and SQL Server MVP (BI) enables him to provide value to clients as a liaison between Accounting / Finance and Information Services. Bill has implemented enterprise business intelligence systems over the years for many Fortune 500 companies and focuses his practice upon the integrated Microsoft Business Intelligence </description>
+      <twitter>@Bill_Pearson</twitter>
+      <linkedin>https://www.linkedin.com/e/fpf/252170891</linkedin>
+      <ContactURL>https://mvp.support.microsoft.com/profile=02C5CD07-7511-4151-A678-3A4A3451F85E</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Bill_Pearson</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28961</importID>
+      <name>Kevin Cross</name>
+      <label>
+      </label>
+      <description>I have been in IT since 1999 as an administrator, an analyst, an architect, a developer and, most recently, a manager for Elliott Tool Technologies LTD in Dayton OH. I have been managing and developing in SQL since Microsoft SQL Server 6.5 and have also handled applications running on Oracle, MySQL and IBM Universe. I guess you can call me a SQL addict. Fortunately, Elliott uses an ERP and other systems driven by MS SQL, and so my obsession for SQL can be quenched daily.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://daytabase.org</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33454</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32552</importID>
+      <name>Rob Collie</name>
+      <label>
+      </label>
+      <description>Rob Collie is founder of PowerPivotPro, the 1st fully agile BI consulting firm that empowers companies to spur smarter business decisions in a fraction of the time and cost. A BI and analytics engineering leader during his 14-year career at Microsoft, Rob knows how to give companies a competitive advantage, and is a firm believer in creating solutions that can be replicated long after the partnership ends. Collie’s passion is to replace the methodologies of the traditional BI industry with business-empowered, immediate-impact tactics made possible by the recent breakthroughs in software, like Power BI.  Author of 3 books, including the world’s No. 1-selling Power BI book,  over 600 articles and whitepapers. https://powerpivotpro.com/</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://powerpivotpro.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29647</importID>
+      <name>Craig Purnell</name>
+      <label>
+      </label>
+      <description>Craig Purnell is a career database professional, trainer, and community activist. He has spent over 10 years as the Database Administrator at a large Midwestern law firm. He has been in IT for 15 years and has spent his entire career working with enterprise databases and ERP systems. Craig is an active member of the Ohio North SQL Server User Group and has presented at many user groups, SQL Saturdays, and the PASS Summit in 2012 and 2013</description>
+      <twitter>@CraigPurnell</twitter>
+      <linkedin>http://linkedin.com/in/craigpurnell</linkedin>
+      <ContactURL>http://www.craigpurnell.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@CraigPurnell</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32781</importID>
+      <name>Sarah Barela</name>
+      <label>
+      </label>
+      <description>Sarah Barela is a Senior Manager at CBeyond Cloud Services, formerly MaximumASP. She has a Master’s degree in Information Science from the University of Texas, where she specialized in Database Management Systems. Sarah has spent over 15 years focusing on the administration of enterprise environments with large numbers of SQL Servers. Sarah is currently responsible for a rapidly growing environment with more than 2000 SQL Server instances. Her latest interests are in applying cloud technologies to SQL Server environments. Sarah has been a guest speaker at a number of PASS Chapter meetings, SSWUG Virtual Conferences, SQL Connections, SQLSaturday events, and the 2007, 2009, and 2010 PASS Summits.</description>
+      <twitter>@sarahspace</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqlsarah.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sarahspace</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>30012</importID>
+      <speakers>
+        <speaker>
+          <id>30012</id>
+          <name>Louis Davidson</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Characteristics of a Great Relational Database</title>
+      <description>When queried, most database professionals would mention normalized as one of the most important characteristics that tell the difference between a good and bad database design. I won't disagree in the least, but there is so much more to be considered.  Even if you did a great job of normalization, poor naming, poorly implemented keys, too many or too few indexes, and so on can derail your design.  In this session I will present seven primary characteristics of a design that differentiates between an ugly design that will have your colleagues nitpicking you to death and one that will have them singing your praises. Characteristics such as comprehendible, documented, secure, well performing, and more (including normalized, naturally) will be </description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32781</importID>
+      <speakers>
+        <speaker>
+          <id>32781</id>
+          <name>Sarah Barela</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The 4-hour DBA: Automate, Audit and Relax</title>
+      <description>Do you feel that you are overworked and always fighting fires and never can get ahead? In this session, I will help you identify what is important to your job and how to find the time to address those critical tasks.  I will share scripts to automate those tasks that are central to all DBAs and discuss how to establish a methodology to quickly automate daily database chores.  The flip side of automation is auditing.  Routine auditing your server is essential to avoid nasty surprises that can lead to a loss of control.  We will create an auditing system using features within SQL Server, including Policy Based Management and scripts that will provide you peace of mind to enjoy your work and maybe even life beyond the office. </description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30081</importID>
+      <speakers>
+        <speaker>
+          <id>30081</id>
+          <name>Erin Stellato</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Baseline Basics: Where to Start, What You Need</title>
+      <description>“The system is slow. It was much faster last week! This is taking forever.” Statements like these from users can be frustrating for any DBA, unless you have the data to prove how the system regularly performs. In this session we will cover some of the tools and techniques freely available to SQL Server DBAs for capturing baselines that can be used for measuring performance, capacity planning and understanding usage patterns. We also discuss how these utilities and their data can be used to identify warning signs and troubleshoot performance issues. Long-term collection and storage methods for data are reviewed to help you create a plan for building your own repository when you get back to the office on Monday. Tools covered include: Windows</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32783</importID>
+      <speakers>
+        <speaker>
+          <id>32783</id>
+          <name>Sarah Barela</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Build your own SQL Server Cloud</title>
+      <description>There is no hotter term right now than cloud computing, however, exactly what this means is a mystery to many. We will begin by defining what cloud computing is and the benefits the technology offers the DBA. You may see the benefits of the cloud, but are not comfortable trusting your sensitive data to this nebulous cloud. The goal of this session is to provide you a blueprint to design and build your own SQL Server cloud, where you can control the server availability and performance reliability, yet still take advantage of the resource elasticity and hardware flexibility of the cloud.  In this session, I will show you how to use features like the resource governor, dynamic management views, policy based management and others to automate yo</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32552</importID>
+      <speakers>
+        <speaker>
+          <id>32552</id>
+          <name>Rob Collie</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>PowerPivot: BI  Massive Data Analysis for Humans</title>
+      <description>The paradox of Business Intelligence: it's one of the few tech sectors that actually grows during recessions, and yet, satisfaction levels with BI investments remain on average quite poor. Also, BI remains the domain of specialists, off-limits to most of us. Why do these conditions persist when the funding, and therefore the business need, only continues to grow? In this session I will demonstrate how PowerPivot is opening the world of BI to a broader audience ( range of applications). The only prereqs: curiosity, and fondness for numbers :) I will explain how PowerPivot impacts  benefits you depending on role (analyst, DBA, BI Pro, etc.), show off its capabilities in real-world usage, and field as many q's as you can muster :)
+</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34220</importID>
+      <speakers>
+        <speaker>
+          <id>34220</id>
+          <name>William E Pearson III</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Beyond Plateaux: Optimize SSAS via Best Practices</title>
+      <description>Whether we inherit our Analysis Services environments from predecessors or create them - learning as we go - ourselves, we often conclude that performance (processing and / or querying) and functionality can be enhanced. In this session, Microsoft BI Architect and SQL Server MVP Bill Pearson overviews ways to launch new capabilities, and to propel performance beyond its current plateau, using design best practices to better meet consumer performance and functional needs. This is the initial session of a set of detailed Best Practices presentations. </description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32207</importID>
+      <speakers>
+        <speaker>
+          <id>32207</id>
+          <name>Paul Hiles</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Take Your Automation Scripts to the Next Level!</title>
+      <description>DBA’s traditionally have a library of T-SQL scripts which they use in automating their job.  PowerShell, Microsoft’s newest scripting language, can take those T-SQL scripts to the next level.  PowerShell and the SMO (Server Management Objects) library allow a DBA to create scripts that will interact with the OS and SQL Server at the same time. In this session we reveal the power of automating SQL Server with PowerShell by reviewing a number of scripts that have been migrated from T-SQL to PowerShell.  This session will include scripts that will backup databases, interrogate a server, and script out objects from a database.</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30147</importID>
+      <speakers>
+        <speaker>
+          <id>30147</id>
+          <name>Eddie Wuerch</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Find Performance Problems by Reading the Waits</title>
+      <description>Start with a simple proposition: a process is either working or waiting.  You can tune the working part, but are you seeing the whole picture? There are many different resources on which your process could be waiting – a lock, memory, disk, CPU, and much more.  When a process must wait, SQL Server will log it. There are hundreds of different wait types, and they are a gold mine of data for finding and solving performance problems – and proving the changes worked.  After attending this session, you will be able to gather wait stats and use them to zero in on performance issues affecting your databases.  Stop guessing, start knowing!</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28933</importID>
+      <speakers>
+        <speaker>
+          <id>28933</id>
+          <name>Allen White</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Gather SQL Server Performance Data with PowerShell</title>
+      <description>We all know how important it is to keep a baseline of performance metrics that allow us to know when something is wrong and help us to track it down and fix the problem.  We don't always know how to do this easily and consistently.  This session will walk you through a series of PowerShell scripts you can schedule which will capture the most important data and a set of reports to show you how to use that data to keep your server running smoothly.</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32784</importID>
+      <speakers>
+        <speaker>
+          <id>32784</id>
+          <name>Sarah Barela</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Oh, no!  Disaster Strikes</title>
+      <description>No matter how much we prepare, when disaster strikes we all feel a moment of panic. For some that panic quickly passes as we get down to work to fix the problem. For others the panic continues to grow as we search for a solution. Of course back up is crucial, but in this session I will provide useful real world best practices that will show how to recover from disaster and more importantly how to prepare for the inevitable. Specifically how to recover from common disaster scenarios. For example, what to do when the master database is corrupt, a drive array with half your database files fails, a hardware failure, a SQL injection attacks wipes out whole tables and many more.</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34225</importID>
+      <speakers>
+        <speaker>
+          <id>34225</id>
+          <name>William E Pearson III</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Getting Started with MDX</title>
+      <description>In this session, led by Microsoft BI Architect and SQL Server MVP Bill Pearson, we will concentrate largely upon crafting simple MDX expressions and queries whose purposes, for the most part, are to return a set of data. We will overview the structure of a cube, using as a basis the sample Adventure Works cube that is available to anyone installing SQL Server Analysis Services 2008 R2. We will then outline the components of simple MDX syntax, and get started writing basic expressions and queries. We will expose basic member functions, introduce filters (or “slicers”), and begin exploring core MDX functionality, including calculated members, and named sets. </description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30148</importID>
+      <speakers>
+        <speaker>
+          <id>30148</id>
+          <name>Eddie Wuerch</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>TempDB Performance Troubleshooting and Optimizing</title>
+      <description>Every SQL Server instance relies on the tempdb database. Whether through explicit use with #temp tables or @table variables, or implicit use through working space for many other operations, most tempdb databases get quite a workout. This session will dig into many of the otherwise-hidden issues that can kill performance, including prevention, detection, and resolution of these problems.</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30778</importID>
+      <speakers>
+        <speaker>
+          <id>30778</id>
+          <name>Jes Schultz</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Reporting Services 201: From Basic To WOW! </title>
+      <description>You have mastered the art of linking a dataset to a table in SQL Server Reporting Services. You have solid, reliable reports that you and others depend on. Learn how to take them from basic to "wow", using features such as tablix, lists, images, and charts. At the end of this session, you will be familiar with:
+- Report properties such as headers, footers and backgrounds 
+- Tablix properties such as ToolTip and NoRows 
+- How to build and customize a matrix 
+- How to effectively use lists, an often-overlooked feature 
+- Adding charts to make reports visually appealing and easy to understand 
+</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33454</importID>
+      <speakers>
+        <speaker>
+          <id>33454</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SANs and SQL Server</title>
+      <description>Simple title says it all. Lets get down and dirty on some fundamentals and then numerous details of how SANs work and how we can best utilize and tune them to improve SQL Server's IO performance and reliability.</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29988</importID>
+      <speakers>
+        <speaker>
+          <id>29988</id>
+          <name>Dave Rodabaugh</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Backyard Grilling with Analysis Services</title>
+      <description>Like great grilling, great SSAS starts with fundamentals.  We'll cook Rachel Ray's ingredients on the SSAS grill, showing all the basics for creating SSAS dimensions, measure groups, and performing basic calculations.  Add a lettuce, tomato, mayonnaise, and you have a tasty cube!</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33452</importID>
+      <speakers>
+        <speaker>
+          <id>33452</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Partitioning from A to Z</title>
+      <description>SQL Server Partitioning from A to Z 
+We will cover most of the bases in this broad and deep coverage of table/index partitioning in the relational engine. Numerous demonstrations will help gel knowledge you can take back to the office and begin to apply to your environments to reap the many benefits of this fine addition to the product that has been significantly enhanced since SQL 2005.</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32208</importID>
+      <speakers>
+        <speaker>
+          <id>32208</id>
+          <name>Paul Hiles</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>DMVs- What are they and why should a DBA care? </title>
+      <description>DMVs - Dynamic Management Views and Functions are the DBA’s looking glass into the internals of SQL Server. They will give a DBA a snapshot on how the database is performing and potential problem areas. In this session, we will review a number of DMVs describing the types of information that can be captures and how it might be used. This review will include index statistics, query performance, memory utilization to name a few.</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28931</importID>
+      <speakers>
+        <speaker>
+          <id>28931</id>
+          <name>Allen White</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Let Service Broker Help You Scale Your Application</title>
+      <description>How your business applications interact with the corporate database directly can have a dramatic impact on how successful you are, and one of the biggest issues is performance with large databases.  By designing the application to use asynchronous messaging for non-critical updates you can focus performance concerns to where the timeliness is critical.  SQL Server Service Broker handles the asynchronous requests quickly and efficiently, and minimizes the conflicts with your critical updates.  This session will walk you through the steps to get Service Broker up and running and providing a consistent delivery of your business data.</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28961</importID>
+      <speakers>
+        <speaker>
+          <id>28961</id>
+          <name>Kevin Cross</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Business SQL: Real World Analytics</title>
+      <description>For the Analytical Business User, we will explore some SQL syntax tricks and advanced techniques that will help you better take advantage of your application data. The goal of this session will be to learn how analytical functions, common table expressions and special keywords (e.g., PIVOT) can assist you in turning your data into useful business information! Furthermore, we will use Sales-based performance measure/trending style reports for our exploration of these tips...</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29647</importID>
+      <speakers>
+        <speaker>
+          <id>29647</id>
+          <name>Craig Purnell</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Integrating SQL Server with Active Directory</title>
+      <description>A discussion involving the various touch points between SQL Server and AD: ADSI - loading AD user information into 
+SQL Server for application integration; Registering SQL Server in AD for both browsing and replication; how to 
+configure SQL Server to use Kerberos authentication; the use of service principal names on both server and client 
+sides.</description>
+      <startTime>6/11/2011 12:00:00 AM</startTime>
+      <endTime>6/11/2011 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

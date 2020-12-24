@@ -1,0 +1,97 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #339 - Shanghai 2015</name>
+    <startDate>5/9/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>150</attendeeEstimate>
+    <timezone>(GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatShanghai</twitterHashtag>
+    <venue>
+      <name>Microsoft (China) Shanghai GGW office </name>
+      <street>虹桥路3号</street>
+      <city>Shanghai</city>
+      <state>Shanghai, China</state>
+      <zipcode>200051</zipcode>
+      <longitude>121.437217</longitude>
+      <latitude>31.194666</latitude>
+    </venue>
+  </guide>
+  <speakers>
+    <speaker>
+      <importID>19090</importID>
+      <name>Leonard Lobel</name>
+      <label>
+      </label>
+      <description>Leonard Lobel (Microsoft MVP, Data Platform) is CTO and co-founder of Sleek Technologies, Inc., a New York-based development shop with an early adopter philosophy toward new technologies. He is also a principal consultant at Tallan, Inc., a Microsoft National Systems Integrator and Gold Competency Partner.
+
+Programming since 1979, Lenni specializes in Microsoft-based solutions, with experience that spans a variety of business domains, including publishing, financial, wholesale/retail, health care, and e-commerce. Lenni has served as chief architect and lead developer for various organizations, ranging from small shops to high-profile clients. He is also a consultant, trainer, and frequent speaker at local usergroup meetings, VSLive, SQL PASS, and other industry conferences.
+
+Lenni has also authored several MS Press books and Pluralsight courses on SQL Server programming.</description>
+      <twitter>@lennilobel</twitter>
+      <linkedin>http://www.linkedin.com/in/lennilobel</linkedin>
+      <ContactURL>http://lennilobel.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@lennilobel</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15766</importID>
+      <name>Janos Berke</name>
+      <label>
+      </label>
+      <description>I am  an IT professional with over a decade of technical and management experience. I am using SQL Server since version 6.5. Currently I am a  consultant and helping companies in SQL Server design, migrations, operation and developments as well as providing customized training .</description>
+      <twitter>@JanosBerke</twitter>
+      <linkedin>https://hu.linkedin.com/in/janosberke</linkedin>
+      <ContactURL>http://www.iamberke.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@JanosBerke</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>19090</importID>
+      <speakers>
+        <speaker>
+          <id>19090</id>
+          <name>Leonard Lobel</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Programming T-SQL Enhancements in SQL Server 2012</title>
+      <description>As SQL Server evolves, so does Microsoft continue to improve and enhance Transact SQL (T-SQL). In SQL Server 2012, T-SQL remains the primary language for programming the relational database engine. In this informative and demo-packed session, Lenni will guide you through the T-SQL enhancements in the very latest release of SQL Server. We’ll dive into powerful new windowing enhancements with the OVER clause, running and sliding aggregations, new T-SQL functions (all 22 of them!), improved error handling with THROW, server-side paging with OFFSET/FETCH NEXT, sequence generators, and rich metadata discovery techniques. If you want to learn the new T-SQL enhancements in SQL Server 2012, you won’t want to miss out on this session!</description>
+      <startTime>5/9/2015 12:00:00 AM</startTime>
+      <endTime>5/9/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15766</importID>
+      <speakers>
+        <speaker>
+          <id>15766</id>
+          <name>Janos Berke</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Practical Management Data Warehouse</title>
+      <description>MDW is a free monitoring tool provided with SQL Server since version 2008. This session will cover the following topics:
+- Data Collection basics
+- Data Collector Security
+- MDW report security
+- Custom collectors and reports
+- Multi server/instance monitoring
+- MDW vs. Performance Dashboard
+- DEMO: Basic troubleshooting scenario
+- Real world implementation scenario w/ multi instance monitoring and high availability w/ AAG (Availability Group)
+- Other free/commercial tools
+</description>
+      <startTime>5/9/2015 12:00:00 AM</startTime>
+      <endTime>5/9/2015 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

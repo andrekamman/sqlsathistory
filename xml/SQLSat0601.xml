@@ -1,0 +1,651 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #601 - Belgrade 2017</name>
+    <startDate>3/18/2017 12:00:00 AM</startDate>
+    <attendeeEstimate>245</attendeeEstimate>
+    <timezone>(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatbelgrade</twitterHashtag>
+    <venue>
+      <name>Univerzitet Singidunum</name>
+      <street>Kumodraška 261, Beograd</street>
+      <city>Belgrade</city>
+      <state>Belgrade, Serbia</state>
+      <zipcode>11000</zipcode>
+      <longitude>20.49659</longitude>
+      <latitude>44.75941</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1608</importID>
+      <name>ApexSQL</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.apexsql.com/</url>
+      <imageURL>https://www.apexsql.com/images/ApexSQL_Logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>57572</importID>
+      <name>Mihail Mateev</name>
+      <label>
+      </label>
+      <description>Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Mentor for CEE, chapter lead, Microsoft Azure MVP, Microsoft Regional Director. He works as a Senior Solutions Architect at EPAM Systems, focused on Data Platform, IoT and cloud related solutions. He also worked many years like a Technical evangelist in the Infragistics. Last years Mihail was focused on various areas related to technology Microsoft: Data Platform, Visual Studio, ASP.Net, Windows client apps, Data Platform, and Microsoft Azure. Michael also has a PhD in cloud computing area. He is a university lecturer on Smart Homes and Smart Energy IoT Solutions.</description>
+      <twitter>mihailmateev</twitter>
+      <linkedin>http://www.linkedin.com/pub/mihail-mateev/1/6b3/4b1</linkedin>
+      <ContactURL>https://mmateev.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mihailmateev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>63422</importID>
+      <name>Vladimir Markovic</name>
+      <label>
+      </label>
+      <description>https://rs.linkedin.com/in/vlmarkovic</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://rs.linkedin.com/in/vlmarkovic</linkedin>
+      <ContactURL>https://rs.linkedin.com/in/vlmarkovic</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>56914</importID>
+      <name>Dejan Sarka</name>
+      <label>
+      </label>
+      <description>Dejan Sarka, MCT and Data Platform MVP, is an independent trainer and consultant that focuses on development of database and business intelligence applications. Besides projects, he spends about half of his time on training and mentoring. He is the founder of the Slovenian SQL Server and .NET Users Group. Dejan Sarka is the main author or co-author of eighteen books about databases and SQL Server. Dejan Sarka has also developed many courses and seminars for Microsoft, Radacad, SolidQ, and Pluralsight.</description>
+      <twitter>DejanSarka</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.solidq.com/dsarka/Home.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DejanSarka</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>58059</importID>
+      <name>Tomaž Kaštrun</name>
+      <label>
+      </label>
+      <description>Tomaž Kaštrun is BI developer and data analyst. His main focus are data mining, T-SQL development, programming and query optimization. He has been working with SQL server since version 2000. He is Microsoft Certified Professional, Microsoft MVP for data platform and Microsoft trainer.</description>
+      <twitter>@tomaz_tsql</twitter>
+      <linkedin>http://www.linkedin.com/tomaz.kastrun</linkedin>
+      <ContactURL>http://www.tomaztsql.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@tomaz_tsql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>63099</importID>
+      <name>Dragoslav Ogar</name>
+      <label>
+      </label>
+      <description>Dragoslav Ogar is a CEO/Consultant/Trainer of A4ATCP d.o.o. Belgrade. He has 25 years of real-life and theoretical experience with information technologies. He is a tch.math.
+As Microsoft trainer, he delivered about 70 different MOCs at all and more than 15,000 hours. 
+On five Microsoft conferences, Sinergija 04, 06, 10, 11 and 13, held in Serbia, he was awarded as one of best speakers.
+Except SQL Server field, his favorite areas are Entity Framework, OData, MVC, and SOLID, also.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/pub/dragoslav-ogar/58/488/845</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>61150</importID>
+      <name>Catalin Gheorghiu</name>
+      <label>
+      </label>
+      <description>Catalin Gheorghiu is a solution architect from Romania. He has more than 15 years of experience in developing solutions, especially on Microsoft technologies in very demanding environments. Is contributing articles and blogs to several user groups (MrSmersh), lecturing all over Romania and abroad, is also RONUA Timisoara (PASS Chapter) user group leader. Since 2011, every year he was awarded the Microsoft MVP Award.</description>
+      <twitter>MrSmersh</twitter>
+      <linkedin>?https://ro.linkedin.com/in/catalingheorghiu?</linkedin>
+      <ContactURL>http://ronua.ro/author/catalin/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MrSmersh</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>63421</importID>
+      <name>Goran Milanov</name>
+      <label>
+      </label>
+      <description>My areas of interest are Microsoft SQL Server and its services as the bases for development of Data Warehouse and Business Intelligence Systems (SSAS, SSRS, SSIS, MDS, DQS, PowerPivot, Tabular Model …). For the last five years I have been one of the coordinators of the Belgrade SQL Server User Group. In April 2012, I got the first Microsoft MVP award.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/pub/goran-milanov/58/389/75</linkedin>
+      <ContactURL>http://www.goranmilanov.rs</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>59303</importID>
+      <name>Miloš Radivojević</name>
+      <label>
+      </label>
+      <description>Miloš Radivojević is a database consultant located in Vienna, Austria. He is Data Platform MVP and specializes in SQL Server for application developers and performance and query tuning. Currently, he works as a principal database consultant in bwin GVC (the largest regulated online gaming company in the world). He is co-founder of the SQL Pass Austria and speaks regularly at local and international database conferences. He is also co-author of the books SQL Server 2016 Developer's Guide, SQL Server 2017 Developer's Guide and Mastering SQL Server 2017.</description>
+      <twitter>MilosSQL</twitter>
+      <linkedin>http://at.linkedin.com/pub/milos-radivojevic/1b/7bb/290/de</linkedin>
+      <ContactURL>https://milossql.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MilosSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>61738</importID>
+      <name>Maja Damjanic</name>
+      <label>
+      </label>
+      <description>Program Manager based in Microsoft Development Center Serbia, currently contributing to some of key Microsoft big data solutions such as Azure Data Lake Analytics</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/majadamjanic</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62507</importID>
+      <name>Mladen Andzic</name>
+      <label>
+      </label>
+      <description>Mladen is a Senior Program Manager in Azure SQL Database team, working on the SQL Managed Instance and data estate modernization in Azure. His current focus areas are high availability and service integration. Prior to joining Microsoft in 2016 Mladen spent 15 years in the software and financial services industry mostly working on the mission-critical systems. Ask him also about geospatial analytics - he loves it.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/mladenandzic/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>56945</importID>
+      <name>Christopher Adkin</name>
+      <label>
+      </label>
+      <description>Chris is a freelance SQL consultant who has been working with SQL Server since 2000, his passion is for squeezing every last drop of performance out of SQL Server and understanding the database engine at a level which conventional tools cannot provide any insights on.</description>
+      <twitter>ChrisAdkin8</twitter>
+      <linkedin>https://www.linkedin.com/in/wollatondba</linkedin>
+      <ContactURL>http://www.chrisadkin.io</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ChrisAdkin8</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62571</importID>
+      <name>Veljko Vasic</name>
+      <label>
+      </label>
+      <description>Program manager 2 in Microsoft. Last 5 years worked as developer, data scientist and program manager.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>61703</importID>
+      <name>Janos Berke</name>
+      <label>
+      </label>
+      <description>I am  an IT professional with over a decade of technical and management experience. I am using SQL Server since version 6.5. Currently I am a  consultant and helping companies in SQL Server design, migrations, operation and developments as well as providing customized training .</description>
+      <twitter>@JanosBerke</twitter>
+      <linkedin>https://hu.linkedin.com/in/janosberke</linkedin>
+      <ContactURL>http://www.iamberke.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@JanosBerke</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>57938</importID>
+      <name>Dr. Subramani Paramasivam</name>
+      <label>
+      </label>
+      <description>Dr.SubraMANI Paramasivam is a Microsoft MVP, PhD, Microsoft Certified Trainer and Head of Data  AI at DAGEOP Ltd having 21 years of DB, BI, Analytics and AI experience. Mani has also spoken in various events like MS IGNITE, PASS Summit, MS Inspire, SQLBITS, Power Platform Summit, Global AI Bootcamp, Data  BI Summit, SQLRelay,  Power BI World Tour, Data Platform Summit, INSIDESQL UK, Global AI Nights, SQLServerGeeks Summit, MCT Global Summits, Data Day Events and various user group events. Mani also believes in Empowering Every Person in the planet and spreads the awareness on Global challenges via www.EmpoweringEveryPerson.com. He is also a co-owner of 1 Global AI Meetup and 3 Power BI PUG  PASS local / user groups.</description>
+      <twitter>https://twitter.com/dageop</twitter>
+      <linkedin>http://uk.linkedin.com/in/dageop</linkedin>
+      <ContactURL>http://www.yoursqlman.com/index.php/blogs</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dageop</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>59397</importID>
+      <name>Zoltán Horváth</name>
+      <label>
+      </label>
+      <description>Zolt#225;n is a BI specialist with more than a decade of expertise. He leads the Hungarian User Group of Microsoft SQL Server (HUG-MSSQL), the Hungarian Chapter of PASS. MCSE: BI and MCSE: Data Platform. SQL Server MVP since 2015.</description>
+      <twitter>@zoltanhorvath</twitter>
+      <linkedin>http://www.linkedin.com/in/zhorvath</linkedin>
+      <ContactURL>http://addictivemeasures.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@zoltanhorvath</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>61740</importID>
+      <name>Jovan Popovic</name>
+      <label>
+      </label>
+      <description>Senior program manager working in Microsoft Data Platform Group on different relational database systems such as SQL Server 2016+, Azure SQL Database, and Azure SQL Managed Instance. Worked on many features delivered in SQL Server 2016+, for example, JSON Support, T-SQL language, In-memory OLTP (Hekaton), Columnstore indexes, Temporal, Intelligent database features, etc. Jovan was presenter on many internal and public Microsoft events such as TechReady, PASS Summit, SQLSaturdays, etc. Jovan holds PhD degree in computer science.</description>
+      <twitter>https://twitter.com/JovanPop_MSFT</twitter>
+      <linkedin>https://www.linkedin.com/in/jovan-popovic/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/JovanPop_MSFT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>57055</importID>
+      <name>Ivan Donev</name>
+      <label>
+      </label>
+      <description>I am a Data platform MVP with more than 10 years of real-life experience with SQL Server and its stack of services. Besides the support and project work, I am also a trainer, conference speaker and user group organizer (and volunteer).</description>
+      <twitter>https://twitter.com/ikdonev</twitter>
+      <linkedin>https://www.linkedin.com/in/ivandonev/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/ikdonev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>63423</importID>
+      <name>Dejan Pervulov</name>
+      <label>
+      </label>
+      <description>As a technical consultant Dejan participated in numerous ERP, CRM and DWH / BI projects in the CEE region. He is also involved in development with Microsoft technologies for last 18 years. Holds MCT, MCSE, MCSA, MCSD, MCDBA, MCTS and MCITP certifications. As a Microsoft Certified Trainer he was involved in preparation and delivery of trainings in several school centers in Serbia. Since October 2014, he is a Microsoft MVP for SQL Server.</description>
+      <twitter>@dekiper</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@dekiper</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62435</importID>
+      <name>Milos Todic</name>
+      <label>
+      </label>
+      <description>I am Milos Todic, Software Engineer at Microsoft. I started working at Microsoft in 2009 after I finished studies of Electrical Engineering at university of Belgrade. My initial role was Software Development Engineer in Test. I worked on several projects related to SQL Server and HDInsight. For the last several years I'm working as Software Engineer on numerous projects related to Columnstore Index technology in SQL Server engine (Columnstore index reorganize, snapshot versioning, compression delay, Tuple mover, LOB support in clustered Columnstore, etc.)</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/milos-todic-80996920</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>56914</importID>
+      <speakers>
+        <speaker>
+          <id>56914</id>
+          <name>Dejan Sarka</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 005</name>
+      </location>
+      <title>High-Performance Statistical Queries</title>
+      <description>Transact-SQL language in latest editions of SQL Server has so many business intelligence (BI) improvements that it might become your primary analytic database system. You might even decide to use T-SQL for advanced analyses directly, without including R, SSAS or Azure ML. However, to get the maximum out of these language constructs, you need to learn how to properly use them. This in-depth session shows extremely efficient statistical queries that use the new window functions and are optimized through algorithms that use mathematical knowledge and creativity. During the session, the formulas and usage of those statistical procedures are explained as well. This session is useful not only for BI developers; database and other developers can successfully learn how to write efficient queries. Or maybe you want to become a data scientist? Then you need to know statistics and programming. You get the best of both in this session.</description>
+      <startTime>3/18/2017 11:45:00 AM</startTime>
+      <endTime>3/18/2017 12:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>58059</importID>
+      <speakers>
+        <speaker>
+          <id>58059</id>
+          <name>Tomaž Kaštrun</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Room 001</name>
+      </location>
+      <title>Microsoft Azure Machine Learning Algorithms</title>
+      <description>Machine learning service is Microsoft Azure drag and drop tool for building,testing and deploying any kind of predictive model on your data-set. Finalized solution is published and used by daily business in larger stack of your Microsoft Azure services. With easy and interactive creation of models, algorithms and decisions do not tend to be that simple! Especially when one has to make business decision on results.
+
+Focus on this session will be mathematical and graphical explanation of algorithms available for predictive analytics in Azure Machine Learning service. Algorithms - grouped by learning type - will be examined and crossed referenced through all available and ready-to-use. Understanding the the basics - data inference, data splitting, data stratification, to sweeping, to theory of algorithms: regression, decision trees, Clustering and Naive Bayes. We will clarify the confusion over algorithms, suitable data for algorithms and what type of problem can be tackled with.</description>
+      <startTime>3/18/2017 1:45:00 PM</startTime>
+      <endTime>3/18/2017 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>61738</importID>
+      <speakers>
+        <speaker>
+          <id>61738</id>
+          <name>Maja Damjanic</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Room 015</name>
+      </location>
+      <title>Big data solutions on Microsoft Azure</title>
+      <description>Today, data is everywhere, in all forms and sizes and being generated faster then ever before. In the same time, falling storage costs for data make it cheap to store vast amounts of information and cloud solutions offer compute power on demand. With all the technology innovation, today, easier then ever, any organization can start gaining insights and making data driven decisions. Microsoft in no exception here, so we build bunch of solutions for our own teams. Now, we're taking everything we've learned on this journey and bringing it to our customers. Joint the session to learn about different big data solutions which Microsoft offers on Azure and how to get started with some of them.</description>
+      <startTime>3/18/2017 10:30:00 AM</startTime>
+      <endTime>3/18/2017 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>59397</importID>
+      <speakers>
+        <speaker>
+          <id>59397</id>
+          <name>Zoltán Horváth</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 001</name>
+      </location>
+      <title>SSAS Query Performance Tuning</title>
+      <description>Slow cubes? Don't worry, you have a lot of options. Join this session and let me show you how aggregations and partitioning work (even on Standard Edition with a workaround!), and how to scale your solution to deal with heavy workloads.</description>
+      <startTime>3/18/2017 9:15:00 AM</startTime>
+      <endTime>3/18/2017 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>61703</importID>
+      <speakers>
+        <speaker>
+          <id>61703</id>
+          <name>Janos Berke</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 005</name>
+      </location>
+      <title>What is new in SQL Server 2016 Availability Group [EN]</title>
+      <description>SQL Server 2016 has lots of new features and changes in Availability Group. This session is about the new things and demo about the followings: Workgroup cluster + AAG, Direct Seeding, DB_FAILOVER and Load balancing secondary replica.</description>
+      <startTime>3/18/2017 9:15:00 AM</startTime>
+      <endTime>3/18/2017 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>56945</importID>
+      <speakers>
+        <speaker>
+          <id>56945</id>
+          <name>Christopher Adkin</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 005</name>
+      </location>
+      <title>Problem Solving With The In-Memory Engine</title>
+      <description>There is a vast array of material in the SQL Server community that covers the in-memory engine in great detail, this session will cover some of the internals of the in-memory engine, however what it will also do is fill in the void as to common performance issues and how they can be solved with the in-memory engine, specifically:
+
+- Staging data as fast as possible
+- Turbo charging scalar aggregate functions
+- Implementing a scalable sequence
+- Overcoming the performance limitations of temporary tables
+- Making the critical path in your code base run faster</description>
+      <startTime>3/18/2017 10:30:00 AM</startTime>
+      <endTime>3/18/2017 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>63421</importID>
+      <speakers>
+        <speaker>
+          <id>63421</id>
+          <name>Goran Milanov</name>
+        </speaker>
+      </speakers>
+      <track>Information Delivery</track>
+      <location>
+        <name>Room 005</name>
+      </location>
+      <title>Welcome note - Room 1</title>
+      <description>Keynote session</description>
+      <startTime>3/18/2017 9:00:00 AM</startTime>
+      <endTime>3/18/2017 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>57055</importID>
+      <speakers>
+        <speaker>
+          <id>57055</id>
+          <name>Ivan Donev</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 005</name>
+      </location>
+      <title>Notes from the field of a Microsoft SQL Engineer</title>
+      <description>Being part of Microsoft is challenging. But also rewarding. With the countless cases of pretty and not so pretty SQL Servers. With so many good, but also bad practices. Cases going from badly written code to cases with improper plan caching. And I want to share them all with you. So let's hope we have enough time to do that!</description>
+      <startTime>3/18/2017 4:15:00 PM</startTime>
+      <endTime>3/18/2017 5:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>63423</importID>
+      <speakers>
+        <speaker>
+          <id>63423</id>
+          <name>Dejan Pervulov</name>
+        </speaker>
+      </speakers>
+      <track>Information Delivery</track>
+      <location>
+        <name>Room 015</name>
+      </location>
+      <title>Welcome note - Room 3</title>
+      <description>Keynote session</description>
+      <startTime>3/18/2017 9:00:00 AM</startTime>
+      <endTime>3/18/2017 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>57572</importID>
+      <speakers>
+        <speaker>
+          <id>57572</id>
+          <name>Mihail Mateev</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Room 015</name>
+      </location>
+      <title>Creating Custom BI Solutions with Power BI Embedded</title>
+      <description>Microsoft Power BI Embedded is a Microsoft Azure that enables developers to integrate Power BI reports into their web or mobile applications so they don’t need to build custom solutions to visualize data for the users. 
+Microsoft Power BI Embedded helps Independent Software Vendors to use Power BI data experiences within their applications. Customers, who use applications with Power BI Embedded don’t need to have a Power BI account or to know anything about this Azure service. 
+This talk is a practical session on Microsoft Power BI Embedded concept with many examples how to create custom BI solutions using this technology.</description>
+      <startTime>3/18/2017 4:15:00 PM</startTime>
+      <endTime>3/18/2017 5:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>63099</importID>
+      <speakers>
+        <speaker>
+          <id>63099</id>
+          <name>Dragoslav Ogar</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 005</name>
+      </location>
+      <title>Row-level security</title>
+      <description>Row-level security</description>
+      <startTime>3/18/2017 1:45:00 PM</startTime>
+      <endTime>3/18/2017 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>61740</importID>
+      <speakers>
+        <speaker>
+          <id>61740</id>
+          <name>Jovan Popovic</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 015</name>
+      </location>
+      <title>SQL Server and JSON in real applications</title>
+      <description>JSON support that was introduced in SQL Server 2016 and Azure SQL Database enables you to get the best both from relational and NoSQL worlds. You can easily combine relational design that provides high query performance and non-relational concepts that provide you flexibility and rapid development to create optimal design for your application.
+In this session, we will see how you can combine relational data and JSON, query and index JSON data, load semi-structured data from log files, create REST/OData services, and easily integrate your database with modern web apps.</description>
+      <startTime>3/18/2017 11:45:00 AM</startTime>
+      <endTime>3/18/2017 12:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62435</importID>
+      <speakers>
+        <speaker>
+          <id>62435</id>
+          <name>Milos Todic</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 015</name>
+      </location>
+      <title>Columnstore Index Internals</title>
+      <description>Columnstore technology in SQL Server has been continuously improved with new features and capabilities. In this session we will talk about Columnstore Index basics, and then dive into some of the internal details. Let's cover all available Columnstore Index flavors and when each of them should be used. We'll go through some of the features and how to utilize them the best. We'll also talk about maintenance of Columnstore Index internal structures to keep the best possible performance, as well as other best practices, tips and tricks.</description>
+      <startTime>3/18/2017 1:45:00 PM</startTime>
+      <endTime>3/18/2017 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>57938</importID>
+      <speakers>
+        <speaker>
+          <id>57938</id>
+          <name>Dr. Subramani Paramasivam</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Room 001</name>
+      </location>
+      <title>Think  work like a Data Scientist with SQL 2016 R</title>
+      <description>What are these DATA Scientists up to? How can we see their statistical model in our day to day familiar tool like Microsoft SQL Server?
+
+You now have answers to these questions and thanks to Microsoft for integrating R Revolution within new SQL Server 2016. We all now have the opportunity to use R packages and see the results within SQL 2016.
+
+In this session, you will definitely take away a breakthrough concept of Advanced R Analytics within SQL 2016 and get ready to kick your creative horse, and go beyond your imagination on how you can build advanced analytics and impress your employers/customers.</description>
+      <startTime>3/18/2017 3:00:00 PM</startTime>
+      <endTime>3/18/2017 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>63422</importID>
+      <speakers>
+        <speaker>
+          <id>63422</id>
+          <name>Vladimir Markovic</name>
+        </speaker>
+      </speakers>
+      <track>Information Delivery</track>
+      <location>
+        <name>Room 001</name>
+      </location>
+      <title>Welcome note - Room 2</title>
+      <description>Keynote session</description>
+      <startTime>3/18/2017 9:00:00 AM</startTime>
+      <endTime>3/18/2017 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>62571</importID>
+      <speakers>
+        <speaker>
+          <id>62571</id>
+          <name>Veljko Vasic</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Room 015</name>
+      </location>
+      <title>Achieve great performance with Azure SQL Database using built-in intelligence</title>
+      <description>Microsoft Azure SQL Database's built-in smart tuning models help you achieve great performance for your database apps while saving you time and effort in the process. We demo the state-of-the-art capabilities, including tailored actionable recommendations, auto-tuning and insights into query performance. In addition, we present real-life case studies to illustrate how SQL Database built-in tuning will make a difference for your app performance.</description>
+      <startTime>3/18/2017 9:15:00 AM</startTime>
+      <endTime>3/18/2017 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>59303</importID>
+      <speakers>
+        <speaker>
+          <id>59303</id>
+          <name>Miloš Radivojević</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 005</name>
+      </location>
+      <title>Call 555 - 333 for Query Store</title>
+      <description>U ovoj sesiji potrudiću se da dočaram zašto je Query Store najvažnije dostignuće Database Engine-a nakon 2005. i OPTION(RECOMPILE).</description>
+      <startTime>3/18/2017 3:00:00 PM</startTime>
+      <endTime>3/18/2017 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62507</importID>
+      <speakers>
+        <speaker>
+          <id>62507</id>
+          <name>Mladen Andzic</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Room 015</name>
+      </location>
+      <title>Spatial Analytics with SQL Server 2016 and Azure SQL Database</title>
+      <description>Spatial dimension of business such as ‘where are things happening’ and ‘where are my customers’ becomes more and more important. An unprecedented amount of location-referenced data that will be produced in years to come has to be not just stored, but more important analyzed on strategic, tactical and operational level, sometimes in (near) real time. This session covers use cases and best practices for spatial analytics and shows significant performance improvements in spatial with SQL Server 2016 and demonstrates synergy offered in Azure ecosystem.</description>
+      <startTime>3/18/2017 3:00:00 PM</startTime>
+      <endTime>3/18/2017 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>61150</importID>
+      <speakers>
+        <speaker>
+          <id>61150</id>
+          <name>Catalin Gheorghiu</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 001</name>
+      </location>
+      <title>SQL database on IoT devices, could you? should you? would you?</title>
+      <description>The current IoT devices are pretty powerful, so could very well run a version of SQL engine.
+It would be a good idea?  What will be the use of it? How to make it work and make the most of it? 
+How does all fit with the field gateway concept?  During the presentation, we will take a real word scenario, real hardware, and together we will try to answer these questions</description>
+      <startTime>3/18/2017 11:45:00 AM</startTime>
+      <endTime>3/18/2017 12:45:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

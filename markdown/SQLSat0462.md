@@ -1,0 +1,21 @@
+# SQLSaturday #462 - Parma 2015
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:30:00|Luca Ferrari|SQL Server 2016|[Sql server 2016 What's new ?](38685.md)
+09:30:00|Peter Myers|Cloud  Dev|[Power BI for the Developer](40188.md)
+09:30:00|Andrea Martorana Tusa|Analytics  Reporting|[Choosing the right Mobile BI tool: SSRS vs Power BI vs Datazen](40461.md)
+11:00:00|Alessandro Alpi|SQL Server 2016|[SQL Server 2016 JSON support](38692.md)
+11:00:00|Marco Parenzan|Cloud  Dev|[Stream Analytics on premise and on the Cloud with SQL](40241.md)
+11:00:00|Andrea Martorana Tusa|Analytics  Reporting|[Choosing the right Mobile BI tool (seconda parte)](40796.md)
+12:00:00|Sergio Govoni|SQL Server 2016|[The most prominent wait types of your SQL Server 2016 (IT)](38701.md)
+12:00:00|Nicola Pressi|Analytics  Reporting|[SSRS - Charts like you've never seen before](40534.md)
+12:00:00|Alberto Dallagiacoma|Cloud  Dev|[Entity Framework e SQL Server - Better Together](40823.md)
+14:00:00|Gilberto Zampatti|SQL Server 2016|[SQL Server 2016: Maturazione dell'In-Memory OLTP](38663.md)
+14:00:00|Peter Myers|Cloud  Dev|[Azure Machine Learning: From Design to Integration](40183.md)
+14:00:00|Bent Pedersen|Analytics  Reporting|[Datazen - On-premise mobile bi](40916.md)
+15:00:00|Marco Pozzan|Analytics  Reporting|[Power Query](38668.md)
+15:00:00|Emanuele Zanchettin|Cloud  Dev|[Implementing and Maintaining an Azure SQL Database project](40544.md)
+15:00:00|Saverio Lorenzini|SQL Server 2016|[SQL Server 2016 Query Store: un nuovo modo di ottimizzare le query](40978.md)
+16:30:00|Pasquale Ceglie|SQL Server 2016|[SQL Server 2016 Temporal tables: Viaggiare nel tempo con SQL Server](39591.md)
+16:30:00|Elvis Talic|Analytics  Reporting|[Many to Many in SSAS Multidimensional: How To Implement It](40282.md)
+16:30:00|Marco De Nittis|Cloud  Dev|[DocumentDB Jumpstart, NoSQL adventures in Azure](40483.md)

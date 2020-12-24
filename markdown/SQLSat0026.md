@@ -1,0 +1,20 @@
+# SQLSaturday #26 - Redmond 2009
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Allan Hirt| Track 1|[Failover Clustering with Windows Server 2008](28613.md)
+00:00:00|Robert Cain|Track 2|[SQL Server Full Text Searching - An Introduction](28758.md)
+00:00:00|Robert Cain|Track 3 |[Introduction to SQL Server Integration Services](28759.md)
+00:00:00|Robert Cain|Track 3 |[Introduction to Data Warehousing / BI](28760.md)
+00:00:00|Arnie Rowland|Track 3 |[Simple Solutions for Vexing T-SQL Problems](28863.md)
+00:00:00|Don Watters| Track 1|[PowerShell for the Data Professional](29962.md)
+00:00:00|Kalen Delaney| Track 1|[DBA Basic Checklist ](31169.md)
+00:00:00|Remus Rusanu|Track 2|[Asynchronous T-SQL processing](32486.md)
+00:00:00|Rob Garrison| Track 1|[Exploring SQL 2008’s Transparent Data Encryption](32557.md)
+00:00:00|Rob Garrison| Track 1|[Exploring SQL Server Column-Level Encryption](32558.md)
+00:00:00|Robert Davis|Track 2|[Database Mirroring: Maximizing Availability Throug](32608.md)
+00:00:00|Robert Davis|Track 3 |[Using SQL Trace/Profiler Effectively:](32609.md)
+00:00:00|Shalu  Goel|Track 3 |[BI Dashboards in Sql Reporting Services](32902.md)
+00:00:00|Arnie Rowland|Track 2|[Hacking SQL / SQL Injection](34975.md)
+00:00:00|Buck Woody| Track 1|[The SQL Server Resource Governor](35049.md)
+00:00:00|Greg Larsen|Track 2|[T-SQL Best Practices](35131.md)
+00:00:00|Ron Talmage|Track 2|[Table Partitioning Scenarios](35410.md)

@@ -1,0 +1,693 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #519 - Plovdiv 2016</name>
+    <startDate>5/28/2016 12:00:00 AM</startDate>
+    <attendeeEstimate>120</attendeeEstimate>
+    <timezone>(GMT+02:00) Cairo</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatPlovdiv</twitterHashtag>
+    <venue>
+      <name>Culture Centre "Boris Hristov"</name>
+      <street>15 Gladston Str., 4000 Plovdiv, Bulgaria</street>
+      <city>Plovdiv</city>
+      <state>Plovdiv, Bulgaria</state>
+      <zipcode>4000</zipcode>
+      <longitude>24.7428</longitude>
+      <latitude>42.14192</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1155</importID>
+      <name>SuperHosting.BG</name>
+      <label>Gold Sponsor (546 USD)</label>
+      <url>http://www.superhosting.bg/</url>
+      <imageURL>https://media.infragistics.com/community/SQLSaturday/SuperHostingBG-logo-small.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1682</importID>
+      <name>Dutch IT Cluster</name>
+      <label>Gold Sponsor (546 USD)</label>
+      <url>http://www.dutchitcluster.eu/</url>
+      <imageURL>https://www.dutchitcluster.eu/img/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1407</importID>
+      <name>SBTECH</name>
+      <label>Gold Sponsor (546 USD)</label>
+      <url>http://www.sbtech.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/878/EventSponsor_14270.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1699</importID>
+      <name>Bulpros</name>
+      <label>Gold Sponsor (546 USD)</label>
+      <url>http://www.bulpros.com/</url>
+      <imageURL>http://azure-camp.eu/sofia-bootcamp/images/sofia/sponsors/bulpros-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor (546 USD)</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1683</importID>
+      <name>TechTalks.bg</name>
+      <label>Gold Sponsor (546 USD)</label>
+      <url>http://techtalks.bg/</url>
+      <imageURL>http://azure-camp.eu/sofia-bootcamp/images/sofia/sponsors/techtalks-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1703</importID>
+      <name>Programista</name>
+      <label>Gold Sponsor (546 USD)</label>
+      <url>http://www.programista.bg/</url>
+      <imageURL>https://programista.bg/webroot/images/logo-2.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>426</importID>
+      <name>Adastra Bulgaria</name>
+      <label>Silver Sponsor (327 USD)</label>
+      <url>http://www.bg.adastragrp.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/980/EventSponsor_14952.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS USE ONLY (500 USD)</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1405</importID>
+      <name>COZYROC</name>
+      <label>Bronze Sponsor (164 USD)</label>
+      <url>http://bit.ly/cozyrocssis</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/978/EventSponsor_14586.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>45218</importID>
+      <name>Ivan Donev</name>
+      <label>
+      </label>
+      <description>I am a Data platform MVP with more than 10 years of real-life experience with SQL Server and its stack of services. Besides the support and project work, I am also a trainer, conference speaker and user group organizer (and volunteer).</description>
+      <twitter>https://twitter.com/ikdonev</twitter>
+      <linkedin>https://www.linkedin.com/in/ivandonev/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/ikdonev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49162</importID>
+      <name>Margarita Naumova</name>
+      <label>
+      </label>
+      <description>Magi Naumova is SQL Server Architect and Consultant, speaker and trainer, Microsoft Certified Master, MVP Data Platform, MCT, Founder of SQL Master Academy, founder and leader of the Bulgarian SQL User group. She has more than 15 years SQL Server training and consulting experience. Magi is a former member of Microsoft Services Worldwide Technical Leadership Team, а Microsoft Women worth watching http://zd.net/1lwNYKH Currently she speaks, writes, trains and consults people on SQL Server technology. She runs a Data Platform consulting company part of which is SQL Master Academy training program. It helps hundreds of specialists to feel knowledgeable in their daily work or to find an inspirational career path in the world of SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://bg.linkedin.com/pub/margarita-naumova/9/965/206</linkedin>
+      <ContactURL>www.maginaumova.com; http://blogs.technet.com/b/magi/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45613</importID>
+      <name>Andrea Martorana Tusa</name>
+      <label>
+      </label>
+      <description>Andrea Martorana Tusa is a Business Intelligence Team Manager at Würth Phoenix,  the IT and consulting company of the Würth-Group. 
+He is awarded as MVP in the Data Platform category
+
+Former BI Specialist at Widex, a Danish manufacturing company, and BI Developer in the IT department of an Italian banking group. 20+ years of experience working with data. 
+He is focused on the entire BI stack: database development, data warehousing, data analysis, reporting, etc. 
+Andrea is a usual speaker at many events: SQLSaturdays, conferences in Europe and PASS Summit, and for PASS Virtual Groups. 
+
+Andrea is an author for sqlshack.com, sqlservercentral.com, and UGISS (User Group Italiano SQL Server).</description>
+      <twitter>bruco441</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=bruco441</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45223</importID>
+      <name>Ivan Donev</name>
+      <label>
+      </label>
+      <description>I am a Data platform MVP with more than 10 years of real-life experience with SQL Server and its stack of services. Besides the support and project work, I am also a trainer, conference speaker and user group organizer (and volunteer).</description>
+      <twitter>https://twitter.com/ikdonev</twitter>
+      <linkedin>https://www.linkedin.com/in/ivandonev/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/ikdonev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45614</importID>
+      <name>Andrea Martorana Tusa</name>
+      <label>
+      </label>
+      <description>Andrea Martorana Tusa is a Business Intelligence Team Manager at Würth Phoenix,  the IT and consulting company of the Würth-Group. 
+He is awarded as MVP in the Data Platform category
+
+Former BI Specialist at Widex, a Danish manufacturing company, and BI Developer in the IT department of an Italian banking group. 20+ years of experience working with data. 
+He is focused on the entire BI stack: database development, data warehousing, data analysis, reporting, etc. 
+Andrea is a usual speaker at many events: SQLSaturdays, conferences in Europe and PASS Summit, and for PASS Virtual Groups. 
+
+Andrea is an author for sqlshack.com, sqlservercentral.com, and UGISS (User Group Italiano SQL Server).</description>
+      <twitter>bruco441</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=bruco441</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45240</importID>
+      <name>Dr. Subramani Paramasivam</name>
+      <label>
+      </label>
+      <description>Dr.SubraMANI Paramasivam is a Microsoft MVP, PhD, Microsoft Certified Trainer and Head of Data  AI at DAGEOP Ltd having 21 years of DB, BI, Analytics and AI experience. Mani has also spoken in various events like MS IGNITE, PASS Summit, MS Inspire, SQLBITS, Power Platform Summit, Global AI Bootcamp, Data  BI Summit, SQLRelay,  Power BI World Tour, Data Platform Summit, INSIDESQL UK, Global AI Nights, SQLServerGeeks Summit, MCT Global Summits, Data Day Events and various user group events. Mani also believes in Empowering Every Person in the planet and spreads the awareness on Global challenges via www.EmpoweringEveryPerson.com. He is also a co-owner of 1 Global AI Meetup and 3 Power BI PUG  PASS local / user groups.</description>
+      <twitter>https://twitter.com/dageop</twitter>
+      <linkedin>http://uk.linkedin.com/in/dageop</linkedin>
+      <ContactURL>http://www.yoursqlman.com/index.php/blogs</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dageop</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>50254</importID>
+      <name>Mihail Mateev</name>
+      <label>
+      </label>
+      <description>Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Mentor for CEE, chapter lead, Microsoft Azure MVP, Microsoft Regional Director. He works as a Senior Solutions Architect at EPAM Systems, focused on Data Platform, IoT and cloud related solutions. He also worked many years like a Technical evangelist in the Infragistics. Last years Mihail was focused on various areas related to technology Microsoft: Data Platform, Visual Studio, ASP.Net, Windows client apps, Data Platform, and Microsoft Azure. Michael also has a PhD in cloud computing area. He is a university lecturer on Smart Homes and Smart Energy IoT Solutions.</description>
+      <twitter>mihailmateev</twitter>
+      <linkedin>http://www.linkedin.com/pub/mihail-mateev/1/6b3/4b1</linkedin>
+      <ContactURL>https://mmateev.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mihailmateev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45430</importID>
+      <name>Boriana Petrova</name>
+      <label>
+      </label>
+      <description>Microsoft Certified Trainer with over 10 years experience as an IT instructor and Consultant. She has many qualifications and professional certifications, including: Excel MVP, MCT, MCITP, MCTS, MOS Master. In 2008 she is among the TOP 25 of the best instructors in Microsoft World Company business evaluation and measurement - Knowledge Advisors.</description>
+      <twitter>borianapetrova</twitter>
+      <linkedin>https://www.linkedin.com/in/borianapetrova/</linkedin>
+      <ContactURL>http://itraining.bg/category/itraining-blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=borianapetrova</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46183</importID>
+      <name>Kaloyan Kosev</name>
+      <label>
+      </label>
+      <description>Kaloyan Kosev is a SQL Server expert working with enterprise companies for the last 12* years. His daily work routine is a mixture of troubleshooting bugs and issues, consulting and advising clients and presenting to students. Within his free time he is trying to balance between SQL and x-sports.</description>
+      <twitter>https://twitter.com/nosqltillcoffee</twitter>
+      <linkedin>https://bg.linkedin.com/in/kosev</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/nosqltillcoffee</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49161</importID>
+      <name>Margarita Naumova</name>
+      <label>
+      </label>
+      <description>Magi Naumova is SQL Server Architect and Consultant, speaker and trainer, Microsoft Certified Master, MVP Data Platform, MCT, Founder of SQL Master Academy, founder and leader of the Bulgarian SQL User group. She has more than 15 years SQL Server training and consulting experience. Magi is a former member of Microsoft Services Worldwide Technical Leadership Team, а Microsoft Women worth watching http://zd.net/1lwNYKH Currently she speaks, writes, trains and consults people on SQL Server technology. She runs a Data Platform consulting company part of which is SQL Master Academy training program. It helps hundreds of specialists to feel knowledgeable in their daily work or to find an inspirational career path in the world of SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://bg.linkedin.com/pub/margarita-naumova/9/965/206</linkedin>
+      <ContactURL>www.maginaumova.com; http://blogs.technet.com/b/magi/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45598</importID>
+      <name>Luan Moreno Medeiros Maciel</name>
+      <label>
+      </label>
+      <description>Based out of Brazil, Luan Moreno credits his ability to solve problems to thinking critically before acting. He values working with a team because he and his clients can benefit from various perspectives and collaboration, particularly when faced with difficult issues. When Luan Moreno first became interested in technology, he didn’t have a mentor, so he made a commitment to teaching others in the community and sharing his knowledge through blogging, speaking engagements.
+
+Luan Moreno is a addicted Brazilian blogger and speaker. SQL Server MCT, MCSE and MVP living in Brazil. Nowadays he#39;s a Database Consultant at Pythian, company based in Ottawa - Canada.#160;</description>
+      <twitter>@luansql</twitter>
+      <linkedin>https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile</linkedin>
+      <ContactURL>https://luanmorenodba.wordpress.com/ amp; http://www.sqlshack.com/author/luan-moreno-m-maciel/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@luansql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45234</importID>
+      <name>Sergiy Lunyakin</name>
+      <label>
+      </label>
+      <description>Sergiy Lunyakin (MCSA, MCSE, MCTS) is a Big Data Architect at SoftServe, Inc.
+He has extensive experience in designing and developing Big Data Analytics, Data Warehouse, and BI solutions, using both on-premises and cloud products. In 2016, Sergiy became Microsoft Data Platform MVP and has since maintained his MVP status. Sharing knowledge is another one of his passions. He regularly speaks at international conferences such as SQLSaturday, SQLDay, SQLNexus, and SQLBits. He also runs the Lviv SQL Server User Group in Ukraine and organizes SQLSaturday Lviv.</description>
+      <twitter>slunyakin</twitter>
+      <linkedin>https://www.linkedin.com/in/slunyakin</linkedin>
+      <ContactURL>https://slunyakin.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=slunyakin</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46383</importID>
+      <name>Miroslav Dimitrov</name>
+      <label>
+      </label>
+      <description>Miroslav Dimitrov is a Senior Big Data and Analytics Engineer at DXC Technology, regular speaker at various events and Microsoft Certified Trainer. He is MCSE: Data Platform for SQL Server and MCITP on SQL 2008. In the last years he had worked on great variety of customers' environments and involved in complex transitions and transformation projects as well as developing private and public cloud solutions. Miroslav is also leading database courses at Sofia University.</description>
+      <twitter>@miro_dd</twitter>
+      <linkedin>https://bg.linkedin.com/in/dimitrovmiroslav</linkedin>
+      <ContactURL>http://www.sqlshack.com/author/miroslav-dimitrov/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@miro_dd</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45349</importID>
+      <name>Andrey Nikolov</name>
+      <label>
+      </label>
+      <description>Andrey is MCSA for SQL Server 2012/2014 with almost 20 years of experience in designing and implementing applications for Windows. He is working with various database platforms, but SQL Server is his favorite. He is also a leader of Plovdiv Power BI User Group and active member of local .NET, Power BI and SQL Server communities.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>50710</importID>
+      <name>Branimir Giurov</name>
+      <label>
+      </label>
+      <description>Branimir is a UG Lead of SofiaDev .NET User group since 2003. He has been awarded by Microsoft with MS C# MVP award (2004-2014). 
+
+Branimir is a Solution Architect in the Enterprise Software Development unit of Bulpros where he’s working on Enterprise-level projects in the area of Sharepoint, BizTalk, MSSQL and other Microsoft’s backend products. 
+
+Branimir’s interests include: 
+-	S.O.L.I.D. design principles
+-	OOP design for maintainability
+-	Agile development
+-	ESB, messaging over and without SOAP
+-	IoC, Unit testing, CI
+-	Adapting software development
+
+Branimir has a background in Software development with about 15 years in the area of Enterprise Software Development for solutions based on the Microsoft stack. </description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/branimirg</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45241</importID>
+      <name>Dr. Subramani Paramasivam</name>
+      <label>
+      </label>
+      <description>Dr.SubraMANI Paramasivam is a Microsoft MVP, PhD, Microsoft Certified Trainer and Head of Data  AI at DAGEOP Ltd having 21 years of DB, BI, Analytics and AI experience. Mani has also spoken in various events like MS IGNITE, PASS Summit, MS Inspire, SQLBITS, Power Platform Summit, Global AI Bootcamp, Data  BI Summit, SQLRelay,  Power BI World Tour, Data Platform Summit, INSIDESQL UK, Global AI Nights, SQLServerGeeks Summit, MCT Global Summits, Data Day Events and various user group events. Mani also believes in Empowering Every Person in the planet and spreads the awareness on Global challenges via www.EmpoweringEveryPerson.com. He is also a co-owner of 1 Global AI Meetup and 3 Power BI PUG  PASS local / user groups.</description>
+      <twitter>https://twitter.com/dageop</twitter>
+      <linkedin>http://uk.linkedin.com/in/dageop</linkedin>
+      <ContactURL>http://www.yoursqlman.com/index.php/blogs</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dageop</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>50274</importID>
+      <name>Ivan Donev</name>
+      <label>
+      </label>
+      <description>I am a Data platform MVP with more than 10 years of real-life experience with SQL Server and its stack of services. Besides the support and project work, I am also a trainer, conference speaker and user group organizer (and volunteer).</description>
+      <twitter>https://twitter.com/ikdonev</twitter>
+      <linkedin>https://www.linkedin.com/in/ivandonev/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/ikdonev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>45614</importID>
+      <speakers>
+        <speaker>
+          <id>45614</id>
+          <name>Andrea Martorana Tusa</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Ground floor hall</name>
+      </location>
+      <title>New life for Reporting Services: what's up in 2016</title>
+      <description>During 2015 PASS Summit, Microsoft announced a roadmap to harmonize and standardize its BI reporting solutions into one unique hybrid scenario.
+Reporting Services will play a crucial role in this new architecture. Starting from 2016 release, Reporting Services will be the Microsoft's on-premises solution for BI report delivery, meaning that it will host on-premises standard report as well as mobile report as well as Power BI Desktop report. 
+To achieve this goal Reporting Services has been completely revisited and redesigned. Rendering engine has been rewritten in HTML5 to support every modern browser.  
+Come to this session to have an overview of the new features introduced in Reporting Service 2016. 
+You will see the brand new portal supporting both paginated and mobile reports, how to pin charts to Power BI dashboards, how to position report parameters the way you want, how to export reports to PowerPoint, the new charts introduced and many other exciting outlines. </description>
+      <startTime>5/28/2016 2:15:00 PM</startTime>
+      <endTime>5/28/2016 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45613</importID>
+      <speakers>
+        <speaker>
+          <id>45613</id>
+          <name>Andrea Martorana Tusa</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Big Conference Hall</name>
+      </location>
+      <title>Mobile BI with Microsoft tools</title>
+      <description>In SQL Server 2016 (currently availabe as a preview) Microsoft added support for mobile reports to Reporting Services.
+They also released the Mobile Report Publisher for authoring and creation of mobile reports. This application is based on Datazen technology, a company that Microsoft acquired in April of 2015.
+As Microsoft stated, using only one mobile BI app users will access dashboards and reports on mobile devices.
+
+Now developers must choose a tool  for developing BI optimized for mobile devices: SSRS,  Mobile Report Publisher (former Datazen) or Power BI? The question is: which one to choose? What are the key factor for supporting the correct decision? 
+We will provide a clear and understandable overview of each product, highlighting strengths and weaknesses.
+Based on some real examples we will set out a comparison matrix to find the best way to meet your needs with the right mobile reporting tool. </description>
+      <startTime>5/28/2016 3:45:00 PM</startTime>
+      <endTime>5/28/2016 4:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45598</importID>
+      <speakers>
+        <speaker>
+          <id>45598</id>
+          <name>Luan Moreno Medeiros Maciel</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Small Conference Hall</name>
+      </location>
+      <title>DBA Vs. Hacker: Protecting SQL Server</title>
+      <description>This was never showed before, a Hacker and DBA fighting against the time! The brilliant hacker mind trying to intrude and gain access inside of SQL Server to steal the most valued data using the Kalil Linux distribution when in other side the DBA avoing such achievement by using the security best practice and features available on SQL Server.
+
+A Hacker's goal is to find vulnerabilities in a system and a DBA's goal is to make the environment secure and reliable. In this session we will learn how to protect SQL Server from the various forms of attacks that a smart hacker can throw at you. Let's dig in the Hacker thought process to understand the inception of the attack and how to defeat the invasion. Join with me in this internal session using SQL Server and Kali Linux for the ultimate security showdown!
+</description>
+      <startTime>5/28/2016 1:00:00 PM</startTime>
+      <endTime>5/28/2016 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49162</importID>
+      <speakers>
+        <speaker>
+          <id>49162</id>
+          <name>Margarita Naumova</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Ground floor hall</name>
+      </location>
+      <title>SQL Server 2016 Query Store – a flight recorder of your database</title>
+      <description>If you are a DBA you know that troubleshooting query performance can become a nightmare, all you have is your current plan cache as a source, and some DMVs to query it. 
+With the Query Store feature, SQL Server 2016 saves historical execution plans. Not only that but it also saves the query statistics that go along with those historical plans. This is a great new feature which allows you to track execution plans performance for your queries over time. Similar to an airplane’s flight data recorder, Query Store collects and presents detailed historic information about all queries, greatly simplifying performance tuning by reducing the time to diagnose and resolve issues.
+</description>
+      <startTime>5/28/2016 1:00:00 PM</startTime>
+      <endTime>5/28/2016 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>50254</importID>
+      <speakers>
+        <speaker>
+          <id>50254</id>
+          <name>Mihail Mateev</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Small Conference Hall</name>
+      </location>
+      <title>Azure Data and Storage in a Nutshell</title>
+      <description>Azure Data and Storage are one of the main parts of Microsoft Azure. 
+It includes many different services like: 
+- Azure SQL Database
+- Azure SQL Data Warehouse (in preview)
+- Azure Data Lake Store (in preview)
+- Document DB
+- Azure Storage (Blobs, Tables , Queues and File Service)
+- Azure Search
+- Redis Cache
+
+These storage and data services offer different type of data - relational, noSQL, file service, distributed cache etc.
+Often when you work on a design of a cloud solution you need to consider the best option to use some of these services, based on the functionality, throughput, data size and price. 
+This talk is comparison between these storage by features and price. We will discuss about the best practices to use some of these services. The presentation also compares Azure Data and Storage services with similar features of other public clouds like AWS.</description>
+      <startTime>5/28/2016 3:45:00 PM</startTime>
+      <endTime>5/28/2016 4:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49161</importID>
+      <speakers>
+        <speaker>
+          <id>49161</id>
+          <name>Margarita Naumova</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Ground floor hall</name>
+      </location>
+      <title>A deep dive into SQL Server Plan Cache Management </title>
+      <description>As an experienced DBA you have probably asked yourself questions like how the memory is consumed, is my system well-tuned, and is my memory configuration well defined. In order to understanding such processes as local and global Memory pressure, caches concurrency, adding and removing plans from cache we will go through the internal organization of the plan cache, the metadata available, how SQL Server finds a plan in cache, plan cache sizing, and the plan eviction policy. We will point out the important cache consumers that affect your workload and how to get metadata about them, what are the thresholds in Cache Size Management. At the end you will understand how to monitor the memory consumers in your SQL Server, what are wait types that we need to look for, how to understand if your system is well-tuned and the memory configuration is well defined. You will have a clear understanding of cache plan itself, the problems in cache and how to avoid them.</description>
+      <startTime>5/28/2016 11:15:00 AM</startTime>
+      <endTime>5/28/2016 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>46383</importID>
+      <speakers>
+        <speaker>
+          <id>46383</id>
+          <name>Miroslav Dimitrov</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Small Conference Hall</name>
+      </location>
+      <title>Performance Tuning for the Transaction Log</title>
+      <description>SQL Server transaction log is one of the most critical components of the database and in the same time one of the most misunderstood. While being neglected it can easily become a bottleneck for our system. Are you interested in learning how to avoid issues with the transaction log and streamline its work? In these sessions we will explore how to optimize it, configure it and keep it under control.</description>
+      <startTime>5/28/2016 10:00:00 AM</startTime>
+      <endTime>5/28/2016 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>45241</importID>
+      <speakers>
+        <speaker>
+          <id>45241</id>
+          <name>Dr. Subramani Paramasivam</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Big Conference Hall</name>
+      </location>
+      <title>SQL Server 2016 has Gold plated  bullet proof Database Engine</title>
+      <description>Every release of SQL Server has fixed various issues for different customer requirements. This 2016 has not just fixed such type but has started a new era of solution to the current cha(lle)nging world.
+
+In this session, I will let you have a quick look around the new DB Engine feature enhancements like Stretch Database, Built-in JSON Support, Columnstore Indexes, In-Memory OLTP, Live Query Statistics, Query Store, Temporal Tables, Backup to Microsoft Azure, Managed Backup, enabled Trace flag 4199 behaviours, TempDB Database and PolyBase technology.</description>
+      <startTime>5/28/2016 11:15:00 AM</startTime>
+      <endTime>5/28/2016 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45240</importID>
+      <speakers>
+        <speaker>
+          <id>45240</id>
+          <name>Dr. Subramani Paramasivam</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Big Conference Hall</name>
+      </location>
+      <title>Think  work like a Data Scientist with SQL 2016 R.</title>
+      <description>What are these DATA Scientists upto? How can we see their statistical model in our day to day familiar tool like Microsoft SQL Server? 
+
+You now have answers to these questions and thanks to Microsoft for integrating R Revolution within new SQL Server 2016. We all now have the opportunity to use R packages and see the outcome within SQL 2016 itself.
+
+In this session, you will definitely take away a breakthrough concept of Advanced R Analytics within SQL 2016 and get ready to kick your creative horse, and go beyond your imagination on how you can build advanced analytics and impress your employers/customers.</description>
+      <startTime>5/28/2016 10:00:00 AM</startTime>
+      <endTime>5/28/2016 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>50710</importID>
+      <speakers>
+        <speaker>
+          <id>50710</id>
+          <name>Branimir Giurov</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Big Conference Hall</name>
+      </location>
+      <title>SQL Server 2016 and JSON Support</title>
+      <description>SQL Server 2016 introduces support for JSON data type. In this session we’ll talk about how is the JSON support implemented, the built-in functions and operators such as:
+-	How to get or modify a JSON value with JSON_MODIFY
+-	Check if a JSON value is valid or not
+-	JSON formatting
+-	Read and write JSON data – supported storage types
+-	and some cool ways of using it
+
+</description>
+      <startTime>5/28/2016 1:00:00 PM</startTime>
+      <endTime>5/28/2016 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45218</importID>
+      <speakers>
+        <speaker>
+          <id>45218</id>
+          <name>Ivan Donev</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Ground floor hall</name>
+      </location>
+      <title>SQL Server 2016 - Always Encrypted deep dive</title>
+      <description>With SQL Server 2016 Microsoft introduced a ground breaking feature for data encryption - Always Encrypted. It enables you to encrypt sensitive data at all times so that even people with elevated privileges do not have the power to decrypt it. But how easy is that feature to implement? Are there any hidden stones? Does this change how I write my applications? I will answer those and many more questions, so just join me and do not forget to bring your coffee for this intensive session with SQL Server 2016 Always Encrypted!</description>
+      <startTime>5/28/2016 3:45:00 PM</startTime>
+      <endTime>5/28/2016 4:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45234</importID>
+      <speakers>
+        <speaker>
+          <id>45234</id>
+          <name>Sergiy Lunyakin</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Small Conference Hall</name>
+      </location>
+      <title>Real-Time Dashboards on PowerBI</title>
+      <description>Power BI enables you to create beautiful and very informative dashboards for business users. You can use embedded connectors to many sorts of data sources for getting your data. Moreover, you can get data from real-time data sources as well, for instance monitoring systems, sensors, web sites etc, and get the most from your data. Join this session to learn how to use PowerBI REST API to add real-time dashboards, integrate with external applications and use custom visuals.</description>
+      <startTime>5/28/2016 11:15:00 AM</startTime>
+      <endTime>5/28/2016 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45349</importID>
+      <speakers>
+        <speaker>
+          <id>45349</id>
+          <name>Andrey Nikolov</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Big Conference Hall</name>
+      </location>
+      <title>T-SQL gotchas and powerups</title>
+      <description>You are a database developer and you write a lot of T-SQL queries. But do you want to know what are the most common mistakes that database developers do? Or to hear about some of the widely unused performance powerups that SQL Server can offer? Do you find the syntax of OVER clause so confusing that you need to look it up Books Online every time when you use it? Join this session and learn things that every database developer should know.</description>
+      <startTime>5/28/2016 2:15:00 PM</startTime>
+      <endTime>5/28/2016 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>50274</importID>
+      <speakers>
+        <speaker>
+          <id>50274</id>
+          <name>Ivan Donev</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Ground floor hall</name>
+      </location>
+      <title>Why SQL server 2016 rocks</title>
+      <description>SQL Server is released in just a few days and I want to share with you all the major improvements we did in the product that will make your data live and rock your world!</description>
+      <startTime>5/28/2016 10:00:00 AM</startTime>
+      <endTime>5/28/2016 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>45430</importID>
+      <speakers>
+        <speaker>
+          <id>45430</id>
+          <name>Boriana Petrova</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Small Conference Hall</name>
+      </location>
+      <title>Funky reports with Power BI for Excel and Office 365</title>
+      <description>The session will show how to prepare cool reports with Excel and publish them to Office 365.</description>
+      <startTime>5/28/2016 2:15:00 PM</startTime>
+      <endTime>5/28/2016 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>46183</importID>
+      <speakers>
+        <speaker>
+          <id>46183</id>
+          <name>Kaloyan Kosev</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Small Conference Hall</name>
+      </location>
+      <title>AlwaysOn Availability Groups for Developers</title>
+      <description>It's often difficult to choose a high-availability solution and to build your applications around it,
+Come join me in a session focused on AlwaysOn Availability Groups - how they actually work, how to get the most of them, learn the benefits they provide and the limitations they have. Or at least put a DB Administrator on the interrogation table.</description>
+      <startTime>5/28/2016 1:00:00 PM</startTime>
+      <endTime>5/28/2016 2:00:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

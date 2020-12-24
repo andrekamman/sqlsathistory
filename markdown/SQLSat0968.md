@@ -1,0 +1,21 @@
+# SQLSaturday #968 – Caxias do Sul – Virtual 2020
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:30:00|Luiz Henrique Garetti|Strategy and Architecture|[Streaming Architecture with Big Data Clusters (SQL2019)](101759.md)
+09:30:00|Flávio Farias|Cloud Application Development  Deployment|[SQL Server Errorlog Near-Realtime](105315.md)
+09:30:00|Eduardo Kieling|Other|[Utilizando o Azure Sentinel para detectar um ataque de força bruta em um MSSQL Server](105320.md)
+10:30:00|Sulamita Dantas|Application  Database Development|[LGPD - Lei Geral de Proteção de Dados](101846.md)
+10:30:00|Rafael Felipe|Enterprise Database Administration  Deployment|[Gerenciando o seu banco de dados através do Windows Virtual Desktop](105214.md)
+10:30:00|Bruno Feldman|BI Platform Architecture, Development  Administration|[Azure Synapse Analytics no Dia a Dia](105333.md)
+11:30:00|Ricardo Leka|Professional Development|[Melhores práticas #SQN](102069.md)
+11:30:00|LOGAN MERAZZI|Enterprise Database Administration  Deployment|[SQL Server Backups 101](105319.md)
+11:30:00|Sidney Cirqueira|Cloud Application Development  Deployment|[Tudo que você deveria saber sobre os novos recursos do Azure Synapse Analytics.](105380.md)
+12:30:00|Marcelo Adade|Enterprise Database Administration  Deployment|[Conceitos de Alta disponibilidade no SQL SERVER](102354.md)
+12:30:00|Federico Bernasconi|Application  Database Development|[Entity Framework Core - Acesso a dados e controle de migrações](103716.md)
+12:30:00|Diego Nogare|Advanced Analysis Techniques|[Quer começar na carreira de IA e ML... Aqui tem um caminho!](105175.md)
+13:30:00|Anderson Souza|Application  Database Development|[SQL Server on Linux - Da Instalação a Configurações](101914.md)
+13:30:00|Marcus Vinícius Bittencourt|Strategy and Architecture|[Hacking SQL Server 3.0](102050.md)
+13:30:00|Rodrigo Dornel|BI Platform Architecture, Development  Administration|[Power BI - Dicas e Truques para turbinar seu Dashboard](105213.md)
+14:30:00|Javier Villegas|Enterprise Database Administration  Deployment|[Monitoring SQL Server using Community solutions (Free)](105180.md)
+14:30:00|Vitor Fava|Professional Development|[Quer ser um excelente profissional de dados? Pergunte-me como.](105216.md)
+14:30:00|Nilton Kazuyuki Ueda|BI Platform Architecture, Development  Administration|[Databricks as a Unified Data Analytics Platform](105644.md)

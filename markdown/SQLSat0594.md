@@ -1,0 +1,23 @@
+# SQLSaturday #594 - Edmonton 2017
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+08:30:00|Rushabh Mehta|BI Platform Architecture, Development  Administration|[PowerQuery Tips and Tricks for Power BI](57449.md)
+08:30:00|Melody Zacharias|BI Platform Architecture, Development  Administration|[Introduction to Microsoft Analytics – Turning Data into Intelligent Action](61396.md)
+08:30:00|Melissa Connors|Application  Database Development|[To Compress or Decompress—that is this Session](62562.md)
+09:45:00|Sepand Gojgini|BI Platform Architecture, Development  Administration|[Columnstore Index Primer](59528.md)
+09:45:00|Warren Sifre|BI Platform Architecture, Development  Administration|[Introduction to BI Architecture](60992.md)
+09:45:00|Olivier Cann|Application  Database Development|[Tracking Data Changes with Temporal Tables and more](62541.md)
+11:00:00|Patrick Flynn|Enterprise Database Administration  Deployment|[Database Corruption - Advanced Recovery Techniques](59385.md)
+11:00:00|Scott Stauffer|Analytics and Visualization|[Power BI for the Faint of Heart - Building an Interactive Report Step-by-Step!](61783.md)
+11:00:00|Ian Chamberland|Enterprise Database Administration  Deployment|[SQL Server Management Strategies](62520.md)
+13:15:00|Mohit Gupta|Enterprise Database Administration  Deployment|[SQL Server In-Flight Recorder Deep-Dive](61141.md)
+13:15:00|Mike Diehl|BI Platform Architecture, Development  Administration|[Agile Analytics: Automated builds and deployments](61255.md)
+13:15:00|Pinal Dave|Enterprise Database Administration  Deployment|[Performance in 60 Seconds – SQL Tricks Everybody MUST Know](62981.md)
+14:30:00|Steve Wake|BI Platform Architecture, Development  Administration|[Mobile, Paginated, KPIs, and Power BI, Oh My! SSRS 2016 Reporting](61723.md)
+14:30:00|Camron Bute|BI Platform Architecture, Development  Administration|[Building a Successful BI practice](63339.md)
+14:30:00|William Wolf|Application  Database Development|[Locks, Blocks, and Deadlocks; Tame the Sibling Rivalry](63837.md)
+15:45:00|David Dye|BI Platform Architecture, Development  Administration|[Creating Dynamic Packages](56527.md)
+15:45:00|Chris Wood|Enterprise Database Administration  Deployment|[Monitoring SQL 2016 on-premise for performance and stability](61082.md)
+15:45:00|Steve Wake|BI Platform Architecture, Development  Administration|[Reports on the Go: SSRS 2016 Mobile Reporting](61802.md)
+15:45:00|Randolph West|Cloud Application Development  Deployment|[Migrating to Azure SQL Database: Tips, Tricks, and Lessons Learned](63323.md)
+15:45:00|Dwija Dholakia|Enterprise Database Administration  Deployment|[Optimizing Query Plans](63338.md)

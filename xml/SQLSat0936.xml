@@ -1,0 +1,85 @@
+<GuidebookXML>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/936/EventSponsor_14564.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1952</importID>
+      <name>Simple Fast Marketing</name>
+      <label>Gold Sponsor</label>
+      <url>http://simplefastmarketing.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/936/EventSponsor_14312.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1950</importID>
+      <name>Montgomery County Community College</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.mc3.edu/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/936/EventSponsor_14313.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2601</importID>
+      <name>sqlity.net</name>
+      <label>Gold Sponsor</label>
+      <url>https://sqlity.net</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/936/EventSponsor_14310.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2320</importID>
+      <name>PSSUG</name>
+      <label>Gold Sponsor</label>
+      <url>https://pssug.org?utm_source=sqlsaturday835</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/936/EventSponsor_14311.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1405</importID>
+      <name>COZYROC</name>
+      <label>Silver Sponsor</label>
+      <url>http://bit.ly/cozyrocssis</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/936/EventSponsor_14456.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1817</importID>
+      <name>SentryOne</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.sentryone.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/936/EventSponsor_14703.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>398</importID>
+      <name>Aspect Consulting</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.aspect-consulting.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/936/EventSponsor_14474.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/936/EventSponsor_14324.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

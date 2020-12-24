@@ -1,0 +1,404 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #644 - Bratislava 2017</name>
+    <startDate>6/24/2017 12:00:00 AM</startDate>
+    <attendeeEstimate>80</attendeeEstimate>
+    <timezone>(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatSlovakia</twitterHashtag>
+    <venue>
+      <name>Microsoft Slovakia s.r.o.</name>
+      <street>Apollo Business Center II, Block E, Prievozská 4D, Bratislava </street>
+      <city>Bratislava</city>
+      <state>Bratislavský, Slovakia</state>
+      <zipcode>821 09</zipcode>
+      <longitude>17.1399625902122</longitude>
+      <latitude>48.1459069021066</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1915</importID>
+      <name>Millennium, spol. s r. o.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.millennium.sk</url>
+      <imageURL>https://millennium.sk/wp-content/uploads/2016/06/Millennium_logo_zakladne-e1466429610514.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1913</importID>
+      <name>BSP Softwaredistribution a.s.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.bsp.sk</url>
+      <imageURL>https://dl.bsp.sk/bsp.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1941</importID>
+      <name>Maind, s.r.o.</name>
+      <label>Bronze Sponsor</label>
+      <url>https://maind.sk/</url>
+      <imageURL>https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAASCAAAAJDUzZDBmMmE3LWY4ZjctNDI2Yi05ZDFkLTRmNzU2NzAyNzJkMA.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>62831</importID>
+      <name>Dejan Sarka</name>
+      <label>
+      </label>
+      <description>Dejan Sarka, MCT and Data Platform MVP, is an independent trainer and consultant that focuses on development of database and business intelligence applications. Besides projects, he spends about half of his time on training and mentoring. He is the founder of the Slovenian SQL Server and .NET Users Group. Dejan Sarka is the main author or co-author of eighteen books about databases and SQL Server. Dejan Sarka has also developed many courses and seminars for Microsoft, Radacad, SolidQ, and Pluralsight.</description>
+      <twitter>DejanSarka</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.solidq.com/dsarka/Home.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DejanSarka</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62924</importID>
+      <name>Andrea Martorana Tusa</name>
+      <label>
+      </label>
+      <description>Andrea Martorana Tusa is a Business Intelligence Team Manager at Würth Phoenix,  the IT and consulting company of the Würth-Group. 
+He is awarded as MVP in the Data Platform category
+
+Former BI Specialist at Widex, a Danish manufacturing company, and BI Developer in the IT department of an Italian banking group. 20+ years of experience working with data. 
+He is focused on the entire BI stack: database development, data warehousing, data analysis, reporting, etc. 
+Andrea is a usual speaker at many events: SQLSaturdays, conferences in Europe and PASS Summit, and for PASS Virtual Groups. 
+
+Andrea is an author for sqlshack.com, sqlservercentral.com, and UGISS (User Group Italiano SQL Server).</description>
+      <twitter>bruco441</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=bruco441</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>64261</importID>
+      <name>Dejan Dular</name>
+      <label>
+      </label>
+      <description>Dejan is an independent .NET and SQL developer. During his career he developed applications mainly in the area of  Customer Management Systems and Supply Chain Management. In the last years he specialized as a back-end developer and data specialist. He is also a Microsoft Dynamics CRM expert.
+
+In his free time he is working with IoT and calls himself a DIY freak.</description>
+      <twitter>@dejandular</twitter>
+      <linkedin>http://www.linkedin.com/in/dejandular</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@dejandular</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62835</importID>
+      <name>Mario Meir-Huber</name>
+      <label>
+      </label>
+      <description>Mario Meir-Huber is a Big Data Architect for Microsoft in Austria. Before joining Microsoft, Mario worked 7 years in the area of Big Data, mainly Hadoop in Eastern Europe. Next to work, he teaches Big Data and Hadoop at several national and international universities and wrote two books on Cloud Computing. He is a frequent speaker at national and international events on Big Data</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>64491</importID>
+      <name>Miloš Radivojević</name>
+      <label>
+      </label>
+      <description>Miloš Radivojević is a database consultant located in Vienna, Austria. He is Data Platform MVP and specializes in SQL Server for application developers and performance and query tuning. Currently, he works as a principal database consultant in bwin GVC (the largest regulated online gaming company in the world). He is co-founder of the SQL Pass Austria and speaks regularly at local and international database conferences. He is also co-author of the books SQL Server 2016 Developer's Guide, SQL Server 2017 Developer's Guide and Mastering SQL Server 2017.</description>
+      <twitter>MilosSQL</twitter>
+      <linkedin>http://at.linkedin.com/pub/milos-radivojevic/1b/7bb/290/de</linkedin>
+      <ContactURL>https://milossql.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MilosSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>64027</importID>
+      <name>Roman Rehak</name>
+      <label>
+      </label>
+      <description>Roman Rehak is a Principal Database Architect at MyWebGrocer.com in Burlington, VT. He specializes in SQL Server development and database architecture. He writes articles for Visual Studio Magazine, SQL Server Magazine, SearchSqlServer.com and other technical publications. Roman presents at user groups and conferences in US and Canada. He has served as the Tech Chair for the SQL Server track at DevTeach and PASS conferences, and is the president of the Vermont SQL Server User Group.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/roman-rehak-bb83702/</linkedin>
+      <ContactURL>http://sqlblog.com/blogs/roman_rehak/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>63169</importID>
+      <name>Hugo Kornelis</name>
+      <label>
+      </label>
+      <description>Hugo Kornelis is an established SQL Server community expert who spends a lot of time at various conferences. He is author of "the Execution Plan Reference" (sqlserverfast.com/epr), blogger, technical editor of Grant Fritchey's "SQL Server Execution Plans, 3rd edition" and some other books, and Pluralsight author. He was awarded SQL Server MVP and Data Platform MVP 12 times (2006 - 2016, and 2019-present).
+
+When not working for the community, he is busy at his day job: freelance database developer/consultant.
+
+Hugo has over 20 years of SQL Server experience in various roles. He loves to write and tune complex queries, but he also has a strong database design background.
+
+When not working for the community, he is busy at his day job: freelance database developer/consultant.
+
+Hugo has over 20 years of SQL Server experience in various roles. He loves to write and tune complex queries, but he also has a strong database design background.</description>
+      <twitter>Hugo_Kornelis</twitter>
+      <linkedin>http://nl.linkedin.com/in/hugokornelis</linkedin>
+      <ContactURL>http://sqlblog.com/blogs/hugo_kornelis/default.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Hugo_Kornelis</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62886</importID>
+      <name>Marek Chmel</name>
+      <label>
+      </label>
+      <description>I have started working in IT as a consultant and trainer for Microsoft server systems and from the beginning I did focus mainly on SQL Server. Few years back I have joined atamp;t, where I workin a team responsible for 24/7 operations for large SQL server environments.  Our primary focus is architecture, delpoyment, performance tuning and disaster recovery for SQL Server ranging various sizes, versions and editions. If there#39;s any free time left, you can catch me speaking at a conference or teaching a Microsoft or security class in a training center.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://cz.linkedin.com/in/mchmel</linkedin>
+      <ContactURL>http://www.prosql.cz</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>64262</importID>
+      <name>Dejan Dular</name>
+      <label>
+      </label>
+      <description>Dejan is an independent .NET and SQL developer. During his career he developed applications mainly in the area of  Customer Management Systems and Supply Chain Management. In the last years he specialized as a back-end developer and data specialist. He is also a Microsoft Dynamics CRM expert.
+
+In his free time he is working with IoT and calls himself a DIY freak.</description>
+      <twitter>@dejandular</twitter>
+      <linkedin>http://www.linkedin.com/in/dejandular</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@dejandular</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62877</importID>
+      <name>Dr. Subramani Paramasivam</name>
+      <label>
+      </label>
+      <description>Dr.SubraMANI Paramasivam is a Microsoft MVP, PhD, Microsoft Certified Trainer and Head of Data  AI at DAGEOP Ltd having 21 years of DB, BI, Analytics and AI experience. Mani has also spoken in various events like MS IGNITE, PASS Summit, MS Inspire, SQLBITS, Power Platform Summit, Global AI Bootcamp, Data  BI Summit, SQLRelay,  Power BI World Tour, Data Platform Summit, INSIDESQL UK, Global AI Nights, SQLServerGeeks Summit, MCT Global Summits, Data Day Events and various user group events. Mani also believes in Empowering Every Person in the planet and spreads the awareness on Global challenges via www.EmpoweringEveryPerson.com. He is also a co-owner of 1 Global AI Meetup and 3 Power BI PUG  PASS local / user groups.</description>
+      <twitter>https://twitter.com/dageop</twitter>
+      <linkedin>http://uk.linkedin.com/in/dageop</linkedin>
+      <ContactURL>http://www.yoursqlman.com/index.php/blogs</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dageop</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>62924</importID>
+      <speakers>
+        <speaker>
+          <id>62924</id>
+          <name>Andrea Martorana Tusa</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Madagascar</name>
+      </location>
+      <title>Mobile BI with Microsoft tools</title>
+      <description>In SQL Server 2016 Microsoft added support for mobile reports to Reporting Services.
+They also released the Mobile Report Publisher for authoring and creation of mobile reports. This application is based on Datazen technology, a company that Microsoft acquired in 2015.
+As Microsoft stated, using only one mobile BI app users will access dashboards and reports on mobile devices.
+
+Now developers must choose a tool  for developing BI optimized for mobile devices: SSRS,  Mobile Report Publisher (former Datazen) or Power BI? The question is: which one to choose? What are the key factor for supporting the correct decision? 
+We will provide a clear and understandable overview of each product, highlighting strengths and weaknesses.
+Based on some real examples we will set out a comparison matrix to find the best way to meet your needs with the right mobile reporting tool.</description>
+      <startTime>6/24/2017 4:00:00 PM</startTime>
+      <endTime>6/24/2017 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>63169</importID>
+      <speakers>
+        <speaker>
+          <id>63169</id>
+          <name>Hugo Kornelis</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Borneo</name>
+      </location>
+      <title>T-SQL User-Defined Functions, or: How to kill performance in one, easy step</title>
+      <description>User-defined functions in SQL Server are very much like custom methods and properties in .Net languages. At first sight, they seem to be the perfect tool to introduce code encapsulation and reuse in T-SQL. So why is this feature mostly avoided by all T-SQL gurus?
+The reason is performance. In this session, you will learn how user-defined functions feed the optimizer with misleading and insufficient information, how the optimizer fails to use even what little information it has, and how this can lead to shocking query performance.
+However, you will also see that there is a way to avoid the problems. With just a little extra effort, you can reap the benefits of code encapsulation and reuse, and still get good performance.</description>
+      <startTime>6/24/2017 11:30:00 AM</startTime>
+      <endTime>6/24/2017 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>64027</importID>
+      <speakers>
+        <speaker>
+          <id>64027</id>
+          <name>Roman Rehak</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Madagascar</name>
+      </location>
+      <title>Building Disaster Recovery solution with AlwaysOn</title>
+      <description>This presentation will cover generic issues and challenges involved in building a Disaster Recovery site, and then show you how you can build a hot DR site using the AlwaysOn Availability Groups technology in SQL Server 2016. It will provide tips and recommendations based on real life implementation. While the focus of the session will be on building a remote DR solution, much of the content will also be applicable to maintaining a local standby server using AlwaysOn.</description>
+      <startTime>6/24/2017 11:30:00 AM</startTime>
+      <endTime>6/24/2017 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>64262</importID>
+      <speakers>
+        <speaker>
+          <id>64262</id>
+          <name>Dejan Dular</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Borneo</name>
+      </location>
+      <title>Window functions are your friends</title>
+      <description>What does SUM(Salary) OVER (ORDER BY EmployeeID RANGE BETWEEN CURRENT ROW AND UNBOUNDED FOLLOWING) do exactly? Did you know that you can delete all duplicates in a table with just one query?
+
+Window functions are great! They open a whole new world of elegant data analysis. Their only problem is that they seem complicated at first glance. In this session we will get OVER() them and see how can we use them together with aggregation, analytic and ranking functions. After this session creating queries with things like running totals will be a piece of cake!</description>
+      <startTime>6/24/2017 4:00:00 PM</startTime>
+      <endTime>6/24/2017 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62886</importID>
+      <speakers>
+        <speaker>
+          <id>62886</id>
+          <name>Marek Chmel</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Madagascar</name>
+      </location>
+      <title>Running SQL Server as a Container</title>
+      <description>In this session we'll see how you can quickly benefit from using the new Windows Server 2016 feature called containers to run SQL servers in your environment. We will talk about the container technology which can be directly used for DevOps with SQL.</description>
+      <startTime>6/24/2017 1:30:00 PM</startTime>
+      <endTime>6/24/2017 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62835</importID>
+      <speakers>
+        <speaker>
+          <id>62835</id>
+          <name>Mario Meir-Huber</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Madagascar</name>
+      </location>
+      <title>Doing Hadoop with Azure HDInsight</title>
+      <description>Hadoop is everywhere. Growing from a project within Yahoo, it soon became a very popular tool for data analytics. Today, there are a lot of Hadoop installations in major companies and Hadoop is capable of analyzing large amounts of data. In this session, we will have a look at what Hadoop by outlining different tools such as HCatalog, Hive, Pig, Storm, Spark and HBase and will then look at HDInsight and its benefits.</description>
+      <startTime>6/24/2017 11:30:00 AM</startTime>
+      <endTime>6/24/2017 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62877</importID>
+      <speakers>
+        <speaker>
+          <id>62877</id>
+          <name>Dr. Subramani Paramasivam</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Madagascar</name>
+      </location>
+      <title>Beginning Data Science-From Novice to Professional</title>
+      <description>Where to begin the step 1 of data science to become a Data scientist? What are these Data Scientists up to? This is an initial data science session, for a novice and learn how easily you can step in to Data Science and start to become a professional.
+
+ How can we see and try using a data scientist statistical model in our day to day familiar tool like Microsoft SQL Server?
+
+ Thanks to Microsoft for integrating R Revolution within SQL Server 2016. We all now have the opportunity to use R packages and see the results within SQL 2016 and also to utilize it for any applications and/or Reporting services.</description>
+      <startTime>6/24/2017 2:45:00 PM</startTime>
+      <endTime>6/24/2017 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>64261</importID>
+      <speakers>
+        <speaker>
+          <id>64261</id>
+          <name>Dejan Dular</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Borneo</name>
+      </location>
+      <title>In the name of the resources: Aggregating data</title>
+      <description>The queries that are used for reports are usually the least efficient because you are dealing with huge amounts of data from tables sometimes joined many, many times. In this session we will go through good and bad examples of aggregating the data from your relational database. You will see tips on how to get good use of the indexes, how to lower the number of actual table queries and other  tricks that will make your queries run faster.</description>
+      <startTime>6/24/2017 10:15:00 AM</startTime>
+      <endTime>6/24/2017 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>64491</importID>
+      <speakers>
+        <speaker>
+          <id>64491</id>
+          <name>Miloš Radivojević</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Borneo</name>
+      </location>
+      <title>Parameter Sniffing Problem with Stored Procedures</title>
+      <description>Your stored procedure is slow in the application, but works perfect in SSMS! In this presentation it will be clarified why this happens and why parameter sniffing is a problem in SQL Server stored procedures. Of course, several solutions will be presented  and it will be discussed which solution is applicable in which scenario.</description>
+      <startTime>6/24/2017 2:45:00 PM</startTime>
+      <endTime>6/24/2017 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62831</importID>
+      <speakers>
+        <speaker>
+          <id>62831</id>
+          <name>Dejan Sarka</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Madagascar</name>
+      </location>
+      <title>Forecasting with MS BI Suite</title>
+      <description>Forecasting is one of the most exciting data mining and machine learning task. In MS BI suite, there are many different tools that help you with this task. This session introduces the most popular forecasting algorithms from the ARTXP and ARIMA families, and then drives you through the implementations in MS tools. You will learn how to do forecasting with R, Azure ML, SSAS, Excel, and Power BI.</description>
+      <startTime>6/24/2017 10:15:00 AM</startTime>
+      <endTime>6/24/2017 11:15:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

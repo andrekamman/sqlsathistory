@@ -1,0 +1,21 @@
+# SQLSaturday #838 - Brisbane 2019
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:00:00|Steve Jones|Professional Development|[Branding Yourself for a Dream Job](87579.md)
+09:00:00|Martin Cairney|Enterprise Database Administration  Deployment|[Smart Alerts in SQL DB using Automation and Logic Apps](89258.md)
+09:00:00|David Alzamendi|BI Platform Architecture, Development  Administration|[Your Modern Data Warehouse Journey with Azure](91561.md)
+10:20:00|Greg Low|Professional Development|[Technologies to Watch: A Gaze into Greg's Crystal Ball](90686.md)
+10:20:00|Gilbert Quevauvilliers|Analytics and Visualization|[Power BI Infographic related on the Power BI Eco System](90842.md)
+10:20:00|Martin Catherall|Cloud Application Development  Deployment|[Looking at the Cosmos(DB)](92708.md)
+11:30:00|Manohar Punna|Strategy and Architecture|[Bridging the gap between SSRS and Power BI](89628.md)
+11:30:00|Kevin Kline|Enterprise Database Administration  Deployment|[Performance Baselining and Alerting](90859.md)
+11:30:00|Victor Isakov|Enterprise Database Administration  Deployment|[Understanding Big Data Clusters](92423.md)
+13:30:00|Rob Volk|Enterprise Database Administration  Deployment|[Revenge: The SQL!](88039.md)
+13:30:00|Vikas Rajput|BI Platform Architecture, Development  Administration|[(Humble) Azure Cloud Shell CLI : Demo](88181.md)
+13:30:00|Patrick Flynn|Enterprise Database Administration  Deployment|[Introduction to SQL Server Managed Instances](91337.md)
+14:50:00|Steve Jones|Application  Database Development|[Always Encrypted in SQL Server](87580.md)
+14:50:00|Kevin Kline|Application  Database Development|[5 Critical Considerations When Moving to the Cloud](90854.md)
+14:50:00|Anupama Natarajan|Analytics and Visualization|[Enterprise Big Data Analytics using Azure Data Lake Storage Gen2](91933.md)
+16:00:00|Pio Balistoy|Enterprise Database Administration  Deployment|[SQL Server Deployment Options and When to Use Them (Full Instance vs Managed Instance vs PAAS)](90008.md)
+16:00:00|Craig Bryden|BI Platform Architecture, Development  Administration|[Modern Enterprise BI in Azure](90589.md)
+16:00:00|Hamish Watson|Application  Database Development|[Test Driven Development in SQL Server – how to deploy code safer](91284.md)

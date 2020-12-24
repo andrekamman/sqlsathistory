@@ -1,0 +1,803 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #685 - Porto 2017</name>
+    <startDate>10/28/2017 12:00:00 AM</startDate>
+    <attendeeEstimate>300</attendeeEstimate>
+    <timezone>(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatPortugal</twitterHashtag>
+    <venue>
+      <name>ISEP</name>
+      <street>Rua Dr. António Bernardino de Almeida, 431</street>
+      <city>Porto</city>
+      <state>Porto, Portugal</state>
+      <zipcode>4249-015 Porto</zipcode>
+      <longitude>-8.60694</longitude>
+      <latitude>41.1783</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>566</importID>
+      <name>DevScope, S.A.</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.devscope.net</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/904/EventSponsor_14172.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>161</importID>
+      <name>Rumos - Formação e Comunicação, S. A.</name>
+      <label>Gold Sponsor</label>
+      <url>http://formacao.rumos.pt</url>
+      <imageURL>https://s11.postimg.org/616v6rtmr/rumos.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2063</importID>
+      <name>Natixis – Sucursal em Portugal</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.linkedin.com/jobs/search/?f_C=157354locationId=pt%3A7397</url>
+      <imageURL>https://www.natixis.com/natixis/upload/docs/image/gif/2017-04/logo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>533</importID>
+      <name>Culto de BI</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.culto-de-bi.pt</url>
+      <imageURL>https://www.culto-de-bi.pt/images/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>427</importID>
+      <name>BI4ALL - Consultores de Gestão, lda</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.bi4all.pt</url>
+      <imageURL>https://s16.postimg.org/hfkyap9sx/2015_logo_bi4all_sponsor_100x40px_01.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>92</importID>
+      <name>Aberto até de madrugada</name>
+      <label>Media Partner</label>
+      <url>http://abertoatedemadrugada.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/925/EventSponsor_14298.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1373</importID>
+      <name>pplware</name>
+      <label>Media Partner</label>
+      <url>http://pplware.sapo.pt</url>
+      <imageURL>https://www.sqlsaturday.pt/logotipos/pplware.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>748</importID>
+      <name>ISEP</name>
+      <label>Media Partner</label>
+      <url>https://www.isep.ipp.pt/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/925/EventSponsor_14280.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>67810</importID>
+      <name>Maryna Popova</name>
+      <label>
+      </label>
+      <description>I am a Big Data Engineer in a BI team. I have around 4 years of  professional expertise in the Information Technologies industry, mainly all around data Engineering and Data Warehousing.
+I am working on my 3rd BI Project now. All of them are in different business areas and are using different technologies. What is common between them is the  willingness to find the most proper development methodology as it is not a canonical development team and no development methodology works "out of the box" . 
+In my talk I would like to share my experience in this area.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69158</importID>
+      <name>Ana Maria Bisbé York</name>
+      <label>
+      </label>
+      <description>Partner Microsoft en Power BI. Influencer en Pragmatic Works. Lic. en Cibernetica Economica con Master en Ciencias Economicas, Moscu; 1988. Master en Gestion del Conocimiento y Business Intelligence con tecnologia Microsoft(MS), y Master en Tecnologias de Desarrollo de MS. Colaboro activamente en grupos de usuarios de MS Visual FoxPro. Mantiene un blog personal. Actualmente es Consultora Business Intelligence con tecnologia MS, trabajando tanto en formacion como en proyectos. Ha sido ponente en eventos SQL Saturday, dentro y fuera de Espania, 24H SQL, IT Woman y Encuentros en Microsoft Espania.</description>
+      <twitter>@ambynet</twitter>
+      <linkedin>https://www.linkedin.com/in/ambynet</linkedin>
+      <ContactURL>http://amby.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ambynet</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67887</importID>
+      <name>David Barbarin</name>
+      <label>
+      </label>
+      <description>David Barbarin is Consultant at dbi services. He has more than ten years of experience in Microsoft solutions. He is specialized in SQL Server technologies and associated topics such as installation, migration, security audits, troubleshooting of performance issues, or high availability architectures etc. David Barbarin is SQL Server MVP (since 2010), Microsoft Certified Master (MCM) for SQL Server, and Microsoft Certified Trainer (MCT).</description>
+      <twitter>mikedavem</twitter>
+      <linkedin>http://fr.linkedin.com/in/mikedavem/en</linkedin>
+      <ContactURL>http://www.dbi-services.com/index.php/blog/dbi-bloggers/blogger/listings/dab</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mikedavem</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68403</importID>
+      <name>Etienne Lopes</name>
+      <label>
+      </label>
+      <description>Etienne Lopes currently works as a SQL Server DBA at Celfinet.
+Working with SQL Server since 1997, member of sqlport community (www.sqlport.com), regular speaker since 2012 at SQL Server events such as: SQL Saturday and 24 Hours of Pass.
+Blog: http://sqland.wordpress.com/</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://sqland.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69159</importID>
+      <name>Ana Maria Bisbé York</name>
+      <label>
+      </label>
+      <description>Partner Microsoft en Power BI. Influencer en Pragmatic Works. Lic. en Cibernetica Economica con Master en Ciencias Economicas, Moscu; 1988. Master en Gestion del Conocimiento y Business Intelligence con tecnologia Microsoft(MS), y Master en Tecnologias de Desarrollo de MS. Colaboro activamente en grupos de usuarios de MS Visual FoxPro. Mantiene un blog personal. Actualmente es Consultora Business Intelligence con tecnologia MS, trabajando tanto en formacion como en proyectos. Ha sido ponente en eventos SQL Saturday, dentro y fuera de Espania, 24H SQL, IT Woman y Encuentros en Microsoft Espania.</description>
+      <twitter>@ambynet</twitter>
+      <linkedin>https://www.linkedin.com/in/ambynet</linkedin>
+      <ContactURL>http://amby.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ambynet</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67467</importID>
+      <name>Roberto Cavalcanti</name>
+      <label>
+      </label>
+      <description>Roberto Cavalcanti is an Azure Cloud Solution Architect with the Customer Architecture and Engineering team at Microsoft. He is a database specialist with 20+ years of experience. He focuses on helping customers to be successful in Microsoft's Azure cloud and on improving Microsoft Azure products. Roberto has written many articles about SQL Server/Azure SQL DB for MSDN/TechNet, SQL Magazine, and has been a speaker in events such as TechReady, Microsoft Insights/TechEd, SQL Saturday. He has delivered Azure training in multiple countries in the Americas, and in Europe. Roberto is based on the Microsoft Las Colinas, Texas, USA office.</description>
+      <twitter>rocavalc</twitter>
+      <linkedin>https://www.linkedin.com/in/robertocavalcanti</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=rocavalc</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69240</importID>
+      <name>Vitor Pombeiro</name>
+      <label>
+      </label>
+      <description>Azure SQL DB Support Engineer at Microsoft.
+Working with SQL Server since version 7.0 and before that with SQL Anywhere.
+Working in the clouds with SQL Server and Azure SQL DB, DW, MySQL and PostgreSQL.</description>
+      <twitter>@creative_byte</twitter>
+      <linkedin>https://www.linkedin.com/in/vitorpombeiro</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@creative_byte</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67605</importID>
+      <name>Rudi Bruchez</name>
+      <label>
+      </label>
+      <description>(same as before)</description>
+      <twitter>nepasderanger</twitter>
+      <linkedin>https://fr.linkedin.com/in/rudibruchez</linkedin>
+      <ContactURL>http://www.babaluga.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=nepasderanger</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70344</importID>
+      <name>Ivan Campos</name>
+      <label>
+      </label>
+      <description>Ivan Campos is currently a database administrator in 3C Payment a fin-tech in Luxembourg. (3CPayment.com).
+He is Microsoft Most Valuable Professional, active speaker at local community meetings in Portugal and outside Portugal. He is the leader and one of the founders of the community based in the north of Portugal Porto.Data (www.portodata.net) and the organizer of SQLSaturday in Porto Portugal.</description>
+      <twitter>WizardDBA</twitter>
+      <linkedin>https://pt.linkedin.com/in/idcampos</linkedin>
+      <ContactURL>http://wizarddba.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=WizardDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69127</importID>
+      <name>Murilo Miranda</name>
+      <label>
+      </label>
+      <description>Murilo Miranda is a blogger, speaker and SQL Server MVP from Portugal. Nowadays he#39;s a Cloud Operations Engineer at DataStax. Murilo’s passion for working with people coupled with his honesty have helped him establish effective, meaningful relationships with his clients. When he isn’t working, he can be found enjoying life with his family, watching football and playing Playstation.</description>
+      <twitter>murilocmiranda</twitter>
+      <linkedin>http://pt.linkedin.com/in/murilomiranda/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=murilocmiranda</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67470</importID>
+      <name>Ivan Campos</name>
+      <label>
+      </label>
+      <description>Ivan Campos is currently a database administrator in 3C Payment a fin-tech in Luxembourg. (3CPayment.com).
+He is Microsoft Most Valuable Professional, active speaker at local community meetings in Portugal and outside Portugal. He is the leader and one of the founders of the community based in the north of Portugal Porto.Data (www.portodata.net) and the organizer of SQLSaturday in Porto Portugal.</description>
+      <twitter>WizardDBA</twitter>
+      <linkedin>https://pt.linkedin.com/in/idcampos</linkedin>
+      <ContactURL>http://wizarddba.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=WizardDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68567</importID>
+      <name>Andre Batista</name>
+      <label>
+      </label>
+      <description>Andre Batista, with academic path in the course of Electronics, Telecommunications and Computers ( ISEL - Lisbon ) is currently in Crossjoin Solutions working as SQL Server DBA, performing functions on the client PT (Portugal Telecom). He is interested in all areas related to SQL Server and particularly in architecture, implementation, maintenance and performance. He is a member of the Portuguese SQL Server User Group, SQLPort (http://www.sqlport.com) and also one of the founders of TUGA.</description>
+      <twitter>@klunkySQL</twitter>
+      <linkedin>http://pt.linkedin.com/pub/andre-batista/9/111/790/</linkedin>
+      <ContactURL>http://klunkysql.info/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@klunkySQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67535</importID>
+      <name>Eduardo Piairo</name>
+      <label>
+      </label>
+      <description>Deployment pipeline craftsman always ready to learn new ways to implement Source Control, Continuous Integration and Continuous Delivery for databases, applications and infrastructure. 
+
+Database administrator with special interest in database changes and data modeling.
+
+Operations engineer, DevOps Agent with automation, collaboration and communication as priorities.</description>
+      <twitter>@EdPiairo</twitter>
+      <linkedin>https://pt.linkedin.com/in/jesuspiairo</linkedin>
+      <ContactURL>http://www.eduardopiairo.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@EdPiairo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68184</importID>
+      <name>Gavin Campbell</name>
+      <label>
+      </label>
+      <description>Gavin Campbell is a recovering Business Intelligence developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://uk.linkedin.com/in/gavincampbell</linkedin>
+      <ContactURL>http://arapaima.uk</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68983</importID>
+      <name>Pau Sempere</name>
+      <label>
+      </label>
+      <description>Pau Sempere S#225;nchez is a Computer Science graduate, working at SolidQ as Data Platform Architect and is member of PASS Spanish Group. He#39;s worked in BI and database projects for top companies in the world, in diverse areas as communications, insurance, retail, transport, banking and automotive. He has been presenting in many Microsoft and community events such as SQL Saturday Madrid and Barcelona, the 12 hours of SQL Server, SolidQ Summit or TechNet Webcasts, and teaching in the SolidQ Master for 6 years in a row</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.solidq.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67488</importID>
+      <name>James Anderson</name>
+      <label>
+      </label>
+      <description>James Anderson is a freelance SQL Server guy in Southampton, UK. He has been working with databases since 2008. The first and worst RDBMS he worked with was Paradox. He quickly moved to using T-SQL in SQL Server 2005 and has worked on every version of the product since. His work ranges from stand-alone systems for simple websites to multi terabyte HA environments that support thousands of sites across Europe. Each have their own challenges.</description>
+      <twitter>@DatabaseAvenger</twitter>
+      <linkedin>https://uk.linkedin.com/in/jsbanderson</linkedin>
+      <ContactURL>http://TheDatabaseAvenger.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@DatabaseAvenger</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68613</importID>
+      <name>Pedro Sousa</name>
+      <label>
+      </label>
+      <description>Pedro Sousa lives in Porto, Portugal and he currently works as a Senior IT Operations Analyst at Basecone. Started working with SQL Server at version 6.5 and although DBA is not his primary role, always had a particular interest for it. Nowadays one of his main focus is Microsoft Azure and integration with on-premises networks, working from the copper wire to the Cloud.</description>
+      <twitter>psousa75</twitter>
+      <linkedin>https://pt.linkedin.com/in/pmsousa</linkedin>
+      <ContactURL>http://www.devscope.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=psousa75</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68843</importID>
+      <name>Rui Romano</name>
+      <label>
+      </label>
+      <description>Rui Romano lives in Portugal and he leads the Business Intelligence team at DevScope. 
+
+He has been Developing amp; Architecting software solutions since 2003 always focused in the Business Intelligence area.</description>
+      <twitter>RuiRomano</twitter>
+      <linkedin>https://pt.linkedin.com/in/ruiromano</linkedin>
+      <ContactURL>http://ruiromanoblog.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=RuiRomano</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67657</importID>
+      <name>Sander van der hoeff</name>
+      <label>
+      </label>
+      <description>With over 20 years of experience in automation Sander van der Hoeff knows his way around in the ICT business. Since 2000 Sander is Specialized in business intelligence and data warehousing using the full SQLServer Stack. In 2012 Sander founded his own BI-company: Du Sabot. Nowadays Sander spends his time on several BI- and DWH-projects as an independent professional. Sander combines deep technical knowledge with the capability to explain difficult BI- and DWH-concepts to the non-technical people</description>
+      <twitter>shoeff</twitter>
+      <linkedin>http://nl.linkedin.com/in/shoeff</linkedin>
+      <ContactURL>http://www.du-sabot.nl</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=shoeff</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70346</importID>
+      <name>Ivan Campos</name>
+      <label>
+      </label>
+      <description>Ivan Campos is currently a database administrator in 3C Payment a fin-tech in Luxembourg. (3CPayment.com).
+He is Microsoft Most Valuable Professional, active speaker at local community meetings in Portugal and outside Portugal. He is the leader and one of the founders of the community based in the north of Portugal Porto.Data (www.portodata.net) and the organizer of SQLSaturday in Porto Portugal.</description>
+      <twitter>WizardDBA</twitter>
+      <linkedin>https://pt.linkedin.com/in/idcampos</linkedin>
+      <ContactURL>http://wizarddba.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=WizardDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69157</importID>
+      <name>Ana Maria Bisbé York</name>
+      <label>
+      </label>
+      <description>Partner Microsoft en Power BI. Influencer en Pragmatic Works. Lic. en Cibernetica Economica con Master en Ciencias Economicas, Moscu; 1988. Master en Gestion del Conocimiento y Business Intelligence con tecnologia Microsoft(MS), y Master en Tecnologias de Desarrollo de MS. Colaboro activamente en grupos de usuarios de MS Visual FoxPro. Mantiene un blog personal. Actualmente es Consultora Business Intelligence con tecnologia MS, trabajando tanto en formacion como en proyectos. Ha sido ponente en eventos SQL Saturday, dentro y fuera de Espania, 24H SQL, IT Woman y Encuentros en Microsoft Espania.</description>
+      <twitter>@ambynet</twitter>
+      <linkedin>https://www.linkedin.com/in/ambynet</linkedin>
+      <ContactURL>http://amby.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ambynet</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>67488</importID>
+      <speakers>
+        <speaker>
+          <id>67488</id>
+          <name>James Anderson</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Auditorium 3</name>
+      </location>
+      <title>SQL Server and Continuous Integration</title>
+      <description>It's understandable that developers love to work in separate code branches, but this can create painful complications if not managed.
+
+Do you dread large merge conflicts when integrating code?
+Continuous Integration is method of working where we merge and fully test our code multiple times a day. This is only possible with a high level of automation. 
+
+I'll be discussing the tools I use to achieve this automation when developing SQL Server databases.
+
+Finding automating the deployment of database changes hard?
+ReadyRoll is a tool that allows you to test deployments during development.
+
+How do you know your database change won’t affect something you haven’t thought of?
+tSQLt and Pester unit tests can put your mind at rest.
+
+Having trouble keeping your test environments in sync with production?
+Docker enables us to fix this with infrastructure as code
+
+You will see how a CI approach to database development can increase team efficiency and reduce the time to go from an ide</description>
+      <startTime>10/28/2017 10:30:00 AM</startTime>
+      <endTime>10/28/2017 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>67657</importID>
+      <speakers>
+        <speaker>
+          <id>67657</id>
+          <name>Sander van der hoeff</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Analytics </track>
+      <location>
+        <name>Auditorium 2</name>
+      </location>
+      <title>SSIS Package generation with BIML</title>
+      <description>Ever ended up with a source system where an old datatype was replaced with a new one so you had to rebuild all your SSIS packages? 
+Entered a project with SSIS packages which needed a complete rebuild to perform but you didn’t have the time for a rebuild of your whole project?
+Client specifications changed (again) and you had to start all over again building all your packages?
+
+We did it all and rebuild 100+ SSIS packages within a day using biml for generating SSIS packages. 
+And with a generator at hand, we were able to absorb a new version of a source system including analysis of the changes made in the source in only two days. And the best of all, BIML is part of BIDSHelper and free to use!
+Don' t just believe what I say, In my session I will demonstrate where to start. 
+I will show you around in BIML. After the quick basics of BIML I will show you how you can parameterize the BIML script in order to multiply the template to multiple packages over and over again.</description>
+      <startTime>10/28/2017 9:00:00 AM</startTime>
+      <endTime>10/28/2017 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>68184</importID>
+      <speakers>
+        <speaker>
+          <id>68184</id>
+          <name>Gavin Campbell</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Auditorium 3</name>
+      </location>
+      <title>Database Continuous Delivery on the Microsoft Platform</title>
+      <description>A look at the state of the art in database continuous delivery using SQL Server Data Tools (SSDT), Visual Studio Team Services(VSTS), and VSTS Release Management.
+
+The features provided by platforms such as TFS and VSTS have been widely adopted by application developers in support of modern software development practices such as continuous delivery.
+
+In the world of database development, adoption has been much slower, due to a number of organisational and technical considerations.
+
+This session will discuss some of the challenges associated with database continuous delivery, and the ways in which Visual Studio, SQL Server Data Tools and Visual Studio Team Services can help to improve delivery of SQL Server databases.</description>
+      <startTime>10/28/2017 1:45:00 PM</startTime>
+      <endTime>10/28/2017 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68567</importID>
+      <speakers>
+        <speaker>
+          <id>68567</id>
+          <name>Andre Batista</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Auditorium 1</name>
+      </location>
+      <title>Deep dive into Query Store on SQL Server 2016</title>
+      <description>Query Store is a new feature that got released on SQL Server 2016 version and is being improved over the last cumulative updates and on SQL Server 2017 vNext CTP's versions. It's a very useful and interesting feature that allow DBA's ( and non-DBA's :) ) to easily identify performance issues on queries and also allow us to fix it in a fast and simple way. Just the ability to compare a previous execution plan to a new plan is a huge step towards understanding what may be happening in our instance. We can even tell the optimizer which plan we want it to use. These were all either extremely difficult to do before and in some cases impossible to do. I want with this session to give you the insight and knowledge to get started using this new and wonderful feature that will change the way how you do performance tuning.</description>
+      <startTime>10/28/2017 10:30:00 AM</startTime>
+      <endTime>10/28/2017 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>69127</importID>
+      <speakers>
+        <speaker>
+          <id>69127</id>
+          <name>Murilo Miranda</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Auditorium 1</name>
+      </location>
+      <title>Patterns for building hybrid scenarios with SQL Server and Azure</title>
+      <description>SQL Server and Azure are built for each other. New hybrid scenarios between on-premise SQL Server and Azure mean they don't have to exclude each other but instead you can have the best of both worlds. 
+
+For example, by taking advantage of services like Azure Blob Storage or Azure VMs we can increase the availability of our services or distribute data in smart ways that benefit our performance and decrease cost. In this demo-heavy session, you will learn the strongest use cases for hybrid scenarios between on-premises and the cloud, and open a new horizon of what you can do with your SQL Server infrastructure. SQL Server and Azure are built for each other. 
+
+New hybrid scenarios between on-premise SQL Server and Azure mean they don't have to exclude each other but instead you can have the best of both worlds.</description>
+      <startTime>10/28/2017 9:00:00 AM</startTime>
+      <endTime>10/28/2017 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>68843</importID>
+      <speakers>
+        <speaker>
+          <id>68843</id>
+          <name>Rui Romano</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Analytics </track>
+      <location>
+        <name>Auditorium 2</name>
+      </location>
+      <title>"Start Small and Grow Big" with Power BI and Azure AS</title>
+      <description>In this talk you will learn how to use Power BI to prototype/develop a BI solution in days and then (if needed) evolve it into a fully scalable Azure BI solution.</description>
+      <startTime>10/28/2017 1:45:00 PM</startTime>
+      <endTime>10/28/2017 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69157</importID>
+      <speakers>
+        <speaker>
+          <id>69157</id>
+          <name>Ana Maria Bisbé York</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Analytics </track>
+      <location>
+        <name>Auditorium 2</name>
+      </location>
+      <title>Modeling scenarios in DAX, the awesome language of Power BI</title>
+      <description>The right tabular modeling is the cornerstone that allow us to build the best dashboards, control panels and analytical models. In this session we will analyze some scenarios of data modeling by using DAX and Power BI. These scenarios, which come from real projects, can also be adapted to tabular models with SQL Server Analysis Services in SQL Server Data Tools and Power Pivot in Excel.</description>
+      <startTime>10/28/2017 10:30:00 AM</startTime>
+      <endTime>10/28/2017 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>68983</importID>
+      <speakers>
+        <speaker>
+          <id>68983</id>
+          <name>Pau Sempere</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Analytics </track>
+      <location>
+        <name>Auditorium 2</name>
+      </location>
+      <title>R Server on Spark - Go big or go home</title>
+      <description>The publication of R Server by Microsoft aims to improve the weaknesses of the R language and its processes of performance, development and operationalization. When we need to analyze very diverse or really large amounts of data, traditional servers may fall short, and this is where R Server over Spark comes to the rescue. How is it implemented in the Microsoft ecosystem? In what scenarios does it help us? How do we configure it? In this session we will answer all these questions and more, with our eyes always on the clouds and thinking big.</description>
+      <startTime>10/28/2017 3:50:00 PM</startTime>
+      <endTime>10/28/2017 4:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69159</importID>
+      <speakers>
+        <speaker>
+          <id>69159</id>
+          <name>Ana Maria Bisbé York</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Analytics </track>
+      <location>
+        <name>Auditorium 2</name>
+      </location>
+      <title>Pattern analysis with SQL Server DM Excel DM AzureML R  PowerBI</title>
+      <description>We have an enormous set of tools for analysis and pattern matching in the data ecosystem. Among the most used, we can find solutions that come from the academic world such as R, others integrated as part of productivity solutions such as SQL Server Analysis Services or Excel, as well as cloud based hosted solutions such as Azure Machine Learning and Power BI.
+In this session, we will use the mentioned tools to analyze a common data set, discovering the compositions, segmentation and patterns present in the data sample.</description>
+      <startTime>10/28/2017 5:00:00 PM</startTime>
+      <endTime>10/28/2017 6:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70344</importID>
+      <speakers>
+        <speaker>
+          <id>70344</id>
+          <name>Ivan Campos</name>
+        </speaker>
+      </speakers>
+      <track>Information Delivery</track>
+      <location>
+        <name>Auditorium 1</name>
+      </location>
+      <title>Natixis Sponsor Session</title>
+      <description>Natixis Sponsor Session</description>
+      <startTime>10/28/2017 2:45:00 PM</startTime>
+      <endTime>10/28/2017 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69240</importID>
+      <speakers>
+        <speaker>
+          <id>69240</id>
+          <name>Vitor Pombeiro</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Auditorium 3</name>
+      </location>
+      <title>What you want to know about Azure Database for MySQL and PostgreSQL?</title>
+      <description>In this session we will learn:
+What is "Azure Database for MySQL" and "Azure Database for PostgreSQL", how can we configure them, what to take attention to and what to expect from these new services.
+What is the difference from these new services and the MySQL and PostgreSQL that we use on our computers or servers.
+How to take the best advantage of using this databases as PaaS
+And much more...</description>
+      <startTime>10/28/2017 5:00:00 PM</startTime>
+      <endTime>10/28/2017 6:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67605</importID>
+      <speakers>
+        <speaker>
+          <id>67605</id>
+          <name>Rudi Bruchez</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Auditorium 1</name>
+      </location>
+      <title>Discover the new graph features of SQL Server 2017</title>
+      <description>In this session, we’ll see in detail how to create nodes and edges tables designed for graphs traversal in SQL Server 2017. After a summary of the underlying graph theory and its implementation in databases, we’ll see how to create graph tables in SQL Server 2017, and how to query them with the match operator. This session will give you a kickstart on using graphs in SQL Server 2017.</description>
+      <startTime>10/28/2017 5:00:00 PM</startTime>
+      <endTime>10/28/2017 6:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67535</importID>
+      <speakers>
+        <speaker>
+          <id>67535</id>
+          <name>Eduardo Piairo</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Auditorium 3</name>
+      </location>
+      <title>Setting a WordPress website using Azure Web Apps and Azure Database for MySQL</title>
+      <description>This session is about how to set up a WordPress website hosted in Azure using Azure Web Apps and Azure Database for MySQL.
+As a plus, during the session I will share some tricks about how to build a process/pipeline to deploy changes in the website.</description>
+      <startTime>10/28/2017 11:40:00 AM</startTime>
+      <endTime>10/28/2017 12:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67470</importID>
+      <speakers>
+        <speaker>
+          <id>67470</id>
+          <name>Ivan Campos</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Auditorium 1</name>
+      </location>
+      <title>Hiding data with SQL Server 2016/2017</title>
+      <description>Security is unquestionably a major priority for Microsoft. Join me in this session and see what security features Microsoft has  released since SQL Server 2016. In this session you will see how Dynamic Data Masking and Row-Level Security works in on-perm and Azure environments and how to use Always Encrypted.</description>
+      <startTime>10/28/2017 3:50:00 PM</startTime>
+      <endTime>10/28/2017 4:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67810</importID>
+      <speakers>
+        <speaker>
+          <id>67810</id>
+          <name>Maryna Popova</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Analytics </track>
+      <location>
+        <name>Auditorium 2</name>
+      </location>
+      <title>Development Methodology for BI teams</title>
+      <description>BI teams usually not only deliver features , but also do the ad hoc reports, users support etc
+This way BI is not a canonical development team and no pure development methodology works "out of the box" . 
+In my talk I would like to share my experience choosing and adjusting one.</description>
+      <startTime>10/28/2017 11:40:00 AM</startTime>
+      <endTime>10/28/2017 12:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70346</importID>
+      <speakers>
+        <speaker>
+          <id>70346</id>
+          <name>Ivan Campos</name>
+        </speaker>
+      </speakers>
+      <track>Information Delivery</track>
+      <location>
+        <name>Auditorium 2</name>
+      </location>
+      <title>DevScope Sponsor Session</title>
+      <description>DevScope Sponsor Session</description>
+      <startTime>10/28/2017 2:45:00 PM</startTime>
+      <endTime>10/28/2017 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67887</importID>
+      <speakers>
+        <speaker>
+          <id>67887</id>
+          <name>David Barbarin</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Auditorium 1</name>
+      </location>
+      <title>SQL Server on Linux and high availability</title>
+      <description>Open source is part of the Microsoft strategy. Indeed, you may run SQL Server either on a physical or a virtual machine, and recently on the top of Windows or Linux operation system as well.
+
+At the same time, maintaining business continuity service remains a major challenge for customers because it is synonymous with economic competitivity.
+Fortunately, high availability features for Linux will also be shipped with SQL Server 2017 to address this daily concern. 
+
+This session will be delivering an overview of what is new and how it is going to change the landscape of your mission-critical scenarios.</description>
+      <startTime>10/28/2017 1:45:00 PM</startTime>
+      <endTime>10/28/2017 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68403</importID>
+      <speakers>
+        <speaker>
+          <id>68403</id>
+          <name>Etienne Lopes</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Auditorium 1</name>
+      </location>
+      <title>Taking Security to another level: SQL Server Audit</title>
+      <description>Your company implements data access rules and policies to meet compliance with established security standards... How can you ensure and prove at any time that they're being properly followed, without killing your database servers performance while capturing evidence?
+
+In this Session I'll talk about SQL Server Audit and demonstrate how easy it is to implement in such a way that suits most companies needs, whithout afecting Server performance. 
+Also some news in SQL Server 2017 regarding this subject!</description>
+      <startTime>10/28/2017 11:40:00 AM</startTime>
+      <endTime>10/28/2017 12:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68613</importID>
+      <speakers>
+        <speaker>
+          <id>68613</id>
+          <name>Pedro Sousa</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Auditorium 3</name>
+      </location>
+      <title>Yet Another Session about Docker and Containers</title>
+      <description>Following the trends of hot-topic Docker and Containers. We will talk about the newest developments in Docker World and Microsoft's container adoption.</description>
+      <startTime>10/28/2017 9:00:00 AM</startTime>
+      <endTime>10/28/2017 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>67467</importID>
+      <speakers>
+        <speaker>
+          <id>67467</id>
+          <name>Roberto Cavalcanti</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Auditorium 3</name>
+      </location>
+      <title>Azure SQL Database - Lessons learned from the trenches</title>
+      <description>In this session you will learn the best practices, tips and tricks on how to successfully use Azure SQL Database on production environments. You will learn how to monitor and improve Azure SQL Database query performance. I will cover how Microsoft CSS has been using Query Store, Extended Events, DMVs to help customers monitor and improve query response times when running their databases in the Microsoft Azure cloud. These learnings are fruit of Microsoft CSS support cases, and customer field engagements. This session includes several demos.</description>
+      <startTime>10/28/2017 3:50:00 PM</startTime>
+      <endTime>10/28/2017 4:50:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

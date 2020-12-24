@@ -1,0 +1,247 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #155 - Lima 2012</name>
+    <startDate>9/22/2012 12:00:00 AM</startDate>
+    <attendeeEstimate>400</attendeeEstimate>
+    <timezone>(GMT-05:00) Bogota, Lima, Quito</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat155</twitterHashtag>
+    <venue>
+      <name>Universidad Tecnológica del Perú</name>
+      <street>Avenida 28 de Julio 826</street>
+      <city>Lima</city>
+      <state>Lima, Peru</state>
+      <zipcode>Lima17</zipcode>
+      <longitude>-77.036803</longitude>
+      <latitude>-12.062558</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>456</importID>
+      <name>BS Grupo</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.bsgrupo.com</url>
+      <imageURL>https://www.bsgrupo.com/image/log.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>43</importID>
+      <name>SAPIEN Technologies</name>
+      <label>Community Sponsor</label>
+      <url>http://www.sapien.com</url>
+      <imageURL>https://www.pass.org/files/596bfb68-a4b3-4852-ad88-011b040d618b.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1080</importID>
+      <name>SQL4Junkies EIRL</name>
+      <label>Community Sponsor</label>
+      <url>http://www.sql4junkies.com</url>
+      <imageURL>https://geeks.ms/blogs/ozonicco//cfs-filesystemfile.ashx/__key/CommunityServer.Blogs.Components.WeblogFiles/ozonicco.SQL4Junkies/logo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>726</importID>
+      <name>IniTech Peru</name>
+      <label>Community Sponsor</label>
+      <url>http://www.initechperu.com</url>
+      <imageURL>https://www.initechperu.com/siteimages/initech.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>658</importID>
+      <name>Global Group Management Business</name>
+      <label>Community Sponsor</label>
+      <url>http://www.globalgmb.com</url>
+      <imageURL>https://www.globalgmb.com/images/logo-sponsor.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>83</importID>
+      <name>PluralSight</name>
+      <label>Community Sponsor</label>
+      <url>http://www.pluralsight.com</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2015/11/Pluralsight_logo_novo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>20</importID>
+      <name>O'Reilly Books</name>
+      <label>Community Sponsor</label>
+      <url>http://oreilly.com/</url>
+      <imageURL>https://oreilly.com/images/oreilly/oreilly.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>16937</importID>
+      <name>Juan Rafael</name>
+      <label>
+      </label>
+      <description>MCT- MCSA-MCITP-MCP-MTA-MCTS. Consultor Microsoft Dynamics con m#225;s de 4 a#241;os de experiencia en ERP y mas de 7 a#241;os en tecnolog#237;as Microsoft como SQL Server, Windows Server y SharePoint. Ha participado en proyectos de implementaci#243;n de ERP Microsoft Dynamics AX para empresas de Peru como EuroMotors, C#225;mara de Comercio de Lima, Consorcio Minero Horizonte, SIka Peru, entre otras, tambi#233;n con menci#243;n en implementaciones de ERP Microsoft Dynamics GP para diferentes industrias del Per#250;.</description>
+      <twitter>@jlc_rve</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://geeks.ms/blogs/juanrafael/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jlc_rve</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17832</importID>
+      <name>Kai Clemente</name>
+      <label>
+      </label>
+      <description>Consultor de sistemas con experiencia en las #225;reas de sistemas, capacitaci#243;n y docencia. S#243;lidos conocimientos en jefatura de proyectos, desarrollo de aplicaciones Windows, Web y sistemas distribuidos sobre tecnolog#237;as MICROSOFT.</description>
+      <twitter>https://twitter.com/kaiclemente</twitter>
+      <linkedin>https://pe.linkedin.com/in/kaiclemente</linkedin>
+      <ContactURL>http://kaiclemente.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/kaiclemente</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21933</importID>
+      <name>Percy Reyes</name>
+      <label>
+      </label>
+      <description>CEO/Owner at SQL4Junkies. He is a renowned certified SQL Server expert with experience in providing solutions for Database Platform and SQL Server Internals problems. Since 2001, He has been working exclusively with SQL Server(6.5, 7.0, 2000, 2005, 2008, 2008 R2, 2012), including Administration, Database Maintenance, Optimization  Performance Tuning, Security  Compliance, Scalability, Disaster Recovery, High Availability, Replication, Monitoring, Storage Engine, and more about SQL Server Inter</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sql4junkies.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19789</importID>
+      <name>Mary Arcia</name>
+      <label>
+      </label>
+      <description>Mary es graduada como Ingeniero en Inform#225;tica en Venezuela.Labora actualmente en Panam#225; como consultor de Base de Datos e Inteligencia de Negocios.  Lleva mas de 12 a#241;os trabajando en proyectos de Business Intelligence,administracion de bases de datos e implementaci#243;n de aplicaciones ERP y CRM. Colaborador activo de eventos SQL Server para LATAM.
+</description>
+      <twitter>@maryarcia</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@maryarcia</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13825</importID>
+      <name>ENRIQUE ALBAN</name>
+      <label>
+      </label>
+      <description>Enrique Alban, profesional de reconocida trayectoria nacional e internacional con más de 20 años de experiencia, premiado por 9 años consecutivos con el prestigioso premio a nivel mundial dado por Microsoft como el Most Value Professional (MVP) en SQL SERVER. A realizado consultorías a las principales empresas nacionales e internacionales. Participa habitualmente en los eventos de Microsoft como expositor de Inteligencia de Negocio y Base de Datos.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>21933</importID>
+      <speakers>
+        <speaker>
+          <id>21933</id>
+          <name>Percy Reyes</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>ColumnStore index in SQL Server 2012: How it works</title>
+      <description>How it works? How to use it? When to use it? All these questions will be answered based on real scenarios, do not miss it!</description>
+      <startTime>9/22/2012 12:00:00 AM</startTime>
+      <endTime>9/22/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16937</importID>
+      <speakers>
+        <speaker>
+          <id>16937</id>
+          <name>Juan Rafael</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>KEYNOTE - Productividad Empresarial con SQL Server</title>
+      <description>En esta sesion se mostrara los beneficios de SQL Server 2012 a nivel de productividad e inteligencias de negocios junto con el poder de MS SharePoint 2010 para la gestion de los recursos empresariales con MS Dynamics GP 2010.</description>
+      <startTime>9/22/2012 12:00:00 AM</startTime>
+      <endTime>9/22/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13825</importID>
+      <speakers>
+        <speaker>
+          <id>13825</id>
+          <name>ENRIQUE ALBAN</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Generando valor a la Información</title>
+      <description>Los negocios actuales exigen que las empresas cada vez conozcan a sus clientes, sin embargo dado a la explosición de los datos, la globalización y la competencia hacen que cada vez sea más dificil cumplir esta tarea.Microsoft SQL 2012 proporciona una excelente herramienta para este fin.</description>
+      <startTime>9/22/2012 12:00:00 AM</startTime>
+      <endTime>9/22/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19789</importID>
+      <speakers>
+        <speaker>
+          <id>19789</id>
+          <name>Mary Arcia</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Encajando novedades SQLServer en la plataforma BI</title>
+      <description>SQL Server 2012 viene cargado con caracteristicas interesantes en el área de BI.Desde sus inicios, hemos visto como muchas de sus características han venido marcando su madurez como producto. Es momento de que conozcamos como todos estos cambios vienen encajando en una serie de mejoras y capacidades en nuestra plataforma BI y que de cara al presente y al futuro podamos obtener una visión clara de las decisiones que debamos tomar a partir de ahora en adelante.</description>
+      <startTime>9/22/2012 12:00:00 AM</startTime>
+      <endTime>9/22/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17832</importID>
+      <speakers>
+        <speaker>
+          <id>17832</id>
+          <name>Kai Clemente</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Microsoft SQL Server 2012 Power Pivot</title>
+      <description>permiten a los clientes aprovechar las nuevas funcionalidades analíticas y mayor facilidad de uso mientras trabajaba con las herramientas proporcionadas por Excel.</description>
+      <startTime>9/22/2012 12:00:00 AM</startTime>
+      <endTime>9/22/2012 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

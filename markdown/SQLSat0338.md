@@ -1,0 +1,23 @@
+# SQLSaturday #338 - Barcelona 2014
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Enrique Bañuls|Track DBA|[Planes de ejecución en SQL Server 2014](13829.md)
+00:00:00|Eladio Rincon|Track DBA|[Durabilidad diferida de transacciones y mejoras en gestión de bloqueos para tareas administrativas](13954.md)
+00:00:00|Davide Mauri|Track DBA|[Hardware Planning  Sizing for SQL Server](15321.md)
+00:00:00|Davide Mauri|Track BI|[Automating Data Warehouse Patterns Through Metadata](15322.md)
+00:00:00|Niko Neugebauer|Track BI|[Clustered Columnstore Deep Dive](15416.md)
+00:00:00|Jen Stirrup|Track Big Data Analytics|[A One Hour Data Analysts Toolkit: using R and PowerBI](16436.md)
+00:00:00|Miguel Egea|Track BI|[Datawarehouse en tiempo real con CDC](20050.md)
+00:00:00|Oliver Engels|Track Big Data Analytics|[??? Question ??? - Has Power BI QA the answer?](21563.md)
+00:00:00|Peter Myers|Track Big Data Analytics|[Big Data Analytics with Excel](22026.md)
+00:00:00|Pau Sempere|Track Big Data Analytics|[SQL Server y Textos](22324.md)
+00:00:00|Alberto López Grande|Track DBA|[Avanzando a SQL Server 2014 como quien no quiere la cosa](22426.md)
+00:00:00|Regis Baccaro|Track BI|[Power View and the Cube](22859.md)
+00:00:00|Rodney Landrum|Track DBA|[Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure](23396.md)
+00:00:00|Ruben Pertusa Lopez|Track BI|[Big Brother: Espiando a nuestro BI](23497.md)
+00:00:00|Sanjay Soni|Track Big Data Analytics|[End to end demos of Power BI, Azure machine learning, HD Insight, APS (PDW) and SAP BI Connector](23960.md)
+00:00:00|Sergio Carrillo Vila|Track BI|[Exprimiendo Reporting Services: Trucos y consejos](24037.md)
+00:00:00|Sergey Olontsev|Track DBA|[Moving applications to SQL Server 2014 In-Memory OLTP](24375.md)
+00:00:00|Salvador Ramos|Track Big Data Analytics|[Visualización. Mejorando las respuestas a las preguntas de Negocio.](25178.md)
+00:00:00|Uwe Ricken|Track DBA|[INSERT / UPDATE / DELETE - deep dive](27253.md)
+00:00:00|Allan Mitchell|Track Big Data Analytics|[Hadoop for the Microsoft Guy](9310.md)

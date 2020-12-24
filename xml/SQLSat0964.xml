@@ -1,0 +1,40 @@
+<GuidebookXML>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/964/EventSponsor_14559.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1561</importID>
+      <name>Metric Arts</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.metricarts.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/964/EventSponsor_14462.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2622</importID>
+      <name>Microsoft Chile</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/964/EventSponsor_14463.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/964/EventSponsor_14509.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

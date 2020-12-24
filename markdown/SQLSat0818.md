@@ -1,0 +1,20 @@
+# SQLSaturday #818 - Malaysia 2019
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:30:00|Ian Choy|Strategy and Architecture|[Microsoft Data  AI Landscape](88328.md)
+10:45:00|Asanka Padmakumara|BI Platform Architecture, Development  Administration|[ETL2.0: Data Engineering with Azure Databricks](86589.md)
+10:45:00|Ben Weissman|Information Delivery|[SQL Server Big Data Clusters - A game changer?](87060.md)
+10:45:00|Khilitchandra Prajapati|BI Information Delivery|[Build Dashboards in Power BI with Real-time* Data](87073.md)
+11:45:00|Vinod Kumar M|Application  Database Development|[Become a SQL Ninja: SQL Server Tools](86389.md)
+11:45:00|Jonathan Stewart|Analytics and Visualization|[Data Visualization: How to truly tell a great story!](86475.md)
+11:45:00|David Alzamendi|BI Platform Architecture, Development  Administration|[Modern Azure Data Warehouse](87442.md)
+13:45:00|Kevin Boles|Other|[Common TSQL Mistakes](86647.md)
+13:45:00|Patrick Flynn|Application  Database Development|[GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects](87204.md)
+13:45:00|Danaraj Ram Kumar|BI Platform Architecture, Development  Administration|[Orchestrating Data Movement in the Cloud](87722.md)
+14:45:00|Hamid J. Fard|Enterprise Database Administration  Deployment|[Optimum Environment for SQL Server](86277.md)
+14:45:00|Ben Weissman|Information Delivery|[Let’s Build SSIS Packages with Biml – Live!](86595.md)
+14:45:00|Janusz Rokicki|Enterprise Database Administration  Deployment|[AIOps for Sql Server - Introduction](87951.md)
+16:00:00|Jason Aw|Enterprise Database Administration  Deployment|[SQL Server in "The Cloud": High Availability and Disaster Recovery in Azure, AWS and Google](86320.md)
+16:00:00|Jonathan Stewart|BI Platform Architecture, Development  Administration|[Performance Tuning for the BI Professional](86478.md)
+16:00:00|Kevin Boles|Application  Database Development|[Know What Your Code is Doing to SQL Server!](86648.md)
+19:00:00|Chiu Kiang Phua|Enterprise Database Administration  Deployment|[Placeholder (Testing)](87941.md)

@@ -1,0 +1,23 @@
+# SQLSaturday #840 - Edmonton 2019
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:30:00|Chris Wood|Professional Development|[Educating yourself will make a SQL career more fulfilling](87381.md)
+09:30:00|Jay Falck|Enterprise Database Administration  Deployment|[Introduction to Linux for SQL Server](88817.md)
+09:30:00|Mike Diehl|BI Platform Architecture, Development  Administration|[Conan the Librarian: "Put your data sources into Azure Data Catalog, or ELSE!"](89520.md)
+09:30:00|Rick Lowe|Application  Database Development|[Weird Stuff I Saw While ... Working With Heaps](90427.md)
+10:45:00|Randolph West|Enterprise Database Administration  Deployment|[Managing and monitoring SQL Server on Linux from the command line](88444.md)
+10:45:00|Chris C|Strategy and Architecture|[Create a Time Travelling Database](90086.md)
+10:45:00|Sepand Gojgini|BI Platform Architecture, Development  Administration|[Columnstore Index Primer](90609.md)
+10:45:00|Christopher Docherty|BI Platform Architecture, Development  Administration|[Data Security - Everyone likes a parfait!](90629.md)
+13:00:00|Dmitry Anoshin|BI Platform Architecture, Development  Administration|[Building a Modern Cloud Data Warehouse](89843.md)
+13:00:00|Rick Lowe|Enterprise Database Administration  Deployment|[Why should I care about ... the plan cache?](90425.md)
+13:00:00|Jay Falck|Strategy and Architecture|[Setting up a test lab with Hyper-V](90919.md)
+13:00:00|Sam Hamilton|Analytics and Visualization|[Generate Data with Google Analytics](91597.md)
+14:15:00|Mike Diehl|Application  Database Development|[Untangling the spaghetti: Patterns and Anti-Patterns in SQL and ETL development](89518.md)
+14:15:00|Christopher Docherty|BI Platform Architecture, Development  Administration|[Architecture for AGILE and DevOps](90626.md)
+14:15:00|Randolph West|Enterprise Database Administration  Deployment|[Learn 4 key features of SQL Server 2019 part 1](91185.md)
+14:15:00|Brian Gale|BI Platform Architecture, Development  Administration|[Service Broker - for Good and ETL](91208.md)
+15:30:00|Sepand Gojgini|BI Platform Architecture, Development  Administration|[DW loves DevOps ??!!](90610.md)
+15:30:00|Randolph West|Enterprise Database Administration  Deployment|[Learn 4 key features of SQL Server 2019 part 2](91186.md)
+15:30:00|Anthony van Orizande|Application  Database Development|[SQL Server  The Case of the Missing User Interface](91759.md)
+15:30:00|Jonathon Machinski|Advanced Analysis Techniques|[Corporate Data Rot and Machine Learning Readiness](92148.md)

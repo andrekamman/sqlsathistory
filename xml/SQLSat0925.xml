@@ -1,0 +1,415 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #925 - Porto, Portugal 2019</name>
+    <startDate>11/23/2019 12:00:00 AM</startDate>
+    <attendeeEstimate>150</attendeeEstimate>
+    <timezone>(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SqlSatPortugal</twitterHashtag>
+    <venue>
+      <name>ISEP</name>
+      <street>Rua Dr. António Bernardino de Almeida, 431</street>
+      <city>Porto</city>
+      <state>Porto, Portugal</state>
+      <zipcode>4249-015 Porto</zipcode>
+      <longitude>-8.60694</longitude>
+      <latitude>41.1783</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/925/EventSponsor_14096.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2597</importID>
+      <name>Basecone</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.basecone.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/925/EventSponsor_14292.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>748</importID>
+      <name>ISEP</name>
+      <label>Venue Sponsor</label>
+      <url>https://www.isep.ipp.pt/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/925/EventSponsor_14280.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>92</importID>
+      <name>Aberto até de madrugada</name>
+      <label>Media Partner</label>
+      <url>http://abertoatedemadrugada.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/925/EventSponsor_14298.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/925/EventSponsor_14145.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>98039</importID>
+      <name>Ivan Campos</name>
+      <label>
+      </label>
+      <description>Ivan Campos is currently a database administrator in 3C Payment a fin-tech in Luxembourg. (3CPayment.com).
+He is Microsoft Most Valuable Professional, active speaker at local community meetings in Portugal and outside Portugal. He is the leader and one of the founders of the community based in the north of Portugal Porto.Data (www.portodata.net) and the organizer of SQLSaturday in Porto Portugal.</description>
+      <twitter>WizardDBA</twitter>
+      <linkedin>https://pt.linkedin.com/in/idcampos</linkedin>
+      <ContactURL>http://wizarddba.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=WizardDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98061</importID>
+      <name>Niko Neugebauer</name>
+      <label>
+      </label>
+      <description>Niko Neugebauer is a Data Platform Consultant. A SQL Server MVP with over 20 years of experience in IT, he is passionate about the Microsoft Data Platform and community. Founder of the Portuguese SQL Server User Group and the main organizer of the first SQLSaturday event outside of North America (#78 Portugal), Niko speaks regularly at events such as PASS Summit, SQLRally, SQLBits, and SQLSaturday events around the world. Niko loves sharing information and knowledge and has authored over 130 blog posts on Columnstore Indexes, and regularly contributes to the open-sourced CISL library focused on Columnstore Indexes.</description>
+      <twitter>NikoNeugebauer</twitter>
+      <linkedin>http://pt.linkedin.com/in/webcaravela/</linkedin>
+      <ContactURL>http://www.nikoport.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=NikoNeugebauer</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99852</importID>
+      <name>Rui Romano</name>
+      <label>
+      </label>
+      <description>Rui Romano lives in Portugal and he leads the Business Intelligence team at DevScope. 
+
+He has been Developing amp; Architecting software solutions since 2003 always focused in the Business Intelligence area.</description>
+      <twitter>RuiRomano</twitter>
+      <linkedin>https://pt.linkedin.com/in/ruiromano</linkedin>
+      <ContactURL>http://ruiromanoblog.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=RuiRomano</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98142</importID>
+      <name>Andrew Pruski</name>
+      <label>
+      </label>
+      <description>SQL Server DBA with over 10 year's experience. Originally from Wales but now living in Ireland</description>
+      <twitter>https://twitter.com/DBAFromTheCold</twitter>
+      <linkedin>https://www.linkedin.com/in/andrewpruski</linkedin>
+      <ContactURL>https://dbafromthecold.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/DBAFromTheCold</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98763</importID>
+      <name>Gabi Münster</name>
+      <label>
+      </label>
+      <description>Gabi Münster is working as a Business Intelligence consultant and team lead and brings in her experience with SQL Server, data warehousing, relational and multidimensional database design and implementation, report and dashboard design, and Master Data Services, as well as project management into the community as a regional PASS Local Group lead. She is also passionate about motivating other women to start a technical career and therefore initiates and supports "Women in Technology" events. Apart from SQLSaturdays, she also spoke at SQLBits, SQL Nexus, Tuga IT, and 2015's and 2017's PASS Summit. In October 2017 Gabi received her first Data Platform MVP award.</description>
+      <twitter>@SQLMissSunshine</twitter>
+      <linkedin>https://www.linkedin.com/in/gabimuenster/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLMissSunshine</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99012</importID>
+      <name>Pedro Reis</name>
+      <label>
+      </label>
+      <description>Pedro is a Microsoft BI Stack Professional and enthusiast, with a passion for Power BI, SSAS, Excel and DAX. During his career he has coordinated multiple teams, and the development of thousands of Power BI Reports.
+He is the Leader of the Power BI Portugal Meetup group and the Porto Power BI User Group and an active Speaker at events like Power Platform World Tour, SQL Saturday, Porto Data, and meetups.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/pedrogoncalvesreis/</linkedin>
+      <ContactURL>https://www.meetup.com/Power-BI-Portugal</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98252</importID>
+      <name>Pedro Sousa</name>
+      <label>
+      </label>
+      <description>Pedro Sousa lives in Porto, Portugal and he currently works as a Senior IT Operations Analyst at Basecone. Started working with SQL Server at version 6.5 and although DBA is not his primary role, always had a particular interest for it. Nowadays one of his main focus is Microsoft Azure and integration with on-premises networks, working from the copper wire to the Cloud.</description>
+      <twitter>psousa75</twitter>
+      <linkedin>https://pt.linkedin.com/in/pmsousa</linkedin>
+      <ContactURL>http://www.devscope.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=psousa75</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98264</importID>
+      <name>Cláudio Silva</name>
+      <label>
+      </label>
+      <description>Cláudio works as SQL Server DBA and he is an former PowerShell MVP who loves to automate any process that needs to be done more than a couple of times. He is an active member on the PowerShell and SQL communities. He contributes to dbatools project (https://dbatools.io) and is always available to help. You can find him on slack and twitter platforms.
+He also helps on some Portuguese in-person events such as SQLSaturday Lisbon and TugaIT. He is also a regular speaker on these and other events.</description>
+      <twitter>https://twitter.com/claudioessilva</twitter>
+      <linkedin>https://pt.linkedin.com/in/claudioessilva</linkedin>
+      <ContactURL>http://claudioessilva.eu</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/claudioessilva</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98104</importID>
+      <name>Dennes Torres</name>
+      <label>
+      </label>
+      <description>Dennes Torres is a Data Platform MVP with more than 25 years of experience in the IT area. He improves Data Platform Architectures and turns data into knowledge. As a Brazilian living in Malta, Dennes works as a software developer and leads the Malta MDP User Group. Having the MCSE Data Platform, Business Intelligence, and Microsoft Certified Trainer (MCT) certifications, Dennes has been in love with database servers since he was  introduced to SQL Server 6.5, more years ago than he would like to admit.</description>
+      <twitter>Dennes</twitter>
+      <linkedin>https://www.linkedin.com/in/dennestorres/</linkedin>
+      <ContactURL>https://www.red-gate.com/simple-talk/author/dennes-torres/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Dennes</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98762</importID>
+      <name>Gabi Münster</name>
+      <label>
+      </label>
+      <description>Gabi Münster is working as a Business Intelligence consultant and team lead and brings in her experience with SQL Server, data warehousing, relational and multidimensional database design and implementation, report and dashboard design, and Master Data Services, as well as project management into the community as a regional PASS Local Group lead. She is also passionate about motivating other women to start a technical career and therefore initiates and supports "Women in Technology" events. Apart from SQLSaturdays, she also spoke at SQLBits, SQL Nexus, Tuga IT, and 2015's and 2017's PASS Summit. In October 2017 Gabi received her first Data Platform MVP award.</description>
+      <twitter>@SQLMissSunshine</twitter>
+      <linkedin>https://www.linkedin.com/in/gabimuenster/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLMissSunshine</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>98264</importID>
+      <speakers>
+        <speaker>
+          <id>98264</id>
+          <name>Cláudio Silva</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Auditorium 1</name>
+      </location>
+      <title>dbatools and Power BI walked into a bar</title>
+      <description>Going into a new shop and don't know the environments can be intimidating.
+The current DBA team/client just throws a list of instances where you should have access and want you to do magic!
+
+Fortunately, we can leverage the dbatools PowerShell module to get a whole bunch of information that will give us a state of the art and help to answer some questions.
+What resources (CPU/Memory) are allocated? Which version and edition is installed? What is the size evolution of my database, filegroup or table? Do you know how many records the biggest table is growing by every day? What will a forecast tell you about your database/file group/table size in 2 months? will you need more space?
+
+I will show how you can save the information gathered by dbatools on a central database. On top of that, how can you leverage from a couple of Power BI dashboards that I have created. This dashboard will help you answer these and other questions faster than you thought it would be possible.</description>
+      <startTime>11/23/2019 10:30:00 AM</startTime>
+      <endTime>11/23/2019 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>98142</importID>
+      <speakers>
+        <speaker>
+          <id>98142</id>
+          <name>Andrew Pruski</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment  DevOps</track>
+      <location>
+        <name>Auditorium 1</name>
+      </location>
+      <title>SQL Server  Kubernetes</title>
+      <description>Running SQL Server in containers has huge benefits for Data Platform professionals but there are challenges to running SQL Server in stand alone containers. Orchestrators provide a platform and the tools to overcome these challenges.
+
+This session will provide an overview of running SQL Server in Kubernetes, which is the leading orchestrator.
+
+Topics covered will be: -
+An overview of Kubernetes.
+Definition of pods and services.
+Deploying SQL Server containers to Kubernetes.
+Persisting data for SQL Server in Kubernetes.
+An introduction to Helm
+Chaos engineering for SQL Server in Kubernetes using Space Invaders!
+
+This session is aimed at SQL Server DBAs and Developers who want to learn the what, the why, and the how to run SQL Server in Kubernetes.</description>
+      <startTime>11/23/2019 2:00:00 PM</startTime>
+      <endTime>11/23/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>99012</importID>
+      <speakers>
+        <speaker>
+          <id>99012</id>
+          <name>Pedro Reis</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Aditorium 2</name>
+      </location>
+      <title>"DAX" the way to do it</title>
+      <description>Love it or hate it, you just can't ignore DAX. In this session I'll show you it's true power and how by knowing it you can even completely rethink your data modelling!
+
+Many times data models are configured in a way that the formulas which are applied to it are simple and fast to calculate. But with the Power of DAX, you can now achieve much more sophisticated and powerful calculations, while keeping it simple at the same time. And by knowing DAX, you can also plan your models in a better way just by leaving it up to DAX.
+
+In this session you will learn:
+- Handling different granularities
+- Handling multiple factuals in the same model
+- Calculations with disconnected tables
+- Advanced Time intelligence
+- Multiple formulas and tricks</description>
+      <startTime>11/23/2019 10:30:00 AM</startTime>
+      <endTime>11/23/2019 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>98252</importID>
+      <speakers>
+        <speaker>
+          <id>98252</id>
+          <name>Pedro Sousa</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Auditorium 1</name>
+      </location>
+      <title>Azure Database Migration Service</title>
+      <description>The Azure Database Migration Service is a fully managed service designed to enable seamless migrations from multiple database sources to Azure Data platforms with minimal downtime.
+At this session, we discuss the several scenarios available with this tool and see some hands-on demos.</description>
+      <startTime>11/23/2019 4:30:00 PM</startTime>
+      <endTime>11/23/2019 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98762</importID>
+      <speakers>
+        <speaker>
+          <id>98762</id>
+          <name>Gabi Münster</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development, Administration, Information Delivery</track>
+      <location>
+        <name>Aditorium 2</name>
+      </location>
+      <title>Analysis Services - And the journey goes on...</title>
+      <description>Throughout the past few months some very promising announcements have been made regarding the future of Analysis Services. Let's start with a recap of the journey so far and look into the future based on those announcements:
+Which new features are to come?
+Which modes are affected by changes?
+What does this mean in regards to strategic positioning?</description>
+      <startTime>11/23/2019 2:00:00 PM</startTime>
+      <endTime>11/23/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98039</importID>
+      <speakers>
+        <speaker>
+          <id>98039</id>
+          <name>Ivan Campos</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Auditorium 1</name>
+      </location>
+      <title>SQL Server 2019 what's new for the DBA's</title>
+      <description>Version after version Microsoft continues to improve a little bit DBA's life, let's see what news we have in this new version (2019) to help us in our daily tasks. Join me in this session and let's see what is Scalar UDF inlining, Table variable deferred compilation, resumable online index creation, Memory-optimized tempdb, accelerated database recovery etc</description>
+      <startTime>11/23/2019 3:15:00 PM</startTime>
+      <endTime>11/23/2019 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98061</importID>
+      <speakers>
+        <speaker>
+          <id>98061</id>
+          <name>Niko Neugebauer</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Auditorium 1</name>
+      </location>
+      <title>Batch Execution Mode on Rowstore Indexes</title>
+      <description>With the upcoming appearance of the SQL Server 2019, Microsoft is bringing the super-fast Batch Execution Mode to the processing of the big amount of data even for the traditional Rowstore Indexes on SQL Server 2019 and Azure SQL DB. 
+
+Learn with me how and when it will function, and which challenges we shall meet on the path of making our workloads work blazingly faster, while also learning which cases one should be very careful about their application and usage.</description>
+      <startTime>11/23/2019 11:45:00 AM</startTime>
+      <endTime>11/23/2019 12:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98104</importID>
+      <speakers>
+        <speaker>
+          <id>98104</id>
+          <name>Dennes Torres</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Aditorium 2</name>
+      </location>
+      <title>PowerBI: From Zero to Hero</title>
+      <description>Starting from the very beginning, in this session we will cross together the main features Power BI has to offer, starting with the powerful self-service ETL using M language when needed,  modeling our tables and finally using powerful features to create a great data visualization, allowing you to better understand all the power and flexibility of this tool and how it will fit into your solution</description>
+      <startTime>11/23/2019 11:45:00 AM</startTime>
+      <endTime>11/23/2019 12:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98763</importID>
+      <speakers>
+        <speaker>
+          <id>98763</id>
+          <name>Gabi Münster</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development, Administration, Information Delivery</track>
+      <location>
+        <name>Aditorium 2</name>
+      </location>
+      <title>Continuous Intelligence... What's This All About?</title>
+      <description>Continuous Intelligence combines the terms of Continuous Integration and Business Intelligence and aims at defining and implementing processes to keep your implementation and deployment processes for your BI applications flexible and as seamless as possible.
+Even in the near past, support for CI processes of BI projects was almost not there. But, the last few years brought some changes to the perception of this topic and shifted the mindset.
+Let's look at advantages and challenges for CI in BI and at possibilities to implement such a process for Analysis Services.</description>
+      <startTime>11/23/2019 4:30:00 PM</startTime>
+      <endTime>11/23/2019 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>99852</importID>
+      <speakers>
+        <speaker>
+          <id>99852</id>
+          <name>Rui Romano</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development, Administration, Information Delivery</track>
+      <location>
+        <name>Aditorium 2</name>
+      </location>
+      <title>Feel at Home in Power BI Online</title>
+      <description>This session is all about demystifying what you can and can't do in powerbi.com, my goal is to give you an overview of all the features you have available on powerbi.com from content organization to real-time analysis.
+
+A lot of best practices and tips to be shared though the session.</description>
+      <startTime>11/23/2019 3:15:00 PM</startTime>
+      <endTime>11/23/2019 4:15:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

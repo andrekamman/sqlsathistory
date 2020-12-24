@@ -1,0 +1,388 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #872 - Paris 2019</name>
+    <startDate>6/15/2019 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>(GMT+01:00) Brussels, Copenhagen, Madrid, Paris</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatParis</twitterHashtag>
+    <venue>
+      <name>Le 253</name>
+      <street>253, rue du Faubourg Saint-Martin</street>
+      <city>Paris</city>
+      <state>Île-de-France, France</state>
+      <zipcode>75010 </zipcode>
+      <longitude>2.36741440000003</longitude>
+      <latitude>48.8830559</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/872/EventSponsor_13495.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>91770</importID>
+      <name>Julien Pierre</name>
+      <label>
+      </label>
+      <description>I am BI consultant
+I like work on new technology Microsoft (SQL Server 2016 / SSIS / SSRS / Power BI  ...)
+I also work on SQL Engine I love this part it's very interesting.
+I work with different clients that's why I improve my knowledge on SQL Server</description>
+      <twitter>Julien_Sql_BI</twitter>
+      <linkedin>https://www.linkedin.com/in/julien-pierre-15782127?trk=nav_responsive_tab_profile_pic</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Julien_Sql_BI</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93427</importID>
+      <name>Charles-Henri Sauget</name>
+      <label>
+      </label>
+      <description>Consultant décisionnel depuis 2009, j'ai eu l'occasion d'explorer certaines des fonctionnalités offertes par SQL Server, et cela est loin d'être terminé avec la croissance des volumes de données, et les nouveaux outils à disposition (Data Insights), de nouveaux défis vont très certainement s'offrir à nous. Même si la B.I. reste mon coeur de métier, je ne cache pas mon intérêt pour le Moteur SQL Server, surtout si l'on rajoute à ceci l'impact d'un hébergement en IaaS dans Azure !</description>
+      <twitter>SaugetCh</twitter>
+      <linkedin>https://www.linkedin.com/in/charleshenrisauget</linkedin>
+      <ContactURL>http://www.sauget-ch.fr</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SaugetCh</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>91670</importID>
+      <name>Sarah Bessard</name>
+      <label>
+      </label>
+      <description>Tout au long de mon parcours, SQL Server a été le fil conducteur de mes activités sous différentes perspectives : l'étude en tant qu'analyste programmeur et la production en tant qu'administrateur système. Cette double compétence est un atout incontestable pour couvrir un large spectre sur SQL Server. Toutes ces expériences enfin, m'ont permis d'acquérir une vision globale des systèmes d'information, complétée avec du management par la suite. Experte SQL Server Prod/Etude avec un bonus sur la BI, les maîtres mots sont : performance, industrialisation, méthodologie  bonne humeur.</description>
+      <twitter>@concatskills</twitter>
+      <linkedin>https://fr.linkedin.com/in/ninjadba</linkedin>
+      <ContactURL>http://www.concatskills.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@concatskills</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>91838</importID>
+      <name>David Barbarin</name>
+      <label>
+      </label>
+      <description>David Barbarin is Consultant at dbi services. He has more than ten years of experience in Microsoft solutions. He is specialized in SQL Server technologies and associated topics such as installation, migration, security audits, troubleshooting of performance issues, or high availability architectures etc. David Barbarin is SQL Server MVP (since 2010), Microsoft Certified Master (MCM) for SQL Server, and Microsoft Certified Trainer (MCT).</description>
+      <twitter>mikedavem</twitter>
+      <linkedin>http://fr.linkedin.com/in/mikedavem/en</linkedin>
+      <ContactURL>http://www.dbi-services.com/index.php/blog/dbi-bloggers/blogger/listings/dab</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mikedavem</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90692</importID>
+      <name>Rudi Bruchez</name>
+      <label>
+      </label>
+      <description>(same as before)</description>
+      <twitter>nepasderanger</twitter>
+      <linkedin>https://fr.linkedin.com/in/rudibruchez</linkedin>
+      <ContactURL>http://www.babaluga.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=nepasderanger</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>91206</importID>
+      <name>Philippe Geiger</name>
+      <label>
+      </label>
+      <description>Consultant certifié Microsoft SQL Server, Philippe Geiger accompagne aussi bien des professionnels en infrastructure, en décisionnel que des développeurs. Maîtrisant toutes les versions de SQL Server, il assure également, en sa qualité de formateur certifié, les formations officielles de Microsoft. Il est aussi membre du programme "Microsoft Professional Program on Data Science". Basé en Alsace, Philippe travaille chez Titanium, Groupe Calliope, société "Pure Player" Microsoft.</description>
+      <twitter>@pgeiger</twitter>
+      <linkedin>https://fr.linkedin.com/in/pgeiger</linkedin>
+      <ContactURL>http://blog.pgeiger.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@pgeiger</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>91678</importID>
+      <name>Christophe Laporte</name>
+      <label>
+      </label>
+      <description>Christophe Laporte is based in Toulouse, France and has worked with SQL Server since 1997, starting with SQL Server 6.5. Focusing on high availability, VLDBs, and virtualization, Christophe also delivers performance audits on SQL Server and helps companies in choosing the appropriate architectures (Cloud, OnPremise, or Hybrid). 
+In addition to his MCM certification, Christophe is also a SQL MVP, speaker, and Microsoft Certified Trainer since 2000.</description>
+      <twitter>conseilit</twitter>
+      <linkedin>http://fr.linkedin.com/in/christophelaporte</linkedin>
+      <ContactURL>http://conseilit.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=conseilit</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93248</importID>
+      <name>Jean-Pierre Riehl</name>
+      <label>
+      </label>
+      <description>Architect, Consultant, Trainer and also Manager, Jean-Pierre leads the Data  BI Practice at AZEO, a French Microsoft "pure-player" partner. 
+Jean-Pierre is MVP Data Platform since 2008 and speaks at many events in France and in Europe. JP leads the local community (GUSS) and organize events in France since 2011 : MS Cloud Summit, Les Journées SQL Server, SQLSaturday, etc. 
+JP is passionate by data concerns in business like Data Governance, Data Quality or Data Vizualisation and since 2010, he’s specialized in Self-Service BI. His favorite topic is Power BI and business usages and technical architectures that go with.</description>
+      <twitter>djeepy1</twitter>
+      <linkedin>http://fr.linkedin.com/in/djeepy1</linkedin>
+      <ContactURL>http://blog.djeepy1.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=djeepy1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92833</importID>
+      <name>Guillaume ROUCHON</name>
+      <label>
+      </label>
+      <description>Guillaume ROUCHON is a Microsoft DevOps MVP with over a decade of experience with .Net development, software architecture and DevOps. After being a consultant on Microsoft technologies for more than 15 years he is now a software and DevOps architect for ALD SA working on Azure, .Net Core and Azure DevOps.</description>
+      <twitter>@grouchon</twitter>
+      <linkedin>https://www.linkedin.com/in/guillaumerouchon/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@grouchon</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93602</importID>
+      <name>Arnaud Voisin</name>
+      <label>
+      </label>
+      <description>During almost 10 years I was BI Consultant. I'm expert on all Microsoft BI Ecosystem.
+Today, I mainly work on Azure and on Big Data project. I'm expert on SQL Data Warehouse. And I also work with HDInsight, Data Lake Analytics, Databricks and CosmosDB.</description>
+      <twitter>@ArnaudVoisinSQL</twitter>
+      <linkedin>https://www.linkedin.com/in/arnaud-voisin-b043b237/</linkedin>
+      <ContactURL>http://blog.dcube.fr/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ArnaudVoisinSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92347</importID>
+      <name>Cédric Charlier</name>
+      <label>
+      </label>
+      <description>Cédric is a talented architect and Data Platform MVP active in the domain of Business Intelligence and Data warehousing. He has more than 10 years of successful experiences with SQL Server in European industrial groups and services companies. Driven by quality and reliability, he is the main developer of an open-source solution for testing BI solutions (cubes, etl, reports) named NBi (www.nbi.io). Cedric also advocates for the introduction and general usage of agile practices in BI’s world.</description>
+      <twitter>@Seddryck</twitter>
+      <linkedin>http://be.linkedin.com/in/cedriccharlier</linkedin>
+      <ContactURL>http://seddryck.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Seddryck</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>91838</importID>
+      <speakers>
+        <speaker>
+          <id>91838</id>
+          <name>David Barbarin</name>
+        </speaker>
+      </speakers>
+      <track>Cloud, Hybrid or On prem Data Platforms</track>
+      <location>
+        <name>Salle 2</name>
+      </location>
+      <title>Running statefulset applications like SQL Server in K8s</title>
+      <description>Containers offer significant value to businesses including increased agility as well as the ability to move applications between bare metal or virtual machines in multi-cloud or multi-datacenters environments. This new design pattern provides elasticity for application services as well as high availability through container orchestrators like Kubernetes. However if organizations already move a step further for stateless applications, they still often isolate their stateful workloads like data services building new silos in their infrastructure. In this session we will discover challenges and solutions to run a stateful workload in a container world.</description>
+      <startTime>6/15/2019 10:15:00 AM</startTime>
+      <endTime>6/15/2019 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>91670</importID>
+      <speakers>
+        <speaker>
+          <id>91670</id>
+          <name>Sarah Bessard</name>
+        </speaker>
+      </speakers>
+      <track>Cloud, Hybrid or On prem Data Platforms</track>
+      <location>
+        <name>Salle 2</name>
+      </location>
+      <title>SQL Server dans Azure</title>
+      <description>Il n'est pas toujours aisé de faire son choix dans Azure tellement le panel de services est grand. L'objectif de cette session est de présenter différentes solutions pour stocker ses données dans Azure :
+- Instance managée 
+- SQL Database
+- Serveur SQL Server en mode Iaas
+- SQL Datawarehouse
+Nous aborderons les points suivants :
+- Arbre de décision
+- Tests de comptabilité
+- Méthodes de migration
+- Dépendances : Ordonnanceur et ETL</description>
+      <startTime>6/15/2019 11:30:00 AM</startTime>
+      <endTime>6/15/2019 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>91678</importID>
+      <speakers>
+        <speaker>
+          <id>91678</id>
+          <name>Christophe Laporte</name>
+        </speaker>
+      </speakers>
+      <track>Cloud, Hybrid or On prem Data Platforms</track>
+      <location>
+        <name>Salle 2</name>
+      </location>
+      <title>SQL Server installation and configuration cookbook</title>
+      <description>After a small hardware review, let's talk about Virtualization best practices and Windows configuration. 
+Then, we will talk about the famous Next Next Next Finish and the options we can choose during the setup.
+And, finally, we will show how to properly configure SQL Server for better performance and easier troubleshooting.</description>
+      <startTime>6/15/2019 4:15:00 PM</startTime>
+      <endTime>6/15/2019 5:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>93427</importID>
+      <speakers>
+        <speaker>
+          <id>93427</id>
+          <name>Charles-Henri Sauget</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence, Artificial Intelligence</track>
+      <location>
+        <name>Salle 1</name>
+      </location>
+      <title>Azure Data Factory - Deep Dive</title>
+      <description>Avec sa version 2 et l'arrivée de Mapping Data Flow, Azure Data Factory est devenu un outil incontournable des architectures Data dans Azure. Venez découvrir ses possibilités et comprendre la philosophie de l'outil au sein d'une session avancées.</description>
+      <startTime>6/15/2019 11:30:00 AM</startTime>
+      <endTime>6/15/2019 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>91770</importID>
+      <speakers>
+        <speaker>
+          <id>91770</id>
+          <name>Julien Pierre</name>
+        </speaker>
+      </speakers>
+      <track>Cloud, Hybrid or On prem Data Platforms</track>
+      <location>
+        <name>Salle 1</name>
+      </location>
+      <title>SQL 2019 et le big data</title>
+      <description>Les nouveautés de SQL Server 2019 et le BIG DATA 
+Lors de cette session nous allons vous présenter la nouvelle architecture SQL Server 2019 et ses nouveaux modes de déploiement avec l'arrivée de Kubernetes (CLOUD vs ON PREM ?  LINUX VS WINDOWS ? ).
+Lors de cette présentation nous allons également vous présenter les nouvelles fonctionnalités Big Data SQL Server 2019 (R/Python/Java/ Polybase/  ... ) et comment les utiliser dans nos scénarios au quotidien ...</description>
+      <startTime>6/15/2019 4:15:00 PM</startTime>
+      <endTime>6/15/2019 5:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>93248</importID>
+      <speakers>
+        <speaker>
+          <id>93248</id>
+          <name>Jean-Pierre Riehl</name>
+        </speaker>
+      </speakers>
+      <track>Keynote</track>
+      <location>
+        <name>Salle 1</name>
+      </location>
+      <title>Big Intelligent Power Data Platform, tour d'horizon de la Data et</title>
+      <description>A quoi ressemble une plate-forme de données ou un projet BI en 2019 ? Quelles compétences sont à l'honneur chez les professionnels de la donnée ? Comment a évolué le marché et l'écosystème ces dernières années ?
+Dans ce tour d'horizon, les différents speakers répondront à ces questions et mettront en lumière les enjeux modernes de la Data et les challenges que les entreprises doivent relever.</description>
+      <startTime>6/15/2019 9:00:00 AM</startTime>
+      <endTime>6/15/2019 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>93602</importID>
+      <speakers>
+        <speaker>
+          <id>93602</id>
+          <name>Arnaud Voisin</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence, Artificial Intelligence</track>
+      <location>
+        <name>Salle 1</name>
+      </location>
+      <title>Interactive query avec Azure SQL DataWarehouse, retour d'expérien</title>
+      <description>Retour d'expérience sur une application basée sur SQL Data Warehouse en production depuis 18 mois avec plusieurs centaines de milliards de lignes dans la table de fait principale et des temps de réponses de l'ordre de la seconde.</description>
+      <startTime>6/15/2019 10:15:00 AM</startTime>
+      <endTime>6/15/2019 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>92833</importID>
+      <speakers>
+        <speaker>
+          <id>92833</id>
+          <name>Guillaume ROUCHON</name>
+        </speaker>
+      </speakers>
+      <track>Cloud, Hybrid or On prem Data Platforms</track>
+      <location>
+        <name>Salle 2</name>
+      </location>
+      <title>Mise en place d'un architecture data dans Azure, retour d'expérie</title>
+      <description>Depuis 2 ans le département remarketing d'ALD SA a mis en place sa plateforme data dans Azure. Venez découvrir dans cette session l'architecture et les process DevOps que nous avons mis en place afin de développer et opérer notre plateforme data au quotidien via Azure Data Factory, Azure Databricks et Azure Analysis Services et apprendre de nos erreurs :)</description>
+      <startTime>6/15/2019 3:00:00 PM</startTime>
+      <endTime>6/15/2019 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>91206</importID>
+      <speakers>
+        <speaker>
+          <id>91206</id>
+          <name>Philippe Geiger</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence, Artificial Intelligence</track>
+      <location>
+        <name>Salle 1</name>
+      </location>
+      <title>Azure Machine Learning par l'exemple</title>
+      <description>Parmi les points qui seront abordés, il y aura la préparation des données, le choix du modèle, l'apprentissage du modèle, les web-services ou encore les bloc-notes Jupyter.
+Cette session est 100% démonstration et (presque) aucune diapositive.</description>
+      <startTime>6/15/2019 3:00:00 PM</startTime>
+      <endTime>6/15/2019 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90692</importID>
+      <speakers>
+        <speaker>
+          <id>90692</id>
+          <name>Rudi Bruchez</name>
+        </speaker>
+      </speakers>
+      <track>Cloud, Hybrid or On prem Data Platforms</track>
+      <location>
+        <name>Salle 2</name>
+      </location>
+      <title>From relational to Multimodel : Azure Cosmos DB</title>
+      <description>Azure Cosmos DB is Microsoft's globally distributed, multi-model database. This is NoSQL in the cloud. In this session, you'll see how to use it to create columnar tables, JSON documents and graphs, you'll understand what that means, see what's the difference with relational tables, and how it can be useful for you.</description>
+      <startTime>6/15/2019 1:45:00 PM</startTime>
+      <endTime>6/15/2019 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>92347</importID>
+      <speakers>
+        <speaker>
+          <id>92347</id>
+          <name>Cédric Charlier</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence, Artificial Intelligence</track>
+      <location>
+        <name>Salle 1</name>
+      </location>
+      <title>Azure Databricks brique par brique pour les data engineers</title>
+      <description>Vous n'êtes pas encore passé à Azure Databricks et cette nouvelle plateforme vous attire? Cette session est l'idéale pour se lancer dans Azure Databricks! Nous commencerons par définir les cas d'utilisations autrement dit : "quand est-il peut-être plus malin de laisser tomber SSIS pour faire un peu de data engineering". Ensuite nous verrons un cas pratique, à quoi ressemble un ETL créé avec Azure Databricks et comment faire pour automatiser son lancement. Finalement, nous terminerons par quelques petits trucs pour aller un peu plus loin avec l'outil!</description>
+      <startTime>6/15/2019 1:45:00 PM</startTime>
+      <endTime>6/15/2019 2:45:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

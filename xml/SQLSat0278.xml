@@ -1,0 +1,849 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #278 - Budapest 2014</name>
+    <startDate>3/1/2014 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatBudapest</twitterHashtag>
+    <venue>
+      <name>Lurdy Konferencia- és Rendezvényközpont</name>
+      <street>Könyves Kálmán körút 12-14.</street>
+      <city>Budapest</city>
+      <state>, Hungary</state>
+      <zipcode>1097</zipcode>
+      <longitude>19.0836086</longitude>
+      <latitude>47.4697914</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>802</importID>
+      <name>LogMeIn Kft</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.logmein.com</url>
+      <imageURL>https://www.hug-mssql.hu/image.axd?picture=2014%2f2%2fLogMeIn_170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>388</importID>
+      <name>ApexSQL LLC</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/864/EventSponsor_13700.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>665</importID>
+      <name>Grape Solutions</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.grape.hu</url>
+      <imageURL>https://www.hug-mssql.hu/image.axd?picture=2014%2f2%2fGrape_logo_170x60.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>751</importID>
+      <name>IT Services Hungary</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.it-services.hu/</url>
+      <imageURL>https://www.hug-mssql.hu/image.axd?picture=2014%2f2%2fitsh_logo_jpeg_170x60.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>859</importID>
+      <name>Mimox</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.mimox.com</url>
+      <imageURL>https://www.hug-mssql.hu/image.axd?picture=2014%2f2%2fMimoxLogo2012_transparent_alsoresz_170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1261</importID>
+      <name>VFT Zrt.</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.vft.hu/</url>
+      <imageURL>https://vft.hu/images/VFTlogo_transp_170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>170</importID>
+      <name>János Berke Unlimited</name>
+      <label>Bronze Sponsor</label>
+      <url>http://iamberke.com</url>
+      <imageURL>https://iamberke.com/pics/iamberke_vert_1.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>849</importID>
+      <name>Microsoft Hungary</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.microsoft.com/hun</url>
+      <imageURL>https://www.hug-mssql.hu/image.axd?picture=2014%2f2%2fMSFT_logo_Web_170x60.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>8</importID>
+      <name>FusionIO</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.fusionio.com/solutions/microsoft-sql-server/</url>
+      <imageURL>https://www.sqlsaturday.com/files/18b704b1-226d-48fe-b0b8-f7b4d3443b3d.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>309</importID>
+      <name>Tech People</name>
+      <label>Communication Sponsor</label>
+      <url>http://tech-people.com/</url>
+      <imageURL>https://hug-mssql.hu/pics/tplogo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>430</importID>
+      <name>BI projekt kft</name>
+      <label>Blog Sponsor</label>
+      <url>http://www.biprojekt.hu/</url>
+      <imageURL>https://www.biprojekt.hu/files/BI-projekt-logo-keskeny-100.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Swag Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>83</importID>
+      <name>PluralSight</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.pluralsight.com</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2015/11/Pluralsight_logo_novo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>722</importID>
+      <name>Infragistics Inc.</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.infragistics.com</url>
+      <imageURL>https://media.infragistics.com/community/SQLSaturday/Ig-logo170.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>50</importID>
+      <name>xSQL Software</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.xsql.com</url>
+      <imageURL>
+      </imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>665</importID>
+      <name>Grape Solutions</name>
+      <label>Speakers' Dinner Sponsor</label>
+      <url>http://www.grape.hu</url>
+      <imageURL>https://www.hug-mssql.hu/image.axd?picture=2014%2f2%2fGrape_logo_170x60.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>503</importID>
+      <name>Computerworld</name>
+      <label>Media Sponsor</label>
+      <url>http://www.computerworld.hu</url>
+      <imageURL>https://www.hug-mssql.hu/image.axd?picture=2014%2f2%2fCW_logo_2012_black_100_40.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>10564</importID>
+      <name>Bob Duffy</name>
+      <label>
+      </label>
+      <description>Bob Duffy is a SQL Server MVP from Dublin, Ireland who is MCA, MCM. and Analysis Services Maestro certified. 
+
+Bob works as a Database Architect at the Prodata SQL Centre of Excellence where he specializes in business intelligence and performance tuning.</description>
+      <twitter>@bob_duffy</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=8301243amp;authType=NAME_SEARCHamp;authToken=MWkaamp;locale=en_USamp;srchid=83012431382480825815amp;srchindex=1amp;srchtotal=767amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A83012431382480825815%2CVSRPtargetId%3A8301243%2CVSRPcmpt%3Aprimary</linkedin>
+      <ContactURL>http://blogs.prodata.ie/author/bob.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@bob_duffy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16398</importID>
+      <name>Jen Stirrup</name>
+      <label>
+      </label>
+      <description>Jen Stirrup, Microsoft Regional Director and MVP is a well-known Business Intelligence and Data Visualization expert, author, data strategist, and Master of Business Administration (MBA) student in London. Jen leads a boutique analytics consultancy, delivering strategic advice to companies large and small.
+
+Jen has presented in Africa, India, Europe and North America. Jen has presented at Ignite, Techorama, TechEd, PASS Summit, SQLBits, and SQLSaturday events in Europe and the US. She also delivers the MAPA Azure Architects course worldwide with Microsoft team members. Jen was also featured on the Best of PASS Summit 2015 DVD as one of the top 10 speakers. Jen also was awarded PASS prestigious PASSion Award in 2012</description>
+      <twitter>@jenstirrup</twitter>
+      <linkedin>http://uk.linkedin.com/in/jenstirrup/</linkedin>
+      <ContactURL>http://www.jenstirrup.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jenstirrup</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>20749</importID>
+      <name>Miloš Radivojević</name>
+      <label>
+      </label>
+      <description>Miloš Radivojević is a database consultant located in Vienna, Austria. He is Data Platform MVP and specializes in SQL Server for application developers and performance and query tuning. Currently, he works as a principal database consultant in bwin GVC (the largest regulated online gaming company in the world). He is co-founder of the SQL Pass Austria and speaks regularly at local and international database conferences. He is also co-author of the books SQL Server 2016 Developer's Guide, SQL Server 2017 Developer's Guide and Mastering SQL Server 2017.</description>
+      <twitter>MilosSQL</twitter>
+      <linkedin>http://at.linkedin.com/pub/milos-radivojevic/1b/7bb/290/de</linkedin>
+      <ContactURL>https://milossql.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MilosSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19457</importID>
+      <name>Marcin Szeliga</name>
+      <label>
+      </label>
+      <description>Data Philosopher. Since 2006 invariably awarded Microsoft Most Valuable Professional title in the Data Platform category. A speaker at numerous conferences across Europe, as well as at user groups meetings. The author of many books and articles devoted to Microsoft Data Platform. An independent consultant, database-centric application practitioner and architect totally focused on SQL Server and Azure. Huge fan of Data Science and Machine Learning.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://pl.linkedin.com/in/marcinszeliga</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22002</importID>
+      <name>Peter Myers</name>
+      <label>
+      </label>
+      <description>Peter Myers is a consultant, trainer and presenter, and has worked with Microsoft database and development products since 1997. Today he specializes in all Microsoft Business Intelligence products and also authors training course content for Microsoft products and services.
+
+He has a broad business background supported by a bachelor’s degree in applied economics and accounting, and he extends this with extensive experience backed by current MCSE certifications. He has been a Data Platform MVP since 2007.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://linkedin.com/in/peterjsmyers</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14934</importID>
+      <name>Zoltán Hangyál</name>
+      <label>
+      </label>
+      <description>1998 óta próbálom megérteni, hogy miért az adott végrehajtási tervet választja az SQL Server. MCT és MCM minősítésekkel rendelkezem, előző életemben évekig tartottam SQL tanfolyamokat az egyik neves oktatóközpontban.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13923</importID>
+      <name>Erik Bitemo</name>
+      <label>
+      </label>
+      <description>Erik Bitemo is a former SQL Server MVP (2009-2011), SQL DBA and now a Technical Operations Manager for Mickey Mouse. Loves technology and efficient working and believes that work is a great tool to develop... people :)
+
+He thinks SQL Server is the best product Microsoft ever made and especially loves the security, high availability and transactional replication. And Powershell, which makes him think how in the heck he could managed servers (or even his family pictures) before it came out.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21999</importID>
+      <name>Peter Myers</name>
+      <label>
+      </label>
+      <description>Peter Myers is a consultant, trainer and presenter, and has worked with Microsoft database and development products since 1997. Today he specializes in all Microsoft Business Intelligence products and also authors training course content for Microsoft products and services.
+
+He has a broad business background supported by a bachelor’s degree in applied economics and accounting, and he extends this with extensive experience backed by current MCSE certifications. He has been a Data Platform MVP since 2007.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://linkedin.com/in/peterjsmyers</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>26412</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22179</importID>
+      <name>Peter Larsson</name>
+      <label>
+      </label>
+      <description>Peter Larsson is a key player for performance written code. He can turn a 10 hour query into a 3 minute piece of code. Peter is also a SQL Server MVP since 2009. He often hangs out at SQLTeam.com (27k+ posts) and other various sites where he helps all people understand SQL Server.</description>
+      <twitter>SwePeso</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqltopia.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SwePeso</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14186</importID>
+      <name>Francois-Manuel Billault</name>
+      <label>
+      </label>
+      <description>Francois-Manuel Billault (biography to be changed soon)</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.fusionio.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>20311</importID>
+      <name>Mihail Mateev</name>
+      <label>
+      </label>
+      <description>Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Mentor for CEE, chapter lead, Microsoft Azure MVP, Microsoft Regional Director. He works as a Senior Solutions Architect at EPAM Systems, focused on Data Platform, IoT and cloud related solutions. He also worked many years like a Technical evangelist in the Infragistics. Last years Mihail was focused on various areas related to technology Microsoft: Data Platform, Visual Studio, ASP.Net, Windows client apps, Data Platform, and Microsoft Azure. Michael also has a PhD in cloud computing area. He is a university lecturer on Smart Homes and Smart Energy IoT Solutions.</description>
+      <twitter>mihailmateev</twitter>
+      <linkedin>http://www.linkedin.com/pub/mihail-mateev/1/6b3/4b1</linkedin>
+      <ContactURL>https://mmateev.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mihailmateev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15752</importID>
+      <name>Janos Berke</name>
+      <label>
+      </label>
+      <description>I am  an IT professional with over a decade of technical and management experience. I am using SQL Server since version 6.5. Currently I am a  consultant and helping companies in SQL Server design, migrations, operation and developments as well as providing customized training .</description>
+      <twitter>@JanosBerke</twitter>
+      <linkedin>https://hu.linkedin.com/in/janosberke</linkedin>
+      <ContactURL>http://www.iamberke.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@JanosBerke</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13526</importID>
+      <name>Dejan Sarka</name>
+      <label>
+      </label>
+      <description>Dejan Sarka, MCT and Data Platform MVP, is an independent trainer and consultant that focuses on development of database and business intelligence applications. Besides projects, he spends about half of his time on training and mentoring. He is the founder of the Slovenian SQL Server and .NET Users Group. Dejan Sarka is the main author or co-author of eighteen books about databases and SQL Server. Dejan Sarka has also developed many courses and seminars for Microsoft, Radacad, SolidQ, and Pluralsight.</description>
+      <twitter>DejanSarka</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.solidq.com/dsarka/Home.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DejanSarka</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27355</importID>
+      <name>Balázs Farkas</name>
+      <label>
+      </label>
+      <description>6 éve folgalkozom BI-al, 5 éve használok SQL Servert. Több éven át dolgoztam elemzőként, majd BI csoportvezetőként. Érdeklődési területeim az SQL Server adatbázis oldalról az optimalizálás (lekérdezések, eljárások, indexek, stb), BI szemszögből pedig a nem-standard OLAP módszerek, valamint az adatbányászat. Jelenleg a BI Specialist munkakörben tevékenykedem.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15304</importID>
+      <name>Ian Meade</name>
+      <label>
+      </label>
+      <description>
+      </description>
+      <twitter>
+      </twitter>
+      <linkedin>http://lnkd.in/VC3U97</linkedin>
+      <ContactURL>http://ianmeadedotdotdot.blogspot.ie/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22220</importID>
+      <name>Tamás Polner</name>
+      <label>
+      </label>
+      <description>Data Insight Product Marketing Lead for Central and Eastern Europe</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10924</importID>
+      <name>Boris Hristov</name>
+      <label>
+      </label>
+      <description>Boris is a SQL Server Consultant, but also an Author for Pluralsight and a SQL Server MVP. He is frequently speaking at conferences all accross Europe and is heavily involved in training students and organizations in what he calls quot;The Art of SQL Serverquot;. Boris is frequently blogging and is the host of SQLHangouts.</description>
+      <twitter>https://twitter.com/BorisHristov</twitter>
+      <linkedin>http://bg.linkedin.com/in/borishristov</linkedin>
+      <ContactURL>http://borishristov.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/BorisHristov</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18673</importID>
+      <name>Tobias Koprowski</name>
+      <label>
+      </label>
+      <description>Founder of Shadowland Consulting. In January 2015 decided to permanently leave Poland and discover new worlds. Actually settled in Hucknall (The Last home of The Byron Family). Community leader focused on SQL Server, SharePoint, security, collaboration and ITIL, DR, BCM, and SLA. Love licensing stuff. 
+
+Microsoft Certified Trainer, freelancer, and consultant. Subject Matter Expert at Microsoft. Member of Microsoft Terminology Community, Friends of RedGate PLUS, PASS, ISSA, ACM and more. Since 1st July 2010 Data Platform MVP. Creator of SQLDAY Conference and Conference CEO 2009-2011. Co-Leader of PASS East Midlands Group. Speaker at group meetings and conferences. STEM Ambassador. 
+
+Traveler. Coffee Addicted.</description>
+      <twitter>@KoprowskiT</twitter>
+      <linkedin>https://uk.linkedin.com/in/koprowskit</linkedin>
+      <ContactURL>http://koprowskit.eu/geek/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KoprowskiT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27226</importID>
+      <name>Uwe Ricken</name>
+      <label>
+      </label>
+      <description>Uwe Ricken is working with IT systems since the 90’s. The primary passion for developments with Microsoft SQL Server expanded in 2007 with his engagement as a DBA for Deutsche Bank AG in Frankfurt am Main. After 6 years of operational experiences as a DBA and over 14 years as a developer of complex database models he achieved the “Microsoft Certified Master – SQL Server 2008” certification which “was” the highest technical certification. In the same year he earned his first award as a Data Platform MVP for his support to the Microsoft SQL Server community in Germany and Europe. Uwe Ricken is a speaker on many international conferences and events and preferred topics are “Database Internals”, “Indexing” and “Development”.</description>
+      <twitter>https://twitter.com/dbBerater</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=270775013amp;trk=tab_pro</linkedin>
+      <ContactURL>http://www.sqlmaster.de</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dbBerater</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>16398</importID>
+      <speakers>
+        <speaker>
+          <id>16398</id>
+          <name>Jen Stirrup</name>
+        </speaker>
+      </speakers>
+      <track>04 BI Track</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Let's PowerBI Hungary with Big Data!</title>
+      <description>In this fun session, we will use Microsoft's Big Data and PowerBI tools to learn about Hungary! We will mix and mashup data from a variety of sources such as 'The Spirit Level' by Prof Richard Wilkinson, UNICEF, the World Bank and even the CIA to learn more about Hungary. Business Intelligence professionals need to tackle ever-increasing sources of data that are increasing in volume, velocity and variety. Let's look at fun example of global data about Hungary to look at common data storytelling by BI and BA professionals: analysing open data with varying degrees of data quality, business puzzles versus business mysteries, and deciding on which chart or graph to use when presenting data. If the 'too much data, too little information' scenario is familiar, then come to this session, which isn't just for the international visitors visiting SQLSaturday Budapest like myself! Uncover surprising facts as we mashup, slice and dice the data, and look at Big Data and Data Visualisation along the</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18673</importID>
+      <speakers>
+        <speaker>
+          <id>18673</id>
+          <name>Tobias Koprowski</name>
+        </speaker>
+      </speakers>
+      <track>02 Data Platform Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Azure SQL Database Tips and Tricks for Beginners</title>
+      <description>Microsoft released SQL Azure more than two years ago - that's enough time for testing (I hope!). So, are you ready to move your data to the Cloud? If you’re considering a business (i.e. a production environment) in the Cloud, you need to think about methods for backing up your data, a backup plan for your data and, eventually, restoring with Red Gate Cloud Services (and not only). In this session, you’ll see the differences, functionality, restrictions, and opportunities in SQL Azure and On-Premise SQL Server 2008/2008 R2/2012. We’ll consider topics such as how to be prepared for backup and restore, and which parts of a cloud environment are most important: keys, triggers, indexes, prices, security, service level agreements, etc.</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>20311</importID>
+      <speakers>
+        <speaker>
+          <id>20311</id>
+          <name>Mihail Mateev</name>
+        </speaker>
+      </speakers>
+      <track>02 Data Platform Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Entity Framework 6 New Features</title>
+      <description>This talk is about new features in Microsoft Entity Framework 6 - the new major release of EF. In December 2012 Entity Framework 6 beta was announced and made publicly available. In October 2013 were released EF 6.00 (major release) and EF 6.01. This is the first new version of EF since the announcement in 2012 that the product would be Open Sourced. Entity Framework is hosted on CodePlex. This presentation is about the new features, included in EF 6: Async Query and Save, Custom Code First Conventions, Multi-Tenant Migrations, Configurable Migrations History Table, Code-Based Configuration, Dependency Resolution, Updated Provider Model, Enums, Spatial and Better Performance on .NET 4.x, Stored Procedures  Functions in Code First, Connecti</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>10564</importID>
+      <speakers>
+        <speaker>
+          <id>10564</id>
+          <name>Bob Duffy</name>
+        </speaker>
+      </speakers>
+      <track>04 BI Track</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Load Testing Analysis Services</title>
+      <description>Ever deployed an Analysis Services cube that worked perfectly well with one user on the development server, only to find that it doesn't meet the required volumes of user concurrency?
+ 
+This session focuses on tools and methodology to load test Analysis Services in highly concurrent environments. Including how to locate resource bottlenecks and the appropriate configuration settings that can help improve performance.
+ 
+Sample source code will be supplied to help you load test analysis services. We will be focused on the MOLAP engine, but techniques are equally applicable to the  tabular model.</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13526</importID>
+      <speakers>
+        <speaker>
+          <id>13526</id>
+          <name>Dejan Sarka</name>
+        </speaker>
+      </speakers>
+      <track>03 Data Platform Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Optimizing Temporal Queries</title>
+      <description>Having a SQL Server solution for a problem does not mean the job is done. Of course, the next immediate issue is the performance. Temporal queries that involve intervals are typically very IO and CPU intensive. For example, a test for overlapping intervals was solved with inefficient queries for years. However, a handful of solutions with fast queries was developed lately. This high-level technical session introduces five different methods to get efficient queries that search for overlapping intervals. Of course, these solutions can be implemented on other temporal problems as well. Actually, the test for overlapping intervals is one of the most complex temporal problems.</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15752</importID>
+      <speakers>
+        <speaker>
+          <id>15752</id>
+          <name>Janos Berke</name>
+        </speaker>
+      </speakers>
+      <track>01 Magyar nyelvu szekcio</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>T-SQL hibakezelés a gyakorlatban </title>
+      <description>Szeretném bemutatni a T-SQL nyelv által biztosított hibakezelési eljárásokat, parancsokat és az elmúlt években szerzett tapasztalatokat. Itt nem csak a trry/catch és a throw használata, hanem az alábbi témakörök kerülnének lefedésre:
+- alapvető hibakezelések: kell, nem kell?
+- tranzakciók és a hibák
+- XACT_ABORT hatása a hibákra és a tranzakciókra
+- deadlock hibák kezelése
+- hibák logolása
+
+A prezentáció nagy hangsúlyt feketet a demókra, inkább gyakorlati, mint sem ppt alapú.
+</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22002</importID>
+      <speakers>
+        <speaker>
+          <id>22002</id>
+          <name>Peter Myers</name>
+        </speaker>
+      </speakers>
+      <track>04 BI Track</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to SQL Server 2012 MDS and DQS</title>
+      <description>This presentation introduces the upgraded features of SQL Server 2012 Master Data Services (MDS) and the new service, SQL Server 2012 Data Quality Services (DQS).
+
+MDS is a solution for master data management. First released in SQL Server 2008 R2, this upgraded version includes many new features and enhancements, including a new web interface developed with Silverlight, an Excel add-in to support simplified model creation and easier data updates and management.
+
+DQS is a new knowledge-driven data cleansing solution, and it supports building knowledge bases that provide correction and de-duplication of data.</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27226</importID>
+      <speakers>
+        <speaker>
+          <id>27226</id>
+          <name>Uwe Ricken</name>
+        </speaker>
+      </speakers>
+      <track>03 Data Platform Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server in motion - Page Splits</title>
+      <description>This session is based on participation of the audience for a great movie about SQL Server internals. This session will demonstrate complicated inernal db engine operatoins by using the audience as "objects" replaying each simple task.
+
+So FUN should be the primaray target but step by step the audience will get familiar with the tremendous work SQL Server has to to when "simple" operations may occur</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22220</importID>
+      <speakers>
+        <speaker>
+          <id>22220</id>
+          <name>Tamás Polner</name>
+        </speaker>
+      </speakers>
+      <track>01 Magyar nyelvu szekcio</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Data for everyone with Power BI! The role of the data stewards and analysts inside the organization</title>
+      <description>Introducing the role of datastewards in Power BI. How to share, track and control data assest inside the organization with Power Query and the Data Management Gateway.</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19457</importID>
+      <speakers>
+        <speaker>
+          <id>19457</id>
+          <name>Marcin Szeliga</name>
+        </speaker>
+      </speakers>
+      <track>03 Data Platform Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Stored procedures — facts and myths</title>
+      <description>Everybody knows that use of stored procedures offers a number of benefits over issuing T-SQL code directly from an application. In this demo heavy session I am going to explain to you:
+1. Why plan caching and reuse is a good thing.
+2. How to avoid unnecessary recompilations for plan stability-related reasons.
+3. How to avoid unnecessary recompilations for plan optimality-related reasons.
+4. When plan reusing is not a good thing and how you can deal with this “Parameter Sniffing” problem.
+5. Why you should evade conditional logic inside stored procedures that do data access.</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14186</importID>
+      <speakers>
+        <speaker>
+          <id>14186</id>
+          <name>Francois-Manuel Billault</name>
+        </speaker>
+      </speakers>
+      <track>02 Data Platform Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Using Fusion ioMemory to leverage SQL Server 2014 features: Buffer Pool Extension and In-memory OLTP</title>
+      <description>Leveraging Buffer Pool Extension and In-Memory OLTP in SQL Server 2014 with Fusion’s ioDrive2 product line increases database performance by allowing solid state storage to exist alongside DRAM. Fusion’s memory-like performance helps reduce costs by enabling organizations to scale with NAND flash versus DRAM.</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22179</importID>
+      <speakers>
+        <speaker>
+          <id>22179</id>
+          <name>Peter Larsson</name>
+        </speaker>
+      </speakers>
+      <track>03 Data Platform Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Remodel your old EAV design</title>
+      <description>Sometimes you really need an EAV model. In most cases they are ugly and slow.
+After this session you will have gained new insights how to turn your old, slow, EAV model into a slim superfast model.
+
+There will be real life examples from a recent project. With the techniques displayed in the presentation, I cut the execution time down from 134 days down to 0.5 seconds and cut the storage need from 550GB to 45GB.
+</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15304</importID>
+      <speakers>
+        <speaker>
+          <id>15304</id>
+          <name>Ian Meade</name>
+        </speaker>
+      </speakers>
+      <track>02 Data Platform Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Dynamic code for efficient searching </title>
+      <description>Illustrate how multipurpose queries can lead to issues with scalability and performance. Show a few alternatives that will work for smaller and simpler queries while highlighting their limitations for more complex queries. Then work through building a dynamic search query to resolve the identified performance issues. Touching on: • Testing. • Tuning each part of the query in isolation. • Plan cache re-use • Security – SQL injection attacks and authorisation / code signing. • Possibly, mentioning greater re-use and extendibility.</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27355</importID>
+      <speakers>
+        <speaker>
+          <id>27355</id>
+          <name>Balázs Farkas</name>
+        </speaker>
+      </speakers>
+      <track>01 Magyar nyelvu szekcio</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Adatbányászat SQL Server Analysis Services-el</title>
+      <description>Egy általános adatbányászatba történő bevezetést követően áttekintjük az SQL Server Analysis Services nyújtotta adatbányászati lehetőségeket. Végignézzük a rendelkezésünkre álló algoritmusokat, valamint azt, hogy melyiket mire lehet használni. Egy konkrét példán kereszül végigmegyünk az adatbányászati struktúra és modell létrehozásának folyamatán, modellt processzálunk és értelmezzük az elért eredményeket. Kicsit elmélyülünk a klaszterezésben, és megmutatjuk azt is, hogyan lehet lekérdezni és integrálni egy adatbányászati modellt.</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14934</importID>
+      <speakers>
+        <speaker>
+          <id>14934</id>
+          <name>Zoltán Hangyál</name>
+        </speaker>
+      </speakers>
+      <track>01 Magyar nyelvu szekcio</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>A jó index scan, a rossz index seek avagy hogyan olvassunk végrehajtási tervet</title>
+      <description>Mi az a végrehajtási terv? Miért hozza létre és mire használja az SQL Server? Mik azok az operátorok? Mi a különbség a logikai és fizikai operátorok között? Mit jelent az index seek és az index scan, melyik a jobb? Van-e tábla seek? Hogyan kell jól olvasni a végrehajtási terveket? Az előadás ezekre a kérdésekre ad választ. </description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>20749</importID>
+      <speakers>
+        <speaker>
+          <id>20749</id>
+          <name>Miloš Radivojević</name>
+        </speaker>
+      </speakers>
+      <track>03 Data Platform Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server 2014 - New Cardinality Estimator</title>
+      <description>In SQL Server 2014 query processing has been improved. What we can expect from new cardinality estimator? Does it really estimate better? Will our execution plans be better after migration to 2014? All of them? Is the key ascending column statistics problem solved in new version? Do we finally can have more than 200 steps in the statistics histogram per table? What about column correlation and cardinality estimates - are the predicates still completely independent?
+
+This session will answers all these questions and will demonstrate new query processing capabilities and compare them with those from SQL Server2012.</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>26412</importID>
+      <speakers>
+        <speaker>
+          <id>26412</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>02 Data Platform Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Windowing Functions: THE Reason to Upgrade to 2012</title>
+      <description>For the first time since SQL 7 there is a compelling reason for EVERY SQL Server user to upgrade to the next version and this time around the reason is Windowing Functions.   And these are NOT limited to Enterprise Edition, like so many other really useful and important features!  The range of data processing needs that can be very efficiently and cleanly solved with these tools is stunning. In this demo-packed session we will cover as many features as we can pack into an hour's time, and you can take the demo code back home with you to review at your leisure!</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21999</importID>
+      <speakers>
+        <speaker>
+          <id>21999</id>
+          <name>Peter Myers</name>
+        </speaker>
+      </speakers>
+      <track>04 BI Track</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Mastering the Excel CUBE Functions</title>
+      <description>This session explores the seven CUBE functions that are natively available in Excel. Unknown to many business analysts, these useful functions can be used to retrieve data model members and values to create parameter-driven report designs.The session topics will introduce each of the seven functions. Demonstrations will range from the simple, to the more sophisticated involving dynamic expressions, MDX expressions, integration of data from multiple data models, and macro-driven layouts.This session is a must for those looking to drive more from Excel when reporting from the BI Semantic Model. Much of the content presented in this session is applicable to Excel 2007, 2010 and 2013.</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13923</importID>
+      <speakers>
+        <speaker>
+          <id>13923</id>
+          <name>Erik Bitemo</name>
+        </speaker>
+      </speakers>
+      <track>01 Magyar nyelvu szekcio</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server and Transactional Replication - senkit sem hagy hidegen</title>
+      <description>Vajon miért beszélnek az emberek viszonylag keveset a tranzakcionális replikációról? Miért találunk nagyobb eséllyel nyitott kérdéseket ebben a témában egy fórumon, mint például mirroringban vagy mentésben? 
+
+És mire jó a tranzakcionális replikáció egyáltalán, és mire nem? És hogyan lehet svájcibicskát csinálni belőle? Ezt próbálom meg körüljárni az összejövetel során.</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>10924</importID>
+      <speakers>
+        <speaker>
+          <id>10924</id>
+          <name>Boris Hristov</name>
+        </speaker>
+      </speakers>
+      <track>02 Data Platform Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The nightmare of locking, blocking and isolation levels!</title>
+      <description>I am sure you all know that troubleshooting problems related to locking and blocking (hey, sometimes there are deadlocks too) can be a real nightmare! In this session, you will be able to see and understand why and how locking actually works, what problems it causes and how can we use isolation levels and various other techniques to resolve them!</description>
+      <startTime>3/1/2014 12:00:00 AM</startTime>
+      <endTime>3/1/2014 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

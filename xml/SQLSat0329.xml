@@ -1,0 +1,650 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #329 - Rio de Janeiro 2014</name>
+    <startDate>10/25/2014 12:00:00 AM</startDate>
+    <attendeeEstimate>600</attendeeEstimate>
+    <timezone>(GMT-03:00) Greenland</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat329</twitterHashtag>
+    <venue>
+      <name>Rua Ibituruna, 108, Tijuca</name>
+      <street>
+      </street>
+      <city>Rio de Janeiro</city>
+      <state>, Brazil</state>
+      <zipcode>22410-002</zipcode>
+      <longitude>-43.221868</longitude>
+      <latitude>-22.911741</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>458</importID>
+      <name>Bufalo Informatica</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.bufaloinfo.com.br</url>
+      <imageURL>https://www.bufaloinfo.com.br/Images/logo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>159</importID>
+      <name>devSQL Pass Chapter</name>
+      <label>Gold Sponsor</label>
+      <url>http://facebook.com/devSQL</url>
+      <imageURL>https://www.bufaloinfo.com.br/logogrupos/devsql.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1</importID>
+      <name>Confio</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.confio.com</url>
+      <imageURL>https://www.pass.org/images/resized-confio_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>808</importID>
+      <name>MainWorks</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.mainwork.com.br/</url>
+      <imageURL>https://www.bufaloinfo.com.br/logogrupos/MW-Logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1247</importID>
+      <name>Universidade Veiga de Almeida</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.uva.br</url>
+      <imageURL>https://www.bufaloinfo.com.br/logogrupos/logoVeiga.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>538</importID>
+      <name>Daruma</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.daruma.com.br/home.php</url>
+      <imageURL>https://www.bufaloinfo.com.br/logogrupos/logodaruma.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>83</importID>
+      <name>PluralSight</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.pluralsight.com</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2015/11/Pluralsight_logo_novo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>925</importID>
+      <name>OReilly</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.oreilly.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/899/EventSponsor_13939.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>190</importID>
+      <name>DoomTech</name>
+      <label>Blog Sponsor</label>
+      <url>http://leka.com.br</url>
+      <imageURL>https://bigleka.files.wordpress.com/2013/07/leka-170x60.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>19266</importID>
+      <name>Luan Moreno Medeiros Maciel</name>
+      <label>
+      </label>
+      <description>Based out of Brazil, Luan Moreno credits his ability to solve problems to thinking critically before acting. He values working with a team because he and his clients can benefit from various perspectives and collaboration, particularly when faced with difficult issues. When Luan Moreno first became interested in technology, he didn’t have a mentor, so he made a commitment to teaching others in the community and sharing his knowledge through blogging, speaking engagements.
+
+Luan Moreno is a addicted Brazilian blogger and speaker. SQL Server MCT, MCSE and MVP living in Brazil. Nowadays he#39;s a Database Consultant at Pythian, company based in Ottawa - Canada.#160;</description>
+      <twitter>@luansql</twitter>
+      <linkedin>https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile</linkedin>
+      <ContactURL>https://luanmorenodba.wordpress.com/ amp; http://www.sqlshack.com/author/luan-moreno-m-maciel/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@luansql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27496</importID>
+      <name>Vitor Fava</name>
+      <label>
+      </label>
+      <description>I'm a DBA with extensive experience in the areas of Database and Information Technology, working on planning, implementation, and maintenance of large corporate database servers. 
+I have several professional certifications and good experience in development activities and management of entrepreneurial environments using SQL SERVER. 
+I'm a speaker at various technology events such as SQL Saturday, The Developers Conference, InteropMix and also in various discussion groups focused on database technology.
+I teach advanced training in SQL Server and Azure SQL Database and also acting as MCT in Microsoft official training.
+I'm the Chapter Leader of SQLManiacs PASS chapter.</description>
+      <twitter>sqlservermaniacs</twitter>
+      <linkedin>https://br.linkedin.com/in/vitorfava</linkedin>
+      <ContactURL>https://www.vitorfava.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlservermaniacs</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21611</importID>
+      <name>Ozimar Souza</name>
+      <label>
+      </label>
+      <description>Graduado em Ci#234;ncia da Computa#231;#227;o, P#243;s gradua#231;#227;o em Business Intelligence, 
+Trabalha com SQL Server desde 1998. Membro do grupo Microsoft MTAC. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://ozimar.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34619</importID>
+      <name>Dennes Torres</name>
+      <label>
+      </label>
+      <description>Dennes Torres is a Data Platform MVP with more than 25 years of experience in the IT area. He improves Data Platform Architectures and turns data into knowledge. As a Brazilian living in Malta, Dennes works as a software developer and leads the Malta MDP User Group. Having the MCSE Data Platform, Business Intelligence, and Microsoft Certified Trainer (MCT) certifications, Dennes has been in love with database servers since he was  introduced to SQL Server 6.5, more years ago than he would like to admit.</description>
+      <twitter>Dennes</twitter>
+      <linkedin>https://www.linkedin.com/in/dennestorres/</linkedin>
+      <ContactURL>https://www.red-gate.com/simple-talk/author/dennes-torres/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Dennes</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15136</importID>
+      <name>Ignacio Salom Rangel</name>
+      <label>
+      </label>
+      <description>Ignacio Salom is a Senior SQL Server DBA and the CEO of Cenlinea Online Education He has over 15 years of experience in IT and in 2006 he turned his focus to SQL Server. Ignacio holds MCITP Database Administrator certifications for SQL Server 2005 and SQL Server 2008. His online presence includes:
+-	Writing for Confio Software’s LogicalRead
+-	His blog
+-	The SQL Server Central forums
+-	MSDN forums
+-	Linkedin
+-	Twitter(@iasalom)</description>
+      <twitter>@iasalom</twitter>
+      <linkedin>https://www.linkedin.com/in/ignaciosalomrangel</linkedin>
+      <ContactURL>http://ignaciosalom.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@iasalom</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13932</importID>
+      <name>Erika Madeira</name>
+      <label>
+      </label>
+      <description>Erika Madeira é graduada em Engenharia da Computação e atuou na área de tecnologia da informação por mais de 3 anos como Administradora de Bando de Dados (DBA). Atualmente, especialista do time de SQL Server da Microsoft, atua com foco na comunidade técnica. Mantêm o blog http://blogs.technet.com/b/sqlserverbrasil/ com artigos relacionados a banco de dados em toda sua abrangência.
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14245</importID>
+      <name>Marcelo Fernandes</name>
+      <label>
+      </label>
+      <description>Marcelo Fernandes is SQL Server MVP and has 12+ years experience with databases, specialized in High Availability, critical missions and very large databases. He holds the MCP / MCDBA / MCSA / MCTS / MCITP and MCT certifications, he lives and works in Berlin for an American e-commerce company that sells home goods. He share their knowledge through webcasts, presentations and articles on Microsoft technologies and can be cantacted by email fernandes_dba@hotmail.com or twitter @ marcelodba</description>
+      <twitter>marcelodba</twitter>
+      <linkedin>https://br.linkedin.com/in/marcelodba</linkedin>
+      <ContactURL>http://marcelodba.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=marcelodba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11834</importID>
+      <name>Pedro Correia</name>
+      <label>
+      </label>
+      <description>Pedro Correia was born in 1976 on the 265th day of that year. He has been working with SQL Server for over 12 years, since the days of SQL Server 7.0, and his specialties are security and performance tuning. He is also a SQL Server trainer and teaching is one of his passions. 2012 was a year focused on the certification of competences and skills gained over the years, namely becoming one of the few Microsoft Certified Master - SQL Server 2008 (llt;100 worldwide).</description>
+      <twitter>pjcorreiasql</twitter>
+      <linkedin>http://www.linkedin.com/in/pjcorreia</linkedin>
+      <ContactURL>http://sql.pt</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pjcorreiasql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21185</importID>
+      <name>Murilo Miranda</name>
+      <label>
+      </label>
+      <description>Murilo Miranda is a blogger, speaker and SQL Server MVP from Portugal. Nowadays he#39;s a Cloud Operations Engineer at DataStax. Murilo’s passion for working with people coupled with his honesty have helped him establish effective, meaningful relationships with his clients. When he isn’t working, he can be found enjoying life with his family, watching football and playing Playstation.</description>
+      <twitter>murilocmiranda</twitter>
+      <linkedin>http://pt.linkedin.com/in/murilomiranda/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=murilocmiranda</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19303</importID>
+      <name>Luiz Mercante</name>
+      <label>
+      </label>
+      <description>Luiz Mercante (@sqldicas) é analista sênior em um dos maiores Data Centers do Brasil, MCTS em Windows, MTA em Databases, MCITP em SQL Server, moderador no Fórum 
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14168</importID>
+      <name>Fabiano Amorim</name>
+      <label>
+      </label>
+      <description>Fabiano Amorim is a Data Platform MVP that loves to conquer complex, challenging problems—especially ones that others aren’t able to solve. He first became interested in technology when his older brother would bring him to his work meetings at the age of 14. With over a decade of experience, Fabiano is well known in the database community for his performance tuning abilities. When he isn’t working, he loves to read and spend time with his family.</description>
+      <twitter>mcflyamorim</twitter>
+      <linkedin>https://www.linkedin.com/in/fabianoamorim/</linkedin>
+      <ContactURL>http:\\blogfabiano.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mcflyamorim</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>24241</importID>
+      <name>Sulamita Dantas</name>
+      <label>
+      </label>
+      <description>Sulamita Dantas é formada em Ciência da Computação pelo Centro Universitário Unibh.
+Possui experiência como DBA SQL Server, Analista Protheus e Analista BI.
+Atualmente é MVP Data Plataform (Microsoft Most Valuable Professional), 
+Lider do Local Group SQL BH, 
+Co-Organizadora do Grupo Random Hacks   
+Conselheira Fiscal da ONG MTAC.
+Apaixonada por Ciclismo!</description>
+      <twitter>@suladantas</twitter>
+      <linkedin>https://www.linkedin.com/in/sulamita-dantas-21976340/</linkedin>
+      <ContactURL>http://www.sulamitadantas.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@suladantas</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19883</importID>
+      <name>Mauro Pichiliani</name>
+      <label>
+      </label>
+      <description>Mauro Pichilian é bacharel em Ciência da Computação, mestre e doutorando pelo ITA (Instituto Tecnológico de Aeronáutica) e MCP, MCDBA e MCTS. Trabalha há mais de 14 anos utilizando diversos bancos de dados SQL e NoSQL. É escritor da revista SQL Magazine, colunista de do iMasters e co-produtor do DatabaseCast, o podcast brasileiro sobre banco de dados.
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://pichiliani.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21182</importID>
+      <name>Murilo Miranda</name>
+      <label>
+      </label>
+      <description>Murilo Miranda is a blogger, speaker and SQL Server MVP from Portugal. Nowadays he#39;s a Cloud Operations Engineer at DataStax. Murilo’s passion for working with people coupled with his honesty have helped him establish effective, meaningful relationships with his clients. When he isn’t working, he can be found enjoying life with his family, watching football and playing Playstation.</description>
+      <twitter>murilocmiranda</twitter>
+      <linkedin>http://pt.linkedin.com/in/murilomiranda/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=murilocmiranda</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19294</importID>
+      <name>Lucas Souza</name>
+      <label>
+      </label>
+      <description>Lucas Jos#233; dos Reis Souza, Formado em Sistemas da informa#231;#227;o pela universidade Anhembi Morumbi. Atua como Administrador de banco de dados na plataforma SQL Server há mais de 6 anos com #234;nfase em administra#231;#227;o e tunning. Lecionou treinamentos e Atuou em grandes empresas bem como, Santander, Saraiva e Grupo B2W com grandes projetos de implanta#231;#227;o, migra#231;#245;es de vers#245;es (2000 gt; 2008r2 / 2008r2 gt; 2012). Possui os t#237;tulos de MCTS, MCITP, MCSA e MCT em SQL Server 2008/2012.</description>
+      <twitter>https://twitter.com/LucasJ_DBA</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=105952892amp;trk=nav_responsive_tab_profile</linkedin>
+      <ContactURL>http://www.lucasdba.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/LucasJ_DBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21457</importID>
+      <name>Nilton Pinheiro</name>
+      <label>
+      </label>
+      <description>Nilton has 18+ years of SQL Server experience and is the co-author of the book "SQL Server 2014: High Availability in Practice with AlwaysOn Failover Cluster Instances". He worked as a SQL Server Specialist at Itaú Bank (Brazil) for 11 years working on design and coordination of large database infrastructure projects involving deployment and migration of mission-critical servers. Nilton worked at IBM for 4 years as a SQL Server SME and also at Microsoft as a Sr. Support Engineer in the Microsoft CSS SQL team. Speaker at events like SQLSaturday, TechEd, MS Tech Summit and others, he was Microsoft MVP for 11 years and holds SQL Server MCSA\MCSE certifications. Currently he is a Sr. Database Consultant at AGAP2 IT, working in Brussels.</description>
+      <twitter>nilton_pinheiro</twitter>
+      <linkedin>http://br.linkedin.com/in/niltonpinheiro</linkedin>
+      <ContactURL>http://www.mcdbabrasil.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=nilton_pinheiro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>27496</importID>
+      <speakers>
+        <speaker>
+          <id>27496</id>
+          <name>Vitor Fava</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Otimizando seus planos de execução com o SQL Server 2014 Cardinality Estimator</title>
+      <description>O SQL Server 2014 apresenta a primeira grande reformulação do processo de estimativa de cardinalidade desde o SQL Server 7.0.
+A principal meta para a reformulação do estimador de cardinalidade é melhorar a precisão e a consistência do processo de estimativa de cardinalidade, afetando diretamente a qualidade dos planos de execução criados pelo otimizador de consultas do SQL Server.
+Esta apresentação fornecerá uma visão geral das principais alterações realizadas no estimador de cardinalidade.</description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21611</importID>
+      <speakers>
+        <speaker>
+          <id>21611</id>
+          <name>Ozimar Souza</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Computação em Nuvem e SQL Azure</title>
+      <description>Nesta seção irá aprender tudo sobre Computação em Nuvem, funcionalidades, vantagens, desvantagens, estruturas, arquiteturas, tipos de contrato. Após Cloud Computing abordaremos o SQL Azure, todas as características dele, configurações, segurança,  funcionamento pelo SSMS e pelo browser.</description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19266</importID>
+      <speakers>
+        <speaker>
+          <id>19266</id>
+          <name>Luan Moreno Medeiros Maciel</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>In-Memory OLAP a.k.a ColumnStore Index</title>
+      <description>Nessa sessão será abordado os seguintes tópicos: Introdução, Internals, Transactional Isolation, Clustered Vs Non-Clustered ColumnStore Index, Batch Mode, TempDB e Data Loading </description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21182</importID>
+      <speakers>
+        <speaker>
+          <id>21182</id>
+          <name>Murilo Miranda</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Database Administration Strategies</title>
+      <description>It's 3 AM and your pager beeps. Oh no!! The slowness is hitting me again!!
+There are so many things that we can do to minimise the possibility of a problem and make your lives easier as a DBA, mainly when we are oncall :)
+Organize the house, and making our bed everyday will assure that the DBA can relax and focus in other kind of work.
+On this session, we will talk about few basic strategies to avoid common problems that DBAs experience in their environments, such as choose the right storage layout, accomodate the database's files properly and configure the TempDB.</description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11834</importID>
+      <speakers>
+        <speaker>
+          <id>11834</id>
+          <name>Pedro Correia</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Durability 101</title>
+      <description>In this session we will explain how and what features SQL Server has in place to ensure data durability, that is, how can this RDBMS ensure that no data is lost even in case of crash failure
+
+We will cover, in a simple language, subjects like:
+- Transaction Log
+- Recovery Models
+- Database Recover
+- Delayed Durability
+- Durability drawbacks
+
+This session is targeted for people that are new to the SQL server world and want to understand the SQL server inner workings and by that ensure that they make the better choice for each scenario. More experienced user will also benefit from the teachings in this session when we’ll touch more advanced topics that will support their decisions to fine tune their servers
+</description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21457</importID>
+      <speakers>
+        <speaker>
+          <id>21457</id>
+          <name>Nilton Pinheiro</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Minimizando o downtime de Migrações com o Database Mirroring</title>
+      <description>Database Mirroring é uma das funcionalidades do SQL Server que lhe permite "espelhar" um ou mais bancos de dados entre instâncias SQL Server. Nesta sessão Nilton Pinheiro mostrará como ele utiliza o Database Mirroring para minimizar o downtime de migrações em ambientes SQL Server de alta criticidade.</description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15136</importID>
+      <speakers>
+        <speaker>
+          <id>15136</id>
+          <name>Ignacio Salom Rangel</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Collecting and analyzing SQL Server performance da</title>
+      <description>Are you familiar with SQL Server Dynamic Management Objects (DMOs)? Do you know what kind of data you can collect from them? Are you aware of the standard tools available to analyze data from them? In this session you will learn how to use some of the SQL Server Dynamic Management Objects to collect performance data. The session will have some demos on how to collect and analyze SQL Server Performance information with DMOs. By the end of the session you will know how to collect and analyze SQL Server performance data using data gathered with DMOs.</description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14245</importID>
+      <speakers>
+        <speaker>
+          <id>14245</id>
+          <name>Marcelo Fernandes</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Entendendo o Clusterlog</title>
+      <description>Quando trabalhamos com projetos de missões críticas implementamos a solução de cluster e finalizamos o projeto e caso de troubleshooting nos sentimos limitados com o Event Viewer.
+Nesta  sessão você conhecerá como "Debugar" o clusterlog, que é um excelente recurso e quando sabemos utilizá-lo nos poupa várias horas de troubleshooting durante a madrugada.
+</description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>24241</importID>
+      <speakers>
+        <speaker>
+          <id>24241</id>
+          <name>Sulamita Dantas</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Melhores Práticas para Utilizar as Polices no SQL Server 2014</title>
+      <description>Nessa palestra iremos abordar as melhores práticas de como utilizar as Polices no SQL Server 2014.  Os conceitos básicos, os modos de execução, e o que monitorar. </description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19883</importID>
+      <speakers>
+        <speaker>
+          <id>19883</id>
+          <name>Mauro Pichiliani</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Melhorias na interface do Management Studio</title>
+      <description>O Management Studio é a principal ferramenta utilizada por quem trabalha com o SQL Server. Apesar de possuir ótimos recursos, esta ferramenta ainda deixa a desejar em vários aspectos de usabilidade. Esta palestra mostrará diversas dicas, recomendações e sugestões de melhorias no Management Studio que podem facilitar o dia a dia de quem trabalha com o SQL Server ganhando tempo e aumentando a produtividade.</description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13932</importID>
+      <speakers>
+        <speaker>
+          <id>13932</id>
+          <name>Erika Madeira</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Tudo que você precisa para um BI de ponta!</title>
+      <description>Qualidade de dados, enriquecimento da informação, visualizações ricas e mobilidade. Veja como tudo isso faz diferença na construção do Business Intelligence corporativo.</description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19294</importID>
+      <speakers>
+        <speaker>
+          <id>19294</id>
+          <name>Lucas Souza</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Best Practices TempDB</title>
+      <description>Teremos um overview desse database tão importante para o funcionamento do SQL Server. 
+
+° Iremos falar sobre boas práticas, bem como separação de seus arquivos em discos separados com relação aos demais bancos
+° Contenção na alocação das páginas de dados
+° Tipos de espera, PAGELATCH ou PAGEIOLATCH ?
+° Trace Flags 1117 e 1118, devo sempre utilizar ? porque ?
+° Mitos e verdades sobre Arquivos de dados X CPU
+° Entendendo ALLOW_SNAPSHOT_ISOLATION
+
+Cuide de sua Tempdb, ela é única.</description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34619</importID>
+      <speakers>
+        <speaker>
+          <id>34619</id>
+          <name>Dennes Torres</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Trocando o Profiler pelos Extended Events</title>
+      <description>Você irá descobrir as vantagens do uso dos Extended Events sobre o Profiler e descobrirá como os extended events podem solucionar muitos problemas, tal como deadlocks</description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19303</importID>
+      <speakers>
+        <speaker>
+          <id>19303</id>
+          <name>Luiz Mercante</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Transaction Log - Entendendo as melhores práticas</title>
+      <description>Entenda o funcionamento do Transaction Log para então perceber como é importante gerenciar o tamanho, além de aprender como lidar quando o TLog cresce mais do que deveria ou até mesmo fica cheio. Veja dicas de como ganhar performance significativamente e casos onde apenas gerenciando o TLog foi possível obter até 3x mais performance.</description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14168</importID>
+      <speakers>
+        <speaker>
+          <id>14168</id>
+          <name>Fabiano Amorim</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Carreira - Dicas para fazer um milhão com MSSQL</title>
+      <description>Carreira com banco de dados SQL Server.
+Nesta sessão pretendo fugir um pouco do tecniqueis para bater um papo sobre o que esperar do mercado de SQL Server, e dar uma série de dicas que acho extremamente importantes pra todo profissional que deseja ter sucesso profissional (que é totalmente relativo).
+Também veremos algumas boas práticas para desenvolvedores e administradores de bancos de dados, bem como dicas em relação a temidas perguntas de entrevistas de emprego relacionadas a SQL Server.</description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21185</importID>
+      <speakers>
+        <speaker>
+          <id>21185</id>
+          <name>Murilo Miranda</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Buffer Pool Extension (BPE) - How it works?</title>
+      <description>A new feature of SQL Server 2014, Buffer Pool Extension (BPE) promises improvement on OLTP workload like systems, taking advantage of fast persistent disks.
+On this session we will enter in some theoretical details regarding this new technology, as well as some demos.</description>
+      <startTime>10/25/2014 12:00:00 AM</startTime>
+      <endTime>10/25/2014 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

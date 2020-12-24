@@ -1,0 +1,23 @@
+# SQLSaturday #648 - Johannesburg 2017
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+10:00:00|Steve Simon|Application  Database Development|[SQL Server 2016 Efficient and Effective coding of Stored Procedures](63226.md)
+10:00:00|Vanessa Raath|Professional Development|[How to become the most sought after SQL Server professionals in SA](63263.md)
+10:00:00|Clinton van Blommestein|Application  Database Development|[The NoSQL DBA](63888.md)
+10:00:00|Sean Cremer|Application  Database Development|[Introduction to Database Design](64763.md)
+10:00:00|Jody Roberts|Strategy and Architecture|[Data without technology](67481.md)
+11:10:00|Hugo Kornelis|Application  Database Development|[Now Where Did THAT Estimate Come From? - Part 1](63240.md)
+11:10:00|Heinrich Smit|Enterprise Database Administration  Deployment|[Running and interacting with SQL Server in Docker](64217.md)
+11:10:00|Niels Berglund|Advanced Analysis Techniques|[A Drill Down into R and Python in SQL Server 2017](66531.md)
+11:10:00|James McGillivray|Information Delivery|[Shedding some light on Windowing Functions](67360.md)
+13:00:00|Jeanne Combrinck|Analytics and Visualization|[The Power of Social Media with PowerBI using Twitter, Facebook and Google Analytics](64384.md)
+13:00:00|Gail Shaw|Enterprise Database Administration  Deployment|[Go, Go, QueryStore!](66498.md)
+13:00:00|Hugo Kornelis|Application  Database Development|[Now Where Did THAT Estimate Come From? - Part 2](68277.md)
+14:10:00|Desmond Norton|Professional Development|[T-SQL Anti-Patterns](63766.md)
+14:10:00|Arohan Naidoo|BI Platform Architecture, Development  Administration|[Zero to Pi to 10 on Cloud,Intro to Windows 10 IoT Core on a Raspberry Pi and BI using Azure IoT Hub](66440.md)
+14:10:00|Erwin Bisschops|Information Delivery|[Creating an adaptive party domain model in SQL Master Data Services](67273.md)
+14:10:00|Denny Cherry|Database Administration |[SQL Server 2016 Database Administration for the non-DBA](68203.md)
+15:20:00|Jacques Mostert|Information Delivery|[The hustle and bustle of SQL pages](67270.md)
+15:20:00|Sean Pearce|Application  Database Development|[Practical Query Tuning](67690.md)
+15:20:00|Minette Steynberg|BI Platform Architecture, Development  Administration|[Azure SQL DW vs Azure Cosmos DB vs Azure Data Lake Store](68175.md)
+15:20:00|Mladen Prajdić|Application  Database Development|[SQL Server and Application Security for Developers](68414.md)

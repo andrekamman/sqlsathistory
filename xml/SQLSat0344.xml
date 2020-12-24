@@ -1,0 +1,21 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #344 - Tirana 2014</name>
+    <startDate>10/4/2014 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatTirana</twitterHashtag>
+    <venue>
+      <name>Papa Gjon Pali”Street, Nr 3</name>
+      <street>
+      </street>
+      <city>Tirana</city>
+      <state>, Albania</state>
+      <zipcode>
+      </zipcode>
+      <longitude>19.822717</longitude>
+      <latitude>41.322106</latitude>
+    </venue>
+  </guide>
+</GuidebookXML>

@@ -1,0 +1,22 @@
+# SQLSaturday #689 - Prague 2017
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:30:00|Markus Ehrenmueller-Jensen|Analytics and Visualization|[From SQL to R – Leverage Your T-SQL Knowledge to Learn R](69007.md)
+09:30:00|Bent Pedersen|Business Intelligence  Analytics|[Scripting Tabular models](69015.md)
+09:30:00|Andrea Martorana Tusa|Application  Database Development|[APPLY operator in action](69027.md)
+09:30:00|Ivan Donev|Application  Database Development|[Real world DevOps - challenges, tools and solutions](69031.md)
+10:45:00|Dmitry Pilugin|Database Administration  Deployment|[Query Processor Enhancements in SQL Server 2017](68506.md)
+10:45:00|Jiří Neoral|Business Intelligence  Analytics|[Shopping basket analysis with Analysis Services and Power BI](68798.md)
+10:45:00|Alex Whittles|Business Intelligence  Analytics|[Introduction to U-SQL and Data Lake](69048.md)
+12:45:00|Marek Chmel|Business Intelligence  Analytics|[Azure Machine Learning in Action](68570.md)
+12:45:00|Miroslav Dimitrov|Application  Database Development|[SQL Server Myths and Misconceptions](68885.md)
+12:45:00|Wolfgang Strasser|Business Intelligence  Analytics|[Scale-Out your SSIS Package Executions](69055.md)
+14:00:00|Damian Widera|Application  Database Development|[Travelling in time with SQL Server 2016](68784.md)
+14:00:00|Oliver Frost|Business Intelligence  Analytics|[Data Science with SQL Server 2016 and R](68878.md)
+14:00:00|Markus Ehrenmueller-Jensen|Application  Database Development|[A Game of Hierarchies: Introduction to Graph Processing with SQL](69005.md)
+15:15:00|Grzegorz Stolecki|Application  Database Development|[Hello SQL! I'm Python! What can I do for you?](67749.md)
+15:15:00|Jan Mulkens|Business Intelligence  Analytics|[Enabling Citizen Data Science with Microsoft](68863.md)
+15:15:00|Tomas Tucek|Business Intelligence  Analytics|[Data Warehouse Testing and Why You Should Care!](69239.md)
+16:30:00|Jakub Müller|Application  Database Development|[JSON in SQL Server](67704.md)
+16:30:00|Michal Sadowski|Database Administration  Deployment|[Database corruption](67807.md)
+16:30:00|Marcos Freccia|Application  Database Development|[Stop everything! Top T-SQL tricks to a Developer](67828.md)

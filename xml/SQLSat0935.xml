@@ -1,0 +1,898 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #935 – Salvador – Virtual 2020</name>
+    <startDate>10/17/2020 12:00:00 AM</startDate>
+    <attendeeEstimate>300</attendeeEstimate>
+    <timezone>(GMT-03:00) Greenland</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatSalvador</twitterHashtag>
+    <venue>
+      <name>Centro Universitário Estacio</name>
+      <street>Rua Xingu, nº 179 - Jardim Atalaia / STIEP</street>
+      <city>Salvador</city>
+      <state>Bahia, Brazil</state>
+      <zipcode>41770-130</zipcode>
+      <longitude>-38.44596</longitude>
+      <latitude>-12.9819</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>2689</importID>
+      <name>Red Hat</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://www.redhat.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/935/EventSponsor_14870.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2678</importID>
+      <name>Google Cloud</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://cloud.google.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/935/EventSponsor_14871.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2696</importID>
+      <name>Melissa</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>http://www.melissa.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/935/EventSponsor_14898.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1781</importID>
+      <name>Microsoft</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/935/EventSponsor_14869.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>522</importID>
+      <name>CrespiDB</name>
+      <label>Blog Sponsor</label>
+      <url>http://www.crespidb.com.br</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/935/EventSponsor_14875.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>108190</importID>
+      <name>Rodrigo Crespi</name>
+      <label>
+      </label>
+      <description>Rodrigo Crespi is Microsoft Data Platform MVP, MCT, MCSE, MCSA, MCIT, MCDBA and MCP in SQL Server. Also, he has certifications in .NET Framework, Dynamics CRM, among others. He started working with SQL Server on version 6.5 as a developer and then opted for working especially with database administration. Nowadays he is a partner in CrespiDB – Soluções em Plataformas de Dados and university professor at Uniftec – Caxias do Sul. Author of many published articles on websites and magazines about SQL Server and software engineering, he runs a YouTube channel named SQLCrespi and a personal blog called SQLCrespi, too. Rodrigo is the founder of SQL Server RS PASS Chapter in Rio Grande do Sul – Brazil and a Chapter Leader</description>
+      <twitter>sqlcrespi</twitter>
+      <linkedin>https://www.linkedin.com/in/rodrigocrespi/</linkedin>
+      <ContactURL>http://sqlcrespi.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlcrespi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102372</importID>
+      <name>William Lino Oliveira</name>
+      <label>
+      </label>
+      <description>DBA SQL Server à 5 anos. Trabalha atualmente em uma grande instituição financeira. Possui as certificações MCSE: Data Management and Analytics.</description>
+      <twitter>@WilloniL</twitter>
+      <linkedin>https://www.linkedin.com/in/williamlinooliveira/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@WilloniL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108174</importID>
+      <name>Thiago Carlos de Alencar</name>
+      <label>
+      </label>
+      <description>Sr DBA working at GBE</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/alencardba/</linkedin>
+      <ContactURL>http://www.tcalencar.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108328</importID>
+      <name>Luiz Henrique Garetti</name>
+      <label>
+      </label>
+      <description>Arquiteto de Soluções Big Data no Itáu, Bacharel em Ciência da Computação com MBA em Big Data. 
+Palestrante em eventos de tecnologia com participações nacionais como São Paulo, Brasília, Salvador, Belo Horizonte, Caxias do Sul, Joinville e internacionais como Bogotá-Colômbia.
+Nas horas vagas... curto pegar a estrada de moto, é o meu limpa cache :)
+Entusiasta do Ecossistema Big Data, o qual dedica horas de estudos em tecnologias emergentes, compartilhando um pouco no blog www.dataisbig.com.br</description>
+      <twitter>luizhgaretti</twitter>
+      <linkedin>https://www.linkedin.com/in/luizhenriquegaretti</linkedin>
+      <ContactURL>https://dataisbig.com.br/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=luizhgaretti</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107095</importID>
+      <name>Juarez Cardoso</name>
+      <label>
+      </label>
+      <description>Formado em Engenharia da Computação pela Faculdade de Ciências e Tecnologia de Montes Claros (FACIT). Possuo 18 anos de experiência na área de TI sendo 2 anos atuando como administrador de Banco de Dados em um empresa multinacional.
+​
+Atualmente sou  Pass Chapter Leader do SQLMoc, comunidade associada ao https://www.pass.org/ com o objetivo de compartilhar conhecimento referente a plataforma de dados da Microsoft.</description>
+      <twitter>https://twitter.com/carddoso2</twitter>
+      <linkedin>https://www.linkedin.com/in/juarez-cardoso-825704177/</linkedin>
+      <ContactURL>http://sqlmoc.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/carddoso2</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108302</importID>
+      <name>Sidney Cirqueira</name>
+      <label>
+      </label>
+      <description>Atuando a 9 anos no mercado de Tecnologia da Informação. Analista de Dados  AI na Lanlink, atualmente focado em engenharia de dados e soluções de inteligência artificial no ambiente Microsoft Azure. Participante ativo das Comunidades SQL Server DF, Brasilia Data Group, BSB IA, Data Science, BigData  Analytics e palestrante iniciante em eventos de Plataforma de Dados e Analytics. Possuo as certificações: Azure Data Scientist Associate, Azure Data Engineer Associate, Azure Fundamentals e MCSA - SQL 2016 Database Administrator. 
+Participante ativo das comunidades: [SQL Server DF], [Brasilia Data Group] e [BSB IA, Data Science, BigData  Analytics].</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/sidney-oliveira-60b41128/</linkedin>
+      <ContactURL>https://medium.com/@sidneyocirqueira</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108586</importID>
+      <name>Jose Araujo</name>
+      <label>
+      </label>
+      <description>I'm a Senior Software Engineer at Farfetch, I've been working developing and architecting system for 18 years. I'm passionate about technology, software development, system and solution architecture. I have worked in different kinds of businesses projects. Furthermore, I already weared caps such as a Solution Architect, Technical Leader, Senior Software Engineer solving complex problems. I really like to use and apply DevOps practices through all the projects I'm working on. Finally, I have great interesting to work with Software  Solution Architecture, Cloud Computing, Distributed Systems, SOA  DDD, and DevOps.</description>
+      <twitter>jrobertofaraujo</twitter>
+      <linkedin>https://www.linkedin.com/in/joserobertoaraujo/</linkedin>
+      <ContactURL>https://medium.com/@jrobertoaraujo</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=jrobertofaraujo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108288</importID>
+      <name>Anderson Vasconcelos</name>
+      <label>
+      </label>
+      <description>Profissional com 10 anos de Carreira, sendo 8 trabalhando com o SQL Server tanto nas atividade de: Desenvolvimento, Extração de dados, Otimização de consulta e Administração do SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/anderson-vasconcelos/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>103825</importID>
+      <name>Rayssa Dias</name>
+      <label>
+      </label>
+      <description>Analista de Business Intelligence por profissão, amante da área de dados e geek por opção !</description>
+      <twitter>@rayssardias</twitter>
+      <linkedin>https://www.linkedin.com/notifications/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@rayssardias</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105661</importID>
+      <name>Anderson Souza</name>
+      <label>
+      </label>
+      <description>Atua como Coordernador de banco de dados na Sequoia Logistica. 
+Possui experiência administrando bancos de dados de diversas companhias dos mais variados setores, como instituições financeiras, consultorias e portais de e-commerce. 
+Adora tecnologia e compartilha conhecimento de tecnologias de Bancos de Dados em apresentações dentro da empresa e eventos.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>104195</importID>
+      <name>Rafael Mendonça</name>
+      <label>
+      </label>
+      <description>Microsoft MVP Data Platform.
+Cearense, Contador, Sócio na RL Contabilidade e RL Inteligência de Negócios. 
+Atuando atualmente em Business Inteligence com o uso do POWER BI. 
+MCSA BI Repporting, MCT. 
+Membro ativo das comunidades Power BI no Brasil.</description>
+      <twitter>rafaelmpsantos</twitter>
+      <linkedin>https://www.linkedin.com/in/rafaelmpsantos/</linkedin>
+      <ContactURL>https://www.rafaelmendonca.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=rafaelmpsantos</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108193</importID>
+      <name>Tiago Crespi</name>
+      <label>
+      </label>
+      <description>Trabalha a 4 anos como Administrador de Banco de Dados na CrespiDB - Soluções em Plataforma de Dados. Já atuo como desenvolvedor VB.NET, C++ e Delphi em empresas como Lojas Colombo, CWI Software e Lohr Sistemas Eletrônicos. Graduado em Sistemas de Informação | Especialista em Engenharia de Software | MCSE: Data Management and Analytics
+ Palestrante em eventos e meetups relacionados à bancos de dados e desenvolvimento de software. Sendo alguns deles: SQL Saturday, SQL Server RS, .NET Caxias, etc.</description>
+      <twitter>tiagocrespi</twitter>
+      <linkedin>https://www.linkedin.com/in/tiagocrespi</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=tiagocrespi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102490</importID>
+      <name>Vitor Fava</name>
+      <label>
+      </label>
+      <description>I'm a DBA with extensive experience in the areas of Database and Information Technology, working on planning, implementation, and maintenance of large corporate database servers. 
+I have several professional certifications and good experience in development activities and management of entrepreneurial environments using SQL SERVER. 
+I'm a speaker at various technology events such as SQL Saturday, The Developers Conference, InteropMix and also in various discussion groups focused on database technology.
+I teach advanced training in SQL Server and Azure SQL Database and also acting as MCT in Microsoft official training.
+I'm the Chapter Leader of SQLManiacs PASS chapter.</description>
+      <twitter>sqlservermaniacs</twitter>
+      <linkedin>https://br.linkedin.com/in/vitorfava</linkedin>
+      <ContactURL>https://www.vitorfava.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlservermaniacs</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108177</importID>
+      <name>Roberto Cavalcanti</name>
+      <label>
+      </label>
+      <description>Roberto Cavalcanti is an Azure Cloud Solution Architect with the Customer Architecture and Engineering team at Microsoft. He is a database specialist with 20+ years of experience. He focuses on helping customers to be successful in Microsoft's Azure cloud and on improving Microsoft Azure products. Roberto has written many articles about SQL Server/Azure SQL DB for MSDN/TechNet, SQL Magazine, and has been a speaker in events such as TechReady, Microsoft Insights/TechEd, SQL Saturday. He has delivered Azure training in multiple countries in the Americas, and in Europe. Roberto is based on the Microsoft Las Colinas, Texas, USA office.</description>
+      <twitter>rocavalc</twitter>
+      <linkedin>https://www.linkedin.com/in/robertocavalcanti</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=rocavalc</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108338</importID>
+      <name>Murilo Miranda</name>
+      <label>
+      </label>
+      <description>Murilo Miranda is a blogger, speaker and SQL Server MVP from Portugal. Nowadays he#39;s a Cloud Operations Engineer at DataStax. Murilo’s passion for working with people coupled with his honesty have helped him establish effective, meaningful relationships with his clients. When he isn’t working, he can be found enjoying life with his family, watching football and playing Playstation.</description>
+      <twitter>murilocmiranda</twitter>
+      <linkedin>http://pt.linkedin.com/in/murilomiranda/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=murilocmiranda</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102341</importID>
+      <name>Marcelo Adade</name>
+      <label>
+      </label>
+      <description>Marcelo is a Database Consultant at The Pythian Group. He has more than 10 years of experience in several Companies from different branches and sizes. Like financial companies, consultant shops, datacenters and e-commerce sites. Currently holds the MCSE, MCT and MCSA Microsoft Certifications and also the Oracle OCP. Loves technology and enjoys sharing his Database knowledge delivering presentations and official Microsoft Training Courses. Currently he is also the co-leader of the SQLMANIACS PASS User Group, based in Sao Paulo, Brazil</description>
+      <twitter>@marceloadade</twitter>
+      <linkedin>https://br.linkedin.com/in/marceloadade</linkedin>
+      <ContactURL>http://www.dbbits.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@marceloadade</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105932</importID>
+      <name>CAIO GARCIA BUZO</name>
+      <label>
+      </label>
+      <description>Formado em analise e desenvolvimento de sistemas, me especializei em SQL Server e atuo na area desde 2010, participei de diversos projetos e tenho muito a contribuir principalmente com quem esta começando na área. Gosto muito de trabalhar com dados.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/caio-garcia-buzo/</linkedin>
+      <ContactURL>https://dbaonboarding.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107302</importID>
+      <name>André Melancia</name>
+      <label>
+      </label>
+      <description>Owner / Principal Consultant at LunarCat.PT
+Microsoft Certified Trainer (MCT) focusing on SQL Server, Azure, IoT and Security.
+
+19+ years' fun developing information and multimedia systems, DBA, project and IT management.
+
+Data Community Portugal, IT Pro Portugal and PowerShell Portugal communities organiser.
+IPv6 Portugal, DNSSec Portugal and Windows Development Portugal online communities moderator.
+Actively volunteering, organising, speaking or just participating at community meetings and events around the world.
+
+Proud uncle and food devouring expert, with dangerous рuϧϧy cat as companion.
+
+Go to http://Andy.PT and you'll know the same as the NSA...</description>
+      <twitter>AndyPT</twitter>
+      <linkedin>http://LinkedIn.COM/in/AndreMelancia</linkedin>
+      <ContactURL>http://Andy.PT</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=AndyPT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107102</importID>
+      <name>Guilherme Torres</name>
+      <label>
+      </label>
+      <description>Formado em Bacharel em Sistemas de Informação , formado em MBA Big Data, vem atuando como DBA SQL Server há 10 anos, se especializando em performance tuning.
+Passou por setores de mineração, ecommerce e atualmente no setor bancário em grande instituição financeira, trabalha como DBA SQL Server.
+Possui certificações MCP, MCSA e MCSE.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://br.linkedin.com/in/guilherme-torres-b133b62a</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108295</importID>
+      <name>Rodrigo Dornel</name>
+      <label>
+      </label>
+      <description>Rodrigo Dornel é MVP de Data Platform, MCT, MCSA, consultor na RDdornel Data Platform Experts e professor Universitário.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105639</importID>
+      <name>Wagner Crivelini</name>
+      <label>
+      </label>
+      <description>Consultor Sênior da Microsoft, na área de Data  AI para América Latina. Especialista em bancos de dados, é colunista em diversos portais de TI do Brasil e do exterior, com mais de 100 artigos técnicos publicados. É também co-produtor do DatabaseCast, primeiro podcast brasileiro sobre bancos de dados.</description>
+      <twitter>@wcrivelini</twitter>
+      <linkedin>https://www.linkedin.com/in/wagner-crivelini-107850</linkedin>
+      <ContactURL>http://www.databasecast.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@wcrivelini</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102906</importID>
+      <name>Leonardo Fonseca</name>
+      <label>
+      </label>
+      <description>Sou Leonardo Fonseca, um mineiro apaixonado por tecnologia e DBA por acaso.
+
+Graduado em Processos Gerenciais, possuo mais de 11 anos de experiência em TI, atuei como Analista de Suporte, Analista de Sistemas com foco em ITSM, Gestão de Mudanças de TI e como Gestor de Mudanças fiz a maior GMUD da minha carreira, o carinha de processos se tornou um DBA!
+
+Possuo as certificações MCT, MCSE: Data Management and Analytics e MCSA: SQL Server 2016 Database Administration.
+
+Autor do blog: https://leonardofonseca.com.br/</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/leofb/</linkedin>
+      <ContactURL>https://leonardofonseca.com.br/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108227</importID>
+      <name>Bruno Lopes</name>
+      <label>
+      </label>
+      <description>Technical Trainer, IT Evangelist, Cloud Architect e entusiasta de Segurança da Informação. Experiência com ambientes On-Premises, em Nuvem e híbridos.
+
+ex-MVP, MCT, MCSA e MCSE em tecnologias Microsoft.</description>
+      <twitter>https://twitter.com/brunokktro</twitter>
+      <linkedin>https://br.linkedin.com/in/blopesinfo/</linkedin>
+      <ContactURL>https://blogdolopez.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/brunokktro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>104371</importID>
+      <name>Michael Oliveira de Deus</name>
+      <label>
+      </label>
+      <description>Pai | Desenvolvedor de Software, apaixonado por tecnologia e focado no ecossistema do JavaScript (:
+Organizador do AngularBA</description>
+      <twitter>michaelsdeus</twitter>
+      <linkedin>https://www.linkedin.com/in/michael-oliveira-de-deus/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=michaelsdeus</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>104036</importID>
+      <name>Marcelo Amaral</name>
+      <label>
+      </label>
+      <description>Formado em Ciência da Computação pela UFBA em 2003. Analista de Sistemas com mania de mudar as coisas nas empresas onde trabalha. Tem experiência como arquiteto, analista, desenvolvedor, dba, database developer.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/marcelo-s-amaral/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>103825</importID>
+      <speakers>
+        <speaker>
+          <id>103825</id>
+          <name>Rayssa Dias</name>
+        </speaker>
+      </speakers>
+      <track>Data (IaaS - PaaS - DBaaS)</track>
+      <location>
+        <name>Data</name>
+      </location>
+      <title>QUALIDADE EM PROJETOS DE BI - DO ZERO A ENTREGA FINAL!</title>
+      <description>Como garantir a qualidade em projetos de BI ?? Ao longo de todo desenvolvimento do projeto, por muitas vezes esquecemos ou deixamos para trás passos importantes na análise para que ela seja entregue com qualidade. Nesta palestra levantaremos pontos importantes de atenção desde o ETL, passando pela camada visual e finalizando na entrega do projeto.</description>
+      <startTime>10/17/2020 11:00:00 AM</startTime>
+      <endTime>10/17/2020 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>108302</importID>
+      <speakers>
+        <speaker>
+          <id>108302</id>
+          <name>Sidney Cirqueira</name>
+        </speaker>
+      </speakers>
+      <track>Data (IaaS - PaaS - DBaaS)</track>
+      <location>
+        <name>Carreira</name>
+      </location>
+      <title>Como implantar modelos de machine learning com Azure Machine Learning</title>
+      <description>Saiba como registrar e implantar modelos de ML no Serviço do Azure Machine Learning. Nesta apresentação você vai aprender a: Implantar um modelo, consumir como um serviço de inferência em tempo real, além de solucionar problemas em ambiente de produção.</description>
+      <startTime>10/17/2020 2:00:00 PM</startTime>
+      <endTime>10/17/2020 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>108227</importID>
+      <speakers>
+        <speaker>
+          <id>108227</id>
+          <name>Bruno Lopes</name>
+        </speaker>
+      </speakers>
+      <track>Cloud (Infra - AZ - AWS)</track>
+      <location>
+        <name>Carreira</name>
+      </location>
+      <title>Databases na AWS: A ferramenta certa para cada serviço</title>
+      <description>Abordar sobre uma estratégia construída com propósito para bancos de dados, onde você escolhe a ferramenta certa para o trabalho. Vamos discutir por que seu aplicativo deve conduzir os requisitos de um banco de dados, não o contrário. Introduzimos bancos de dados AWS que são construídos com propósito para seus casos de uso de aplicativos. Se você é um desenvolvedor construindo aplicativos modernos que requerem bancos de dados de alto desempenho, escala e funcional, e você está tentando determinar quais serviços de dados relacionais e não relacionais usar, esta sessão é para você. 
+
+Também vamos falar sobre como converter e migrar suas bases de dados relacionais, bancos de dados não relacionais e data warehouses para a nuvem. O AWS Schema Conversion Tool (AWS SCT) e AWS Database Migration Service (AWS DMS) podem ajudar com migrações homogêneas, bem como migrações de diferentes mecanismos de banco de dados, como Oracle ou SQL Server, para Amazon Aurora.</description>
+      <startTime>10/17/2020 11:00:00 AM</startTime>
+      <endTime>10/17/2020 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>108174</importID>
+      <speakers>
+        <speaker>
+          <id>108174</id>
+          <name>Thiago Carlos de Alencar</name>
+        </speaker>
+      </speakers>
+      <track>Data (IaaS - PaaS - DBaaS)</track>
+      <location>
+        <name>Data</name>
+      </location>
+      <title>Azure SQL DB - Automatizando/Provisionando o seu banco de dados</title>
+      <description>Nessa sessão, eu irei mostrar como tirar o melhor proveito do banco de dados da Microsoft na Nuvem, sim, o Azure SQL DB. Irei mostrar alguns conceitos e o mais importante da nuvem, COMO FAZER passo-a-passo para você deixar de ser o DBA que "SABE" o que é a nuvem para o DBA que "TRABALHA" com a nuvem. Essa sessão é pra qualquer audiência, seja ela o DBA Jr ou aquele DBA SR que está migrando para a nuvem e ainda possui diversas dúvidas do dia a dia do Azure SQL D</description>
+      <startTime>10/17/2020 2:00:00 PM</startTime>
+      <endTime>10/17/2020 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>108328</importID>
+      <speakers>
+        <speaker>
+          <id>108328</id>
+          <name>Luiz Henrique Garetti</name>
+        </speaker>
+      </speakers>
+      <track>Cloud (Infra - AZ - AWS)</track>
+      <location>
+        <name>Dev</name>
+      </location>
+      <title>Arquitetando Data Lake Multicloud</title>
+      <description>Data Lake Multi-Cloud é uma grande realidade nas empresas atualmente, onde são contratados diversos Cloud's Providers. Nesse cenário sistemas começam a nascer em diversos players e como fica o Analytics? Em um mundo onde precisamos coletar informações de n fontes para compor um algoritmo de Machine Learning, qual é a estratégia e arquitetura de dados que podemos adotar? Virtualização de Dados, Gravidade dos Dados e Linhagem dos Dados, são alguns dos tópicos dessa grande conversa.</description>
+      <startTime>10/17/2020 9:00:00 AM</startTime>
+      <endTime>10/17/2020 9:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>108177</importID>
+      <speakers>
+        <speaker>
+          <id>108177</id>
+          <name>Roberto Cavalcanti</name>
+        </speaker>
+      </speakers>
+      <track>Data (IaaS - PaaS - DBaaS)</track>
+      <location>
+        <name>Data</name>
+      </location>
+      <title>Azure SQL Managed Instance - lições aprendidas</title>
+      <description>Nessa sessão você aprenderá as melhores práticas e dicas de como fazer troubleshooting e monitoração do Azure SQL Managed Instance em ambientes de produção. Essas lições foram aprendidas e aplicadas durante engajamentos entre clientes da Microsoft e as equipes de suporte técnico (CSS) e engenharia de campo (PFE). Veja quando e como usar Query Store, Extended Events, DMVs, Kusto queries em Log Analytics e outras ferramentas para ter sucesso no uso do SQL MI. Essa sessão é praticamente baseada em demonstrações.</description>
+      <startTime>10/17/2020 12:00:00 PM</startTime>
+      <endTime>10/17/2020 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>108338</importID>
+      <speakers>
+        <speaker>
+          <id>108338</id>
+          <name>Murilo Miranda</name>
+        </speaker>
+      </speakers>
+      <track>Cloud (Infra - AZ - AWS)</track>
+      <location>
+        <name>Carreira</name>
+      </location>
+      <title>Automatizando a criação de VMs Linux com SQL Server através de Ansible</title>
+      <description>Com a recente evolução tecnológica causada pelo fortalecimento da cloud, assim como pela revolução open-source na Microsoft, novos desafios e tarefas foram surgindo. Funções como Data Engineer e Cloud Engineer passam a ser cada vez mais comuns e requisitadas.
+Em um ambiente com necessidades de alta escala e agilidade nos processos, passou a ser imperativa a utilização de algum tipo de automatização, de forma a dar vazão a demanda de uma forma inteligente e padronizada.
+Nesta sessão, irei mostrar como Ansible pode nos ajudar a criar VMs no Azure, ajustar a suas configurações e instalar uma instância de SQL Server. Tudo isso de uma forma escalável e consistente. Com a automatização feita, você irá passar de ator principal a um mero espectador, mas ainda será o protagonista :)</description>
+      <startTime>10/17/2020 1:00:00 PM</startTime>
+      <endTime>10/17/2020 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>108295</importID>
+      <speakers>
+        <speaker>
+          <id>108295</id>
+          <name>Rodrigo Dornel</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>Dev</name>
+      </location>
+      <title>Mineração de Dados com SQL Server - DataMining</title>
+      <description>Com os novos termos sendo introduzidos no mundo dos dados, Data Science, Analytics, Machine Learning, muita gente se esqueceu que faz muito tempo que o SQL Server já tem seu kit de ferramentas para descoberta do conhecimento. Ferramentas muito poderosas e que passam despercebidas dentro do Analysis Services. Nessa sessão vamos analisar as principais ferramentas, algoritmos e técnicas que permitem você minerar dados de forma robusta com o Analysis Services.</description>
+      <startTime>10/17/2020 2:00:00 PM</startTime>
+      <endTime>10/17/2020 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>104195</importID>
+      <speakers>
+        <speaker>
+          <id>104195</id>
+          <name>Rafael Mendonça</name>
+        </speaker>
+      </speakers>
+      <track>Data (IaaS - PaaS - DBaaS)</track>
+      <location>
+        <name>Data</name>
+      </location>
+      <title>Azure Data Factory - Transformando dados com Mapping data flows</title>
+      <description>Com as novas opções de Mapping e Wrangling dataflows dentro do Azure Data Factory, essa ferramenta deixa de ser uma mera orquestradora de pipelines e passa a de fato ter poder de alteração dos dados nativamente, sem depender de aplicações externas.
+
+Nessa sessão abordaremos alguns casos de uso do Mapping dataflows que nos ajuda a fazer muitas das transformações que eram possíveis no Integration Services</description>
+      <startTime>10/17/2020 10:00:00 AM</startTime>
+      <endTime>10/17/2020 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105932</importID>
+      <speakers>
+        <speaker>
+          <id>105932</id>
+          <name>CAIO GARCIA BUZO</name>
+        </speaker>
+      </speakers>
+      <track>Data (IaaS - PaaS - DBaaS)</track>
+      <location>
+        <name>Carreira</name>
+      </location>
+      <title>Backups no SQL Server - Melhores práticas</title>
+      <description>Um dos principais pontos para o DBA é garantir que o cliente tenha uma excelente política de backup que atenda a necessidade do seu negócio. Nesta sessão partiremos do início, passando pelos principais tipos de backup, entendendo a necessidade do cliente, desenhando a melhor estratégia de backup, boas práticas e atividade extra que vai te ajudar a garantir todo o trabalho que você executou.</description>
+      <startTime>10/17/2020 12:00:00 PM</startTime>
+      <endTime>10/17/2020 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>108586</importID>
+      <speakers>
+        <speaker>
+          <id>108586</id>
+          <name>Jose Araujo</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>Carreira</name>
+      </location>
+      <title>Scaling-up Kafka message processing using Dotnet Core and TPL Dataflow</title>
+      <description>Hoje, qualquer aplicativo pensado deve ser projetado para lidar com eventos. Os eventos são como uma imagem de um momento que aconteceu no passado com base em cada ação realizada, e não é diferente na computação.
+
+Estamos no ERA da computação em nuvem, é verdade, não é uma aposta. Ao decidir conduzir seu ecossistema para um ambiente de nuvem, você deve ter em mente que esse tipo de design de arquitetura deve levar em consideração a arquitetura distribuída.
+
+No Sistema Distribuído, os Eventos são as coisas mais importantes com as quais você deve se preocupar, e você deve permitir que seu código ou sistema seja escalonado automaticamente quando necessário, dando garantias de que os negócios da empresa serão beneficiados com este projeto de arquitetura.
+
+Nesta sessão, aprenderemos como é possível implementar um código .NET Core que pode ser escalonado automaticamente quando necessário. Usaremos C# e TPL Dataflow para nos ajudar a chegar a essa solução.</description>
+      <startTime>10/17/2020 3:00:00 PM</startTime>
+      <endTime>10/17/2020 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>108288</importID>
+      <speakers>
+        <speaker>
+          <id>108288</id>
+          <name>Anderson Vasconcelos</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>Dev</name>
+      </location>
+      <title>Testes automatizados em projetos de dados.</title>
+      <description>Se você quer saber como é possível testar seu projeto de dados e não sabe por onde começar, ou tem aquele código em produção que toda vez que altera, dá um frio na barriga, ou tem que passar horas testando tudo manualmente. Então essa sessão é para você. Nela eu mostrarei como testar seu projeto de dados e evitar possíveis problemas em produção. Venha para essa sessão e saia com um novo mindset sobre testes de software e sua importância.</description>
+      <startTime>10/17/2020 1:00:00 PM</startTime>
+      <endTime>10/17/2020 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105661</importID>
+      <speakers>
+        <speaker>
+          <id>105661</id>
+          <name>Anderson Souza</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>Carreira</name>
+      </location>
+      <title>SQL Server on Linux - Da Instalação a Configurações</title>
+      <description>Veremos nessa palestra como instalar o SQL Server no Linux e também algumas configurações visando boas práticas e performance.</description>
+      <startTime>10/17/2020 9:00:00 AM</startTime>
+      <endTime>10/17/2020 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>104036</importID>
+      <speakers>
+        <speaker>
+          <id>104036</id>
+          <name>Marcelo Amaral</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>Caso de Estudo: Modelagem de um sistema utilizando dados relacionais e não relacionais em SQL Server</title>
+      <description>Um estudo de caso onde modelaremos um subsistema para registro e notificações de um ERP, onde poderemos abordar a escolha dos tipos de dados, mesclar dados relacionais e dados não relacionais, considerações ao modelar o schema e o uso de ferramentas do SQL Server para permitir um comportamento dinâmico ao sistema.</description>
+      <startTime>10/17/2020 2:00:00 PM</startTime>
+      <endTime>10/17/2020 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>104371</importID>
+      <speakers>
+        <speaker>
+          <id>104371</id>
+          <name>Michael Oliveira de Deus</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>Data</name>
+      </location>
+      <title>Alavancando projetos Angular com NGXS</title>
+      <description>Durante o desenvolvimento de grandes projetos com Angular e a medida que ele cresce cada vez mais, nos deparamos com grandes problemas como fazer compartilhar os dados de um component de parentesco distante, testes mais eficientes e lidar com os dados em diversos components, isso ocorre pelo fato do estado estar espalhado por toda aplicação, com um gerenciador de estado nós podemos centralizar todo o estado e facilitar nossa vida durante o dia a dia como desenvolvedor.</description>
+      <startTime>10/17/2020 9:00:00 AM</startTime>
+      <endTime>10/17/2020 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>102490</importID>
+      <speakers>
+        <speaker>
+          <id>102490</id>
+          <name>Vitor Fava</name>
+        </speaker>
+      </speakers>
+      <track>Data (IaaS - PaaS - DBaaS)</track>
+      <location>
+        <name>Dev</name>
+      </location>
+      <title>Como implementar uma análise de dados usando o Machine Learning</title>
+      <description>Nesta sessão discutiremos os conceitos básicos existentes por trás das tecnologias de Inteligência Artificial e também como podemos implementar uma análise de dados utilizando o Azure Machine Learning Studio.</description>
+      <startTime>10/17/2020 10:00:00 AM</startTime>
+      <endTime>10/17/2020 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105639</importID>
+      <speakers>
+        <speaker>
+          <id>105639</id>
+          <name>Wagner Crivelini</name>
+        </speaker>
+      </speakers>
+      <track>Data (IaaS - PaaS - DBaaS)</track>
+      <location>
+        <name>Dev</name>
+      </location>
+      <title>Criptografia do AZURE SQL DB e Integração com AZURE KEY VAULT</title>
+      <description>Demo apresentando implementação de TDE, TDE-BYOK, ALWAYS ENCRYPYTED e DDM em bases de dados do AZURE SQL DATABASE, bem como escrita e leitura de dados. Nesta demo, as chaves criptográficas utilizadas são armazenadas no AZURE KEY VAULT para aumentar segurança do ambiente.</description>
+      <startTime>10/17/2020 11:00:00 AM</startTime>
+      <endTime>10/17/2020 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107095</importID>
+      <speakers>
+        <speaker>
+          <id>107095</id>
+          <name>Juarez Cardoso</name>
+        </speaker>
+      </speakers>
+      <track>Data (IaaS - PaaS - DBaaS)</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>E agora DBA? Você está pronto para trabalhar na nuvem?</title>
+      <description>Muitos diziam que o  DBA iria morrer, ainda mais com a chegada da nuvem. E agora DBA? A adoção da nuvem representa a maior mudança em anos. Com as ferramentas e o treinamento certos, pode ser uma grande oportunidade para o seu sucesso pessoal e profissional.
+Bem vindo a nuvem DBA!</description>
+      <startTime>10/17/2020 10:00:00 AM</startTime>
+      <endTime>10/17/2020 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>107102</importID>
+      <speakers>
+        <speaker>
+          <id>107102</id>
+          <name>Guilherme Torres</name>
+        </speaker>
+      </speakers>
+      <track>Data (IaaS - PaaS - DBaaS)</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>SQL Server 2019 IQP - Aumentando a performance sem alterar uma linha de código</title>
+      <description>O SQL Server 2019 já está no ar com vários lançamentos incríveis. Destaque para o Intelligent Query Processing, conjunto de features de performance que chegou para ajudar a vida do DBA. Vamos detalhar cada feature e fazer vários Labs para mostrar como elas se comportam, quais os ganhos possíveis e provar que tudo isso é possível sem alterar uma linha de código.</description>
+      <startTime>10/17/2020 9:00:00 AM</startTime>
+      <endTime>10/17/2020 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>108190</importID>
+      <speakers>
+        <speaker>
+          <id>108190</id>
+          <name>Rodrigo Crespi</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>Data</name>
+      </location>
+      <title>Técnicas de Tuning que Todo Desenvolvedor Deve Saber</title>
+      <description>Consultar bancos de dados é fácil quando você está desenvolvendo.
+Contudo, você sabe o impacto de suas consultas no futuro? Nesta sessão, aprenda algumas técnicas que todo o desenvolvedor deve conhecer para criar melhores objetos no SQL Server com desempenho, segurança e elegância.</description>
+      <startTime>10/17/2020 1:00:00 PM</startTime>
+      <endTime>10/17/2020 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>102341</importID>
+      <speakers>
+        <speaker>
+          <id>102341</id>
+          <name>Marcelo Adade</name>
+        </speaker>
+      </speakers>
+      <track>Cloud (Infra - AZ - AWS)</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>Linux Administration for SQL SERVER DBAs</title>
+      <description>O SQL SERVER no Linux já é uma realidade e estará em breve nos sistemas de Produção. Você como DBA já está acostumado a realizar troubleshooting no Windows like a boss. Mas agora temos um novo S.O. Você está pronto para adicionar mais ferramentas no seu cinto de utilidades? Nesta seção vamos ver como realizar as tarefas mais comuns de troubleshooting, que já estamos acostumados a executar no Windows, agora no Linux.</description>
+      <startTime>10/17/2020 1:00:00 PM</startTime>
+      <endTime>10/17/2020 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107302</importID>
+      <speakers>
+        <speaker>
+          <id>107302</id>
+          <name>André Melancia</name>
+        </speaker>
+      </speakers>
+      <track>Cloud (Infra - AZ - AWS)</track>
+      <location>
+        <name>Carreira</name>
+      </location>
+      <title>Machine Learning is full of stars: An Azure Story</title>
+      <description>Want to get started with Machine Learning and have no idea what technologies to use?
+Don't hybernate your career. Learn about some of technologies available, focusing on Microsoft's offering, such as Azure Machine Learning (Service) workspace, Spark using Azure Databricks and HDInsight, Azure Synapse Analytics, and many more.
+Disclaimer: All these worlds are yours except Cognitive Service, that's for a different session.</description>
+      <startTime>10/17/2020 10:00:00 AM</startTime>
+      <endTime>10/17/2020 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>108193</importID>
+      <speakers>
+        <speaker>
+          <id>108193</id>
+          <name>Tiago Crespi</name>
+        </speaker>
+      </speakers>
+      <track>Data (IaaS - PaaS - DBaaS)</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>Como automatizar o Deploy de recursos de banco de dados no Azure</title>
+      <description>Automatizar o Deploy de recursos de dados no Azure é um requisito comum na atualidade. 
+Imagine um ambiente de teste que precise ser recriado diariamente e que possua diversos recursos. Aprenda a simplicar o Deploy de recursos de dados no Azure.</description>
+      <startTime>10/17/2020 12:00:00 PM</startTime>
+      <endTime>10/17/2020 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>102372</importID>
+      <speakers>
+        <speaker>
+          <id>102372</id>
+          <name>William Lino Oliveira</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>Dev</name>
+      </location>
+      <title>Desenvolvimento e Administração em SQL Server com Python</title>
+      <description>Desde a versão 2017 o SQL Server é multi-plataforma e poliglota, ou seja, agora ele roda sobre Linux e tem integração com múltiplas linguagens como o Python. O Python é uma linguagem multi paradigma que esta crescendo cada dia mais e já passou linguagens como Java e C# em utilização de mercado, muito impulsionado pelas áreas de Data Science e DevOps. Nesta sessão vou expor formas de utilizar o Python integrado ao SQL Server para desenvolvimento de aplicações e administração de infraestrutura em seus ambientes de bancos de dados.</description>
+      <startTime>10/17/2020 12:00:00 PM</startTime>
+      <endTime>10/17/2020 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>102906</importID>
+      <speakers>
+        <speaker>
+          <id>102906</id>
+          <name>Leonardo Fonseca</name>
+        </speaker>
+      </speakers>
+      <track>Data (IaaS - PaaS - DBaaS)</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>SQL Server 2019: Sua plataforma de dados moderna</title>
+      <description>Já conhece o SQL Server 2019? Ele veio para transformar a vida de todo profissional da área de dados, aquele bom e velho SQL Server está vindo com tudo em sua mais nova versão!</description>
+      <startTime>10/17/2020 11:00:00 AM</startTime>
+      <endTime>10/17/2020 12:00:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

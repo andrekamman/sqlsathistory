@@ -1,0 +1,827 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #322 - Guatemala 2014</name>
+    <startDate>7/26/2014 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT-06:00) Central America</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat322</twitterHashtag>
+    <venue>
+      <name>Universidad Francisco Marroquin</name>
+      <street>Calle Manuel F. Ayau (6 Calle final), zona 10. </street>
+      <city>Guatemala City</city>
+      <state>, Guatemala</state>
+      <zipcode>
+      </zipcode>
+      <longitude>-90.505736</longitude>
+      <latitude>14.609336</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>889</importID>
+      <name>ITLearning - New Horizonts Guatemala</name>
+      <label>Bronze II Sponsor</label>
+      <url>http://www.newhorizons.com.gt</url>
+      <imageURL>https://guatemalacity.newhorizons.com/Portals/98/Downloads/ITLearning-logo-100x100.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>20130</importID>
+      <name>Marco Tulio Gómez Reyes</name>
+      <label>
+      </label>
+      <description>Gerente General de Soluciones Computarizadas (www.solcomp.com) empresa dedicada a la consultoría, capacitacion y outsourcing de inteligencia de negocios, bases de datos y servicios en azure.
+Anteriormente fue CRM  Commercial Intelligence Leader en Kimberly-Clark Professional Guatemala, Arquitecto de soluciones de SSAS para Tigo Guatemala (Millicom International Cellular) y gerente de operaciones en CADS, S.A. (Grupo Tecun)
+Marco Tulio Posee una maestria en Tecnologías de la informacion y varias certificaciones tecnicas sobre productos Microsoft</description>
+      <twitter>mgomezgt</twitter>
+      <linkedin>http://gt.linkedin.com/in/mgomezgt</linkedin>
+      <ContactURL>http://www.marcotuliogomez.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mgomezgt</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22235</importID>
+      <name>Ahias Portillo</name>
+      <label>
+      </label>
+      <description>Soy un loco entusiasta por aprender nuevas tecnologías asociadas a base de datos, análisis de datos, Big Data y Ciencia de datos, cuento con más de 15 años de experiencia. 
+
+Cuento con una maestría en Base de datos, certificación profesional de Microsoft en ciencia de datos y Big Data, actualmente estoy estudiando una maestría académica en ciencia de datos.
+
+Me gusta compartir el conocimiento lo que me ha permitido ser nombrado como MVP de plataforma de datos desde el 2014, también he participado como conferencista en países de El Salvador, Guatemala, Costa Rica, Panamá, Estados Unidos y España.</description>
+      <twitter>PortilloAhias</twitter>
+      <linkedin>https://www.linkedin.com/pub/jose-ahias-lopez-portillo/30/284/977</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=PortilloAhias</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22319</importID>
+      <name>Ricardo Estrada</name>
+      <label>
+      </label>
+      <description>Soy Ricardo Estrada consultor y conferencista en temas relacionados con SQL, resido en Costa Rica, curioso por la tecnología y apasionado por las bases de datos y sistemas de BI, gusta de compartir conocimiento, buscar soluciones a problemas cotidianos y construir aplicaciones que faciliten las operaciones y decisiones a nivel empresarial, es orgullosamente speaker de los SQL Saturdays de Centroamérica desde el año 2014, además de participar como expositor en los Summit para España y Panamá.
+Mi primer contacto con SQL Server fue con la versión 2000 y no ha dejado de aprender trucos, metodologías, técnicas y estrategias nuevas... y desde entonces... las he compartido en diferentes posts, principalmente la página de fb: SeHablaSQL</description>
+      <twitter>pricardo03@hotmail.com</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://SeHablaSQL</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pricardo03@hotmail.com</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27395</importID>
+      <name>Victor Hugo Cardenas</name>
+      <label>
+      </label>
+      <description>Advisory in network infrastructure in a Windows environment, project management, systems development on platforms in Visual Studio and SQL Server. Professional Microsoft since 2000, MVP of SQL Server</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.youtube.com/user/visoalgt</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>12857</importID>
+      <name>David Sánchez Aguilar</name>
+      <label>
+      </label>
+      <description>David S#225;nchez Aguilar, especializado en Tecnolog#237;as Microsoft. Cuenta con el reconocimiento de Microsoft Most Valuable Professional y con varias certificaciones como MCP, MCTS, MCITP, MCSD, Microsoft Specialist y Microsoft Certified Trainer. Es graduado de la carrera de Ingenier#237;a en Sistemas Computacionales y actualmente cursa una Maestr#237;a en Administraci#243;n de Tecnolog#237;as de la Informaci#243;n. Cuenta con m#225;s de siete a#241;os de experiencia trabajando con diferentes plataformas Microsoft.</description>
+      <twitter>@davidsancheza</twitter>
+      <linkedin>https://cr.linkedin.com/in/davidsanchezaguilar</linkedin>
+      <ContactURL>http://davidsanchezaguilar.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@davidsancheza</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22318</importID>
+      <name>Ricardo Estrada</name>
+      <label>
+      </label>
+      <description>Soy Ricardo Estrada consultor y conferencista en temas relacionados con SQL, resido en Costa Rica, curioso por la tecnología y apasionado por las bases de datos y sistemas de BI, gusta de compartir conocimiento, buscar soluciones a problemas cotidianos y construir aplicaciones que faciliten las operaciones y decisiones a nivel empresarial, es orgullosamente speaker de los SQL Saturdays de Centroamérica desde el año 2014, además de participar como expositor en los Summit para España y Panamá.
+Mi primer contacto con SQL Server fue con la versión 2000 y no ha dejado de aprender trucos, metodologías, técnicas y estrategias nuevas... y desde entonces... las he compartido en diferentes posts, principalmente la página de fb: SeHablaSQL</description>
+      <twitter>pricardo03@hotmail.com</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://SeHablaSQL</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pricardo03@hotmail.com</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27393</importID>
+      <name>Victor Hugo Cardenas</name>
+      <label>
+      </label>
+      <description>Advisory in network infrastructure in a Windows environment, project management, systems development on platforms in Visual Studio and SQL Server. Professional Microsoft since 2000, MVP of SQL Server</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=34672751amp;trk=hp-identity-name</linkedin>
+      <ContactURL>http://www.youtube.com/user/visoalgt</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>12856</importID>
+      <name>David Sánchez Aguilar</name>
+      <label>
+      </label>
+      <description>David S#225;nchez Aguilar, especializado en Tecnolog#237;as Microsoft. Cuenta con el reconocimiento de Microsoft Most Valuable Professional y con varias certificaciones como MCP, MCTS, MCITP, MCSD, Microsoft Specialist y Microsoft Certified Trainer. Es graduado de la carrera de Ingenier#237;a en Sistemas Computacionales y actualmente cursa una Maestr#237;a en Administraci#243;n de Tecnolog#237;as de la Informaci#243;n. Cuenta con m#225;s de siete a#241;os de experiencia trabajando con diferentes plataformas Microsoft.</description>
+      <twitter>@davidsancheza</twitter>
+      <linkedin>https://cr.linkedin.com/in/davidsanchezaguilar</linkedin>
+      <ContactURL>http://davidsanchezaguilar.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@davidsancheza</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>12860</importID>
+      <name>David  Sanchez</name>
+      <label>
+      </label>
+      <description>David Sánchez Aguilar, SharePoint Server MVP es un consultor y desarrollador especializado en Tecnologías Microsoft en la empresa ColDev Solutions. Cuenta con más de 5 años de experiencia trabajando con tecnologías de colaboración y es instructor de tecnologías Microsoft en diferentes centros de capacitación.
+Jesus Gil es un MVP de SQL Server desde el año 2010. Es co-autor de la Guia Oficial de Microsoft para la Migración de SQL Server 2012 y es colaborador de revistas internacionales.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://davidsanchezaguilar.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9050</importID>
+      <name>Adrian Miranda</name>
+      <label>
+      </label>
+      <description>Profesional de datos con más de 15 años de experiencia en mercados financieros, seguros, retail, entre otros.  Cuenta con amplia experiencia en la definición de arquitectura de base de datos, soluciones en la nube utilizando Microsoft Azure, ha participado en la definición de estrategias de alta disponibilidad, desastre y recuperación utilizando Microsoft Azure como plataforma y continuidad de negocios en general. Formó parte del equipo de soporte global en SQL Server para Microsoft, además, se desempeñó como consultor para un Microsoft Partner y ha sido conferencista para múltiples eventos relacionados con la comunidad de datos en LATAM.</description>
+      <twitter>@JMCJOSEAD</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@JMCJOSEAD</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17762</importID>
+      <name>Juan Alvarado</name>
+      <label>
+      </label>
+      <description>MVP de SQL desde 2005, consultor de inteligencia de negocios y bases de datos en tecnologias de Microsoft usando SQL, Sharepoint y Office
+</description>
+      <twitter>@juanbizzz</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@juanbizzz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22242</importID>
+      <name>Ahias Portillo</name>
+      <label>
+      </label>
+      <description>Soy un loco entusiasta por aprender nuevas tecnologías asociadas a base de datos, análisis de datos, Big Data y Ciencia de datos, cuento con más de 15 años de experiencia. 
+
+Cuento con una maestría en Base de datos, certificación profesional de Microsoft en ciencia de datos y Big Data, actualmente estoy estudiando una maestría académica en ciencia de datos.
+
+Me gusta compartir el conocimiento lo que me ha permitido ser nombrado como MVP de plataforma de datos desde el 2014, también he participado como conferencista en países de El Salvador, Guatemala, Costa Rica, Panamá, Estados Unidos y España.</description>
+      <twitter>PortilloAhias</twitter>
+      <linkedin>https://www.linkedin.com/pub/jose-ahias-lopez-portillo/30/284/977</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=PortilloAhias</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27392</importID>
+      <name>Victor Hugo Cardenas</name>
+      <label>
+      </label>
+      <description>Advisory in network infrastructure in a Windows environment, project management, systems development on platforms in Visual Studio and SQL Server. Professional Microsoft since 2000, MVP of SQL Server</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=34672751amp;trk=hp-identity-name</linkedin>
+      <ContactURL>http://www.youtube.com/user/visoalgt</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19719</importID>
+      <name>Marlon Ramos</name>
+      <label>
+      </label>
+      <description>Profesional con mas de 10 a#241;os de experiencia en el dise#241;o, desarrollo e implementaci#243;n de soluciones basadas en tecnolog#237;as Microsoft, especialista en Sistemas Distribuidos. 
+Actualmente trabaja como Premier Field Engineer en Microsoft.
+MCDBA, MCAD, MCSA, MCTS, MCT</description>
+      <twitter>mramosgt</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=3975967amp;trk=hp-identity-name</linkedin>
+      <ContactURL>http://marlonramos.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mramosgt</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16702</importID>
+      <name>Jesus Gil Velasco</name>
+      <label>
+      </label>
+      <description>Jesus Gil (Dr. Rudo SQL) es un experto en SQL con mas de 10 años de experiencia y un speaker habitual de los SQL-Saturday en Latinoamérica.  Es el primer MVP de SQL Server para México, reconocimiento que ha ganado desde el año 2010.  Es co-autor de la Guia Oficial de Microsoft Corp. para la Migración de SQL Server 2012 y es colaborador de revistas, tanto nacionales como internacionales. Para Microsoft México genero el contenido del diplomado técnico y de Negocios sobre BI con SQL2012.
+</description>
+      <twitter>@jesus_gilv </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jesus_gilv </imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22239</importID>
+      <name>Ahias Portillo</name>
+      <label>
+      </label>
+      <description>Soy un loco entusiasta por aprender nuevas tecnologías asociadas a base de datos, análisis de datos, Big Data y Ciencia de datos, cuento con más de 15 años de experiencia. 
+
+Cuento con una maestría en Base de datos, certificación profesional de Microsoft en ciencia de datos y Big Data, actualmente estoy estudiando una maestría académica en ciencia de datos.
+
+Me gusta compartir el conocimiento lo que me ha permitido ser nombrado como MVP de plataforma de datos desde el 2014, también he participado como conferencista en países de El Salvador, Guatemala, Costa Rica, Panamá, Estados Unidos y España.</description>
+      <twitter>PortilloAhias</twitter>
+      <linkedin>https://www.linkedin.com/pub/jose-ahias-lopez-portillo/30/284/977</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=PortilloAhias</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16703</importID>
+      <name>Jesus Gil Velasco</name>
+      <label>
+      </label>
+      <description>Jesus Gil (Dr. Rudo SQL) es un experto en SQL con mas de 10 años de experiencia y un speaker habitual de los SQL-Saturday en Latinoamérica.  Es el primer MVP de SQL Server para México, reconocimiento que ha ganado desde el año 2010.  Es co-autor de la Guia Oficial de Microsoft Corp. para la Migración de SQL Server 2012 y es colaborador de revistas, tanto nacionales como internacionales. Para Microsoft México genero el contenido del diplomado técnico y de Negocios sobre BI con SQL2012.
+</description>
+      <twitter>@jesus_gilv </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jesus_gilv </imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16008</importID>
+      <name>Javier Loria</name>
+      <label>
+      </label>
+      <description>Javier Loria es un experimentado Arquitecto de Software y Arquitecto de Inteligencia de Negocios, Desarrollador de BI, con un historial de Ingeniera de redes. 
+Javier tiene más de 20 años de experiencia como Instructor Técnico, casi 30 años como desarrollador; 16 años como arquitecto de software y de inteligencia de negocios.</description>
+      <twitter>@JavierSQL</twitter>
+      <linkedin>http://www.linkedin.com/in/javiersql</linkedin>
+      <ContactURL>http://javiersql.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@JavierSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17763</importID>
+      <name>Juan Alvarado</name>
+      <label>
+      </label>
+      <description>MVP de SQL desde 2005, consultor de inteligencia de negocios y bases de datos en tecnologias de Microsoft usando SQL, Sharepoint y Office
+</description>
+      <twitter>@juanbizzz</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@juanbizzz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13640</importID>
+      <name>Eduardo Castro</name>
+      <label>
+      </label>
+      <description>Eduardo Castro, Microsoft Data Platform MVP and PASS Board of Advisor for LATAM, is well known LATAM SQL Server Expert and focuses on architecture, Business Intelligence and Data Analytics, Eduardo has an specialization and master degree in Data Analysis and Big Data. I have been speaker at PASS Summit delivering session about R and Data Science.
+
+Eduardo Castro has presented in United States, Costa Rica, Colombia, Guatemala, Mexico, Panama, El Salvador and South Korea.</description>
+      <twitter>edocastro</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=7313296amp;authType=NAME_SEARCHamp;authToken=pBHMamp;locale=en_USamp;srchid=73132961426368749508amp;srchindex=1amp;srchtotal=50amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A73132961426368749508%2CVSRPtargetId%3A7313296%2CVSRPcmpt%3Aprimary%2CVSRPnm%3A</linkedin>
+      <ContactURL>http://ecastrom.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=edocastro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9049</importID>
+      <name>Adrian Miranda</name>
+      <label>
+      </label>
+      <description>Profesional de datos con más de 15 años de experiencia en mercados financieros, seguros, retail, entre otros.  Cuenta con amplia experiencia en la definición de arquitectura de base de datos, soluciones en la nube utilizando Microsoft Azure, ha participado en la definición de estrategias de alta disponibilidad, desastre y recuperación utilizando Microsoft Azure como plataforma y continuidad de negocios en general. Formó parte del equipo de soporte global en SQL Server para Microsoft, además, se desempeñó como consultor para un Microsoft Partner y ha sido conferencista para múltiples eventos relacionados con la comunidad de datos en LATAM.</description>
+      <twitter>@JMCJOSEAD</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@JMCJOSEAD</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11223</importID>
+      <name>Carlos Lone</name>
+      <label>
+      </label>
+      <description>I work for Microsoft not to look cool, but to make you look cool. Empowering every person and every organization on the planet to achieve more!
+
+As a Partner Technology Strategist at Microsoft I am extremely honored and privileged to help our customers and partners on their digital transformation journey. 
+
+Passionate about technology and Digital Transformation, results-driven professional with 17+ years of experience leading software developer teams,IT Project Management and IT Pre-Sales teams. Proven track record of improving customer satisfaction and employee engagement. Speaker of multiple international conferences across the region, on topics like Technology, Innovation and Project Management.</description>
+      <twitter>@carloslonegt</twitter>
+      <linkedin>https://www.linkedin.com/in/carloslone</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@carloslonegt</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16010</importID>
+      <name>Javier Loria</name>
+      <label>
+      </label>
+      <description>Javier Loria es un experimentado Arquitecto de Software y Arquitecto de Inteligencia de Negocios, Desarrollador de BI, con un historial de Ingeniera de redes. 
+Javier tiene más de 20 años de experiencia como Instructor Técnico, casi 30 años como desarrollador; 16 años como arquitecto de software y de inteligencia de negocios.</description>
+      <twitter>@JavierSQL</twitter>
+      <linkedin>http://www.linkedin.com/in/javiersql</linkedin>
+      <ContactURL>http://javiersql.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@JavierSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13641</importID>
+      <name>Eduardo Castro</name>
+      <label>
+      </label>
+      <description>Eduardo Castro, Microsoft Data Platform MVP and PASS Board of Advisor for LATAM, is well known LATAM SQL Server Expert and focuses on architecture, Business Intelligence and Data Analytics, Eduardo has an specialization and master degree in Data Analysis and Big Data. I have been speaker at PASS Summit delivering session about R and Data Science.
+
+Eduardo Castro has presented in United States, Costa Rica, Colombia, Guatemala, Mexico, Panama, El Salvador and South Korea.</description>
+      <twitter>edocastro</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=7313296amp;authType=NAME_SEARCHamp;authToken=pBHMamp;locale=en_USamp;srchid=73132961426368749508amp;srchindex=1amp;srchtotal=50amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A73132961426368749508%2CVSRPtargetId%3A7313296%2CVSRPcmpt%3Aprimary%2CVSRPnm%3A</linkedin>
+      <ContactURL>http://ecastrom.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=edocastro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>13640</importID>
+      <speakers>
+        <speaker>
+          <id>13640</id>
+          <name>Eduardo Castro</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introducción al análisis predictivo con SQL Server</title>
+      <description>En esta sesión se presentan los conceptos fundamentales de análisis predictivo y cómo se implementan con SQL Server y las herramientas de análisis de datos tales como Excel. 
+
+Adicionalmente, se muestra cómo se puede publicar dichos análisis por medio de SharePoint.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22239</importID>
+      <speakers>
+        <speaker>
+          <id>22239</id>
+          <name>Ahias Portillo</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SOS de Alto de rendimiento con Window Functions</title>
+      <description>Windows Funtions son funcionalidades de T-Sql introducidas en su versión 2005, permitiendo a los desarrolladores crear consultas complejas que en el pasado implicarían cientos de líneas de código (ordenamientos, agregaciones, particionamiento, funciones analíticas, etc), que hoy por hoy podemos desarrollar utilizando unas pocas líneas, pero que muchos desconocemos sobre ellas, orientando esta sesión a proporcionar las bases necesarias para poder  utilizar Windows Function en Sql Server 2014</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19719</importID>
+      <speakers>
+        <speaker>
+          <id>19719</id>
+          <name>Marlon Ramos</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Hacking SQL Server 101</title>
+      <description>Lo que todo DBA y Desarrollador deben saber para proteger su SQL Server. Tips para proteger la información.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>20130</importID>
+      <speakers>
+        <speaker>
+          <id>20130</id>
+          <name>Marco Tulio Gómez Reyes</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Mejorando el performance de cubos en SQL server Analysis Services</title>
+      <description>En el proceso diseño y construcción de un cubo se deben considerar varios aspectos que pueden impactar en el desempeño de las cargas de información y ejecución de consultas, temas como particionamiento, relaciones entre atributos y estrategias de procesamiento deben ser considerados para obtener los mejores resultados.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27392</importID>
+      <speakers>
+        <speaker>
+          <id>27392</id>
+          <name>Victor Hugo Cardenas</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Entornos distribuidos con la clásica Replicación en SQL Server</title>
+      <description>En esta charla se dara un vistazo general a la replicacion que incluye en SQL SERVER , sus entornos y distintas aplciaciones dentro del mundo real.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16703</importID>
+      <speakers>
+        <speaker>
+          <id>16703</id>
+          <name>Jesus Gil Velasco</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL2014 -- ¿Cómo crear soluciones de bases de datos hibridas?</title>
+      <description>Con la llegada de SQL Server 2014 la posibilidad de tener bases de datos híbridas reales que vivan on-premise y en la nube es una realidad.
+Acompañame y te mostrare paso a paso como crear desde cero una solución hibrida con SQL Server 2014.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11223</importID>
+      <speakers>
+        <speaker>
+          <id>11223</id>
+          <name>Carlos Lone</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Database Unit Testing</title>
+      <description>Aprende a sacar el máximo provecho de las herramientas disponibles en Visual Studio para hacer Unit Testing con los objetos de base de datos. Hablaremos de los fundamentos del Unit Testing a nivel de Base de Datos y las Herramientas disponibles en Visual Studio para implementar proyectos de unit testing.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22319</importID>
+      <speakers>
+        <speaker>
+          <id>22319</id>
+          <name>Ricardo Estrada</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Migrando a Reporting Services 2014</title>
+      <description>En esta sesión exploraremos las diferentes consideraciones que tenemos que tener en cuenta al momento de realizar una un cambio de versión de nuestro servidor de reportes, modelos migración, cuidados y ventajas.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17762</importID>
+      <speakers>
+        <speaker>
+          <id>17762</id>
+          <name>Juan Alvarado</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Power BI .. Inteligencia de negocios en la nube de Microsoft</title>
+      <description>En esta sesion se analizara la propuesta de microsoft con respecto a la nube de inteligencia de microsoft, sus componentes y como crear una solucion basada en la nube usando Power Query, Power Map, Excel , Power View y Power BI</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27393</importID>
+      <speakers>
+        <speaker>
+          <id>27393</id>
+          <name>Victor Hugo Cardenas</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Explanation of Indices, operation and maintenance</title>
+      <description>Detailed explanation of the clustered index and not clustered index, functioning as reorganize or rebuild</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16008</importID>
+      <speakers>
+        <speaker>
+          <id>16008</id>
+          <name>Javier Loria</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Construyendo una Dimension de Tiempo Excepcional</title>
+      <description>Cada bodega de datos necesita una dimensión temporal que ponga en contexto el análisis del negocio. En esta sesión vamos a revisar algunas de las técnicas que los desarrolladores de BI experimentados utilizan para crear dimensiones de tiempo interesantes, y con esto ayudan a las organizaciones, desarrolladores y usuarios a realizar análisis de negocios básicos y avanzados. Con un montón de consejos y las mejores prácticas, esta dimensión de tiempo mejorada, aumentará sustancialmente el valor de sus aplicaciones de BI.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16702</importID>
+      <speakers>
+        <speaker>
+          <id>16702</id>
+          <name>Jesus Gil Velasco</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Dr. Rudo SQL Vs Los Querys del infierno</title>
+      <description>Todos hemos escuchado de Querys que parecen salidos del infierno, pero ¿Cómo debemos de atacarlos para obtener mejor rendimiento?.
+Acompañame y juntos ganémosle la lucha.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22318</importID>
+      <speakers>
+        <speaker>
+          <id>22318</id>
+          <name>Ricardo Estrada</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>TSQL a la Carta</title>
+      <description>En esta sesión haremos una breve introducción de las mejores funciones de SQL Sever para luego escoger las más relevante, importantes o interesantes para la audiencia. Entenderemos el uso y como aplicar las funciones seleccionadas por los participante y como fueron utilizadas casos reales...!</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>12856</importID>
+      <speakers>
+        <speaker>
+          <id>12856</id>
+          <name>David Sánchez Aguilar</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>BCS con SharePoint 2013</title>
+      <description>En esta charla tendremos la oportunidad de conocer las novedades de Business Connectivity Services en SharePoint 2013 tanto en un ambiente On-Premise como en SharePoint Online con SQL Server y SQL Azure, desde su arquitectura como su implementación y desarrollo.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17763</importID>
+      <speakers>
+        <speaker>
+          <id>17763</id>
+          <name>Juan Alvarado</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Overview de lo nuevo de SQL 2014</title>
+      <description>Conozca en esta sesion todo lo nuevo relacionado con SQL 2014, sus nuevas funcionalidades y bondades de la nueva version de base de datos.  </description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27395</importID>
+      <speakers>
+        <speaker>
+          <id>27395</id>
+          <name>Victor Hugo Cardenas</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>In-Memory OLTP SQL 2014</title>
+      <description>Talk about the new features of SQL Server 2012 and the main theme in-memory OLTP</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16010</importID>
+      <speakers>
+        <speaker>
+          <id>16010</id>
+          <name>Javier Loria</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Modelos Mentales en BI: Implementación práctica en Finanzas</title>
+      <description>Esta sesión es para los que opinan que el BI tradicional se queda corto para generar conocimiento, El capturar hechos de negocios es necesario, pero NO es suficiente para explicar la situación de una organización. El elemento faltante es un modelo mental que nos permita explicar como funciona el mundo real. Como ejemplo usaremos el modelo Dupont de razones financieras como marco de referencia para construir una solución en SSAS y SSRS.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22235</importID>
+      <speakers>
+        <speaker>
+          <id>22235</id>
+          <name>Ahias Portillo</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Conceptos de inteligencia de negocios - BI</title>
+      <description>Es esta conferencia se daran todos los conceptos necesarios para poder implementar un entorno analitico de inteligencia de neogcios dentro de las empresas.  Estos son los aspectos y conceptos necesarios para comenzar a diseñar e implementar una  solucion BI dentro del entorno de Microsoft.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9050</importID>
+      <speakers>
+        <speaker>
+          <id>9050</id>
+          <name>Adrian Miranda</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>En la tierra o en la Nube? SQL Server desde cada ángulo.</title>
+      <description>Trabajar con SQL Server en nuestros Datacenter o bien utilizar la plataforma Windows Azure para nuestras necesidades de Base de Datos? Esta sesión te brindará las recomendaciones que debes de tomar en cuenta a la hora de seleccionar una de las opciones.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13641</importID>
+      <speakers>
+        <speaker>
+          <id>13641</id>
+          <name>Eduardo Castro</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Qué debe saber un BI-DBA de SQL Server sobre Hadoop</title>
+      <description>En esta sesión se abarcan los conceptos principales de Big Data, así como las herramientas de implementación tales como Hadoop y su distribución de HD Insights y HortonWorks.
+
+El DBA aprende la forma de integrar Hadoop dentro de sus soluciones de bases de datos y soluciones de Inteligencia de Negocios.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22242</importID>
+      <speakers>
+        <speaker>
+          <id>22242</id>
+          <name>Ahias Portillo</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Todo Inicia con la Integración de datos (SSIS).</title>
+      <description>En esta sesión trataremos sobre conceptos fundamentales de integración de datos y como Integration Service es la mejor solución para realizar esta tarea en proyectos de integración de datos.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>12857</importID>
+      <speakers>
+        <speaker>
+          <id>12857</id>
+          <name>David Sánchez Aguilar</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SCOM para SQL Server</title>
+      <description>En esta charla tendremos la oportunidad de conocer la herramienta de la suite de System Center llamada Operations Manager para realizar monitores a nuestros servidores de SQL Server.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>12860</importID>
+      <speakers>
+        <speaker>
+          <id>12860</id>
+          <name>David  Sanchez</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Visualización de Datos de SSAS con SharePoint 2013</title>
+      <description>En esta charla se analizara los distintos componentes que tiene Sharepoint 2013 para visualizar los datos que se tiene un cubos de informacion de Analysis Services 2012.  Se realizaran diferentes demostraciones acerca de como se puede visualizar la informacion ataraves de excel services, power view, reporting, etc.  Esta sesion se realizara entre el MVP de Sharepoint David Sanchez y el MVP de SQL Jesus Gil (DR SQL)</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9049</importID>
+      <speakers>
+        <speaker>
+          <id>9049</id>
+          <name>Adrian Miranda</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Análisis de la salud de una base de datos SQL Server</title>
+      <description>Consejos y guías prácticas para realizar analizar la infraestructura de base de datos. Ejemplos de un análisis en la vida real utilizando herramientas de SQL Server.</description>
+      <startTime>7/26/2014 12:00:00 AM</startTime>
+      <endTime>7/26/2014 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,23 @@
+# SQLSaturday #261 - Moscow 2013
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Belkis Ozhorasan|DEV|[Microsoft SQL Server Database Development with SQL Server Data Tools(SSDT)](10195.md)
+00:00:00|Dmitriy Kostylev|DBA|[Кнопка "Turbo" возвращается. Новый механизм в SQL2014 - Buffer Pool Extension](13054.md)
+00:00:00|Denis Reznik|DEV|[Deadlock detected! Всё пропало или ещё рано бить тревогу?](13093.md)
+00:00:00|Evgeny Khabarov|BI|[Конкуренция за ресурсы в многоядерных системах.](13754.md)
+00:00:00|Tobias Koprowski|DBA|[2 AM. A Disaster just began...](18761.md)
+00:00:00|Tobias Koprowski|Additional Features|[Azure SQL Database Tips and Tricks for Beginners](18764.md)
+00:00:00|Andrey Korshikov|BI|[SQL Server Reporting Services - нестандартно о стандартном](18828.md)
+00:00:00|Oleksii Kovalov|DBA|[Я построю свой профайлер, с гридами и кнопками!](19174.md)
+00:00:00|Михаил Гурьянов|DBA|[Работа транзакционных механизмов SQL Server на примерах](19966.md)
+00:00:00|Dmitry Pilugin|DEV|[Внутри оптимизатора: кардинальность и планы выполнения](22163.md)
+00:00:00|Андрей Резник|Additional Features|[Архитектура и функциональность аналитических хранилищ SQL Server Parallel Data Warehouse 2012](22322.md)
+00:00:00|Sergey Olontsev|BI|[In-Memory OLTP (Hekaton) в SQL Server 2014: архитектура и практическое применение](24343.md)
+00:00:00|Sergey Olontsev|Additional Features|[Практика и особенности конфигурирования оборудования HP для решений MS SQL Server](24344.md)
+00:00:00|Sergey Olontsev|Additional Features|[Improving performance and scalability using Fusion ioMemory and Microsoft SQL Server](24345.md)
+00:00:00|Kevin Boles|BI|[SQL Server 2014 Column Store Index vNEXT](26189.md)
+00:00:00|Kevin Boles|DEV|[Common TSQL Mistakes](26190.md)
+00:00:00|Turgay Sahtiyan|Additional Features|[HA  DR with SQL Server AlwaysOn Availability Group](27138.md)
+00:00:00|Turgay Sahtiyan|DEV|[Top 10 Performance Tips for SQL Server Developers](27139.md)
+00:00:00|Andrey Zavadskiy|BI|[MDS + DQS + SSIS = EIM, или Как построить свою систему управления информацией](28305.md)
+00:00:00|Арсений Бирюков|DBA|[Почему «тормозит» запрос: анализ задержек с помощью XEvents](8827.md)

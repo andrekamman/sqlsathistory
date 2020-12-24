@@ -1,0 +1,654 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #481 - Israel 2016</name>
+    <startDate>4/4/2016 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat481</twitterHashtag>
+    <venue>
+      <name>Megamot College</name>
+      <street>Derekh Em Hamoshavot 94</street>
+      <city>Petah Tikva</city>
+      <state>HaMerkaz, Israel</state>
+      <zipcode>49527</zipcode>
+      <longitude>34.849725</longitude>
+      <latitude>32.101443</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1305</importID>
+      <name>Valionor Ltd.</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.valinor.co.il</url>
+      <imageURL>https://www.valinor.co.il/wp-content/uploads/2016/11/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>85</importID>
+      <name>Pyramid Analytics</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.PyramidAnalytics.com</url>
+      <imageURL>http://pages.pyramidanalytics.com/rs/pyramidanalytics/images/logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1573</importID>
+      <name>prologic</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.prologic.co.il</url>
+      <imageURL>https://prologic.co.il/wp-content/themes/prologic/img/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1593</importID>
+      <name>Naya</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.naya-tech.co.il/</url>
+      <imageURL>https://media.licdn.com/media/AAEAAQAAAAAAAAMbAAAAJGMyZjVkNjNmLWMxNWMtNDkwOS05MDI1LWRmNjc5ZDRlNTYwMw.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1632</importID>
+      <name>Performit LTD</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.performit.co.il/</url>
+      <imageURL>https://www.performit.co.il/Media/Performit_Logo_600ppi.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>449</importID>
+      <name>Brent Ozar Unlimited</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.brentozar.com</url>
+      <imageURL>https://www.brentozar.com/wp-content/themes/brentozar/img/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>42628</importID>
+      <name>Hugo Kornelis</name>
+      <label>
+      </label>
+      <description>Hugo Kornelis is an established SQL Server community expert who spends a lot of time at various conferences. He is author of "the Execution Plan Reference" (sqlserverfast.com/epr), blogger, technical editor of Grant Fritchey's "SQL Server Execution Plans, 3rd edition" and some other books, and Pluralsight author. He was awarded SQL Server MVP and Data Platform MVP 12 times (2006 - 2016, and 2019-present).
+
+When not working for the community, he is busy at his day job: freelance database developer/consultant.
+
+Hugo has over 20 years of SQL Server experience in various roles. He loves to write and tune complex queries, but he also has a strong database design background.
+
+When not working for the community, he is busy at his day job: freelance database developer/consultant.
+
+Hugo has over 20 years of SQL Server experience in various roles. He loves to write and tune complex queries, but he also has a strong database design background.</description>
+      <twitter>Hugo_Kornelis</twitter>
+      <linkedin>http://nl.linkedin.com/in/hugokornelis</linkedin>
+      <ContactURL>http://sqlblog.com/blogs/hugo_kornelis/default.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Hugo_Kornelis</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40786</importID>
+      <name>Alexander Karl</name>
+      <label>
+      </label>
+      <description>Alexander Karl is database-developer and certified MCT for Windows and SQL Server with .net-CDE GmbH. For more than 18 years he has been working with Database-, Datawarehouse- and Reporting-Solutions for companies from medium-sized enterprises to Group level. His spectrum includes Serversizing, Programming to optimize performances as well as Report- and Chartdesign; in trainings and seminars he conveys participants well-founded theoretical knowledge complemented with his practical.</description>
+      <twitter>sqlfabrik</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlfabrik</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>42852</importID>
+      <name>Assaf Fraenkel</name>
+      <label>
+      </label>
+      <description>Assaf Fraenkel, Database Architect at Microsoft Israel.  Assaf is a database architect working in Microsoft Consulting Services since 2000. He consults in Israel and abroad (mainly in Europe) with a focus on databases and project management. Assaf lectures on a regular basis in the Israel Tech Ed and at other conferences as well. Before joining Microsoft, Assaf served in senior positions in Cellular Company .  Assaf received M.Sc. and B.Sc. degrees (both Cum Laude) in Computer Science. </description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/assaffraenkel</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40912</importID>
+      <name>Leonard Lobel</name>
+      <label>
+      </label>
+      <description>Leonard Lobel (Microsoft MVP, Data Platform) is CTO and co-founder of Sleek Technologies, Inc., a New York-based development shop with an early adopter philosophy toward new technologies. He is also a principal consultant at Tallan, Inc., a Microsoft National Systems Integrator and Gold Competency Partner.
+
+Programming since 1979, Lenni specializes in Microsoft-based solutions, with experience that spans a variety of business domains, including publishing, financial, wholesale/retail, health care, and e-commerce. Lenni has served as chief architect and lead developer for various organizations, ranging from small shops to high-profile clients. He is also a consultant, trainer, and frequent speaker at local usergroup meetings, VSLive, SQL PASS, and other industry conferences.
+
+Lenni has also authored several MS Press books and Pluralsight courses on SQL Server programming.</description>
+      <twitter>@lennilobel</twitter>
+      <linkedin>http://www.linkedin.com/in/lennilobel</linkedin>
+      <ContactURL>http://lennilobel.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@lennilobel</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>42647</importID>
+      <name>Alon Spiegel</name>
+      <label>
+      </label>
+      <description>Programmer since 1995, DBA since 1997. Started consulting and training in 2002. 
+Very experienced DBA in both infrastructure and application aspects. Knowledge is closely coupled with the needs of the programming on the bottom level end and with startup to enterprise architecture on the top level end. Advanced understanding in both physical hardware and cloud computing and infrastructure.
+Expert in Oracle, MSSQL, MySQL, MongoDB, Couchbase
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://il.linkedin.com/in/alonspiegel</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40854</importID>
+      <name>Itshak David</name>
+      <label>
+      </label>
+      <description>David Yitzhak has over 24 years of experience with SQL Server, Oracle, and Sybase. He is an applicative  infrastructure DBA for relational and Nosql solutions (MongoDB, Redis), Hadoop CDH and Spark. David is a specialist in HA and DRP solutions, tuning, Machine learning , security, High Performance Computing, replication (Oracle  SQL Server), BI infrastructure and system engineering. David Yitzhak holds 3 Degrees from Technicon (Israel Institute of Technology): BSC Information System , MBA and ME (System engineering) and research associate in one of the enterprise Organizations. He presents in Oracle open world 2010, Organize Oracle ILOUG for 3 years , SQL Server forums, Microsoft BI forums, Sqlsaturday Israel 2016/17/18/19 , 3rd Israeli</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>Global Hebrew Virtual PASS Chapter : Data virtualization with SQL Server 2019 PolyBase https://www.youtube.com/watch?v=ixfwdZUj_A8feature=youtu.be https://globalhebrew.pass.org/MeetingDetails.aspx?EventID=15457    SQL Server 2019 Big Data Cluster BDC and Spark from Zero to an hero by David Yitzhak https://www.youtube.com/watch?v=iKgMqyPOVS0   David Izhak: Performance Improvements in SQL 2014 – lessons from the field  https://www.youtube.com/watch?v=x4hGjYGBfkc   David Itzhak: Practical SQL 2014 Data Mining</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45364</importID>
+      <name>Ronen Ariely</name>
+      <label>
+      </label>
+      <description>Ronen Ariely is a senior consultant, an applications  data architect. He has more than 15 years' experience in variety programming languages and technologies, leading development teams and software companies in enterprise level solutions in the fields of Data Platforms, BI, and developing. Ronen is active in communities (aka pituach) in the fields of Microsoft Azure, SQL Server, T-SQL, and Dot.Net programming. He serves as Moderator at MSDN and as one of the Microsoft TechNet WIKI communities' leaders. Ronen writes technical blogs, TechNet articles and blogs, he is co-admin of Microsoft's blogs "TechNet WIki" and "MSDN Forum", and has been awarded as Microsoft Most Valuable Professional.</description>
+      <twitter>https://twitter.com/pitoach</twitter>
+      <linkedin>https://il.linkedin.com/in/pitoach</linkedin>
+      <ContactURL>http://ariely.info/Blog/tabid/83</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/pitoach</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48984</importID>
+      <name>Niv Feldman</name>
+      <label>
+      </label>
+      <description>.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.pyramidanalytics.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40761</importID>
+      <name>Brent Ozar</name>
+      <label>
+      </label>
+      <description>Brent Ozar loves to make SQL Server faster. He created sp_Blitz and the SQL Server First Responder Kit. He shares what he's learned at BrentOzar.com.</description>
+      <twitter>BrentO</twitter>
+      <linkedin>https://www.linkedin.com/in/brentozar</linkedin>
+      <ContactURL>https://www.BrentOzar.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=BrentO</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>42782</importID>
+      <name>Dubi Lebel</name>
+      <label>
+      </label>
+      <description>Dubi Or Not To Be
+If you think you are too small and can not make a change, you probably never went to sleep with a mosquito</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40866</importID>
+      <name>Fabiano Amorim</name>
+      <label>
+      </label>
+      <description>Fabiano Amorim is a Data Platform MVP that loves to conquer complex, challenging problems—especially ones that others aren’t able to solve. He first became interested in technology when his older brother would bring him to his work meetings at the age of 14. With over a decade of experience, Fabiano is well known in the database community for his performance tuning abilities. When he isn’t working, he loves to read and spend time with his family.</description>
+      <twitter>mcflyamorim</twitter>
+      <linkedin>https://www.linkedin.com/in/fabianoamorim/</linkedin>
+      <ContactURL>http:\\blogfabiano.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mcflyamorim</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46731</importID>
+      <name>Shy Engelberg</name>
+      <label>
+      </label>
+      <description>I am the CTO of Valinor.
+For the past 10 years I have been designing, maintaining, tuning, developing and supporting 
+mission critical data solutions of all scales both as a DBA and as a team leader.
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41491</importID>
+      <name>Matan Yungman</name>
+      <label>
+      </label>
+      <description>Matan Yungman is a Data Engineering Team Lead at Taboola</description>
+      <twitter>MatanYungman</twitter>
+      <linkedin>http://il.linkedin.com/in/matanyungman/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MatanYungman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>42476</importID>
+      <name>Adi Cohn</name>
+      <label>
+      </label>
+      <description>Work as a SQL Server DBA since 1997</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46747</importID>
+      <name>Roei Basha</name>
+      <label>
+      </label>
+      <description>My name is Roei and I#39;m the BI Group leader at Valinor Ltd., a leading Data Platform service provider in Israel.
+Throughout my long career as a Business Intelligence professional I#39;ve always put emphasis on simplicity of things, but at the same time spared no effort in providing the best suitable solution to my clients, internal or external. Technology is a crucial and essential component in my toolbox, therefore my team and myself constantly strive standing at forefront and adopt newest technologies and concepts. 
+I look forward to meeting you all on coming SQL Saturday #481 in Israel.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://il.linkedin.com/in/roeibasha</linkedin>
+      <ContactURL>http://www.sqlserver.co.il/?cat=889</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48767</importID>
+      <name>Sharon Oliar</name>
+      <label>
+      </label>
+      <description>Sharon works for more than 25 years in the fields of data center and cloud, specialized in the areas of monitoring, Operating systems, security, Virtualization and more.
+Sharon is Mamram programming course graduate and has M.Sc. degree in Technology Management.
+At Microsoft, Sharon works at the STU department, leading all datacenter and private Cloud solutions.
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>40854</importID>
+      <speakers>
+        <speaker>
+          <id>40854</id>
+          <name>Itshak David</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>BI Room</name>
+      </location>
+      <title>Practical SQL 2014\2016 Data Mining and introduction to R</title>
+      <description>
+Microsoft have acquired Revolution Analytics in order to help customers to find their "Big Data" value. Revolution Analytics is the leading commercial provider of software and services for R, the world’s most widely used programming language for statistical computing and predictive analytics. R will be integrated to SQL 2016 BI. I will give introduction to R and the advantages it gives to Microsoft Data Mining.  
+• An introduction to data mining  
+• SQL Server Data Tools (SSDT) Installations  
+
+• Demo : Creating a data mining solution with Microsoft association rules  
+
+• DEMO : Decision Trees example- In short  
+
+• Prediction with MDX queries , No need to know the syntax .  
+
+• Identifying Data Patterns – Predictive Models in SSAS</description>
+      <startTime>4/4/2016 11:00:00 AM</startTime>
+      <endTime>4/4/2016 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40912</importID>
+      <speakers>
+        <speaker>
+          <id>40912</id>
+          <name>Leonard Lobel</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Big Room</name>
+      </location>
+      <title>No Schema, No Problem! – Introduction to Azure DocumentDB</title>
+      <description>This session presents an overview of Azure DocumentDB, a new massively-scalable, fully managed NoSQL database platform designed specifically for modern web and mobile applications. Like other NoSQL platforms, DocumentDB supports a schema-free data model and scales easily. But it also offers several unique features that make it a compelling candidate for NoSQL scenarios.
+
+We begin by explaining NoSQL and document databases, and how they compare with traditional relational database platforms. Then we tour the many features of DocumentDB, including rich querying with SQL (that’s right, you query this NoSQL database using SQL!), and client development using the REST API and the DocumentDB SDKs. Next, learn about the server-side programming model and write fully transactional stored procedures, triggers, and user-defined functions. Also explore tunable consistency, scale-out partitioning, custom indexing, attachments, and more. Attend this session, and get up to speed on DocumentDB today!</description>
+      <startTime>4/4/2016 2:50:00 PM</startTime>
+      <endTime>4/4/2016 4:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>41491</importID>
+      <speakers>
+        <speaker>
+          <id>41491</id>
+          <name>Matan Yungman</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>BI Room</name>
+      </location>
+      <title>Understanding the Azure Data Stack</title>
+      <description>Today’s data world is changing. Relational databases are no longer considered the only option for a data project. 
+With Azure as its front line, Microsoft pushes many new technologies out to the wild, and it’s important to understand their capabilities, strengths and weaknesses.
+
+Why? Because when designing a solution, it’s important to choose the right tool for the right job, and SQL Server is not always the best choice. It’s also important to understand the new technologies in order to be able to explain why SQL Server IS the right tool when it is.
+
+Among others, we will talk about Azure SQL Database, Stream Analytics, DocumentDB, Search, HDInsight, Machine Learning, Data Lake, U-SQL, and more.
+
+Join this session to know how the DBA's role might be affected, get an understanding of the new technologies, when to use which one, and how to converge them into a robust data solution.
+</description>
+      <startTime>4/4/2016 2:50:00 PM</startTime>
+      <endTime>4/4/2016 3:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>42628</importID>
+      <speakers>
+        <speaker>
+          <id>42628</id>
+          <name>Hugo Kornelis</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Big Room</name>
+      </location>
+      <title>T-SQL User-Defined Functions, or: Bad Performance Made Easy</title>
+      <description>User-defined functions in SQL Server are very much like custom methods and properties in .Net languages. At first sight, they seem to be the perfect tool to introduce code encapsulation and reuse in T-SQL. So why is this feature mostly avoided by all T-SQL gurus?
+The reason is performance. In this session, you will learn how user-defined functions feed the optimizer with misleading and insufficient information, how the optimizer fails to use even what little information it has, and how this can lead to shocking query performance.
+However, you will also see that there is a way to avoid the problems. With just a little extra effort, you can reap the benefits of code encapsulation and reuse, and still get good performance.</description>
+      <startTime>4/4/2016 12:10:00 PM</startTime>
+      <endTime>4/4/2016 1:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45364</importID>
+      <speakers>
+        <speaker>
+          <id>45364</id>
+          <name>Ronen Ariely</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>DBA Room</name>
+      </location>
+      <title>Built-in JSON support in SQL Server 2016 and tips to improve performance</title>
+      <description>JSON defines a small set of formatting rules, designed to be as lightweight as possible text format, for the serialization of structured data. JSON can represent four primitive types (Strings, Numbers, Booleans, and Null) and two structured types (Objects and Arrays).
+
+SQL Server 2016 provides built-in support for importing, exporting, parsing, and querying JSON documents. However, JSON support is not the same as the native JSON type, and it implemented using NVARCHAR type. This might lead to bad performance. For example, there's no built-in option for indexing, which can give us direct use of data as structured data.
+
+In this session we will demonstrate several built-in JSON support functions in SQL Server 2016, and we will finish with some tricks and tips to improve performance.</description>
+      <startTime>4/4/2016 4:00:00 PM</startTime>
+      <endTime>4/4/2016 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40786</importID>
+      <speakers>
+        <speaker>
+          <id>40786</id>
+          <name>Alexander Karl</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Big Room</name>
+      </location>
+      <title>Reporting Services with Geospatial Visualization</title>
+      <description>Reporting Services with Geospatial Visualization 
+specifically: „from address data to data-presentation in SSRS Mapcontrol in 3 steps.“ Each company has address data in the relational form [street], [postcode] und [place]. In a first step the transition to Geodata is presented in the form of longitude and latitude. The question of data source and data quality is also an issue addressed in this section. The next step deals with the selection of appropriate maps. Of special note is the data-matching of the maps with the address data. Also the own production of map sections will be illustrated in an example. The third step is to conduct the use and configuration of the control and the reference to the report data</description>
+      <startTime>4/4/2016 9:50:00 AM</startTime>
+      <endTime>4/4/2016 10:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>46731</importID>
+      <speakers>
+        <speaker>
+          <id>46731</id>
+          <name>Shy Engelberg</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>BI Room</name>
+      </location>
+      <title>Azure SQL DWH - is it just a big table? closer look into MSFT DWH solution</title>
+      <description>Microsoft Azure SQL DWH promises a lot of powerful capabilities and an elastic pricing mechanism.
+In this session we will take a look at how it is built, what are the steps we need to take so we can start using it,
+What are the scenarios it fits and what should we expect when using it.</description>
+      <startTime>4/4/2016 12:10:00 PM</startTime>
+      <endTime>4/4/2016 1:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40866</importID>
+      <speakers>
+        <speaker>
+          <id>40866</id>
+          <name>Fabiano Amorim</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Big Room</name>
+      </location>
+      <title>SQL Server execution plans – hidden and tricky optimizations</title>
+      <description>In this session, I'll present some hidden and tricky optimizations that will help you to "speed-up" your queries. It all begins by looking at the query execution plan and from there, we'll explore the alternatives that were not initially considered by query optimizer and understand what is it doing. If you need to optimize queries in your work, don't miss this session. </description>
+      <startTime>4/4/2016 11:00:00 AM</startTime>
+      <endTime>4/4/2016 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40761</importID>
+      <speakers>
+        <speaker>
+          <id>40761</id>
+          <name>Brent Ozar</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Big Room</name>
+      </location>
+      <title>Watch Brent Tune Queries</title>
+      <description>You’re in a dark room with an ugly query. What do you do next? Microsoft Certified Master Brent Ozar shares his time-tested method of tuning queries starting with simplifying, analyzing the execution plan, making index tweaks, and measuring improvements with statistics. You’ll learn a repeatable process you can use to make queries go faster.</description>
+      <startTime>4/4/2016 4:00:00 PM</startTime>
+      <endTime>4/4/2016 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>48984</importID>
+      <speakers>
+        <speaker>
+          <id>48984</id>
+          <name>Niv Feldman</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>BI Room</name>
+      </location>
+      <title>One BI Platform to Rule Them All!</title>
+      <description>Whether you are a Data Wizard, a Dwarf mining for insights, an Elf creating elegant visualisations or an ordinary Hobbit seeking business enlightenment before second breakfast, BI Office from Pyramid Analytics can help you achieve your quest for insights and timely business information. With the summer announcement of the integration of Power BI and BI Office, on premise BI solutions are now easily achievable. This session will show you how Power BI with BI Office can make you a Superhero in your organisation!</description>
+      <startTime>4/4/2016 1:20:00 PM</startTime>
+      <endTime>4/4/2016 2:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>42782</importID>
+      <speakers>
+        <speaker>
+          <id>42782</id>
+          <name>Dubi Lebel</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>DBA Room</name>
+      </location>
+      <title>TempDB how its works?</title>
+      <description>TempDB Is one of the most important resources  in our database server.
+In this lecture  we will light up a number of dark corners, explain how really TempDB works, what was the  evolution of TempDB and where it arrived in 2016 and Azure.
+ </description>
+      <startTime>4/4/2016 2:50:00 PM</startTime>
+      <endTime>4/4/2016 4:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>42852</importID>
+      <speakers>
+        <speaker>
+          <id>42852</id>
+          <name>Assaf Fraenkel</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>DBA Room</name>
+      </location>
+      <title>Inside Columnar Indexes in SQL Server 14  16</title>
+      <description>While columnar indexes where introduced in SQL 12, there are a lot of innovation in the new versions. In this session you will learn when and how you will get better performance with SQL 12  14 including some interesting demos with deep explanations.</description>
+      <startTime>4/4/2016 12:10:00 PM</startTime>
+      <endTime>4/4/2016 1:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>42476</importID>
+      <speakers>
+        <speaker>
+          <id>42476</id>
+          <name>Adi Cohn</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>DBA Room</name>
+      </location>
+      <title>Understanding latches</title>
+      <description> One of most misunderstood mechanisim of SQL Server is latches.  In most places it is just described as light weight locks.  In this session I'll explain what latches are, why do we need them, problems that they can cause and ways to solve some of those problems.</description>
+      <startTime>4/4/2016 11:00:00 AM</startTime>
+      <endTime>4/4/2016 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>42647</importID>
+      <speakers>
+        <speaker>
+          <id>42647</id>
+          <name>Alon Spiegel</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>DBA Room</name>
+      </location>
+      <title>TDE - Encrypting your DB with PKI</title>
+      <description>Learn how to encrypt your database like a pro. 
+After this one session you will understand the most common encryption/decryption methods and you will be able to deploy them yourself. On top of using MSSQL's built-in API to create keys and certificates - you will be able to create and load external "stronger" keys thus dramatically increasing your security.
+</description>
+      <startTime>4/4/2016 9:50:00 AM</startTime>
+      <endTime>4/4/2016 10:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>46747</importID>
+      <speakers>
+        <speaker>
+          <id>46747</id>
+          <name>Roei Basha</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>BI Room</name>
+      </location>
+      <title>Revolutionizing Microsoft Analytics</title>
+      <description>BI advanced use cases using R language for advanced analytic solutions. Integration with R will be presented inside of RSudio and SQL server 2016 Reporting Services and also I will present it inside of PowerBI.
+</description>
+      <startTime>4/4/2016 9:50:00 AM</startTime>
+      <endTime>4/4/2016 10:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>48767</importID>
+      <speakers>
+        <speaker>
+          <id>48767</id>
+          <name>Sharon Oliar</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>BI Room</name>
+      </location>
+      <title>Datacenter modernization</title>
+      <description>A 3-part session covering Microsoft's Activities on Datacenter infrastructure: 
+(1) Hybrid Cloud Platform: Azure Stack - A new private Cloud that Integrates the public cloud domain and the Windows Server domain, where both Microsoft and clients have invested fair amounts over the years. 
+(2) Modern Application Platform: How can the newly version of Windows Server improve and serve as better platform for public or private cloud-based applications. 
+(3) Management Everywhere: Monitor and Control any asset, anytime, anywhere. </description>
+      <startTime>4/4/2016 4:00:00 PM</startTime>
+      <endTime>4/4/2016 5:00:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

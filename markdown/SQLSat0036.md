@@ -1,0 +1,21 @@
+# SQLSaturday #36 - Wheeling 2010
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Allen White|Development|[Automate SQL Server Administration with PowerShell](28900.md)
+00:00:00|Bronwyn Altizer|SQL Server|[Wait-Time Based SQL Server Performance Management](29293.md)
+00:00:00|David Hoerster|Development|[Intro to WCF Data Services and OData](29765.md)
+00:00:00|Jeremiah Peschka|SQL Server|[Fundamentals of SQL Server Internals](30751.md)
+00:00:00|Jeremiah Peschka|Development|[A Dynamic World Demands Dynamic SQL](30752.md)
+00:00:00|Joe Kuemerle|SQL Server|[Encryption in SQL Server](30894.md)
+00:00:00|Joe Kuemerle|Development|[Developers….Are We Just a Commodity?](30895.md)
+00:00:00|John Hidey|Development|[Introduction to Silverlight](30921.md)
+00:00:00|Joe Harford|Beginner|[Dorothy: Twitter....LinkedIn....Facebook, O, my!](31054.md)
+00:00:00|John Sterrett|Beginner|[Introduction to Data Warehousing](31100.md)
+00:00:00|John Sterrett|SQL Server|[LUNCH - 1st Floor Ballroom](31101.md)
+00:00:00|John Sterrett|Development|[Lunch Provided by Panera](31102.md)
+00:00:00|John Sterrett|Beginner|[Lunch Provided by Panera - 1st Floor Ballroom](31103.md)
+00:00:00|Matt Van Horn|Beginner|[SSRS Interactive Reports](31626.md)
+00:00:00|Matt Van Horn|Beginner|[Intro to SQL Reporting Services 2008](31627.md)
+00:00:00|Tim  Beamer|SQL Server|[Designing a Highly Available SQL environment](33655.md)
+00:00:00|Tim  Beamer|SQL Server|[Building and Executing a Disaster Recovery Plan](33656.md)
+00:00:00|Von Scarberry|Development|[How to enlist SSRS to enhance your application’s](33850.md)

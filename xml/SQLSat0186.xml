@@ -1,0 +1,57 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #186 - Auckland, NZ 2013</name>
+    <startDate>6/8/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT+12:00) Fiji, Kamchatka, Marshall Is</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat186</twitterHashtag>
+    <venue>
+      <name>Snowplanet</name>
+      <street>Small Road, Silverdale</street>
+      <city>Auckland</city>
+      <state>, New Zealand</state>
+      <zipcode>0992</zipcode>
+      <longitude>174.6636353</longitude>
+      <latitude>-36.6282387</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>103</importID>
+      <name>AucklandSQL</name>
+      <label>Gold Sponsor</label>
+      <url>http://aucklandsql.com</url>
+      <imageURL>https://aucklandsql.com/SQLSaturday/AucklandSQL.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1298</importID>
+      <name>Xero</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.xero.com/careers/?utm_source=sqlsaturday.com/186/utm_medium=Webutm_campaign=Recruitment</url>
+      <imageURL>https://aucklandsql.com/sqlsaturday/xero_small.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>268</importID>
+      <name>SnowPlanet</name>
+      <label>Platinum Sponsor</label>
+      <url>http://snowplanet.co.nz/</url>
+      <imageURL>https://aucklandsql.com/sqlsaturday/SnowPlanet_small.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Titanium Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

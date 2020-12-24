@@ -1,0 +1,833 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #707 - Pordenone 2018</name>
+    <startDate>2/17/2018 12:00:00 AM</startDate>
+    <attendeeEstimate>160</attendeeEstimate>
+    <timezone>(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat707</twitterHashtag>
+    <venue>
+      <name>Consorzio Universitario di Pordenone</name>
+      <street>Via Prasecco, 3/a</street>
+      <city>Pordenone</city>
+      <state>Friuli, Italy</state>
+      <zipcode>33170</zipcode>
+      <longitude>12.6805800970839</longitude>
+      <latitude>45.9516747388366</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1617</importID>
+      <name>VMWare</name>
+      <label>Italians' SQLSATs Sponsor</label>
+      <url>http://www.vmware.com</url>
+      <imageURL>https://bobpusateri.blob.core.windows.net/shared/ChiSQL/vmware.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>996</importID>
+      <name>Realcomm Srl</name>
+      <label>SQLSAT707 Sponsor</label>
+      <url>http://www.realcomm.it/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/921/EventSponsor_14420.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1845</importID>
+      <name>Datamaze</name>
+      <label>SQLSAT707 Sponsor</label>
+      <url>http://www.datamaze.it/</url>
+      <imageURL>https://www.datamaze.it/wp-content/uploads/2015/09/logo_datamaze_website1x.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>422</importID>
+      <name>Beantech</name>
+      <label>SQLSAT707 Sponsor</label>
+      <url>http://www.beantech.it</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/921/EventSponsor_14418.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2021</importID>
+      <name>TimeXtender</name>
+      <label>SQLSAT707 Sponsor</label>
+      <url>http://www.timextender.com</url>
+      <imageURL>https://www.cws.it/img/assets/timex.jpg_jNQeh.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>13</importID>
+      <name>Quest Software</name>
+      <label>SQLSAT707 Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://www.sqlsaturday.com/images/sqlsaturday/eventsponsors/Quest_170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1197</importID>
+      <name>thinkIT</name>
+      <label>Personal Sponsor</label>
+      <url>http://www.thinkit.it/</url>
+      <imageURL>https://www.thinkit.it/public/pers/files/images/logo-thinkit.png.pagespeed.ce.PaCP6hz0O7.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>70265</importID>
+      <name>Sergio Govoni</name>
+      <label>
+      </label>
+      <description>Since 1999 Sergio Govoni has been a software developer; in 2000 he got a degree in Computer Science at "Università degli Studi" in Ferrara (Italy). He has worked for over 18 years in Centro Software, a software house that produces the best ERP for manufacturing companies that are export oriented. Now, he manages the development product team and he is constantly involved on several team projects, where he focues his attention on the architecture and the mission-critical technical details. Since 2016 he is the vice president of the UGISS (www.ugiss.org). For the provided help to technical communities and for sharing his own experience, since 2010 he has received the Microsoft Data Platform MVP award.</description>
+      <twitter>@segovoni</twitter>
+      <linkedin>http://www.linkedin.com/in/sgovoni</linkedin>
+      <ContactURL>https://mvp.microsoft.com/it-it/PublicProfile/4029181?fullName=Sergio%20Govoni</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@segovoni</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71083</importID>
+      <name>Jan Mulkens</name>
+      <label>
+      </label>
+      <description>Jan Mulkens is a Microsoft MVP in AI, a Solution Expert at Ordina Belgium, and a Microsoft Data Platform  BI Consultant.
+In his spare time, he is a speaker at conferences and user groups in Europe and he organizes two user groups and a conference in Belgium.
+Power BI Days conference (www.powerbidays.com), Belgium Microsoft Advanced Analytics User Group (bit.ly/msaaug), and Flemish Power BI User Group (meetup.powerbibelgium.com).</description>
+      <twitter>https://twitter.com/JanMulkens</twitter>
+      <linkedin>https://www.linkedin.com/in/janmulkens</linkedin>
+      <ContactURL>http://www.janmulkens.be</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/JanMulkens</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71307</importID>
+      <name>Luca Zavarella</name>
+      <label>
+      </label>
+      <description>Mentor  Technical Director at SolidQ Italy. He loves BI, Advanced Analytics and Machine Learning. He plays piano in the free time.</description>
+      <twitter>@lucazav</twitter>
+      <linkedin>https://www.linkedin.com/in/lucazavarella/</linkedin>
+      <ContactURL>http://blogs.solidq.com/en/author/lzavarella/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@lucazav</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72420</importID>
+      <name>Luca Bruni</name>
+      <label>
+      </label>
+      <description>Luca Bruni ottiene la Laurea Magistrale in Ingegneria Informatica presso il Politecnico di Milano (sede di Como) nel 2006. Ha lavorato in diverse aziende coprendo vari ruoli: Software Developer, Consultant, Project Manager. Dal 2010 lavora in qualità di Software  Data Architect presso una nota software house svizzera. Lavora con SQL Server dalla versione 2000 e da Dicembre 2016 è Contributor UGISS.</description>
+      <twitter>@mrg3d</twitter>
+      <linkedin>https://www.linkedin.com/in/mrg3d/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@mrg3d</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>74309</importID>
+      <name>Gianluca Sartori</name>
+      <label>
+      </label>
+      <description>Gianluca Sartori is a Data Platform MVP, independent consultant and performance tuning specialist. He has been working in the software industry since 1999 and has been working with SQL Server ever since. He also works as a SQL Server trainer and in his spare time he writes technical articles and participates the SQL Server forums. Gianluca enjoys presenting SQL Server topics at conferences in Europe and in Italy in particular. He is currently working as lead DBA at a famous Formula 1 team.</description>
+      <twitter>http://twitter.com/#!/spaghettidba</twitter>
+      <linkedin>http://it.linkedin.com/pub/gianluca-sartori/23/50b/a12</linkedin>
+      <ContactURL>http://spaghettidba.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/#!/spaghettidba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72377</importID>
+      <name>Marco Pozzan</name>
+      <label>
+      </label>
+      <description>Consultant and trainer in business intelligence, analytics and data mining on Methode . Teacher for ITS courses of data warehouse at the University of Pordenone.</description>
+      <twitter>@marcopozzan</twitter>
+      <linkedin>https://it.linkedin.com/in/marcopozzan</linkedin>
+      <ContactURL>http://www.marcopozzan.it</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@marcopozzan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71931</importID>
+      <name>Marco Parenzan</name>
+      <label>
+      </label>
+      <description>Marco Parenzan is an independent Cloud and IoT Architect and .NET Developer. 
+He has been awarded as a MVP on Microsoft Azure since 2014. 
+He is a speaker in major community events in Italy about Azure and .NET development.
+He is a community lead for 1nn0va, an official Microsoft community in Pordenone, Italy. 
+He has written a book on Azure in 2016. 
+He loves developing retrogames and reading comix.
+
+Marco Parenzan è professionista per le architetture Cloud e IoT e lo sviluppo in .NET. 
+Ha ricevuto il titolo di MVP su Microsoft Azure dal 2014. 
+È uno speaker in Italia su Azure e lo sviluppo di .NET. 
+E' un community lead per 1nn0va, una community ufficiale Microsoft a Pordenone, in Italia. 
+Ha scritto un libro su Azure nel 2016.</description>
+      <twitter>@marco_parenzan</twitter>
+      <linkedin>https://it.linkedin.com/in/marcoparenzan</linkedin>
+      <ContactURL>https://www.linkedin.com/in/marcoparenzan/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@marco_parenzan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>74382</importID>
+      <name>Alessandro Falchetti</name>
+      <label>
+      </label>
+      <description>Quest Pre – Sales Information Management for Italian and Spanish market from July 2017
+Database solution expert focus on replication and monitor solution. Provide product and industry expertise to the sale team by demonstrating solution utilizing Shareplex Foglight Toad and other software products to satisfy critical business requirements of the customer. Strong technical knowledge and great problem solving ability complete the entire professional profile</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70154</importID>
+      <name>Marco Obinu</name>
+      <label>
+      </label>
+      <description>Curious by nature, talkative geek who can speak in front of a public or a camera, in love with technology, primarily SQL Server and Azure.
+I'd like to understand how things work and to solve problems by myself.</description>
+      <twitter>omegamadlab</twitter>
+      <linkedin>https://www.linkedin.com/in/marco-obinu-omegamadlab/</linkedin>
+      <ContactURL>https://www.omegamadlab.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=omegamadlab</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71529</importID>
+      <name>Patrick Keisler</name>
+      <label>
+      </label>
+      <description>I#39;m a husband, a father, an Atlanta Braves fan, and oh yeah...I know a thing or two about Microsoft SQL Server, because I work for Microsoft supporting it as a Premier Field Engineer. I have over 15 years of DBA experience and have gained considerable knowledge in SQL Server by supporting lots of different type of applications ranging from high-volume trading applications to large data warehouses. I hold several certifications: MCSE: Data Platform, MCITP SQL 2008 Admin and Dev, and Security+.</description>
+      <twitter>@PatrickKeisler</twitter>
+      <linkedin>https://www.linkedin.com/in/patrickkeisler</linkedin>
+      <ContactURL>http://www.patrickkeisler.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@PatrickKeisler</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70017</importID>
+      <name>Jonathan Stewart</name>
+      <label>
+      </label>
+      <description>Jonathan Stewart is a Business Intelligence consultant specializing in data visualization, data warehousing, and data management technologies. An advocate for educating others, he is a public speaker, teacher and blogger, continually teaching people about the Microsoft BI Stack. Since 2000, he has been working in the database field with industry leaders in healthcare, manufacturing, financial, insurance and federal, state and local governments.
+
+Jonathan is very active in the community. He has presented on SQL Server, SSIS, Reporting Services, Power BI and Business Intelligence at numerous SQLSaturday events, local user groups, and conferences throughout the United States and around the world. He participates in webcasts, podcasts, and on</description>
+      <twitter>sqllocks</twitter>
+      <linkedin>https://www.linkedin.com/in/sqllocks/</linkedin>
+      <ContactURL>https://sqllocks.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqllocks</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70262</importID>
+      <name>Dejan Sarka</name>
+      <label>
+      </label>
+      <description>Dejan Sarka, MCT and Data Platform MVP, is an independent trainer and consultant that focuses on development of database and business intelligence applications. Besides projects, he spends about half of his time on training and mentoring. He is the founder of the Slovenian SQL Server and .NET Users Group. Dejan Sarka is the main author or co-author of eighteen books about databases and SQL Server. Dejan Sarka has also developed many courses and seminars for Microsoft, Radacad, SolidQ, and Pluralsight.</description>
+      <twitter>DejanSarka</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.solidq.com/dsarka/Home.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DejanSarka</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71032</importID>
+      <name>Danilo Dominici</name>
+      <label>
+      </label>
+      <description>Danilo Dominici, lavora con SQL Server sin dalla versione 6.5. Si occupa principalmente di progettazione, implementazione ed ottimizzazione architetturale, monitoring e performance tuning.  Alterna le attivit#224; di consulenza a quelle di formatore, speaker ed autore. Microsoft Certified Trainer dal 2000 e SQL Server MVP dal 2014, #232; anche co-leader del PASS Global Italian Virtual Chapter, lo user group quot;virtualequot; in lingua italiana dedicato a SQL Server.</description>
+      <twitter>@danilo_dominici</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@danilo_dominici</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72261</importID>
+      <name>Emanuele Zanchettin</name>
+      <label>
+      </label>
+      <description>Emanuele Zanchettin, after studying in Computer Engineering, began his career with DB2 in the banking sector in 1998. After a few years and a change of scope of application, he encountered Access and Oracle with which he subsequently worked for several years in data access tuning and database design for new application features. Since 2007 he has also launched into the SQLServer world 2K, 2005, 2008* and 201* and more importantly, since 2011, into Azure SQL Database (SQL Azure). In order to have a greater capacity for assessment and familiarity with the various technologies that the market offers, he has deepened his knowledge to include MySQL and DocumentDB. Today Emanuele is mainly involved in IT projects and database management.</description>
+      <twitter>@_thinkIT_</twitter>
+      <linkedin>http://it.linkedin.com/pub/emanuele-zanchettin/18/921/34/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@_thinkIT_</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70052</importID>
+      <name>Tomaž Kaštrun</name>
+      <label>
+      </label>
+      <description>Tomaž Kaštrun is BI developer and data analyst. His main focus are data mining, T-SQL development, programming and query optimization. He has been working with SQL server since version 2000. He is Microsoft Certified Professional, Microsoft MVP for data platform and Microsoft trainer.</description>
+      <twitter>@tomaz_tsql</twitter>
+      <linkedin>http://www.linkedin.com/tomaz.kastrun</linkedin>
+      <ContactURL>http://www.tomaztsql.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@tomaz_tsql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70013</importID>
+      <name>Rudi Bruchez</name>
+      <label>
+      </label>
+      <description>(same as before)</description>
+      <twitter>nepasderanger</twitter>
+      <linkedin>https://fr.linkedin.com/in/rudibruchez</linkedin>
+      <ContactURL>http://www.babaluga.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=nepasderanger</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71403</importID>
+      <name>Gilberto Zampatti</name>
+      <label>
+      </label>
+      <description>Time ago (a lot of time ago…) an excellent IT pro brought me with him and became my Mentor in the IT wonderland…it was a world full of mainframes…
+I met the Relational theory when there were no commercial RDBMS, and I was spellbound by that “magic”. When Microsoft appeared in the IT market, I felt finally which trek I had to follow. I’m still walking on such road, and in my rucksack I’ve ben putting some other stuff (like SharePoint, for example). My sole regret:  I’ve left the College to consecrate all my time to my job; curiously, since then, I’ve never stop learning…</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>73016</importID>
+      <name>Gianluca Hotz</name>
+      <label>
+      </label>
+      <description>Gianluca Hotz is an independent consultant, trainer, speaker and Mentor specialized in architecture, database design, high availability, capacity planning, performance tuning, system integration and migrations for Microsoft SQL Server. He has been working as a consultant in the IT field since 1993 and with SQL Server since 1996. He is among the original founders of ugiss.org, where he served as vice-president from 2001 to 2016 and he is now serving as president, for his contribution to the community he has been a SQL Server MVP since 1998.</description>
+      <twitter>glhotz</twitter>
+      <linkedin>http://it.linkedin.com/in/ghotz</linkedin>
+      <ContactURL>http://www.ghotz.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=glhotz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70564</importID>
+      <name>Marcelo Fernandes</name>
+      <label>
+      </label>
+      <description>Marcelo Fernandes is SQL Server MVP and has 12+ years experience with databases, specialized in High Availability, critical missions and very large databases. He holds the MCP / MCDBA / MCSA / MCTS / MCITP and MCT certifications, he lives and works in Berlin for an American e-commerce company that sells home goods. He share their knowledge through webcasts, presentations and articles on Microsoft technologies and can be cantacted by email fernandes_dba@hotmail.com or twitter @ marcelodba</description>
+      <twitter>marcelodba</twitter>
+      <linkedin>https://br.linkedin.com/in/marcelodba</linkedin>
+      <ContactURL>http://marcelodba.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=marcelodba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71894</importID>
+      <name>Francesco De Chirico</name>
+      <label>
+      </label>
+      <description>Francesco De Chirico is a consultant, trainer and speaker specialized in modeling and developing complex BI solutions with the Microsoft BI stack. He has been working with SSAS since 2001 and has a strong knowledge of the MDX, DAX and M. He focused on all the Microsoft Data Platform especially on Power BI. Co-leader of the PASS Global Italian Virtual Group and Milan Power BI User Group, regular speaker at events like PASS SQLSaturday, Microsoft Certified Trainer for many years, Francesco holds several Microsoft certifications including the prestigious SSAS Maestro for BI certification (2012) and the Microsoft Professional Program Data Science certification (2017). He is the project creator of the Analysis Services Query Analyzer tool.</description>
+      <twitter>http://twitter.com/fdechirico</twitter>
+      <linkedin>http://www.linkedin.com/in/fdechirico</linkedin>
+      <ContactURL>http://francescodechirico.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/fdechirico</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72299</importID>
+      <name>Francesco Milano</name>
+      <label>
+      </label>
+      <description>I've been working with Microsoft technologies since 2000, and I'm specialized in .NET Framework and SQL Server platform. I focus primarily on back-end development, integration solutions, relational model design and implementation. Starting from 2011 I'm also member of UGISS (Italian SQL Server User Group) and speaker at main italian SQL Server conferences and workshops.</description>
+      <twitter>@_fmilano_</twitter>
+      <linkedin>https://it.linkedin.com/in/fmilano</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@_fmilano_</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70458</importID>
+      <name>Marco Minerva</name>
+      <label>
+      </label>
+      <description>Marco Minerva si è dedicato a .NET fin dalla sua prima introduzione. Attualmente lavora come consulente freelance e si occupa di progettazione e sviluppo di applicativi basati sul Framework .NET, realizzando app per Windows, Xamarin e IoT, e soluzioni Web con ASP.NET, Web API e Azure. Organizza e tiene corsi di formazione. E’ co-fondatore e Community Leader di DotNetToscana. E' speaker ad eventi tecnici di livello nazionale e scrive articoli per riviste. E' Microsoft MVP per la categoria Windows Development.</description>
+      <twitter>https://twitter.com/marcominerva</twitter>
+      <linkedin>https://www.linkedin.com/in/marcominerva</linkedin>
+      <ContactURL>https://marcominerva.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/marcominerva</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70047</importID>
+      <name>Dean Savović</name>
+      <label>
+      </label>
+      <description>Dean is Senior DBA practicing SQL Server since version 7.0 and main areas of interest are performance tuning and troubleshooting SQL Server database. He speaks at Microsoft Windays Croatia, ATD Croatia, SSWUG, KulenDayz Croatia, SQL Saturday events, etc... Primary focus is on OLTP databases with occasional adventures with Business Intelligence. He finished Faculty of Electrical Engineering and Computing and MBA on Faculty of Economics in Zagreb. His premise was that it is very useful to combine technical knowledge with management process knowledge that help us in our everyday work. He works in SPAN which is specialized in data management field on Microsoft SQL Server.</description>
+      <twitter>https://twitter.com/dsavovic</twitter>
+      <linkedin>https://www.linkedin.com/in/dsavovic/</linkedin>
+      <ContactURL>http://www.savovic.com.hr</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dsavovic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>70265</importID>
+      <speakers>
+        <speaker>
+          <id>70265</id>
+          <name>Sergio Govoni</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>SQL Server 2017 Graph Database</title>
+      <description>SQL Server offre da sempre gli strumenti per gestire dati gerarchici e relazioni tra le entità. A volte, però, le relazioni tra le entità possono diventare complesse. Pensiamo ad una relazione molti-a-molti, i database relazionali non dispongono di soluzioni native per questo tipo di legame, che viene comunemente implementato con una tabella di associazione. SQL Server 2017, grazie all'introduzione di Graph Database, permette di esprimere certi tipi di query più facilmente rispetto ad un database relazionale puro. In questa sessione verrà fornita un'introduzione a SQL Graph e agli scenari di utilizzo. Nell'ultima demo verrà mostrato come costruire un sistema di raccomandazione per le offerte, in grado di determinare i prodotti consigliati sulla base del prodotto che il cliente sta acquistando, uno scenario tipico di utilizzo di SQL Graph.</description>
+      <startTime>2/17/2018 9:30:00 AM</startTime>
+      <endTime>2/17/2018 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>72299</importID>
+      <speakers>
+        <speaker>
+          <id>72299</id>
+          <name>Francesco Milano</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>Development</name>
+      </location>
+      <title>Columnstore Indexes: what they are, and how to use them</title>
+      <description>La prima apparizione dei ColumnStore Indexes risale a SQL Server 2012 e, nel corso degli anni, l'aggiunta di numerose funzionalità quali indici aggiornabili e continuo incremento delle performance li hanno resi una scelta appetibile in ambito Enterprise sia per carichi di lavoro DWH che OLTP.
+Il recente Service Pack 1 di SQL Server 2016, inoltre, estende l'adozione dei CI con le dovute limitazioni in termini di risorse a tutte le edizioni, Express compresa.
+In questa sessione verranno introdotti i Columnstore Indexes, concentrandosi sulle differenze rispetto ai tradizionali B-Tree, su come utilizzarli al meglio e sulle attenzioni da prestare nel passaggio tra le varie versioni ed edizioni di SQL Server.</description>
+      <startTime>2/17/2018 3:40:00 PM</startTime>
+      <endTime>2/17/2018 4:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71894</importID>
+      <speakers>
+        <speaker>
+          <id>71894</id>
+          <name>Francesco De Chirico</name>
+        </speaker>
+      </speakers>
+      <track>Data Science</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>MDX is still alive! Are you ready for MDX Troubleshooting 2.0 ?</title>
+      <description>Il linguaggio MDX è ancora vivo e vegeto sia perché in molti scenari il paradigma multidimensionale rappresenta ancora la scelta migliore per un nuovo progetto di BI, sia per il rilevante numero di progetti in produzione utilizzati quotidianamente da aziende di tutti i settori. Ma per garantire le migliori performance possibili occorre avere dimestichezza con le tecniche e gli strumenti necessari all’attività di troubleshooting. Tale attività richiede profonde conoscenze di MDX e di Analysis Services, e l’esecuzione ripetitiva di molte attività manuali con strumenti diversi, risultando pertanto complessa, dispendiosa e soggetta ad errori. Ma ora tutto questo è cambiato ed in questa sessione vedremo come, grazie al nuovo tool Analysis Services Query Analyzer, potremo scordarci il Profiler, il comando Clear Cache e tutte le atre attività “old style” e, direttamente dal Management Studio, vedere cosa accade dietro le quinte durante l’esecuzione delle nostre query MDX!</description>
+      <startTime>2/17/2018 3:40:00 PM</startTime>
+      <endTime>2/17/2018 5:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70262</importID>
+      <speakers>
+        <speaker>
+          <id>70262</id>
+          <name>Dejan Sarka</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Data Science</name>
+      </location>
+      <title>SQL Server 2017: Data Science with Python or R?</title>
+      <description>SQL Server 2016 brought support or the R language. SQL Server 2017 added a new language to the list, the Python language. Both languages target advanced analytics scenarios, popularly known as data science. For a SQL Server professional who wants to move in the data science area, the first question is which language to choose. In this presentation, you will learn basics about both languages. We will try to solve the same problem with both languages. This way, through demos with a lot of explanation, you will realize the most important differences between the two competing languages. You will understand which one is more appropriate for you to start with.</description>
+      <startTime>2/17/2018 3:40:00 PM</startTime>
+      <endTime>2/17/2018 4:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71403</importID>
+      <speakers>
+        <speaker>
+          <id>71403</id>
+          <name>Gilberto Zampatti</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Data Science</name>
+      </location>
+      <title>Integrazione tra PowerBI e Reporting Services: il perché ed il come</title>
+      <description>PowerBI è uno strumento di reportistica (o meglio, di visualizzazione) in continua evoluzione. Non è tuttavia pensato come piattaforma sostitutiva dei più consolidati Reporting Services. Anzi: PowerBI e Reporting Services hanno, nelle loro versioni più recenti (da SQL Server 2016 in poi), la possibilità di integrarsi, consentendo di collocare in Dashboard di PowerBI reports pubblicati su Reporting Services. Si può così disporre di un sito centralizzato nel cloud per rendere progressivamente più uniforme ed accessibile l’insieme di reports e visualizzazioni che costituiscono l’accesso alla Business Intelligence della nostra Azienda. Questa sessione illustra i prerequisiti e le procedure necessarie a raggiungere questo obiettivo.</description>
+      <startTime>2/17/2018 2:30:00 PM</startTime>
+      <endTime>2/17/2018 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>72261</importID>
+      <speakers>
+        <speaker>
+          <id>72261</id>
+          <name>Emanuele Zanchettin</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>JSON before and after SQL Server 2016</title>
+      <description>The JavaScript Object Notation format, known simply as JSON, has now become a standard in data interchange between client-server applications, it is also used to store information in non-relational databases and the SQL Server 2016 engine handles it natively . However, today, not everyone has passed to the latest version of SQL Server, however, it is possible to process the JSON format even with earlier versions: in this session, it is confident with this format and illustrates the non-native mode that allows you to be ready in the moment of the upgrade to 2016 (or later) with a few simple moves. Finally, with a few simple examples, you will find some tips on how to use JSON in an advanced way with SQL Server 2016.</description>
+      <startTime>2/17/2018 4:50:00 PM</startTime>
+      <endTime>2/17/2018 5:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>74309</importID>
+      <speakers>
+        <speaker>
+          <id>74309</id>
+          <name>Gianluca Sartori</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Administration</name>
+      </location>
+      <title>Responding to Extended Events in near real-time</title>
+      <description>Extended Events provide deep insight into SQL Server's behavior and allow us to gather information not available by other means. However, compared to other technologies such as SQL Trace and Event Notifications, Extended Events don't seem to provide a way to react to the events as soon as they happen.
+
+ 
+
+In this session we will see how the Extended Events streaming API can be used to process events in a near real-time fashion. We will demonstrate how this technology enables new possibilities to solve real world problems, such as capturing and notifying deadlocks or blocking sessions. We will also offer a different approach to analyzing captured events, without shredding XML files.</description>
+      <startTime>2/17/2018 9:30:00 AM</startTime>
+      <endTime>2/17/2018 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>71931</importID>
+      <speakers>
+        <speaker>
+          <id>71931</id>
+          <name>Marco Parenzan</name>
+        </speaker>
+      </speakers>
+      <track>Cloud</track>
+      <location>
+        <name>Administration</name>
+      </location>
+      <title>Azure Functions e Logic Apps: i tuoi coltellini svizzeri per gestire i tuoi dati in un SQL Database</title>
+      <description>Hai più o più SQL Database da gestire. A volte è necessario importare, manipolare, esportare i dati, è necessario lavorare sullo schema. È necessario pianificare alcune attività, è necessario attendere alcuni eventi prima di eseguire alcune attività. O devi inviare o gestire notifiche.
+In tutte queste situazioni, una scarsa piccola conoscenza dei linguaggi di programmazione, come C#, aiuta a svolgere queste attività in modo più semplice e veloce. E si esegue il codice direttamente nel cloud.
+Quindi introduceremo le minime conoscenze .NET necessarie, come scrivere una Function App e le funzioni e come creare workflow di manipolazione dei dati.</description>
+      <startTime>2/17/2018 11:00:00 AM</startTime>
+      <endTime>2/17/2018 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>73016</importID>
+      <speakers>
+        <speaker>
+          <id>73016</id>
+          <name>Gianluca Hotz</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>SQL Server Database Engine 2017 Enhancements</title>
+      <description>Ogni nuovo rilascio di SQL Server introduce parecchie novità, molte delle quali legate a componenti o funzionalità specifiche del prodotto. Questa sessione riguarda le novità legate al Database Engine con approfondimenti sulle nuove funzionalità T-SQL e di diagnostica/miglioramento delle prestazioni. Faremo, inoltre, una breve panoramica su temi quali la versione per Linux e il supporto ai grafi il cui approfondimento necessita di intere sessioni dedicate.</description>
+      <startTime>2/17/2018 11:00:00 AM</startTime>
+      <endTime>2/17/2018 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>72420</importID>
+      <speakers>
+        <speaker>
+          <id>72420</id>
+          <name>Luca Bruni</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Administration</name>
+      </location>
+      <title>Introducing SQL Operations Studio</title>
+      <description>Il 2017 è stato un anno ricco di novità per quanto riguarda SQL Server. Una delle principali riguarda la cosiddetta "General availability" ovvero la possibilità di installare e distribuire il database engine anche su piattaforme non-Microsoft come ad esempio Linux e Docker. 
+Anche gli strumenti di lavoro stanno adenguandosi a tale cambiamento ed hanno intrapreso questa strada. A partire da Novembre 2017 infatti, un nuovo tool per la gestione del ciclo di vita delle nostre basi dati (SQL Operations Studio) è stato rilasciato (in preview). In questa sessione cercheremo di esplorarne le funzionalità di base e di meglio comprenderne le prospettive future.</description>
+      <startTime>2/17/2018 2:30:00 PM</startTime>
+      <endTime>2/17/2018 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71032</importID>
+      <speakers>
+        <speaker>
+          <id>71032</id>
+          <name>Danilo Dominici</name>
+        </speaker>
+      </speakers>
+      <track>Data Science</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>Gestire SSRS con Powershell</title>
+      <description>Powershell consente di automatizzare, attraverso i suoi script, le attività di manutenzione di SQL Server. Reporting Services non fa eccezione. SSRS espone dei web services attraverso i quali è possibile amministrare o ottenere il risultato dei reports in vari formati. In questa sessione vedremo come sfruttare la combinazione Powershell + SSRS web services per gestire le più comuni attività amministrative, come ad esempio importare o esportare dei reports, visualizzare o impostare i parametri di un report, schedulare la produzione di un report da Task scheduler.</description>
+      <startTime>2/17/2018 12:10:00 PM</startTime>
+      <endTime>2/17/2018 1:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70047</importID>
+      <speakers>
+        <speaker>
+          <id>70047</id>
+          <name>Dean Savović</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Development</name>
+      </location>
+      <title>Parameter Sniffing on SQL Server</title>
+      <description>When is good, when bad for your database performance? How can we use the good sides, and how avoid bad sides of parameter sniffing? Answers to this questions will be provided during the session with lots of demos.</description>
+      <startTime>2/17/2018 11:00:00 AM</startTime>
+      <endTime>2/17/2018 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70458</importID>
+      <speakers>
+        <speaker>
+          <id>70458</id>
+          <name>Marco Minerva</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>Cloud</name>
+      </location>
+      <title>Lavorare con database SQL Server con .NET Standard 2.0</title>
+      <description>Grazie a .NET Standard 2.0, oggi siamo finalmente in grado di collegarci in modo nativo a database SQL Server (su Windows o Linux) e SQL Azure da qualunque piattaforma: Desktop, Web, .NET Core, UWP e persino Xamarin. Nel corso di questa sessione mostreremo come sfruttare al meglio questa caratteristica e quali strumenti ci possono aiutare nello sviluppo di tutti i giorni.</description>
+      <startTime>2/17/2018 2:30:00 PM</startTime>
+      <endTime>2/17/2018 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70013</importID>
+      <speakers>
+        <speaker>
+          <id>70013</id>
+          <name>Rudi Bruchez</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Development</name>
+      </location>
+      <title>What can you do with SQL Server on Linux?</title>
+      <description>The best RDBMS meets the best Operating System. But can you leverage all the power of SQL Server on Linux? Can you create AlwaysOn Availability Groups on Linux? Can you use Integration Service (SSIS) to exchange data ? Is Change Data Capture (CDC) available? Can you use Active Directory Authentication? You will need to attend this session to get the answers!</description>
+      <startTime>2/17/2018 9:30:00 AM</startTime>
+      <endTime>2/17/2018 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>70052</importID>
+      <speakers>
+        <speaker>
+          <id>70052</id>
+          <name>Tomaž Kaštrun</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Data Science</name>
+      </location>
+      <title>Azure Data Lake Analytics</title>
+      <description>Azure Data Lake Analytics is a new service, built to make big data analytics scalable, performance efficient and distributed and easy. Service is focused on data usability and analytics, rather than setting up the infrastructure.
+
+Besides scaling and faster deployment, it is affordable and cost effective and easy to integrate into your existing IT environment.
+
+For the demo, we will look at the image recognition and emotion detection.</description>
+      <startTime>2/17/2018 11:00:00 AM</startTime>
+      <endTime>2/17/2018 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70017</importID>
+      <speakers>
+        <speaker>
+          <id>70017</id>
+          <name>Jonathan Stewart</name>
+        </speaker>
+      </speakers>
+      <track>Data Science</track>
+      <location>
+        <name>Development</name>
+      </location>
+      <title>An introduction to the magical world of BIML!</title>
+      <description>Ever feel like you are just doing busy work while creating new SSIS packages?  Feel like you are doing the same thing over and over while changing the names to protect the innocent?  Ever wonder if there is a better way?  Well wonder no more.  Come learn about the magical world of BIML and how it can help transform your environment by increasing your productivity while reducing the possibility of errors.  Come with intrigue and leave with a fundamental understanding of BIML!</description>
+      <startTime>2/17/2018 12:10:00 PM</startTime>
+      <endTime>2/17/2018 1:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70154</importID>
+      <speakers>
+        <speaker>
+          <id>70154</id>
+          <name>Marco Obinu</name>
+        </speaker>
+      </speakers>
+      <track>Cloud</track>
+      <location>
+        <name>Administration</name>
+      </location>
+      <title>SQL Server performance tuning on Azure IaaS</title>
+      <description>While creating SQL Server VMs via Azure gallery templates is really cool, these pre-built instaces are meant to be used in a large variety of scenarios and consequently use generic settings which aren't optimized from a performance point of view.
+Let's see together how to maximize performance (and minimize costs) of our SQL VMs on Azure, following Microsoft best practices and some additional tips.</description>
+      <startTime>2/17/2018 12:10:00 PM</startTime>
+      <endTime>2/17/2018 1:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>74382</importID>
+      <speakers>
+        <speaker>
+          <id>74382</id>
+          <name>Alessandro Falchetti</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Administration</name>
+      </location>
+      <title>GDPR and Database Management</title>
+      <description>In this presentation you will see how GDPR implies improvement of Database Management in terms of monitoring, replication, back up. Discover examples of solutions and attend live demo of existing solutions, to monitor not only performance but also user access, down to tables accessed  and objects used</description>
+      <startTime>2/17/2018 4:50:00 PM</startTime>
+      <endTime>2/17/2018 5:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>72377</importID>
+      <speakers>
+        <speaker>
+          <id>72377</id>
+          <name>Marco Pozzan</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Data Science</name>
+      </location>
+      <title>Power BI:  Dal dato grezzo al modello di analisi con M e DAX</title>
+      <description>Avrete probabilmente visto molti scenari in cui viene utilizzato Power BI. Tuttavia la maggior parte delle demo si basano su scenari in cui tutto funziona con un drag and drop dei campi del modello.  Ma cosa succede quando il dato non è perfetto o il vostro problema di business è più complesso?  In questa sessione, si vedranno come risolvere le problematiche che inevitabilmente si andrà in contro quando si torna al lavoro. Questa sessione vi darà la possibilità di vedere come si modellano i dati per risolvere i problemi del mondo reale con Power BI.</description>
+      <startTime>2/17/2018 12:10:00 PM</startTime>
+      <endTime>2/17/2018 1:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71307</importID>
+      <speakers>
+        <speaker>
+          <id>71307</id>
+          <name>Luca Zavarella</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Data Science</name>
+      </location>
+      <title>Decision Trees: the Machine Learning "Magic" Unveiled</title>
+      <description>Spesso un algoritmo di Machine Learning è visto come una di quelle armi magiche in grado di rivelare possibili scenari futuri a chi la detiene. In verità si tratta di applicazioni dirette di concetti di matematica e statistica, che a volte generano come output dei modelli complessi da interpretare. Esistono però dei modelli predittivi basati su alberi decisionali che sono davvero semplici da comprendere. In questa sessione verrà spiegato cosa c'è dietro ad un modello predittivo di questo tipo, chiarendo il tutto con pratici esempi realizzati in R.</description>
+      <startTime>2/17/2018 9:30:00 AM</startTime>
+      <endTime>2/17/2018 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>70564</importID>
+      <speakers>
+        <speaker>
+          <id>70564</id>
+          <name>Marcelo Fernandes</name>
+        </speaker>
+      </speakers>
+      <track>Cloud</track>
+      <location>
+        <name>Administration</name>
+      </location>
+      <title>High availability for SQL Server using Azure as DR site</title>
+      <description>In this session we will present the union of the local environment and the cloud and show the integration between these environments. The cloud is already a reality and we still have several environments that must remain in local environments due to legislation or company rules. In this session you will see that it is possible to maintain both environments.</description>
+      <startTime>2/17/2018 3:40:00 PM</startTime>
+      <endTime>2/17/2018 3:55:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71083</importID>
+      <speakers>
+        <speaker>
+          <id>71083</id>
+          <name>Jan Mulkens</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Data Science</name>
+      </location>
+      <title>Practical SQL Server Machine Learning Services</title>
+      <description>Admit to yourself that you’ve seen enough basic “R is coming to SQL Server” sessions with the same old examples!
+Enough of that, in this session we'll walk through a real SQL Server Machine Learning Services scenario from idea to code and from deployment to monitoring  maintenance.
+Learn how you can easily roll out your own Data Science projects or support the data scientists and analysts at your company.</description>
+      <startTime>2/17/2018 4:50:00 PM</startTime>
+      <endTime>2/17/2018 5:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71529</importID>
+      <speakers>
+        <speaker>
+          <id>71529</id>
+          <name>Patrick Keisler</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Development</name>
+      </location>
+      <title>SQL Audit - Evidence Never Lies</title>
+      <description>We've all heard about massive data breaches from big name companies. As a DBA, you should consider your company's data to be the most valuable assets. So when a data breach happens at your company, will you be able to provide management with the information? If not, then discover how SQL Server Audit can help provide you with an accurate forensic analysis of who did what to your data. In this session, we'll cover what SQL Audit can capture, how to set it up for both on-premise SQL Servers and Azure SQL Database, and finally produce reports from it.</description>
+      <startTime>2/17/2018 4:50:00 PM</startTime>
+      <endTime>2/17/2018 5:50:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,491 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #12 - Portland 2009</name>
+    <startDate>6/6/2009 12:00:00 AM</startDate>
+    <attendeeEstimate>175</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>Free training event for SQL Server professionals and those interested in SQL Server</description>
+    <twitterHashtag>#sqlsat12</twitterHashtag>
+    <venue>
+      <name>Mt. Hood Community College</name>
+      <street>26000 S.E. Stark Street</street>
+      <city>Portland</city>
+      <state>Oregon</state>
+      <zipcode>97030</zipcode>
+      <longitude>-122.4816513</longitude>
+      <latitude>45.5191498</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>550</importID>
+      <name>Database Architechs</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.dbarchitechs.com/</url>
+      <imageURL>https://www.pdxvbug.com/pdximages/dbarc_logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>21</importID>
+      <name>Pearson Education</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.informit.com/</url>
+      <imageURL>https://www.informit.com/display/InformIT/images/psts/User_Group_Logo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>9</importID>
+      <name>Apex Systems, Inc</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.apexsystemsinc.com/</url>
+      <imageURL>https://i.imgur.com/sFutFwZ.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1</importID>
+      <name>Confio</name>
+      <label>Platinum Sponsorship</label>
+      <url>http://www.confio.com</url>
+      <imageURL>https://www.pass.org/images/resized-confio_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>609</importID>
+      <name>End to End Training</name>
+      <label>Platinum Sponsorship</label>
+      <url>http://www.endtoendtraining.com</url>
+      <imageURL>https://www.endtoendtraining.com/images/endtoendlogo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>766</importID>
+      <name>JumpstartTV.com</name>
+      <label>Platinum Sponsorship</label>
+      <url>http://www.jumpstarttv.com</url>
+      <imageURL>https://www.jumpstarttv.com/images/header_logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>35396</importID>
+      <name>Rob Garrison</name>
+      <label>
+      </label>
+      <description>Rob is a Data Architect working for Fiserv in Portland, Oregon. He has over twenty years of IT experience, with most of that time focused on transactional SQL Server. He has a number of articles published and speaks regularly at user groups and other events.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://persistencevision.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35345</importID>
+      <name>Paul Turley</name>
+      <label>
+      </label>
+      <description>Paul is a Principal Consultant for Pragmatic Works, a Mentor and Microsoft Data Platform MVP. He consults, writes, speaks, teaches  blogs about business intelligence and reporting solutions. He works with companies around the world to model data, visualize and deliver critical information to make informed business decisions; using the Microsoft data platform and business analytics tools. He is a Director of the Oregon Data Community PASS chapter  user group, the author  and lead author of Professional SQL Server 2016 Reporting Services and 14 other titles from Wrox  Microsoft Press.  He holds several certifications including MCSE for the Data Platform and BI.</description>
+      <twitter>paul_turley</twitter>
+      <linkedin>https://www.linkedin.com/in/pturley</linkedin>
+      <ContactURL>http://www.sqlserverbiblog.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=paul_turley</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35128</importID>
+      <name>Greg Larsen</name>
+      <label>
+      </label>
+      <description>Greg Larsen has been working with SQL Server since 1999. He has authored 100's of articles related to SQL Server. He holds a MCSE Data Management and Analytics.  Greg also a SQL Server Consultant, adjunct professor and technical writer.</description>
+      <twitter>GregoryALarsen</twitter>
+      <linkedin>https://www.linkedin.com/in/grlarsen/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=GregoryALarsen</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35414</importID>
+      <name>Ryan Lence</name>
+      <label>
+      </label>
+      <description>Ryan Lence works as an independent Senior Database Engineer in Portland, Oregon. Ryan enjoys the challenges associated with designing stable, scalable, and redundant environments that enable businesses and their clients to focus on their primary mission. With over 12 years of Enterprise experience and numerous IT certifications Ryan's primary focus is SQL 2008. Ryan is currently working towards his MCM in SQL 2008.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://dbtune.net/default.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35346</importID>
+      <name>Paul Bertucci</name>
+      <label>
+      </label>
+      <description>Paul Bertucci is the founder of Data by Design, LLC (www.dataxdesign.com – formerly Database Architechs), a global database consulting firm with offices in the United States and Paris, France. Former Chief Architect/Shared Services Director for Autodesk (BI/DW/ODS, Big Data, Identity Management, SOA, Integration (EAI amp; ETL), MDM, Collaboration/Social, SaaS platforms, and Enterprise Architecture). Former Chief Data Architect at Symantec. Author SQL Server Unleashed book series, SQL Server High Availability, and SQL Performance and Tuning.  Frequent speaker at Database and MDM conferences around the globe. Formal education: UC. Berkeley, Electrical Engineering and Computer Science.</description>
+      <twitter>@ptbertucci</twitter>
+      <linkedin>http://www.linkedin.com/in/paul-bertucci-59738b</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ptbertucci</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35110</importID>
+      <name>Eric  Wilson</name>
+      <label>
+      </label>
+      <description>Eric has designed and implemented database-centric software solutions for 14 years in a variety of industries spanning financial, publication, e-commerce, and manufacturing. His passion is how to couple fundamental theory (principles) with pragmatic tradeoffs to achieve the best results. He has been a Developer, a DBA, and a Data Architect, including many years as team lead or manager. He has led both OLTP and DSS projects using SQL Server. In his spare time he is working toward a master's degre</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35397</importID>
+      <name>Rob Garrison</name>
+      <label>
+      </label>
+      <description>Rob is a Data Architect working for Fiserv in Portland, Oregon. He has over twenty years of IT experience, with most of that time focused on transactional SQL Server. He has a number of articles published and speaks regularly at user groups and other events.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://persistencevision.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35344</importID>
+      <name>Paul Turley</name>
+      <label>
+      </label>
+      <description>Paul is a Principal Consultant for Pragmatic Works, a Mentor and Microsoft Data Platform MVP. He consults, writes, speaks, teaches  blogs about business intelligence and reporting solutions. He works with companies around the world to model data, visualize and deliver critical information to make informed business decisions; using the Microsoft data platform and business analytics tools. He is a Director of the Oregon Data Community PASS chapter  user group, the author  and lead author of Professional SQL Server 2016 Reporting Services and 14 other titles from Wrox  Microsoft Press.  He holds several certifications including MCSE for the Data Platform and BI.</description>
+      <twitter>paul_turley</twitter>
+      <linkedin>https://www.linkedin.com/in/pturley</linkedin>
+      <ContactURL>http://www.sqlserverbiblog.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=paul_turley</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35236</importID>
+      <name>Joshua Jin</name>
+      <label>
+      </label>
+      <description>Joshua Jin is a frequent speaker at SQL PASS local chapter in Portland, Oregon. He holds MCITP Business Intelligence Developer, Database Administrator, and Database Developer certifications for SQL Server 2005.  Joshua is one of contributing authors of “Professional SQL Server 2005 Performance Tuning” book by Wiley/Wrox.  At Intel IT, currently he is the development lead of a large SQL BI project for a private Cloud.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35443</importID>
+      <name>Steve Moss</name>
+      <label>
+      </label>
+      <description>Steve Moss is the Data Architect at Ecova, the total energy and sustainability management company whose sole purpose is to see more, save more and sustain more for our clients.
+
+Steve has been working in IT for over 13 years as a Data Architect, Manager of Database Administration, Sr. DBA and Systems Consultant. He specializes in Microsoft data-centric techologies, including SQL Server, Analysis Services, Integration Services and other associated data technologies. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35048</importID>
+      <name>Buck Woody</name>
+      <label>
+      </label>
+      <description>Born helpless, naked, and unable to provide for himself, Buck Woody overcame these amazing handicaps to become a software developer, data professional, teacher, and a productive invertebrate member of society.</description>
+      <twitter>BuckWoodyMSFT</twitter>
+      <linkedin>http://www.linkedin.com/in/buckwoody</linkedin>
+      <ContactURL>http://buckwoody.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=BuckWoodyMSFT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35385</importID>
+      <name>Rachel Dyer</name>
+      <label>
+      </label>
+      <description>Rachel Dyer, Vice President of Implementation, joined On Demand Analysis® in 2001. She crosses the IT-User gap by playing a bit of both roles. 
+ 
+Rachel is a graduate of Harvard University and Harvard Business School.  
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>35128</importID>
+      <speakers>
+        <speaker>
+          <id>35128</id>
+          <name>Greg Larsen</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>T-SQL Best Practices</title>
+      <description>This session will cover T-SQL coding best practices. The basics on how to code T-SQL statements to optimize your queries will be covered. In this session you will discover some of the common pitfalls that can cause T-SQL statements to run slow. A number of demos will be done to show how by making slight changes in your code will minimize the resources used to process your queries. From this session you will be able to take home a list of T-SQL coding guidelines to help your code more efficient T-SQL statements. 
+</description>
+      <startTime>6/6/2009 12:00:00 AM</startTime>
+      <endTime>6/6/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35414</importID>
+      <speakers>
+        <speaker>
+          <id>35414</id>
+          <name>Ryan Lence</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Sql Server 2008 Compression</title>
+      <description>Improving Performance while reducing storage costs through Compression.
+
+A partial list of items covered are:
+backup Compression Internals,
+how to enable Backup Compression,
+improving Backup Times,
+reducing Storage I/O and Space,
+restoring a database with Backup Compression, and what about going to tape?
+
+</description>
+      <startTime>6/6/2009 12:00:00 AM</startTime>
+      <endTime>6/6/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35236</importID>
+      <speakers>
+        <speaker>
+          <id>35236</id>
+          <name>Joshua Jin</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Indexes Implementation in Practice</title>
+      <description>Table index design and implementations have significant impact to the overall database performance and operations. In this session Joshua will take you through simple practical steps for:
+ - Identifying Missing Indexes
+
+ - Implementing Clustered Index
+
+ - Optimizing Multiple Non-Clustered Indexes for a Table
+
+ - Capturing Index Usages
+
+During the session, your questions and sharing your experience/knowledge are highly encouraged.</description>
+      <startTime>6/6/2009 12:00:00 AM</startTime>
+      <endTime>6/6/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35443</importID>
+      <speakers>
+        <speaker>
+          <id>35443</id>
+          <name>Steve Moss</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Tips, Tricks and Code on Table/Index Partitioning</title>
+      <description>Partitioning is arguably the key feature needed to manage large SQL Server databases. In this presentation I will briefly review the main concepts of partitioning and then will provide information from actual experience in implementing partitioning, including code, tips and lessons learned. It is primarily focused on SQL 2005, but will include a brief discussion of the enhancements in SQL 2008. </description>
+      <startTime>6/6/2009 12:00:00 AM</startTime>
+      <endTime>6/6/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35110</importID>
+      <speakers>
+        <speaker>
+          <id>35110</id>
+          <name>Eric  Wilson</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>XML and Relational Databases</title>
+      <description>Well established relational database principles help us decide when and how to use the XML features in SQL Server. The audience will learn what's missing from the typical understanding of first normal form ("1NF") and how to apply 1NF to XML related database design choices. If you think (like many DBAs) that XML is a curse or (like some developers) that XML is a cure-all, this presentation is for you. Contrary to typical technology presentations, this focuses on what we should do over just a list of features and syntax.</description>
+      <startTime>6/6/2009 12:00:00 AM</startTime>
+      <endTime>6/6/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35397</importID>
+      <speakers>
+        <speaker>
+          <id>35397</id>
+          <name>Rob Garrison</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Understanding SQL Injection (DB Devs and Admins)</title>
+      <description>SQL injection is a term you've heard often, but do you really understand what it means for a database developer or administrator? Can’t you just leave that to the application developers to deal with?
+
+This session will help you understand what SQL injection is, why it is a risk for your database, and how to guard against it.</description>
+      <startTime>6/6/2009 12:00:00 AM</startTime>
+      <endTime>6/6/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35345</importID>
+      <speakers>
+        <speaker>
+          <id>35345</id>
+          <name>Paul Turley</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Implementing a Self-Service Reporting Strategy wit</title>
+      <description>For the IT pro and BI solution architects:  How to provide the tools, training and environment to enable your business users to create useful reports.  Train your business users to utilize Report Builder 2.0 and Analysis Services to achieve real business value.  You will learn how to balance IT production reporting solutions from ad-hoc reporting and then migrate mission-critical prototype reports with the involvement of the user community.</description>
+      <startTime>6/6/2009 12:00:00 AM</startTime>
+      <endTime>6/6/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35346</importID>
+      <speakers>
+        <speaker>
+          <id>35346</id>
+          <name>Paul Bertucci</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>High Availability on SQL Server</title>
+      <description>Do you need five 9's of uptime? High Availability of applications and databases are rapidly becoming the "norm" around the globe. It is clearly one of the hottest topics that is important for database administrators, data architects and system architects to fully understand and to plan for. 
+
+This presentation covers assessing, planning, choosing, implementing and administering a high availability solution along with the business justifications of different approaches to achieve high availability (including SQL Clustering, Data Replication, Database Mirroring, and Database Snapshots).</description>
+      <startTime>6/6/2009 12:00:00 AM</startTime>
+      <endTime>6/6/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35385</importID>
+      <speakers>
+        <speaker>
+          <id>35385</id>
+          <name>Rachel Dyer</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Bridging the BI Chasm </title>
+      <description>What does and doesn’t work in a BI implementation? Rachel will cover what makes it work –the people skills, how to choose the right tool set and the best practices process for a successful implementation.Learn how to cross the IT-Business User chasm and build a successful career in an exploding field. </description>
+      <startTime>6/6/2009 12:00:00 AM</startTime>
+      <endTime>6/6/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35344</importID>
+      <speakers>
+        <speaker>
+          <id>35344</id>
+          <name>Paul Turley</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Developing and Designing Super Reports</title>
+      <description>How to create fewer, more capable reports with SQL Server 2008 Reporting Services, using expert patterns and recipes that meet multiple report requirements.  Material will be presented from our forthcoming Wiley book:  Super Reports – Patterns and Recipes for Reporting Services 2005 and 2008.</description>
+      <startTime>6/6/2009 12:00:00 AM</startTime>
+      <endTime>6/6/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35396</importID>
+      <speakers>
+        <speaker>
+          <id>35396</id>
+          <name>Rob Garrison</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Perf Testing 2008’s Transparent Data Encryption</title>
+      <description>Everyone is getting hit with data security requirements. SQL 2005 introduced column-level encryption, but there are drawbacks to using it. The big security news in SQL Server 2008 is Transparent Data Encryption.
+
+On the surface, Transparent Data Encryption seems to be a security "silver bullet". The most important feature (besides securing the data) is that it does not require any changes to your application code.
+
+How much will TDE affect performance in an OLTP environment? This session will help you understand what TDE offers, discuss the list of caveats, and explain the performance testing and results.</description>
+      <startTime>6/6/2009 12:00:00 AM</startTime>
+      <endTime>6/6/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35048</importID>
+      <speakers>
+        <speaker>
+          <id>35048</id>
+          <name>Buck Woody</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Performance Tuning with SQL Server 200</title>
+      <description>Buck Woody, Microsoft's "Real World DBA" will show you how to use the Management Data Warehouse, Data Collector, and the new Activity monitor to fix unit and integration performance issues. </description>
+      <startTime>6/6/2009 12:00:00 AM</startTime>
+      <endTime>6/6/2009 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,252 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #185 - Trinidad 2013</name>
+    <startDate>1/25/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>(GMT-04:00) Caracas, La Paz</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat185</twitterHashtag>
+    <venue>
+      <name>Leon Agostini Conference Hall at the Chamber of Industry and Commerce</name>
+      <street>Columbus Circle, Westmoorings</street>
+      <city>Port Of Spain</city>
+      <state>, Trinidad and Tobago</state>
+      <zipcode>
+      </zipcode>
+      <longitude>-61.555618</longitude>
+      <latitude>10.676995</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>488</importID>
+      <name>Coded Blue Ltd.</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.codedblue.com</url>
+      <imageURL>https://www.codedblue.com/SiteAssets/CBX%20-%20Coded%20Blue%20Logo%20Option%20II%20with%20Tagline%20(XtraSmall).png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>249</importID>
+      <name>Resonance Trinidad</name>
+      <label>Gold Sponsor</label>
+      <url>http://resonancetrinidad.com/</url>
+      <imageURL>https://www.pass.org/files/1ec6e936-9994-44b4-9a3b-c23b8143a4dd.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>641</importID>
+      <name>Fujitsu Caribbean (Trinidad) Limited</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.fujitsu.com/caribbean/</url>
+      <imageURL>https://www.caribbeanjobs.com/Logos/Fujitsu-Caribbean-89.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1185</importID>
+      <name>Teleios Systems Limited</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.teleios-systems.com/</url>
+      <imageURL>https://developingcaribbean.org/wp-content/uploads/2012/01/Teleios-logo-COLOR1-e1326417826259.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1043</importID>
+      <name>@SQLBeat</name>
+      <label>Personal Sponsor</label>
+      <url>http://www.simple-talk.com/blogs/author/195835-sqlbeat/</url>
+      <imageURL>https://www.pass.org/files/1bd39ff4-0af3-49fa-8ce7-977d7d0adc6e.PNG</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>901</importID>
+      <name>Nigel Peter Sammy</name>
+      <label>Blog Sponsor</label>
+      <url>http://www.nigelpsammy.com</url>
+      <imageURL>https://m3.licdn.com/mpr/pub/image-RJaV42fI38w6FiKW_5349NudCO0u7icSRa3pMpHAC_jksQ0dRJapKvGICXmPsltHuHs6/nigel-sammy.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>83</importID>
+      <name>PluralSight</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.pluralsight.com</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2015/11/Pluralsight_logo_novo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Swag Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>23303</importID>
+      <name>Rob Volk</name>
+      <label>
+      </label>
+      <description>Rob Volk is a SQL Server DBA in the Metro Atlanta area since 2001. He also moderates and answers the forums on SQLTeam.com. While an old-time cranky DBA, he no longer considers quot;business intelligencequot; an oxymoron or quot;the cloudquot; as merely atmospheric moisture, and is delightedly dipping his toes into both of these new oceans, and loves to do things in new and and unusual ways.</description>
+      <twitter>sql_r</twitter>
+      <linkedin>https://www.linkedin.com/in/rob-volk-134ba81</linkedin>
+      <ContactURL>http://weblogs.sqlteam.com/robv/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sql_r</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>8856</importID>
+      <name>Aaron Nelson</name>
+      <label>
+      </label>
+      <description>Aaron Nelson is an author, public speaker, blogger, and leader in the community.  He has over 15 years of experience in architecture, Business Intelligence, development, and performance tuning of SQL Server. Aaron has received many certifications and is a six time winner of the Microsoft MVP Award.
+
+Aaron leads the PowerShell Virtual Group of PASS (SQLPS.io), is a board member of PowerShell.org, and is a volunteer at his PASS Local Group, AtlantaMDF.</description>
+      <twitter>SQLvariant</twitter>
+      <linkedin>https://www.linkedin.com/in/sqlvariant</linkedin>
+      <ContactURL>http://sqlvariant.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLvariant</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23305</importID>
+      <name>Rob Volk</name>
+      <label>
+      </label>
+      <description>Rob Volk is a SQL Server DBA in the Metro Atlanta area since 2001. He also moderates and answers the forums on SQLTeam.com. While an old-time cranky DBA, he no longer considers quot;business intelligencequot; an oxymoron or quot;the cloudquot; as merely atmospheric moisture, and is delightedly dipping his toes into both of these new oceans, and loves to do things in new and and unusual ways.</description>
+      <twitter>sql_r</twitter>
+      <linkedin>https://www.linkedin.com/in/rob-volk-134ba81</linkedin>
+      <ContactURL>http://weblogs.sqlteam.com/robv/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sql_r</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11823</importID>
+      <name>Paras Doshi</name>
+      <label>
+      </label>
+      <description>Paras works on Business Intelligence Projects at SolidQ USA. He is Microsoft community contributor award recipient (2011) and a blogger.</description>
+      <twitter>@paras_doshi</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.parasdoshi.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@paras_doshi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15396</importID>
+      <name>Niko Neugebauer</name>
+      <label>
+      </label>
+      <description>Niko Neugebauer is a Data Platform Consultant. A SQL Server MVP with over 20 years of experience in IT, he is passionate about the Microsoft Data Platform and community. Founder of the Portuguese SQL Server User Group and the main organizer of the first SQLSaturday event outside of North America (#78 Portugal), Niko speaks regularly at events such as PASS Summit, SQLRally, SQLBits, and SQLSaturday events around the world. Niko loves sharing information and knowledge and has authored over 130 blog posts on Columnstore Indexes, and regularly contributes to the open-sourced CISL library focused on Columnstore Indexes.</description>
+      <twitter>NikoNeugebauer</twitter>
+      <linkedin>http://pt.linkedin.com/in/webcaravela/</linkedin>
+      <ContactURL>http://www.nikoport.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=NikoNeugebauer</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>23305</importID>
+      <speakers>
+        <speaker>
+          <id>23305</id>
+          <name>Rob Volk</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Tame Your Unruly Data...With Constraints!</title>
+      <description>Never given time or care, never forming good relationships, becoming bloated, corrupt and rife with indistinguishable copies, and all so horrifyingly pervasive in society. But enough about the Kardashians, what about YOUR DATA? If you want to straighten it out and prevent it from going too far in the first place, this session is for you. We will cover constraint basics (not null, check, primary key/unique, foreign keys), provide standard use cases, and address misconceptions about constraint use and performance. We will also look at triggers and application logic and why these are NOT substitutes for (but can effectively complement) good constraint usage. Attendees will enjoy learning how to keep THEIR data off the tabloid page!</description>
+      <startTime>1/25/2013 12:00:00 AM</startTime>
+      <endTime>1/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15396</importID>
+      <speakers>
+        <speaker>
+          <id>15396</id>
+          <name>Niko Neugebauer</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Inheriting a database for Developers, version 2</title>
+      <description>There are very few applications which are being developed from zero, the most are apps are simply inherited from previous development teams. This session serves to show some easy implementable practices to follow after inheriting a database. Those practices allow to check some if the database design was done in regards to the actual data, or if while implementing some of the constraints and checks some tables were left behind. :) The practices shown in this session will allow to check the database design and identify some of the possible performance degradations.</description>
+      <startTime>1/25/2013 12:00:00 AM</startTime>
+      <endTime>1/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>23303</importID>
+      <speakers>
+        <speaker>
+          <id>23303</id>
+          <name>Rob Volk</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Revenge: The SQL!</title>
+      <description>Have you been wronged, cheated, lied to, lied about, or deceived by a coworker? Feel like your DBA position offers no opportunity for revenge? WRONG! This session is a light-hearted exploration of some delightfully mischievous SQL design patterns that will annoy, aggravate, and antagonize anyone who has to work with them...even though they deserved it! Learn how to create tables with no names, columns with duplicate names, and write perfectly valid yet utterly nonsensical SQL. You may never get to use these techniques…but you'll ache for the chance!</description>
+      <startTime>1/25/2013 12:00:00 AM</startTime>
+      <endTime>1/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>8856</importID>
+      <speakers>
+        <speaker>
+          <id>8856</id>
+          <name>Aaron Nelson</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>PowerShell for Data Professionals</title>
+      <description>You’ve heard it said, “If you have to do it twice, automate it.” Cut the learning curve and get a real handle on this powerful automation tool. This session walks you through a dozen scripts to simplify and easily automate time-consuming and tedious elements of your day to day job. This isn’t stuff you’ll use SOMEDAY, these are scripts you can use when you get home tonight. Harness the power of Power Shell to easily find Servers short on space. Script out tables and constraints across all of your databases at once. Backup databases and restore them to a different environment. These tricks and many others will allow PowerShell to simplify your job like no other tool.
+</description>
+      <startTime>1/25/2013 12:00:00 AM</startTime>
+      <endTime>1/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11823</importID>
+      <speakers>
+        <speaker>
+          <id>11823</id>
+          <name>Paras Doshi</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Why Big Data Matters?</title>
+      <description>If you’re wondering about what is Big Data and why does it matter to you and your organization, then come to this talk and get introduced to Big Data and learn about Tools that you could start using right away!</description>
+      <startTime>1/25/2013 12:00:00 AM</startTime>
+      <endTime>1/25/2013 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

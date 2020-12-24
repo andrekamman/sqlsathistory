@@ -1,0 +1,601 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #133 - Costa Rica 2012</name>
+    <startDate>4/14/2012 12:00:00 AM</startDate>
+    <attendeeEstimate>125</attendeeEstimate>
+    <timezone>(GMT-06:00) Saskatchewan</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat133</twitterHashtag>
+    <venue>
+      <name>Hotel Holiday Inn San Jose Downtown</name>
+      <street>Calle 5</street>
+      <city>San Jose</city>
+      <state>, Costa Rica</state>
+      <zipcode>11501</zipcode>
+      <longitude>-84.075872</longitude>
+      <latitude>9.936293</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1038</importID>
+      <name>SherlockTech Staffing</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.sherlocktech.com/staff-seeker/</url>
+      <imageURL>https://www.sherlocktech.com/wp-content/uploads/2014/03/SherlockTechLogoHorizontal.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>3</importID>
+      <name>Idera</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.idera.com/Content/Home.aspx</url>
+      <imageURL>https://www.sqlsaturday.com/images/SQLSaturday/eventsponsors/IDERA170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>670</importID>
+      <name>Grupo Asesor en Informatica</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.grupoasesor.net</url>
+      <imageURL>https://www.simsasys.com/LogoGrupoAsesor.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>327</importID>
+      <name>Grape City Power Tools</name>
+      <label>Bronze Sponsor</label>
+      <url>http://us.grapecity.com/index.htm</url>
+      <imageURL>https://www.pass.org/files/1829453a-4188-46f1-8b95-07e7d7de9f78.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1024</importID>
+      <name>http://www.sapien.com/software/primalscript</name>
+      <label>Swag Contributor</label>
+      <url>http://www.sapien.com/software/primalscript</url>
+      <imageURL>https://www.sapien.com/assets/img/logo3.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Swag Contributor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>18393</importID>
+      <name>Keith Kabza</name>
+      <label>
+      </label>
+      <description>I am the Sr. Program Manager for the Lync Master program at Microsoft.I have over 15 years of Microsoft Infrastructure and Application development experience in the field. The last few years I have primarily focused on Microsoft Unified communications . I was a Senior Consultant for MCS prior to my current role and was a principal partner at VisualGov Solutions a Microsoft Partner for over 10 years.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.msdn.com/b/ucma_development_-_lync_for_developers/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16696</importID>
+      <name>Jesus Gil Velasco</name>
+      <label>
+      </label>
+      <description>Jesus Gil (Dr. Rudo SQL) es un experto en SQL con mas de 10 años de experiencia y un speaker habitual de los SQL-Saturday en Latinoamérica.  Es el primer MVP de SQL Server para México, reconocimiento que ha ganado desde el año 2010.  Es co-autor de la Guia Oficial de Microsoft Corp. para la Migración de SQL Server 2012 y es colaborador de revistas, tanto nacionales como internacionales. Para Microsoft México genero el contenido del diplomado técnico y de Negocios sobre BI con SQL2012.
+</description>
+      <twitter>@jesus_gilv </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jesus_gilv </imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27189</importID>
+      <name>Kenneth Urena</name>
+      <label>
+      </label>
+      <description>Kenneth Ureña is an experienced technologist with 17 years of experience, including 14 years of experience in SQL server. He has worked on versions from SQL Server 7.0 to SQL server 2016. 
+
+Kenneth has performed the role of Database Developer, Database Architect and Database Administrator, always relying on his disaster recovery and performance tuning skills.
+
+He co-leads the Global Spanish Virtual chapter of PASS. PASS LatAm Regional Mentor, he speaks at multiple SQL Server events in both Spanish and English. Kenneth holds multiple SQL server certifications.</description>
+      <twitter>@sqlcr</twitter>
+      <linkedin>https://www.linkedin.com/in/sqlcr</linkedin>
+      <ContactURL>http://www.sqlcr.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlcr</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16786</importID>
+      <name>Joe Healy</name>
+      <label>
+      </label>
+      <description>--- Joe Healy is a Technology Evangelist for Microsoft covering North and Central Florida.  He can be reached at jhealy@microsoft.com or http://blogs.msdn.com/devfish ....</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.msdn.com/devfish</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22306</importID>
+      <name>Ricardo Estrada</name>
+      <label>
+      </label>
+      <description>Soy Ricardo Estrada consultor y conferencista en temas relacionados con SQL, resido en Costa Rica, curioso por la tecnología y apasionado por las bases de datos y sistemas de BI, gusta de compartir conocimiento, buscar soluciones a problemas cotidianos y construir aplicaciones que faciliten las operaciones y decisiones a nivel empresarial, es orgullosamente speaker de los SQL Saturdays de Centroamérica desde el año 2014, además de participar como expositor en los Summit para España y Panamá.
+Mi primer contacto con SQL Server fue con la versión 2000 y no ha dejado de aprender trucos, metodologías, técnicas y estrategias nuevas... y desde entonces... las he compartido en diferentes posts, principalmente la página de fb: SeHablaSQL</description>
+      <twitter>pricardo03@hotmail.com</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://SeHablaSQL</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pricardo03@hotmail.com</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16787</importID>
+      <name>Joe Healy</name>
+      <label>
+      </label>
+      <description>--- Joe Healy is a Technology Evangelist for Microsoft covering North and Central Florida.  He can be reached at jhealy@microsoft.com or http://blogs.msdn.com/devfish ....</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.msdn.com/devfish</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>12050</importID>
+      <name>Carlos Rojas Vargas</name>
+      <label>
+      </label>
+      <description>Carlos Rojas Vargas es Microsoft MVP en SQL-Server desde el año 2001 con 16 años consecutivos de obtener este reconocimiento, trabaja con SQL-Server desde el año 1995. A partir de 1999 se certifica como MCT y comienza a impartir Capacitación certificada Microsoft, actualmente trabaja como Consultor en SQL-Server, Windows Server, Virtualización con Hyper-V, Alta Disponibilidad y Soluciones de Colaboración con Sharepoint en Grupo CMA. En este momento cuenta con las certificaciones MCSA(SQL-Server 2012/2014), MCSA(SQL-Server 2008), MCITPro (Database Adm SQL-Server 2008), MCTS(Sharepoint 2010), MCTS(SQL-Server 2008), MCTS(Windows Server 2008 App Infrastructure), MTA, MCDBA, MCSD.NET, MCAD, MCSE, A+, N+. Fundador del Grupo de Usuarios de SQL CR.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlugcr.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34629</importID>
+      <name>Eduardo Castro</name>
+      <label>
+      </label>
+      <description>El Dr. Eduardo Castro es MVP en SQL Server, arquitecto especializado en infraestructura.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://ecastrom.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16788</importID>
+      <name>Joe Healy</name>
+      <label>
+      </label>
+      <description>--- Joe Healy is a Technology Evangelist for Microsoft covering North and Central Florida.  He can be reached at jhealy@microsoft.com or http://blogs.msdn.com/devfish ....</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.msdn.com/devfish</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17758</importID>
+      <name>Juan Alvarado</name>
+      <label>
+      </label>
+      <description>MVP de SQL desde 2005, consultor de inteligencia de negocios y bases de datos en tecnologias de Microsoft usando SQL, Sharepoint y Office
+</description>
+      <twitter>@juanbizzz</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@juanbizzz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22623</importID>
+      <name>Raul Oviedo</name>
+      <label>
+      </label>
+      <description>Raul Oviedo es líder de la Comunidad de Desarrolladores de Costa Rica, cuenta con amplia experiencia en el desarrollo con tecnologías Microsoft, en el año 2010 fue reconocido como MVP en ASP.NET</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://desarrolladorescostarica.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16942</importID>
+      <name>Javier Loria</name>
+      <label>
+      </label>
+      <description>Javier Loria es un experimentadoArquitecto de Software yArquitecto de Inteligencia de negocios, desarrollador líder con un historial de ingeniera de redes. Javier tiene más de 12 años de experiencia como Instructor Técnico, casi 20 años como desarrollador; 8 años como arquitecto de software y de inteligencia de negocios.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.solidq.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16694</importID>
+      <name>Jesus Gil Velasco</name>
+      <label>
+      </label>
+      <description>Jesus Gil (Dr. Rudo SQL) es un experto en SQL con mas de 10 años de experiencia y un speaker habitual de los SQL-Saturday en Latinoamérica.  Es el primer MVP de SQL Server para México, reconocimiento que ha ganado desde el año 2010.  Es co-autor de la Guia Oficial de Microsoft Corp. para la Migración de SQL Server 2012 y es colaborador de revistas, tanto nacionales como internacionales. Para Microsoft México genero el contenido del diplomado técnico y de Negocios sobre BI con SQL2012.
+</description>
+      <twitter>@jesus_gilv </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jesus_gilv </imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13617</importID>
+      <name>Eduardo Castro</name>
+      <label>
+      </label>
+      <description>Eduardo Castro, Microsoft Data Platform MVP and PASS Board of Advisor for LATAM, is well known LATAM SQL Server Expert and focuses on architecture, Business Intelligence and Data Analytics, Eduardo has an specialization and master degree in Data Analysis and Big Data. I have been speaker at PASS Summit delivering session about R and Data Science.
+
+Eduardo Castro has presented in United States, Costa Rica, Colombia, Guatemala, Mexico, Panama, El Salvador and South Korea.</description>
+      <twitter>edocastro</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=7313296amp;authType=NAME_SEARCHamp;authToken=pBHMamp;locale=en_USamp;srchid=73132961426368749508amp;srchindex=1amp;srchtotal=50amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A73132961426368749508%2CVSRPtargetId%3A7313296%2CVSRPcmpt%3Aprimary%2CVSRPnm%3A</linkedin>
+      <ContactURL>http://ecastrom.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=edocastro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17759</importID>
+      <name>Juan Alvarado</name>
+      <label>
+      </label>
+      <description>MVP de SQL desde 2005, consultor de inteligencia de negocios y bases de datos en tecnologias de Microsoft usando SQL, Sharepoint y Office
+</description>
+      <twitter>@juanbizzz</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@juanbizzz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28289</importID>
+      <name>Yuri Porras</name>
+      <label>
+      </label>
+      <description>Yuri Porras de Microsoft de Costa Rica, con gran experiencia en bases de datos</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>34629</importID>
+      <speakers>
+        <speaker>
+          <id>34629</id>
+          <name>Eduardo Castro</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server AlwaysOn</title>
+      <description>En esta sesión veremos las nuevas características de Alta Disponbilidad de SQL Server, nos enfocaremos en la características de SQL Server AlwaysOn como mecanismo de alta disponibilidad de bases de datos.</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18393</importID>
+      <speakers>
+        <speaker>
+          <id>18393</id>
+          <name>Keith Kabza</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Microsoft Lync Voice, IM and Video Dev [en ingles]</title>
+      <description>I will cover all the SDKs available for Microsoft Lync Server 2010. Learn how to you can build telephony applications, instant messaging and video conferencing solutions on the Lync platform. Contact Center demos, IVR Demos, Instant Messaging bots, Live Messenger integration.Microsoft® Lync® is an enterprise-ready unified communications platform. With Lync, users can keep track of their contacts’ availability; send an IM; start or join an audio, video, or web conference; or make a phone call—all through a consistent, familiar interface.</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28289</importID>
+      <speakers>
+        <speaker>
+          <id>28289</id>
+          <name>Yuri Porras</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Azure</title>
+      <description>En esta session veremos las ventajas de SQL Server en la Nube con SQL Azure, veremos temas tales como escalabilidad y federacion de bases de datos</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16694</importID>
+      <speakers>
+        <speaker>
+          <id>16694</id>
+          <name>Jesus Gil Velasco</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>“No soy una base de datos más – UBICATE!”</title>
+      <description>En esta sesión se presentará ¿Qué es lo nuevo de los datos Geo Espaciales en SQL Server 2012?
+Además se harán ejemplos prácticos para demostrar la utilidad de los datos GeoEspaciales</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13617</importID>
+      <speakers>
+        <speaker>
+          <id>13617</id>
+          <name>Eduardo Castro</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Indices Columnares en SQL Server 2012</title>
+      <description>SQL Server 2012 incluye el nuevo tipo de indices columnares, los cuales mejoras sustancialmente el desempeño de las consultas realizadas en Data Warehouse. Asista a esta sesión y aprenderá cómo utilizar este nuevo tipo de índices y las mejores prácticas y escenarios de uso.</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16696</importID>
+      <speakers>
+        <speaker>
+          <id>16696</id>
+          <name>Jesus Gil Velasco</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Y el rendimiento... ¿Dónde ha quedado?</title>
+      <description>Y el rendimiento... ¿Dónde ha quedado? Oh... Y ahora ¿Quién podrá ayudarme?
+Es una charla de Buenas prácticas para obtener buen desempeño y escalabilidad, en ella se ven contadores que debemos de medir, pero tambien buenas prácticas para desarrollar un mejor TSQL
+Esta charla les siver a desarrolladores y DBAs que trabajen con versiones SQL Server 2005, SQL Server 2008, SQL Server 2008 R2 y ahora también SQL Server 2012</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>12050</importID>
+      <speakers>
+        <speaker>
+          <id>12050</id>
+          <name>Carlos Rojas Vargas</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>PowerPivot in SQL-Server 2012</title>
+      <description>Integration of PowerPivot and Sharepoint for Data Analysis</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16787</importID>
+      <speakers>
+        <speaker>
+          <id>16787</id>
+          <name>Joe Healy</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Windows Phone Dev Internationalization [en ingles]</title>
+      <description>Writing Windows Phone Apps ?  Why target just one language or culture?  Why not make the WORLD your market?  We'll talk about the various globalization and localization apps for making your applications international and supporting more than one language.  We'll also talk about publishing options for you as a Windows Phone app developer in a non-USA country.</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22623</importID>
+      <speakers>
+        <speaker>
+          <id>22623</id>
+          <name>Raul Oviedo</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Nuevas Características de Reporting Services </title>
+      <description>En esta sesión vamos a cubrir los cambios que tiene SQL Server 2012 con respecto a Reporting Services, veremos el nuevo tipo de integración con Sharepoint 2010, así como la creación de reportes con PowerView.</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17758</importID>
+      <speakers>
+        <speaker>
+          <id>17758</id>
+          <name>Juan Alvarado</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Base de Datos Tabulares</title>
+      <description>Reconocimiento general a la nueva base de datos tabula de sql 2012</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22306</importID>
+      <speakers>
+        <speaker>
+          <id>22306</id>
+          <name>Ricardo Estrada</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>¡Contravía!  Alimente el DW con SSRS usando SSIS</title>
+      <description>En esta sesión aprenderemos a utilizar Integration Services con Reporting Services como origen de datos para alimentar el Data Warehouse desde los reportes.</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17759</importID>
+      <speakers>
+        <speaker>
+          <id>17759</id>
+          <name>Juan Alvarado</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Data Quality Services: calidad de datos de SQL</title>
+      <description>Overview de DQS</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27189</importID>
+      <speakers>
+        <speaker>
+          <id>27189</id>
+          <name>Kenneth Urena</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Partitioning and Partial Databases for HA for VLDB</title>
+      <description>Estrategia de Respaldos + Particionamiento + Arquitectura en SQL Server Enterprise Edition para obtener escenarios de alta disponibilidad en bases de datos Muy Grandes.</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16788</importID>
+      <speakers>
+        <speaker>
+          <id>16788</id>
+          <name>Joe Healy</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to Kinect SDK - [en ingles]</title>
+      <description>During this session we'll explore the basics of Kinect Programming using the Kinect SDK.  This has nothing to do with SQL, but should offer a refreshing respitre from SSxS, SQL and other database stuff for any programmers attending.  Kinect SDK for Windows is an innovative new approach to Natural User Interfaces.  We'll explore how to trap and work with the various kinect sensors, such as camera, audio, depth, and skeletalk tracking you have.  After the session you'll understand the basics, and where to go next with your Kinect SDK development. [en ingles]</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16786</importID>
+      <speakers>
+        <speaker>
+          <id>16786</id>
+          <name>Joe Healy</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Intro to Windows Phone Dev [en ingles]</title>
+      <description>Windows Phone is coming to Costa Rica soon, and we're going to show you how to write applications for it.  During this session we'll explore the Windows Phone Metro Design styles, XAML Development, Visual Studio and Blend Environments, and write a basic XNA game.  By the end of the session you'll know how to get started, have basic ideas on applications, and know where to go next. [en ingles]</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16942</importID>
+      <speakers>
+        <speaker>
+          <id>16942</id>
+          <name>Javier Loria</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Patrones de Arquitectura en BI</title>
+      <description>En esta sesión compartiremos Patrones de Arquitectura en BI</description>
+      <startTime>4/14/2012 12:00:00 AM</startTime>
+      <endTime>4/14/2012 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

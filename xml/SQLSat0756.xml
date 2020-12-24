@@ -1,0 +1,109 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #756 - Bafoussam 2018</name>
+    <startDate>5/26/2018 12:00:00 AM</startDate>
+    <attendeeEstimate>75</attendeeEstimate>
+    <timezone>(GMT+01:00) Brussels, Copenhagen, Madrid, Paris</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatBafoussam</twitterHashtag>
+    <venue>
+      <name>MAISON DU PARTIE BAFOUSSAM</name>
+      <street>MARCHE A</street>
+      <city>Bafoussam</city>
+      <state>Région de l'Ouest, Cameroon</state>
+      <zipcode>12027</zipcode>
+      <longitude>10.4186857</longitude>
+      <latitude>5.478639</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>74437</importID>
+      <name>ACHILLE NGUELA NGUELA</name>
+      <label>
+      </label>
+      <description>11 Years Informations technology Pro. MCITP Entreprise Admin MCITP Entreprise Desktop Admin MCITP Sharepoint Admin MCSA Windows Server</description>
+      <twitter>@AchillesB1</twitter>
+      <linkedin>http://www.linkedin.com/in/achil/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@AchillesB1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>78702</importID>
+      <name>ACHILLE NGUELA NGUELA</name>
+      <label>
+      </label>
+      <description>11 Years Informations technology Pro. MCITP Entreprise Admin MCITP Entreprise Desktop Admin MCITP Sharepoint Admin MCSA Windows Server</description>
+      <twitter>@AchillesB1</twitter>
+      <linkedin>http://www.linkedin.com/in/achil/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@AchillesB1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>74437</importID>
+      <speakers>
+        <speaker>
+          <id>74437</id>
+          <name>ACHILLE NGUELA NGUELA</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room1</name>
+      </location>
+      <title>Can i make a record management with Microsoft Sharepoint</title>
+      <description>Mise en place d'un Projet GED avec Sharepoint
+Integration Intégration dans votre site web
+
+-Sharepoint et GED
+
+    acquisition : création de documents Microsoft Office, gestion du contenu non structuré (courrier électronique, messagerie instantanée, réseaux sociaux),
+    classement : SharePoint dispose d'un serveur centralisé sur lequel les documents peuvent être stockés et indexés,
+    stockage : le serveur SharePoint peut contenir toutes sortes de documents, y compris multimédia. Les opérations d'administration permettent de gérer les autorisations d'accès et les sauvegardes,
+    diffusion : SharePoint peut mettre les documents à disposition directement sur le réseau interne de l'entreprise ou sur son intranet ou site web</description>
+      <startTime>5/26/2018 11:00:00 AM</startTime>
+      <endTime>5/26/2018 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>78702</importID>
+      <speakers>
+        <speaker>
+          <id>78702</id>
+          <name>ACHILLE NGUELA NGUELA</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room1</name>
+      </location>
+      <title>How to manage SAGE SAARI system from Microsoft SQL Server</title>
+      <description>Procedure d'installation MS SQL Server pour SAGE 100 SQL 
+Procedure de gestion des utilisateur dans  MS SQL Server pour SAGE 100 SQL
+Compression et extraction des donnes MS SQL Server pour SAGE 100 SQL
+- Des informations techniques permettant diverses manipulations (conversion de fichiers...).
+
+Cas Pratique et Demonstrations</description>
+      <startTime>5/26/2018 10:00:00 AM</startTime>
+      <endTime>5/26/2018 11:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

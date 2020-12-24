@@ -1,0 +1,23 @@
+# SQLSaturday #454 - Turin 2015
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+10:00:00|Tomaž Kaštrun|BI  Analytics|[Usage of R in SQL Server for better data understanding](38183.md)
+10:00:00|Luca Ferrari|Azure Data Platform|[Azure Sql DataWarehouse - The First cloud enterprise solution for MPP](38686.md)
+10:00:00|Alberto Ferrari|Power BI|[Power BI Architecture](40247.md)
+10:00:00|Gianluca Sartori|SQL Server 2016|[New Security Features in SQL Server 2016](40259.md)
+11:30:00|Alessandro Rezzani|SQL Server 2016|[Polybase In SQL Server 2016](37977.md)
+11:30:00|Alberto Ferrari|Power BI|[Power BI Desktop](40248.md)
+11:30:00|Davide Mauri|BI  Analytics|[AzureML - A full journey](40418.md)
+11:30:00|Francesco Diaz|Azure Data Platform|[A lap around Azure Data Factory](40970.md)
+13:30:00|Dejan Sarka|BI  Analytics|[Analyzing Text with SQL Server, R, and Azure ML](38382.md)
+13:30:00|Jean-Pierre Riehl|Power BI|[Data Management Gateway Deep Dive](38387.md)
+13:30:00|Alessandro Alpi|SQL Server 2016|[SQL Server 2016 native JSON support](39924.md)
+13:30:00|Emanuele Zanchettin|Azure Data Platform|[Implementing and Maintaining an Azure SQL Database project](40266.md)
+14:45:00|Cédric Charlier|BI  Analytics|[Automating the testing of your BI solutions with NBi](38634.md)
+14:45:00|Kenneth Nielsen|SQL Server 2016|[SQL Server 2016 - Temporal Data Tables (System-Versioned)](38800.md)
+14:45:00|Marco Parenzan|Azure Data Platform|[Azure Stream Analytics](40239.md)
+14:45:00|Marco Russo|Power BI|[Power Query](40255.md)
+16:15:00|Mladen Prajdić|BI  Analytics|[Visualizing streaming data in real time](38996.md)
+16:15:00|Marco De Nittis|Azure Data Platform|[DocumentDB Jumpstart, NoSQL adventures in Azure](40130.md)
+16:15:00|Sergio Govoni|SQL Server 2016|[SQL Server 2016 Query Store](40230.md)
+16:15:00|andrea benedetti|Power BI|[Using Power BI in Enterprise: Collaboration Features](40487.md)

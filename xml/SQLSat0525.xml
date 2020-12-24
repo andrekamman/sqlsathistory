@@ -1,0 +1,1049 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #525 - Rheinland 2016</name>
+    <startDate>6/11/2016 12:00:00 AM</startDate>
+    <attendeeEstimate>350</attendeeEstimate>
+    <timezone>(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatRheinland</twitterHashtag>
+    <venue>
+      <name>Bonn-Rhein-Sieg University of Applied Sciences</name>
+      <street>Grantham-Allee 20</street>
+      <city>Sankt Augustin</city>
+      <state>North Rhine-Westphalia, Germany</state>
+      <zipcode>53757 </zipcode>
+      <longitude>7.182372</longitude>
+      <latitude>50.78004</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>689</importID>
+      <name>Hochschule Bonn-Rhein-Sieg</name>
+      <label>Powered By</label>
+      <url>http://www.hs-brs.de/</url>
+      <imageURL>http://ssis-components.net/wp-content/uploads/2013/04/Hochschule-Bonn-Rhein-Sieg_170.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1642</importID>
+      <name>accantec consulting AG</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.accantec.de</url>
+      <imageURL>https://www.accantec.de/images/Logo/acc_logo_gruppe.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>85</importID>
+      <name>Pyramid Analytics</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.PyramidAnalytics.com</url>
+      <imageURL>http://pages.pyramidanalytics.com/rs/pyramidanalytics/images/logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1604</importID>
+      <name>Quest Software Company</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://www.sqlsaturday.com/images/sqlsaturday/eventsponsors/Quest_170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>922</importID>
+      <name>ORAYLIS GmbH</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.oraylis.de/home</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/856/EventSponsor_13533.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1618</importID>
+      <name>GDS Business Intelligence GmbH</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.gdsbi.de</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/880/EventSponsor_14056.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1448</importID>
+      <name>oh22</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.oh22.net</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/950/EventSponsor_14467.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>729</importID>
+      <name>inovex GmbH</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.inovex.de</url>
+      <imageURL>https://www.inovex.de/typo3conf/ext/contentelements/Resources/Public/img/logo.svg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1078</importID>
+      <name>Sarpedon Quality Lab</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.sarpedonqualitylab.com/</url>
+      <imageURL>https://www.sarpedonqualitylab.com/sql-images/sponsoring/SQL_SarpedonQualityLab_170.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>49167</importID>
+      <name>William Durkin</name>
+      <label>
+      </label>
+      <description>William Durkin is a DBA, Data Platform MVP, and Data Platform Architect for Data Masterminds (http://datamasterminds.io). He uses his decade of experience with SQL Server to help multinational corporations achieve their data management goals. Born in the UK and now based in Germany, William has worked as a Database Developer and DBA on projects ranging from single server installations, up to environments spanning 5 continents, using a range of high availability solutions. William is a regular speaker at conferences around the globe, organizes the popular event SQLGrillen (http://sqlgrillen.com).</description>
+      <twitter>@sql_williamd</twitter>
+      <linkedin>http://www.linkedin.com/in/wdurkin</linkedin>
+      <ContactURL>http://williamdurkin.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sql_williamd</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45913</importID>
+      <name>Wolfgang Strasser</name>
+      <label>
+      </label>
+      <description>Wolfgang Strasser creates solutions based on the Microsoft Data Platform tools in his day-to-day job as Business Intelligence consultant. Either using SQL Server Database Engine, SSIS, reporting with SSAS and SSRS, implementing Power BI solutions or cloud tools for data analysis - the data-tools-landscape is broadening every day! Based on his professional careers as a software developer he likes to work on structured development processes.
+Wolfgang shares his knowledge with the community at many national and international events. For his community work, Wolfgang has been awarded with the Microsoft MVP Award for Data Platform in October 2015</description>
+      <twitter>wstrasser</twitter>
+      <linkedin>http://www.linkedin.com/pub/wolfgang-strasser/7b/912/22b</linkedin>
+      <ContactURL>http://workingondata.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=wstrasser</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>47376</importID>
+      <name>Markus Ehrenmueller-Jensen</name>
+      <label>
+      </label>
+      <description>Markus Ehrenmueller-Jensen, as the founder of Savory Data, has a long history of providing customer solutions in the areas of data engineering, data science, and Business Intelligence. He is a certified software engineer, a graduated business educator, and professor of Databases  Project Management at HTL Leonding, and is certified as an MCSE  MCT. He is a published author and writes articles for well-known journals. He co-founded PASS Austria and organizes SQLSaturdays in Austria. Markus is a founding member of Power BI Usergroup Austria. Since 2017 Markus was awarded as an Microsoft Data Platform MVP.</description>
+      <twitter>MEhrenmueller</twitter>
+      <linkedin>https://www.linkedin.com/in/markus-ehrenmueller/</linkedin>
+      <ContactURL>http://www.savorydata.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MEhrenmueller</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45807</importID>
+      <name>Andre Essing</name>
+      <label>
+      </label>
+      <description>Andre ist Senior Consultant und Trainer bei der Trivadis GmbH. Er sammelt seit Version 7.0 Erfahrungen mit dem SQL Server und hat seinen Schwerpunkt auf die Infrastruktur gelegt. Spezialisiert hat er sich hierbei auf den Bereich Mission Critical Systems. Neben der T#228;tigkeit als Consultant, vermittelt Andre sein Wissen in Trainings. Au#223;erdem engagiert sich Andre in der Community als Chapter Leader bei der PASS in Bayern und als Organisator des SQL Saturdays in M#252;nchen. Er betreibt einen Blog unter www.andreessing.de.</description>
+      <twitter>@aessing</twitter>
+      <linkedin>http://www.linkedin.com/in/aessing</linkedin>
+      <ContactURL>http://www.andreessing.de/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@aessing</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49599</importID>
+      <name>Stefan Kirner</name>
+      <label>
+      </label>
+      <description>Stefan Kirner ist Teamleiter BI Solutions bei der inovex GmbH in Karlsruhe und besch#228;ftigt sich seit dem SQL Server 2000 mit dem Microsoft BI Stack. In diversen spannenden Business Intellligence Projekten in unterschiedlichsten Branchen hat er als Entwickler, Architekt und Projektleiter die Entwicklung der Microsoft BI amp; Analytics Komponenten von kargen DTS Zeiten an bis heute verfolgt. Inzwischen hat sich der Horizont der Data Management L#246;sungen nat#252;rlich auch auf viele Dienste in der Cloud erweitert. Stefan ist Microsoft Certified Systems Expert (MCSE). Seit 2006 leitet er die SQL PASS Regionalgruppe Karlsruhe und er unterst#252;tzt Microsoft Deutschland als Partner-Technical Solution Professional im Presales Bereich.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45914</importID>
+      <name>Thomas Hütter</name>
+      <label>
+      </label>
+      <description>Thomas holds a degree in Business Administration, but has been a data explorer and a developer at heart ever since the days of dBase and Turbo Pascal. He touched his first SQL Server at V6.5 and used covering indexes before they became a feature.
+
+Thomas has been developing in Navision/Dynamics/Business Central systems for quite some time (since 2001, one year before MS acquired Navision), joined PASS in 2006 and got his hands on R in 2014 (the year before MS bought Revolution Analytics). He has worked for ISVs as well as end-user companies, as a developer, consultant, accidental DBA and is an author for data-related articles as well as a speaker at SQL events across Europe.</description>
+      <twitter>DerFredo</twitter>
+      <linkedin>https://de.linkedin.com/in/derfredo</linkedin>
+      <ContactURL>https://sqlfredo.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DerFredo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49096</importID>
+      <name>Andreas Wolter</name>
+      <label>
+      </label>
+      <description>Andreas Wolter is a Program Manager for SQL Server- and Azure Security at Microsoft. In this role he is working on Security features of SQL Server, Azure SQL Database and Managed Instance. He is currently focusing on “Separation of Duties”-concepts and RBAC-Integration. He has 18 years of experience with SQL Server before joining Microsoft and is the founder of Sarpedon Quality Lab, the Germany-based company specialized on SQL Server HA, Performance and Security. He is Microsoft Certified Master (MCM) for SQL Server and Microsoft Certified Solutions Master for the Data Platform (MCSM) and was recognized as MVP for multiple years in row.</description>
+      <twitter>AndreasWolter</twitter>
+      <linkedin>http://www.linkedin.com/in/andreaswolter</linkedin>
+      <ContactURL>http://www.andreas-wolter.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=AndreasWolter</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45909</importID>
+      <name>Ben Weissman</name>
+      <label>
+      </label>
+      <description>Ben Weissman has been working with SQL Server since SQL Server 6.5, mainly in the BI/Datawarehousing field. He is a Data Platform MVP, MCSE Data Management and Analytics, and a Certified Data Vault Data Modeler. He is also the first BimlHero Certified Expert in Germany and a co-author of  'SQL Server Big Data Clusters' and 'The Biml Book'.
+Ben has been involved in more than 150 BI Projects and is always looking for ways to become more productive and make SQL Server even more fun!
+Together with his team at Solisyon, Ben provides training, implementation and consultancy for SQL/BI developers and data analysts in upper-mid-market companies around the globe.</description>
+      <twitter>bweissman</twitter>
+      <linkedin>https://de.linkedin.com/in/weissmanben</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=bweissman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45804</importID>
+      <name>Uwe Ricken</name>
+      <label>
+      </label>
+      <description>Uwe Ricken is working with IT systems since the 90’s. The primary passion for developments with Microsoft SQL Server expanded in 2007 with his engagement as a DBA for Deutsche Bank AG in Frankfurt am Main. After 6 years of operational experiences as a DBA and over 14 years as a developer of complex database models he achieved the “Microsoft Certified Master – SQL Server 2008” certification which “was” the highest technical certification. In the same year he earned his first award as a Data Platform MVP for his support to the Microsoft SQL Server community in Germany and Europe. Uwe Ricken is a speaker on many international conferences and events and preferred topics are “Database Internals”, “Indexing” and “Development”.</description>
+      <twitter>https://twitter.com/dbBerater</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=270775013amp;trk=tab_pro</linkedin>
+      <ContactURL>http://www.sqlmaster.de</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dbBerater</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>50781</importID>
+      <name>Tillmann Eitelberg</name>
+      <label>
+      </label>
+      <description>Tillmann Eitelberg is CEO and co-founder of oh22information services GmbH, which specializes in data integration and data management. Tillmann is an active blogger at www.ssis-components.net, writing regularly about data quality topics and his passion: spatial data. In addition, he has published several SSIS components on Codeplex and GitHub. Tillmann is a Data Platform MVP, a board member of PASS Germany e.V., a PASS CL for the Cologne/Bonn region, and a PASS RM.</description>
+      <twitter>@_Tillmann</twitter>
+      <linkedin>https://www.linkedin.com/in/tillmanneitelberg</linkedin>
+      <ContactURL>http://www.ssis-components.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@_Tillmann</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>50768</importID>
+      <name>Constantin Klein</name>
+      <label>
+      </label>
+      <description>Constantin is working at Syntax Systems GmbH  Co. KG. He mainly deals with the design and development of solutions based on Microsoft products and technologies. Since 2010 he was each year designated Most Valuable Professional (MVP) for the Microsoft Data Platform. In addition he is member of the board of Just Community e.V. (http://www.justcommunity.de) and PASS Deutschland e.V. (http://www.sqlpass.de). He also leads the .NET User Group Frankfurt/Germany (http://dnug-frankfurt.de). Find his blog at: http://kostjaklein.wordpress.com</description>
+      <twitter>KostjaKlein</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://kostjaklein.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=KostjaKlein</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46113</importID>
+      <name>Frank Geisler</name>
+      <label>
+      </label>
+      <description>Frank Geisler is owner and CEO of GDS Business Intelligence GmbH. He is SQL Server MVP, MCT,  MCSE – Business Intelligence, MCSE – Data Plattform and MCSE - Azure Solutions Architect. In his Job he is building Business Intelligence Systems based on Microsoft Technology, mainly on SQL Server and SharePoint.</description>
+      <twitter>@Frank Geisler</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=4839367</linkedin>
+      <ContactURL>http://www.gdsbi.de</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Frank Geisler</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>47335</importID>
+      <name>Benjamin Kettner</name>
+      <label>
+      </label>
+      <description>Dr. Benjamin Kettner is a mathematician, founder and CTO of ML!PA Consulting GmbH. His fokus lies on consulting his clients technically and strategically for implementation of projects in different areas of the data platform. 
+Er is regional chapter lead of the Berlin chapter of PASS, since 2020 he is a Microsoft MVP and he is a regular speaker on different events.</description>
+      <twitter>DataMonsterBen</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://www.tsql-ninja.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DataMonsterBen</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>47092</importID>
+      <name>Scott Klein</name>
+      <label>
+      </label>
+      <description>Scott Klein is a senior consultant with SQL Solutions Group with over two decades of experience working with Microsoft SQL Server. Prior to SSG, Scott spent almost 10 years at Microsoft, traveling the globe as a technical evangelist training and speaking about SQL Server and Microsoft’s Azure data services. Scott’s recent focus has been on advanced analytics, including big data and IoT, providing real-world training to help bring intelligence to your data. Scott has authored several books focusing on data and data analytics. Scott is continuously striving and looking for ways to help developers and companies grok the wonderful world of data.</description>
+      <twitter>SQLScott</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://aka.ms/sqlscott</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLScott</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48432</importID>
+      <name>Alexander Karl</name>
+      <label>
+      </label>
+      <description>Alexander Karl is database-developer and certified MCT for Windows and SQL Server with .net-CDE GmbH. For more than 18 years he has been working with Database-, Datawarehouse- and Reporting-Solutions for companies from medium-sized enterprises to Group level. His spectrum includes Serversizing, Programming to optimize performances as well as Report- and Chartdesign; in trainings and seminars he conveys participants well-founded theoretical knowledge complemented with his practical.</description>
+      <twitter>sqlfabrik</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlfabrik</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46607</importID>
+      <name>André Kamman</name>
+      <label>
+      </label>
+      <description>André Kamman is a DBA and SQL Server Solutions Architect for CloudDBA. He has done a lot of DBA work on 1000’s of servers where he discovered his love for Powershell, architecting SQL Server solutions, building and tuning ETL processes (with BIML). He also likes to work with MPP platforms APS and AzureDW. André is a Data Platform MVP, Dutch PASS Chapter Leader and organiser of SQL Saturday Holland.</description>
+      <twitter>@andrekamman</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://andrekamman.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@andrekamman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48531</importID>
+      <name>Patrick Heyde</name>
+      <label>
+      </label>
+      <description>Patrick Heyde ist Technical Evangelist f#252;r SharePoint Development/Office 365 und SQL amp; BI amp; Microsoft Azure. Patrick ist seit 2007 bei Microsoft und in den Schwerpunkten: Performance, Upgrade, Customization, Skalierbarkeit und L#246;sungs- amp; Architekturberatung unterwegs. Seit einiger Zeit baut er aktiv Azure Prototypen auf und unterstützt ISV-Partner bei Ihrer Cloud-Migration. Für diese Projekte sucht zunehmend unterstützenden Partner Consultants mit Azure Know-How.</description>
+      <twitter>https://twitter.com/patrickheyde</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.technet.com/b/patrick_heyde/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/patrickheyde</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48436</importID>
+      <name>Oliver Engels</name>
+      <label>
+      </label>
+      <description>Oliver Engels is CEO of oh22data AG, a Microsoft Gold Partner in Germany specializing in CRM and BI. His special interests are Azure, Data Governance and Integration, Visualisation Tools like SSRS, Power BI, Tableau, R, and SharePoint. He has worked with SQL Server since version 6.5 and is a founder and Board member of PASS Germany, a PASS Regional Mentor, and runs the Frankfurt PASS Local Group. For more than seven years he is a Microsoft Data Platform MVP and a Microsoft pTSP.</description>
+      <twitter>@oengels</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.ssis-components.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@oengels</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46691</importID>
+      <name>Bent Pedersen</name>
+      <label>
+      </label>
+      <description>Bent is a Data Platform MVP and working as Senior Business Analytics Architect at Kapacity A/S, where he have been working with enterprise customers on solutions with SSAS Tabular, SQL Server and in general Azure Data Platform services for the last years. During the past years, he concentrated on working with architecturing, devOps, Automation, testing and simplifying development processes for the Azure Data Platform.</description>
+      <twitter>https://twitter.com/SQLBent</twitter>
+      <linkedin>https://dk.linkedin.com/in/bentnissenpedersen</linkedin>
+      <ContactURL>http://www.biblog.eu</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/SQLBent</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46508</importID>
+      <name>Sam Lester</name>
+      <label>
+      </label>
+      <description>Sam Lester has spent the past 14 years working for Microsoft in various SQL Server related roles.  After nearly 12 years working in the SQL Server development team in Redmond, WA, he has recently made the switch to a consulting role to work hands-on with European customers.  While in the product group, Sam worked on numerous features including setup, migration, SSMS/manageability, Utility Control Point, Data-Tier Application Component, SSDT, Intellisense, amp; TSQL Debugger.  </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.msdn.com/b/samlester</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46189</importID>
+      <name>Mikael Wedham</name>
+      <label>
+      </label>
+      <description>Mikael Wedham is the first SQL Server MCM in Sweden and the only one who also is a Microsoft Certified Trainer. He has been paid to do things in SQL Server since 1993. His long experience makes him an appreciated speaker at events and conferences all over Europe. To be prepared for deep dives, he is also certified as an Open Water Scuba Instructor.</description>
+      <twitter>@wedham</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.wedham.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@wedham</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49077</importID>
+      <name>Christoph Muthmann</name>
+      <label>
+      </label>
+      <description>Christoph Muthmann ist seit vielen Jahren mit dem Design und der Administration von Datenbanken besch#228;ftigt. Sein Schwerpunkt ist die Weiterentwicklung und Administration der SQL Server mit #252;ber 600 Datenbanken, welche er seit ca. 1996, beginnend mit der Version 6.5 betreut. Seit 2008 ist er SQL Server MVP, berichtet in seinem Blog auf insidesql.org #252;ber SQL Server und PASS und seit 2010 unterst#252;tzt er aktiv die PASS Regionalgruppe K#246;ln/Bonn/D#252;sseldorf.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/profile/preview?vpa=pubamp;locale=en_US</linkedin>
+      <ContactURL>http://www.insidesql.org/blogs/cmu/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45855</importID>
+      <name>Henk Vlootman</name>
+      <label>
+      </label>
+      <description>Henk Vlootman is trainer in Excel and Power pivot to managers throughout the world in the Dutch or English language since 1992. I also do assignments from the industry, partly consultancy and partly direct modelling.  I do seminars and congresses. With Michiel Rozema (Rubicon, The Netherlands, I wrote the quot;Practice Book PowerPivot in Excel.quot; At this moment, again with Michiel Rozema I’m finishing a new Power pivot book. I write a monthly blog on Power BI for two different Dutch (financial) e-magazine. I’m manager of the LinkedIn group Power BI Gebruikersgroep. Henk is board member of the Dutch Power BI gebruikersgroep.</description>
+      <twitter>Henk4Excel</twitter>
+      <linkedin>https://www.linkedin.com/in/vlootman</linkedin>
+      <ContactURL>http://www.vlootman.nl</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Henk4Excel</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46370</importID>
+      <name>Torsten Strauss</name>
+      <label>
+      </label>
+      <description>Torsten (MVP, MCSE, MCT) has been working with Microsoft SQL Server since the turn of the millennium and is specialized in performance optimization for large SQL Server environments. He has been with bp as a database engineer for over two decades and collaborates closely with Sarpedon Quality Lab as a Principal Microsoft SQL Server Consultant. Torsten is the founder of inside-sqlserver.com and has given more than 120 presentations on Microsoft SQL Server performance optimization at national and international conferences and user groups. Torsten has been recognized as a Microsoft Most Valuable Professional for Data Platform since 2018.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49658</importID>
+      <name>Christoph Seck</name>
+      <label>
+      </label>
+      <description>Christoph works as a BI Architect for KI Performance.  With SQL Server and its BI Stack he is dealing for more than 15 years.
+He is cofounder and chapter leader of the German PASS chapter of Hannover, Visiting Lecturer at the University of Hildesheim and regular speaker at conferences and German PASS events on DWH topics and agile project management.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48713</importID>
+      <name>Mark A. Kuschel</name>
+      <label>
+      </label>
+      <description>Mark is Head of Microsoft BI  in Hamburg, Northern Germany.  He is working as project manager and consultant since 11 years with Microsoft .Net and since 7 years primary with Microsoft Business Intelligence / Data Analytics tools. 
+His experience is emphasized by an MCITP f#252;r SQL Server 2008 Business Intelligente certification.</description>
+      <twitter>@Irgendware</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.mark-kuschel.name</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Irgendware</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48437</importID>
+      <name>Oliver Engels</name>
+      <label>
+      </label>
+      <description>Oliver Engels is CEO of oh22data AG, a Microsoft Gold Partner in Germany specializing in CRM and BI. His special interests are Azure, Data Governance and Integration, Visualisation Tools like SSRS, Power BI, Tableau, R, and SharePoint. He has worked with SQL Server since version 6.5 and is a founder and Board member of PASS Germany, a PASS Regional Mentor, and runs the Frankfurt PASS Local Group. For more than seven years he is a Microsoft Data Platform MVP and a Microsoft pTSP.</description>
+      <twitter>@oengels</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.ssis-components.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@oengels</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>47251</importID>
+      <name>Tobias Koprowski</name>
+      <label>
+      </label>
+      <description>Founder of Shadowland Consulting. In January 2015 decided to permanently leave Poland and discover new worlds. Actually settled in Hucknall (The Last home of The Byron Family). Community leader focused on SQL Server, SharePoint, security, collaboration and ITIL, DR, BCM, and SLA. Love licensing stuff. 
+
+Microsoft Certified Trainer, freelancer, and consultant. Subject Matter Expert at Microsoft. Member of Microsoft Terminology Community, Friends of RedGate PLUS, PASS, ISSA, ACM and more. Since 1st July 2010 Data Platform MVP. Creator of SQLDAY Conference and Conference CEO 2009-2011. Co-Leader of PASS East Midlands Group. Speaker at group meetings and conferences. STEM Ambassador. 
+
+Traveler. Coffee Addicted.</description>
+      <twitter>@KoprowskiT</twitter>
+      <linkedin>https://uk.linkedin.com/in/koprowskit</linkedin>
+      <ContactURL>http://koprowskit.eu/geek/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KoprowskiT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>45855</importID>
+      <speakers>
+        <speaker>
+          <id>45855</id>
+          <name>Henk Vlootman</name>
+        </speaker>
+      </speakers>
+      <track>5 - BI</track>
+      <location>
+        <name>Track 5</name>
+      </location>
+      <title>Best practices in modelling Power pivot.</title>
+      <description>Power pivot in Excel and SQL server have quite similar user interfaces. Beneath that there are huge strategic differences between the desktop and the server product. Excel users knows the business, so they are the best to build models to the company's needs. So you let the user prototype their models in Excel Power pivot, while bearing in mind that you want to port that model to SSAS Power pivot as a corporate app.
+
+There are best practices you should stick to in order to port the model without problems. This session will discuss the advantage and disadvantages of porting Excel Power pivot model to SSAS. Then there are practices you should learn the Excel user in building formulas, structuring Power pivot models and the way they have to look at data. For the data pro's there are some tricks to support the Excel user in building their model. </description>
+      <startTime>6/11/2016 3:45:00 PM</startTime>
+      <endTime>6/11/2016 4:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45807</importID>
+      <speakers>
+        <speaker>
+          <id>45807</id>
+          <name>Andre Essing</name>
+        </speaker>
+      </speakers>
+      <track>4 - Mixed</track>
+      <location>
+        <name>Track 4</name>
+      </location>
+      <title>SQL Server Release Management - SPs, CUs und CODs, ich verstehe nur Bahnhof</title>
+      <description>Ein wichtiges, aber immer wieder stark vernachl#228;ssigtes Thema beim SQL Server ist das Release Management. Warum sollte ich das System auch anfassen, es k#246;nnte ja etwas schief gehen – „Never change a running system“.
+Es gibt jedoch viele Gr#252;nde warum ein sauberes Release Management und das updaten der Datenbankserver wichtig sind. Angefangen von Bugs die zu einem Datenverlust f#252;hren k#246;nnen, bis hin zu Sicherheitsl#252;cken. Service Packs und Cumulative Updates haben durchaus ihre Daseinsberechtigung. Keine Software ist Fehlerfrei.
+Damit aber nicht genug, auch die Modernisierung von Systemen geh#246;rt mit zu einem richtigen Release Management mit dazu.
+Diese Session erkl#228;rt, warum Updates wichtig sind und wann dieses eingespielt werden sollten. Aber auch das Thema Support-Zyklen und das Upgrade auf die eine neuere SQL Server Version werden beleuchtet.</description>
+      <startTime>6/11/2016 10:45:00 AM</startTime>
+      <endTime>6/11/2016 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>45913</importID>
+      <speakers>
+        <speaker>
+          <id>45913</id>
+          <name>Wolfgang Strasser</name>
+        </speaker>
+      </speakers>
+      <track>4 - Mixed</track>
+      <location>
+        <name>Track 4</name>
+      </location>
+      <title>The (Consumer) Internet of Things on your arm - MS Band  PowerBI connected</title>
+      <description>The Internet of Things (IOT) gets more and more attraction - not only on the business but also on the customer side. Connected fridges, cars and smart watches - always and everywhere connected! In this session Wolfgang will show you some possibilities of the Microsoft Band 2 SDK: how-to connect and read sensor data out of this device. But what should be done with that data? 
+Power BI seems to be an ideal candidate for analyzing and presenting those kind of data. The different types of real-time analytics (Stream Analytics, Power BI API, ..) will be presented and their pros and cons will be envisioned. 
+The challenge: Let's prepare a real-time dashboard of Band2 data in Power BI in 60 minutes! </description>
+      <startTime>6/11/2016 12:00:00 PM</startTime>
+      <endTime>6/11/2016 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45804</importID>
+      <speakers>
+        <speaker>
+          <id>45804</id>
+          <name>Uwe Ricken</name>
+        </speaker>
+      </speakers>
+      <track>2 - DEV</track>
+      <location>
+        <name>Track 2</name>
+      </location>
+      <title>Are Temporal Tables a useful feature?</title>
+      <description>Temporal Tables are a new feature in SQL Server 2016. This session will start with an overview of the basic functionality of Temporal Tables based on a real world scenario.
+After the core concepts of Temporal Tables have been implemented the session will dive deeper into the functionality of it with all its really great benefits but there is no lunch for free.
+This session will demonstrate what's not working fine with Temporal Tables and it's common drawbacks when you will work with this feature of SQL Server 2016.
+Fasten seat belts and get an overview of the core concept of Temporal Tables and decide for yourself, whether you would use it or kick it away :)</description>
+      <startTime>6/11/2016 10:45:00 AM</startTime>
+      <endTime>6/11/2016 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>46607</importID>
+      <speakers>
+        <speaker>
+          <id>46607</id>
+          <name>André Kamman</name>
+        </speaker>
+      </speakers>
+      <track>1 - DBA</track>
+      <location>
+        <name>Track 1</name>
+      </location>
+      <title>The current state of Powershell DSC for DBAs</title>
+      <description>Powershell Desired State Configuration (DSC) is a declarative configuration management system.
+Most DBAs are probably using unattended installs followed by a bunch of post configuration scripts make sure our SQL Server instances are production ready.
+We will take a look at how Powershell DSC works, and how this can be used by DBAs to install, configure and manage SQL Servers.
+We will try to answer questions like:
+
+How does Powershell DSC work
+How would a DBA use Powershell DSC
+Are the resources to manage SQL Server mature enough
+
+After this session you are better equiped to decide if Powershell DSC is useful for you, now or in the near future.</description>
+      <startTime>6/11/2016 10:45:00 AM</startTime>
+      <endTime>6/11/2016 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>45914</importID>
+      <speakers>
+        <speaker>
+          <id>45914</id>
+          <name>Thomas Hütter</name>
+        </speaker>
+      </speakers>
+      <track>2 - DEV</track>
+      <location>
+        <name>Track 2</name>
+      </location>
+      <title>From SQL to R and beyond</title>
+      <description>You heard about the “R” language and it’s growing popularity for data analysis. Now you need a walk-through on what is possible analyzing your data? Then this session is for you:
+
+You’ll get a short introduction how R came to be, and what the R ecosystem looks like today. 
+
+Then we will extract sales data from different companies off a Navision ERP database on SQL Server.
+
+Our data will be cleaned, aggregated and enriched in the RStudio environment. We’ll generate different diagrams on-the-fly to gain first insights.
+
+Finally we’ll see how to use the Shiny framework to display our data on a map, interactively changing our criteria, and showing us where the white spots really are.</description>
+      <startTime>6/11/2016 3:45:00 PM</startTime>
+      <endTime>6/11/2016 4:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>47376</importID>
+      <speakers>
+        <speaker>
+          <id>47376</id>
+          <name>Markus Ehrenmueller-Jensen</name>
+        </speaker>
+      </speakers>
+      <track>1 - DBA</track>
+      <location>
+        <name>Track 1</name>
+      </location>
+      <title>Are You a DBA by Accident? Welcome to the Club!</title>
+      <description>When I joined runtastic.com to build their very first centralized data warehouse with Microsoft SQL Server, no one really felt in charge of the server – so the responsibility fell into my humble hands. Besides my duties as a business intelligence architect (designing  implementing the database, ETL  cube), I had to quickly come up with a solution for the most important administrative tasks:
+•	Disaster Recovery and Failover
+•	Database Maintenance
+•	Capacity Management
+•	Job  Performance Monitoring
+In this session I will invite you to discuss the pros  cons of the solutions I came up with and you will leave the session with helpful concepts and scripts which you can use freely.</description>
+      <startTime>6/11/2016 2:30:00 PM</startTime>
+      <endTime>6/11/2016 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>47335</importID>
+      <speakers>
+        <speaker>
+          <id>47335</id>
+          <name>Benjamin Kettner</name>
+        </speaker>
+      </speakers>
+      <track>4 - Mixed</track>
+      <location>
+        <name>Track 4</name>
+      </location>
+      <title>Die Quadratur des Kreises? Wie NoSQL und der SQL Server zueinander finden.</title>
+      <description>Bei der Umsetzung von IoT-Projekten passt die Realit#228;t oftmals nicht zu den hybriden Cloud-Szenarien. Schmalbandige, instabile oder erst gar nicht vorhandene Internetverbindungen sorgen daf#252;r, dass viele Szenarien in der Praxis nicht umsetzbar sind.
+In F#228;llen, wo eine eingeschr#228;nkte Konnektivit#228;t die Nutzung von Cloud-Services einschr#228;nkt, muss daher eine alternative Architektur entwickelt werden. Die Nutzung g#252;nstiger Devices zur lokalen Datenspeicherung und Vorab-Analyse kann hier eine L#246;sung darstellen. F#252;r die schnelle, ressourcenschonende Datenspeicherung von semi-strukturierten Daten haben sich an vielen Stellen NoSQL Datenbanken etabliert. 
+Wir zeigen, wie eine hybride Architektur aus NoSQL Datenbanken auf Devices im Feld und einem zentralen SQL Server aufgebaut werden kann und welche Vor- und Nachteile sie mit sich bringt. </description>
+      <startTime>6/11/2016 3:45:00 PM</startTime>
+      <endTime>6/11/2016 4:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49077</importID>
+      <speakers>
+        <speaker>
+          <id>49077</id>
+          <name>Christoph Muthmann</name>
+        </speaker>
+      </speakers>
+      <track>2 - DEV</track>
+      <location>
+        <name>Track 2</name>
+      </location>
+      <title>Performanceoptimierung mit Hilfe des Plancache</title>
+      <description>In dieser Session sehen wir, was der Plancache ist und welche unterschiedlichen Informationen er uns geben kann. Wir lernen Parameter f#252;r den Server oder einzelne Datenbanken kennen und wie wir gezielt kleinere oder gr#246;#223;ere Teile des Plancache bereinigen k#246;nnen. Parameter Sniffing und der Einsatz von Plan Guides runden diesen Teil ab. Abschlie#223;end lernen wir ein Dashboard kennen, mit dem wir uns dem Plancache in grafischer Form n#228;hern. Die Analyse unserer Performance-Daten soll uns gezielt einzelne Datenbanken oder Statements zeigen, wo weitere Aktivit#228;ten notwendig sind. Gerade bei Systemen mit vielen Datenbanken wird die genauere Eingrenzung auf die Verursacher der Last vereinfacht.</description>
+      <startTime>6/11/2016 2:30:00 PM</startTime>
+      <endTime>6/11/2016 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>46508</importID>
+      <speakers>
+        <speaker>
+          <id>46508</id>
+          <name>Sam Lester</name>
+        </speaker>
+      </speakers>
+      <track>5 - BI</track>
+      <location>
+        <name>Track 2</name>
+      </location>
+      <title>Power BI Desktop – Leveraging the magic of Power BI - ON-PREM</title>
+      <description>It won’t be long before we host the majority of our data, compute power, reporting, and BI visualizations in the cloud, but we’re not all there quite yet. In this presentation, we will discuss ONLY those options that are available on-premises, covering functionality differences between Power BI and Power BI Desktop as well as the critical integration of .pbix dashboards and visualizations with other enterprise reporting and collaboration tools, such as SharePoint, PowerPoint, Excel, and SQL Server Reporting Services. We’ll also highlight the Microsoft BI roadmap for SQL Server 2016, SSRS, Power BI, Datazen, and what it means specifically for on-premise customers.</description>
+      <startTime>6/11/2016 12:00:00 PM</startTime>
+      <endTime>6/11/2016 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49096</importID>
+      <speakers>
+        <speaker>
+          <id>49096</id>
+          <name>Andreas Wolter</name>
+        </speaker>
+      </speakers>
+      <track>1 - DBA</track>
+      <location>
+        <name>Track 1</name>
+      </location>
+      <title>Analysieren von SQL Server Workloads mit DMVs und XEvents</title>
+      <description>Diese Session f#252;hrt durch eine beispielhafte Performance-Analyse unter der Verwendung von DMVs und Extended Events. Wir sehen, wie man eine Top-Down Analyse mit eingebauten Tools durchf#252;hren kann und wie man eine feingradige Analyse selbst mittel den „Wait Statistics“ durchf#252;hren kann um Performance-Problemen und Bottlenecks auf die Schliche zu kommen. Zur Identifizierung von Plan-#196;nderungen wird auch die neue Query Data Store von SQL Server 2016 zum Einsatz kommen. Wer auf dem Feld der Performance-Analysen noch neu ist oder sehen m#246;chte, wie man an die Herausforderung herangehen kann, wird hier praktische Einblicke erhalten, wie man eine Workload analysieren kann. – Die Session ist „Profiler-free“ ;-)</description>
+      <startTime>6/11/2016 12:00:00 PM</startTime>
+      <endTime>6/11/2016 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>48531</importID>
+      <speakers>
+        <speaker>
+          <id>48531</id>
+          <name>Patrick Heyde</name>
+        </speaker>
+      </speakers>
+      <track>3 - Cloud</track>
+      <location>
+        <name>Track 3</name>
+      </location>
+      <title>Joga f#252;r die Datenbank - Stretch Database in SQL Server 2016</title>
+      <description>Mit dem SQL Server 2012 fing es an, das Backup landete verschl#252;sselt in der Cloud. Mit dem SQL Server 2014 ging es weiter, erste kompletten Datenbank-Dateien (MDF, NDF und LDF) k#246;nnen nativ von der Azure Cloud verschl#252;sselt abgelegt werden (#ByeByeTraditionelleFestplatten) oder auch die Replication mit Cloud gemanaged Datenbanken haben neue Geo-HA-Szenarien  -Services erm#246;glicht. Neue Architekturen zu einer flexibleren Hardware-, Software- und Lizenzstruktur entstanden. Mit dem SQL Server 2016 geht die Reise weiter. Lassen sie sich #252;berraschen wie ein SQL Server 2016 mit quasi unbegrenzter Hardware laufen kann. Die Businesssicht soll nat#252;rlich nicht zu kurz kommen mit den Themen Sicherheit und Preis-Kalkulation. 
+</description>
+      <startTime>6/11/2016 9:15:00 AM</startTime>
+      <endTime>6/11/2016 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>48432</importID>
+      <speakers>
+        <speaker>
+          <id>48432</id>
+          <name>Alexander Karl</name>
+        </speaker>
+      </speakers>
+      <track>2 - DEV</track>
+      <location>
+        <name>Track 2</name>
+      </location>
+      <title>JSON    XML;  seit SQL 2016 gilt es die jeweiligen Vorteile abzuw#228;gen</title>
+      <description>Die Session beginnt mit „JSON“ und zeigt an einem Syntax-Vergleich die #196;hnlichkeiten zu XML.
+Sowohl die unterschiedlichen Einsatzszenarien als auch der technische Background
+von JSON und XML bedingen jedoch einen unterschiedlichen Funktions- und Sprachumfang.
+Deshalb werden zun#228;chst, soweit m#246;glich, die Parallelen aufgezeigt.
+Insbesondere die T-SQL Erweiterungen  „FOR JSON“  und  „OpenJSON“  sind sehr #228;hnlich implementiert im Vergleich zu „FOR XML“ und „OpenXML“.
+Weiterhin sind jetzt im T-SQL die neuen Funktionen  „IsJSON“,  „JSON_VALUE“ und  „JSON_QUERY“ enthalten. Gibt es diese als T-SQL Funktionen auch f#252;r XML oder k#246;nnen die Ergebnisse mit XML-Methoden  berechnet werden ?
+XML hat dar#252;ber hinaus einige weitere Features, die das Speichern (und indexieren) und Abfragen 
+(insbesondere mit XQuery) in relationalen Tabellen betreffen. Diese werden ebenfalls beispielhaft aufgezeigt. 
+Ziel der Session ist aufzuzeigen, wann welche Sprache jeweils Vorteile bringt.
+</description>
+      <startTime>6/11/2016 5:15:00 PM</startTime>
+      <endTime>6/11/2016 6:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49167</importID>
+      <speakers>
+        <speaker>
+          <id>49167</id>
+          <name>William Durkin</name>
+        </speaker>
+      </speakers>
+      <track>1 - DBA</track>
+      <location>
+        <name>Track 1</name>
+      </location>
+      <title>Rock Solid SQL Server Settings. Not Just "Next, Next, Finish"</title>
+      <description>Default application settings are aimed at the average user. With SQL Server being installed hundreds of thousands, if not millions of times across the globe, this average is inevitably far from your specific use case. With that in mind, we must take a look at what settings are available inside SQL Server that you can change to allow SQL Server to perform better.
+
+We will discuss settings that can provide immediate improvements at the instance, database or object level.
+
+You will leave this session with an understanding of what settings are available to you and how to approach making changes to your environment that can cause great performance improvements, without having to change your applications.</description>
+      <startTime>6/11/2016 9:15:00 AM</startTime>
+      <endTime>6/11/2016 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>50768</importID>
+      <speakers>
+        <speaker>
+          <id>50768</id>
+          <name>Constantin Klein</name>
+        </speaker>
+      </speakers>
+      <track>3 - Cloud</track>
+      <location>
+        <name>Track 3</name>
+      </location>
+      <title>Neue Benutzerinteraktionen mit der Cortana Intelligence Suite</title>
+      <description>Die Anforderungen an die Verarbeitung von Daten im Big Data Umfeld liegen auf dem Tisch. Aber bisher musste man sich aus dem Zoo an verf#252;gbaren Azure Services selbst die Richtigen zusammensuchen, um g#228;ngige IoT Szenarien abzubilden: wie z.B. Vorhersagen #252;ber das Kaufverhalten zu treffen oder Predictive maintenance (PdM) L#246;sungen zu entwickeln. Au#223;erdem entwickelt sich die Art, wie Benutzer mit Software interagieren, st#228;ndig weiter. Aus einem Konglomerat an Services wurde daher eine durchg#228;ngige Suite um neuartige und intelligente L#246;sungen zu entwickeln und das Kind hat endlich auch einen Namen: Cortana Intelligence Suite!
+
+In diesem Talk besch#228;ftigen wir uns mit dem gesamten Stack vom skalierbaren Dateneingang, #252;ber die Echtzeit-Datenverarbeitung bis hin zu pr#228;diktiven Vorhersagen und modernen Visualisierungen in PowerBI. Bleibt am Ende immer noch die Frage: Wo steckt nun Cortana? – Aber auch das werden wir in diesem Talk kl#228;ren.</description>
+      <startTime>6/11/2016 10:45:00 AM</startTime>
+      <endTime>6/11/2016 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>48436</importID>
+      <speakers>
+        <speaker>
+          <id>48436</id>
+          <name>Oliver Engels</name>
+        </speaker>
+      </speakers>
+      <track>3 - Cloud</track>
+      <location>
+        <name>Track 3</name>
+      </location>
+      <title>360#176; around Azure Data Lake – Storage, Analytics and Development Part 1</title>
+      <description>In the first part of the session combo Oliver, Sascha and Tillmann will explain the concepts behind a data lake, what is different to current approaches of data storage and how it is implement on Azure. They will look behind the scenes and give you advise on data upload, security and how to use the API to integrated Azure Data Lake into your application. With an introduction to Azure Data Lake Analytics, by explaining how to create analytical jobs, how the distribution system YARN works and the creation of the first queries with U-SQL against the data lake this session will end</description>
+      <startTime>6/11/2016 2:30:00 PM</startTime>
+      <endTime>6/11/2016 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>46189</importID>
+      <speakers>
+        <speaker>
+          <id>46189</id>
+          <name>Mikael Wedham</name>
+        </speaker>
+      </speakers>
+      <track>1 - DBA</track>
+      <location>
+        <name>Track 1</name>
+      </location>
+      <title>The log, the whole log and nothing but the log</title>
+      <description>This session focuses on the transaction log. It begins with a quick glance on what goes on in and around the log in the different recovery modes. You'll then get a deep dive into log sequence numbers, how to find them and what that info means. The context for theese demos is the backup database and backup log commands. Finally you'll see a demo in which we will recover a database from a total data-drive crash without losing one single transaction.It's all about the log...</description>
+      <startTime>6/11/2016 3:45:00 PM</startTime>
+      <endTime>6/11/2016 4:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>48437</importID>
+      <speakers>
+        <speaker>
+          <id>48437</id>
+          <name>Oliver Engels</name>
+        </speaker>
+      </speakers>
+      <track>3 - Cloud</track>
+      <location>
+        <name>Track 3</name>
+      </location>
+      <title>360#176; around Azure Data Lake – Storage, Analytics and Development Part 2</title>
+      <description>The second part of the combo will go deep dive into the new language U-SQL. Oliver, Sascha and Tillmann will explain the concepts of the new language as a mix of SQL and C#. They will take Visual Studio and show the power of the new analytical language by creating complex queries, building functionality in C#, creating extractors, using federation to combine different data streams and tools like Azure Data Factory or SSIS to integrate into your landscapes. The combo session will close by explaining how to debug and monitor your U-SQL scripts on the Azure Data Lake Services and what you need to know controlling the service from a cost perspective.
+</description>
+      <startTime>6/11/2016 3:45:00 PM</startTime>
+      <endTime>6/11/2016 4:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49658</importID>
+      <speakers>
+        <speaker>
+          <id>49658</id>
+          <name>Christoph Seck</name>
+        </speaker>
+      </speakers>
+      <track>5 - BI</track>
+      <location>
+        <name>Track 5</name>
+      </location>
+      <title>Slowly Changing Dimensions mit den MDS</title>
+      <description>Vieles spricht daf#252;r die Master Data Services in DWH Projekten einzusetzen - und nicht nur dort. In dieser Session wollen wir uns (nach einer kurzen #220;bersicht zu den MDS Basics) auf einen Aspekt konzentrieren: "Slowly Changing Dimensions". W#228;hrend die neuen Temporal Tables hier viel versprechen und wenig halten, bieten die MDS schon in der alten Version (bis 2014) solide Unterst#252;tzung. Mit dem 2016er wird es dann fast zum Selbstl#228;ufer. Wir werden uns beides anschauen.
+Vorkenntnisse zu den MDS sind nicht notwendig, solides SQL schon.</description>
+      <startTime>6/11/2016 9:15:00 AM</startTime>
+      <endTime>6/11/2016 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>46691</importID>
+      <speakers>
+        <speaker>
+          <id>46691</id>
+          <name>Bent Pedersen</name>
+        </speaker>
+      </speakers>
+      <track>5 - BI</track>
+      <location>
+        <name>Track 5</name>
+      </location>
+      <title>Scripting tabular models</title>
+      <description>Introducing the new scripting language for tabular models. Before SQL Server 2016 tabular models was wrapped into a multidimensional constructs. TMSL is the new native language for tabular which is build on JSON - this makes it easy to understand, modify and deploy.
+
+During this session I will go through and explain some examples on generating a SSAS tabular model by using the new TSML to demonstrate how powerfull this feature is and how you can use it to save time and effort.</description>
+      <startTime>6/11/2016 2:30:00 PM</startTime>
+      <endTime>6/11/2016 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45909</importID>
+      <speakers>
+        <speaker>
+          <id>45909</id>
+          <name>Ben Weissman</name>
+        </speaker>
+      </speakers>
+      <track>5 - BI</track>
+      <location>
+        <name>Track 5</name>
+      </location>
+      <title>SSIS f#252;r Faulpelze – Einf#252;hrung in BIML</title>
+      <description>Jeder der sich mit dem Thema Datenbeladung per SSIS besch#228;ftigt wei#223;: Viel von dem was wir tun ist weder technisch anspruchsvoll noch kreativ. Es ist eine Wiederholung der Wiederholung der Wiederholung. Warum also nicht langweilige Tasks automatisieren und sich auf die spannenden Themen konzentrieren? In diesem Vortrag schauen wir uns in einigen Demos gemeinsam an, wie sich eine komplette Staging-Umgebung mit BIML aufbauen und warten l#228;sst.</description>
+      <startTime>6/11/2016 5:15:00 PM</startTime>
+      <endTime>6/11/2016 6:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>47251</importID>
+      <speakers>
+        <speaker>
+          <id>47251</id>
+          <name>Tobias Koprowski</name>
+        </speaker>
+      </speakers>
+      <track>3 - Cloud</track>
+      <location>
+        <name>Track 3</name>
+      </location>
+      <title>SQL Security in the Cloud</title>
+      <description>Our data should be secure. And our environment too. What we can do for maximize security in a hybrid environment, where SQL Server exist in two forms: premise and cloud. How organize our job, how control our data if we use Windows Azure SQL Database - The Cloud Database. Physical security, policy based management, auditing, encryption, federation, access and authorization. All of those subjects will be covered on my session.</description>
+      <startTime>6/11/2016 12:00:00 PM</startTime>
+      <endTime>6/11/2016 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>50781</importID>
+      <speakers>
+        <speaker>
+          <id>50781</id>
+          <name>Tillmann Eitelberg</name>
+        </speaker>
+      </speakers>
+      <track>4 - Mixed</track>
+      <location>
+        <name>Track 4</name>
+      </location>
+      <title>Bioinformatics on Azure</title>
+      <description>If people think about big data, they always think about Twitter or Facebook. But there are other areas where much more data amounts incurred and the analyzes are more complex. In this talk, we talk about a real example from bioinformatics. We will explain the actual scenario and how the various Microsoft platforms from SQL Server to Azure Data Lake and Power BI could help us – or not.</description>
+      <startTime>6/11/2016 5:15:00 PM</startTime>
+      <endTime>6/11/2016 6:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>46113</importID>
+      <speakers>
+        <speaker>
+          <id>46113</id>
+          <name>Frank Geisler</name>
+        </speaker>
+      </speakers>
+      <track>5 - BI</track>
+      <location>
+        <name>Track 5</name>
+      </location>
+      <title>What's new in Reporting Services 2016?</title>
+      <description>The box is back! Das war das Mantra, das Microsoft auf dem PASS Summit 2015 verbreitet hat. Bezogen auf Reporting Services bedeutet das, dass viel in neue und erweiterte Funktionen investiert wurde. Eine der neuen Funktionen ist, dass Datazen Dashboards und KPIs nun Bestandteil der Reporting Services geworden sind, dass man Reporting Services Berichte auf ein Power BI Dashboard pinnen kann oder dass man Parameter in Berichten besser anordnen kann. In seiner Session wird Data Platform MVP Frank Geisler #252;ber die neuen Funktionen sprechen und diese auch praktisch in zahlreichen Demos demonstrieren. </description>
+      <startTime>6/11/2016 12:00:00 PM</startTime>
+      <endTime>6/11/2016 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>48713</importID>
+      <speakers>
+        <speaker>
+          <id>48713</id>
+          <name>Mark A. Kuschel</name>
+        </speaker>
+      </speakers>
+      <track>2 - DEV</track>
+      <location>
+        <name>Track 2</name>
+      </location>
+      <title>R Services in SQL Server - Revolution oder Spielzeug?</title>
+      <description>Data Mining war gestern, Data Science ist heute! Mit SQL Server 2016 l#228;sst Microsoft der Sprache R neue Fl#252;gel wachsen.
+In dieser Session seht ihr die nahtlose Integration der R Services in der SQL Server Datenbank sowie in Reporting Services, welche analytischen M#246;glichkeiten sich dadurch ergeben.
+Ebenso gehen wir auf die Unterschiede zwischen SQ Server R Services und dem eigenst#228;ndigen R Server bestehen und was es mit ScaleR auf sich hat. Und nat#252;rlich darf auch der Einblick in ein R Projekt nicht fehlen.</description>
+      <startTime>6/11/2016 9:15:00 AM</startTime>
+      <endTime>6/11/2016 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>47092</importID>
+      <speakers>
+        <speaker>
+          <id>47092</id>
+          <name>Scott Klein</name>
+        </speaker>
+      </speakers>
+      <track>4 - Mixed</track>
+      <location>
+        <name>Track 4</name>
+      </location>
+      <title>What is the Internet-of-Things and why should you care?</title>
+      <description>You work with SQL Server. Awesome. Starting today you have two choices: 1) you can stick with what you currently do and watch as the technology future passes you by, or 2) you can start learning and working with next big industry trend in data. This session will take you on an end-to-end journey of IoT, the Internet-of-things, from data generation to data movement, discussing topics such as "big data" and looking at all the services and technologies that help you understand your data. Simply, this session will help you understand the Internet or "YOUR" things. </description>
+      <startTime>6/11/2016 9:15:00 AM</startTime>
+      <endTime>6/11/2016 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>49599</importID>
+      <speakers>
+        <speaker>
+          <id>49599</id>
+          <name>Stefan Kirner</name>
+        </speaker>
+      </speakers>
+      <track>3 - Cloud</track>
+      <location>
+        <name>Track 3</name>
+      </location>
+      <title>Cloud Wars – what‘s the smartest data platform?</title>
+      <description>Die gro#223;en Public Cloud Anbieter locken inzwischen mit vielversprechenden Platform-as-a-service Angeboten um Daten jeglicher Art performant und kosteneffizient zu speichern und zu verarbeiten. Neben unterschiedlichen Datenbanken gibt es dazu Dienste f#252;r Batch- und Realtime-Processing. In diesem Vortrag werden einige der wichtigen data-driven-services anhand eines typischen IoT Szenarios aus der Praxis beleuchtet. Dazu gehen drei Schwergewichte des Cloud Business ins Rennen:  Microsoft Azure vs. Amazon Web Services vs. Google Cloud Platform </description>
+      <startTime>6/11/2016 5:15:00 PM</startTime>
+      <endTime>6/11/2016 6:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>46370</importID>
+      <speakers>
+        <speaker>
+          <id>46370</id>
+          <name>Torsten Strauss</name>
+        </speaker>
+      </speakers>
+      <track>4 - Mixed</track>
+      <location>
+        <name>Track 4</name>
+      </location>
+      <title>Join Operatoren</title>
+      <description>In dieser Session (Level 300) stellen wir einen Vergleich zwischen Nested Loop, Merge und Hash Join an.
+Dabei erarbeiten wir die Vor- und Nachteile (Memory Grant, Performance, IO) und ein Verst#228;ndnis f#252;r die Limitationen dieser Join Operatoren. Am Ende der Session werden wir vorhersagen k#246;nnen, f#252;r welchen Join Operator sich der SQL Server bei einer bestimmten Abfrage entscheidet um ggf. Performanceproblemen zu antizipieren.
+Ein grundlegendes Verst#228;ndnis der Interpretation des Abfrageplans und -Statistiken wird hierbei vorausgesetzt.</description>
+      <startTime>6/11/2016 2:30:00 PM</startTime>
+      <endTime>6/11/2016 3:30:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

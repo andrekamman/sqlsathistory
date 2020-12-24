@@ -1,0 +1,21 @@
+# SQLSaturday #355 - Parma, Italy 2014
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Dejan Sarka|Track DEV|[Analyzing Text with SQL Server 2014](13559.md)
+00:00:00|Dejan Sarka|Track DEV|[Identity Mapping and De-Duplicating ](13560.md)
+00:00:00|Gianluca Sartori|Track OPERATIONAL|[Extending the Data Collector to Monitor SQL Server effortlessly](14603.md)
+00:00:00|Gilberto Zampatti|Track BI|[Columnstore indexes, concepts and evolution](14632.md)
+00:00:00|Davide Mauri|Track BI|[BI Markup Language - BI to the next level (IT)](15334.md)
+00:00:00|Davide Mauri|Track BI|[Modern Hybrid BI Solutions: Azure, Big Data  Power BI](15335.md)
+00:00:00|Marco Pozzan|Track BI|[Xvelocity in deep](15341.md)
+00:00:00|Luca Ferrari|Track BI|[SQl Server 2012 Parallel Datawarehouse](19290.md)
+00:00:00|Luca Ferrari|Track DEV|[Sql Server 2014 In-Memory Oltp Database](19291.md)
+00:00:00|Marco Russo|Track BI|[Power Query in Modern Corporate BI](19471.md)
+00:00:00|Michael Denny|Track DEV|[Entity Framework 6 for developers, Code-First!](20226.md)
+00:00:00|Saverio Lorenzini|Track OPERATIONAL|[Ottimizzare le query SQL: tecniche di analisi del codice eseguito in memoria cache.](23999.md)
+00:00:00|Sergio Govoni|Track OPERATIONAL|[Execution Plans in SQL Server e SQL Azure](24392.md)
+00:00:00|Alessandro Alpi|Track DEV|[Database under source control](25895.md)
+00:00:00|Alessandro Alpi|Track DEV|[Database unit testing](25896.md)
+00:00:00|Marco Parenzan|Track OPERATIONAL|[Azure Overview for SQL Server Developers](34761.md)
+00:00:00|andrea benedetti|Track OPERATIONAL|[SQL Server: miti da sfatare ](9439.md)
+00:00:00|Andrea Caldarone|Track OPERATIONAL|[Virtualize SQL Server](9444.md)

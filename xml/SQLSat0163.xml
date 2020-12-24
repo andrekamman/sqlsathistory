@@ -1,0 +1,816 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #163 - Dallas - BI Edition 2012</name>
+    <startDate>10/13/2012 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT-06:00) Saskatchewan</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat163</twitterHashtag>
+    <venue>
+      <name>Microsoft Campus - Las Colinas</name>
+      <street>7000 State Hwy 161</street>
+      <city>Irving</city>
+      <state>Texas</state>
+      <zipcode>75309</zipcode>
+      <longitude>-96.963005</longitude>
+      <latitude>32.899219</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>23069</importID>
+      <name>Rob Kerr</name>
+      <label>
+      </label>
+      <description>Rob is CTO with BlueGranite, is a Microsoft SQL Server MVP and holds top Microsoft certifications in both SQL Server Database Administration and BI Development.  Rob has implemented data warehouse and business analytics systems for many Fortune 500 companies, and focuses on large-scale data warehousing, geospatial data analysis and mobile solutions.  Rob is the lead contributor to msbiacademy.com, a site providing free on-demand training covering a variety of Microsoft BI topics.</description>
+      <twitter>@robkerrbi</twitter>
+      <linkedin>http://www.linkedin.com/in/kerrrob/</linkedin>
+      <ContactURL>http://www.robkerr.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@robkerrbi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21843</importID>
+      <name>Paul Turley</name>
+      <label>
+      </label>
+      <description>Paul is a Principal Consultant for Pragmatic Works, a Mentor and Microsoft Data Platform MVP. He consults, writes, speaks, teaches  blogs about business intelligence and reporting solutions. He works with companies around the world to model data, visualize and deliver critical information to make informed business decisions; using the Microsoft data platform and business analytics tools. He is a Director of the Oregon Data Community PASS chapter  user group, the author  and lead author of Professional SQL Server 2016 Reporting Services and 14 other titles from Wrox  Microsoft Press.  He holds several certifications including MCSE for the Data Platform and BI.</description>
+      <twitter>paul_turley</twitter>
+      <linkedin>https://www.linkedin.com/in/pturley</linkedin>
+      <ContactURL>http://www.sqlserverbiblog.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=paul_turley</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11395</importID>
+      <name>Chaitanya Khaladkar</name>
+      <label>
+      </label>
+      <description>Chaitanya Khaladkar is a Solutions Architect with GNet Group, a gold certified IW and BI partner. He has in-depth experience in developing architectures, and leading business productivity projects that span the entire Microsoft Business Productivity and Business Intelligence platform. Chaitanya has worked on several successful solution development projects to build rich web and collaborative applications on SQL Server and SharePoint since 2005.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.gnetgroup.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21767</importID>
+      <name>Patrick Brady</name>
+      <label>
+      </label>
+      <description>Patrick Brady is a solution architect with the business intelligence practice of Slalom Consulting in Dallas, Texas.  Patrick spent a number of years building custom development solutions in .NET and J2EE before discovering business intelligence.  Since then he has been a passionate advocate for BI and has worked with numerous clients to build BI solutions that provide immediate and long lasting value.  Combining his passion for BI with his active participation within the Slalom Consulting BI pr</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>12440</importID>
+      <name>David Stein</name>
+      <label>
+      </label>
+      <description>David Stein - Agile Data Warehouse Architect and Independent Consultant - has more than a decade of experience working in SQL Server Business Intelligence. He’s designed multi-terabyte, multi-tenant Data Warehouses from scratch as well as saved projects in serious jeopardy.</description>
+      <twitter>@Made2Mentor</twitter>
+      <linkedin>http://www.linkedin.com/pub/david-stein/8/ba8/705</linkedin>
+      <ContactURL>http://www.Made2Mentor.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Made2Mentor</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21844</importID>
+      <name>Paul Turley</name>
+      <label>
+      </label>
+      <description>Paul is a Principal Consultant for Pragmatic Works, a Mentor and Microsoft Data Platform MVP. He consults, writes, speaks, teaches  blogs about business intelligence and reporting solutions. He works with companies around the world to model data, visualize and deliver critical information to make informed business decisions; using the Microsoft data platform and business analytics tools. He is a Director of the Oregon Data Community PASS chapter  user group, the author  and lead author of Professional SQL Server 2016 Reporting Services and 14 other titles from Wrox  Microsoft Press.  He holds several certifications including MCSE for the Data Platform and BI.</description>
+      <twitter>paul_turley</twitter>
+      <linkedin>https://www.linkedin.com/in/pturley</linkedin>
+      <ContactURL>http://www.sqlserverbiblog.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=paul_turley</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>25179</importID>
+      <name>Sri Sridharan</name>
+      <label>
+      </label>
+      <description>Sri is the President of North Texas SQL Server User Group. Sri has been involved with SQL Server since version 4.2 and has held various roles developer/dba/ architect / pre-sales over the years. He is largely responsible for some of  few features in SQL 2008 like TDE and tools like MAPS. Sri holds a Bachelor's Degree in Physics , Masters in Computer Information Systems and an MBA in Finance. His wife Hema, made sure he got a 3rd Masters in parenting their 2 sons.</description>
+      <twitter>@sqlrocks</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlrocks.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlrocks</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27469</importID>
+      <name>visakh murukesan</name>
+      <label>
+      </label>
+      <description>Visakh Murukesan is a Microsoft SQL Server MVP who has over 7 years of experience with delivering projects on the SQL Server platform as well as data integration based on the SQL Server Integration Services platform. Extensive experience in developing complex reporting solutions based on SQL Server Reporting Services platform. His areas of expertise include SQL Server Stored Procedures, SSIS, SSAS, and managing XML data in SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://visakhm.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15845</importID>
+      <name>Jason Horner</name>
+      <label>
+      </label>
+      <description>Hi, my name is Jason. I spend most of my day helping clients solve business problems mostly in the Data and Advanced Analytics spaces. Sometimes this involves various and sundry cloud technologies including Azure Data Factory, Azure SQL Data Warehouse, Azure Data Lake Store, Azure Databricks, HDInsight and Azure SQL Database. I'm fluent in several languages including: SQL, C#, Python, and PowerShell.
+
+I'm a Microsoft Certified Master of SQL Server (MCM) and have been recognized for my technical excellence and evangelism efforts by Microsoft by being awarded the Most Valuable Professional (MVP) for the last 5+ years.
+
+In my off hours I like to snowboard, karaoke, ride roller coasters, and play arcade games</description>
+      <twitter>jasonhorner</twitter>
+      <linkedin>http://www.linkedin.com/in/jasonhorner</linkedin>
+      <ContactURL>http://blog.jasonhorner.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=jasonhorner</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>26613</importID>
+      <name>Tim Mitchell</name>
+      <label>
+      </label>
+      <description>Tim Mitchell is a business intelligence architect, author, and trainer. He has worked with SQL Server for over a decade, specializing in data warehousing, ETL/SSIS, and reporting. He holds a Bachelor’s Degree in Computer Science from Texas AM at Commerce, and is recognized as a Microsoft Data Platform MVP.  Tim is a business intelligence consultant and principal at Tyleris Data Solutions.
+
+Tim is an active community speaker and volunteer, having spoken at over 100 events including the PASS Summit, SQLBits, Dev Connections, SQL Intersection, and scores of SQL Saturdays. He blogs at TimMitchell.net, and tweets at @Tim_Mitchell.</description>
+      <twitter>@Tim_Mitchell</twitter>
+      <linkedin>https://www.linkedin.com/in/timmitchell/</linkedin>
+      <ContactURL>http://www.TimMitchell.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Tim_Mitchell</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19389</importID>
+      <name>Mahesh Pujari</name>
+      <label>
+      </label>
+      <description>Mahesh Pujari has over 11 years of experience in IT industry with in-depth experience in the areas of Data Management, Business Intelligence and Database Management. He has worked on several projects across industry verticals with a focus on Database design, development and maintenance in the area of Business Intelligence.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.Gnetgroup.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23725</importID>
+      <name>Ryan Adams</name>
+      <label>
+      </label>
+      <description>Ryan Adams is a Senior Premier Field Engineer for Microsoft.  He works directly with customers to help them realize their business potential and accelerate their digital transformation on premises and in the cloud.
+
+Previously, Ryan was a Microsoft Data Platform MVP and spent 19 years working for a fortune 100 company.  His passion is the SQL Server Engine, High Availability, and Disaster Recovery. He also served on the Board of Directors for the North Texas SQL Server User Group, was President of the PASS Performance Virtual Chapter, was a PASS Regional Mentor, and served as a Director for the PASS organization.</description>
+      <twitter>@ryanjadams</twitter>
+      <linkedin>http://www.linkedin.com/in/ryanjadams</linkedin>
+      <ContactURL>http://www.ryanjadams.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ryanjadams</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>12751</importID>
+      <name>David Eichner</name>
+      <label>
+      </label>
+      <description>David Eichner is a licensed CPA and is also CEO of ICAN Software Corporation, a Microsoft Dynamics amp; Acumatica ERP partner firm that sell and implements ERP and CRM software, develops software solutions and provides technology consulting.  He is the host of a radio show called Business In The Cloud that airs weekly on KLAY 1180AM.  He is skilled in building integrated cloud app solutions. His career spans more than 20 years in various technical/managerial positions within industries as diverse as military service,  engineering/construction, municipal government, consulting and certified public accounting.  Additionally, he holds various national certificates in technology (MCDBA, MCSE, CNE, CITP, Dynamics CRM and ERP, Acumatica CRM and ERP)</description>
+      <twitter>@ICANSoftware</twitter>
+      <linkedin>http://www.linkedin.com/in/icansoftware</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ICANSoftware</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9914</importID>
+      <name>Adam Saxton</name>
+      <label>
+      </label>
+      <description>Adam Saxton is just a guy in a cube doing the work! He is on the Power BI CAT team at Microsoft, working with customers to help adopt Power BI. He is based in Texas and started with Microsoft supporting SQL Server connectivity and Reporting Services in 2005. Adam has worked with Power BI since the beginning, on the support side, and with documentation. In addition, he produces weekly videos for his Guy in a Cube YouTube channel.</description>
+      <twitter>@GuyInACube</twitter>
+      <linkedin>https://www.linkedin.com/in/guyinacube</linkedin>
+      <ContactURL>https://guyinacube.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@GuyInACube</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21757</importID>
+      <name>Patrick Gallucci</name>
+      <label>
+      </label>
+      <description>Patrick Gallucci is a Microsoft Certified Trainer and SQL Server/Business Intelligence Architect, with 20 years’ experience working with relational databases including Microsoft SQL Server, Oracle, DB2, Sybase and MySQL. Before leaving Microsoft in February of 2009, Patrick worked on various Data Warehouse and Business Intelligence projects for the communications sector in Denver and New York. He is currently a Business Intelligence\SQL Server Practice Director for Neudesic based out of Texas.</description>
+      <twitter>@VisualDeveloper</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://visualdeveloper.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@VisualDeveloper</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11063</importID>
+      <name>Bryan Smith</name>
+      <label>
+      </label>
+      <description>Bryan is a Data Solution Specialist with Microsoft Las Colinas, focused on data-driven solutions in the Azure cloud.  He also teaches analytics technologies within the MBA amp; MSBA programs at SMU Cox School of Business.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/pub/bryan-smith/17/98b/161</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16868</importID>
+      <name>Jeff Johnston</name>
+      <label>
+      </label>
+      <description>Jeff Johnston is the Business Intelligence Practice Leader for Artis Consulting.  Based in Dallas, TX, Jeff provides guidance for client engagements, solution strategy, Microsoft partnership and sales execution. Jeff has spoken at various Microsoft events including MSBIC and SharePoint Techfest.  Jeff holds an MBA in Strategy  Entrepreneurship and has several Microsoft certifications including MCITP-BI, MCDBA, and MCSD.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11061</importID>
+      <name>Bryan Smith</name>
+      <label>
+      </label>
+      <description>Bryan is a Data Solution Specialist with Microsoft Las Colinas, focused on data-driven solutions in the Azure cloud.  He also teaches analytics technologies within the MBA amp; MSBA programs at SMU Cox School of Business.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/pub/bryan-smith/17/98b/161</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15496</importID>
+      <name>Ira Warren</name>
+      <label>
+      </label>
+      <description> Over 35 years experiences in Software Sevelopemt, IT Management and BI Architecture.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15844</importID>
+      <name>Jason Horner</name>
+      <label>
+      </label>
+      <description>Hi, my name is Jason. I spend most of my day helping clients solve business problems mostly in the Data and Advanced Analytics spaces. Sometimes this involves various and sundry cloud technologies including Azure Data Factory, Azure SQL Data Warehouse, Azure Data Lake Store, Azure Databricks, HDInsight and Azure SQL Database. I'm fluent in several languages including: SQL, C#, Python, and PowerShell.
+
+I'm a Microsoft Certified Master of SQL Server (MCM) and have been recognized for my technical excellence and evangelism efforts by Microsoft by being awarded the Most Valuable Professional (MVP) for the last 5+ years.
+
+In my off hours I like to snowboard, karaoke, ride roller coasters, and play arcade games</description>
+      <twitter>jasonhorner</twitter>
+      <linkedin>http://www.linkedin.com/in/jasonhorner</linkedin>
+      <ContactURL>http://blog.jasonhorner.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=jasonhorner</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13749</importID>
+      <name>Ef Romero</name>
+      <label>
+      </label>
+      <description>Ef Romero is a business intelligence architect at ORIX USA, a financial services company. He is a contributing author to quot;Microsoft SQL Server Reporting Services Recipes: for Designing Expert Reportsquot; and has Microsoft certifications related to the Microsoft#39;s BI stack. Ef received his bachelor#39;s and master#39;s degrees in pure mathematics from UTEP. 
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14408</importID>
+      <name>Garrett Edmondson</name>
+      <label>
+      </label>
+      <description>Garrett Edmondson, MCITP has 10+ years experience working with the full Microsoft BI Stack. He has built several Operational and Financial Data Warehouses for large and small organizations. . During the past year he has been working on Microsoft’s Parallel Data Warehouse (PDW) Appliance, which allows SQL Server to scale to hundreds of terabytes. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://garrettedmondson.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21819</importID>
+      <name>Paul Waters</name>
+      <label>
+      </label>
+      <description>Paul has over 20 years of experience working in IT-related fields. Over the past 15 years, he has focused on Business Intelligence. Paul was the Technical Editor for the book quot;Microsoft SQL Server 2008 Integration Services Problem-Design-Solutionquot; and contributed to the Wrox book quot;Microsoft SQL Server Reporting Services Recipes: for Designing Expert Reports.quot;</description>
+      <twitter>@pswaters</twitter>
+      <linkedin>http://www.linkedin.com/in/pswaters</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@pswaters</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17638</importID>
+      <name>J Sawyer</name>
+      <label>
+      </label>
+      <description>J is a Senior Architect for Hitachi Consulting based in Houston, TX who absolutely loves to write code and build cool, innovative solutions to hard problems. He#39;s also the President of the Houston .NET User#39;s Group</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.devbiker.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>21819</importID>
+      <speakers>
+        <speaker>
+          <id>21819</id>
+          <name>Paul Waters</name>
+        </speaker>
+      </speakers>
+      <track>Beginner 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Automating SSIS Development with Biml</title>
+      <description>SSIS is a great tool for transferring data from one data source to another, and for implementing complex ETL processes. However, there are some painful shortcomings that make it difficult to automate package creation, easily reuse patterns and templates, and create packages directly from schema information and other metadata.  The free and open source BIDS Helper Add-In offers support for automatically generating SSIS packages using the Business Intelligence Markup Language (Biml). 
+In this session we will start by showing the power of Biml.  We will then step back, and start from the beginning of using BimlScript.  Once we cover the basics, we will cover practical examples using the BIDS Helper add-in to automate SSIS development.</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27469</importID>
+      <speakers>
+        <speaker>
+          <id>27469</id>
+          <name>visakh murukesan</name>
+        </speaker>
+      </speakers>
+      <track>Beginner 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SSIS Project Deployment Model</title>
+      <description>In this session, we will look at the features of the SSIS Project Deployment Model in SQL 2012. Specific areas of interest include:Shared Connection Managers : Ability to create project level connection managers which can be shared across multiple packages within projectParameterization of package properties: Concept of parameters introduced through which properties within packages can be parameterized and set from outside for automated as well as interactive package execution using environment variable setsSeamless deployment and execution monitoring through SSIS catalog: Addition of new SSIS catalog DB for storing and managing the execution of packages and easy monitoring and auditing through improved set of standard reports</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21767</importID>
+      <speakers>
+        <speaker>
+          <id>21767</id>
+          <name>Patrick Brady</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Monitoring SQL Server Analysis Services with DMVs</title>
+      <description>Imagine having the power in your hands to quickly provide activity information about open connections to Analysis Services, memory usage by specific objects, or a list of cube measures in a connection. In this session, you'll discover the power of SQL Server Analysis Services Dynamic Management Views (DMVs) that provide this information and so much more. These simple yet powerful views provide administrators with easy access to valuable information including current active sessions and connections, memory consumption, performance counters, and cube partitioning. In addition, DMVs also provide the ability to richly describe and document the structure of your cubes.</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>12440</importID>
+      <speakers>
+        <speaker>
+          <id>12440</id>
+          <name>David Stein</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Dimensions, It's All Meaningless Without Them </title>
+      <description>Dimensions are arguably the most important part of Dimensional Modeling, and it’s critical that they are designed properly. In this session, we’ll go beyond just the basics. You’ll learn how to:  
+Properly design Dimension tables.
+Understand the different types of Slowly Changing Dimensions and their proper use. 
+Load SCDs using several accepted methods including T-SQL Merge, the SCD Wizard, and a free custom transformation.</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15496</importID>
+      <speakers>
+        <speaker>
+          <id>15496</id>
+          <name>Ira Warren</name>
+        </speaker>
+      </speakers>
+      <track>Beginner 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Creating a Metadata Mart w/ SSIS - Data Governance</title>
+      <description>This is an expanded and updated version of the session I presented at the SQL Rally in Orlando. We will cover Tactical Data Governance and in detail specific code examples, using Stock and Custom SSIS Transforms ,Data Models, SSAS Cubes used to create and populate a Metadata Mart as defined by Michael Belcher(Gartner). We  will demonstrate incorporating complete custom Data Profiling capabilities (SSIS Transform Scripting, TSQL) capable of Profiling any Source and Targeting any destination. In addition we will implement Data Quality(Address Correction, Fuzzy Matching) and Visualization via PowerPivot , Excel and QlikView. Last will will demonstrate code generation.</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19389</importID>
+      <speakers>
+        <speaker>
+          <id>19389</id>
+          <name>Mahesh Pujari</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Data Visualizations with Microsoft BI Stack</title>
+      <description>Microsoft SQL Server 2012 provides tools for rapid data exploration and discovery; and creation of rich data visualizations using Power Pivot and Power View. This allows users to see and interact with their information in a faster and more dynamic way compared to static reports.  In this session, we will take an in-depth look at data visualizations and how to create compelling reports that deliver relevant insights to business to make informed decisions.
+This session will cover the end user experience of Data Visualization. We will look at how data helps business gain insights into processes and make informed decisions.</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>26613</importID>
+      <speakers>
+        <speaker>
+          <id>26613</id>
+          <name>Tim Mitchell</name>
+        </speaker>
+      </speakers>
+      <track>Beginner 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Getting Started with SSIS 2012</title>
+      <description>In this session, we'll take a tour through SQL Server Integration Services in SQL Server 2012.  We'll briefly review the essentials of SSIS and will walk through the key elements of data movement and transformation using Integration SErvices.  We'll focus much of our time on the new and improved features in this latest version of SSIS.
+
+This session will be most useful for database professionals with some experience with either DTS or SSIS, including those who are currently using an earlier version of the product and are interested in learning about what's new in 2012.</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21757</importID>
+      <speakers>
+        <speaker>
+          <id>21757</id>
+          <name>Patrick Gallucci</name>
+        </speaker>
+      </speakers>
+      <track>Advanced</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>GeoBI, Interactive Geospatial Analytics</title>
+      <description>As more and more organizations implement Business Intelligence, utilizing geographic data for analytics is becoming more prevalent. We will look a real world implementation of Geospatial Analytics. We will start with data acquisition, to preparing the data and data analysis, to providing a rich interactive BI presentation layer for your end users. We will explore the features of SQL Server 2012 SharePoint 2010 and other 3rd Party and open source applications for delivering an interactive GeoBI Project. </description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21843</importID>
+      <speakers>
+        <speaker>
+          <id>21843</id>
+          <name>Paul Turley</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Power View and PowerPivot: High-Octane Self-Svc BI</title>
+      <description>The next-generation analytic, self-service reporting tools will knock your socks off! The Power View reporting experience in SQL Server 2012 and SharePoint 2010 takes user reporting to the next level and makes data exploration fun without writing queries and code. Come see the impressive performance capabilities of BI Semantic Tabular models used with high-volume, enterprise data. Two great things that go great together!</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14408</importID>
+      <speakers>
+        <speaker>
+          <id>14408</id>
+          <name>Garrett Edmondson</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Scaling SQL Server to HUNDREDS of Terabytes!</title>
+      <description>Provide an introduction to the Microsoft Appliance and Reference Architectures. Learn how these Appliance Architectures can scale to hundreds of Terabytes. The presentation will focus on the Fast Track Reference Architecture and also contain real world performance metrics and lessons learned directly from someone who actually developed a Parallel Data Warehouse (PDW) BI Solution.</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17638</importID>
+      <speakers>
+        <speaker>
+          <id>17638</id>
+          <name>J Sawyer</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introducing StreamInsight 2.1</title>
+      <description>StreamInsight provides real-time analytics on large volumes of data with a response time measured in milliseconds, bringing a new level of capabilities to the Sql Server platform. This session will provide an overview of StreamInsight, its capabilities and use cases. It will also provide details on StreamInsight 2.1, what's been added and how it makes your real-time applications easier and more robust.</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15844</importID>
+      <speakers>
+        <speaker>
+          <id>15844</id>
+          <name>Jason Horner</name>
+        </speaker>
+      </speakers>
+      <track>Beginner 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title> PoSh Eye for the BI Guy</title>
+      <description>In this session, we will explore the many ways that you can use Windows
+PowerShell to simplify software development, deployment, and administration.
+We will discuss PowerShell features related to Microsoft SQL Server
+Reporting Services (SSRS), SQL Server Integration Services (SSIS), and SQL
+Server Analysis Services (SSAS). We will also review project structure and
+configuration management best practices. Some previous exposure with
+PowerShell or .Net programming is assumed.</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>12751</importID>
+      <speakers>
+        <speaker>
+          <id>12751</id>
+          <name>David Eichner</name>
+        </speaker>
+      </speakers>
+      <track>Beginner 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SRS Report Builder for Business Intelligence</title>
+      <description>Learn how easy it is to utilize the free download from Microsoft that allows users to create maps, charts, dashboard objects and reports against any kind of data easily without having to use Visual Studio.  See how SQL Report Builder makes creating executive dashboards easy!</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11395</importID>
+      <speakers>
+        <speaker>
+          <id>11395</id>
+          <name>Chaitanya Khaladkar</name>
+        </speaker>
+      </speakers>
+      <track>Advanced</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Data cleansing and Data Quality</title>
+      <description>In this session we will look at what Data Quality Services (DQS) in SQL Server 2012. We will look at how DQS enables data stewards to maintain the quality of their data. A major part of maintaining data quality is making sure data is clean before it makes its way to the Data Warehouse. We will also look at how DQS components in SQL Server Integration Services help cleanse data</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>25179</importID>
+      <speakers>
+        <speaker>
+          <id>25179</id>
+          <name>Sri Sridharan</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>PDW - What is it ? Is it right for me ?</title>
+      <description>In this session, you will learn about what is Parallel Datawarehouse. We will go into its architecture and understand what are good technical scenarios that justify going into Parallel DW. </description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21844</importID>
+      <speakers>
+        <speaker>
+          <id>21844</id>
+          <name>Paul Turley</name>
+        </speaker>
+      </speakers>
+      <track>Advanced</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Use a custom assembly to extend reports  queries</title>
+      <description>Amp up Reporting Services and tale your business reports to the next level with custom code written in Visual Studio.  Build one dynamic super report to replace several other reports and address business requirements more effectively. Dynamically add or remove query columns, modify groups and sorting options.</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13749</importID>
+      <speakers>
+        <speaker>
+          <id>13749</id>
+          <name>Ef Romero</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Partitioning Performance in the Data Warehouse</title>
+      <description>By simply applying partitioning to large tables, a database developer can possibly yield immediate benefits in query and ETL performance. This presentation will discuss methods that will allow BI developers to more fully leverage table partitioning in order to improve ETL and query performance in the data warehouse lifecycle. The benefits of partitioning‘s participation in an implementation of SQL Server 2012’s new columnar index storage will also be discussed.</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>23725</importID>
+      <speakers>
+        <speaker>
+          <id>23725</id>
+          <name>Ryan Adams</name>
+        </speaker>
+      </speakers>
+      <track>Beginner 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>How Active Directory affects SQL Server BI</title>
+      <description>There are many things that can go wrong with SQL server, and a lot of times they come from outside influencers.  Whether you're using SSRS, SSIS, or SSAS, Active Directory is one of the largest influencers.  We'll discuss how the location of your server in AD is important, how security can be compromised, AD DNS configuration, and of course Kerberos.  By the end of the session you'll have a check list of things to discuss with your domain administrator when you return to work.  This includes the biggest perpetrator, Group Policy Objects.</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15845</importID>
+      <speakers>
+        <speaker>
+          <id>15845</id>
+          <name>Jason Horner</name>
+        </speaker>
+      </speakers>
+      <track>Beginner 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Dimensional Modeling: Beyond the Basics</title>
+      <description>In this session, we will dive deeper into the art of dimensional modeling.
+We will identify the different types of fact tables and dimension tables and
+discuss how and when to use each type. We will also review approaches to
+creating rich hierarchies that simplify complex reporting. This session will
+be very interactive--bring your toughest dimensional modeling quandaries!</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9914</importID>
+      <speakers>
+        <speaker>
+          <id>9914</id>
+          <name>Adam Saxton</name>
+        </speaker>
+      </speakers>
+      <track>Advanced</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>What is Claims - A look at RS 2012 with SP 2010</title>
+      <description>People say that Kerberos isn't need with Reporting Services 2012.  That is a half truth.  We will look at what has happened with Reporting Services 2012 from an authentication perspective.  This will look at how Claims Authentication fits into the picture and what Kerberos items need to be addressed as a result.  If you are setting up Reporting Services 2012 with SharePoint 2010, you need to be aware of how this works and how it can affect you.</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16868</importID>
+      <speakers>
+        <speaker>
+          <id>16868</id>
+          <name>Jeff Johnston</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Analytical MDM with Master Data Services 2012</title>
+      <description>In this session we will take a deep dive in to Analytical Master Data Management and how it differs from Operational Master Data Management.  We will examine how you can leverage SQL 2012 Master Data Services to manage your data warehouse dimensions and hierarchies.  Come learn how you can leverage the new features of SQL 2012 Master Data Services to enroll business users in the process of master data management to reduce the burden on IT and as a result, maximize the value of your Master Data Management solution.</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>23069</importID>
+      <speakers>
+        <speaker>
+          <id>23069</id>
+          <name>Rob Kerr</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>100x query performance improvement with xVelocity</title>
+      <description>Learn how to achieve eye-popping performance for your data warehouse and analysis services queries using SQL Server 2012's xVelocity technologies. This session covers the core xVelocity technology and demonstrates its use in various data warehouse and analytical scenarios.
+</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11063</importID>
+      <speakers>
+        <speaker>
+          <id>11063</id>
+          <name>Bryan Smith</name>
+        </speaker>
+      </speakers>
+      <track>Advanced</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Building a Business Intelligence Competency Center</title>
+      <description>If you build it, they will come!  While we may all hope that this will be the case, the successful adoption of the data warehouse and other Business Intelligence tools requires continued engagement with the business.  In this session, we will explore strategies for encouraging not only adoption but integration of BI into the day-to-day activities of our organizations through what has become known as a Business Intelligence Competency Center (BICC).  This is a non-technial session intended for BI architects and managers.</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11061</importID>
+      <speakers>
+        <speaker>
+          <id>11061</id>
+          <name>Bryan Smith</name>
+        </speaker>
+      </speakers>
+      <track>Beginner 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>An Introduction to Big Data for BI</title>
+      <description>A lot has been made of Microsoft's announcement around support for Apache Hadoop but many in the Microsoft Business Intelligence community have been left scratching their head about what this exactly means. In this session, we will discuss Big Data concepts, pick apart Microsoft's announcement, and explore what Big Data means for Business Intelligence programs traditionally focused on data warehousing.
+</description>
+      <startTime>10/13/2012 12:00:00 AM</startTime>
+      <endTime>10/13/2012 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

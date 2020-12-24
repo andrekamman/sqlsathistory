@@ -1,0 +1,229 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #351 - Lima 2014</name>
+    <startDate>12/6/2014 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT-05:00) Bogota, Lima, Quito</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatLima</twitterHashtag>
+    <venue>
+      <name>Microsoft Peru</name>
+      <street>San Isidro</street>
+      <city>Lima</city>
+      <state>Lima, Peru</state>
+      <zipcode>Lima 27</zipcode>
+      <longitude>-77.03697</longitude>
+      <latitude>-12.096536</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>19</importID>
+      <name>MSSQLTips.com</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.mssqltips.com/</url>
+      <imageURL>https://www.pass.org/images/mssql_logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1331</importID>
+      <name>Pluralsoft S.A.C.</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.facebook.com/pluralsoft.pe</url>
+      <imageURL>https://geeks.ms/cfs-filesystemfile.ashx/__key/CommunityServer.Blogs.Components.WeblogFiles/ozonicco/logo_5F00_final_5F00_negro_5F00_pluralsoft.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>17836</importID>
+      <name>Kai Clemente</name>
+      <label>
+      </label>
+      <description>Consultor de sistemas con experiencia en las #225;reas de sistemas, capacitaci#243;n y docencia. S#243;lidos conocimientos en jefatura de proyectos, desarrollo de aplicaciones Windows, Web y sistemas distribuidos sobre tecnolog#237;as MICROSOFT.</description>
+      <twitter>https://twitter.com/kaiclemente</twitter>
+      <linkedin>https://pe.linkedin.com/in/kaiclemente</linkedin>
+      <ContactURL>http://kaiclemente.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/kaiclemente</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21929</importID>
+      <name>Percy Reyes</name>
+      <label>
+      </label>
+      <description>Microsoft SQL Server MVP, Certified Sr. Database Administrator, Author at http://MSSQLTips.com  | SQL PASS Peru Chapter Leader | MCITP DBA/Dev, MCTS, MCP.
+Bachelor in Systems Engineering and Senior Database Administrator focused on Microsoft SQL Server Internals with over 12+ years of extensive experience managing database servers. I am a frequent Speaker about SQL Server technologies for over 10 years at Local User Group Meetings, Webcasts, and National Conferences. </description>
+      <twitter>@percyreyes</twitter>
+      <linkedin>https://www.linkedin.com/in/percyreyes</linkedin>
+      <ContactURL>http://percyreyes.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@percyreyes</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14402</importID>
+      <name>German Cayo</name>
+      <label>
+      </label>
+      <description>Actualmente líder del Capítulo Pass SQL User Group Ica.Profesional, con experiencia en Infraestructura Windows, base de datos SQL Server, orientado a la implementacion de Inteligencia de Negocios. Colaborar a fin de Brindar soluciones en Infraestructura y Administracion de Base de Datos en TI, desarrollar soluciones de Inteligencia de Negocios a fin de mejorar la toma de decisiones de los diferentes niveles en la organizacion</description>
+      <twitter>@ggcayo</twitter>
+      <linkedin>https://www.linkedin.com/in/ggcayo/</linkedin>
+      <ContactURL>https://germancayom.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ggcayo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11371</importID>
+      <name>Carlos  Casaverde</name>
+      <label>
+      </label>
+      <description>MCSE, MCSA, MCITP, MCTS, MCP-Computer Systems Engineer,+8 years experience in Data Platform and Solutions with SQL Server. Deep experience Managing DB Servers, Upgrade, Data Migration and High Availability. Troubleshooting and Tuning. Experienced on Servers Infrastructure and Data Centers. I've worked in financial, construction, cement and concrete largest Peruvian companies. I'm Senior DBA in Verizon, the global leader company in Communications,IT solution,Information and Entertainment Services</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9794</importID>
+      <name>Argenis Fernandez</name>
+      <label>
+      </label>
+      <description>Argenis is a Principal Architect at Pure Storage. He works with customers around the world to make sure they don’t have to worry much about their infrastructure for Data.
+He is a former Data Platform MVP, former VMware vExpert, Microsoft Certified Master, and more recently worked in the Microsoft Azure Data/SQL Server engineering team as a Principal PM in the Tiger team.</description>
+      <twitter>DBArgenis</twitter>
+      <linkedin>http://www.linkedin.com/in/argenis</linkedin>
+      <ContactURL>http://blog.purestorage.com/author/argenisfernandez/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DBArgenis</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9793</importID>
+      <name>Argenis Fernandez</name>
+      <label>
+      </label>
+      <description>Argenis is a Principal Architect at Pure Storage. He works with customers around the world to make sure they don’t have to worry much about their infrastructure for Data.
+He is a former Data Platform MVP, former VMware vExpert, Microsoft Certified Master, and more recently worked in the Microsoft Azure Data/SQL Server engineering team as a Principal PM in the Tiger team.</description>
+      <twitter>DBArgenis</twitter>
+      <linkedin>http://www.linkedin.com/in/argenis</linkedin>
+      <ContactURL>http://blog.purestorage.com/author/argenisfernandez/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DBArgenis</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>9793</importID>
+      <speakers>
+        <speaker>
+          <id>9793</id>
+          <name>Argenis Fernandez</name>
+        </speaker>
+      </speakers>
+      <track>Oficinas Microsoft Perú, Lima</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Secure Your SQL Server Instance Without Changing Any Code</title>
+      <description>Secure your SQL Server infrastructure and your Windows installations to enhance resiliency and minimize exposure to attacks -- all without touching a single line of code! In this session you will learn about Transparent Data Encryption, IPSec, Database Firewalls, Contained Databases and many other technologies that help you lock down your systems and close attack vectors. This talk puts great emphasis on the biggest threat to your database: SQL injection, offering many remediation techniques to prevent such attacks. During the demos, you will learn techniques to deal with vendors who require SA accounts to run their applications. Protect your SQL Servers without having to wait for your Developers or Vendors to make changes!</description>
+      <startTime>12/6/2014 12:00:00 AM</startTime>
+      <endTime>12/6/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21929</importID>
+      <speakers>
+        <speaker>
+          <id>21929</id>
+          <name>Percy Reyes</name>
+        </speaker>
+      </speakers>
+      <track>Oficinas Microsoft Perú, Lima</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Rendimiento del In-Memory OLTP Engine en SQL Server 2014</title>
+      <description>En esta sesión veremos cómo usar In-Memory OLTP, sus beneficios en rendimiento y cómo sacarle máximo provecho. También veremos los escenarios de usos.</description>
+      <startTime>12/6/2014 12:00:00 AM</startTime>
+      <endTime>12/6/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17836</importID>
+      <speakers>
+        <speaker>
+          <id>17836</id>
+          <name>Kai Clemente</name>
+        </speaker>
+      </speakers>
+      <track>Oficinas Microsoft Perú, Lima</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Rompiendo el hielo con Code First y SQL Server 2014</title>
+      <description>Code First es un enfoque más de Entity Framework (hay otros dos enfoques que son Database First y Model First) que plantea lo siguiente: Tú crea clases POCO con tu lenguaje favorito (C#, VB.NET, etc.) y crea relaciones entre las mismas, después despreocúpate que ya veré yo como me las gasto para persistir tu modelo en una base de datos.</description>
+      <startTime>12/6/2014 12:00:00 AM</startTime>
+      <endTime>12/6/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11371</importID>
+      <speakers>
+        <speaker>
+          <id>11371</id>
+          <name>Carlos  Casaverde</name>
+        </speaker>
+      </speakers>
+      <track>Oficinas Microsoft Perú, Lima</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Practicas más dañinas en T-SQL</title>
+      <description>En esta sesión mostraremos algunas de las prácticas comunes mas dañinas que se pueden hacer en T-SQL y que pueden convertirse en cuellos de botella afectando el rendimiento, retornando resultados incorrectos o generando efectos secundarios impredecibles en tiempo de ejecución.</description>
+      <startTime>12/6/2014 12:00:00 AM</startTime>
+      <endTime>12/6/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9794</importID>
+      <speakers>
+        <speaker>
+          <id>9794</id>
+          <name>Argenis Fernandez</name>
+        </speaker>
+      </speakers>
+      <track>Oficinas Microsoft Perú, Lima</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Making DBCC CHECKDB Go Faster</title>
+      <description>Along with backups, consistency checks are arguably the two most important tasks that DBAs need to perform regularly. Our databases are getting bigger every day, and CHECKDB run times along with its performance impact to Production systems keep increasing. In this session we discuss how to improve your system so that you can reduce the time that it takes to run CHECKDB or the individual DBCC CHECK* commands. We will cover topics like DOP, tempdb configuration, trace flags, Resource Governor, and many more. In one of many the demos we will explore a real life example where SurveyMonkey's consistency checks were taken from 9 days down to 6.5 hours. </description>
+      <startTime>12/6/2014 12:00:00 AM</startTime>
+      <endTime>12/6/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14402</importID>
+      <speakers>
+        <speaker>
+          <id>14402</id>
+          <name>German Cayo</name>
+        </speaker>
+      </speakers>
+      <track>Oficinas Microsoft Perú, Lima</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Backup and Restore SQL Server 2014</title>
+      <description>En esta sesion veremos las diferentes formas de poder generar Backup y Restore a Bases de Datos Transaccionales, y almacenarlas tanto en un disco como en un Storage de Windows Azure, programando tareas y creando planes de mantenimiento.</description>
+      <startTime>12/6/2014 12:00:00 AM</startTime>
+      <endTime>12/6/2014 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

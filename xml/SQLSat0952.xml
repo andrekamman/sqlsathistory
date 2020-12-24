@@ -1,0 +1,75 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #952 – Guatemala – Virtual 2021</name>
+    <startDate>1/23/2021 12:00:00 AM</startDate>
+    <attendeeEstimate>1500</attendeeEstimate>
+    <timezone>(GMT-06:00) Central America</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatGuatemala</twitterHashtag>
+    <venue>
+      <name>Universidad Francisco Marroquin</name>
+      <street>Calle Manuel F. Ayau (6 Calle final), zona 10</street>
+      <city>Guatemala</city>
+      <state>Guatemala, Guatemala</state>
+      <zipcode>01010</zipcode>
+      <longitude>-90.505736</longitude>
+      <latitude>14.609336</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/952/EventSponsor_14353.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2689</importID>
+      <name>Red Hat</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://www.redhat.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/952/EventSponsor_14944.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2696</importID>
+      <name>Melissa</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>http://www.melissa.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/952/EventSponsor_14946.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2678</importID>
+      <name>Google Cloud</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://cloud.google.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/952/EventSponsor_14945.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2325</importID>
+      <name>RevDeBug</name>
+      <label>Software Sponsor</label>
+      <url>https://revdebug.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/952/EventSponsor_14374.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/952/EventSponsor_14352.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

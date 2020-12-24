@@ -1,0 +1,19 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #345 - Riyadh 2014</name>
+    <startDate>10/18/2014 12:00:00 AM</startDate>
+    <attendeeEstimate>500</attendeeEstimate>
+    <timezone>(GMT+03:00) Kuwait, Riyadh</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlSatRiyadh</twitterHashtag>
+    <venue>
+      <name>Swaidi</name>
+      <street>7316-Unit 1</street>
+      <city>Riyadh</city>
+      <state>, Saudi Arabia</state>
+      <zipcode>12791</zipcode>
+      <longitude>46.9030304</longitude>
+      <latitude>24.5489006</latitude>
+    </venue>
+  </guide>
+</GuidebookXML>

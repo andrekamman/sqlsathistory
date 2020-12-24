@@ -1,0 +1,459 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #670 - Banja Luka 2017</name>
+    <startDate>9/9/2017 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatBanjaLuka</twitterHashtag>
+    <venue>
+      <name>SqlSaturdayBL</name>
+      <street>Veljka Mlađenovića bb</street>
+      <city>Banja Luka</city>
+      <state>Republika Srpska, Bosnia and Herzegovina</state>
+      <zipcode>780000</zipcode>
+      <longitude>17.22186</longitude>
+      <latitude>44.7706</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1998</importID>
+      <name>Lanaco</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.tehnoloskicentar.ba/index-eng.php</url>
+      <imageURL>https://www.lanaco.com/PublishingImages/lanaco-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2030</importID>
+      <name>Addiko bank</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.addiko-rs.ba/</url>
+      <imageURL>https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-85019-screen_shot_2016-05-16_at_6.33.31_pm--2x1--940.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2018</importID>
+      <name>Agencija za informaciono društvo Republike Srpske</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.aidrs.org/sr/</url>
+      <imageURL>https://lh5.googleusercontent.com/-izvC0hsjUVk/AAAAAAAAAAI/AAAAAAAAABU/84L5bquVanA/photo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>554</importID>
+      <name>Denny Cherry and Associates Consulting</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.dcac.co</url>
+      <imageURL>https://dcac.co/wp-content/uploads/2014/06/logo-170x68.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>66367</importID>
+      <name>Dejan Pervulov</name>
+      <label>
+      </label>
+      <description>As a technical consultant Dejan participated in numerous ERP, CRM and DWH / BI projects in the CEE region. He is also involved in development with Microsoft technologies for last 18 years. Holds MCT, MCSE, MCSA, MCSD, MCDBA, MCTS and MCITP certifications. As a Microsoft Certified Trainer he was involved in preparation and delivery of trainings in several school centers in Serbia. Since October 2014, he is a Microsoft MVP for SQL Server.</description>
+      <twitter>@dekiper</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@dekiper</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68849</importID>
+      <name>Jasmin Azemović</name>
+      <label>
+      </label>
+      <description>CISO and university professor active in the fields of database systems, information security, data privacy, forensic analysis, and fraud detection. Ph.D. degree in the field of modeling design and developing an environment for the preservation of privacy inside database systems, also the author of many scientific research papers and three books: Writing T-SQL Queries for Beginners Using Microsoft SQL Server 2012, Securing SQL Server 2012 and SQL Server on Linux. Microsoft MVP (Data Platform) for the last 10 years and an information security consultant. Active speaker at many IT professional and community conferences.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/jasmin-azemovic</linkedin>
+      <ContactURL>http://www.youtube/mvpdba</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66243</importID>
+      <name>Miloš Radivojević</name>
+      <label>
+      </label>
+      <description>Miloš Radivojević is a database consultant located in Vienna, Austria. He is Data Platform MVP and specializes in SQL Server for application developers and performance and query tuning. Currently, he works as a principal database consultant in bwin GVC (the largest regulated online gaming company in the world). He is co-founder of the SQL Pass Austria and speaks regularly at local and international database conferences. He is also co-author of the books SQL Server 2016 Developer's Guide, SQL Server 2017 Developer's Guide and Mastering SQL Server 2017.</description>
+      <twitter>MilosSQL</twitter>
+      <linkedin>http://at.linkedin.com/pub/milos-radivojevic/1b/7bb/290/de</linkedin>
+      <ContactURL>https://milossql.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MilosSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>65534</importID>
+      <name>Christopher Adkin</name>
+      <label>
+      </label>
+      <description>Chris is a freelance SQL consultant who has been working with SQL Server since 2000, his passion is for squeezing every last drop of performance out of SQL Server and understanding the database engine at a level which conventional tools cannot provide any insights on.</description>
+      <twitter>ChrisAdkin8</twitter>
+      <linkedin>https://www.linkedin.com/in/wollatondba</linkedin>
+      <ContactURL>http://www.chrisadkin.io</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ChrisAdkin8</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66292</importID>
+      <name>Dean Savović</name>
+      <label>
+      </label>
+      <description>Dean is Senior DBA practicing SQL Server since version 7.0 and main areas of interest are performance tuning and troubleshooting SQL Server database. He speaks at Microsoft Windays Croatia, ATD Croatia, SSWUG, KulenDayz Croatia, SQL Saturday events, etc... Primary focus is on OLTP databases with occasional adventures with Business Intelligence. He finished Faculty of Electrical Engineering and Computing and MBA on Faculty of Economics in Zagreb. His premise was that it is very useful to combine technical knowledge with management process knowledge that help us in our everyday work. He works in SPAN which is specialized in data management field on Microsoft SQL Server.</description>
+      <twitter>https://twitter.com/dsavovic</twitter>
+      <linkedin>https://www.linkedin.com/in/dsavovic/</linkedin>
+      <ContactURL>http://www.savovic.com.hr</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dsavovic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>65533</importID>
+      <name>Christopher Adkin</name>
+      <label>
+      </label>
+      <description>Chris is a freelance SQL consultant who has been working with SQL Server since 2000, his passion is for squeezing every last drop of performance out of SQL Server and understanding the database engine at a level which conventional tools cannot provide any insights on.</description>
+      <twitter>ChrisAdkin8</twitter>
+      <linkedin>https://www.linkedin.com/in/wollatondba</linkedin>
+      <ContactURL>http://www.chrisadkin.io</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ChrisAdkin8</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66291</importID>
+      <name>Dean Savović</name>
+      <label>
+      </label>
+      <description>Dean is Senior DBA practicing SQL Server since version 7.0 and main areas of interest are performance tuning and troubleshooting SQL Server database. He speaks at Microsoft Windays Croatia, ATD Croatia, SSWUG, KulenDayz Croatia, SQL Saturday events, etc... Primary focus is on OLTP databases with occasional adventures with Business Intelligence. He finished Faculty of Electrical Engineering and Computing and MBA on Faculty of Economics in Zagreb. His premise was that it is very useful to combine technical knowledge with management process knowledge that help us in our everyday work. He works in SPAN which is specialized in data management field on Microsoft SQL Server.</description>
+      <twitter>https://twitter.com/dsavovic</twitter>
+      <linkedin>https://www.linkedin.com/in/dsavovic/</linkedin>
+      <ContactURL>http://www.savovic.com.hr</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dsavovic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68833</importID>
+      <name>Tomaž Kaštrun</name>
+      <label>
+      </label>
+      <description>Tomaž Kaštrun is BI developer and data analyst. His main focus are data mining, T-SQL development, programming and query optimization. He has been working with SQL server since version 2000. He is Microsoft Certified Professional, Microsoft MVP for data platform and Microsoft trainer.</description>
+      <twitter>@tomaz_tsql</twitter>
+      <linkedin>http://www.linkedin.com/tomaz.kastrun</linkedin>
+      <ContactURL>http://www.tomaztsql.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@tomaz_tsql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66241</importID>
+      <name>Miloš Radivojević</name>
+      <label>
+      </label>
+      <description>Miloš Radivojević is a database consultant located in Vienna, Austria. He is Data Platform MVP and specializes in SQL Server for application developers and performance and query tuning. Currently, he works as a principal database consultant in bwin GVC (the largest regulated online gaming company in the world). He is co-founder of the SQL Pass Austria and speaks regularly at local and international database conferences. He is also co-author of the books SQL Server 2016 Developer's Guide, SQL Server 2017 Developer's Guide and Mastering SQL Server 2017.</description>
+      <twitter>MilosSQL</twitter>
+      <linkedin>http://at.linkedin.com/pub/milos-radivojevic/1b/7bb/290/de</linkedin>
+      <ContactURL>https://milossql.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MilosSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68831</importID>
+      <name>Tomaž Kaštrun</name>
+      <label>
+      </label>
+      <description>Tomaž Kaštrun is BI developer and data analyst. His main focus are data mining, T-SQL development, programming and query optimization. He has been working with SQL server since version 2000. He is Microsoft Certified Professional, Microsoft MVP for data platform and Microsoft trainer.</description>
+      <twitter>@tomaz_tsql</twitter>
+      <linkedin>http://www.linkedin.com/tomaz.kastrun</linkedin>
+      <ContactURL>http://www.tomaztsql.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@tomaz_tsql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66365</importID>
+      <name>Dejan Pervulov</name>
+      <label>
+      </label>
+      <description>As a technical consultant Dejan participated in numerous ERP, CRM and DWH / BI projects in the CEE region. He is also involved in development with Microsoft technologies for last 18 years. Holds MCT, MCSE, MCSA, MCSD, MCDBA, MCTS and MCITP certifications. As a Microsoft Certified Trainer he was involved in preparation and delivery of trainings in several school centers in Serbia. Since October 2014, he is a Microsoft MVP for SQL Server.</description>
+      <twitter>@dekiper</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@dekiper</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66906</importID>
+      <name>Catalin Gheorghiu</name>
+      <label>
+      </label>
+      <description>Catalin Gheorghiu is a solution architect from Romania. He has more than 15 years of experience in developing solutions, especially on Microsoft technologies in very demanding environments. Is contributing articles and blogs to several user groups (MrSmersh), lecturing all over Romania and abroad, is also RONUA Timisoara (PASS Chapter) user group leader. Since 2011, every year he was awarded the Microsoft MVP Award.</description>
+      <twitter>MrSmersh</twitter>
+      <linkedin>?https://ro.linkedin.com/in/catalingheorghiu?</linkedin>
+      <ContactURL>http://ronua.ro/author/catalin/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MrSmersh</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>68831</importID>
+      <speakers>
+        <speaker>
+          <id>68831</id>
+          <name>Tomaž Kaštrun</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>SQL Server 2016 and R Engine-powerful duo</title>
+      <description>With SQL Server 2016  R Language for statistical programming is now supported with native T-SQL. With this extension we can now integrate powerful R Language with transactional data directly using SSMS. With this feature data stewards and data analysts can now run from simple uni-variate to multi-variate statistics in SSMS. Implementation of R in SQL Server 2016 is one of major parts of BI Landscape. 
+
+In this session we will go through:
+1) Installation needed (R and MRO by Revolution Analytics (now Microsoft)
+2) Exploring the usage of RRO Engine (multi-threated usage and parallel multi-core usage of CPU,...)
+3) Using T-SQL for Data analysis with importing and exporting data to SQL Tables
+4) Demos with using R in Reporting services (SSRS) and Power BI
+5) Using R Engine for enhancing your daily work as DBA or BI Analyst
+6) Exploring prediction engine on datasets in your daily business work
+7) Use cases how and where can powerful duo make your daily business easier
+
+Session is useful for</description>
+      <startTime>9/9/2017 9:45:00 AM</startTime>
+      <endTime>9/9/2017 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>66292</importID>
+      <speakers>
+        <speaker>
+          <id>66292</id>
+          <name>Dean Savović</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Query Store and Query Optimization</title>
+      <description>I will talk about advantages of Query Store, features, configuration and query optimization using Query Store. How we can monitor query perfomance, how the Query Store collects data and which are the best practices in using Query Store. During the presentation I will show various demos.</description>
+      <startTime>9/9/2017 1:00:00 PM</startTime>
+      <endTime>9/9/2017 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66906</importID>
+      <speakers>
+        <speaker>
+          <id>66906</id>
+          <name>Catalin Gheorghiu</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Power Bi for beginner IoT developer</title>
+      <description>You have IoT solutions, and you get data from the sensors, now what? Of course, you would like to have, some data visualization easy and fast. You would also love to have these data is available on mobile devices.
+Solutions to this problem is the Power BI these especially if you are already using Azure or Office 365.
+In this presentation I will try to introduce you to Power BI with at least enough information to know where to start.
+All with the demo, from hardware, to the cloud, to Power BI.</description>
+      <startTime>9/9/2017 2:15:00 PM</startTime>
+      <endTime>9/9/2017 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66243</importID>
+      <speakers>
+        <speaker>
+          <id>66243</id>
+          <name>Miloš Radivojević</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Transact SQL Performance Tips</title>
+      <description>In this session we will advice how to avoid common developer mistakes and show how bad designed queries reduce the SQL Server optimizer's capabilities for choosing an optimal execution plan.</description>
+      <startTime>9/9/2017 3:30:00 PM</startTime>
+      <endTime>9/9/2017 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>65534</importID>
+      <speakers>
+        <speaker>
+          <id>65534</id>
+          <name>Christopher Adkin</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>The All Flash DBA</title>
+      <description>We are at a major turning point in the world of storage; the transition from spinning disk to flash and as we move into this new world a lot of conventional wisdom will be turned on its head. Things such as the use of compression, putting different database components on different volumes, the desire to chase large readaheads for sequential scan workloads, how well mixed workloads are handled, the multi threaded log writer and delayed durability, besides this, the session will also cover nand flash fundamentals at 300 level.</description>
+      <startTime>9/9/2017 8:30:00 AM</startTime>
+      <endTime>9/9/2017 9:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>68849</importID>
+      <speakers>
+        <speaker>
+          <id>68849</id>
+          <name>Jasmin Azemović</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>SQL Server on Linux</title>
+      <description>Ono što je do jučer bilo nezamislivo sada je postala realnost. Sigurno nikada niste niti pomislili da će Microsoft krenuti sa open source inicijativom, a da ne govorimo o podršci za Linux. SQL Server je dobio svoju verziju za Linux, tačnije rečeno nekoliko trenutno najpopularnijih distribucija (Ubuntu, SUSE i Red Hat). Da li se radi o istom SQL Server okruženju i mogućnostima? Šta je brže, bolje i kvalitetnije i da li ima uopšte smisla da razmišljate o ovome? Saznajte na ovom predavanju.</description>
+      <startTime>9/9/2017 11:00:00 AM</startTime>
+      <endTime>9/9/2017 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66241</importID>
+      <speakers>
+        <speaker>
+          <id>66241</id>
+          <name>Miloš Radivojević</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Parameter Sniffing Problem with Stored Procedures</title>
+      <description>Your stored procedure is slow in the application, but works perfect in SSMS! In this presentation it will be clarified why this happens and why parameter sniffing is a problem in SQL Server stored procedures. Of course, several solutions will be presented  and it will be discussed which solution is applicable in which scenario.</description>
+      <startTime>9/9/2017 11:00:00 AM</startTime>
+      <endTime>9/9/2017 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66291</importID>
+      <speakers>
+        <speaker>
+          <id>66291</id>
+          <name>Dean Savović</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Cardinality Estimator with SQL Server 2014 and 2016</title>
+      <description>Cardinality Estimator had a major upgrade in SQL Server 2014 version and 2016. After a few introductory words, I will speak about model assumptions of Cardinality Estimator, calculation direction, model selection of Cardinality Estimator and improvements in SQL Server versions 2014 and 2016. I will also have a few demos where I will demonstrate how to optimally use the new features.</description>
+      <startTime>9/9/2017 3:30:00 PM</startTime>
+      <endTime>9/9/2017 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66367</importID>
+      <speakers>
+        <speaker>
+          <id>66367</id>
+          <name>Dejan Pervulov</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Introduction to Azure SQL Data Warehouse</title>
+      <description>Azure SQL Data Warehouse is a SQL-based fully managed, petabyte-scale cloud data warehouse. It is highly elastic, enabling you to provision in minutes and scale capacity in seconds. You can scale compute and storage independently, allowing you to burst compute for complex analytical workloads or scale down your warehouse for archival scenarios, and pay based off what you're using instead of being locked into predefined cluster configurations - helping you derive even more cost efficiency versus traditional data warehouse solutions.</description>
+      <startTime>9/9/2017 8:30:00 AM</startTime>
+      <endTime>9/9/2017 9:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>65533</importID>
+      <speakers>
+        <speaker>
+          <id>65533</id>
+          <name>Christopher Adkin</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Problem Solving With The In-Memory Engine</title>
+      <description>There is a vast array of material in the SQL Server community that covers the in-memory engine in great detail, this session will cover some of the internals of the in-memory engine, however what it will also do is fill in the void as to common performance issues and how they can be solved with the in-memory engine, specifically:
+
+- Staging data as fast as possible
+- Turbo charging scalar aggregate functions
+- Implementing a scalable sequence
+- Overcoming the performance limitations of temporary tables
+- Making the critical path in your code base run faster</description>
+      <startTime>9/9/2017 9:45:00 AM</startTime>
+      <endTime>9/9/2017 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>66365</importID>
+      <speakers>
+        <speaker>
+          <id>66365</id>
+          <name>Dejan Pervulov</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Get your data and your model ready for the Cloud using Power BI Desktop</title>
+      <description>Introduction of a free data modelling tool (Power BI Desktop) into Power BI ecosystem have attracted great number of potential users (primarily data analysts and IT professionals) to it. During this session we will talk about and demonstrate available techniques for data retrieval and transformation as well as techniques for creation of data models that you will use as a foundation for future visualization of data in the Cloud.</description>
+      <startTime>9/9/2017 1:00:00 PM</startTime>
+      <endTime>9/9/2017 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68833</importID>
+      <speakers>
+        <speaker>
+          <id>68833</id>
+          <name>Tomaž Kaštrun</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Azure Data Lake Analytics</title>
+      <description>Azure Data Lake Analytics is a new service, built to make big data analytics scalable, performance efficient and distributed and easy. Service is focused on data usability and analytics, rather than setting up the infrastructure.
+
+Besides scaling and faster deployment, it is affordable and cost effective and easy to integrate into your existing IT environment.
+
+For the demo, we will look at the image recognition and emotion detection.</description>
+      <startTime>9/9/2017 2:15:00 PM</startTime>
+      <endTime>9/9/2017 3:15:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

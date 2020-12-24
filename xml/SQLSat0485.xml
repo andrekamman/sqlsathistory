@@ -1,0 +1,642 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #485 - Lisbon 2016</name>
+    <startDate>2/20/2016 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatPortugal</twitterHashtag>
+    <venue>
+      <name>Microsoft PT</name>
+      <street>Rua do Fogo de Santelmo, Lote 2.07.02</street>
+      <city>lisbon</city>
+      <state>Lisbon, Portugal</state>
+      <zipcode>1990 – 110</zipcode>
+      <longitude>-9.09467363357544</longitude>
+      <latitude>38.7610545007974</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>523</importID>
+      <name>Crossjoin Solutions Lda</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.crossjoin.pt</url>
+      <imageURL>https://www.crossjoin.pt/assinatura/logotipocrossjoin.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>161</importID>
+      <name>Rumos - Formação e Comunicação, S. A.</name>
+      <label>Gold Sponsor</label>
+      <url>http://formacao.rumos.pt</url>
+      <imageURL>https://s11.postimg.org/616v6rtmr/rumos.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>427</importID>
+      <name>BI4ALL - Consultores de Gestão, lda</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.bi4all.pt</url>
+      <imageURL>https://s16.postimg.org/hfkyap9sx/2015_logo_bi4all_sponsor_100x40px_01.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>566</importID>
+      <name>DevScope, S.A.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.devscope.net</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/904/EventSponsor_14172.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS Sponsor</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Swag Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>76</importID>
+      <name>Apex SQL</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.apexsql.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/881/EventSponsor_13896.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>83</importID>
+      <name>PluralSight</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.pluralsight.com</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2015/11/Pluralsight_logo_novo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1540</importID>
+      <name>SQLSentry PLC</name>
+      <label>Swag Sponsor</label>
+      <url>https://www.sentryone.com/</url>
+      <imageURL>https://3.bp.blogspot.com/-PRGC1S-iW1o/V_a4i4N3FiI/AAAAAAAAEL0/deSscc5-6jY4TStpBLq5Gh4uTK0WN_tpACLcB/s1600/SentryOne-logo-300px.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>46552</importID>
+      <name>Andre Batista</name>
+      <label>
+      </label>
+      <description>Andre Batista, with academic path in the course of Electronics, Telecommunications and Computers ( ISEL - Lisbon ) is currently in Crossjoin Solutions working as SQL Server DBA, performing functions on the client PT (Portugal Telecom). He is interested in all areas related to SQL Server and particularly in architecture, implementation, maintenance and performance. He is a member of the Portuguese SQL Server User Group, SQLPort (http://www.sqlport.com) and also one of the founders of TUGA.</description>
+      <twitter>@klunkySQL</twitter>
+      <linkedin>http://pt.linkedin.com/pub/andre-batista/9/111/790/</linkedin>
+      <ContactURL>http://klunkysql.info/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@klunkySQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44624</importID>
+      <name>Quilson Antunes</name>
+      <label>
+      </label>
+      <description>Quilson Antunes #233; DBA na hmR - Health Market Research, licenciado em Inform#225;tica de Gest#227;o pelo SLA Campus Lisboa - Laureate International Universities. No decurso do seu percurso profissional adquiriu experi#234;ncia na coordena#231;#227;o de recursos e compet#234;ncias em infra-estrutura e desenvolvimento de processos ETL. Cumulativamente possui s#243;lidos conhecimentos em administra#231;#227;o, desenho e desenvolvimento de bases de dados em SQL server desde a vers#227;o 7
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://pt.linkedin.com/in/quilson</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46859</importID>
+      <name>André Melancia</name>
+      <label>
+      </label>
+      <description>Owner / Principal Consultant at LunarCat.PT
+Microsoft Certified Trainer (MCT) focusing on SQL Server, Azure, IoT and Security.
+
+19+ years' fun developing information and multimedia systems, DBA, project and IT management.
+
+Data Community Portugal, IT Pro Portugal and PowerShell Portugal communities organiser.
+IPv6 Portugal, DNSSec Portugal and Windows Development Portugal online communities moderator.
+Actively volunteering, organising, speaking or just participating at community meetings and events around the world.
+
+Proud uncle and food devouring expert, with dangerous рuϧϧy cat as companion.
+
+Go to http://Andy.PT and you'll know the same as the NSA...</description>
+      <twitter>AndyPT</twitter>
+      <linkedin>http://LinkedIn.COM/in/AndreMelancia</linkedin>
+      <ContactURL>http://Andy.PT</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=AndyPT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46911</importID>
+      <name>Andre Batista</name>
+      <label>
+      </label>
+      <description>Andre Batista, with academic path in the course of Electronics, Telecommunications and Computers ( ISEL - Lisbon ) is currently in Crossjoin Solutions working as SQL Server DBA, performing functions on the client PT (Portugal Telecom). He is interested in all areas related to SQL Server and particularly in architecture, implementation, maintenance and performance. He is a member of the Portuguese SQL Server User Group, SQLPort (http://www.sqlport.com) and also one of the founders of TUGA.</description>
+      <twitter>@klunkySQL</twitter>
+      <linkedin>http://pt.linkedin.com/pub/andre-batista/9/111/790/</linkedin>
+      <ContactURL>http://klunkysql.info/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@klunkySQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44129</importID>
+      <name>Murilo Miranda</name>
+      <label>
+      </label>
+      <description>Murilo Miranda is a blogger, speaker and SQL Server MVP from Portugal. Nowadays he#39;s a Cloud Operations Engineer at DataStax. Murilo’s passion for working with people coupled with his honesty have helped him establish effective, meaningful relationships with his clients. When he isn’t working, he can be found enjoying life with his family, watching football and playing Playstation.</description>
+      <twitter>murilocmiranda</twitter>
+      <linkedin>http://pt.linkedin.com/in/murilomiranda/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=murilocmiranda</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44614</importID>
+      <name>Niko Neugebauer</name>
+      <label>
+      </label>
+      <description>Niko Neugebauer is a Data Platform Consultant. A SQL Server MVP with over 20 years of experience in IT, he is passionate about the Microsoft Data Platform and community. Founder of the Portuguese SQL Server User Group and the main organizer of the first SQLSaturday event outside of North America (#78 Portugal), Niko speaks regularly at events such as PASS Summit, SQLRally, SQLBits, and SQLSaturday events around the world. Niko loves sharing information and knowledge and has authored over 130 blog posts on Columnstore Indexes, and regularly contributes to the open-sourced CISL library focused on Columnstore Indexes.</description>
+      <twitter>NikoNeugebauer</twitter>
+      <linkedin>http://pt.linkedin.com/in/webcaravela/</linkedin>
+      <ContactURL>http://www.nikoport.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=NikoNeugebauer</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46912</importID>
+      <name>Andre Batista</name>
+      <label>
+      </label>
+      <description>Andre Batista, with academic path in the course of Electronics, Telecommunications and Computers ( ISEL - Lisbon ) is currently in Crossjoin Solutions working as SQL Server DBA, performing functions on the client PT (Portugal Telecom). He is interested in all areas related to SQL Server and particularly in architecture, implementation, maintenance and performance. He is a member of the Portuguese SQL Server User Group, SQLPort (http://www.sqlport.com) and also one of the founders of TUGA.</description>
+      <twitter>@klunkySQL</twitter>
+      <linkedin>http://pt.linkedin.com/pub/andre-batista/9/111/790/</linkedin>
+      <ContactURL>http://klunkysql.info/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@klunkySQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44618</importID>
+      <name>Ivan Campos</name>
+      <label>
+      </label>
+      <description>Ivan Campos is currently a database administrator in 3C Payment a fin-tech in Luxembourg. (3CPayment.com).
+He is Microsoft Most Valuable Professional, active speaker at local community meetings in Portugal and outside Portugal. He is the leader and one of the founders of the community based in the north of Portugal Porto.Data (www.portodata.net) and the organizer of SQLSaturday in Porto Portugal.</description>
+      <twitter>WizardDBA</twitter>
+      <linkedin>https://pt.linkedin.com/in/idcampos</linkedin>
+      <ContactURL>http://wizarddba.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=WizardDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44679</importID>
+      <name>Pedro Perfeito</name>
+      <label>
+      </label>
+      <description>Pedro was born in 1977 in Portugal and currently works as BI Senior Consultant and Invited Lecture in several BI master degrees. He’s also founder and owner of a BI company named “Culto de BI”. He received in 2010, 2011 and 2012 the Microsoft MVP award for all the dedication and contribution helping theoretical and practical issues in the various BI communities. He#39;s also co-author and editor of several books from Packtpub and Syncfusion</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.culto-de-bi.pt</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>43125</importID>
+      <name>Eduardo Piairo</name>
+      <label>
+      </label>
+      <description>Deployment pipeline craftsman always ready to learn new ways to implement Source Control, Continuous Integration and Continuous Delivery for databases, applications and infrastructure. 
+
+Database administrator with special interest in database changes and data modeling.
+
+Operations engineer, DevOps Agent with automation, collaboration and communication as priorities.</description>
+      <twitter>@EdPiairo</twitter>
+      <linkedin>https://pt.linkedin.com/in/jesuspiairo</linkedin>
+      <ContactURL>http://www.eduardopiairo.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@EdPiairo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44535</importID>
+      <name>Andre Batista</name>
+      <label>
+      </label>
+      <description>Andre Batista, with academic path in the course of Electronics, Telecommunications and Computers ( ISEL - Lisbon ) is currently in Crossjoin Solutions working as SQL Server DBA, performing functions on the client PT (Portugal Telecom). He is interested in all areas related to SQL Server and particularly in architecture, implementation, maintenance and performance. He is a member of the Portuguese SQL Server User Group, SQLPort (http://www.sqlport.com) and also one of the founders of TUGA.</description>
+      <twitter>@klunkySQL</twitter>
+      <linkedin>http://pt.linkedin.com/pub/andre-batista/9/111/790/</linkedin>
+      <ContactURL>http://klunkysql.info/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@klunkySQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44656</importID>
+      <name>João Lopes</name>
+      <label>
+      </label>
+      <description>Jo#227;o Lopes is a SQL Server MCP working as BI Consultant with over 10 years of experience, currently a member of the consulting team at BI4ALL delivering data solutions to global clients using Microsoft BI tools.</description>
+      <twitter>https://twitter.com/SQLSniper</twitter>
+      <linkedin>https://www.linkedin.com/in/joaolopes</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/SQLSniper</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>42961</importID>
+      <name>Etienne Lopes</name>
+      <label>
+      </label>
+      <description>Etienne Lopes currently works as a SQL Server DBA at Celfinet.
+Working with SQL Server since 1997, member of sqlport community (www.sqlport.com), regular speaker since 2012 at SQL Server events such as: SQL Saturday and 24 Hours of Pass.
+Blog: http://sqland.wordpress.com/</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://sqland.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44629</importID>
+      <name>Artur Santos</name>
+      <label>
+      </label>
+      <description>Over 15 years of experience with SQL Server, since 6.5.
+Author of several Workshops on SQL Server and SharePoint.
+Passioned with technology, and also as speaker in several events.</description>
+      <twitter>
+      </twitter>
+      <linkedin>?https://pt.linkedin.com/in/arturlrvsantos?</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>43019</importID>
+      <name>Rui Romano</name>
+      <label>
+      </label>
+      <description>Rui Romano lives in Portugal and he leads the Business Intelligence team at DevScope. 
+
+He has been Developing amp; Architecting software solutions since 2003 always focused in the Business Intelligence area.</description>
+      <twitter>RuiRomano</twitter>
+      <linkedin>https://pt.linkedin.com/in/ruiromano</linkedin>
+      <ContactURL>http://ruiromanoblog.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=RuiRomano</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44633</importID>
+      <name>Vitor Faria Tomaz</name>
+      <label>
+      </label>
+      <description>Vitor Faria Tomaz is an Embedded Escalation Engineer (EEE) at Microsoft, with special focus on Azure SQL Database (single/pools/Managed Instance).</description>
+      <twitter>vitortomaz</twitter>
+      <linkedin>https://www.linkedin.com/in/vitorfariatomaz/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=vitortomaz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>43117</importID>
+      <name>Pedro Simoes</name>
+      <label>
+      </label>
+      <description>Works in Glintt - Global Intelligent Technologies (http://www.glintt.com) as a systems administrator and DBA in some specific situations; has about 20 years experience and has some certifications which can highlight the following: MCP, MCSA 2003 MCDBA, MCSE 2003, MCTS, MCITP (Windows 2008 + SQL2008). 
+It is one of the oldest and most active members of the Portuguese community SQLPORT.com</description>
+      <twitter>@pedro_mg_simoes</twitter>
+      <linkedin>http://www.linkedin.com/in/pedromsimoes</linkedin>
+      <ContactURL>http://pedromsimoes.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@pedro_mg_simoes</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44648</importID>
+      <name>Cláudio Silva</name>
+      <label>
+      </label>
+      <description>Cláudio works as SQL Server DBA and he is an former PowerShell MVP who loves to automate any process that needs to be done more than a couple of times. He is an active member on the PowerShell and SQL communities. He contributes to dbatools project (https://dbatools.io) and is always available to help. You can find him on slack and twitter platforms.
+He also helps on some Portuguese in-person events such as SQLSaturday Lisbon and TugaIT. He is also a regular speaker on these and other events.</description>
+      <twitter>https://twitter.com/claudioessilva</twitter>
+      <linkedin>https://pt.linkedin.com/in/claudioessilva</linkedin>
+      <ContactURL>http://claudioessilva.eu</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/claudioessilva</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44662</importID>
+      <name>Bruno Ferreira</name>
+      <label>
+      </label>
+      <description>Bruno Ferreira lives in Porto, Portugal and currently works in Data Research and Machine Learning at DevScope. His main focus areas are Machine Learning, Azure ML Studio, R and Power BI.</description>
+      <twitter>@Mairos_B</twitter>
+      <linkedin>https://pt.linkedin.com/in/bruno-mairos-ferreira-6861bbab</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Mairos_B</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>43082</importID>
+      <name>Tiago Costa</name>
+      <label>
+      </label>
+      <description>Tiago Costa is an IT Consultant in Microsoft Technologies. For the past years he has been architecting and developing solutions for clients using Azure, Office 365, SharePoint, .Net and SQL Server. He has a strong real world experience and regularly teaches Azure, Office 365, SharePoint, .Net and SQL Server classes across Europe and other worldwide locations.
+Tiago detains several Microsoft Certifications and he is also MCT – Microsoft Certified Trainer. In 2013 he was nominated MCT Regional Lead by Microsoft Corp and has been renewed every year including in Jan, 2017 for a more 2 years term (2017 - 2018).
+In 2016 he has been awarded with the Microsoft MVP Award in Office Server and Services for his community efforts.</description>
+      <twitter>tiagocostapt</twitter>
+      <linkedin>https://pt.linkedin.com/in/tiagocosta</linkedin>
+      <ContactURL>http://www.tiagocosta.eu/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=tiagocostapt</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44645</importID>
+      <name>Helena Cabral</name>
+      <label>
+      </label>
+      <description>Helena Cabral is a BI Senior Consultant at bi4all with over 10 years of experience. Her main activities are related to designing, implementing and maintaining BI solutions based on Microsoft BI-stack for Banking, Insurances and Public Administration areas. Prior to working in BI, she had worked in database modeling and design, application development and data integration services development with several technologies.</description>
+      <twitter>@helenamcabral</twitter>
+      <linkedin>https://pt.linkedin.com/in/helenacabralatbi4all</linkedin>
+      <ContactURL>http://blog.bi4all.pt/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@helenamcabral</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>42961</importID>
+      <speakers>
+        <speaker>
+          <id>42961</id>
+          <name>Etienne Lopes</name>
+        </speaker>
+      </speakers>
+      <track>CORE Track                                Room Azure B</track>
+      <location>
+        <name>CORE Track</name>
+      </location>
+      <title>Security enhancements in SQL Server 2016</title>
+      <description>There are several pretty cool enhancements regarding security in SQL Server 2016.
+
+This session will cover some of them in the following (new) topics:
+
+- Always Encrypted: 
+  Worried about having your sensitive data stored in a cloud managed database? This feature can help you, allowing to ensure that your cloud provider can't look at your sensitive data, since it remains encrypted for him, but not for you :-) 
+
+- Dynamic Data Masking: 
+  By using this feature you can control how does your confidential data appear to those that shouldn't have entire access to it. For instance they should only be able to see the first 3 digits of a phone number...   
+
+- Row Level Security: 
+  Row-Level Security enables us to control access to rows in a database table based on the characteristics of the user executing a query. 
+
+
+Join me in a set of full demonstrations for all these features!</description>
+      <startTime>2/20/2016 10:15:00 AM</startTime>
+      <endTime>2/20/2016 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>44679</importID>
+      <speakers>
+        <speaker>
+          <id>44679</id>
+          <name>Pedro Perfeito</name>
+        </speaker>
+      </speakers>
+      <track>BI Track                                 Room Azure A</track>
+      <location>
+        <name>BI Track</name>
+      </location>
+      <title>Power BI For Real World Business Scenarios</title>
+      <description>Depois de ter partilhado as vantagens e desvantagens do Power View no passado m#234;s de maio de 2015 no SQL Saturdays, desta vez proponho a apresentar dois casos reais na #225;rea de jogo e retalho para avaliarem se de facto o Power BI #233; agora funcional e ultrapassa todas as limita#231;#245;es do Power View. Estar#225; o Power BI preparado para casos reais? Venha descobrir...</description>
+      <startTime>2/20/2016 12:15:00 PM</startTime>
+      <endTime>2/20/2016 1:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>44662</importID>
+      <speakers>
+        <speaker>
+          <id>44662</id>
+          <name>Bruno Ferreira</name>
+        </speaker>
+      </speakers>
+      <track>BI Track                                 Room Azure A</track>
+      <location>
+        <name>BI Track</name>
+      </location>
+      <title>How to use R in SQL Server 2016</title>
+      <description>R represents the primary analysis language for the majority of data scientists and statisticians. SQL Server 2016 will allow you to run R scripts. In this session we will demonstrate how to run R analytics in the database so any user can explore the data, build predictive models and embed the R code into Transact-SQL stored procedures.</description>
+      <startTime>2/20/2016 5:15:00 PM</startTime>
+      <endTime>2/20/2016 6:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>44129</importID>
+      <speakers>
+        <speaker>
+          <id>44129</id>
+          <name>Murilo Miranda</name>
+        </speaker>
+      </speakers>
+      <track>CORE Track                                Room Azure B</track>
+      <location>
+        <name>CORE Track</name>
+      </location>
+      <title>Availability Groups 2016: Quais s#227;o as novidades?</title>
+      <description>O SQL Server 2016 est#225; proximo de ser lan#231;ado, e muitas novidades est#227;o a  caminho. O Availability Groups nao #233; exce#231;#227;o! Saiba nesta sess#227;o tudo sobre a  solucao numero 1 de HADR do SQL Server.</description>
+      <startTime>2/20/2016 3:45:00 PM</startTime>
+      <endTime>2/20/2016 4:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>44535</importID>
+      <speakers>
+        <speaker>
+          <id>44535</id>
+          <name>Andre Batista</name>
+        </speaker>
+      </speakers>
+      <track>CORE Track                                Room Azure B</track>
+      <location>
+        <name>CORE Track</name>
+      </location>
+      <title>Query Store no SQL Server 2016</title>
+      <description>O Query Store #233; uma nova funcionalidade que ser#225; lan#231;ada com o SQL Server 2016 que permitir#225; armazenar o hist#243;rico de planos de execu#231;#227;o de cada consulta juntamente com os contadores de desempenho. Ser#225; poss#237;vel de uma maneira mais f#225;cil corrigir alguns problemas de desempenho sobre as altera#231;#245;es que ocorrem nos planos de execu#231;#227;o. Junta-te a mim nesta sess#227;o, para obter mais informa#231;#227;o e falar sobre esta nova funcionalidade, que vai mudar a maneira de podermos corrigir e solucionar problemas de desempenho.</description>
+      <startTime>2/20/2016 5:15:00 PM</startTime>
+      <endTime>2/20/2016 6:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>44624</importID>
+      <speakers>
+        <speaker>
+          <id>44624</id>
+          <name>Quilson Antunes</name>
+        </speaker>
+      </speakers>
+      <track>BI Track                                 Room Azure A</track>
+      <location>
+        <name>BI Track</name>
+      </location>
+      <title>What's new in SSIS2016</title>
+      <description>SSISDB catalog
+#183;         Deployment
+#183;         Debugging
+#183;         Azure
+#183;         Etc.</description>
+      <startTime>2/20/2016 9:00:00 AM</startTime>
+      <endTime>2/20/2016 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>43019</importID>
+      <speakers>
+        <speaker>
+          <id>43019</id>
+          <name>Rui Romano</name>
+        </speaker>
+      </speakers>
+      <track>BI Track                                 Room Azure A</track>
+      <location>
+        <name>BI Track</name>
+      </location>
+      <title>Power BI for Developers</title>
+      <description>Are you a developer? Want to learn what PowerBI has for you? Then come to my session where you will learn how to enhance your applications with PowerBI experiences...
+
+In this talk I will show you an overview of the developer ecosystem in Power BI and share my experiences in the creation of Power BI Office Apps (Power BI Tiles and Send to PowerBI) and the community PowerShell module PowerBIPS.</description>
+      <startTime>2/20/2016 2:00:00 PM</startTime>
+      <endTime>2/20/2016 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>44618</importID>
+      <speakers>
+        <speaker>
+          <id>44618</id>
+          <name>Ivan Campos</name>
+        </speaker>
+      </speakers>
+      <track>CORE Track                                Room Azure B</track>
+      <location>
+        <name>CORE Track</name>
+      </location>
+      <title>Introdu#231;#227;o ao In-Memory OLTP (hekaton) com SQL Server 2016</title>
+      <description>Quando temos necessidade de efetuar transa#231;#245;es #224; velocidade da luz, esta vai ser sem d#250;vida a tecnologia que vai pensar usar. Tecnologia nascida na vers#227;o anterior (SQL Server 2014) e melhorada na vers#227;o 2016, In -Memory OLTP #233; sem d#250;vida uma grande aposta por parte da Microsoft para solucionar este tipo de exig#234;ncias do atual mercado das TI.
+Nesta sess#227;o vou explicar de uma forma clara o que consiste este novo componente do SGBD da Microsoft como come#231;ar a utilizar, limita#231;#245;es e alguns truques para resolver algumas das limita#231;#245;es.</description>
+      <startTime>2/20/2016 9:00:00 AM</startTime>
+      <endTime>2/20/2016 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>44629</importID>
+      <speakers>
+        <speaker>
+          <id>44629</id>
+          <name>Artur Santos</name>
+        </speaker>
+      </speakers>
+      <track>BI Track                                 Room Azure A</track>
+      <location>
+        <name>BI Track</name>
+      </location>
+      <title>What's New in Reporting Services 2016</title>
+      <description>Find out what Reporting Services may improve even more your Reporting skills.
+How to pin items to Power BI, new HTML 5 Renderind, PowerPoint Export  Rendering, the custom Parameters Pane, are only some of the new cool stuff that you could find in the new version of Reporting Services.
+This and a lot more is waiting for you... Come and see for yourself.
+
+</description>
+      <startTime>2/20/2016 10:15:00 AM</startTime>
+      <endTime>2/20/2016 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>43117</importID>
+      <speakers>
+        <speaker>
+          <id>43117</id>
+          <name>Pedro Simoes</name>
+        </speaker>
+      </speakers>
+      <track>CORE Track                                Room Azure B</track>
+      <location>
+        <name>CORE Track</name>
+      </location>
+      <title>Azure VM's with SQL Server -  Notes from the field</title>
+      <description>Vamos apresentar algumas das boas praticas e a nossa experiencia com m#225;quinas virtuais Azure com SQL Server</description>
+      <startTime>2/20/2016 2:00:00 PM</startTime>
+      <endTime>2/20/2016 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>44614</importID>
+      <speakers>
+        <speaker>
+          <id>44614</id>
+          <name>Niko Neugebauer</name>
+        </speaker>
+      </speakers>
+      <track>CORE Track                                Room Azure B</track>
+      <location>
+        <name>CORE Track</name>
+      </location>
+      <title>Getting Started with U-SQL  Azure Data Lake Analytics</title>
+      <description>Born out of the internal Big Data language called SCOPE, U-SQL is the language of the new generation that combines the powers of SQL and the extensibility of the C#.
+Capable of working with Azure Data Lake Storage, Azure Blob Storage, Azure SQL DB  Azure SQL DW and Azure VMs with SQL Server, U-SQL is the language of choice if you are looking for querying and combining data from variety of data sources.
+
+Let us discover what is exactly U-SQL  Azure Data Lake Analytics are and how they can be of big help for your projects.</description>
+      <startTime>2/20/2016 12:15:00 PM</startTime>
+      <endTime>2/20/2016 1:15:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

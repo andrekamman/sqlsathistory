@@ -1,0 +1,323 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #224 - Sydney 2013</name>
+    <startDate>5/25/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT+10:00) Brisbane</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatSydney</twitterHashtag>
+    <venue>
+      <name>Epping Boys High School (EBHS)</name>
+      <street>213 Vimiera Road</street>
+      <city>Eastwood</city>
+      <state>NSW, Australia</state>
+      <zipcode>2122</zipcode>
+      <longitude>151.101257</longitude>
+      <latitude>-33.771591</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>98</importID>
+      <name>Angry Koala</name>
+      <label>Gold Sponsor</label>
+      <url>http://angrykoala.com.au</url>
+      <imageURL>http://angrykoala.com/wp-content/uploads/2018/06/ak_logo_250.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1272</importID>
+      <name>WARDY IT Solutions</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.wardyit.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/986/EventSponsor_14725.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>8</importID>
+      <name>FusionIO</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.fusionio.com/solutions/microsoft-sql-server/</url>
+      <imageURL>https://www.sqlsaturday.com/files/18b704b1-226d-48fe-b0b8-f7b4d3443b3d.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Bronze Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>27665</importID>
+      <name>Warwick Rudd</name>
+      <label>
+      </label>
+      <description>Warwick Rudd is currently employed as a SQL Server Consultant and Certified Trainer for WARDY IT Solutions, Australia’s leading SQL Server consultants, trainers and Business Intelligence specialists. Warwick is a frequent speaker at local SQL Server user groups and SQL Saturday events in Australia. When not playing with the SQL stack, Warwick likes to get away to the cold and spend time snowboarding.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.jnrit.com.au/Blog.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27414</importID>
+      <name>Victor Isakov</name>
+      <label>
+      </label>
+      <description>Victor Isakov (MCA, MCM, MCSM, MCT, MVP) is a Database Architect and trainer who provides consulting and training services to various organizations in the public, private, and NGO sectors globally. He regularly speaks at international conferences such as Microsoft TechEd/Ignite, PASS Summit, IT/Dev Connections, and SQLSaturdays.
+Victor has written a number of books on SQL Server and has worked with Microsoft to develop the SQL Server exams and certification. In 2017 he authored "Exam Ref 70-764 Administering a SQL Database Infrastructure (1st Edition)".
+He is one of only three non-Microsoft, Microsoft Certified Architects in the world.</description>
+      <twitter>@victorisakov</twitter>
+      <linkedin>http://www.linkedin.com/in/victorisakov</linkedin>
+      <ContactURL>http://www.victorisakov.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@victorisakov</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21956</importID>
+      <name>Peter Myers</name>
+      <label>
+      </label>
+      <description>Peter Myers is a consultant, trainer and presenter, and has worked with Microsoft database and development products since 1997. Today he specializes in all Microsoft Business Intelligence products and also authors training course content for Microsoft products and services.
+
+He has a broad business background supported by a bachelor’s degree in applied economics and accounting, and he extends this with extensive experience backed by current MCSE certifications. He has been a Data Platform MVP since 2007.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://linkedin.com/in/peterjsmyers</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14470</importID>
+      <name>Geoff Orr</name>
+      <label>
+      </label>
+      <description>Geoff Orr MCT is a BI consultant and trainer working with some of the leading BI companies in the Australia, on government and commercial systems.  He finds collaborating and mentoring is key to any project, in the end it’s all about building professionals.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21954</importID>
+      <name>Peter Myers</name>
+      <label>
+      </label>
+      <description>Peter Myers is a consultant, trainer and presenter, and has worked with Microsoft database and development products since 1997. Today he specializes in all Microsoft Business Intelligence products and also authors training course content for Microsoft products and services.
+
+He has a broad business background supported by a bachelor’s degree in applied economics and accounting, and he extends this with extensive experience backed by current MCSE certifications. He has been a Data Platform MVP since 2007.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://linkedin.com/in/peterjsmyers</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11987</importID>
+      <name>Craig Bryden</name>
+      <label>
+      </label>
+      <description>Craig has been working with SQL Server for over 20 years and currently holds several SQL Server based certifications. He has also previously held an MCT certification. Craig's contribution to the SQL Server community was recognised in 2018 with a Microsoft MVP award. He was involved with Microsoft Learning to set some of the current SQL server Exams. Craig is the Chief Data Strategist at BiTQ. Craig is an organiser of the QLD Power BI User Group</description>
+      <twitter>@cbryden</twitter>
+      <linkedin>https://www.linkedin.com/in/craigbryden/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@cbryden</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>20014</importID>
+      <name>Mohamed Kabiruddin</name>
+      <label>
+      </label>
+      <description>Mohamed is a Cloud Solutions Architect with extensive experience in designing BI / Data Analytics solutions with expertise in analysis, design, modelling and implementation. He is a keen data enthusiast with a flair for managing and consolidating data.</description>
+      <twitter>mdkabir</twitter>
+      <linkedin>http://au.linkedin.com/pub/mohamed-kabiruddin/32/639/8b8/</linkedin>
+      <ContactURL>http://www.nobrainerlab.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mdkabir</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14723</importID>
+      <name>Grant Paisley</name>
+      <label>
+      </label>
+      <description>Grant Paisley is a Data Platform MVP and founder of Angry Koala, a Microsoft Business Intelligence partner based in Sydney, Australia. Grant is president of the SQL Server Usergroup Sydney and created http://reportsurfer.com, a community built around reporting, where you can also run the reports. He was contributing author for quot;SQL Server 2008 Analysis Services with MDXquot; and quot;Microsoft SQL Server Reporting Services Recipesquot;.</description>
+      <twitter>@angrykoala</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@angrykoala</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>14723</importID>
+      <speakers>
+        <speaker>
+          <id>14723</id>
+          <name>Grant Paisley</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>he godlike power of Excel 2013 with its disciples PowerPivot, PowerView and Geoflow</title>
+      <description>You will be converted to "Personal BI" (Business Intelligence)" when you see real client examples of Excel Add-in's PowerPivot (100million rows in Excel), PowerView (rich easy to use data exploration tool) and Geoflow (fully interactive data mapped on the globe)  You may wonder why Excel is getting all the attention at a SQL Saturday.  It's simple.  Excel *is* the tool for "Personal BI"   PowerPivot is an in mememory tabular storage model built by the Analysis Server (SSAS) team.  It shares the same codebase with SSAS Tabular, the same technology running on a server.   So you have on your desktop, in Excel, a serverlike godlike power... All SQL Professionals should know how to weild this power!</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21956</importID>
+      <speakers>
+        <speaker>
+          <id>21956</id>
+          <name>Peter Myers</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Mastering the CUBE functions in Excel 2013</title>
+      <description>This session explores the seven CUBE functions that are natively available in Excel 2013. Unknown to many business analysts, these useful functions can be used to retrieve data model members and values to create parameter-driven report designs.
+
+The session topics will introduce each of the seven functions. Demonstrations will range from the simple, to the more sophisticated involving dynamic expressions, MDX expressions, integration of data from multiple data models, and macro-driven layouts.
+
+This session is a must for those looking to drive more from Excel when reporting from the BI Semantic Model. Much of the content presented in this session is also applicable to Excel 2007 and Excel 2010.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27665</importID>
+      <speakers>
+        <speaker>
+          <id>27665</id>
+          <name>Warwick Rudd</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Pimp my Availability Groups</title>
+      <description>AlwaysOn Availability Groups became available in SQL Server 2012. They provide a more granular approach to providing High Availability for you databases. In this session Warwick will introduce you to how you can utilise your AGs with Replication, Change Tracking  Change Data Capture.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27414</importID>
+      <speakers>
+        <speaker>
+          <id>27414</id>
+          <name>Victor Isakov</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Maximizing SQL Server Performance: Tuning the Processor, RAM, Disk and Network Subsystems</title>
+      <description>You can't escape hardware or the laws of physics. Ultimately your SQL Server instance will be using the processor, memory, disk and network subsystems. In this session Victor Isakov (MCA, MCM, MCT, MVP) will go through the various subsystems and examine how the SQL Server database engine works with them and what configuration options exist. Along the way he will discuss how to tune the hardware, operating system and SQL Server for maximal performance.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21954</importID>
+      <speakers>
+        <speaker>
+          <id>21954</id>
+          <name>Peter Myers</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Big Data Analytics with PowerPivot and Power View</title>
+      <description>This presentation will introduce big data analytics for the business analyst with PowerPivot and Power View. It will be of interest to those new to the concept of big data, new to self-service data modelling with PowerPivot, and those interested to understand what is new for PowerPivot and Power View in Excel 2013.Demonstrations will include creating a big data solution by using HDInsight Server; producing a PowerPivot model based on the big data solution; using PowerPivot to integrate big data with local data; and, analyzing the PowerPivot model data by using Power View.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11987</importID>
+      <speakers>
+        <speaker>
+          <id>11987</id>
+          <name>Craig Bryden</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introducing Microsoft Data Explorer for Excel</title>
+      <description>In this session, I will introduce the audience to Microsoft Data Explorer for Excel. "Data Explorer" is an Excel add-in that enhances the self-service Business Intelligence experience in Excel by simplifying data discovery and access. It has often been referred to as the end-user ETL tool, but I believe that it will also be a valuable tool for all technical staff. This demo rich presentation will expose many great features of the newest addition to the Microsoft self-service offering.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>20014</importID>
+      <speakers>
+        <speaker>
+          <id>20014</id>
+          <name>Mohamed Kabiruddin</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Agile BI with SQL Server 2012 and TFS 2012</title>
+      <description>In a world where executives/CXOs are keen to perform analytics and data consolidation with lightning speed, there is a strong push towards incorporating the principles of Agile manifesto in the BI world to deliver solutions faster than ever before. In this session, I will share techniques that will help a consultant deliver BI solutions with a rapid prototyping approach and how Agile features of TFS can be leveraged to run projects. The session will involve case studies and practical demos using Team Foundation Server and SQL Server 2012's BI tools - SSIS, SSRS, SSAS (tabular) and Excel PowerPivot.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14470</importID>
+      <speakers>
+        <speaker>
+          <id>14470</id>
+          <name>Geoff Orr</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Integration Services (SSIS) back to basics</title>
+      <description>Geoff Orr, a very experience consultant, is going to cover the practical techniques for best utilising the incredible power of Integration Services - SQL's tool for moving and cleaning data.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

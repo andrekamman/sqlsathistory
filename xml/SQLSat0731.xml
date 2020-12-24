@@ -1,0 +1,479 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #731 - Athens 2018</name>
+    <startDate>6/16/2018 12:00:00 AM</startDate>
+    <attendeeEstimate>0</attendeeEstimate>
+    <timezone>(GMT+02:00) Harare, Pretoria</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatAthens</twitterHashtag>
+    <venue>
+      <name>Microsoft Hellas </name>
+      <street>221 Kifisias Ave</street>
+      <city>Marousi</city>
+      <state>Attica, Greece</state>
+      <zipcode>151 24</zipcode>
+      <longitude>23.7801399</longitude>
+      <latitude>38.0451202</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2155</importID>
+      <name>Stoiximan</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.stoiximan.gr/</url>
+      <imageURL>https://blog.stoiximan.gr/wp-content/uploads/2016/06/stoiximan-logo-300x128.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2131</importID>
+      <name>Ubitsoft</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.ubitsoft.com</url>
+      <imageURL>https://ubitsoft.com/wp-content/uploads/2018/03/ubitsoft-logo-original-y-b-1-2-300x146.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2213</importID>
+      <name>ELTA Courier</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.elta-courier.gr/</url>
+      <imageURL>https://elta-courier.gr/img/logo_sm.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2219</importID>
+      <name>INFOLAB</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.infolab.gr</url>
+      <imageURL>https://www.infolab.gr/HTML/images/InfolabLogo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2217</importID>
+      <name>IQ Solutions S.A.</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.iqsolutions.gr/</url>
+      <imageURL>https://www.iqsolutions.gr/themes/blanknoggin/content/images/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2172</importID>
+      <name>SiEBEN</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.sieben.gr</url>
+      <imageURL>https://www.sieben.gr/Themes/ResponsiveTheme/Content/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1114</importID>
+      <name>SQLschool.gr</name>
+      <label>Blog Sponsor</label>
+      <url>http://www.sqlschool.gr</url>
+      <imageURL>http://sqlschool.gr/images/SQLSCHOOL_LOGO_COLOR_BLACK_LETTERS_2019.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>73734</importID>
+      <name>Mikael Wedham</name>
+      <label>
+      </label>
+      <description>Mikael Wedham is the first SQL Server MCM in Sweden and the only one who also is a Microsoft Certified Trainer. He has been paid to do things in SQL Server since 1993. His long experience makes him an appreciated speaker at events and conferences all over Europe. To be prepared for deep dives, he is also certified as an Open Water Scuba Instructor.</description>
+      <twitter>@wedham</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.wedham.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@wedham</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>77166</importID>
+      <name>Arnie Rowland</name>
+      <label>
+      </label>
+      <description>Arnie long ago realized that most issues between Developer and DBA comes from incomplete communication and a misunderstanding of each other's objectives. He is a frequent Trainer and Mentor for Developers and DBAs, bringing both sets of skills to better communicate  with teams to create a working solution. For over a decade, Arnie has been a SQL Server MVP, Certified Trainer, technical editor for several publishers, including MOC, and has served as University and Community College adjunct faculty. Clients include Fortune 500 and Multi-Nationals, Federal and State agencies, Foreign governments, and local enterprises –both public and private.</description>
+      <twitter>@ArnieRowland</twitter>
+      <linkedin>https://www.linkedin.com/in/arnie</linkedin>
+      <ContactURL>http://sqlblog.com/blogs/arnie_rowland/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ArnieRowland</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>82434</importID>
+      <name>Christian Cote</name>
+      <label>
+      </label>
+      <description>Christian Coté is an IT professional with more than 15 years of experience working in data warehouse and business intelligence projects.  Christian developed an expertise in data warehousing over the years and designed many ETL/BI processes using a range of tools on multiple platforms. He's been presenting at several conferences and code camps. He currently co-leads the SQL Server PASS chapter in Montreal as well as Global French SQL PASS Chapter.  He is also a Microsoft Data Platform Most Valuable Professional (MVP).</description>
+      <twitter>Christian_SQL</twitter>
+      <linkedin>https://ca.linkedin.com/in/ccote</linkedin>
+      <ContactURL>http://bi-blogger.typepad.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Christian_SQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>73559</importID>
+      <name>Christian Cote</name>
+      <label>
+      </label>
+      <description>Christian Coté is an IT professional with more than 15 years of experience working in data warehouse and business intelligence projects.  Christian developed an expertise in data warehousing over the years and designed many ETL/BI processes using a range of tools on multiple platforms. He's been presenting at several conferences and code camps. He currently co-leads the SQL Server PASS chapter in Montreal as well as Global French SQL PASS Chapter.  He is also a Microsoft Data Platform Most Valuable Professional (MVP).</description>
+      <twitter>Christian_SQL</twitter>
+      <linkedin>https://ca.linkedin.com/in/ccote</linkedin>
+      <ContactURL>http://bi-blogger.typepad.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Christian_SQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>73868</importID>
+      <name>Mihail Mateev</name>
+      <label>
+      </label>
+      <description>Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Mentor for CEE, chapter lead, Microsoft Azure MVP, Microsoft Regional Director. He works as a Senior Solutions Architect at EPAM Systems, focused on Data Platform, IoT and cloud related solutions. He also worked many years like a Technical evangelist in the Infragistics. Last years Mihail was focused on various areas related to technology Microsoft: Data Platform, Visual Studio, ASP.Net, Windows client apps, Data Platform, and Microsoft Azure. Michael also has a PhD in cloud computing area. He is a university lecturer on Smart Homes and Smart Energy IoT Solutions.</description>
+      <twitter>mihailmateev</twitter>
+      <linkedin>http://www.linkedin.com/pub/mihail-mateev/1/6b3/4b1</linkedin>
+      <ContactURL>https://mmateev.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mihailmateev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72318</importID>
+      <name>Sergio Govoni</name>
+      <label>
+      </label>
+      <description>Since 1999 Sergio Govoni has been a software developer; in 2000 he got a degree in Computer Science at "Università degli Studi" in Ferrara (Italy). He has worked for over 18 years in Centro Software, a software house that produces the best ERP for manufacturing companies that are export oriented. Now, he manages the development product team and he is constantly involved on several team projects, where he focues his attention on the architecture and the mission-critical technical details. Since 2016 he is the vice president of the UGISS (www.ugiss.org). For the provided help to technical communities and for sharing his own experience, since 2010 he has received the Microsoft Data Platform MVP award.</description>
+      <twitter>@segovoni</twitter>
+      <linkedin>http://www.linkedin.com/in/sgovoni</linkedin>
+      <ContactURL>https://mvp.microsoft.com/it-it/PublicProfile/4029181?fullName=Sergio%20Govoni</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@segovoni</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72325</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>74711</importID>
+      <name>Bent Pedersen</name>
+      <label>
+      </label>
+      <description>Bent is a Data Platform MVP and working as Senior Business Analytics Architect at Kapacity A/S, where he have been working with enterprise customers on solutions with SSAS Tabular, SQL Server and in general Azure Data Platform services for the last years. During the past years, he concentrated on working with architecturing, devOps, Automation, testing and simplifying development processes for the Azure Data Platform.</description>
+      <twitter>https://twitter.com/SQLBent</twitter>
+      <linkedin>https://dk.linkedin.com/in/bentnissenpedersen</linkedin>
+      <ContactURL>http://www.biblog.eu</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/SQLBent</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>83666</importID>
+      <name>Antonios Chatzipavlis</name>
+      <label>
+      </label>
+      <description>I have been working in IT for over 25 years (since 1988). In my career, I have worked as junior and senior developer, ΙΤ Manager, Software Architect and IT Consultant. 
+
+The past 20 years I have been devoted on new technologies and software development tools, mainly by Microsoft Corp, either by training company staff and colleagues or assisting them in the design, development and implementation (as a consultant or chief developer).</description>
+      <twitter>antoniosch</twitter>
+      <linkedin>https://www.linkedin.com/in/achatzipavlis/</linkedin>
+      <ContactURL>http://www.sqlschool.gr</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=antoniosch</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71412</importID>
+      <name>Rudi Bruchez</name>
+      <label>
+      </label>
+      <description>(same as before)</description>
+      <twitter>nepasderanger</twitter>
+      <linkedin>https://fr.linkedin.com/in/rudibruchez</linkedin>
+      <ContactURL>http://www.babaluga.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=nepasderanger</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71728</importID>
+      <name>Cláudio Silva</name>
+      <label>
+      </label>
+      <description>Cláudio works as SQL Server DBA and he is an former PowerShell MVP who loves to automate any process that needs to be done more than a couple of times. He is an active member on the PowerShell and SQL communities. He contributes to dbatools project (https://dbatools.io) and is always available to help. You can find him on slack and twitter platforms.
+He also helps on some Portuguese in-person events such as SQLSaturday Lisbon and TugaIT. He is also a regular speaker on these and other events.</description>
+      <twitter>https://twitter.com/claudioessilva</twitter>
+      <linkedin>https://pt.linkedin.com/in/claudioessilva</linkedin>
+      <ContactURL>http://claudioessilva.eu</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/claudioessilva</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71476</importID>
+      <name>André Melancia</name>
+      <label>
+      </label>
+      <description>Owner / Principal Consultant at LunarCat.PT
+Microsoft Certified Trainer (MCT) focusing on SQL Server, Azure, IoT and Security.
+
+19+ years' fun developing information and multimedia systems, DBA, project and IT management.
+
+Data Community Portugal, IT Pro Portugal and PowerShell Portugal communities organiser.
+IPv6 Portugal, DNSSec Portugal and Windows Development Portugal online communities moderator.
+Actively volunteering, organising, speaking or just participating at community meetings and events around the world.
+
+Proud uncle and food devouring expert, with dangerous рuϧϧy cat as companion.
+
+Go to http://Andy.PT and you'll know the same as the NSA...</description>
+      <twitter>AndyPT</twitter>
+      <linkedin>http://LinkedIn.COM/in/AndreMelancia</linkedin>
+      <ContactURL>http://Andy.PT</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=AndyPT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>72318</importID>
+      <speakers>
+        <speaker>
+          <id>72318</id>
+          <name>Sergio Govoni</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Stage</name>
+      </location>
+      <title>SQL Server 2017 Graph Database</title>
+      <description>SQL Server has always provided tools to manage hierarchies and relationships, facilitating query execution on hierarchical data, but sometimes relationships can become complex. Think about many-to-many relationships, relational databases don't have a native solution for many-to-many associations. A common approach to realize a many-to-many association is to introduce a table that holds such relationship.​ SQL Server 2017, thanks to the Graph Database, can express certain kinds of queries more easily than a relational database by transforming complex relationships into graphs.​ In this session, I will introduce what Graph Database is and which scenarios it solves easily. The last demo will show how to build a recommendation system for sales offers that is able to determine the recommended products based on the product the customer is purchasing.</description>
+      <startTime>6/16/2018 9:40:00 AM</startTime>
+      <endTime>6/16/2018 10:40:00 AM</endTime>
+    </event>
+    <event>
+      <importID>74711</importID>
+      <speakers>
+        <speaker>
+          <id>74711</id>
+          <name>Bent Pedersen</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Factory</name>
+      </location>
+      <title>Boost your Tabular Productivity</title>
+      <description>Tabular Editor is an open source alternative that relies only on the Model.bim JSON metadata and the Tabular Object Model (TOM), thus providing an offline developer experience for Azure and on-premises tabular models. 
+
+Making changes to measures, calculated columns, display folders, etc. is lightning fast, and the UI provides a "what-you-see-is-what-you-get" model tree allowing you to maintain Display Folders, Perspectives and Translations. The perfect tool for your tabular models.
+
+Combined with scripting functionality, a Best Practice Analyzer, command-line build and deployment, and much more, Tabular Editor is a must for every SSAS Tabular developer. The tool is completely free.
+
+Demoing the capabilities of the tool is what is in focus for this session and therefore do not expect many slides. Attendees are assumed to be familiar with Tabular Model development.</description>
+      <startTime>6/16/2018 1:45:00 PM</startTime>
+      <endTime>6/16/2018 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>77166</importID>
+      <speakers>
+        <speaker>
+          <id>77166</id>
+          <name>Arnie Rowland</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Stage</name>
+      </location>
+      <title>Magical Memory Moments</title>
+      <description>OR, How In-Memory Objects Can Supercharge Your Data And Bring About World Peace 
+
+OK, so you’ve been reading about, perhaps even testing out some of the ‘in-memory’ objects now available in SQL Server. Some of the claims are exciting, and some seem overly optimistic. And Yet, you want to know, experience more … Perhaps your situation doesn’t really call out for in-memory tables. But you should consider memory-optimized #Temp tables, memory-optimized table variables, and natively compiled stored procedures.It’s true. Using memory-optimized tables requires a little more fore-thought, a bit more care, even a few configuration tweaks.
+• But what are the real advantages of memory-optimized objects?
+• What are the memory-optimized objects you can use?
+• How can you best use memory-optimized objects?
+In this demo packed session, we will discuss the pros and cons of using memory-optimized objects in ways that will supercharge your SQL Server.</description>
+      <startTime>6/16/2018 1:45:00 PM</startTime>
+      <endTime>6/16/2018 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>73734</importID>
+      <speakers>
+        <speaker>
+          <id>73734</id>
+          <name>Mikael Wedham</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Factory</name>
+      </location>
+      <title>A Masters view on Query plans and indexing</title>
+      <description>Do you find query optimization a mystery? This session will straighten out your question marks.
+You will se how queries are run, how indexes are used and get an insight into what query plans tell you.
+Further on you'll be introduced to In-Memory and Column Store indexing to get a fair chance of 
+selecting appropriate indexing for your query load.</description>
+      <startTime>6/16/2018 10:50:00 AM</startTime>
+      <endTime>6/16/2018 11:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>82434</importID>
+      <speakers>
+        <speaker>
+          <id>82434</id>
+          <name>Christian Cote</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Factory</name>
+      </location>
+      <title>The modern data warehouse</title>
+      <description>What is the architecture of a data warehouse these days? How can we integrate new trends and technologies? This session talks on how a data warehouse can benefit of newest SQL Server 2017 features and Azure Big Data technologies.</description>
+      <startTime>6/16/2018 12:00:00 PM</startTime>
+      <endTime>6/16/2018 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71476</importID>
+      <speakers>
+        <speaker>
+          <id>71476</id>
+          <name>André Melancia</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Stage</name>
+      </location>
+      <title>SQL Curiosities: η περιέργεια σκότωσε τη γάτα</title>
+      <description>There are weird things in life. Even weirder for developers... "It should work!"... What you see is NOT what you get... There's a bug, a feature, a workaround...
+Disclaimer: No feline was harmed in the making of this session. Please do not report it to the Ελληνική Φιλοζωική Εταιρεία...</description>
+      <startTime>6/16/2018 12:00:00 PM</startTime>
+      <endTime>6/16/2018 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>73868</importID>
+      <speakers>
+        <speaker>
+          <id>73868</id>
+          <name>Mihail Mateev</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Stage</name>
+      </location>
+      <title>Choosing the Right Database for Microservices Solutions</title>
+      <description>The past years have seen the explosive growth of large-scale distributed systems. This trend has changed the database world that is arguably without precedent in the history of the software industry. The result is a ompetitive database marketplace with a huge variety of platforms for us to choose from. But how do we go about making the right choices?
+
+In this talk we will discuss how we can go about choosing the right database models for your application.  We will also look at how the choice of data models can help determine which technologies to include in your data tier.</description>
+      <startTime>6/16/2018 10:50:00 AM</startTime>
+      <endTime>6/16/2018 11:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>71412</importID>
+      <speakers>
+        <speaker>
+          <id>71412</id>
+          <name>Rudi Bruchez</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Stage</name>
+      </location>
+      <title>What can you do with SQL Server on Linux?</title>
+      <description>The best RDBMS meets the best Operating System. But can you leverage all the power of SQL Server on Linux? Can you create AlwaysOn Availability Groups on Linux? Can you use Integration Service (SSIS) to exchange data ? Is Change Data Capture (CDC) available? Can you use Active Directory Authentication? You will need to attend this session to get the answers!</description>
+      <startTime>6/16/2018 2:55:00 PM</startTime>
+      <endTime>6/16/2018 3:55:00 PM</endTime>
+    </event>
+    <event>
+      <importID>73559</importID>
+      <speakers>
+        <speaker>
+          <id>73559</id>
+          <name>Christian Cote</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Factory</name>
+      </location>
+      <title>Azure Data Factory V2 /SSIS in Azure</title>
+      <description>Azure Data Factory (ADF) has done some mileage since it's beginning in 2015. It has evolved and is now able to integrate SSIS packages. In this session, you will learn how to deploy and execute SSIS packages from Azure Data Factory V2.</description>
+      <startTime>6/16/2018 2:55:00 PM</startTime>
+      <endTime>6/16/2018 3:55:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71728</importID>
+      <speakers>
+        <speaker>
+          <id>71728</id>
+          <name>Cláudio Silva</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Factory</name>
+      </location>
+      <title>Administrate SSRS/PBIRS with PowerShell</title>
+      <description>Once in a while I need to deploy dozens of reports, data sources, permissions and subscriptions across multiple Reporting Services folders. 
+Some time ago, I accomplished this by hand, wasting hours of my life. Nowadays it takes me a couple of minutes and I'm done.
+
+In this session I will share how you can leverage on ReportingServicesTools PowerShell module to deploy your reports, manage permissions and subscriptions and stop waste your time with some of those trivial tasks.
+
+We will see examples for both Reporting Services and PowerBI Report Server.</description>
+      <startTime>6/16/2018 9:40:00 AM</startTime>
+      <endTime>6/16/2018 10:40:00 AM</endTime>
+    </event>
+    <event>
+      <importID>72325</importID>
+      <speakers>
+        <speaker>
+          <id>72325</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Factory</name>
+      </location>
+      <title>Know What Your Code is Doing to SQL Server!</title>
+      <description>ORMs - oh how I LOVE them! As a consultant, when I see them in play at a client I go KACHIIINNNNGGGG!! :-D Seriously though, they can provide some substantial benefits for coding throughput. But if you don't Read The Fine Manual and do some things right and avoid some major gotchas you will fall prey to one of my favorite Guruisms: "Anything that allows developers to slap code together more quickly is inversely proportional to the performance and concurrency you will get from that code"! Although this talk is based on Entity Framework, most ORMs suffer from a lot of the same flaws.</description>
+      <startTime>6/16/2018 4:05:00 PM</startTime>
+      <endTime>6/16/2018 5:05:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

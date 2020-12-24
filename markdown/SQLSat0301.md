@@ -1,0 +1,21 @@
+# SQLSaturday #301 - Cape Town 2014
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Gail Shaw|DBA|[Lies, Damned Lies And Statistics](14366.md)
+00:00:00|Gail Shaw|DBA|[On Transactions and Atomic Operations](14367.md)
+00:00:00|Gary Hope|Azure|[an Introduction to AzureML](14391.md)
+00:00:00|Gordon Beeming|BI|[Power BI in Office 365](14718.md)
+00:00:00|Jody Roberts|Azure|[Exploring CloudOS](17100.md)
+00:00:00|Klaus Aschenbrenner|Dev|[UNIQUEIDENTIFIERs as Primary Keys in SQL Server](18495.md)
+00:00:00|Klaus Aschenbrenner|DBA|[Inside the SQL Server Query Optimizer](18502.md)
+00:00:00|Lyndon Johnson|BI|[Custom Prompt Pages for Microsoft Reporting Services](19322.md)
+00:00:00|Martin Phelps|DBA|[Who's in Control? Use Sql Server Resource Governor](19742.md)
+00:00:00|Matt Horn|BI|[Introduction to Data Analysis Expressions (DAX)](20153.md)
+00:00:00|Mine Tokus|Azure|[Relational Data Management on Microsoft Azure](20791.md)
+00:00:00|Niels Berglund|Dev|[SQLCLR Real World Usage](21439.md)
+00:00:00|Peter Willmot|Dev|[Securing your SQL Database Applications](22323.md)
+00:00:00|Serdar Altug|Azure|[SQL 2014 Enhancements Overview](23812.md)
+00:00:00|Stanley Roos|Dev|[Indexing for performance](25241.md)
+00:00:00|Stefan Cronje|Dev|[SQL Source … controlled in the studio](25250.md)
+00:00:00|Steve Simon|BI|[SQL Server Reporting Services 2014 on Steroids!!](25442.md)
+00:00:00|Steve Simon|Dev|[Database design for mere developers](25463.md)

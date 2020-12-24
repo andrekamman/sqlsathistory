@@ -1,0 +1,22 @@
+# SQLSaturday #327 - Johannesburg 2014
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Bhavesh Lala|Track 4|[Master data management - a simple approach to an improved data experience](10409.md)
+00:00:00|Brent  Samodien|Track 2|[Designing Modern Apps using New Capabilities in Microsoft Azure SQL Database](10749.md)
+00:00:00|Gail Shaw|Track 1|[On Transactions and Atomic Operations](14369.md)
+00:00:00|Gary Hope|Track 1|[Introduction to AzureML](14394.md)
+00:00:00|Jody Roberts|Track 2|[Rocking with SQL 2012 Extended Events](17105.md)
+00:00:00|Luis de Sousa|Track 4|[Common ETL development mistakes (and their solutions)](19301.md)
+00:00:00|Sifiso Ndlovu|Track 3|[Columnstore Indexing: From SQL Server 2012 to SQL Server 2014](19356.md)
+00:00:00|Mark White|Track 3|[DAX Ninja in 60 minutes](19419.md)
+00:00:00|Marius Van Schalkwyk|Track 3|[ How New Feature in SQL Server 2014 Could Benefit Business Intelligence Solutions](19513.md)
+00:00:00|Martin Phelps|Track 1|[Who's in Control? Use Sql Server Resource Governor](19743.md)
+00:00:00|Matt Horn|Track 4|[Introduction to Data Analysis Expressions (DAX)](20154.md)
+00:00:00|Franco  Rothner|Track 4|[Keynote address with Franco Rothner](20369.md)
+00:00:00|Sean Pearce|Track 2|[Practical Query Tuning](24294.md)
+00:00:00|Steve Simon|Track 2|[SQL Server 2014 Data Access Layers](25527.md)
+00:00:00|Steve Simon|Track 3|[Creating efficient and effective SSRS BI Solutions](25528.md)
+00:00:00|Frikkie  Venter|Track 2|[In-Memory Optimized Tables - Hands-on demo and Real World applications](27368.md)
+00:00:00|Howard Diesel|Track 1|[SQL Skills: Senior In Age / Pay OR Skills](35689.md)
+00:00:00|Alistair Pugin|Track 4|[SQL Best Practices including tips and Tricks for optimizing your SharePoint Farm](9231.md)
+00:00:00|Andreas Bergstedt|Track 4|[10 Things that you already knew about SSIS](9453.md)

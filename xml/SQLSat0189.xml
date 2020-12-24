@@ -1,0 +1,916 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #189 - Costa Rica 2013</name>
+    <startDate>4/13/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>300</attendeeEstimate>
+    <timezone>(GMT-06:00) Saskatchewan</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatCostaRica</twitterHashtag>
+    <venue>
+      <name>Hotel Holiday Inn San Jose Downtown</name>
+      <street>Calle 5</street>
+      <city>San Jose</city>
+      <state>, Costa Rica</state>
+      <zipcode>11501</zipcode>
+      <longitude>-84.075872</longitude>
+      <latitude>9.936293</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>670</importID>
+      <name>Grupo Asesor en Informatica</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.grupoasesor.net</url>
+      <imageURL>https://www.simsasys.com/LogoGrupoAsesor.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>258</importID>
+      <name>Sapiens Software S.A</name>
+      <label>Gold Sponsor</label>
+      <url>http://sapiens.co.cr/</url>
+      <imageURL>https://www.simsasys.com/sapiens.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>973</importID>
+      <name>Proximity Costa Rica LLC</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.proximitycr.com/</url>
+      <imageURL>https://simsasys.com/ProximityCR-logo-curvas.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>447</importID>
+      <name>Bosz Digital</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.boszdigital.com</url>
+      <imageURL>https://kennethurena.info/images/Bosz.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1209</importID>
+      <name>TradeStation</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.tradestation.com/</url>
+      <imageURL>https://www.simsasys.com/tradestation.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1037</importID>
+      <name>SherlochTech</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.SherlockTech.com</url>
+      <imageURL>https://www.simsasys.com/SherlochTechColorLogoHorizontal.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>55</importID>
+      <name>ComponentOne</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.componentone.com</url>
+      <imageURL>
+      </imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1088</importID>
+      <name>SQL Data Partners LLC</name>
+      <label>Personal Sponsor</label>
+      <url>http://www.sqldatapartners.com/podcast</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/839/EventSponsor_13641.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>701</importID>
+      <name>Indicium Resources, Inc.</name>
+      <label>Personal Sponsor</label>
+      <url>http://www.idonthaveawebsite.com</url>
+      <imageURL>https://www.idonthavealogourl.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>319</importID>
+      <name>Comunidad Windows Costa Rica</name>
+      <label>Swag Sponsor</label>
+      <url>http://tinyurl.com/comunidadwindows</url>
+      <imageURL>https://www.simsasys.com/LogoComunidadWindows2015.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>501</importID>
+      <name>IEEE Costa Rica</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.computer.org/portal/web/guest/home</url>
+      <imageURL>https://2.bp.blogspot.com/-lBkOSTn-LSE/UGReDPuFhSI/AAAAAAAACtU/QVJzhqOLle8/s1600/society.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>50</importID>
+      <name>xSQL Software</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.xsql.com</url>
+      <imageURL>
+      </imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>284</importID>
+      <name>SQLCR</name>
+      <label>Swag Sponsor</label>
+      <url>http://sqlcr.com/</url>
+      <imageURL>https://sqlcr.com/sites/default/files/logo-1.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Swag Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>840</importID>
+      <name>Microsoft Bulgaria</name>
+      <label>Gold One Sponsor</label>
+      <url>http://www.microsoft.com</url>
+      <imageURL>https://media.infragistics.com/community/SQLSaturday/MSFT_logo_170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>9519</importID>
+      <name>Andy Leonard</name>
+      <label>
+      </label>
+      <description>Andy Leonard is founder and Chief Data Engineer at Enterprise Data  Analytics, Microsoft Data Platform MVP, creator of the DILM (Data Integration Lifecycle Management) Suite, an SSIS trainer, consultant, developer, Business Intelligence Markup Language (Biml) developer and BimlHero, SQL Server database and data warehouse developer, community mentor, engineer, and farmer. He is a co-author of "The Biml Book and SQL Server Integration Services Design Patterns" and author of "Managing Geeks - A Journey of Leading by Doing", "Data Integration Lifecycle Management with SSIS", "Building Custom Tasks for SSIS", and the "Stairway to Integration Services". Andy blogs at andyleonard.blog where you can learn more on the About Andy page.</description>
+      <twitter>AndyLeonard</twitter>
+      <linkedin>http://www.linkedin.com/in/AndyLeonard</linkedin>
+      <ContactURL>https://andyleonard.blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=AndyLeonard</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16361</importID>
+      <name>Jeff Prom</name>
+      <label>
+      </label>
+      <description>Jeff Prom is a Data and BI Developer with over 15 years experience. From a wide variety of industries, he has worked at corportations both large and small including several global fortune 50 companies. Jeff is an active member in the SQL community and regularly speaks and attends user groups and conferences. He has earned MCTS certifications for Database Development, Administration, and BI. Jeff is currently employed at Silver Bay Realty Trust Corp as a Data Architect in Minnesota.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/pub/jeff-prom/7/1b7/bb1/</linkedin>
+      <ContactURL>http://jeffprom.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14313</importID>
+      <name>Frank Quintana</name>
+      <label>
+      </label>
+      <description>Doctor Quintana has been involved in optimization and math modeling since the ’80s. 
+He is an IT University professor of Data Science, Databases, Data Mining, and Knowledge Discovery. He is a former head of an RD department. He worked as a research engineer at the Memorial University of Newfoundland. He also worked as a consultant in the role of a technical team leader and software architect for EDS responsible for critical parts of the SDLC for multi-million dollar projects. He is one of the Software Architects that designed and built the "Health and Benefits System for the of the Veteran Affairs of Canada"
+He is a regular speaker at national and international events
+In 2004 he started his consulting practice in South and Central Flori</description>
+      <twitter>Frankqr2</twitter>
+      <linkedin>http://www.linkedin.com/in/FrankQuintanaDataArchitect</linkedin>
+      <ContactURL>http://www.businessintelligencematters.us</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Frankqr2</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11176</importID>
+      <name>Carlos L Chacon</name>
+      <label>
+      </label>
+      <description>Carlos Chacon is the managing partner of SQL Data Partners LLC and co-host of the popular SQL Data Partners Podcast.  While getting his start as a typical accidental DBA, Carlos has sat on Microsoft exam review panels, served as regional mentor and chapter leader.  He enjoys traveling and has been to four continents, speaks Spanish and can eat his weight in raspberries (not yet proven).  He and his family live in Richmond, Virginia.</description>
+      <twitter>@CarlosLChacon</twitter>
+      <linkedin>https://www.linkedin.com/in/carloslchacon</linkedin>
+      <ContactURL>http://sqldatapartners.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@CarlosLChacon</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27184</importID>
+      <name>Kenneth Urena</name>
+      <label>
+      </label>
+      <description>Kenneth Ureña is an experienced technologist with 17 years of experience, including 14 years of experience in SQL server. He has worked on versions from SQL Server 7.0 to SQL server 2016. 
+
+Kenneth has performed the role of Database Developer, Database Architect and Database Administrator, always relying on his disaster recovery and performance tuning skills.
+
+He co-leads the Global Spanish Virtual chapter of PASS. PASS LatAm Regional Mentor, he speaks at multiple SQL Server events in both Spanish and English. Kenneth holds multiple SQL server certifications.</description>
+      <twitter>@sqlcr</twitter>
+      <linkedin>https://www.linkedin.com/in/sqlcr</linkedin>
+      <ContactURL>http://www.sqlcr.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlcr</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>12047</importID>
+      <name>Carlos Rojas Vargas</name>
+      <label>
+      </label>
+      <description>Carlos Rojas Vargas es Microsoft MVP en SQL-Server desde el año 2001 con 16 años consecutivos de obtener este reconocimiento, trabaja con SQL-Server desde el año 1995. A partir de 1999 se certifica como MCT y comienza a impartir Capacitación certificada Microsoft, actualmente trabaja como Consultor en SQL-Server, Windows Server, Virtualización con Hyper-V, Alta Disponibilidad y Soluciones de Colaboración con Sharepoint en Grupo CMA. En este momento cuenta con las certificaciones MCSA(SQL-Server 2012/2014), MCSA(SQL-Server 2008), MCITPro (Database Adm SQL-Server 2008), MCTS(Sharepoint 2010), MCTS(SQL-Server 2008), MCTS(Windows Server 2008 App Infrastructure), MTA, MCDBA, MCSD.NET, MCAD, MCSE, A+, N+. Fundador del Grupo de Usuarios de SQL CR.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlugcr.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16697</importID>
+      <name>Jesus Gil Velasco</name>
+      <label>
+      </label>
+      <description>Jesus Gil (Dr. Rudo SQL) es un experto en SQL con mas de 10 años de experiencia y un speaker habitual de los SQL-Saturday en Latinoamérica.  Es el primer MVP de SQL Server para México, reconocimiento que ha ganado desde el año 2010.  Es co-autor de la Guia Oficial de Microsoft Corp. para la Migración de SQL Server 2012 y es colaborador de revistas, tanto nacionales como internacionales. Para Microsoft México genero el contenido del diplomado técnico y de Negocios sobre BI con SQL2012.
+</description>
+      <twitter>@jesus_gilv </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jesus_gilv </imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13618</importID>
+      <name>Eduardo Castro</name>
+      <label>
+      </label>
+      <description>Eduardo Castro, Microsoft Data Platform MVP and PASS Board of Advisor for LATAM, is well known LATAM SQL Server Expert and focuses on architecture, Business Intelligence and Data Analytics, Eduardo has an specialization and master degree in Data Analysis and Big Data. I have been speaker at PASS Summit delivering session about R and Data Science.
+
+Eduardo Castro has presented in United States, Costa Rica, Colombia, Guatemala, Mexico, Panama, El Salvador and South Korea.</description>
+      <twitter>edocastro</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=7313296amp;authType=NAME_SEARCHamp;authToken=pBHMamp;locale=en_USamp;srchid=73132961426368749508amp;srchindex=1amp;srchtotal=50amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A73132961426368749508%2CVSRPtargetId%3A7313296%2CVSRPcmpt%3Aprimary%2CVSRPnm%3A</linkedin>
+      <ContactURL>http://ecastrom.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=edocastro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16944</importID>
+      <name>Javier Loria</name>
+      <label>
+      </label>
+      <description>Javier Loria es un experimentadoArquitecto de Software yArquitecto de Inteligencia de negocios, desarrollador líder con un historial de ingeniera de redes. Javier tiene más de 12 años de experiencia como Instructor Técnico, casi 20 años como desarrollador; 8 años como arquitecto de software y de inteligencia de negocios.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.solidq.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16759</importID>
+      <name>Jesus Gil</name>
+      <label>
+      </label>
+      <description>Jesus Gil is a professional working with SQL Server since 6.5 version to SQL Server 2017
+I'm an Microsoft Data Platform MVP since 2010 and was coauthor of official WhitePapers: SQL Server 2014 Upgrade Technical Guide and SQL Server 2012 Upgrade Technical Guide
+Author several technical articles, course, workshops, etc.</description>
+      <twitter>@jesus_gilv</twitter>
+      <linkedin>http://mx.linkedin.com/in/jesusgilv/es</linkedin>
+      <ContactURL>https://jesusgilv.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jesus_gilv</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16360</importID>
+      <name>Jeff Prom</name>
+      <label>
+      </label>
+      <description>Jeff Prom is a Data and BI Developer with over 15 years experience. From a wide variety of industries, he has worked at corportations both large and small including several global fortune 50 companies. Jeff is an active member in the SQL community and regularly speaks and attends user groups and conferences. He has earned MCTS certifications for Database Development, Administration, and BI. Jeff is currently employed at Silver Bay Realty Trust Corp as a Data Architect in Minnesota.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/pub/jeff-prom/7/1b7/bb1/</linkedin>
+      <ContactURL>http://jeffprom.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>12851</importID>
+      <name>David Sánchez Aguilar</name>
+      <label>
+      </label>
+      <description>David S#225;nchez Aguilar, especializado en Tecnolog#237;as Microsoft. Cuenta con el reconocimiento de Microsoft Most Valuable Professional y con varias certificaciones como MCP, MCTS, MCITP, MCSD, Microsoft Specialist y Microsoft Certified Trainer. Es graduado de la carrera de Ingenier#237;a en Sistemas Computacionales y actualmente cursa una Maestr#237;a en Administraci#243;n de Tecnolog#237;as de la Informaci#243;n. Cuenta con m#225;s de siete a#241;os de experiencia trabajando con diferentes plataformas Microsoft.</description>
+      <twitter>@davidsancheza</twitter>
+      <linkedin>https://cr.linkedin.com/in/davidsanchezaguilar</linkedin>
+      <ContactURL>http://davidsanchezaguilar.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@davidsancheza</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22304</importID>
+      <name>Ricardo Estrada</name>
+      <label>
+      </label>
+      <description>Soy Ricardo Estrada consultor y conferencista en temas relacionados con SQL, resido en Costa Rica, curioso por la tecnología y apasionado por las bases de datos y sistemas de BI, gusta de compartir conocimiento, buscar soluciones a problemas cotidianos y construir aplicaciones que faciliten las operaciones y decisiones a nivel empresarial, es orgullosamente speaker de los SQL Saturdays de Centroamérica desde el año 2014, además de participar como expositor en los Summit para España y Panamá.
+Mi primer contacto con SQL Server fue con la versión 2000 y no ha dejado de aprender trucos, metodologías, técnicas y estrategias nuevas... y desde entonces... las he compartido en diferentes posts, principalmente la página de fb: SeHablaSQL</description>
+      <twitter>pricardo03@hotmail.com</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://SeHablaSQL</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pricardo03@hotmail.com</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23811</importID>
+      <name>Salomon Henriquez</name>
+      <label>
+      </label>
+      <description>Salomon Henriquez GSpeaker at comunidad AlejandriaSpeaking about Microsoft products like Azure, Windows Server, Exchange Server, SQL Server, Hyper V, Sharepoint Server and others.
+Currently performing at Microsoft as ARR engineer.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>12923</importID>
+      <name>David Dye</name>
+      <label>
+      </label>
+      <description>David is a Sergeant with the Cape Coral Police Department and currently works as a database administrator and developer in the Administrative Services Division. He began his career with the police department in 1990 in the patrol division and worked various assignments until being promoted to Sergeant in 1998. Based on his education and experience David was assigned to his current position in 2002 and is responsible for database administration, software integration, and development for public sa</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>12922</importID>
+      <name>David Dye</name>
+      <label>
+      </label>
+      <description>David is a Sergeant with the Cape Coral Police Department and currently works as a database administrator and developer in the Administrative Services Division. He began his career with the police department in 1990 in the patrol division and worked various assignments until being promoted to Sergeant in 1998. Based on his education and experience David was assigned to his current position in 2002 and is responsible for database administration, software integration, and development for public sa</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15532</importID>
+      <name>Juan Alvarado</name>
+      <label>
+      </label>
+      <description>MVP SQL SERVER desde 2005, especialista en inteligencia de negocios en las areas de diseños de data marts, datawarehouse, SSAS, reporting services, powerpivot, excel , bases de datos tabulares y Sharepoint.
+Consultor en varias implementaciones de tecnologias de Microsoft, Oracle y SAP.
+Experto certificado en SQL SERVER, Project Server , Sharepoint.  Certificado en tencologias de SAP y Oracle.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.youtube.com/juanbizzz</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>26244</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11379</importID>
+      <name>César Oviedo</name>
+      <label>
+      </label>
+      <description>MCITP: Business Intelligence, Database Administrator, Database Developer. Arquitecto de Inteligencia de Negocios y Application Life Management. Administrador Comunidad Business Intelligence LATAM.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://businessintelligencelatam.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15533</importID>
+      <name>Juan Alvarado</name>
+      <label>
+      </label>
+      <description>MVP SQL SERVER desde 2005, especialista en inteligencia de negocios en las areas de diseños de data marts, datawarehouse, SSAS, reporting services, powerpivot, excel , bases de datos tabulares y Sharepoint.
+Consultor en varias implementaciones de tecnologias de Microsoft, Oracle y SAP.
+Experto certificado en SQL SERVER, Project Server , Sharepoint.  Certificado en tencologias de SAP y Oracle.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.youtube.com/juanbizzz</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>26243</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11380</importID>
+      <name>César Oviedo</name>
+      <label>
+      </label>
+      <description>MCITP: Business Intelligence, Database Administrator, Database Developer. Arquitecto de Inteligencia de Negocios y Application Life Management. Administrador Comunidad Business Intelligence LATAM.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://businessintelligencelatam.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23607</importID>
+      <name>Russell Fustino</name>
+      <label>
+      </label>
+      <description>Russ Fustino heads up Developer Evangelism at ComponentOne as a Senior Developer Evangelist.  He is also a highly experienced Windows Phone 7 software developer with a passion for conveying relevant, current, and future software development technologies and tools through live seminars, teaching, and internet video productions.  Russ has a new innovative blog and interview video series with influentials, about current technology, ComponentOne products and developer community called ‘Russ Cam’!  </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.clubfarpoint.com/Forums/blogs/russells_blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>14313</importID>
+      <speakers>
+        <speaker>
+          <id>14313</id>
+          <name>Frank Quintana</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>OLTP, OLAP, las Lenguas y paradigmas en BIDS</title>
+      <description>Con BIDS somos capaces de responder a preguntas en dos mundos contradictorios el OLTP (Procesos de Transacciones en Líneas) y el OLAP (Procesos de Análisis en Líneas) con el fin de responder a las interrogantes en estas dos configuraciones de OLAP y OLTP, BIDS incluyese tres servicios SSIS, SSRS y SSAS y una variedad de lenguajes como SQL, T-SQL, MDX, DMX, etc. 
+Es prácticamente imposible explicar cada aspecto de cada una de las herramientas que forman parte de BIDS (Data base Tools) en una presentacion. Así que en esta presentación intentamos explicar la esencia de estos tres servicios y de las lenguas usadas en BIDS desde la perspectiva de los problemas que están tratando de resolver
+</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16360</importID>
+      <speakers>
+        <speaker>
+          <id>16360</id>
+          <name>Jeff Prom</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Master Data Services</title>
+      <description>Does your company have similar data in multiple locations? Not really sure which set of data is accurate? With MDS, Microsoft gives you the ability to have one accurate source of non-transactional data to use with your applications or send to other databases and ETL processes. Leverage data stewards to help manage the data repository to ensure it is up-to-date and accurate.
+
+In this session we will cover MDS from start to finish including installation, creating models/entities, working with data, using the Excel 
+add-in, security, hierarchies, views, versions, and business rules. After this session, you should have a good understanding of what MDS does, how to use it, and how to get started with your own MDS project.</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>23607</importID>
+      <speakers>
+        <speaker>
+          <id>23607</id>
+          <name>Russell Fustino</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Building a Windows 8 app from scratch (English)</title>
+      <description>See how to build your first Windows 8 app. We will use what I learned when creating the app: .NET Gurus Can Cook, which contains recipes from famous folks in the software industry such as Scott Hanselman and Mary Jo Foley. Join ComponentOne Developer Evangelist and former Microsoft Developer Evangelist, Russ Fustino in this session and learn the new programming paradigm for creating Windows 8 style apps.  You will see how to build an application that incorporates many of the key characteristics of a great Windows 8 style app, including:  
+
+* A modern UI user experience that leverages the signature Windows 8 controls such as GridView, ListView, FlipView, AppBar, Semantic Zoom and other Windows 8 controls. 
+
+* A user experience that scale</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16361</importID>
+      <speakers>
+        <speaker>
+          <id>16361</id>
+          <name>Jeff Prom</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Data Quality Services</title>
+      <description>As the old adage goes, 'Garbage in, garbage out.' Stop spending hours manually cleansing your data, and start using DQS! DQS is the new data quality tool provided with SQL Server 2012. By leveraging knowledge bases, you can correct invalid data and improve the quality of your data.
+
+In this session we will cover creating a knowledge base, data cleansing, data matching, and using 3rd party knowledge bases (Reference Data). We will talk about installation, show how to use the DQS tool, and how to integrate DQS into your SSIS packages. After this session you should have a good understanding of what DQS is, how to use it, and how to get started with your own Data Quality initiative.</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9519</importID>
+      <speakers>
+        <speaker>
+          <id>9519</id>
+          <name>Andy Leonard</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Creating a Custom SSIS 2012 Task</title>
+      <description>Are you tired of copying and pasting .Net code into Script Tasks? In this presentation, Andy Leonard walks you through creating a custom SSIS task using Visual Studio. Learn how and why to build custom SSIS tasks. Discover tips and tricks for building custom tasks as Andy demonstrates common mistakes and pitfalls.</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16944</importID>
+      <speakers>
+        <speaker>
+          <id>16944</id>
+          <name>Javier Loria</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Es TEMPDB, por qué es tan importante?</title>
+      <description>TEMPDB es solo para datos temporales cierto o no? Se crea por defecto y se recrea cada vez que se reinicia SQL Server, entonces no debería ser importante, ESTO ES INCORRECTO. En esta sesión aprenderá sobre los aspectos internos de TEMPDB y por qué TEMPDB es importante. Se verán las mejores prácticas para configurar TEMPDB y cómo determina si hay centención. Si usted tiene sistemas en los cuales no se configurado TEMPDB entonces debe asistir a esta sesión.</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>12851</importID>
+      <speakers>
+        <speaker>
+          <id>12851</id>
+          <name>David Sánchez Aguilar</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SharePoint Access Services 2013 y SQL Server 2012</title>
+      <description>En esta sesión veremos lo nuevo de SharePoint Access Services 2013 integrado con SQL Server 2012.</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11176</importID>
+      <speakers>
+        <speaker>
+          <id>11176</id>
+          <name>Carlos L Chacon</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server--En juego or Fuera de juego?</title>
+      <description>Esta presentación se concentra en los pasos que se puede tomar para determinar el buen funcionamiento del SQL Server y donde debe enfocarse para optimizarlo. Revisamos las herramientas y scripts que están disponibles sin costo en la comunidad SQL para que no tenga la necesidad de comprarlas . Se da más énfasis en los índices.</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>12923</importID>
+      <speakers>
+        <speaker>
+          <id>12923</id>
+          <name>David Dye</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Whats New in T-SQL With SQL Server 2012</title>
+      <description>This session covers the new features and functions introduced to T-SQL in SQL Server 2012.  Our time will be spent reviewing enhancements to T-SQL specifically for SQL Server 2012 with attention to demonstrations and code samples.  This is a basic session, but ttendees should have a general knowledge of T-SQL.</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>26243</importID>
+      <speakers>
+        <speaker>
+          <id>26243</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Windowing Functions: THE Reason to Upgrade to 2012</title>
+      <description>For the first time since SQL 7 there is a compelling reason for EVERY SQL Server user to upgrade to the next version and this time around the reason is Windowing Functions.   And these are NOT limited to Enterprise Edition, like so many other really useful and important features!  The range of data processing needs that can be very efficiently and cleanly solved with these tools is stunning. In this demo-packed session we will cover as many features as we can pack into an hour's time, and you can take the demo code back home with you to review at your leisure!</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15532</importID>
+      <speakers>
+        <speaker>
+          <id>15532</id>
+          <name>Juan Alvarado</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Excel 2013 como herramienta de BI</title>
+      <description>En esta charla se analizara el uso de excel 2013 como herramienta de analisis de infromacion.  Se veran demos de powerpivot , power view y las nuevas carateristicas de accesos a cubos.</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22304</importID>
+      <speakers>
+        <speaker>
+          <id>22304</id>
+          <name>Ricardo Estrada</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>*Las mejoras + importantes en Código de SQL 2012</title>
+      <description>En esta sesión ejecutaremos algunas funciones nuevas de SQL de gran utilidad en el día a día que disminuyen líneas de código y aceleran el proceso de desarrollo.</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>26244</importID>
+      <speakers>
+        <speaker>
+          <id>26244</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Transaction Log Deep Dive</title>
+      <description>Time for another deep dive from TheSQLGuru, this time on the transaction log. Architecture and internals, monitoring, tuning/optimizing will all be covered. A great learning experience on another pillar of the SQL Server relational engine.</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>23811</importID>
+      <speakers>
+        <speaker>
+          <id>23811</id>
+          <name>Salomon Henriquez</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Azure para principiantes</title>
+      <description>THis is a topci I would like to cver in order to show people who is beginning with SQl Azure what SQl Azure realy is, the power and benefits of this tool and most important in order to make people do not be afraid when they face SQl Azure</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>12922</importID>
+      <speakers>
+        <speaker>
+          <id>12922</id>
+          <name>David Dye</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Dealing With Errors in SSIS 2012</title>
+      <description>This session focuses on error handling in SQL Server Integration Services 2012.  Different techniques and strategies will be introduced for error handling in control flow, data flow, and script tasks as well as how to dynamically handle errors.  </description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13618</importID>
+      <speakers>
+        <speaker>
+          <id>13618</id>
+          <name>Eduardo Castro</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Modelos de BI Tabulares</title>
+      <description>En sesión veremos las bases de datos tabulares en SQL Server 2012, se verán las herramientas para creación de cubos tabulares tales como SQL Server Data Tools, Analisis Services, PowerPivot y PowerView. Además de cuáles son los casos en los cuales es mejor utilizar el modelo Tabular</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27184</importID>
+      <speakers>
+        <speaker>
+          <id>27184</id>
+          <name>Kenneth Urena</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Particionamiento y BD Parciales HA para VLDB</title>
+      <description>Estrategia de Respaldos + Particionamiento + Arquitectura en SQL Server Enterprise Edition para obtener escenarios de alta disponibilidad en bases de datos Muy Grandes.</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>12047</importID>
+      <speakers>
+        <speaker>
+          <id>12047</id>
+          <name>Carlos Rojas Vargas</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Security in Contained Databases in SQL-Server 2012</title>
+      <description>Easy Administration of Security with Contained Databases in SQL-Server 2012</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11380</importID>
+      <speakers>
+        <speaker>
+          <id>11380</id>
+          <name>César Oviedo</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Data Visualization: PowerView</title>
+      <description>La Inteligencia de Negocios es una de los áreas más importantes en las corporaciones ya que brinda soporte para la toma de decisiones, y es indispensable que los usuarios puedan sacar provecho de esta información. Power View permite la visualización rápida y fácil de sus datos, además que permite compartir y colaborar sus análisis estadísticos en un entorno familiar como lo es SharePoint y Excel.</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15533</importID>
+      <speakers>
+        <speaker>
+          <id>15533</id>
+          <name>Juan Alvarado</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Conociendo lo nuevo del Stack de BI de Microsoft</title>
+      <description>En esta charla se analizara las diferentes opciones que Microsoft tiene para analisis de informacion y nuevas caracteristicas de SQL 2012 , Sharepoint 2013 y office 2013</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11379</importID>
+      <speakers>
+        <speaker>
+          <id>11379</id>
+          <name>César Oviedo</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server 2012 - Data Mining</title>
+      <description>En esta sesión se abarcarán los algoritmos y herramientas que brinda el SQL Server 2012 para la Minería de Datos.</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16697</importID>
+      <speakers>
+        <speaker>
+          <id>16697</id>
+          <name>Jesus Gil Velasco</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>BI en dipositivos moviles</title>
+      <description>Todos quieren BI, todos decimos que sabemos entregar BI, pero ¿en medios móviles como lo estas entregando?
+Ven y aprende sobre como mostrar y como se ve tu BI en dispositivos móviles</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16759</importID>
+      <speakers>
+        <speaker>
+          <id>16759</id>
+          <name>Jesus Gil</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Mil maneras de morir</title>
+      <description>¿Cómo puedes matar a tu servidor?
+Malas prácticas
+Malas consultas
+Esta sesión te contará leyendas urbanas, historias reales e historias de terror
+No te pierdas esta oportunidad de saber ¿cómo puedes evitarlo?</description>
+      <startTime>4/13/2013 12:00:00 AM</startTime>
+      <endTime>4/13/2013 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

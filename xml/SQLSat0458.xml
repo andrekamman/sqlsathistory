@@ -1,0 +1,320 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #458 - Moscow 2015</name>
+    <startDate>10/17/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT+03:00) Baghdad</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatMoscow</twitterHashtag>
+    <venue>
+      <name>Golden Ring Hotel</name>
+      <street>Smolenskaya ulitsa 5</street>
+      <city>Moscow</city>
+      <state>Moscow, Russian Federation</state>
+      <zipcode>119121</zipcode>
+      <longitude>37.58049</longitude>
+      <latitude>55.74536</latitude>
+    </venue>
+  </guide>
+  <speakers>
+    <speaker>
+      <importID>38783</importID>
+      <name>Tobias Koprowski</name>
+      <label>
+      </label>
+      <description>Founder of Shadowland Consulting. In January 2015 decided to permanently leave Poland and discover new worlds. Actually settled in Hucknall (The Last home of The Byron Family). Community leader focused on SQL Server, SharePoint, security, collaboration and ITIL, DR, BCM, and SLA. Love licensing stuff. 
+
+Microsoft Certified Trainer, freelancer, and consultant. Subject Matter Expert at Microsoft. Member of Microsoft Terminology Community, Friends of RedGate PLUS, PASS, ISSA, ACM and more. Since 1st July 2010 Data Platform MVP. Creator of SQLDAY Conference and Conference CEO 2009-2011. Co-Leader of PASS East Midlands Group. Speaker at group meetings and conferences. STEM Ambassador. 
+
+Traveler. Coffee Addicted.</description>
+      <twitter>@KoprowskiT</twitter>
+      <linkedin>https://uk.linkedin.com/in/koprowskit</linkedin>
+      <ContactURL>http://koprowskit.eu/geek/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KoprowskiT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41837</importID>
+      <name>Sergey Olontsev</name>
+      <label>
+      </label>
+      <description>I have been working with SQL Server since SQL Server 2000 version as a database administrator, developer, consultant and trainer, focusing on high availability and disaster recovery solutions, ETL, troubleshooting and performance tuning, developing high performance solutions . I'm a regular speaker at SQL Server user group meetings, SQL Saturday events and other conferences. An owner of MCM certification and MVP award on SQL Server.</description>
+      <twitter>SergeyOlontsev</twitter>
+      <linkedin>http://linkedin.com/in/sergeyolontsev</linkedin>
+      <ContactURL>http://SergeyOlontsev.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SergeyOlontsev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38650</importID>
+      <name>Andrey Zavadskiy</name>
+      <label>
+      </label>
+      <description>Andrey has been leading the development of corporate information system for realty estate business based on MS SQL Server, ASP.NET and Sharepoint. He works with SQL Server since version 7.0. Currently holds MCSE certification for SQL Server, MCSD for Web development and active Microsoft trainer status. 
+He loves to design enterprise-scale application architecture, take part in database development and optimization.</description>
+      <twitter>@AndreyZavadskiy</twitter>
+      <linkedin>https://www.linkedin.com/in/zavadskiy</linkedin>
+      <ContactURL>https://andreyzavadskiy.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@AndreyZavadskiy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40311</importID>
+      <name>Alexander Sigachov</name>
+      <label>
+      </label>
+      <description>SQL and BI developer, team leader. Worked at: PonyExpress, OTTO Group Russia, Yandex, Svyaznoy
+Hobby: Wikipedia, Wikidata, Openstreet </description>
+      <twitter>https://twitter.com/ajvol2</twitter>
+      <linkedin>https://ru.linkedin.com/pub/?????????-???????/40/a9b/a4b</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/ajvol2</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41520</importID>
+      <name>Александра Московко</name>
+      <label>
+      </label>
+      <description>Специалист по разработке, внедрению и поддержке аналитических решений на базе технологий Microsoft.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40319</importID>
+      <name>Станислав Выщепан</name>
+      <label>
+      </label>
+      <description>I help companies in developing and implementing business automation systems at different scales, from small companies to large holdings. I work in the field of information technology for more than 10 years. I#39;m an expert on corporate infrastructure and application architecture. I have extensive experience in creating solutions stack technology Microsoft. Microsoft MVP for SharePoint Server from 2011.
+</description>
+      <twitter>https://twitter.com/gandjustas</twitter>
+      <linkedin>https://ru.linkedin.com/in/gandjustas</linkedin>
+      <ContactURL>http://blog.gandjustas.ru/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/gandjustas</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38785</importID>
+      <name>Tobias Koprowski</name>
+      <label>
+      </label>
+      <description>Founder of Shadowland Consulting. In January 2015 decided to permanently leave Poland and discover new worlds. Actually settled in Hucknall (The Last home of The Byron Family). Community leader focused on SQL Server, SharePoint, security, collaboration and ITIL, DR, BCM, and SLA. Love licensing stuff. 
+
+Microsoft Certified Trainer, freelancer, and consultant. Subject Matter Expert at Microsoft. Member of Microsoft Terminology Community, Friends of RedGate PLUS, PASS, ISSA, ACM and more. Since 1st July 2010 Data Platform MVP. Creator of SQLDAY Conference and Conference CEO 2009-2011. Co-Leader of PASS East Midlands Group. Speaker at group meetings and conferences. STEM Ambassador. 
+
+Traveler. Coffee Addicted.</description>
+      <twitter>@KoprowskiT</twitter>
+      <linkedin>https://uk.linkedin.com/in/koprowskit</linkedin>
+      <ContactURL>http://koprowskit.eu/geek/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KoprowskiT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41859</importID>
+      <name>Mikhail Komarov</name>
+      <label>
+      </label>
+      <description>Главный специалист в ООО #171;Газпром-информ#187;. Занимается поддержкой существующих и реализацией новых систем, направленных на повышение эффективности работы в корпоративном сегменте. До работы в крупном корпоративном секторе работал тренером по информационным технологиям. Общий опыт работы в сфере ИТ составляет более 20 лет.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41514</importID>
+      <name>Иван Косяков</name>
+      <label>
+      </label>
+      <description>Основатель Russian Business Intelligence PASS Chapter, автор блога MicrosoftBI.ru. Кандидат экономических наук. В Microsoft работает с 2009 года.Область экспертизы: бизнес-аналитика (BI), хранилища данных (DWH), управление информацией организаций (EIM), большие данные (Big Data), машинное обучение (Machine Learning/Data Mining).</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40553</importID>
+      <name>Dmitriy Kostylev</name>
+      <label>
+      </label>
+      <description>Работает в Лаборатории Касперского ведущим разработчиком баз данных. С SQL Server работает с 2000 года, участвуя в разнообразных проектов - от небольшого производства до одной из крупнейших баз знаний о программном обеспечении. Сконцентрирован на эффективности применяемых решений - от отдельных запросов и архитектуры решений до методологии разработки ПО. Активно участвует в жизни SQL-сообщества, выступая на конференциях с докладами об эффективном применении SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41518</importID>
+      <name>Алексей Шуленин</name>
+      <label>
+      </label>
+      <description>Архитектор аналитических систем, группа компаний #171;Дикси#187;</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38385</importID>
+      <name>Dmitry Pilugin</name>
+      <label>
+      </label>
+      <description>Dmitry Pilugin, is a SQL Server DB developer from Russia, Moscow. He works with SQL Server for more than ten years. Currently he works as a database developer lead, responsible for the development of production databases in the media research company. 
+
+Dmitry holds a blog about SQL Server query processing: QueryProcessor.com, where he writes about a query optimization and execution, and also likes to share his knowledge about it speaking at various community events and tech conferences. Data Platform Microsoft MVP since 2014.</description>
+      <twitter>https://twitter.com/SomewereSomehow</twitter>
+      <linkedin>http://www.linkedin.com/pub/pilugin-dmitry-somewheresomehow/2b/210/277</linkedin>
+      <ContactURL>http://www.queryprocessor.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/SomewereSomehow</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41516</importID>
+      <name>Дмитрий Артемов</name>
+      <label>
+      </label>
+      <description>Специализируется на анализе и оптимизации производительности информационных систем на базе Microsoft SQL Server, начиная с версии 6.0. Автор трех книг на тему администрирования SQL Server и ряда журнальных публикаций в российских и зарубежных изданиях. Регулярно выступает на конференциях различного уровня.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38386</importID>
+      <name>Dmitry Pilugin</name>
+      <label>
+      </label>
+      <description>Dmitry Pilugin, is a SQL Server DB developer from Russia, Moscow. He works with SQL Server for more than ten years. Currently he works as a database developer lead, responsible for the development of production databases in the media research company. 
+
+Dmitry holds a blog about SQL Server query processing: QueryProcessor.com, where he writes about a query optimization and execution, and also likes to share his knowledge about it speaking at various community events and tech conferences. Data Platform Microsoft MVP since 2014.</description>
+      <twitter>https://twitter.com/SomewereSomehow</twitter>
+      <linkedin>http://www.linkedin.com/pub/pilugin-dmitry-somewheresomehow/2b/210/277</linkedin>
+      <ContactURL>http://www.queryprocessor.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/SomewereSomehow</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41517</importID>
+      <name>Семен Красильников</name>
+      <label>
+      </label>
+      <description>Старший консультант, Microsoft</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41515</importID>
+      <name>Александра Чижова</name>
+      <label>
+      </label>
+      <description>Начала работать с визуализацией и системами для бизнес-аналитики (BI) в 2012 году, в данный момент с технической точки зрения отвечает за всё, что относится к платформе данных, как со стороны хранения и обработки, так и со стороны визуализации: SQL Server, APS (PDW), Datazen, Power BI, а также Excel и ряд облачных сервисов, например, Azure ML.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40268</importID>
+      <name>Mikhail Guryanov</name>
+      <label>
+      </label>
+      <description>In IT since 1994, worked as DBA, IT-engineer, technical advisor, IT-trainer. Work with SQL Sever starting from version 6.5. Teach Microsoft SQL Server starting from version SQL Server 2000. МСТ/MCSE since 2006 year.
+MCDBA, MCITP: Database Developer, Database Administrator, Business Intelligence Developer, MCSA: SQL Server 2008-2012, MCSE: Data Platform, Business Intelligence, Private Cloud, Server Infrastructure.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.specialist.ru/trainer/%D0%B3%D1%83%D1%80%D0%BC</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41519</importID>
+      <name>Сергей Пырин</name>
+      <label>
+      </label>
+      <description>Microsoft Consulting Services</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>38785</importID>
+      <speakers>
+        <speaker>
+          <id>38785</id>
+          <name>Tobias Koprowski</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>C</name>
+      </location>
+      <title>AD 2015. 2 AM. A Disaster just began...</title>
+      <description>2AM. We sleeping well. And our mobile ringing and ringing. Message: DISASTER! In this session (on slides) we are NOT talk about potential disaster (such BCM); we talk about: What happened NOW? Which tasks should have been finished BEFORE. Is virtual or physical SQL matter? We talk about systems, databases, peoples, encryption, passwords, certificates and users. In this session (on few demos) I'll show which part of our SQL Server Environment are critical and how to be prepared to disaster. In some documents I'll show You how to be BEST prepared.</description>
+      <startTime>10/17/2015 11:15:00 AM</startTime>
+      <endTime>10/17/2015 12:30:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

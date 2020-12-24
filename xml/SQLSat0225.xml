@@ -1,0 +1,233 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #225 - Kosovo 2013</name>
+    <startDate>5/18/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatKosovo</twitterHashtag>
+    <venue>
+      <name>Innovation Centre Kosovo</name>
+      <street>Rexhep Mala strt. 28A</street>
+      <city>Prishtina</city>
+      <state>, Albania</state>
+      <zipcode>10000</zipcode>
+      <longitude>21.164811</longitude>
+      <latitude>42.65534</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>179</importID>
+      <name>Ipko Foundation</name>
+      <label>Gold Sponsor</label>
+      <url>http://ipkofoundation.org/</url>
+      <imageURL>https://dukagjinmaloku.files.wordpress.com/2013/05/ipko_foundation_logo_170x25.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>698</importID>
+      <name>ICK Innovation Center of Kosovo</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.ickosovo.com/</url>
+      <imageURL>https://dukagjinmaloku.files.wordpress.com/2013/03/ick_100x40.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Swag/Raffle Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>83</importID>
+      <name>PluralSight</name>
+      <label>Swag/Raffle Sponsor</label>
+      <url>http://www.pluralsight.com</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2015/11/Pluralsight_logo_novo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>37</importID>
+      <name>Wrox</name>
+      <label>Swag/Raffle Sponsor</label>
+      <url>http://www.wrox.com/WileyCDA/</url>
+      <imageURL>https://media.wiley.com/assets/253/59/wrox_logo.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>13514</importID>
+      <name>Dejan Sarka</name>
+      <label>
+      </label>
+      <description>Dejan Sarka, MCT and Data Platform MVP, is an independent trainer and consultant that focuses on development of database and business intelligence applications. Besides projects, he spends about half of his time on training and mentoring. He is the founder of the Slovenian SQL Server and .NET Users Group. Dejan Sarka is the main author or co-author of eighteen books about databases and SQL Server. Dejan Sarka has also developed many courses and seminars for Microsoft, Radacad, SolidQ, and Pluralsight.</description>
+      <twitter>DejanSarka</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.solidq.com/dsarka/Home.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DejanSarka</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>24771</importID>
+      <name>Mladen Prajdić</name>
+      <label>
+      </label>
+      <description>Mladen Prajdić is a Data Platform MVP from Slovenia. He's been programming for 20 years, developing diﬀerent types of applications in .Net (C#) and SQL Server, ranging from standard line-of-business, image-processing applications to high performace and IoT applications. He's a regular speaker at various conferences and usergroup meetings, really likes to optimize slow SQL statements, analyze performance, and find unconventional solutions to difficult SQL Server problems. In his free time, he also develops a very popular add-in for SSMS, called the SSMS Tools Pack (www.ssmstoolspack.com).</description>
+      <twitter>@MladenPrajdic</twitter>
+      <linkedin>https://www.linkedin.com/in/mladenprajdic</linkedin>
+      <ContactURL>http://weblogs.sqlteam.com/mladenp</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@MladenPrajdic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13593</importID>
+      <name>Dukagjin Maloku</name>
+      <label>
+      </label>
+      <description>DBA </description>
+      <twitter>https://twitter.com/DugiDBA</twitter>
+      <linkedin>http://al.linkedin.com/in/dukagjini/</linkedin>
+      <ContactURL>http://dukagjinmaloku.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/DugiDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15365</importID>
+      <name>Niko Neugebauer</name>
+      <label>
+      </label>
+      <description>Niko Neugebauer is a Data Platform Consultant. A SQL Server MVP with over 20 years of experience in IT, he is passionate about the Microsoft Data Platform and community. Founder of the Portuguese SQL Server User Group and the main organizer of the first SQLSaturday event outside of North America (#78 Portugal), Niko speaks regularly at events such as PASS Summit, SQLRally, SQLBits, and SQLSaturday events around the world. Niko loves sharing information and knowledge and has authored over 130 blog posts on Columnstore Indexes, and regularly contributes to the open-sourced CISL library focused on Columnstore Indexes.</description>
+      <twitter>NikoNeugebauer</twitter>
+      <linkedin>http://pt.linkedin.com/in/webcaravela/</linkedin>
+      <ContactURL>http://www.nikoport.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=NikoNeugebauer</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27120</importID>
+      <name>Turgay Sahtiyan</name>
+      <label>
+      </label>
+      <description>Turgay Sahtiyan has been working in IT industry over a decade and he currently works as a PMC (Premier Mission Critical) Solution Engineer at Microsoft.He is based in Turkey and primarily giving proactive and reactive services with solution based approach to top enterprise customer in the MEA region.Before joined to Microsoft, he was one of the SQL Server MVP in Turkey,in addition he is founder and former president of SQLPass Turkey Chapter.(Detailed BIO http://www.turgaysahtiyan.com/about.aspx)</description>
+      <twitter>https://twitter.com/turgaysahtiyan</twitter>
+      <linkedin>http://tr.linkedin.com/pub/turgay-sahtiyan/15/b46/682</linkedin>
+      <ContactURL>http://www.turgaysahtiyan.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/turgaysahtiyan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>13514</importID>
+      <speakers>
+        <speaker>
+          <id>13514</id>
+          <name>Dejan Sarka</name>
+        </speaker>
+      </speakers>
+      <track>Ligjerimet</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>A Deep Dive in SQL Server 2012 Data Warehousing</title>
+      <description>SQL Server 2012 brings strong support for data warehousing (DW). However, even in the previous versions there has been a lot of effort put in DW enhancements: star join optimization through bitmap filters, known from SQL Server 2008, table partitioning and basic window functions known from SQL Server 2005, indexed views, known from SQL Server 2000, and more. In SQL Server 2012, the Transact-SQL language is enhanced with advanced window functions. Columnstore indexes are a new way of storing data for efficient DW queries. This session explains the theoretical background for the enhancements and how they can be useful in a data warehousing scenario.</description>
+      <startTime>5/18/2013 12:00:00 AM</startTime>
+      <endTime>5/18/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>24771</importID>
+      <speakers>
+        <speaker>
+          <id>24771</id>
+          <name>Mladen Prajdić</name>
+        </speaker>
+      </speakers>
+      <track>Ligjerimet</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Injection: From Website to SQL Server</title>
+      <description>SQL Injection is still one of the biggest reasons various websites and applications get hacked. The solution, as everyone tells us, is simple: Use SQL parameters. But is that enough?
+In this session, we'll look at how an attacker would go about using SQL Injection to gain access to your database, see its schema and data, and do nasty stuff to both. Then we'll see how to battle such attacks at the UI front, the middle tier, and the SQL Server back end.
+Prerequisites: .Net, C#, T-SQL</description>
+      <startTime>5/18/2013 12:00:00 AM</startTime>
+      <endTime>5/18/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15365</importID>
+      <speakers>
+        <speaker>
+          <id>15365</id>
+          <name>Niko Neugebauer</name>
+        </speaker>
+      </speakers>
+      <track>Ligjerimet</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Inheriting a database for Developers, version 2</title>
+      <description>There are very few applications which are being developed from zero, the most are apps are simply inherited from previous development teams. This session serves to show some easy implementable practices to follow after inheriting a database. Those practices allow to check some if the database design was done in regards to the actual data, or if while implementing some of the constraints and checks some tables were left behind. :) The practices shown in this session will allow to check the database design and identify some of the possible performance degradations.</description>
+      <startTime>5/18/2013 12:00:00 AM</startTime>
+      <endTime>5/18/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27120</importID>
+      <speakers>
+        <speaker>
+          <id>27120</id>
+          <name>Turgay Sahtiyan</name>
+        </speaker>
+      </speakers>
+      <track>Ligjerimet</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>HA  DR with SQL Server 2012 AlwaysOn Availability Group</title>
+      <description>The AlwaysOn Availability Groups feature is a high-availability and disaster-recovery solution that provides an enterprise-level alternative to database mirroring. Introduced in SQL Server 2012, AlwaysOn Availability Groups maximizes the availability of a set of user databases for an enterprise. In this session we will talk about what’s coming with Always On, and how does it help to improve high availability and disaster recovery solutions.</description>
+      <startTime>5/18/2013 12:00:00 AM</startTime>
+      <endTime>5/18/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13593</importID>
+      <speakers>
+        <speaker>
+          <id>13593</id>
+          <name>Dukagjin Maloku</name>
+        </speaker>
+      </speakers>
+      <track>Ligjerimet</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>10 Things to survive as DBA </title>
+      <description>
+      </description>
+      <startTime>5/18/2013 12:00:00 AM</startTime>
+      <endTime>5/18/2013 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

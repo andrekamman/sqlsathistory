@@ -1,0 +1,632 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #780 - Kharkiv 2018</name>
+    <startDate>9/22/2018 12:00:00 AM</startDate>
+    <attendeeEstimate>300</attendeeEstimate>
+    <timezone>(GMT+02:00) Cairo</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatKharkiv</twitterHashtag>
+    <venue>
+      <name>Fabrika</name>
+      <street>Blagovischenska str. 1</street>
+      <city>Kharkiv</city>
+      <state>Kharkiv Oblast, Ukraine</state>
+      <zipcode>61052</zipcode>
+      <longitude>36.2223549</longitude>
+      <latitude>49.9894692</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/972/EventSponsor_14605.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>552</importID>
+      <name>DB Best Technologies</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.dbbest.com</url>
+      <imageURL>http://i.piccy.info/i9/2c14fcfadc6ef0afae6a94278e068866/1563297673/47771/1328136/DBBest_logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>562</importID>
+      <name>Devart</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.devart.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/880/EventSponsor_14114.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1525</importID>
+      <name>SoftServe</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.softserveinc.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/979/EventSponsor_14643.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2291</importID>
+      <name>TEAM International</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.teaminternational.com/</url>
+      <imageURL>http://i.piccy.info/i9/2f981eb4201fc37abdf55ac124c0c191/1536847345/9039/1269165/image002.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1882</importID>
+      <name>Sigma Software</name>
+      <label>Bronze Sponsor</label>
+      <url>http://sigma.software/</url>
+      <imageURL>https://sigma.software/sites/default/files/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>181</importID>
+      <name>DataArt</name>
+      <label>Bronze Sponsor</label>
+      <url>http://dataart.ua/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/857/EventSponsor_13680.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2161</importID>
+      <name>ZONE3000</name>
+      <label>Bronze Sponsor</label>
+      <url>https://zone3000.net/</url>
+      <imageURL>https://s.dou.ua/CACHE/images/img/static/companies/zone3000w/de6faca981dd3c024fd22f7788e972f5.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>85351</importID>
+      <name>Yevhen Nedashkivskyi</name>
+      <label>
+      </label>
+      <description>Yevhen Nedashkivskyi is a professional DBA and a database developer with more than 10 years of experience. MSCP, MSCA, MSCE, MVP.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://ua.linkedin.com/in/nedash</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>80817</importID>
+      <name>Michal Sadowski</name>
+      <label>
+      </label>
+      <description>Senior Database Platform Engineer, leader of Krakow chapter of Data Community Krakow (former Polish SQL Server User Group) - PASS Chapter. With more than 10 years of experience in Microsoft technology, helps in advisory for performance optimization on database and application levels. Active speaker on SQL Server related events like SQLSaturday, SQLDay, MCT Global Summit etc. Holds many Microsoft certificates including MCSE: Data Platform, MCSA: SQL Server 2012/2014/2016, MCSA: Windows Server 2008/2012/2016 and MCT.</description>
+      <twitter>SadowskiMichal</twitter>
+      <linkedin>https://pl.linkedin.com/pub/michal-sadowski/4/b33/717</linkedin>
+      <ContactURL>https://sqlplayer.net/michal-sadowski</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SadowskiMichal</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85743</importID>
+      <name>Sergey Syrovatchenko</name>
+      <label>
+      </label>
+      <description>DBA</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>82329</importID>
+      <name>Eugene Polonichko</name>
+      <label>
+      </label>
+      <description>Leader of PASS Local Chapter in Donetsk (Ukraine). I work  as DWH/BI architect.  Responsible for designing and developing Data Warehouse and BI solutions with using Microsoft  BI Stack products.</description>
+      <twitter>https://twitter.com/EvgenPolonichko</twitter>
+      <linkedin>https://www.linkedin.com/in/eugenepolonichko/</linkedin>
+      <ContactURL>https://msolapblog.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/EvgenPolonichko</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85430</importID>
+      <name>Andriy Pogorelov</name>
+      <label>
+      </label>
+      <description>I have been dealing with database administration and development for more than 16 years. Started from SQL Server 2000
+- Active member of Data Platform community
+- Organizer of SQLSaturday Kharkiv
+- Speaker at various Data Platform related events
+- I possess Microsoft certificates: MCDBA, MCITP, MCSA.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://ua.linkedin.com/in/pogorelovandrey</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84860</importID>
+      <name>Mihail Mateev</name>
+      <label>
+      </label>
+      <description>Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Mentor for CEE, chapter lead, Microsoft Azure MVP, Microsoft Regional Director. He works as a Senior Solutions Architect at EPAM Systems, focused on Data Platform, IoT and cloud related solutions. He also worked many years like a Technical evangelist in the Infragistics. Last years Mihail was focused on various areas related to technology Microsoft: Data Platform, Visual Studio, ASP.Net, Windows client apps, Data Platform, and Microsoft Azure. Michael also has a PhD in cloud computing area. He is a university lecturer on Smart Homes and Smart Energy IoT Solutions.</description>
+      <twitter>mihailmateev</twitter>
+      <linkedin>http://www.linkedin.com/pub/mihail-mateev/1/6b3/4b1</linkedin>
+      <ContactURL>https://mmateev.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mihailmateev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>80816</importID>
+      <name>Michal Sadowski</name>
+      <label>
+      </label>
+      <description>Senior Database Platform Engineer, leader of Krakow chapter of Data Community Krakow (former Polish SQL Server User Group) - PASS Chapter. With more than 10 years of experience in Microsoft technology, helps in advisory for performance optimization on database and application levels. Active speaker on SQL Server related events like SQLSaturday, SQLDay, MCT Global Summit etc. Holds many Microsoft certificates including MCSE: Data Platform, MCSA: SQL Server 2012/2014/2016, MCSA: Windows Server 2008/2012/2016 and MCT.</description>
+      <twitter>SadowskiMichal</twitter>
+      <linkedin>https://pl.linkedin.com/pub/michal-sadowski/4/b33/717</linkedin>
+      <ContactURL>https://sqlplayer.net/michal-sadowski</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SadowskiMichal</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84981</importID>
+      <name>Eugene Polonichko</name>
+      <label>
+      </label>
+      <description>Leader of PASS Local Chapter in Donetsk (Ukraine). I work  as DWH/BI architect.  Responsible for designing and developing Data Warehouse and BI solutions with using Microsoft  BI Stack products.</description>
+      <twitter>https://twitter.com/EvgenPolonichko</twitter>
+      <linkedin>https://www.linkedin.com/in/eugenepolonichko/</linkedin>
+      <ContactURL>https://msolapblog.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/EvgenPolonichko</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85230</importID>
+      <name>Janusz Rokicki</name>
+      <label>
+      </label>
+      <description>Microsoft Data Platform Expert and certified Azure Solutions Architect with over 12 years’ experience working in the City of London in the Financial Services Industry (retail and investment banking, multi-asset class trading systems). He has passion for secure, high-performance, maintainable data-driven applications that can be deployed with confidence on-premises and in-cloud. With educational background in intelligent sensor networks and machine learning he is always in search of automation and optimisation opportunities.
+
+Has presented at SqlBits, PASS Summit, SqlDay and multiple Sql Saturday events (Tel-Aviv, Kiev, Paris, Tallinn, Bonn, Bratislava, Goteborg, Kharkiv, Bucharest, Sofia, Ljubljana) and user groups.</description>
+      <twitter>DataSic</twitter>
+      <linkedin>https://www.linkedin.com/in/jrokicki/</linkedin>
+      <ContactURL>https://www.datasic.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DataSic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85742</importID>
+      <name>Sergey Syrovatchenko</name>
+      <label>
+      </label>
+      <description>DBA</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>82276</importID>
+      <name>Andrii Zrobok</name>
+      <label>
+      </label>
+      <description>25+ years of experience in database development: development data-centric applications from scratch, support of legacy databases/applications, data migration tasks, performance tuning,  consulting, database trainer. I have experience with wide range of databases such as  FoxPro for DOS (Fox Software), MS SQL Server (started from version 6.5) , Oracle, Sybase ASE, MySQL, PostgreSQL.
+Co-Leader of PASS Local Chapter in Lviv.
+Speaker at PASS SQLSaturday conferences (since 2013); PASS Lviv/Vinnitsa/Virtual SQL Server User Group, EPAM IT Week (2015-2017), AIBig Data Day 2019.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/azrobok/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85353</importID>
+      <name>Yevhen Nedashkivskyi</name>
+      <label>
+      </label>
+      <description>Yevhen Nedashkivskyi is a professional DBA and a database developer with more than 10 years of experience. MSCP, MSCA, MSCE, MVP.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://ua.linkedin.com/in/nedash</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84832</importID>
+      <name>Jose Manuel Jurado Diaz</name>
+      <label>
+      </label>
+      <description>José Manuel Jurado currently works as SQL Escalation Engineer and Subject Matter Expert in Azure SQL Database at Microsoft Spain. With over 20+ years of experience in SQL Server environments (administration and database development), he is a speaker for internal events at Microsoft and for public events such as SQLSaturday, SQL Nexus, SQLBits, Pass Summit, SQL Server Konferenze, TechReady, DotNetConference, and Azure BootCamp. In the past, he worked as Project Manager for large global retail company for more than 10 years developing projects using different Microsoft Technologies.</description>
+      <twitter>jmjuradodiaz</twitter>
+      <linkedin>https://www.linkedin.com/in/jose-manuel-jurado-diaz-5a586014/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=jmjuradodiaz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84862</importID>
+      <name>Mihail Mateev</name>
+      <label>
+      </label>
+      <description>Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Mentor for CEE, chapter lead, Microsoft Azure MVP, Microsoft Regional Director. He works as a Senior Solutions Architect at EPAM Systems, focused on Data Platform, IoT and cloud related solutions. He also worked many years like a Technical evangelist in the Infragistics. Last years Mihail was focused on various areas related to technology Microsoft: Data Platform, Visual Studio, ASP.Net, Windows client apps, Data Platform, and Microsoft Azure. Michael also has a PhD in cloud computing area. He is a university lecturer on Smart Homes and Smart Energy IoT Solutions.</description>
+      <twitter>mihailmateev</twitter>
+      <linkedin>http://www.linkedin.com/pub/mihail-mateev/1/6b3/4b1</linkedin>
+      <ContactURL>https://mmateev.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mihailmateev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>83149</importID>
+      <name>Taras Kloba</name>
+      <label>
+      </label>
+      <description>✅ Senior DBA and developer;
+✅ Senior database architect;
+✅ Business solutions expert;
+✅ 9+ years of experience.
+
+Senior database administrator and programmer. Consultant and certified database administrator and developer with 9+ years of experience working with SQL Server 2016, 2014, 2012, 2008, 2005, 2000 and SQL Azure. MySQL, PostgreSQL and MS SQL database performance tuning expert. Business solutions consultant and implementer. With many years of extensive experience in the IT and other business industries in a variety of roles. My objective is to use my experience to bring creative and top-level solutions to businesses that require SQL Databases.</description>
+      <twitter>klioba</twitter>
+      <linkedin>https://www.linkedin.com/in/kloba/</linkedin>
+      <ContactURL>http://sql.ua</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=klioba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>84862</importID>
+      <speakers>
+        <speaker>
+          <id>84862</id>
+          <name>Mihail Mateev</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Blue room</name>
+      </location>
+      <title>Dealing with CosmosDB</title>
+      <description>CosmosDB service is a NoSQL is a globally distributed, multi-model database database service designed for scalable and high performance modern applications. CosmosDB is delivered as a fully managed service with an enterprise grade SLA. It supports querying of documents using a familiar SQL over hierarchical JSON documents. Azure Cosmos DB is a superset of the DocumentDB service. It allows you to store and query noSQL data, regardless of schema.
+In this presentation, you will learn:
+•	How to get started with DocumentDB you provision a new database account. 
+•	How to index documents 
+•	How to create applications using CosmosDb (using REST API or programming libraries for several popular language) 
+•	Best practices designing applications with CosmosDB
+•	Best practices creating queries.</description>
+      <startTime>9/22/2018 2:40:00 PM</startTime>
+      <endTime>9/22/2018 3:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85351</importID>
+      <speakers>
+        <speaker>
+          <id>85351</id>
+          <name>Yevhen Nedashkivskyi</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Green room</name>
+      </location>
+      <title>ДБА поневоле – что делать? (ru)</title>
+      <description>Часто роль администратора баз данных закрепляется по принципу «может разобраться и имеет на это время», а иногда и просто игнорируется. К сожалению, это приводит к проблемам с производительностью, необоснованным затратам на оборудование, риску потери данных и простою основной деятельности.
+
+Докладчик, в сжатой, но доступной форме на примере СУБД Microsoft SQL Server расскажет и покажет, что необходимо делать новоиспечённым администраторам баз данных, даже если эта роль досталась им поневоле. 
+
+В этой сессии:
+
+1.	Планирование
+2.	Инсталляция и настройка
+3.	Регулярное обслуживание
+4.	Проблемы с производительностью и как их решить
+5.	Масштабирование
+6.	Построение стратегии восстановления от сбоев
+7.	Сторонние утилиты и инструменты
+
+Доклад предназначен для широкой публики не имеющей опыта в администрировании баз данных, а также тем, кому роль ДБА досталась по совместительству.
+
+На русском языке.</description>
+      <startTime>9/22/2018 11:10:00 AM</startTime>
+      <endTime>9/22/2018 12:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85230</importID>
+      <speakers>
+        <speaker>
+          <id>85230</id>
+          <name>Janusz Rokicki</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Red room</name>
+      </location>
+      <title>The Road to The Autonomous Databases</title>
+      <description>Autonomous means capable of existing independently. Think maintenance free, self-healing, auto-tuning databases able to detect and automatically mitigate security risks. Sounds like impossible dream, but here is the best part - Azure is gradually making that next level of automation possible. Cloud economy of scale combined with unique features of Azure Sql PaaS resources transform and enhance the way we collect, store and process data. And that also affects our professional lives. Find out where we are on The Road to The Autonomous Databases, what are main building blocks, what kind of obstacles we still have to overcome and how to turn these challenges into opportunities.</description>
+      <startTime>9/22/2018 11:10:00 AM</startTime>
+      <endTime>9/22/2018 12:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>82276</importID>
+      <speakers>
+        <speaker>
+          <id>82276</id>
+          <name>Andrii Zrobok</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Blue room</name>
+      </location>
+      <title>MS SQL 2016/2017 – New in query processing</title>
+      <description>До 2016 версії Microsoft практично не вносив кардинальних змін в оптимізатор запитів. Таким чином движок з 7 версії (1988 рік) використовувавя з косметичними змінами без малого 20 років. В 2016 версії були анансовані певні напрямки змін, котрі повноцінно запрацювали в 2017  версії. Це Batch Mode  Adaptive Query Processing, Query Store  Automatic Query Tunig. Ці зміни  і будуть розглянуті в презентації.</description>
+      <startTime>9/22/2018 1:30:00 PM</startTime>
+      <endTime>9/22/2018 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84860</importID>
+      <speakers>
+        <speaker>
+          <id>84860</id>
+          <name>Mihail Mateev</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Green room</name>
+      </location>
+      <title>Azure IoT Solution Architecture Best Practices</title>
+      <description>The Internet of Things is becoming reality at a rapid pace. Many objects in the real world can be connected to the Internet. Cloud computing is the best option for the IoT backend. Microsoft Azure offers a wide range of services, used in the Internet of Things solutions.
+
+This presentation provides a deeper architecture implementation overview of the Microsoft Azure services and Microsoft Data Platform components for IoT that you can use for solution development. In this session we will cover architectural considerations, best practices (common concepts and the context of Microsoft Azure) and implementation guidance for your IoT solution.</description>
+      <startTime>9/22/2018 10:00:00 AM</startTime>
+      <endTime>9/22/2018 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>85743</importID>
+      <speakers>
+        <speaker>
+          <id>85743</id>
+          <name>Sergey Syrovatchenko</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Red room</name>
+      </location>
+      <title>MS SQL Server: JSON</title>
+      <description>Долгое время на Microsoft Connect поддержка работы с JSON была одной из самых востребованных фич, которую добавили в SQL Server 2016. Забегая вперед скажу, что вышло очень даже хорошо, но Microsoft не остановилась на этом и в SQL Server 2017 существенно улучшили производительность и без того быстрого JSON парсера. В рамках сессии мы рассмотрим нюансы работы с JSON и сравним по эффективности с олдскульным XML.</description>
+      <startTime>9/22/2018 4:00:00 PM</startTime>
+      <endTime>9/22/2018 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>83149</importID>
+      <speakers>
+        <speaker>
+          <id>83149</id>
+          <name>Taras Kloba</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Green room</name>
+      </location>
+      <title>Analyzing 100 billion rows in 30 seconds with Google BigQuery</title>
+      <description>This session is Intro to Google BigQuery. 
+Will give the overview of the architecture and important details
+
+Google BigQuery is a very unique analytics data warehousing service. BigQuery is often described as serverless, no-ops, seamlessly scalable, and fully managed. Since BigQuery truly has no equivalent, it bears mentioning some of the less obvious aspects of what makes BigQuery so amazing!</description>
+      <startTime>9/22/2018 2:40:00 PM</startTime>
+      <endTime>9/22/2018 3:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85353</importID>
+      <speakers>
+        <speaker>
+          <id>85353</id>
+          <name>Yevhen Nedashkivskyi</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Red room</name>
+      </location>
+      <title>Сбой? Не страшен! (ru)</title>
+      <description>Данный доклад будет посвящен построению стратегии восстановления информации после сбоя любого уровня. В качестве примера будет использован Microsoft SQL Server и сопутсвующие технологии.
+
+Обсуждаемые вопросы:
+
+1.	SLA, RTO, RPO
+2.	Модели восстановления в SQL Server
+3.	Виды резервного копирования
+4.	Автоматизация 
+5.	Документация
+6.	Человеческий фактор
+7.	Сторонние решения
+
+Сессия будет интересна всем, кто потенциально может пострадать от потери информации и может повлиять на подготовку к подобным событиям, а также администраторам баз данных, которые хотят больше узнать о резервном копировании. 
+
+На русском языке.</description>
+      <startTime>9/22/2018 1:30:00 PM</startTime>
+      <endTime>9/22/2018 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>80816</importID>
+      <speakers>
+        <speaker>
+          <id>80816</id>
+          <name>Michal Sadowski</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Green room</name>
+      </location>
+      <title>Encryption in SQL Server</title>
+      <description>An application that you administer stores sensitive data in the database and you would like to keep them safe in Microsoft SQL Server - how to approach this issue? What type of encryption should you use in your environment? On the session I will walk through available options in Microsoft SQL Server and show when to use encryption, how to identify threats, and countermeasure them by using options like Transparent Data Encryption, SSL certificates, Always Encrypted, etc. After this session, you will know a set of best practices that you can apply in your environment.</description>
+      <startTime>9/22/2018 4:00:00 PM</startTime>
+      <endTime>9/22/2018 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>82329</importID>
+      <speakers>
+        <speaker>
+          <id>82329</id>
+          <name>Eugene Polonichko</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Green room</name>
+      </location>
+      <title>Azure Data Catalog: Your enterprise information repository</title>
+      <description>How long do you look for information in your company? Do you have information repository in your company? Do you know what software tools need for that? if I said that tool is free you would believe me? Ok, come to my session and I'll show you this tool and will speak you about it</description>
+      <startTime>9/22/2018 1:30:00 PM</startTime>
+      <endTime>9/22/2018 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84981</importID>
+      <speakers>
+        <speaker>
+          <id>84981</id>
+          <name>Eugene Polonichko</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Blue room</name>
+      </location>
+      <title>Azure Data Factory v2: What's new?</title>
+      <description>Azure Data Factory v2 is the new version of ADF. This version has the power of the first version and is more flexibility and new opportunities.  First, we can use SSIS packages in our data factory, second,  we have more opportunities for security our data and etc. If you want to know more  just come to my session  and I'll speak you about it</description>
+      <startTime>9/22/2018 4:00:00 PM</startTime>
+      <endTime>9/22/2018 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85742</importID>
+      <speakers>
+        <speaker>
+          <id>85742</id>
+          <name>Sergey Syrovatchenko</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Red room</name>
+      </location>
+      <title>MS SQL Server: XML, XQuery and Performance Issues</title>
+      <description>При работе с XML существует большое число подводных камней, которые могут приводить к каверзным проблемам с производительностью. В рамках доклада, мы рассмотрим общие рекомендации о том, как можно эффективно хранить, парсить и генерировать XML. Узнаем, когда выгодно использовать XQuery, а в каких случаях лучше проявляет себя OpenXML. Как лучше передавать массивы значений как параметры в хранимки. Научимся парсить огромные XML файлы с помощью XMLBulkLoad. Отдельно рассмотрим баги связанные с парсингом XML, которые Microsoft бережно переносит из версии в версию.</description>
+      <startTime>9/22/2018 2:40:00 PM</startTime>
+      <endTime>9/22/2018 3:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84832</importID>
+      <speakers>
+        <speaker>
+          <id>84832</id>
+          <name>Jose Manuel Jurado Diaz</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Red room</name>
+      </location>
+      <title>Back to the future - Migrating our SQL Server OnPremise Database to Azure</title>
+      <description>We will cover the main aspects to migrate to one of the three architectures available in SQL Server in Azure from SQL Server On Premise. 
+
+This session consists of:
+-&gt; What is the best platform for my environment? IaaS, PaaS, or SQL Datawarehouse.
+-&gt; Best Practices and best tools for our migration process depending on the platform chosen.
+-&gt; After the migration, we have several outstanding questions:
+            Can I keep both environments synchronized?
+             How is the performance of my database?</description>
+      <startTime>9/22/2018 10:00:00 AM</startTime>
+      <endTime>9/22/2018 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>85430</importID>
+      <speakers>
+        <speaker>
+          <id>85430</id>
+          <name>Andriy Pogorelov</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Blue room</name>
+      </location>
+      <title>SQL Server Transaction Log: internals</title>
+      <description>Подробно рассмотрим важнейший компонент базы данных - лог транзакций. Для чего он нужен, в каких процессах участвует. Облако затрагиваемых терминов: Backup, Recovery, Shrink, VLF, Replication, AlwaysOn, CDC, Best Practices.</description>
+      <startTime>9/22/2018 11:10:00 AM</startTime>
+      <endTime>9/22/2018 12:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>80817</importID>
+      <speakers>
+        <speaker>
+          <id>80817</id>
+          <name>Michal Sadowski</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Blue room</name>
+      </location>
+      <title>Database corruption</title>
+      <description>In this session, you will learn how to detect and avoid common problems related to database corruption. There will be a description of the data structures in SQL Server and how it can affect the availability of SQL Server during corruption. On the session, there will be not only theoretical knowledge but many real life examples with demos.</description>
+      <startTime>9/22/2018 10:00:00 AM</startTime>
+      <endTime>9/22/2018 11:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

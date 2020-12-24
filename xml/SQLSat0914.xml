@@ -1,0 +1,835 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #914 - Torun 2019</name>
+    <startDate>9/28/2019 12:00:00 AM</startDate>
+    <attendeeEstimate>300</attendeeEstimate>
+    <timezone>(GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatTorun</twitterHashtag>
+    <venue>
+      <name>Uniwersytet Mikołaja Kopernika, Wydział Matematyki i Informatyki, </name>
+      <street>ul. Chopina 12/18</street>
+      <city>Torun</city>
+      <state>Kuyavian-Pomeranian Voivodeship, Poland</state>
+      <zipcode>87-100</zipcode>
+      <longitude>18.5944059</longitude>
+      <latitude>53.010068</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/914/EventSponsor_14076.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2569</importID>
+      <name>KursySQL</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.kursysql.pl</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/914/EventSponsor_14146.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2577</importID>
+      <name>Grupa NEUCA</name>
+      <label>Bronze Sponsor</label>
+      <url>https://kariera.neuca.pl/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/914/EventSponsor_14217.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>96319</importID>
+      <name>Grzegorz Stolecki</name>
+      <label>
+      </label>
+      <description>Business Intelligence expert with 20+ years of experience. Grzegorz worked as architect, developer and trainer. Currently he focuses on developing specialized analytical and reporting solutions using machine learning models for large and mid-size enterprises. He also works on financial planning, consolidation and budgeting applications. Grzegorz is one of the leaders of Polish Data Community (former Polish SQL Server User Group PLSSUG). You can meet him very often at community meetings, conferences and other events. He is an active speaker and ATE member. Microsoft MVP in Data Platform Area since 2010.</description>
+      <twitter>gstolecki</twitter>
+      <linkedin>https://pl.linkedin.com/in/grzegorzstolecki</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=gstolecki</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96722</importID>
+      <name>Damian Widera</name>
+      <label>
+      </label>
+      <description>SQL Server MVP amp; MCT
+Software engineer with 18+ years of professional experience in all aspects of software development.
+Damian participated in a number of projects in international environments and possesses practical knowledge of procedures and tools which are necessary for successful implementation of such projects.
+Now he focuses on building solutions based on Microsoft SQL Server environment (including complex database driven systems, database tuning and optimization).</description>
+      <twitter>@DamianWidera</twitter>
+      <linkedin>https://pl.linkedin.com/in/damian-widera-0b56284</linkedin>
+      <ContactURL>https://codingfamily.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@DamianWidera</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96543</importID>
+      <name>Hubert Kobierzewski</name>
+      <label>
+      </label>
+      <description>Hubert works at Codec-dss as BI Practice Lead. He helps customers to gather their data and convert it into valuable information using Microsoft Data Platform technologies. Hubert is also a board member of Data Community Poland and a leader of Warsaw Power BI User Group.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/in/kobierzewski</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95102</importID>
+      <name>Marcin Szeliga</name>
+      <label>
+      </label>
+      <description>Data Philosopher. Since 2006 invariably awarded Microsoft Most Valuable Professional title in the Data Platform category. A speaker at numerous conferences across Europe, as well as at user groups meetings. The author of many books and articles devoted to Microsoft Data Platform. An independent consultant, database-centric application practitioner and architect totally focused on SQL Server and Azure. Huge fan of Data Science and Machine Learning.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://pl.linkedin.com/in/marcinszeliga</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95663</importID>
+      <name>Adrian Chodkowski</name>
+      <label>
+      </label>
+      <description>Business Intelligence Consultant responsible for developing and architecting Microsoft Data Platform Solutions for wide range of clients. Trainer, blogger (www.seequality.net) and real fun of Microsoft on-premise and cloud technologies. Enthusiast of technology community with many pro-bono activities and experiences. Owner of many technology certificates like MCSA, MCSE: data management  analytics or MCSE:Business Intelligence.</description>
+      <twitter>https://twitter.com/Adrian_SQL</twitter>
+      <linkedin>https://pl.linkedin.com/in/adrian-chodkowski-91947457</linkedin>
+      <ContactURL>http://www.seequality.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/Adrian_SQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96332</importID>
+      <name>Adam Marczak</name>
+      <label>
+      </label>
+      <description>Azure Cloud Architect working at Lingaro. Passionate .NET developer and Azure evangelist. For many years delivering solutions in FMCG for global scale clients. Since 2014 working primarly in Azure and Cloud specific projects as a developer, tech leader and architect. In spare time writing on his personal blog and recently YouTube channel dedicated to Azure technologies.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96727</importID>
+      <name>Michał Ćwiok</name>
+      <label>
+      </label>
+      <description>Ex-Microsoft self-taught BI Developer. Currently working for Clouds On Mars. Specializes in Power BI and Azure. Apart from BI love, hugely invested in Internet Privacy. You can learn more at cwiok.pl</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96760</importID>
+      <name>Jakub Wawrzyniak</name>
+      <label>
+      </label>
+      <description>Data Architect and Developer Team Leader at TIDK. Enthusiast of AI solutions. PhD student, scientifically associated with the Laboratory of Algorithm Design and Programming Systems at the Institute of Computer Science at the Poznan University of Technology. In the IT industry for over ten years. Designer and creator of solutions for public administration, programmer. He has experience in international research and development projects. His scientific interests include such issues as machine learning, algorithm design, complexity analysis, combinatorial optimization, or scheduling. Passionate about data, games and Japanese culture. Member of the Organizing Committees of the Game Industry Conference and the Applied Data Science.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>94727</importID>
+      <name>Pawel Potasinski</name>
+      <label>
+      </label>
+      <description>CTO at Elitmind. Focused on determining the company's technological directions and transforming Clients into successful data driven organizations. Former Microsoft employee (Data Insights Product Manager for Poland). In 2007 Pawel started Polish SQL Server User Group (PLSSUG), currently known as Data Community Poland, an official PASS Chapter in Poland. Pawel has been a speaker at many conferences in Poland and worldwide (e.g. SQLDay, SQLSaturday, European PASS Conference). He has been awarded with Microsoft Most Valuable Professional (MVP) sixtimes in his career. Father of three. Avid runner.</description>
+      <twitter>https://twitter.com/PawelPotasinski</twitter>
+      <linkedin>https://www.linkedin.com/in/pawelpotasinski</linkedin>
+      <ContactURL>http://blog.sqlgeek.pl</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/PawelPotasinski</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95622</importID>
+      <name>Bartosz Ratajczyk</name>
+      <label>
+      </label>
+      <description>Database developer and (sometimes) administrator working with SQL Server Data Platform. Currently focusing on ETL development, delivery automation using TFS, query tuning, SQL Server training. Data Community Poland (DC) member, local group and conference speaker.</description>
+      <twitter>@b_ratajczyk</twitter>
+      <linkedin>http://pl.linkedin.com/in/bartoszratajczyk</linkedin>
+      <ContactURL>http://blog.bartekr.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@b_ratajczyk</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96690</importID>
+      <name>Marek Maśko</name>
+      <label>
+      </label>
+      <description>Marek works as a Principal Database Analyst at Sabre Polska where he is developing a database solution for flight planning system. He supports teams of developers, testers, delivery, and technical support staff in this large international project. Fan of query optimization and exploration of knowledge about SQL Server Internals. He professionally works on databases and in particular with SQL Server since 2010. Earlier, a Java and C# coder. An active member of the Krakow chapter of the Polish Data Community. Marek is MCSE: Data Platform and MCSE: Data Management and Analytics.</description>
+      <twitter>https://twitter.com/marekmasko</twitter>
+      <linkedin>https://www.linkedin.com/in/marekmasko/</linkedin>
+      <ContactURL>http://blog.sqlterritory.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/marekmasko</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98666</importID>
+      <name>Tomasz Cieplak</name>
+      <label>
+      </label>
+      <description>Data Community Poland - Lublin chapter leader</description>
+      <twitter>https://twitter.com/TomaszCieplak</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/TomaszCieplak</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95866</importID>
+      <name>Natalia Świtalska</name>
+      <label>
+      </label>
+      <description>At work: Certified Java developer with additional knowledge in ETL, DWH, BAM systems, Real-Time Streaming solutions and Cloud, in meantime: Data Community member and SQL and Data Analysis  enthusiast.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/natswitalska/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96481</importID>
+      <name>Patryk Miziuła</name>
+      <label>
+      </label>
+      <description>Data scientist and lead instructor at deepsense.ai. Comes from and lives in Bydgoszcz.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95586</importID>
+      <name>Rafał Suchorski</name>
+      <label>
+      </label>
+      <description>Database Administrator (MS SQL Server), SSIS Developer, MCSE, ex-MCT, ex-Leader of PLSSUG (Bydgoszcz and Toruń)</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/rafal-suchorski-02894b47</linkedin>
+      <ContactURL>https://datacommunity.pl/tag/rafal-suchorski/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96548</importID>
+      <name>Andrzej Pyskir</name>
+      <label>
+      </label>
+      <description>Graduated from Factulty of Physics, University of Warsaw, and then turned to be a Data Scientist and an Instructor at deepsense.ai. Interested in CNNs, recommender systems and teaching Data Science.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/andrzej-pyskir-19b55b85/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95132</importID>
+      <name>Jose Manuel Jurado Diaz</name>
+      <label>
+      </label>
+      <description>José Manuel Jurado currently works as SQL Escalation Engineer and Subject Matter Expert in Azure SQL Database at Microsoft Spain. With over 20+ years of experience in SQL Server environments (administration and database development), he is a speaker for internal events at Microsoft and for public events such as SQLSaturday, SQL Nexus, SQLBits, Pass Summit, SQL Server Konferenze, TechReady, DotNetConference, and Azure BootCamp. In the past, he worked as Project Manager for large global retail company for more than 10 years developing projects using different Microsoft Technologies.</description>
+      <twitter>jmjuradodiaz</twitter>
+      <linkedin>https://www.linkedin.com/in/jose-manuel-jurado-diaz-5a586014/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=jmjuradodiaz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95667</importID>
+      <name>Tomasz Waloszek</name>
+      <label>
+      </label>
+      <description>He has been working with SQL Server 2008 for 8 years. As an administrator and programmer, he has proven his skill with MCP, MCSA, MCSE Data Management and Analytics by obtaining numerous certificates. A Business Intelligence consultant at Neuca company, where he designs and develops data warehouse and multi-dimensional databases. Leader of the Bydgoszcz-Toruń Data Community group. Privately, an enthusiast of combat sports and strength training using hardstyle methodology.</description>
+      <twitter>WaloszekTomasz</twitter>
+      <linkedin>https://www.linkedin.com/in/tomaszwaloszek/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=WaloszekTomasz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96565</importID>
+      <name>Tomasz Gołaszewski</name>
+      <label>
+      </label>
+      <description>A Data Architect fascinated with IT and programming since early school years. I chose data analysis as a specialization path and from that angle I'm used to work with the SQL Server database engine. I've gained experience with the engine on data warehouses and building data flows oriented at a specific business needs.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/tomasz-go%C5%82aszewski/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98113</importID>
+      <name>Emil Wasilewski</name>
+      <label>
+      </label>
+      <description>.</description>
+      <twitter>wasilewskiemil</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=wasilewskiemil</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98522</importID>
+      <name>Lukasz Kaluzny</name>
+      <label>
+      </label>
+      <description>Cloud Technology Leader w Beyond.pl. Pasjonat chmury publicznej oraz szeroko pojętej nowoczesnej architektury w IT oraz hipsterskich technologii, które dopiero się pojawiają. Od 2012 roku wyróżniony tytułem Microsoft Most Valuable Professional w kategoriach: Microsoft Azure oraz historycznie Hyper-V. Autor bloga: kaluzny.io</description>
+      <twitter>kaluzaaaa</twitter>
+      <linkedin>https://www.linkedin.com/in/lukaszkaluzny/</linkedin>
+      <ContactURL>https://kaluzny.io</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=kaluzaaaa</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95853</importID>
+      <name>Kevin Chant</name>
+      <label>
+      </label>
+      <description>Senior Database Architect originally from the UK and now living in the Netherlands. Data Platform MVP and MCT.
+
+Over 23 years experience in the IT sector, and has supported databases for companies in the top 10 of the fortune 500 list.
+
+In addition to a lot of SQL Server experience also has a fair few Microsoft Certifications. In addition, was probably the last ever person in the world to gain the MCSD Azure Architect certification and has gained the latest Microsoft DevOps Engineer Expert certification. 
+
+Has real life experience with SQL Server and Azure Devops. Currently SQL Server Product Owner of around 1,900 instances. 
+
+In addition, done various things over the years for the Data Platform Community.</description>
+      <twitter>kevchant</twitter>
+      <linkedin>https://www.linkedin.com/in/kevin-chant/</linkedin>
+      <ContactURL>https://www.KevinRChant.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=kevchant</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96071</importID>
+      <name>Sławomir Drzymała</name>
+      <label>
+      </label>
+      <description>Slawomir Drzymala is a Data Warehouse Developer and a big enthusiast of the Microsoft technologies, which is still playing with data, the .NET technologies and Microsoft's data products. Big fan of the data mining/data science, but also of the self-service BI. Speaker at many different events including the biggest Microsoft SQL Server conference in Poland. Organizer of the meetings, conferences and hackathon dedicated to the Microsoft Data Platform. President of Malta Microsoft Data Platform User Group.</description>
+      <twitter>https://twitter.com/SDrzymala</twitter>
+      <linkedin>https://www.linkedin.com/in/sdrzymala/</linkedin>
+      <ContactURL>http://seequality.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/SDrzymala</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96246</importID>
+      <name>Łukasz Bielak</name>
+      <label>
+      </label>
+      <description>Business Intelligence Consultant, works with Microsoft technology stack from 2014. Currently focused on developing BI solution on Azure. Runs a blog CloudBI.pl and writes articles about data platform. Owner of Microsoft Certificates MCSE: Data Management And Analytics, MCSA: SQL SERVER 2012 and MCSA: BI Reporting</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/lukasz-bielak/</linkedin>
+      <ContactURL>https://cloudbi.pl</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>95102</importID>
+      <speakers>
+        <speaker>
+          <id>95102</id>
+          <name>Marcin Szeliga</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis  Machine Learning</track>
+      <location>
+        <name>Aula</name>
+      </location>
+      <title>AutoML at scale</title>
+      <description>Automating the construction and tuning of machine learning (ML) models has long been one of the goals of the ML community. This is due to several factors, most notably a sharp increase in the demand for tailored AI solutions, a relative scarcity of trained ML scientists, and the development of deep learning models with complex architectures requiring accurate design and fine-tuning.
+Existing automated machine learning (AutoML) techniques have been remarkably successful in identifying good parameters for a given model, sometimes even outperforming humans. However, these options either take too long to train or they work for only a handful of parameters. That’s why Azure Machine Learning uses probabilistic latent variable model to work with DNNs without needing to fully train them. Azure Machine Learning Services (AML) provides a cloud-based environment you can use to develop, train, test, deploy, manage, and track machine learning models. AutoML in the cloud will soon become mainstream.</description>
+      <startTime>9/28/2019 11:30:00 AM</startTime>
+      <endTime>9/28/2019 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95586</importID>
+      <speakers>
+        <speaker>
+          <id>95586</id>
+          <name>Rafał Suchorski</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>S9</name>
+      </location>
+      <title>Statystyki danych - czy to jest istotne?</title>
+      <description>Jak napisano w oficjalnej dokumentacji SQL Server: "The Query Optimizer uses statistics to create query plans that improve query performance". Wydaje się więc, że zrozumienie tego jak dbać o statystyki jest jednym z kluczowych punktów podnoszenia wydajności naszych serwerów. 
+
+Sesja pomyślana tak, by ilość slajdów ograniczyć do minimum i jak najwięcej czasu poświęcić na dema. Oczywiście będzie odrobina teorii, ale przede wszystkich będziemy statystyki tworzyć, kasować, aktualizować na różne sposoby. Spróbujemy też czytać je tak jak robi to Optymalizator Zapytań. Zobaczymy też różnice, jakie zaszły w interpretacji oraz mechanizmach aktualizujacych statystyki wraz z wprowadzeniem SQL Server 2014 i 2017. A na koniec przeniesiemy statystyki bazy produkcyjnej do bazy testowej.</description>
+      <startTime>9/28/2019 1:15:00 PM</startTime>
+      <endTime>9/28/2019 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>96690</importID>
+      <speakers>
+        <speaker>
+          <id>96690</id>
+          <name>Marek Maśko</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>S9</name>
+      </location>
+      <title>Wprowadzenie do SQL Server Data Tools</title>
+      <description>SQL Server Data Tools (SSDT) jest bardzo bogatym narzędziem pozwalającym administratorom oraz deweloperom na prawidłowe zarządzanie kodem źródłowym baz danych. Jego znajomość może okazać się bardzo przydatna właśnie teraz, kiedy wiele przedsiębiorstw zaczyna rozumieć potrzebę traktowania kodu bazodanowego podobnie do kodu aplikacyjnego. Dzięki SSDT w bardzo łatwy sposób możesz zacząć wdrażać to podejście w swoim projekcie, co pozwoli na dalsze ulepszenia, takie jak automatyzacja procesów CI/CD.
+
+Na tej sesji dowiesz się jakie funkcjonalności dostarcza SSDT, jak stworzyć nowy projekt bazodanowy zawierający model bazy danych, jak za jego pomocą wgrać zmiany na serwer bazodanowy oraz jak porównać istniejącą bazę z wzorcowym modelem.</description>
+      <startTime>9/28/2019 9:30:00 AM</startTime>
+      <endTime>9/28/2019 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>96246</importID>
+      <speakers>
+        <speaker>
+          <id>96246</id>
+          <name>Łukasz Bielak</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>S5</name>
+      </location>
+      <title>Processing Large Tabular models with Analysis Services Partition Manager</title>
+      <description>Processing of Tabular model is very common situation, there are many of solution for this problem: starting from  SSIS packages and ends on Azure Logic App. But what, when there is very large data model and time for processing limited to 5 minutes? The full processing takes too long, what's more there is no necessary to reload all the data, only data from last month can be changed and needs to be reloaded. In this case Partition manager is good solution which can limit the processing time to necessary minimum. During the session I will show how to easy implement solution, also I will tell about processing types and performance tips for large tabular models. 
+Session in Polish.</description>
+      <startTime>9/28/2019 9:30:00 AM</startTime>
+      <endTime>9/28/2019 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>96071</importID>
+      <speakers>
+        <speaker>
+          <id>96071</id>
+          <name>Sławomir Drzymała</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Sala Konferencyjna</name>
+      </location>
+      <title>Docker for data amateur</title>
+      <description>Even tough it's nothing new, Docker is a thing nowadays. I've decided to check containers out as well and learn how they can help me. Although I'm a BI consultant and not really using Docker and containers in the current projects, I've already found them to be very helpful on my daily basis learning and other activities. If you are also passionate about data and still experimenting with SQL Server and/or Python and/or any other technology, please join the session and see how Docker can change your life. 
+I will show you my journey, my thoughts and my findings regarding the usage of SQL Server and Python together with Docker. And there will be a lot, a lot of demos.</description>
+      <startTime>9/28/2019 11:30:00 AM</startTime>
+      <endTime>9/28/2019 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98113</importID>
+      <speakers>
+        <speaker>
+          <id>98113</id>
+          <name>Emil Wasilewski</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Aula</name>
+      </location>
+      <title>Life on the Edge</title>
+      <description>TBA</description>
+      <startTime>9/28/2019 9:30:00 AM</startTime>
+      <endTime>9/28/2019 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>96543</importID>
+      <speakers>
+        <speaker>
+          <id>96543</id>
+          <name>Hubert Kobierzewski</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>S9</name>
+      </location>
+      <title>Mój własny wykres w Power BI</title>
+      <description>Paleta podstawowa komponentów wizualizacyjnych w Power BI zwykle pokrywa większość naszych potrzeb, a w razie pojawienia się większego apetytu mamy mozliwość korzystać z zawartości półek Marketplace lub niezależnych producentów. Jeśli jednak tak szeroka oferta w jakiś sposób nie jest zbieżna z naszą wizją to możemy sami stworzyć komponent wizualizacyjny. W czasie sesji pokażę Wam jak się do tego zabrać od strony narzędziowej, które "klocki" należy poznać i jakiego rodzaju umiejętności są kluczowe przy tworzeniu własnego typu wykresu. Oczwiście, w trakcie tych kilku kwadransów powstanie taki komponent, który bedzie gotowy do użycia na naszym dashboardzie.</description>
+      <startTime>9/28/2019 11:30:00 AM</startTime>
+      <endTime>9/28/2019 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>96319</importID>
+      <speakers>
+        <speaker>
+          <id>96319</id>
+          <name>Grzegorz Stolecki</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Aula</name>
+      </location>
+      <title>How to quickly cook a brand new visual for Power BI</title>
+      <description>You have two ways to create a new visual for your great Power BI reports. The first one is to take something called Typescript and code a new stuff. It’s simple and exciting, isn’t it?  The second way is easier and cooler... Use Charticulator! This tool with a strange name gives you everything to prepare your own visual from a scratch without coding, only with dragging and dropping.</description>
+      <startTime>9/28/2019 3:15:00 PM</startTime>
+      <endTime>9/28/2019 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>96548</importID>
+      <speakers>
+        <speaker>
+          <id>96548</id>
+          <name>Andrzej Pyskir</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis  Machine Learning</track>
+      <location>
+        <name>S9</name>
+      </location>
+      <title>Czy można nauczyć komputer znajdować budynki na zdjęciach satelitarnych?</title>
+      <description>Przedstawię zarys tego, do czego można używać sieci neuronowych w kontekście obrazów - klasyfikacja, detekcja i segmentacja. Skupię się na segmentacji obiektów na przykładzie znajdowania budynków na zdjęciach satelitarnych w konkursie Mapping Challenge i pokażę kilka pomysłów na usprawnienie modelu. Następnie pokażę, jak taki model pracuje na zdjęciach różnych miast z Google Maps i omówię warunki potrzebne do wytrenowania dobrego modelu.</description>
+      <startTime>9/28/2019 3:15:00 PM</startTime>
+      <endTime>9/28/2019 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>96332</importID>
+      <speakers>
+        <speaker>
+          <id>96332</id>
+          <name>Adam Marczak</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>S9</name>
+      </location>
+      <title>Creating data transformation in minutes with no code using Azure Data Factory with Data Flows</title>
+      <description>Data Flows component for Azure Data Factory brings power of Spark on Databricks with flexible and easy to use user interface. In this session you will learn basics of how Data Factory works, what is Data Flows components, how does it work and how does it integrate with Databricks without writing any code. Session will end with a live demo of Data Factory with Data Flow component.
+This is also natural migration path for those working with SSIS.</description>
+      <startTime>9/28/2019 10:30:00 AM</startTime>
+      <endTime>9/28/2019 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>96565</importID>
+      <speakers>
+        <speaker>
+          <id>96565</id>
+          <name>Tomasz Gołaszewski</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis  Machine Learning</track>
+      <location>
+        <name>S5</name>
+      </location>
+      <title>DAX Filter Context</title>
+      <description>Session will help to understand term of context in DAX language and will help to understand why so often result of our query differs from expectation.
+Basing on queries and visualizations, playing with PowerBI and DAX studio, we will see rules and examples, trying to understand how engine works and how sees what is coded in our calculations.</description>
+      <startTime>9/28/2019 2:15:00 PM</startTime>
+      <endTime>9/28/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>96481</importID>
+      <speakers>
+        <speaker>
+          <id>96481</id>
+          <name>Patryk Miziuła</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis  Machine Learning</track>
+      <location>
+        <name>S5</name>
+      </location>
+      <title>Uczenie maszynowe – jak zacząć</title>
+      <description>W czasie wykładu przedstawię podstawowe narzędzia wygodne w prototypowaniu modeli uczenia maszynowego, pokaze kody rozwiązujące przykładowe zagadnienia dla danych tabelarycznych i obrazów i wskażę linki do miejsc przydatnych w dalszej nauce.</description>
+      <startTime>9/28/2019 10:30:00 AM</startTime>
+      <endTime>9/28/2019 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>95866</importID>
+      <speakers>
+        <speaker>
+          <id>95866</id>
+          <name>Natalia Świtalska</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>S5</name>
+      </location>
+      <title>Non-relational faces of SQL</title>
+      <description>Despite the diversity of processed data, the approach to their presentation still has a lot in common. I'd like to tell you about tools, which have their own approach to SQL language. We will see how NoSQL in MongoDB, OQL in Pivotal GemFire ​​and KSQL in Apache Kafka can imitate the most popular elements of the SQL language.</description>
+      <startTime>9/28/2019 3:15:00 PM</startTime>
+      <endTime>9/28/2019 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>96722</importID>
+      <speakers>
+        <speaker>
+          <id>96722</id>
+          <name>Damian Widera</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>S9</name>
+      </location>
+      <title>Query optimization on steroids with SQL Server 2017/2019</title>
+      <description>Adaptive or Intelligent? Maybe both? SQL Server 2017 has come into the light packed with automated query tuning based on the Query Store and Plan Cache. 
+SQL Server 2019 has a lot more important features like  =batch mode on rowstore, memory grant feedback, interleaved execution, adaptative joins, deferred compilation and approximate query processing. So now we have entered the Intelligent Query Processing world!.
+
+I would like to present both the AQP and IQP to show what you can expect in the nearest future and how these features help your queries running faster</description>
+      <startTime>9/28/2019 2:15:00 PM</startTime>
+      <endTime>9/28/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98666</importID>
+      <speakers>
+        <speaker>
+          <id>98666</id>
+          <name>Tomasz Cieplak</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis  Machine Learning</track>
+      <location>
+        <name>Sala Konferencyjna</name>
+      </location>
+      <title>Metody wykrywania anomalii z zastosowaniem sieci LSTM</title>
+      <description>TBA</description>
+      <startTime>9/28/2019 9:30:00 AM</startTime>
+      <endTime>9/28/2019 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>96760</importID>
+      <speakers>
+        <speaker>
+          <id>96760</id>
+          <name>Jakub Wawrzyniak</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Sala Konferencyjna</name>
+      </location>
+      <title>PowerBI Embedded: powerful analytics in your application</title>
+      <description>Have you ever wondered how to introduce powerful analytical functions to your application? How many times have you failed to complete this task? During this session, you will learn how to implement the power of Power BI in your own application. You will learn how to enrich your solution by placing excellent reports and dashboards.
+
+Based on selected case studies, I will show you step by step on how to add data visualizations and interactive reports to your application.</description>
+      <startTime>9/28/2019 1:15:00 PM</startTime>
+      <endTime>9/28/2019 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98522</importID>
+      <speakers>
+        <speaker>
+          <id>98522</id>
+          <name>Lukasz Kaluzny</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala Konferencyjna</name>
+      </location>
+      <title>Availability Groups on Kubernetes in SQL Server 2019</title>
+      <description>With SQL Server 2019 announced new capabilities for High Availability and Disaster Recovery on containers in Kubernetes. During the session, you will learn Kubernetes concepts used by the latest version of SQL Server. How SQL Server High Availability works in Kubernetes and how to deploy it</description>
+      <startTime>9/28/2019 3:15:00 PM</startTime>
+      <endTime>9/28/2019 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>96727</importID>
+      <speakers>
+        <speaker>
+          <id>96727</id>
+          <name>Michał Ćwiok</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>S5</name>
+      </location>
+      <title>Zaawansowane obchodzenie ograniczneń w Power BI. Komentarze do danych w real-time w bankingu.</title>
+      <description>Jak dodawać komentarze w Power BI, żeby były dostępne w czasie rzeczywistym na Report Serverze, gdzie nie można użyć Power Apps? Poznaj pierwsze takie rozwiązanie stworzone dla najlepszego banku w Polsce. Uwaga, pokażemy jak to zrobiliśmy! Będzie też kod C# i będzie kod TypeScript!</description>
+      <startTime>9/28/2019 1:15:00 PM</startTime>
+      <endTime>9/28/2019 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95132</importID>
+      <speakers>
+        <speaker>
+          <id>95132</id>
+          <name>Jose Manuel Jurado Diaz</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Sala Konferencyjna</name>
+      </location>
+      <title>How to get the most from Azure SQL Database</title>
+      <description>In this session we will show how to get the most advantages out from Azure SQL Database.
+We will learn how to monitor the performance of our workload, how to improve it and how to secure it using the tools and features at our disposal on the Azure portal without having to install 3rd party tools.
+We will also see some ways to lower the costs or increase performance without having to also increase costs.</description>
+      <startTime>9/28/2019 2:15:00 PM</startTime>
+      <endTime>9/28/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95663</importID>
+      <speakers>
+        <speaker>
+          <id>95663</id>
+          <name>Adrian Chodkowski</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Sala Konferencyjna</name>
+      </location>
+      <title>Hidden aspects of SQL Server</title>
+      <description>Nowadays we are dealing with super efficient auto-tuning database servers but our queries sometimes run very slow. Everything looks ok but in our monitoring tools we can see higher resource consumption, wait statistics associated with locks or tempdb activity etc. What is the reason of this? During the session I will show few not very well-known aspects of work with SQL Server that can affect performance of specific queries and entire instance. During the session you will find a lot of practical demonstrations and tips that will help you diagnose specific problems and errors.</description>
+      <startTime>9/28/2019 10:30:00 AM</startTime>
+      <endTime>9/28/2019 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>95853</importID>
+      <speakers>
+        <speaker>
+          <id>95853</id>
+          <name>Kevin Chant</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Aula</name>
+      </location>
+      <title>Database Adventure</title>
+      <description>Aimed mostly at administration and based on real life scenarios, in this audience interactive session we will go through some scenarios DBA's might encounter whilst dealing with SQL Server databases and you will be provided with some options about what to do. Members of the audience will then select from these options what to do and we will follow that path and see what the outcome is from there.
+
+Each selection will have a different outcome, and along the way you will probably learn some new things.</description>
+      <startTime>9/28/2019 2:15:00 PM</startTime>
+      <endTime>9/28/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95667</importID>
+      <speakers>
+        <speaker>
+          <id>95667</id>
+          <name>Tomasz Waloszek</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>S5</name>
+      </location>
+      <title>Best Practices in SSIS</title>
+      <description>Integration Services has been in existence for about 14 years, but how it works hasn't really changed.
+One of the most important features of SSIS is flexibility, which is also one of the most common failures. In this session you will learn what are the good practices of creating SSIS packages. How to handle errors, what to do to make our SSIS work quickly and efficiently.</description>
+      <startTime>9/28/2019 11:30:00 AM</startTime>
+      <endTime>9/28/2019 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95622</importID>
+      <speakers>
+        <speaker>
+          <id>95622</id>
+          <name>Bartosz Ratajczyk</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Aula</name>
+      </location>
+      <title>How does the recursive CTE work?</title>
+      <description>We all know CTEs and the recursive version of it. But how does it work internally? Why sometimes it can produce an unexpected result?
+
+If you want to know how does recursive CTE work internally, want to know more about non-blocking, blocking and semi-blocking query plan operators, want to familiarise yourself with the spools, asserts, compute scalars - come to this session. I will analyse the whole query plan flow, describe the internals of the used operators and show you other situations where they are useful (or not).</description>
+      <startTime>9/28/2019 1:15:00 PM</startTime>
+      <endTime>9/28/2019 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>94727</importID>
+      <speakers>
+        <speaker>
+          <id>94727</id>
+          <name>Pawel Potasinski</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Aula</name>
+      </location>
+      <title>AI and (Power) BI - Better Together</title>
+      <description>Power BI is on the market for a while now. It's seems to be a mature BI platform, but still does not utilize the potential of AI to support business decisions. However, in the last few months Microsoft announced many new Power BI features related to AI which can change the way people will work with this technology in the future. The purpose of this demo-intensive session is to show the AI-based capabilities of Power BI in use.</description>
+      <startTime>9/28/2019 10:30:00 AM</startTime>
+      <endTime>9/28/2019 11:15:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

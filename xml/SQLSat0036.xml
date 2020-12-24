@@ -1,0 +1,701 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #36 - Wheeling 2010</name>
+    <startDate>5/1/2010 12:00:00 AM</startDate>
+    <attendeeEstimate>110</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat36</twitterHashtag>
+    <venue>
+      <name>West Virginia Northern Community College</name>
+      <street>1704 Market Street</street>
+      <city>Wheeling</city>
+      <state>West Virginia</state>
+      <zipcode>26003</zipcode>
+      <longitude>-80.7218085</longitude>
+      <latitude>40.0630222</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1</importID>
+      <name>Confio</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.confio.com</url>
+      <imageURL>https://www.pass.org/images/resized-confio_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1169</importID>
+      <name>Regional Economic Development Partnership</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.TakeMeHomeOhioValley.com</url>
+      <imageURL>https://www.johnsterrett.com/img/REDlogo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>493</importID>
+      <name>ColdCypress, LLC</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.coldcypress.com</url>
+      <imageURL>https://www.coldcypress.com/images/logo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Silver Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>970</importID>
+      <name>ProTech Professional Technical Services, Inc.</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.protechtraining.com</url>
+      <imageURL>https://www.johnsterrett.com/img/ProTech.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>5</importID>
+      <name>Quest Software</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/947/EventSponsor_14722.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>3</importID>
+      <name>Idera</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.idera.com/Content/Home.aspx</url>
+      <imageURL>https://www.sqlsaturday.com/images/SQLSaturday/eventsponsors/IDERA170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1296</importID>
+      <name>West Virginia Northern Community College</name>
+      <label>Hosting Sponsor</label>
+      <url>http://www.wvncc.edu/CampusWheeling/AboutWheelingCampus.htm</url>
+      <imageURL>https://www.johnsterrett.com/img/WNCCLogo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>394</importID>
+      <name>Apress</name>
+      <label>Media  Swag  Sponsor</label>
+      <url>http://www.apress.com/</url>
+      <imageURL>https://www.pass.org/files/d4c52bf3-c1c0-44c9-aa2a-bdbbb3f4fdab.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>714</importID>
+      <name>Pearson-InformIT</name>
+      <label>Media  Swag  Sponsor</label>
+      <url>http://www.informit.com</url>
+      <imageURL>https://www.pass.org/files/a9fcf6aa-7399-404a-b3dd-53f082cf7f17.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>30752</importID>
+      <name>Jeremiah Peschka</name>
+      <label>
+      </label>
+      <description>Jeremiah sees the magic in technology. He knows how to do things now, and he also knows how to think about possibilities. Jeremiah likes to imagine new kinds of indexes, new kinds of teams, new kinds of applications — this means when you need to reinvent something, or get unblocked, you should talk to Jeremiah.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://brentozar.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33655</importID>
+      <name>Tim  Beamer</name>
+      <label>
+      </label>
+      <description>Tim Beamer has served 17 years in the technology industry in a variety of roles. Whether as a Systems Administrator, Systems Analyst, or Systems Engineer, the solutions developed by Tim have always been in response to mission critical needs either for his customers or the company he worked for. Currently Tim serves as a Technology Evangelist for the Microsoft Consulting Practice at Dell with responsibility for the United States of America and Canada.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://content.dell.com/us/en/enterprise/by-service-type.aspx?redirect=1</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31101</importID>
+      <name>John Sterrett</name>
+      <label>
+      </label>
+      <description>John Sterrett is a MCSE: Data Platform, Principal Consultant, and the Founder of Procure SQL LLC.  John has experience presenting at community events, including Microsoft Ignite, PASS Member Summit, SQLRally, 24 Hours of PASS, SQL Saturdays, PASS Chapters, and Virtual Chapter meetings. John is a leader of the Austin SQL Server User Group and is the founder of the HADR Virtual Chapter. John's community activities can be found at https://johnsterrett.com/community/</description>
+      <twitter>JohnSterrett</twitter>
+      <linkedin>http://www.linkedin.com/in/johnsterrett</linkedin>
+      <ContactURL>https://johnsterrett.com/community/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=JohnSterrett</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33656</importID>
+      <name>Tim  Beamer</name>
+      <label>
+      </label>
+      <description>Tim Beamer has served 17 years in the technology industry in a variety of roles. Whether as a Systems Administrator, Systems Analyst, or Systems Engineer, the solutions developed by Tim have always been in response to mission critical needs either for his customers or the company he worked for. Currently Tim serves as a Technology Evangelist for the Microsoft Consulting Practice at Dell with responsibility for the United States of America and Canada.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://content.dell.com/us/en/enterprise/by-service-type.aspx?redirect=1</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31102</importID>
+      <name>John Sterrett</name>
+      <label>
+      </label>
+      <description>John Sterrett is a MCSE: Data Platform, Principal Consultant, and the Founder of Procure SQL LLC.  John has experience presenting at community events, including Microsoft Ignite, PASS Member Summit, SQLRally, 24 Hours of PASS, SQL Saturdays, PASS Chapters, and Virtual Chapter meetings. John is a leader of the Austin SQL Server User Group and is the founder of the HADR Virtual Chapter. John's community activities can be found at https://johnsterrett.com/community/</description>
+      <twitter>JohnSterrett</twitter>
+      <linkedin>http://www.linkedin.com/in/johnsterrett</linkedin>
+      <ContactURL>https://johnsterrett.com/community/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=JohnSterrett</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30751</importID>
+      <name>Jeremiah Peschka</name>
+      <label>
+      </label>
+      <description>Jeremiah sees the magic in technology. He knows how to do things now, and he also knows how to think about possibilities. Jeremiah likes to imagine new kinds of indexes, new kinds of teams, new kinds of applications — this means when you need to reinvent something, or get unblocked, you should talk to Jeremiah.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://brentozar.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33850</importID>
+      <name>Von Scarberry</name>
+      <label>
+      </label>
+      <description>For the past 10 years I have developed custom integrations wrapped around MS Dynamics products with the bulk of the development against Dynamics GP (Great Plains). I have aided several mid to large sized companies reduce their overall overhead through .net custom development. Most of the projects have been tailored to financials to include Sales Order Processing, General Ledger, and payables.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.VirtualSails.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31103</importID>
+      <name>John Sterrett</name>
+      <label>
+      </label>
+      <description>John Sterrett is a MCSE: Data Platform, Principal Consultant, and the Founder of Procure SQL LLC.  John has experience presenting at community events, including Microsoft Ignite, PASS Member Summit, SQLRally, 24 Hours of PASS, SQL Saturdays, PASS Chapters, and Virtual Chapter meetings. John is a leader of the Austin SQL Server User Group and is the founder of the HADR Virtual Chapter. John's community activities can be found at https://johnsterrett.com/community/</description>
+      <twitter>JohnSterrett</twitter>
+      <linkedin>http://www.linkedin.com/in/johnsterrett</linkedin>
+      <ContactURL>https://johnsterrett.com/community/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=JohnSterrett</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28900</importID>
+      <name>Allen White</name>
+      <label>
+      </label>
+      <description>Allen White is a Data Platform consultant. He has been both a developer and an administrator, so he understands both perspectives towards database technology. He loves sharing his experiences and helping people learn how to use SQL Server. Allen has spent over 40 years in IT, using SQL Server since 1992, and has been awarded Microsoft’s MVP Award for the last 13 years. Allen was a PASS Director from 2016 - 2018.</description>
+      <twitter>SQLRunr</twitter>
+      <linkedin>http://www.linkedin.com/pub/allen-white-sql-server-mvp/5/784/b08/</linkedin>
+      <ContactURL>http://dataperfpro.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLRunr</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30895</importID>
+      <name>Joe Kuemerle</name>
+      <label>
+      </label>
+      <description> Joe Kuemerle is a developer and speaker in the Cleveland, OH area specializing in .NET development, security, database and application lifecycle topics.  He is currently a Lead Developer at PreEmptive Solutions, LLC .  PreEmptive is the maker of Dotfuscator, the premier obfuscator for .NET; DashO, the top Java obfuscator; and Runtime Intelligence, a solution to inject application usage tracking into .NET and Java applications.
+ </description>
+      <twitter>@jkuemerle</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.kuemerle.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jkuemerle</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30894</importID>
+      <name>Joe Kuemerle</name>
+      <label>
+      </label>
+      <description> Joe Kuemerle is a developer and speaker in the Cleveland, OH area specializing in .NET development, security, database and application lifecycle topics.  He is currently a Lead Developer at PreEmptive Solutions, LLC .  PreEmptive is the maker of Dotfuscator, the premier obfuscator for .NET; DashO, the top Java obfuscator; and Runtime Intelligence, a solution to inject application usage tracking into .NET and Java applications.
+ </description>
+      <twitter>@jkuemerle</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.kuemerle.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jkuemerle</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29765</importID>
+      <name>David Hoerster</name>
+      <label>
+      </label>
+      <description>David Hoerster, a 5-time C# MVP, is a recovering corporate financial analyst and has been working with the Microsoft.NET Framework since the early 1.0 betas.  David is the leader of the Pittsburgh Reactive Systems user group (http://meetup.com/reactive), the former president of the Pittsburgh .NET User’s Group (PGHDOTNET), and original organizer of Pittsburgh TechFest (www.pghtechfest.com), and is also a regular speaker at Pittsburgh and regional user group and community conference events. David can be found rarely blogging at http://blog.agileways.com and tweets occasionally at @DavidHoerster.</description>
+      <twitter>@DavidHoerster</twitter>
+      <linkedin>http://linkedin.com/in/DavidHoerster</linkedin>
+      <ContactURL>http://blog.agileways.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@DavidHoerster</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31626</importID>
+      <name>Matt Van Horn</name>
+      <label>
+      </label>
+      <description>Matt, a seasoned developer with proficiencies in a wide-array of programming languages and platforms, focuses on creating flexible and dynamic code tailored to the specific needs of customers. Matt is an experienced presenter, regularly speaking at Usergroup meetings and Code Camps.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.anythingtheycando.com/blog/index.php</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30921</importID>
+      <name>John Hidey</name>
+      <label>
+      </label>
+      <description>John Hidey is currently the president and co-founder of Sharp Dudes, LLC. Sharp Dudes is a consulting organization specializing in software application architecture for the .NET world. He was been involved with Microsoft .NET development since early releases of the 1.0 framework. Previously, he had worked in a wide range of industries such as insurance, health care, and the mortgage industry. John is also one of the co-chairs for the Pittsburgh .NET user group with responsibilities for the group</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sharpdudes.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29293</importID>
+      <name>Bronwyn Altizer</name>
+      <label>
+      </label>
+      <description>Bronwyn Altizer has over 15 years of DBA experience including database design, development support, database implementation and performance tuning of many critical business applications. Soft skills include working with both the business and technical teams to deliver consistent superior support in both daily and crisis situations. Bronwyn is currently working as a senior DBA for Cardinal Health. Before Cardinal, Bronwyn was a DBA at a consumer marketing company and managed a team of DBAs. 
+
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31627</importID>
+      <name>Matt Van Horn</name>
+      <label>
+      </label>
+      <description>Matt, a seasoned developer with proficiencies in a wide-array of programming languages and platforms, focuses on creating flexible and dynamic code tailored to the specific needs of customers. Matt is an experienced presenter, regularly speaking at Usergroup meetings and Code Camps.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.anythingtheycando.com/blog/index.php</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31054</importID>
+      <name>Joe Harford</name>
+      <label>
+      </label>
+      <description>Co-founder of Reclamere, a security focused I.T. asset management, data recovery and computer forensics company servicing Fortune 1000 as well as small and medium accounts.  He has a broadly diversified background with over 18 years of experience in management and sales.  As a Vice President at Reclamere, Harford is responsible for all sales and national account management aspects of the business. He is the primary liaison between Reclamere and its partners, competitors and national accounts.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31100</importID>
+      <name>John Sterrett</name>
+      <label>
+      </label>
+      <description>John Sterrett is a MCSE: Data Platform, Principal Consultant, and the Founder of Procure SQL LLC.  John has experience presenting at community events, including Microsoft Ignite, PASS Member Summit, SQLRally, 24 Hours of PASS, SQL Saturdays, PASS Chapters, and Virtual Chapter meetings. John is a leader of the Austin SQL Server User Group and is the founder of the HADR Virtual Chapter. John's community activities can be found at https://johnsterrett.com/community/</description>
+      <twitter>JohnSterrett</twitter>
+      <linkedin>http://www.linkedin.com/in/johnsterrett</linkedin>
+      <ContactURL>https://johnsterrett.com/community/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=JohnSterrett</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>30752</importID>
+      <speakers>
+        <speaker>
+          <id>30752</id>
+          <name>Jeremiah Peschka</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>A Dynamic World Demands Dynamic SQL</title>
+      <description>Dynamic SQL is a misunderstood and much maligned part of a DBA’s tool kit – it can be used to solve difficult business problems, respond to diverse data needs, and alleviate performance problems. Many DBAs reject dynamic SQL outright as a potential source of SQL injections, being poorly performing, or just for being a hacky solution in general.
+
+Jeremiah Peschka has been making extensive use of dynamic SQL throughout his career to solve a variety of problems. He’ll set about dispelling these misconceptions and demonstrate how dynamic SQL can become a part of every DBA’s tool kit.
+
+Learn how to work effectively with diverse inputs.
+Learn how to avoid common pitfalls of dynamic SQL.
+Develop an understanding of real world uses for dynami</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30895</importID>
+      <speakers>
+        <speaker>
+          <id>30895</id>
+          <name>Joe Kuemerle</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Developers….Are We Just a Commodity?</title>
+      <description>It’s a contracting market.  Companies are reducing costs across the board.  With outsourcing and off-shoring achieving success, how can today’s in-house developer prove his value to the business?  Technical expertise is valuable to product and technical management. However, it’s the developer’s understanding of the business and his role in generating revenue that’s invaluable.  This presentation explains various techniques developers can use to increase their business savvy, proving they are providing value and not just an expense.
+</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29765</importID>
+      <speakers>
+        <speaker>
+          <id>29765</id>
+          <name>David Hoerster</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Intro to WCF Data Services and OData</title>
+      <description>Exposing your data to client applications is a common requirement across most applications; however, there are many ways to accomplish this.  Each application seems to implement it a different way which leads to inconsistency across your application spectrum.  With the release of the .NET Framework 3.5, Microsoft has introduced WCF Data Services (was ADO.NET Data Services) which is a collection of classes and standards to allow you to expose your data consistently and securely to your client applications.  We'll focus on WCF Data Services in .NET 4, in which Microsoft has beefed up the offering, and also the data protocol known as OData.</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29293</importID>
+      <speakers>
+        <speaker>
+          <id>29293</id>
+          <name>Bronwyn Altizer</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Wait-Time Based SQL Server Performance Management</title>
+      <description>Using Wait Time Analysis and Wait Types is a newer method for tuning SQL Server instances. As a result, there is often confusion on exactly what the data means. The issue typically centers around the fact the wait time data is analyzed at the wrong level or the collected wait time data is not detailed enough. This presentation will focus on these problems and review several real-life case studies of using SQL Server Wait Type data coupled with Wait-Time based performance analysis to solve the most difficult performance related issues.</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31101</importID>
+      <speakers>
+        <speaker>
+          <id>31101</id>
+          <name>John Sterrett</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>LUNCH - 1st Floor Ballroom</title>
+      <description>Lunch will be provided by Panera.  We will have box lunches.</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31054</importID>
+      <speakers>
+        <speaker>
+          <id>31054</id>
+          <name>Joe Harford</name>
+        </speaker>
+      </speakers>
+      <track>Beginner</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Dorothy: Twitter....LinkedIn....Facebook, O, my!</title>
+      <description>It’s no secret that social networking is here to stay.  Rather than shutting down all social networking at work organizations should put policies, procedures and training in place for responsible tweeting, blogging, etc.  These policies should include responsible ways to use the media rather than abuse it.  Included in this presentation will be ways to structure your policies.  These methods will help your organization use social networking to promote your brand and educate consumers about new products and services. 
+
+</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33656</importID>
+      <speakers>
+        <speaker>
+          <id>33656</id>
+          <name>Tim  Beamer</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Building and Executing a Disaster Recovery Plan</title>
+      <description>Nobody wants to have a catastrophic event, but bad things happend to good datacenters.  Whether it's 42 inches of snow, 18 inches of rain, extended power outage, whatever, your business needs to be able to operate.  We'll start at a general level in terms of how to build your DR plan and then drill specifically into what you need to do to restore database services to an operational state.  We'll draw on information from the High Availability session and add additional color commentary on what the most important things are to consider when building, and most importantly testing your DR plan. </description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30894</importID>
+      <speakers>
+        <speaker>
+          <id>30894</id>
+          <name>Joe Kuemerle</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Encryption in SQL Server</title>
+      <description>Learn to protect data in your application by leveraging the built in encryption functionality in SQL Server 2005/2008 by taking a brownfield application and bringing it up to modern standards.  Topics covered will include column level data encryption, providing lookups of encrypted data, basics of key management and the transparent data encryption capabilities of SQL Server 2008.
+</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31100</importID>
+      <speakers>
+        <speaker>
+          <id>31100</id>
+          <name>John Sterrett</name>
+        </speaker>
+      </speakers>
+      <track>Beginner</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to Data Warehousing</title>
+      <description>If you are interested in learning how Analysis Services, Integration Services and Reporting Services can provide Business Intelligence this meeting is for you. We will start with the basic concepts of data warehousing including key terms and definitions. Next, we will cover some sample business cases while we walk through the process of designing a data warehouse. Once this session is complete you will be able to develop your first cube.</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28900</importID>
+      <speakers>
+        <speaker>
+          <id>28900</id>
+          <name>Allen White</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Automate SQL Server Administration with PowerShell</title>
+      <description>Most administrative functions consist of repetitive sequences of tasks which just take time.  PowerShell is a powerful scripting environment which allows an administrator to automate those repetitive tasks, providing better results to the organization while saving the administrator time, and ensuring that the tasks get done properly every time.  This session will give an introduction to PowerShell and demonstrate a number of scripts which help SQL Server administrators effectively manage their environments.</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33850</importID>
+      <speakers>
+        <speaker>
+          <id>33850</id>
+          <name>Von Scarberry</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>How to enlist SSRS to enhance your application’s</title>
+      <description>I will explore in depth the different techniques of how SSRS can streamline you applications reporting. This will include how SSRS differs from other reporting tool like Crystal Reports and Active Reports. I will cover export format streaming to PFD, Excel, and Word. I will also cover dynamic reporting in detail. Finally, I will cover best practices and reusability across ASP.net, winforms, and SSRS reporting server.</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30751</importID>
+      <speakers>
+        <speaker>
+          <id>30751</id>
+          <name>Jeremiah Peschka</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Fundamentals of SQL Server Internals</title>
+      <description>"Want to know what makes SQL Server tick? Ever wonder what SQL Server is doing when you run a query? Ever wonder which parts of SQL Server are responsible for specific functionality? Want to know what a HOBT is? I can’t promise answers to every question, but I can set you on the path to knowledge about the inner workings of SQL Server.
+
+Session Goals
+After this session, attendees will:
+
+Know how to query SQL Server to gain insight into its internal state
+Understand the primary components of SQL Server and how they relate
+Apply their understanding of internals to daily queries to improve application and database performance"
+</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30921</importID>
+      <speakers>
+        <speaker>
+          <id>30921</id>
+          <name>John Hidey</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to Silverlight</title>
+      <description>This session will walk you though building your first Silverlight data driven application.  </description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33655</importID>
+      <speakers>
+        <speaker>
+          <id>33655</id>
+          <name>Tim  Beamer</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Designing a Highly Available SQL environment</title>
+      <description>SQL Server is the database engine supporting the Line-of-Business applications that run your business, so how do you make sure it is always up and providing those critical services?  This session will look at several alternatives for designing and implementing a highly availble architecture for your SQL environment.  Options will be presented to give a range of availability scenarios based on Service Level Agreements, as well as budget.</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31102</importID>
+      <speakers>
+        <speaker>
+          <id>31102</id>
+          <name>John Sterrett</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Lunch Provided by Panera</title>
+      <description>Lunch Provided by Panera - 1st Floor Main Ballroom</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31627</importID>
+      <speakers>
+        <speaker>
+          <id>31627</id>
+          <name>Matt Van Horn</name>
+        </speaker>
+      </speakers>
+      <track>Beginner</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Intro to SQL Reporting Services 2008</title>
+      <description>Walkthrough on using SQL Reporting Services 2008 and Business Development Studio to develop reports in both tabular and graphical formats. I will cover grouping, sorting, formulas, drill down reports, and formatting for both printed and interactive versions.</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31626</importID>
+      <speakers>
+        <speaker>
+          <id>31626</id>
+          <name>Matt Van Horn</name>
+        </speaker>
+      </speakers>
+      <track>Beginner</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SSRS Interactive Reports</title>
+      <description>I will show how to take advantage the interactive features of SQL Reporting Services to allow your users to drill down from summaries to the details that drive them. Address some of the simple to implement features that can make your existing reports much more useable to your end users. Topics to be covered include: Graphing, Interactive Sorting, Grouping, and Drilldown Reports.</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31103</importID>
+      <speakers>
+        <speaker>
+          <id>31103</id>
+          <name>John Sterrett</name>
+        </speaker>
+      </speakers>
+      <track>Beginner</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Lunch Provided by Panera - 1st Floor Ballroom</title>
+      <description>Lunch is provided by Panera. We will ahve box lunches.</description>
+      <startTime>5/1/2010 12:00:00 AM</startTime>
+      <endTime>5/1/2010 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

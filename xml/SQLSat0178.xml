@@ -1,0 +1,440 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #178 - Moscow 2012</name>
+    <startDate>11/17/2012 12:00:00 AM</startDate>
+    <attendeeEstimate>150</attendeeEstimate>
+    <timezone>(GMT+03:00) Baghdad</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat178</twitterHashtag>
+    <venue>
+      <name>Business park "Krylatskye hill" (office Microsoft)</name>
+      <street>Krylatskaya str 17/1 </street>
+      <city>Moscow</city>
+      <state>, Russian Federation</state>
+      <zipcode>121614</zipcode>
+      <longitude>37.423897</longitude>
+      <latitude>55.770717</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>6</importID>
+      <name>Melissa Data Corp.</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.melissadata.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/931/EventSponsor_14597.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1079</importID>
+      <name>SQL.RU</name>
+      <label>Information sponsor</label>
+      <url>http://www.sql.ru/</url>
+      <imageURL>https://www.sql.ru/images/logo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>13266</importID>
+      <name>Dmitri Korotkevitch</name>
+      <label>
+      </label>
+      <description>Dmitri Korotkevitch is a Microsoft Data Platform MVP and Microsoft Certified Master, author of Pro SQL Server Internals and other books with years of experience working with SQL Server as an Application and Database Developer, Database Administrator, and Database Architect. 
+
+Dmitri specializes in the design, development, and performance tuning of complex OLTP systems that handle thousands of transactions per second around the clock. He blogs at: http://aboutsqlserver.com.</description>
+      <twitter>aboutsqlserver</twitter>
+      <linkedin>https://www.linkedin.com/pub/dmitri-korotkevitch/5/980/b7</linkedin>
+      <ContactURL>http://aboutsqlserver.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=aboutsqlserver</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>20271</importID>
+      <name>Mihail Mateev</name>
+      <label>
+      </label>
+      <description>Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Mentor for CEE, chapter lead, Microsoft Azure MVP, Microsoft Regional Director. He works as a Senior Solutions Architect at EPAM Systems, focused on Data Platform, IoT and cloud related solutions. He also worked many years like a Technical evangelist in the Infragistics. Last years Mihail was focused on various areas related to technology Microsoft: Data Platform, Visual Studio, ASP.Net, Windows client apps, Data Platform, and Microsoft Azure. Michael also has a PhD in cloud computing area. He is a university lecturer on Smart Homes and Smart Energy IoT Solutions.</description>
+      <twitter>mihailmateev</twitter>
+      <linkedin>http://www.linkedin.com/pub/mihail-mateev/1/6b3/4b1</linkedin>
+      <ContactURL>https://mmateev.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mihailmateev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15453</importID>
+      <name>Ivan Kosyakov</name>
+      <label>
+      </label>
+      <description>x</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>24364</importID>
+      <name>Sergey Olontsev</name>
+      <label>
+      </label>
+      <description>I have been working with SQL Server since SQL Server 2000 version as a database administrator, developer, consultant and trainer, focusing on high availability and disaster recovery solutions, ETL, troubleshooting and performance tuning, developing high performance solutions . I'm a regular speaker at SQL Server user group meetings, SQL Saturday events and other conferences. An owner of MCM certification and MVP award on SQL Server.</description>
+      <twitter>SergeyOlontsev</twitter>
+      <linkedin>http://linkedin.com/in/sergeyolontsev</linkedin>
+      <ContactURL>http://SergeyOlontsev.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SergeyOlontsev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>20270</importID>
+      <name>Mihail Mateev</name>
+      <label>
+      </label>
+      <description>Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Mentor for CEE, chapter lead, Microsoft Azure MVP, Microsoft Regional Director. He works as a Senior Solutions Architect at EPAM Systems, focused on Data Platform, IoT and cloud related solutions. He also worked many years like a Technical evangelist in the Infragistics. Last years Mihail was focused on various areas related to technology Microsoft: Data Platform, Visual Studio, ASP.Net, Windows client apps, Data Platform, and Microsoft Azure. Michael also has a PhD in cloud computing area. He is a university lecturer on Smart Homes and Smart Energy IoT Solutions.</description>
+      <twitter>mihailmateev</twitter>
+      <linkedin>http://www.linkedin.com/pub/mihail-mateev/1/6b3/4b1</linkedin>
+      <ContactURL>https://mmateev.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mihailmateev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22164</importID>
+      <name>Dmitry Pilugin</name>
+      <label>
+      </label>
+      <description>Dmitry Pilugin, is a SQL Server DB developer from Russia, Moscow. He works with SQL Server for more than ten years. Currently he works as a database developer lead, responsible for the development of production databases in the media research company. 
+
+Dmitry holds a blog about SQL Server query processing: QueryProcessor.com, where he writes about a query optimization and execution, and also likes to share his knowledge about it speaking at various community events and tech conferences. Data Platform Microsoft MVP since 2014.</description>
+      <twitter>https://twitter.com/SomewereSomehow</twitter>
+      <linkedin>http://www.linkedin.com/pub/pilugin-dmitry-somewheresomehow/2b/210/277</linkedin>
+      <ContactURL>http://www.queryprocessor.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/SomewereSomehow</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14636</importID>
+      <name>Вячеслав Гилев</name>
+      <label>
+      </label>
+      <description>https://www.facebook.com/gilev.ru</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.gilev.ru</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13050</importID>
+      <name>Dmitriy Kostylev</name>
+      <label>
+      </label>
+      <description>Работает в Лаборатории Касперского ведущим разработчиком баз данных. С SQL Server работает с 2000 года, участвуя в разнообразных проектов - от небольшого производства до одной из крупнейших баз знаний о программном обеспечении. Сконцентрирован на эффективности применяемых решений - от отдельных запросов и архитектуры решений до методологии разработки ПО. Активно участвует в жизни SQL-сообщества, выступая на конференциях с докладами об эффективном применении SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18665</importID>
+      <name>Mikhail Komarov</name>
+      <label>
+      </label>
+      <description>Главный специалист в ООО #171;Газпром-информ#187;. Занимается поддержкой существующих и реализацией новых систем, направленных на повышение эффективности работы в корпоративном сегменте. До работы в крупном корпоративном секторе работал тренером по информационным технологиям. Общий опыт работы в сфере ИТ составляет более 20 лет.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18814</importID>
+      <name>Andrey Korshikov</name>
+      <label>
+      </label>
+      <description>Работать с SQL Server начал в 2003 году. Довелось работать и сдавать сертификационные экзамены по версиям SQL Server от 2000 до 2012. Участник конференций SQLSaturday, Платформа, DevCon и TechEd. География выступлений от Тампы до Красноярска, от Санкт-Петербурга до Тбилиси. Основатель сообществ Krasnodar SQLamp;BI Usergroup и Global Russian Virtual Chapter. На данный момент являюсь PASS Regional Mentor for Central Eastern Europe. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13267</importID>
+      <name>Dmitri Korotkevitch</name>
+      <label>
+      </label>
+      <description>Dmitri Korotkevitch is a Microsoft Data Platform MVP and Microsoft Certified Master, author of Pro SQL Server Internals and other books with years of experience working with SQL Server as an Application and Database Developer, Database Administrator, and Database Architect. 
+
+Dmitri specializes in the design, development, and performance tuning of complex OLTP systems that handle thousands of transactions per second around the clock. He blogs at: http://aboutsqlserver.com.</description>
+      <twitter>aboutsqlserver</twitter>
+      <linkedin>https://www.linkedin.com/pub/dmitri-korotkevitch/5/980/b7</linkedin>
+      <ContactURL>http://aboutsqlserver.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=aboutsqlserver</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13049</importID>
+      <name>Dmitriy Kostylev</name>
+      <label>
+      </label>
+      <description>Работает в Лаборатории Касперского ведущим разработчиком баз данных. С SQL Server работает с 2000 года, участвуя в разнообразных проектов - от небольшого производства до одной из крупнейших баз знаний о программном обеспечении. Сконцентрирован на эффективности применяемых решений - от отдельных запросов и архитектуры решений до методологии разработки ПО. Активно участвует в жизни SQL-сообщества, выступая на конференциях с докладами об эффективном применении SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>14636</importID>
+      <speakers>
+        <speaker>
+          <id>14636</id>
+          <name>Вячеслав Гилев</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Методика поиска проблем в 1С через SQL Server</title>
+      <description>Описывается прием, который позволяет обнаружить проблему путем ее "усиления" на MS SQL Server</description>
+      <startTime>11/17/2012 12:00:00 AM</startTime>
+      <endTime>11/17/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18665</importID>
+      <speakers>
+        <speaker>
+          <id>18665</id>
+          <name>Mikhail Komarov</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Private cloud and SQL 2012</title>
+      <description>Private cloud and SQL 2012</description>
+      <startTime>11/17/2012 12:00:00 AM</startTime>
+      <endTime>11/17/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18814</importID>
+      <speakers>
+        <speaker>
+          <id>18814</id>
+          <name>Andrey Korshikov</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Reporting Services - от простого к сложному</title>
+      <description>Доклад расскажет новичкам как разрабатывать отчёты с нуля, а имеющие опыт создания отчётов узнают как расширить функциональность отчётов с помощью программного кода.</description>
+      <startTime>11/17/2012 12:00:00 AM</startTime>
+      <endTime>11/17/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13266</importID>
+      <speakers>
+        <speaker>
+          <id>13266</id>
+          <name>Dmitri Korotkevitch</name>
+        </speaker>
+      </speakers>
+      <track>DBD</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>"Это Моё" или вечная сага о блокировках и дедлоках</title>
+      <description>Почему в системах присутствуют блокировки и дедлоки? Как уровни изоляции в транзакциях влияют на поведение системы? Данный доклад поможет ответить на эти вопросы. Он объяснит, как SQL Server работает с блокировками, расскажет, как диагностировать проблемы связанные с конкурентным доступом к данным и, самое главное, как проектировать базы данных для оптимальной работы в многопользовательской среде. </description>
+      <startTime>11/17/2012 12:00:00 AM</startTime>
+      <endTime>11/17/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>20270</importID>
+      <speakers>
+        <speaker>
+          <id>20270</id>
+          <name>Mihail Mateev</name>
+        </speaker>
+      </speakers>
+      <track>DBD</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Spatial Data and Windows Azure SQL Database</title>
+      <description>Spatial Data is very important for the new applications, related with Data Visualization and BI. Windows Azure offers possibility to use 
+advantages of spatial data suing cloud computing. In this lecture will talk about the use of spatial data in the Windows Azure - loading data 
+from Windows Azure SQL Database Spatial, optimizing Windows Azure applications and their use of different types of customers: WEB based, WPF, WP7. We will learn how to import spatial data in different formats in Windows Azure SQL Database Spatial and will create a several sample Windows Azure applications, that use this data.</description>
+      <startTime>11/17/2012 12:00:00 AM</startTime>
+      <endTime>11/17/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13050</importID>
+      <speakers>
+        <speaker>
+          <id>13050</id>
+          <name>Dmitriy Kostylev</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Администрирование SQL Server для начинающих (2/2)</title>
+      <description>SQL Server уникален тем, что являясь промышленной СУБД, позволяет развернуть его без каких либо знаний - достаточно вставить запустить процедуру установки и после нескольких нажатий кнопки "Далее" компьютер получает возможность обрабатывать данные так же, как это делают серверы в крупнейших компаниях мира. Однако чтобы добиться эффектнивной работы, любому инструменту требуется настройка, способная раскрыть все его возможности. Разберемся, как нужно сконфигурировать компьютер перед установкой SQL Server, на что влияют параметры задаваемые при установке и посмотрим, как можно оптимизировать работу уже существующих экземпляров.</description>
+      <startTime>11/17/2012 12:00:00 AM</startTime>
+      <endTime>11/17/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13267</importID>
+      <speakers>
+        <speaker>
+          <id>13267</id>
+          <name>Dmitri Korotkevitch</name>
+        </speaker>
+      </speakers>
+      <track>DBD</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Дизайн для Производительности</title>
+      <description>Одной из ключевых проблем в IT командах является разделение ролей между разработчиками и администраторами БД. Разработчики проектируют схемы БД ставя легкость разработки во главу угла, не задумываясь о вопросах будущей производительности системы.
+
+Данный доклад покажет влияние различных решений принятых при дизайне и разработке на производительность системы. Доклад расскажет, как SQL Server хранит и работает с данными, а также обсудит преимущества, недостатки и оптимальные сценарии использования различных типов объектов и технологий доступных в SQL Server. 
+</description>
+      <startTime>11/17/2012 12:00:00 AM</startTime>
+      <endTime>11/17/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>20271</importID>
+      <speakers>
+        <speaker>
+          <id>20271</id>
+          <name>Mihail Mateev</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Windows Azure SQL Reporting for App developers</title>
+      <description>This talk is about how to deploy a report server project to Windows Azure SQL Reporting report server, and provide initial information for application developers who integrate reports hosted by Windows Azure SQL Reporting in their applications, as well as develop management tools against SQL Reporting report servers.</description>
+      <startTime>11/17/2012 12:00:00 AM</startTime>
+      <endTime>11/17/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15453</importID>
+      <speakers>
+        <speaker>
+          <id>15453</id>
+          <name>Ivan Kosyakov</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Бизнес-аналитикав SharePoint 2013</title>
+      <description>В докладе будут освещены вопросы публикации в SharePoint аналитических решений (BI) с помощью компонентов Excel Services (PowerPivot для SharePoint), PerformancePoint Services, Visio Services, Reporting Services и Bing Maps, а также вопросы отображения на различных мобильных устройствах.</description>
+      <startTime>11/17/2012 12:00:00 AM</startTime>
+      <endTime>11/17/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22164</importID>
+      <speakers>
+        <speaker>
+          <id>22164</id>
+          <name>Dmitry Pilugin</name>
+        </speaker>
+      </speakers>
+      <track>DBD</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Внутри оптимизатора запросов</title>
+      <description>В докладе будут рассмотрены внутренние механизмы работы оптимизатора. Будет рассмотрено и показано, какой путь проходит запрос от момента его получения оптимизатором, до итогового плана, какие структуры используются и чем при этом руководствуется оптимизатор.</description>
+      <startTime>11/17/2012 12:00:00 AM</startTime>
+      <endTime>11/17/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>24364</importID>
+      <speakers>
+        <speaker>
+          <id>24364</id>
+          <name>Sergey Olontsev</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Change Data Capture, Change Tracking и SSIS 2012</title>
+      <description>Доклад будет посвящен новым технологиям отслеживания изменений данных, которые появились в SQL Server 2008. Будет дан обзор этих технологий и сравнение как между собой, так и с другими технологиями отслеживания изменений данных. Отдельно будет рассмотрен вопрос об использовании этих технологий совместно с SQL Server Integration Services для инкрементальной загрузки данных в хранилище. И конечно будет приведено много практически примеров работы с CDC и Change Tracking.</description>
+      <startTime>11/17/2012 12:00:00 AM</startTime>
+      <endTime>11/17/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13049</importID>
+      <speakers>
+        <speaker>
+          <id>13049</id>
+          <name>Dmitriy Kostylev</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Администрирование SQL Server для начинающих (1/2)</title>
+      <description>SQL Server уникален тем, что являясь промышленной СУБД, позволяет развернуть его без каких либо знаний - достаточно вставить запустить процедуру установки и после нескольких нажатий кнопки "Далее" компьютер получает возможность обрабатывать данные так же, как это делают серверы в крупнейших компаниях мира. Однако чтобы добиться эффектнивной работы, любому инструменту требуется настройка, способная раскрыть все его возможности. Разберемся, как нужно сконфигурировать компьютер перед установкой SQL Server, на что влияют параметры задаваемые при установке и посмотрим, как можно оптимизировать работу уже существующих экземпляров.</description>
+      <startTime>11/17/2012 12:00:00 AM</startTime>
+      <endTime>11/17/2012 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,23 @@
+# SQLSaturday #393 - Redmond 2015
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+08:30:00|Michael Schaeffer|DBA|[Best Practices for Upgrading to SQL Server 2014](21128.md)
+08:30:00|Paul Turley|BI|[Tabular Models: Easier  Faster Than Cubes; Really? ](21869.md)
+08:30:00|Peter Myers|Design|[End-to-End SQL Server Master Data Services](22044.md)
+08:30:00|Argenis Fernandez|Performance|[Stored Procedures vs. Ad-Hoc SQL: Performance Showdown!](9786.md)
+09:45:00|David Eichner|BI|[SRS Report Builder for Business Intelligence](12801.md)
+09:45:00|Sanjay Mishra|DBA|[Business Continuity with SQL Server: Real-Life War Stories](23969.md)
+09:45:00|Vern Rabe|Performance|[Practical Fundamentals of Query Performance Tuning](27387.md)
+09:45:00|Arnie Rowland|TSQL|[RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works.](9868.md)
+11:00:00|Dandy Weyn|BI|[Power BI - getting it right - a full walkthrough](12167.md)
+11:00:00|Denis McDowell|DBA|[DevOps for the DBA - Bridging the Gap Between Infrastructure, Administration, and Development](13078.md)
+11:00:00|Steve Jones|Design|[Get Testing with tSQLt](24544.md)
+11:00:00|Aaron Buma|TSQL|[Organizing and Ranking SQL Result Sets](8828.md)
+13:30:00|Robert Davis|DBA|[Diagnosing Performance with Wait Statistics](11463.md)
+13:30:00|J May|DBA|[Columnstore Indexes in SQL Server 2014: Flipping the DW Fast](16842.md)
+13:30:00|John McAllister|Design|[Enterprise-grade MDM On SQL Server - the Keys to Success ](17157.md)
+13:30:00|Nicholas Cain|DBA|[WHAT HA/DR OPTION(S) ARE RIGHT FOR YOU](21424.md)
+14:45:00|Karen Lopez|DBA|[5+ Database Design Blunders and How To Avoid Them](17914.md)
+14:45:00|Steve Stedman|TSQL|[Exploring SQL Server  Join Types – INNER, OUTER, and much more](25752.md)
+14:45:00|Varun  Singh|DBA|[Case Study: How answers.microsoft.com Overcame the key Challenges of Upgrading to SQL Server 2014 ](25900.md)
+14:45:00|Marko Hotti|TSQL|[SQL Server 2016 Technical Overview on New Features](37061.md)

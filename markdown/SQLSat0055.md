@@ -1,0 +1,21 @@
+# SQLSaturday #55 - San Diego 2010
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Sumeet  Bansal|Track 2|[SQL at the Speed of Flash ](29618.md)
+00:00:00|Dean Richards|Track 2|[Query Tuning - Get it Right the First Time](29883.md)
+00:00:00|David Moutray|Track 1|[Database "Insecurity"](29936.md)
+00:00:00|David Moutray|Track 1|[Database  Antipatterns](29937.md)
+00:00:00|Steve Hendricks|Track 3|[Ace the Interview](30307.md)
+00:00:00|Steve Hendricks|Track 1|[Replication ABCs](30308.md)
+00:00:00|Jim Bears|Track 2|[SQL Design Patterns](30849.md)
+00:00:00|Lynn Langit|Track 1|[SQL Azure Deep Dive](31529.md)
+00:00:00|Mark Stewart|Track 2|[Implementing Fine-grained Data Security](31597.md)
+00:00:00|Matt Galaviz|Track 3|[XML Data Type](31614.md)
+00:00:00|Denny Cherry|Track 1|[Reading the SQL Server Execution Plan](31996.md)
+00:00:00|Denny Cherry|Track 1|[Getting SQL Service Broker Up and Running](31997.md)
+00:00:00|Rajmund Rzepecki|Track 3|[Reducing the impact of database changes on an app](32367.md)
+00:00:00|Tara Kizer|Track 2|[Performance Tuning with Traces](33313.md)
+00:00:00|Troy Gatchell|Track 3|[Caching your data with Microsoft AppFabric](33786.md)
+00:00:00|Bill Sheldon|Track 2|[Looking at LINQ](34512.md)
+00:00:00|David McCarter|Track 3|[Building nTier Apps with Entity Framework - Part 1](34625.md)
+00:00:00|David McCarter|Track 3|[Building nTier Apps with Entity Framework - Part 2](34626.md)

@@ -1,0 +1,182 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #916 - Bangladesh 2019</name>
+    <startDate>11/16/2019 12:00:00 AM</startDate>
+    <attendeeEstimate>120</attendeeEstimate>
+    <timezone>
+    </timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatBangladesh</twitterHashtag>
+    <venue>
+      <name>Microsoft Bangladesh</name>
+      <street>Laila Tower, 4th Floor, 8 Gulshan Avenue, Gulshan-1</street>
+      <city>Dhaka</city>
+      <state>Dhaka, Bangladesh</state>
+      <zipcode>1212</zipcode>
+      <longitude>90.4160949</longitude>
+      <latitude>23.7771775</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/916/EventSponsor_14095.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/916/EventSponsor_14130.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>99282</importID>
+      <name>Rahul Biswas</name>
+      <label>
+      </label>
+      <description>9+ years’ experience in Database design, Development, Migration on SQL Server 2000/2005/2008/2008 R2/2012.
+Hands on experience in creating, maintaining and tuning database objects like Tables, Views, Stored Procedures, User Defined Functions and System Functions using SQL Server, T-SQL and PL/SQL.
+Experience in Replication – Snapshot, Merge and Transactional on basis of business specifications. 
+Experience in creating Jobs, Alerts, SQL Mail Agent and SSIS Packages.
+Good experience with Analysis Services (SSAS), Reporting Services (SSRS) and Integration Services (SSIS) in SQL Server 2008.
+Expertise in developing Parameterized, Chart, Graph, Linked, Drill-down, and Drill-through And Cascading reports using SSRS.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://linkedin.com/in/rahul-biswas-77215130</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99284</importID>
+      <name>Saifullah Al Azad</name>
+      <label>
+      </label>
+      <description>Hi,
+I am azad from bangladesh. I provided speach about iis architecture, sql server, oop, c# advance programming etc under a community group in bangladesh named techforum user group. You can get our information from https://www.facebook.com/techforum.usergroup?fref=ts</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/saifullah-azad-7a860469</linkedin>
+      <ContactURL>www.dotnetbd.wordpress.com; https://social.technet.microsoft.com/Profile/md.%20saifullah%20al%20azad/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99786</importID>
+      <name>Ahsan Kabir</name>
+      <label>
+      </label>
+      <description>Ahsan Kabir is now working as software development project manager from last few years. He has started carrier as Software Engineer. He has more than twelve years of experience of working on large enterprise Application project i.e. Banking Solution, ERP solution. He has worked every phase of SDLC. Beside that he contributed his experience and skill on different professional forum and Microsoft technical community as technical speaker .He writes article on blog and assist other technical people providing problem solving answer through different forum. He is rewarded as MVP Awarded by Microsoft. He is the PASS chapter leader of Bangladesh-quot;techforum PASSquot;. Ahsan is very active in the developer community and volunteers his time for</description>
+      <twitter>ahsan_kabir_</twitter>
+      <linkedin>https://www.linkedin.com/in/Ahsan-Kabir-</linkedin>
+      <ContactURL>https://techforumbd.github.io/techforum/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ahsan_kabir_</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99378</importID>
+      <name>Md Shahadat Hossain Hemel</name>
+      <label>
+      </label>
+      <description>I am life long Student of software architecture. Now Working as a team lead in the NGFS Project in Leads Corporation.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99299</importID>
+      <name>M A A Mehedi Hasan</name>
+      <label>
+      </label>
+      <description>This is M A A Mehedi Hasan working in EBS Group since 2005. Starting career as a Software Developer, I am now Chief Technology Officer (CTO) of EBS Group. In this long journey, I have got opportunity to work with various technologies like Microsoft Data Platform, Telecom Value Added Service, and Audio/Video streaming.
+
+I have hands-on experience in managing Telecom Value Added projects, Web/App/Audio/Video streaming projects. Apart from these, I also manage large database, testing and deployment, performance tuning, long term capacity planning, and streamlining operational workflow.
+
+Being a member of techforumbd,  I regularly speak and organize sessions at local and virtual PASS chapters, SQL Saturdays, and Azure conferences.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/m-a-a-mehedi-hasan-0956298a</linkedin>
+      <ContactURL>https://www.techearth.xyz</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99386</importID>
+      <name>Zularbine Kamal</name>
+      <label>
+      </label>
+      <description>House-1, Road-1/B, Block-B,
+Noboudoy Housing Soceity
+Mohammadpur, Dhaka 1207
+		+8801715149996
+	zularbine@gmail.com, www.zularbine.com
+ZULARBINE KAMAL
+OBJECTIVE		Looking for a Technical position where I may be able to use well-honed skills in planning, coding and testing in order to deliver state-of-the-art software solutions for the company’s clientele.
+SKILLS  ABILITIES		•	Able to perform in different phases of software development lifecycle.  
+•	10+ (ten) years of experience in technology management of ICT solutions
+•	7+ (seven) years of experience on software development and testing of enterprise application.  
+•	Microsoft Certified Technology Specialist
+•	Programming skills in Java, C#, JavaScript, Nodejs
+•	Expert of Azure</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/zularbine-kamal-7574222/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99325</importID>
+      <name>A. Z. M. Jannat-ul Karim</name>
+      <label>
+      </label>
+      <description>With more than a decade of project management and process improvement experience in software development and deployment for manufacturing and distribution businesses, Karim has proven to be an invaluable resource providing oversight during ERP development and implementation projects. 
+ERP implementations require a large and varied array of skills and capabilities in order to be successful.  Businesses undertaking ERP transformations find it difficult to assemble project teams that possess sufficient skills, including ERP implementation experience. Having worked with various group of companies, analyzing and addressing ERP, Karim has provided businesses with the competencies that they don’t possess.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/in/azmkarim</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99326</importID>
+      <name>Mahid Choudhury</name>
+      <label>
+      </label>
+      <description>Bio About Mahid Choudhury</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/mahidcse/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+</GuidebookXML>

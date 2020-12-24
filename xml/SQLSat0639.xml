@@ -1,0 +1,617 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #639 - Sri Lanka 2017</name>
+    <startDate>8/12/2017 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT+06:00) Astana, Dhaka</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatSriLanka</twitterHashtag>
+    <venue>
+      <name>CIDA</name>
+      <street>"Sausiripaya" 123 Wijerama Mawatha</street>
+      <city>Colombo</city>
+      <state>Western, Sri Lanka</state>
+      <zipcode>00700</zipcode>
+      <longitude>79.8730821609497</longitude>
+      <latitude>6.90738833306928</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1970</importID>
+      <name>Fortude</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.fortude.co/</url>
+      <imageURL>https://fortude.co/wp-content/uploads/2017/06/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1973</importID>
+      <name>MOQdigital Asia Pacific (Pvt.) Ltd.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.moqdigital.com.au</url>
+      <imageURL>https://www.moqdigital.com.au/hubfs/MOQ_Digital_Sep2016/Images/logo-rgb-retina.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1711</importID>
+      <name>dinesQL Pvt Limited</name>
+      <label>Bronze Sponsor</label>
+      <url>http://dinesql.com/</url>
+      <imageURL>https://dinesql.com/assests/img/logo-1.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1979</importID>
+      <name>Ayra Analytics</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.ayraanalytics.com.au/</url>
+      <imageURL>https://www.sydpro.com.au/images/AYRA-Grey.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1981</importID>
+      <name>Mazarin (Pvt) Limited</name>
+      <label>Associate Sponsor</label>
+      <url>http://www.mazarin.io/</url>
+      <imageURL>https://intranet.mazarin.lk/images/mazarin_JIRA.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>67695</importID>
+      <name>Rushabh Mehta</name>
+      <label>
+      </label>
+      <description>Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
+
+Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
+
+</description>
+      <twitter>@rushabhmehta</twitter>
+      <linkedin>https://www.linkedin.com/in/rushabhbmehta</linkedin>
+      <ContactURL>http://blogs.solidq.com/RushabhMehta</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@rushabhmehta</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>63792</importID>
+      <name>Vijayakumar Thurupathan</name>
+      <label>
+      </label>
+      <description>Thuru is a versatile technical person who has diversified experience in many areas of Information Technology for 6 years. Cloud computing, security, software development, business intelligence and databases are his most preferred technology areas. 
+
+He is a frequent speaker in Sri Lanka .NET forum and Sri Lanka SQL Server Universe user groups. Thuru is the founder of Colombo Cloud Meet Up where he often talks about various cloud computing topics. Also he is a Microsoft MVP for Microsoft Azure.
+</description>
+      <twitter>thurutweets</twitter>
+      <linkedin>http://lk.linkedin.com/in/thuru/</linkedin>
+      <ContactURL>http://www.thuru.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=thurutweets</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67330</importID>
+      <name>Reza Rad</name>
+      <label>
+      </label>
+      <description>Reza Rad is a Microsoft Regional Director, MVP, author, trainer, speaker and consultant. He is a Microsoft Data Platform MVP for nine years from 2011.
+Reza wrote many books on Power BI subjects including the Power BI from Rookie to Rock Star, and Pro Power BI Architecture.
+Reza is the invited speaker at the world's well-known conferences such as Microsoft Ignite, Microsoft Business Applications Summit, Ignite Tour, PASS Summit, and many other conferences.
+Reza is an active blogger and writes regularly about Power BI at https://radacad.com.</description>
+      <twitter>Rad_Reza</twitter>
+      <linkedin>http://nz.linkedin.com/in/rezarad/</linkedin>
+      <ContactURL>http://radacad.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Rad_Reza</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67696</importID>
+      <name>Rushabh Mehta</name>
+      <label>
+      </label>
+      <description>Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
+
+Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
+
+</description>
+      <twitter>@rushabhmehta</twitter>
+      <linkedin>https://www.linkedin.com/in/rushabhbmehta</linkedin>
+      <ContactURL>http://blogs.solidq.com/RushabhMehta</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@rushabhmehta</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62411</importID>
+      <name>Dharmendra Keshari</name>
+      <label>
+      </label>
+      <description>Dharmendra Keshari has strong and in-depth experience in Database Management. Currently, working as Technical Specialist for Data Platform at Microsoft in Singapore and handling one of the most critical databases support for clients.
+
+Dharmendra is an avid, regular mentor on social media, helping several enthusiast in solving their problems related to Database management. he is co-leader and regular speaker at Singapore SQL Server Pass Chapter (User Group). He has done certification for “Microsoft SQL Server#174; 2008, Implementation” and “Maintenance amp; Administering Microsoft SQL Server 2012 Database”.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://sg.linkedin.com/in/dharmendra-keshari-a7043398</linkedin>
+      <ContactURL>http://dharmendrakeshari.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>63534</importID>
+      <name>Patrick Flynn</name>
+      <label>
+      </label>
+      <description>Patrick Flynn is a Senior Database Administrator with 10 years experience in large 24 x 7 enterprise environments. He is a certified master for SQL Server and a regular attendee of the PASS Summit.
+
+Has presented at SQLSaturday events in Sydney, Melbourne, Brisbane and Auckland, Edmonton and Calgary, Oslo and Cambridge</description>
+      <twitter>sqllensman</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqllensman.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqllensman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67297</importID>
+      <name>Dinesh Asanka</name>
+      <label>
+      </label>
+      <description>Dinesh Asanka MVP for more than 8 years and has experience over 15 years with SQL Server different versions. He has spoken in Sri Lanka as well as out side conferences.  Regular writer at SQL-Server-Performance.com and co-authored couple of books on SQL Server.  Visiting Lecturer at Sri Lanka Institute of Information Technology (SLIIT), Sri Lanka on subjects such as Database Administration, Big Data Analytics, Data Security, Data warehousing amp; Data Mining at B.Sc and M.Sc level. 
+Currently, reading for Mphil in the areas of data warehouse and fuzzy technology at University of Moratuwa, Sri Lanka.</description>
+      <twitter>@dineshasanka</twitter>
+      <linkedin>https://lk.linkedin.com/in/dineshasanka</linkedin>
+      <ContactURL>http://htttp://dbfriend.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@dineshasanka</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67714</importID>
+      <name>Dinesh Priyankara</name>
+      <label>
+      </label>
+      <description>Dinesh is an experienced professional and database enthusiast with skills in database management systems and business intelligence. Possessing over 18 years of experience on data related technologies, he does training, consulting, and is a top contributor to the local SQL Server community. In recognition of his contributions and expertise he has demonstrated, he was awarded the Microsoft Most Valuable Professional (MVP) award for SQL Server for 13 consecutive years since 2006.
+He is a Subject Matter Expert on SQL Server exams and has contributed for SQL Server 2012, 2016, 2017 and Azure Data Engineering exam development and Job Task Analysis (JTA).
+Dinesh is the Founder/Principal Architect of dinesQL (Pvt) Ltd (http://dinesql.com). In his</description>
+      <twitter>http://twitter.com/dinesh_priya</twitter>
+      <linkedin>http://lk.linkedin.com/in/dineshpriyankara/</linkedin>
+      <ContactURL>http://dinesql.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/dinesh_priya</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67337</importID>
+      <name>Leila Etaati</name>
+      <label>
+      </label>
+      <description>Leila Etaati is the First Microsoft AI MVP in New Zealand and Australia, as well as a Data Platform MVP. She has a Ph.D. from the University of Auckland and is the co-director and data scientist in RADACAD company with many clients around the world. Additionally, she is the co-organizer of Microsoft Business Intelligence and Power BI Use group in Auckland with more than 1300 members. Leila has also co-organized 3 main conferences in Auckland: SQL Saturday Auckland (from 2015), Difinity (from 2017) and Global AI Bootcamp. She is a data scientist, BI consultant, trainer, and speaker. She is a well-known International speaker to many conferences such as MS Ignite, SQL PASS, Data Platform Summit, SQL Saturday, Power BI World Tour and in Europe, USA, Asia, Australia, and NZ. She has over 10 years’ experience with databases and software systems. Leila is an active Technical Microsoft AI blogger in RADACAD.</description>
+      <twitter>@leila_etaati</twitter>
+      <linkedin>https://nz.linkedin.com/pub/leila-etaati/36/46/b03</linkedin>
+      <ContactURL>http://blog.radacad.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@leila_etaati</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67198</importID>
+      <name>Dinesh Priyankara</name>
+      <label>
+      </label>
+      <description>Dinesh is an experienced professional and database enthusiast with skills in database management systems and business intelligence. Possessing over 18 years of experience on data related technologies, he does training, consulting, and is a top contributor to the local SQL Server community. In recognition of his contributions and expertise he has demonstrated, he was awarded the Microsoft Most Valuable Professional (MVP) award for SQL Server for 13 consecutive years since 2006.
+He is a Subject Matter Expert on SQL Server exams and has contributed for SQL Server 2012, 2016, 2017 and Azure Data Engineering exam development and Job Task Analysis (JTA).
+Dinesh is the Founder/Principal Architect of dinesQL (Pvt) Ltd (http://dinesql.com). In his</description>
+      <twitter>http://twitter.com/dinesh_priya</twitter>
+      <linkedin>http://lk.linkedin.com/in/dineshpriyankara/</linkedin>
+      <ContactURL>http://dinesql.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/dinesh_priya</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>65565</importID>
+      <name>Hansamali Gamage</name>
+      <label>
+      </label>
+      <description>Hansamali Gamage is an experienced professional and Microsoft MVP in Visual Studio and Technologies from Sri Lanka. She possesses 5+ years of experience in. NET stack and Azure related services. She is a frequent speaker in SL .NET Forum, SL Data community and global SQLSaturday events and Data camps. She is a tech enthusiasts and an award winning writer on Microsoft Tech Net forum.</description>
+      <twitter>https://twitter.com/HansamaliGamage</twitter>
+      <linkedin>https://www.linkedin.com/in/hansamali-gamage-37777a50/</linkedin>
+      <ContactURL>http://hansamaligamage.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/HansamaliGamage</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62994</importID>
+      <name>Pinal Dave</name>
+      <label>
+      </label>
+      <description>Pinal Dave is a SQL Server Performance Tuning Expert and an independent consultant. He has authored 12 SQL Server database books, 30 Pluralsight courses and has written over 5000 articles on the database technology on his blog at a https://blog.sqlauthority.com. Along with 16+ years of hands-on experience, he holds a Masters of Science degree and a number of database certifications.</description>
+      <twitter>pinaldave</twitter>
+      <linkedin>http://www.linkedin.com/in/pinaldave</linkedin>
+      <ContactURL>https://blog.sqlauthority.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pinaldave</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67334</importID>
+      <name>Reza Rad</name>
+      <label>
+      </label>
+      <description>Reza Rad is a Microsoft Regional Director, MVP, author, trainer, speaker and consultant. He is a Microsoft Data Platform MVP for nine years from 2011.
+Reza wrote many books on Power BI subjects including the Power BI from Rookie to Rock Star, and Pro Power BI Architecture.
+Reza is the invited speaker at the world's well-known conferences such as Microsoft Ignite, Microsoft Business Applications Summit, Ignite Tour, PASS Summit, and many other conferences.
+Reza is an active blogger and writes regularly about Power BI at https://radacad.com.</description>
+      <twitter>Rad_Reza</twitter>
+      <linkedin>http://nz.linkedin.com/in/rezarad/</linkedin>
+      <ContactURL>http://radacad.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Rad_Reza</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62951</importID>
+      <name>Satya Jayanty</name>
+      <label>
+      </label>
+      <description>My experience surrounded with high focus on the data platform with a track record of defining strategy, designing and delivering digital transformation  migrations with major enhancements to current working methods.  Worked in a capacity of Head of Data Engineering, Enterprise Data Architect and Solutions 
+
+Key career accomplishment  recognition as an industry expert  technical excellence from the Microsoft as Data Platform Most Valuable Professional (MVP) recognition since the year 2006 (13 years as MVP and counting), which recognizes exceptional technical community leaders worldwide who actively deliver, present  share their extraordinary contributions, high quality, and real-world expertise.
+Twitter pod (http://twitter.com/sqlmast</description>
+      <twitter>sqlmaster</twitter>
+      <linkedin>https://uk.linkedin.com/sqlmaster</linkedin>
+      <ContactURL>http://www.sqlserver-qa.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlmaster</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67570</importID>
+      <name>Haritha Thilakarathne</name>
+      <label>
+      </label>
+      <description>Haritha Thilakarathne is a MVP in Artificial Intelligence based in Melbourne, Australia. He has hands on experience with Machine Learning, Deep Learning, Computer Vision, Microsoft AI stack and developing intelligent applications. Haritha is a research scholar at La Trobe University and reading for his PhD on Deep Learning with the collaboration of Australian Institute of Sport.</description>
+      <twitter>https://twitter.com/naadiya007?lang=en</twitter>
+      <linkedin>https://www.linkedin.com/in/hthilakarathne/</linkedin>
+      <ContactURL>https://naadispeaks.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/naadiya007?lang=en</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67440</importID>
+      <name>Shamil Sadique</name>
+      <label>
+      </label>
+      <description>Shamil has over 8 years of experience working in the field of Database Administration with variety of database technologies including Microsoft SQL Server, Oracle, MySQL and MongoDB. Currently he is working as a Senior Production DBA (Oracle/MySQL) at Pearson Lanka (Pvt) Ltd. He is a Microsoft Certified Solutions Expert (MCSE) in SQL Server 2012 and an Oracle Database 11g Administrator Certified Associate (OCA). He is also certified in ITIL® Foundation Level, while holding a Bachelor’s Degree in Management Information Systems from the University College Dublin - National University of Ireland, Dublin.</description>
+      <twitter>shamilsaleem</twitter>
+      <linkedin>https://lk.linkedin.com/in/shamilsaleem</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=shamilsaleem</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>62994</importID>
+      <speakers>
+        <speaker>
+          <id>62994</id>
+          <name>Pinal Dave</name>
+        </speaker>
+      </speakers>
+      <track>Database Development  Administration</track>
+      <location>
+        <name>Auditorium (200)</name>
+      </location>
+      <title>Kick Start! SQL Server 2014/2016 Performance Tips and Tricks</title>
+      <description>Every new release of SQL Server brings a whole load of new features that an administrator can add to their arsenal of efficiency. SQL Server 2014/2016 has introduced many new features. In this session we will be learning quite a few of the new features of SQL Server 2014/2016. 
+
+Here is the glimpse of the features we will cover in this session.
+•	live plans for long-running queries
+•	transaction durability and its impact on queries
+•	new cardinality estimate for optimal performance
+•	In-memory OLTP optimization of superior query performance
+•	columnstore indexes and performance tuning
+•	Query Store
+•	Temporal Tables.
+
+This 75 minutes will be the most productive time for any DBA and Developer who wants to quickly jumpstart with SQL Server 2014 and its new features.</description>
+      <startTime>8/12/2017 2:00:00 PM</startTime>
+      <endTime>8/12/2017 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67337</importID>
+      <speakers>
+        <speaker>
+          <id>67337</id>
+          <name>Leila Etaati</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence  Data Analytics</track>
+      <location>
+        <name>Auditorium (200)</name>
+      </location>
+      <title>On-premises Machine Learning: SQL Server 2016 with R</title>
+      <description>The R server 2016 provides many functionalities for database developers. It helps us to get more insight out of data by applying descriptive, predictive, and prescriptive analysis on data which located in SQL server 2016.  In this session, first I will provide some descriptions on the descriptive, predictive, and prescriptive analysis. Then I will discuss what algorithm we can use to reach these three analysis using R. Finally, I will show a couple of demos on each of these type of analysis and will present  how to write them in SQL Server 2016. the process of writing R code in SQL Server 2016 will be presented and the best practice for doing that also explained.</description>
+      <startTime>8/12/2017 10:45:00 AM</startTime>
+      <endTime>8/12/2017 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>67330</importID>
+      <speakers>
+        <speaker>
+          <id>67330</id>
+          <name>Reza Rad</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence  Data Analytics</track>
+      <location>
+        <name>Auditorium (200)</name>
+      </location>
+      <title>10 Amazing Things About Power BI You Don't Know</title>
+      <description>Have you used Power BI for a real-time dashboard? Have you looped through source files in your Power Query and applied custom functions on them? Have you changed your data model to help Power QA to respond intelligently? Have you heard of structured columns in Power Query? Have you used Calculated Tables in DAX? Have you used Power BI Embedded? Have you done many other amazing things with Power BI?
+
+In this session you can expect many live demos and to be impressed by the extraordinary things you can do with Power BI. You will learn tips and tricks to empower your Power BI solution. Tips and tricks that you learn in this session helps you to make your Power BI solution more scale-able, robust, and with high performance.</description>
+      <startTime>8/12/2017 9:30:00 AM</startTime>
+      <endTime>8/12/2017 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>67334</importID>
+      <speakers>
+        <speaker>
+          <id>67334</id>
+          <name>Reza Rad</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence  Data Analytics</track>
+      <location>
+        <name>Conference Room (55)</name>
+      </location>
+      <title>Data Preparation is the Keystone; Power Query is Building Block</title>
+      <description>Prepare to be amazed with what you can achieve using Power Query in this demo-heavy session. Power Query is the data extraction, transformation, and mash up tool. It can be accessed through Excel or from Power BI Desktop. There are numerous data transformation features that can be used to solve real-world data preparation challenges.
+
+We will use customer case studies to go through scenarios of preparing data for modelling, and visualization. You will learn how to use features of Power Query such as generators, custom functions, and lots of built-in functions to solve those scenarios. You will also learn some data preparation techniques through Excel itself.</description>
+      <startTime>8/12/2017 3:15:00 PM</startTime>
+      <endTime>8/12/2017 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62951</importID>
+      <speakers>
+        <speaker>
+          <id>62951</id>
+          <name>Satya Jayanty</name>
+        </speaker>
+      </speakers>
+      <track>Cloud  Mobile</track>
+      <location>
+        <name>Conference Room (55)</name>
+      </location>
+      <title>Big Data with Azure: Where to begin? Concepts and Best Practices</title>
+      <description>In order to ascertain the abilities of cloud computing platform, let us overview what is available  offered on Microsoft Azure.
+
+Microsoft Azure has the ability to move, store and analyze data within the cloud. It is essential to evaluate multiple opportunities and options with Microsoft Azure data insights. In this session let us talk about strategies on data storage, data partitioning and availability options with Azure. A tour on how best these Azure components can help you achieve success for your Big Data platform.</description>
+      <startTime>8/12/2017 2:00:00 PM</startTime>
+      <endTime>8/12/2017 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67570</importID>
+      <speakers>
+        <speaker>
+          <id>67570</id>
+          <name>Haritha Thilakarathne</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence  Data Analytics</track>
+      <location>
+        <name>Lecture Room (40)</name>
+      </location>
+      <title>A Journey of a Data Point through Cortana Intelligence Suite</title>
+      <description>Cortana Analytics is a suite of fully managed Business Intelligence (BI), Big Data, and Advanced Analytics service offerings from Microsoft in the Azure Cloud. A raw data point comes from a user input or from an IoT sensor gets the real value through these services. Session discusses about the features and the abilities of Cortana Intelligence Suite.</description>
+      <startTime>8/12/2017 2:00:00 PM</startTime>
+      <endTime>8/12/2017 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67198</importID>
+      <speakers>
+        <speaker>
+          <id>67198</id>
+          <name>Dinesh Priyankara</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence  Data Analytics</track>
+      <location>
+        <name>Conference Room (55)</name>
+      </location>
+      <title>Cloud Data Warehousing: Azure SQL Data Warehouse</title>
+      <description>The heart of almost all Business Intelligence solutions; Relational Data Warehouse, has been servicing us for decades making the implementation is complete and success. It was always an On-Premises database, but now it is available as a Database-as-a-Service with Microsoft Azure, called Azure SQL Data Warehouse. It is a MPP cloud-based, scale-out relational database that supports workloads from few hundred gigabytes to petabytes of data and it addresses all modern requirements in data warehousing. Let’s talk about traditional On-Premises data warehouse little bit and then discuss about Azure SQL Data Warehouse and implementation of it.</description>
+      <startTime>8/12/2017 10:45:00 AM</startTime>
+      <endTime>8/12/2017 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>67695</importID>
+      <speakers>
+        <speaker>
+          <id>67695</id>
+          <name>Rushabh Mehta</name>
+        </speaker>
+      </speakers>
+      <track>Cloud  Mobile</track>
+      <location>
+        <name>Auditorium (200)</name>
+      </location>
+      <title>Getting started with SQL Server in Azure</title>
+      <description>Azure offers a range of data management technologies and options with the promise of no maintenance overhead. In this session, we will learn about the 2 flavors of SQL Server data platform available in Azure and deep dive into how you can start taking advantage of Azure SQL DB to complement your on-premise data management solutions and how you can build a strategy for moving to the cloud.</description>
+      <startTime>8/12/2017 3:15:00 PM</startTime>
+      <endTime>8/12/2017 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62411</importID>
+      <speakers>
+        <speaker>
+          <id>62411</id>
+          <name>Dharmendra Keshari</name>
+        </speaker>
+      </speakers>
+      <track>Database Development  Administration</track>
+      <location>
+        <name>Conference Room (55)</name>
+      </location>
+      <title>SQL Server 2016 Query Store</title>
+      <description>The Query Store feature is a game changer for how SQL Server professionals troubleshoot query performance. It provides the ability to natively capture baseline data within SQL Server. Using the performance metrics the Query Store records, we can decide which Execution Plan SQL Server should use when executing a specific query.
+During this session we will take a thorough look at the Query Store, its architecture, the build-in reporting, DMVs and the performance impact of enabling the Query Store. No matter if you are a DBA or developer, the Query Store has information that can help you</description>
+      <startTime>8/12/2017 12:00:00 PM</startTime>
+      <endTime>8/12/2017 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67714</importID>
+      <speakers>
+        <speaker>
+          <id>67714</id>
+          <name>Dinesh Priyankara</name>
+        </speaker>
+      </speakers>
+      <track>General  Other</track>
+      <location>
+        <name>Auditorium (200)</name>
+      </location>
+      <title>The Great Data Panel Discussion</title>
+      <description>A panel discussion on SQL Server, Business Intelligence and Analytics topics featuring all the speakers of SQLSaturday Sri Lanka. Ask them the questions that you want! The ultimate finale to a day of learning awesomeness! The best way to summarize what you learnt throughout the day!</description>
+      <startTime>8/12/2017 4:30:00 PM</startTime>
+      <endTime>8/12/2017 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67696</importID>
+      <speakers>
+        <speaker>
+          <id>67696</id>
+          <name>Rushabh Mehta</name>
+        </speaker>
+      </speakers>
+      <track>Database Development  Administration</track>
+      <location>
+        <name>Conference Room (55)</name>
+      </location>
+      <title>Columnstore Indexes with SQL Server 2016</title>
+      <description>The columnstore index is the standard for storing and querying large data warehousing fact tables. It uses column-based data storage and query processing to achieve up to 10x query performance gains in your data warehouse over traditional row-oriented storage, and up to 10x data compression over the uncompressed data size. Beginning with SQL Server 2016, columnstore indexes enable operational analytics, the ability to run performant real-time analytics on a transactional workload. 
+
+In this session, you will learn all about columnstore indexes and how to start taking advantage of this technology to achieve true real-time analytics.</description>
+      <startTime>8/12/2017 9:30:00 AM</startTime>
+      <endTime>8/12/2017 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>63792</importID>
+      <speakers>
+        <speaker>
+          <id>63792</id>
+          <name>Vijayakumar Thurupathan</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence  Data Analytics</track>
+      <location>
+        <name>Auditorium (200)</name>
+      </location>
+      <title>Build data driven IoT analytics with Azure</title>
+      <description>Internet of Things (IoT) is one of the emerging technology which transforms many different industries.  IoT often produce large amount of data which is analysed in different levels. Data Analytics and Business Intelligence take a different landscape in IoT.  We use different tools and techniques with the power of Cloud to solve the challenges and provide solutions. This session will provide you the information you required to get started with the IoT data analytics with the real case driven scenario.</description>
+      <startTime>8/12/2017 12:00:00 PM</startTime>
+      <endTime>8/12/2017 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67297</importID>
+      <speakers>
+        <speaker>
+          <id>67297</id>
+          <name>Dinesh Asanka</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence  Data Analytics</track>
+      <location>
+        <name>Lecture Room (40)</name>
+      </location>
+      <title>Using Neural Network for Prediction with Microsoft Technologies</title>
+      <description>Neural Network is common thus complex technique in Data Analytics. Azure Machine Learning and SQL Server Data Mining has the option of using Neural Network for different purposes.</description>
+      <startTime>8/12/2017 12:00:00 PM</startTime>
+      <endTime>8/12/2017 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>63534</importID>
+      <speakers>
+        <speaker>
+          <id>63534</id>
+          <name>Patrick Flynn</name>
+        </speaker>
+      </speakers>
+      <track>Database Development  Administration</track>
+      <location>
+        <name>Lecture Room (40)</name>
+      </location>
+      <title>Database Corruption - Advanced Recovery Techniques</title>
+      <description>Being able to monitor, diagnose and recover from Database Corruption is  a critical skill for any SQL Server DBA. 
+In this session we will walk through the techniques required to detect and repair various forms of Corruption 
+Using a number of example corrupted database we will explore how to determine and fix corruption while avoiding some of the common mistakes.
+Warning: Hex Editors and DBCC Page dumps will be involved!</description>
+      <startTime>8/12/2017 10:45:00 AM</startTime>
+      <endTime>8/12/2017 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>67440</importID>
+      <speakers>
+        <speaker>
+          <id>67440</id>
+          <name>Shamil Sadique</name>
+        </speaker>
+      </speakers>
+      <track>Database Development  Administration</track>
+      <location>
+        <name>Lecture Room (40)</name>
+      </location>
+      <title>A JSON's Journey through SQL Server</title>
+      <description>This session talks about the newly introduced built-in JSON support of SQL Server. Session will compare the JSON support offered with that of the XML support, comparing and contrasting them on different aspects. Also will walkthrough the new functions introduced with regards to JSON support, performance aspects and real world scenarios on how to get the best out of this feature.</description>
+      <startTime>8/12/2017 3:15:00 PM</startTime>
+      <endTime>8/12/2017 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>65565</importID>
+      <speakers>
+        <speaker>
+          <id>65565</id>
+          <name>Hansamali Gamage</name>
+        </speaker>
+      </speakers>
+      <track>Cloud  Mobile</track>
+      <location>
+        <name>Lecture Room (40)</name>
+      </location>
+      <title>Let's make a complex dataset simple using Azure Cosmos DB</title>
+      <description>Azure Cosmos DB is an evolution of Azure Document DB. 
+It's the industry first globally distributed database service, allow you to scale storage and throughput across many geographical regions with promising low latency.
+Cosmos DB supports for multi model database, different types of database engines like key-value, document, graph and multi API support like SQL, Azure Table Storage, Gremlin, MongoDB.
+Let's see in action with a demo, how you can transfer your complex data into a simpler format with Document API and scale it in different regions with specific storage and throughput.</description>
+      <startTime>8/12/2017 9:30:00 AM</startTime>
+      <endTime>8/12/2017 10:30:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

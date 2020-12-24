@@ -1,0 +1,34 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #1023 – Haiti – Virtual 2021</name>
+    <startDate>3/27/2021 12:00:00 AM</startDate>
+    <attendeeEstimate>500</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatHaiti</twitterHashtag>
+    <venue>
+      <name>Haiti</name>
+      <street>Port-au-Prince, Haiti</street>
+      <city>Port-au-Prince</city>
+      <state>Ouest Department, Haiti</state>
+      <zipcode>HT 6118</zipcode>
+      <longitude>-72.3074326</longitude>
+      <latitude>18.594395</latitude>
+    </venue>
+  </guide>
+  <speakers>
+    <speaker>
+      <importID>109291</importID>
+      <name>Jean Joseph</name>
+      <label>
+      </label>
+      <description>Highly experienced in Big Data and traditional data technologies with a history of successes in designing, implementing complex technical projects for diverse businesses in various stages of their development. Acknowledged as a leader capable of mentoring teams of different backgrounds and talents and inspiring individual efforts to deliver. Organized and detail-oriented, with a positive pro-active and hardworking attitude. Performance history reflects a highly analytical strategic thinker with strengths in defining solutions and executing programs that have been invaluable to an all-encompassing range of projects and positions.</description>
+      <twitter>garella79</twitter>
+      <linkedin>https://www.linkedin.com/in/jeandjoseph/</linkedin>
+      <ContactURL>http://tsqlhelp.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=garella79</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+</GuidebookXML>

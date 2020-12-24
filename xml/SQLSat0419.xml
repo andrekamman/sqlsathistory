@@ -1,0 +1,406 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #419 - Bratislava 2015</name>
+    <startDate>6/20/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>85</attendeeEstimate>
+    <timezone>(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatSlovakia</twitterHashtag>
+    <venue>
+      <name>Microsoft Slovakia, Apollo Business Center II, Prievozská 4D</name>
+      <street>Prievozská 4D</street>
+      <city>Bratislava</city>
+      <state>Bratislavský, Slovakia</state>
+      <zipcode>821 09</zipcode>
+      <longitude>17.1398296</longitude>
+      <latitude>48.1459808</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1405</importID>
+      <name>COZYROC</name>
+      <label>Gold Sponsor</label>
+      <url>http://bit.ly/cozyrocssis</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/978/EventSponsor_14586.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1457</importID>
+      <name>SolidQ CEE</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.solidq.com</url>
+      <imageURL>http://www.joyfulcraftsmen.com/public/solidqlogo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS USE ONLY</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>24795</importID>
+      <name>Mladen Prajdić</name>
+      <label>
+      </label>
+      <description>Mladen Prajdić is a Data Platform MVP from Slovenia. He's been programming for 20 years, developing diﬀerent types of applications in .Net (C#) and SQL Server, ranging from standard line-of-business, image-processing applications to high performace and IoT applications. He's a regular speaker at various conferences and usergroup meetings, really likes to optimize slow SQL statements, analyze performance, and find unconventional solutions to difficult SQL Server problems. In his free time, he also develops a very popular add-in for SSMS, called the SSMS Tools Pack (www.ssmstoolspack.com).</description>
+      <twitter>@MladenPrajdic</twitter>
+      <linkedin>https://www.linkedin.com/in/mladenprajdic</linkedin>
+      <ContactURL>http://weblogs.sqlteam.com/mladenp</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@MladenPrajdic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>25111</importID>
+      <name>Gerhard Brueckl</name>
+      <label>
+      </label>
+      <description>Gerhard has been working with Microsoft BI tools since 2006 mainly focusing on Microsoft SQL Server and its components. As a consultant and architect he designed various enterprise BI solutions primary in the German-speaking areas. His personal interest has always been on analytical databases and their capabilities. In 2012 he achieved the SSAS Maestro certification. He is also very active in the community, has its own blog and speaks at conferences all over the world on a regular basis.</description>
+      <twitter>gbrueckl</twitter>
+      <linkedin>http://at.linkedin.com/in/gbrueckl/</linkedin>
+      <ContactURL>http://blog.gbrueckl.at</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=gbrueckl</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33770</importID>
+      <name>Tomaž Kaštrun</name>
+      <label>
+      </label>
+      <description>Tomaž Kaštrun is BI developer and data analyst. His main focus are data mining, T-SQL development, programming and query optimization. He has been working with SQL server since version 2000. He is Microsoft Certified Professional, Microsoft MVP for data platform and Microsoft trainer.</description>
+      <twitter>@tomaz_tsql</twitter>
+      <linkedin>http://www.linkedin.com/tomaz.kastrun</linkedin>
+      <ContactURL>http://www.tomaztsql.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@tomaz_tsql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13582</importID>
+      <name>Dejan Sarka</name>
+      <label>
+      </label>
+      <description>Dejan Sarka, MCT and Data Platform MVP, is an independent trainer and consultant that focuses on development of database and business intelligence applications. Besides projects, he spends about half of his time on training and mentoring. He is the founder of the Slovenian SQL Server and .NET Users Group. Dejan Sarka is the main author or co-author of eighteen books about databases and SQL Server. Dejan Sarka has also developed many courses and seminars for Microsoft, Radacad, SolidQ, and Pluralsight.</description>
+      <twitter>DejanSarka</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.solidq.com/dsarka/Home.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DejanSarka</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>20753</importID>
+      <name>Miloš Radivojević</name>
+      <label>
+      </label>
+      <description>Miloš Radivojević is a database consultant located in Vienna, Austria. He is Data Platform MVP and specializes in SQL Server for application developers and performance and query tuning. Currently, he works as a principal database consultant in bwin GVC (the largest regulated online gaming company in the world). He is co-founder of the SQL Pass Austria and speaks regularly at local and international database conferences. He is also co-author of the books SQL Server 2016 Developer's Guide, SQL Server 2017 Developer's Guide and Mastering SQL Server 2017.</description>
+      <twitter>MilosSQL</twitter>
+      <linkedin>http://at.linkedin.com/pub/milos-radivojevic/1b/7bb/290/de</linkedin>
+      <ContactURL>https://milossql.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MilosSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13583</importID>
+      <name>Dejan Sarka</name>
+      <label>
+      </label>
+      <description>Dejan Sarka, MCT and Data Platform MVP, is an independent trainer and consultant that focuses on development of database and business intelligence applications. Besides projects, he spends about half of his time on training and mentoring. He is the founder of the Slovenian SQL Server and .NET Users Group. Dejan Sarka is the main author or co-author of eighteen books about databases and SQL Server. Dejan Sarka has also developed many courses and seminars for Microsoft, Radacad, SolidQ, and Pluralsight.</description>
+      <twitter>DejanSarka</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.solidq.com/dsarka/Home.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DejanSarka</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36641</importID>
+      <name>Vedran Kesegic</name>
+      <label>
+      </label>
+      <description>Vedran Kesegic is a Microsoft Certified Master for SQL Server, with Oracle background. With 14+ years enjoyed in exploration of SQL Server depths, developing smart algorithms, optimizing SQL Servers and SANs. He is the author of XDetails, Addin for SQL Management Studio that shows detailed info about indexes and other objects. He likes to hang out, share knowledge, and talk about more or less important things in life.</description>
+      <twitter>@VedranKesegic</twitter>
+      <linkedin>https://hr.linkedin.com/in/vedrankesegic</linkedin>
+      <ContactURL>http://blog.sqlxdetails.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@VedranKesegic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35769</importID>
+      <name>Tobias Koprowski</name>
+      <label>
+      </label>
+      <description>Founder of Shadowland Consulting. In January 2015 decided to permanently leave Poland and discover new worlds. Actually settled in Hucknall (The Last home of The Byron Family). Community leader focused on SQL Server, SharePoint, security, collaboration and ITIL, DR, BCM, and SLA. Love licensing stuff. 
+
+Microsoft Certified Trainer, freelancer, and consultant. Subject Matter Expert at Microsoft. Member of Microsoft Terminology Community, Friends of RedGate PLUS, PASS, ISSA, ACM and more. Since 1st July 2010 Data Platform MVP. Creator of SQLDAY Conference and Conference CEO 2009-2011. Co-Leader of PASS East Midlands Group. Speaker at group meetings and conferences. STEM Ambassador. 
+
+Traveler. Coffee Addicted.</description>
+      <twitter>@KoprowskiT</twitter>
+      <linkedin>https://uk.linkedin.com/in/koprowskit</linkedin>
+      <ContactURL>http://koprowskit.eu/geek/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KoprowskiT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36250</importID>
+      <name>Tanja Vukov</name>
+      <label>
+      </label>
+      <description>Tanja Vukov, PhD – research associate at Institute for Biological Research, University of Belgrade. She is an expert in biostatistics and her role is to transform data into meaningful scientific conclusions. As a bio-analyst she helped to develop new practices in a field of agriculture and medicine. She published more than 20 papers in leading international scientific journals. She was a speaker on using different Azure technologies. She holds a PhD in Evolutionary biology. </description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10981</importID>
+      <name>Boris Hristov</name>
+      <label>
+      </label>
+      <description>Boris is a SQL Server Consultant, but also an Author for Pluralsight and a SQL Server MVP. He is frequently speaking at conferences all accross Europe and is heavily involved in training students and organizations in what he calls quot;The Art of SQL Serverquot;. Boris is frequently blogging and is the host of SQLHangouts.</description>
+      <twitter>https://twitter.com/BorisHristov</twitter>
+      <linkedin>http://bg.linkedin.com/in/borishristov</linkedin>
+      <ContactURL>http://borishristov.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/BorisHristov</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16102</importID>
+      <name>Joe Chang</name>
+      <label>
+      </label>
+      <description>
+      </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlblog.com/blogs/joe_chang/default.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>13583</importID>
+      <speakers>
+        <speaker>
+          <id>13583</id>
+          <name>Dejan Sarka</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>Room #2</name>
+      </location>
+      <title>Data mining Algorithms in SQL Server, Excel, R, and Azure ML Part 2</title>
+      <description>Data mining as the most advanced data analysis technique is gaining popularity. With modern data mining engines, products and packages, like SQL Server Analysis Services (SSAS), Azure ML, and R, data mining has become a black box. It is possible to use data mining without knowing how it works. However, not knowing how the algorithms work might lead to many problems, including using the wrong algorithm for a task, misinterpretation of the results, and more. This session is the second of the two sessions that explain how the most popular data mining algorithms work, when to use which algorithm, and advantages and drawbacks of each algorithm as well. Demonstrations show the algorithms usage in different products.</description>
+      <startTime>6/20/2015 11:30:00 AM</startTime>
+      <endTime>6/20/2015 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>13582</importID>
+      <speakers>
+        <speaker>
+          <id>13582</id>
+          <name>Dejan Sarka</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>Room #2</name>
+      </location>
+      <title>Data mining Algorithms in SQL Server, Excel, R, and Azure ML Part 1</title>
+      <description>Data mining as the most advanced data analysis technique is gaining popularity. With modern data mining engines, products and packages, like SQL Server Analysis Services (SSAS), Azure ML, and R, data mining has become a black box. It is possible to use data mining without knowing how it works. However, not knowing how the algorithms work might lead to many problems, including using the wrong algorithm for a task, misinterpretation of the results, and more. This session is the first of the two sessions that explain how the most popular data mining algorithms work, when to use which algorithm, and advantages and drawbacks of each algorithm as well. Demonstrations show the algorithms usage in different products.</description>
+      <startTime>6/20/2015 9:00:00 AM</startTime>
+      <endTime>6/20/2015 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>24795</importID>
+      <speakers>
+        <speaker>
+          <id>24795</id>
+          <name>Mladen Prajdić</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>Room #2</name>
+      </location>
+      <title>Digging Into the .Net SqlClient</title>
+      <description>The prevailing opinion is that the optimizations for SQL Server are usually only done on the server itself. But is there anything we can do on the client to gain more speed? In this session aimed at .Net and SQL developers, we'll dive into the workings of the .Net SqlClient and give you insight into way more than just SqlCommand.ExecuteReader() and SqlCommand.ExecuteNonQuery().</description>
+      <startTime>6/20/2015 4:00:00 PM</startTime>
+      <endTime>6/20/2015 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>36641</importID>
+      <speakers>
+        <speaker>
+          <id>36641</id>
+          <name>Vedran Kesegic</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Room #1</name>
+      </location>
+      <title>How to recover deleted data with no backups?</title>
+      <description>From time to time on the forums emerge people in really tough situation: data is deleted, database is in SIMPLE recovery model, and as a cherry on top - there is no backup! It might be boss's private database that nobody has put into backup scheme yet, or some new database that was missing from the backup scheme.
+It is nearly impossible to recover the lost data from that situation. But I will show you at least three methods. After this presentation, you will be prepared to solve such a tough case. It is really important to know two simple steps you must do really fast, and after that you can relax and extract the data with peace of mind and without time pressure.</description>
+      <startTime>6/20/2015 10:15:00 AM</startTime>
+      <endTime>6/20/2015 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35769</importID>
+      <speakers>
+        <speaker>
+          <id>35769</id>
+          <name>Tobias Koprowski</name>
+        </speaker>
+      </speakers>
+      <track>Azure</track>
+      <location>
+        <name>Room #1</name>
+      </location>
+      <title>Azure SQL Database Tips and Tricks for Beginners</title>
+      <description>Microsoft released SQL Azure more than three years ago - that's enough time for testing. So, are you ready to move your data to the Cloud? If you’re considering a business (i.e. a production environment) in the Cloud, you need to think about methods for backing up your data, a backup plan for your data and, eventually (sic!) restoring data. In this session, you’ll see the differences, functionalies, restrictions, and opportunities in SQL Azure and On-Premise SQL Server 2008/2008 R2/2012/2014. We’ll consider topics such as how to be prepared for backup and restore, and which parts of a cloud environment are most important: keys, triggers, indexes, prices, security, service level agreements, etc.</description>
+      <startTime>6/20/2015 9:00:00 AM</startTime>
+      <endTime>6/20/2015 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33770</importID>
+      <speakers>
+        <speaker>
+          <id>33770</id>
+          <name>Tomaž Kaštrun</name>
+        </speaker>
+      </speakers>
+      <track>Azure</track>
+      <location>
+        <name>Room #1</name>
+      </location>
+      <title>Benefits of analytics using Microsoft Azure Machine Learning </title>
+      <description>Data mining on-premises has a long tradition with Microsoft SQL Server and Machine learning in Azure is the cloud based brother, both supporting a hand-full of great algorithms for  your business to grow.
+This session will be focused on benefits of building a predictive model using Azure Machine Learning (ML) studio and exploring its capabilities. We will cover from 1) Quick introduction to ML to 2) creating ML workspace with data upload, 3) training the data-set and evaluating the solutions/models and 4) using this solutions with ML API Service.  With a great support to R language in Azure ML, we will also explore the usage of R script in Azure ML. 
+</description>
+      <startTime>6/20/2015 11:30:00 AM</startTime>
+      <endTime>6/20/2015 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>10981</importID>
+      <speakers>
+        <speaker>
+          <id>10981</id>
+          <name>Boris Hristov</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Room #1</name>
+      </location>
+      <title>The 5 Hidden Performance Gems of SQL Server 2014</title>
+      <description>SQL Server 2014 comes with dozens of new improvements in various areas. Some of the performance features introduced with the 2014 release did not get the needed attention for some reason, though. In this session we will see five new ways to make our applications dramatically faster. And no, neither of these is Hekaton tables nor clustered columnstore indexes. </description>
+      <startTime>6/20/2015 4:00:00 PM</startTime>
+      <endTime>6/20/2015 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>16102</importID>
+      <speakers>
+        <speaker>
+          <id>16102</id>
+          <name>Joe Chang</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Room #1</name>
+      </location>
+      <title>Comprehensive Indexing with Automated Execution Plan Analysis</title>
+      <description>SQL Server 2005 made much of information necessary for performance available through easily accessible DMVs. Ad-hoc performance tuning is possible simply with direct queries to the DMVs. Many database today actually show signs of having too many indexes. A degree of index consolidation is possible by visual examination. A more ambitious objective is to build a set of good  indexes with no more indexes than necessary. To do this, it is necessary to catalog the index usage of hundreds if not thousands of SQL statements. Impossible or impractical? This can be done by automating execution plan analysis using ExecStats (free on QDPMA.com)</description>
+      <startTime>6/20/2015 1:30:00 PM</startTime>
+      <endTime>6/20/2015 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>36250</importID>
+      <speakers>
+        <speaker>
+          <id>36250</id>
+          <name>Tanja Vukov</name>
+        </speaker>
+      </speakers>
+      <track>Azure</track>
+      <location>
+        <name>Room #1</name>
+      </location>
+      <title>Saved by the Cloud</title>
+      <description>Its quite easy to find business cases where IoT, Stream Analytics, Machine Learning and PowerBI are used as standalone technology or in a synergy. As biologist I am using “Microsoft glasses” to look, understand, and change ecosystems around me. By using this technologies I will show you that their purpose is not just to make your business better but to make the Earth a better place to live.
+</description>
+      <startTime>6/20/2015 2:45:00 PM</startTime>
+      <endTime>6/20/2015 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>25111</importID>
+      <speakers>
+        <speaker>
+          <id>25111</id>
+          <name>Gerhard Brueckl</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>Room #2</name>
+      </location>
+      <title>Lessons Learned: SSAS Tabular in the real world</title>
+      <description>In this session I will speak about the various experiences that I made while implementing SSAS Tabular models in enterprise environments over the last years. I will cover all classical steps of BI project: design, development, testing, deployment and maintenance. At the end I will highlight my most important findings and pitfalls which hopefully helps you when you build your own models.</description>
+      <startTime>6/20/2015 2:45:00 PM</startTime>
+      <endTime>6/20/2015 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>20753</importID>
+      <speakers>
+        <speaker>
+          <id>20753</id>
+          <name>Miloš Radivojević</name>
+        </speaker>
+      </speakers>
+      <track>Development</track>
+      <location>
+        <name>Room #2</name>
+      </location>
+      <title>Transact SQL Performance Tips</title>
+      <description>In this session we will advice how to avoid common developer mistakes and show how bad designed queries reduce the SQL Server optimizer's capabilities for choosing an optimal execution plan. </description>
+      <startTime>6/20/2015 10:15:00 AM</startTime>
+      <endTime>6/20/2015 11:15:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

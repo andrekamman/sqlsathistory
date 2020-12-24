@@ -1,0 +1,23 @@
+# SQLSaturday #510 - Paris 2016
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+10:00:00|Marco Russo|Eau - Plongez dans la BI|[Handling Relationships in DAX](45753.md)
+10:00:00|Charles-Henri Sauget|Air - la puissance du Cloud|[Et si ... nous connections SSAS Tabular sur Datalake ?](47723.md)
+10:00:00|Sean McCown|Feu - des performances brulantes|[The Backup Tune-up](47880.md)
+10:00:00|Ryan Yates|Metal - la robustesse de SQL Server|[Why and how to Implement PowerShell DSC for SQL Server](48519.md)
+11:30:00|Uwe Ricken|Metal - la robustesse de SQL Server|[Demystifying clustered indexes](44498.md)
+11:30:00|Markus Ehrenmueller-Jensen|Eau - Plongez dans la BI|[My Favorite Pie (Chart): Simple Rules for Clear Visualizations](44732.md)
+11:30:00|Christophe Laporte|Feu - des performances brulantes|[SQL Server Scale-Out  Performance](48322.md)
+11:30:00|Marius Zaharia|Air - la puissance du Cloud|[From StreamInsight to Azure Stream Analytics, or moving CEP to the Cloud](48520.md)
+13:30:00|Chrissy LeMaire|Metal - la robustesse de SQL Server|[Simplifying SQL Server Migrations using PowerShell](45090.md)
+13:30:00|Philippe Geiger|Feu - des performances brulantes|[Query Store ou comment donner de la m#233;moire #224; sa base de donn#233;es](48469.md)
+13:30:00|serge Luca|Eau - Plongez dans la BI|[Que choisir ? SharePoint 2016 BI ou PowerBI v2 ?](48717.md)
+13:30:00|Jean-Pierre Riehl|Air - la puissance du Cloud|[Cortana Analytics, de nouvelles patterns pour vos plateformes de donn#233;es](48725.md)
+15:00:00|Sarah Bessard|Metal - la robustesse de SQL Server|[Mise #224; niveau du moteur de base de donn#233;es](47185.md)
+15:00:00|Romain Casteres|Air - la puissance du Cloud|[Velib  Cortana (Event Hubs, ASA, ADF, AML, SQL DB, Power BI, ...)](48471.md)
+15:00:00|Kevin Kline|Feu - des performances brulantes|[End-to-End Troubleshooting for SQL Server ](49669.md)
+15:00:00|jean-pierre Girardot|Eau - Plongez dans la BI|[Dashboards dynamiques et percutants avec Power BI](49670.md)
+16:30:00|Dejan Sarka|Eau - Plongez dans la BI|[Identity Mapping and De-Duplicating ](44354.md)
+16:30:00|David Barbarin|Feu - des performances brulantes|[Locks, latches and spinlocks](44481.md)
+16:30:00|Jen Stirrup|Air - la puissance du Cloud|[Hi there, I’m Cortana: Cortana Analytics Data Visualisations with Power BI](44755.md)
+16:30:00|Gianluca Sartori|Metal - la robustesse de SQL Server|[New Security Features in SQL Server 2016](46735.md)

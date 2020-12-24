@@ -1,0 +1,23 @@
+# SQLSaturday #717 - Wheeling 2018
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:00:00|Andrew Loree|Analytics and Visualization|[Microsoft Machine Learning Services](74035.md)
+09:00:00|Jeremy Sinclair|Application  Database Development|[Eliminating the CRUD with Entity Framework Core](74220.md)
+09:00:00|Devon Leann Ramirez|Application  Database Development|[Handcrafting Covering Indexes](74222.md)
+09:00:00|Hilary Cotter|Enterprise Database Administration  Deployment|[Stress testing SQL Server](74284.md)
+10:15:00|John Deardurff|IT Professional or Professional Development|[How to get Microsoft Certified](71123.md)
+10:15:00|Eugene Meidinger|Application  Database Development|[Execution Plans 101](71176.md)
+10:15:00|Drew Furgiuele|Enterprise Database Administration  Deployment|[SQL Server and PowerShell: Let's Get Serious](71715.md)
+10:15:00|Jeremy Frye|BI Information Delivery, Architecture, Development  Administration|[SSIS Incremental Loading:  The Tortoise and The Hare](73943.md)
+11:30:00|Jim Donahoe|Cloud Development  Implementation|[Getting started with SQL Azure Database: What you need to know](71217.md)
+11:30:00|Peter Shore|Enterprise Database Administration  Deployment|[Infrastructure for the DBA: An Introduction](71378.md)
+11:30:00|Jay Falck|Enterprise Database Administration  Deployment|[Linux for SQL Server](73795.md)
+11:30:00|Tracy Boggiano|Enterprise Database Administration  Deployment|[Monitoring Availability Groups](74229.md)
+13:45:00|Kevin Feasel|Application  Database Development|[Working Effectively With Legacy SQL](71198.md)
+13:45:00|Hasan Savran|IT Professional or Professional Development|[What's new in SQL Server 2017](72774.md)
+13:45:00|Brian Carrig|Enterprise Database Administration  Deployment|[Successfully Running SQL Server in AWS](74252.md)
+13:45:00|Tamera Clark|BI Information Delivery, Architecture, Development  Administration|[45 min to build your first SSRS report](74277.md)
+15:00:00|Michael John|Enterprise Database Administration  Deployment|[What I wish I knew as a beginning DBA.](72782.md)
+15:00:00|Carlos L Chacon|Application  Database Development|[How can containers for my database help me?](72863.md)
+15:00:00|Kevin Boles|Application  Database Development|[Know What Your Code is Doing to SQL Server!](73991.md)
+15:00:00|Kerry Tyler|BI Information Delivery, Architecture, Development  Administration|[45 Minutes to Your First SSAS Tabular Model](74264.md)

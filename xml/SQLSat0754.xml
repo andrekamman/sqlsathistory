@@ -1,0 +1,860 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #754 - Auckland 2018</name>
+    <startDate>9/1/2018 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT+12:00) Fiji, Kamchatka, Marshall Is</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatAuckland</twitterHashtag>
+    <venue>
+      <name>Unitec Institute of Technology</name>
+      <street>139 Carrington Rd, Mount Albert</street>
+      <city>Auckland</city>
+      <state>Auckland, New Zealand</state>
+      <zipcode>1025</zipcode>
+      <longitude>174.7116</longitude>
+      <latitude>-36.88052</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1272</importID>
+      <name>WARDY IT Solutions</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.wardyit.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/986/EventSponsor_14725.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1551</importID>
+      <name>RADACAD</name>
+      <label>Gold Sponsor</label>
+      <url>http://radacad.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/982/EventSponsor_14808.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1936</importID>
+      <name>Unitec Institute of Technology</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.unitec.ac.nz/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/866/EventSponsor_13748.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1781</importID>
+      <name>Microsoft</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.microsoft.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1008/EventSponsor_14955.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2003</importID>
+      <name>Detecta</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.detecta.io</url>
+      <imageURL>https://detecta.io/sites/default/files/detecta-logo_0.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>75817</importID>
+      <name>Sergio Reginaldo Zenatti Filho</name>
+      <label>
+      </label>
+      <description>I am an Associate Director – Data  Advanced Analytics at Satalyst with over 16 years of experience in the delivery of Data, Analytics and Application Solutions. I have worked internationally around Australia, Brazil and New Zealand, in sectors that include Government, Healthcare, Telecom, Finance Services, Retail, Manufacture, Automotive, Mining, Oil  Gas, Dairy and Facility Management.
+
+I have worked in various technologies and platforms such as Microsoft, SAP and Oracle; the full Microsoft BI stack including SQL Server 2017, Azure SQL DB, Azure SQL DW, Azure Data Factory, Azure ML, Power BI, HDInsight  Azure Data Lake.
+
+I am User Group Leader for Perth SQL User Group and also a speaker at SQL Server User Group and Power BI World To</description>
+      <twitter>https://twitter.com/SergioZenatti</twitter>
+      <linkedin>https://www.linkedin.com/in/sergiozenatti/</linkedin>
+      <ContactURL>https://zenatti.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/SergioZenatti</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>82755</importID>
+      <name>Greg Low</name>
+      <label>
+      </label>
+      <description>Greg Low is well-known in the SQL Server community as a mentor, trainer, author, and community leader. He is a certified master for SQL Server, was an instructor in that program, and holds a PhD in Computer Science. Microsoft often calls on Greg to develop data-related content, and to train their staff. He regularly speaks at tier-one conferences internationally. Greg is best known for his SQL Down Under podcast, SDU Tools, and his eBooks and whitepapers. He heads up a boutique consultancy called SQL Down Under in Melbourne Australia. Greg has been awarded as an MVP since 2001.</description>
+      <twitter>greglow</twitter>
+      <linkedin>http://www.linkedin.com/in/greglow</linkedin>
+      <ContactURL>http://blog.greglow.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=greglow</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84092</importID>
+      <name>Manjot Kaur</name>
+      <label>
+      </label>
+      <description>I have been working with SQL server for over 10 years. I have been an internal DBA and a consultant. 
+I am passionate about automation, cloud technologies, performance tuning and learning SQL internals.
+In my free time I love to read, playing with my toddler and trying my hands on new recipes.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>82488</importID>
+      <name>Brian Bradley</name>
+      <label>
+      </label>
+      <description>Brian Bradley is a Business Intelligence Specialist who has solid experience in all things Data. 
+Hailing from South Africa, Brian now calls New Zealand home. 
+He has had a long and extensive career working for many top organisations such as Optimal BI, Xero and Fujitsu. 
+On this journey he has paved his way as a Data Warehouse and Business Intelligence Solution Architect, specialising in Data Vault Architecture, Design, Build and Modelling. 
+In his spare time he is a Blockchain enthusiast and keeps abreast of all the new and improving developments in the market, strengthening and building on business focus and the Microsoft BI Stack. 
+He is a "Certifed Data Vault Modeller" as well as being certified to conduct the CDVDM Certifcation.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/brian-bradley-a9786b9/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84263</importID>
+      <name>Leila Etaati</name>
+      <label>
+      </label>
+      <description>Leila Etaati is the First Microsoft AI MVP in New Zealand and Australia, as well as a Data Platform MVP. She has a Ph.D. from the University of Auckland and is the co-director and data scientist in RADACAD company with many clients around the world. Additionally, she is the co-organizer of Microsoft Business Intelligence and Power BI Use group in Auckland with more than 1300 members. Leila has also co-organized 3 main conferences in Auckland: SQL Saturday Auckland (from 2015), Difinity (from 2017) and Global AI Bootcamp. She is a data scientist, BI consultant, trainer, and speaker. She is a well-known International speaker to many conferences such as MS Ignite, SQL PASS, Data Platform Summit, SQL Saturday, Power BI World Tour and in Europe, USA, Asia, Australia, and NZ. She has over 10 years’ experience with databases and software systems. Leila is an active Technical Microsoft AI blogger in RADACAD.</description>
+      <twitter>@leila_etaati</twitter>
+      <linkedin>https://nz.linkedin.com/pub/leila-etaati/36/46/b03</linkedin>
+      <ContactURL>http://blog.radacad.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@leila_etaati</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>80897</importID>
+      <name>Martin Catherall</name>
+      <label>
+      </label>
+      <description>Martin is a data consultant in Melbourne, Australia, a Microsoft Data Platform MVP, and PASS Regional Mentor for the Asia Pacific (APAC) region.
+Martin founded the Christchurch, New Zealand PASS Local Group and lead the group for a number of years before relocating to Melbourne.
+He has been using SQL Server in various roles since 2000. In addition to anything data related, he enjoys playing the guitar and having fun with his family.</description>
+      <twitter>MartyCatherall</twitter>
+      <linkedin>https://www.linkedin.com/in/martincatherall</linkedin>
+      <ContactURL>http://martincatherall.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MartyCatherall</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>74268</importID>
+      <name>Phillip Seamark</name>
+      <label>
+      </label>
+      <description>An accomplished database and business intelligence (BI) professional with an in-depth knowledge of the Microsoft BI stack along with extensive knowledge of data warehouse (DW) methodologies and enterprise data modelling.
+
+Expert knowledge in all facets of BI/DW including planning architecture, project management, dimensional modelling, performance tuning, ETL design, development and optimization, report and dashboard design as well as installation and administration.
+Author of multiple books on DAX.
+
+Over 27 years of commercial experience in delivering business applications across a broad range of technologies.</description>
+      <twitter>PhilSeamark</twitter>
+      <linkedin>https://www.linkedin.com/in/seamark</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=PhilSeamark</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>80908</importID>
+      <name>Dave Dustin</name>
+      <label>
+      </label>
+      <description>With more than 35 years industry experience, Dave has worked with organisations and data systems of all sizes. He is currently Principal Engineer at Xero.</description>
+      <twitter>venzann</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=venzann</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>83035</importID>
+      <name>Simon Peck</name>
+      <label>
+      </label>
+      <description>Simon is a MCSE in data analytics, certified Biml Expert (BimlHero) and co-author of "The Biml Book" he has been working with SQL Server since the 90's.  Simon is a director of Data Engineers a Christchurch based data solutions provider specialising in Microsoft based cloud and on-premise BI and Data Warehousing solutions.  Having worked for 50+ organisations worldwide over last 20 years he has a wealth of experience across many business sectors,  he is also a co-leader of the Christchurch SQL User Group.</description>
+      <twitter>@BIGUYNZ</twitter>
+      <linkedin>https://www.linkedin.com/in/monchopper</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@BIGUYNZ</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>73934</importID>
+      <name>John Bowker</name>
+      <label>
+      </label>
+      <description>John Bowker is the Product Owner for Data Infrastructure at Xero, a cloud-based accounting software company with over a million subscribers. 
+
+John's team builds and maintains the SQL Server infrastructure and tooling that Xero's applications depend on. 
+John has over 15 years experience in the management of software products and teams in the gaming as well as SaaS product industries.</description>
+      <twitter>@johnnybApostle</twitter>
+      <linkedin>https://www.linkedin.com/in/johnbbowker</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@johnnybApostle</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>80937</importID>
+      <name>Indira Bandari</name>
+      <label>
+      </label>
+      <description>Indira is a Microsoft Data Platform MVP in New Zealand.  She has a Masters degree in Statistics and is passionate about data, analytics and Artificial Intelligence. She is a BI and SQL Lead, an international speaker, mentor and part time trainer with over 15 years of experience in designing and developing data warehouses and analytical solutions.  
+Volunteering and sharing her knowledge is her passion. In her pass time, she runs free game development classes, database concepts and data visualization classes for 9-16 year old kids.
+She is a Co-organiser for Data, Insights and Power BI User Group , Auckland AI Meetup Group and SQL Saturday Auckland. She speaks at various conferences, Virtual Webinars, PASS events etc</description>
+      <twitter>indirabandari</twitter>
+      <linkedin>https://www.linkedin.com/in/indira-bandari/</linkedin>
+      <ContactURL>http://mytechlearning.blogspot.co.nz/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=indirabandari</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84107</importID>
+      <name>Mohammad Hafizullah</name>
+      <label>
+      </label>
+      <description>Working with SQL Server for over 7 years. My current role at Xero gave me a great opportunity to extend my knowledge to Postgres and AWS. I recently passed AWS Certified Associate Developer exam. My interests are Data security, High availability and Disaster Recovery. 
+
+Other than technology, my interests are long distance running, boxing and playing with my son.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/mohammadhafizullah/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>83057</importID>
+      <name>Hamish Watson</name>
+      <label>
+      </label>
+      <description>Hamish Watson is a Microsoft Data Platform MVP and VMware Expert with a passion for efficient database and application deployment using DevOps methodologies. 
+
+He has 20+ years of IT experience in managing and deploying large scale databases on SQL Server technologies. 
+
+He has been managing SQL Server since SQL Server 2000, and pragmatic approaches to delivering business value to clients is his career passion.
+
+Educating and helping others learn is a driver for Hamish. He is a Director-At-Large on the PASS Board, international speaker, and a repeat guest lecturer at a local university.</description>
+      <twitter>theHybridDBA</twitter>
+      <linkedin>https://nz.linkedin.com/in/hamishwatson8</linkedin>
+      <ContactURL>http://www.sqlservercentral.com/blogs/the-hybrid-dbas-blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=theHybridDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>83967</importID>
+      <name>Anupama Natarajan</name>
+      <label>
+      </label>
+      <description>Anu Natarajan is a Data and AI Consultant with 15+ years of experience working in design and development of Data Warehouse, Business Intelligence, AI enabled applications, and SaaS integrated solutions. Anu is a Microsoft MVP Data Platform, Microsoft Certified Trainer and passionate in sharing knowledge. She loves solving complex business problems with innovative solutions using technologies. 
+Anu also speaks at conferences including PASS Summit, SQL Saturdays, Data Platform Summit, Difinity, and she organizes local user group meetups.</description>
+      <twitter>@shantha05</twitter>
+      <linkedin>https://nz.linkedin.com/in/anupama-natarajan-516a107</linkedin>
+      <ContactURL>http://www.anupamanatarajan.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@shantha05</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84262</importID>
+      <name>Reza Rad</name>
+      <label>
+      </label>
+      <description>Reza Rad is a Microsoft Regional Director, MVP, author, trainer, speaker and consultant. He is a Microsoft Data Platform MVP for nine years from 2011.
+Reza wrote many books on Power BI subjects including the Power BI from Rookie to Rock Star, and Pro Power BI Architecture.
+Reza is the invited speaker at the world's well-known conferences such as Microsoft Ignite, Microsoft Business Applications Summit, Ignite Tour, PASS Summit, and many other conferences.
+Reza is an active blogger and writes regularly about Power BI at https://radacad.com.</description>
+      <twitter>Rad_Reza</twitter>
+      <linkedin>http://nz.linkedin.com/in/rezarad/</linkedin>
+      <ContactURL>http://radacad.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Rad_Reza</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>73892</importID>
+      <name>Manohar Punna</name>
+      <label>
+      </label>
+      <description>Manohar Punna is an Data Platform Geek and Vice President of DataPlatformGeeks by passion and a Data Platform Consultant by profession. He is a speaker at various conferences like PASS Summit, SQLBits, DPS. He has authored over 150 blogs and has written a One DMV a Day series which is a longest one day series on any topic on SQL Server till date.
+Manohar is a product of this community and strongly believes in giving back to the community. So, ask him anything you would like to know and he is happy to learn it with you.</description>
+      <twitter>ManuSQLGeek</twitter>
+      <linkedin>https://www.linkedin.com/pub/manohar-punna/15/153/508</linkedin>
+      <ContactURL>http://www.sqlservergeeks.com/author/manoharpunna/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ManuSQLGeek</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84266</importID>
+      <name>Owen Auger</name>
+      <label>
+      </label>
+      <description>Owen Auger specialises in data analytics with Power BI with a focus on  financial applications. He is currently a Data Analytics Manager at Fonterra in Auckland, and has previously worked in Corporate Finance at Contact Energy. He was a finalist at the 2014 Financial Modelling World Championships in New York City. He has a particular interest in using Power BI and related tools to improve efficiency of reporting and analysis among finance business users.
+ 
+Owen is a CFA Charterholder and has a Master of Operations Research and BA/BSc degrees in Mathematics and Computer Science from the University of Auckland.</description>
+      <twitter>Ozeroth</twitter>
+      <linkedin>https://www.linkedin.com/in/owenauger</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Ozeroth</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>83220</importID>
+      <name>Heidi Hasting</name>
+      <label>
+      </label>
+      <description>Heidi Hasting is a Business Intelligence professional and former software developer with over seven years experience in Microsoft products. She is an ALM/DLM enthusiast and Azure DevOps fan and co-founder and organiser of the Adelaide Power BI User Group. Heidi is a regular attendee at tech events including Azure Bootcamps, DevOps days, SQLSaturdays, Difinity and PASS Summit.</description>
+      <twitter>heidihasting</twitter>
+      <linkedin>https://au.linkedin.com/in/heidi-hasting-a068694</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=heidihasting</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85260</importID>
+      <name>Daniel Marsh-Patrick</name>
+      <label>
+      </label>
+      <description>During his 17 year career across the UK and New Zealand, Daniel has been helping drive enterprise-wide solutions through process and software engineering; predominantly through BI, data visualisation and software integration.
+
+He is extremely passionate about the Microsoft BI stack, specifically Power BI. He is a Data Platform MVP, regularly presents and blogs on a variety of Power BI subjects and is a contributor of custom visuals to the Power BI Marketplace.</description>
+      <twitter>https://twitter.com/the_d_mp</twitter>
+      <linkedin>https://www.linkedin.com/in/daniel-m-p</linkedin>
+      <ContactURL>https://coacervo.co</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/the_d_mp</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84290</importID>
+      <name>Jim McLeod</name>
+      <label>
+      </label>
+      <description>Jim McLeod is a Canberra-based SQL Server consultant with Ignia. Coming from a software development background, Jim chose to specialise in SQL Server in 2005, with a particular focus on database performance. Since then, Jim has worked with most aspects of SQL Server on databases of all sizes across a large number of industries, with the focus in the past few years on data warehousing, Azure and Analytics.</description>
+      <twitter>@Jim_McLeod</twitter>
+      <linkedin>http://linkedin.com/in/jimmcleodaustralia</linkedin>
+      <ContactURL>http://www.jimmcleod.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Jim_McLeod</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>78811</importID>
+      <name>David Alzamendi</name>
+      <label>
+      </label>
+      <description>Delivering Business Intelligence and Data Analytics Solutions with On-Premises and Cloud technologies since 2011, David Alzamendi is a Microsoft Certified Solutions Expert and event speaker who solves problems with best practice procedures and the latest technology. 
+
+David is passionate about the positive impact data can have on our lives, businesses, economy and the environment. He prides himself on using his creativity and optimism to solve what others thought impossible.</description>
+      <twitter>techtalkcorner</twitter>
+      <linkedin>https://www.linkedin.com/in/dalzamendi</linkedin>
+      <ContactURL>https://www.techtalkcorner.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=techtalkcorner</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>83360</importID>
+      <name>Sergio Reginaldo Zenatti Filho</name>
+      <label>
+      </label>
+      <description>I am an Associate Director – Data  Advanced Analytics at Satalyst with over 16 years of experience in the delivery of Data, Analytics and Application Solutions. I have worked internationally around Australia, Brazil and New Zealand, in sectors that include Government, Healthcare, Telecom, Finance Services, Retail, Manufacture, Automotive, Mining, Oil  Gas, Dairy and Facility Management.
+
+I have worked in various technologies and platforms such as Microsoft, SAP and Oracle; the full Microsoft BI stack including SQL Server 2017, Azure SQL DB, Azure SQL DW, Azure Data Factory, Azure ML, Power BI, HDInsight  Azure Data Lake.
+
+I am User Group Leader for Perth SQL User Group and also a speaker at SQL Server User Group and Power BI World To</description>
+      <twitter>https://twitter.com/SergioZenatti</twitter>
+      <linkedin>https://www.linkedin.com/in/sergiozenatti/</linkedin>
+      <ContactURL>https://zenatti.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/SergioZenatti</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>80897</importID>
+      <speakers>
+        <speaker>
+          <id>80897</id>
+          <name>Martin Catherall</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>170-2031</name>
+      </location>
+      <title>Data Privacy and the Data Professional.</title>
+      <description>It’s almost a daily occurrence to hear about some sort of data breach. 
+But what are the consequences of a data breach – for both the victims and companies involved – and what does that mean for you as a data professional.
+As governments start to legislate more in an effort to protect the privacy of its citizens the entire concept of data storage become more complex.
+Exactly what is legislation like the General Data Protection Regulation (GDPR) and how will it affect around the world.
+We’re seen Microsoft give us tools over the years – like Transparent Data Encryption and Dynamic Data masking - to help with this sort of thing – but is there a better answer?
+Come along to this session and hear how you and your team can lessen your chances of being the ones responsible for the next data breach.</description>
+      <startTime>9/1/2018 9:30:00 AM</startTime>
+      <endTime>9/1/2018 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>83220</importID>
+      <speakers>
+        <speaker>
+          <id>83220</id>
+          <name>Heidi Hasting</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>170-2035</name>
+      </location>
+      <title>Bringing source control to BI world!</title>
+      <description>- Do you ever have trouble finding the latest version of a report?
+- Do you want to see the changes to a database/cube/report over time?
+- Do you need to identify where a field is used across your BI Environment?
+- Do you have issues with parallel development?
+- Do you work in a Business Intelligence environment with no source control?
+
+If you answered yes to any of these questions then this session is for you! We will go through
+1. Why source control is important.
+2. The different Visual Studio project types (Databases, Analysis Services, Integration Services, and Reporting Services)
+3. How to bring an existing business intelligence environment into Source Control
+4. How to facilitate parallel development
+
+Let's bring order to your chaos!</description>
+      <startTime>9/1/2018 2:10:00 PM</startTime>
+      <endTime>9/1/2018 3:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>83057</importID>
+      <speakers>
+        <speaker>
+          <id>83057</id>
+          <name>Hamish Watson</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>170-2031</name>
+      </location>
+      <title>Virtualisation and DevOps can help make your SQL Server perform!!</title>
+      <description>Over the years, running SQL Server inside a virtual machine has changed from being a bit of a strange and risky idea to being commonplace and offering a range of benefits: more effective distribution of load, more flexible provisioning, and allowing additional tiers of redundancy to be put in place.
+
+Though these factors are compelling, running your database inside a virtual machine introduces an additional set of variables to worry about. 
+
+This session will discuss industry tools that allows for configuration and optimisation of virtual servers. 
+
+It will also show how using common DevOps principles - such as automation, monitoring and Infrastructure as Code can mitigate some of the variability in running SQL Server on a virtual host.
+
+We'll also go over some of the things that you should be looking at within your virtual environment to ensure that you are getting the best performance out of it.</description>
+      <startTime>9/1/2018 10:50:00 AM</startTime>
+      <endTime>9/1/2018 11:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>84263</importID>
+      <speakers>
+        <speaker>
+          <id>84263</id>
+          <name>Leila Etaati</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>170-2033</name>
+      </location>
+      <title>Machine Learning Revolution with Azure Databricks</title>
+      <description>Azure Databricks is an Apache Spark-based platform designed for the Microsoft Azure cloud services platform and easy to set up with one-click. It has an interactive workspace that enables collaboration between data scientists, data engineers, and business analysts. Azure Databricks notebook unify all the process from data gathering, model creation, deployment. It easy to connect to spark environment and access to the variety of data stores and services in Azure such as Azure SQL Data Warehouse, Azure Cosmos DB, Azure Data Lake Store, Azure Blob storage and Azure Event Hub. Moreover, the possibility to add advanced analytics capabilities will be available instantly and developer able to share their insights via Power BI. A brief introduction and demonstration on how to work with Azure Databricks will be presented. A demo of doing machine learning project with the help of Databricks on Azure, from getting data from data stores and modeling, deploying algorithm will be presented.</description>
+      <startTime>9/1/2018 12:50:00 PM</startTime>
+      <endTime>9/1/2018 1:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85260</importID>
+      <speakers>
+        <speaker>
+          <id>85260</id>
+          <name>Daniel Marsh-Patrick</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>170-2031</name>
+      </location>
+      <title>Doing it Yourself: Creating and Publishing A Power BI Custom Visual to AppSource</title>
+      <description>Power BI offers an incredibly extensive custom visualisation framework and the world is (almost) your oyster when it comes to what you can do. There's plenty of great visuals out there already, but what happens when you really want something that just doesn't seem to be out there and... why hasn't someone else built it yet? It can't be that hard to do... right? Can I really do it myself?
+
+This session covers the journey of the conception and development of the Small Multiple Line Chart custom visual, some of the challenges and lessons learned along the way, and the process of self-publishing visuals through the AppSource platform for general availability in the marketplace.</description>
+      <startTime>9/1/2018 3:30:00 PM</startTime>
+      <endTime>9/1/2018 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>74268</importID>
+      <speakers>
+        <speaker>
+          <id>74268</id>
+          <name>Phillip Seamark</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>170-1016</name>
+      </location>
+      <title>Advanced DAX : Tic Tac Toe in Power BI</title>
+      <description>This session will dissect a data model designed to push the boundaries of DAX beyond simple COUNT and SUM calculations.  Come and see how to build a working Tic Tac Toe game using just DAX inside of Power BI.  This session will cover a wide variety of advanced tips and tricks that will reset your understanding of what is possible using DAX.  Time permitting we may also look at Sudoku, Blackjack, Hangman and more....</description>
+      <startTime>9/1/2018 10:50:00 AM</startTime>
+      <endTime>9/1/2018 11:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>83967</importID>
+      <speakers>
+        <speaker>
+          <id>83967</id>
+          <name>Anupama Natarajan</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>170-2033</name>
+      </location>
+      <title>Modern Data Warehouse using Lambda Architecture and Azure</title>
+      <description>Organisations capture huge volumes of data and they need actionable information to act on them proactively in real-time to stay competitive. This requires a different thinking from the conventional Data Warehouse Architecture to more Cloud based Data Processing Architecture where high volume batch and real-time processing can be achieved using optimal cost.
+
+In this session you will learn about
+
+1. Overview of Lambda Architecture
+2. How Azure Services implement Lambda Architecture
+3. Advantages of leveraging Azure for Lambda Architecture
+4. Business Scenarios to consider Lambda Architecture</description>
+      <startTime>9/1/2018 10:50:00 AM</startTime>
+      <endTime>9/1/2018 11:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>82755</importID>
+      <speakers>
+        <speaker>
+          <id>82755</id>
+          <name>Greg Low</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>170-1016</name>
+      </location>
+      <title>Database on a diet (taming a large database)</title>
+      <description>Greg regularly works with tier-one financial organisations and they all struggle with the size of their databases. It's easy for the size to get out of control. In this session, Greg will describe the techniques he used to reduce an operating 3.6TB database to just over 500GB, while increasing its performance. The session will include a deep dive into compression techniques within SQL Server.</description>
+      <startTime>9/1/2018 2:10:00 PM</startTime>
+      <endTime>9/1/2018 3:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>82488</importID>
+      <speakers>
+        <speaker>
+          <id>82488</id>
+          <name>Brian Bradley</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>170-2035</name>
+      </location>
+      <title>Introduction to Data Vault</title>
+      <description>Over the last 10 years, Data Vault has become a common concept in the Data world.
+What is it?
+Why is it interesting?
+Where can it be used?
+How is it implemented in SQL Server?
+This presentation will give you a flavour of Data Vault.
+It will introduce:
+The concepts which make up Data Vault;
+The common tools used for building Data Vaults;
+How it works in SQL Server;
+The importance of Data Modelling and how it is structured;
+Interaction with modern Analytic Tools;
+Where to go for more information.</description>
+      <startTime>9/1/2018 10:50:00 AM</startTime>
+      <endTime>9/1/2018 11:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>75817</importID>
+      <speakers>
+        <speaker>
+          <id>75817</id>
+          <name>Sergio Reginaldo Zenatti Filho</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>170-2033</name>
+      </location>
+      <title>Harness the power of big data using Azure Data Lake</title>
+      <description>Azure Data Lake includes all of the capabilities required to make it easy for developers, data scientists and analysts to store data of any size and shape and at any speed, and do all types of processing and analytics across platforms and languages. In this session, you will discover how easy it is to harness the power of big data using Azure Data Lake Store and Azure Data Lake Analytics.</description>
+      <startTime>9/1/2018 9:30:00 AM</startTime>
+      <endTime>9/1/2018 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>83360</importID>
+      <speakers>
+        <speaker>
+          <id>83360</id>
+          <name>Sergio Reginaldo Zenatti Filho</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>170-2035</name>
+      </location>
+      <title>Building a Modern Analytics Solution in the Cloud</title>
+      <description>Do you want to build a modern analytics solution in the cloud using the latest technologies and go 100% PaaS/SaaS. If so, in this session, I will show and demonstrate how to use a several Azure Technologies. I will demonstrate how to ingest a large dataset, how to process/transform, how to build a data model and how to visualize. Some of the technologies covered in this session are: Azure Data Factory, Azure Analysis Services, Power BI, Azure SQL Database, Machine Learning, Azure Data Lake Store and Azure Data Lake Analytics.</description>
+      <startTime>9/1/2018 12:50:00 PM</startTime>
+      <endTime>9/1/2018 1:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84290</importID>
+      <speakers>
+        <speaker>
+          <id>84290</id>
+          <name>Jim McLeod</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>170-2035</name>
+      </location>
+      <title>Creating Custom Visualisations with Power BI</title>
+      <description>While Power BI comes with a lot of useful visualisations out of the box, and third-party visuals and R gives you a lot more choice, sometimes you need full control over what is being displayed. This is not for the faint hearted, as you will require Typescript and JavaScript skills and an understanding of the D3 JavaScript libraries, but there is a lot of sample code to smooth the way. This session introduces you to writing your own fully interactive custom visualisations in NodeJS, how to troubleshoot and debug, culminating in deployment of the Visual to your Power BI environment, giving you the ability to display exactly what you want in your Power BI reports.</description>
+      <startTime>9/1/2018 9:30:00 AM</startTime>
+      <endTime>9/1/2018 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>73934</importID>
+      <speakers>
+        <speaker>
+          <id>73934</id>
+          <name>John Bowker</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>170-1016</name>
+      </location>
+      <title>Joining Solved Problems: Data Product Management</title>
+      <description>Managing a team of data specialists in today's cloud based environment brings with it many issues. Tech is all about big ideas at speed and this often collides with the pet nature of databases as opposed to cattle application servers. 
+
+This session will go through the real life challenges and successes of taking a team of DBA's and Engineers from a traditional data center to working fully in the public cloud:
+- Work Management
+- Goal Setting
+- CICD
+- Focus on Automation
+- Lessons Learned from Xero's AWS migration</description>
+      <startTime>9/1/2018 3:30:00 PM</startTime>
+      <endTime>9/1/2018 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>80908</importID>
+      <speakers>
+        <speaker>
+          <id>80908</id>
+          <name>Dave Dustin</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>170-2033</name>
+      </location>
+      <title>Back to Basics – An overview of the internals of SQL Server</title>
+      <description>What actually happens when you execute a query.
+This session drills down into how SQL Server and other relational database systems work behind the scenes.
+We’ll look at the interpreter, optimizer, estimator, storage, memory, locking, blocking, indexes, statistics and everything else that makes it all work.</description>
+      <startTime>9/1/2018 2:10:00 PM</startTime>
+      <endTime>9/1/2018 6:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84107</importID>
+      <speakers>
+        <speaker>
+          <id>84107</id>
+          <name>Mohammad Hafizullah</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>170-1064</name>
+      </location>
+      <title>Dive into Graph Databases</title>
+      <description>Graph databases are being talked about quite a lot lately. Its a special feature for special use cases. This session would focus on what, why and how of SQL Server Graph Database feature. And also, whats there in Cloud (Azure and AWS) for Graph Databases?</description>
+      <startTime>9/1/2018 10:50:00 AM</startTime>
+      <endTime>9/1/2018 11:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>84266</importID>
+      <speakers>
+        <speaker>
+          <id>84266</id>
+          <name>Owen Auger</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>170-1016</name>
+      </location>
+      <title>DAX for Business Analytics - My Favourite Examples</title>
+      <description>The DAX language, at the core of Power BI, puts advanced analytical techniques in the hands of a wide range of business users.
+
+In this session I will share a smorgasbord of my favourite analytical techniques using the DAX language that I have developed and encountered in a business environment.
+Examples include scenario  variance analysis, advanced date and time-based calculations, "Top N  Other", detecting runs of outcomes, inverting filters, and finding your greatest ally or nemesis.
+
+This session is for anyone who loves problem-solving with Power BI in a business environment, whether you are already using DAX or keen to learn.</description>
+      <startTime>9/1/2018 12:50:00 PM</startTime>
+      <endTime>9/1/2018 1:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84092</importID>
+      <speakers>
+        <speaker>
+          <id>84092</id>
+          <name>Manjot Kaur</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>170-1016</name>
+      </location>
+      <title>The Massively Parallel Processing Azure SQL Data Warehouse</title>
+      <description>Azure SQL Data Warehouse is a flexible data warehouse-as-a-service product. It is an enterprise level big data solution as it is massively parallel processing as compared to traditional Symmetric Multi-Processing system. In this session, we will look at implementing Azure SQL DW, its architecture and also the collaboration with other hybrid solutions.</description>
+      <startTime>9/1/2018 9:30:00 AM</startTime>
+      <endTime>9/1/2018 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>73892</importID>
+      <speakers>
+        <speaker>
+          <id>73892</id>
+          <name>Manohar Punna</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>170-2031</name>
+      </location>
+      <title>Data Science for DBA - Get Started Now</title>
+      <description>If you are a DBA and want to get started with Data Science, then this session is for you. This demo-packed session will show you few components and technologies needed for a Data Science project in Microsoft Data + AI stack. You will learn the basics of R programming language, Machine Learning and visualisations that businesses need today. In this session you will get a head start about few component in Microsoft Data + AI stack and the possibilities that can be achieved with them.</description>
+      <startTime>9/1/2018 12:50:00 PM</startTime>
+      <endTime>9/1/2018 1:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>80937</importID>
+      <speakers>
+        <speaker>
+          <id>80937</id>
+          <name>Indira Bandari</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>170-1064</name>
+      </location>
+      <title>Google Forms meet Power BI via Reporting Services (SSRS)</title>
+      <description>Are you interested in getting to know what your customers are thinking about your services? Empower your business with this end to end solution of creating feedback survey, sending and receving the responses and then finally analysing the same.
+
+In this session I will show you how to 
+•	Initiate customer feedback surveys using Google Forms.
+•	Send the survey emails to the database contacts through data driven subscriptions of Reporting 
+        Services (SSRS)
+•	And finally analyse the customer feedback using Power BI</description>
+      <startTime>9/1/2018 2:10:00 PM</startTime>
+      <endTime>9/1/2018 3:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84262</importID>
+      <speakers>
+        <speaker>
+          <id>84262</id>
+          <name>Reza Rad</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>170-1064</name>
+      </location>
+      <title>Ultimate Guide to Sharing Architecture for Power BI</title>
+      <description>In this session, Reza will cover different sharing methods (basic sharing, workspaces, apps, publish to web, embedded), and their pros and cons. He will also cover Row Level Security. You will learn how to secure the content of Power BI based on roles. Reza will demonstrate different implementations of row level security such as through SSAS live query, RLS in Power Bi, regardless of data source. Finally, in this session, you will learn best practices and architecture advise for both Sharing and Security.</description>
+      <startTime>9/1/2018 3:30:00 PM</startTime>
+      <endTime>9/1/2018 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>78811</importID>
+      <speakers>
+        <speaker>
+          <id>78811</id>
+          <name>David Alzamendi</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>170-2031</name>
+      </location>
+      <title>Displaying Real Time Information with Power BI</title>
+      <description>Have you been asked about displaying real time information in your Power BI reports dashboards? Have you had performance problems delivering a real time solution? Have you found the correct tools for delivering real time solutions?
+
+Through this session, you will learn how to deliver Power BI solutions streaming real time information. I will go over the different tools that we can use to approach as close as possible to a real time solution as well as combining real time information with batch processed information.</description>
+      <startTime>9/1/2018 2:10:00 PM</startTime>
+      <endTime>9/1/2018 3:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>83035</importID>
+      <speakers>
+        <speaker>
+          <id>83035</id>
+          <name>Simon Peck</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>170-1064</name>
+      </location>
+      <title>Orchestration and data movement with Azure Data Factory v2</title>
+      <description>As more and more businesses are looking to leverage cloud services to move and store their data we’ll take a look at how we can achieve that with ADF v2 and other Azure storage services.
+For the SSIS developer, we’ll translate some ADF terminology to help get you started as well as demonstrate some real-life examples from our customer engagements.
+And of course, being automation experts with Biml, we’ll demonstrate how we can automate the creation of ADF v2 assets.</description>
+      <startTime>9/1/2018 9:30:00 AM</startTime>
+      <endTime>9/1/2018 10:30:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

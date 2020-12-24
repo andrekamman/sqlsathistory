@@ -1,0 +1,21 @@
+# SQLSaturday #799 - Salvador 2018
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+10:20:00|Advaldo Mesquita|Database Administration|[Extend Events x SQLProfiler](83862.md)
+10:20:00|Nilton Kazuyuki Ueda|BI  Big Data|[[Tableau] Análise de dados, segurança e governança com Tableau + SQL Server](84774.md)
+10:20:00|Marcelo Adade|Database Administration|[Evitando os problemas mais comuns no Always On Availability Groups](85617.md)
+11:20:00|Paulo Daniel Nobre|Cloud|[Fundamentos do Azure para DBAs](85447.md)
+11:20:00|Alan Ribeiro|BI  Big Data|[PostgreSQL e SQL Server, um casamento perfeito!](85542.md)
+11:20:00|Gustavo Moura Fé|Software Development  Database|[Always Encrypted: A Forensic Analysis](85582.md)
+12:20:00|Raiane Lins|Cloud|[Carregando dados para SQL Data Warehouse com DataFactory e PolyBase](84055.md)
+12:20:00|ALISSON SENA|Software Development  Database|[Escalando aplicações utilizando o padrão CQRS](84239.md)
+12:20:00|Leandro Domingues|Database Administration|[Persistência poliglota - Até onde isso ajuda ou complica seu ambiente](85337.md)
+14:20:00|Thiago Cruz|Database Administration|[Transaction Log com AlwaysOn Availability Group](83951.md)
+14:20:00|Wiluey Sousa|Cloud|[MySQL  PostgreSQL como PaaS no Ecossistema do Microsoft Azure](84926.md)
+14:20:00|Igor Santos de Paula|Software Development  Database|[ORM (Entity Framework | Hibernate), extraindo o melhor dessa técnica tão mal vista](85258.md)
+15:20:00|Reginaldo Silva|Database Administration|[Monitorando seu ambiente em real-time com Power BI](84765.md)
+15:20:00|Cleilson Gomes|Software Development  Database|[Tuning na teoria](85588.md)
+15:20:00|Vitor Fava|BI  Big Data|[Implementando soluções de IA utilizando os serviços cognitvos no](86326.md)
+16:20:00|Leandro Domingues|Database Administration|[MongoDB para DBAs Relacionais - Tudo o que você sempre quis saber](84925.md)
+16:20:00|Arthur Luz|BI  Big Data|[O Ecossistema de BI no Azure](85110.md)
+16:20:00|Anderson Vasconcelos|Software Development  Database|[Análise de Desempenho de Consultas - Uma abordagem através do Plano de Execução](85604.md)

@@ -1,0 +1,22 @@
+# SQLSaturday #350 - Winnipeg 2014
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Bill Preachuk|New Technology Track|[Bring your SQL Server Skills to the Hive ](10614.md)
+00:00:00|Bill Preachuk|New Technology Track|[Hadoop for the SQL Server Developer/DBA](10615.md)
+00:00:00|Christian Cote|BI Track|[Modernize your data warehouse](11577.md)
+00:00:00|Felipe Ferreira|BI Track|[Power BI QA: Take your data analysis to the next level](14234.md)
+00:00:00|Janis Griffin|DBA Track|[Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues](15729.md)
+00:00:00|Janis Griffin|Developer Track|[Looney Tuner?  No, there IS a method to my madness](15730.md)
+00:00:00|Jeff Prom|New Technology Track|[SQL Inejctions and How To Stop Them](16376.md)
+00:00:00|Kirby Richter|DBA Track|[Implement a Dynamic Table Partitioning Solution](18391.md)
+00:00:00|Mark Vaillancourt|BI Track|[MDX Trek: First Contact](19656.md)
+00:00:00|Mark Vaillancourt|BI Track|[Analysis Services Terms and Concepts for the DBA](19658.md)
+00:00:00|Mike Diehl|Developer Track|[Coupling and Cohesion Patterns and Anti-Patterns in SQL and ETL development](20678.md)
+00:00:00|Phillip Labry|BI Track|[Getting Started with Analysis Services Tabular mode](22125.md)
+00:00:00|MIKE DONNELLY|Developer Track|[Twice in a Lifetime: T-SQL Refactoring 101](24986.md)
+00:00:00|Terry Bunio|DBA Track|[Breaking Data - How to Load and Stress test your database using SQL Profiler and OStress](26047.md)
+00:00:00|Ben Thul|DBA Track|[Practical Powershell for the Harried DBA](26550.md)
+00:00:00|Tim Plas|DBA Track|[Protecting SQL Data for Availability and DR](26591.md)
+00:00:00|Tim Costello|Developer Track|[10 things I wish I knew about loading data](26806.md)
+00:00:00|Tim Costello|New Technology Track|[Windowing Functions](26809.md)
+00:00:00|Aaron Bertrand|Developer Track|[T-SQL : Bad Habits  Best Practices](8923.md)

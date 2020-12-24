@@ -1,0 +1,1142 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #44 - Huntington Beach 2010</name>
+    <startDate>4/24/2010 12:00:00 AM</startDate>
+    <attendeeEstimate>221</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat44</twitterHashtag>
+    <venue>
+      <name>Goldenwest College</name>
+      <street>15744 Goldenwest Street</street>
+      <city>Huntington Beach</city>
+      <state>California</state>
+      <zipcode>92647</zipcode>
+      <longitude>-118.0066274</longitude>
+      <latitude>33.7333707</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>49</importID>
+      <name>Strategy Companion</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.strategycompanion.com</url>
+      <imageURL>
+      </imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>8</importID>
+      <name>FusionIO</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.fusionio.com/solutions/microsoft-sql-server/</url>
+      <imageURL>https://www.sqlsaturday.com/files/18b704b1-226d-48fe-b0b8-f7b4d3443b3d.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>405</importID>
+      <name>Attunity</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.attunity.com</url>
+      <imageURL>https://www.pass.org/files/fb42d77f-3037-4b66-8ca0-fc14e274c32a.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1035</importID>
+      <name>SharePoint360</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.sharepoint360.com/</url>
+      <imageURL>https://www.sharepoint360.com/images/sharepoint360-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>341</importID>
+      <name>WestClinTech</name>
+      <label>Bronze Sponsor</label>
+      <url>http://westclintech.com</url>
+      <imageURL>https://westclintech.com/Portals/0/images/wct_logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>5</importID>
+      <name>Quest Software</name>
+      <label>Platinum Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/947/EventSponsor_14722.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>874</importID>
+      <name>MySpace</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.myspace.com/</url>
+      <imageURL>https://myspace.tekgroupweb.com/images/20006/media_gallery/myspace_white-on-blue.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>30687</importID>
+      <name>Jen Underwood</name>
+      <label>
+      </label>
+      <description>Jen Underwood, a Senior Director at DataRobot, has held worldwide analytics product management roles at Microsoft and served as a technical lead for system implementation firms.  She has over 20 years of experience launching new products and turning around failed projects in enterprise data warehousing, reporting, and advanced analytics. Today she designs product and helps analytics professionals learn how to solve complex problems with machine learning in the emerging citizen data science segment.  
+
+Jen has a Bachelor of Business Administration – Marketing, Cum Laude from the University of Wisconsin, Milwaukee and a post-graduate certificate in Computer Science – Data Mining from the University of California, San Diego.</description>
+      <twitter>@idigdata</twitter>
+      <linkedin>https://www.linkedin.com/in/jenunderwood</linkedin>
+      <ContactURL>http://www.impactanalytix.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@idigdata</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33192</importID>
+      <name>Stacey Braodwell</name>
+      <label>
+      </label>
+      <description>Stacey founded IT Talent Search in 2009 representing  marketing Top Technology Talent to companies throughout Los Angeles on a contract, contract-to-hire  fulltime basis. We employ the most sophisticated software developed by industry leaders/researchers and engage a remarkable team of recruiters. We are the resource that enables companies to stay current and competitive.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://ittalentsearch.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31003</importID>
+      <name>Jon Saltzman</name>
+      <label>
+      </label>
+      <description>Jon Saltzman has over 10 years of pleasant and exciting experience
+working with a variety of databases, including multi-value legacy
+databases such as Pick/D3 and MUMPs, and relational databases such as
+MySQL, PostgreSQL, SQLLite and SQL Server (since SQL Server 2000).  He
+has been an application developer specializing in data-driven web
+applications, a database developer/analyst/administrator, and is
+currently wearing many hats, including some from the business side of
+operations.
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30296</importID>
+      <name>Harold Wong</name>
+      <label>
+      </label>
+      <description>I am an IT Pro Evangelist who absolutely loves technology.  I have been working with computers since the early 80's (TRS80 and Commodore C64).  I am fortunate enough to be in a role where I get to spend time with the community to talk about Microsoft technologies and not have to worry about a sales quota.  This allows me to share my opinions (good and bad) about the state of our platform.  </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.technet.com/b/haroldwong</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32952</importID>
+      <name>Ravi Bodla</name>
+      <label>
+      </label>
+      <description>Ravi Bodla is a senior architect with Hitachi Consulting.  He has more than ten years of professional experience in the manufacturing, high-tech, financial, and aerospace and defense sectors.  His major areas of expertise are in business intelligence, data warehousing, data quality, business analysis, client-server application development and data modeling.
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.linkedin.com/pub/ravi-bodla/0/586/96b</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28543</importID>
+      <name>Andrew Karcher</name>
+      <label>
+      </label>
+      <description>As a Senior Database Consultant with Clarity Consulting (http://www.claritycon.com), for over 10 years, Andrew's duties include architecting and developing solutions, for a variety of clients in diverse fields on the Microsoft platform including SQL Server, .Net, and Business Intelligence. Andrew is a 3-Time Microsoft MVP for SQL Server. He serves the community in multiple roles including the organizer of SQL Saturday in Orange County.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.claritycon.com/blogs/andrew_karcher</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30309</importID>
+      <name>Steve Hendricks</name>
+      <label>
+      </label>
+      <description>Steve Hendricks is a sought after speaker and consultant on database and job search topics.  Having been a Database Administrator since 1997 and Microsoft certified since 2000, he has seen and heard it all.  His sessions are always well attended and highly anticipated.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32953</importID>
+      <name>Ravi Bodla</name>
+      <label>
+      </label>
+      <description>Ravi Bodla is a senior architect with Hitachi Consulting.  He has more than ten years of professional experience in the manufacturing, high-tech, financial, and aerospace and defense sectors.  His major areas of expertise are in business intelligence, data warehousing, data quality, business analysis, client-server application development and data modeling.
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.linkedin.com/pub/ravi-bodla/0/586/96b</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29902</importID>
+      <name>Darrell Burns</name>
+      <label>
+      </label>
+      <description>Darrell has been developing customized database applications since 1988.  His most recent achievement was a system for classifying imported goods against the US Harmonized Tariff Schedule and determining eligibility for special trade preferences. During his career he has designed apps for database marketing, case management, metadata management, geo-demographics, locational analysis, watch-list screening, and asset management. He served as CIO for marketing information company Nielsen/Claritas.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.frontlineda.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30311</importID>
+      <name>Steve Hendricks</name>
+      <label>
+      </label>
+      <description>Steve Hendricks is a sought after speaker and consultant on database and job search topics.  Having been a Database Administrator since 1997 and Microsoft certified since 2000, he has seen and heard it all.  His sessions are always well attended and highly anticipated.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29964</importID>
+      <name>Doug Wheaton</name>
+      <label>
+      </label>
+      <description>Doug Wheaton is a CDC expert and has over 20 years of experience in the content, workflow management and data integration space. He has written numerous related articles and has presented at many Microsoft conferences, SQL Saturdays and user groups throughout the US on the topics of BI and data integration using Microsoft SSIS.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30824</importID>
+      <name>Jesse Gebhardt</name>
+      <label>
+      </label>
+      <description>Jesse Gebhardt is a technical resource for our Sales Team. He is presented with hundreds of different business problems from every type of industry each month, which makes him well-equipped to answer questions on the fly. Jesse is an East-Coaster living on the West Coast. He studied Physics and Computer Science at the University of Southern California. His family owns a restaurant in New Jersey, so food is his life (along with analysis).</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.tableausoftware.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31977</importID>
+      <name>Denny Cherry</name>
+      <label>
+      </label>
+      <description>Denny Cherry is the owner and principal consultant for Denny Cherry  Associates Consulting and has over a decade of experience working with platforms such as Microsoft Azure, Amazon AWS, Microsoft SQL Server, Hyper-V, vSphere, and Enterprise Storage solutions. Denny’s areas of technical expertise include system architecture, performance tuning, security, replication, and troubleshooting. Denny currently holds several Microsoft Certifications related to SQL Server 2000 through 2019, including being a Microsoft Certified Master, Microsoft MVP and VMware vExpert Award.</description>
+      <twitter>mrdenny</twitter>
+      <linkedin>https://www.linkedin.com/in/mrdenny</linkedin>
+      <ContactURL>https://www.dcac.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mrdenny</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29620</importID>
+      <name>Sumeet  Bansal</name>
+      <label>
+      </label>
+      <description>Sumeet Bansal is Principal Solutions Architect for Fusion-io. He designs architectural solutions with Fusion-io products that deliver unprecedented levels of scalability, performance and simplicity. 
+
+Sumeet has more than 11 years IT and database-infrastructure experience, including work as vice-president of information technology at MS SQL-based Internet retailer Wine.com, senior database architect for MS SQL-based eVineyard inc., and systems analyst for Akiba Bank Limited.
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28542</importID>
+      <name>Andrew Karcher</name>
+      <label>
+      </label>
+      <description>As a Senior Database Consultant with Clarity Consulting (http://www.claritycon.com), for over 10 years, Andrew's duties include architecting and developing solutions, for a variety of clients in diverse fields on the Microsoft platform including SQL Server, .Net, and Business Intelligence. Andrew is a 3-Time Microsoft MVP for SQL Server. He serves the community in multiple roles including the organizer of SQL Saturday in Orange County.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.claritycon.com/blogs/andrew_karcher</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31577</importID>
+      <name>Mark Rosenberg</name>
+      <label>
+      </label>
+      <description>Mark Rosenberg has been writing software with Microsoft technologies for the last 10 years.  He has been speaking to user groups and at code camps for the last 2 years and been a certified trainer for the last year.
+
+Mark likes to talk to developers and has been talking to anyone who will listen.  He is very active in the community, both speaking at user groups and running 2 user groups in Southern California.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33719</importID>
+      <name>Thomas Mueller</name>
+      <label>
+      </label>
+      <description>Thomas Mueller has been working with databases for almost 15 years. He is the Implementation/Database Administration Manager at HMS, a healthcare company in Santa Ana. Thomas got his BS in Digital Media  Computer Science in 1999 and received his MS in Information Systems from Claremont Graduate University in 2004. In addition to databases, his interests include data mining, knowledge management and LEGO®.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.tmspecial.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28541</importID>
+      <name>Andrew Karcher</name>
+      <label>
+      </label>
+      <description>As a Senior Database Consultant with Clarity Consulting (http://www.claritycon.com), for over 10 years, Andrew's duties include architecting and developing solutions, for a variety of clients in diverse fields on the Microsoft platform including SQL Server, .Net, and Business Intelligence. Andrew is a 3-Time Microsoft MVP for SQL Server. He serves the community in multiple roles including the organizer of SQL Saturday in Orange County.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.claritycon.com/blogs/andrew_karcher</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31576</importID>
+      <name>Mark Rosenberg</name>
+      <label>
+      </label>
+      <description>Mark Rosenberg has been writing software with Microsoft technologies for the last 10 years.  He has been speaking to user groups and at code camps for the last 2 years and been a certified trainer for the last year.
+
+Mark likes to talk to developers and has been talking to anyone who will listen.  He is very active in the community, both speaking at user groups and running 2 user groups in Southern California.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30370</importID>
+      <name>Chris Dickey</name>
+      <label>
+      </label>
+      <description>Chris has worked for over 12 years as an independent consultant solving SQL Server performance problems. He started working with SQL Server in 1989. After all those years, he is still finding better ways to solve performance problems faster. There might be new surprises popping up during the next consulting job. It is best to be prepared. So, Chris just finished attending 5 days of advanced SQL Server performance training taught by the people at SQLSkills.
+Chris is a graduate of UCSD</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.FastSqlServer.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29978</importID>
+      <name>Diana Dee</name>
+      <label>
+      </label>
+      <description>Diana Dee has been a Microsoft Certified Trainer since 1996.  Since 2005, she has specialized in training and consulting on SQL Server administration, Transact-SQL querying, and database design.  
+    Diana lives in Huntington Beach with her husband and two Labrador retrievers.  Diana is one of the authors of TribalSQL (tribalsql.com).
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30848</importID>
+      <name>Jim Bears</name>
+      <label>
+      </label>
+      <description>For over 18 years,  repeatedly recognized for developing innovative solutions for multi-million dollar, globally deployed software and systems. Jim Bears is a frequent speaker in Southern California user groups and Code Camps, and also serves as a Director for the San Diego .NET Developers Group, mentor at the San Diego .NET Tech Immersion Group, and Co-Founder of SQL Saturday San Diego. He also currently serves as Chief Technology Officer for Computer Market Research, Ltd</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31978</importID>
+      <name>Denny Cherry</name>
+      <label>
+      </label>
+      <description>Denny Cherry is the owner and principal consultant for Denny Cherry  Associates Consulting and has over a decade of experience working with platforms such as Microsoft Azure, Amazon AWS, Microsoft SQL Server, Hyper-V, vSphere, and Enterprise Storage solutions. Denny’s areas of technical expertise include system architecture, performance tuning, security, replication, and troubleshooting. Denny currently holds several Microsoft Certifications related to SQL Server 2000 through 2019, including being a Microsoft Certified Master, Microsoft MVP and VMware vExpert Award.</description>
+      <twitter>mrdenny</twitter>
+      <linkedin>https://www.linkedin.com/in/mrdenny</linkedin>
+      <ContactURL>https://www.dcac.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mrdenny</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31473</importID>
+      <name>Kevin Stephenson</name>
+      <label>
+      </label>
+      <description>Kevin Stephenson has been with MySpace, headquartered out of Beverly Hills, since June, 2008. He came to MySpace after many years contracting in the entertainment and internet startup space all over the LA basin. He has been working on Microsoft SQL Server products since version 4.2 and has over 15 years experience in data architecture and development, focusing on very large databases with high volumes of transactions.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.hackingsqlserver.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29019</importID>
+      <name>Ben Aminnia</name>
+      <label>
+      </label>
+      <description>Ben Aminnia is a database architect / .NET developer / consultant at Pointer Corporation with over 25 years of experience in developing database systems and managing a team of SQL Server developers and DBAs. He's also the architect of Virtual Information Portal (VIP) System and the past-president of Los Angeles SQL Server Professionals Group.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.pointercorp.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29244</importID>
+      <name>Bret Stateham</name>
+      <label>
+      </label>
+      <description>My name is Bret Stateham, and I’m a Microsoft Technical Evangelist based in San Diego, CA.  As an Evangelist for Microsoft I am passionate about Microsoft technologies like Windows 8, Windows Phone, Windows Azure and my long term favorite Microsoft SQL Server.  However, I am a lover of technology in general, and the impact that it can have on peoples lives.  if you would like to learn more about me, you can read my blog at http://BretStateham.com</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://BretStateham.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31976</importID>
+      <name>Denny Cherry</name>
+      <label>
+      </label>
+      <description>Denny Cherry is the owner and principal consultant for Denny Cherry  Associates Consulting and has over a decade of experience working with platforms such as Microsoft Azure, Amazon AWS, Microsoft SQL Server, Hyper-V, vSphere, and Enterprise Storage solutions. Denny’s areas of technical expertise include system architecture, performance tuning, security, replication, and troubleshooting. Denny currently holds several Microsoft Certifications related to SQL Server 2000 through 2019, including being a Microsoft Certified Master, Microsoft MVP and VMware vExpert Award.</description>
+      <twitter>mrdenny</twitter>
+      <linkedin>https://www.linkedin.com/in/mrdenny</linkedin>
+      <ContactURL>https://www.dcac.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mrdenny</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29390</importID>
+      <name>Carlos Bossy</name>
+      <label>
+      </label>
+      <description>Carlos Bossy (MCTS, MCP BI, CBIP) is a data and cloud analytics architect with 25 years of experience in software and database development. As a principal of Datalere, Carlos focuses on developing BI, Data Science, and Advanced Analytics solutions, including modeling data warehouses and delivering predictive models, integration, and visualization. He has developed warehouses and BI solutions for a variety of industries and state agencies, including health insurance, solar energy, foster care, telecom, and manufacturing.</description>
+      <twitter>@carlosbossy</twitter>
+      <linkedin>http://www.linkedin/in/carlosbossy</linkedin>
+      <ContactURL>http://www.carlosbossy.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@carlosbossy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30689</importID>
+      <name>Jen Underwood</name>
+      <label>
+      </label>
+      <description>Jen Underwood, a Senior Director at DataRobot, has held worldwide analytics product management roles at Microsoft and served as a technical lead for system implementation firms.  She has over 20 years of experience launching new products and turning around failed projects in enterprise data warehousing, reporting, and advanced analytics. Today she designs product and helps analytics professionals learn how to solve complex problems with machine learning in the emerging citizen data science segment.  
+
+Jen has a Bachelor of Business Administration – Marketing, Cum Laude from the University of Wisconsin, Milwaukee and a post-graduate certificate in Computer Science – Data Mining from the University of California, San Diego.</description>
+      <twitter>@idigdata</twitter>
+      <linkedin>https://www.linkedin.com/in/jenunderwood</linkedin>
+      <ContactURL>http://www.impactanalytix.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@idigdata</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31530</importID>
+      <name>Lynn Langit</name>
+      <label>
+      </label>
+      <description>Lynn is a Sr. Developer Evangelist.  She has been working with SQL Server since 6.5.  Prior to joining Microsoft, she did production work with SQL Server, Analysis Services and more. Her blog is http://blogs.msdn.com/SoCalDevGal</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.msdn.com/SoCalDevGal</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29104</importID>
+      <name>Benjamin Nevarez</name>
+      <label>
+      </label>
+      <description>Benjamin Nevarez has more than 15 years of experience with relational databases and has worked with SQL Server since version 6.5. He has been the technical editor of the two latest Kalen Delaney’s books including 'SQL Server 2008 Internals'. Benjamin holds a Master’s Degree in Computer Science and has been a speaker at several technology conferences, including the PASS Community Summit. Benjamin blogs at http://sqlblog.com/blogs/ben_nevarez.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlblog.com/blogs/ben_nevarez</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>29620</importID>
+      <speakers>
+        <speaker>
+          <id>29620</id>
+          <name>Sumeet  Bansal</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Accelerating SQL with Solid State Technology</title>
+      <description>Solid-state technologies are changing the way that MS SQL users run their databases. DBA’s are achieving significant TCO savings through performance enhancements, reliability improvements, and reduced energy and real estate costs using solid-state technologies.  Solid state is changing the way datacenters look and how MS SQL Servers perform.
+
+This session will address:
+
+1)	On overview of solid state technology options for SQL Server
+2)	Why solid state makes a difference?
+3)	An comparison of the different types of NAND Flash-based products and the advantages and disadvantages of each:
+a.	Disk-based SSDs
+b.	Onboard/Embedded PCI Express devices
+c.	Host-based PCI Express devices
+4)	Customer proof: Wine.com case study
+</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29902</importID>
+      <speakers>
+        <speaker>
+          <id>29902</id>
+          <name>Darrell Burns</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Movin Uptown: Migrating from Access to SQLServer</title>
+      <description>Darrell will be describing an import classification application initially developed entirely in Access and then converted to SQL Server 2008, leaving the Access UI intact.  Darrell will demonstrate both the before and after versions, showing how he migrated the Access macros and VBA code to SQL stored procedures, and what he learned along the way. This topic should be of particular interest to: Database designers, Access developers, SQLServer application developers, and anybody considering an Access-to-SQLServer migration. Some of the key points of interest: Data-driven application design, SQLServer vs Access performance advantages, How to use pass-through SQL, Leveraging the power of SQLServer, Access design considerations.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29390</importID>
+      <speakers>
+        <speaker>
+          <id>29390</id>
+          <name>Carlos Bossy</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Data Mining with Analysis Services</title>
+      <description>Modern day computing power along with SQL Server makes it possible to add sophisticated data mining models to our applications that forecast and predict, perform anomaly detection, and classify data.  This presentation will demonstrate how to use Analysis Services to incorporate these complex algorithms seamlessly into your databases, from transactional processing to integration, data analysis and performance management.  Attendees will be shown how to create a data mining model using SSAS, how to use SSIS to query and load mining forecasts, and a sample application that seamlessly uses the mining model.   Take a step forward towards making BI pervasive in your organization by integrating data mining into your company’s applications. </description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29104</importID>
+      <speakers>
+        <speaker>
+          <id>29104</id>
+          <name>Benjamin Nevarez</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>How the Query Optimizer Works</title>
+      <description>The Query Optimizer is the component of SQL Server that attempts to determine the best way to execute a query by finding an efficient execution plan. This session will show you how a better understanding on how the Query Optimizer works can help you to improve the performance of your databases. See how you can provide SQL Server with appropriate statistics and indexes so it can perform better cardinality estimation and produce an efficient execution plan. Learn how you can troubleshoot problems if you are not getting an efficient execution plan and how you can use other alternatives like hints or plan guides to help the query optimizer to produce a better plan.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32952</importID>
+      <speakers>
+        <speaker>
+          <id>32952</id>
+          <name>Ravi Bodla</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Solving Slowly Changing Dimension Problem /w SSIS</title>
+      <description>Slowly Changing Dimension or SCD is a common problem to data warehousing.  This session will provide an overview of SCD problem and present several solutions to this particular problem implemented with Microsoft SQL Server Integration Services</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30848</importID>
+      <speakers>
+        <speaker>
+          <id>30848</id>
+          <name>Jim Bears</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Design Patterns</title>
+      <description>Patterns emerge as both templated solutions to recurring problems and designs, as well as provide useful ways to encapsulate complex ideas into smaller, friendlier terms. Patterns gained popularity in the object-orientated community since the Fowler and the Gang Of Four, but declarative languages, like SQL, have had little-to-no coverage of how these patterns can be applied.
+
+Understanding SQL design patterns is a crucial skill every SQL developer must learn and use in their career. SQL patterns can be applied to small projects or large, multi-million dollar systems, to provide common solutions to complex problems.
+
+Patterns create a foundation for "best practices" for SQL, Database Architecture, managers.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33192</importID>
+      <speakers>
+        <speaker>
+          <id>33192</id>
+          <name>Stacey Braodwell</name>
+        </speaker>
+      </speakers>
+      <track>Track 5</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Targeting your Job Search</title>
+      <description>Tip for targeting your job search.  Using technology and online resources. </description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29978</importID>
+      <speakers>
+        <speaker>
+          <id>29978</id>
+          <name>Diana Dee</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>How Indexes Optimize Query Performance</title>
+      <description>Clustered and nonclustered index structure and operation are explained and demonstrated.  Use of query plans, plus Management Studio and dynamic management view methods for determining index structure and fragmentation are shown.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30824</importID>
+      <speakers>
+        <speaker>
+          <id>30824</id>
+          <name>Jesse Gebhardt</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Data Visualization for the SQL Server Enterprise</title>
+      <description>Data Visualization for the SQL Server Enterprise: Key Principles for Deploying Front-End Visual Analytics Tools
+
+Starting with a quick overview of why the human brain responds more effectively to visual information and ending with recommendations for successful interface design, this topic will help you understand how the addition of visual analysis in your application can increase your users’ satisfaction levels with your SQL Server solution. 
+
+Jesse will demonstrate the importance of visual analysis – including the iterative process of asking questions, creating pictures, discovering new hypothesis, and foraging for data. </description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29964</importID>
+      <speakers>
+        <speaker>
+          <id>29964</id>
+          <name>Doug Wheaton</name>
+        </speaker>
+      </speakers>
+      <track>Track 5</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Heterogeneous Data Integration with SSIS  CDC</title>
+      <description>This session will focus on Microsoft and partner technologies that enable high performance, efficient and real-time data integration using SQL Server Integration Services (SSIS), and that work with data from Oracle, Teradata, and other heterogeneous sources. You will learn how Microsoft high-speed Connectors by Attunity can be leveraged with change-data-capture (CDC) technologies integrated with SSIS to enable data replication. Use cases highlighting real-time data warehousing and operational reporting, as well as maintenance of data consistency between operational databases and applications will also be outlined.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29019</importID>
+      <speakers>
+        <speaker>
+          <id>29019</id>
+          <name>Ben Aminnia</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL XML As a Document Repository</title>
+      <description>With introduction of XML in Word 2003 and XML column data type in SQL Server 2005, there's a tremendous opportunity to put both technologies together.  I presented my vision of this technical symbiosis about two years ago and now it's time to take it to the next level.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31003</importID>
+      <speakers>
+        <speaker>
+          <id>31003</id>
+          <name>Jon Saltzman</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title> SQL Server 2008 R2 Parallel Data Warehouse</title>
+      <description>SQL Server 2008 R2 Parallel Data Warehouse - An Unofficial Early Look
+at the Possibilities for Fast, Large Scale Data Warehouses
+
+In this session, we will review some of the information that Microsoft
+has released about the exciting new SQL Server 2008 R2 Parallel Data
+Warehouse.  We will consider the product's origins, the opportunities
+it will present, and some predictions about what might be possible in
+the future with the combination of a whole new generation of
+technology (including solid state drives, faster networking, and
+more).</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28542</importID>
+      <speakers>
+        <speaker>
+          <id>28542</id>
+          <name>Andrew Karcher</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Raffle Prizes</title>
+      <description>Raffle Prizes</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31978</importID>
+      <speakers>
+        <speaker>
+          <id>31978</id>
+          <name>Denny Cherry</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Can I really consolidate my SQL Server database</title>
+      <description>In this session we will look at the available techniques for consolidating a SQL Server database, and when to use each technique to help reduce capital expenses.  Most importantly we will talk about how to decide when not to consolidate your databases.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31473</importID>
+      <speakers>
+        <speaker>
+          <id>31473</id>
+          <name>Kevin Stephenson</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Locks, Blocks, Deadlocks and Isolation Levels</title>
+      <description>Concurrency management is a fundamental function of RDBMs. In this session, you will learn how SQL Server uses locking to manage the conflicting goals of concurrency and ACID compliance. You will learn about the different lockable resource types, lock granularities and modes, and how the selection of transaction isolation levels modulates locking behavior. A novel locking pattern used at MySpace called READ UNTIL will be described. You will also be given a demonstration of troubleshooting techniques using documented and undocumented features, along with a research technique to help further your own locking knowledge.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31576</importID>
+      <speakers>
+        <speaker>
+          <id>31576</id>
+          <name>Mark Rosenberg</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Optimizing Stored Procedures</title>
+      <description>Would you like your SQL to run faster and better?  Then attend this session, we will talk about Temp Tables and Table Variables as well as tips and tricks to make your SQL run better</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28541</importID>
+      <speakers>
+        <speaker>
+          <id>28541</id>
+          <name>Andrew Karcher</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Opening Remarks (All Tracks - Courtyard)</title>
+      <description>Opening Remarks for the Event</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31977</importID>
+      <speakers>
+        <speaker>
+          <id>31977</id>
+          <name>Denny Cherry</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Is Virtualization is a good choice for SQL Server?</title>
+      <description>We’ll be looking into the pros and cons of moving SQL Servers into a virtual server environment.  Specifically we’ll be looking into when it’s a good idea and when it’s probably not a good idea.  Like all problems in the database world there are no hard set answers as to if virtualization is a good idea, but there are some times when virtualizing a SQL Server is a good idea, and can save you some money.  There are some other times when you will be shooting yourself in the foot and shouldn’t.  We’ll be focusing on when how to make this decision, and how to gather the metrics that you need in order to come to this decision.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29244</importID>
+      <speakers>
+        <speaker>
+          <id>29244</id>
+          <name>Bret Stateham</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to SQL Server Reporting Services</title>
+      <description>SQL Server Reporting Services 2008 is an enterprise reporting platform included with SQL Server.  While it is included with SQL Server, it is a great solution for reporting on any data in your organization whether the data is in SQL Server or not.  In this session, I’ll introduce you to SQL Server Reporting Services, it’s architecture, and tools you can use to develop and deliver high quality reports to your users.  Topics covered in this session include, SSRS Architecture, Using Business Intelligence Development Studio (BIDS) to develop reports, using Report Builder to develop reports, report deployment and delivery</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32953</importID>
+      <speakers>
+        <speaker>
+          <id>32953</id>
+          <name>Ravi Bodla</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Overview of BI with Microsoft SQL Technologies</title>
+      <description>Business Intelligence or BI has recently become the focus of a lot of organizations.  Microsoft SQL technologies (SQL, SSAS, SSIS, SSRS, etc…) provide a comprehensive backend support for implementing BI.  This session will provide a high-level overview of BI architectures and roles that Microsoft SQL technologies play in the BI world.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31976</importID>
+      <speakers>
+        <speaker>
+          <id>31976</id>
+          <name>Denny Cherry</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Clustering 101</title>
+      <description>In this session we will cover the basics and delve into the advanced techniques which can be used to cluster Windows servers using the Windows Cluster Service, what sort of protection this provides you, and how to properly set up your clusters for a rock solid environment which will last you for many years to come.  We will start with planning our cluster configuration, selecting our software, and walk through the process of clustering two servers together into an active passive cluster.  We will cover the differences between a standalone machine and clusters with regard to licensing and multiple instance configurations.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30687</importID>
+      <speakers>
+        <speaker>
+          <id>30687</id>
+          <name>Jen Underwood</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Business Intelligence w/MOSS 2010 and PowerPivot</title>
+      <description>This presentation covers SharePoint 2010 Business Intelligence related technologies including the Chart Web Part, Business Intelligence Center, PerformancePoint, Reporting Services, Report Builder, PowerPivot and Business Connectivity Services.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28543</importID>
+      <speakers>
+        <speaker>
+          <id>28543</id>
+          <name>Andrew Karcher</name>
+        </speaker>
+      </speakers>
+      <track>Track 5</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SoCal SQL Community - Feedback, Ideas, Questions?</title>
+      <description>We have a great SQL community here in Southern California.  But, there are always things that we could do better.  Do you have ideas or feedback on the community and things that you would like to see?  Come to the session and talk with User Group and Community Leaders about User Group and Community Wide Events.  Also, get information about how you can get involved.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33719</importID>
+      <speakers>
+        <speaker>
+          <id>33719</id>
+          <name>Thomas Mueller</name>
+        </speaker>
+      </speakers>
+      <track>Track 5</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server resources - Roundtable</title>
+      <description>This session will be very interactive. The discussion will include resources such as 
+
+- websites
+- magazines
+- associations
+- conventions
+- people
+- 3rd party companies
+
+Attendees are encouraged to voice their opinions about the resources and mention ones that didn’t make the list.
+</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30309</importID>
+      <speakers>
+        <speaker>
+          <id>30309</id>
+          <name>Steve Hendricks</name>
+        </speaker>
+      </speakers>
+      <track>Track 5</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Ace the Interview</title>
+      <description>In this tough job market, it is more important than ever that you present yourself in the best possible light when searching for your next opportunity.  The interview plays a crucial role in determining if you are the one that lands the job.  In this hands-on session, you will learn what the interviewer is looking for from you and how to supply it.  This is a must for job seekers.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31577</importID>
+      <speakers>
+        <speaker>
+          <id>31577</id>
+          <name>Mark Rosenberg</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Beginning SQL</title>
+      <description>Want to learn how to write a basic SQL query?  Then this session is for you, I will go over how to write a basic SQL query including joins.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30311</importID>
+      <speakers>
+        <speaker>
+          <id>30311</id>
+          <name>Steve Hendricks</name>
+        </speaker>
+      </speakers>
+      <track>Track 5</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Joins: Logical and Physical</title>
+      <description>A survey of the various types of joins available at the T-SQL coding level (logical), how the optimizer implements them (physical) and the tools you can use to assure that the best execution plan is being selected.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31530</importID>
+      <speakers>
+        <speaker>
+          <id>31530</id>
+          <name>Lynn Langit</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Azure</title>
+      <description>In this demo-filled session, Lynn will explain the differences between Windows Azure storage and SQL Azure. She wil demonstrate working with SQL Azure storage in your application and discuss the option to connect a non-cloud hosted front end and/or a cloud-hosted front end to a SQL Azure back end solution. Lynn will also talk about migration strategies and best practices. In her talk, you wil also learn recommended business scenarios for cloud-based storage. Finally, she will cover in detail features of SQL Server RDMS which are and are not supported in SQL Azure.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30296</importID>
+      <speakers>
+        <speaker>
+          <id>30296</id>
+          <name>Harold Wong</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Windows Server 2008 R2 and Hyper-V</title>
+      <description>If you are new to server virtualization, this is the perfect session to get familiar with the components and features of Microsoft’s Hyper-V R2 (Windows Server 2008 R2).  Once we get the basics out of the way, I will walk through some key items in configuring your own Hyper-V environment for testing as well as key factors for using Hyper-V in a production environment.  I will briefly discuss virtualization factors for SQL in preparation for Denny’s session.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30689</importID>
+      <speakers>
+        <speaker>
+          <id>30689</id>
+          <name>Jen Underwood</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Building Reporting using Analysis Services Cubes </title>
+      <description>This presentation walks through building reports in Reporting Services 2008 and Excel 2007 that query data from Analysis Services Cubes. It will also explain a variety of reporting solution architecture options using Microsoft's Business Intelligence technologies.</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30370</importID>
+      <speakers>
+        <speaker>
+          <id>30370</id>
+          <name>Chris Dickey</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Fixing performance problems - Stuff happens</title>
+      <description>I will discuss tricky tuning issues that I have encountered during my years speeding up SQL Server. Simple rules often don't apply to complex problems. SQL Server queries can have a wide variety of complexities.
+Slow queries are caused by these issues: 1. data might be retrieved from disk or RAM 2. row estimates are too high or too low 3. functions are zero costed 4. the optimizer doesn't know the value of a local variable 5. a query is too complex for the optimizer to do a great job 6. indexes compete for RAM 7. optional parameters 8. a high cost query only using 1 cpu 9. table variables  10. the optimizer isn't perfect 
+</description>
+      <startTime>4/24/2010 12:00:00 AM</startTime>
+      <endTime>4/24/2010 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

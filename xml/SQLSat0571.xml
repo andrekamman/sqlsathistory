@@ -1,0 +1,421 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #571 - Auckland 2016</name>
+    <startDate>10/15/2016 12:00:00 AM</startDate>
+    <attendeeEstimate>140</attendeeEstimate>
+    <timezone>(GMT+12:00) Fiji, Kamchatka, Marshall Is</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatAuckland</twitterHashtag>
+    <venue>
+      <name>Microsoft Auckland</name>
+      <street>5/22 Viaduct Harbour Ave, Auckland CBD, Auckland</street>
+      <city>Auckland</city>
+      <state>Auckland, New Zealand</state>
+      <zipcode>1010</zipcode>
+      <longitude>174.75725</longitude>
+      <latitude>-36.84521</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1551</importID>
+      <name>RADACAD</name>
+      <label>Gold Sponsor</label>
+      <url>http://radacad.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/982/EventSponsor_14808.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>53298</importID>
+      <name>Jonathan Stewart</name>
+      <label>
+      </label>
+      <description>Jonathan Stewart is a Business Intelligence consultant specializing in data visualization, data warehousing, and data management technologies. An advocate for educating others, he is a public speaker, teacher and blogger, continually teaching people about the Microsoft BI Stack. Since 2000, he has been working in the database field with industry leaders in healthcare, manufacturing, financial, insurance and federal, state and local governments.
+
+Jonathan is very active in the community. He has presented on SQL Server, SSIS, Reporting Services, Power BI and Business Intelligence at numerous SQLSaturday events, local user groups, and conferences throughout the United States and around the world. He participates in webcasts, podcasts, and on</description>
+      <twitter>sqllocks</twitter>
+      <linkedin>https://www.linkedin.com/in/sqllocks/</linkedin>
+      <ContactURL>https://sqllocks.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqllocks</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>52937</importID>
+      <name>Rob Douglas</name>
+      <label>
+      </label>
+      <description>Robs SQL history started as a remote DBA, branched into consultancy and now includes providing SQL Solutions to a variety of businesses, government departments and banks throughout Australia and New Zealand using a variety of native SQL solutions to meet their performance, higher availability and Disaster Recovery needs.</description>
+      <twitter>Rob_DouglasNZ</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=AAMAAAoSId0BNgwoSf_o5y24oIW3PjEHbAmdY-camp;trk=hp-identity-name</linkedin>
+      <ContactURL>http://www.gumption.co.nz</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Rob_DouglasNZ</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>52811</importID>
+      <name>Patrick Flynn</name>
+      <label>
+      </label>
+      <description>Patrick Flynn is a Senior Database Administrator with 10 years experience in large 24 x 7 enterprise environments. He is a certified master for SQL Server and a regular attendee of the PASS Summit.
+
+Has presented at SQLSaturday events in Sydney, Melbourne, Brisbane and Auckland, Edmonton and Calgary, Oslo and Cambridge</description>
+      <twitter>sqllensman</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqllensman.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqllensman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54772</importID>
+      <name>Leila Etaati</name>
+      <label>
+      </label>
+      <description>Leila Etaati is the First Microsoft AI MVP in New Zealand and Australia, as well as a Data Platform MVP. She has a Ph.D. from the University of Auckland and is the co-director and data scientist in RADACAD company with many clients around the world. Additionally, she is the co-organizer of Microsoft Business Intelligence and Power BI Use group in Auckland with more than 1300 members. Leila has also co-organized 3 main conferences in Auckland: SQL Saturday Auckland (from 2015), Difinity (from 2017) and Global AI Bootcamp. She is a data scientist, BI consultant, trainer, and speaker. She is a well-known International speaker to many conferences such as MS Ignite, SQL PASS, Data Platform Summit, SQL Saturday, Power BI World Tour and in Europe, USA, Asia, Australia, and NZ. She has over 10 years’ experience with databases and software systems. Leila is an active Technical Microsoft AI blogger in RADACAD.</description>
+      <twitter>@leila_etaati</twitter>
+      <linkedin>https://nz.linkedin.com/pub/leila-etaati/36/46/b03</linkedin>
+      <ContactURL>http://blog.radacad.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@leila_etaati</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53836</importID>
+      <name>Kevin Alcock</name>
+      <label>
+      </label>
+      <description>Kevin Alcock Director and Principal Consultant from Katipo Information Security. Kevin has been "Programming for a living since 1986", including using SQL Server off and on since version 1.1.  He has worked in a variety of roles over that time and these days has taken up the mantra of making data safe.</description>
+      <twitter>https://twitter.com/kevinnz</twitter>
+      <linkedin>https://www.linkedin.com/in/kevinnz</linkedin>
+      <ContactURL>https://kevin.net.nz</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/kevinnz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54936</importID>
+      <name>Andrew Worsley</name>
+      <label>
+      </label>
+      <description>Data scientist passionate about discovering new and inventive ways of gleaning valuable insights from large data sources.
+
+Interests include spatial statistics, data mining, machine learning, dimensionality reduction and statistical programming.</description>
+      <twitter>@aworsleynz</twitter>
+      <linkedin>https://nz.linkedin.com/in/andrew-worsley</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@aworsleynz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53613</importID>
+      <name>Dave Dustin</name>
+      <label>
+      </label>
+      <description>With more than 35 years industry experience, Dave has worked with organisations and data systems of all sizes. He is currently Principal Engineer at Xero.</description>
+      <twitter>venzann</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=venzann</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>52824</importID>
+      <name>Manjot Kaur</name>
+      <label>
+      </label>
+      <description>I have been working with SQL server for over 10 years. I have been an internal DBA and a consultant. 
+I am passionate about automation, cloud technologies, performance tuning and learning SQL internals.
+In my free time I love to read, playing with my toddler and trying my hands on new recipes.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54933</importID>
+      <name>kokila kondasamy</name>
+      <label>
+      </label>
+      <description>Working as Database Consultant part of SQL Services Professional Services team, providing SQL Server support to a variety of customer across New Zealand and Australia. Apart from SQL Server, Kokila is passionate about Cloud , NoSQL  and BigData Technologies.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://nz.linkedin.com/in/kokiladba</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53881</importID>
+      <name>Reza Rad</name>
+      <label>
+      </label>
+      <description>Reza Rad is a Microsoft Regional Director, MVP, author, trainer, speaker and consultant. He is a Microsoft Data Platform MVP for nine years from 2011.
+Reza wrote many books on Power BI subjects including the Power BI from Rookie to Rock Star, and Pro Power BI Architecture.
+Reza is the invited speaker at the world's well-known conferences such as Microsoft Ignite, Microsoft Business Applications Summit, Ignite Tour, PASS Summit, and many other conferences.
+Reza is an active blogger and writes regularly about Power BI at https://radacad.com.</description>
+      <twitter>Rad_Reza</twitter>
+      <linkedin>http://nz.linkedin.com/in/rezarad/</linkedin>
+      <ContactURL>http://radacad.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Rad_Reza</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>52652</importID>
+      <name>Amit Arora</name>
+      <label>
+      </label>
+      <description>Amit Arora is an SQL Server Consultant with WARDY IT Solutions. Amit has over 10 years of experience working with SQL Server including working as a Technical Advisor and DBA for Microsoft. Amit has recently been working on SQL Server solutions with Microsoft Azure and HDInsight as well as other big data technologies.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://in.linkedin.com/in/amit-arora-21633699</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>53836</importID>
+      <speakers>
+        <speaker>
+          <id>53836</id>
+          <name>Kevin Alcock</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Ponui</name>
+      </location>
+      <title>Protecting your data from SQL Injection attacks</title>
+      <description>Kevin will be talking on the topic of SQL injection - something that all of us need to be aware of and protect against. 
+
+And here is a blurb from:
+
+https://www.owasp.org/index.php/Top_10_2013-A1-Injection
+
+" The best way to find out if an application is vulnerable to injection is to verify that all use of interpreters clearly separates untrusted data from the command or query. For SQL calls, this means using bind variables in all prepared statements and stored procedures, and avoiding dynamic queries. 
+Checking the code is a fast and accurate way to see if the application uses interpreters safely. Code analysis tools can help a security analyst find the use of interpreters and trace the data flow through the application. Penetration testers can validate these issues by crafting exploits that confirm the vulnerability."
+
+Kevin will give us a demo that will show an injection attack in action and how to mitigate it.</description>
+      <startTime>10/15/2016 12:45:00 PM</startTime>
+      <endTime>10/15/2016 1:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>54772</importID>
+      <speakers>
+        <speaker>
+          <id>54772</id>
+          <name>Leila Etaati</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Ponui</name>
+      </location>
+      <title>R; One Ring to Rule Them All</title>
+      <description>R is one of the most popular and powerful analytics languages. That helps data scientists to prepare data, predict data, and visualize it. Microsoft offers several deployment options to bring next-generation advanced analytics to your business. Microsoft R Server delivers R-based analytics to where your data lives. Processing analytics in-place eliminates data movement, reducing latencies and operational costs. 
+
+In this session, first basic concepts of machine learning will be discussed. Then, a demo of how to use R for data cleaning, visualization, and prediction will be presented. Subsequently, an introduction to use R server and R in SQL Server 2016 will be shown. Finally, a brief introduction on how to use Azure ML with R will be shown.</description>
+      <startTime>10/15/2016 3:30:00 PM</startTime>
+      <endTime>10/15/2016 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>52652</importID>
+      <speakers>
+        <speaker>
+          <id>52652</id>
+          <name>Amit Arora</name>
+        </speaker>
+      </speakers>
+      <track>Database Development</track>
+      <location>
+        <name>MPC</name>
+      </location>
+      <title>Temporal Databases in Microsoft SQL server 2016</title>
+      <description>Introducing Temporal Databases in SQL Server 2016
+
+More and more organizations are storing archives of data to help them make important business decisions. Traditionally, organizations had to rely on expensive, and tedious methods to go back in time and make sense of growth, negative growth, profit, loss, etc.
+
+Microsoft SQL Server 2016 introduces a new feature called Temporal Databases which essentially solves all the problems mentioned above.
+
+This presentation aims to go deep into Temporal Databases (requirements, use cases, technical know-hows) and present some demo’s in order to gain specific understanding on this new feature which is being called “Time Travel”.</description>
+      <startTime>10/15/2016 12:45:00 PM</startTime>
+      <endTime>10/15/2016 1:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>54936</importID>
+      <speakers>
+        <speaker>
+          <id>54936</id>
+          <name>Andrew Worsley</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Ponui</name>
+      </location>
+      <title>Package Management in Microsoft R Open with Checkpoint</title>
+      <description>Package Management in Microsoft R Open with Checkpoint</description>
+      <startTime>10/15/2016 10:45:00 AM</startTime>
+      <endTime>10/15/2016 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>53881</importID>
+      <speakers>
+        <speaker>
+          <id>53881</id>
+          <name>Reza Rad</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Ponui</name>
+      </location>
+      <title>Security in Power BI</title>
+      <description>Come to this session to learn how to leverage security in Power BI. Share Power BI report with colleagues, or publish it to web, or through an office 365 group. You will also see how to implement Row level security on different data sources either through Power BI security itself, or applying security in the data source level of SSAS Tabular or SQL Server. This is demo heavy session all about Security in Power BI</description>
+      <startTime>10/15/2016 2:00:00 PM</startTime>
+      <endTime>10/15/2016 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>52811</importID>
+      <speakers>
+        <speaker>
+          <id>52811</id>
+          <name>Patrick Flynn</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>MPC</name>
+      </location>
+      <title>Adding Power to the DBA toolkit!</title>
+      <description>Interested in being able to manage, monitor and document your SQL Environment from a single location? Want to be able to produce modern interactive reports and dashboards that can be viewed on both desktop and mobile devices? 
+
+By adding a little "Power" to your DBA toolkit you can!
+
+By combining PowerShell and PowerBi with the more traditional DBA tools I will show how to query and document your entire environment and produce rich interactive reports that can be consumed by all levels of your organisation.</description>
+      <startTime>10/15/2016 2:00:00 PM</startTime>
+      <endTime>10/15/2016 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>53298</importID>
+      <speakers>
+        <speaker>
+          <id>53298</id>
+          <name>Jonathan Stewart</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>MPC</name>
+      </location>
+      <title>Data Visualization:  How to truly tell a great story!</title>
+      <description>We have more information available to us today than ever before.  So much so that we run the risk of not being able to tell concise stories.  There's a lot more to creating that story than just getting the correct information.  Come learn not just the do's and don'ts, but the whys…</description>
+      <startTime>10/15/2016 9:30:00 AM</startTime>
+      <endTime>10/15/2016 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>52824</importID>
+      <speakers>
+        <speaker>
+          <id>52824</id>
+          <name>Manjot Kaur</name>
+        </speaker>
+      </speakers>
+      <track>Database Development</track>
+      <location>
+        <name>MPC</name>
+      </location>
+      <title>DW SuperHero-Columnstore Index</title>
+      <description>Columnstore indexes were introduced in SQL 2012. They have the superpower to boost SQL server performance by flipping row based indexing to column based indexing. In this session, we will cover basics of this technology, its usability, performance impact, implementation (through demo), access mechanism and what's new in SQL 2016.</description>
+      <startTime>10/15/2016 3:30:00 PM</startTime>
+      <endTime>10/15/2016 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>52937</importID>
+      <speakers>
+        <speaker>
+          <id>52937</id>
+          <name>Rob Douglas</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Ponui</name>
+      </location>
+      <title>Are You High?  Can You Recover? - HA and DR in SQL Server.</title>
+      <description> A look at the options for providing High Availability and Disaster Recovery using the  native features available in SQL Server.  This session will cover the basis of how the technologies work, what is(and isn't) protected and a list of the advantages and disadvantages of each technology.
+  We'll also look at the why of High Availability, Disaster recovery and how to get the business to commit to a design to provide Business Continuity when disaster strikes.
+</description>
+      <startTime>10/15/2016 9:30:00 AM</startTime>
+      <endTime>10/15/2016 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>53613</importID>
+      <speakers>
+        <speaker>
+          <id>53613</id>
+          <name>Dave Dustin</name>
+        </speaker>
+      </speakers>
+      <track>Database Development</track>
+      <location>
+        <name>MPC</name>
+      </location>
+      <title>Introduction to the Query Store</title>
+      <description>Query store is an awesome new feature in SQL Server 2016 and Azure SQL Database that allows you to store the history of query plans (what SQL Server turns your SQL statement into), including detailed data on performance, making comparison with previous versions of a statement easy. 
+
+The Query Store also lets you identify queries that may degrade performance over time and make necessary adjustments.
+I#39;ll show how easy it is to work with the Query Store and work with query plans.</description>
+      <startTime>10/15/2016 10:45:00 AM</startTime>
+      <endTime>10/15/2016 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>54933</importID>
+      <speakers>
+        <speaker>
+          <id>54933</id>
+          <name>kokila kondasamy</name>
+        </speaker>
+      </speakers>
+      <track>Database Development</track>
+      <location>
+        <name>Ponui</name>
+      </location>
+      <title>Restoring SQL Server Database to Old Version</title>
+      <description>In this session , I will demonstrating the approach for restoring SQL Server Database to older version( like restoring SQL server 2014 database to SQL Server 2012) using Microsoft azure cloud migration tool.</description>
+      <startTime>10/15/2016 11:15:00 AM</startTime>
+      <endTime>10/15/2016 11:30:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

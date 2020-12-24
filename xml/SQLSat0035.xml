@@ -1,0 +1,30 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #35 - Dallas 2010</name>
+    <startDate>5/22/2010 12:00:00 AM</startDate>
+    <attendeeEstimate>470</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat35</twitterHashtag>
+    <venue>
+      <name>Region 10 Education Service Center</name>
+      <street>400 E. Spring Valley Rd</street>
+      <city>Richardson</city>
+      <state>Texas</state>
+      <zipcode>75083</zipcode>
+      <longitude>-96.729034</longitude>
+      <latitude>32.939342</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>8</importID>
+      <name>FusionIO</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.fusionio.com/solutions/microsoft-sql-server/</url>
+      <imageURL>https://www.sqlsaturday.com/files/18b704b1-226d-48fe-b0b8-f7b4d3443b3d.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

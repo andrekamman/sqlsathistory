@@ -1,0 +1,156 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #412 - Ica 2015</name>
+    <startDate>7/4/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT-05:00) Bogota, Lima, Quito</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat412</twitterHashtag>
+    <venue>
+      <name>
+      </name>
+      <street>
+      </street>
+      <city>Ica</city>
+      <state>Ica, Peru</state>
+      <zipcode>
+      </zipcode>
+      <longitude>-75.7303009033203</longitude>
+      <latitude>-14.0639200210571</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>36685</importID>
+      <name>Juan Rafael</name>
+      <label>
+      </label>
+      <description>MCT- MCSA-MCITP-MCP-MTA-MCTS. Consultor Microsoft Dynamics con m#225;s de 4 a#241;os de experiencia en ERP y mas de 7 a#241;os en tecnolog#237;as Microsoft como SQL Server, Windows Server y SharePoint. Ha participado en proyectos de implementaci#243;n de ERP Microsoft Dynamics AX para empresas de Peru como EuroMotors, C#225;mara de Comercio de Lima, Consorcio Minero Horizonte, SIka Peru, entre otras, tambi#233;n con menci#243;n en implementaciones de ERP Microsoft Dynamics GP para diferentes industrias del Per#250;.</description>
+      <twitter>@jlc_rve</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://geeks.ms/blogs/juanrafael/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jlc_rve</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38191</importID>
+      <name>Luis Alonso Talavera Trevejo</name>
+      <label>
+      </label>
+      <description>Cloud Computing Consultant</description>
+      <twitter>@alonsito28</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://clouddesk365.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@alonsito28</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37805</importID>
+      <name>German Cayo Morales</name>
+      <label>
+      </label>
+      <description>Consultor y especialista en SQL Server. Fundador de la Comunidad MT Developer Ica y colaborador como Speaker en diferentes Comunidades a nivel Nacional</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://germancayom.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14406</importID>
+      <name>German Cayo</name>
+      <label>
+      </label>
+      <description>Actualmente líder del Capítulo Pass SQL User Group Ica.Profesional, con experiencia en Infraestructura Windows, base de datos SQL Server, orientado a la implementacion de Inteligencia de Negocios. Colaborar a fin de Brindar soluciones en Infraestructura y Administracion de Base de Datos en TI, desarrollar soluciones de Inteligencia de Negocios a fin de mejorar la toma de decisiones de los diferentes niveles en la organizacion</description>
+      <twitter>@ggcayo</twitter>
+      <linkedin>https://www.linkedin.com/in/ggcayo/</linkedin>
+      <ContactURL>https://germancayom.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ggcayo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21932</importID>
+      <name>Percy Reyes</name>
+      <label>
+      </label>
+      <description>Microsoft SQL Server MVP, Certified Sr. Database Administrator, Author at http://MSSQLTips.com  | SQL PASS Peru Chapter Leader | MCITP DBA/Dev, MCTS, MCP.
+Bachelor in Systems Engineering and Senior Database Administrator focused on Microsoft SQL Server Internals with over 12+ years of extensive experience managing database servers. I am a frequent Speaker about SQL Server technologies for over 10 years at Local User Group Meetings, Webcasts, and National Conferences. </description>
+      <twitter>@percyreyes</twitter>
+      <linkedin>https://www.linkedin.com/in/percyreyes</linkedin>
+      <ContactURL>http://percyreyes.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@percyreyes</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36799</importID>
+      <name>Alberto De Rossi</name>
+      <label>
+      </label>
+      <description>I have 20 years of experience in IT, orientated towards project management, functional and process consultancy. I am professional in computing and Informatics from Universidad San Mart#237;n de Porres. I#39;m SQL Server MCP and MCT and MVP from 2017. I teach SQL Server MOC in Instituto Tecnol#243;gico Cibertec and collaborate with SQL Server communities and user groups in all of the country. I am also founder of dbLearner, a community where knowledge of database technologies are shared through the blog dblearner.com</description>
+      <twitter>@albertoderossi</twitter>
+      <linkedin>https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile</linkedin>
+      <ContactURL>http://dblearner.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@albertoderossi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>21932</importID>
+      <speakers>
+        <speaker>
+          <id>21932</id>
+          <name>Percy Reyes</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Cardinality Estimator en SQL Server 2014. #191;Qu#233; es? Y c#243;mo nos ben</title>
+      <description>Cardinality Estimator en SQL Server 2014 trae muchos cambios internos en el optimizador de consultas que son necesarios conocer y comprender para saber escribir c#243;digo T-SQL optimizado asi c#243;mo tambi#233;n consideraciones reales para cuando usted decida migrar a SQL Server 2014.
+Todos estos temas y m#225;s veremos en esta sesi#243;n. 
+</description>
+      <startTime>6/20/2015 12:00:00 AM</startTime>
+      <endTime>6/20/2015 12:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14406</importID>
+      <speakers>
+        <speaker>
+          <id>14406</id>
+          <name>German Cayo</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Microsoft Azure y MS SQL Server 2014 como Plataforma Hibrida</title>
+      <description>En esta sesi#243;n revisaremos las nuevas funcionalidades de MS SQL Server 2014 integradas a la nube de Microsoft Azure para generar escenarios de HA, DR, Backup to Azure y Storage Azure para Archivos de Base de Datos.</description>
+      <startTime>6/20/2015 12:00:00 AM</startTime>
+      <endTime>6/20/2015 12:50:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

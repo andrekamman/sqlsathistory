@@ -1,0 +1,23 @@
+# SQLSaturday #75 - Columbus 2011
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Allen White|Track 3|[Let Service Broker Help You Scale Your Application](28931.md)
+00:00:00|Allen White|Track 4|[Gather SQL Server Performance Data with PowerShell](28933.md)
+00:00:00|Kevin Cross|Track 2|[Business SQL: Real World Analytics](28961.md)
+00:00:00|Craig Purnell|Track 2|[Integrating SQL Server with Active Directory](29647.md)
+00:00:00|Dave Rodabaugh|Track 1|[Backyard Grilling with Analysis Services](29988.md)
+00:00:00|Louis Davidson|Track 2|[Characteristics of a Great Relational Database](30012.md)
+00:00:00|Erin Stellato|Track 4|[Baseline Basics: Where to Start, What You Need](30081.md)
+00:00:00|Eddie Wuerch|Track 3|[Find Performance Problems by Reading the Waits](30147.md)
+00:00:00|Eddie Wuerch|Track 4|[TempDB Performance Troubleshooting and Optimizing](30148.md)
+00:00:00|Jes Schultz|Track 1|[Reporting Services 201: From Basic To WOW! ](30778.md)
+00:00:00|Paul Hiles|Track 3|[Take Your Automation Scripts to the Next Level!](32207.md)
+00:00:00|Paul Hiles|Track 3|[DMVs- What are they and why should a DBA care? ](32208.md)
+00:00:00|Rob Collie|Track 1|[PowerPivot: BI  Massive Data Analysis for Humans](32552.md)
+00:00:00|Sarah Barela|Track 4|[The 4-hour DBA: Automate, Audit and Relax](32781.md)
+00:00:00|Sarah Barela|Track 4|[Build your own SQL Server Cloud](32783.md)
+00:00:00|Sarah Barela|Track 3|[Oh, no!  Disaster Strikes](32784.md)
+00:00:00|Kevin Boles|Track 2|[SQL Server Partitioning from A to Z](33452.md)
+00:00:00|Kevin Boles|Track 2|[SANs and SQL Server](33454.md)
+00:00:00|William E Pearson III|Track 1|[Beyond Plateaux: Optimize SSAS via Best Practices](34220.md)
+00:00:00|William E Pearson III|Track 1|[Getting Started with MDX](34225.md)

@@ -1,0 +1,48 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #974 - Albuquerque 2020</name>
+    <startDate>9/18/2021 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT-07:00) Mountain Time (US and Canada)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatABQ</twitterHashtag>
+    <venue>
+      <name>CNM Main Campus - Smith Brasher Hall</name>
+      <street>717 University Blvd SE, Albuquerque, NM</street>
+      <city>Albuquerque</city>
+      <state>New Mexico</state>
+      <zipcode>87106</zipcode>
+      <longitude>-106.628854</longitude>
+      <latitude>35.0762934</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>2164</importID>
+      <name>U.S. Eagle Federal Credit Union</name>
+      <label>Green Chile Sponsor</label>
+      <url>https://www.useagle.org/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/974/EventSponsor_14648.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2626</importID>
+      <name>SQLSaturday Baton Rouge</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.sqlsatbr.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/974/EventSponsor_14485.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2488</importID>
+      <name>davebland.com</name>
+      <label>Personal Sponsor</label>
+      <url>http://www.davebland.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/974/EventSponsor_14527.PNG</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

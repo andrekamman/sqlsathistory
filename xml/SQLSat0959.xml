@@ -1,0 +1,40 @@
+<GuidebookXML>
+  <sponsors>
+    <sponsor>
+      <importID>1817</importID>
+      <name>SentryOne</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.sentryone.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/959/EventSponsor_14448.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1229</importID>
+      <name>University of North Florida</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.unf.edu</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/959/EventSponsor_14592.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1782</importID>
+      <name>Apex Systems</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.apexsystems.com/Pages/default.aspx</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/959/EventSponsor_14520.PNG</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1495</importID>
+      <name>MinionWare, LLC</name>
+      <label>Silver Sponsor</label>
+      <url>http://minionware.net/?utm_source=SQL%20Saturdayutm_campaign=SQLSat613utm_medium=imageutm_term=MinionWare</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/959/EventSponsor_14699.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

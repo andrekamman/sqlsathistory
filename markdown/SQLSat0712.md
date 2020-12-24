@@ -1,0 +1,20 @@
+# SQLSaturday #712 - South Island NZ 2018
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+10:00:00|Dave Dustin|Strategy and Architecture|[Back to Basics – An overview of the internals of SQL Server](71626.md)
+10:00:00|Gogula Aryalingam|BI Platform Architecture, Development  Administration|[Azure Data Lake Analytics: Leveraging the Modern Data Warehouse](72429.md)
+10:00:00|Vanessa Larsen|Other|[Deciphering the Black Box - Why productivity projects crash and burn](77446.md)
+10:00:00|Leila Etaati|Analytics and Visualization|[Create Custom Visual using JSON and R](78712.md)
+11:15:00|Phillip Seamark|BI Platform Architecture, Development  Administration|[Advanced DAX for the SQL Professional](70334.md)
+11:15:00|Ginger Grant|Advanced Analysis Techniques|[Implementing Python in SQL Server 2017](78623.md)
+11:15:00|Sudeep Ghatak|Other|[Cloning the human brain - Cognitive Services](78720.md)
+11:15:00|Amit R S Bansal|Enterprise Database Administration  Deployment|[Troubleshooting SQL Server Memory Issues](80111.md)
+13:15:00|Craig Bryden|BI Information Delivery|[SSRS and Power BI Report Server - What's New](75787.md)
+13:15:00|Warwick Rudd|Application  Database Development|[SQLOpsStudio Vs SSMS - There can be only one](78176.md)
+13:15:00|Reza Rad|Analytics and Visualization|[Take Power BI Visualization to the Next Level](78534.md)
+14:30:00|Patrick Flynn|Enterprise Database Administration  Deployment|[DBATools! The reason to finally start learning and using Powershell](71107.md)
+14:30:00|Anupama Natarajan|Cloud Application Development  Deployment|[Modern Data Warehouse using Lambda Architecture and Azure](77366.md)
+14:30:00|Simon Peck|BI Platform Architecture, Development  Administration|[Orchestration and data movement with Azure Data Factory v2](80494.md)
+15:45:00|Manohar Punna|Advanced Analysis Techniques|[Real-Time Analytics with Power BI](70391.md)
+15:45:00|Martin Catherall|Strategy and Architecture|[Data Privacy and the Data Professional.](77101.md)
+15:45:00|Indira Bandari|BI Information Delivery|[Google Forms meet Power BI via Reporting Services (SSRS)](80613.md)

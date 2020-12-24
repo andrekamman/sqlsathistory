@@ -1,0 +1,687 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #219 - Kiev 2013</name>
+    <startDate>5/25/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>150</attendeeEstimate>
+    <timezone>(GMT+02:00) Cairo</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatKiev</twitterHashtag>
+    <venue>
+      <name>Microsoft Ukraine</name>
+      <street>str. Zhilyanskaya, 75</street>
+      <city>Kiev</city>
+      <state>, Ukraine</state>
+      <zipcode>
+      </zipcode>
+      <longitude>30.4988003</longitude>
+      <latitude>50.4390411</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>616</importID>
+      <name>EPAM Systems</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.epam.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/989/EventSponsor_14909.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>805</importID>
+      <name>Luxoft</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.luxoft.com/</url>
+      <imageURL>https://www.pass.org/files/90fd4ced-cef8-46c7-a162-4d2e4da6211f.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>425</importID>
+      <name>Betsson Group</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.betssontechnologies.com</url>
+      <imageURL>https://sphotos-b.ak.fbcdn.net/hphotos-ak-ash4/405887_10201163060668646_218376211_n.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>162</importID>
+      <name>The Frayman Group</name>
+      <label>Silver Sponsor</label>
+      <url>http://fraymangroup.com</url>
+      <imageURL>https://fraymangroup.com/wp-content/themes/frayman-2.0/images/frayman-group-logo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>852</importID>
+      <name>Microsoft Ukraine</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.microsoft.com/uk-ua/default.aspx</url>
+      <imageURL>https://i.s-microsoft.com/global/ImageStore/PublishingImages/logos/hp/logo-lg-1x.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Swag Sponsor </label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>83</importID>
+      <name>PluralSight</name>
+      <label>Swag Sponsor </label>
+      <url>http://www.pluralsight.com</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2015/11/Pluralsight_logo_novo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>37</importID>
+      <name>Wrox</name>
+      <label>Swag Sponsor </label>
+      <url>http://www.wrox.com/WileyCDA/</url>
+      <imageURL>https://media.wiley.com/assets/253/59/wrox_logo.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>20729</importID>
+      <name>Denis Reznik</name>
+      <label>
+      </label>
+      <description>Speaker Bio</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>24387</importID>
+      <name>Sergio Govoni</name>
+      <label>
+      </label>
+      <description>Since 1999 Sergio Govoni has been a software developer; in 2000 he got a degree in Computer Science at "Università degli Studi" in Ferrara (Italy). He has worked for over 18 years in Centro Software, a software house that produces the best ERP for manufacturing companies that are export oriented. Now, he manages the development product team and he is constantly involved on several team projects, where he focues his attention on the architecture and the mission-critical technical details. Since 2016 he is the vice president of the UGISS (www.ugiss.org). For the provided help to technical communities and for sharing his own experience, since 2010 he has received the Microsoft Data Platform MVP award.</description>
+      <twitter>@segovoni</twitter>
+      <linkedin>http://www.linkedin.com/in/sgovoni</linkedin>
+      <ContactURL>https://mvp.microsoft.com/it-it/PublicProfile/4029181?fullName=Sergio%20Govoni</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@segovoni</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15431</importID>
+      <name>Alexandr Domashev</name>
+      <label>
+      </label>
+      <description>Александр Домашев
+Lead Software Engineer в EPAM Systems.
+Более 12 лет опыта работы с MS SQL Server, из них последние 6 лет  - в области Business Intelligence (бизнес-аналитики) и Data Warehouse (хранилищ данных).
+Участвовал в проектах с применением практически всего спектра продуктов и решений Microsoft в области построения баз данных, хранилищ данных, систем анализа и отчетности, информационных порталов.
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18824</importID>
+      <name>Andrey Korshikov</name>
+      <label>
+      </label>
+      <description>Работать с SQL Server начал в 2003 году. Довелось работать и сдавать сертификационные экзамены по версиям SQL Server от 2000 до 2012. Участник конференций SQLSaturday, Платформа, DevCon и TechEd. География выступлений от Тампы до Красноярска, от Санкт-Петербурга до Тбилиси. Основатель сообществ Krasnodar SQLamp;BI Usergroup и Global Russian Virtual Chapter. На данный момент являюсь PASS Regional Mentor for Central Eastern Europe. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>24359</importID>
+      <name>Sergey Olontsev</name>
+      <label>
+      </label>
+      <description>I have been working with SQL Server since SQL Server 2000 version as a database administrator, developer, consultant and trainer, focusing on high availability and disaster recovery solutions, ETL, troubleshooting and performance tuning, developing high performance solutions . I'm a regular speaker at SQL Server user group meetings, SQL Saturday events and other conferences. An owner of MCM certification and MVP award on SQL Server.</description>
+      <twitter>SergeyOlontsev</twitter>
+      <linkedin>http://linkedin.com/in/sergeyolontsev</linkedin>
+      <ContactURL>http://SergeyOlontsev.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SergeyOlontsev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15387</importID>
+      <name>Niko Neugebauer</name>
+      <label>
+      </label>
+      <description>Niko Neugebauer is a Data Platform Consultant. A SQL Server MVP with over 20 years of experience in IT, he is passionate about the Microsoft Data Platform and community. Founder of the Portuguese SQL Server User Group and the main organizer of the first SQLSaturday event outside of North America (#78 Portugal), Niko speaks regularly at events such as PASS Summit, SQLRally, SQLBits, and SQLSaturday events around the world. Niko loves sharing information and knowledge and has authored over 130 blog posts on Columnstore Indexes, and regularly contributes to the open-sourced CISL library focused on Columnstore Indexes.</description>
+      <twitter>NikoNeugebauer</twitter>
+      <linkedin>http://pt.linkedin.com/in/webcaravela/</linkedin>
+      <ContactURL>http://www.nikoport.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=NikoNeugebauer</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18708</importID>
+      <name>Tobias Koprowski</name>
+      <label>
+      </label>
+      <description>Founder of Shadowland Consulting. In January 2015 decided to permanently leave Poland and discover new worlds. Actually settled in Hucknall (The Last home of The Byron Family). Community leader focused on SQL Server, SharePoint, security, collaboration and ITIL, DR, BCM, and SLA. Love licensing stuff. 
+
+Microsoft Certified Trainer, freelancer, and consultant. Subject Matter Expert at Microsoft. Member of Microsoft Terminology Community, Friends of RedGate PLUS, PASS, ISSA, ACM and more. Since 1st July 2010 Data Platform MVP. Creator of SQLDAY Conference and Conference CEO 2009-2011. Co-Leader of PASS East Midlands Group. Speaker at group meetings and conferences. STEM Ambassador. 
+
+Traveler. Coffee Addicted.</description>
+      <twitter>@KoprowskiT</twitter>
+      <linkedin>https://uk.linkedin.com/in/koprowskit</linkedin>
+      <ContactURL>http://koprowskit.eu/geek/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KoprowskiT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9493</importID>
+      <name>Andrii Zrobok</name>
+      <label>
+      </label>
+      <description>25+ years of experience in database development: development data-centric applications from scratch, support of legacy databases/applications, data migration tasks, performance tuning,  consulting, database trainer. I have experience with wide range of databases such as  FoxPro for DOS (Fox Software), MS SQL Server (started from version 6.5) , Oracle, Sybase ASE, MySQL, PostgreSQL.
+Co-Leader of PASS Local Chapter in Lviv.
+Speaker at PASS SQLSaturday conferences (since 2013); PASS Lviv/Vinnitsa/Virtual SQL Server User Group, EPAM IT Week (2015-2017), AIBig Data Day 2019.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/azrobok/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18710</importID>
+      <name>Tobias Koprowski</name>
+      <label>
+      </label>
+      <description>Founder of Shadowland Consulting. In January 2015 decided to permanently leave Poland and discover new worlds. Actually settled in Hucknall (The Last home of The Byron Family). Community leader focused on SQL Server, SharePoint, security, collaboration and ITIL, DR, BCM, and SLA. Love licensing stuff. 
+
+Microsoft Certified Trainer, freelancer, and consultant. Subject Matter Expert at Microsoft. Member of Microsoft Terminology Community, Friends of RedGate PLUS, PASS, ISSA, ACM and more. Since 1st July 2010 Data Platform MVP. Creator of SQLDAY Conference and Conference CEO 2009-2011. Co-Leader of PASS East Midlands Group. Speaker at group meetings and conferences. STEM Ambassador. 
+
+Traveler. Coffee Addicted.</description>
+      <twitter>@KoprowskiT</twitter>
+      <linkedin>https://uk.linkedin.com/in/koprowskit</linkedin>
+      <ContactURL>http://koprowskit.eu/geek/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KoprowskiT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21577</importID>
+      <name>Oleg Alekseev</name>
+      <label>
+      </label>
+      <description>Работаю в майкрософт Украина, занимаюсь сложными решениями</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>20290</importID>
+      <name>Mihail Mateev</name>
+      <label>
+      </label>
+      <description>Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Mentor for CEE, chapter lead, Microsoft Azure MVP, Microsoft Regional Director. He works as a Senior Solutions Architect at EPAM Systems, focused on Data Platform, IoT and cloud related solutions. He also worked many years like a Technical evangelist in the Infragistics. Last years Mihail was focused on various areas related to technology Microsoft: Data Platform, Visual Studio, ASP.Net, Windows client apps, Data Platform, and Microsoft Azure. Michael also has a PhD in cloud computing area. He is a university lecturer on Smart Homes and Smart Energy IoT Solutions.</description>
+      <twitter>mihailmateev</twitter>
+      <linkedin>http://www.linkedin.com/pub/mihail-mateev/1/6b3/4b1</linkedin>
+      <ContactURL>https://mmateev.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mihailmateev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>24360</importID>
+      <name>Sergey Olontsev</name>
+      <label>
+      </label>
+      <description>I have been working with SQL Server since SQL Server 2000 version as a database administrator, developer, consultant and trainer, focusing on high availability and disaster recovery solutions, ETL, troubleshooting and performance tuning, developing high performance solutions . I'm a regular speaker at SQL Server user group meetings, SQL Saturday events and other conferences. An owner of MCM certification and MVP award on SQL Server.</description>
+      <twitter>SergeyOlontsev</twitter>
+      <linkedin>http://linkedin.com/in/sergeyolontsev</linkedin>
+      <ContactURL>http://SergeyOlontsev.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SergeyOlontsev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15388</importID>
+      <name>Niko Neugebauer</name>
+      <label>
+      </label>
+      <description>Niko Neugebauer is a Data Platform Consultant. A SQL Server MVP with over 20 years of experience in IT, he is passionate about the Microsoft Data Platform and community. Founder of the Portuguese SQL Server User Group and the main organizer of the first SQLSaturday event outside of North America (#78 Portugal), Niko speaks regularly at events such as PASS Summit, SQLRally, SQLBits, and SQLSaturday events around the world. Niko loves sharing information and knowledge and has authored over 130 blog posts on Columnstore Indexes, and regularly contributes to the open-sourced CISL library focused on Columnstore Indexes.</description>
+      <twitter>NikoNeugebauer</twitter>
+      <linkedin>http://pt.linkedin.com/in/webcaravela/</linkedin>
+      <ContactURL>http://www.nikoport.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=NikoNeugebauer</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13185</importID>
+      <name>Denys Kholod</name>
+      <label>
+      </label>
+      <description>Denys Kholod has worked at Frayman Group (Lead software engeneer,RD)</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19177</importID>
+      <name>Oleksii Kovalov</name>
+      <label>
+      </label>
+      <description>DBA and DB developer with more than 10 year expirience. SQLSat/SSUG speaker. MCTS, MCITP.
+Author of pet-projects ExpressProfiler and SQL Code Guard
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22321</importID>
+      <name>Андрей Резник</name>
+      <label>
+      </label>
+      <description>Работаю в Microsoft CEE, занимаюсь решениями для разработки хранилищ данных на базе SQL Server PDW</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27162</importID>
+      <name>Turgay Sahtiyan</name>
+      <label>
+      </label>
+      <description>Turgay Sahtiyan has been working in IT industry over a decade and he currently works as a PMC (Premier Mission Critical) Solution Engineer at Microsoft.He is based in Turkey and primarily giving proactive and reactive services with solution based approach to top enterprise customer in the MEA region.Before joined to Microsoft, he was one of the SQL Server MVP in Turkey,in addition he is founder and former president of SQLPass Turkey Chapter.(Detailed BIO http://www.turgaysahtiyan.com/about.aspx)</description>
+      <twitter>https://twitter.com/turgaysahtiyan</twitter>
+      <linkedin>http://tr.linkedin.com/pub/turgay-sahtiyan/15/b46/682</linkedin>
+      <ContactURL>http://www.turgaysahtiyan.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/turgaysahtiyan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13055</importID>
+      <name>Dmitriy Kostylev</name>
+      <label>
+      </label>
+      <description>Работает в Лаборатории Касперского ведущим разработчиком баз данных. С SQL Server работает с 2000 года, участвуя в разнообразных проектов - от небольшого производства до одной из крупнейших баз знаний о программном обеспечении. Сконцентрирован на эффективности применяемых решений - от отдельных запросов и архитектуры решений до методологии разработки ПО. Активно участвует в жизни SQL-сообщества, выступая на конференциях с докладами об эффективном применении SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>18710</importID>
+      <speakers>
+        <speaker>
+          <id>18710</id>
+          <name>Tobias Koprowski</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Azure from Plan, to Backup, to Cloud </title>
+      <description>Microsoft released SQL Azure more than two years ago - that's enough time for testing (I hope!). So, are you ready to move your data to the Cloud? If you’re considering a business (i.e. a production environment) in the Cloud, you need to think about methods for backing up your data, a backup plan for your data and, eventually, restoring with Red Gate Cloud Services. In this session, you’ll see the differences, functionality, restrictions, and opportunities in SQL Azure and On-Premise SQL Server 2008/2008 R2/2012. We’ll consider topics such as how to be prepared for backup and restore, and which parts of a cloud environment are most important: keys, triggers, indexes, prices, security, service level agreements, etc.
+</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9493</importID>
+      <speakers>
+        <speaker>
+          <id>9493</id>
+          <name>Andrii Zrobok</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>MS SQL Server: почему не стоит использовать*</title>
+      <description>Поведение представления с использованием «*» в определении в MS SQL Server отличается от поведения  в других базах данных и может привести к неожидаемым результатам в случае любых модификаций базовой таблицы: добавление\удаление\ переименование колонок, пересоздание таблицы с  тем же именем.  MS SQL Server документация  умалчивает о нестандартном поведении представлений, содержащих «*» в определении.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>24387</importID>
+      <speakers>
+        <speaker>
+          <id>24387</id>
+          <name>Sergio Govoni</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Rewrite your queries with SQL Server 2012</title>
+      <description>Compared with other programming languages, T-SQL isn't difficult to learn and clear-cut of any syntax errors it can be very tolerant. In the IT area, T-SQL language is used by many people, but often they tend to learn only fundamental statements and basic development techniques without going in depth. Only those invests more time discovers the declarative nature of this language and the importance to have the SQL Server Query Optimizer. In this session we will learn how to improve our queries through the use set-based statements that there are from a long time in T-SQL as well as those implemented in SQL Server 2012 with particular reference to Windows Functions.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15388</importID>
+      <speakers>
+        <speaker>
+          <id>15388</id>
+          <name>Niko Neugebauer</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Analyzing Twitter Data</title>
+      <description>This session will concentrate on explanation of how to start using and analysing the data from one of the most popular social networks - Twitter. We shall take a look at the different dashboards and we shall try to understand some of the meanings. This presentation shall try to explore the best of the existing Microsoft technologies for an accessible Twitter data analysis. </description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>24359</importID>
+      <speakers>
+        <speaker>
+          <id>24359</id>
+          <name>Sergey Olontsev</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Повреждение данных и как с ним бороться</title>
+      <description>Случайное повреждение данных – это ночной кошмар любого администратора баз данных, но рано или поздно каждый с ним сталкивается. В докладе будут подробно освещены такие темы, как почему возникает повреждение баз данных, как минимизировать риски и на примерах будет показано, как восстановить поврежденные данные.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15387</importID>
+      <speakers>
+        <speaker>
+          <id>15387</id>
+          <name>Niko Neugebauer</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Inheriting a database for Developers, version 2</title>
+      <description>There are very few applications which are being developed from zero, the most are apps are simply inherited from previous development teams. This session serves to show some easy implementable practices to follow after inheriting a database. Those practices allow to check some if the database design was done in regards to the actual data, or if while implementing some of the constraints and checks some tables were left behind. :) The practices shown in this session will allow to check the database design and identify some of the possible performance degradations.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18824</importID>
+      <speakers>
+        <speaker>
+          <id>18824</id>
+          <name>Andrey Korshikov</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Injection - вы готовы к защите?</title>
+      <description>Этой проблеме очень много лет, но начинающие (и не только) разработчики баз данных продолжают совершать ошибки, которые делают возможным этот тип атаки. Узнайте как сделать правильное решение и защитить ваши базы данных</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>20729</importID>
+      <speakers>
+        <speaker>
+          <id>20729</id>
+          <name>Denis Reznik</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Deadlock – всё пропало,или ещё рано бить тревогу</title>
+      <description>Deadlock – всё пропало,или ещё рано бить тревогу</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13055</importID>
+      <speakers>
+        <speaker>
+          <id>13055</id>
+          <name>Dmitriy Kostylev</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Оптимизация запросов в SQL Server</title>
+      <description>Оптимизация запросов в SQL Server</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27162</importID>
+      <speakers>
+        <speaker>
+          <id>27162</id>
+          <name>Turgay Sahtiyan</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>HA  DR with SQL Server 2012 AlwaysOn Availability Group</title>
+      <description>The AlwaysOn Availability Groups feature is a high-availability and disaster-recovery solution that provides an enterprise-level alternative to database mirroring. Introduced in SQL Server 2012, AlwaysOn Availability Groups maximizes the availability of a set of user databases for an enterprise. In this session we will talk about what’s coming with Always On, and how does it help to improve high availability and disaster recovery solutions.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19177</importID>
+      <speakers>
+        <speaker>
+          <id>19177</id>
+          <name>Oleksii Kovalov</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Не делай так! Немного об ошибках</title>
+      <description>Небольшой рассказ о том, чего мы не делаем и не должны делать - об ошибках при написании T-SQL кода.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22321</importID>
+      <speakers>
+        <speaker>
+          <id>22321</id>
+          <name>Андрей Резник</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Архитектура и функциональность аналитических хранилищ SQL Server Parallel Data Warehouse 2012</title>
+      <description>Microsoft SQL Server Parallel Data Warehouse (PDW) – это высокопроизводительная платформа для организации аналитического хранилища данных (DWH). Parallel Data Warehouse использует архитектуру обработки больших объемов данных, состоящую в распределении данных и параллельной обработки на разных серверах. Такой подход называется обработкой с массовым параллелизмом (MPP). В докладе рассмотрены базовые принципы, архитектура, а также подробности о новой версии Parallel Data Warehouse 2012.   </description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21577</importID>
+      <speakers>
+        <speaker>
+          <id>21577</id>
+          <name>Oleg Alekseev</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Extended Events in SQL Server 2012</title>
+      <description>Extended Events in SQL Server 2012</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13185</importID>
+      <speakers>
+        <speaker>
+          <id>13185</id>
+          <name>Denys Kholod</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Azure Storage overview - blobs, table and Queues</title>
+      <description>The session will provide an overview of Azure Storage service - blobs, table and Queues.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18708</importID>
+      <speakers>
+        <speaker>
+          <id>18708</id>
+          <name>Tobias Koprowski</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>2 AM. A Disaster just began...</title>
+      <description>2AM. We sleeping well. And our mobile ringing and ringing. Message: DISASTER! In this session (on slides) we are NOT talk about potential disaster (such BCM); we talk about: What happened NOW? Which tasks should have been finished BEFORE. Is virtual or physical SQL matter? We talk about systems, databases, peoples, encryption, passwords, certificates and users. In this session (on few demos) I'll show which part of our SQL Server Environment are critical and how to be prepared to disaster. In some documents I'll show You how to be BEST prepared.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15431</importID>
+      <speakers>
+        <speaker>
+          <id>15431</id>
+          <name>Alexandr Domashev</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Microsoft SSIS: Best practices, ETL –patterns</title>
+      <description>Демонстрационные примеры для типовых ETL – задач. 
+Сравнительный анализ различных вариантов решений и результатов выполнения
+Будет много ссылок наресурсы по теме (руководства, блоги и т.п.) и
+Демонстрации примеров из практики проектов, после каждого раздела – секция вопросов и ответов
+</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>24360</importID>
+      <speakers>
+        <speaker>
+          <id>24360</id>
+          <name>Sergey Olontsev</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Все о журнале транзакций в SQL Server</title>
+      <description>Очень часть приходится слышать такие вопросы, как: зачем вообще нужен журнал транзакций, почему он занимает столько места на диске, как им лучше управлять, какая модель восстановления подходит больше всего и т.д. На эти и многие другие вопросы будут даны подробные и развернутые ответы.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>20290</importID>
+      <speakers>
+        <speaker>
+          <id>20290</id>
+          <name>Mihail Mateev</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Spatial Data and Windows Azure SQL Database</title>
+      <description>Spatial Data is very important for the new applications, related with Data Visualization and BI. Windows Azure offers possibility to use 
+advantages of spatial data suing cloud computing. In this lecture will talk about the use of spatial data in the Windows Azure - loading data 
+from Windows Azure SQL Database Spatial, optimizing Windows Azure applications and their use of different types of customers: WEB based, WPF, WP7. We will learn how to import spatial data in different formats in Windows Azure SQL Database Spatial and will create a several sample Windows Azure applications, that use this data.</description>
+      <startTime>5/25/2013 12:00:00 AM</startTime>
+      <endTime>5/25/2013 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

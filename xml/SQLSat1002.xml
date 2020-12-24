@@ -1,0 +1,732 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #1002  – Lima – BI Edition – Virtual 2020</name>
+    <startDate>8/22/2020 12:00:00 AM</startDate>
+    <attendeeEstimate>150</attendeeEstimate>
+    <timezone>(GMT-05:00) Bogota, Lima, Quito</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatLIMABIEdition</twitterHashtag>
+    <venue>
+      <name>Microsoft Peru</name>
+      <street>San Isidro</street>
+      <city>Lima</city>
+      <state>Lima, Peru</state>
+      <zipcode>Lima 27</zipcode>
+      <longitude>-77.03697</longitude>
+      <latitude>-12.096536</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1781</importID>
+      <name>Microsoft</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1002/EventSponsor_14797.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2678</importID>
+      <name>Google Cloud</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://cloud.google.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1002/EventSponsor_14796.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2689</importID>
+      <name>Red Hat</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://www.redhat.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1002/EventSponsor_14830.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2686</importID>
+      <name>bi64pro</name>
+      <label>Personal Sponsor</label>
+      <url>https://www.bi64pro.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1002/EventSponsor_14815.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2687</importID>
+      <name>pi consulting</name>
+      <label>Personal Sponsor</label>
+      <url>http://piconsulting.com.ar</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1002/EventSponsor_14816.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>105954</importID>
+      <name>Javier Villegas</name>
+      <label>
+      </label>
+      <description>Javier Villegas is a Database Administrator Manager for Mediterranean Shipping Company. Javier has more than 20 years working with SQL Server on every version from 6.5 to SQL Server 2019, Including SQL Azure Database and SQL Azure Managed Instance. His specialization is Administration, Performance Tuning and High Availability.
+He is a Microsoft MVP in Data Platform.
+Javier is a frequent speaker in conferences and events such as SQL Saturday , PASS Virtual Groups, 24 Hours SQL PASS , vOpen(NetConf), GroupBy and DataPlatformGeeks.
+@sqlargentina</description>
+      <twitter>https://www.twitter.com/javier_vill</twitter>
+      <linkedin>https://ar.linkedin.com/in/javiervillegas</linkedin>
+      <ContactURL>http://sql-javier-villegas.blogspot.com.ar/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://www.twitter.com/javier_vill</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107034</importID>
+      <name>Juan Rafael</name>
+      <label>
+      </label>
+      <description>MCT- MCSA-MCITP-MCP-MTA-MCTS. Consultor Microsoft Dynamics con m#225;s de 4 a#241;os de experiencia en ERP y mas de 7 a#241;os en tecnolog#237;as Microsoft como SQL Server, Windows Server y SharePoint. Ha participado en proyectos de implementaci#243;n de ERP Microsoft Dynamics AX para empresas de Peru como EuroMotors, C#225;mara de Comercio de Lima, Consorcio Minero Horizonte, SIka Peru, entre otras, tambi#233;n con menci#243;n en implementaciones de ERP Microsoft Dynamics GP para diferentes industrias del Per#250;.</description>
+      <twitter>@jlc_rve</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://geeks.ms/blogs/juanrafael/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jlc_rve</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>106005</importID>
+      <name>Miguel Arturo Valle Pelaez</name>
+      <label>
+      </label>
+      <description>Microsoft MVP IA
+Experiencia 19 años en tecnologías Microsoft.
+Director SQL PASS Peru Chimbote
+Director Colegio de Ingenieros - IEPI. CDA. Chimbote
+Director General Instituto 
+Catedrático Universitario
+Maestría Gerencia de Operaciones y Logística UPC
+Maestría en Sistemas de información UPAO
+Diplomado en Gerencia de Proyectos UPC
+Diplomando en Investigación Científica
+Master Solution Developer
+Microsoft tecnologias: en IA, Azure Machine learning, Mineria de Datos, Mineria de Texto, Microsoft Sql Server, Cognitive Services, Computacion distribuida.</description>
+      <twitter>mavpelaez</twitter>
+      <linkedin>https://www.linkedin.com/in/miguel-arturo-valle-pelaez-695818111/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mavpelaez</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107351</importID>
+      <name>Martha Chávez</name>
+      <label>
+      </label>
+      <description>Profesional reconocida como MVP, certificada como MCT trainer oficial de Microsoft, MCSA Business Intelligence y MCP Microsoft Certified Professional, cuenta con más de 5 años en proyectos de Data Analytics  BI.
+Actualmente trabaja en Arkano Software con roles como arquitecto de datos y lider técnico Perú.
+Cuenta con cursos y especialización en Big Data, Machine Learning y Business Intelligence; así como  
+experiencia comprobada en las siguientes herramientas de Microsoft: Azure, SSIS,  SQL, Power BI, entre otros.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/marthachavezquispe/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105968</importID>
+      <name>Ana Maria Bisbé York</name>
+      <label>
+      </label>
+      <description>Partner Microsoft en Power BI. Influencer en Pragmatic Works. Lic. en Cibernetica Economica con Master en Ciencias Economicas, Moscu; 1988. Master en Gestion del Conocimiento y Business Intelligence con tecnologia Microsoft(MS), y Master en Tecnologias de Desarrollo de MS. Colaboro activamente en grupos de usuarios de MS Visual FoxPro. Mantiene un blog personal. Actualmente es Consultora Business Intelligence con tecnologia MS, trabajando tanto en formacion como en proyectos. Ha sido ponente en eventos SQL Saturday, dentro y fuera de Espania, 24H SQL, IT Woman y Encuentros en Microsoft Espania.</description>
+      <twitter>@ambynet</twitter>
+      <linkedin>https://www.linkedin.com/in/ambynet</linkedin>
+      <ContactURL>http://amby.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ambynet</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107561</importID>
+      <name>Miguel Martinez</name>
+      <label>
+      </label>
+      <description>Miguel is a Sr. Program Manager for Power BI at Microsoft in charge of real-time experiences. Chilean, amateur musician, soccer and (very recent) ice hockey player, entertainment and data frenetic fan. Previous experience in transport, tourism, retail and tech industries. Miguel holds Industrial and Electrical Engineering degrees, and an MBA from Berkeley-Haas 2011.</description>
+      <twitter>maikelson</twitter>
+      <linkedin>http://www.linkedin.com/in/miguel1979/</linkedin>
+      <ContactURL>https://maikelson.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=maikelson</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107352</importID>
+      <name>Gian Carlo Poggi Escobar</name>
+      <label>
+      </label>
+      <description>Microsoft Certified as Azure Data Engineer and Microsoft Power BI Data Analyst with over 10+ years of experience with analysis, design  development of big data, data warehouse and business intelligence platforms using a vast variety of tools ranging from On-Premise to Cloud deployments.
+
+Specialties: Big Data technologies, Azure Data Engineer (Microsoft Certified), Power BI Data Analyst/Developer (Microsoft Certified), Azure DataBricks, Data Governance, Data warehousing  Business Intelligence, Dimensional Modelling, Data Integration, Analytical  problem solving skills, SQL, ETL.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/gcpoggi</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105958</importID>
+      <name>Kamal Valero</name>
+      <label>
+      </label>
+      <description>Gerente de Business Intelligence en Punto Ticket. Microsoft MVP en Data Platform</description>
+      <twitter>kamalvalero</twitter>
+      <linkedin>https://cl.linkedin.com/pub/kamal-valero/5/790/28b</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=kamalvalero</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107085</importID>
+      <name>Ahias Portillo</name>
+      <label>
+      </label>
+      <description>Soy un loco entusiasta por aprender nuevas tecnologías asociadas a base de datos, análisis de datos, Big Data y Ciencia de datos, cuento con más de 15 años de experiencia. 
+
+Cuento con una maestría en Base de datos, certificación profesional de Microsoft en ciencia de datos y Big Data, actualmente estoy estudiando una maestría académica en ciencia de datos.
+
+Me gusta compartir el conocimiento lo que me ha permitido ser nombrado como MVP de plataforma de datos desde el 2014, también he participado como conferencista en países de El Salvador, Guatemala, Costa Rica, Panamá, Estados Unidos y España.</description>
+      <twitter>PortilloAhias</twitter>
+      <linkedin>https://www.linkedin.com/pub/jose-ahias-lopez-portillo/30/284/977</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=PortilloAhias</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107397</importID>
+      <name>Raul Martin Sarachaga Diaz</name>
+      <label>
+      </label>
+      <description>Raúl es consultor en Inteligencia de Negocios y Plataforma de Datos, Ingeniero en Informática en la Universidad Nacional de Trujillo, Perú. 
+Tiene experiencia en áreas de Salud y Retail, donde ha realizado proyectos que incluyen integración, modelado, análisis y visualización de datos basándose fundamentalmente en Tecnología Microsoft. 
+Ha participado en una serie de Webcasts sobre Inteligencia de Negocios y Plataforma de Datos. Asimismo, ha impartido diversas cursos de certificación en SQL Server.
+Ponente habitual en eventos organizado por la comunidad del SQLPASS Lima y Perú BI and Analytics Group y Power BI User Group Lima.
+Es autor del blog Aprende BI (https://aprendebi.wordpress.com/).</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://pe.linkedin.com/in/raul-martin-sarachaga-diaz-mcp-mcse-bbb12798</linkedin>
+      <ContactURL>https://aprendebi.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105963</importID>
+      <name>Gaston Cruz</name>
+      <label>
+      </label>
+      <description>Especialista en implementacion de soluciones en Inteligencia de Negocios, con pasion para disenar soluciones corporativas trabajando en equipos distribuidos.
+
+Microsoft Most Valuable Professional (MVP) in Data Platform.
+
+Business Intelligence (BI) - Consultorias Estrategicas
+BI Arquitectura
+Technology Feasibility Analysis 
+Data Management /Governance Roadmap 
+BI Program Management 
+Data Quality Management and Analy
+
+Especializaciones: Business Intelligence Solution / Technical Architect , SSIS , SSRS ,SSAS, SQL Server 2008 R2, 2012 , 2014, Power BI, Power View, Office 365, SharePoint 2013, Power View, Power Pivot ,Power Query, Power Map
+
+Ultimas experiencias en tecnologias Microsoft:
+Power BI, Power View, Power Pivot, Power Qu</description>
+      <twitter>gastonfcruz</twitter>
+      <linkedin>https://www.linkedin.com/in/gaston-cruz-01bb434b/</linkedin>
+      <ContactURL>http://www.gastoncruz.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=gastonfcruz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107088</importID>
+      <name>Sonia Bravo</name>
+      <label>
+      </label>
+      <description>Civil Computer Engineer from the Technical University Federico Santa María, Valparaíso. With experience in implementation of business intelligence, Big Data and advanced analytics projects, performing consulting and technological advisory roles, in Microsoft Chile, and currently in EY Chile, mainly regards to cloud solutions on the Microsoft platform .</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/sonia-bravo-cid</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107557</importID>
+      <name>Alejandro Humberto Sánchez Núñez</name>
+      <label>
+      </label>
+      <description>Ingeniero de Sistemas con mención en Ingeniería de Software, cuento con más de 4 años trabajando en el mundo de Business Intelligence  Data Analytics. 
+
+En ese tiempo he participado y/o desarrollado proyectos para empresas medianas y grandes en sectores tales como: retail, banca, estrategia digital, agro, bolsa de valores, social media y salud; los cuales me han permitido brindar soluciones BI de alto impacto. Asimismo, he dictado cursos de formación sobre Plataforma de Datos.
+
+Me gusta mantenerme al tanto de nuevas tendencias tecnológicas además de participar en eventos, charlas presenciales o webinars (tales como SQL PASS LIMA y Perú BI and Analytics Group), que promuevan el espíritu de comunidad y compartir en la ciencia de los dato</description>
+      <twitter>https://twitter.com/Alejandro_Zhao</twitter>
+      <linkedin>http://linkedin.com/in/alejandro-sanchez-nunez/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/Alejandro_Zhao</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105980</importID>
+      <name>Alex Rostan</name>
+      <label>
+      </label>
+      <description>software engineer, Tech passionate, AI and congnitive services lover</description>
+      <twitter>rostanker</twitter>
+      <linkedin>https://www.linkedin.com/in/alexrostan/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=rostanker</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107241</importID>
+      <name>Ricardo Estrada</name>
+      <label>
+      </label>
+      <description>Soy Ricardo Estrada consultor y conferencista en temas relacionados con SQL, resido en Costa Rica, curioso por la tecnología y apasionado por las bases de datos y sistemas de BI, gusta de compartir conocimiento, buscar soluciones a problemas cotidianos y construir aplicaciones que faciliten las operaciones y decisiones a nivel empresarial, es orgullosamente speaker de los SQL Saturdays de Centroamérica desde el año 2014, además de participar como expositor en los Summit para España y Panamá.
+Mi primer contacto con SQL Server fue con la versión 2000 y no ha dejado de aprender trucos, metodologías, técnicas y estrategias nuevas... y desde entonces... las he compartido en diferentes posts, principalmente la página de fb: SeHablaSQL</description>
+      <twitter>pricardo03@hotmail.com</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://SeHablaSQL</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pricardo03@hotmail.com</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>106003</importID>
+      <name>Mariano Irvin Lopez Jaramillo</name>
+      <label>
+      </label>
+      <description>I have 2 years of experience in the use of microsoft technologies, I am currently mct</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/mariano-irvin-lopez-jaramillo/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107348</importID>
+      <name>Cristobal Ibarra</name>
+      <label>
+      </label>
+      <description>Professional Profile
+Empathetic, proactive and with a strong knowledge profile in the area of information technology (IT). Highlighting the skills of analysis, design, management and evaluation of technology solutions in both software development and Business Intelligence.
+Objectives
+My goal is to belong to an organization where I can develop and enhance my skills, where I can contribute with my strengths (such as academic skills and experience) and provide all my knowledge to the management processes of the organization.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://cl.linkedin.com/in/cristobal-ibarra-4755b42a</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105997</importID>
+      <name>Maximiliano Damian Accotto</name>
+      <label>
+      </label>
+      <description>Soy socio fundador de Triggerdb Consulting SRL.
+Poseo más de 20 años de experiencia en tecnologías de bases de datos y BI de Microsoft (SQL Server, Analysis Services, Powerbi, Azure, etc)
+Soy orador frecuente desde el 2005 para distintos eventos organizados por Microsoft y comunidades (lanzamientos de productos, SQLSaturday, Microsoft User Group, etc)
+He sido premiado como Microsoft MVP en Data Platform desde el año 2005 al 2019.
+Formó parte del capítulo SQLPass Argentina donde soy orador frecuente.</description>
+      <twitter>https://twitter.com/maxiaccotto</twitter>
+      <linkedin>https://www.linkedin.com/in/maxiaccotto</linkedin>
+      <ContactURL>https://blogs.triggerdb.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/maxiaccotto</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107347</importID>
+      <name>Raul Martin Sarachaga Diaz</name>
+      <label>
+      </label>
+      <description>Raúl es consultor en Inteligencia de Negocios y Plataforma de Datos, Ingeniero en Informática en la Universidad Nacional de Trujillo, Perú. 
+Tiene experiencia en áreas de Salud y Retail, donde ha realizado proyectos que incluyen integración, modelado, análisis y visualización de datos basándose fundamentalmente en Tecnología Microsoft. 
+Ha participado en una serie de Webcasts sobre Inteligencia de Negocios y Plataforma de Datos. Asimismo, ha impartido diversas cursos de certificación en SQL Server.
+Ponente habitual en eventos organizado por la comunidad del SQLPASS Lima y Perú BI and Analytics Group y Power BI User Group Lima.
+Es autor del blog Aprende BI (https://aprendebi.wordpress.com/).</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://pe.linkedin.com/in/raul-martin-sarachaga-diaz-mcp-mcse-bbb12798</linkedin>
+      <ContactURL>https://aprendebi.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>106003</importID>
+      <speakers>
+        <speaker>
+          <id>106003</id>
+          <name>Mariano Irvin Lopez Jaramillo</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Room1</name>
+      </location>
+      <title>Building an EDSS with Delta Lake in Databricks</title>
+      <description>A data lakehouse is a new data management paradigm that combines the capabilities of data lakes and data warehouses, enabling BI and ML on all data.
+
+Data warehouses have a long history in decision support and business intelligence applications, though were not suited or were expensive for handling unstructured data, semi-structured data, and data with high variety, velocity, and volume.
+
+Data lakes then emerged to handle raw data in a variety of formats on cheap storage for data science and machine learning, though lacked critical features from the world of data warehouses: they do not support transactions, they do not enforce data quality, and their lack of consistency/isolation makes it almost impossible to mix appends and reads, and batch and streaming jobs.
+
+Data teams consequently stitch these systems together to enable BI and ML across the data in both these systems, resulting in duplicate data, extra infrastructure cost, and security challenges.
+
+Data lakehouses are enabled by</description>
+      <startTime>8/22/2020 3:00:00 PM</startTime>
+      <endTime>8/22/2020 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105980</importID>
+      <speakers>
+        <speaker>
+          <id>105980</id>
+          <name>Alex Rostan</name>
+        </speaker>
+      </speakers>
+      <track>Ai and Machine Learning</track>
+      <location>
+        <name>Room3</name>
+      </location>
+      <title>AI Power - Cognitive Services and Power BI</title>
+      <description>In this session will see how to get data from forms, letters and other digital documents using cognitive services and then how to store this data into databases</description>
+      <startTime>8/22/2020 10:00:00 AM</startTime>
+      <endTime>8/22/2020 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105968</importID>
+      <speakers>
+        <speaker>
+          <id>105968</id>
+          <name>Ana Maria Bisbé York</name>
+        </speaker>
+      </speakers>
+      <track>Power BI </track>
+      <location>
+        <name>Room2</name>
+      </location>
+      <title>Escenarios de modelado en DAX, el súper lenguaje de Power BI.</title>
+      <description>En el camino a la creación de buenos cuadros de mandos y modelos analíticos, se impone la necesidad de contar con un buen modelado tabular. 
+En la sesión se analizan y solucionan un grupo de escenarios de modelado con DAX y Power BI. Estos escenarios son los que nos encontramos con frecuencia en proyectos.</description>
+      <startTime>8/22/2020 11:00:00 AM</startTime>
+      <endTime>8/22/2020 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105958</importID>
+      <speakers>
+        <speaker>
+          <id>105958</id>
+          <name>Kamal Valero</name>
+        </speaker>
+      </speakers>
+      <track>Ai and Machine Learning</track>
+      <location>
+        <name>Room3</name>
+      </location>
+      <title>Detección de anomalias en Azure Stream Analytics usando Machine Learning</title>
+      <description>Azure Stream Analytics incluye capacidades de detección de anomalías usando machine learning para el monitoreo de data en tiempo real.</description>
+      <startTime>8/22/2020 11:00:00 AM</startTime>
+      <endTime>8/22/2020 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107085</importID>
+      <speakers>
+        <speaker>
+          <id>107085</id>
+          <name>Ahias Portillo</name>
+        </speaker>
+      </speakers>
+      <track>Data Warehousing</track>
+      <location>
+        <name>Room1</name>
+      </location>
+      <title>Técnicas de consultas avanzadas para Datawarehouse</title>
+      <description>Existen diferentes problemas en la generación de consultas para Datawarehouse gracias a SQL Server podemos simplificar muchos problemas.
+
+Aprenderás:
+•	Uso de CTE.
+•	Uso de Windows Functions.
+•	Expandiendo las fronteras de las funciones de agregación.</description>
+      <startTime>8/22/2020 11:00:00 AM</startTime>
+      <endTime>8/22/2020 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107351</importID>
+      <speakers>
+        <speaker>
+          <id>107351</id>
+          <name>Martha Chávez</name>
+        </speaker>
+      </speakers>
+      <track>Data Warehousing</track>
+      <location>
+        <name>Room1</name>
+      </location>
+      <title>Working with Data Factory</title>
+      <description>Esta sesión abarcará el tema de Data factory desde la introducción hasta como trabajar en ello, así como la arquitectura de datos para un data Warehouse.</description>
+      <startTime>8/22/2020 10:00:00 AM</startTime>
+      <endTime>8/22/2020 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105954</importID>
+      <speakers>
+        <speaker>
+          <id>105954</id>
+          <name>Javier Villegas</name>
+        </speaker>
+      </speakers>
+      <track>Power BI </track>
+      <location>
+        <name>Room2</name>
+      </location>
+      <title>Casos de uso de Power BI y Analysis Services</title>
+      <description>En esta charla compartiré varios casos reales de utilización de Power BI , Analysis Service y On-Premise Data Gateway. mencionando los problemas encontrados y las soluciones propuestas para superar dichos problemas.</description>
+      <startTime>8/22/2020 3:00:00 PM</startTime>
+      <endTime>8/22/2020 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107034</importID>
+      <speakers>
+        <speaker>
+          <id>107034</id>
+          <name>Juan Rafael</name>
+        </speaker>
+      </speakers>
+      <track>Power BI </track>
+      <location>
+        <name>Room3</name>
+      </location>
+      <title>PowerBI con Dynamics 365 for Sales.</title>
+      <description>En esta sesión veremos como podemos consumir reportes PowerBI desde MS Dynamics 365 for Sales.</description>
+      <startTime>8/22/2020 3:00:00 PM</startTime>
+      <endTime>8/22/2020 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107348</importID>
+      <speakers>
+        <speaker>
+          <id>107348</id>
+          <name>Cristobal Ibarra</name>
+        </speaker>
+      </speakers>
+      <track>Ai and Machine Learning</track>
+      <location>
+        <name>Room3</name>
+      </location>
+      <title>AI Video Insights with Azure</title>
+      <description>Extracción de metadatos como textos, caras, speakers, celebridades, emociones, marcas, escenas y mucho mas a partir de Video Indexer de Azure.</description>
+      <startTime>8/22/2020 1:00:00 PM</startTime>
+      <endTime>8/22/2020 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107557</importID>
+      <speakers>
+        <speaker>
+          <id>107557</id>
+          <name>Alejandro Humberto Sánchez Núñez</name>
+        </speaker>
+      </speakers>
+      <track>Power BI </track>
+      <location>
+        <name>Room2</name>
+      </location>
+      <title>Power BI Intelligence - All Types Calendars</title>
+      <description>En esta session veremos como trabajar con todos los tipos de calendarios en power bi</description>
+      <startTime>8/22/2020 1:00:00 PM</startTime>
+      <endTime>8/22/2020 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107241</importID>
+      <speakers>
+        <speaker>
+          <id>107241</id>
+          <name>Ricardo Estrada</name>
+        </speaker>
+      </speakers>
+      <track>Data Warehousing</track>
+      <location>
+        <name>Room1</name>
+      </location>
+      <title>Patrones avanzados con SSIS</title>
+      <description>En esta sesión aprenderemos técnicas poco usuales para crear procesos poco invasivos al extraer la información de los diferentes sistemas transaccionales, esto no solamente hace que las cargas mas livianas, si no que, hace que los usuarios no se vean afectados por la extracción de información, sobre todo cuando los procesos del BI se realizan constantemente durante el día.</description>
+      <startTime>8/22/2020 2:00:00 PM</startTime>
+      <endTime>8/22/2020 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107561</importID>
+      <speakers>
+        <speaker>
+          <id>107561</id>
+          <name>Miguel Martinez</name>
+        </speaker>
+      </speakers>
+      <track>Power BI </track>
+      <location>
+        <name>Room2</name>
+      </location>
+      <title>3 formas de monitorear datos en tiempo real con Power BI</title>
+      <description>Power BI permite visualizar datos en tiempo real a medida que la información se vuelve disponible. En esta sesión con demos y tips, revisaremos las 3 opciones disponibles hoy en día para crear paneles y reportes en Power BI que se actualizan en tiempo real.</description>
+      <startTime>8/22/2020 10:00:00 AM</startTime>
+      <endTime>8/22/2020 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105963</importID>
+      <speakers>
+        <speaker>
+          <id>105963</id>
+          <name>Gaston Cruz</name>
+        </speaker>
+      </speakers>
+      <track>Power BI </track>
+      <location>
+        <name>Room2</name>
+      </location>
+      <title>Ventajas en Enterprise BI con XMLA Endpoints</title>
+      <description>Ventajas a nivel corporativo para generar capa semantica en nuestros proyectos de Data Analytics</description>
+      <startTime>8/22/2020 2:00:00 PM</startTime>
+      <endTime>8/22/2020 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107088</importID>
+      <speakers>
+        <speaker>
+          <id>107088</id>
+          <name>Sonia Bravo</name>
+        </speaker>
+      </speakers>
+      <track>Data Warehousing</track>
+      <location>
+        <name>Room1</name>
+      </location>
+      <title>Integración y entrega continua (CI/CD) para procesos de analítica de datos sobre Azure Databricks</title>
+      <description>En esta sesión se presentará como automatizar,  simplificar y acelerar el despliegue de procesos de desarrollo de ingeniería y ciencia de datos a través de Azure Databricks y Azure DevOps.</description>
+      <startTime>8/22/2020 3:00:00 PM</startTime>
+      <endTime>8/22/2020 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107352</importID>
+      <speakers>
+        <speaker>
+          <id>107352</id>
+          <name>Gian Carlo Poggi Escobar</name>
+        </speaker>
+      </speakers>
+      <track>Data Warehousing</track>
+      <location>
+        <name>Room1</name>
+      </location>
+      <title>Azure Synapse Analytics - Power BI Integration  Performance</title>
+      <description>Power BI integration within Azure Synapse Analytics</description>
+      <startTime>8/22/2020 9:00:00 AM</startTime>
+      <endTime>8/22/2020 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>106005</importID>
+      <speakers>
+        <speaker>
+          <id>106005</id>
+          <name>Miguel Arturo Valle Pelaez</name>
+        </speaker>
+      </speakers>
+      <track>Ai and Machine Learning</track>
+      <location>
+        <name>Room3</name>
+      </location>
+      <title>IA   SQL Server 2019 Machine Learning Service</title>
+      <description>IA: Aplicacion y analitica predictiva casos.
+SQL SERVER Machine Learning Services es una característica que brinda la capacidad de ejecutar scripts Python y R con datos relacionales. Puede usar paquetes y marcos de código abierto, y los paquetes Microsoft Python y R, para análisis predictivo y aprendizaje automático.</description>
+      <startTime>8/22/2020 9:00:00 AM</startTime>
+      <endTime>8/22/2020 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>107347</importID>
+      <speakers>
+        <speaker>
+          <id>107347</id>
+          <name>Raul Martin Sarachaga Diaz</name>
+        </speaker>
+      </speakers>
+      <track>Ai and Machine Learning</track>
+      <location>
+        <name>Room3</name>
+      </location>
+      <title>Computer Vision con Azure Cognitive Services</title>
+      <description>En esta sesión, el participante podrá aprender a utilizar el serivicio de Computer Vision que brinda Azure Cognitive Services para la detección de imagénes.</description>
+      <startTime>8/22/2020 2:00:00 PM</startTime>
+      <endTime>8/22/2020 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107397</importID>
+      <speakers>
+        <speaker>
+          <id>107397</id>
+          <name>Raul Martin Sarachaga Diaz</name>
+        </speaker>
+      </speakers>
+      <track>Power BI </track>
+      <location>
+        <name>Room2</name>
+      </location>
+      <title>Consultando Millones de Registros con Power BI</title>
+      <description>En esta sesión los participantes podrán ver como utilizar con composite modes y agregaciones para crear reportes que consuman millones de datos, así como mostrar el uso de PBI Explorer para la captura de metadata</description>
+      <startTime>8/22/2020 9:00:00 AM</startTime>
+      <endTime>8/22/2020 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105997</importID>
+      <speakers>
+        <speaker>
+          <id>105997</id>
+          <name>Maximiliano Damian Accotto</name>
+        </speaker>
+      </speakers>
+      <track>Data Warehousing</track>
+      <location>
+        <name>Room1</name>
+      </location>
+      <title>SQL Server Machine Learning y Big Data cluster</title>
+      <description>En esta charla veremos cómo usar los servicios de Machine Learning en SQL Server 2019 escribiendo código (R, Python o Java).
+También haremos una introducción a la arquitectura de SQL Server 2019 Big Data cluster</description>
+      <startTime>8/22/2020 1:00:00 PM</startTime>
+      <endTime>8/22/2020 2:00:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

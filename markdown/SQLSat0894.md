@@ -1,0 +1,23 @@
+# SQLSaturday #894 - Perth 2019
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:25:00|Wyn Hopkins|Analytics and Big Data|[Making the leap from Excel formulas to DAX](92227.md)
+09:25:00|Martin Cairney|Application, DBA and Database Development|[Smart Alerts for Azure SQL Database using Automation  Logic Apps](93160.md)
+09:25:00|Hamish Watson|Application, DBA and Database Development|[How to Deploy SQL Server Containers on Kubernetes in Azure](93688.md)
+09:25:00|Heidi Hasting|Application, DBA and Database Development|[Bringing source control to BI world!](94773.md)
+11:00:00|Martin Catherall|Application, DBA and Database Development|[Looking at the Cosmos(DB)](92415.md)
+11:00:00|Craig Bryden|BI Platform Architecture, Development  Administration|[Creating and Managing a Power BI Enterprise Deployment](92568.md)
+11:00:00|Nirmal Thewarathanthri|Application, DBA and Database Development|[Best Practices for Running SQL Server on Azure](94584.md)
+11:00:00|Scott Holden|Application, DBA and Database Development|[A touch of AI with Cognitive Services](94730.md)
+12:50:00|Jason Aw|Application, DBA and Database Development|[High Availability and Disaster Recovery for SQL Server in Azure IaaS](92858.md)
+12:50:00|Patrick Flynn|Application, DBA and Database Development|[Get Comfortable with Query tuning and Execution Plans](93509.md)
+12:50:00|Warwick Rudd|Application, DBA and Database Development|[Azure Data Studio – The New Frontier](94540.md)
+12:50:00|Lee Moran|Analytics and Big Data|[PBI ❤ AI](95826.md)
+13:55:00|Craig Bryden|BI Platform Architecture, Development  Administration|[Paginated Reporting with Power BI](92569.md)
+13:55:00|Martin Cairney|Application, DBA and Database Development|[SQL Server Upgrades and Migrations - The Right Way](93244.md)
+13:55:00|Deepak Maheshwari|Strategy, Governance and Professional Development|[Governance in Azure](94603.md)
+13:55:00|Hamish Watson|Application, DBA and Database Development|[Test Driven Development in SQL Server – how to deploy code safer](96298.md)
+15:35:00|Wyn Hopkins|Analytics and Big Data|[Power BI, Excel and Teams. Unlocking the Value of your Enterprise Data](92223.md)
+15:35:00|Scott Holden|Application, DBA and Database Development|[Serverless and SQL, risk or reward?](94731.md)
+15:35:00|Nicholas Schafer|Analytics and Big Data|[Get your data flowing with Data Flows! and...umm...dataflows](94965.md)
+15:35:00|Neil Hambly|Analytics and Big Data|[Introduction to SQL Server 2019 Big Data Clusters](96645.md)

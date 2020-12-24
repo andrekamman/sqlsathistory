@@ -1,0 +1,22 @@
+# SQLSaturday #433 - Gothenburg 2015
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:00:00|Cathrine Wilhelmsen|BI Platform Architecture, Development  Administration|[Biml for Beginners: Generating SSIS packages with BimlScript](36313.md)
+09:00:00|Andrey Zavadskiy|Enterprise Database Administration  Deployment|[Transaction Log Internals and Troubleshooting](38475.md)
+09:00:00|Peter Larsson|Other|[Rethink Your Data Model and Make It Super Fast](40195.md)
+10:15:00|Bob Duffy|Application  Database Development|[When good SQL design goes bad](36984.md)
+10:15:00|Dr. Subramani Paramasivam|Enterprise Database Administration  Deployment|[Life saver - Resource Governor for applications  reporting](37665.md)
+10:15:00|Joakim Nyström|Enterprise Database Administration  Deployment|[A Toolkit for Off-loading Data from Production](38473.md)
+11:20:00|David Postlethwaite|Enterprise Database Administration  Deployment|[Taming the Beast – How a SQL DBA can keep Kerberos under control](36387.md)
+11:20:00|Raoul Illyes|Enterprise Database Administration  Deployment|[SQL Automation, how to build a highly automated SQL Server environment](37120.md)
+11:20:00|Håkan Winther|Application  Database Development|[How to kill SQL server performance](38729.md)
+11:20:00|Mike Byrd|Application  Database Development|[SQL Server Foreign Keys – De-mystifying the Rest of the Story](38757.md)
+13:40:00|Rob Volk|Enterprise Database Administration  Deployment|[Revenge: The SQL! - Director's Cut](37428.md)
+13:40:00|Elvis Talic|BI Platform Architecture, Development  Administration|[Many to Many in SSAS: How To Implement It](37808.md)
+13:40:00|Steinar Andersen|Enterprise Database Administration  Deployment|[SQL Server Magic Buttons: What are Trace Flags, and why should I care?](38726.md)
+14:55:00|Rasmus Reinholdt|BI Platform Architecture, Development  Administration|[Building a meta-driven near realtime ETL solution with BIML and SSIS](36881.md)
+14:55:00|Rodney Landrum|BI Platform Architecture, Development  Administration|[Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure](37343.md)
+14:55:00|John Martin|Enterprise Database Administration  Deployment|[SQL Server 2016 AlwaysOn Availability Groups - New Features  Enhancements](38230.md)
+16:00:00|David Williams|Enterprise Database Administration  Deployment|[SQL Server 2016 New Feaures (Not Query Store!)](37463.md)
+16:00:00|David Söderlund|BI Platform Architecture, Development  Administration|[Using and improving Azure Machine Learning models with SSIS](38704.md)
+16:00:00|Magnus Ahlkvist|Application  Database Development|[Eight hours of work in 20 minutes](38722.md)

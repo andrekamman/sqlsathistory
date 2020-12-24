@@ -1,0 +1,21 @@
+# SQLSaturday #898 - Gothenburg 2019
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:10:00|Asgeir Gunnarsson|BI Platform Architecture, Development  Administration|[Who, What, When. Monitoring usage of your MS BI stack](93929.md)
+09:10:00|Alexander Klein|Cloud Application Development  Deployment|[Bringing AI to the edge - Azure Cognitive Services in docker containers](94162.md)
+09:10:00|Lord Richard Douglas|Enterprise Database Administration  Deployment|[Managing Memory for Optimal Performance](95245.md)
+10:30:00|Philipp Lenz|BI Platform Architecture, Development  Administration|[Microsoft Power BI Deployment Types](93154.md)
+10:30:00|Bartosz Ratajczyk|Enterprise Database Administration  Deployment|[First steps with SQL Server on Docker](93813.md)
+10:30:00|Daniel Hutmacher|Enterprise Database Administration  Deployment|[Getting your ducks in a row - Understanding ordered data flows](95536.md)
+11:45:00|Magnus Ahlkvist|Application  Database Development|[It depends - don't mistake your Google search for my database knowledge](93210.md)
+11:45:00|Jose Manuel Jurado Diaz|Cloud Application Development  Deployment|[Azure SQL Database - Lessons learned from the trenches](94129.md)
+11:45:00|Mark Broadbent|Enterprise Database Administration  Deployment|[SQL Server Availability Groups for dummies](95296.md)
+11:45:00|Pau Sempere|BI Platform Architecture, Development  Administration|[Churn Norris: Retain your customers with Machine Learning](98258.md)
+13:45:00|Kalen Delaney|Enterprise Database Administration  Deployment|[What the Hekaton?!](93309.md)
+13:45:00|Erland Sommarskog|Application  Database Development|[Don't Bite Off More Than You Can Chew - Take It in Chunks](94811.md)
+15:00:00|Anton Boyko|Cloud Application Development  Deployment|[The future of serverless computing](93669.md)
+15:00:00|Ted Malone|BI Platform Architecture, Development  Administration|[Construct Visual Data Flows by using Azure Data Factory](93797.md)
+15:00:00|Damian Widera|Application  Database Development|[AQP vs IQP - query optimization on steroids](95552.md)
+16:10:00|Aleksandar Talev|Enterprise Database Administration  Deployment|[How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?](93158.md)
+16:10:00|Hugo Kornelis|Application  Database Development|[From adaptive to intelligent: query processing in SQL 2019](95017.md)
+16:10:00|Kamil Nowinski|BI Platform Architecture, Development  Administration|[Move part of your body to Azure SQL Data Warehouse](95554.md)

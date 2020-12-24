@@ -1,0 +1,21 @@
+# SQLSaturday #341 - Porto 2014
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Bruno Lopes|Development|[Because the world is not just relational - Intro to RavenDB](11020.md)
+00:00:00|Cathrine Wilhelmsen|Business Intelligence|[Generate SSIS packages automatically with Biml and BimlScript](11228.md)
+00:00:00|Denis Reznik|Administration/Development|[Deadlocks. Everything that developer needs to know](13160.md)
+00:00:00|Etienne Lopes|Administration/Development|[Optimizing implementation techniques ](13977.md)
+00:00:00|Fabiano Amorim|Administration/Development|[SQL Server 2014 - Novidades no Query Optimizer](14165.md)
+00:00:00|Niko Neugebauer|Business Intelligence|[ETL Patterns with Clustered Columnstore Indexes](15422.md)
+00:00:00|João Lopes|Business Intelligence|[Modern Business Intelligence Architecture ](17083.md)
+00:00:00|José António Silva|Development|[10 tips everyone should know about powershell](17475.md)
+00:00:00|Mark Broadbent|Administration/Development|[Enter the Dragon: Running SQL 2014 on Windows Server Core](19558.md)
+00:00:00|Rui Marinho|Development|[Build mobile applications with Xamarin Forms](20041.md)
+00:00:00|Murilo Miranda|Administration/Development|[In-Memory OLTP for DBAs](21179.md)
+00:00:00|Pedro Perfeito|Administration/Development|[SSISDB Catalog – Don’t be afraid](22253.md)
+00:00:00|Regis Baccaro|Business Intelligence|[A Tale of four wizards](22863.md)
+00:00:00|Ruben Pertusa Lopez|Business Intelligence|[Azure Machine Learning: Welcome to the future of predictive analytics](23494.md)
+00:00:00|Sandro Pereira|Development|[Introduction to Microsoft Azure BizTalk Services](23935.md)
+00:00:00|Tillmann Eitelberg|Business Intelligence|[Web Analytics with Microsoft BI](25983.md)
+00:00:00|Uwe Ricken|Development|[Building abstract layers for data protection and business logic](27248.md)
+00:00:00|Vitor Faria Tomaz|Development|[Introduction to Microsoft Azure SQL Databases](27481.md)

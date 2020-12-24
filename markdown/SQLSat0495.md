@@ -1,0 +1,22 @@
+# SQLSaturday #495 - Pordenone 2016
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:40:00|Gilberto Zampatti|Analytics and Reporting|[SQL Server 2016: Nuove funzionalit#224; in SQL Server Integration Services](42375.md)
+09:40:00|Dejan Sarka|SQL Server 2016|[SQL Server 2012-2016 Columnar Storage](42596.md)
+09:40:00|Gianluca Hotz|Cloud  Developers|[Azure SQL Database (IT)](44543.md)
+10:50:00|Alessandro Alpi|SQL Server 2016|[SQL Server 2016 JSON support](42139.md)
+10:50:00|Dr. Subramani Paramasivam|Cloud  Developers|[Tired of connecting on-prem  cloud data? Take a DB stretch](42151.md)
+11:45:00|Dejan Sarka|Cloud  Developers|[Enterprise Information Management with SQL Server 2016](42599.md)
+11:45:00|Tomaž Kaštrun|Analytics and Reporting|[Using SQL Server 2016 and R Integration](43080.md)
+11:45:00|Gianluca Hotz|SQL Server 2016|[SQL Server 2016 Temporal Database Support (IT)](44544.md)
+13:40:00|Tomaž Kaštrun|Analytics and Reporting|[Microsoft Azure Machine Learning Algorithms](43079.md)
+13:40:00|Saverio Lorenzini|SQL Server 2016|[SQL Server 2016 Query Store: un nuovo modo di monitorare le query](44407.md)
+13:40:00|Marco Parenzan|Cloud  Developers|[Azure Stream Analytics](44989.md)
+14:35:00|Andrea Martorana Tusa|Analytics and Reporting|[New life for Reporting Services: what'up in 2016](42853.md)
+14:35:00|Sergio Govoni|SQL Server 2016|[The most prominent wait types of your SQL Server 2016 (IT)](44411.md)
+15:45:00|Alessandro Alpi|Cloud  Developers|[Realizzare una vera Continuous Integration con SQL Server](42138.md)
+15:45:00|Gilberto Zampatti|SQL Server 2016|[SQL Server 2016: Maturazione dell'In-Memory OLTP](42373.md)
+15:45:00|Marco Pozzan|Analytics and Reporting|[PowerBi](44992.md)
+16:40:00|Andrea Martorana Tusa|Analytics and Reporting|[Choosing the right mobile BI tool: SSRS vs Power BI vs Datazen](42720.md)
+16:40:00|Gianluca Sartori|SQL Server 2016|[New Security Features in SQL Server 2016](42860.md)
+16:40:00|Emanuele Zanchettin|Cloud  Developers|[Elastic Database, going to the infinity *](44287.md)

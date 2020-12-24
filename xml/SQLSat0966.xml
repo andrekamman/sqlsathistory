@@ -1,0 +1,94 @@
+<GuidebookXML>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/966/EventSponsor_14557.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1817</importID>
+      <name>SentryOne</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.sentryone.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/966/EventSponsor_14665.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1405</importID>
+      <name>COZYROC</name>
+      <label>Gold Sponsor</label>
+      <url>http://bit.ly/cozyrocssis</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/966/EventSponsor_14717.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>84</importID>
+      <name>Pure Storage</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.purestorage.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/966/EventSponsor_14645.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2382</importID>
+      <name>DriveTime Automotive Group</name>
+      <label>Gold Sponsor</label>
+      <url>https://jobs.drivetime.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/966/EventSponsor_14653.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>886</importID>
+      <name>Neudesic, LLC</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.neudesic.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/966/EventSponsor_14742.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1655</importID>
+      <name>Slalom</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.slalom.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/966/EventSponsor_14729.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>23</importID>
+      <name>Pragmatic Works</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.pragmaticworks.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/966/EventSponsor_14664.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>9</importID>
+      <name>Apex Systems, Inc</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.apexsystemsinc.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/966/EventSponsor_14676.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2641</importID>
+      <name>ZAP</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.zapbi.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/966/EventSponsor_14709.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

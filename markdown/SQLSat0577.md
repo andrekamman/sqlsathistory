@@ -1,0 +1,21 @@
+# SQLSaturday #577 - Dnipro 2016
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+10:00:00|Denis Reznik|Application  Database Development|[Hidden gems of SQL Server 2016](53796.md)
+10:00:00|Sergey Syrovatchenko|Professional Development|[Статистика ожиданий или как найти место "где болит"](54414.md)
+10:00:00|Oleg Alekseev|Enterprise Database Administration  Deployment|[How to bring a new life for Oracle 9I in MS SQL Server environment.](54632.md)
+11:10:00|Eugene Polonichko|BI Platform Architecture, Development  Administration|[Power BI Embedded. Why do you need embed bi into your application?](53790.md)
+11:10:00|Sergiy Lunyakin|BI Platform Architecture, Development  Administration|[Azure SQL Data Warehouse: What, Where, How](54376.md)
+11:10:00|Dmitri Korotkevitch|Application  Database Development|[Все, что вы хотели узнать об объектах БД, но всегда боялись спросить](56251.md)
+12:20:00|Konstantin Proskurdin|Application  Database Development|[PostgreSQL as a Document Storage for .NET applications](53893.md)
+12:20:00|Vitalii Bondarenko|Advanced Analysis Techniques|[HDInsight: Spark. Advanced in-memory BigData Analytics with Microsoft Azure](54103.md)
+12:20:00|André Melancia|Enterprise Database Administration  Deployment|[NSA Secrets - Hacking SQL Server](55069.md)
+14:30:00|Taras Bobrovytskyi|Application  Database Development|[Inside Transaction Logging](53775.md)
+14:30:00|Andrii Zrobok|Application  Database Development|[@Table vs #Table: шаблони використання, спільні характеристики, міфи](53825.md)
+14:30:00|Dmitri Korotkevitch|Application  Database Development|[Как убить SQL Server за 60 минут](56244.md)
+15:35:00|Anton Boyko|Cloud Application Development  Deployment|[Azure Search - full-text search in a cloud](53999.md)
+15:35:00|Andriy Pogorelov|Information Delivery|[SQL Server: Delivery and synchronizing of the data](54940.md)
+15:35:00|Sergiy Lunyakin|BI Platform Architecture, Development  Administration|[Cloud BI with Azure Analysis Services](56577.md)
+16:45:00|Rostislav Nikitin|Application  Database Development|[Data-tier Application (DAC) overview](53844.md)
+16:45:00|Yevhen Nedashkivskyi|Enterprise Database Administration  Deployment|[Переход в облако: Microsoft Azure и базы данных (ru)](55123.md)
+16:45:00|Viktoriia Mala|Application  Database Development|[Always Encrypted at rest and in motion](56593.md)

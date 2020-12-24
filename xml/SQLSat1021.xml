@@ -1,0 +1,19 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #1021 – Pordenone – Virtual 2021</name>
+    <startDate>2/27/2021 12:00:00 AM</startDate>
+    <attendeeEstimate>450</attendeeEstimate>
+    <timezone>(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatPordenone</twitterHashtag>
+    <venue>
+      <name>Consorzio Universitario di Pordenone</name>
+      <street>Via Prasecco</street>
+      <city>Pordenone</city>
+      <state>, Italy</state>
+      <zipcode>33170</zipcode>
+      <longitude>12.680547</longitude>
+      <latitude>45.951774</latitude>
+    </venue>
+  </guide>
+</GuidebookXML>

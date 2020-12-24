@@ -1,0 +1,259 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #263 - Manila 2013</name>
+    <startDate>11/23/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>(GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatPinas</twitterHashtag>
+    <venue>
+      <name>University of Makati</name>
+      <street>JP Rizal Ext</street>
+      <city>Makati City</city>
+      <state>West Rembo, Philippines</state>
+      <zipcode>1200</zipcode>
+      <longitude>121.0606003</longitude>
+      <latitude>14.5625</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>19</importID>
+      <name>MSSQLTips.com</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.mssqltips.com/</url>
+      <imageURL>https://www.pass.org/images/mssql_logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>50</importID>
+      <name>xSQL Software</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.xsql.com</url>
+      <imageURL>
+      </imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>83</importID>
+      <name>PluralSight</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.pluralsight.com</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2015/11/Pluralsight_logo_novo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>844</importID>
+      <name>Microsoft Philippines</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.microsoft.com/en-ph/default.aspx</url>
+      <imageURL>https://i.s-microsoft.com/global/ImageStore/PublishingImages/logos/hp/logo-lg-1x.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1288</importID>
+      <name>dB Wizards, Inc.</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.wizardsgroup.com</url>
+      <imageURL>https://michaelcorpuz.files.wordpress.com/2013/10/db-logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>388</importID>
+      <name>ApexSQL LLC</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/864/EventSponsor_13700.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>541</importID>
+      <name>Steve Hughes - Data On Wheels</name>
+      <label>Personal Sponsor</label>
+      <url>http://www.dataonwheels.com</url>
+      <imageURL>https://dataonwheels.files.wordpress.com/2013/02/data-on-wheels-1.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1354</importID>
+      <name>Smart DevNet</name>
+      <label>swag Sponsor</label>
+      <url>https://www.smart.com.ph/developer</url>
+      <imageURL>https://www.pass.org/files/898f46d3-83e0-4e5e-944f-47c60b95af12.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>16523</importID>
+      <name>Jennifer Osorio</name>
+      <label>
+      </label>
+      <description>Jennifer is currently working as an Enterprise Database Administrator of Takecare Insurance Company, Inc. prior to that, she has worked under developer capacity on J2EE and ABAP systems with MySQL and SAPDB before she joined Fortune Tobacco Corporation where she gained experience working in SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13784</importID>
+      <name>Timothy Mislos</name>
+      <label>
+      </label>
+      <description>I am a SharePoint developer with three years experience.In that three years, I also handled ASP.Net and CRM  developments.Also a part-time instructor in Polytechnic University of the Philippines which handles subjects like, C#, SQL Server, ASP.Net.A nature lover and a mountaineer!</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.facebook.com/empty24</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23434</importID>
+      <name>Romeliz Valenciano</name>
+      <label>
+      </label>
+      <description>"Loving" husband and Database Developer for a BPO company, and sometimes moonlights as an application developer for the same company. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://twitter.com/bonskijr</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14583</importID>
+      <name>Toto Gamboa</name>
+      <label>
+      </label>
+      <description>Toto Gamboa is a software designer and developer and is specializing on databases and information search. He runs a small ISV (GSoft Solutions Incorporated) developing products for the schools. He also moonlights as an SQL Server consultant. -- On weekends, he does bird photography, goes fishing and loves road trips. He has no TV! He is also an MVP for SQL Server in the Philippines for the past 7 years.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.totogamboa.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19964</importID>
+      <name>Michael Corpuz</name>
+      <label>
+      </label>
+      <description>man of Faith, a father of 2 children, works as a software architect, a Microsoft MVP --- loves photography, likes fishing, appreciates travelling, and enjoys playing basketball</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://mvp.microsoft.com/en-us/mvp/Michael%20Corpuz-4000687</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>13784</importID>
+      <speakers>
+        <speaker>
+          <id>13784</id>
+          <name>Timothy Mislos</name>
+        </speaker>
+      </speakers>
+      <track>SQL Professional and Developers</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Practical SQL CLR</title>
+      <description>Learn practical uses of SQL CLR and how it can help you improve your database performance. Also, learn to write your own SQL CLR.</description>
+      <startTime>11/23/2013 12:00:00 AM</startTime>
+      <endTime>11/23/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>23434</importID>
+      <speakers>
+        <speaker>
+          <id>23434</id>
+          <name>Romeliz Valenciano</name>
+        </speaker>
+      </speakers>
+      <track>SQL Professional and Developers</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Alternative ETL development with Kettle</title>
+      <description>In this session attendee gets to learn ETL development outside the confines of Business Intelligence Development Studio, using an open source ETL tool called Kettle and why in some respect is more superior to SSIS. </description>
+      <startTime>11/23/2013 12:00:00 AM</startTime>
+      <endTime>11/23/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14583</importID>
+      <speakers>
+        <speaker>
+          <id>14583</id>
+          <name>Toto Gamboa</name>
+        </speaker>
+      </speakers>
+      <track>SQL Professional and Developers</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Commodity Server Provisioning for Database Servers</title>
+      <description>Powerful servers are now being commoditized and are becoming mainstream and very affordable. However, most of us, with the exception of  those dealing with the very large exotic server setups, lack knowledge on how we acquire off-the-shelf servers and components relative to how our SQL Server databases be after sometime. In this session, learn the basics on what to look for in a hardware that would fit to our specifications as database servers relative to our needs. This session will also cover best practices in setting up and configuring these servers (e.g. RAID, paritioning, etc)</description>
+      <startTime>11/23/2013 12:00:00 AM</startTime>
+      <endTime>11/23/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19964</importID>
+      <speakers>
+        <speaker>
+          <id>19964</id>
+          <name>Michael Corpuz</name>
+        </speaker>
+      </speakers>
+      <track>SQL Professional and Developers</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server 2012 HA Options</title>
+      <description>SQL Server 2012 have several options for providing Database Professionals with High Availability solutions. This session will provide Audience insight in selecting the proper solution that meets their needs.</description>
+      <startTime>11/23/2013 12:00:00 AM</startTime>
+      <endTime>11/23/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16523</importID>
+      <speakers>
+        <speaker>
+          <id>16523</id>
+          <name>Jennifer Osorio</name>
+        </speaker>
+      </speakers>
+      <track>SQL Professional and Developers</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Developing and Deploying SSIS Solutions</title>
+      <description>Developing and Deploying SSIS Solutions</description>
+      <startTime>11/23/2013 12:00:00 AM</startTime>
+      <endTime>11/23/2013 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

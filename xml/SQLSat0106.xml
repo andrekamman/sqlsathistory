@@ -1,0 +1,628 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #106 - Puerto Rico 2012</name>
+    <startDate>5/26/2012 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT-04:00) Caracas, La Paz</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat106</twitterHashtag>
+    <venue>
+      <name>Puerto Rico Convention Center</name>
+      <street>100 Convention Boulevard</street>
+      <city>San Juan</city>
+      <state>, Puerto Rico</state>
+      <zipcode>00907</zipcode>
+      <longitude>-66.092184</longitude>
+      <latitude>18.453944</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>695</importID>
+      <name>IAMCP</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.iamcp.org</url>
+      <imageURL>https://prpass.org.hostasp.us/wp-content/uploads/2012/01/iamcp-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1193</importID>
+      <name>The Cervantes Group</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.thecervantesgroup.com</url>
+      <imageURL>https://www.thecervantesgroup.com/images/logo%20_cervantes.JPG</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1</importID>
+      <name>Confio</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.confio.com</url>
+      <imageURL>https://www.pass.org/images/resized-confio_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>646</importID>
+      <name>Fusionworks, Inc.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.fwpr.com</url>
+      <imageURL>https://www.fwpr.com/templates/fusionworks/images/header.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>740</importID>
+      <name>INVID</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.invidpr.com</url>
+      <imageURL>https://www.invidpr.com/pages/Portals/0/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1012</importID>
+      <name>Rock Solid Technologies, Inc.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.rocksolid.com</url>
+      <imageURL>https://prpass.org.hostasp.us/wp-content/uploads/2012/04/RockSolid_Logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>357</importID>
+      <name>Abarca Health</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.abarcahealth.com</url>
+      <imageURL>https://www.abarcahealth.com/Images/Logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>3</importID>
+      <name>Idera</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.idera.com/Content/Home.aspx</url>
+      <imageURL>https://www.sqlsaturday.com/images/SQLSaturday/eventsponsors/IDERA170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>875</importID>
+      <name>Nagnoi, LLC</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.nagnoi.com</url>
+      <imageURL>https://sqlconquerordotcom.files.wordpress.com/2018/09/nagnoi-logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1216</importID>
+      <name>Truenorth Corporation</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.truenorthcorporation.com</url>
+      <imageURL>https://truenorth.homedns.org/tn_website/images/tn_logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>685</importID>
+      <name>Hewlett-Packard</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.hp.com</url>
+      <imageURL>https://media.infragistics.com/community/SQLSaturday/hp_logo_sql_new.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>189</importID>
+      <name>KPG (Knowledge Power Group), Inc.</name>
+      <label>Platinum Sponsor</label>
+      <url>http://kpginc.net/</url>
+      <imageURL>https://kpginc.net/wp-content/uploads/2012/03/LogoKPG_170x80.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1371</importID>
+      <name>Microsoft Puerto Rico</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://www.metricarts.com/msft.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>43</importID>
+      <name>SAPIEN Technologies</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.sapien.com</url>
+      <imageURL>https://www.pass.org/files/596bfb68-a4b3-4852-ad88-011b040d618b.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Swag Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>13769</importID>
+      <name>Maritza Córdova</name>
+      <label>
+      </label>
+      <description>Maritza Córdova is a Business Intelligence Consultant at Nagnoi, Inc. Maritza has 9 year of industry experience and more than 6 years working on Data Warehouse projects and Business Intelligence, including deep experience on Extraction, Transformation and Loading (ETL) components using SSIS, OLAP, Data Mining and Enterprise Reporting.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30652</importID>
+      <name>Joseph D'Antoni</name>
+      <label>
+      </label>
+      <description>Joseph D'Antoni is a Senior Consultant and Microsoft Data Platform MVP with over 20 years of experience working in both Fortune 500 and smaller firms. He is a Principal Consultant for Denny Cherry  Associates and lives in Malvern, PA. He is a frequent speaker at major tech events like Microsoft Ignite, PASS Summit, and Enterprise Data World. He blogs about all topics technology at joeydantoni.com. He believes that no single platform is the answer to all technology problems. Joseph holds a BS in Computer Information Systems from Louisiana Tech University and an MBA from North Carolina State University, and is the co-author of the Microsoft book "Introducing SQL Server 2016”.</description>
+      <twitter>jdanton</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=3997984amp;trk=hb_tab_pro_top</linkedin>
+      <ContactURL>http://joeydantoni.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=jdanton</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13967</importID>
+      <name>Eduardo Sobrino</name>
+      <label>
+      </label>
+      <description>Contributor for the Developers Community.  Software Architect and Team-Leader for the past 20 years.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>esobrino.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19900</importID>
+      <name>Maximo Trinidad</name>
+      <label>
+      </label>
+      <description>Maximo Trinidad (Florida Aka – Mr. PowerShell), currently work as a SAPIEN Technologies Evangelist and specialing in scripting automation on SQL Server  Microsoft Cloud Technologies. Also a Microsoft MVP (PowerShell) since 2009 and active speaker since 2007 participating at SQLSaturday, IT Pro  .NET Code Camps events.</description>
+      <twitter>maxtrinidad</twitter>
+      <linkedin>Linkedin: http://www.linkedin.com/pub/max-trinidad/12/47/775/</linkedin>
+      <ContactURL>http://www.maxtblog.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=maxtrinidad</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34335</importID>
+      <name>William E Pearson III</name>
+      <label>
+      </label>
+      <description>Bill Pearson created Island Technologies Inc. in 1997, and has developed a large and diverse customer base since. Bill#39;s background as a CPA, Internal Auditor, Management Accountant, and SQL Server MVP (BI) enables him to provide value to clients as a liaison between Accounting / Finance and Information Services. Bill has implemented enterprise business intelligence systems over the years for many Fortune 500 companies and focuses his practice upon the integrated Microsoft Business Intelligence </description>
+      <twitter>@Bill_Pearson</twitter>
+      <linkedin>https://www.linkedin.com/e/fpf/252170891</linkedin>
+      <ContactURL>https://mvp.support.microsoft.com/profile=02C5CD07-7511-4151-A678-3A4A3451F85E</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Bill_Pearson</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17464</importID>
+      <name>Jose L. Rivera</name>
+      <label>
+      </label>
+      <description>Jose Luis has over 9 years of experience developing Data Analytics, Data Warehousing and Business Intelligence solutions using SQL Server technologies, among others. In addition, he shares his knowledge and perspectives on database technologies as PRPASS Community Leader and college professor. He holds the MCTIP in Database Administration, Database Development and Business Intelligence for SQL Server 2008.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.jlrivmir.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22344</importID>
+      <name>Pam Shaw</name>
+      <label>
+      </label>
+      <description>Pam Shaw has been in IT for over 30 years.  Since 2001, Pam has been working with SQL Server, first 2000, then 2005, 2008, 2008 R2, 2012 and now 2014.  Pam currently works as a BI Developer as an independent contractor.  Pam is also the Chapter Leader of the Hillsborough SQL Users Group PASS chapter and organizer of SQL Saturday Tampa.</description>
+      <twitter>@PamShaw</twitter>
+      <linkedin>http://www.linkedin.com/in/pshaw1129/</linkedin>
+      <ContactURL>http://sqlpam.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@PamShaw</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19901</importID>
+      <name>Maximo Trinidad</name>
+      <label>
+      </label>
+      <description>Maximo Trinidad (Florida Aka – Mr. PowerShell), currently work as a SAPIEN Technologies Evangelist and specialing in scripting automation on SQL Server  Microsoft Cloud Technologies. Also a Microsoft MVP (PowerShell) since 2009 and active speaker since 2007 participating at SQLSaturday, IT Pro  .NET Code Camps events.</description>
+      <twitter>maxtrinidad</twitter>
+      <linkedin>Linkedin: http://www.linkedin.com/pub/max-trinidad/12/47/775/</linkedin>
+      <ContactURL>http://www.maxtblog.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=maxtrinidad</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31072</importID>
+      <name>Jorge Sanchez</name>
+      <label>
+      </label>
+      <description>Mr. Jorge S#225;nchez brings +27 years of experience in the IT industry, currently working for Rock Solid Technologies as IT Manager. Previously, Mr. Sanchez worked 8 years in Microsoft Puerto Rico as SQL Server Regional Specialist for Caribbean and Central America with direct focus in Puerto Rico, Costa Rica, Dominican Republic, and Trinidad. Before that, he worked 14 years as Senior Consultant, Developer, and SQL Server Certified Instructor within the Microsoft Partners Ecosystem.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/in/jorgesanchezpr</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14844</importID>
+      <name>Guillermo Caicedo</name>
+      <label>
+      </label>
+      <description>Guillermo currently works as an Azure Data  AI Specialist @ Microsoft, former Data Platform MVP. He is an active member of the Puerto Rico PASS Chapter. Enjoys sharing his experiences by participating as a speaker in technical community events.</description>
+      <twitter>https://twitter.com/sqltitan</twitter>
+      <linkedin>https://www.linkedin.com/in/gcaicedo/</linkedin>
+      <ContactURL>https://sqltitan.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/sqltitan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30651</importID>
+      <name>Joseph D'Antoni</name>
+      <label>
+      </label>
+      <description>Joseph D'Antoni is a Senior Consultant and Microsoft Data Platform MVP with over 20 years of experience working in both Fortune 500 and smaller firms. He is a Principal Consultant for Denny Cherry  Associates and lives in Malvern, PA. He is a frequent speaker at major tech events like Microsoft Ignite, PASS Summit, and Enterprise Data World. He blogs about all topics technology at joeydantoni.com. He believes that no single platform is the answer to all technology problems. Joseph holds a BS in Computer Information Systems from Louisiana Tech University and an MBA from North Carolina State University, and is the co-author of the Microsoft book "Introducing SQL Server 2016”.</description>
+      <twitter>jdanton</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=3997984amp;trk=hb_tab_pro_top</linkedin>
+      <ContactURL>http://joeydantoni.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=jdanton</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9178</importID>
+      <name>Alan Koo</name>
+      <label>
+      </label>
+      <description>Alan Koo is a former Microsoft MVP with over 11 years of technical experience architecting and developing solutions oriented to increase businesses performance in both public and private sectors. Alan joined Nagnoi, Inc. in 2005 as the lead technical architect for the Performance Management  Business Intelligence Practice and in 2007 became Nagnoi’s first Senior Consultant. Alan is the co-founder and current President of PRPASS and maintains his "Microsoft Business Intelligence y mas..." blog.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.alankoo.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30478</importID>
+      <name>Janis Griffin</name>
+      <label>
+      </label>
+      <description>Janis Griffin has over 30 years of DBA/database experience including design, development and implementation of many critical database applications. Before coming to Quest Software, Janis primarily worked in the Telecom/Network Industry, working with both real-time network routing databases and OLTP business to business applications.  Janis also held positions as a Principal Architect and Senior Manager, mentoring other DBAs on best practices in database performance tuning.</description>
+      <twitter>DoBoutAnything</twitter>
+      <linkedin>http://www.linkedin.com/pub/janis-griffin/0/914/aba</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DoBoutAnything</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32368</importID>
+      <name>Ramon Ponte</name>
+      <label>
+      </label>
+      <description>Ramon Ponte has over 19 years of experience delivering enterprise architecture and advisory services to medium and large size organizations in Puerto Rico, the Caribbean and Central America. Industries of expertise include government, education, financial services, insurance, and the telecommunication sector. Ramon#39;s area of specialization is Enterprise Application Platforms. This includes SOA, BI, BPM, ALM, Data Management and Enterprise Architecture.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14842</importID>
+      <name>Gualberto Huerta</name>
+      <label>
+      </label>
+      <description>Gualberto Huerta is a Regional Solution Architect in the servers organization at Hewlett-Packard (HP) based in Houston, Texas, a consultant expert on the HP Business Enterprise Solutions portfolio; these includes, Virtualization, HP Converged Infrastructure, and CloudSystem. Also he has published several technical white papers that solve customer problems using HP products and services and Microsoft technologies.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>9178</importID>
+      <speakers>
+        <speaker>
+          <id>9178</id>
+          <name>Alan Koo</name>
+        </speaker>
+      </speakers>
+      <track>(02) - BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Tasting the Flavors of Analysis Services 2012</title>
+      <description>The Unified Dimensional Modeling (UDM) concept was introduced in Analysis Services 2005 as the semantic layer to enable the OLAP cube development from multiple sources using an abstract layer. Now, Analysis Services 2012 introduces the Business Intelligence Semantic Model (BISM) concept as an evolution to UDM, offering two new "flavors": the Multidimensional Mode and the Tabular Mode. The BISM represents the heart of Microsoft Business Intelligence strategy for now and the upcoming years. This session will explain and clarify the basic concepts of Analysis Services 2012 and PowerPivot 2.0 and discuss different scenarios  that will allow BI architects / developers to take better decisions when developing OLAP solutions with SSAS. (Spanish)</description>
+      <startTime>5/26/2012 12:00:00 AM</startTime>
+      <endTime>5/26/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17464</importID>
+      <speakers>
+        <speaker>
+          <id>17464</id>
+          <name>Jose L. Rivera</name>
+        </speaker>
+      </speakers>
+      <track>(03) - AppDev</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>You got XML !!!</title>
+      <description>The use of XML based content in SQL Server has become very popular over time. In this session, we will show you how to use the XML data type (FOR XML, Schemas, Namespaces), perform basic operations on XML data (XML DML), and discuss the performance consideration (storage, XML indexes) associated to these features.In this session we will explore the multitude of ways that you can make your reports adapt to the needs of your users.  This will include defining formats based on the data contents.  We will explore how to refine layouts based on the data to be delivered.  We will demonstrate how to create a parameter driven data source.  We will take a look at how creating templates can give your catalog of reports a more professional look.  All </description>
+      <startTime>5/26/2012 12:00:00 AM</startTime>
+      <endTime>5/26/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19901</importID>
+      <speakers>
+        <speaker>
+          <id>19901</id>
+          <name>Maximo Trinidad</name>
+        </speaker>
+      </speakers>
+      <track>(01) - DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Basic Intro to PowerShell for the DBA</title>
+      <description>Description:This is an Intro level for the SQL DBA wanting to start and learn how to use PowerShell in their environment. It will be divided in two half hour part be covering PowerShell setup essentials, and testing PowerShell working with both SMO and SQLPS module to build SQL PowerShell scripts.  This is not a language intro but it will get you started to learn PowerShell.  Covering PowerShell V2/V3 and SQL Server tools.</description>
+      <startTime>5/26/2012 12:00:00 AM</startTime>
+      <endTime>5/26/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32368</importID>
+      <speakers>
+        <speaker>
+          <id>32368</id>
+          <name>Ramon Ponte</name>
+        </speaker>
+      </speakers>
+      <track>(02) - BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Cleansing Your Data with Data Quality Services. </title>
+      <description>SQL Server Data Quality Services (DQS) is a Knowledge-Driven Data Quality product aimed at the data stewards and IT professionals who seek to improve the quality of their business data. In this session, Ramon will describe the concept and main principles behind SQL Server 2012 Data Quality Services. The main capabilities of the product, such as knowledge management, cleansing, matching and profiling.In Spanish.</description>
+      <startTime>5/26/2012 12:00:00 AM</startTime>
+      <endTime>5/26/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30478</importID>
+      <speakers>
+        <speaker>
+          <id>30478</id>
+          <name>Janis Griffin</name>
+        </speaker>
+      </speakers>
+      <track>(03) - AppDev</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Looney Tuner?  No, there IS a method to my madness</title>
+      <description>SQL Server query tuning is often more art than science and it can quickly eat up a lot of DBA and/or Developer time. This presentation will outline a method for determining the best approach for tuning queries by utilizing response time analysis and SQL diagramming techniques. Regardless of the complexity of the statement, this quick, systematic approach will lead you down the correct tuning path with no guessing. If you are a beginner or expert, this approach will save you countless hours tuning a query.This session will be presented in English.</description>
+      <startTime>5/26/2012 12:00:00 AM</startTime>
+      <endTime>5/26/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22344</importID>
+      <speakers>
+        <speaker>
+          <id>22344</id>
+          <name>Pam Shaw</name>
+        </speaker>
+      </speakers>
+      <track>(02) - BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Tips  Tricks for dynamic SSRS Reports</title>
+      <description>In this session we will explore the multitude of ways that you can make your reports adapt to the needs of your users.  This will include defining formats based on the data contents.  We will explore how to refine layouts based on the data to be delivered.  We will demonstrate how to create a parameter driven data source.  We will take a look at how creating templates can give your catalog of reports a more professional look.  All of this together will empower you to have more control over the reports you create. Presented in English.</description>
+      <startTime>5/26/2012 12:00:00 AM</startTime>
+      <endTime>5/26/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19900</importID>
+      <speakers>
+        <speaker>
+          <id>19900</id>
+          <name>Maximo Trinidad</name>
+        </speaker>
+      </speakers>
+      <track>(03) - AppDev</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>PowerShell Query for the T-SQL Developer.</title>
+      <description>This session will show the side-by-side similarity in building a PowerShell query vs T-SQL. I will demo some scripting techiniques in buidling a PowerShell query, building Hash table objects, ways to read and display the information. If the person knows how-to write T-SQL script, then it makes it easy to understand How-To write a PowerShell query. Presented in English.</description>
+      <startTime>5/26/2012 12:00:00 AM</startTime>
+      <endTime>5/26/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13769</importID>
+      <speakers>
+        <speaker>
+          <id>13769</id>
+          <name>Maritza Córdova</name>
+        </speaker>
+      </speakers>
+      <track>(03) - AppDev</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>A Lap Around SQL Server Integration Services 2012 </title>
+      <description>This session will cover a featured enterprise-level extract, transform and load (ETL) tools like SSIS platform. Features and architecture of the new toolset of MSSSIS 2012 as we learn how you can be using SSIS for your projects. This session will be presented in Spanish.</description>
+      <startTime>5/26/2012 12:00:00 AM</startTime>
+      <endTime>5/26/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30652</importID>
+      <speakers>
+        <speaker>
+          <id>30652</id>
+          <name>Joseph D'Antoni</name>
+        </speaker>
+      </speakers>
+      <track>(01) - DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SAN Basics for DBAs</title>
+      <description>Curious as to what a LUN is? Or what RAID level you should use for you database files? This session will cover the basics of what a SAN is, how it works, and how to talk to your SAN Admins. We will also discuss various ways to configure SQL Server for optimal I/O.  Presented in English.</description>
+      <startTime>5/26/2012 12:00:00 AM</startTime>
+      <endTime>5/26/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14844</importID>
+      <speakers>
+        <speaker>
+          <id>14844</id>
+          <name>Guillermo Caicedo</name>
+        </speaker>
+      </speakers>
+      <track>(02) - BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Power View  Reporting Enhancements in SQL Server </title>
+      <description>Power View provides intuitive ad-hoc reporting for business users such as data analysts, business decision makers, and information workers. They can easily create and interact with views of data from tabular models based on PowerPivot workbooks or tabular models deployed to SSAS instances. In this session will dive in to what is needed to create PowerView reports and an overview of the reporting enhancements in SQL Server 2012. Presented in Spanish.</description>
+      <startTime>5/26/2012 12:00:00 AM</startTime>
+      <endTime>5/26/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30651</importID>
+      <speakers>
+        <speaker>
+          <id>30651</id>
+          <name>Joseph D'Antoni</name>
+        </speaker>
+      </speakers>
+      <track>(01) - DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL 2012 -- All About HA and DR</title>
+      <description>Have you heard about all of the new Availability Group features in SQL 2012? Thinking about implementing a DR solution, but don't know where to start. In this presentation you'll learn all about the new DR features in SQL Server 2012 and see them in practice. Presented in English.</description>
+      <startTime>5/26/2012 12:00:00 AM</startTime>
+      <endTime>5/26/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14842</importID>
+      <speakers>
+        <speaker>
+          <id>14842</id>
+          <name>Gualberto Huerta</name>
+        </speaker>
+      </speakers>
+      <track>(01) - DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>HP Data Management Solutions.</title>
+      <description>The HP and Microsoft global strategic alliance is one of the longest standing alliances of its kind in the industry; this session presents the solution portfolio for Database management and consolidation using the HP Converged Infrastructure portfolio and Microsoft technologies. Presented in Spanish.</description>
+      <startTime>5/26/2012 12:00:00 AM</startTime>
+      <endTime>5/26/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31072</importID>
+      <speakers>
+        <speaker>
+          <id>31072</id>
+          <name>Jorge Sanchez</name>
+        </speaker>
+      </speakers>
+      <track>(01) - DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Performance Troubleshooting for the DBA</title>
+      <description>(Presented in Spanish). This session will present performance troubleshooting tips for the Database Administrator (DBA). First, will explain Windows and SQL Server installation  configuration best practices, followed by TSQL scripts to detect bottlenecks (CPU, RAM, I/O, Waits, Blocking, and others), TSQL recommendations on large databases, and finally SQL performance counters.</description>
+      <startTime>5/26/2012 12:00:00 AM</startTime>
+      <endTime>5/26/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34335</importID>
+      <speakers>
+        <speaker>
+          <id>34335</id>
+          <name>William E Pearson III</name>
+        </speaker>
+      </speakers>
+      <track>(02) - BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>PowerPivot for Excel: For Those Unacquainted ... </title>
+      <description>Microsoft BI Architect and SQL Server MVP Bill Pearson overviews PowerPivot for Excel, the client side of Microsoft’s foray into self-service BI. The targeted audience includes BI professionals who are seeking an introduction to what PowerPivot offers their organizations. Among others interested will be Excel power users who are fluent with PivotTables and want to understand the new capabilities.  (ENGLISH)</description>
+      <startTime>5/26/2012 12:00:00 AM</startTime>
+      <endTime>5/26/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13967</importID>
+      <speakers>
+        <speaker>
+          <id>13967</id>
+          <name>Eduardo Sobrino</name>
+        </speaker>
+      </speakers>
+      <track>(03) - AppDev</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Managing Blobs and Geo-Location Data</title>
+      <description>Working with "very large objects" ("Binary Large Objects") including images, binary data, xml documents, or geo-location related data sets is a challenge.  Once the object is registered then how you manage or query data within.  What about performance?  This session will present to you various issues related to managing large objects and strategies / code alternatives for its storage, retrieval and querying. Presented in Spanish.</description>
+      <startTime>5/26/2012 12:00:00 AM</startTime>
+      <endTime>5/26/2012 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,372 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #266 - Lima 2013</name>
+    <startDate>12/7/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>300</attendeeEstimate>
+    <timezone>(GMT-05:00) Bogota, Lima, Quito</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat266</twitterHashtag>
+    <venue>
+      <name>Microsoft Peru</name>
+      <street>San Isidro</street>
+      <city>Lima</city>
+      <state>Lima, Peru</state>
+      <zipcode>Lima 27</zipcode>
+      <longitude>-77.03697</longitude>
+      <latitude>-12.096536</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>20</importID>
+      <name>O'Reilly Books</name>
+      <label>Silver Sponsor</label>
+      <url>http://oreilly.com/</url>
+      <imageURL>https://oreilly.com/images/oreilly/oreilly.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>37</importID>
+      <name>Wrox</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.wrox.com/WileyCDA/</url>
+      <imageURL>https://media.wiley.com/assets/253/59/wrox_logo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>83</importID>
+      <name>PluralSight</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.pluralsight.com</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2015/11/Pluralsight_logo_novo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>388</importID>
+      <name>ApexSQL LLC</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/864/EventSponsor_13700.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>15211</importID>
+      <name>Shehab El-Najjar</name>
+      <label>
+      </label>
+      <description>Shehab El-Najjar was the ONLY Microsoft SQL Server MVP in Gulf for the past 6 years and the 2nd one all over the Middle East  , he is the founder of SQL Gulf events series (SQL Gulf #1 , #2 and #3 ) where he spent so much time and efforts  to broadcast Microsoft SQL Server technologies all over the Gulf such as  KSA and Emirates and other Gulf cities ahead ..) 
+
+	He is now Professional Services Manager at Saudi  Emircom 
+
+	He was previously COO and business leader in KSA market through his startup WAJA IT for  3 years
+
+	He is an influencing Database community leader all over the region  	
+	A senior Database Consultant (SQL Server MVP for 6 years in row) -The 2nd MVP awardee SQL Server all over Middle East and Arabic region</description>
+      <twitter>https://twitter.com/MSQLPerformance</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=126446983amp;trk=hp-identity-name</linkedin>
+      <ContactURL>http://sqlserver-performance-tuning.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/MSQLPerformance</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13826</importID>
+      <name>ENRIQUE ALBAN</name>
+      <label>
+      </label>
+      <description>Enrique Alban, profesional de reconocida trayectoria nacional e internacional con más de 20 años de experiencia, premiado por 9 años consecutivos con el prestigioso premio a nivel mundial dado por Microsoft como el Most Value Professional (MVP) en SQL SERVER. A realizado consultorías a las principales empresas nacionales e internacionales. Participa habitualmente en los eventos de Microsoft como expositor de Inteligencia de Negocio y Base de Datos.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17754</importID>
+      <name>Team  SQL PASS PERU</name>
+      <label>
+      </label>
+      <description>Equipo SQL PASS PERU</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15210</importID>
+      <name>Shehab El-Najjar</name>
+      <label>
+      </label>
+      <description>Shehab El-Najjar was the ONLY Microsoft SQL Server MVP in Gulf for the past 6 years and the 2nd one all over the Middle East  , he is the founder of SQL Gulf events series (SQL Gulf #1 , #2 and #3 ) where he spent so much time and efforts  to broadcast Microsoft SQL Server technologies all over the Gulf such as  KSA and Emirates and other Gulf cities ahead ..) 
+
+	He is now Professional Services Manager at Saudi  Emircom 
+
+	He was previously COO and business leader in KSA market through his startup WAJA IT for  3 years
+
+	He is an influencing Database community leader all over the region  	
+	A senior Database Consultant (SQL Server MVP for 6 years in row) -The 2nd MVP awardee SQL Server all over Middle East and Arabic region</description>
+      <twitter>https://twitter.com/MSQLPerformance</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=126446983amp;trk=hp-identity-name</linkedin>
+      <ContactURL>http://sqlserver-performance-tuning.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/MSQLPerformance</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17755</importID>
+      <name>Team  SQL PASS PERU</name>
+      <label>
+      </label>
+      <description>Equipo SQL PASS PERU</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21925</importID>
+      <name>Percy Reyes</name>
+      <label>
+      </label>
+      <description>Microsoft SQL Server MVP, Certified Sr. Database Administrator, Author at http://MSSQLTips.com  | SQL PASS Peru Chapter Leader | MCITP DBA/Dev, MCTS, MCP.
+Bachelor in Systems Engineering and Senior Database Administrator focused on Microsoft SQL Server Internals with over 12+ years of extensive experience managing database servers. I am a frequent Speaker about SQL Server technologies for over 10 years at Local User Group Meetings, Webcasts, and National Conferences. </description>
+      <twitter>@percyreyes</twitter>
+      <linkedin>https://www.linkedin.com/in/percyreyes</linkedin>
+      <ContactURL>http://percyreyes.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@percyreyes</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22755</importID>
+      <name>Jose  Redondo</name>
+      <label>
+      </label>
+      <description>Information Technology System Business Consultant (Stand-Alone, Client/Server, Multi Levels, etc.), Designer and Developers of Database (Transactions Components Database, OLTP, etc.), Web (Internet, Intranet, Extranet, etc.) and Data Warehouse (OLAP, BI, etc.). Professional certificate MCTS in MS SQL Server 2005  MTA in Database Administrator Fundamentals.
+
+Specialties: MS SQL Server, Oracle, DB2, Informix, SyBase, 4D, IBM Cognos, Siebel, Business Objects, MS Office PerformancePoint Server,</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22754</importID>
+      <name>Jose  Redondo</name>
+      <label>
+      </label>
+      <description>Information Technology System Business Consultant (Stand-Alone, Client/Server, Multi Levels, etc.), Designer and Developers of Database (Transactions Components Database, OLTP, etc.), Web (Internet, Intranet, Extranet, etc.) and Data Warehouse (OLAP, BI, etc.). Professional certificate MCTS in MS SQL Server 2005  MTA in Database Administrator Fundamentals.
+
+Specialties: MS SQL Server, Oracle, DB2, Informix, SyBase, 4D, IBM Cognos, Siebel, Business Objects, MS Office PerformancePoint Server,</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14407</importID>
+      <name>German Cayo Morales</name>
+      <label>
+      </label>
+      <description>Consultor y especialista en SQL Server. Fundador de la Comunidad MT Developer Ica y colaborador como Speaker en diferentes Comunidades a nivel Nacional</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://germancayom.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>15210</importID>
+      <speakers>
+        <speaker>
+          <id>15210</id>
+          <name>Shehab El-Najjar</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Performance dreams  wait for you at SQL Server 2014</title>
+      <description>it is just like this because you will  that unbelievable performance reads and substantial improvement that you will not give up at all those new SQL Server 2014 features , come in here to my session and you will know more about many new features and rich powers of SQL Server 2014 regarding performance particularly like  Microsoft project “Hekaton” for In-memory built for OLTP , In-Memory columnstore index ,Resource Governor for IO consumption ,  lock management  and also Single partition online index rebuild technologies ,you will get much hands-on experience  for all definitions , architecture design , values and benefits ,caveats  and recommendations related to each one of them and in addition  I will add a practical flavor for this session by conducting multiple stress tests on most of these technologies to be more close to these performance dreams and explorer concretely these outstanding performance improvements of SQL Server 2014  to be able t take a conscious decision for upgra</description>
+      <startTime>12/7/2013 12:00:00 AM</startTime>
+      <endTime>12/7/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21925</importID>
+      <speakers>
+        <speaker>
+          <id>21925</id>
+          <name>Percy Reyes</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>In-Memory OLTP Internals for SQL Server 2014 CTP2</title>
+      <description>New in SQL Server 2014, In-Memory OLTP is a memory-optimized OLTP database engine for SQL Server. Depending on the reason for poor performance with your disk-based tables, In-Memory OLTP can help you achieve significant performance and scalability gains by using algorithms that are optimized for accessing memory-resident data, optimistic concurrency control that eliminates logical locks, lock free objects are used to access all data and threads that perform transactional work don’t use locks or latches for concurrency control.
+
+In-memory OLTP is essentially the latest evolution in database engine technology and provides full durability for memory-optimized tables. 
+
+WebSite: http://www.mssqlinternals.com | Twitter: @percyreyes</description>
+      <startTime>12/7/2013 12:00:00 AM</startTime>
+      <endTime>12/7/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22755</importID>
+      <speakers>
+        <speaker>
+          <id>22755</id>
+          <name>Jose  Redondo</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Big Data, Almacenes de datos empresariales (EDW) y Windows Azure (SQL Database) como Plataforma BI</title>
+      <description>Technical session Big Data</description>
+      <startTime>12/7/2013 12:00:00 AM</startTime>
+      <endTime>12/7/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17754</importID>
+      <speakers>
+        <speaker>
+          <id>17754</id>
+          <name>Team  SQL PASS PERU</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>"Data Explorer" is now Microsoft Power Query for Excel</title>
+      <description>Technical session Business Intelligence</description>
+      <startTime>12/7/2013 12:00:00 AM</startTime>
+      <endTime>12/7/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13826</importID>
+      <speakers>
+        <speaker>
+          <id>13826</id>
+          <name>ENRIQUE ALBAN</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Inteligencia de Negocio.. Convirtiendo Datos en informacion.</title>
+      <description>En los tiempos actuales se hace necesario convertir los datos en información vital para el negocio, pero ¿como podemos aplicar la Inteligencia de Negocio en los tiempos actuales?. Cual es la propuesta de Microsoft para aplicar estos conceptos.
+</description>
+      <startTime>12/7/2013 12:00:00 AM</startTime>
+      <endTime>12/7/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17755</importID>
+      <speakers>
+        <speaker>
+          <id>17755</id>
+          <name>Team  SQL PASS PERU</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>KeyNote SQL PASS PERU</title>
+      <description>KeyNote SQL PASS PERU</description>
+      <startTime>12/7/2013 12:00:00 AM</startTime>
+      <endTime>12/7/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22754</importID>
+      <speakers>
+        <speaker>
+          <id>22754</id>
+          <name>Jose  Redondo</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Implementando escenarios de reportes empresariales en Windows Azure con SQL Reporting</title>
+      <description>Technical session Business Intelligence </description>
+      <startTime>12/7/2013 12:00:00 AM</startTime>
+      <endTime>12/7/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15211</importID>
+      <speakers>
+        <speaker>
+          <id>15211</id>
+          <name>Shehab El-Najjar</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Performance dreams of SQL Server 2014</title>
+      <description>Technical session DBA</description>
+      <startTime>12/7/2013 12:00:00 AM</startTime>
+      <endTime>12/7/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14407</importID>
+      <speakers>
+        <speaker>
+          <id>14407</id>
+          <name>German Cayo Morales</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Hadoop On  Windows Azure</title>
+      <description>The HDInsight Service for Windows Azure makes Apache Hadoop available as a service in the cloud. It makes the HDFS/MapReduce software framework and related projects available in a simpler, more scalable, and cost efficient environment.</description>
+      <startTime>12/7/2013 12:00:00 AM</startTime>
+      <endTime>12/7/2013 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

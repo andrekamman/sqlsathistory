@@ -1,0 +1,716 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #817 - Joinville 2019</name>
+    <startDate>4/6/2019 12:00:00 AM</startDate>
+    <attendeeEstimate>525</attendeeEstimate>
+    <timezone>(GMT-03:00) Greenland</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatJoinville</twitterHashtag>
+    <venue>
+      <name>Univille</name>
+      <street>Rua Paulo Malschitzki, 10</street>
+      <city>Joinville</city>
+      <state>Santa Catarina, Brazil</state>
+      <zipcode>89219-710</zipcode>
+      <longitude>-48.854335</longitude>
+      <latitude>-26.2543835</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/972/EventSponsor_14605.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2167</importID>
+      <name>BECOMEX</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.becomex.com.br</url>
+      <imageURL>https://portais.becomex.com.br/media/images/global/share_image_default.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1781</importID>
+      <name>Microsoft</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1008/EventSponsor_14955.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>522</importID>
+      <name>CrespiDB</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.crespidb.com.br</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/935/EventSponsor_14875.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>994</importID>
+      <name>RDornel Data Platform eXperts - RDDPX</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.rdornel.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/941/EventSponsor_14735.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>582</importID>
+      <name>Domo Soluções</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.domosolucoes.com.br</url>
+      <imageURL>https://www.domosolucoes.com.br/wp-content/uploads/2017/05/logo-domo-vertical.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2325</importID>
+      <name>RevDeBug</name>
+      <label>Bronze Sponsor</label>
+      <url>https://revdebug.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/952/EventSponsor_14374.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1233</importID>
+      <name>Univille</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.univille.edu.br/</url>
+      <imageURL>https://images01.gruposinternet.com.br/unsafe/600x315/smart/http://www.univille.edu.br/templates/source/8/images/logo_univille_hor.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>87994</importID>
+      <name>Luiz Henrique Garetti</name>
+      <label>
+      </label>
+      <description>Arquiteto de Soluções Big Data no Itáu, Bacharel em Ciência da Computação com MBA em Big Data. 
+Palestrante em eventos de tecnologia com participações nacionais como São Paulo, Brasília, Salvador, Belo Horizonte, Caxias do Sul, Joinville e internacionais como Bogotá-Colômbia.
+Nas horas vagas... curto pegar a estrada de moto, é o meu limpa cache :)
+Entusiasta do Ecossistema Big Data, o qual dedica horas de estudos em tecnologias emergentes, compartilhando um pouco no blog www.dataisbig.com.br</description>
+      <twitter>luizhgaretti</twitter>
+      <linkedin>https://www.linkedin.com/in/luizhenriquegaretti</linkedin>
+      <ContactURL>https://dataisbig.com.br/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=luizhgaretti</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86562</importID>
+      <name>Rodrigo Crespi</name>
+      <label>
+      </label>
+      <description>Rodrigo Crespi is Microsoft Data Platform MVP, MCT, MCSE, MCSA, MCIT, MCDBA and MCP in SQL Server. Also, he has certifications in .NET Framework, Dynamics CRM, among others. He started working with SQL Server on version 6.5 as a developer and then opted for working especially with database administration. Nowadays he is a partner in CrespiDB – Soluções em Plataformas de Dados and university professor at Uniftec – Caxias do Sul. Author of many published articles on websites and magazines about SQL Server and software engineering, he runs a YouTube channel named SQLCrespi and a personal blog called SQLCrespi, too. Rodrigo is the founder of SQL Server RS PASS Chapter in Rio Grande do Sul – Brazil and a Chapter Leader</description>
+      <twitter>sqlcrespi</twitter>
+      <linkedin>https://www.linkedin.com/in/rodrigocrespi/</linkedin>
+      <ContactURL>http://sqlcrespi.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlcrespi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90616</importID>
+      <name>Tiago Crespi</name>
+      <label>
+      </label>
+      <description>Trabalha a 4 anos como Administrador de Banco de Dados na CrespiDB - Soluções em Plataforma de Dados. Já atuo como desenvolvedor VB.NET, C++ e Delphi em empresas como Lojas Colombo, CWI Software e Lohr Sistemas Eletrônicos. Graduado em Sistemas de Informação | Especialista em Engenharia de Software | MCSE: Data Management and Analytics
+ Palestrante em eventos e meetups relacionados à bancos de dados e desenvolvimento de software. Sendo alguns deles: SQL Saturday, SQL Server RS, .NET Caxias, etc.</description>
+      <twitter>tiagocrespi</twitter>
+      <linkedin>https://www.linkedin.com/in/tiagocrespi</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=tiagocrespi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89274</importID>
+      <name>Fabrício Lima</name>
+      <label>
+      </label>
+      <description>Bacharel em Ciência da Computação pela Universidade Federal do Espírito Santo, trabalha com SQL Server desde 2006 e possui certificações desde a versão do SQL Server 2000. Em 2017 foi reconhecido pela Microsoft como MVP Data Platform.
+
+Após trabalhar por 10 anos como funcionário de uma grande empresa, em 2014 fundou a Power Tuning,  que se tornou uma consultoria referência no Brasil na plataforma de dados da Microsoft (DBA e BI).
+
+Também mantem um blog sobre SQL Server em: www.fabriciolima.net/blog</description>
+      <twitter>fabriciodba</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=85776885</linkedin>
+      <ContactURL>http://fabriciolima.net/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=fabriciodba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87465</importID>
+      <name>Walter Coan</name>
+      <label>
+      </label>
+      <description>Microsoft MVP, Azure Solutions Architect, Azure IoT/Dev Cert, MCT, MCSD, AWS Dev Cert, SCP Java, Developer, speaker about IoT Master in Distrib Systems</description>
+      <twitter>https://twitter.com/waltercoan</twitter>
+      <linkedin>https://www.linkedin.com/in/walter-coan-a64a1041/</linkedin>
+      <ContactURL>http://www.faltoupontoevirgula.com.br/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/waltercoan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90364</importID>
+      <name>Diego Nogare</name>
+      <label>
+      </label>
+      <description>Diego Nogare is Chief Data Officer @ Lambda3. He has graduated in Computer Science, Post-Graduated in Computer Engineering. Author of books in Portuguese about SQL Server, Business Intelligence and Machine Learning. Microsoft Most Valuable Professional [MVP] since 2008, shifting to Artificial Intelligence award in 2017. Spent a time as volunteer at PASS, as, Regional Mentor (2014/2015), Regional Board Advisor for LATAM (2016) and Board Director (2018/2019). Worked on the SQL Server team at Microsoft, in Brazil, engaged in the release of SQL Server 2012. Spent some time as a speaker at Microsoft and PASS events.</description>
+      <twitter>@DiegoNogare</twitter>
+      <linkedin>https://br.linkedin.com/in/diegonogare</linkedin>
+      <ContactURL>http://www.diegonogare.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@DiegoNogare</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89414</importID>
+      <name>Milton Camara</name>
+      <label>
+      </label>
+      <description>Coordenador de Comunidade (DevOps Professionals - Mais de 1000 inscritos) e Palestrante em divesas comunidade técnicas, Autor Técnico, Microsoft Certified Professional (MCP), Microsoft Certified Solution Associate (MCSA), Analista de Sistemas corporativos com mais de 10 anos de experiência profissional, incluindo 7 anos em análise e desenvolvimento de softwares para o setor de turismo focado no segmento de carros e 3 anos trabalhando em consultoria de diversos segmentos como bancário, seguros, relacionamento com investidores.</description>
+      <twitter>https://twitter.com/camaramilton</twitter>
+      <linkedin>https://www.linkedin.com/in/milton-camara-gomes-b89a5112/</linkedin>
+      <ContactURL>http://www.mcamara.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/camaramilton</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90028</importID>
+      <name>Marcus Vinícius Bittencourt</name>
+      <label>
+      </label>
+      <description>MVP Data Platform, PASS Regional Mentor, Chapter Leader do SQL Server RS.
+DBA especializado em infraestrutura, troubleshooting. 
+Trabalha com SQL Server há mais de 10 anos.
+SQL Performance Counters and Storage Expert, powershell, speaker na comunidade SQL Server em eventos como SQL Saturday, 24HOP, CMG, Eventos de Chapters Locais e Virtuais, dentre outros...</description>
+      <twitter>http://twitter.com/mvbitt</twitter>
+      <linkedin>http://likedin.com/marcus.bittencourt</linkedin>
+      <ContactURL>http://isqlserver.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/mvbitt</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89217</importID>
+      <name>Renato Groffe</name>
+      <label>
+      </label>
+      <description>Consultor em atividades voltadas ao desenvolvimento de sistemas há mais de 15 anos. Microsoft MVP (Most Valuable Professional) e participante do programa MTAC (Multi-Plataform Technical Audience Contributor). Bacharel em Sistemas de Informação, com Especialização em Engenharia de Software e MBA em Business Intelligence. Também é palestrante e autor técnico em portais e revistas especializadas, com foco em tecnologias Microsoft e boas práticas na área de software.</description>
+      <twitter>https://twitter.com/renatogroff</twitter>
+      <linkedin>https://br.linkedin.com/in/renatogroffe</linkedin>
+      <ContactURL>https://medium.com/@renato.groffe/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/renatogroff</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88520</importID>
+      <name>Leandro Domingues</name>
+      <label>
+      </label>
+      <description>Microsoft Data Platform MVP, MongoDB Ambassador, Evangelist e Certified Trainer, membro do MongoDB Advocacy Hub, Top 50 Neo4j Certified, também tem grande experiência em MS SQL Server. Atualmente é Head of NoSQL Solutions na Dataside e Founder da Cluster Consultoria, uma empresa dedicada a oferecer soluções NoSQL. Entusiasta de tecnologias open-source, bigdata e NoSQL. Mais de 18 anos de experiência em desenvolvimento de aplicações e manutenção de grandes volumes de dados.</description>
+      <twitter>delbussoweb</twitter>
+      <linkedin>https://www.linkedin.com/in/leandro-domingues/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=delbussoweb</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87591</importID>
+      <name>Felipe Togashi</name>
+      <label>
+      </label>
+      <description>Um dos responsáveis por integrar o uso da ferramenta Power BI na operação da Selbetti empresa de Outsourcing de Joinville, atua desde 2016 com a ferramenta e sendo o responsável pela área central do uso da mesma, dentre seus principais cases, foi o uso da ferramenta como forma de transparência para os clientes de forma barata e dinâmica</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/felipe-togashi</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88198</importID>
+      <name>Arthur Luz</name>
+      <label>
+      </label>
+      <description>MCSE - Data Managment and Analytics, Especialista na suite de BI da Micorsoft, Analista Sênior em Modelagem e implementação de projetos de BI, Instrutor Oficial Microsoft [MCT], Desenvolvedor de Soluções usando tecnologias de Big Data, Articulista técnico da revista SQL Magazine e blog Data's Light e Palestrante da comunidade Microsoft vinculado ao PASS. Atua hoje como Chief Data Officer at Data's Light.</description>
+      <twitter>@arthurjosemberg</twitter>
+      <linkedin>https://br.linkedin.com/in/arthurjosemberg</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@arthurjosemberg</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90417</importID>
+      <name>Paulo Ricardo Santos</name>
+      <label>
+      </label>
+      <description>Profissional da área de Tecnologia da Informação com mais de 10 anos de experiência e vivência no exterior. 
+Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas e Pós graduando em Business Intelligence e Big Data. 
+Palestrante de inovação e tecnologia nacional e internacional</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/pauloricardovds</linkedin>
+      <ContactURL>https://www.paulorsantos.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90249</importID>
+      <name>Anderson Souza</name>
+      <label>
+      </label>
+      <description>Atua como Coordernador de banco de dados na Sequoia Logistica. 
+Possui experiência administrando bancos de dados de diversas companhias dos mais variados setores, como instituições financeiras, consultorias e portais de e-commerce. 
+Adora tecnologia e compartilha conhecimento de tecnologias de Bancos de Dados em apresentações dentro da empresa e eventos.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86485</importID>
+      <name>Bruno Feldman</name>
+      <label>
+      </label>
+      <description>Atua no ramo de TI desde 2001, sendo que grande parte do trabalho voltado a banco de dados SQL Server, passando um pouco por MySQL e PostgreSQL. Atualmente trabalha como DBA Sr. na empresa Neogrid Software. Possui certifica#231;#245;es MCSE e MCT.</description>
+      <twitter>@FeldmanB</twitter>
+      <linkedin>https://br.linkedin.com/in/brunofeldman</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@FeldmanB</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87689</importID>
+      <name>Felipe de Assis</name>
+      <label>
+      </label>
+      <description>PFE SQL Server at Microsoft Brazil
++9 years of experience w/ SQL Server
+Passionate about SQL Server Internals and Performance</description>
+      <twitter>@felipespas</twitter>
+      <linkedin>https://br.linkedin.com/in/fdassis</linkedin>
+      <ContactURL>http://felipedba.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@felipespas</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88371</importID>
+      <name>Rafael Mendonça</name>
+      <label>
+      </label>
+      <description>Microsoft MVP Data Platform.
+Cearense, Contador, Sócio na RL Contabilidade e RL Inteligência de Negócios. 
+Atuando atualmente em Business Inteligence com o uso do POWER BI. 
+MCSA BI Repporting, MCT. 
+Membro ativo das comunidades Power BI no Brasil.</description>
+      <twitter>rafaelmpsantos</twitter>
+      <linkedin>https://www.linkedin.com/in/rafaelmpsantos/</linkedin>
+      <ContactURL>https://www.rafaelmendonca.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=rafaelmpsantos</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86557</importID>
+      <name>Orlando Mariano</name>
+      <label>
+      </label>
+      <description>Orlando Gomes possui mais de 4 de experiencia em tecnologias Microsoft, com foco no suporte e implementação em plataformas SharePoint Server e Power BI, é graduando do 2º Ano de Engenharia Mecatronica pela FIAP e membro do atual time de Microsoft Student Partners (MSPs), onde trabalha com ações para compartilhamento de conhecimento no meio profissionais e acadêmico, também atuou como mentor do Data Science Challenge da FIAP no ano de 2016 e atualmente trabalha como Analista de BI focado em Power BI.</description>
+      <twitter>@orlandomaiuri</twitter>
+      <linkedin>https://www.linkedin.com/in/orlandomariano/</linkedin>
+      <ContactURL>https://orlandomariano.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@orlandomaiuri</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88714</importID>
+      <name>Diemerson Campos</name>
+      <label>
+      </label>
+      <description>Consultor e Administrador de bancos de dados especialista em SQL Server, graduado em Bancos de dados e pós-graduado em Segurança da informação a mais de 7 anos trabalhando com bancos de dados SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/diemersoncampos/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>87994</importID>
+      <speakers>
+        <speaker>
+          <id>87994</id>
+          <name>Luiz Henrique Garetti</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Auditório(Principal)</name>
+      </location>
+      <title>SQL Server 2019 Big Data Clusters</title>
+      <description>Os clusters de Big Data podem ser implantados em qualquer nuvem onde exista um serviço gerenciado do Kubernetes, como o Azks Kubernetes Service (AKS) ou em clusters Kubernetes locais, como o AKS no Azure Stack. Os serviços de gerenciamento integrados em um cluster de big data fornecem análise de log, monitoramento, backup e alta disponibilidade por meio de um portal do administrador, garantindo uma experiência de gerenciamento consistente em todos os locais onde um cluster de big data é implantado. 
+Os clusters de big data do SQL Server 2019 fornecem uma plataforma de AI completa para fornecer os aplicativos inteligentes que ajudam a tornar qualquer organização mais bem-sucedida. 
+Nesta sessão, vamos aprofundar um pouco mais nesse assunto, entendendo (na teoria e na pratica) essa nova funcionalidade do SQL Server 2019.</description>
+      <startTime>4/6/2019 4:15:00 PM</startTime>
+      <endTime>4/6/2019 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87465</importID>
+      <speakers>
+        <speaker>
+          <id>87465</id>
+          <name>Walter Coan</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Auditório(Principal)</name>
+      </location>
+      <title>Desafios e tendências na utilização de bancos de dados para soluções de Internet das Coisas</title>
+      <description>O objetivo desta palestra é apresentar uma introdução sobre o tema da Internet das Coisas (IoT), em seguida apresentar os princípios da aplicação de bancos de dados na criação de soluções de IoT. Contextualizada a relação entre as duas tecnologias, apresentar os impactos que esse tipo de integração trás para as atuais ferramentas de bancos de dados relacionais e não relacionais. E por fim, apresentar estudos de casos que ilustrem soluções para os desafios impostos pelas soluções de IoT com bancos de dados.</description>
+      <startTime>4/6/2019 10:45:00 AM</startTime>
+      <endTime>4/6/2019 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>88371</importID>
+      <speakers>
+        <speaker>
+          <id>88371</id>
+          <name>Rafael Mendonça</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Anfiteatro(Colégio)</name>
+      </location>
+      <title>Streaming de dados no Power BI utilizando PowerShell</title>
+      <description>Utilizando PowerShell irei demonstrar como é possível enviar dados diretamente de um Servidor SQL On Premisses para o serviço do Power BI sem uso de outros "intermediários" como HUB e Stream Analytics da Azure.</description>
+      <startTime>4/6/2019 1:15:00 PM</startTime>
+      <endTime>4/6/2019 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>89217</importID>
+      <speakers>
+        <speaker>
+          <id>89217</id>
+          <name>Renato Groffe</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>Anfiteatro(Dois)</name>
+      </location>
+      <title>Extração de Dados da Web com Selenium WebDriver</title>
+      <description>Nem sempre dispomos de bases de dados ou APIs REST públicas (ou mesmo privadas) para o consumo de informações relativas um tópico específico. Uma prática comum para superar tal barreira consiste na extração automatizada de dados de páginas Web, prática conhecida como Web Scraping. Acompanhe esta apresentação para entender como o Selenium WebDriver pode ser utilizado na extração de dados presentes em páginas da Web, com exemplos de gravação empregando SQL Server, MongoDB e Excel.</description>
+      <startTime>4/6/2019 1:15:00 PM</startTime>
+      <endTime>4/6/2019 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90417</importID>
+      <speakers>
+        <speaker>
+          <id>90417</id>
+          <name>Paulo Ricardo Santos</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Anfiteatro(Colégio)</name>
+      </location>
+      <title>Data Storytelling - Power BI</title>
+      <description>Aprenda a como criar Dashboards matadores com Microsoft Power BI, Storytelling é um recurso que, quando bem usado, enriquece o seus Painéis.</description>
+      <startTime>4/6/2019 9:30:00 AM</startTime>
+      <endTime>4/6/2019 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>89274</importID>
+      <speakers>
+        <speaker>
+          <id>89274</id>
+          <name>Fabrício Lima</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>Anfiteatro(Dois)</name>
+      </location>
+      <title>Passo a passo de como fiz um Tuning em 7 queries reais do Protheus</title>
+      <description>Nesta palestra vou mostrar como melhorei 7 queries reais de um cliente com um banco da Totvs (Protheus) em uma consultoria de Tuning. Vamos debater junto o passo a passo que segui e melhorar a query só com a criação de índices, já que é uma aplicação de terceiros e não podemos alterar as consultas. Essa base tinha 800 GB de dados compactados (mais de 2 TB se não tivesse compactação).</description>
+      <startTime>4/6/2019 9:30:00 AM</startTime>
+      <endTime>4/6/2019 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>88198</importID>
+      <speakers>
+        <speaker>
+          <id>88198</id>
+          <name>Arthur Luz</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Anfiteatro(Colégio)</name>
+      </location>
+      <title>Big Data e Arquitetura Lambda</title>
+      <description>Nesta sessão será possível entender os princípios por detrás do conceito de big data. Serão discutidos user cases e a arquitetura mais utilizada hoje para construção de projetos de dados: a arquitetura Lambda.</description>
+      <startTime>4/6/2019 2:30:00 PM</startTime>
+      <endTime>4/6/2019 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>89414</importID>
+      <speakers>
+        <speaker>
+          <id>89414</id>
+          <name>Milton Camara</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Anfiteatro(Colégio)</name>
+      </location>
+      <title>Deploy Automatizado de Banco de Dados SQL Server com Azure DevOps.</title>
+      <description>É muito comum os aplicativos do dia-a-dia usarem um banco de dados como um repositório de informações e, mais comum ainda, trabalhamos com a criação do mesmo totalmente desacoplado de nosso projeto. Nesta palestra, mostrarei a você como trabalhar com um projeto de Banco de Dados do SQL Server, dentro de uma Solução no Visual Studio, e iremos além, fazendo então todo o processo de Integração Contínua e Deploy Contínuo, utilizando o Visual Studio, Azure DevOps e SQL Server para o Azure.</description>
+      <startTime>4/6/2019 4:15:00 PM</startTime>
+      <endTime>4/6/2019 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86485</importID>
+      <speakers>
+        <speaker>
+          <id>86485</id>
+          <name>Bruno Feldman</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Anfiteatro(Dois)</name>
+      </location>
+      <title>Graph Databases on CosmosDB</title>
+      <description>Vamos abordar nessa sessão o banco de dados baseado em Grafos (Graph Database), suas diferenças em relação ao banco de dados Relacional, quando utilizar e como implementar através do Azure Cosmos DB.</description>
+      <startTime>4/6/2019 2:30:00 PM</startTime>
+      <endTime>4/6/2019 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87689</importID>
+      <speakers>
+        <speaker>
+          <id>87689</id>
+          <name>Felipe de Assis</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Auditório(Principal)</name>
+      </location>
+      <title>E agora? NoSQL ou SQL?</title>
+      <description>Vamos abordar nesta sessão as principais diferenças entre banco relacional e não relacional e quando devo utilizar os bancos de dados NoSQL em ambientes transacionais.</description>
+      <startTime>4/6/2019 2:30:00 PM</startTime>
+      <endTime>4/6/2019 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90249</importID>
+      <speakers>
+        <speaker>
+          <id>90249</id>
+          <name>Anderson Souza</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>Anfiteatro(Dois)</name>
+      </location>
+      <title>SQL Data Discovery and Classification no ambiente On-Premises e Azure SQL Database</title>
+      <description>Nesta palestra vou demonstrar como utilizar essa funcionalidade com o intuito de cumprir padrões de privacidade de dados. Essa nova funcionalidade interna do SSMS nos auxiliará a atender os padrões de privacidade, controlar o acesso e proteção dos dados classificados.</description>
+      <startTime>4/6/2019 10:45:00 AM</startTime>
+      <endTime>4/6/2019 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87591</importID>
+      <speakers>
+        <speaker>
+          <id>87591</id>
+          <name>Felipe Togashi</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Anfiteatro(Dois)</name>
+      </location>
+      <title>Power BI na Gestão Operacional</title>
+      <description>Com o uso da ferramenta Power BI a equipe de serviços da Selbetti pode alcançar novos rumos e direcionamentos, constantemente querendo evoluir criou-se uma base de relatórios que é gerida através de links publicos em sua ferramenta de BPMS - Smartshare, o objetivo desta apresentação portanto é mostrar a aplicabilidade da fusão entre o uso do Power BI e o uso da ferramenta própria.</description>
+      <startTime>4/6/2019 4:15:00 PM</startTime>
+      <endTime>4/6/2019 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90028</importID>
+      <speakers>
+        <speaker>
+          <id>90028</id>
+          <name>Marcus Vinícius Bittencourt</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Auditório(Principal)</name>
+      </location>
+      <title>Hacking SQL Server</title>
+      <description>Hacking SQL Server</description>
+      <startTime>4/6/2019 5:00:00 PM</startTime>
+      <endTime>4/6/2019 6:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>88714</importID>
+      <speakers>
+        <speaker>
+          <id>88714</id>
+          <name>Diemerson Campos</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Anfiteatro(Dois)</name>
+      </location>
+      <title>Segurança de dados e Criptografia no SQL Server</title>
+      <description>Os dados se tornaram os principais ativos das organizações, sendo algo primordial para a tomada de decisões e desenvolvimento das atividades internas das empresas, consequentemente se tornaram o principal alvo quando se trata de ataques, violações e vazamentos. Nesta sessão conversaremos sobre como funcionam os principais tipos de criptografia e como aplicá-los em um ambiente de Banco de Dados SQL Server utilizando as funcionalidades da ferramenta para proteger seus dados.</description>
+      <startTime>4/6/2019 5:00:00 PM</startTime>
+      <endTime>4/6/2019 6:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>88520</importID>
+      <speakers>
+        <speaker>
+          <id>88520</id>
+          <name>Leandro Domingues</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Anfiteatro(Colégio)</name>
+      </location>
+      <title>MongoDB para DBAs Relacionais e Dev´s</title>
+      <description>MongoDB para DBAs Relacionais e Dev´s</description>
+      <startTime>4/6/2019 5:00:00 PM</startTime>
+      <endTime>4/6/2019 5:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86557</importID>
+      <speakers>
+        <speaker>
+          <id>86557</id>
+          <name>Orlando Mariano</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Anfiteatro(Colégio)</name>
+      </location>
+      <title>Analise de Dados com Azure Machine Learning, R e Power BI</title>
+      <description>Muito se fala hoje em temas relacionados a Machine Learning como um todo, ao mesmo passo que também é essencial conhecer as ferramentas que compõem o cinto de utilidades de um profissional dessa área, nessa palestra, abordaremos sobre o potencial do Azure Machine Learning integrado ao R para a entrega de modelos de predição, e como esse resultado pode ser explorado em uma camada de visualização no Power BI.</description>
+      <startTime>4/6/2019 10:45:00 AM</startTime>
+      <endTime>4/6/2019 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90616</importID>
+      <speakers>
+        <speaker>
+          <id>90616</id>
+          <name>Tiago Crespi</name>
+        </speaker>
+      </speakers>
+      <track>Developer</track>
+      <location>
+        <name>Auditório(Principal)</name>
+      </location>
+      <title>Hoje no SQL Saturday – Índices! Como vivem? Como se reproduzem? Do que se alimentam?</title>
+      <description>- O que são índices? Como eles trabalham? Quais são seus tipos?
+- Clustered e Non-Clustered – suas estruturas e como funcionam.
+- Por que os índices se fragmentam?
+- O que é Fillfactor? Como ele vive?
+- Diferença entre Rebuild e Reorganize. Quando usar?</description>
+      <startTime>4/6/2019 9:30:00 AM</startTime>
+      <endTime>4/6/2019 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>90364</importID>
+      <speakers>
+        <speaker>
+          <id>90364</id>
+          <name>Diego Nogare</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Auditório(Principal)</name>
+      </location>
+      <title>Azure Machine Learning</title>
+      <description>Nesta seção com o MVP Diego Nogare, a proposta é desenvolver uma aplicação utilizando técnicas de Machine Learning dentro Azure</description>
+      <startTime>4/6/2019 1:15:00 PM</startTime>
+      <endTime>4/6/2019 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86562</importID>
+      <speakers>
+        <speaker>
+          <id>86562</id>
+          <name>Rodrigo Crespi</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Auditório(Principal)</name>
+      </location>
+      <title>AlwaysOn com Kubernets no SQL Server 2019</title>
+      <description>O uso de contêineres permitem flexibilidade este é um dos grandes motivos do crescente uso de contêineres.
+Veja como aproveitar a execução escalável com tarefas paralelizadas em contêineres com até cinco réplicas sincronas.</description>
+      <startTime>4/6/2019 9:30:00 AM</startTime>
+      <endTime>4/6/2019 10:45:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

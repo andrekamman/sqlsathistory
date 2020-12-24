@@ -1,0 +1,357 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #503 - Krasnodar 2016</name>
+    <startDate>6/4/2016 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>(GMT+03:00) Baghdad</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatKrasnodar</twitterHashtag>
+    <venue>
+      <name>Конференц-Хол</name>
+      <street>Краснодар, ул.Коммунаров, 268</street>
+      <city>Krasnodar</city>
+      <state>Krasnodarskiy Kray, Russian Federation</state>
+      <zipcode>350000</zipcode>
+      <longitude>38.9839300650818</longitude>
+      <latitude>45.0482735440378</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>45643</importID>
+      <name>Sergey Olontsev</name>
+      <label>
+      </label>
+      <description>I have been working with SQL Server since SQL Server 2000 version as a database administrator, developer, consultant and trainer, focusing on high availability and disaster recovery solutions, ETL, troubleshooting and performance tuning, developing high performance solutions . I'm a regular speaker at SQL Server user group meetings, SQL Saturday events and other conferences. An owner of MCM certification and MVP award on SQL Server.</description>
+      <twitter>SergeyOlontsev</twitter>
+      <linkedin>http://linkedin.com/in/sergeyolontsev</linkedin>
+      <ContactURL>http://SergeyOlontsev.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SergeyOlontsev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49457</importID>
+      <name>Andrey Zavadskiy</name>
+      <label>
+      </label>
+      <description>Andrey has been leading the development of corporate information system for realty estate business based on MS SQL Server, ASP.NET and Sharepoint. He works with SQL Server since version 7.0. Currently holds MCSE certification for SQL Server, MCSD for Web development and active Microsoft trainer status. 
+He loves to design enterprise-scale application architecture, take part in database development and optimization.</description>
+      <twitter>@AndreyZavadskiy</twitter>
+      <linkedin>https://www.linkedin.com/in/zavadskiy</linkedin>
+      <ContactURL>https://andreyzavadskiy.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@AndreyZavadskiy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45638</importID>
+      <name>Sergey Olontsev</name>
+      <label>
+      </label>
+      <description>I have been working with SQL Server since SQL Server 2000 version as a database administrator, developer, consultant and trainer, focusing on high availability and disaster recovery solutions, ETL, troubleshooting and performance tuning, developing high performance solutions . I'm a regular speaker at SQL Server user group meetings, SQL Saturday events and other conferences. An owner of MCM certification and MVP award on SQL Server.</description>
+      <twitter>SergeyOlontsev</twitter>
+      <linkedin>http://linkedin.com/in/sergeyolontsev</linkedin>
+      <ContactURL>http://SergeyOlontsev.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SergeyOlontsev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44595</importID>
+      <name>Tobias Koprowski</name>
+      <label>
+      </label>
+      <description>Founder of Shadowland Consulting. In January 2015 decided to permanently leave Poland and discover new worlds. Actually settled in Hucknall (The Last home of The Byron Family). Community leader focused on SQL Server, SharePoint, security, collaboration and ITIL, DR, BCM, and SLA. Love licensing stuff. 
+
+Microsoft Certified Trainer, freelancer, and consultant. Subject Matter Expert at Microsoft. Member of Microsoft Terminology Community, Friends of RedGate PLUS, PASS, ISSA, ACM and more. Since 1st July 2010 Data Platform MVP. Creator of SQLDAY Conference and Conference CEO 2009-2011. Co-Leader of PASS East Midlands Group. Speaker at group meetings and conferences. STEM Ambassador. 
+
+Traveler. Coffee Addicted.</description>
+      <twitter>@KoprowskiT</twitter>
+      <linkedin>https://uk.linkedin.com/in/koprowskit</linkedin>
+      <ContactURL>http://koprowskit.eu/geek/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KoprowskiT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49400</importID>
+      <name>Alexandra Chizhova</name>
+      <label>
+      </label>
+      <description>In Microsoft since 2012, huge BI and visualization fan.</description>
+      <twitter>polly_brewer</twitter>
+      <linkedin>https://ru.linkedin.com/in/alexandrachizhova</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=polly_brewer</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49476</importID>
+      <name>Mikhail Komarov</name>
+      <label>
+      </label>
+      <description>Главный специалист в ООО #171;Газпром-информ#187;. Занимается поддержкой существующих и реализацией новых систем, направленных на повышение эффективности работы в корпоративном сегменте. До работы в крупном корпоративном секторе работал тренером по информационным технологиям. Общий опыт работы в сфере ИТ составляет более 20 лет.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>50063</importID>
+      <name>Dmitriy Kostylev</name>
+      <label>
+      </label>
+      <description>Работает в Лаборатории Касперского ведущим разработчиком баз данных. С SQL Server работает с 2000 года, участвуя в разнообразных проектов - от небольшого производства до одной из крупнейших баз знаний о программном обеспечении. Сконцентрирован на эффективности применяемых решений - от отдельных запросов и архитектуры решений до методологии разработки ПО. Активно участвует в жизни SQL-сообщества, выступая на конференциях с докладами об эффективном применении SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49399</importID>
+      <name>Alexandra Chizhova</name>
+      <label>
+      </label>
+      <description>In Microsoft since 2012, huge BI and visualization fan.</description>
+      <twitter>polly_brewer</twitter>
+      <linkedin>https://ru.linkedin.com/in/alexandrachizhova</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=polly_brewer</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49388</importID>
+      <name>Dmitry Pilugin</name>
+      <label>
+      </label>
+      <description>Dmitry Pilugin, is a SQL Server DB developer from Russia, Moscow. He works with SQL Server for more than ten years. Currently he works as a database developer lead, responsible for the development of production databases in the media research company. 
+
+Dmitry holds a blog about SQL Server query processing: QueryProcessor.com, where he writes about a query optimization and execution, and also likes to share his knowledge about it speaking at various community events and tech conferences. Data Platform Microsoft MVP since 2014.</description>
+      <twitter>https://twitter.com/SomewereSomehow</twitter>
+      <linkedin>http://www.linkedin.com/pub/pilugin-dmitry-somewheresomehow/2b/210/277</linkedin>
+      <ContactURL>http://www.queryprocessor.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/SomewereSomehow</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49417</importID>
+      <name>Andrey Korshikov</name>
+      <label>
+      </label>
+      <description>Работать с SQL Server начал в 2003 году. Довелось работать и сдавать сертификационные экзамены по версиям SQL Server от 2000 до 2012. Участник конференций SQLSaturday, Платформа, DevCon и TechEd. География выступлений от Тампы до Красноярска, от Санкт-Петербурга до Тбилиси. Основатель сообществ Krasnodar SQLamp;BI Usergroup и Global Russian Virtual Chapter. На данный момент являюсь PASS Regional Mentor for Central Eastern Europe. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>50063</importID>
+      <speakers>
+        <speaker>
+          <id>50063</id>
+          <name>Dmitriy Kostylev</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Hardcore мониторинг запросов в SQL Server</title>
+      <description>Одним из основных исскуств человека, занимающегося поддержкой IT-систем, является способность точно ответить на вопрос "Что происходит и когда все это закончится?". Часто и разработчики решений и администраторы баз данных после того, как запрос ушел на сторону СУБД только надеются на то, что он завершится как можно скорее. Однако Microsoft SQL Server предоставляет достаточно большое количество диагностической информации, позволяющей не только определить, на какой стадии выполнения находится конкретный запрос, но и достаточно точно оценить время его завершения - будь то вставка небольшого количества данных или построение сложнейшего отчета. Рассмотрим несколько методов - документированных и не очень.</description>
+      <startTime>6/4/2016 1:30:00 PM</startTime>
+      <endTime>6/4/2016 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49417</importID>
+      <speakers>
+        <speaker>
+          <id>49417</id>
+          <name>Andrey Korshikov</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>SQL Server 2016 Reporting Services. Быстрый старт.</title>
+      <description>В новой версии SQL Server 2016 служба Reporting Services получила много улучшений и дополнений. Мы рассмотрим не только новинки, но и как начать работу с SSRS. 
+</description>
+      <startTime>6/4/2016 3:00:00 PM</startTime>
+      <endTime>6/4/2016 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>44595</importID>
+      <speakers>
+        <speaker>
+          <id>44595</id>
+          <name>Tobias Koprowski</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>SQL Server Backup in the Era of the Clouds</title>
+      <description>Backup? Who cares! Now and Then? We store our data in the cloud. Somewhere in the Cloud. Which Cloud? Who cares! But we are still SQL Server Professionals, so... are we need backup? Should we use newest opportunities or old methods? Are we going step further or step back? On my session I will try to find answers for all of those (and more) questions. Demos, cases and examples from world of backup. And of course worst practices.</description>
+      <startTime>6/4/2016 11:45:00 AM</startTime>
+      <endTime>6/4/2016 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49399</importID>
+      <speakers>
+        <speaker>
+          <id>49399</id>
+          <name>Alexandra Chizhova</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Самые интересный  и новый функционал в SQL Server 2016</title>
+      <description>Обсудим всё то самое интересное, что появилось в SQL 2016. Рассмотрим все компоненты: SSAS, SSRS, SSIS, Core, поговорим о R и R services.</description>
+      <startTime>6/4/2016 10:00:00 AM</startTime>
+      <endTime>6/4/2016 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>49400</importID>
+      <speakers>
+        <speaker>
+          <id>49400</id>
+          <name>Alexandra Chizhova</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>Power BI: визуализация данных на раз-два-три.</title>
+      <description>Обсудим сервис для бизнес-аналитики и создания интерактивной отчётности Power BI. 
+Общий обзор платформы и последние обновления функционала: что нового появилось в этом календарном году.
+Обсудим custom visuals, R in Power BI и многое другое.</description>
+      <startTime>6/4/2016 1:30:00 PM</startTime>
+      <endTime>6/4/2016 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45643</importID>
+      <speakers>
+        <speaker>
+          <id>45643</id>
+          <name>Sergey Olontsev</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>Использование языка R в SQL Server 2016</title>
+      <description>Язык R очень широко распространен среди специалистов, которые занимаются анализом данных, и в последнее время его популярность только растет. В SQL Server 2016 добавляется поддержка этого языка, что значительно расширяет ваши возможности. В этом докладе мы взглянем, для чего вообще предназначен язык R, как реализована его поддержка в SQL Server 2016, и какие замечательные вещи с его помощью вы сможете делать.</description>
+      <startTime>6/4/2016 11:45:00 AM</startTime>
+      <endTime>6/4/2016 1:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49476</importID>
+      <speakers>
+        <speaker>
+          <id>49476</id>
+          <name>Mikhail Komarov</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Анализ производительности Windows приложений на примере SQL Serve</title>
+      <description>Анализ производительности Windows приложений на примере SQL Server с использованием стандартного функционала операционной сис</description>
+      <startTime>6/4/2016 3:00:00 PM</startTime>
+      <endTime>6/4/2016 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49388</importID>
+      <speakers>
+        <speaker>
+          <id>49388</id>
+          <name>Dmitry Pilugin</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Внутри оптимизатора запросов: Spool</title>
+      <description>Для выполнения запроса SQL Server использует множество различных операторов, будучи одним из них, оператор Spool является одним из наименее понятных операторов и часто вызывает вопросы. Также бытует мнение, что Spool это всегда плохо.
+
+В докладе будут разобраны различные виды оператора Spool, случаи в которых он применяется, ситуации, где оператор является свидетельством неоптимального плана, а также ситуации, в которых без него обойтись нельзя.</description>
+      <startTime>6/4/2016 1:30:00 PM</startTime>
+      <endTime>6/4/2016 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49457</importID>
+      <speakers>
+        <speaker>
+          <id>49457</id>
+          <name>Andrey Zavadskiy</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>DML операции и оптимизация хранения данных</title>
+      <description>В данном докладе будут рассмотрены структуры хранения данных в SQL сервере, начиная от строки и заканчивая экстентом, поговорим о различиях кластеризованных и некластеризованных индексов, о том, что происходит во время операций по изменению данных. Особое внимание будет уделено оптимизации размера базы данных и улучшению производительности DML операций.</description>
+      <startTime>6/4/2016 11:45:00 AM</startTime>
+      <endTime>6/4/2016 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45638</importID>
+      <speakers>
+        <speaker>
+          <id>45638</id>
+          <name>Sergey Olontsev</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Нетрадиционные и провокационные методы оптимизации запросов</title>
+      <description>Интересуетесь оптимизацией запросов? Хорошо умеете анализировать планы выполнения? Тогда приглашаю вас на этот доклад, в котором не будет слайдов, а только практические примеры. Будет показано, как, казалось бы "идеальные" планы, не всегда могут быть идеальными, а знания о ваших данных могут очень сильно помочь для достижения максимальной производительности (и статистика тут совершенно не при чем).</description>
+      <startTime>6/4/2016 3:00:00 PM</startTime>
+      <endTime>6/4/2016 4:30:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,22 @@
+# SQLSaturday #618 - Brasilia 2017
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:30:00|Fabrício Lima|Development|[Indices para Iniciantes - Clustered, Nonclustered,  Scan, Seek, Lookup e Muito Mais](67215.md)
+09:30:00|Arthur Luz|Business Intelligence and Analytics|[Por Detrás dos Relatórios](67220.md)
+10:45:00|Nilton Pinheiro|Administration|[SQL Server 2016: O que temos de novidades no AlwaysOn Availabilty Groups?](66983.md)
+10:45:00|Flávio Farias|Administration|[Adequando ambiente de Bancos de Dados para a Nuvem com o PowerBI](67185.md)
+10:45:00|Raiane Lins|Career and Academic|[Começando a administrar banco de dados](67646.md)
+13:00:00|Suellen Moraes|Development|[O que acontece quando eu executo minha query? - Conhecendo o Query Optimizer](65133.md)
+13:00:00|Wasley Portes|Business Intelligence and Analytics|[Inside SSIS Catalog](65594.md)
+13:00:00|Rodrigo Crespi|Administration|[Powershell para DBAs SQL Server](66344.md)
+13:00:00|Caio Amante|Career and Academic|[Dicas para tirar sua certificação Microsoft](67282.md)
+14:00:00|Sidney Cirqueira|Administration|[Reestruturando um Ambiente de Banco de Dados SQL Server na Pratica](65764.md)
+14:00:00|Jucinei Santos|Business Intelligence and Analytics|[Como o uso de machine learning está contribuindo para criação de bots mais humanos?](66207.md)
+14:00:00|Tiago Neves|Administration|[Backup - Isso Salva empregos e empresas...](67201.md)
+14:00:00|Igor Santos de Paula|Development|[Azure CosmosDB: O banco de dados globalmente distribuído e multi modelo da Microsoft](67641.md)
+15:30:00|Reginaldo Silva|Development|[5 dicas de performance tuning para desenvolvedores](67182.md)
+15:30:00|Marcus Vinícius Bittencourt|Development|[Hacking SQL Server](67199.md)
+15:30:00|Lutti Coelho|Business Intelligence and Analytics|[Importando e controlando relatórios do Power BI na sua própria aplicação](67263.md)
+16:30:00|Sulamita Dantas|Business Intelligence and Analytics|[Monitorando os recursos e processos do Servidor através do Power BI](66381.md)
+16:30:00|Rogério Moraes de Carvalho|Development|[Suporte a dados JSON no SQL Server 2016 e 2017](66565.md)
+16:30:00|Luan Moreno Medeiros Maciel|Administration|[Visão de futuro da Microsoft](67375.md)

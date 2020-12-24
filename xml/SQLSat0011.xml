@@ -1,0 +1,21 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #11 - Tacoma 2009</name>
+    <startDate>4/1/2009 12:00:00 AM</startDate>
+    <attendeeEstimate>500</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>Free one day training event for SQL Server professionals and enthusiasts</description>
+    <twitterHashtag>#sqlsat11</twitterHashtag>
+    <venue>
+      <name>N/A</name>
+      <street>
+      </street>
+      <city>Tacoma</city>
+      <state>Washington</state>
+      <zipcode>
+      </zipcode>
+      <longitude>-122.436528</longitude>
+      <latitude>47.252554</latitude>
+    </venue>
+  </guide>
+</GuidebookXML>

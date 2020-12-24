@@ -1,0 +1,761 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #98 - East Iowa 2011</name>
+    <startDate>10/1/2011 12:00:00 AM</startDate>
+    <attendeeEstimate>125</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat98</twitterHashtag>
+    <venue>
+      <name>University of Iowa - University Capitol Centre</name>
+      <street>201 S Clinton St</street>
+      <city>Iowa City</city>
+      <state>Iowa</state>
+      <zipcode>52240</zipcode>
+      <longitude>-91.535426</longitude>
+      <latitude>41.659261</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>862</importID>
+      <name>Modis</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.modis.com/</url>
+      <imageURL>https://itac.ca/wp-content/uploads/2013/08/Modis-Logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>703</importID>
+      <name>Integrated DNA Technologies, Inc.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.idtdna.com</url>
+      <imageURL>https://www.beneathwater.com/MiscFiles/IDTLogo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>3</importID>
+      <name>Idera</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.idera.com/Content/Home.aspx</url>
+      <imageURL>https://www.sqlsaturday.com/images/SQLSaturday/eventsponsors/IDERA170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>45</importID>
+      <name>Cozy Roc</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.cozyroc.com</url>
+      <imageURL>https://www.cozyroc.com/sites/default/files/down/cozyroc-big.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1184</importID>
+      <name>Tek Systems</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.teksystems.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/855/EventSponsor_13925.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>608</importID>
+      <name>Emergent Networks</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.emergentnetworks.com</url>
+      <imageURL>https://www.emergentnetworks.com/images/emergent_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>741</importID>
+      <name>Involta</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.Involta.com</url>
+      <imageURL>https://yetanothersql.com/logos/InvoltaLogoPenthouse.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>406</importID>
+      <name>Aureus Group</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.aureusgroup.com</url>
+      <imageURL>https://www.aureusgroup.com/design/Aureus-Group-logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>663</importID>
+      <name>GoDaddy.com</name>
+      <label>Platinum Sponsor - T-shirts</label>
+      <url>http://www.godaddy.com/</url>
+      <imageURL>https://www.pass.org/files/0737ddd5-aef8-4306-ad32-b5a3b05707ae.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1311</importID>
+      <name>Mercy Medical Center</name>
+      <label>Community Jobs Only</label>
+      <url>https://careers.mercycare.org/applicantnavigator</url>
+      <imageURL>https://www.mercycare.org/imgs/logo.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>33228</importID>
+      <name>Steven Murawski</name>
+      <label>
+      </label>
+      <description>Steven is the Senior Windows System Engineer for Edgenet and a Microsoft MVP in PowerShell.   In this role, he supports a dynamic infrastructure that pushes the boundaries of the Windows platform. Steven also leads two local user groups, the Greater Milwaukee IT Pro User Community and the Greater Milwaukee Script Club. He speaks regularly to local user groups and can be found at various conferences.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blog.usepowershell.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33997</importID>
+      <name>William E Pearson III</name>
+      <label>
+      </label>
+      <description>Bill Pearson created Island Technologies Inc. in 1997, and has developed a large and diverse customer base since. Bill#39;s background as a CPA, Internal Auditor, Management Accountant, and SQL Server MVP (BI) enables him to provide value to clients as a liaison between Accounting / Finance and Information Services. Bill has implemented enterprise business intelligence systems over the years for many Fortune 500 companies and focuses his practice upon the integrated Microsoft Business Intelligence </description>
+      <twitter>@Bill_Pearson</twitter>
+      <linkedin>https://www.linkedin.com/e/fpf/252170891</linkedin>
+      <ContactURL>https://mvp.support.microsoft.com/profile=02C5CD07-7511-4151-A678-3A4A3451F85E</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Bill_Pearson</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28423</importID>
+      <name>Aaron Lowe</name>
+      <label>
+      </label>
+      <description>Aaron has over 14 years of SQL Server experience. He is strong in database design  development, also having extensive experience in SSIS, SSRS, and administration, including performance, migrations and replication. Aaron is a MCITP in 2005 and 2008 as well as having a Masters in Information Systems Management.  He is currently co-president of the Chicago SQLPASS Chapter and founder of SQLFriends.org.  When he’s not working, he’s spending time with his bride, 5 children and 2 dogs.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.aaronlowe.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30538</importID>
+      <name>Jason Strate</name>
+      <label>
+      </label>
+      <description>Jason Strate is a SQL Server Solutions Architect with Pragmatic Works. He is also a Microsoft SQL Server MVP and MCM. He has over 15 years of experience developing, architecting, and managing data platforms. Jason writes, blogs, and presents on SQL Server.</description>
+      <twitter>@stratesql</twitter>
+      <linkedin>http://www.linkedin.com/in/jasonstrate/</linkedin>
+      <ContactURL>http://www.jasonstrate.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@stratesql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33336</importID>
+      <name>Ted Krueger</name>
+      <label>
+      </label>
+      <description>Ted Krueger has been working in development and database administration for over a decade. Ted currently works for a respected consulting company, Magenic Technologies as a valued Database Professional resource. He is a PASS Region Mentor, Friends of Red Gate member, SQL Server MVP and community mentor. Ted blogs and is also one of the founders of LessThanDot Technical Community</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.lessthandot.com/index.php/All/?disp=authdirauthor=68</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34007</importID>
+      <name>William E Pearson III</name>
+      <label>
+      </label>
+      <description>Bill Pearson created Island Technologies Inc. in 1997, and has developed a large and diverse customer base since. Bill#39;s background as a CPA, Internal Auditor, Management Accountant, and SQL Server MVP (BI) enables him to provide value to clients as a liaison between Accounting / Finance and Information Services. Bill has implemented enterprise business intelligence systems over the years for many Fortune 500 companies and focuses his practice upon the integrated Microsoft Business Intelligence </description>
+      <twitter>@Bill_Pearson</twitter>
+      <linkedin>https://www.linkedin.com/e/fpf/252170891</linkedin>
+      <ContactURL>https://mvp.support.microsoft.com/profile=02C5CD07-7511-4151-A678-3A4A3451F85E</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Bill_Pearson</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32032</importID>
+      <name>Michael Steineke</name>
+      <label>
+      </label>
+      <description>Michael Steineke is the Vice President of Information Technology for Edgenet – Big Hammer.  He has been working with NLBS and Windows Clustering on Windows NT 4 Server through 2008R2, creating clusters with IIS, File System, SQL, ISA, and Hyper-V, including geographically dispersed clusters.  Michael has designed and implemented multiple systems for scalability, high availability and disaster recovery. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30541</importID>
+      <name>Jason Strate</name>
+      <label>
+      </label>
+      <description>Jason Strate is a SQL Server Solutions Architect with Pragmatic Works. He is also a Microsoft SQL Server MVP and MCM. He has over 15 years of experience developing, architecting, and managing data platforms. Jason writes, blogs, and presents on SQL Server.</description>
+      <twitter>@stratesql</twitter>
+      <linkedin>http://www.linkedin.com/in/jasonstrate/</linkedin>
+      <ContactURL>http://www.jasonstrate.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@stratesql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30543</importID>
+      <name>Jason Strate</name>
+      <label>
+      </label>
+      <description>Jason Strate is a SQL Server Solutions Architect with Pragmatic Works. He is also a Microsoft SQL Server MVP and MCM. He has over 15 years of experience developing, architecting, and managing data platforms. Jason writes, blogs, and presents on SQL Server.</description>
+      <twitter>@stratesql</twitter>
+      <linkedin>http://www.linkedin.com/in/jasonstrate/</linkedin>
+      <ContactURL>http://www.jasonstrate.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@stratesql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28422</importID>
+      <name>Aaron Lowe</name>
+      <label>
+      </label>
+      <description>Aaron has over 14 years of SQL Server experience. He is strong in database design  development, also having extensive experience in SSIS, SSRS, and administration, including performance, migrations and replication. Aaron is a MCITP in 2005 and 2008 as well as having a Masters in Information Systems Management.  He is currently co-president of the Chicago SQLPASS Chapter and founder of SQLFriends.org.  When he’s not working, he’s spending time with his bride, 5 children and 2 dogs.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.aaronlowe.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33337</importID>
+      <name>Ted Krueger</name>
+      <label>
+      </label>
+      <description>Ted Krueger has been working in development and database administration for over a decade. Ted currently works for a respected consulting company, Magenic Technologies as a valued Database Professional resource. He is a PASS Region Mentor, Friends of Red Gate member, SQL Server MVP and community mentor. Ted blogs and is also one of the founders of LessThanDot Technical Community</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.lessthandot.com/index.php/All/?disp=authdirauthor=68</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32033</importID>
+      <name>Michael Steineke</name>
+      <label>
+      </label>
+      <description>Michael Steineke is the Vice President of Information Technology for Edgenet – Big Hammer.  He has been working with NLBS and Windows Clustering on Windows NT 4 Server through 2008R2, creating clusters with IIS, File System, SQL, ISA, and Hyper-V, including geographically dispersed clusters.  Michael has designed and implemented multiple systems for scalability, high availability and disaster recovery. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32660</importID>
+      <name>Ross McNeely</name>
+      <label>
+      </label>
+      <description>Ross McNeely, BI Practice Manager, C2 IT Solutions
+
+Ross has presented at several SQL Saturday events in Minnesota, Wisconsin, and Iowa. Recently, Ross adds real-world examples from the Financial Services, Logistics, and Retail industries in his presentations. Regardless if you have a beginner, intermediate, or advanced skill set, Ross will provide a solid foundation for each topic he presents. Please join Ross McNeely for a fun and informative meeting.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://mcneelydwbi.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32659</importID>
+      <name>Ross McNeely</name>
+      <label>
+      </label>
+      <description>Ross McNeely, BI Practice Manager, C2 IT Solutions
+
+Ross has presented at several SQL Saturday events in Minnesota, Wisconsin, and Iowa. Recently, Ross adds real-world examples from the Financial Services, Logistics, and Retail industries in his presentations. Regardless if you have a beginner, intermediate, or advanced skill set, Ross will provide a solid foundation for each topic he presents. Please join Ross McNeely for a fun and informative meeting.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://mcneelydwbi.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33580</importID>
+      <name>Tim Plas</name>
+      <label>
+      </label>
+      <description>Tim is a Principal Consultant at Virteva, in Mpls MN. His current focus areas are cloud architecture / engineering / migration, operational-DBA services (esp. HA/DR), server migrations, server virtualization, and storage. His experience over the past 25+ years has been primarily with server / data-center infrastructure, including being CTO / co-founder of a successful hosting company. Tim has held a variety of MS certifications since 1994.</description>
+      <twitter>tjplas</twitter>
+      <linkedin>https://www.linkedin.com/in/tplas</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=tjplas</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32101</importID>
+      <name>Norman Kelm</name>
+      <label>
+      </label>
+      <description>Norman Kelm is the owner of Gerasus Software, http://www.gerasus.com/, the maker of SSIS-DTS Package Search the only utility that can search SSIS and DTS packages. Norman has been working in IT for over 20 years. He worked as a FORTRAN and C developer for 8 years before making the jump to databases with Sybase. He then moved on to SQL Server working as a production and development DBA on SQL Server since version 6.5. He is also a founding member of the Tampa Bay SQL Server User Group. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.gerasus.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32661</importID>
+      <name>Ross McNeely</name>
+      <label>
+      </label>
+      <description>Ross McNeely, BI Practice Manager, C2 IT Solutions
+
+Ross has presented at several SQL Saturday events in Minnesota, Wisconsin, and Iowa. Recently, Ross adds real-world examples from the Financial Services, Logistics, and Retail industries in his presentations. Regardless if you have a beginner, intermediate, or advanced skill set, Ross will provide a solid foundation for each topic he presents. Please join Ross McNeely for a fun and informative meeting.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://mcneelydwbi.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33311</importID>
+      <name>Brian Duhn</name>
+      <label>
+      </label>
+      <description>100% SQL Server, 100% of the time</description>
+      <twitter>@MCTSQL</twitter>
+      <linkedin>http://www.linkedin.com/in/mctsql</linkedin>
+      <ContactURL>http://www.linkedin.com/in/mctsql</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@MCTSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34004</importID>
+      <name>William E Pearson III</name>
+      <label>
+      </label>
+      <description>Bill Pearson created Island Technologies Inc. in 1997, and has developed a large and diverse customer base since. Bill#39;s background as a CPA, Internal Auditor, Management Accountant, and SQL Server MVP (BI) enables him to provide value to clients as a liaison between Accounting / Finance and Information Services. Bill has implemented enterprise business intelligence systems over the years for many Fortune 500 companies and focuses his practice upon the integrated Microsoft Business Intelligence </description>
+      <twitter>@Bill_Pearson</twitter>
+      <linkedin>https://www.linkedin.com/e/fpf/252170891</linkedin>
+      <ContactURL>https://mvp.support.microsoft.com/profile=02C5CD07-7511-4151-A678-3A4A3451F85E</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Bill_Pearson</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29063</importID>
+      <name>Bill Preachuk</name>
+      <label>
+      </label>
+      <description>Bill Preachuk, for one, welcomes the advances of our Hadoop Overlords. He is a SQL Server MCTS, and is employed as a DBA/Data Warehouse Designer at Emergent Networks. Bill has been in IT since 1991 and has presented at prior SQL Saturday events in the Twin Cities and Iowa.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>30538</importID>
+      <speakers>
+        <speaker>
+          <id>30538</id>
+          <name>Jason Strate</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>XQuery Basics for the DBA</title>
+      <description>For the past few years, XML has been making its way more and more into our SQL Server instances. For a moment let’s forget that developers often find the need to store XML data in their databases. Outside of those databases, XML has already invaded our SQL Servers. It’s made its way into execution plans with the SHOWPLAN XML. It’s telling us about deadlock through deadlock graphs. It’s also presented to us through service broke, event notifications, and extended events. XML is there and we need to learn how to query it. In this session, we’ll explore some of the basic methods for querying XML through XQuery. By the end of the session you’ll be equipped with the tools and understanding needed to ease yourself into XQuery. </description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33337</importID>
+      <speakers>
+        <speaker>
+          <id>33337</id>
+          <name>Ted Krueger</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SSIS: The DBA Multiplier</title>
+      <description>Ever wanted to create clones of yourself to get all your work done faster? I will demonstrate how SSIS can help you perform your DBA tasks as if there were more than one of you. You will leave the session knowing how to use SSIS to automate tasks such as performance monitoring above (and below) the normal health checks and transporting databases from one environment to another. You will also learn how SSIS can be used in assisted HA and DR failover strategies as well as backup solutions that go beyond the simple BACKUP statement. We’re going to take SSIS and make it a standard tool for your administrative tasks!</description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33336</importID>
+      <speakers>
+        <speaker>
+          <id>33336</id>
+          <name>Ted Krueger</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Query Tuning for Developers and DBAs</title>
+      <description>As a seasoned DBA, we often forget the basics of query tuning may be an area others haven’t been introduced to. Tuning can be a mystery for developers and DBAs that are starting out with SQL Server. Each operation and its cost can lead to lengthy research escapades, determining if the work is even worth the time to attempt a change in the overall execution plan. This session is going to discuss the basics of tuning; however, we can't end there. The second half of the session, the discussion portion, will focus on the key operations in the execution plan. The overall goal of the session is to take away knowledge on how to start with a query and use execution plans to refine it and turn it into a finely tuned process.</description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28422</importID>
+      <speakers>
+        <speaker>
+          <id>28422</id>
+          <name>Aaron Lowe</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Database Development using Visual Studio</title>
+      <description>Database development is unique due to its dependency on data.  We can't just throw away old data and not allow for backward compatibility.  However until recently the toolset for managing database code and allowing for things such as refactoring, code analysis and unit testing has been sorely lacking.  Within the last 5 years the tools have matured to allow for structured database development.  Let's take a look at Visual Studio Database Professional to see how.</description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32659</importID>
+      <speakers>
+        <speaker>
+          <id>32659</id>
+          <name>Ross McNeely</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Minimal Processing for Large Cubes</title>
+      <description>Processing large cubes can consume vast amounts of IO, and create lengthy response times.  This presentation will demo how to process dimensions and dynamically create, process, and delete measure group partitions to minimize IO.  By taking control of cube processing through a SSIS package you are able to process only the bare minimum in order to bring a cube current while keeping response times acceptable.  Additional areas to cover will include the support tables to control cubes, and a review of the XMLA for creating, processing, and deleting.</description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30541</importID>
+      <speakers>
+        <speaker>
+          <id>30541</id>
+          <name>Jason Strate</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Getting To Know Your Indexes</title>
+      <description>Without proper indexing SQL Server can be hard pressed to create efficient and performant execution plans. Dynamic Management Views (DMV) and system views provide a slew of information about indexes that can be used to analyze indexes within SQL Server. In this session we’ll go under the hood of SQL Server to look at DMVs and system views to know what indexes you have, should have, and how they feel about the way applications are treating them. </description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33997</importID>
+      <speakers>
+        <speaker>
+          <id>33997</id>
+          <name>William E Pearson III</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>An Overview of PowerPivot</title>
+      <description>In this presentation, Microsoft BI Architect and SQL Server MVP Bill Pearson explores “self-service BI” as a concept. We then provide a walkthrough of the primary features of PowerPivot, focusing on how we can exploit its capabilities to offer the benefits of BI to decision makers and analysts throughout our organizations. “There’s no service like self-service …”</description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32661</importID>
+      <speakers>
+        <speaker>
+          <id>32661</id>
+          <name>Ross McNeely</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Using Spatial Data Types</title>
+      <description>In this session explore the use of the SQL Server spatial data types.  We will see an example of the geography spatial data type used to represent data in a round-earth coordinate system.  Then the geometry spatial data type which represents data in a flat coordinate system will be demonstrated.  Both spatial types are CLR data types and provide a powerful way for businesses; such as; retailers to identify where their shoppers are concentrated, or for call centers to visualize the effect of top performers on others.</description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33311</importID>
+      <speakers>
+        <speaker>
+          <id>33311</id>
+          <name>Brian Duhn</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Check Out The New AAS!</title>
+      <description>AAS (Asynchronous Audit Service) Looking for a simple audit service? Look no further! With AAS you can easily identify who did what, when, and from where! </description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32101</importID>
+      <speakers>
+        <speaker>
+          <id>32101</id>
+          <name>Norman Kelm</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The Script Task, powerhouse of SSIS</title>
+      <description>Everyday more DBAs and SQL developers are given responsibility for ETL development. They have a strong SQL background with little or no .Net language programming experience. As they progress with SSIS, they can come up against perceived limitations in the capabilities of SSIS using only the built-in tasks. What they may not realize is the extensibility available to SSIS via the Script Task. This presentation will provide them with the tools they need to move beyond that perceived limitation.</description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33580</importID>
+      <speakers>
+        <speaker>
+          <id>33580</id>
+          <name>Tim Plas</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>High-Availability and DR Options for SQL Server</title>
+      <description>A comparison of SQL HA  DR options, by a practitioner who has implemented  managed all the SQL HA and DR approaches ( various combinations thereof). Tim is an operational SQL DBA, who keeps SQL servers up  running  optimized for managed-services customers. We will compare trade-offs between the various SQL HA  DR options: for complexity, usability, hardware, licensing, failover speed, initial costs, ongoing support costs, staff skill requirements, etc. And we’ll briefly cover some of the upcoming SQL Denali HA / DR features.
+
+
+</description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34007</importID>
+      <speakers>
+        <speaker>
+          <id>34007</id>
+          <name>William E Pearson III</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Serene Velocity: Reporting Services and SSAS Data</title>
+      <description>SSRS 2008 R2 provides powerful capabilities to help us develop sophisticated reports from Microsoft SQL Server Analysis Services. Unfortunately, many of these features, such as the server aggregation function, are commonly ignored by report developers. The result: redundant work in the reporting layer. In this session, BI Architect and MVP Bill Pearson exposes ways to optimize reporting from SSAS by writing MDX that leverages, rather than replicates, what the cube is designed to do best.</description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29063</importID>
+      <speakers>
+        <speaker>
+          <id>29063</id>
+          <name>Bill Preachuk</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Database Restores - Lessons from the Real World</title>
+      <description>Having consistent, regular, verified backups are only a starting point.  When failures happen - and they will happen - can you recover your database?  In this presentation we will dive into the mechanics of database restores and discuss how choices made previously in database/server/backup design can have profound effects on how (and what) you can recover.  We will also discuss spectacular ways to fail miserably... all in the hopes of preventing those same failures in the future.  </description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30543</importID>
+      <speakers>
+        <speaker>
+          <id>30543</id>
+          <name>Jason Strate</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Discovering the Plan Cache</title>
+      <description>Execution plans are stored after execution in the plan cache. This metadata about how queries are executed can provide insight into how your SQL Server environment is functioning. By using XQuery to browse and search the plan cache you can find potential performance issues and opportunities to tune your queries. This information can be used to help reduce issues related to parallelism, shift queries from using scans to using seek operations, or discover exactly which queries are using what indexes. All of this and more is readily available through the plan cache. In this session we will explore the plan cache and start you on the road to discovery. </description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34004</importID>
+      <speakers>
+        <speaker>
+          <id>34004</id>
+          <name>William E Pearson III</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Getting Started with MDX</title>
+      <description>In this session, led by Microsoft BI Architect and SQL Server MVP Bill Pearson, we will concentrate largely upon crafting simple MDX expressions and queries whose purposes, for the most part, are to return a set of data. We will overview the structure of a cube, using as a basis the sample Adventure Works cube that is available to anyone installing SQL Server Analysis Services 2008 R2. We will then outline the components of simple MDX syntax, and get started writing basic expressions and queries. We will expose basic member functions, introduce filters (or “slicers”), and begin exploring core MDX functionality, including calculated members, and named sets.</description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28423</importID>
+      <speakers>
+        <speaker>
+          <id>28423</id>
+          <name>Aaron Lowe</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Writing Professional Database Code</title>
+      <description>As protectors of arguably, the most important asset companies’ have we are tasked with ensuring quality, security and performance.  However the ways in which we utilize and obtain those assets are often not formalized and therefore suffer from degraded quality.  Let's discuss some strategies that can be implemented to not only raise the bar of quality, but also make you sleep easier at night.</description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33228</importID>
+      <speakers>
+        <speaker>
+          <id>33228</id>
+          <name>Steven Murawski</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Scriptable UI with PowerShell</title>
+      <description>Sick and tired of typing at a command prompt or scrolling through buffers of text output?  ShowUI (an open source PowerShell Module) is a great tool for quickly and easily creating great looking UI with all the power of PowerShell behind it.</description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32660</importID>
+      <speakers>
+        <speaker>
+          <id>32660</id>
+          <name>Ross McNeely</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Dynamic Text File Creation Via Single SSIS Package</title>
+      <description>Creating individual SSIS Packages for individual business-to-business data files is not only time consuming, but becomes a maintenance nightmare.  This presentation will show you how to create a single SSIS package that can generate varying length and formatted text files.  By utilizing stored procedures you will see how the time from specification to file delivery can be greatly reduced and simplified.  Additional areas we will cover include the support tables to control file run times, creating file variables at run time, and how to report file success.</description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32033</importID>
+      <speakers>
+        <speaker>
+          <id>32033</id>
+          <name>Michael Steineke</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL 'Denali' AlwaysOn Configuration Deep Dive </title>
+      <description>Brief overview of AlwaysOn features, then dive into what you need to consider when implementing these new features.  This session will be interactive, with demos and systems refer to.  Bring ideas and questions on how to make this work in the real world.  We will discuss the entire infrastructure needed to support DR and HA, and why you need to have a very good understanding of AD to have a successful implementation.  We may even break out a white board!</description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32032</importID>
+      <speakers>
+        <speaker>
+          <id>32032</id>
+          <name>Michael Steineke</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>What's new with SQL Server 'Denali' for HA/DR</title>
+      <description>Overview of new features and enhancements in SQL Server ‘Denali’ to help support High Availability and Disaster Recovery.   Breakdown of AlwaysOn Feature set, and design considerations.  What are Availability Groups, and Readable Secondary’s, and how do they work.  Multi-Subnet SQL clustering, what no more stretched VLAN?  Including demo’s and working systems to review configurations.</description>
+      <startTime>10/1/2011 12:00:00 AM</startTime>
+      <endTime>10/1/2011 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

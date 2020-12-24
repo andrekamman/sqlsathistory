@@ -1,0 +1,19 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #113 - Indonesia 2011</name>
+    <startDate>7/7/2012 12:00:00 AM</startDate>
+    <attendeeEstimate>110</attendeeEstimate>
+    <timezone>(GMT+07:00) Bangkok, Hanoi, Jakarta</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat113</twitterHashtag>
+    <venue>
+      <name>Conference Room - Gramedia Bookstore</name>
+      <street>Jl. Matraman Raya 46-48</street>
+      <city>Jakarta</city>
+      <state>, Indonesia</state>
+      <zipcode>13150 </zipcode>
+      <longitude>106.856191</longitude>
+      <latitude>-6.202718</latitude>
+    </venue>
+  </guide>
+</GuidebookXML>

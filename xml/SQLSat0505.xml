@@ -1,0 +1,334 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #505 - Belgium 2016</name>
+    <startDate>3/19/2016 12:00:00 AM</startDate>
+    <attendeeEstimate>150</attendeeEstimate>
+    <timezone>(GMT+01:00) Brussels, Copenhagen, Madrid, Paris</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat505</twitterHashtag>
+    <venue>
+      <name>SQL Saturday Belgium</name>
+      <street>Campus De Vest, Zandpoortvest 60, 2800 Mechelen</street>
+      <city>Mechelen</city>
+      <state>Antwerp, Belgium</state>
+      <zipcode>2800</zipcode>
+      <longitude>4.4881399</longitude>
+      <latitude>51.02372</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1619</importID>
+      <name>tillit</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.tillit.be</url>
+      <imageURL>https://www.tillit.be/images/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>85</importID>
+      <name>Pyramid Analytics</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.PyramidAnalytics.com</url>
+      <imageURL>http://pages.pyramidanalytics.com/rs/pyramidanalytics/images/logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1638</importID>
+      <name>Quest Software Belgium</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://www.sqlsaturday.com/images/sqlsaturday/eventsponsors/Quest_170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1405</importID>
+      <name>COZYROC</name>
+      <label>Bronze Sponsor</label>
+      <url>http://bit.ly/cozyrocssis</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/978/EventSponsor_14586.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1620</importID>
+      <name>Monkey Recruitment BV</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.monkeyrecruitment.nl</url>
+      <imageURL>https://4.bp.blogspot.com/-uQe2J42mJQM/VXFG1rFvkwI/AAAAAAAADcA/MlDi1Kin-O0/s1600/Monkey.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1616</importID>
+      <name>Red Gate</name>
+      <label>Redgate Software ONLY</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>44884</importID>
+      <name>Fabiano Amorim</name>
+      <label>
+      </label>
+      <description>Fabiano Amorim is a Data Platform MVP that loves to conquer complex, challenging problems—especially ones that others aren’t able to solve. He first became interested in technology when his older brother would bring him to his work meetings at the age of 14. With over a decade of experience, Fabiano is well known in the database community for his performance tuning abilities. When he isn’t working, he loves to read and spend time with his family.</description>
+      <twitter>mcflyamorim</twitter>
+      <linkedin>https://www.linkedin.com/in/fabianoamorim/</linkedin>
+      <ContactURL>http:\\blogfabiano.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mcflyamorim</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45214</importID>
+      <name>Pieter Vanhove</name>
+      <label>
+      </label>
+      <description>Pieter Vanhove is a Premier Field Engineer at Microsoft Belgium and has been working with SQL Server since 2000. Pieter has a profound knowledge in implementing high availability and disaster recovery solutions and loves the new Azure stuff. Together with the dataMinds team in Belgium, he helps organizing dataMinds Connect and is also a regular speaker at Belgian and international events.</description>
+      <twitter>http://twitter.com/Pieter_Vanhove</twitter>
+      <linkedin>http://be.linkedin.com/pub/dir/Pieter/Vanhove</linkedin>
+      <ContactURL>http://pietervanhove.azurewebsites.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/Pieter_Vanhove</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44213</importID>
+      <name>Cédric Charlier</name>
+      <label>
+      </label>
+      <description>Cédric is a talented architect and Data Platform MVP active in the domain of Business Intelligence and Data warehousing. He has more than 10 years of successful experiences with SQL Server in European industrial groups and services companies. Driven by quality and reliability, he is the main developer of an open-source solution for testing BI solutions (cubes, etl, reports) named NBi (www.nbi.io). Cedric also advocates for the introduction and general usage of agile practices in BI’s world.</description>
+      <twitter>@Seddryck</twitter>
+      <linkedin>http://be.linkedin.com/in/cedriccharlier</linkedin>
+      <ContactURL>http://seddryck.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Seddryck</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45172</importID>
+      <name>Koen Verbeeck</name>
+      <label>
+      </label>
+      <description>Koen Verbeeck is a Business Intelligence professional working at AE. He helps clients to get insight in their data and to improve their business intelligence solutions. Koen has a decade of experience in developing data warehouses, cubes and reports using the Microsoft Data Platform. Koen has a blog at sqlkover.com and writes articles for MSSQLTips.com. He has been awarded the Microsoft Data Platform MVP award in 2017.</description>
+      <twitter>Ko_Ver</twitter>
+      <linkedin>https://be.linkedin.com/in/kverbeeck</linkedin>
+      <ContactURL>http://sqlkover.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Ko_Ver</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44939</importID>
+      <name>Nico Jacobs</name>
+      <label>
+      </label>
+      <description>Dr. Nico Jacobs is a Microsoft Business Intelligence and SQL Server trainer at the U2U training center since 2004. Before that, he was a machine learning researcher at the university of Leuven, Belgium.
+At U2U, Nico creates and delivers courses on the SQL Server business intelligence stack (Integration Services, Analysis Services, Reporting Services …), Power BI, the traditional relational database environment (database development and administration) and the Azure AI and Big Data stack (Azure Data Factory, Machine Learning, Synapse Analytics,...)</description>
+      <twitter>sqlwaldorf</twitter>
+      <linkedin>http://be.linkedin.com/in/sqlwaldorf</linkedin>
+      <ContactURL>http://blogs.u2u.be/u2u/author/Nico-Jacobs.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlwaldorf</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44545</importID>
+      <name>Peter ter Braake</name>
+      <label>
+      </label>
+      <description>Peter ter Braake, SQL Server MVP, co-founder of the Dutch PASS Chapter and organizer of the Dutch SQL Saturday, teaches SQL Server since 2002. Teaching is for Peter the perfect opportunity to share his SQL Server knowledge and his enthusiasm for the product. Since 2008 he works as an independent contractor giving him the opportunity to use his classroom experience in the real world and use his real world experience in the classroom. </description>
+      <twitter>@pbraake</twitter>
+      <linkedin>https://nl.linkedin.com/pub/peter-ter-braake/1/b87/1aa?</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@pbraake</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>42953</importID>
+      <name>Enrico van de Laar</name>
+      <label>
+      </label>
+      <description>Enrico has been working with data in all kinds of formats and sizes for over 15 years. He is a Data  Advanced Analytics Consultant for Dataheroes where he helps organisations take their first steps in the world of Advanced Analytics. Enrico is a Data Platform MVP since 2014 and a frequent speaker on various data related events all over the world. He authored the book “Pro SQL Server Wait Statistics” and blogs about technologies like Microsoft SQL Server and Azure Machine Learning on his blog at www.enricovandelaar.com</description>
+      <twitter>twitter.com/evdlaar</twitter>
+      <linkedin>http://nl.linkedin.com/pub/enrico-van-de-laar/33/882/756/</linkedin>
+      <ContactURL>https://www.enricovandelaar.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=twitter.com/evdlaar</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>42915</importID>
+      <name>Uwe Ricken</name>
+      <label>
+      </label>
+      <description>Uwe Ricken is working with IT systems since the 90’s. The primary passion for developments with Microsoft SQL Server expanded in 2007 with his engagement as a DBA for Deutsche Bank AG in Frankfurt am Main. After 6 years of operational experiences as a DBA and over 14 years as a developer of complex database models he achieved the “Microsoft Certified Master – SQL Server 2008” certification which “was” the highest technical certification. In the same year he earned his first award as a Data Platform MVP for his support to the Microsoft SQL Server community in Germany and Europe. Uwe Ricken is a speaker on many international conferences and events and preferred topics are “Database Internals”, “Indexing” and “Development”.</description>
+      <twitter>https://twitter.com/dbBerater</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=270775013amp;trk=tab_pro</linkedin>
+      <ContactURL>http://www.sqlmaster.de</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dbBerater</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>44545</importID>
+      <speakers>
+        <speaker>
+          <id>44545</id>
+          <name>Peter ter Braake</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>DAX unraveled</title>
+      <description>DAX was created as an easier alternative for MDX with the introduction of PowerPivot. Multidimensional functionality with the look and feel of Excel functions and formulas. But the concept of context makes it more difficult than it might seem at a first glance. In this session we will learn to handle row-, query- and filter context by looking at a lot of practical examples.</description>
+      <startTime>3/19/2016 11:20:00 AM</startTime>
+      <endTime>3/19/2016 12:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45214</importID>
+      <speakers>
+        <speaker>
+          <id>45214</id>
+          <name>Pieter Vanhove</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Run Your DBA Morning Checklist with Policy-Based Management</title>
+      <description>A good DBA performs a morning checklist every day, to verify that all the databases and SQL Servers are still in good condition. In larger environments, that checklist can become so time-consuming that you don’t even have time for a coffee! This session demonstrates how to use policy-based management to evaluate your servers. By the end of this session, you will be able to use this Solution to verify your own SQL Server environment in no time--and have plenty of time for your morning coffee!</description>
+      <startTime>3/19/2016 2:40:00 PM</startTime>
+      <endTime>3/19/2016 3:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45172</importID>
+      <speakers>
+        <speaker>
+          <id>45172</id>
+          <name>Koen Verbeeck</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>What's New in Integration Services 2016</title>
+      <description>SQL Server Integration Services is Microsoft's leading data integration and transformation tool. In this session, we will take a look at which exciting new features SQL Server 2016 has to offer.
+You'll discover how much easier SSIS development becomes and how you can integrate more easily with the cloud and big data.
+Join us in this demo-packed talk to find out what's coming and put yourself ahead of the learning curve.</description>
+      <startTime>3/19/2016 1:20:00 PM</startTime>
+      <endTime>3/19/2016 2:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>44939</importID>
+      <speakers>
+        <speaker>
+          <id>44939</id>
+          <name>Nico Jacobs</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Polybase in SQL Server 2016</title>
+      <description>If you want to mix traditional relational data with semi-structured data stored on Azure or Hadoop, then the out-of-the-box Polybase functionality in SQL Server 2016 is one of the easiest ways to get started with this.
+
+In this session we first introduce the Polybase architecture, then show how to setup and query Polybase. This demo-rich session helps both developers and DBAs in understanding the potential and practical use of Polybase.</description>
+      <startTime>3/19/2016 10:00:00 AM</startTime>
+      <endTime>3/19/2016 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>42915</importID>
+      <speakers>
+        <speaker>
+          <id>42915</id>
+          <name>Uwe Ricken</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Mastering indexing maintenance with DMO like a PRO</title>
+      <description>Make your business happy with well performing databases. To master these approaches you are responsible for well performing indexes which may not harm the daily business of your customers. With a handy toolset of common database management objects (DMO) you can become the superstar in your SQL Server team. Impress your team members when you detect common indexing issues like a pro with dmo's.</description>
+      <startTime>3/19/2016 1:20:00 PM</startTime>
+      <endTime>3/19/2016 2:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>42953</importID>
+      <speakers>
+        <speaker>
+          <id>42953</id>
+          <name>Enrico van de Laar</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>No more waiting – an introduction to SQL Server wait statistics</title>
+      <description>When you are standing in line at the grocery store you know exactly what you’re waiting for, paying the things you intend to buy. In SQL Server things aren’t usually so simple and many times you have to wait for more than only the length of the queue or the speed of the cashier. Thankfully SQL Server gathers the exact time you have been waiting and what resource you have been waiting on. In this session we will take a look at how SQL Server gathers this information and how it can help you identify, troubleshoot and proactively solve performance issues.</description>
+      <startTime>3/19/2016 11:20:00 AM</startTime>
+      <endTime>3/19/2016 12:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>44884</importID>
+      <speakers>
+        <speaker>
+          <id>44884</id>
+          <name>Fabiano Amorim</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Advanced SQL Server execution plans - level 400</title>
+      <description>Tired to look at colored and nice shape plans? Want to go further and see geek stuff? Came to this session to explore the query trees, internals and deep analysis on execution plans on SQL Server. This is a 500 level session, so, expect to see lots of traceflags, undocumented and nasty execution plans.</description>
+      <startTime>3/19/2016 10:00:00 AM</startTime>
+      <endTime>3/19/2016 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>44213</importID>
+      <speakers>
+        <speaker>
+          <id>44213</id>
+          <name>Cédric Charlier</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>It's time to refresh your data in Power BI!</title>
+      <description>Making sure they are analyzing the last data available is often critical for your customers. From Excel files on a OneDrive folder to Azure IoT solutions, via enterprise or personal gateway, welcome to a world with many possibilities. Which one is the best-suited for your needs and your existing environment? This session includes many demos and proposes to explain, one by one, these different solutions. We’ll also discuss benefits, constraints, free or pro subscriptions and much more!</description>
+      <startTime>3/19/2016 2:40:00 PM</startTime>
+      <endTime>3/19/2016 3:40:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

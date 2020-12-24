@@ -1,0 +1,23 @@
+# SQLSaturday #175 - Fargo 2013
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|David Klee|Track 2|[Database Health and Performance](12594.md)
+00:00:00|Eric Ness|Track 4|[Data Mining Deep Dive: Clustering](13909.md)
+00:00:00|Eric Zierdt|Track 3|[Table Partitions for Archiving and Performance](13916.md)
+00:00:00|Jason Horner|Track 1|[Dimension Modeling Design Patterns: Beyond Basics](15847.md)
+00:00:00|Jason Strate|Track 3|[Discovering the Plan Cache](15918.md)
+00:00:00|Jim Dorame|Track 1|[PowerShell and SQLPSX the Dynamic Duo for the DBA](16253.md)
+00:00:00|Jeff Prom|Track 4|[Data Quality Services](16364.md)
+00:00:00|Jes Schultz|Track 3|[Index Options You're Not Using](16628.md)
+00:00:00|Jes Schultz|Track 1|[The What, Why, and How of Filegroups ](16630.md)
+00:00:00|Kathi Kellenberger|Track 3|[T-SQL Analytic Functions](18403.md)
+00:00:00|Kathi Kellenberger|Track 1|[SQL Server 2012 T-SQL](18404.md)
+00:00:00|Michael DeFehr|Track 2|[Deadlocks: What to do about the dreaded 1205](20460.md)
+00:00:00|Paul Timmerman|Track 2|[An Optimistic Approach: Snapshot Isolation in SQL ](22393.md)
+00:00:00|Ross McNeely|Track 4|[F# for Data Analysis](23461.md)
+00:00:00|Steve Jones|Track 3|[The Encryption Primer](24460.md)
+00:00:00|MIKE DONNELLY|Track 2|[Flipping Through the SSIS Catalag](24965.md)
+00:00:00|Scott Shaw|Track 4|[The Future of the DBA](25192.md)
+00:00:00|Steve Hughes|Track 2|[Building BI Solutions with Excel 2013](25782.md)
+00:00:00|Terry Bunio|Track 4|[How to install and configure SSRS 2012/Sharepoint](26035.md)
+00:00:00|Aaron King|Track 1|[A Complete BI Solution in About an Hour! ](9165.md)

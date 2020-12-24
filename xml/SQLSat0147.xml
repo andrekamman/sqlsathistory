@@ -1,0 +1,556 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #147 - Recife 2012</name>
+    <startDate>8/25/2012 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT-03:00) Greenland</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat147</twitterHashtag>
+    <venue>
+      <name>CIn/UFPE</name>
+      <street>Av. Jornalista Anibal Fernandes, s/n - Cidade Universitária</street>
+      <city>Recife</city>
+      <state>PE, Brazil</state>
+      <zipcode>50740-560</zipcode>
+      <longitude>-6.259203</longitude>
+      <latitude>53.331245</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>411</importID>
+      <name>Avila Solucoes Ltda</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.avilasolucoes.com.br</url>
+      <imageURL>https://avilasolucoes.com.br/imagem/logo_avila.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>807</importID>
+      <name>Mainwork Software</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.mainwork.com.br</url>
+      <imageURL>https://www.mainwork.com.br/v2/wp-content/uploads/Mainwork_Logo_branco.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>219</importID>
+      <name>NEWSUPRI (SUPRISERVI COM REPS E SERVIÇOS LTDA)</name>
+      <label>Silver Sponsor</label>
+      <url>http://newsupri.com.br</url>
+      <imageURL>https://media.share.pho.to/1WfX/ss868bf1.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1063</importID>
+      <name>SoftwareONE</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.softwareone.com</url>
+      <imageURL>https://www.softwareone.com/sites/all/themes/softwareone/static/_build/images/logo.svg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>43</importID>
+      <name>SAPIEN Technologies</name>
+      <label>Swag Contributor</label>
+      <url>http://www.sapien.com</url>
+      <imageURL>https://www.pass.org/files/596bfb68-a4b3-4852-ad88-011b040d618b.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>13058</importID>
+      <name>Demetrio Silva</name>
+      <label>
+      </label>
+      <description>Atua no ramo de Tecnologia da Informa#231;#227;o h#225; mais de 11 anos, #233; bacharel em Sistemas de Informa#231;#227;o com #234;nfase em Desenvolvimento de Software, pela FIR-Recife. Instrutor oficial Microsoft, trabalha com SQL Server h#225; mais de 10 anos, com Desenvolvimento, BI e Administra#231;#227;o. Tamb#233;m #233; consultor SharePoint e possui as certifica#231;#245;es MCTS/MCITP/MCSA/MCSE/MCT - SharePoint, SQL Server e Windows Server. #201; palestrante ativo da comunidade Microsoft e j#225; fez v#225;rios webcasts Microsoft sobre SQL Server e Powershell. Autor dos livros SQL Server Al#233;m do Conceito Volumes 1 e 2 https://demetriosilva.wordpress.com/2016/05/19/lanamento-do-livro-sql-server-alm-do-conceito-volume-2/
+</description>
+      <twitter>@demetriosqldba</twitter>
+      <linkedin>Change photo Edit nameDem#233;trio Silva Edit headlineSharePoint Especialista - DBA SQL Server Edit location and industryRecife Area, BrazilComputer Software Current	 Edit current experienceLanlink Inform#225;tica Ltda. Previous	 Edit previous experienceCIEE-PE, Faculdade de Ci#234;ncias Humanas ESUDA Education	 Edit educationFIR – FACULDADES INTEGRADAS DO RECIFE 500+ connectionsView profile asMore options Public Profilehttps://br.linkedin.com/in/demetrioi</linkedin>
+      <ContactURL>http://demetriosilva.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@demetriosqldba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34853</importID>
+      <name>Oduvaldo Zeferino</name>
+      <label>
+      </label>
+      <description>Over 35 years of proven success bringing and making available software products for the domestic market.
+Roles included Manager of Product Management, Manager of IT-Business Line, Pre Sales Manager, Technical Support and Data Center Operations.  
+Consultant of Business for IT solutions, his roles bringing technology products to the market, allows the combination of business perspective with the IT perspective.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.mainwork.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14152</importID>
+      <name>Fabiano Amorim</name>
+      <label>
+      </label>
+      <description>Fabiano Amorim is a Data Platform MVP that loves to conquer complex, challenging problems—especially ones that others aren’t able to solve. He first became interested in technology when his older brother would bring him to his work meetings at the age of 14. With over a decade of experience, Fabiano is well known in the database community for his performance tuning abilities. When he isn’t working, he loves to read and spend time with his family.</description>
+      <twitter>mcflyamorim</twitter>
+      <linkedin>https://www.linkedin.com/in/fabianoamorim/</linkedin>
+      <ContactURL>http:\\blogfabiano.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mcflyamorim</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21235</importID>
+      <name>Marcus Vinícius Bittencourt</name>
+      <label>
+      </label>
+      <description>MVP Data Platform, PASS Regional Mentor, Chapter Leader do SQL Server RS.
+DBA especializado em infraestrutura, troubleshooting. 
+Trabalha com SQL Server há mais de 10 anos.
+SQL Performance Counters and Storage Expert, powershell, speaker na comunidade SQL Server em eventos como SQL Saturday, 24HOP, CMG, Eventos de Chapters Locais e Virtuais, dentre outros...</description>
+      <twitter>http://twitter.com/mvbitt</twitter>
+      <linkedin>http://likedin.com/marcus.bittencourt</linkedin>
+      <ContactURL>http://isqlserver.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/mvbitt</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18917</importID>
+      <name>Laerte Junior</name>
+      <label>
+      </label>
+      <description>Laerte Junior  through his technology blog and simple-talk articles, an active member of the Microsoft community in Brasil. He is a skilled Principal Database Architect, Developer, and Administrator, specializing in SQL Server and Powershell Programming with over 8 years of hands-on experience. He holds a degree in Computer Science, has been awarded a number of certifications (including MCDBA), and is an expert in SQL Server 2000 / SQL Server 2005 / SQL Server 2008. Also is developer at SQLPSX </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://shellyourexperience.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23374</importID>
+      <name>Roberval Ranches</name>
+      <label>
+      </label>
+      <description>Rob Ranches has been working with Mail and Knowledge Management (Information Worker) since 89.
+Degree in IT and Management, MCSE and Director of Taunet Consulting, Rob developed skills in Microsoft Products which helps maintaining and supporting the community and the customer.
+GTM for Messaging in the past  years and working as Tech Executive for Taunet , Rob  works nowadays scaling systems up, trough out Latin America companies.
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://mvp.microsoft.com/en-us/mvp/Roberval%20Ranches-10748</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11382</importID>
+      <name>Cesar Blumm</name>
+      <label>
+      </label>
+      <description>Cesar Blumm: Gerente de TI da Metadados Assessoria e Sistemas, Pós Graduado em Banco de Dados, SQL Server RS, membro do grupo MTAC.
+Marcus Vinícius Bittencourt: DBA SQL Server desde 2006, Influenciador SQL Server parte da mesa administrativa do grupo do PASS - SQL Server RS. Membro do grupo MTAC da Microsoft para influenciadores</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlbrasil.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19494</importID>
+      <name>Marcondes Alexandre</name>
+      <label>
+      </label>
+      <description>Bacharel em Inform#225;tica pela UNIFOR, mestre em mestre em Computação Aplicada pela UECE e MVP (Most Valuable Professional) em SQL Azure 2011/2012 e Microsoft Azure 2013/2014/2015/2016, MCT - Microsoft Certified Trainer desde 2008, MCSA - Microsoft Certified Solutions Associate e Windows 8 e SQL Server 2012/2014, MCTIP - Enterprise Support Technician e Database Administrator, MCTS - Microsoft Certified Technology Specialist SQL Server 2005/2008, 2012 e Arquiteto de Soluções em Microsoft Azure. Atualmente é professor titular da FAMETRO e consultor em tecnologias Microsoft. Atua como palestrante em eventos nacionais e internacionais na área de Banco de Dados e Computação em Nuvens.</description>
+      <twitter>marcondesalex</twitter>
+      <linkedin>https://br.linkedin.com/in/marcondesalexandre</linkedin>
+      <ContactURL>http://marcondesalexandrebr.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=marcondesalex</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9971</importID>
+      <name>Fábio Ávila</name>
+      <label>
+      </label>
+      <description>N/A</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27508</importID>
+      <name>Vladimir Magalhães</name>
+      <label>
+      </label>
+      <description>Certificado MCITP Admin/Developer em SQL Server 2005 e 2008, ITIL V3 Foundation, COBIT 4.1 Foundation e ISO 27002. É analista de banco de dados da Universidade Potiguar/Laureate Education Inc., consultor de banco de dados e governança de TI. Participante da comunidade Microsoft, escreve no blog http://magalhaesv.wordpress.com.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://magalhaesv.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21051</importID>
+      <name>Denny Cherry</name>
+      <label>
+      </label>
+      <description>Denny Cherry is the owner and principal consultant for Denny Cherry  Associates Consulting and has over a decade of experience working with platforms such as Microsoft Azure, Amazon AWS, Microsoft SQL Server, Hyper-V, vSphere, and Enterprise Storage solutions. Denny’s areas of technical expertise include system architecture, performance tuning, security, replication, and troubleshooting. Denny currently holds several Microsoft Certifications related to SQL Server 2000 through 2019, including being a Microsoft Certified Master, Microsoft MVP and VMware vExpert Award.</description>
+      <twitter>mrdenny</twitter>
+      <linkedin>https://www.linkedin.com/in/mrdenny</linkedin>
+      <ContactURL>https://www.dcac.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mrdenny</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21049</importID>
+      <name>Denny Cherry</name>
+      <label>
+      </label>
+      <description>Denny Cherry is the owner and principal consultant for Denny Cherry  Associates Consulting and has over a decade of experience working with platforms such as Microsoft Azure, Amazon AWS, Microsoft SQL Server, Hyper-V, vSphere, and Enterprise Storage solutions. Denny’s areas of technical expertise include system architecture, performance tuning, security, replication, and troubleshooting. Denny currently holds several Microsoft Certifications related to SQL Server 2000 through 2019, including being a Microsoft Certified Master, Microsoft MVP and VMware vExpert Award.</description>
+      <twitter>mrdenny</twitter>
+      <linkedin>https://www.linkedin.com/in/mrdenny</linkedin>
+      <ContactURL>https://www.dcac.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mrdenny</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13252</importID>
+      <name>Diego Nogare</name>
+      <label>
+      </label>
+      <description>Diego Nogare is Chief Data Officer @ Lambda3. He has graduated in Computer Science, Post-Graduated in Computer Engineering. Author of books in Portuguese about SQL Server, Business Intelligence and Machine Learning. Microsoft Most Valuable Professional [MVP] since 2008, shifting to Artificial Intelligence award in 2017. Spent a time as volunteer at PASS, as, Regional Mentor (2014/2015), Regional Board Advisor for LATAM (2016) and Board Director (2018/2019). Worked on the SQL Server team at Microsoft, in Brazil, engaged in the release of SQL Server 2012. Spent some time as a speaker at Microsoft and PASS events.</description>
+      <twitter>@DiegoNogare</twitter>
+      <linkedin>https://br.linkedin.com/in/diegonogare</linkedin>
+      <ContactURL>http://www.diegonogare.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@DiegoNogare</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21050</importID>
+      <name>Denny Cherry</name>
+      <label>
+      </label>
+      <description>Denny Cherry is the owner and principal consultant for Denny Cherry  Associates Consulting and has over a decade of experience working with platforms such as Microsoft Azure, Amazon AWS, Microsoft SQL Server, Hyper-V, vSphere, and Enterprise Storage solutions. Denny’s areas of technical expertise include system architecture, performance tuning, security, replication, and troubleshooting. Denny currently holds several Microsoft Certifications related to SQL Server 2000 through 2019, including being a Microsoft Certified Master, Microsoft MVP and VMware vExpert Award.</description>
+      <twitter>mrdenny</twitter>
+      <linkedin>https://www.linkedin.com/in/mrdenny</linkedin>
+      <ContactURL>https://www.dcac.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mrdenny</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19493</importID>
+      <name>Marcondes Alexandre</name>
+      <label>
+      </label>
+      <description>Bacharel em Inform#225;tica pela UNIFOR, mestre em mestre em Computação Aplicada pela UECE e MVP (Most Valuable Professional) em SQL Azure 2011/2012 e Microsoft Azure 2013/2014/2015/2016, MCT - Microsoft Certified Trainer desde 2008, MCSA - Microsoft Certified Solutions Associate e Windows 8 e SQL Server 2012/2014, MCTIP - Enterprise Support Technician e Database Administrator, MCTS - Microsoft Certified Technology Specialist SQL Server 2005/2008, 2012 e Arquiteto de Soluções em Microsoft Azure. Atualmente é professor titular da FAMETRO e consultor em tecnologias Microsoft. Atua como palestrante em eventos nacionais e internacionais na área de Banco de Dados e Computação em Nuvens.</description>
+      <twitter>marcondesalex</twitter>
+      <linkedin>https://br.linkedin.com/in/marcondesalexandre</linkedin>
+      <ContactURL>http://marcondesalexandrebr.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=marcondesalex</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>23374</importID>
+      <speakers>
+        <speaker>
+          <id>23374</id>
+          <name>Roberval Ranches</name>
+        </speaker>
+      </speakers>
+      <track>Lab 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Usando DQS e SSIS para automatizar carga de dados</title>
+      <description>Essa sessão mostrará  o DQS - Data Quality Services em ação. Essa ferramenta permite que sejam efetuadas validações nas cargas de dados que venham a ser utilizadas pelo SSIS - Integration Services e que garante confiabilidade nos dados a serem utilizados dentro dos sistemas transacionais ou de BI .
+Com o uso do DQS as empresas podem eliminar "sujeiras" tradicionais dos bancos de dados, formatar e padronizar entradas de dados , corrigir e inferir potenciais discrepâncias que muitas vezes só são refletidos nos relatórios finais. Resolva o problema de qualidade dos dados, antes mesmo do input.
+Para os usuários de BI, é a melhor maneira de garantir a consistência dos dados.</description>
+      <startTime>8/25/2012 12:00:00 AM</startTime>
+      <endTime>8/25/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21235</importID>
+      <speakers>
+        <speaker>
+          <id>21235</id>
+          <name>Marcus Vinícius Bittencourt</name>
+        </speaker>
+      </speakers>
+      <track>Lab 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Problemas de fragmentação no Transaction Log</title>
+      <description>Vamos analisar o funcionamento interno do Transaction Log e como resolver problemas de fragmentação.
+Venha conferir o por que a fragmentação do transaction Log pode se tornar uma dor de cabeça em seu ambiente se não bem administrado.</description>
+      <startTime>8/25/2012 12:00:00 AM</startTime>
+      <endTime>8/25/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18917</importID>
+      <speakers>
+        <speaker>
+          <id>18917</id>
+          <name>Laerte Junior</name>
+        </speaker>
+      </speakers>
+      <track>Lab 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Troubleshooting SQL Server com PowerShell</title>
+      <description>Nesta sessão veremos como o PowerShell pode ser uma ferramenta util e produtiva na solução de problemas relacionadas com SQL Server. Coleta de contadores do Perfmon e de de blocking sessions para futura analise, Alertas de espaço em disco em outros. Será uma sessão puramente pratica. Sem Slides. Preparem seus neurônios, prometo fritá-los.</description>
+      <startTime>8/25/2012 12:00:00 AM</startTime>
+      <endTime>8/25/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21050</importID>
+      <speakers>
+        <speaker>
+          <id>21050</id>
+          <name>Denny Cherry</name>
+        </speaker>
+      </speakers>
+      <track>Lab 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Table Indexing for the .NET Developer</title>
+      <description>In this session we will be looking at the best and worse practices for indexing tables within your SQL Server 2008 databases.  We will also be looking into the new indexing features that are available in SQL Server 2008 (and SQL Server 2005) and how you the .NET developer can make the best use of them to get your code running its best.</description>
+      <startTime>8/25/2012 12:00:00 AM</startTime>
+      <endTime>8/25/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19493</importID>
+      <speakers>
+        <speaker>
+          <id>19493</id>
+          <name>Marcondes Alexandre</name>
+        </speaker>
+      </speakers>
+      <track>Lab 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Desenvolvendo para Windows Azure</title>
+      <description>Esta sessão fornecerá uma visão geral dos principais recursos de desenvolvimento disponíveis no Windows Azure. Serão abordadas as diferentes opções de armazenamento da plataforma, como Blobs, Queues, Tables e Azure Drives, assim como o armazenamento de dados no SQL Azure. Também serão apresentados os principais conceitos do Windows Azure AppFabric, que são o Service Bus e o Access Control. </description>
+      <startTime>8/25/2012 12:00:00 AM</startTime>
+      <endTime>8/25/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9971</importID>
+      <speakers>
+        <speaker>
+          <id>9971</id>
+          <name>Fábio Ávila</name>
+        </speaker>
+      </speakers>
+      <track>Auditorium</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Closing Session and Raffle</title>
+      <description>In this session, we will briefly summarize the 2 days of the event and provide an overview of the PASS organization and events. We'll also have the raffle, with several prizes!</description>
+      <startTime>8/25/2012 12:00:00 AM</startTime>
+      <endTime>8/25/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34853</importID>
+      <speakers>
+        <speaker>
+          <id>34853</id>
+          <name>Oduvaldo Zeferino</name>
+        </speaker>
+      </speakers>
+      <track>Auditorium</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Confio Ignite V8 – Otimização de Desempenho de SQL</title>
+      <description>Aprenda como usar o Confio Ignite V8 para otimizar o desempenho do SQL Server</description>
+      <startTime>8/25/2012 12:00:00 AM</startTime>
+      <endTime>8/25/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27508</importID>
+      <speakers>
+        <speaker>
+          <id>27508</id>
+          <name>Vladimir Magalhães</name>
+        </speaker>
+      </speakers>
+      <track>Lab 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Trabalhando com dados geográficos no SSRS 2012</title>
+      <description>Nesta seção veremos como os dados geográficos podem nos ajudar na visualização e análise de informações. Seja através de mapas ou de heatmaps, apresente sua informação de uma forma mais didática e interativa.</description>
+      <startTime>8/25/2012 12:00:00 AM</startTime>
+      <endTime>8/25/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21049</importID>
+      <speakers>
+        <speaker>
+          <id>21049</id>
+          <name>Denny Cherry</name>
+        </speaker>
+      </speakers>
+      <track>Auditorium</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Reading the SQL Server Execution Plan</title>
+      <description>In this session we'll explain what the SQL Execution plan is, how the SQL Server generates it, and how to read the output.  This includes looking at the graphical as well as the XML version of the execution plan.  We'll explore the variety of operators that the execution plan can present you with, and show you how to tell the SQL Server that you want to change the execution plan to get rid of the operators that you don't want to be using any more.</description>
+      <startTime>8/25/2012 12:00:00 AM</startTime>
+      <endTime>8/25/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19494</importID>
+      <speakers>
+        <speaker>
+          <id>19494</id>
+          <name>Marcondes Alexandre</name>
+        </speaker>
+      </speakers>
+      <track>Auditorium</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Administrando sua base de dados no SQL Azure</title>
+      <description>Esta sessão fornecerá uma visão geral dos aspectos de administração lógica versus administração física, como: verificar consumo de CPU no SQL Azure, realizar backups de bases de dados, construir planos de manutenção e otimizar consultas. </description>
+      <startTime>8/25/2012 12:00:00 AM</startTime>
+      <endTime>8/25/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13252</importID>
+      <speakers>
+        <speaker>
+          <id>13252</id>
+          <name>Diego Nogare</name>
+        </speaker>
+      </speakers>
+      <track>Auditorium</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Integração completa do pacote de BI do SQL 2012</title>
+      <description>Junte-se ao MVP em SQL Server Diego Nogare nesta sessão, e veja como funciona a integração completa do Excel com Power Pivot + Sharepoint + SQL Azure + Power View com Power Point, não necessariamente nesta mesma ordem.
+Será uma sessão que mostrará tecnicamente como você pode agregar valor a sua área de TI, mudando a percepção da área de negócios, de que a TI era um centro de custo, passando a ser um parceiro estratégico fundamental para o crescimento da empresa.</description>
+      <startTime>8/25/2012 12:00:00 AM</startTime>
+      <endTime>8/25/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21051</importID>
+      <speakers>
+        <speaker>
+          <id>21051</id>
+          <name>Denny Cherry</name>
+        </speaker>
+      </speakers>
+      <track>Lab 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Where should I be encrypting my data</title>
+      <description>In this session we'll be looking at all the various places within the application stack that data can be encrypted or hashed, so that as an application/database administrator/developer/architect you can make the best decision as to where in the application stack to do this work.  These layers include the application layer, the middle tier, the database layer, encrypting over the wire, transparent data encryption, encrypting using your MPIO driver and offloading encryption to your HBAs.</description>
+      <startTime>8/25/2012 12:00:00 AM</startTime>
+      <endTime>8/25/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14152</importID>
+      <speakers>
+        <speaker>
+          <id>14152</id>
+          <name>Fabiano Amorim</name>
+        </speaker>
+      </speakers>
+      <track>Auditorium</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>7 maneiras diferentes para matar um DBA do coração</title>
+      <description>Nesta sessão o MVP em SQL Server Fabiano Amorim (@mcflyamorim) irá demonstrar 7 técnicas de desenvolvimento que irão fazer um DBA morrer do coração. Piores práticas para escrever uma consulta T-SQL (problemas com triggers, procedures, views e functions), piores práticas para desenvolver uma tela de consulta, desenvolvendo para não ter segurança. Performance? Não é preciso! Aprenda o que fazer e o que não fazer quando desenvolver para SQL Server. </description>
+      <startTime>8/25/2012 12:00:00 AM</startTime>
+      <endTime>8/25/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11382</importID>
+      <speakers>
+        <speaker>
+          <id>11382</id>
+          <name>Cesar Blumm</name>
+        </speaker>
+      </speakers>
+      <track>Auditorium</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Replicação Hands On</title>
+      <description>Apresentação de conceitos de replicação de dados, os tipos existentes no SQL Server e a sua configuração na prática através de demonstrações de exemplos entre servidores SQL Server e como replicar informações do Oracle no SQL Server.</description>
+      <startTime>8/25/2012 12:00:00 AM</startTime>
+      <endTime>8/25/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13058</importID>
+      <speakers>
+        <speaker>
+          <id>13058</id>
+          <name>Demetrio Silva</name>
+        </speaker>
+      </speakers>
+      <track>Auditorium</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Uma introdução ao Powershell</title>
+      <description>Nesta palestra os ouvintes conhecerão os princípios básicos da nova linguagem de scripts da Microsoft. Será uma introdução para os que desejam assistir a palestra "Troubleshooting SQL Server com PowerShell", abordando desde sua instalação até a execução de scripts.</description>
+      <startTime>8/25/2012 12:00:00 AM</startTime>
+      <endTime>8/25/2012 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

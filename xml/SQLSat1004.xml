@@ -1,0 +1,511 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #1004 – Bangladesh – Virtual 2020</name>
+    <startDate>11/28/2020 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>
+    </timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatBangladesh</twitterHashtag>
+    <venue>
+      <name>Microsoft Bangladesh</name>
+      <street>Laila Tower, 4th Floor, 8 Gulshan Avenue, Gulshan-1</street>
+      <city>Dhaka</city>
+      <state>Dhaka, Bangladesh</state>
+      <zipcode>1212</zipcode>
+      <longitude>90.4160949</longitude>
+      <latitude>23.7771775</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1781</importID>
+      <name>Microsoft</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1004/EventSponsor_14923.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2696</importID>
+      <name>Melissa</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>http://www.melissa.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1004/EventSponsor_14924.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2678</importID>
+      <name>Google Cloud</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://cloud.google.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1004/EventSponsor_14926.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2689</importID>
+      <name>Red Hat</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://www.redhat.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1004/EventSponsor_14925.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>108221</importID>
+      <name>Sam Nasr</name>
+      <label>
+      </label>
+      <description>Sam Nasr has been a software developer since 1995, focusing mostly on Microsoft technologies.  He’s a Sr. Software Engineer with NIS Technologies where he consults and teaches clients about the latest .Net technologies.  Sam has achieved multiple certifications from Microsoft (MCSA, MCAD, MCTS, MCT), and is the leader of the Cleveland C#/VB.Net User Group since 2003. In addition, he’s the leader of the .Net Study Group, an author for Visual Studio Magazine, and a Microsoft MVP since 2013.  When not coding, Sam loves spending time with his family and friends or volunteering at his local church.</description>
+      <twitter>SamNasr</twitter>
+      <linkedin>http://www.linkedin.com/in/samsnasr</linkedin>
+      <ContactURL>http://samnasr.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SamNasr</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108386</importID>
+      <name>Pio Balistoy</name>
+      <label>
+      </label>
+      <description>Pio Balistoy is a Microsoft MVP  Certified Trainer for Data Platform. A SQL Server professional with more than 17 years of experience with SQL Server operations, architecture and administration. He brings his passion for SQL Server as the community leader for Singapore SQL PASS and Philippine SQL Server User Group. He is currently one of the Lead Microsoft Data Platform Consultant for The Pythian Services - a global IT product and services company with headquarters in Ottawa, New York, Sydney, UK and India.  He also co-founded Excent One Inc, a technology solutions company based in the Philippines and Singapore that helps SMEs integrate and develop Microsoft based business Applications.</description>
+      <twitter>Pioisms</twitter>
+      <linkedin>https://www.linkedin.com/in/piobalistoy/</linkedin>
+      <ContactURL>https://lazysqlwriter.wordpress.com/; https://blog.pythian.com/author/balistoy/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Pioisms</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>109042</importID>
+      <name>M A Nakib</name>
+      <label>
+      </label>
+      <description>Nakib is a smart and young IT professional, MCT, Cloud Architect working with Corporate Projukti limited as Cloud Solutions. He had 2 years' experience in Microsoft Bangladesh. Being an adviser, he involves in building and enhance solutions  customer readiness on Microsoft Azure, O365  other Cloud based service. He assists decision making audience in context of Microsoft product  services.
+Nakib is renowned community person- From graduation time he had started his community contribution from university life being an MSP LEAD. He had engaged different technical workshop being a speaker as well as organized. He started his carrier as intern on Microsoft Bangladesh. He works on tech community development and trainer in of IT education work</description>
+      <twitter>nakib_juris</twitter>
+      <linkedin>https://www.linkedin.com/in/nakibjuris/</linkedin>
+      <ContactURL>https://nakibjuris.medium.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=nakib_juris</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108280</importID>
+      <name>Damian Widera</name>
+      <label>
+      </label>
+      <description>SQL Server MVP amp; MCT
+Software engineer with 18+ years of professional experience in all aspects of software development.
+Damian participated in a number of projects in international environments and possesses practical knowledge of procedures and tools which are necessary for successful implementation of such projects.
+Now he focuses on building solutions based on Microsoft SQL Server environment (including complex database driven systems, database tuning and optimization).</description>
+      <twitter>@DamianWidera</twitter>
+      <linkedin>https://pl.linkedin.com/in/damian-widera-0b56284</linkedin>
+      <ContactURL>https://codingfamily.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@DamianWidera</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108930</importID>
+      <name>John Miner</name>
+      <label>
+      </label>
+      <description>John Miner is currently a Data Architect at Insight DI (BlueMetal) advising corporations on how to solve their business needs with data platform solutions.
+
+He has over twenty five years of data processing experience, and his architecture expertise encompasses all phases of the software project life cycle, including design, development, implementation, and maintenance of systems.
+
+He has an undergraduate and graduate degrees in Computer Science from the University of Rhode Island.  Other credentials include an up to date MCSE certificate and currently taking the Data Science program from EDX.
+
+Before joining BlueMetal, John won the Data Platform MVP award in 2014 and 2015 for his outstanding contributions to the SQL Server community.</description>
+      <twitter>https://twitter.com/JohnMiner3</twitter>
+      <linkedin>https://www.linkedin.com/in/minerjohn/</linkedin>
+      <ContactURL>https://www.mssqltips.com/sqlserverauthor/154/john-miner/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/JohnMiner3</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105098</importID>
+      <name>Mohammad Asif Waquar</name>
+      <label>
+      </label>
+      <description>Asif is Microsoft MVP ,Microsoft Azure Platform .He specialises in Microsoft development, Blockchain, Mobile App and Cloud technologies. He works as Solution Architect at ABN AMRO Bank .He is certified in Corda and Hyperledger Development Framework for block chain. He has successfully implemented solutions for Trade finance on the Quorum Block chain.
+
+He has completed his Masters in Software Engineering from NUS Singapore.Actively blogs at http://asifwaquar.com. Active in the developer community as public speaker, mentor etc. As an active member of SQL Server community and Azure Community, Asif leads Singapore SQL Server Pass Chapter (User group).</description>
+      <twitter>asifwaquar</twitter>
+      <linkedin>https://www.linkedin.com/in/mohammad-asif-6a6153111/</linkedin>
+      <ContactURL>http://asifwaquar.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=asifwaquar</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108990</importID>
+      <name>Thimantha Vidanagamage</name>
+      <label>
+      </label>
+      <description>Thimantha Vidanagamage is a Microsoft Certified Data Analyst Associate with 2+ years of experience in Microsoft Business Intelligence. He is passionate about technologies such as Microsoft Power BI, Azure Analysis Services, Azure Data Factory and Azure Data Lake Gen2. Currently, he is an Associate Microsoft Business Intelligence Consultant for Fortude (Pvt) Ltd. which is the only Microsoft Gold Partner for Data Analytics and Data Platform in Sri Lanka.</description>
+      <twitter>ThimanthaV</twitter>
+      <linkedin>https://www.linkedin.com/in/thimanthav/</linkedin>
+      <ContactURL>https://thimantha.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ThimanthaV</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>109056</importID>
+      <name>Tracy Boggiano</name>
+      <label>
+      </label>
+      <description>Tracy Boggiano is a Senior Database Administrator for DocuSIgn. She has spent over 20 years in IT, using SQL Server since 1999, and is currently certified as an MCSE Data Platform. Tracy has worked on SQL Server since 6.5. She has spoken at local user groups and numerous SQLSaturdays. She is currently a co-leader of a TriPASS Local Group in Raleigh, NC.   
+
+Tracy also tinkered with databases in middle school to keep her sports card collection organized. She blogs at databasesuperhero.com. 
+
+Her passion outside of SQL Server is volunteering with foster children as their advocate in court through volunteerforgal.org and being a mental health advocate as part of the PAIMI NC Advisory Council.</description>
+      <twitter>TracyBoggiano</twitter>
+      <linkedin>https://www.linkedin.com/in/tracyboggiano</linkedin>
+      <ContactURL>http://databasesuperhero.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=TracyBoggiano</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108361</importID>
+      <name>André Melancia</name>
+      <label>
+      </label>
+      <description>Owner / Principal Consultant at LunarCat.PT
+Microsoft Certified Trainer (MCT) focusing on SQL Server, Azure, IoT and Security.
+
+19+ years' fun developing information and multimedia systems, DBA, project and IT management.
+
+Data Community Portugal, IT Pro Portugal and PowerShell Portugal communities organiser.
+IPv6 Portugal, DNSSec Portugal and Windows Development Portugal online communities moderator.
+Actively volunteering, organising, speaking or just participating at community meetings and events around the world.
+
+Proud uncle and food devouring expert, with dangerous рuϧϧy cat as companion.
+
+Go to http://Andy.PT and you'll know the same as the NSA...</description>
+      <twitter>AndyPT</twitter>
+      <linkedin>http://LinkedIn.COM/in/AndreMelancia</linkedin>
+      <ContactURL>http://Andy.PT</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=AndyPT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108972</importID>
+      <name>Mikey Bronowski</name>
+      <label>
+      </label>
+      <description>What do I do? I select, I select stars!
+
+Data enthusiast with a mathematics background in relation with SQL Server for over 10 years. Works as a database administrator (Microsoft SQL Server) responsible for environments upgrades and migrations. Microsoft Certified Trainer with a couple of certificates (MCP, MCSE Data Platform). Blogger at (bronowski.it/blog).
+
+Not long ago Poland Data Community member, now proud UK Data Platform active member.
+
+When not working or teaching, learns new things or attends various data/technical conferences and meetups.
+
+Italian Calcio fan and traveller.</description>
+      <twitter>MikeyBronowski</twitter>
+      <linkedin>https://pl.linkedin.com/mikeybronowski</linkedin>
+      <ContactURL>https://bronowski.it/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MikeyBronowski</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105905</importID>
+      <name>Javier Villegas</name>
+      <label>
+      </label>
+      <description>Javier Villegas is a Database Administrator Manager for Mediterranean Shipping Company. Javier has more than 20 years working with SQL Server on every version from 6.5 to SQL Server 2019, Including SQL Azure Database and SQL Azure Managed Instance. His specialization is Administration, Performance Tuning and High Availability.
+He is a Microsoft MVP in Data Platform.
+Javier is a frequent speaker in conferences and events such as SQL Saturday , PASS Virtual Groups, 24 Hours SQL PASS , vOpen(NetConf), GroupBy and DataPlatformGeeks.
+@sqlargentina</description>
+      <twitter>https://www.twitter.com/javier_vill</twitter>
+      <linkedin>https://ar.linkedin.com/in/javiervillegas</linkedin>
+      <ContactURL>http://sql-javier-villegas.blogspot.com.ar/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://www.twitter.com/javier_vill</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108007</importID>
+      <name>Taiob Ali</name>
+      <label>
+      </label>
+      <description>Taiob Ali, MVP Data Platform, is an accomplished technical leader with a proven record of success. For 14 years, he has worked with the Microsoft Data Platform and MongoDB both on-premise and cloud. His experience includes all three major business sectors: finance, e-commerce, and healthcare. Taiob has hands-on experience in managing large database projects, massive data migration, intricate process design, testing and deployment, performance tuning, long term capacity planning.
+Taiob is currently working at “GMO LLC” as a Database Solution Manager, focusing on cloud migration, automation, improving, and streamlining operational workflow. He is a regular speaker at local and virtual PASS chapters, SQL Saturdays, and Azure conferences.</description>
+      <twitter>SqlWorldWide</twitter>
+      <linkedin>http://www.linkedin.com/in/sqlworldwide</linkedin>
+      <ContactURL>http://www.sqlworldwide.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SqlWorldWide</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107625</importID>
+      <name>Deepthi Goguri</name>
+      <label>
+      </label>
+      <description>Deepthi is a SQL Server Database Administrator with 7+ years of experience in administering SQL Servers. She is a Microsoft certified Trainer and professional with an Associate and Expert level certification in Data Management and Analytics. Deepthi completed her Masters in Computer Technology at Eastern Illinois University. She blog for DBANuggets.com.</description>
+      <twitter>dbanuggets</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://dbanuggets.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=dbanuggets</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108991</importID>
+      <name>Thimantha Vidanagamage</name>
+      <label>
+      </label>
+      <description>Thimantha Vidanagamage is a Microsoft Certified Data Analyst Associate with 2+ years of experience in Microsoft Business Intelligence. He is passionate about technologies such as Microsoft Power BI, Azure Analysis Services, Azure Data Factory and Azure Data Lake Gen2. Currently, he is an Associate Microsoft Business Intelligence Consultant for Fortude (Pvt) Ltd. which is the only Microsoft Gold Partner for Data Analytics and Data Platform in Sri Lanka.</description>
+      <twitter>ThimanthaV</twitter>
+      <linkedin>https://www.linkedin.com/in/thimanthav/</linkedin>
+      <ContactURL>https://thimantha.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ThimanthaV</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>109106</importID>
+      <name>Ahsan Kabir</name>
+      <label>
+      </label>
+      <description>Ahsan Kabir is now working as software development project manager from last few years. He has started carrier as Software Engineer. He has more than twelve years of experience of working on large enterprise Application project i.e. Banking Solution, ERP solution. He has worked every phase of SDLC. Beside that he contributed his experience and skill on different professional forum and Microsoft technical community as technical speaker .He writes article on blog and assist other technical people providing problem solving answer through different forum. He is rewarded as MVP Awarded by Microsoft. He is the PASS chapter leader of Bangladesh-quot;techforum PASSquot;. Ahsan is very active in the developer community and volunteers his time for</description>
+      <twitter>ahsan_kabir_</twitter>
+      <linkedin>https://www.linkedin.com/in/Ahsan-Kabir-</linkedin>
+      <ContactURL>https://techforumbd.github.io/techforum/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ahsan_kabir_</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>108386</importID>
+      <speakers>
+        <speaker>
+          <id>108386</id>
+          <name>Pio Balistoy</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Virtual Event</name>
+      </location>
+      <title>Intelligent Query Processing Feature Family</title>
+      <description>Azure SQL and SQL Server 2019  boasts a lot of improvements for SQL databases across the board from Intelligent performance, layers of security, availability, platform support to intelligence over all your data. In this session we will focus on the latest improvements in performance - The Intelligent Query Processing Feature Family. We'll take a look at the features that provide a broad impact on performance for your existing workloads with minimal implementation effort and no application changes.</description>
+      <startTime>11/28/2020 7:05:00 PM</startTime>
+      <endTime>11/28/2020 8:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>108007</importID>
+      <speakers>
+        <speaker>
+          <id>108007</id>
+          <name>Taiob Ali</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Virtual Event</name>
+      </location>
+      <title>Azure SQL Database-Business Continuity During Disaster</title>
+      <description>Azure SQL Database is a relational database-as-a-service (DBaaS) based on the latest version of the Microsoft SQL Server Database Engine. You can build data-driven applications and websites in the programming language of your choice, without needing to manage infrastructure. 
+
+While considering Azure SQL Database, two of the most critical questions you need to answer are what are my options for business continuity and how to implement these options? 
+
+In this demo intensive session, I will talk about five specific options and show you how to implement those. You will walk out of this session equipped with knowledge and scripts to implement appropriate High Availability and Disaster Recovery solutions for your Azure SQL Database.</description>
+      <startTime>11/28/2020 10:05:00 AM</startTime>
+      <endTime>11/28/2020 11:05:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105098</importID>
+      <speakers>
+        <speaker>
+          <id>105098</id>
+          <name>Mohammad Asif Waquar</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Virtual Event</name>
+      </location>
+      <title>Integrate existing apps and publish blockchain ledger data to SQL using Azure Blockchain as Service</title>
+      <description>Block chain is very fast growing technology.It is going to transform industry , lot of RD and initiatives going on in this area. In this session, we will discuss some fundamentals of Blockchain and how Azure Blockchain can help in Blockchain app development, deployment and integration with your existing applications  .We will also see how we can capture Blockchain ledger events to a SQL Database or Cosmos DB.</description>
+      <startTime>11/28/2020 3:05:00 PM</startTime>
+      <endTime>11/28/2020 4:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>108221</importID>
+      <speakers>
+        <speaker>
+          <id>108221</id>
+          <name>Sam Nasr</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Virtual Event</name>
+      </location>
+      <title>SQL Server Security Features</title>
+      <description>SQL Server provides several several security features for developers and architects.  Features such as Dynamic Data Masking (DDM), "Always Encrypted", and Row-Level Security provide an additional level of security natively through the database server.  We'll explore the implementation of these features on the client/server for data in transmission or at rest.  In addition, we'll examine built-in features and custom implementations.</description>
+      <startTime>11/28/2020 11:05:00 AM</startTime>
+      <endTime>11/28/2020 12:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>109042</importID>
+      <speakers>
+        <speaker>
+          <id>109042</id>
+          <name>M A Nakib</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Virtual Event</name>
+      </location>
+      <title>Azure SQL Replication</title>
+      <description>Azure SQL is a relational database that is provided as a completely managed service by Microsoft. Built on top of SQL Server, Azure SQL boasts of a very well equipped querying layer and rock-solid stability. This blog will let you carry out Azure SQL replication easily.</description>
+      <startTime>11/28/2020 2:05:00 PM</startTime>
+      <endTime>11/28/2020 3:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107625</importID>
+      <speakers>
+        <speaker>
+          <id>107625</id>
+          <name>Deepthi Goguri</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Virtual Event</name>
+      </location>
+      <title>Life Cycle of a Query in SQL Server</title>
+      <description>Many DBA's and Developers work with SQL Server but don’t fully understand how it really works behind the scenes. Join Deepthi on her dive into the internals of SQL Server to explain why knowing what goes on under the covers will help you make better decisions quickly when solving performance problems in SQL Server. This session will cover ACID properties, key components of the Relational Engine, Storage engine, Cache and the Transaction manager. We will also cover what happens  under the covers during read and write operations within SQL Server. 
+Deepthi will show you how the SQL engine thinks – enabling you to think like it!</description>
+      <startTime>11/28/2020 4:05:00 PM</startTime>
+      <endTime>11/28/2020 5:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105905</importID>
+      <speakers>
+        <speaker>
+          <id>105905</id>
+          <name>Javier Villegas</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Virtual Event</name>
+      </location>
+      <title>Monitoring SQL Server using Community solutions (Free)</title>
+      <description>In this session we will cover how to monitor and support any SQL Server Environment using free tools created by community members</description>
+      <startTime>11/28/2020 9:10:00 AM</startTime>
+      <endTime>11/28/2020 10:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>108930</importID>
+      <speakers>
+        <speaker>
+          <id>108930</id>
+          <name>John Miner</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Virtual Event</name>
+      </location>
+      <title>How to audit and prevent unwanted user actions.</title>
+      <description>Abstract:
+
+Many corporations are composed of small divisions located in countries throughout the world. While you might be the lead DBA for your corporation, there are several other employees who have the keys to the kingdom. This presentation will review techniques on how to prevent and/or audit data and schema changes.
+
+Coverage:
+
+1 – Granting correct user access is vital.
+2 – DML triggers to keep a DATA audit trail.
+3 – DDL triggers to keep a SCHEMA audit trail.
+4 – Preventing unwanted DATA modifications.
+5 – Preventing unwanted SCHEMA changes.
+6 – Preventing table TRUNCATIONS.
+7 – LOGIN triggers to control who, what, and when.
+8 – Change data capture (CDC) an alternative to triggers.
+9 - Which of these techniques apply to an Azure SQL database?</description>
+      <startTime>11/28/2020 12:05:00 PM</startTime>
+      <endTime>11/28/2020 1:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>108361</importID>
+      <speakers>
+        <speaker>
+          <id>108361</id>
+          <name>André Melancia</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Virtual Event</name>
+      </location>
+      <title>Hacking SQL Server Is Not Enough</title>
+      <description>You already know how easy it is to hack SQL Server… But how do you protect your local and cloud servers against enemy agent attacks?
+This is a demo-driven session, suited for DBAs, developers and security consultants. Both exploits and security recommendations to avoid them will be covered.
+Disclaimer: No actual crimes will be committed. Please do not send agents to my house again.</description>
+      <startTime>11/28/2020 1:05:00 PM</startTime>
+      <endTime>11/28/2020 2:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>108972</importID>
+      <speakers>
+        <speaker>
+          <id>108972</id>
+          <name>Mikey Bronowski</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Virtual Event</name>
+      </location>
+      <title>Multi-server agent jobs administration with happy faces and pigeons</title>
+      <description>This talk will be about multi-server administration using MSX and TSX servers. Built-in feature you may have seen, but was too scared to play with. Will show you how to configure multi-server environment and how to manage it with least possible resources.
+
+What SQL Server and pigeons have in common? Not much, besides that you do not want to be a pigeon – pigeon post to be specific.
+I have been a DBA pigeon in my past. Managing hundreds of SQL Servers and visiting every single SQL Agent to setup the maintenance jobs, backup jobs or any jobs that would help me to keep the servers up and running. Sometimes using SQL scripts, other times Powershell scripts to deploy or update new jobs, but it was still the same ol’ way. Flying between instances like a bird. Until, one day, I found out about MSX and TSX! And now my life is full of happy faces! I want your face to be happy too.
+
+In this session you will learn how easy is to setup this hidden and forgotten feature of SQL Server. Will show you</description>
+      <startTime>11/28/2020 5:05:00 PM</startTime>
+      <endTime>11/28/2020 6:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>109106</importID>
+      <speakers>
+        <speaker>
+          <id>109106</id>
+          <name>Ahsan Kabir</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Virtual Event</name>
+      </location>
+      <title>SQL Server Internals and Tuning</title>
+      <description>SQL Server Internals and Tuning” is designed for experienced SQL Server professionals who want to know how SQL Server really works, in order to take maximum advantage of its potential. 
+The session includes demonstrations that illustrate the details of SQL Server internals as well as tuning techniques. Cover features specific to that version, but most of the information is relevant to SQL Server 2016 and SQL Server 2014, and some is relevant to earlier versions.</description>
+      <startTime>11/28/2020 6:05:00 PM</startTime>
+      <endTime>11/28/2020 7:05:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

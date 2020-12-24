@@ -1,0 +1,23 @@
+# SQLSaturday #602 - Iceland 2017
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+08:30:00|David Postlethwaite|DBA|[SQL 2016 New Feature: An introduction to Query Store](57121.md)
+08:30:00|Alexander Klein|DevOps|[Azure ML vs Cognitive Services Recommendations](57178.md)
+08:30:00|Bent Pedersen|Business Intelligence|[Scripting tabular models](57233.md)
+09:40:00|Uwe Ricken|DevOps|[Advanced insides into System Versioned Temporal Tables](56932.md)
+09:40:00|Sam Lester|Business Intelligence|[Deep Dive into the Azure-Powered Power BI Twitter Brand Campaign Solution](57025.md)
+09:40:00|Stijn Wynants|DBA|[SQL Server Problem Tombola](57122.md)
+10:50:00|Satya Jayanty|DevOps|[Big Data with Azure: where to begin? Concepts and best practices](57298.md)
+10:50:00|Tillmann Eitelberg|Business Intelligence|[Bioinformatics on Azure](57399.md)
+10:50:00|Matan Yungman|DBA|[Elegant T-SQL Solutions for Real World Problems](63155.md)
+12:30:00|Stijn Wynants|Business Intelligence|[Real-Time Analytics: OLAP  OLTP in the mix!](56931.md)
+12:30:00|Uwe Ricken|DevOps|[Mastering DML Operations like a master](56933.md)
+12:30:00|André Melancia|DBA|[NSA Secrets - Hacking SQL Server](58245.md)
+13:40:00|Kellyn Pot'Vin-Gorman|DBA|[The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization](57018.md)
+13:40:00|Rudi Bruchez|DBA|[Transact-SQL traps and nasty surprises](57566.md)
+13:40:00|Frank Geisler|Business Intelligence|[Building Business Apps with Power BI, PowerApps and Flow](57645.md)
+14:50:00|Andrew Pruski|DBA|[SQL Server  Containers](56919.md)
+14:50:00|André Melancia|Business Intelligence|[If a machine can learn, why can't YOU learn Azure Machine Learning?](58246.md)
+16:00:00|Alex Yates|DevOps|[Getting release management right for SQL Server](57074.md)
+16:00:00|Sergiy Lunyakin|Business Intelligence|[Cloud BI with Azure Analysis Services](57163.md)
+16:00:00|Frank Geisler|DBA|[SQL Server on Linux](57644.md)

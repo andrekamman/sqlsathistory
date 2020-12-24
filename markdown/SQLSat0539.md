@@ -1,0 +1,20 @@
+# SQLSaturday #539 - Sioux Falls 2016
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+08:20:00|Marcus Hopfinger|Enterprise Database Administration  Deployment|[My Top 10 Favorite Replication Tricks](48311.md)
+08:20:00|Rick Bielawski|Application  Database Development|[Mastering queries into XML data.](48583.md)
+08:20:00|Dorothy Ling|BI Platform Architecture, Development  Administration|[Build on-the-fly reporting with Dynamic SQL](50700.md)
+09:45:00|Andy Galbraith|Enterprise Database Administration  Deployment|[Getting Started with Extended Events](49228.md)
+09:45:00|David Stein|BI Platform Architecture, Development  Administration|[SSIS Performance Tuning with Biml](50046.md)
+09:45:00|Phillip Podhradsky|Application  Database Development|[Tips and Tricks for Performance Troubleshooting](50093.md)
+11:05:00|Rick Bielawski|Enterprise Database Administration  Deployment|[Implementing security inside SQL Server](48582.md)
+11:05:00|Mike Byrd|Application  Database Development|[SQL Server Foreign Keys – De-mystifying the Rest of the Story](50293.md)
+13:15:00|David Stein|BI Platform Architecture, Development  Administration|[Agile Data Warehouse and ETL Design with Biml](50045.md)
+13:15:00|Matthew Dobson|Application  Database Development|[One approach to make SQL deployments repeatable, scalable  semi-automated](51023.md)
+13:15:00|Shawn Meyers|Enterprise Database Administration  Deployment|[Availability Groups:  Monitoring and Alerting](51159.md)
+14:35:00|Joshua Warne|Professional Development|[Building Stronger Relationships Between Us... "Data People" and Them... "End Users"](50094.md)
+14:35:00|Cecil Spivey|Enterprise Database Administration  Deployment|[Free SQL Server Tools](50548.md)
+14:35:00|Nem Schlecht|Application  Database Development|[MSSQL is coming to Linux - Are You Ready?](50656.md)
+15:55:00|Mike Hays|Professional Development|[Tackling Technical Blogging](48268.md)
+15:55:00|Brian Hansen|Enterprise Database Administration  Deployment|[Get Your Optimizer to Give up All Its Secrets](50186.md)
+15:55:00|Mike Byrd|Application  Database Development|[SS2014/2016 In-Memory Tables:  Formula 1 Performance Unleashed?](50294.md)

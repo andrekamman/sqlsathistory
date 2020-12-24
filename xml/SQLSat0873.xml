@@ -1,0 +1,363 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #873 - Bratislava 2019</name>
+    <startDate>6/8/2019 12:00:00 AM</startDate>
+    <attendeeEstimate>60</attendeeEstimate>
+    <timezone>(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatBratislava</twitterHashtag>
+    <venue>
+      <name>SwissRe, Twin City B</name>
+      <street>Mlynske Nivy 12</street>
+      <city>Bratislava</city>
+      <state>Bratislava Region, Slovakia</state>
+      <zipcode>811 09</zipcode>
+      <longitude>17.1254027</longitude>
+      <latitude>48.145849</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/972/EventSponsor_14605.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2468</importID>
+      <name>Swiss Re Corporate Solutions Services s.r.o.</name>
+      <label>Venue Sponsor</label>
+      <url>https://www.swissre.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/873/EventSponsor_13742.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2494</importID>
+      <name>KaPa Consulting</name>
+      <label>Marketing Sponsor</label>
+      <url>http://www.kapa-consulting.sk</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/873/EventSponsor_13804.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>94211</importID>
+      <name>Michal Chmelár</name>
+      <label>
+      </label>
+      <description>Michal Chmelár is top expert for Power BI, PowerPivot and the DAX language. He is author of Power-BI.sk and PowerPivot.sk blogs, which are the largest blogs about Power BI and PowerPivot in Slovakia and Czech republic. He’s also an author of a Slovak book about Power BI – “Reporting v Power BI, PowerPivot a jazyk DAX”. He got the experience not only in Czech republic and Slovakia, but also at bigger installations in the UK, Ireland, Norway and Iran. During the nights, he’s worshipping Master Yoda and secretly plans to conquest the universe.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/michal-chmel%C3%A1r-74538620/</linkedin>
+      <ContactURL>https://www.powerpivot.sk</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92006</importID>
+      <name>Damir Matesic</name>
+      <label>
+      </label>
+      <description>For many years Damir is a passionate programmer and a Microsoft SQL Server developer (ver. 2000+). 
+He is a certificated Microsoft professional on various technologies. In 2020 Microsoft awarded him with Data Platform MVP. 
+Damir leads the Croatian SQL Server User Group (PASS) and he introduced and organizes SQL Saturday events in Croatia. Founder and organizer of #DataWeekender.
+He is working as Senior Database Developer @Span.eu. 
+Damir speaks on various community events and conferences like SQLSaturday, Advanced technology days and user groups. 
+When free he blogs about SQL @ https://blog.matesic.info.</description>
+      <twitter>matesic_damir</twitter>
+      <linkedin>https://www.linkedin.com/in/dmatesic/</linkedin>
+      <ContactURL>https://blog.matesic.info/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=matesic_damir</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90567</importID>
+      <name>Marek Chmel</name>
+      <label>
+      </label>
+      <description>I have started working in IT as a consultant and trainer for Microsoft server systems and from the beginning I did focus mainly on SQL Server. Few years back I have joined atamp;t, where I workin a team responsible for 24/7 operations for large SQL server environments.  Our primary focus is architecture, delpoyment, performance tuning and disaster recovery for SQL Server ranging various sizes, versions and editions. If there#39;s any free time left, you can catch me speaking at a conference or teaching a Microsoft or security class in a training center.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://cz.linkedin.com/in/mchmel</linkedin>
+      <ContactURL>http://www.prosql.cz</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92774</importID>
+      <name>Gergely Csom</name>
+      <label>
+      </label>
+      <description>Data and AI expert with 15+ years of experience in various data warehousing, BI and AI projects in FSI, OilGas, Energy and Transportation. Experienced trainer, mentor, regular public speaker in various events. Nowadays building the best in class data team for helping our customers in their digital transformation journey in the super exciting Data  AI driven revolution. Running cloud  IoT pet projects nowadays in his free time:)</description>
+      <twitter>https://twitter.com/CsomGergely</twitter>
+      <linkedin>https://www.linkedin.com/in/gergely-csom-27171670/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/CsomGergely</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90572</importID>
+      <name>Mikael Wedham</name>
+      <label>
+      </label>
+      <description>Mikael Wedham is the first SQL Server MCM in Sweden and the only one who also is a Microsoft Certified Trainer. He has been paid to do things in SQL Server since 1993. His long experience makes him an appreciated speaker at events and conferences all over Europe. To be prepared for deep dives, he is also certified as an Open Water Scuba Instructor.</description>
+      <twitter>@wedham</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.wedham.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@wedham</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>94210</importID>
+      <name>Michal Chmelár</name>
+      <label>
+      </label>
+      <description>Michal Chmelár is top expert for Power BI, PowerPivot and the DAX language. He is author of Power-BI.sk and PowerPivot.sk blogs, which are the largest blogs about Power BI and PowerPivot in Slovakia and Czech republic. He’s also an author of a Slovak book about Power BI – “Reporting v Power BI, PowerPivot a jazyk DAX”. He got the experience not only in Czech republic and Slovakia, but also at bigger installations in the UK, Ireland, Norway and Iran. During the nights, he’s worshipping Master Yoda and secretly plans to conquest the universe.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/michal-chmel%C3%A1r-74538620/</linkedin>
+      <ContactURL>https://www.powerpivot.sk</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90532</importID>
+      <name>Oskari Heikkinen</name>
+      <label>
+      </label>
+      <description>I have several years of experience in using Azure for data analytics at large scale. I have been implementing numerous projects for some of the largest companies in the Nordics.
+
+I am a Microsoft MVP, and I currently hold the MCSE: Data Management and Analytics certification. As a Microsoft Certified Trainer (MCT), I hold classes for subject-matter experts and consultants internally as well as give external customer training sessions. I am also an active speaker on community events.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/oskariheikkinen/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93352</importID>
+      <name>Aleksandar Talev</name>
+      <label>
+      </label>
+      <description>Aleksandar Talev is Chief Development Officer in Semos  - Microsoft Gold Partner. He is professionally oriented to development of IT projects based on Microsoft technologies, primary SQL Server, Microsoft Power BI and Microsoft Azure. He has been working with SQL Server 6.5 since 1996. As a Microsoft trainer he is holding a Microsoft Curriculum courses focused on SQL Server as well as Power BI. As one of the founders of SQL Server User Group (PASS) Macedonia his free time he is engaged in developing the SQL Server community in Macedonia. He is a regular speaker on Microsoft conferences as well as local and global community events. In 2005 Microsoft awarded him with SQL Server MVP award.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/aleksandar-talev-95159187</linkedin>
+      <ContactURL>https://Www.sqlpass.org.mk</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93629</importID>
+      <name>Damir Matesic</name>
+      <label>
+      </label>
+      <description>For many years Damir is a passionate programmer and a Microsoft SQL Server developer (ver. 2000+). 
+He is a certificated Microsoft professional on various technologies. In 2020 Microsoft awarded him with Data Platform MVP. 
+Damir leads the Croatian SQL Server User Group (PASS) and he introduced and organizes SQL Saturday events in Croatia. Founder and organizer of #DataWeekender.
+He is working as Senior Database Developer @Span.eu. 
+Damir speaks on various community events and conferences like SQLSaturday, Advanced technology days and user groups. 
+When free he blogs about SQL @ https://blog.matesic.info.</description>
+      <twitter>matesic_damir</twitter>
+      <linkedin>https://www.linkedin.com/in/dmatesic/</linkedin>
+      <ContactURL>https://blog.matesic.info/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=matesic_damir</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>94210</importID>
+      <speakers>
+        <speaker>
+          <id>94210</id>
+          <name>Michal Chmelár</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Room1</name>
+      </location>
+      <title>Power BI as a universal analytic tool 1/2</title>
+      <description>In Power BI, you can also do other kinds of analyses than just business analytics. In this lecture you’ll see, how you can use Power BI together with cloud services for quick check of facts from freely available data sources, even if they aren’t published in a particularly suitable format. You will also see, how you can quickly analyze unstructured text (e.g. communication with customers). At the end we will take a look at PowerApps, using which you can not only quickly create a new business app in your web browser, but also integrate it in your Power BI reports, so that you can quickly react to results and take action from a single environment. Because Power BI is capable of doing much more than “just” business analyses.</description>
+      <startTime>6/8/2019 9:15:00 AM</startTime>
+      <endTime>6/8/2019 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>92774</importID>
+      <speakers>
+        <speaker>
+          <id>92774</id>
+          <name>Gergely Csom</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Room1</name>
+      </location>
+      <title>Power BI loves AI and Azure AI Services</title>
+      <description>Power BI - Microsoft's favorite analytics tool has played a very significant role in spreading data driven culture among organizations. From the beginning Power BI was enhanced with many AI techniques, and plays a vital role in Microsoft's recent mission on "Democratizing AI".
+In my demo heavy presentation I will give a minimal overview on Power BI and Power BI Premium to give a context, and after it we will examine how AI is infused into PowerBI helping analysts became more productive in discovering hidden gems with functionality as of today from QA, Quick Insight, Explain differences etc. to R and Python integration
+In the second part of the presentation we will overview and try Microsoft's recent announcement arount integrating more deeply AI/ML into the product with functionalities like Automated ML, Azure ML integration and Azure Cognitive Services integration.</description>
+      <startTime>6/8/2019 11:45:00 AM</startTime>
+      <endTime>6/8/2019 12:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>94211</importID>
+      <speakers>
+        <speaker>
+          <id>94211</id>
+          <name>Michal Chmelár</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Room1</name>
+      </location>
+      <title>Power BI as a universal analytic tool 2/2</title>
+      <description>In Power BI, you can also do other kinds of analyses than just business analytics. In this lecture you’ll see, how you can use Power BI together with cloud services for quick check of facts from freely available data sources, even if they aren’t published in a particularly suitable format. You will also see, how you can quickly analyze unstructured text (e.g. communication with customers). At the end we will take a look at PowerApps, using which you can not only quickly create a new business app in your web browser, but also integrate it in your Power BI reports, so that you can quickly react to results and take action from a single environment. Because Power BI is capable of doing much more than “just” business analyses.</description>
+      <startTime>6/8/2019 10:30:00 AM</startTime>
+      <endTime>6/8/2019 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>93352</importID>
+      <speakers>
+        <speaker>
+          <id>93352</id>
+          <name>Aleksandar Talev</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room2</name>
+      </location>
+      <title>How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?</title>
+      <description>When it comes to choosing a database, always there are considerations about picking a relational (SQL) or non-relational (NoSQL) data structure. While both are viable options, there are certain key differences between these two options that users must keep in mind.This session will cover the most important distinctions and will make a difference between two of a key players in the Microsoft database world: SQL Server and Azure Cosmos DB.  The session will also illustrate some of the fundamental differences between these databases - the language, scalability and structure which cause this distinctions to have  implications for the right choice.So which database is right for your business the attendance will take informations in this session.</description>
+      <startTime>6/8/2019 11:45:00 AM</startTime>
+      <endTime>6/8/2019 12:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>93629</importID>
+      <speakers>
+        <speaker>
+          <id>93629</id>
+          <name>Damir Matesic</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room2</name>
+      </location>
+      <title>MS SQL New functions, syntaxes, tips  tricks</title>
+      <description>Maybe you are still using some old MS SQL database engine and you are unsure why you should upgrade to 2016 or newer versions? 
+In this session we will see what bring us some newly introduced MS SQL functions and syntaxes like COMPRESS, STRING_SPLIT, STRING_AGG, DROP IF EXISTS (a.k.a. DIE) and many more. How are they performing compared to some old solutions? 
+Accompanied with multiple examples, this session will show you many interesting topics.</description>
+      <startTime>6/8/2019 3:00:00 PM</startTime>
+      <endTime>6/8/2019 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90532</importID>
+      <speakers>
+        <speaker>
+          <id>90532</id>
+          <name>Oskari Heikkinen</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room1</name>
+      </location>
+      <title>Introduction to Azure Data Lake</title>
+      <description>Azure Data Lake is an umbrella term consisting of multiple Azure services. As the name implies, these services are built for big data processing purposes. During this session, you will gain the understanding of which service to use and when - as well as when not to use. My aim is to deliver the fundamentals around the topic so that you can feel comfortable before your first dive into the Lake. I will also do demos using the latest and greatest services.</description>
+      <startTime>6/8/2019 3:00:00 PM</startTime>
+      <endTime>6/8/2019 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90572</importID>
+      <speakers>
+        <speaker>
+          <id>90572</id>
+          <name>Mikael Wedham</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room2</name>
+      </location>
+      <title>A Masters view on Locking and blocking</title>
+      <description>How do the wait stats show you that you have a locking issue?
+This session will show you how to detect and view blocking and lock waits, and understand the cause of it.
+An extensive walkthrough of the different isolation levels and their respective benefits and drawbacks.
+And finally a real-world quick list of suggestions on what you can do to solve some of the common issues I come across in my daily work.</description>
+      <startTime>6/8/2019 9:15:00 AM</startTime>
+      <endTime>6/8/2019 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>92006</importID>
+      <speakers>
+        <speaker>
+          <id>92006</id>
+          <name>Damir Matesic</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room2</name>
+      </location>
+      <title>Advanced data types – JSON</title>
+      <description>JSON (JavaScript Object Notation) is a language in depended, very popular, open standard format for data exchange between applications and services. On this session accompanied by numerous examples we should pass through the usage of JSON in MS SQL. 
+Main topics:
+-	Format MS SQL data in JSON format
+-	Read JSON data in MS SQL
+-	Modify JSON data using JSON_MODIFY
+-	JSON functions, tips  tricks</description>
+      <startTime>6/8/2019 10:30:00 AM</startTime>
+      <endTime>6/8/2019 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>90567</importID>
+      <speakers>
+        <speaker>
+          <id>90567</id>
+          <name>Marek Chmel</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room1</name>
+      </location>
+      <title>SQL Server Big Data Clusters</title>
+      <description>SQL Server big data clusters allow you to deploy scalable clusters of SQL Server, Spark, and HDFS containers running on Kubernetes. We'll dive into all the technologies to see how can you leverage SQL Server to be your big data platform.</description>
+      <startTime>6/8/2019 1:45:00 PM</startTime>
+      <endTime>6/8/2019 3:15:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

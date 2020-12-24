@@ -1,0 +1,309 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #321 - Cairo 2014</name>
+    <startDate>6/17/2014 12:00:00 AM</startDate>
+    <attendeeEstimate>150</attendeeEstimate>
+    <timezone>(GMT+02:00) Bucharest</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsategypt</twitterHashtag>
+    <venue>
+      <name>Microsoft Building</name>
+      <street>Cairo - Alexandria Desert Road</street>
+      <city>Giza</city>
+      <state>, Egypt</state>
+      <zipcode>12741</zipcode>
+      <longitude>31.016791</longitude>
+      <latitude>30.071345</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>21158</importID>
+      <name>Mohamad Tantawy, MBA, PMP, MCT</name>
+      <label>
+      </label>
+      <description>Mohamad Tantawy is Business Architect, and Co-Founder at Integral. He received a B.Sc. degree of Computer Science from Zagazig University, MBA from ESLSCA Business School, got PMP certified from Project Management Institute, MCT Certified from Microsoft. He is active and professional in the areas of Business Intelligence, Data Quality, and Enterprise Project Management. He has effective contributions in PMI MENA chapter as volunteer, and Microsoft Hero.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.integralmea.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14993</importID>
+      <name>Hisham Mortada</name>
+      <label>
+      </label>
+      <description>Started with SQL Server 7.0 ... I've been there ... Developer, DBA, Trainer, Consultant, Customer, Partner, and now Vendor.
+MCP, MCT, MCDBA, MCTS, MCITP , for a full transcript https://mcp.microsoft.com/Anonymous//Transcript/Validate
+Transcript ID (658243), License Access Code (HishamMortada),</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.technet.com/b/sqlgeyya/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15263</importID>
+      <name>Shehab El-Najjar</name>
+      <label>
+      </label>
+      <description>Shehab El-Najjar was the ONLY Microsoft SQL Server MVP in Gulf for the past 6 years and the 2nd one all over the Middle East  , he is the founder of SQL Gulf events series (SQL Gulf #1 , #2 and #3 ) where he spent so much time and efforts  to broadcast Microsoft SQL Server technologies all over the Gulf such as  KSA and Emirates and other Gulf cities ahead ..) 
+
+	He is now Professional Services Manager at Saudi  Emircom 
+
+	He was previously COO and business leader in KSA market through his startup WAJA IT for  3 years
+
+	He is an influencing Database community leader all over the region  	
+	A senior Database Consultant (SQL Server MVP for 6 years in row) -The 2nd MVP awardee SQL Server all over Middle East and Arabic region</description>
+      <twitter>https://twitter.com/MSQLPerformance</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=126446983amp;trk=hp-identity-name</linkedin>
+      <ContactURL>http://sqlserver-performance-tuning.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/MSQLPerformance</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>24414</importID>
+      <name>Sherif Talaat</name>
+      <label>
+      </label>
+      <description>Sherif Talaat is a young computer science addict, He holds a lot of technology certificates. Sherif has been working in the ICT industry since 2005. Sherif is one of the early adopters of Windows PowerShell in MEA. He speaks about Windows PowerShell in technical events and user groups’ gatherings, and the author behind the first and only Arabic PowerShell blog. He has been awarded the Microsoft Most Valuable Professional (MVP) for PowerShell six times in row since 2009.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://arabianpowershell.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9912</importID>
+      <name>Ahmed ElSangary</name>
+      <label>
+      </label>
+      <description>IT Consultant with solid technical and business experience having proofed hands-on  experience with MS DATA Platform since its early versions of MS SQL Server. Sangary has implemented and participated in many large scale database projects for private sector and governmental public organizations including telecom, financial and retail  verticals with an online mission critical 24 by 7  non-stop flow of transactions.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.DATASolutions.com.eg</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15262</importID>
+      <name>Shehab El-Najjar</name>
+      <label>
+      </label>
+      <description>Shehab El-Najjar was the ONLY Microsoft SQL Server MVP in Gulf for the past 6 years and the 2nd one all over the Middle East  , he is the founder of SQL Gulf events series (SQL Gulf #1 , #2 and #3 ) where he spent so much time and efforts  to broadcast Microsoft SQL Server technologies all over the Gulf such as  KSA and Emirates and other Gulf cities ahead ..) 
+
+	He is now Professional Services Manager at Saudi  Emircom 
+
+	He was previously COO and business leader in KSA market through his startup WAJA IT for  3 years
+
+	He is an influencing Database community leader all over the region  	
+	A senior Database Consultant (SQL Server MVP for 6 years in row) -The 2nd MVP awardee SQL Server all over Middle East and Arabic region</description>
+      <twitter>https://twitter.com/MSQLPerformance</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=126446983amp;trk=hp-identity-name</linkedin>
+      <ContactURL>http://sqlserver-performance-tuning.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/MSQLPerformance</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15439</importID>
+      <name>Islam Elshafie</name>
+      <label>
+      </label>
+      <description>Islam Elshafie is an information worker consultant  architect specialized in Microsoft SharePoint  BI technologies, with a long record of Gulf and north Africa based experience in solution architecture, technical implementation and technology evangelism.
+Islam is a frequent blogger  speaker at different SharePoint  BI events, he is also a community contributor  MCTS.
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.ielshafie.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27610</importID>
+      <name>Wagdy Ishac</name>
+      <label>
+      </label>
+      <description>Technology Solution Proffesional for data Platform in Microsoft 10 years Expirence with .NET 
+and 9 years with SQL Server and BI, SQL PASS Egypt Chapter Leader,</description>
+      <twitter>@wagdyishac</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqldair.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@wagdyishac</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>15262</importID>
+      <speakers>
+        <speaker>
+          <id>15262</id>
+          <name>Shehab El-Najjar</name>
+        </speaker>
+      </speakers>
+      <track>SQL 2014</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>T-SQL Performance Guidelines for better DB stress powers</title>
+      <description>To reach your desired business functionalities, it can be easy using some common T-SQL practices like MTVF , scalar functions , Temp tables, Union…etc and they might perform pretty well on development server coz neither adequate stress of users or adequate volume of data  is exists there but actually they seem totally strange once going to live and they become performing badly ending up with standstill cases sometimes , this is due to lack of stress powers of T-SQL codes which should be considered largely for critical mission DBs so I am going to talk to you about How to capture expensive queries using different techniques ..?and How to optimize them in the shortest time using scientific ways ..? (10 different T-SQL Practices will be analyzed within this session)</description>
+      <startTime>6/17/2014 12:00:00 AM</startTime>
+      <endTime>6/17/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15263</importID>
+      <speakers>
+        <speaker>
+          <id>15263</id>
+          <name>Shehab El-Najjar</name>
+        </speaker>
+      </speakers>
+      <track>SQL 2014</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Performance dreams  wait for you at SQL Server 2014</title>
+      <description>Performance dreams wait for you at SQL Server 2014 , it is just like this because you will  that unbelievable performance reads and substantial improvement that you will not give up at all those new SQL Server 2014 features , come in here to my session and you will know more about many new features and rich powers of SQL Server 2014 regarding performance particularly like  Microsoft project “Hekaton” for In-memory built for OLTP , In-Memory columnstore index ,Resource Governor for IO consumption,lock management  and also Single partition online index rebuild technologies ,you will get much hands-on experience  for all definitions , architecture design , values and benefits ,caveats  and recommendations related to each one of them and in addition  I will add a practical flavor for this session by conducting multiple stress tests on most of these technologies to be more close to these performance dreams and explorer concretely these outstanding performance improvements of SQL Server 2014</description>
+      <startTime>6/17/2014 12:00:00 AM</startTime>
+      <endTime>6/17/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9912</importID>
+      <speakers>
+        <speaker>
+          <id>9912</id>
+          <name>Ahmed ElSangary</name>
+        </speaker>
+      </speakers>
+      <track>SQL 2014</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>A Promise of better performance for your database</title>
+      <description>A Guaranteed  Promise of much better performance for your database platform.  Exploring performance tuning basics with Microsoft SQL Server 2014 new features to enable organizations to scale.</description>
+      <startTime>6/17/2014 12:00:00 AM</startTime>
+      <endTime>6/17/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15439</importID>
+      <speakers>
+        <speaker>
+          <id>15439</id>
+          <name>Islam Elshafie</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>BI on the cloud: Office 365 Power BI</title>
+      <description>The need for a self-service business intelligence platform that can help users to turn data into decision-ready insights increases everyday; as does the need  to gradually move on premise investments to a more scalable and manageable cloud platform.
+.
+As part of its cloud offerings, Microsoft released  Power BI for Office 365. Power BI  is a collection of new features and services that, together, enable users to visualize data, share discoveries, and collaborate in intuitive new ways.
+In this session, I will be explaining Power BI in deep, its techniques, features and its pros  cons.
+I'll be showing a live demo for a Power BI deployment on Office 365.</description>
+      <startTime>6/17/2014 12:00:00 AM</startTime>
+      <endTime>6/17/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>24414</importID>
+      <speakers>
+        <speaker>
+          <id>24414</id>
+          <name>Sherif Talaat</name>
+        </speaker>
+      </speakers>
+      <track>SQL 2014</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Automating SQL Server with Windows PowerShell</title>
+      <description>In this session, the audiences will learn about Windows PowerShell and how it can be used for automating most of SQL Server tasks.</description>
+      <startTime>6/17/2014 12:00:00 AM</startTime>
+      <endTime>6/17/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21158</importID>
+      <speakers>
+        <speaker>
+          <id>21158</id>
+          <name>Mohamad Tantawy, MBA, PMP, MCT</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Develop your data Standards with SQL Data Quality Services</title>
+      <description>Managing information in an enterprise typically involves integrating data from across the enterprise and beyond, cleansing the data, matching the data to remove any duplicates, standardizing the data, enriching the data, making the data conform to legal and compliance requirements, and then storing the data in a centralized location with all the necessary security settings. You will learn how to use SQL Server Integration Services (SSIS), and Data Quality Services (DQS) together.</description>
+      <startTime>6/17/2014 12:00:00 AM</startTime>
+      <endTime>6/17/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27610</importID>
+      <speakers>
+        <speaker>
+          <id>27610</id>
+          <name>Wagdy Ishac</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>From 0 to 100 Big data Solution End-To-End</title>
+      <description>Maybe you've heard about the term Big data, or maybe you've seen a presentation or a demo. in this session i want to make a full deep dive in big data and to present a Demo and a solution from Zero to 100 from a flat file till the reporting side. making a concept of how organization can utilize big data</description>
+      <startTime>6/17/2014 12:00:00 AM</startTime>
+      <endTime>6/17/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14993</importID>
+      <speakers>
+        <speaker>
+          <id>14993</id>
+          <name>Hisham Mortada</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>New Hybrid Cloud Scenarios with SQL Server 2014</title>
+      <description>In this session we will take a closer look at new hybrid cloud scenarios SQL Server 2014 can enable for your on-premises database applications
+</description>
+      <startTime>6/17/2014 12:00:00 AM</startTime>
+      <endTime>6/17/2014 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

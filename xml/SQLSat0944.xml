@@ -1,0 +1,31 @@
+<GuidebookXML>
+  <sponsors>
+    <sponsor>
+      <importID>2043</importID>
+      <name>Eastern Washington University Computer Science Department</name>
+      <label>Venue</label>
+      <url>https://www.ewu.edu/cstem/departments/computer-science</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/944/EventSponsor_14293.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1617</importID>
+      <name>VMWare</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.vmware.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/944/EventSponsor_14384.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2376</importID>
+      <name>IntelliTect</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.intellitect.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/944/EventSponsor_14590.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

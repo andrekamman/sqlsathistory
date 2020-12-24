@@ -1,0 +1,757 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #29 - Birmingham 2010</name>
+    <startDate>3/27/2010 12:00:00 AM</startDate>
+    <attendeeEstimate>350</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat29</twitterHashtag>
+    <venue>
+      <name>Jefferson State Community College</name>
+      <street>4600 Valleydale Road</street>
+      <city>Birmingham</city>
+      <state>Alabama</state>
+      <zipcode>35242</zipcode>
+      <longitude>-86.7341939</longitude>
+      <latitude>33.384262</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1</importID>
+      <name>Confio</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.confio.com</url>
+      <imageURL>https://www.pass.org/images/resized-confio_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1182</importID>
+      <name>Teksouth Corporation</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.teksouth.com</url>
+      <imageURL>https://www.teksouth.com/images/logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>435</importID>
+      <name>Bit-Wizards Custom Softwarwe Solutions, Inc.</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.bitwizards.com</url>
+      <imageURL>https://bitwizards.com/App_themes/Bit-Wizards/images/logos/Logo2.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>33</importID>
+      <name>Telerik</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.telerik.com/</url>
+      <imageURL>https://s3.amazonaws.com/rockdale_media/projects/543439b0fd67d36b7f000007/Telerik_brandmark_color_without_tagline_Black_1412710457532.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>16</importID>
+      <name>Intellinet</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.intellinet.com</url>
+      <imageURL>https://www2.intellinet.com/images/Intellinet_color_horiz_170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>45</importID>
+      <name>Cozy Roc</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.cozyroc.com</url>
+      <imageURL>https://www.cozyroc.com/sites/default/files/down/cozyroc-big.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>405</importID>
+      <name>Attunity</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.attunity.com</url>
+      <imageURL>https://www.pass.org/files/fb42d77f-3037-4b66-8ca0-fc14e274c32a.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Silver Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1184</importID>
+      <name>Tek Systems</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.teksystems.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/855/EventSponsor_13925.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>20</importID>
+      <name>O'Reilly Books</name>
+      <label>Bronze Sponsor</label>
+      <url>http://oreilly.com/</url>
+      <imageURL>https://oreilly.com/images/oreilly/oreilly.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1281</importID>
+      <name>Wiley</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.wiley.com</url>
+      <imageURL>https://www.pass.org/files/023c5608-6225-48e4-8401-2c545a63ded2.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>33036</importID>
+      <name>Geoff Hiten</name>
+      <label>
+      </label>
+      <description>Microsoft MVP Geoff Hiten is a Principal SQL Server consultant for Intellinet.#160; Geoff began working with SQL Server in 1992 with version 4.2 and has used every version since.#160; He specializes in high-availability and high-performance SQL systems.#160; Recent projects include: system upgrades, SQL Server platform migrations, performance tuning, custom reporting solutions, and database strategy implementations.#160;#160; Geoff is currently on the leadership team of the Atlanta area Microsoft Database Forum Use</description>
+      <twitter>SQLCraftsman</twitter>
+      <linkedin>http://www.linkedin.com/pub/geoff-hiten/1/b54/6a3/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLCraftsman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33499</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30911</importID>
+      <name>Joe Webb</name>
+      <label>
+      </label>
+      <description>Joe Webb is a partner for The SERO Group, a Nashville-based SQL Server consulting company. He has over 22 years of industry experience and has consulted extensively with companies in the areas of business process analysis and improvements, database design and architecture, and technical and leadership training. Joe is an 8-time recipient of the Microsoft MVP Award and served on the PASS Board of Directors for 8 years, culminating his tenure as EVP of Finance.</description>
+      <twitter>@joewebb</twitter>
+      <linkedin>http://www.linkedin.com/in/josephkwebb/</linkedin>
+      <ContactURL>http://theserogroup.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@joewebb</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33280</importID>
+      <name>Sven Aelterman</name>
+      <label>
+      </label>
+      <description>Sven Aelterman is the Director of IT for the Sorrell College of Business at Troy University; a role with a global scope. He is also a lecturer in Information Systems and teaches courses in data warehousing and information security. He continues consulting work through Adduxis, where he assists customers with various Microsoft technology implementations.
+Co-author of The Art of SQL Server FILESTREAM, published by Red Gate; and SQL Server 2017 Administration Inside Out, published by Microsoft Press.
+Cloud Software Architect at Sorrell Solutions, L.L.C. developing a Microsoft Azure-hosted Electronic Health Record system.</description>
+      <twitter>@svenaelterman</twitter>
+      <linkedin>https://linkd.in/svena</linkedin>
+      <ContactURL>https://svenaelterman.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@svenaelterman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30910</importID>
+      <name>Joe Webb</name>
+      <label>
+      </label>
+      <description>Joe Webb is a partner for The SERO Group, a Nashville-based SQL Server consulting company. He has over 22 years of industry experience and has consulted extensively with companies in the areas of business process analysis and improvements, database design and architecture, and technical and leadership training. Joe is an 8-time recipient of the Microsoft MVP Award and served on the PASS Board of Directors for 8 years, culminating his tenure as EVP of Finance.</description>
+      <twitter>@joewebb</twitter>
+      <linkedin>http://www.linkedin.com/in/josephkwebb/</linkedin>
+      <ContactURL>http://theserogroup.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@joewebb</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28387</importID>
+      <name>Aaron Nelson</name>
+      <label>
+      </label>
+      <description>Aaron Nelson is an author, public speaker, blogger, and leader in the community.  He has over 15 years of experience in architecture, Business Intelligence, development, and performance tuning of SQL Server. Aaron has received many certifications and is a six time winner of the Microsoft MVP Award.
+
+Aaron leads the PowerShell Virtual Group of PASS (SQLPS.io), is a board member of PowerShell.org, and is a volunteer at his PASS Local Group, AtlantaMDF.</description>
+      <twitter>SQLvariant</twitter>
+      <linkedin>https://www.linkedin.com/in/sqlvariant</linkedin>
+      <ContactURL>http://sqlvariant.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLvariant</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33279</importID>
+      <name>Sven Aelterman</name>
+      <label>
+      </label>
+      <description>Sven Aelterman is the Director of IT for the Sorrell College of Business at Troy University; a role with a global scope. He is also a lecturer in Information Systems and teaches courses in data warehousing and information security. He continues consulting work through Adduxis, where he assists customers with various Microsoft technology implementations.
+Co-author of The Art of SQL Server FILESTREAM, published by Red Gate; and SQL Server 2017 Administration Inside Out, published by Microsoft Press.
+Cloud Software Architect at Sorrell Solutions, L.L.C. developing a Microsoft Azure-hosted Electronic Health Record system.</description>
+      <twitter>@svenaelterman</twitter>
+      <linkedin>https://linkd.in/svena</linkedin>
+      <ContactURL>https://svenaelterman.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@svenaelterman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30852</importID>
+      <name>Jim Wooley</name>
+      <label>
+      </label>
+      <description>By day, Jim Wooley is a Solution Architect for Slalom Consulting, In his free time, Jim is a frequent speaker, MVP, and author of "LINQ in Action". He has been active evangelizing LINQ since its announcement in 2005. In addition, he attempts to pass on the insights he has gained by being active in the community, including organizing and speaking at code camps and regional events, including VS Live, SQL Pass, KCDC, That Conference, TechBash, and CodeStock.</description>
+      <twitter>jimwooley</twitter>
+      <linkedin>https://www.linkedin.com/in/jim-wooley-12a4901/</linkedin>
+      <ContactURL>http://www.ThinqLinq.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=jimwooley</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28750</importID>
+      <name>Robert Cain</name>
+      <label>
+      </label>
+      <description>Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.</description>
+      <twitter>https://twitter.com/arcanecode</twitter>
+      <linkedin>http://www.linkedin.com/in/arcanecode</linkedin>
+      <ContactURL>http://arcanecode.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/arcanecode</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33839</importID>
+      <name>Vincent Mayfield</name>
+      <label>
+      </label>
+      <description>Vincent W. Mayfield (Vinny/Vince) is a Senior Software Engineer and President/Co-Founder of  Bit-Wizards Custom Software Solutions, Inc. of Fort Walton Beach, Florida. He has over 18 years of experience developing software, and over 16 years developing applications for the Windows Family of Operating Systems.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31328</importID>
+      <name>Kevin Grohoske</name>
+      <label>
+      </label>
+      <description>Kevin first started programming on a Timex Sinclair 1000 when he was 11 years old. As a professional, Kevin has been designing and developing custom applications using Microsoft development tools since 1995. He has designed and developed large enterprise class applications and intranet applications for companies such as International Paper, LexisNexis, and Duke Energy. He moved from Cincinnati in 2006 to join Bit-Wizards, Custom Software Solutions headquartered in Fort Walton Beach, FL.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29996</importID>
+      <name>Louis Davidson</name>
+      <label>
+      </label>
+      <description>Louis Davidson has worked in the IT industry for over 25 years as a corporate database developer and architect. He has been a Microsoft SQL Server MVP for 15 years and has written five books on database design, and contributed to many other SQL Server books as an author and tech editor. He has a bachelor's degree in Computer Science from the University of Tennessee at Chattanooga. You can read more about Louis at http://drsql.org.</description>
+      <twitter>drsql</twitter>
+      <linkedin>http://www.linkedin.com/in/louisdavidson</linkedin>
+      <ContactURL>https://www.red-gate.com/simple-talk/author/louis-davidson/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=drsql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29997</importID>
+      <name>Louis Davidson</name>
+      <label>
+      </label>
+      <description>Louis Davidson has worked in the IT industry for over 25 years as a corporate database developer and architect. He has been a Microsoft SQL Server MVP for 15 years and has written five books on database design, and contributed to many other SQL Server books as an author and tech editor. He has a bachelor's degree in Computer Science from the University of Tennessee at Chattanooga. You can read more about Louis at http://drsql.org.</description>
+      <twitter>drsql</twitter>
+      <linkedin>http://www.linkedin.com/in/louisdavidson</linkedin>
+      <ContactURL>https://www.red-gate.com/simple-talk/author/louis-davidson/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=drsql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28748</importID>
+      <name>Robert Cain</name>
+      <label>
+      </label>
+      <description>Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.</description>
+      <twitter>https://twitter.com/arcanecode</twitter>
+      <linkedin>http://www.linkedin.com/in/arcanecode</linkedin>
+      <ContactURL>http://arcanecode.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/arcanecode</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33038</importID>
+      <name>Geoff Hiten</name>
+      <label>
+      </label>
+      <description>Microsoft MVP Geoff Hiten is a Principal SQL Server consultant for Intellinet.#160; Geoff began working with SQL Server in 1992 with version 4.2 and has used every version since.#160; He specializes in high-availability and high-performance SQL systems.#160; Recent projects include: system upgrades, SQL Server platform migrations, performance tuning, custom reporting solutions, and database strategy implementations.#160;#160; Geoff is currently on the leadership team of the Atlanta area Microsoft Database Forum Use</description>
+      <twitter>SQLCraftsman</twitter>
+      <linkedin>http://www.linkedin.com/pub/geoff-hiten/1/b54/6a3/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLCraftsman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33500</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29196</importID>
+      <name>Barry Ralston</name>
+      <label>
+      </label>
+      <description>Barry Ralston is Chief Architect for Business Intelligence with Birmingham-based ComFrame Software.  Barry is also Microsoft Corporation’s Virtual Technical Specialist (VTS) for Business Intelligence, responsible for assisting in Alabama, Mississippi and Northwest Florida in sales efforts including customer meetings, software demonstrations and Proof of Concept efforts.  Barry’s  client successes include: Georgia Tech Research Institute, Bank of Hawaii, Honda Manufacturing of Alabama and Aflac. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqlbipro.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30435</importID>
+      <name>Janis Griffin</name>
+      <label>
+      </label>
+      <description>Janis Griffin has over 30 years of DBA/database experience including design, development and implementation of many critical database applications. Before coming to Quest Software, Janis primarily worked in the Telecom/Network Industry, working with both real-time network routing databases and OLTP business to business applications.  Janis also held positions as a Principal Architect and Senior Manager, mentoring other DBAs on best practices in database performance tuning.</description>
+      <twitter>DoBoutAnything</twitter>
+      <linkedin>http://www.linkedin.com/pub/janis-griffin/0/914/aba</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DoBoutAnything</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32616</importID>
+      <name>Rodney Landrum</name>
+      <label>
+      </label>
+      <description>Rodney Landrum has been architecting solutions for SQL Server for over 12 years. He has worked with and written about many SQL Server technologies, including DTS, Integration Services, Analysis Services, and Reporting Services. He has co-authored 4 books on Reporting Services. He is been a regular contributor to SQL Server magazine, sqlservercentral.com and Simple-talk.com. Rodney is also SQL Server MVP</description>
+      <twitter>@SQLBeat</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://www.simple-talk.com/blogs/author/2133-rodney-landrum/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLBeat</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28388</importID>
+      <name>Aaron Nelson</name>
+      <label>
+      </label>
+      <description>Aaron Nelson is an author, public speaker, blogger, and leader in the community.  He has over 15 years of experience in architecture, Business Intelligence, development, and performance tuning of SQL Server. Aaron has received many certifications and is a six time winner of the Microsoft MVP Award.
+
+Aaron leads the PowerShell Virtual Group of PASS (SQLPS.io), is a board member of PowerShell.org, and is a volunteer at his PASS Local Group, AtlantaMDF.</description>
+      <twitter>SQLvariant</twitter>
+      <linkedin>https://www.linkedin.com/in/sqlvariant</linkedin>
+      <ContactURL>http://sqlvariant.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLvariant</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>29996</importID>
+      <speakers>
+        <speaker>
+          <id>29996</id>
+          <name>Louis Davidson</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Database Design Fundamentals</title>
+      <description>In this session I will give an overview of how to design a database, including the common normal forms and why they should matter to you if you are creating or modifying SQL Server databases. Data should be easy to work with in SQL Server if the database has been organized as close as possible to the standards of normalization that have proven for many years. Many common T-SQL programming "difficulties" are the result of struggling against the way data should be structured and can be avoided by applying the basic normalization techniques and are obvious things that you find yourself struggling with time and again (i.e. using the SUBSTRING function in a WHERE clause meaning you can't use an index efficiently). </description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33038</importID>
+      <speakers>
+        <speaker>
+          <id>33038</id>
+          <name>Geoff Hiten</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Scale-Out the DBA.</title>
+      <description>Policy-Based Management, Central Management Server, Enterprise Policy Management Framework, and Powershell combine to allow automation of DBA tasks more than ever before.  Learn how to put these pieces together to do more with less.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33500</importID>
+      <speakers>
+        <speaker>
+          <id>33500</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Parallel Query Execution Deep Dive</title>
+      <description>What exactly does it mean to parallelize a query?  Why would the optimizer do this and what are the benefits and what are the drawbacks??  Is it always faster?  Can it cause problems?  Are there reasons we might NOT want parallelization?  These are some of the topics we will cover as we dig into this facet of the SQL Server relational engine.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28387</importID>
+      <speakers>
+        <speaker>
+          <id>28387</id>
+          <name>Aaron Nelson</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>PowerShell for Data Professionals </title>
+      <description>In this session we will learn to perform several everyday DBA tasks like backing up user databases, scripting table objects and evaluating disk space usage with PowerShell. For each task we will explore the benefits of using PowerShell over the standard method. Only a basic understanding of PowerShell or DOS is needed. This session should serve as a good introduction to PowerShell for database users. The goal is to get data professionals feet wet using PowerShell. 
+</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28388</importID>
+      <speakers>
+        <speaker>
+          <id>28388</id>
+          <name>Aaron Nelson</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Virtualize This!</title>
+      <description>With the list of features of SQL Server growing constantly the need to sandbox and test drive features in a separate environment that can communicate with but not interfere with your existing environment has become vital. With virtualization, setting up consistent test, dev, and even sandbox environments can happen minutes instead of hours AND be consistent with previous/ existing environments. In this session we will focus on Microsoft Virtualization solutions that you can leverage starting with your desktop/laptop and extending to your server environments. Even if you aren’t going to be doing the virtualization yourself it’s good to know what your options are.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29196</importID>
+      <speakers>
+        <speaker>
+          <id>29196</id>
+          <name>Barry Ralston</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to MDX for SQL Programmers</title>
+      <description>This 100-level session will provide SQL programmers with the tools to begin querying SQL Server Analysis Services (SSAS) databases.  Through examples, including the creation of an SSAS database from the AdventureWorks example database, students will have a primer of knowledge to begin using SSAS to the fullest.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33279</importID>
+      <speakers>
+        <speaker>
+          <id>33279</id>
+          <name>Sven Aelterman</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>FILESTREAM in Depth</title>
+      <description>This session is designed to provide an introduction to FILESTREAM from installation to basic use, and then delve into how FILESTREAM can be put to use in N-Tier applications.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30852</importID>
+      <speakers>
+        <speaker>
+          <id>30852</id>
+          <name>Jim Wooley</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>LINQ Kinq for the DBA Guy</title>
+      <description>With the release of .NET 3.5 and the subsequent SP1, attention has focused upon the legitimacy of Object Relational Mapping systems. Regardless of whether you embrace LINQ to SQL, the Entity Framework, NHibernate, or any of the hundreds of other O/R Mappers, the question remains for the DBA: Is it time to consider alternatives to stored procedures? In this session, we'll introduce LINQ and discuss how programmers and DBA's can work together with these emerging technologies to build robust, performant and dynamic systems.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33280</importID>
+      <speakers>
+        <speaker>
+          <id>33280</id>
+          <name>Sven Aelterman</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>FILESTREAM in Breadth</title>
+      <description>This session is a follow-up session on FILESTREAM in Depth. This session will cover how to use FILESTREAM data in a variety of scenarios, including Reporting Services and in a transactional scenario.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31328</importID>
+      <speakers>
+        <speaker>
+          <id>31328</id>
+          <name>Kevin Grohoske</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Location Aware Applications Using SQL Server 2008 </title>
+      <description>With SQL Server 2008 R2, Microsoft has added spatial capabilities that provides a developer an very powerful toolset to create dynamic and powerful location aware applications. In this demonstration we will review the available spatial capabilities, objects, and complimentary Bing services used to develop a custom spatial aware Business Intelligence application. </description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30910</importID>
+      <speakers>
+        <speaker>
+          <id>30910</id>
+          <name>Joe Webb</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Locking  Blocking Made Simple</title>
+      <description>A good working knowledge of how SQL Server makes use of locking and transaction isolation levels can go a long way toward improving an application’s performance. In this session, we will explore SQL Server’s locking methodology and discover techniques for enhancing query response times.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33036</importID>
+      <speakers>
+        <speaker>
+          <id>33036</id>
+          <name>Geoff Hiten</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Clustering for Mere Mortals.</title>
+      <description>Learn about the major changes in clustering in recent SQL and Windows releases and how clustering is something you can implement that will actually make your work life easier.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32616</importID>
+      <speakers>
+        <speaker>
+          <id>32616</id>
+          <name>Rodney Landrum</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>DBA Repository Update 2010 Using SSRS and SSIS. </title>
+      <description>I put together the DBA Repository a few years back and have written and spoken about it for as many years with updates and enhancements over time. At it's heart, the solution employs SSIS and SSRS and in late 2009 I updated it for performance and resiliency. You can read about the original solution in SQL Server Magazine. The latest update will be published in 2010. This will be a sneak peak at those enhancements. The session will cover some interesting uses of package variables and MERGE in SSIS with new reports as well.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28750</importID>
+      <speakers>
+        <speaker>
+          <id>28750</id>
+          <name>Robert Cain</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to SQL Server Integration Services</title>
+      <description>SQL Server Integration Services is Microsoft's powerful tool for doing ETL (Extract, Transform, and Load) in the Business Intelligence arena. In this introductory course you can get up to speed on the basic tools of ETL and learn how to leverage SSIS not just for Business Intelligence but for data conversion as well. 
+</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33839</importID>
+      <speakers>
+        <speaker>
+          <id>33839</id>
+          <name>Vincent Mayfield</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>ASP.NET for the Enterprise with NLB and Clustering</title>
+      <description>Most ASP.NET Developers are able to build ASP.NET Applications. However, few understand the principles of building scalable Enterprise Applications that are deployable in a Network Load Balanced or Clustered Server network configuration. This seminar targets advanced developers who desires to understand the considerations required in designing and building a scalable ASP.NET Applications. Topics covered in this seminar include: The NLB and Clustered Network Topology, Handling State, Inproc versus SQL Server State Management, Sticky Sessions, Programming Considerations, Database Considerations, and Statistics.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29997</importID>
+      <speakers>
+        <speaker>
+          <id>29997</id>
+          <name>Louis Davidson</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Database Design Patterns</title>
+      <description>Beyond database design fundamentals (for example, Normalization) lies the area where you have to create "real" solutions. In this session, I will cover a good number of patterns that we commonly find useful to try to apply to the problem of building a database solution. Ideas like generalization, subclassing, single table domain tables, optional data, and more will be discussed, some of them good, some not so good (don't assume which will be which), but all that are common and/or useful for your database implementations.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30435</importID>
+      <speakers>
+        <speaker>
+          <id>30435</id>
+          <name>Janis Griffin</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Tuna Helper for SQL Server DBA's</title>
+      <description>Many DBAs and developers are faced with tuning poorly performing SQL statements. There is no way to learn everything you need to know about SQL tuning in an hour, but you can learn a process to employ when badly written SQLs are ruining database performance. However, many tuning projects fail because the process being used is inefficient. This presentation will walk through a process Confio Software uses with great success and will include topics such as: SQL diagramming, wait type data, column selectivity, and several more that will help you succeed on future tuning projects.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33499</importID>
+      <speakers>
+        <speaker>
+          <id>33499</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Memory Deep Dive</title>
+      <description>Like the title says, be prepared to get really down and dirty with memory allocations and usage in SQL Server.  RAM is one of the three pillars of server performance and understanding how it is used, how you can analyze what is going on with it and how to properly adjust the the few knobs you have at your disposal are very important topics for both your server's health and performance.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30911</importID>
+      <speakers>
+        <speaker>
+          <id>30911</id>
+          <name>Joe Webb</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Tips  Tricks for Writing Better Queries</title>
+      <description>Transact-SQL is not a very difficult language to learn. As long as the syntax is correct, it can be quite forgiving. However to truly get the best performance from your SQL Server, careful consideration should be given to the structure and logic of the queries. In this session, we’ll discuss some Transact-SQL tips and tricks that can be employed to help you write better queries, allowing your server to perform better.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28748</importID>
+      <speakers>
+        <speaker>
+          <id>28748</id>
+          <name>Robert Cain</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>PowerPivot for Excel and SharePoint 2010</title>
+      <description>PowerPivot is an exciting new technology from Microsoft that will allow users to leverage their data to answer many of their business questions. Commonly referred to as "Self Service Business Intelligence", PowerPivot consists of two components, PowerPivot for Excel 2010 and PowerPivot for SharePoint 2010. This presentation will provide an overview of both components then dig deeper into PowerPivot for Excel 2010. Multiple demos illustrate everything from importing data to creating pivot tables and charts, as well as using techniques such as filters and calculated columns.</description>
+      <startTime>3/27/2010 12:00:00 AM</startTime>
+      <endTime>3/27/2010 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

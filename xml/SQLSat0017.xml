@@ -1,0 +1,873 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #17 - Baton Rouge 2009</name>
+    <startDate>8/1/2009 12:00:00 AM</startDate>
+    <attendeeEstimate>265</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>A free one day training event for those interested in SQL Server</description>
+    <twitterHashtag>#sqlsat17</twitterHashtag>
+    <venue>
+      <name>Louisiana State University - College Of Engineering</name>
+      <street>1109 Patrick F. Taylor Hall</street>
+      <city>Baton Rouge</city>
+      <state>Louisiana</state>
+      <zipcode>70803</zipcode>
+      <longitude>-91.1869888</longitude>
+      <latitude>30.4433403</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>20</importID>
+      <name>O'Reilly Books</name>
+      <label>Gold Sponsor</label>
+      <url>http://oreilly.com/</url>
+      <imageURL>https://oreilly.com/images/oreilly/oreilly.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1</importID>
+      <name>Confio</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.confio.com</url>
+      <imageURL>https://www.pass.org/images/resized-confio_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>28</importID>
+      <name>Sparkhound, Inc.</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.sparkhound.com</url>
+      <imageURL>https://www.sqlsaturday.com/images/SQLSaturday/eventsponsors/SparkHound_170X60.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>21</importID>
+      <name>Pearson Education</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.informit.com/</url>
+      <imageURL>https://www.informit.com/display/InformIT/images/psts/User_Group_Logo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1054</importID>
+      <name>Smarty Pants Village</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.smartypantsvillage.com</url>
+      <imageURL>https://www.journeellc.com/images/logo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>387</importID>
+      <name>Antares Technology Solutions</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.antaresnet.com</url>
+      <imageURL>https://www.antaresnet.com/wp-content/themes/antares_underscore/images/Antares-30year-2.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>33</importID>
+      <name>Telerik</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.telerik.com/</url>
+      <imageURL>https://s3.amazonaws.com/rockdale_media/projects/543439b0fd67d36b7f000007/Telerik_brandmark_color_without_tagline_Black_1412710457532.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>35328</importID>
+      <name>Michael Moles</name>
+      <label>
+      </label>
+      <description>Michael B. Moles - Mike is co-owner and Chief Executive Officer of Antares Technology Solutions, Inc. with over twenty years experience in custom software design and development, project management, and Quality Assurance.  Antares is a Microsoft Gold Partner as well as inner circle partners.  Mike continues to stay very involved in our continued relationship and partnership with Microsoft.  Mike sits on the Baton Rouge Area Chamber Board and is very active in the technology sector.   He </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35447</importID>
+      <name>Stacey Hopkins</name>
+      <label>
+      </label>
+      <description>Mr. Hopkins has been working with computer systems, networks, and databases since 1991.  He has worked in various industries including banking, law, and wholesale/retail.  He has spent the last 10 years focusing on databases, business intelligence, and enterprise data management.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/pub/stacey-hopkins/21/bb8/485</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35515</importID>
+      <name>William Assaf</name>
+      <label>
+      </label>
+      <description>William Assaf is a senior content developer on the SQLDocs team at Microsoft. Formerly a Data Platform MVP and a consultant for SQL Server, and before that a .NET developer, William currently works with Microsoft product groups on content related to the SQL database platform, specifically for SQL performance, Big Data Clusters, and Azure SQL DB. As a consultant for 13 years he worked with clients on SQL Server and Azure SQL platform optimization, management, disaster recovery and high availability, and led a crack multi-city team of consulting SQL DBA's. William has written for Microsoft SQL certification exams since 2011 and was the team lead author of the 2017 and 2019 editions of "SQL Server Administration Inside Out" by Microsoft Press. William is a past lead of the annual SQLSaturday Baton Rouge Planning Committee and supports the Baton Rouge User Groups.</description>
+      <twitter>william_a_dba</twitter>
+      <linkedin>https://www.linkedin.com/in/williamdassaf/</linkedin>
+      <ContactURL>http://www.sqltact.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=william_a_dba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35024</importID>
+      <name>Barry Ralston</name>
+      <label>
+      </label>
+      <description>Barry Ralston is Chief Architect for Business Intelligence with Birmingham-based ComFrame Software.  Barry is also Microsoft Corporation’s Virtual Technical Specialist (VTS) for Business Intelligence, responsible for assisting in Alabama, Mississippi and Northwest Florida in sales efforts including customer meetings, software demonstrations and Proof of Concept efforts.  Barry’s  client successes include: Georgia Tech Research Institute, Bank of Hawaii, Honda Manufacturing of Alabama and Aflac. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqlbipro.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35348</importID>
+      <name>Phillip Jackson</name>
+      <label>
+      </label>
+      <description>After leaving Mechanical Engineering at LSU for a degree in Computer Science at Southeastern Louisiana University, Phillip is an aspiring software craftsman taking the scientific approach to development. Software development is both his profession and his hobby.  He is currently a developer with Antares Technology Solutions Inc.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://rampantcodecraft.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35471</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35295</importID>
+      <name>Mark Verret</name>
+      <label>
+      </label>
+      <description>Mark Verret is the IT Manager for the LSU Highway Safety Research Group.  He has over 20 years experience in the IT field.  He has worked with SQL Server for the past 12 years implementing Business Intelligence and data warehousing related projects.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35438</importID>
+      <name>Steve Jones</name>
+      <label>
+      </label>
+      <description>Steve Jones is a Microsoft SQL Server MVP and has been working with SQL Server since version 4.2 on OS/2. After working as a DBA and developer for a variety of companies, Steve co-founded the community website SQLServerCentral.com in 2001.
+Since 2004, Steve has been the full-time editor of the site, ensuring it continues to be a great resource for SQL Server professionals. Over the last decade, Steve has written hundreds of articles about SQL Server for SQLServerCentral.com, SQL Server Standard magazine, SQL Server Magazine, and Database Journal.</description>
+      <twitter>way0utwest</twitter>
+      <linkedin>http://www.linkedin.com/in/way0utwest</linkedin>
+      <ContactURL>http://www.voiceofthedba.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=way0utwest</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35493</importID>
+      <name>Joseph Besse</name>
+      <label>
+      </label>
+      <description>I’m currently one of the system architects for Lamar Advertising and have over 10 years experience developing software in various industries. I’ve worked with a variety of communication stacks over the years including: DCOM, TCP/IP, HTTP, .Net Remoting, Web Services, MSMQ, and WCF.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35367</importID>
+      <name>Patrick LeBlanc</name>
+      <label>
+      </label>
+      <description>Patrick LeBlanc is currently a BI Consultant for Pragmatic Works.  I have 9 years experience with developing and deploying database solutions.  Patrick is a regular speaker at SQL Saturday, User Groups and SQL Lunches.  He is also the founder of TSQLScripts.com and SQLLunch.com.  Patrick is also the President of the Baton Rouge Area SQL Server User Group.  </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqldownsouth.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35476</importID>
+      <name>Thomas LeBlanc</name>
+      <label>
+      </label>
+      <description>Thomas LeBlanc (Microsoft Data Platform MVP) is a Data Warehouse Architect in Baton Rouge, and uses his 30+ years in IT to develop OLTP systems with normalized databases for high-performing T-SQL and dimensional data marts. Development is done in SSIS, SSAS, SSRS, Power BI, and Excel. As a PASS volunteer, he is past chair of Excel BI and Data Arch VCs and is active in the Baton Rouge Analytics and SQL Server User groups, as well as SQLSaturday in Baton Rouge.
+You can find his blog at TheSmilingDBA.BlogSpot.com and website at Thomas-LeBlanc.com</description>
+      <twitter>TheSmilingDBA</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=29648544amp;trk=hb_tab_pro_top</linkedin>
+      <ContactURL>http://Thomas-LeBlanc.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=TheSmilingDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35029</importID>
+      <name>Brian Rigsby</name>
+      <label>
+      </label>
+      <description>I am a senior developer with Antares Technology Solutions.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35383</importID>
+      <name>Ryan Duclos</name>
+      <label>
+      </label>
+      <description>Ryan Duclos is a Lead Technical Consultant for Perficient, Inc. (PRFT), where he is passionate about Microsoft development utilizing the .Net Framework, SQL Server, and Windows Azure technologies. He lives and works in LA (Lower Alabama!) and loves spending time with his family, as well as being a community influencer for Microsoft. Ryan recently became a Microsoft Azure MVP.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://about.me/rduclos</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35477</importID>
+      <name>Tim Mitchell</name>
+      <label>
+      </label>
+      <description>Tim Mitchell is a business intelligence architect, author, and trainer. He has worked with SQL Server for over a decade, specializing in data warehousing, ETL/SSIS, and reporting. He holds a Bachelor’s Degree in Computer Science from Texas AM at Commerce, and is recognized as a Microsoft Data Platform MVP.  Tim is a business intelligence consultant and principal at Tyleris Data Solutions.
+
+Tim is an active community speaker and volunteer, having spoken at over 100 events including the PASS Summit, SQLBits, Dev Connections, SQL Intersection, and scores of SQL Saturdays. He blogs at TimMitchell.net, and tweets at @Tim_Mitchell.</description>
+      <twitter>@Tim_Mitchell</twitter>
+      <linkedin>https://www.linkedin.com/in/timmitchell/</linkedin>
+      <ContactURL>http://www.TimMitchell.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Tim_Mitchell</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35146</importID>
+      <name>Joseph Besse</name>
+      <label>
+      </label>
+      <description>I graduated from Nicholls State University with a major in Computer Information Systems and a minor in Computer Science and have been writing software in exchange for money since 1999. I was part of a small startup company as my first job out of college (it did not succeed). I spent a few years as a consultant before landing a job at Lamar. I started programming in Visual Basic before almost switching to Java. .Net was released and I switched to VB.Net. I made the transition to C# shortly after.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35384</importID>
+      <name>Ryan Duclos</name>
+      <label>
+      </label>
+      <description>Ryan Duclos is a Lead Technical Consultant for Perficient, Inc. (PRFT), where he is passionate about Microsoft development utilizing the .Net Framework, SQL Server, and Windows Azure technologies. He lives and works in LA (Lower Alabama!) and loves spending time with his family, as well as being a community influencer for Microsoft. Ryan recently became a Microsoft Azure MVP.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://about.me/rduclos</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35478</importID>
+      <name>Tim Mitchell</name>
+      <label>
+      </label>
+      <description>Tim Mitchell is a business intelligence architect, author, and trainer. He has worked with SQL Server for over a decade, specializing in data warehousing, ETL/SSIS, and reporting. He holds a Bachelor’s Degree in Computer Science from Texas AM at Commerce, and is recognized as a Microsoft Data Platform MVP.  Tim is a business intelligence consultant and principal at Tyleris Data Solutions.
+
+Tim is an active community speaker and volunteer, having spoken at over 100 events including the PASS Summit, SQLBits, Dev Connections, SQL Intersection, and scores of SQL Saturdays. He blogs at TimMitchell.net, and tweets at @Tim_Mitchell.</description>
+      <twitter>@Tim_Mitchell</twitter>
+      <linkedin>https://www.linkedin.com/in/timmitchell/</linkedin>
+      <ContactURL>http://www.TimMitchell.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Tim_Mitchell</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35200</importID>
+      <name>John Lauer</name>
+      <label>
+      </label>
+      <description>John Lauer is a Senior Manager at Hitachi Consulting and is a member of their Microsoft BI National Team.  Mr. Lauer has 15 years experience in IT and consulting and 9 years specializing in Business Intelligence and Performance Management (BIPM).  BIPM experience includes a mix of financial planning  analysis and various BI reporting/analysis implementations.  Client experiences come from a variety of industries that include Chemicals, Construction Products, Consumer Goods, Financial Services, </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35415</importID>
+      <name>Ryan Richard</name>
+      <label>
+      </label>
+      <description>I am currently a software developer in Baton Rouge, LA.  I have worked in the IT industry for the past 18 years, including stints as a systems engineer, a DBA, and most recently as a software developer.  My current interests include web applications, Internet startups, and neural networks.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35489</importID>
+      <name>Trevor Barkhouse</name>
+      <label>
+      </label>
+      <description>Trevor Barkhouse is Support Escalation Engineer for Microsoft Corporation, on the team that supports SQL Server. His passions are automation, performance tuning, and troubleshooting. Trevor has spoken at many user group meetings, seven SQLSaturday events, the 2010 Houston TechFest, CodeStock 2011, and two PASS Community Summits (North American).</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35010</importID>
+      <name>Brad McDonald</name>
+      <label>
+      </label>
+      <description>Kevin Phillips and Brad McDonald are both Certified ScrumMasters who have implemented Scrum on a large-scale, enterprise wide project.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35347</importID>
+      <name>Phillip Jackson</name>
+      <label>
+      </label>
+      <description>After leaving Mechanical Engineering at LSU for a degree in Computer Science at Southeastern Louisiana University, Phillip is an aspiring software craftsman taking the scientific approach to development. Software development is both his profession and his hobby.  He is currently a developer with Antares Technology Solutions Inc.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://rampantcodecraft.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35470</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35517</importID>
+      <name>William Assaf</name>
+      <label>
+      </label>
+      <description>William Assaf is a senior content developer on the SQLDocs team at Microsoft. Formerly a Data Platform MVP and a consultant for SQL Server, and before that a .NET developer, William currently works with Microsoft product groups on content related to the SQL database platform, specifically for SQL performance, Big Data Clusters, and Azure SQL DB. As a consultant for 13 years he worked with clients on SQL Server and Azure SQL platform optimization, management, disaster recovery and high availability, and led a crack multi-city team of consulting SQL DBA's. William has written for Microsoft SQL certification exams since 2011 and was the team lead author of the 2017 and 2019 editions of "SQL Server Administration Inside Out" by Microsoft Press. William is a past lead of the annual SQLSaturday Baton Rouge Planning Committee and supports the Baton Rouge User Groups.</description>
+      <twitter>william_a_dba</twitter>
+      <linkedin>https://www.linkedin.com/in/williamdassaf/</linkedin>
+      <ContactURL>http://www.sqltact.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=william_a_dba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>35200</importID>
+      <speakers>
+        <speaker>
+          <id>35200</id>
+          <name>John Lauer</name>
+        </speaker>
+      </speakers>
+      <track>BI/SQL Admin</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Providing Enhanced Business Value Using Scorecards</title>
+      <description>You hear people talk about scorecards and the differences between scorecards and dashboards.  What are those differences and what do they mean to you?  Scorecards using Microsoft BI tools are not difficult to create, but without proper planning and design they will miss the mark and fail to provide the desired business benefit.  In this session you’ll learn about best practices in creating scorecards, as well as examine some unique client approaches to really get to the heart of the business problem.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35415</importID>
+      <speakers>
+        <speaker>
+          <id>35415</id>
+          <name>Ryan Richard</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Indexing For Performance</title>
+      <description>Everything you need to know about SQL Server indexing!  Specific areas of focus include:  understanding index physical structures, evaluating index usefulness and selection, generating and maintaining index statistics, and optimizing queries using indexes.  There will be many demonstrations to illustrate key topics and recommendations. </description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35348</importID>
+      <speakers>
+        <speaker>
+          <id>35348</id>
+          <name>Phillip Jackson</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Table-Valued Parameters (TVP)</title>
+      <description>Table-valued parameters are a new parameter type in SQL Server 2008. Table-valued parameters are declared by using user-defined table types. You can use table-valued parameters to send multiple rows of data to a Transact-SQL statement or a routine, such as a stored procedure or function, without creating a temporary table or many parameters. Ever wanted to sent a list to a stored procedure? We will show you how!</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35471</importID>
+      <speakers>
+        <speaker>
+          <id>35471</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Infrastructure</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Disk Partition Alignment</title>
+      <description>EVERYONE can benefit from this presentation!! Improper disk alignment will rob the server of 15-50% IO throughput capability. We will cover what disk partition alignment really is, how it affects performance and how you can get it done correctly.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35347</importID>
+      <speakers>
+        <speaker>
+          <id>35347</id>
+          <name>Phillip Jackson</name>
+        </speaker>
+      </speakers>
+      <track>.Net</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Codecraft</title>
+      <description>Winning a round of golf doesn't make you Tiger Woods. Knowing how to ride a bike doesn't make you Lance Armstrong and collecting a salary to do something doesn't mean you are proficient at it. Being able to write software that doesn't break and getting paid for it doesn't make you a professional.
+Software development is a craft and, like every other craft, to be a master craftsman you must be one who practices it with great skill. Learn the tools of the craft, the discipline to use them and start your journey to becoming a master craftsman. </description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35470</importID>
+      <speakers>
+        <speaker>
+          <id>35470</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Infrastructure</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Care and Feeding of TempDB</title>
+      <description>Well, every single SQL Server instance in existence has a tempDB, so I expect to see everyone in attendance for this presentation on the hows, whys and wheretofors of this very important database!</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35383</importID>
+      <speakers>
+        <speaker>
+          <id>35383</id>
+          <name>Ryan Duclos</name>
+        </speaker>
+      </speakers>
+      <track>.Net</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Can you control your reports? (SSRS 2005)</title>
+      <description>Having trouble or trying to figure out how you can navigate to your reports through your application, without creating a complete dashboard? This session will show you how to navigate and control your reports through your application using links. Also let you know what additional options you have out of the box with the different rendering extensions available.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35477</importID>
+      <speakers>
+        <speaker>
+          <id>35477</id>
+          <name>Tim Mitchell</name>
+        </speaker>
+      </speakers>
+      <track>BI/SQL Admin</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SSIS: Beyond the Basics</title>
+      <description>In this session, we'll explore some of the useful tasks and data flow components of SSIS.  Join in as we review the File System Task and the For Each Loop container, as well as data flow components including the Lookup Transformation, the Conditional Split, and the Derived Column.  This session will include various demonstrations using SSIS 2008.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35295</importID>
+      <speakers>
+        <speaker>
+          <id>35295</id>
+          <name>Mark Verret</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL 2008 Reporting Services - Getting Started</title>
+      <description>Providing relevant data to both systems and end users via SQL 2008 Reporting Services.  In this session I will provide an overview of reporting services and demonstrate several methods of deployment, including via Windows Sharepoint Services.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35438</importID>
+      <speakers>
+        <speaker>
+          <id>35438</id>
+          <name>Steve Jones</name>
+        </speaker>
+      </speakers>
+      <track>Infrastructure</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The Modern Resume: Building Your Brand</title>
+      <description>Steve Jones, founder of SQL Server Central talks about how to update your resume to fit into today's modern world, and take advantage of the tools offered by blogging, social networking, and more.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35493</importID>
+      <speakers>
+        <speaker>
+          <id>35493</id>
+          <name>Joseph Besse</name>
+        </speaker>
+      </speakers>
+      <track>.Net</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Windows Communication Foundation</title>
+      <description>Communication breakdown: What is WCF and what you can do with it. We’ll cover the basic ideas behind WCF and then show a practical example of using it to build N-tiered applications.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35367</importID>
+      <speakers>
+        <speaker>
+          <id>35367</id>
+          <name>Patrick LeBlanc</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction SQL Profiler</title>
+      <description>What is the SQL Profiler?  Looking for a trouble shooting tool or a performance tuning tool, then you should be using the SQL Profiler.  In this session I will provide an overview of some typical yet practical everyday uses of the SQL Server Profiler.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35476</importID>
+      <speakers>
+        <speaker>
+          <id>35476</id>
+          <name>Thomas LeBlanc</name>
+        </speaker>
+      </speakers>
+      <track>BI/SQL Admin</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>RML Ultities</title>
+      <description>Microsoft Support (CSS, formerly PSS) has made available a ultitiy to do an analysis of a trace file. This session will go through an explanation of how to use this utility and interpret the results.
+
+RML Utilities can answer questions about where the most resources are being consumed, queries that are responsilble for heavy usage, changes in plans during trace and if queries are running slow in comparison to other traces.
+</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35328</importID>
+      <speakers>
+        <speaker>
+          <id>35328</id>
+          <name>Michael Moles</name>
+        </speaker>
+      </speakers>
+      <track>Infrastructure</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>TFS/VSTS 2010 sneak peek</title>
+      <description>A Look at some of the new cool features in TFS/VSTS 2010. Both from Project Managment, Coding and QA.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35447</importID>
+      <speakers>
+        <speaker>
+          <id>35447</id>
+          <name>Stacey Hopkins</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Geospatial capabilities of SQL 2008</title>
+      <description>What does the introduction of spatial capabilities in SQL Server 2008 mean?  In this session we will go over the standards, data types, and implementation of SQL 2008's spatial features.  Also, we will discuss how to implement geospatial data and some possible implications and ramifications spatial data that might result.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35515</importID>
+      <speakers>
+        <speaker>
+          <id>35515</id>
+          <name>William Assaf</name>
+        </speaker>
+      </speakers>
+      <track>BI/SQL Admin</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SSIS Introduction</title>
+      <description>See a sample of what SQL Server Integration Services has to offer with some real-life examples and usage demos that will inspire you to take advantage of the powerful engine of SSIS.  Your old DTS packages will shiver in fear.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35029</importID>
+      <speakers>
+        <speaker>
+          <id>35029</id>
+          <name>Brian Rigsby</name>
+        </speaker>
+      </speakers>
+      <track>.Net</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Zen Coding</title>
+      <description>The philosphy of being a professional code craftsman.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35024</importID>
+      <speakers>
+        <speaker>
+          <id>35024</id>
+          <name>Barry Ralston</name>
+        </speaker>
+      </speakers>
+      <track>BI/SQL Admin</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>BI Solutions for a Tough Economy</title>
+      <description>Do all stakeholders in your organization ‘know the score’?  In this tough economic climate, it is more important than ever to have visibility into the key metrics that determine organizational survival.  
+
+Excel Services provides a powerful and flexible tool for increasing visibility of key metrics throughout the organization.  Through examples, this session will show attendees the most useful capabilities of Excel Services for collaboration, including Excel-based KPI’s, dashboards and charting.  Learn how to leverage Excel experience to rapidly create SharePoint sites to securely share actionable information.  
+</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35517</importID>
+      <speakers>
+        <speaker>
+          <id>35517</id>
+          <name>William Assaf</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>DMV Overview </title>
+      <description>A tour of Dynamic Management Views in SQL 2005 and 2008, covering the most important DMV's and getting you started on getting the most you can out of these crucial performance indicators.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35010</importID>
+      <speakers>
+        <speaker>
+          <id>35010</id>
+          <name>Brad McDonald</name>
+        </speaker>
+      </speakers>
+      <track>Infrastructure</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The Basics of Scrum and Why it Works</title>
+      <description>Scrum is a lightweight, agile project management framework that allows us to focus on delivering the highest business value in the shortest time.  We will discuss real-world implementations from a project management and development perspective. </description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35489</importID>
+      <speakers>
+        <speaker>
+          <id>35489</id>
+          <name>Trevor Barkhouse</name>
+        </speaker>
+      </speakers>
+      <track>Infrastructure</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Deadlocks: Detection, Troubleshooting, and Prevent</title>
+      <description>As an enterprise application grows and load increases, some concurrency issues are bound to surface. Deadlocks are one of the more aggravating of this class of problems. Fortunately, each release of SQL Server includes better tools for troubleshooting deadlocks.  Trevor will provide a strong foundation on deadlocks and then demonstrate approaches for handling them in SQL Server 2000, 2005, and 2008.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35146</importID>
+      <speakers>
+        <speaker>
+          <id>35146</id>
+          <name>Joseph Besse</name>
+        </speaker>
+      </speakers>
+      <track>.Net</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Test Driven Development</title>
+      <description>Test Driven Development using C#.net and NUnit – Introduction to test driven development and how to create and run tests using  C#.net and NUnit.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35384</importID>
+      <speakers>
+        <speaker>
+          <id>35384</id>
+          <name>Ryan Duclos</name>
+        </speaker>
+      </speakers>
+      <track>BI/SQL Admin</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Reporting Services 2008 - Report Authoring</title>
+      <description>Introduction to Reporting Services 2008 and an overview of some the Report Authoring changes from Reporting Services 2005 and Reporting Services 2008.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35478</importID>
+      <speakers>
+        <speaker>
+          <id>35478</id>
+          <name>Tim Mitchell</name>
+        </speaker>
+      </speakers>
+      <track>.Net</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Custom ETL using SSIS Scripting</title>
+      <description>In this session, we will explore the Script Task and Script Component tools within SSIS. Learn how to break out of the traditional flat-file ETL mold and, using VB.NET or C#, create custom scripts to address unconventional transformations and related tasks.</description>
+      <startTime>8/1/2009 12:00:00 AM</startTime>
+      <endTime>8/1/2009 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

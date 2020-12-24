@@ -1,0 +1,21 @@
+# SQLSaturday #899 - Birmingham 2019
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+08:30:00|Hilary Wilkie|BI Platform Architecture, Development  Administration|[User Experience Brilliance in Power BI Dashboards](93698.md)
+08:30:00|Kevin Wilkie|Cloud Application Development  Deployment|[Azure Data Factory V2](93768.md)
+08:30:00|Rob Volk|Application  Database Development|[That's So Metadata: Discover Your Database From The Inside](94665.md)
+09:40:00|Thomas Norman|Application  Database Development|[Database Project Makes Deployment Consistent](93844.md)
+09:40:00|Mike Robbins|Enterprise Database Administration  Deployment|[PowerShell + SQL Server = Better Together](93883.md)
+09:40:00|Jared Rhodes|Cloud Application Development  Deployment|[AI on the Edge](94346.md)
+10:50:00|Ed Watson|BI Platform Architecture, Development  Administration|[The Psychology of Better Power BI Reporting](94676.md)
+10:50:00|Robert Cain|Enterprise Database Administration  Deployment|[PowerShell Core for Linux](94893.md)
+10:50:00|Rie Irish|Enterprise Database Administration  Deployment|[How to Build Your Disaster Recovery Plan](95980.md)
+12:40:00|Sven Aelterman|Application  Database Development|[The New Tool in Your Kit: Azure Data Studio](93696.md)
+12:40:00|Ken Muse|Cloud Application Development  Deployment|[The Art of Data DevOps with SSDT](93970.md)
+12:40:00|Nathan Boster|Application  Database Development|[Turbo-charging SSMS for Beginners](94586.md)
+13:50:00|William Assaf|Professional Development|[Certification Exams Inside Out](94037.md)
+13:50:00|Dustin Dorsey|Application  Database Development|[Exploring the latest T-SQL enhancements](94689.md)
+13:50:00|Paco Gonzalez|BI Platform Architecture, Development  Administration|[Power BI Architecture](96279.md)
+15:00:00|Peter Doyle|Application  Database Development|[Become a T-SQL Pivoting Ninja in 60 Minutes Or Less](93655.md)
+15:00:00|Kevin Boles|Application  Database Development|[Recent SSMS Performance Tuning Enhancements](94285.md)
+15:00:00|Christine Assaf|Professional Development|[Mastering your Resume  Interview: Tips to Get Hired](94379.md)

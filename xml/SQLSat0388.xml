@@ -1,0 +1,841 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #388 - Edinburgh - BI Edition 2015</name>
+    <startDate>6/13/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatEdinburgh-BIEdition</twitterHashtag>
+    <venue>
+      <name>John McIntyre Conference Centre</name>
+      <street>18 Holyrood Park Road</street>
+      <city>Edinburgh</city>
+      <state>, United Kingdom</state>
+      <zipcode>EH16 5AY</zipcode>
+      <longitude>-3.171522</longitude>
+      <latitude>55.938686</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>836</importID>
+      <name>Micron</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.micron.com</url>
+      <imageURL>https://www.pass.org/images/SQLSaturday/EventSponsors/micronlogo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>89</importID>
+      <name>Profisee</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.profisee.com</url>
+      <imageURL>https://www.profisee.com/Portals/0/lp/assets/img/logo_profisee.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>6</importID>
+      <name>Melissa Data Corp.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.melissadata.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/931/EventSponsor_14597.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>85</importID>
+      <name>Pyramid Analytics</name>
+      <label>Gold Braveheart Sponsor</label>
+      <url>http://www.PyramidAnalytics.com</url>
+      <imageURL>http://pages.pyramidanalytics.com/rs/pyramidanalytics/images/logo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>310</importID>
+      <name>Technitrain</name>
+      <label>Gold Braveheart Sponsor</label>
+      <url>http://technitrain.com/courses.php?trackingcode=LONBA</url>
+      <imageURL>https://www.technitrain.com/images/technitrain_logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1021</importID>
+      <name>SanDisk</name>
+      <label>Gold Braveheart Sponsor</label>
+      <url>http://www.sandisk.com</url>
+      <imageURL>https://www.pass.org/files/8c03ba71-c441-404f-9673-ff879cb4c5f7.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>6</importID>
+      <name>Melissa Data Corp.</name>
+      <label>Silver Braveheart Sponsor</label>
+      <url>http://www.melissadata.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/931/EventSponsor_14597.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS USE ONLY</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>979</importID>
+      <name>Quorum Network Resources</name>
+      <label>Bronze Braveheart Sponsor</label>
+      <url>http://www.qnrl.com/</url>
+      <imageURL>https://jenstirrup.files.wordpress.com/2015/04/quorum-logo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>37108</importID>
+      <name>Jen Stirrup</name>
+      <label>
+      </label>
+      <description>Jen Stirrup, Microsoft Regional Director and MVP is a well-known Business Intelligence and Data Visualization expert, author, data strategist, and Master of Business Administration (MBA) student in London. Jen leads a boutique analytics consultancy, delivering strategic advice to companies large and small.
+
+Jen has presented in Africa, India, Europe and North America. Jen has presented at Ignite, Techorama, TechEd, PASS Summit, SQLBits, and SQLSaturday events in Europe and the US. She also delivers the MAPA Azure Architects course worldwide with Microsoft team members. Jen was also featured on the Best of PASS Summit 2015 DVD as one of the top 10 speakers. Jen also was awarded PASS prestigious PASSion Award in 2012</description>
+      <twitter>@jenstirrup</twitter>
+      <linkedin>http://uk.linkedin.com/in/jenstirrup/</linkedin>
+      <ContactURL>http://www.jenstirrup.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jenstirrup</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16270</importID>
+      <name>Jean-Pierre Riehl</name>
+      <label>
+      </label>
+      <description>Architect, Consultant, Trainer and also Manager, Jean-Pierre leads the Data  BI Practice at AZEO, a French Microsoft "pure-player" partner. 
+Jean-Pierre is MVP Data Platform since 2008 and speaks at many events in France and in Europe. JP leads the local community (GUSS) and organize events in France since 2011 : MS Cloud Summit, Les Journées SQL Server, SQLSaturday, etc. 
+JP is passionate by data concerns in business like Data Governance, Data Quality or Data Vizualisation and since 2010, he’s specialized in Self-Service BI. His favorite topic is Power BI and business usages and technical architectures that go with.</description>
+      <twitter>djeepy1</twitter>
+      <linkedin>http://fr.linkedin.com/in/djeepy1</linkedin>
+      <ContactURL>http://blog.djeepy1.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=djeepy1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>8952</importID>
+      <name>Adam Vero - Dynamics CRM MVP</name>
+      <label>
+      </label>
+      <description>I help organisations of various sizes and industries to make better use of technology and software to increase efficiency, improve internal processes, enable better decision making, manage collaboration across teams and become more agile in their operations.
+As an MVP for Dynamics CRM and Microsoft Certified Trainer I deliver various Microsoft Official Courseware “MOC”) courses in Dynamics CRM 4.0, 2011 and 2013 as well as my own bespoke training courses in a range of Microsoft technologies. </description>
+      <twitter>AdamVero</twitter>
+      <linkedin>http://uk.linkedin.com/in/adamvero/en</linkedin>
+      <ContactURL>http://blog.crmguru.co.uk</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=AdamVero</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37883</importID>
+      <name>Dave Lawrence</name>
+      <label>
+      </label>
+      <description>Dave has over 30 years’ experience in providing sales support for data management software vendors, at Profisee he works with customers to build help them unleash the power of Microsoft SQL Master Data Services using Profisee’s Maestro Software. </description>
+      <twitter>profiseeuk</twitter>
+      <linkedin>https://uk.linkedin.com/pub/dave-lawrence/0/839/53a</linkedin>
+      <ContactURL>http://www.profisee.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=profiseeuk</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36859</importID>
+      <name>Jen Stirrup</name>
+      <label>
+      </label>
+      <description>Jen Stirrup, Microsoft Regional Director and MVP is a well-known Business Intelligence and Data Visualization expert, author, data strategist, and Master of Business Administration (MBA) student in London. Jen leads a boutique analytics consultancy, delivering strategic advice to companies large and small.
+
+Jen has presented in Africa, India, Europe and North America. Jen has presented at Ignite, Techorama, TechEd, PASS Summit, SQLBits, and SQLSaturday events in Europe and the US. She also delivers the MAPA Azure Architects course worldwide with Microsoft team members. Jen was also featured on the Best of PASS Summit 2015 DVD as one of the top 10 speakers. Jen also was awarded PASS prestigious PASSion Award in 2012</description>
+      <twitter>@jenstirrup</twitter>
+      <linkedin>http://uk.linkedin.com/in/jenstirrup/</linkedin>
+      <ContactURL>http://www.jenstirrup.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jenstirrup</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37799</importID>
+      <name>Niall MacLeod</name>
+      <label>
+      </label>
+      <description>Niall is a Senior Applications Architect for SanDisk,  specializing in Microsoft SQL Server and Flash Storage  Solutions.  Niall has extensive knowledge and experience in utilizing infrastructure resources to deliver application performance. Having began his career in IT in the late 1990s at Data General and EMC,  Niall has since worked with several enterprise storage companies; the latter being Fusion-io where he was responsible for the direction of technical marketing in EMEA.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10578</importID>
+      <name>Bob Phillips</name>
+      <label>
+      </label>
+      <description>I am an independent consultant based in the UK, specializing in all things Excel, especially delivering BI within Excel. 
+
+I came to appreciate the power and versatility of Excel as an enterprise tool in the mid-90s when managing the delivery of a data warehouse project. 
+
+Now a freelance consultant, I specialize in Excel automation and BI delivered via Excel. An 11 year veteran of Microsoft#39;s MVP program, my life mission is to persuade small and medium corporates that data analysis and BI is important to them too, and that Power BI can help then find that information, in a straight-forward and cost-effective manner.</description>
+      <twitter>@WessexBob</twitter>
+      <linkedin>http://www.linkedin.com/in/visibardd</linkedin>
+      <ContactURL>https://wessexbi.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@WessexBob</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37432</importID>
+      <name>peyman blumstengel</name>
+      <label>
+      </label>
+      <description>Peyman Blumstengel, Director of Enterprise sales, Micron, 20+ years in hardware industry, Memory
+ Murali Nagaraj, CacheBox VP Engineering, 20+ years in software development; key implementer in Cluster File System at VERITAS/Symantec; 7 patents in file system amp; storage technology.</description>
+      <twitter>@blumstengel</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@blumstengel</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37763</importID>
+      <name>Jon Woodward</name>
+      <label>
+      </label>
+      <description>Jonathan Woodward is the UK Business Lead at Microsoft focused on the Data Platform covering:
+
+ - Business Intelligence
+ - Analytics
+ - Big Data
+ - Data Science</description>
+      <twitter>@jlwoodward</twitter>
+      <linkedin>http://www.linkedin.com/in/jonathanwoodward</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jlwoodward</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10576</importID>
+      <name>Bob Duffy</name>
+      <label>
+      </label>
+      <description>Bob Duffy is a SQL Server MVP from Dublin, Ireland who is MCA, MCM. and Analysis Services Maestro certified. 
+
+Bob works as a Database Architect at the Prodata SQL Centre of Excellence where he specializes in business intelligence and performance tuning.</description>
+      <twitter>@bob_duffy</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=8301243amp;authType=NAME_SEARCHamp;authToken=MWkaamp;locale=en_USamp;srchid=83012431382480825815amp;srchindex=1amp;srchtotal=767amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A83012431382480825815%2CVSRPtargetId%3A8301243%2CVSRPcmpt%3Aprimary</linkedin>
+      <ContactURL>http://blogs.prodata.ie/author/bob.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@bob_duffy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>26995</importID>
+      <name>Thomas Sykes</name>
+      <label>
+      </label>
+      <description>Tom is a Senior SQL Server consultant for Quorum Network Resources, a Microsoft Gold Data Platform Partner based in Edinburgh. He is a MCT in addition to being multiple MCSE in Data and Cloud. Current projects include SQL Infrastructure and Performance Tuning, Hybrid Azure SQL Solutions and SQL 2014 migrations.</description>
+      <twitter>@sqltomato</twitter>
+      <linkedin>http://uk.linkedin.com/in/sqltomato</linkedin>
+      <ContactURL>http://sqltomato.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqltomato</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>26143</importID>
+      <name>Gary Short - C# MVP</name>
+      <label>
+      </label>
+      <description>Freelance Data Scientist and Big Data engineer / architect. Weapons of choice include, but are not limited to: Hadoop, HDInsight, HBase, Hive, Pig, Cassandra, Solr, R, SPSS, Python, NodeJS, NLTK, UCINet, Numpy, Scala, F#, Deedle, OCaml, MSSQL and Java.
+
+I'm also a C# MVP and cook up a mean Win8* app, but if it has a data science bent to it, then I'm happier.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://uk.linkedin.com/in/garyshort/en</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21910</importID>
+      <name>Peter Baddeley</name>
+      <label>
+      </label>
+      <description>Peter is a Solution Architect focusing on delivering Microsoft solutions including SharePoint, Dynamics CRM and Office 365.   He has been working with SharePoint since 2004, lives in Cambridgeshire (United Kingdom) and can often be found on Twitter (@Baddaz) or his blog (www.baddaz.com).  Peter is one of the organisers of East Anglia Region of the SharePoint User Group UK.  His working life is spent leading a team of consultants delivering Microsoft Solutions to companies across UK and Ireland. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.baddaz.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37112</importID>
+      <name>Jen Stirrup</name>
+      <label>
+      </label>
+      <description>Jen Stirrup, Microsoft Regional Director and MVP is a well-known Business Intelligence and Data Visualization expert, author, data strategist, and Master of Business Administration (MBA) student in London. Jen leads a boutique analytics consultancy, delivering strategic advice to companies large and small.
+
+Jen has presented in Africa, India, Europe and North America. Jen has presented at Ignite, Techorama, TechEd, PASS Summit, SQLBits, and SQLSaturday events in Europe and the US. She also delivers the MAPA Azure Architects course worldwide with Microsoft team members. Jen was also featured on the Best of PASS Summit 2015 DVD as one of the top 10 speakers. Jen also was awarded PASS prestigious PASSion Award in 2012</description>
+      <twitter>@jenstirrup</twitter>
+      <linkedin>http://uk.linkedin.com/in/jenstirrup/</linkedin>
+      <ContactURL>http://www.jenstirrup.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jenstirrup</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>25026</importID>
+      <name>Satya Jayanty</name>
+      <label>
+      </label>
+      <description>My experience surrounded with high focus on the data platform with a track record of defining strategy, designing and delivering digital transformation  migrations with major enhancements to current working methods.  Worked in a capacity of Head of Data Engineering, Enterprise Data Architect and Solutions 
+
+Key career accomplishment  recognition as an industry expert  technical excellence from the Microsoft as Data Platform Most Valuable Professional (MVP) recognition since the year 2006 (13 years as MVP and counting), which recognizes exceptional technical community leaders worldwide who actively deliver, present  share their extraordinary contributions, high quality, and real-world expertise.
+Twitter pod (http://twitter.com/sqlmast</description>
+      <twitter>sqlmaster</twitter>
+      <linkedin>https://uk.linkedin.com/sqlmaster</linkedin>
+      <ContactURL>http://www.sqlserver-qa.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlmaster</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37804</importID>
+      <name>Ric Howe</name>
+      <label>
+      </label>
+      <description>I have always been interested in how we can use technology to enhance the our experience of the world. Technology makes things simpler, but it#39;s often difficult to traverse the myriad of solutions out there, so I have made it my mission to help people achieve the unthinkable by using technology the right way. Cloud computing has revolutionised how we consume technology and made complex and expensive solutions simple and accessible for all businesses. </description>
+      <twitter>https://twitter.com/ijanric</twitter>
+      <linkedin>https://uk.linkedin.com/in/richowe</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/ijanric</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36848</importID>
+      <name>Iain Elder</name>
+      <label>
+      </label>
+      <description>Iain Elder is a data professional focussing in data collection, data management,  and process automation.
+
+He began his career scraping the web data barrel to integrate dozens of heterogeneous sources, and now as a database administrator manages a SQL Server estate of hundreds of servers.
+
+His favourite tools for getting things done are SQL, PowerShell, Python and Java.
+</description>
+      <twitter>@iainsme</twitter>
+      <linkedin>https://uk.linkedin.com/pub/iain-elder/22/753/1a5</linkedin>
+      <ContactURL>http://basetable.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@iainsme</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19584</importID>
+      <name>Mark Wilcock</name>
+      <label>
+      </label>
+      <description>Mark is an independent consultant specializing in the analysis, reporting and visualization of financial data. Over the last 20 years, he worked on many systems to measure and monitor financial performance and manage market risks that arise from banking and trading activities. He#39;s the organizer of the London Business Analytics Group, a popular community group that holds monthly talks on topics ranging from Predictive Analytics to Power Query to Personalized Medicine. He blogs at zomalex.co.uk</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15147</importID>
+      <name>Ian Macdonald</name>
+      <label>
+      </label>
+      <description>Ian is a data wizard, who has nearly 30 years’ experience  in the Enterprise Business Intelligence market. Starting in Technical Support, training and consulting with Information Builders in 1986, he subsequently developed a career in presales, product marketing and marketing , holding senior VP positions with companies such as Microsoft, Hyperion Solutions and HP. 
+Ian has been working with Pyramid Analytics for five years, initiating their UK presence  in 2011. </description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/profile/preview?locale=en_USamp;trk=prof-0-sb-preview-primary-button</linkedin>
+      <ContactURL>http://uk.linkedin.com/pub/ian-macdonald/1/381/2a1</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11709</importID>
+      <name>Carmel Gunn</name>
+      <label>
+      </label>
+      <description>Carmel is the Managing Director of the Prodata SQL Centre of Excellence in Dublin, Ireland, where she is a data management specialist, working in the areas of analytics and visualisations.
+
+As a committee member for the SQL Server Ireland User Group, she has played an active roll in bringing 2 SQL Saturdays to Dublin, and is heavily involved in the SQL community.
+
+
+
+
+
+</description>
+      <twitter>@carmelgunn</twitter>
+      <linkedin>http://ie.linkedin.com/in/carmelgunn/</linkedin>
+      <ContactURL>http://blogs.prodata.ie</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@carmelgunn</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>12849</importID>
+      <name>David Parker</name>
+      <label>
+      </label>
+      <description>David has been creating data diagrams since the late ‘80s since he was an RIBA architect, and has primarily utilised Visio since 1996 with a variety of data sources, which has often been SQL Server. He has been an MVP for Visio for over 11 years, written three books about customising Visio, maintains an intermediate / developer blog about Visio, provides Visio training and consultancy around Europe. He started his own data visualisation company, bVisual ltd, in 1998.</description>
+      <twitter>@VisioRules</twitter>
+      <linkedin>http://uk.linkedin.com/in/bvisual/en</linkedin>
+      <ContactURL>http://blog.bvisual.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@VisioRules</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37505</importID>
+      <name>Chris Webb</name>
+      <label>
+      </label>
+      <description>Chris Webb is a member of the Power BI CAT team. He is the author of "Power Query for Power BI and Excel" and a co-author of "SQL Server Analysis Services 2012: The BISM Tabular Model", "Expert Cube Development with SQL Server 2008 Analysis Services", and "MDX Solutions with Microsoft SQL Server Analysis Services 2005 and Hyperion Essbase".</description>
+      <twitter>@cwebb_bi</twitter>
+      <linkedin>https://www.linkedin.com/in/chriswebb6/</linkedin>
+      <ContactURL>https://blog.crossjoin.co.uk/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@cwebb_bi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>8952</importID>
+      <speakers>
+        <speaker>
+          <id>8952</id>
+          <name>Adam Vero - Dynamics CRM MVP</name>
+        </speaker>
+      </speakers>
+      <track>The Business of Business Intelligence</track>
+      <location>
+        <name>Pentland East</name>
+      </location>
+      <title>Better Data Visualisation for CRM and ERP</title>
+      <description>Come and learn best practices for designing charts to help people understand their business data effortlessly.
+Need to create charts and dashboards for people to get insight from their complex data and make better business decisions? This session will show you what to do, and more importantly why. Understand the way our brains are wired and take advantage of our ability to process some types of visual data far more easily than others. You will learn some great tips for better visualisation, and common pitfalls to avoid, rather than the technical ins-and-outs of how to achieve this with a specific piece of software. The main focus will be on charts and dashboards for CRM or ERP systems, but the approaches are just as valid using Excel, PowerPivot, SSRS or big analytics products from any data source.
+</description>
+      <startTime>6/13/2015 11:15:00 AM</startTime>
+      <endTime>6/13/2015 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>10578</importID>
+      <speakers>
+        <speaker>
+          <id>10578</id>
+          <name>Bob Phillips</name>
+        </speaker>
+      </speakers>
+      <track>The Technology of Business Intelligence</track>
+      <location>
+        <name>Salisbury Room</name>
+      </location>
+      <title>Customising the Excel Ribbon</title>
+      <description>All applications need some method for the user to interact with. Excel built-in functionality is accessed via the Ribbon, and Excel provides the capability to customise the Ribbon to organise it to your preference. More interestingly, it is possible to create your own Ribbon tabs that can interact with your applications.
+
+This session will briefly show how to add items to the QAT and personalise the existing Ribbon, and then we will develop a Ribbon to manage a number of VBA macros, demonstrating dynamic Ribbon capabilities such as changing the image, and adding/removing items to/from dropdowns and dynamic menus. It will also show how to develop this code for 32 and 64 bit environments, and protect the ribbon from context loss.</description>
+      <startTime>6/13/2015 3:45:00 PM</startTime>
+      <endTime>6/13/2015 4:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>19584</importID>
+      <speakers>
+        <speaker>
+          <id>19584</id>
+          <name>Mark Wilcock</name>
+        </speaker>
+      </speakers>
+      <track>Business Analytics Track</track>
+      <location>
+        <name>Pentland West</name>
+      </location>
+      <title>Learning R through a typical BI task</title>
+      <description>R is a language for data munging and stats that is growing in popularity.  Many Microsoft BI professionals are curious about R but few have used it on a real project yet.  This talk aims to introduce you to the capabilities of R by comparing the implementation of a typical BI task both in Power BI and in R.  We’ll load some data from a SQL database, explore the data and ask some basic questions, draw some insightful conclusions and then communicate these to a broader audience.  
+The purpose of this session is to show R strengths and weaknesses to help you decide if R is a useful language that is worth investing time and effort to learn and master.
+</description>
+      <startTime>6/13/2015 2:15:00 PM</startTime>
+      <endTime>6/13/2015 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>21910</importID>
+      <speakers>
+        <speaker>
+          <id>21910</id>
+          <name>Peter Baddeley</name>
+        </speaker>
+      </speakers>
+      <track>The Business of Business Intelligence</track>
+      <location>
+        <name>Pentland East</name>
+      </location>
+      <title>Understanding SharePoint reporting options for SQL Server</title>
+      <description>The SharePoint landscape has changed dramatically over the last few years, and this session is designed to help Business Decision Makers, IT Managers and SQL Professionals understand what it offers as reporting platform.  Exploring the different options, benefits and considerations for using SharePoint to report on data in SQL Server.  Explaining that there are important decisions to make about which platform to use, and whether cloud based services should be considered.  It will show a number of SharePoint options including Business Connectivity Services, Reporting Services, Excel Services and Power BI.  It will consider the differences in functionality and configuration for different versions of SharePoint and SQL.  Including comparing the platforms of SharePoint Server, SharePoint Foundation and Office 365.  Finally it will challenge attendees to think about the purpose of the solution being delivered, who it is for and the long term strategy.
+</description>
+      <startTime>6/13/2015 1:15:00 PM</startTime>
+      <endTime>6/13/2015 2:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>25026</importID>
+      <speakers>
+        <speaker>
+          <id>25026</id>
+          <name>Satya Jayanty</name>
+        </speaker>
+      </speakers>
+      <track>Business Analytics Track</track>
+      <location>
+        <name>Pentland East</name>
+      </location>
+      <title>Power BI- best practices to deliver just-in-time insights</title>
+      <description>We will overview a detailed options about how to deploy Power BI, how to implement configuration parameters and package BI features as a part of Office 365 roll out in your organisation.
+
+Having said that, cloud computing is another aspect of this technology made is possible to get data within few clicks and ticks to the end-user. Let us review how to manage  connect on-premise data to cloud capabilities that can offer full advantage of data catalogue capabilities by keeping data secure as per Information Governance standards.  Not just with nuts and bolts, performance is another aspect that every Admin is keeping up, let us look into few settings on how to maximize performance to optimize access to data as </description>
+      <startTime>6/13/2015 4:45:00 PM</startTime>
+      <endTime>6/13/2015 5:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>37505</importID>
+      <speakers>
+        <speaker>
+          <id>37505</id>
+          <name>Chris Webb</name>
+        </speaker>
+      </speakers>
+      <track>The Technology of Business Intelligence</track>
+      <location>
+        <name>Pentland West</name>
+      </location>
+      <title>Best practices for collecting and  combining data with Power Query</title>
+      <description>So you’ve played around with Power Query in Excel; now it’s time to put it to work. In this session you’ll learn how to ‘think’ in Power Query. You’ll see a number of examples of how Power Query can be used to solve real world problems and understand the best practices and patterns that you can take back to work and use immediately. Examples will include:
+• Creating and using a parameter table
+• Combining data from multiple Excel workbooks into a single data set
+• Handling errors and unavailable data sources
+• Calling web services, handling authentication and working with XML
+• Performing sentiment analysis in Excel with Power Query and Azure Machine Learning</description>
+      <startTime>6/13/2015 10:15:00 AM</startTime>
+      <endTime>6/13/2015 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>37112</importID>
+      <speakers>
+        <speaker>
+          <id>37112</id>
+          <name>Jen Stirrup</name>
+        </speaker>
+      </speakers>
+      <track>Business Analytics Track</track>
+      <location>
+        <name>Pentland West</name>
+      </location>
+      <title>Business Analytics 101 Jumpstart using Azure Machine Learning</title>
+      <description>Business analytics platforms have always been tools built for statisticians and data scientists. However, these tools are increasingly being directed at business analysts, and Gartner's rankings on its well-known "completeness of vision" and "ability to execute" axes now ride as much on "ease of use" as they do on offering advanced analytical algorithms.
+How does this change in landscape affect businesses? Are you new to the world of business analytics? Are you taking over an existing analytics program, or starting one from scratch? This session will help you to understand how to craft a strategy, provision the right  business analytical capabilities, and move towards actionable results. We’ll identify common pitfalls to avoid as you start or reinvigorate your business analytics program. In particular, we’ll explore how companies are using self-service and data discovery techniques to deliver more agile analytics using Azure Machine Learning.</description>
+      <startTime>6/13/2015 10:15:00 AM</startTime>
+      <endTime>6/13/2015 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>37799</importID>
+      <speakers>
+        <speaker>
+          <id>37799</id>
+          <name>Niall MacLeod</name>
+        </speaker>
+      </speakers>
+      <track>The Technology of Business Intelligence</track>
+      <location>
+        <name>Pentland East</name>
+      </location>
+      <title>Microsoft SQL Server Data Warehouse Fast Track – Understanding the Program</title>
+      <description>The SQL Server Data Warehouse Fast Track (DWFT) program is designed to provide customers standard and proven system architectures optimized for a range of enterprise data warehousing needs. DWFT is a joint effort between Microsoft and many hardware partners. The goal is to help enterprise customers deploy Data Warehouse solutions with recommended hardware configuration appropriate for the requirements of the workload with reduced risk, cost and complexity.
+This presentation discusses the process undertaken to achieve the certification of a 90TB SanDisk solution  whilst achieving an efficient out-of-box balance between SQL Server data processing capability and hardware resources.  
+</description>
+      <startTime>6/13/2015 2:15:00 PM</startTime>
+      <endTime>6/13/2015 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>36848</importID>
+      <speakers>
+        <speaker>
+          <id>36848</id>
+          <name>Iain Elder</name>
+        </speaker>
+      </speakers>
+      <track>The Technology of Business Intelligence</track>
+      <location>
+        <name>Salisbury Room</name>
+      </location>
+      <title>Web Scraping with Python - scraping the web, without the sting</title>
+      <description>Need to download data from a website without an API? Scrape it!
+ 
+Web scraping is a technique for collecting information from websites, especially in ways not intended by the publisher.
+ 
+Many business have web scraping in their data strategy to open up new business opportunities and remain competitive. It is something that we can all use to make existing data acquisition tasks easier and make new goals possible.
+
+Python is well suited to the task of web data acquisition. Thanks to its simple, clean syntax and interactive shell, it is easy and fun to learn. It is accessible to Business Intelligence professionals with an SQL background.
+
+Scrapy provides an infrastructure for writing scraping programs called spiders. It allows you to achieve more with shorter, more declarative code. It can be used for small and large scraping projects.
+
+In our demo we will study the anatomy of a spider, then use it pull data from a website into Microsoft SQL Server for further analysis.</description>
+      <startTime>6/13/2015 10:15:00 AM</startTime>
+      <endTime>6/13/2015 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>37804</importID>
+      <speakers>
+        <speaker>
+          <id>37804</id>
+          <name>Ric Howe</name>
+        </speaker>
+      </speakers>
+      <track>Business Analytics Track</track>
+      <location>
+        <name>Pentland West</name>
+      </location>
+      <title>Advanced Analytics is where to place your bet</title>
+      <description>We are not short of data and it’s growing at an exponential rate; what we are short of is insight. This talk will cover the latest announcements around advanced analytics, machine learning, and big data technologies to guide you through the future direction of the analytics journey we should all be placing our bets on.
+
+Demos of Machine Learning, Stream Analytics, PowerBI, DataZen</description>
+      <startTime>6/13/2015 4:45:00 PM</startTime>
+      <endTime>6/13/2015 5:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>16270</importID>
+      <speakers>
+        <speaker>
+          <id>16270</id>
+          <name>Jean-Pierre Riehl</name>
+        </speaker>
+      </speakers>
+      <track>The Technology of Business Intelligence</track>
+      <location>
+        <name>Salisbury Room</name>
+      </location>
+      <title>Data Management Gateway Deep Dive</title>
+      <description>Deep dive into the DMG and the hybrid architecture involved by Power BI.
+How does it work ? Security, Firewall, Certificates,  Multiple gateways, Admin delegation, Scale out, Disaster Recovery.... All that topics will be covered during that technical session.
+</description>
+      <startTime>6/13/2015 4:45:00 PM</startTime>
+      <endTime>6/13/2015 5:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>37432</importID>
+      <speakers>
+        <speaker>
+          <id>37432</id>
+          <name>peyman blumstengel</name>
+        </speaker>
+      </speakers>
+      <track>The Technology of Business Intelligence</track>
+      <location>
+        <name>Salisbury Room</name>
+      </location>
+      <title>Optimizing databases with server side flash, understanding what lies beneat</title>
+      <description>In this short technical presentation we will look at some of the options available today which can be employed to optimize database workloads. During the presentation we will look at results from various experiments and try to understand the impact of performance relative to different database components and workloads.
+
+</description>
+      <startTime>6/13/2015 1:15:00 PM</startTime>
+      <endTime>6/13/2015 2:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>26143</importID>
+      <speakers>
+        <speaker>
+          <id>26143</id>
+          <name>Gary Short - C# MVP</name>
+        </speaker>
+      </speakers>
+      <track>Business Analytics Track</track>
+      <location>
+        <name>Pentland West</name>
+      </location>
+      <title>Troll Hunting on the Internet</title>
+      <description>The phenomenon of anonymous cyber bullies trolling individuals, as a pack, has increased over the years. One of the things that makes this appealing for the trolls is that they feel that they can act with impunity due to the anonymity provided by many social networks.
+In this presentation we'll walk through the development of a theoretical application to identify these trolls, and the multiple accounts they hold, via computational lingustics, before using predictive analytics to suggest likely locations for their homes and places of work/education.
+By removing the anonymity of the Internet we can drive these trolls off of social media.
+</description>
+      <startTime>6/13/2015 3:45:00 PM</startTime>
+      <endTime>6/13/2015 4:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>11709</importID>
+      <speakers>
+        <speaker>
+          <id>11709</id>
+          <name>Carmel Gunn</name>
+        </speaker>
+      </speakers>
+      <track>Business Analytics Track</track>
+      <location>
+        <name>Pentland West</name>
+      </location>
+      <title>The European Economic Crisis and the Euro-A Data Tale</title>
+      <description>Investigative exploration of data is very often ad-hoc in nature. We might need to interact with many types and soures of data. The Questions we need to ask, and the data we might need to answer them are not set in stone, and as a result following traditional modelling is not always an option. Rather, we follow the data, to an unknown end.
+
+In this session, we take the European Economic Crisis, and the Euro, and see what publically available data can do to give us insights into one of the largest currencies in the world. 
+
+See the Microsoft Power BI stack used to tell a real world story</description>
+      <startTime>6/13/2015 1:15:00 PM</startTime>
+      <endTime>6/13/2015 2:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>37108</importID>
+      <speakers>
+        <speaker>
+          <id>37108</id>
+          <name>Jen Stirrup</name>
+        </speaker>
+      </speakers>
+      <track>The Business of Business Intelligence</track>
+      <location>
+        <name>Pentland East</name>
+      </location>
+      <title>Big Data's Missing V: Visualisation. How do you BigViz your Big Data? </title>
+      <description>We all know about Big Data: Velocity, Volume and Variety. What about the missing 'V" - Visualisation? What does “big data” look like? It has to be more than beautiful; it needs to convey the information and insights in a way that people understand. Further, people expect to be able to make actionable insights from their data, and how can we make big data friendly to users?
+In this session, we will look at a mix of open source and Microsoft technologies for visualising big data sources, and ways of achieving BigViz harmony in your Big Data</description>
+      <startTime>6/13/2015 4:45:00 PM</startTime>
+      <endTime>6/13/2015 5:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>10576</importID>
+      <speakers>
+        <speaker>
+          <id>10576</id>
+          <name>Bob Duffy</name>
+        </speaker>
+      </speakers>
+      <track>Business Analytics Track</track>
+      <location>
+        <name>Pentland West</name>
+      </location>
+      <title>Creating Dashboards with DataZen</title>
+      <description>With Microsoft’s acquisition of DataZen dashboard and mobile BI is not easier than ever, with DataZen being bundled with SQL Server. Come along and see how to get started with DatZen.
+We will be showing an end to end demo of creating and publishing dashboards for a mobile and tablet devices.</description>
+      <startTime>6/13/2015 11:15:00 AM</startTime>
+      <endTime>6/13/2015 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>15147</importID>
+      <speakers>
+        <speaker>
+          <id>15147</id>
+          <name>Ian Macdonald</name>
+        </speaker>
+      </speakers>
+      <track>The Technology of Business Intelligence</track>
+      <location>
+        <name>Salisbury Room</name>
+      </location>
+      <title>One BI Platform to Rule Them All</title>
+      <description>Whether you are a Data Wizard, a Dwarf mining for insights, an Elf creating elegant visualisations or an
+ordinary Hobbit seeking business enlightenment before second breakfast, BI Office from Pyramid Analytics can help you achieve your quest for insights and timely business information. By demonstrating how to build a BI Solution in 45
+minutes, this session will show you how BI Office can make you a BI Superhero in your organisation!</description>
+      <startTime>6/13/2015 11:15:00 AM</startTime>
+      <endTime>6/13/2015 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>26995</importID>
+      <speakers>
+        <speaker>
+          <id>26995</id>
+          <name>Thomas Sykes</name>
+        </speaker>
+      </speakers>
+      <track>The Technology of Business Intelligence</track>
+      <location>
+        <name>Salisbury Room</name>
+      </location>
+      <title>Blue Sky Thinking: SQL Azure Geospatial Mashup</title>
+      <description>In this session we'll be integrating a variety of geospatial data sources to provide a scalable website using a Windows Azure SQL Database and it's built in Geospatial features such as nearest neighbour. Then we'll take this a step further and introduce another live data stream, finally rendering it all using Bing Maps to an Azure Website. The presentation is targeted at individuals wanting a quick overview of the rapidly evolving Azure Service offerings for today’s cloud ready business.
+</description>
+      <startTime>6/13/2015 2:15:00 PM</startTime>
+      <endTime>6/13/2015 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>37883</importID>
+      <speakers>
+        <speaker>
+          <id>37883</id>
+          <name>Dave Lawrence</name>
+        </speaker>
+      </speakers>
+      <track>The Business of Business Intelligence</track>
+      <location>
+        <name>Pentland East</name>
+      </location>
+      <title>Improve Data Quality, Drive BI Value through Master Data Management</title>
+      <description>Today’s Business Intelligence (BI) systems are increasingly perceived as mission critical, but their value is only as good as the quality of data they contain. Learn how you can use Microsoft SQL Server Master Data Services and Profisee’s Master Data Maestro to ensure data quality and improve BI value.</description>
+      <startTime>6/13/2015 3:45:00 PM</startTime>
+      <endTime>6/13/2015 4:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>12849</importID>
+      <speakers>
+        <speaker>
+          <id>12849</id>
+          <name>David Parker</name>
+        </speaker>
+      </speakers>
+      <track>The Business of Business Intelligence</track>
+      <location>
+        <name>Pentland East</name>
+      </location>
+      <title>Visualising and Generating SQL data with Microsoft Visio 2013</title>
+      <description>David will demonstrate how easy it is to not only visualise data from SQL Server, on-prem. or in the cloud, with Visio 2013 Professional , but how you can use structured diagrams and validation rules to create data for your database from a drawing. He will also demonstrate how Visio diagrams stored in SharePoint 2013 can be become interactive dashboards available on any modern device and in any modern browser.</description>
+      <startTime>6/13/2015 10:15:00 AM</startTime>
+      <endTime>6/13/2015 11:15:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

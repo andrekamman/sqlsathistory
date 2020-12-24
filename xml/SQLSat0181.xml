@@ -1,0 +1,232 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #181 - Tokyo 2012</name>
+    <startDate>12/1/2012 12:00:00 AM</startDate>
+    <attendeeEstimate>80</attendeeEstimate>
+    <timezone>(GMT+09:00) Seoul</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatJP</twitterHashtag>
+    <venue>
+      <name>microsoft japan</name>
+      <street>konan 2-16-3 shinagawa grandcentral tower</street>
+      <city>minato-ku</city>
+      <state>tokyo, Japan</state>
+      <zipcode>108-0075</zipcode>
+      <longitude>139.740917</longitude>
+      <latitude>35.626795</latitude>
+    </venue>
+  </guide>
+  <speakers>
+    <speaker>
+      <importID>18830</importID>
+      <name>武田 正樹</name>
+      <label>
+      </label>
+      <description>日本マイクロソフト　エバンジェリスト</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18833</importID>
+      <name>武田 正樹</name>
+      <label>
+      </label>
+      <description>日本マイクロソフト　エバンジェリスト</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18834</importID>
+      <name>武田 正樹</name>
+      <label>
+      </label>
+      <description>日本マイクロソフト　エバンジェリスト</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18829</importID>
+      <name>武田 正樹</name>
+      <label>
+      </label>
+      <description>日本マイクロソフト　エバンジェリスト</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18831</importID>
+      <name>武田 正樹</name>
+      <label>
+      </label>
+      <description>日本マイクロソフト　エバンジェリスト</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18832</importID>
+      <name>武田 正樹</name>
+      <label>
+      </label>
+      <description>日本マイクロソフト　エバンジェリスト</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>18833</importID>
+      <speakers>
+        <speaker>
+          <id>18833</id>
+          <name>武田 正樹</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>今さら聞けない!? SQL データベース（旧称：SQL Azure）超入門</title>
+      <description>以前SQL Azure と呼ばれていたクラウド型RDBMS はSQL データベースに改名されました。ここでは「そもそもクラウドのRDBMSって何？」「SQL Server は知っているけど、SQL データベースと何が違うの？」といった疑問にお答えする入門セッションです。セッションを受講して頂いた後は、ハンズオンセミナーもあるので実機に触ってお楽しみください。</description>
+      <startTime>12/1/2012 12:00:00 AM</startTime>
+      <endTime>12/1/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18830</importID>
+      <speakers>
+        <speaker>
+          <id>18830</id>
+          <name>武田 正樹</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>次期SQL Server の新機能「Hekaton」とは？</title>
+      <description>
+      </description>
+      <startTime>12/1/2012 12:00:00 AM</startTime>
+      <endTime>12/1/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18829</importID>
+      <speakers>
+        <speaker>
+          <id>18829</id>
+          <name>武田 正樹</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>BI を始めてみよう！</title>
+      <description>「BIGDATA」というキーワードが飛び交う今日この頃。なんとなくDB屋としては無視できないと思うけど、BIはイマイチわからない。。。　という皆様。身近なところからBIを始めてみましょう。このセッションでは身近な「ネタ」を使って BI の基礎的な部分を扱います。</description>
+      <startTime>12/1/2012 12:00:00 AM</startTime>
+      <endTime>12/1/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18832</importID>
+      <speakers>
+        <speaker>
+          <id>18832</id>
+          <name>武田 正樹</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>T-SQL 振り返り</title>
+      <description>SQL Server 2012 がリリースされて、T-SQL も色々と機能が増えています。
+今回は振り返りということで、SQL Server 2000 と比べて 2005、2008、2012 と T-SQL がどういう機能が増えたのかを
+開発者の目線で紹介したいと思います。
+</description>
+      <startTime>12/1/2012 12:00:00 AM</startTime>
+      <endTime>12/1/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18834</importID>
+      <speakers>
+        <speaker>
+          <id>18834</id>
+          <name>武田 正樹</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Database (Windows Azure) ハンズオン　その２</title>
+      <description>「SQL Databaase ハンズオン　その２」
+
+SQL Database を実際に使ってみましょう</description>
+      <startTime>12/1/2012 12:00:00 AM</startTime>
+      <endTime>12/1/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18831</importID>
+      <speakers>
+        <speaker>
+          <id>18831</id>
+          <name>武田 正樹</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>ここからはじめる SQL Server の状態取得</title>
+      <description>SQL Server の状態を見たいと思ったときにたくさんの方法がありますが、
+どこから手を付ければよいかわからないということがあるもしれません。
+そんなときにどのような方法で情報を見ていけばよいかをお話しさせていただきま
+す。
+※本セッション資料の後日公開はありません。予めご了承ください。
+</description>
+      <startTime>12/1/2012 12:00:00 AM</startTime>
+      <endTime>12/1/2012 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

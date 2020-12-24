@@ -1,0 +1,695 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #68 - Olympia 2011</name>
+    <startDate>4/9/2011 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat68</twitterHashtag>
+    <venue>
+      <name>South Puget Sound Community College</name>
+      <street>2011 Mottman Road SW</street>
+      <city>Olympia</city>
+      <state>Washington</state>
+      <zipcode>98512</zipcode>
+      <longitude>-122.932068</longitude>
+      <latitude>47.022303</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>5</importID>
+      <name>Quest Software</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/947/EventSponsor_14722.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1256</importID>
+      <name>Varigence</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.varigence.com/</url>
+      <imageURL>https://www.varigence.com/Content/images/varigence-icon.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>22</importID>
+      <name>Perpetual Technologies, Inc.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.perptech.com</url>
+      <imageURL>https://www.tampasql.com/images/2008PTIclrlogo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>33</importID>
+      <name>Telerik</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.telerik.com/</url>
+      <imageURL>https://s3.amazonaws.com/rockdale_media/projects/543439b0fd67d36b7f000007/Telerik_brandmark_color_without_tagline_Black_1412710457532.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1</importID>
+      <name>Confio</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.confio.com</url>
+      <imageURL>https://www.pass.org/images/resized-confio_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>45</importID>
+      <name>Cozy Roc</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.cozyroc.com</url>
+      <imageURL>https://www.cozyroc.com/sites/default/files/down/cozyroc-big.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Bronze Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>654</importID>
+      <name>Gerasus Software</name>
+      <label>Raffle</label>
+      <url>http://www.gerasus.com/</url>
+      <imageURL>https://www.gerasus.com/images/logoSmall.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>20</importID>
+      <name>O'Reilly Books</name>
+      <label>Raffle</label>
+      <url>http://oreilly.com/</url>
+      <imageURL>https://oreilly.com/images/oreilly/oreilly.gif</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>942</importID>
+      <name>Perpetuum Software LLC</name>
+      <label>Raffle</label>
+      <url>http://www.perpetuumsoft.com</url>
+      <imageURL>https://www.perpetuumsoft.com/sf/en/ims/Perpetuum_Software_logo116x73.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>30920</importID>
+      <name>John Halunen  Aubra Moore</name>
+      <label>
+      </label>
+      <description>John is a Senior DBA with 8 years working on large Online Reporting and OLTP systems for Microsoft Advertising, Atlas/aQuantive, and thePlatform, all in the online space.  Currently he is working at one of the larger video over IP providers (thePlatform), a subsidiary of Comcast. Aubra Moore is currently a DBA with Microsoft Advertising. Manages the primary ETL and reporting systems for Microsoft Adserving’s Media Console systems collecting and Online Reporting  systems.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32072</importID>
+      <name>Nicholas Cain</name>
+      <label>
+      </label>
+      <description>Nicholas Cain is a Microsoft Certified Master with over 12 years of enterprise database administration experience. He has worked with all versions of SQL Server since 7.0 in critical highly available production environments. He has not hired dozens of DBAs over the last few years.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sirsql.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29983</importID>
+      <name>Diane Robey</name>
+      <label>
+      </label>
+      <description>Diane Robey is a Database Administrator for Economic Research Institute in Redmond, WA and has been in IT since 1984. She became familiar with the SQL language using Informix, and then Oracle as a Certified Oracle DBA. Diane has developed data models and databases for several web sites and now specializes in SQL Server, primarily as a DBA.
+
+As Vice President of the Pacific Northwest SQL Server User Group (PNWSQL), Diane enthusiastically promotes SQL Server and encourages DBAs and developers  to embrace SQL Server. She has presented at PNWSQL and SQLSaturday #68 in Olympia, Washington.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33775</importID>
+      <name>Toshi Watanabe</name>
+      <label>
+      </label>
+      <description>Toshi Watanabe currently holds a position of Senior DBA at Gates Foundation. He has been working on diverse database technologies including SQL server since 6.5. The primary focus at the Foundation is EDW (Enterprise Data Warehouse) development and support. He also operates his own database consulting business. 
+
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29463</importID>
+      <name>Robert Davis</name>
+      <label>
+      </label>
+      <description>Robert is a SQL Server Certified Master, MVP, and has spent 17+ years honing his skills in security, performance tuning, SQL development, high availability, and disaster recovery. He served as PM for the SQL Server Certified Master Program at Microsoft Learning, and in various roles at Microsoft specializing in SQL Server administration, development, and architecture. He currently works as a Database Engineer at BlueMountain Capital Management where he spends a vast majority of his time tuning massively parallel queries. Robert feeds his passion for security by acting as co-leader of the PASS Security Virtual Chapter.</description>
+      <twitter>@SQLSoldier</twitter>
+      <linkedin>http://www.linkedin.com/in/robertldavis/</linkedin>
+      <ContactURL>http://www.sqlsoldier.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLSoldier</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30367</importID>
+      <name>Rick Morelan</name>
+      <label>
+      </label>
+      <description>use same bio as Redmond workshop.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.joes2pros.com/About-Author</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29354</importID>
+      <name>Buck Woody</name>
+      <label>
+      </label>
+      <description>Born helpless, naked, and unable to provide for himself, Buck Woody overcame these amazing handicaps to become a software developer, data professional, teacher, and a productive invertebrate member of society.</description>
+      <twitter>BuckWoodyMSFT</twitter>
+      <linkedin>http://www.linkedin.com/in/buckwoody</linkedin>
+      <ContactURL>http://buckwoody.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=BuckWoodyMSFT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28841</importID>
+      <name>Arie Jones</name>
+      <label>
+      </label>
+      <description>Arie Jones (quot;AJquot;) is one of the owners and Vice President of Emerging Technologies for Indy Data Partners, Inc. in Indianapolis, IN. AJ is a frequent speaker at national conferences and local user groups. With over 15 years of experience in application development and database administration on various platforms, he specializes in developing cross-platform solutions with an emphasis on .NET and SQL Server technologies. He blogs extensively at http://www.programmersedge.com.</description>
+      <twitter>@programmersedge</twitter>
+      <linkedin>http://www.linkedin.com/in/ariejones</linkedin>
+      <ContactURL>http://www.programmersedge.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@programmersedge</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33041</importID>
+      <name>Chuck Lathrope</name>
+      <label>
+      </label>
+      <description>Chuck Lathrope is a data architect for Limeade, a SaaS health and wellness platform. Chuck is a two-time SQL Saturday event speaker on replication, was a Top 5 nominee of Red-Gate Exceptional DBA Award in 2009 and often shares his 20 years of IT knowledge on twitter under the name @SQLGuyChuck and his website www.sqlwebpedia.com.</description>
+      <twitter>@sqlguychuck</twitter>
+      <linkedin>https://www.linkedin.com/in/chucklathrope</linkedin>
+      <ContactURL>http://www.sqlwebpedia.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlguychuck</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30287</importID>
+      <name>Greg Larsen</name>
+      <label>
+      </label>
+      <description>Greg Larsen has been working with SQL Server since 1999. He has authored 100's of articles related to SQL Server. He holds a MCSE Data Management and Analytics.  Greg also a SQL Server Consultant, adjunct professor and technical writer.</description>
+      <twitter>GregoryALarsen</twitter>
+      <linkedin>https://www.linkedin.com/in/grlarsen/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=GregoryALarsen</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34682</importID>
+      <name>John Huang</name>
+      <label>
+      </label>
+      <description>John Huang, SQL MCM and MVP, has been working with SQL Server since 1994. He is an independent SQL Server consultant in Vancouver specialized in complex data processing, data warehouse, and performance tuning. </description>
+      <twitter>@sqlnotes</twitter>
+      <linkedin>http://www.sqlnotes.info</linkedin>
+      <ContactURL>http://www.sqlnotes.info</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlnotes</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32973</importID>
+      <name>Sopheap Suy</name>
+      <label>
+      </label>
+      <description>Sopheap Suy is a SQL Server Developer at WebMD with 14 years in SQL Server Database technologies. She enjoys making things run better and faster. She is passionate about SQL Server technologies and always looking for ways to learn and share her knowledge. She is actively involved in her local PASS chapter and her interests include SQL Server Development, Administration, and Data Architecture. She lives in Portland, OR with her husband, and 3 children.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30326</importID>
+      <name>Hope Foley</name>
+      <label>
+      </label>
+      <description>Hope has over 12 years experience in the IT world, she has worked across many industries from small business enterprises to Fortune 500 companies. She has a vast knowledge of database design, administration and support, data warehousing and data mining, and custom database solutions. Hope joined PTI in 2007 as a SQL Server Database Administrator/Analyst, and took over as Principal Microsoft Consultant, where she now leads a team of expert DBAs and developers. She is also a SQL Server MVP. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://hopefoley.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32172</importID>
+      <name>Paul Turley</name>
+      <label>
+      </label>
+      <description>Paul is a Principal Consultant for Pragmatic Works, a Mentor and Microsoft Data Platform MVP. He consults, writes, speaks, teaches  blogs about business intelligence and reporting solutions. He works with companies around the world to model data, visualize and deliver critical information to make informed business decisions; using the Microsoft data platform and business analytics tools. He is a Director of the Oregon Data Community PASS chapter  user group, the author  and lead author of Professional SQL Server 2016 Reporting Services and 14 other titles from Wrox  Microsoft Press.  He holds several certifications including MCSE for the Data Platform and BI.</description>
+      <twitter>paul_turley</twitter>
+      <linkedin>https://www.linkedin.com/in/pturley</linkedin>
+      <ContactURL>http://www.sqlserverbiblog.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=paul_turley</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28842</importID>
+      <name>Arie Jones</name>
+      <label>
+      </label>
+      <description>Arie Jones (quot;AJquot;) is one of the owners and Vice President of Emerging Technologies for Indy Data Partners, Inc. in Indianapolis, IN. AJ is a frequent speaker at national conferences and local user groups. With over 15 years of experience in application development and database administration on various platforms, he specializes in developing cross-platform solutions with an emphasis on .NET and SQL Server technologies. He blogs extensively at http://www.programmersedge.com.</description>
+      <twitter>@programmersedge</twitter>
+      <linkedin>http://www.linkedin.com/in/ariejones</linkedin>
+      <ContactURL>http://www.programmersedge.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@programmersedge</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30194</importID>
+      <name>Dale Cunningham</name>
+      <label>
+      </label>
+      <description>Dale Cunningham is a Sr. Database Administrator and has worked for enterprises both large and small. Performance tuning, Clustering, High Availability and Disaster Recovery are his preferred fields of focus in the MS SQL arena. In his spare time, Dale enjoys flying as a private pilot and playing racquetball. As a father of 5 children and grandfather to 4, family is an important part of his life.  Dale enjoys visiting foreign countries and exploring the world. He has recently been married to a wonderful woman from Ukraine and they enjoy traveling the world together. Dale desires to build  a home that is energy self-sufficient by using solar, wind and hydro electric power. He enjoys Call of Duty on XBox under the handle XO UEG Barricuda.</description>
+      <twitter>https://twitter.com/fly_scuba</twitter>
+      <linkedin>https://www.linkedin.com/in/dalecunningham</linkedin>
+      <ContactURL>http://www.dalecunningham.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/fly_scuba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32681</importID>
+      <name>Ron Talmage</name>
+      <label>
+      </label>
+      <description>Ron Talmage is database administrator with B3 Group, Inc, on a major healthcare data warehouse. He is also a mentor and co-founder with SolidQ. He is a former SQL Server MVP and chapter leader of the Pacific Northwest SQL Server Users Group. He has authored numerous SQL Server white papers and contributes to SQL Server technical publications.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://rtalmage@solidq.com</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32812</importID>
+      <name>Scott Stauffer</name>
+      <label>
+      </label>
+      <description>Scott Stauffer (@SQLSocialite) is very PASSionate about data and enjoys meeting with like-minded data geeks. He started the Vancouver PASS Chapter in 2004. In 2008, Scott was recognized by Microsoft with a SQL Server MVP award. In 2009, Scott started a PASS BI Chapter in Vancouver, and was also at one time the PASS Regional Chapter Mentor for Canada. For over 10 years he has been an independent consultant working with clients to solve their data woes and extract insight from their business data.</description>
+      <twitter>@SQLSocialite</twitter>
+      <linkedin>http://www.linkedin.com/in/scottstauffer</linkedin>
+      <ContactURL>http://scottstauffer.ca</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLSocialite</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>32172</importID>
+      <speakers>
+        <speaker>
+          <id>32172</id>
+          <name>Paul Turley</name>
+        </speaker>
+      </speakers>
+      <track>151</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Visual Report Design: Bringing Sexy Back</title>
+      <description>Do your users have the same old, mundane table reports they’ve been using for decades? Stop living in the past and make your reports pop. Learn to use design patterns, best practices and visuals that pack more usable information into fewer, more usable reports. Use Reporting Services and other Microsoft BI tools to create dynamic, browse-able reports that answer important business questions at a glance and then let business users explore the details to gain insight and take action. Sure, Business Intelligence is all the rage but you don’t have to invest in an entire BI platform to have fresh, usable reports. With a little simple programming code, these design techniques apply to big analytic solutions  smaller-scale operational reports.</description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32072</importID>
+      <speakers>
+        <speaker>
+          <id>32072</id>
+          <name>Nicholas Cain</name>
+        </speaker>
+      </speakers>
+      <track>351</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Powershell: Are you checking out my profile?</title>
+      <description>Powershell is a very powerful management tool and you can spend hours writing magical scripts to do all the things you want. Frequently forgotten is the Powershell profile, a place you can add your own functions which can provide you lightening fast access to information. We'll talk about the power a profile puts at your fingertips. I will also demo (and share) a bunch of short functions that I use frequently for common tasks. I'll show you my Powershell profile if you show me yours.
+</description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29463</importID>
+      <speakers>
+        <speaker>
+          <id>29463</id>
+          <name>Robert Davis</name>
+        </speaker>
+      </speakers>
+      <track>352</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Strategies for Working with VLDBs</title>
+      <description>Very large databases (VLDBs) are just like regular databases, right? There's just more of them to love. Working with very large databases can be difficult and tricky at times. Everything takes longer and minor issues become major very quickly. In this session you will learn some strategies for working with VLDBs such as how to speed up backups and restores, how to minimize your maintenance window requirements, and how to efficiently and quickly set up failover partners and replicas. Demos will include how I set up a log shipping secondary and a replica of a 2 TB database in less than half an hour.</description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28842</importID>
+      <speakers>
+        <speaker>
+          <id>28842</id>
+          <name>Arie Jones</name>
+        </speaker>
+      </speakers>
+      <track>252</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Monitoring Data Changes with Change Data Capture </title>
+      <description>Most modern enterprise database environments require some measure of auditing their data. Previously, the DBA would need to put together a complicated web of triggers and history tables in order to properly track data changes. Now in SQL Server 2008, Change Data Capture allows the DBA to readily enact a very straight-forward method for tracking the changes and understanding easily how they took place. In this session, we will examine how to set-up, configure, use, and administer the Change Data Capture process in your environment.</description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29354</importID>
+      <speakers>
+        <speaker>
+          <id>29354</id>
+          <name>Buck Woody</name>
+        </speaker>
+      </speakers>
+      <track>252</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Cloud computing for the Data Professional</title>
+      <description>The term “Cloud Computing” has become so polluted that it has come to mean “web”. How do you de-tangle all the hype and vendor terms and determine when and where you can use it? Buck Woody, a Senior Technical Specialist in Distributed Computing at Microsoft will explain your options – and describe the information you need to take back to your organization. </description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32681</importID>
+      <speakers>
+        <speaker>
+          <id>32681</id>
+          <name>Ron Talmage</name>
+        </speaker>
+      </speakers>
+      <track>352</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>A DBA Looks at Relational Data Warehouses</title>
+      <description>This session focuses on some surprising lessons learned and insights gained from applying DBA practices to relational data warehouses. Scenarios covered include use of table schemas versus synonyms, database chaining, managing user security, logical separation of user work from the data, backup and restore strategies,  index maintenance, and change control.
+
+</description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32812</importID>
+      <speakers>
+        <speaker>
+          <id>32812</id>
+          <name>Scott Stauffer</name>
+        </speaker>
+      </speakers>
+      <track>352</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SSIS for the faint of heart</title>
+      <description>Scott's gentle introduction to SQL Server Integration Services (or SSSIS) will primarily be demonstrating how to you can use this tool in the real world to get work done. READ: very little PowerPoint time. SSIS is a high performance ETL solutions introduced in SQL Server 2005 to replace SQL Server's DTS functionality. ETL? It's okay, Scott will briefly cover some of these concepts too. Relax, sit back and learn how to simplify your "Extract, Transform, and Load" processes.</description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28841</importID>
+      <speakers>
+        <speaker>
+          <id>28841</id>
+          <name>Arie Jones</name>
+        </speaker>
+      </speakers>
+      <track>151</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Managing Sparse Resources with Resource Governor</title>
+      <description>A large majority of a modern DBA's workload consists of managing the resources on their systems in order to ensure that they are being followed and resources are accessible when needed. SQL Server 2008 provides Resource Governor, which allows the DBA to discretely manage system resources in a very structured way. In this session, we will show you how to configure, monitor, and administer these features as well as demonstrate some of the pitfalls and helpful hints that you will need in order to successfully implement this fascinating tool. </description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34682</importID>
+      <speakers>
+        <speaker>
+          <id>34682</id>
+          <name>John Huang</name>
+        </speaker>
+      </speakers>
+      <track>352</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Query Plans</title>
+      <description>This session is written to help developers to read query plans, understand commonly seen operators and properties in the plan. at the end, I will explain how SQL Server estimates the cost of operators and how SQL Server make decisions to choose a plan out of numerous alternatives</description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30194</importID>
+      <speakers>
+        <speaker>
+          <id>30194</id>
+          <name>Dale Cunningham</name>
+        </speaker>
+      </speakers>
+      <track>351</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Solving Real Life Production Issues</title>
+      <description>A real life application of solving one companies serious production issues. This session will touch on many SQL Server tools, Third Party Tools, disciplines and resources and bring them all together into a synergy of useful index generation, and interpreting execution plans to get real performance measurements.</description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30367</importID>
+      <speakers>
+        <speaker>
+          <id>30367</id>
+          <name>Rick Morelan</name>
+        </speaker>
+      </speakers>
+      <track>352</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Basic Performance Tips and Gotchas</title>
+      <description>Forget Profiler for a second, I have seen one poorly placed index bring an enterprise database to its knees. We will cover the basic tips of performance which always work and the ones which always fail. What can you do – and what should you do – when it comes to the most common types of indexes so you always make the right move. We will use lessons from SQL Programming Joes 2 Pros.</description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30326</importID>
+      <speakers>
+        <speaker>
+          <id>30326</id>
+          <name>Hope Foley</name>
+        </speaker>
+      </speakers>
+      <track>151</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Self Service BI in SQL Server 2008 R2 (PowerPivot)</title>
+      <description>There are many IT pros who know all the snazzy tools to create fantastic reports.  The users who know the data inside and out may not know those tools, but odds are that they know Excel.  Microsoft has released PowerPivot which seems to bridge the gap between the two worlds.  These power users can now create their own fantastic reports within PowerPivot.  We will explore what PowerPivot is and how can use it to create a self-service business intelligence solution.  </description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32973</importID>
+      <speakers>
+        <speaker>
+          <id>32973</id>
+          <name>Sopheap Suy</name>
+        </speaker>
+      </speakers>
+      <track>351</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Women in Technology</title>
+      <description>Most women working in technology keep a low profile, rarely standing out, rarely pushing the extra effort that typically denotes excellence.  Women are constantly juggling to find the balance between career and family –with added complexity when children are involved.   Come and learn about the three essential career considerations for Women in Technology.   Understanding and applying these considerations can help you get to the next level of excellence in your career and family life. Men who understand these considerations can better support the women members in their life.   I will share some of my own experiences, challenges, and lessons learned as I have learned how to balance career, family, and life in general.</description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33775</importID>
+      <speakers>
+        <speaker>
+          <id>33775</id>
+          <name>Toshi Watanabe</name>
+        </speaker>
+      </speakers>
+      <track>151</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Row Level Security and SQL-CLR integration</title>
+      <description>RLS (Row Level Security) is often integral part of EDW (Enterprise Data Warehouse) design.  There are many ways to implement RLS. This is the story about our evolution of RLS implementation and how SQL-CLR integration helped us solve technical difficulty.</description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30287</importID>
+      <speakers>
+        <speaker>
+          <id>30287</id>
+          <name>Greg Larsen</name>
+        </speaker>
+      </speakers>
+      <track>252</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Through the Looking-Glass </title>
+      <description>"Through the Looking-Glass, and What Alice Found There" - When your world is SQL Server, you need a looking-glass to determine server health, diagnosis problems, and tune performance. In this session will we follow Alice through the looking-glass to determine what she finds in SQLServerLand. Alice will be using dynamic management views and functions (DMVs) to explore the land behind the looking-glass. She will find statistics, poorly performing queries, and much more. Follow Alice and her new friends, as she traverses across SQLServerLand and provides you with snippets of T-SQL code that you can use to explore your own SQLServerLand.
+
+
+</description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33041</importID>
+      <speakers>
+        <speaker>
+          <id>33041</id>
+          <name>Chuck Lathrope</name>
+        </speaker>
+      </speakers>
+      <track>252</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Inside and out of Transactional Replication</title>
+      <description>Replication in SQL Server is great tool for scaling out your master database(s) onto other servers for reporting and remote site access with near real-time data propagation. In this session, I will cover LAN and WAN data replication tricks-of-the-trade to offload work from your master servers. Using these techniques, you can improve your performance and monitoring of your existing installations or gain knowledge and confidence to implement new solution for your company.</description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29983</importID>
+      <speakers>
+        <speaker>
+          <id>29983</id>
+          <name>Diane Robey</name>
+        </speaker>
+      </speakers>
+      <track>351</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Get the most out of SQL Server Standard Edition</title>
+      <description>How can you get the most out of SQL Server Standard Edition? The SQL Server Enterprise Edition (EE) is far more expensive than the Standard Edition (SE). Many small office applications use SE. What features do you really need for your database system? Many features that are only available in EE, such as partitioning and data compression, are specific to managing larger databases. If you do not have very large databases, perhaps SE will be sufficient. Find out what actually improves performance for SE.</description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30920</importID>
+      <speakers>
+        <speaker>
+          <id>30920</id>
+          <name>John Halunen  Aubra Moore</name>
+        </speaker>
+      </speakers>
+      <track>252</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Load-balancing architectures for Online Reporting </title>
+      <description>We will describe some of the different architectures (focusing on the db side) that Microsoft Adserving has used to Load Balance ever growing user reporting loads, data refreshes, and database maintenance across multiple reporting servers.  The focus will be on the DB side, with minor context given to the web and middle tier pieces necessary for each system to work.  Note that this is reporting in the sense of generating end user reports (not using SSRS).</description>
+      <startTime>4/9/2011 12:00:00 AM</startTime>
+      <endTime>4/9/2011 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,286 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #102 - Trinidad 2011</name>
+    <startDate>11/11/2011 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat102</twitterHashtag>
+    <venue>
+      <name>Courtyard By Marriott </name>
+      <street>Invaders Bay, Audrey Jeffers Highway</street>
+      <city>Port of Spain</city>
+      <state>, Trinidad and Tobago</state>
+      <zipcode>
+      </zipcode>
+      <longitude>-61.534472</longitude>
+      <latitude>10.658979</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Premium Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>720</importID>
+      <name>Infotech Caribbean Limited</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.infotechcaribbean.com/</url>
+      <imageURL>https://www.pass.org/files/be9eaf18-fe31-4b15-ad13-a54d3c012274.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1186</importID>
+      <name>Teleios Systems</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.teleios-systems.com/Pages/default.aspx</url>
+      <imageURL>https://www.pass.org/files/77b2df35-8755-45e5-a81b-34b1ae873633.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>394</importID>
+      <name>Apress</name>
+      <label>Book Sponsor</label>
+      <url>http://www.apress.com/</url>
+      <imageURL>https://www.pass.org/files/d4c52bf3-c1c0-44c9-aa2a-bdbbb3f4fdab.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>44</importID>
+      <name>Morgan Kaufmann</name>
+      <label>Book Sponsor</label>
+      <url>http://www.nxtbook.com/nxtbooks/elsevier/MK2010G/</url>
+      <imageURL>
+      </imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1355</importID>
+      <name>SolidQ</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.solidq.com/es</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/921/EventSponsor_14422.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>32536</importID>
+      <name>Rushabh Mehta</name>
+      <label>
+      </label>
+      <description>Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
+
+Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
+
+</description>
+      <twitter>@rushabhmehta</twitter>
+      <linkedin>https://www.linkedin.com/in/rushabhbmehta</linkedin>
+      <ContactURL>http://blogs.solidq.com/RushabhMehta</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@rushabhmehta</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32537</importID>
+      <name>Rushabh Mehta</name>
+      <label>
+      </label>
+      <description>Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
+
+Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
+
+</description>
+      <twitter>@rushabhmehta</twitter>
+      <linkedin>https://www.linkedin.com/in/rushabhbmehta</linkedin>
+      <ContactURL>http://blogs.solidq.com/RushabhMehta</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@rushabhmehta</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30298</importID>
+      <name>Hasani Holder</name>
+      <label>
+      </label>
+      <description>Hasani Holder is a software engineer at Teleios Systems with 3 years working on the MessageCentral team. My primary usage of SQL Server is to store and retrieve messaging transaction data however I also perform analysis on that data to find patterns, trends and anomolies. Recently I've been toying with Microsoft Data Mining to improve that analysis.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32077</importID>
+      <name>Nigel Sammy</name>
+      <label>
+      </label>
+      <description>Nigel Peter Sammy is a Microsoft Data Platform MVP with over 15 years of technical experience which includes 12 years of database and SQL Server experience. Nigel previously worked at Microsoft as an Account Technology Strategist where he was responsible for providing pre-sales technical/architectural support for Commercial and Public Sector customers. He was also responsible for delivering technical presentations and proof of concepts using SQL Server, Azure and Power BI . He is a co-author of Microsoft’s SQL Server 2012 Upgrade Technical Guide and a technical editor of Wrox’s Microsoft SQL Server 2012 and 2016 Reporting Services books. For the last 9 years he has been presenting for conferences locally and internationally.</description>
+      <twitter>@NigelSammy</twitter>
+      <linkedin>http://www.linkedin.com/in/nigelpsammy</linkedin>
+      <ContactURL>http://www.nigelpsammy.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@NigelSammy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30493</importID>
+      <name>Jason Deyalsingh</name>
+      <label>
+      </label>
+      <description>I currently work as a web architect for CLICO. I've been working with SQL server for only about 5 years, but I am fascinated by the product and database systems in general.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://codeue.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30591</importID>
+      <name>Joe Chang</name>
+      <label>
+      </label>
+      <description>
+      </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlblog.com/blogs/joe_chang/default.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>30591</importID>
+      <speakers>
+        <speaker>
+          <id>30591</id>
+          <name>Joe Chang</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Performance for SMB Developers - 2011</title>
+      <description>Is performance still important today, with powerful systems and storage, especially in small and medium business environments? The popular concept “code reuse” misinterpreted in SQL has catastrophic consequences.  The cost based optimizer, a cornerstone of modern database engines, can lead to seriously bad execution plans. The immense power of modern system is distribute of many processors cores. The database must be designed for scalable parallel execution plans to benefit from modern system architecture. Finally, random IO performance appears to be solved with SSD. Well, now it is time to admit that there are CPU elements of disk IO that are not solved by SSD storage with immense IOPS capability.</description>
+      <startTime>11/11/2011 12:00:00 AM</startTime>
+      <endTime>11/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32537</importID>
+      <speakers>
+        <speaker>
+          <id>32537</id>
+          <name>Rushabh Mehta</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Journey into Business Intelligence</title>
+      <description>In this session we will talk about what Business Intelligence (BI) is and show various technologies that play a role into building a BI solution. Demonstrations will be done to show how to build a basic SSAS cube from scratch.</description>
+      <startTime>11/11/2011 12:00:00 AM</startTime>
+      <endTime>11/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30493</importID>
+      <speakers>
+        <speaker>
+          <id>30493</id>
+          <name>Jason Deyalsingh</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Database Integrity</title>
+      <description>Maintaining database integrity is an important part of every DBA's job. As with all things I.T, things do go wrong, and it's important to know how to respond to database corruption problems if they ever occur. This presentation will give a basic overview of how databases are made up, how corruption can occur, the different types of database corruption and the built-in tools SQL server has for dealing with these issues.</description>
+      <startTime>11/11/2011 12:00:00 AM</startTime>
+      <endTime>11/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32077</importID>
+      <speakers>
+        <speaker>
+          <id>32077</id>
+          <name>Nigel Sammy</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>What's new in SQL Server 2012</title>
+      <description>Taking a look at some of the new exciting features in SQL Server 2012</description>
+      <startTime>11/11/2011 12:00:00 AM</startTime>
+      <endTime>11/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32536</importID>
+      <speakers>
+        <speaker>
+          <id>32536</id>
+          <name>Rushabh Mehta</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Zero to BI in 10 Minutes</title>
+      <description>The story of self-service BI</description>
+      <startTime>11/11/2011 12:00:00 AM</startTime>
+      <endTime>11/11/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30298</importID>
+      <speakers>
+        <speaker>
+          <id>30298</id>
+          <name>Hasani Holder</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Microsoft Data Mining Fundamentals</title>
+      <description>In the book, Data Mining with Microsoft SQL Server 2008, the author defines data mining as “the process of analyzing data to find hidden patterns using automatic methodologies”. In this session, we will look at what data mining is and what are some advantages of using it.  We will also take a look at what data mining can do for you by reviewing some of the problems that it can be used to address and the cost of implementing it. I will demonstrate how easy it is to use SQL Server Analysis Services (SSAS) and Business Intelligence Development Studio (BIDS) to build and analyze models using existing data.</description>
+      <startTime>11/11/2011 12:00:00 AM</startTime>
+      <endTime>11/11/2011 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

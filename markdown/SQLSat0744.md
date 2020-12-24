@@ -1,0 +1,22 @@
+# SQLSaturday #744 - Caxias do Sul 2018
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:00:00|Gustavo Gattass Ayub|Other|[Inteligência Artificial...Onde estamos e para onde vamos...](80292.md)
+10:00:00|Flávio Farias|Enterprise Database Administration  Deployment|[Go to Space with Azure CosmosDB](72502.md)
+10:00:00|Raul Oliveira|Enterprise Database Administration  Deployment|[O Guia de Sobrevivência do "DBA Moderno"](82063.md)
+10:00:00|Fernando Garcia|Analytics and Visualization|[Power BI - Cluster com DAX, Publicação e Compartilhamento com RLS](82325.md)
+11:00:00|Diego Nogare|Advanced Analysis Techniques|[Machine Learning de caixinha?](72938.md)
+11:00:00|Caio Amante|Enterprise Database Administration  Deployment|[Relacional x NOSQL](77633.md)
+11:00:00|Anderson Souza|Other|[Docker Windows com SQL Server 2017 - HowTo](80756.md)
+13:00:00|Sulamita Dantas|Cloud Application Development  Deployment|[Backup Database On Premises no Azure](81946.md)
+13:00:00|Rodrigo Dornel|Advanced Analysis Techniques|[Análise de dados com Linguagem R + Visual Studio 2017 + Power BI](82045.md)
+13:00:00|Arthur Luz|Application  Database Development|[Introdução a T-SQL](83355.md)
+14:00:00|Marcelo Adade|Enterprise Database Administration  Deployment|[Evitando as gafes mais comuns no Always On Availability Groups](72543.md)
+14:00:00|Bruno Feldman|BI Platform Architecture, Development  Administration|[Conhecendo o Azure SQL Data Warehouse](81995.md)
+14:00:00|Marco Gustavo Nör da Silva Nör da Silva|BI Platform Architecture, Development  Administration|[Implementação de Self Service Bi através do Power Bi e SSIS](83948.md)
+15:30:00|Ricardo Leka|Enterprise Database Administration  Deployment|[Melhores práticas #SQN](72847.md)
+15:30:00|Fernando Andreazi|Professional Development|[The Dark Side of Big Data](80774.md)
+15:30:00|Marcus Vinícius Bittencourt|Enterprise Database Administration  Deployment|[Hacking SQL Server](82368.md)
+16:30:00|Vitor Fava|Advanced Analysis Techniques|[Implementando soluções de IA utilizando os serviços cognitvos no Azure](72602.md)
+16:30:00|Tiago Crespi|Application  Database Development|[Hoje no SQL Saturday – Índices! Como vivem? Como se reproduzem? Do que se alimentam?](81993.md)
+16:30:00|LOGAN MERAZZI|Application  Database Development|[Powershell: Desempenho e melhores práticas](83940.md)

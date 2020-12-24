@@ -1,0 +1,1059 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #792 - Brasilia 2018</name>
+    <startDate>8/25/2018 12:00:00 AM</startDate>
+    <attendeeEstimate>600</attendeeEstimate>
+    <timezone>(GMT-03:00) Greenland</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat792</twitterHashtag>
+    <venue>
+      <name>UniProjeção - Campus II (Taguatinga Norte) - Antiga FAJESU</name>
+      <street>QNG 46, Area Especial 08</street>
+      <city>Brasilia</city>
+      <state>Distrito Federal, Brazil</state>
+      <zipcode>72130-400</zipcode>
+      <longitude>-48.06007</longitude>
+      <latitude>-15.79734</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>2280</importID>
+      <name>One Way Solution</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.owshq.com.br/</url>
+      <imageURL>https://luanmorenodba.files.wordpress.com/2016/10/logo_transparc3aancia.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1781</importID>
+      <name>Microsoft</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.microsoft.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1008/EventSponsor_14955.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2174</importID>
+      <name>Planilheiros Treinamentos Empresariais Ltda</name>
+      <label>Bronze Sponsor</label>
+      <url>https://planilheiros.com.br</url>
+      <imageURL>https://planilheiros.com.br/wp-content/uploads/2018/04/PBIx_completa.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1807</importID>
+      <name>Dataside</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.dataside.com.br</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1016/EventSponsor_14872.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2273</importID>
+      <name>WIZ Soluções</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.wizsolucoes.com.br/</url>
+      <imageURL>https://thumb.lovemondays.com.br/image/33dacc8433ba4201b67511bd764e01c0/logos/b05dab/wiz-solucoes-1.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2279</importID>
+      <name>Green Tecnologia</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.green.com.br/site/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/906/EventSponsor_14240.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>84071</importID>
+      <name>Diemerson Campos</name>
+      <label>
+      </label>
+      <description>Consultor e Administrador de bancos de dados especialista em SQL Server, graduado em Bancos de dados e pós-graduado em Segurança da informação a mais de 7 anos trabalhando com bancos de dados SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/diemersoncampos/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>83585</importID>
+      <name>Edwin M Sarmiento</name>
+      <label>
+      </label>
+      <description>Edwin M Sarmiento is the Managing Director of 15C, a consulting and training company that specializes in designing, implementing and supporting SQL Server infrastructures. He is a 12-year former Microsoft Data Platform MVP and Microsoft Certified Master from Ottawa, Canada (but he’s originally from the Philippines) specializing in high availability, disaster recovery and system infrastructures running on the Microsoft server technology stack. His background in Unix has taken him to the world of DevOps and Docker to containerize SQL Server. He is very passionate about technology but has interests in music, professional and organizational development, leadership and management matters when not working with databases.</description>
+      <twitter>EdwinMSarmiento</twitter>
+      <linkedin>http://ca.linkedin.com/in/edwinmsarmiento</linkedin>
+      <ContactURL>http://www.EdwinMSarmiento.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=EdwinMSarmiento</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84778</importID>
+      <name>Laura Solano</name>
+      <label>
+      </label>
+      <description>QlikView Developer/Designer, Qlik Sense Data Architect
+
+Graduada em Ciência da Computação pela Universidade de Brasília, co-fundadora e sócia da empresa Biggdata, coordenadora técnica e consultora especializada em Data Discovery/BI.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/laurasolanoc/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>83947</importID>
+      <name>Thiago Cruz</name>
+      <label>
+      </label>
+      <description>Founder of database consulting training firm DBA Academy, he has been working with Database for about 10 years, working with SQL Server, PostgreSQL and MySQL platforms. He keeps a constantly updated Blog with articles from various database platforms. data, and constantly discusses various database events.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=AAIAAAfV-XQB4Ggvl4F52vu4lyVU4GML2HYSbWMamp;trk=nav_responsive_tab_profile</linkedin>
+      <ContactURL>http://www.dbaacademy.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>83042</importID>
+      <name>Felippe Oliveira</name>
+      <label>
+      </label>
+      <description>Formado em Sistemas de informação pela faculdade Uniban-Anhaguera em 2012, certificado Microsoft nas provas de Administração e Desenvolvimento de SQL Server 2012/2014, Experiência de 5 anos como DBA SQL Server e quase 1 ano como Analista de Sistemas(BI) na XP Investimentos. Participação na modelagem e desenvolvimento do banco de dados para projeto de sistema de controle de estoque para empresa ALS Corplab.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/wvmx/profile?trk=nav_responsive_sub_nav_wvmp</linkedin>
+      <ContactURL>https://felippeoliveirasantos.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>82600</importID>
+      <name>Marcus Vinícius Bittencourt</name>
+      <label>
+      </label>
+      <description>MVP Data Platform, PASS Regional Mentor, Chapter Leader do SQL Server RS.
+DBA especializado em infraestrutura, troubleshooting. 
+Trabalha com SQL Server há mais de 10 anos.
+SQL Performance Counters and Storage Expert, powershell, speaker na comunidade SQL Server em eventos como SQL Saturday, 24HOP, CMG, Eventos de Chapters Locais e Virtuais, dentre outros...</description>
+      <twitter>http://twitter.com/mvbitt</twitter>
+      <linkedin>http://likedin.com/marcus.bittencourt</linkedin>
+      <ContactURL>http://isqlserver.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/mvbitt</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>83843</importID>
+      <name>Advaldo Mesquita</name>
+      <label>
+      </label>
+      <description>Profissional com mais de 18 anos de experiência profissional, desenvolvidos em empresas como T-Systems, Itau IBBA, Bradesco entre outras. 
+Atualmente, responsável pelo banco de dados da Secretaria da Educação do Estado de SP.</description>
+      <twitter>@advaldom</twitter>
+      <linkedin>http://linkedin.com.br/in/advaldomesquita</linkedin>
+      <ContactURL>http://adjuniordba.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@advaldom</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>83964</importID>
+      <name>Fernando Garcia</name>
+      <label>
+      </label>
+      <description>Administrador de Empresas, atua na área de BI Analytics (Óleo  Gás), Microsoft Data Platform MVP (Most Valuable Professional 2017-2019), especializado em Power BI. Criador, líder e conteudista da Comunidade PlanilheirosBrasil (Youtube +42 mil seguidores) e de Comunidade técnica corporativa (indústria de Óleo  Gás +11mil seguidores), ambas destinadas ao Self-Service BI  Analytics Microsoft. Criador do maior evento de Power BI da América Latina: Power BI Weekend. Instrutor especialista em tecnologias e softwares Microsoft (DAX, M, Power BI, Azure CS, Power Pivot, Power Query) desde 2011, já capacitou quase 3.000 profissionais, atuando +2.800h em sala de aula. É palestrante em eventos de tecnologia (Data Platform, Big Data)</description>
+      <twitter>https://twitter.com/planilheirosbra</twitter>
+      <linkedin>https://www.linkedin.com/in/garciamartins</linkedin>
+      <ContactURL>https://planilheiros.com.br/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/planilheirosbra</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>82602</importID>
+      <name>Reginaldo Silva</name>
+      <label>
+      </label>
+      <description>Estudou ciências da computação
+Apaixonado por tecnologia
+MCSE: Data Management and Analytics
+MCSA: SQL 2016 Database Development
+MCP SQL Server 2012 e 2016
+MTAC - Multi-Platform Audience Contributor</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/reginaldosilva27/</linkedin>
+      <ContactURL>https://blogdojamal.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84046</importID>
+      <name>Suellen Moraes</name>
+      <label>
+      </label>
+      <description>Formada Tecnologia em banco de dados pós graduada em gestão de TI e formação em coaching. Auxiliando pessoas a se conhecerem, se transformarem e alcançar os seus sonhos e objetivos. Atualmente coordenadora de banco de dados com experiência em gestão corporativa de pessoas, administração de Banco de Dados SQL Server desde a versão 2000, tendo como foco principal Administração das Bases, Tunning, troubleshooting, utilizaçãodo do SSIS, diagnosticar problemas no sistema, garantir alta disponibilidade do ambiente, estudo de viabilidade de ambientes, análise de consultas visando otimizar o desempenho dos processos, planejar a arquitetura para novos projetos e melhoria para os ja existentes no ambiente.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://br.linkedin.com/in/suellen-moraes-46562138</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84467</importID>
+      <name>Jefferson Oliveira</name>
+      <label>
+      </label>
+      <description>Graduado em Análise e Desenvolvimento de Sistemas. Possui a certificação MCSE: Data Management and Analytics. Está no mercado de tecnologia há mais de 8 anos. Foi líder técnico de empresa do ramo varejista. Atualmente trabalha como DBA SQL Server em empresa do ramo financeiro.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/jefferson-oliveira-5a260324/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84666</importID>
+      <name>Arthur Luz</name>
+      <label>
+      </label>
+      <description>MCSE - Data Managment and Analytics, Especialista na suite de BI da Micorsoft, Analista Sênior em Modelagem e implementação de projetos de BI, Instrutor Oficial Microsoft [MCT], Desenvolvedor de Soluções usando tecnologias de Big Data, Articulista técnico da revista SQL Magazine e blog Data's Light e Palestrante da comunidade Microsoft vinculado ao PASS. Atua hoje como Chief Data Officer at Data's Light.</description>
+      <twitter>@arthurjosemberg</twitter>
+      <linkedin>https://br.linkedin.com/in/arthurjosemberg</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@arthurjosemberg</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84076</importID>
+      <name>Marcelo Adade</name>
+      <label>
+      </label>
+      <description>Marcelo is a Database Consultant at The Pythian Group. He has more than 10 years of experience in several Companies from different branches and sizes. Like financial companies, consultant shops, datacenters and e-commerce sites. Currently holds the MCSE, MCT and MCSA Microsoft Certifications and also the Oracle OCP. Loves technology and enjoys sharing his Database knowledge delivering presentations and official Microsoft Training Courses. Currently he is also the co-leader of the SQLMANIACS PASS User Group, based in Sao Paulo, Brazil</description>
+      <twitter>@marceloadade</twitter>
+      <linkedin>https://br.linkedin.com/in/marceloadade</linkedin>
+      <ContactURL>http://www.dbbits.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@marceloadade</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>82777</importID>
+      <name>Caio Amante</name>
+      <label>
+      </label>
+      <description>Atua no ramo de tecnologia há mais de 10 anos. Formado em análise de sistemas pelo IBTA. Possui certifições MCSA Administration 2016, MCSA 2012/2014, MCSE data management and analytics, MCP SQL Server e Windows, ITIL V3, ISO 27002. Membro da ONG MTAC, tem se lançado como palestrante em eventos como : SQL Day, BootCamp, SQL Saturday.
+Chapter Leader de São José dos Campos
+Fundador da empresa Dataside Soluções em Banco de Dados ,  consultoria especializada administração, monitoramento e cloud para banco de dados.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/caio-amante-85750183/</linkedin>
+      <ContactURL>https://caiosamante.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85259</importID>
+      <name>Danielle Monteiro</name>
+      <label>
+      </label>
+      <description>Sou Microsoft MVP (Most Valuable Professional) , MongoDB Female Innovator, 
+mestre em Engenharia da Computação, pós graduada em Engenharia de Negócios e uma das 50 hackers to follow (segundo a lista da Gama Academy). 
+Trabalho com TI há mais de 15 anos, inicialmente como desenvolvedora, depois como DBA e atualmente como Arquiteta de Dados.
+Sou autora do blog DB4BEGINNERS.com, colaboradora de diversos blogs e comunidades.
+Tenho como objetivo ajudar desenvolvedores iniciantes a modelar e consultar bancos de dados relacionais e NoSQL para que eles possam criar ótimas aplicações, trabalhar em excelentes empresas com ótimos salários.</description>
+      <twitter>twitter.com/danimonteirodba</twitter>
+      <linkedin>https://www.linkedin.com/in/danimonteirodba</linkedin>
+      <ContactURL>http://DB4Beginners.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=twitter.com/danimonteirodba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84665</importID>
+      <name>Vitor Fava</name>
+      <label>
+      </label>
+      <description>I'm a DBA with extensive experience in the areas of Database and Information Technology, working on planning, implementation, and maintenance of large corporate database servers. 
+I have several professional certifications and good experience in development activities and management of entrepreneurial environments using SQL SERVER. 
+I'm a speaker at various technology events such as SQL Saturday, The Developers Conference, InteropMix and also in various discussion groups focused on database technology.
+I teach advanced training in SQL Server and Azure SQL Database and also acting as MCT in Microsoft official training.
+I'm the Chapter Leader of SQLManiacs PASS chapter.</description>
+      <twitter>sqlservermaniacs</twitter>
+      <linkedin>https://br.linkedin.com/in/vitorfava</linkedin>
+      <ContactURL>https://www.vitorfava.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlservermaniacs</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>82828</importID>
+      <name>Raiane Lins</name>
+      <label>
+      </label>
+      <description>Raiane Lins [Nane] é DBA SQL Server há 5 anos, gosta muito da parte de infraestrutura, mas agora está começando a se aventurar mais na parte de tuning e engatinhando na programação T-SQL. É um dos autores do Blog “Comunidade SQL Server” e cada vez mais procura aprender sobre SQL Server e tenta passar um pouco do seu conhecimento para a comunidade.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://comunidadesqlserver.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>83376</importID>
+      <name>Fabiano Amorim</name>
+      <label>
+      </label>
+      <description>Fabiano Amorim is a Data Platform MVP that loves to conquer complex, challenging problems—especially ones that others aren’t able to solve. He first became interested in technology when his older brother would bring him to his work meetings at the age of 14. With over a decade of experience, Fabiano is well known in the database community for his performance tuning abilities. When he isn’t working, he loves to read and spend time with his family.</description>
+      <twitter>mcflyamorim</twitter>
+      <linkedin>https://www.linkedin.com/in/fabianoamorim/</linkedin>
+      <ContactURL>http:\\blogfabiano.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mcflyamorim</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84331</importID>
+      <name>Igor Santos de Paula</name>
+      <label>
+      </label>
+      <description>Administrador de bancos de dados em ambientes 24x7, sem janela de manutenção. Possui experiencia em instituições financeiras e de e-commerce. Atua na empresa líder em soluções de pagamento e serviços financeiros para e-commerce na América Latina.
+Entusiasta do Cosmos DB.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://br.linkedin.com/in/igor-santos-de-paula-098bab35</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84064</importID>
+      <name>Orlando Gomes</name>
+      <label>
+      </label>
+      <description>Consultor de BI na Lambda3, possui mais de 4 anos de atuação no mercado tecnologias Microsoft, focado no suporte e implementação em plataformas Windows Server e SharePoint Server, é graduando do 5 º Ano de Engenharia Mecatrônica pela FIAP, é Microsoft MSP e MVP Data Platform, onde trabalha com ações para compartilhamento de conhecimento no meio profissionais e acadêmico.</description>
+      <twitter>orlandomaiuri</twitter>
+      <linkedin>https://www.linkedin.com/in/orlandomariano/</linkedin>
+      <ContactURL>https://medium.com/@orlandogomes_13207</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=orlandomaiuri</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84667</importID>
+      <name>Jéssica Lima</name>
+      <label>
+      </label>
+      <description>Senior Data Plataform Consultant, graduada como Engenheira da Computação, Analista de Sistemas, gestora de TI e cursando Ciência de Dados, trabalha com banco de dados SQL Server e demais tecnologias Microsoft. Vivência na administração de grandes ambientes, hoje atua na Capta Tecnologia. 
+
+Palestrante de grandes eventos como o SQL Saturday em diversos estados do Brasil, é curiosa e criativa, e também busca compartilhar o que aprende no dia a dia no blog Agora deu Zebra!</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/jeelimaa/</linkedin>
+      <ContactURL>https://agoradeuzebra.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>83273</importID>
+      <name>Tiago Neves</name>
+      <label>
+      </label>
+      <description>Sou MTAC, Local Group Leader SQL SERVER - ES, atualmente trabalho como consultor SQL Server na  Eiti Soluções Gestão de TI, atendendo clientes de todo o Brasil.
+Tenho um blog sobre SQL Server http://www.tiagoneves.net/blog/</description>
+      <twitter>tiagolneves</twitter>
+      <linkedin>https://www.linkedin.com/in/tiago-neves-dba/</linkedin>
+      <ContactURL>http://www.tiagoneves.net/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=tiagolneves</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>82882</importID>
+      <name>Claudio Bonel</name>
+      <label>
+      </label>
+      <description>Sou uma pessoa que transforma dados em conhecimento desde 2004, quando nem eu mesmo sabia o que estava fazendo. Hoje, depois de desenvolver alguns projetos em diversas verticais de negócio e ter atuado como desenvolvedor, consultor, especialista e gestor, consigo enxergar de forma bem clara que meu propósito de vida e de carreira e prover conhecimentos e insights através de uma análise assertiva dos dados, o bom e velho Business Intelligence.</description>
+      <twitter>Claudiobonel</twitter>
+      <linkedin>http://Http://br.linkedin.com/in/bonel</linkedin>
+      <ContactURL>http://Http://www.dadoteca.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Claudiobonel</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>82794</importID>
+      <name>Ricardo Leka</name>
+      <label>
+      </label>
+      <description>Microsoft Certified Master e Microsoft Certified Solutions Master, Ricardo #233; uma das poucas pessoas do Brasil com o mais alto n#237;vel de certifica#231;#227;o Microsoft em SQL Server.
+Consultor SQL Server a mais de 15 anos, especialista em planejamento de ambientes de Alta disponibilidade e Recupera#231;#227;o de Desastre.</description>
+      <twitter>@bigleka</twitter>
+      <linkedin>http://br.linkedin.com/in/ricardoleka</linkedin>
+      <ContactURL>http://leka.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@bigleka</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>83041</importID>
+      <name>RUY LACERDA</name>
+      <label>
+      </label>
+      <description>Speaker of Planilheiros YouTube channel specialized on Microsoft technologies for Self-Service BI and analytics with +33.000 followers and +100 videos. 
+Microsoft technical community administrator in Oil  Gas company specialized on Power BI, DAX, M and Power Users with +11.000 followers.
+Trained thousands of professionals on the DAX language, M language, and Microsoft SSBI all around the world.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://linkedin.com/in/ruylacerda</linkedin>
+      <ContactURL>http://planilheiros.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>82592</importID>
+      <name>Fernando Andreazi</name>
+      <label>
+      </label>
+      <description>With a 12 year experience in the IT market and 6 years focused on cloud services, helping clients on understanding and adoption the strategies of Microsoft Cloud Solution and Digital Transformation projects at REDBELT.
+
+Recognized by Microsoft as Office 365 Most Valuable Professional (MVP). I'm a leader with the commitment to help others to get the most from your experience with Microsoft technologies. 
+
+I use my communication skills and creativity to search for real solutions for clients and internal team development. Solid knowledge in area expertise's area helping clients on decision-making, design, technical and financial scenarios, always get results-oriented business and commuted to the customers' needs.</description>
+      <twitter>fandreazi</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=fandreazi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>82825</importID>
+      <name>Leandro Domingues</name>
+      <label>
+      </label>
+      <description>Microsoft Data Platform MVP, MongoDB Ambassador, Evangelist e Certified Trainer, membro do MongoDB Advocacy Hub, Top 50 Neo4j Certified, também tem grande experiência em MS SQL Server. Atualmente é Head of NoSQL Solutions na Dataside e Founder da Cluster Consultoria, uma empresa dedicada a oferecer soluções NoSQL. Entusiasta de tecnologias open-source, bigdata e NoSQL. Mais de 18 anos de experiência em desenvolvimento de aplicações e manutenção de grandes volumes de dados.</description>
+      <twitter>delbussoweb</twitter>
+      <linkedin>https://www.linkedin.com/in/leandro-domingues/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=delbussoweb</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84232</importID>
+      <name>Bernardo Dias Bordalo Loureiro</name>
+      <label>
+      </label>
+      <description>Statistician who studied at the National School of Statistics. Graduated in 2017. Studying to become a data scientist and already with some experiments with machine learning. Good skills in SQL and R.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/in/bernardodbloureiro</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84184</importID>
+      <name>Leonardo Pedroso Costa</name>
+      <label>
+      </label>
+      <description>n/a</description>
+      <twitter>@SQLEO</twitter>
+      <linkedin>https://www.linkedin.com/in/leonardopedroso/</linkedin>
+      <ContactURL>http://www.sqleo.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLEO</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>82592</importID>
+      <speakers>
+        <speaker>
+          <id>82592</id>
+          <name>Fernando Andreazi</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>Sala 01</name>
+      </location>
+      <title>The Dark Side of the Big Data</title>
+      <description>Sabemos que 90% dos dados no mundo de hoje foram criados apenas nos últimos dois anos. À medida que o mundo se torna cada vez mais conectado a um número cada vez maior de dispositivos e isso deve crescer ainda mais nos próximos anos, assim como a exponencial crescente dos dados. Muitas empresas já usam o Big Data para marketing, tomada de decisão e business de forma geral, mas podem não estar utilizando os fundamentos certos - especialmente do ponto de vista da segurança. Como acontece com todas as novas tecnologias, a segurança parece ser uma reflexão tardia, na melhor das hipóteses. Os dados podem ser usados para o bem, aproveitados para a melhoria da sociedade, cidades e serviços, mas também podem ser usados de forma abusiva e as violações de Big Data no futuro serão ainda maiores, com o potencial de danos à reputação e repercussões legais ainda mais graves do que atualmente. Veremos nessa sessão como obter segurança no uso do Big Data e como os governos respondem a essa tema.</description>
+      <startTime>8/25/2018 9:00:00 AM</startTime>
+      <endTime>8/25/2018 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>82882</importID>
+      <speakers>
+        <speaker>
+          <id>82882</id>
+          <name>Claudio Bonel</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Sala 04</name>
+      </location>
+      <title>Governança de Dados para BI, em tempos de Self-Service BI</title>
+      <description>Esta palestra tem por objetivo apresentar aos participantes os processos-chave de uma governança de dados voltada para o business intelligence, processos estes baseados e fundamentados na metodologia do DAMA DMBOK. Focando principalmente em 3 pilares: Arquitetura, Qualidade de Dados e Modelo de dados para BI, buscando a contextualização e importância de uma gestão de dados qualificada para sustentar os Dashboards de Business Intelligence, desenvolvidos pelos usuários-chave e tomadores de decisão.
+
+Na parte final faremos uma DEMO, utilizando o SQL Server DB, SQL Server Analysis Services e o Power BII, onde apresentaremos na prática os 3 principais pilares da Governança de Dados.</description>
+      <startTime>8/25/2018 2:00:00 PM</startTime>
+      <endTime>8/25/2018 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>83585</importID>
+      <speakers>
+        <speaker>
+          <id>83585</id>
+          <name>Edwin M Sarmiento</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 03</name>
+      </location>
+      <title>The Smart Way to Troubleshoot SQL Server Always On Cluster and Availability Group Outages</title>
+      <description>SQL Server Failover Clustered Instances (FCI) and Availability Groups (AG) depend a lot on Windows Server Failover Clustering (WSFC). But when mission-critical databases go offline, bringing them back online could be a nerve-wracking experience.
+
+This session will look at understanding how the underlying WSFC platform works to help us maintain availability of our databases. This is for DBAs and systems administrators who are responsible for administering SQL Server FCIs and AGs but are not so comfortable with figuring out why the databases went offline and what they can do about it. We’ll walk thru the troubleshooting process that I follow to quickly identify and resolve SQL Server FCI and AG availability issues.</description>
+      <startTime>8/25/2018 4:30:00 PM</startTime>
+      <endTime>8/25/2018 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84184</importID>
+      <speakers>
+        <speaker>
+          <id>84184</id>
+          <name>Leonardo Pedroso Costa</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 03</name>
+      </location>
+      <title>Oracle e SQL Server na prática: mitos, semelhanças e diferenças</title>
+      <description>Em um mundo de T.I. cada vez mais heterogêneo, é normal o DBA encontrar em seu ambiente um banco que detém grande parte do volume do ambiente, outro com uma parte menor e alguns sistemas isolados em bancos menores. Você como um bom DBA precisa que todos os seus dados estejam seguros, rápidos e dominados. Nessa seção você aprenderá sobre os mitos que giram em torno dos SGBDs SQL Server e Oracle, quais as semelhanças entre um e outro tais como Archivelog, Redo Log, Recovery Model, Transaction Log, TempDB e Tablespace Temporária além de suas principais diferenças do tipo índices por função, Buffer Pool Extension, Flahsback, Duplicate database.
+
+É uma palestra puramente técnica com o objetivo de deixar os DBA's de SQL Server seguros em atuar no Oracle e vice /versa.</description>
+      <startTime>8/25/2018 9:00:00 AM</startTime>
+      <endTime>8/25/2018 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>84076</importID>
+      <speakers>
+        <speaker>
+          <id>84076</id>
+          <name>Marcelo Adade</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 03</name>
+      </location>
+      <title>Linux Administration for SQL SERVER DBAs</title>
+      <description>You, as a SQL SERVER DBA are used to troubleshooting Windows as a Master. Now we have a different OS flavor. Are you ready to add a few more tools to your DBA skill set?
+In this section let´s see how to perform the most common troubleshooting tasks, that we are already used to performing on Windows, now on Linux.</description>
+      <startTime>8/25/2018 10:00:00 AM</startTime>
+      <endTime>8/25/2018 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>84232</importID>
+      <speakers>
+        <speaker>
+          <id>84232</id>
+          <name>Bernardo Dias Bordalo Loureiro</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Sala 04</name>
+      </location>
+      <title>Machine Learning Services - Utilizando R dentro do SQL Server</title>
+      <description>Com a introdução do Machine Learning Services no SQL Server, podemos performar códigos da linguagem R ou Python dentro do próprio SQL Server. Essa seção trará como performar os códigos R e alguns conceitos de modelos estatísticos mais utilizados em aprendizagem de máquina.</description>
+      <startTime>8/25/2018 9:00:00 AM</startTime>
+      <endTime>8/25/2018 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>84778</importID>
+      <speakers>
+        <speaker>
+          <id>84778</id>
+          <name>Laura Solano</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Sala 04</name>
+      </location>
+      <title>Práticas de Percepção e Elicitação para BI com foco em Governo</title>
+      <description>Nos últimos anos a informação tem se consolidado, cada vez mais, como o novo petróleo, tornando-se ainda mais estratégica e vital no apoio à gestão de empresas e órgãos governamentais. 
+
+Nesse contexto, a análise do negócio e seus gargalos se fazem imprescindíveis para garantir uma tomada de decisão mais efetiva. Para tal, é imperioso o uso de ferramentas e técnicas que auxiliem no processo de elicitação de negócio. 
+
+Nesta seção iremos abordar algumas boas práticas de percepção e elicitação de negócio para projetos de BI com foco em governo, culminando na apresentação de um CANVAS construído para auxiliar no processo de levantamento de requisitos.</description>
+      <startTime>8/25/2018 4:30:00 PM</startTime>
+      <endTime>8/25/2018 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>83843</importID>
+      <speakers>
+        <speaker>
+          <id>83843</id>
+          <name>Advaldo Mesquita</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 01</name>
+      </location>
+      <title>In Memory - Processamento em memória ou Processamento em disco</title>
+      <description>Cada vez mais bancos OTLP precisam processar volumes de dados de forma mais rápida de modo que podemos ter um consumo de I/O ou memória alto.
+Vou demonstrar algumas diferenças de escrita em disco e escrita em memória para determinar em qual momento podemos utilizar o In Memory e como isso afeta em performance.</description>
+      <startTime>8/25/2018 3:30:00 PM</startTime>
+      <endTime>8/25/2018 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>82825</importID>
+      <speakers>
+        <speaker>
+          <id>82825</id>
+          <name>Leandro Domingues</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 01</name>
+      </location>
+      <title>MongoDB para DBAs Relacionais - Tudo o que você sempre quis saber</title>
+      <description>Várias dúvidas cercam DBAs durante o processo de adoção de uma tecnologia de banco de dados NoSQL. Nesta seção, trago um panorama comparativo pra aqueles que querem tirar dúvidas sobre os componentes de implementação e administração de um ambiente MongoDB, desde o planejamento do ambiente, passando por índices, schema validation, até a polêmica utilização de backups em ambientes geo-distribuídos</description>
+      <startTime>8/25/2018 4:30:00 PM</startTime>
+      <endTime>8/25/2018 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84071</importID>
+      <speakers>
+        <speaker>
+          <id>84071</id>
+          <name>Diemerson Campos</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 02</name>
+      </location>
+      <title>Segurança de dados, ISO 27002 e Criptografia no SQL Server</title>
+      <description>Os dados se tornaram os principais ativos das organizações, sendo algo primordial para a tomada de decisões e desenvolvimento das atividades internas das empresas, consequentemente se tornaram o principal alvo quando se trata de ataques, violações e vazamentos. Nesta sessão identificaremos as principais ameaças e riscos, conversaremos sobre a ISO 27002 com foco nos controles relacionados a Criptografia e os traremos para o ambiente de Banco de Dados SQL Server utilizando as funcionalidades da ferramenta.</description>
+      <startTime>8/25/2018 2:00:00 PM</startTime>
+      <endTime>8/25/2018 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>82794</importID>
+      <speakers>
+        <speaker>
+          <id>82794</id>
+          <name>Ricardo Leka</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 03</name>
+      </location>
+      <title>Melhores práticas #SQN</title>
+      <description>Vamos implementar todas as melhores práticas conhecidas pelos melhores DBA's #SQN
+Vamos conversar sobre configurações e programação que já encontramos em vários clientes e o que é bom e o que não é bom.</description>
+      <startTime>8/25/2018 2:00:00 PM</startTime>
+      <endTime>8/25/2018 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84046</importID>
+      <speakers>
+        <speaker>
+          <id>84046</id>
+          <name>Suellen Moraes</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 02</name>
+      </location>
+      <title>Conhecendo ColumnStore com casos da vida real!</title>
+      <description>Você já parou pensar quais seriam os ganhos e as perdas se conseguisse implantar o columnstore em seu ambiente? Já parou para avaliar estratégias para a sua utilização?. Nesta sessão mostraremos casos de uso na vida real, os prós e os contras, estrategias para implantação em ambientes críticos e o funcionamento desta excelente feature do SQL Server.</description>
+      <startTime>8/25/2018 9:00:00 AM</startTime>
+      <endTime>8/25/2018 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>83376</importID>
+      <speakers>
+        <speaker>
+          <id>83376</id>
+          <name>Fabiano Amorim</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Sala 03</name>
+      </location>
+      <title>13 motivos pelo qual minha consulta esta lenta.</title>
+      <description>E se pudessemos analisar e melhorar a eprformance de uma única consulta com 13 diferentes problemas de performance? 
+
+1- Filtro nonsargable
+2- Índice faltando
+3- Erro do query optimizer
+4- Subquery desnecessária
+5- Ordem do join está incorreta
+6- Uma estatística filtrada está faltando
+7- Função escalar está rodando duas vezes por linha
+8- Alto número de leituras em uma "worktable"
+9- Uma sintaxe desconhecida poderia ser utilizada
+10- "Memory grant" não foi suficiente
+11- "Distributed query" está ruim
+12- Residual predicates
+13- Evitar "window spool" em disco</description>
+      <startTime>8/25/2018 3:30:00 PM</startTime>
+      <endTime>8/25/2018 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84467</importID>
+      <speakers>
+        <speaker>
+          <id>84467</id>
+          <name>Jefferson Oliveira</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Sala 03</name>
+      </location>
+      <title>CPU 100%? Non-yielding Scheduler? SQL Server não responde? Vamos falar de Task Scheduling.</title>
+      <description>A CPU do servidor SQL Server está 100%? Qual é a querie? Porque isso ocorre?
+SQL Server Log com um registro de Non-yielding Scheduler? O que aconteceu? Porque isso aconteceu? Como explicar o que houve? 
+O SQL Server não responde? Tento conectar e demora a conexão?
+Vamos entender como funciona o "Scheduling" de tarefas no processador, falar de batches, tasks, worker threads, thread starvation, etc.</description>
+      <startTime>8/25/2018 11:00:00 AM</startTime>
+      <endTime>8/25/2018 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>83042</importID>
+      <speakers>
+        <speaker>
+          <id>83042</id>
+          <name>Felippe Oliveira</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Sala 04</name>
+      </location>
+      <title>Você conhece o Power BI Report Server?</title>
+      <description>Você conhece o Power BI Report Server? Não! Então vamos descobrir todas suas features que já estão disponíveis, por exemplo desde publicar KPIS do Mobile  Reporting Services (SSRS) como até agendamento de Refresh de dados.</description>
+      <startTime>8/25/2018 1:00:00 PM</startTime>
+      <endTime>8/25/2018 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84665</importID>
+      <speakers>
+        <speaker>
+          <id>84665</id>
+          <name>Vitor Fava</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 01</name>
+      </location>
+      <title>Como ter maior controle no Azure utilizando uma Managed Instance</title>
+      <description>A utilização dos bancos de dados em ambiente cloud é cada vez mais necessária para garantir a disponibilidade e performance do seu ambiente.
+Para facilitar ainda mais o gerenciamento de sua base de dados no Azure, a Microsoft criou o modelo Managed Instance, no qual é possível ter mais controle sobre a utilização de recursos da sua instância e também maior integração entre todos os bancos de dados criados.
+Nesta sessão vamos conhecer por completo como funciona esse novo modelo de utilização e quais suas vantagens e desvantagens.</description>
+      <startTime>8/25/2018 1:00:00 PM</startTime>
+      <endTime>8/25/2018 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>83947</importID>
+      <speakers>
+        <speaker>
+          <id>83947</id>
+          <name>Thiago Cruz</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 02</name>
+      </location>
+      <title>Transaction Log com AlwaysOn Availability Group</title>
+      <description>Nesta apresentação vamos comparar o comportamento do transaction log em uma instalação Stand alone com um AlwaysOn Avaiability Group.
+Será realizada demonstrações do comportamento do SQL Server em modo síncrono e assíncrono e vamos passar por eventos de TLog.
+Vamos também entender o comportamento do AG em momentos de reverting e recovering.</description>
+      <startTime>8/25/2018 3:30:00 PM</startTime>
+      <endTime>8/25/2018 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84666</importID>
+      <speakers>
+        <speaker>
+          <id>84666</id>
+          <name>Arthur Luz</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Sala 04</name>
+      </location>
+      <title>Azure PaaS Business Intelligence</title>
+      <description>Nessa sessão será possível entender um pouco sobre o passo a passo da construção de um projeto de BI e, de maneira simples, conhecer sobre os meios de implementação dessa tecnologia em sua empresa usando a nuvem da Microsoft do início ao fim do projeto.</description>
+      <startTime>8/25/2018 3:30:00 PM</startTime>
+      <endTime>8/25/2018 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>82600</importID>
+      <speakers>
+        <speaker>
+          <id>82600</id>
+          <name>Marcus Vinícius Bittencourt</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 02</name>
+      </location>
+      <title>Hacking SQL Server 2</title>
+      <description>Como garantir a segurança de seu ambiente de banco de dados SQL Server​?
+Nesta sessão vamos revisitar os conceitos de segurança, onde são aplicados, como evitar invasões e acessos indevidos.
+​Veremos de que forma o SQL Server pode ser configurado para previnir o ambiente de ataques e como muitas vezes configurações equivocadas podem ser exploradas.​
+Simularemos uma invasão ao SQL Server explorando alguns conceitos mal interpretados ou configurados e algumas vulnerabilidades que passam despercebidas no ambiente.</description>
+      <startTime>8/25/2018 10:00:00 AM</startTime>
+      <endTime>8/25/2018 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>84064</importID>
+      <speakers>
+        <speaker>
+          <id>84064</id>
+          <name>Orlando Gomes</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Sala 01</name>
+      </location>
+      <title>Migração de Dados com Azure Data Factory</title>
+      <description>O Azure Data Factory se constitui como uma poderosa ferramenta para a criação de tarefas para migração e transformação de dados entre diferentes destinos, nesta palestra serão demonstrados exemplos de como trabalhar com estas tarefas por meio do processo de ETL na Cloud.</description>
+      <startTime>8/25/2018 2:00:00 PM</startTime>
+      <endTime>8/25/2018 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>82777</importID>
+      <speakers>
+        <speaker>
+          <id>82777</id>
+          <name>Caio Amante</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Sala 01</name>
+      </location>
+      <title>Conhecendo as facilidades do Azure Databricks</title>
+      <description>Nesta sessão demonstrarei as funcionalidades, as facilidades e quais benefícios em se utilizar o Azure Databricks. Iremos entender todo o conceito desta ferramenta e como a mesma pode nos ajudar em ambientes de Big Data.</description>
+      <startTime>8/25/2018 11:00:00 AM</startTime>
+      <endTime>8/25/2018 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85259</importID>
+      <speakers>
+        <speaker>
+          <id>85259</id>
+          <name>Danielle Monteiro</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Sala 01</name>
+      </location>
+      <title>O Impacto da GDPR nos Projetos de Banco de Dados.</title>
+      <description>A GPDR (General Protection Data Regulation) é uma lei europeia que entrou em vigor em maio de 2018, trazendo muitas mudanças para as empresas ao redor do mundo. 
+Se a sua empresa tem dados de cidadãos europeus, então ela também é afetada pela GDPR!
+Você já sabe o que muda nos seus projetos para que eles estejam de acordo com a nova lei? Quais recursos do SQL Server podem ser usados com este fim?
+
+Novas leis, novos tempos, novos desafios... Me acompanhe e veja que os novos projetos podem ser mais tranquilos do que parecem!</description>
+      <startTime>8/25/2018 11:00:00 AM</startTime>
+      <endTime>8/25/2018 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>83964</importID>
+      <speakers>
+        <speaker>
+          <id>83964</id>
+          <name>Fernando Garcia</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Sala 04</name>
+      </location>
+      <title>Power BI - Tipos de contextos dos cálculos X desempenho do seu painel</title>
+      <description>Quando realizamos cálculos no Power BI, utilizamos o DAX (Data Analysis Expressions) para criar colunas calculadas e medidas. Dentre os contextos existentes no DAX, destacaremos dois deles (ROW, FILTER) em uma DEMO que irá evidenciar as diferenças de performance existentes que irão garantir um painel mais leve e eficiente.</description>
+      <startTime>8/25/2018 10:00:00 AM</startTime>
+      <endTime>8/25/2018 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>84667</importID>
+      <speakers>
+        <speaker>
+          <id>84667</id>
+          <name>Jéssica Lima</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 03</name>
+      </location>
+      <title>Principais DMVs do SQL Server e suas funcionalidades</title>
+      <description>Nesta sessão iremos ver as facilidades e funcionalidades significativas das DMVs e como elas oferecem flexibilidade e soluções na vida do DBA.</description>
+      <startTime>8/25/2018 1:00:00 PM</startTime>
+      <endTime>8/25/2018 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>83273</importID>
+      <speakers>
+        <speaker>
+          <id>83273</id>
+          <name>Tiago Neves</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Sala 02</name>
+      </location>
+      <title>SaaS, IaaS e PaaS e a Plataforma de Dados no Azure.</title>
+      <description>Essa palestra tem o objetivo de ajudar a entender os conceitos na nuvem e quais a vantagens e desvantagens de cada um. 
+E quais plataforma de dados temos disponíveis no Azure.</description>
+      <startTime>8/25/2018 1:00:00 PM</startTime>
+      <endTime>8/25/2018 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>83041</importID>
+      <speakers>
+        <speaker>
+          <id>83041</id>
+          <name>RUY LACERDA</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Sala 04</name>
+      </location>
+      <title>Power BI não é só um rostinho bonito: Tratando arquivos de log</title>
+      <description>Descubra nessa palestra como utilizar o Power BI para tratamento de dados de arquivos de log e muito mais.</description>
+      <startTime>8/25/2018 11:00:00 AM</startTime>
+      <endTime>8/25/2018 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84331</importID>
+      <speakers>
+        <speaker>
+          <id>84331</id>
+          <name>Igor Santos de Paula</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Sala 01</name>
+      </location>
+      <title>Análise de sentimentos em real time com Cognitive Services, Logic Apps e Azure Cosmos DB</title>
+      <description>Nessa sessão iremos abordar 3 serviços na nuvem fantásticos. Azure Cognitive Services, Logic Apps e Azure Cosmos DB.
+Irei demonstrar como a democratização da informação, tecnologia e ferramentas permite que pessoas que não sejam de TI e mesmo que não saibam escrever uma linha de código, possam criar soluções robustas para gerar valor na sua zona de atuação.
+
+Na demo irei mostrar como coletar dados de uma rede social, analisar o sentimento e tomar ações de acordo com o resultado. Não utilizarei nenhuma linha de código para atingir o objetivo.</description>
+      <startTime>8/25/2018 10:00:00 AM</startTime>
+      <endTime>8/25/2018 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>82602</importID>
+      <speakers>
+        <speaker>
+          <id>82602</id>
+          <name>Reginaldo Silva</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 03</name>
+      </location>
+      <title>Facilitando sua vida com dbatools</title>
+      <description>Nesta sessão vamos conhecer a plataforma dbatools que é um modulo open source de Powershell mantido pela comunidade, essa plataforma traz diversos comandos para administrarmos nossos ambientes de SQL Server e automatizar nossas rotinas diárias.</description>
+      <startTime>8/25/2018 9:00:00 AM</startTime>
+      <endTime>8/25/2018 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>82828</importID>
+      <speakers>
+        <speaker>
+          <id>82828</id>
+          <name>Raiane Lins</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Sala 02</name>
+      </location>
+      <title>BACKUP DB TO URL = 'Blob Storage'</title>
+      <description>Nesta palestra iremos apresentar alguns cenários de backup para o BLOB Storage partindo de uma VM do Azure, detalhando também o mundo de backup na nuvem.</description>
+      <startTime>8/25/2018 11:00:00 AM</startTime>
+      <endTime>8/25/2018 12:00:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

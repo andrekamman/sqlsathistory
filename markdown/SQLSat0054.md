@@ -1,0 +1,22 @@
+# SQLSaturday #54 - Salt Lake City 2010
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Ben Miller|Room 209 |[SQL Server TDE](29009.md)
+00:00:00|Jason Brimhall|Room 200 |[Getting to Know Your DB](29291.md)
+00:00:00|Craig Berntson|Room 206|[Visual Studio LightSwitch for the DBA](29655.md)
+00:00:00|Denny Cherry|Room 200 |[How to decide if your database is a good candidate](31989.md)
+00:00:00|Denny Cherry|Room 200 |[SQL Server Clustering 101](31990.md)
+00:00:00|Denny Cherry|Room 200 |[Storage for the DBA](31991.md)
+00:00:00|Nicholas Cain|Room 200 |[Backup  Restore Basics](32074.md)
+00:00:00|Nicholas Cain|Room 206|[Be safe out there: Ship those logs](32075.md)
+00:00:00|Randy Knight|Room 206|[Visual Studio 2010 Database Projects](32526.md)
+00:00:00|Randy Knight|Room 200 |[Become a Bilingual DBA!  Oracle for the SQL Server](32527.md)
+00:00:00|Randy Knight|Room 206|[What's in your Toolbox? ](32528.md)
+00:00:00|Scott Heffron|Room 209 |[Shortest Path Problem at DisneyLand](32798.md)
+00:00:00|Pat Wright|Room 209 |[Performance Tuning Queries](33028.md)
+00:00:00|Pat Wright|Room 200 |[Lunch Provided by Tek systems](33029.md)
+00:00:00|Pat Wright|Room 200 |[Registration Breakfast](33030.md)
+00:00:00|TJay Belt|Room 206|[Database Switch](33686.md)
+00:00:00|TJay Belt|Room 209 |[SQL Server Profiler and Tracing, a “How To”](33687.md)
+00:00:00|William E Pearson III|Room 209 |[Many-to-Many: Multiple Calendars in a Single Cube ](33918.md)
+00:00:00|William E Pearson III|Room 206|[Getting Started with MDX](33922.md)

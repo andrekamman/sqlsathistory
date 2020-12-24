@@ -1,0 +1,23 @@
+# SQLSaturday #319 - Panama 2014
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Carlos A. Ulate Hernandez|DBA|[Introducción a SSIS, lo que necesitas saber para i](11218.md)
+00:00:00|César Oviedo|Business Intelligence  Analytics|[SQL Server 2012 - Data Mining](11892.md)
+00:00:00|César Oviedo|Business Intelligence  Analytics|[Business Intelligence - Step by Step](11893.md)
+00:00:00|Diana Betancourt|English Track|[The DiBA guide to Database Standards](13249.md)
+00:00:00|Eduardo Castro|DBA|[SQL 2014 Alta disponibilidad en ambientes empresariales](13639.md)
+00:00:00|Javier Loria|Business Intelligence  Analytics|[Inteligencia Geoespacial en SQL ](16013.md)
+00:00:00|Jose Chinchilla|DB Dev  Misc|[Certificate en SQL luego Conectate, Contribuye y Aprende con PASS](16138.md)
+00:00:00|Jonathan Madriz|Business Intelligence  Analytics|[DQS en SQL Server 2012](16968.md)
+00:00:00|Jose L. Rivera|DBA|[Indices Columnares en SQL Server 2014](17470.md)
+00:00:00|Jose L. Rivera|DB Dev  Misc|[Tablas Particionadas: De la A a la Z](17471.md)
+00:00:00|Meagan Longoria|English Track|[The Accidental Report Designer: Data Visualization Best Practices in SSRS](19205.md)
+00:00:00|Meagan Longoria|English Track|[Choose Your Geospatial Mapping Adventure](19206.md)
+00:00:00|Stephan Torres|Business Intelligence  Analytics|[Tabular o Multidimensional, he ahi el dilema](19249.md)
+00:00:00|Ricardo Estrada|DB Dev  Misc|[Buscando a Nemo (o patrones avanzados de búsqueda)](22315.md)
+00:00:00|Sal Young|English Track|[Inventario de un Ambiente SQL Utilizando PowerShell](23800.md)
+00:00:00|Sal Young|English Track|[Microsoft SQL Server Management Studio – A Mi Manera](23801.md)
+00:00:00|Kenneth Urena|DB Dev  Misc|[Particionamiento y BD Parciales HA para VLDB](27211.md)
+00:00:00|Kenneth Urena|DBA|[Estrategias de indexación y buenos diseños físicos para mejoras del desempeño](27212.md)
+00:00:00|Walter Montes|DB Dev  Misc|[Acceso a datos para soluciones altamente escalables usando SQL, noSQL y persistencia políglota](27614.md)
+00:00:00|Adrian Miranda|DBA|[Extendiento la vitualización hacia Windows Azure](9053.md)

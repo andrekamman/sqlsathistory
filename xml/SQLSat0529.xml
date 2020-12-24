@@ -1,0 +1,407 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #529 - Bratislava 2016</name>
+    <startDate>6/4/2016 12:00:00 AM</startDate>
+    <attendeeEstimate>85</attendeeEstimate>
+    <timezone>(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatSlovakia</twitterHashtag>
+    <venue>
+      <name>Microsoft Slovakia, Apollo Business Center II, Prievozská 4D</name>
+      <street>Prievozská 4D</street>
+      <city>Bratislava</city>
+      <state>Bratislavský, Slovakia</state>
+      <zipcode>821 09</zipcode>
+      <longitude>17.1398296</longitude>
+      <latitude>48.1459808</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>49369</importID>
+      <name>Peter Myers</name>
+      <label>
+      </label>
+      <description>Peter Myers is a consultant, trainer and presenter, and has worked with Microsoft database and development products since 1997. Today he specializes in all Microsoft Business Intelligence products and also authors training course content for Microsoft products and services.
+
+He has a broad business background supported by a bachelor’s degree in applied economics and accounting, and he extends this with extensive experience backed by current MCSE certifications. He has been a Data Platform MVP since 2007.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://linkedin.com/in/peterjsmyers</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>47081</importID>
+      <name>Miloš Radivojević</name>
+      <label>
+      </label>
+      <description>Miloš Radivojević is a database consultant located in Vienna, Austria. He is Data Platform MVP and specializes in SQL Server for application developers and performance and query tuning. Currently, he works as a principal database consultant in bwin GVC (the largest regulated online gaming company in the world). He is co-founder of the SQL Pass Austria and speaks regularly at local and international database conferences. He is also co-author of the books SQL Server 2016 Developer's Guide, SQL Server 2017 Developer's Guide and Mastering SQL Server 2017.</description>
+      <twitter>MilosSQL</twitter>
+      <linkedin>http://at.linkedin.com/pub/milos-radivojevic/1b/7bb/290/de</linkedin>
+      <ContactURL>https://milossql.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MilosSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>47243</importID>
+      <name>Marcin Szeliga</name>
+      <label>
+      </label>
+      <description>Data Philosopher. Since 2006 invariably awarded Microsoft Most Valuable Professional title in the Data Platform category. A speaker at numerous conferences across Europe, as well as at user groups meetings. The author of many books and articles devoted to Microsoft Data Platform. An independent consultant, database-centric application practitioner and architect totally focused on SQL Server and Azure. Huge fan of Data Science and Machine Learning.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://pl.linkedin.com/in/marcinszeliga</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49160</importID>
+      <name>Volodymyr Usarskyy</name>
+      <label>
+      </label>
+      <description>I came into software development industry as .NET software developer in 2005. Right now I work as a consultant in DACH region. Most of the time I am busy implementing different kinds of back- and frontend stuff but quite some time I spend with SQL Server as well.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/usarskyy</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49760</importID>
+      <name>Filip Vitek</name>
+      <label>
+      </label>
+      <description>[Health care] 
+Accepted challenge to start CRM for Health care Group. Thrilled to launch CRM for Health Insurer, Pharmacy chain, set of Polyclinics and Hospitals. 
+
+[Banking] 
+Started career in Process management via analyzing amp; rebuilding distribution network for major retail bank. Took a role of crises-manager for banking branch. Joined team for plotting mid-term bank strategy. Managed amp; reorganized large operations/customer service unit (100+ employees) with focus on dealing with sales spikes.
+In another retail bank built CRM unit from scratch, including customer intelligence function. Tripled direct marketing revenue in 12 months. Researched and implemented behavior segmentation, designed detailed value preposition.</description>
+      <twitter>https://mobile.twitter.com/FilipVitek</twitter>
+      <linkedin>https://sk.linkedin.com/in/vitekfilip</linkedin>
+      <ContactURL>http://blog.etrend.sk/filip-vitek.html</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://mobile.twitter.com/FilipVitek</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49130</importID>
+      <name>LEONEL ABREU</name>
+      <label>
+      </label>
+      <description>An IT Pro who likes to play chess and baseball. 
+
+System Engineer degree since 2007, formerly Data Warehousing teacher at university levels from 2008 to 2009. Microsoft Student Partner during the years 2006 - 2007, Second Place in Microsoft Andean Imagine Cup (2006), MCTS, MCITP and MCP with over a decade of experience with SQL Server, working in BI, DBA, Database Development, .net Development, SharePoint and other several areas. 
+
+Since 2014 based in Barcelona, Spain. Learning enthusiast and always with passion for new technologies and new challenges.</description>
+      <twitter>leonel_abreu</twitter>
+      <linkedin>https://www.linkedin.com/in/abreulj/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=leonel_abreu</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49962</importID>
+      <name>Sam Lester</name>
+      <label>
+      </label>
+      <description>Sam Lester has spent the past 14 years working for Microsoft in various SQL Server related roles.  After nearly 12 years working in the SQL Server development team in Redmond, WA, he has recently made the switch to a consulting role to work hands-on with European customers.  While in the product group, Sam worked on numerous features including setup, migration, SSMS/manageability, Utility Control Point, Data-Tier Application Component, SSDT, Intellisense, amp; TSQL Debugger.  </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.msdn.com/b/samlester</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46896</importID>
+      <name>Zoltán Horváth</name>
+      <label>
+      </label>
+      <description>Zolt#225;n is a BI specialist with more than a decade of expertise. He leads the Hungarian User Group of Microsoft SQL Server (HUG-MSSQL), the Hungarian Chapter of PASS. MCSE: BI and MCSE: Data Platform. SQL Server MVP since 2015.</description>
+      <twitter>@zoltanhorvath</twitter>
+      <linkedin>http://www.linkedin.com/in/zhorvath</linkedin>
+      <ContactURL>http://addictivemeasures.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@zoltanhorvath</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>47104</importID>
+      <name>Marek Chmel</name>
+      <label>
+      </label>
+      <description>I have started working in IT as a consultant and trainer for Microsoft server systems and from the beginning I did focus mainly on SQL Server. Few years back I have joined atamp;t, where I workin a team responsible for 24/7 operations for large SQL server environments.  Our primary focus is architecture, delpoyment, performance tuning and disaster recovery for SQL Server ranging various sizes, versions and editions. If there#39;s any free time left, you can catch me speaking at a conference or teaching a Microsoft or security class in a training center.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://cz.linkedin.com/in/mchmel</linkedin>
+      <ContactURL>http://www.prosql.cz</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48715</importID>
+      <name>Andrzej Kukula</name>
+      <label>
+      </label>
+      <description>Consultant and trainer in SQLExpert.pl with more than 20 years of IT experience. Architect of HA/DR solutions, BI solutions, Data Platform solutions, cloud solutions. Solves SQL Server related problems, including performance tuning. Passionate about SQL Server and programming. Speaker at various conferences including SQLSaturday, SQLDay, SQLNexus, AzureDay, Global Azure Bootcamp and local user groups.</description>
+      <twitter>@andrzejkukula</twitter>
+      <linkedin>https://www.linkedin.com/in/andrzejkukula</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@andrzejkukula</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49961</importID>
+      <name>Sam Lester</name>
+      <label>
+      </label>
+      <description>Sam Lester has spent the past 14 years working for Microsoft in various SQL Server related roles.  After nearly 12 years working in the SQL Server development team in Redmond, WA, he has recently made the switch to a consulting role to work hands-on with European customers.  While in the product group, Sam worked on numerous features including setup, migration, SSMS/manageability, Utility Control Point, Data-Tier Application Component, SSDT, Intellisense, amp; TSQL Debugger.  </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.msdn.com/b/samlester</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>47243</importID>
+      <speakers>
+        <speaker>
+          <id>47243</id>
+          <name>Marcin Szeliga</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Room #2</name>
+      </location>
+      <title>Revolutionary R integration in SQL Server 2016</title>
+      <description>The R integration brings a lot of benefits and new scenarios to on premises data platform systems:
+•	R can greatly simplify collection of different data.
+•	Data manipulation and preparation can also be way easier with R.
+•	You can use R to quickly explore and visualize data. 
+•	Last but not least, R brings the whole power of modern data mining techniques to SQL Server.   
+As if this was not enough, you can use familiar user interface and SQL Server Enterprise R Services to work with large datasets and multi-threaded, multi-core, multi-process computations. So, even if you don’t know R at all, come and see how natural this language is for everybody who already think in rows and columns.
+</description>
+      <startTime>6/4/2016 3:15:00 PM</startTime>
+      <endTime>6/4/2016 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49160</importID>
+      <speakers>
+        <speaker>
+          <id>49160</id>
+          <name>Volodymyr Usarskyy</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room #1</name>
+      </location>
+      <title>To NHibernate or not to NHibernate</title>
+      <description>Every developer heard at least once about NHibernate. There are lots of articles and performance tests describing how fast it runs and how easy is to integrate NHibernate into your application.
+
+In this session I will try to explain why would one consider NHibernate as an option for his application stack, how to solve typical DBA complaints and give a brief comparison of how fast is NHibernate versus ADO.NET with stored procedures.
+
+This session will be interesting to application developers who never worked with NHibernate but want to start, as well as for DBAs to gather some knowledge about how an application works including database layer.
+I will also provide some demos to show why NHibernate is not as good as developers might think, and why it is better than DBAs think about this tool.</description>
+      <startTime>6/4/2016 12:45:00 PM</startTime>
+      <endTime>6/4/2016 1:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>48715</importID>
+      <speakers>
+        <speaker>
+          <id>48715</id>
+          <name>Andrzej Kukula</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room #2</name>
+      </location>
+      <title>Easy ETL with Biml</title>
+      <description>Can ETL be fun? Unfortunately very often creation of ETL layer is a time-consuming, tedious, and error-prone task. What’s more, any change in requirements needs a lot of work to be redone. In our session we’ll present new approach to creating BI solutions using Biml language and BimlStudio programming environment. They greatly simplify the process, allowing for amazing flexibility, and make the ETL work more pleasant. We will show real examples of how Biml and C# generates hundreds of usable SSIS packages in just couple of minutes. We will also cover integration of ETL with TFS and CI for ETL. Everything with 100% compatibility with unmodified SQL Server. Join us and see how BI just became fun again.</description>
+      <startTime>6/4/2016 2:00:00 PM</startTime>
+      <endTime>6/4/2016 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49369</importID>
+      <speakers>
+        <speaker>
+          <id>49369</id>
+          <name>Peter Myers</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room #2</name>
+      </location>
+      <title>Azure Machine Learning: From Design to Integration</title>
+      <description>Machine Learning is a subfield of computer science concerned with systems that learn from data. So this isn’t about systems that follow explicitly programmed instructions, but rather about systems that find patterns and trends within datasets, and use them to deliver insight and predictions.
+
+In this session, you will learn how an Azure Machine Learning solution comes to life: From the creation of a workspace, to the preparation of data, to experimentation with Machine Learning algorithms, and then finally to the integration and embedding of predictive insights into applications.
+
+This session has been specifically designed to describe Machine Learning fundamentals, and to help enable and inspire existing data professionals taking their first steps to leverage cloud-based predictive models delivered with Azure Machine Learning. It is guaranteed to thrill you with potential, and excite you with the relative ease by which it can be accomplished.</description>
+      <startTime>6/4/2016 10:15:00 AM</startTime>
+      <endTime>6/4/2016 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>49961</importID>
+      <speakers>
+        <speaker>
+          <id>49961</id>
+          <name>Sam Lester</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Room #1</name>
+      </location>
+      <title>Power BI Desktop – Leveraging the magic of Power BI - ON-PREM</title>
+      <description>It won’t be long before we host the majority of our data, compute power, reporting, and BI visualizations in the cloud, but we’re not all there quite yet. In this presentation, we will discuss ONLY those options that are available on-premises, covering functionality differences between Power BI and Power BI Desktop as well as the critical integration of .pbix dashboards and visualizations with other enterprise reporting and collaboration tools, such as SharePoint, PowerPoint, Excel, and SQL Server Reporting Services. We’ll also highlight the Microsoft BI roadmap for SQL Server 2016, SSRS Paginated and Mobile Reports, Power BI, and what it means specifically for on-premise customers.</description>
+      <startTime>6/4/2016 4:30:00 PM</startTime>
+      <endTime>6/4/2016 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49962</importID>
+      <speakers>
+        <speaker>
+          <id>49962</id>
+          <name>Sam Lester</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Room #1</name>
+      </location>
+      <title>Power BI – “5 Minutes to WOW”, but HOW?</title>
+      <description>Microsoft Corporate VP James Phillips summarizes Power BI with the simple phrase “5 minutes to WOW!”, but how do we make this a reality? In this talk, we’ll use Power BI to connect multiple data sources to unlock the mysteries of the data to allow application owners and senior leadership to better understand and make key decisions with their data. We'll talk about the "how" you need to create compelling data presentations even if you don't have a data warehouse or SSAS environment: dashboards from SharePoint lists, Excel, web sites or SQL Server databases will also get you that "wow". Attend the talk today and create your first amazing dashboard tomorrow!</description>
+      <startTime>6/4/2016 2:00:00 PM</startTime>
+      <endTime>6/4/2016 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49130</importID>
+      <speakers>
+        <speaker>
+          <id>49130</id>
+          <name>LEONEL ABREU</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Room #1</name>
+      </location>
+      <title>Reporting Services 2016, a reborn product</title>
+      <description>Since 2008 version Reporting Services was a product that didn't show significative enhancements, today it has several interesting novelties, a new Web Portal, Mobile Report Published, improved Report Builder, integration to pin reports in Power BI Dahsboards, Custom Parameter Panel, all these topics will we covered in this session.</description>
+      <startTime>6/4/2016 9:00:00 AM</startTime>
+      <endTime>6/4/2016 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>49760</importID>
+      <speakers>
+        <speaker>
+          <id>49760</id>
+          <name>Filip Vitek</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Room #2</name>
+      </location>
+      <title>Using offline shopping data to boost e-shop sales</title>
+      <description>Utilising the off-line sales data of retail chain to significantly increase their on-line sales. Show casing different levels of  sophistication for product suggestions, from easy collaborative filtering to advanced models. Explaining what it takes SQL-wise to build each stage of the progress of suggestion engine.</description>
+      <startTime>6/4/2016 4:30:00 PM</startTime>
+      <endTime>6/4/2016 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>46896</importID>
+      <speakers>
+        <speaker>
+          <id>46896</id>
+          <name>Zoltán Horváth</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room #2</name>
+      </location>
+      <title>Top 10 SSAS Solution Design Best Practices</title>
+      <description>Proper design of cubes, dimensions, hierarchies and attributes is critical to optimal performance of SQL Server Analysis Services solutions.
+
+I've collected a number of best practices during the years I've spent on building and maintaining OLAP cubes. In this session, we will go through the most important ten of these, so you can consider them in your everyday work when you build analytical back-end solutions with SSAS. Join this session, and see how these tips and best practices can save your precious time.</description>
+      <startTime>6/4/2016 12:45:00 PM</startTime>
+      <endTime>6/4/2016 1:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>47104</importID>
+      <speakers>
+        <speaker>
+          <id>47104</id>
+          <name>Marek Chmel</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room #2</name>
+      </location>
+      <title>SQL Server 2016 Security Enhancements</title>
+      <description>In this session we'll explore new security features of SQL Server 2016. There's a big list of new features making SQL Server even more secure and flexible. We'll talk about row level security, dynamic data masking, always encrypted and others. All these new features will be explained with practical examples on their usage for production deployments.</description>
+      <startTime>6/4/2016 9:00:00 AM</startTime>
+      <endTime>6/4/2016 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>47081</importID>
+      <speakers>
+        <speaker>
+          <id>47081</id>
+          <name>Miloš Radivojević</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room #1</name>
+      </location>
+      <title>What Application Developers Should Know About SQL Server?</title>
+      <description>Nowadays many companies don't have dedicated developer positions. Therefore the most of the SQL code has been written by application developers. And they use only a subset of SQL Server features and usually in a suboptimal manner.
+I spent last ten years working with application developers and have collected common mistakes and misunderstandings between them and DBAs that increase development, test and deployment costs and reduce the overall quality.
+In this session we will cover the most important things they need to know about SQL Server and that cannot be easily or cheap fixed by DBAs or consultants.</description>
+      <startTime>6/4/2016 10:15:00 AM</startTime>
+      <endTime>6/4/2016 11:45:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

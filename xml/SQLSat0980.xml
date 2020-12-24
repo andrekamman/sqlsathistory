@@ -1,0 +1,824 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #980 – Plovdiv – Virtual 2020</name>
+    <startDate>12/12/2020 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT+02:00) Cairo</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatPlovdiv</twitterHashtag>
+    <venue>
+      <name>Culture Centre "Boris Hristov"</name>
+      <street>15 Gladston Str., 4000 Plovdiv, Bulgaria</street>
+      <city>Plovdiv</city>
+      <state>Plovdiv, Bulgaria</state>
+      <zipcode>4000</zipcode>
+      <longitude>24.7428</longitude>
+      <latitude>42.14192</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/980/EventSponsor_14634.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>426</importID>
+      <name>Adastra Bulgaria</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.bg.adastragrp.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/980/EventSponsor_14952.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2689</importID>
+      <name>Red Hat</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://www.redhat.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/980/EventSponsor_14906.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2696</importID>
+      <name>Melissa</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>http://www.melissa.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/980/EventSponsor_14907.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2678</importID>
+      <name>Google Cloud</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://cloud.google.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/980/EventSponsor_14908.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2199</importID>
+      <name>Kodar Ltd</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.kodar.net</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/980/EventSponsor_14953.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2699</importID>
+      <name>TTEC</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.ttecjobs.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/980/EventSponsor_14951.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>201</importID>
+      <name>MentorMate</name>
+      <label>Silver Sponsor</label>
+      <url>https://goo.gl/53d5Fn</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/980/EventSponsor_14959.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2302</importID>
+      <name>The Stars Group</name>
+      <label>Silver Sponsor</label>
+      <url>https://pokerstarscareers.com/?utm_source=socialutm_medium=referralutm_campaign=sqlpldv</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/980/EventSponsor_14960.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/980/EventSponsor_14633.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>107807</importID>
+      <name>Gonzalo Bissio</name>
+      <label>
+      </label>
+      <description>Pure strain DBA, MCSA 2012-2014-2016 Database administrator and MCSE Data Management and Analytics, clearly passionate about SQL Server. I currently work in the global SQL Engineering team, supporting more than 1000 internal applications. I am a DBA since 2012, and I drove from SQL 2000 to SQL 2019. Also I worked migration more than 50 applications from on premises to AWS RDS SQL Server as well migrating and supporting more than 1000 Logical servers and 3000 Azure SQL DB databases ( and some others Azure SQL DB Managed instances)</description>
+      <twitter>https://twitter.com/gbissio</twitter>
+      <linkedin>https://www.linkedin.com/in/gonzalo-juan-jose-bissio-19b3bb32/</linkedin>
+      <ContactURL>https://sqlserverrules.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/gbissio</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108235</importID>
+      <name>Dean Savović</name>
+      <label>
+      </label>
+      <description>Dean is Senior DBA practicing SQL Server since version 7.0 and main areas of interest are performance tuning and troubleshooting SQL Server database. He speaks at Microsoft Windays Croatia, ATD Croatia, SSWUG, KulenDayz Croatia, SQL Saturday events, etc... Primary focus is on OLTP databases with occasional adventures with Business Intelligence. He finished Faculty of Electrical Engineering and Computing and MBA on Faculty of Economics in Zagreb. His premise was that it is very useful to combine technical knowledge with management process knowledge that help us in our everyday work. He works in SPAN which is specialized in data management field on Microsoft SQL Server.</description>
+      <twitter>https://twitter.com/dsavovic</twitter>
+      <linkedin>https://www.linkedin.com/in/dsavovic/</linkedin>
+      <ContactURL>http://www.savovic.com.hr</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dsavovic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107749</importID>
+      <name>André Melancia</name>
+      <label>
+      </label>
+      <description>Owner / Principal Consultant at LunarCat.PT
+Microsoft Certified Trainer (MCT) focusing on SQL Server, Azure, IoT and Security.
+
+19+ years' fun developing information and multimedia systems, DBA, project and IT management.
+
+Data Community Portugal, IT Pro Portugal and PowerShell Portugal communities organiser.
+IPv6 Portugal, DNSSec Portugal and Windows Development Portugal online communities moderator.
+Actively volunteering, organising, speaking or just participating at community meetings and events around the world.
+
+Proud uncle and food devouring expert, with dangerous рuϧϧy cat as companion.
+
+Go to http://Andy.PT and you'll know the same as the NSA...</description>
+      <twitter>AndyPT</twitter>
+      <linkedin>http://LinkedIn.COM/in/AndreMelancia</linkedin>
+      <ContactURL>http://Andy.PT</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=AndyPT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108233</importID>
+      <name>Damir Matesic</name>
+      <label>
+      </label>
+      <description>For many years Damir is a passionate programmer and a Microsoft SQL Server developer (ver. 2000+). 
+He is a certificated Microsoft professional on various technologies. In 2020 Microsoft awarded him with Data Platform MVP. 
+Damir leads the Croatian SQL Server User Group (PASS) and he introduced and organizes SQL Saturday events in Croatia. Founder and organizer of #DataWeekender.
+He is working as Senior Database Developer @Span.eu. 
+Damir speaks on various community events and conferences like SQLSaturday, Advanced technology days and user groups. 
+When free he blogs about SQL @ https://blog.matesic.info.</description>
+      <twitter>matesic_damir</twitter>
+      <linkedin>https://www.linkedin.com/in/dmatesic/</linkedin>
+      <ContactURL>https://blog.matesic.info/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=matesic_damir</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>103908</importID>
+      <name>Marco Dal Pino</name>
+      <label>
+      </label>
+      <description>He started working in IT in early '90.
+Long experience in LOB application design and development for Retail, distribution and logistics market.
+Trainer and Speaker in the main technical conference In Italy and overseas.
+He is a staff member of DotNetToscana a community on Microsoft tech.
+From 2013 Microsoft recognize him the title of MVP Most Valuable Professional
+in May 2014 become Intel Software Innovator and later Intel Black Belt.
+In 2017 joined Projest SPA as Senior Program Manager.
+In 2020 he started working in Softjam SPA as Advisory Engineer and then in Microsoft as Cloud Solution Architect</description>
+      <twitter>MarcoDalPino</twitter>
+      <linkedin>https://www.linkedin.com/in/marcodalpino/?locale=en_US</linkedin>
+      <ContactURL>http://mobileprog.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MarcoDalPino</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>109224</importID>
+      <name>Mihail Mateev</name>
+      <label>
+      </label>
+      <description>Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Mentor for CEE, chapter lead, Microsoft Azure MVP, Microsoft Regional Director. He works as a Senior Solutions Architect at EPAM Systems, focused on Data Platform, IoT and cloud related solutions. He also worked many years like a Technical evangelist in the Infragistics. Last years Mihail was focused on various areas related to technology Microsoft: Data Platform, Visual Studio, ASP.Net, Windows client apps, Data Platform, and Microsoft Azure. Michael also has a PhD in cloud computing area. He is a university lecturer on Smart Homes and Smart Energy IoT Solutions.</description>
+      <twitter>mihailmateev</twitter>
+      <linkedin>http://www.linkedin.com/pub/mihail-mateev/1/6b3/4b1</linkedin>
+      <ContactURL>https://mmateev.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mihailmateev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107681</importID>
+      <name>Ramesh Satya</name>
+      <label>
+      </label>
+      <description>will update soonSatya Ramesh has credible experience working with SQL Server. As a Senior Consultant for SQLMaestros (a business unit of eDominer Systems), he has worked on countless projects involving SQL Server  Azure SQL Database. He has presented numerous webinars and delivered multiple sessions as part of his community work with DataPlatformGeeks. He was also a speaker at Data Platform Summit 2018  2017 edition. Other than DataPlatformGeeks, his also got selected in New Stars Of Data 2020. Satya frequently records SQL videos for the community and hosts them on SQLMaestros YouTube channel.</description>
+      <twitter>satyaramesh230</twitter>
+      <linkedin>https://www.linkedin.com/in/ramesh-satya-a87a5385/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=satyaramesh230</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>109315</importID>
+      <name>Anton Boyko</name>
+      <label>
+      </label>
+      <description>Founder and main speaker at Ukrainian Microsoft Azure Community. 15+ years in application development. Builds apps based on Microsoft Azure platform since 2011. Microsoft Azure technical expert. Microsoft Azure MVP since 2014. Owner and one of the organizers of the most popular Microsoft Azure conferences in Ukraine: Azure Day and Global Azure Bootcamp.</description>
+      <twitter>https://twitter.com/BoykoAnt</twitter>
+      <linkedin>https://www.linkedin.com/in/boykoant</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/BoykoAnt</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>109332</importID>
+      <name>Aleksandar Vetsev</name>
+      <label>
+      </label>
+      <description>- Graduated Technical University of Sofia, Branch Plovdiv with a Master Degree in Computer Science
+- Software Engineer at KODAR since 2002
+- Current position: Technical Lead at KODAR</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/alexander-vetzev-bb110254/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>109306</importID>
+      <name>Damian Widera</name>
+      <label>
+      </label>
+      <description>SQL Server MVP amp; MCT
+Software engineer with 18+ years of professional experience in all aspects of software development.
+Damian participated in a number of projects in international environments and possesses practical knowledge of procedures and tools which are necessary for successful implementation of such projects.
+Now he focuses on building solutions based on Microsoft SQL Server environment (including complex database driven systems, database tuning and optimization).</description>
+      <twitter>@DamianWidera</twitter>
+      <linkedin>https://pl.linkedin.com/in/damian-widera-0b56284</linkedin>
+      <ContactURL>https://codingfamily.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@DamianWidera</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102961</importID>
+      <name>Reinhard Flügel</name>
+      <label>
+      </label>
+      <description>Started as an application developer in the early 90’s using C++, Access and SQL-Server. 
+Since around 2010 focusing on Database Development mainly SQL-Server.
+Holding several Microsoft certifications such as: MCSE Data Platform, Business Intelligence and Data Management and Analytics (Charter).</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>109356</importID>
+      <name>Rui Romano</name>
+      <label>
+      </label>
+      <description>Rui Romano lives in Portugal and he leads the Business Intelligence team at DevScope. 
+
+He has been Developing amp; Architecting software solutions since 2003 always focused in the Business Intelligence area.</description>
+      <twitter>RuiRomano</twitter>
+      <linkedin>https://pt.linkedin.com/in/ruiromano</linkedin>
+      <ContactURL>http://ruiromanoblog.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=RuiRomano</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102426</importID>
+      <name>Sebastiano Galazzo</name>
+      <label>
+      </label>
+      <description>Passionate about Artificial Intelligence, Sebastiano @galazzoseba brings over 15 years of experience in AI and machine learning to his current position as CTO at Sistem-EVO srl.
+Sebastiano has dedicated the last few years to designing and developing algorithms to tackle the challenges of Natural Language Processing, image recognition and predictive analysis through machine learning.
+He is a Microsoft MVP and his work in AI has gained commendation in numerous publications and has received several national and international awards.</description>
+      <twitter>@galazzoseba</twitter>
+      <linkedin>https://it.linkedin.com/in/sebastianogalazzo</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@galazzoseba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>109301</importID>
+      <name>Georgi Petkov</name>
+      <label>
+      </label>
+      <description>Experienced BI Consultant with a flair for SQL Server Analysis Services and Power BI. My professional mission is to close that gap between the database and reporting.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/georgipp/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102412</importID>
+      <name>Boriana Petrova</name>
+      <label>
+      </label>
+      <description>Microsoft Certified Trainer with over 10 years experience as an IT instructor and Consultant. She has many qualifications and professional certifications, including: Excel MVP, MCT, MCITP, MCTS, MOS Master. In 2008 she is among the TOP 25 of the best instructors in Microsoft World Company business evaluation and measurement - Knowledge Advisors.</description>
+      <twitter>borianapetrova</twitter>
+      <linkedin>https://www.linkedin.com/in/borianapetrova/</linkedin>
+      <ContactURL>http://itraining.bg/category/itraining-blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=borianapetrova</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>109357</importID>
+      <name>Denis Reznik</name>
+      <label>
+      </label>
+      <description>Denis Reznik is a Data Architect at Intapp, Inc. He has more than ten years experience in software development, database design, and performance tuning for cloud and on-premises solutions. In 2010 Denis became Microsoft Data Platform MVP and maintains MVP status today. Apart from his professional career, Denis actively participates in the development of the Ukrainian Data Community.</description>
+      <twitter>https://twitter.com/DenisReznik</twitter>
+      <linkedin>http://www.linkedin.com/pub/denis-reznik/3/502/234</linkedin>
+      <ContactURL>http://reznik.uneta.com.ua</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/DenisReznik</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102516</importID>
+      <name>Dennes Torres</name>
+      <label>
+      </label>
+      <description>Dennes Torres is a Data Platform MVP with more than 25 years of experience in the IT area. He improves Data Platform Architectures and turns data into knowledge. As a Brazilian living in Malta, Dennes works as a software developer and leads the Malta MDP User Group. Having the MCSE Data Platform, Business Intelligence, and Microsoft Certified Trainer (MCT) certifications, Dennes has been in love with database servers since he was  introduced to SQL Server 6.5, more years ago than he would like to admit.</description>
+      <twitter>Dennes</twitter>
+      <linkedin>https://www.linkedin.com/in/dennestorres/</linkedin>
+      <ContactURL>https://www.red-gate.com/simple-talk/author/dennes-torres/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Dennes</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>104168</importID>
+      <name>André Melancia</name>
+      <label>
+      </label>
+      <description>Owner / Principal Consultant at LunarCat.PT
+Microsoft Certified Trainer (MCT) focusing on SQL Server, Azure, IoT and Security.
+
+19+ years' fun developing information and multimedia systems, DBA, project and IT management.
+
+Data Community Portugal, IT Pro Portugal and PowerShell Portugal communities organiser.
+IPv6 Portugal, DNSSec Portugal and Windows Development Portugal online communities moderator.
+Actively volunteering, organising, speaking or just participating at community meetings and events around the world.
+
+Proud uncle and food devouring expert, with dangerous рuϧϧy cat as companion.
+
+Go to http://Andy.PT and you'll know the same as the NSA...</description>
+      <twitter>AndyPT</twitter>
+      <linkedin>http://LinkedIn.COM/in/AndreMelancia</linkedin>
+      <ContactURL>http://Andy.PT</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=AndyPT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>109302</importID>
+      <name>Ehab Abdelmonem</name>
+      <label>
+      </label>
+      <description>In IT for more than 12 Years , Working with Microsoft Data Platform stack
+Worked on several projects as MS Azure consultant, DWH Developer, DBA, .Net Developer
+Focusing the last years on MS Azure technology projects ( Iaas, Paas, SaaS)
+Certifications: MS Azure Administrator Associate, Former MCSA: SQL Database Development
+Former IT trainer at Cairo Security Camp conference(CSCAMP)</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/eaelmoneem/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102414</importID>
+      <name>Marco Obinu</name>
+      <label>
+      </label>
+      <description>Curious by nature, talkative geek who can speak in front of a public or a camera, in love with technology, primarily SQL Server and Azure.
+I'd like to understand how things work and to solve problems by myself.</description>
+      <twitter>omegamadlab</twitter>
+      <linkedin>https://www.linkedin.com/in/marco-obinu-omegamadlab/</linkedin>
+      <ContactURL>https://www.omegamadlab.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=omegamadlab</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>102426</importID>
+      <speakers>
+        <speaker>
+          <id>102426</id>
+          <name>Sebastiano Galazzo</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Track-4</name>
+      </location>
+      <title>Machine Learning - Best Practices and Vulnerabilities</title>
+      <description>It seems like Artificial Intelligence and Machine Learning are a must nowdays.
+For projects carrying a simple or well kown problem we can find a lot of ready-made solutions, but this extremne easy to use could be one of our best enemy when facing with specific custom problems.
+With this session we will cover how to apply best practices in configurin ML but much more, do we reaaly need it always?
+The second part will cover vulnerabilities of ML discovering how easy could be to fool a neural network by some techinques (Like pixel attack) and their implication in projects that requires no security issues.</description>
+      <startTime>12/12/2020 3:20:00 PM</startTime>
+      <endTime>12/12/2020 4:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>109357</importID>
+      <speakers>
+        <speaker>
+          <id>109357</id>
+          <name>Denis Reznik</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Track-3</name>
+      </location>
+      <title>Why my query is slow and how to make it fast</title>
+      <description>Generally, there are only two options for query slowness: either the query itself is slow (high CPU time), or the query is waiting for some resource (high Wait time) - all other reasons for query slowness derive from these two options. Well, I have to admit it is not that easy, there are a lot of things which can slow down the query, and the slowness root cause is among them. In this session, I will show you the approach which I use for query performance tuning. We will look through the bunch of queries, their query plans, execution statistics, DMV's and extended events to identify the slowness root cause and optimize the queries.</description>
+      <startTime>12/12/2020 1:00:00 PM</startTime>
+      <endTime>12/12/2020 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>102414</importID>
+      <speakers>
+        <speaker>
+          <id>102414</id>
+          <name>Marco Obinu</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Track-4</name>
+      </location>
+      <title>Implement a disaster recovery solution for your on-prem SQL with Azure? Easy!</title>
+      <description>Thanks to Azure cloud, today it's possible to design Disaster Recovery solutions that are easy to implement and affordable also for small and medium-sized companies.
+From a SQL Server perspective, we can leverage on different technologies to manage cross-premises scenarios, where Always On Availability Groups technology represents the key feature to design a flexible solution that can be easily integrated with Azure Site Recovery.
+Let's see together what choices we have, with a particular focus on Availability Groups and their implementation in a hybrid scenario.</description>
+      <startTime>12/12/2020 10:10:00 AM</startTime>
+      <endTime>12/12/2020 11:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>109356</importID>
+      <speakers>
+        <speaker>
+          <id>109356</id>
+          <name>Rui Romano</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Track-2</name>
+      </location>
+      <title>Big Brother your Power BI deployment</title>
+      <description>In this session you will learn how to efectively monitor your entire Power BI tenant 
+
+Be ready for some powershell scripting…</description>
+      <startTime>12/12/2020 3:20:00 PM</startTime>
+      <endTime>12/12/2020 4:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>109315</importID>
+      <speakers>
+        <speaker>
+          <id>109315</id>
+          <name>Anton Boyko</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Track-3</name>
+      </location>
+      <title>Azure Logic Apps – how to integrate different systems with zero coding?</title>
+      <description>We would love to have "one ring to rule them all", but, unfortunately, life is a very cruel place and I am yet to find a company that is able to use only one system to manage all their business flows. To manage a dozen of different systems it will be just reasonable to have a single point of integration, an integration bus if you prefer. And that's the point where Azure Logic Apps comes very handy. With hundreds, if not thousands, of different connectors to different systems I can easily receive a new order from Sales Force, check that I have required items in stock against my SQL database, post the data to SAP ERP and send an email to a client that his order is on the way. Making those things happen will require no coding whatsoever. I will not be forced to go deep diving into different system APIs and become an expert in everything. Minimum efforts and maximum value.</description>
+      <startTime>12/12/2020 11:20:00 AM</startTime>
+      <endTime>12/12/2020 12:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>109224</importID>
+      <speakers>
+        <speaker>
+          <id>109224</id>
+          <name>Mihail Mateev</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Track-1</name>
+      </location>
+      <title>Creating Custom Visuals in Power BI with TypeScript and D3.j</title>
+      <description>This presentation is about how to create custom visuals (components) for your PowerBI reports. Power BI reporting features could be extended with custom components, that developers can implement and BI specialist can include in their dashboards. Many visuals are also availabe in the Power BI Visuals Gallery.
+
+Power BI is flexible with which graphical API you prefer to use, but their open source project is all D3.
+
+D3.js is a JavaScript library of objects to produce sophisticated, interactive, dynamic data visualizations using modern web-based technologies
+
+In this talk you will learn how to:
+
+- Set up the dev environment (using PowerBI visuals CLI tool)
+- Build your visuals
+- Debug your Power BI components
+- Use custom visuals in your dashboards
+- Publish visuals to Power BI Visuals Gallery
+- Road-map of Power BI Visuals API</description>
+      <startTime>12/12/2020 10:10:00 AM</startTime>
+      <endTime>12/12/2020 11:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>107749</importID>
+      <speakers>
+        <speaker>
+          <id>107749</id>
+          <name>André Melancia</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Track-4</name>
+      </location>
+      <title>Row Level Security Deep Dive</title>
+      <description>You've heard of Row Level Security. You know it can be used in SQL Server, SQL Database, SQL Server Analysis Services, Azure Analysis Services, Power BI and many more technologies.
+This deep dive session will show you everything you need to do to use Row Level Security, how to deliver business level rules, typical use cases, how to optimise performance and how to guarantee security.
+Disclaimer: No rowing or swimming will take place. You can leave your live vest at  home.</description>
+      <startTime>12/12/2020 1:00:00 PM</startTime>
+      <endTime>12/12/2020 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>102961</importID>
+      <speakers>
+        <speaker>
+          <id>102961</id>
+          <name>Reinhard Flügel</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Track-2</name>
+      </location>
+      <title>Known T-SQL but not to everybody  (especially beginners) Insights and samples for T-SQL</title>
+      <description>This session is not intended as a deep dive. It gives a short overview on topics like logical query processing, SARGability, data type precedence, and gives some samples on different ways to write a cursor, how to access data inside a stored procedure constructed by an other procedure and how to create a listing of numbers or dates.</description>
+      <startTime>12/12/2020 2:10:00 PM</startTime>
+      <endTime>12/12/2020 3:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>103908</importID>
+      <speakers>
+        <speaker>
+          <id>103908</id>
+          <name>Marco Dal Pino</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Track-1</name>
+      </location>
+      <title>Azure SQL Database EDGE, put your SQL wherever you want!</title>
+      <description>Developing application for Smart city, Sensors, Industrial IoT increasingly need more affordable and powerful way to store data and manage it. 
+Now we can also use the same approach we have in our client server distributed application even in remote deployed devices frquently not connected to internet.
+Expand device architecture coverage to include ARM-based devices on top of x64-based architecture. Use Kubernetes to orchestrate your device infrastructure for better efficiency and automation. Run SQL Database Edge connected or offline to support various edge environments.</description>
+      <startTime>12/12/2020 1:00:00 PM</startTime>
+      <endTime>12/12/2020 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>102516</importID>
+      <speakers>
+        <speaker>
+          <id>102516</id>
+          <name>Dennes Torres</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Track-2</name>
+      </location>
+      <title>Self-Service ETL: The PowerBI Data Flows</title>
+      <description>What was already good has became even better. We were already able to make ETL in PowerBI using M, now, using the PoweBI Data Flows we are able to store the ETL on the PowerBI Portal, control the ETL execution, the data among many ETL steps and share the result with many Power BI files, instead of having to duplicate M scripts accross different .PBIX files
+
+In this session you will understand better what Data Flows can bring to our already powerful self-service BI tools</description>
+      <startTime>12/12/2020 1:00:00 PM</startTime>
+      <endTime>12/12/2020 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>109302</importID>
+      <speakers>
+        <speaker>
+          <id>109302</id>
+          <name>Ehab Abdelmonem</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Track-3</name>
+      </location>
+      <title>Azure DevOps between reality and the fantasy :"Build DevOps CI/CD Pipelines"</title>
+      <description>DevOps, like most new methodologies, is only a catchword for many individuals working in IT industry. Everyone debates about it, but not everyone knows what it is.
+
+In this session, we will talk about Azure DevOps and what is CI/CD
+then we are going to create a DevOps Pipeline and test it.</description>
+      <startTime>12/12/2020 10:10:00 AM</startTime>
+      <endTime>12/12/2020 11:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>107681</importID>
+      <speakers>
+        <speaker>
+          <id>107681</id>
+          <name>Ramesh Satya</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Track-2</name>
+      </location>
+      <title>Understanding SQL Server Views - The Right Way</title>
+      <description>VIEW is one of the programmable objects often used by Developers to build solutions to business problems but if not used without complete implications, there will be data inconsistency issues. This session focusses on how to create VIEWs, what are issues while doing DML operations through the VIEWS and how does INDEXED VIEWs help us.</description>
+      <startTime>12/12/2020 10:10:00 AM</startTime>
+      <endTime>12/12/2020 11:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>109301</importID>
+      <speakers>
+        <speaker>
+          <id>109301</id>
+          <name>Georgi Petkov</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Track-2</name>
+      </location>
+      <title>External Tools for Power BI</title>
+      <description>Sometimes the work process in Power BI Desktop might get slow and cumbersome, especially when our model gets large and complicated. If you want to learn more about:
+- how you can optimize your work process
+- see where the bottlenecks of your model are
+- measure performance
+- compare two models
+... then this is the perfect place to do that.</description>
+      <startTime>12/12/2020 11:20:00 AM</startTime>
+      <endTime>12/12/2020 12:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>104168</importID>
+      <speakers>
+        <speaker>
+          <id>104168</id>
+          <name>André Melancia</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Track-1</name>
+      </location>
+      <title>Machine Learning is full of stars: An Azure Story</title>
+      <description>Want to get started with Machine Learning and have no idea what technologies to use?
+Don't hybernate your career. Learn about some of technologies available, focusing on Microsoft's offering, such as Azure Machine Learning (Service) workspace, Spark using Azure Databricks and HDInsight, Azure Synapse Analytics, and many more.
+Disclaimer: All these worlds are yours except Cognitive Service, that's for a different session.</description>
+      <startTime>12/12/2020 3:20:00 PM</startTime>
+      <endTime>12/12/2020 4:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>108235</importID>
+      <speakers>
+        <speaker>
+          <id>108235</id>
+          <name>Dean Savović</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Track-4</name>
+      </location>
+      <title>SQL Server Intelligent Query Processing</title>
+      <description>I will talk about new intelligent query processing features in SQL Server 2019. The features that will be described are adaptive joins, interleaved execution, memory grant feedback, table variable deferred execution, batch mode on rowstore, T-SQL scalar UDF inlining and approximate count distinct. The presentation will end with extensive demo.</description>
+      <startTime>12/12/2020 11:20:00 AM</startTime>
+      <endTime>12/12/2020 12:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107807</importID>
+      <speakers>
+        <speaker>
+          <id>107807</id>
+          <name>Gonzalo Bissio</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Track-3</name>
+      </location>
+      <title>Azure Sql DB Managed instance, a different sql server?</title>
+      <description>On this session we are going to cover Azure sql db managed instance service. Introduction, how to Migrate, limitations, best practices among other things :):):):)..</description>
+      <startTime>12/12/2020 2:10:00 PM</startTime>
+      <endTime>12/12/2020 3:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>108233</importID>
+      <speakers>
+        <speaker>
+          <id>108233</id>
+          <name>Damir Matesic</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Track-1</name>
+      </location>
+      <title>MS SQL New functions, syntaxes, tips  tricks</title>
+      <description>In this session we will see what bring us some newly introduced MS SQL functions and syntax's like COMPRESS, STRING_SPLIT, STRING_AGG, DROP IF EXISTS (a.k.a. DIE), UTF8 Support and many more. How are they performing compared to some old solutions? 
+Accompanied with multiple examples, this session will show you many interesting topics.</description>
+      <startTime>12/12/2020 11:20:00 AM</startTime>
+      <endTime>12/12/2020 12:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>109306</importID>
+      <speakers>
+        <speaker>
+          <id>109306</id>
+          <name>Damian Widera</name>
+        </speaker>
+      </speakers>
+      <track>Information Delivery</track>
+      <location>
+        <name>Track-4</name>
+      </location>
+      <title>Quantum computing explained with demos!</title>
+      <description>This talk is inspired by the quantum revolution we will see in a moment.
+I would like to introduce the topics:
+- reminder why basic linear algebra (matrices and vectors) is important
+- qbits, superposition, and quantum logic gates
+- Show the simplest problem where a quantum computer outperforms classical methods
+
+If time permits - quantum entanglement
+
+I will do demos implemented in Q# with the Microsoft Quantum Development Kit.
+
+I do not assume any special knowledge, but if you know basic linear algebra (matrices, vectors, matrix multiplication) than the topic will be more easily understand!</description>
+      <startTime>12/12/2020 2:10:00 PM</startTime>
+      <endTime>12/12/2020 3:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>102412</importID>
+      <speakers>
+        <speaker>
+          <id>102412</id>
+          <name>Boriana Petrova</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Track-3</name>
+      </location>
+      <title>Working with parameters in Power Query</title>
+      <description>This session will show how to create and use parameters in Power Query. From basic to advanced techniques - from static to dynamic parameters and functions.</description>
+      <startTime>12/12/2020 3:20:00 PM</startTime>
+      <endTime>12/12/2020 4:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>109332</importID>
+      <speakers>
+        <speaker>
+          <id>109332</id>
+          <name>Aleksandar Vetsev</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Track-1</name>
+      </location>
+      <title>End-to-End Business Intelligence Architecture in Azure</title>
+      <description>Presentation and a demo on how to build an end-to-end BI platform for data collection, processing and visualisation, using Azure Data Factory, Azure Databricks, Azure Logic Apps, Azure Data Lake and more.</description>
+      <startTime>12/12/2020 2:10:00 PM</startTime>
+      <endTime>12/12/2020 3:10:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

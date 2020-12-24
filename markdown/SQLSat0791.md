@@ -1,0 +1,22 @@
+# SQLSaturday #791 - Banja Luka 2018
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+08:30:00|Dejan Sarka|Analytics and Visualization|[Data Overview and Manipulation – T-SQL, R, Python](82620.md)
+08:30:00|Tobias Koprowski|Enterprise Database Administration  Deployment|[Maintenance Plans: A Daily Task](83137.md)
+08:30:00|Marcin Szeliga|Advanced Analysis Techniques|[Beyond image classification - object detection  with multi-task deep models](83778.md)
+08:30:00|Christopher Adkin|Application  Database Development|[Continuous Integration Pipelines With Jenkins, Docker and SQL Server](83780.md)
+09:45:00|Dejan Sarka|BI Platform Architecture, Development  Administration|[Staatistical Analysis with T-SQL](82622.md)
+09:45:00|Miloš Radivojević|Application  Database Development|[Најчешће грешке и заблуде на релацији програмер – SQL Server](82989.md)
+09:45:00|Jasmin Azemović|Enterprise Database Administration  Deployment|[Minimizing consequences of data breach using SQL Server](85667.md)
+11:00:00|Dejan Dular|Application  Database Development|[How to downgrade a database](82847.md)
+11:00:00|Tobias Koprowski|Enterprise Database Administration  Deployment|[SQL Security in the Cloud](83136.md)
+11:00:00|Tomaž Kaštrun|BI Information Delivery|[Data Science for beginners](83287.md)
+13:00:00|Mladen Prajdić|Enterprise Database Administration  Deployment|[Getting To Know SQL Server Encryption Capabilities](83180.md)
+13:00:00|Tomaž Kaštrun|Advanced Analysis Techniques|[Most common mistakes data scientists make](83288.md)
+13:00:00|Catalin Gheorghiu|Application  Database Development|[“SQL-like” or query languages in Azure IoT](85662.md)
+14:15:00|Mladen Prajdić|Application  Database Development|[Optimizing Database Access And Diving Into .Net SqlClient](83181.md)
+14:15:00|Dean Savović|Enterprise Database Administration  Deployment|[Bulk Load and Minimal Logging](84137.md)
+14:15:00|Ratomir Vukadin|Application  Database Development|[CI/CD Database deployment](85243.md)
+15:30:00|Miloš Radivojević|Application  Database Development|[Transact SQL Performance Tips](82993.md)
+15:30:00|Tomasz Libera|Cloud Application Development  Deployment|[Azure SQL Data Warehouse](84553.md)
+15:30:00|Miroslav Popovic|Application  Database Development|[Building production-ready APIs with ASP.NET Core 2.x](85566.md)

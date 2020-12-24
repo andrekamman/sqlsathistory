@@ -1,0 +1,557 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #254 - El Salvador 2013</name>
+    <startDate>10/5/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>300</attendeeEstimate>
+    <timezone>(GMT-06:00) Central America</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat254</twitterHashtag>
+    <venue>
+      <name>Universidad Tecnológica</name>
+      <street>Calle Arce # 1020, San Salvador</street>
+      <city>San Salvador</city>
+      <state>, El Salvador</state>
+      <zipcode>
+      </zipcode>
+      <longitude>-89.201668</longitude>
+      <latitude>13.700956</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1246</importID>
+      <name>Universidad Tecnológica de El Salvador</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.utec.edu.sv/</url>
+      <imageURL>https://www.pass.org/files/923e58a6-a603-4d6a-b222-6fce37a2ab8e.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1327</importID>
+      <name>Sensus</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.facebook.com/BusinessIntelligenceLatam</url>
+      <imageURL>https://www.pass.org/files/78d7c401-3ab2-4dab-9d2e-306c4c247384.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1088</importID>
+      <name>SQL Data Partners LLC</name>
+      <label>Personal Sponsor</label>
+      <url>http://www.sqldatapartners.com/podcast</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/839/EventSponsor_13641.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Swag Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>11879</importID>
+      <name>César Oviedo</name>
+      <label>
+      </label>
+      <description>César Oviedo is a Data Platform MVP with more than 12 years of experience working in multidisciplinary projects running roles such as Scrum Master, Project Manager, BI Developer and DB Administrator. With experience leading teams and projects with more than 30 members. Currently focused on Data Science and Big Data platforms. Community Manager at “Business Intelligence LATAM” (BI PASS Chapter Leader for Costa Rica and PowerBI User Community), international speaker and trainer for Data and Cloud technologies.</description>
+      <twitter>@bi_latam</twitter>
+      <linkedin>https://www.linkedin.com/in/cesaroviedo</linkedin>
+      <ContactURL>https://www.facebook.com/BusinessIntelligenceLatam</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@bi_latam</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22227</importID>
+      <name>Ahias Portillo</name>
+      <label>
+      </label>
+      <description>Soy un loco entusiasta por aprender nuevas tecnologías asociadas a base de datos, análisis de datos, Big Data y Ciencia de datos, cuento con más de 15 años de experiencia. 
+
+Cuento con una maestría en Base de datos, certificación profesional de Microsoft en ciencia de datos y Big Data, actualmente estoy estudiando una maestría académica en ciencia de datos.
+
+Me gusta compartir el conocimiento lo que me ha permitido ser nombrado como MVP de plataforma de datos desde el 2014, también he participado como conferencista en países de El Salvador, Guatemala, Costa Rica, Panamá, Estados Unidos y España.</description>
+      <twitter>PortilloAhias</twitter>
+      <linkedin>https://www.linkedin.com/pub/jose-ahias-lopez-portillo/30/284/977</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=PortilloAhias</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9046</importID>
+      <name>Adrian Miranda</name>
+      <label>
+      </label>
+      <description>Profesional de datos con más de 15 años de experiencia en mercados financieros, seguros, retail, entre otros.  Cuenta con amplia experiencia en la definición de arquitectura de base de datos, soluciones en la nube utilizando Microsoft Azure, ha participado en la definición de estrategias de alta disponibilidad, desastre y recuperación utilizando Microsoft Azure como plataforma y continuidad de negocios en general. Formó parte del equipo de soporte global en SQL Server para Microsoft, además, se desempeñó como consultor para un Microsoft Partner y ha sido conferencista para múltiples eventos relacionados con la comunidad de datos en LATAM.</description>
+      <twitter>@JMCJOSEAD</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@JMCJOSEAD</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>26221</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9048</importID>
+      <name>Adrian Miranda</name>
+      <label>
+      </label>
+      <description>Profesional de datos con más de 15 años de experiencia en mercados financieros, seguros, retail, entre otros.  Cuenta con amplia experiencia en la definición de arquitectura de base de datos, soluciones en la nube utilizando Microsoft Azure, ha participado en la definición de estrategias de alta disponibilidad, desastre y recuperación utilizando Microsoft Azure como plataforma y continuidad de negocios en general. Formó parte del equipo de soporte global en SQL Server para Microsoft, además, se desempeñó como consultor para un Microsoft Partner y ha sido conferencista para múltiples eventos relacionados con la comunidad de datos en LATAM.</description>
+      <twitter>@JMCJOSEAD</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@JMCJOSEAD</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13623</importID>
+      <name>Eduardo Castro</name>
+      <label>
+      </label>
+      <description>Eduardo Castro, Microsoft Data Platform MVP and PASS Board of Advisor for LATAM, is well known LATAM SQL Server Expert and focuses on architecture, Business Intelligence and Data Analytics, Eduardo has an specialization and master degree in Data Analysis and Big Data. I have been speaker at PASS Summit delivering session about R and Data Science.
+
+Eduardo Castro has presented in United States, Costa Rica, Colombia, Guatemala, Mexico, Panama, El Salvador and South Korea.</description>
+      <twitter>edocastro</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=7313296amp;authType=NAME_SEARCHamp;authToken=pBHMamp;locale=en_USamp;srchid=73132961426368749508amp;srchindex=1amp;srchtotal=50amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A73132961426368749508%2CVSRPtargetId%3A7313296%2CVSRPcmpt%3Aprimary%2CVSRPnm%3A</linkedin>
+      <ContactURL>http://ecastrom.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=edocastro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17756</importID>
+      <name>Juan Alvarado</name>
+      <label>
+      </label>
+      <description>MVP de SQL desde 2005, consultor de inteligencia de negocios y bases de datos en tecnologias de Microsoft usando SQL, Sharepoint y Office
+</description>
+      <twitter>@juanbizzz</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@juanbizzz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15531</importID>
+      <name>Juan Alvarado</name>
+      <label>
+      </label>
+      <description>MVP SQL SERVER desde 2005, especialista en inteligencia de negocios en las areas de diseños de data marts, datawarehouse, SSAS, reporting services, powerpivot, excel , bases de datos tabulares y Sharepoint.
+Consultor en varias implementaciones de tecnologias de Microsoft, Oracle y SAP.
+Experto certificado en SQL SERVER, Project Server , Sharepoint.  Certificado en tencologias de SAP y Oracle.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.youtube.com/juanbizzz</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>26223</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22226</importID>
+      <name>Ahias Portillo</name>
+      <label>
+      </label>
+      <description>Soy un loco entusiasta por aprender nuevas tecnologías asociadas a base de datos, análisis de datos, Big Data y Ciencia de datos, cuento con más de 15 años de experiencia. 
+
+Cuento con una maestría en Base de datos, certificación profesional de Microsoft en ciencia de datos y Big Data, actualmente estoy estudiando una maestría académica en ciencia de datos.
+
+Me gusta compartir el conocimiento lo que me ha permitido ser nombrado como MVP de plataforma de datos desde el 2014, también he participado como conferencista en países de El Salvador, Guatemala, Costa Rica, Panamá, Estados Unidos y España.</description>
+      <twitter>PortilloAhias</twitter>
+      <linkedin>https://www.linkedin.com/pub/jose-ahias-lopez-portillo/30/284/977</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=PortilloAhias</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11184</importID>
+      <name>Carlos L Chacon</name>
+      <label>
+      </label>
+      <description>Carlos Chacon is the managing partner of SQL Data Partners LLC and co-host of the popular SQL Data Partners Podcast.  While getting his start as a typical accidental DBA, Carlos has sat on Microsoft exam review panels, served as regional mentor and chapter leader.  He enjoys traveling and has been to four continents, speaks Spanish and can eat his weight in raspberries (not yet proven).  He and his family live in Richmond, Virginia.</description>
+      <twitter>@CarlosLChacon</twitter>
+      <linkedin>https://www.linkedin.com/in/carloslchacon</linkedin>
+      <ContactURL>http://sqldatapartners.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@CarlosLChacon</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17594</importID>
+      <name>Jose Gregorio Redondo Lopez</name>
+      <label>
+      </label>
+      <description>Consultor y Arquitecto de Sistemas de Información con 19 años de experiencia en SQL Server, Oracle, DB2, Informix y SyBase; así como en Access, FoxPro, DBase, 4D, Interbase, FileMaker entre otros. Ha aplicado sus conocimientos en diversas compañías de sectores como Gobierno, Petroleras, Cultura, Educación, Salud, Manufacturero, Ventas/Retail y Financieras; ejecutando proyectos en dichas áreas. Es miembro fundador de "SQL PASS Venezuela - Caracas Chapter" y es el Líder de dicho capítulo.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://redondoj.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17592</importID>
+      <name>Jose Gregorio Redondo Lopez</name>
+      <label>
+      </label>
+      <description>Consultor y Arquitecto de Sistemas de Información con 19 años de experiencia en SQL Server, Oracle, DB2, Informix y SyBase; así como en Access, FoxPro, DBase, 4D, Interbase, FileMaker entre otros. Ha aplicado sus conocimientos en diversas compañías de sectores como Gobierno, Petroleras, Cultura, Educación, Salud, Manufacturero, Ventas/Retail y Financieras; ejecutando proyectos en dichas áreas. Es miembro fundador de "SQL PASS Venezuela - Caracas Chapter" y es el Líder de dicho capítulo.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://redondoj.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13625</importID>
+      <name>Eduardo Castro</name>
+      <label>
+      </label>
+      <description>Eduardo Castro, Microsoft Data Platform MVP and PASS Board of Advisor for LATAM, is well known LATAM SQL Server Expert and focuses on architecture, Business Intelligence and Data Analytics, Eduardo has an specialization and master degree in Data Analysis and Big Data. I have been speaker at PASS Summit delivering session about R and Data Science.
+
+Eduardo Castro has presented in United States, Costa Rica, Colombia, Guatemala, Mexico, Panama, El Salvador and South Korea.</description>
+      <twitter>edocastro</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=7313296amp;authType=NAME_SEARCHamp;authToken=pBHMamp;locale=en_USamp;srchid=73132961426368749508amp;srchindex=1amp;srchtotal=50amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A73132961426368749508%2CVSRPtargetId%3A7313296%2CVSRPcmpt%3Aprimary%2CVSRPnm%3A</linkedin>
+      <ContactURL>http://ecastrom.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=edocastro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11183</importID>
+      <name>Carlos L Chacon</name>
+      <label>
+      </label>
+      <description>Carlos Chacon is the managing partner of SQL Data Partners LLC and co-host of the popular SQL Data Partners Podcast.  While getting his start as a typical accidental DBA, Carlos has sat on Microsoft exam review panels, served as regional mentor and chapter leader.  He enjoys traveling and has been to four continents, speaks Spanish and can eat his weight in raspberries (not yet proven).  He and his family live in Richmond, Virginia.</description>
+      <twitter>@CarlosLChacon</twitter>
+      <linkedin>https://www.linkedin.com/in/carloslchacon</linkedin>
+      <ContactURL>http://sqldatapartners.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@CarlosLChacon</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>17756</importID>
+      <speakers>
+        <speaker>
+          <id>17756</id>
+          <name>Juan Alvarado</name>
+        </speaker>
+      </speakers>
+      <track>Database Developer</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Overview de tecnologias en memoria de Microsoft SQL SERVER</title>
+      <description>En esta sesion se dara un vistazo general a las tecnologias en memoria de SQL SERVER, sus casos de uso y su implementaciones.  Entre estas se vera PowerPivot, Bases de datos tabulares y la nueva tecnologia de InMemory DataBase de SQL 2014</description>
+      <startTime>10/5/2013 12:00:00 AM</startTime>
+      <endTime>10/5/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15531</importID>
+      <speakers>
+        <speaker>
+          <id>15531</id>
+          <name>Juan Alvarado</name>
+        </speaker>
+      </speakers>
+      <track>Database Administrator</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Mejores practicas de DBA con SQL SERVER</title>
+      <description>En esta sesion se prodan ver las mejores practicas de SQL SERVER sobre mantenimiento, instalacion, configuracion y monitoreo de la base de datos en produccion.</description>
+      <startTime>10/5/2013 12:00:00 AM</startTime>
+      <endTime>10/5/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11183</importID>
+      <speakers>
+        <speaker>
+          <id>11183</id>
+          <name>Carlos L Chacon</name>
+        </speaker>
+      </speakers>
+      <track>Database Administrator</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server--En juego or Fuera de juego?</title>
+      <description>Esta presentación se concentra en los pasos que se puede tomar para determinar el buen funcionamiento del SQL Server y donde debe enfocarse para optimizarlo. Revisamos las herramientas y scripts que están disponibles sin costo en la comunidad SQL para que no tenga la necesidad de comprarlas . Se da más énfasis en los índices.</description>
+      <startTime>10/5/2013 12:00:00 AM</startTime>
+      <endTime>10/5/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22227</importID>
+      <speakers>
+        <speaker>
+          <id>22227</id>
+          <name>Ahias Portillo</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Todo Inicia con la Integración de datos (SSIS).</title>
+      <description>En esta sesión trataremos sobre conceptos fundamentales de integración de datos y como Integration Service es la mejor solución para realizar esta tarea en proyectos de integración de datos.</description>
+      <startTime>10/5/2013 12:00:00 AM</startTime>
+      <endTime>10/5/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>26221</importID>
+      <speakers>
+        <speaker>
+          <id>26221</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Database Developer</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Common TSQL Mistakes</title>
+      <description>We are going to examine a variety of oopsies MANY developers fall prey too - some obvious, some pretty subtle and some down right sneaky! Lots of code examples with the bad AND good code presented. I GUARANTEE that you will find things here that will either prevent you from getting bad data, throwing unwanted errors or vastly improving your database application's performance.  I have given this talk over FORTY times now and it is always very highly rated!</description>
+      <startTime>10/5/2013 12:00:00 AM</startTime>
+      <endTime>10/5/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11184</importID>
+      <speakers>
+        <speaker>
+          <id>11184</id>
+          <name>Carlos L Chacon</name>
+        </speaker>
+      </speakers>
+      <track>Database Developer</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Variables de Tipo Tabla y Tablas Temporales; ¿iguales o no?</title>
+      <description>Casi todos saben de los variables de tipo tabla y las tablas temporales.
+Mientras ambos representan almacenamiento temporario, son varios
+differencias entre los dos.  Esta sesión repasamos cada uno y los
+comparamos para averiguar cuando los debemos usar.  Al final, esperamos
+contestar la pregunta--¿Cuando debo usarlos y porque?</description>
+      <startTime>10/5/2013 12:00:00 AM</startTime>
+      <endTime>10/5/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>26223</importID>
+      <speakers>
+        <speaker>
+          <id>26223</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Database Developer</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Indexing Deep Dive</title>
+      <description>Another in TheSQLGuru's very popular "Deep Dive" series, this time covering indexing.  You will learn about the internal structures of heaps, clustered indexes and nonclustered indexes.  We will examine included columns and covering indexes, filtered indexes, indexed views, indexing DMVs and finding the right indexes.  There are some incredibly helpful graphics as well as some nice samples to help you transition theory to practice.</description>
+      <startTime>10/5/2013 12:00:00 AM</startTime>
+      <endTime>10/5/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13623</importID>
+      <speakers>
+        <speaker>
+          <id>13623</id>
+          <name>Eduardo Castro</name>
+        </speaker>
+      </speakers>
+      <track>Database Administrator</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Mecanismos de Alta Disponibilidad en SQL Server 2012</title>
+      <description>SQL Server posee varios mecanismos de alta disponibilidad, en esta sesión exploraremos mecanismos tales como Clustering, AlwaysON, SMB Clustering. Se analizan los escenarios en los cuales cada uno de esos mecanismos aplica y las mejores prácticas para su implementación. Además, haremos un vistazo general sobre las mejoras de alta disponibilidad en SQL Server 2014.</description>
+      <startTime>10/5/2013 12:00:00 AM</startTime>
+      <endTime>10/5/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17592</importID>
+      <speakers>
+        <speaker>
+          <id>17592</id>
+          <name>Jose Gregorio Redondo Lopez</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Inteligencia de Negocio en la nube, una realidad palpable!!!</title>
+      <description>Introducir, demostrar y aprender como las poderosas características y herramientas de SQL Reporting en Windows Azure nos llevara a implementar capacidades de consumo de datos visualmente, así mismo, explicar la arquitectura que trae este servicio para la nube.</description>
+      <startTime>10/5/2013 12:00:00 AM</startTime>
+      <endTime>10/5/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9048</importID>
+      <speakers>
+        <speaker>
+          <id>9048</id>
+          <name>Adrian Miranda</name>
+        </speaker>
+      </speakers>
+      <track>Database Developer</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>10 Cosas que debes de dejar de hacer en una base de datos</title>
+      <description>Cuando eres un DBA experimental sueles dejar parámetros por defecto, o bien ejecutas comandos sin medir la consecuencia. Te mostramos la importancia de una correcta configuración del motor de base de datos SQL Server.</description>
+      <startTime>10/5/2013 12:00:00 AM</startTime>
+      <endTime>10/5/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11879</importID>
+      <speakers>
+        <speaker>
+          <id>11879</id>
+          <name>César Oviedo</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Inteligencia de Negocios - Step by Step</title>
+      <description>Se plantea la necesidad, historia, metodologías y tecnologías aplicadas, así como conceptos para la compreción integral de Inteligencia de Negocios.</description>
+      <startTime>10/5/2013 12:00:00 AM</startTime>
+      <endTime>10/5/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22226</importID>
+      <speakers>
+        <speaker>
+          <id>22226</id>
+          <name>Ahias Portillo</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Modelos Tabulares (SSAS Tabular)</title>
+      <description>Con el lanzamiento de Sql Server 2012 las opciones de base de datos analíticas ahora son dos, ¿Que es el SSAS Tabular?, ¿qué debo hacer si yo pienso en hechos y dimensiones?, ¿cómo inicio? y ¿cómo sé que realmente seleccionar esta SSAS Tabular es la solución para mi aplicación BI?, estas preguntas y más serán abordas desde una perspectiva S.O.S.</description>
+      <startTime>10/5/2013 12:00:00 AM</startTime>
+      <endTime>10/5/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13625</importID>
+      <speakers>
+        <speaker>
+          <id>13625</id>
+          <name>Eduardo Castro</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Minería de datos con SQL Server 2012 utilizando Excel y PowerPivot</title>
+      <description>En esta sesión se verán las principales capacidades de minería de datos con SQL Server 2012, así como la creación de modelos de minería de datos y cómo éstos pueden ser explotados utilizando Excel como cliente de presentación. Los modelos de minería de datos alojados en SQL Server Analysis Services pueden ser utilizados y explotados por medio del AddIn de minería de Excel, dentro de esta sesión demostraremos cómo se puede utilizar Excel como una tecnología que puede ser utilizada por analistas de negocios y ejecutivos.</description>
+      <startTime>10/5/2013 12:00:00 AM</startTime>
+      <endTime>10/5/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9046</importID>
+      <speakers>
+        <speaker>
+          <id>9046</id>
+          <name>Adrian Miranda</name>
+        </speaker>
+      </speakers>
+      <track>Database Administrator</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Continuidad Operativa con SQL Server 2012</title>
+      <description>Como las soluciones de alta disponibilidad de SQL Server 2012 complementan los objetivos de continuidad operativa definidos por el negocio.
+</description>
+      <startTime>10/5/2013 12:00:00 AM</startTime>
+      <endTime>10/5/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17594</importID>
+      <speakers>
+        <speaker>
+          <id>17594</id>
+          <name>Jose Gregorio Redondo Lopez</name>
+        </speaker>
+      </speakers>
+      <track>Database Administrator</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Entendiendo el Sistema de Almacenamiento de Datos y SQL Server</title>
+      <description>Presentación de los fundamentos claves sobre los componentes que conforman el sistema de almacenamiento de datos en escenario de alto desempeño con MS SQL Server 2012.</description>
+      <startTime>10/5/2013 12:00:00 AM</startTime>
+      <endTime>10/5/2013 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

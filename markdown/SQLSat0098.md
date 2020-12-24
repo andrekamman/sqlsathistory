@@ -1,0 +1,23 @@
+# SQLSaturday #98 - East Iowa 2011
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Aaron Lowe|Track 3|[Database Development using Visual Studio](28422.md)
+00:00:00|Aaron Lowe|Track 4|[Writing Professional Database Code](28423.md)
+00:00:00|Bill Preachuk|Track 1|[Database Restores - Lessons from the Real World](29063.md)
+00:00:00|Jason Strate|Track 2|[XQuery Basics for the DBA](30538.md)
+00:00:00|Jason Strate|Track 2|[Getting To Know Your Indexes](30541.md)
+00:00:00|Jason Strate|Track 1|[Discovering the Plan Cache](30543.md)
+00:00:00|Michael Steineke|Track 2|[What's new with SQL Server 'Denali' for HA/DR](32032.md)
+00:00:00|Michael Steineke|Track 3|[SQL 'Denali' AlwaysOn Configuration Deep Dive ](32033.md)
+00:00:00|Norman Kelm|Track 1|[The Script Task, powerhouse of SSIS](32101.md)
+00:00:00|Ross McNeely|Track 4|[Minimal Processing for Large Cubes](32659.md)
+00:00:00|Ross McNeely|Track 2|[Dynamic Text File Creation Via Single SSIS Package](32660.md)
+00:00:00|Ross McNeely|Track 3|[Using Spatial Data Types](32661.md)
+00:00:00|Steven Murawski|Track 4|[Scriptable UI with PowerShell](33228.md)
+00:00:00|Brian Duhn|Track 4|[Check Out The New AAS!](33311.md)
+00:00:00|Ted Krueger|Track 2|[Query Tuning for Developers and DBAs](33336.md)
+00:00:00|Ted Krueger|Track 1|[SSIS: The DBA Multiplier](33337.md)
+00:00:00|Tim Plas|Track 3|[High-Availability and DR Options for SQL Server](33580.md)
+00:00:00|William E Pearson III|Track 1|[An Overview of PowerPivot](33997.md)
+00:00:00|William E Pearson III|Track 4|[Getting Started with MDX](34004.md)
+00:00:00|William E Pearson III|Track 3|[Serene Velocity: Reporting Services and SSAS Data](34007.md)

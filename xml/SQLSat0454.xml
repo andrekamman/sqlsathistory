@@ -1,0 +1,803 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #454 - Turin 2015</name>
+    <startDate>10/10/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat454</twitterHashtag>
+    <venue>
+      <name>Politecnico di Torino</name>
+      <street>Corso Duca degli Abruzzi, 24 </street>
+      <city>Turin</city>
+      <state>Piedmont, Italy</state>
+      <zipcode>10129 </zipcode>
+      <longitude>7.66241931915283</longitude>
+      <latitude>45.0623779296875</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1068</importID>
+      <name>SolidQ Italia</name>
+      <label>Organizers</label>
+      <url>http://www.solidq.it</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/895/EventSponsor_14157.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1083</importID>
+      <name>SQLBI</name>
+      <label>Organizers</label>
+      <url>http://www.sqlbi.com/</url>
+      <imageURL>https://www.sqlbi.com/logo/sqlbi.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1502</importID>
+      <name>Microsoft Italia</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://www.pass.org/files/692afc15-2ca0-4607-a1b2-4f98eafd4f15.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>89</importID>
+      <name>Profisee</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.profisee.com</url>
+      <imageURL>https://www.profisee.com/Portals/0/lp/assets/img/logo_profisee.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>85</importID>
+      <name>Pyramid Analytics</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.PyramidAnalytics.com</url>
+      <imageURL>http://pages.pyramidanalytics.com/rs/pyramidanalytics/images/logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>76</importID>
+      <name>Apex SQL</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.apexsql.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/881/EventSponsor_13896.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1538</importID>
+      <name>Biware s.r.l.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.xlcubed.com</url>
+      <imageURL>https://www.xlcubed.com/images/stories/xlcubed_logo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1417</importID>
+      <name>SQLServerPills</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.sqlserverpills.eu</url>
+      <imageURL>https://www.sqlserverpills.eu/img/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>83</importID>
+      <name>PluralSight</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.pluralsight.com</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2015/11/Pluralsight_logo_novo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1405</importID>
+      <name>COZYROC</name>
+      <label>Bronze Sponsor</label>
+      <url>http://bit.ly/cozyrocssis</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/978/EventSponsor_14586.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1540</importID>
+      <name>SQLSentry PLC</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.sentryone.com/</url>
+      <imageURL>https://3.bp.blogspot.com/-PRGC1S-iW1o/V_a4i4N3FiI/AAAAAAAAEL0/deSscc5-6jY4TStpBLq5Gh4uTK0WN_tpACLcB/s1600/SentryOne-logo-300px.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>38634</importID>
+      <name>Cédric Charlier</name>
+      <label>
+      </label>
+      <description>Cédric is a talented architect and Data Platform MVP active in the domain of Business Intelligence and Data warehousing. He has more than 10 years of successful experiences with SQL Server in European industrial groups and services companies. Driven by quality and reliability, he is the main developer of an open-source solution for testing BI solutions (cubes, etl, reports) named NBi (www.nbi.io). Cedric also advocates for the introduction and general usage of agile practices in BI’s world.</description>
+      <twitter>@Seddryck</twitter>
+      <linkedin>http://be.linkedin.com/in/cedriccharlier</linkedin>
+      <ContactURL>http://seddryck.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Seddryck</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40247</importID>
+      <name>Alberto Ferrari</name>
+      <label>
+      </label>
+      <description>Alberto Ferrari started working with SQL Server in 2000 and immediately focused his interest on Business Intelligence. He and Marco Russo created sqlbi.com, where they publish extensive content about Business Intelligence. Alberto published several books about Analysis Services, Power BI, and Power Pivot. He is a Microsoft MVP and he earned the SSAS Maestro title, the highest level of certification on Microsoft Analysis Services technology.
+
+Today, Alberto's main activities are in the delivery of DAX and data modeling workshops for Power BI and Analysis Services all around the world. Alberto offers consulting services on large and complex data warehouses to provide assessments and validation of project analysis or to perform specific problem-solving activities.
+
+Alberto is a well-known speaker at many international conferences, like PASS Summit, SQLBits, and Microsoft Ignite. He loves to be on stage both at large events and at smaller user groups meetings, exchanging ideas with other SQL and BI fans. When traveling for work, he likes to engage with local user groups to provide evening sessions about his favorite topics. Thus, you can easily meet Alberto by looking up local Power BI user groups during scheduled courses.
+Outside of SQLBI, most of Alberto's personal time is spent practicing video games, in the vain hope of eventually beating his son.</description>
+      <twitter>@FerrariAlberto</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqlbi.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@FerrariAlberto</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38996</importID>
+      <name>Mladen Prajdić</name>
+      <label>
+      </label>
+      <description>Mladen Prajdić is a Data Platform MVP from Slovenia. He's been programming for 20 years, developing diﬀerent types of applications in .Net (C#) and SQL Server, ranging from standard line-of-business, image-processing applications to high performace and IoT applications. He's a regular speaker at various conferences and usergroup meetings, really likes to optimize slow SQL statements, analyze performance, and find unconventional solutions to difficult SQL Server problems. In his free time, he also develops a very popular add-in for SSMS, called the SSMS Tools Pack (www.ssmstoolspack.com).</description>
+      <twitter>@MladenPrajdic</twitter>
+      <linkedin>https://www.linkedin.com/in/mladenprajdic</linkedin>
+      <ContactURL>http://weblogs.sqlteam.com/mladenp</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@MladenPrajdic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40230</importID>
+      <name>Sergio Govoni</name>
+      <label>
+      </label>
+      <description>Since 1999 Sergio Govoni has been a software developer; in 2000 he got a degree in Computer Science at "Università degli Studi" in Ferrara (Italy). He has worked for over 18 years in Centro Software, a software house that produces the best ERP for manufacturing companies that are export oriented. Now, he manages the development product team and he is constantly involved on several team projects, where he focues his attention on the architecture and the mission-critical technical details. Since 2016 he is the vice president of the UGISS (www.ugiss.org). For the provided help to technical communities and for sharing his own experience, since 2010 he has received the Microsoft Data Platform MVP award.</description>
+      <twitter>@segovoni</twitter>
+      <linkedin>http://www.linkedin.com/in/sgovoni</linkedin>
+      <ContactURL>https://mvp.microsoft.com/it-it/PublicProfile/4029181?fullName=Sergio%20Govoni</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@segovoni</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38800</importID>
+      <name>Kenneth Nielsen</name>
+      <label>
+      </label>
+      <description>Kenneth M. Nielsen currently work at Microsoft as Data Platform Solution Architect, focusing on data services on Azure. Previously worked as managing consultant and teamlead for the company Rehfeld Partners in Denmark. He has worked at various consulting firms and worked on many small/large/very large bi installations in Denmark over the last 12 years. He really likes to advice the customers to take the right decisions, but also maintains a high technical knowledge, so he can act at both architect and developer.</description>
+      <twitter>https://twitter.com/DoktorKermit</twitter>
+      <linkedin>http://dk.linkedin.com/in/kennethmnielsen/</linkedin>
+      <ContactURL>http://funkylab.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/DoktorKermit</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40255</importID>
+      <name>Marco Russo</name>
+      <label>
+      </label>
+      <description>Marco is a Business Intelligence consultant and mentor. He wrote several books about Power BI, Analysis Service, and Power Pivot. He also regularly writes articles and white papers that are available on sqlbi.com. Marco is a Microsoft MVP and an SSAS Maestro, the highest level of certification on Microsoft Analysis Services.
+Today, Marco focuses his time with SQLBI customers, traveling extensively to train and consult on DAX and data modeling for Power BI and Analysis Services. Marco also teaches public classes worldwide.
+Marco is a regular speaker at international conferences like Microsoft Ignite, PASS Summit, and SQLBits. He also enjoys delivering evening sessions at local user groups during his trips.</description>
+      <twitter>marcorus</twitter>
+      <linkedin>http://www.linkedin.com/in/sqlbi</linkedin>
+      <ContactURL>https://www.sqlbi.com/blog/marco</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=marcorus</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40487</importID>
+      <name>andrea benedetti</name>
+      <label>
+      </label>
+      <description>Andrea Benedetti, Technical Development Manager DWH amp; BI Team at Microsoft Western Europe, was SQL Server amp; BI Architect in the Consulting Services division of Microsoft Italy where he was in charge of enterprise projects on data platform.
+
+SQL Server MVP since 2004 in late 2011, he working with SQL Server since version 6.5, he participated as a speaker at numerous workshops, conferences, seminars and roadshows.</description>
+      <twitter>https://twitter.com/anBenedetti</twitter>
+      <linkedin>https://it.linkedin.com/in/abenedetti</linkedin>
+      <ContactURL>http://blogs.technet.com/b/andrea_benedetti_blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/anBenedetti</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40970</importID>
+      <name>Francesco Diaz</name>
+      <label>
+      </label>
+      <description>Francesco (@francedit) works at Insight as Partner Technology Services Manager. He#39;s responsible for the delivery of technical services, mainly related to cloud and data projects, for the italian subsidiary. He#39;s passionate about Cloud, Dev, and Data Insights, and he posts articles on http://francescodiaz.azurewebsites.net</description>
+      <twitter>francedit</twitter>
+      <linkedin>http://it.linkedin.com/in/francescodiaz/</linkedin>
+      <ContactURL>http://francescodiaz.azurewebsites.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=francedit</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37977</importID>
+      <name>Alessandro Rezzani</name>
+      <label>
+      </label>
+      <description>I#39;m a senior Business Intelligence consultant and I#39;m specialized in data mining and big data applications.
+Since 2004, I’ve designed and developed Business Intelligence and Data Mining solutions based mainly on the Microsoft platform.  The main activities I’m involved in are: 
+-  Data Mining amp; Machine Learning projects.
+ - Data warehouse, OLAP cubes, ETL design and implementation 
+- Training on BI amp; Data minign topics
+- Lecturing at Univesit#224; Bocconi
+- Writing Books</description>
+      <twitter>@alerezzani</twitter>
+      <linkedin>https://it.linkedin.com/in/alessandrorezzani</linkedin>
+      <ContactURL>http://www.dataskills.it/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@alerezzani</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40259</importID>
+      <name>Gianluca Sartori</name>
+      <label>
+      </label>
+      <description>Gianluca Sartori is a Data Platform MVP, independent consultant and performance tuning specialist. He has been working in the software industry since 1999 and has been working with SQL Server ever since. He also works as a SQL Server trainer and in his spare time he writes technical articles and participates the SQL Server forums. Gianluca enjoys presenting SQL Server topics at conferences in Europe and in Italy in particular. He is currently working as lead DBA at a famous Formula 1 team.</description>
+      <twitter>http://twitter.com/#!/spaghettidba</twitter>
+      <linkedin>http://it.linkedin.com/pub/gianluca-sartori/23/50b/a12</linkedin>
+      <ContactURL>http://spaghettidba.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/#!/spaghettidba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38686</importID>
+      <name>Luca Ferrari</name>
+      <label>
+      </label>
+      <description>Luca Ferrari lavora in Microsoft Italia come PFE Engineer.
+Lavora con Sql server dalla versione 2000 ed ha seguito con attenzione tutte le evoluzioni del prodotto.
+Si occupa principalmente di:
+MPP  SMP Design
+Troubleshooting
+Performance Tuning
+SSIS e SSRS, Azure SQL Database, Azure DataWarehouse.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=101837495amp;authType=NAME_SEARCHamp;authToken=i4Ctamp;locale=it_ITamp;srchid=1018374951435910175159amp;srchindex=1amp;srchtotal=284amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A1018374951435910175159%2CVSRPtargetId%3A101837495%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue</linkedin>
+      <ContactURL>http://tipsandtrickssqlserver.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40248</importID>
+      <name>Alberto Ferrari</name>
+      <label>
+      </label>
+      <description>Alberto Ferrari started working with SQL Server in 2000 and immediately focused his interest on Business Intelligence. He and Marco Russo created sqlbi.com, where they publish extensive content about Business Intelligence. Alberto published several books about Analysis Services, Power BI, and Power Pivot. He is a Microsoft MVP and he earned the SSAS Maestro title, the highest level of certification on Microsoft Analysis Services technology.
+
+Today, Alberto's main activities are in the delivery of DAX and data modeling workshops for Power BI and Analysis Services all around the world. Alberto offers consulting services on large and complex data warehouses to provide assessments and validation of project analysis or to perform specific problem-solving activities.
+
+Alberto is a well-known speaker at many international conferences, like PASS Summit, SQLBits, and Microsoft Ignite. He loves to be on stage both at large events and at smaller user groups meetings, exchanging ideas with other SQL and BI fans. When traveling for work, he likes to engage with local user groups to provide evening sessions about his favorite topics. Thus, you can easily meet Alberto by looking up local Power BI user groups during scheduled courses.
+Outside of SQLBI, most of Alberto's personal time is spent practicing video games, in the vain hope of eventually beating his son.</description>
+      <twitter>@FerrariAlberto</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqlbi.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@FerrariAlberto</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38387</importID>
+      <name>Jean-Pierre Riehl</name>
+      <label>
+      </label>
+      <description>Architect, Consultant, Trainer and also Manager, Jean-Pierre leads the Data  BI Practice at AZEO, a French Microsoft "pure-player" partner. 
+Jean-Pierre is MVP Data Platform since 2008 and speaks at many events in France and in Europe. JP leads the local community (GUSS) and organize events in France since 2011 : MS Cloud Summit, Les Journées SQL Server, SQLSaturday, etc. 
+JP is passionate by data concerns in business like Data Governance, Data Quality or Data Vizualisation and since 2010, he’s specialized in Self-Service BI. His favorite topic is Power BI and business usages and technical architectures that go with.</description>
+      <twitter>djeepy1</twitter>
+      <linkedin>http://fr.linkedin.com/in/djeepy1</linkedin>
+      <ContactURL>http://blog.djeepy1.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=djeepy1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38382</importID>
+      <name>Dejan Sarka</name>
+      <label>
+      </label>
+      <description>Dejan Sarka, MCT and Data Platform MVP, is an independent trainer and consultant that focuses on development of database and business intelligence applications. Besides projects, he spends about half of his time on training and mentoring. He is the founder of the Slovenian SQL Server and .NET Users Group. Dejan Sarka is the main author or co-author of eighteen books about databases and SQL Server. Dejan Sarka has also developed many courses and seminars for Microsoft, Radacad, SolidQ, and Pluralsight.</description>
+      <twitter>DejanSarka</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.solidq.com/dsarka/Home.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DejanSarka</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>39924</importID>
+      <name>Alessandro Alpi</name>
+      <label>
+      </label>
+      <description>Alessandro lavora nell#39;IT dal 2000. La passione per l#39;informatica nasce ad 11 anni partendo dal C64 ed oggi #232; CTO di Engage IT Services srl dove si occupa della gestione del team di sviluppo e del contatto tecnico con i clienti.
+Nel team si occupa anche dell#39;amministrazione e del ciclo di vita dei database. E’ MVP SQL Server dal 2008, #232; anche Microsoft Certified Professional, ed oltre ad essere speaker a diversi eventi Microsoft, segue due blog e risponde sui forum di StackOverflow e MSDN</description>
+      <twitter>https://twitter.com/suxstellino</twitter>
+      <linkedin>https://it.linkedin.com/in/suxstellino</linkedin>
+      <ContactURL>http://suxstellino.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/suxstellino</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38183</importID>
+      <name>Tomaž Kaštrun</name>
+      <label>
+      </label>
+      <description>Tomaž Kaštrun is BI developer and data analyst. His main focus are data mining, T-SQL development, programming and query optimization. He has been working with SQL server since version 2000. He is Microsoft Certified Professional, Microsoft MVP for data platform and Microsoft trainer.</description>
+      <twitter>@tomaz_tsql</twitter>
+      <linkedin>http://www.linkedin.com/tomaz.kastrun</linkedin>
+      <ContactURL>http://www.tomaztsql.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@tomaz_tsql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40266</importID>
+      <name>Emanuele Zanchettin</name>
+      <label>
+      </label>
+      <description>Emanuele Zanchettin, after studying in Computer Engineering, began his career with DB2 in the banking sector in 1998. After a few years and a change of scope of application, he encountered Access and Oracle with which he subsequently worked for several years in data access tuning and database design for new application features. Since 2007 he has also launched into the SQLServer world 2K, 2005, 2008* and 201* and more importantly, since 2011, into Azure SQL Database (SQL Azure). In order to have a greater capacity for assessment and familiarity with the various technologies that the market offers, he has deepened his knowledge to include MySQL and DocumentDB. Today Emanuele is mainly involved in IT projects and database management.</description>
+      <twitter>@_thinkIT_</twitter>
+      <linkedin>http://it.linkedin.com/pub/emanuele-zanchettin/18/921/34/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@_thinkIT_</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40239</importID>
+      <name>Marco Parenzan</name>
+      <label>
+      </label>
+      <description>Marco Parenzan is an independent Cloud and IoT Architect and .NET Developer. 
+He has been awarded as a MVP on Microsoft Azure since 2014. 
+He is a speaker in major community events in Italy about Azure and .NET development.
+He is a community lead for 1nn0va, an official Microsoft community in Pordenone, Italy. 
+He has written a book on Azure in 2016. 
+He loves developing retrogames and reading comix.
+
+Marco Parenzan è professionista per le architetture Cloud e IoT e lo sviluppo in .NET. 
+Ha ricevuto il titolo di MVP su Microsoft Azure dal 2014. 
+È uno speaker in Italia su Azure e lo sviluppo di .NET. 
+E' un community lead per 1nn0va, una community ufficiale Microsoft a Pordenone, in Italia. 
+Ha scritto un libro su Azure nel 2016.</description>
+      <twitter>@marco_parenzan</twitter>
+      <linkedin>https://it.linkedin.com/in/marcoparenzan</linkedin>
+      <ContactURL>https://www.linkedin.com/in/marcoparenzan/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@marco_parenzan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40418</importID>
+      <name>Davide Mauri</name>
+      <label>
+      </label>
+      <description>Data Platform MVP for almost 12 years, I love Data and Database in all their forms. Developer for passion (C# and Python), I've been working in the IT field since 1997. My focus has been databases and performance tuning since the start, focusing both on transactional and analytical workloads. I worked for more than 10 years on Business Intelligence and Data Warehousing, then moved to IoT and Big Data for a while. Now back to database space, injecting passion and innovation into Azure SQL as Microsoft Program Manager for Azure SQL Hyperscale, helping developers to re-discover SQL, which is now almost everywhere, and take advantage of all its amazing power!</description>
+      <twitter>mauridb</twitter>
+      <linkedin>http://www.linkedin.com/in/davidemauri</linkedin>
+      <ContactURL>https://medium.com/@mauridb</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mauridb</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40130</importID>
+      <name>Marco De Nittis</name>
+      <label>
+      </label>
+      <description>Marco De Nittis is a freelance passionate about web, data oriented and distributed technologies, mainly focused on Microsoft platform in particular with  .NET, SQL Server and Sharepoint. 
+He works as consultant, architect and trainer.</description>
+      <twitter>@mdnmdn</twitter>
+      <linkedin>https://it.linkedin.com/in/marcodenittis</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@mdnmdn</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>38382</importID>
+      <speakers>
+        <speaker>
+          <id>38382</id>
+          <name>Dejan Sarka</name>
+        </speaker>
+      </speakers>
+      <track>BI  Analytics</track>
+      <location>
+        <name>BI  Analytics</name>
+      </location>
+      <title>Analyzing Text with SQL Server, R, and Azure ML</title>
+      <description>Text mining is becoming more and more popular. Everybody would like to understand data from blogs, Web sites, and social media. Microsoft SQL Server in versions 2012 and 2014 enhances full-text search support that was substantially available in previous editions. Semantic Search, a new component in Full-Text Search, can help you understanding the meaning of documents. The Term Extraction and Term Lookup components from SQL Server Integration Services also help with text analysis. Free statistical package / language R is also useful for the text mining tasks. Azure ML is adding additional techniques to the big picture. However, the question arises: is all this enough? This presentation unveils the good and the bad side of text mining with the tools mentioned.</description>
+      <startTime>10/10/2015 1:30:00 PM</startTime>
+      <endTime>10/10/2015 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>38996</importID>
+      <speakers>
+        <speaker>
+          <id>38996</id>
+          <name>Mladen Prajdić</name>
+        </speaker>
+      </speakers>
+      <track>BI  Analytics</track>
+      <location>
+        <name>BI  Analytics</name>
+      </location>
+      <title>Visualizing streaming data in real time</title>
+      <description>We're all familiar with reports or dashboards that show you a static snapshot of the data
+that has to be refreshed on an interval. And those are very important visualizations.
+But sometimes you just have to have a real time view of your data streams and snapshots aren't enough.
+What if you could monitor multiple servers with SQL Trace or Extended Events or had some other source of streaming data and 
+be able to see it all happening live on a central monitoring website?
+This is a scenario we'll take a detailed look at and build a system for such monitoring.
+We'll do this by using Extended Events .Net provider to get the live data stream, 
+SignalR to get the live stream from the server to the website and the D3 javaScript library 
+for actual real time visualizations on any device.
+After seeing all this in action, you'll definitely get a few ideas on where you could use this in your company.</description>
+      <startTime>10/10/2015 4:15:00 PM</startTime>
+      <endTime>10/10/2015 5:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40418</importID>
+      <speakers>
+        <speaker>
+          <id>40418</id>
+          <name>Davide Mauri</name>
+        </speaker>
+      </speakers>
+      <track>BI  Analytics</track>
+      <location>
+        <name>BI  Analytics</name>
+      </location>
+      <title>AzureML - A full journey</title>
+      <description>In this session we'll see Azure ML from the inside out. After a gentle approach on Machine Learning, we'll see the Microsoft offering in this field and all the feature it offers, creating a simple yet 100% complete Machine Learning solution. We'll start from something simple and then we'll also move to some more complex topics like the integration with R and Python, IPython Notebook until the Web Service publishing and usage, so that we can integrate the created ML solution with batch process or even use it in real time with LOB application. I predict that all of this sound cool to you, yeah? Well it is, since with ML you can really give that "something more" to your customers or employees that will help you to make the difference. Guaranteed at 98.75%!</description>
+      <startTime>10/10/2015 11:30:00 AM</startTime>
+      <endTime>10/10/2015 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>38800</importID>
+      <speakers>
+        <speaker>
+          <id>38800</id>
+          <name>Kenneth Nielsen</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server 2016</track>
+      <location>
+        <name>SQL Server 2016</name>
+      </location>
+      <title>SQL Server 2016 - Temporal Data Tables (System-Versioned)</title>
+      <description>There are many new features in SQL Server 2016, but the one we will focus on in this session:
+•	Temporal Database Tables
+One of the many new features in SQL server 2016 is the built-in support for temporal data tables. This is a feature that many developers have been urging to have as a “out of the box feature” – and therefore many have developed their own ways of implementing the capability to store information about how data looked in a certain period of time.
+What is a Temporal Data Table?
+The concept of a temporal data table is that the table will hold information about a records value in any point in time – thus meaning that we easily can read from the table and get values that are not current, but merely a historical view of the record.
+There will be many demo's and script will be shown and shared.</description>
+      <startTime>10/10/2015 2:45:00 PM</startTime>
+      <endTime>10/10/2015 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40259</importID>
+      <speakers>
+        <speaker>
+          <id>40259</id>
+          <name>Gianluca Sartori</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server 2016</track>
+      <location>
+        <name>SQL Server 2016</name>
+      </location>
+      <title>New Security Features in SQL Server 2016</title>
+      <description>In this session we will explore the new features introduced with SQL Server 2016 to enhance security. 
+Always Encrypted is a new technology that protects your data not only at rest, but also throughout the whole interaction between the application and the database.
+Dynamic Data Masking is another interesting feature that allows us to protect sensitive data by masking it to all users that don’t have enough privileges to see the actual contents.
+Row Level Security allows showing to end users only the data they’re entitled to access, without changing the applications’ code.
+We will demonstrate the use of these three features with example applications and we will explore the use cases where these technologies represent a big leap from previous custom implementations.
+</description>
+      <startTime>10/10/2015 10:00:00 AM</startTime>
+      <endTime>10/10/2015 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>40230</importID>
+      <speakers>
+        <speaker>
+          <id>40230</id>
+          <name>Sergio Govoni</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server 2016</track>
+      <location>
+        <name>SQL Server 2016</name>
+      </location>
+      <title>SQL Server 2016 Query Store</title>
+      <description>Have you ever experienced to have your system slowed down or completely down? What happens? Have you ever upgraded an application to the latest version of SQL Server and facing an issue with plan change that slows your application down? Query Plan choice change can cause these issues. SQL Server 2016, through a new feature called Query Store, let's make these problems easier to fix. Query Store retains all the execution plans used for each query; it captures the performance metrics for each plan over the time and allows you to force an execution plan easily. In this session, you will learn how the Query Store works and how it can help you to fix performance problems.</description>
+      <startTime>10/10/2015 4:15:00 PM</startTime>
+      <endTime>10/10/2015 5:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>39924</importID>
+      <speakers>
+        <speaker>
+          <id>39924</id>
+          <name>Alessandro Alpi</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server 2016</track>
+      <location>
+        <name>SQL Server 2016</name>
+      </location>
+      <title>SQL Server 2016 native JSON support</title>
+      <description>SQL Server 2016 introduces a lot of new features. One of the most asked programmability enhancement in the platform is the native JSON support. We will discuss about limitations and advantages of this new kind of serialization and we will consider also the status of latest releases of SQL Server 2016.</description>
+      <startTime>10/10/2015 1:30:00 PM</startTime>
+      <endTime>10/10/2015 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40487</importID>
+      <speakers>
+        <speaker>
+          <id>40487</id>
+          <name>andrea benedetti</name>
+        </speaker>
+      </speakers>
+      <track>Power BI</track>
+      <location>
+        <name>Power BI</name>
+      </location>
+      <title>Using Power BI in Enterprise: Collaboration Features</title>
+      <description>Power BI groups enable teams to collaborate on one set of Dashboards, Reports, and Datasets.
+Organizations can create and publish content packs to their employees, leveraging data across on-premises and cloud data sources.
+Groups and organizational content packs complement each other to create a powerful collaborative experience built on Office 365 groups. In this session, you will see how to use them effectively, making sure that the access security is always in place correctly.</description>
+      <startTime>10/10/2015 4:15:00 PM</startTime>
+      <endTime>10/10/2015 5:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40255</importID>
+      <speakers>
+        <speaker>
+          <id>40255</id>
+          <name>Marco Russo</name>
+        </speaker>
+      </speakers>
+      <track>Power BI</track>
+      <location>
+        <name>Power BI</name>
+      </location>
+      <title>Power Query</title>
+      <description>Power Query is a core technology of Microsoft Power BI and Excel 2016, and it is also available as a free add-in of Excel 2010 and 2013. You can use it to read
+and transform data from different data sources, populating tables in data models or in Excel. In this session, you will see the architecture and the connectors available, spending most of the time in demos and playing with the “M” language, expanding the capabilities
+of this tool beyond the capabilities of its user interface.</description>
+      <startTime>10/10/2015 2:45:00 PM</startTime>
+      <endTime>10/10/2015 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>38634</importID>
+      <speakers>
+        <speaker>
+          <id>38634</id>
+          <name>Cédric Charlier</name>
+        </speaker>
+      </speakers>
+      <track>BI  Analytics</track>
+      <location>
+        <name>BI  Analytics</name>
+      </location>
+      <title>Automating the testing of your BI solutions with NBi</title>
+      <description>If you want to accelerate the testing of your BI solutions, the best strategy is the automation of your tests with the help of a dedicated framework. During this session, we’ll take a look to the features of the open-source framework named “NBi” (nbi.codeplex.com). This framework is providing support for automated tests on the fields of databases, cubes, reports and ETLs, without the need of .Net skills. The demos will show us the best approaches to quickly and effectively assert the quality of BI developments. We'll go a step further, generating the tests by an interesting system of templates and test-cases sources. </description>
+      <startTime>10/10/2015 2:45:00 PM</startTime>
+      <endTime>10/10/2015 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40266</importID>
+      <speakers>
+        <speaker>
+          <id>40266</id>
+          <name>Emanuele Zanchettin</name>
+        </speaker>
+      </speakers>
+      <track>Azure Data Platform</track>
+      <location>
+        <name>Azure Data Platform</name>
+      </location>
+      <title>Implementing and Maintaining an Azure SQL Database project</title>
+      <description>This is an evergreen session, it follows Azure SQL Database evolution and each time is different: it looks at how to implement, maintain and evolve/update solutions developed on Azure SQL Database, through the use of the tools like SQL Sever Management Studio and Visual Studio. Through examples and case studies, will be presented the versatility, power and reliability of the database as a service in the cloud.</description>
+      <startTime>10/10/2015 1:30:00 PM</startTime>
+      <endTime>10/10/2015 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>38686</importID>
+      <speakers>
+        <speaker>
+          <id>38686</id>
+          <name>Luca Ferrari</name>
+        </speaker>
+      </speakers>
+      <track>Azure Data Platform</track>
+      <location>
+        <name>Azure Data Platform</name>
+      </location>
+      <title>Azure Sql DataWarehouse - The First cloud enterprise solution for MPP</title>
+      <description>Azure Sql Datawarehouse is the first cloud enterprise solution for Multiple Parallel Process.
+But how it works ? Why is it so fast ?
+Data warehouses require fixed combinations of storage and compute, often underutilizing expensive resources. With SQL Data Warehouse, data and compute scale independently. You can dynamically deploy, grow, shrink, and even pause compute, taking advantage of best-in-class price/performance. Additionally, SQL Data Warehouse utilizes the power and familiarity of T-SQL to easily integrate query results across relational data in your data warehouse and non-relational data in Azure blob storage.</description>
+      <startTime>10/10/2015 10:00:00 AM</startTime>
+      <endTime>10/10/2015 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>40130</importID>
+      <speakers>
+        <speaker>
+          <id>40130</id>
+          <name>Marco De Nittis</name>
+        </speaker>
+      </speakers>
+      <track>Azure Data Platform</track>
+      <location>
+        <name>Azure Data Platform</name>
+      </location>
+      <title>DocumentDB Jumpstart, NoSQL adventures in Azure</title>
+      <description>What is NoSQL? What is DocumentDB? How this technology could change the way we manage data?
+We’ll discover together how DocumentDB works, how we could use this new exciting product and which are its pros and cons compared to relational databases as SQL server.
+This session covers how configure a new DocumentDB instance in Azure, how to save and query data and the basic guidelines about organizing complex data as JSON documents.
+</description>
+      <startTime>10/10/2015 4:15:00 PM</startTime>
+      <endTime>10/10/2015 5:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>37977</importID>
+      <speakers>
+        <speaker>
+          <id>37977</id>
+          <name>Alessandro Rezzani</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server 2016</track>
+      <location>
+        <name>SQL Server 2016</name>
+      </location>
+      <title>Polybase In SQL Server 2016</title>
+      <description>SQL Server 2016 ships with Polybase, which was previously a feature available only in Microsoft APS. Polybase represents a bridge between the relational world and Hadoop. It makes it possible to query and Hadoop system using T-SQL!
+ The session shows how to install, configure and take advantage of Polybase for querying the Hortonworks Data Platform on premises and an HDInsight cluster on Azure.</description>
+      <startTime>10/10/2015 11:30:00 AM</startTime>
+      <endTime>10/10/2015 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40247</importID>
+      <speakers>
+        <speaker>
+          <id>40247</id>
+          <name>Alberto Ferrari</name>
+        </speaker>
+      </speakers>
+      <track>Power BI</track>
+      <location>
+        <name>Power BI</name>
+      </location>
+      <title>Power BI Architecture</title>
+      <description>Power BI is a cloud service that lets you share, collaborate and access your Excel reports anywhere on any device. In this session, you will learn how to create data models, display visualizations, and synchronize cloud data with on premises data sources. In order to use these new features, you will continue to leverage existing skillsets, such as Tabular, Power Pivot, DAX, and you will be able to connect to database and semantic models you already built, such as existing databases in Analysis Services Multidimensional and Tabular. The goal is to create dashboards leveraging data and models that you have both on cloud and on premises.</description>
+      <startTime>10/10/2015 10:00:00 AM</startTime>
+      <endTime>10/10/2015 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>40970</importID>
+      <speakers>
+        <speaker>
+          <id>40970</id>
+          <name>Francesco Diaz</name>
+        </speaker>
+      </speakers>
+      <track>Azure Data Platform</track>
+      <location>
+        <name>Azure Data Platform</name>
+      </location>
+      <title>A lap around Azure Data Factory</title>
+      <description>Join this session if you want to see how Azure Data Factory, a web based SaaS service, could help you to create, orchestrate, and manage data-processing pipelines over a range of transformation services and diverse data sources. Data Sources could be relational and non relational, both on-premises and in the cloud, and custom code could be also used. Presentation will be complemented with demos in order to clarify the aspects of a potential adoption of this service.</description>
+      <startTime>10/10/2015 11:30:00 AM</startTime>
+      <endTime>10/10/2015 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40239</importID>
+      <speakers>
+        <speaker>
+          <id>40239</id>
+          <name>Marco Parenzan</name>
+        </speaker>
+      </speakers>
+      <track>Azure Data Platform</track>
+      <location>
+        <name>Azure Data Platform</name>
+      </location>
+      <title>Azure Stream Analytics</title>
+      <description>Modern business is fast and needs to take decisions immediately. It cannot wait that a traditional BI task that snapshots data at some time. Social data, Internet of Things, Just in Time don't understand "snapshot" and needs working on streaming, live data. Microsoft offers a solution in Azure with Stream Analytics and SQL. In this session you'll see how this work.</description>
+      <startTime>10/10/2015 2:45:00 PM</startTime>
+      <endTime>10/10/2015 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>38183</importID>
+      <speakers>
+        <speaker>
+          <id>38183</id>
+          <name>Tomaž Kaštrun</name>
+        </speaker>
+      </speakers>
+      <track>BI  Analytics</track>
+      <location>
+        <name>BI  Analytics</name>
+      </location>
+      <title>Usage of R in SQL Server for better data understanding</title>
+      <description>Language R for Statistical computing is powerful language for data analysis with all great features for data import from SQL environment. Using R with SQL server data will help data scientists and data analysts prepare, explore and validate data much easier, as well as to use wide range of statistics; from uni-variate to multivariate.Session will focus mainly on:1) on connecting R Language with SQL server using standard ODBC connectors and T-SQL procedures. 2) how to validate data with using classical statistical methods on SQL transactional data. 3) how to use R output in SSRS and bring extra information to reports.</description>
+      <startTime>10/10/2015 10:00:00 AM</startTime>
+      <endTime>10/10/2015 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>40248</importID>
+      <speakers>
+        <speaker>
+          <id>40248</id>
+          <name>Alberto Ferrari</name>
+        </speaker>
+      </speakers>
+      <track>Power BI</track>
+      <location>
+        <name>Power BI</name>
+      </location>
+      <title>Power BI Desktop</title>
+      <description>Power BI Desktop is the new BI development tool for self-service BI. It includes Power Query, Power Pivot and Power View in a single desktop application, along with capabilities to import from existing Power Pivot models and directly publish models on the Power BI portal.
+In this session we will provide a deep dive in the new tool, highlighting the most important feature and showing how to connect from Excel to Power BI Desktop to debug your calculation. Finally, we will show how to use DAX Studio to query the Power BI model and analyze measure performance.</description>
+      <startTime>10/10/2015 11:30:00 AM</startTime>
+      <endTime>10/10/2015 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>38387</importID>
+      <speakers>
+        <speaker>
+          <id>38387</id>
+          <name>Jean-Pierre Riehl</name>
+        </speaker>
+      </speakers>
+      <track>Power BI</track>
+      <location>
+        <name>Power BI</name>
+      </location>
+      <title>Data Management Gateway Deep Dive</title>
+      <description>Deep dive into the DMG and the hybrid architecture involved by Power BI.
+How does it work ? Security, Firewall, Certificates,  Multiple gateways, Admin delegation, Scale out, Disaster Recovery.... All that topics will be covered during that technical session.
+</description>
+      <startTime>10/10/2015 1:30:00 PM</startTime>
+      <endTime>10/10/2015 2:30:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

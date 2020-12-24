@@ -1,0 +1,491 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #482 - Nepal 2016</name>
+    <startDate>3/26/2016 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT+05:45) Kathmandu</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatNepal</twitterHashtag>
+    <venue>
+      <name>Hotel Himalaya</name>
+      <street>Sahid Shukra Marg</street>
+      <city>Kathmandu</city>
+      <state>Central Region, Nepal</state>
+      <zipcode>44600</zipcode>
+      <longitude>85.3061494999999</longitude>
+      <latitude>27.6941678</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1614</importID>
+      <name>Umrao Datacenter Pvt Ltd</name>
+      <label>Gold Sponsor</label>
+      <url>https://ucloud.com.np</url>
+      <imageURL>https://ucloud.com.np/wp-content/themes/ucloud/assets/img/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1654</importID>
+      <name>Dell Inc</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.dell.com/</url>
+      <imageURL>https://pbs.twimg.com/profile_images/378800000224971897/802aa3d0cd422af6e3922c364d2a410f_400x400.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>19</importID>
+      <name>MSSQLTips.com</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.mssqltips.com/</url>
+      <imageURL>https://www.pass.org/images/mssql_logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1649</importID>
+      <name>Oval Analytics</name>
+      <label>Bronze Sponsor</label>
+      <url>http://ovalanalytics.com/</url>
+      <imageURL>https://ovalanalytics.com/assets/images/Logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1648</importID>
+      <name>Channakya Software Pvt. Ltd.</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.channakyasoft.com</url>
+      <imageURL>https://www.channakyasoft.com/images/channakyalogo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1616</importID>
+      <name>Red Gate</name>
+      <label>SWAG</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>76</importID>
+      <name>Apex SQL</name>
+      <label>SWAG</label>
+      <url>http://www.apexsql.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/881/EventSponsor_13896.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1115</importID>
+      <name>SQL Sentry</name>
+      <label>SWAG</label>
+      <url>http://www.sqlsentry.com/</url>
+      <imageURL>https://www.sentryone.com/Images/logos/sentryone-black.svg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>45890</importID>
+      <name>Dmitri Korotkevitch</name>
+      <label>
+      </label>
+      <description>Dmitri Korotkevitch is a Microsoft Data Platform MVP and Microsoft Certified Master, author of Pro SQL Server Internals and other books with years of experience working with SQL Server as an Application and Database Developer, Database Administrator, and Database Architect. 
+
+Dmitri specializes in the design, development, and performance tuning of complex OLTP systems that handle thousands of transactions per second around the clock. He blogs at: http://aboutsqlserver.com.</description>
+      <twitter>aboutsqlserver</twitter>
+      <linkedin>https://www.linkedin.com/pub/dmitri-korotkevitch/5/980/b7</linkedin>
+      <ContactURL>http://aboutsqlserver.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=aboutsqlserver</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46597</importID>
+      <name>Shree Khanal</name>
+      <label>
+      </label>
+      <description>Shree Khanal is a Database Architect, Speaker and Trainer having 15+ 
+years of professional experience on database solution development 
+and optimization. Mr. Khanal is a Data Platform MVP  Microsoft 
+Certified Database Professional since 2000 to till date. Starting with 
+SQL Server 7, he has been working with all the version of SQL Server 
+up to 2016 in production environment. In context of OLAP cube 
+development, he started working on it from SQL Server 2000 to latest 
+SSAS 2016. He has worked number of years providing SQL BI solutions 
+to various enterprise clients most of them from BI sector. He founded 
+and has been leading the Himalayan SQL Server User Group (www.sqlpassnepal.org) based in 
+Kathmandu, Nepal since 2010.</description>
+      <twitter>shreekhanal</twitter>
+      <linkedin>http://np.linkedin.com/in/shreekhanal</linkedin>
+      <ContactURL>http://www.sqlhelps.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=shreekhanal</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48525</importID>
+      <name>Satya Prakash</name>
+      <label>
+      </label>
+      <description>Satya Prakash: Currently working with TriCore Solutions (Managed Database Services) and handling more than 30 clients. Have developed monitoring with PowerShell and TSQL only (without using any third party tool). This monitoring system have almost all  features provided by highly expensive and enterprise level monitoring system. Currently monitoring more than 700 instances. 
+
+Working with SQL server for more than 12 years. Had delivered dozens of classroom training. Regular speaker at community events at Microsoft Gurgaon-India. </description>
+      <twitter>https://twitter.com/satyasql</twitter>
+      <linkedin>https://www.linkedin.com/in/satyasql</linkedin>
+      <ContactURL>http://sqlserveranswers.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/satyasql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45888</importID>
+      <name>Dmitri Korotkevitch</name>
+      <label>
+      </label>
+      <description>Dmitri Korotkevitch is a Microsoft Data Platform MVP and Microsoft Certified Master, author of Pro SQL Server Internals and other books with years of experience working with SQL Server as an Application and Database Developer, Database Administrator, and Database Architect. 
+
+Dmitri specializes in the design, development, and performance tuning of complex OLTP systems that handle thousands of transactions per second around the clock. He blogs at: http://aboutsqlserver.com.</description>
+      <twitter>aboutsqlserver</twitter>
+      <linkedin>https://www.linkedin.com/pub/dmitri-korotkevitch/5/980/b7</linkedin>
+      <ContactURL>http://aboutsqlserver.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=aboutsqlserver</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45889</importID>
+      <name>Dmitri Korotkevitch</name>
+      <label>
+      </label>
+      <description>Dmitri Korotkevitch is a Microsoft Data Platform MVP and Microsoft Certified Master, author of Pro SQL Server Internals and other books with years of experience working with SQL Server as an Application and Database Developer, Database Administrator, and Database Architect. 
+
+Dmitri specializes in the design, development, and performance tuning of complex OLTP systems that handle thousands of transactions per second around the clock. He blogs at: http://aboutsqlserver.com.</description>
+      <twitter>aboutsqlserver</twitter>
+      <linkedin>https://www.linkedin.com/pub/dmitri-korotkevitch/5/980/b7</linkedin>
+      <ContactURL>http://aboutsqlserver.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=aboutsqlserver</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46369</importID>
+      <name>Nagaraj Venkatesan</name>
+      <label>
+      </label>
+      <description>Nagaraj Venkatesan is a Data Platform MVP from Singapore and the leader of Singapore SQL PASS Chapter. As a SQL Server enthusiast, Nagaraj is a regular speaker in Asia Pacific region at Data Platform events like SQL Saturdays, SQL Server Geeks Summit, User group meetups etc.  Nagaraj shares his technical expertise at strictlysql.blogspot.com. Nagaraj also runs a YouTube channel called "DataChannel", which contains technical interviews with top Microsoft Data Platform experts in the world.</description>
+      <twitter>https://twitter.com/arrnagaraj</twitter>
+      <linkedin>https://in.linkedin.com/in/nagaraj-venkatesan-b6958b6</linkedin>
+      <ContactURL>http://strictlysql.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/arrnagaraj</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44431</importID>
+      <name>Gogula Aryalingam</name>
+      <label>
+      </label>
+      <description>Gogula is a data analytics professional from Sri Lanka, with 14+ years on the Microsoft data platform. He has worked with many aspects of data analytics and BI solutions from architecting, designing, developing and consulting across various industries and verticals. He is Regional Mentor for PASS South Asia, Data Platform MVP, MCSE, former MCT, and MSc in IT. Gogula's passion revolves data analytics and BI; hence enjoys writing, teaching and speaking about the things he works with. He was also involved as an SME for Microsoft certification development. He currently juggles his full time job as Lead Architect while speaking at local and foreign events, along with regular stints at the Sri Lankan Data Community which he co-founded.</description>
+      <twitter>http://www.twitter.com/gogula</twitter>
+      <linkedin>http://www.linkedin.com/in/gogula</linkedin>
+      <ContactURL>http://datamaul.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://www.twitter.com/gogula</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>42610</importID>
+      <name>Dinesh Priyankara</name>
+      <label>
+      </label>
+      <description>Dinesh is an experienced professional and database enthusiast with skills in database management systems and business intelligence. Possessing over 18 years of experience on data related technologies, he does training, consulting, and is a top contributor to the local SQL Server community. In recognition of his contributions and expertise he has demonstrated, he was awarded the Microsoft Most Valuable Professional (MVP) award for SQL Server for 13 consecutive years since 2006.
+He is a Subject Matter Expert on SQL Server exams and has contributed for SQL Server 2012, 2016, 2017 and Azure Data Engineering exam development and Job Task Analysis (JTA).
+Dinesh is the Founder/Principal Architect of dinesQL (Pvt) Ltd (http://dinesql.com). In his</description>
+      <twitter>http://twitter.com/dinesh_priya</twitter>
+      <linkedin>http://lk.linkedin.com/in/dineshpriyankara/</linkedin>
+      <ContactURL>http://dinesql.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/dinesh_priya</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45926</importID>
+      <name>Anil Maharjan</name>
+      <label>
+      </label>
+      <description>Anil Maharjan is Microsoft Data Platform MVP, Has more than 9 years of development  implementation experience in HealthCare Data Analytics, Telecommunication Industry.
+•	Published article, frequent Blogger and speaker at Microsoft Ignite Singapore - 2019, Data and BI Summit 2018 -Dublin, Power Platform Australia Summit 2019, SQL Saturday , SQLServer2016 Discovery Day, SQLServerGeeks Annual Summit , SQL Server User group , Nepal Power BI User Group Meetup and other SQL Events.
+•	Organizing member at Himalayan SQL Server User Group
+•	User Group Leader Nepal Power BI User Group
+•	Program Committee member for PASS Summit 2014 
+•      Program Committee member for DATA and BI Summit 2018 and  Power Platform Australia Summit 2019 .</description>
+      <twitter>Anil_Maharjan</twitter>
+      <linkedin>http://np.linkedin.com/in/maharjananil</linkedin>
+      <ContactURL>https://anilmaharjanonbi.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Anil_Maharjan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45731</importID>
+      <name>Gogula Aryalingam</name>
+      <label>
+      </label>
+      <description>Gogula is a data analytics professional from Sri Lanka, with 14+ years on the Microsoft data platform. He has worked with many aspects of data analytics and BI solutions from architecting, designing, developing and consulting across various industries and verticals. He is Regional Mentor for PASS South Asia, Data Platform MVP, MCSE, former MCT, and MSc in IT. Gogula's passion revolves data analytics and BI; hence enjoys writing, teaching and speaking about the things he works with. He was also involved as an SME for Microsoft certification development. He currently juggles his full time job as Lead Architect while speaking at local and foreign events, along with regular stints at the Sri Lankan Data Community which he co-founded.</description>
+      <twitter>http://www.twitter.com/gogula</twitter>
+      <linkedin>http://www.linkedin.com/in/gogula</linkedin>
+      <ContactURL>http://datamaul.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://www.twitter.com/gogula</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45935</importID>
+      <name>Gurvesh Singh</name>
+      <label>
+      </label>
+      <description>Founder and CEO of Ucloud. 
+Nepal#39;s first Cloud Service Provider</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>42610</importID>
+      <speakers>
+        <speaker>
+          <id>42610</id>
+          <name>Dinesh Priyankara</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence </track>
+      <location>
+        <name>Business intelligence</name>
+      </location>
+      <title>Processing unstructured data</title>
+      <description>Receiving imperfectly column-aligned data from applications is becoming a norm. However preparing this data for pre-defined relational structures using traditional methods is becoming significantly complex. Many implementations though, still handle this using traditional programming techniques - but isn't this still a database related task? And shouldn't the components of the Database Management Systems bear the responsibility of getting this done? With new features incorporated into modern database platforms, processing unstructured data is no longer a challenge, and can be performed easily. Let us take a sample data set and see how we do this the Microsoft way, of course using Microsoft SQL Server product suite including cloud offerings such as HDInsight.</description>
+      <startTime>3/26/2016 9:15:00 AM</startTime>
+      <endTime>3/26/2016 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>45889</importID>
+      <speakers>
+        <speaker>
+          <id>45889</id>
+          <name>Dmitri Korotkevitch</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration </track>
+      <location>
+        <name>Database Administration</name>
+      </location>
+      <title>5 Ways to Reduce Database Size and Improve Performance</title>
+      <description>Hosting and administration of large databases presents many challenges. These databases require powerful hardware to operate, and thoroughly designed maintenance, HA and DR strategies to meet SLAs.
+
+Even though data retention policies are controlled by business requirements, this session will review the following techniques and best practices that can be applied to reduce the size of the data in a database and improve performance of the system.
+
+1.	Reducing internal index fragmentation in the system 
+2.	Implementing ROW and PAGE Data Compression
+3.	Compressing LOB Data on the client and/or with CLR routines
+4.	Detecting and removing unused and redundant indexes
+5.	Following best practices in Database Design and Deployment, such as enabling Instant File Initialization, disabling Auto-Shrink and choosing correct data types based on business requirements.
+6.	Releasing free space from the data files
+</description>
+      <startTime>3/26/2016 9:15:00 AM</startTime>
+      <endTime>3/26/2016 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>45926</importID>
+      <speakers>
+        <speaker>
+          <id>45926</id>
+          <name>Anil Maharjan</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence </track>
+      <location>
+        <name>Business intelligence</name>
+      </location>
+      <title>Using power query to tell your story form your Facebook data.</title>
+      <description>The session is mainly for the one who is trying to extract the story behind their Facebook data by using Power Query. By using Power Query you can extract your Facebook data easily and do analysis your own story by using your own Facebook data. 
+Talking about Power Query: Microsoft Power Query for Excel is an Excel add-in that enhances the self- service Business Intelligence experience in Excel by simplifying data discovery, access and collaboration. 
+Power Query can connect data across a wide variety of sources, where Facebook is one of the data source.
+This session helps you to learn about the Power Query, Power View, and Power BI and mainly helps you to do self-service BI by using your own Facebook data with the help of Power Query, Power View and MS-Excel 2013.
+</description>
+      <startTime>3/26/2016 1:45:00 PM</startTime>
+      <endTime>3/26/2016 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45890</importID>
+      <speakers>
+        <speaker>
+          <id>45890</id>
+          <name>Dmitri Korotkevitch</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Database Administration</name>
+      </location>
+      <title>Thinking Outside the In-Memory Box</title>
+      <description>Even though in-memory OLTP can significantly improve performance of OLTP systems, it comes with an extensive set of limitations that often make refactoring of existing systems cost-ineffective and prevents widespread adoption of the technology. However, in-memory OLTP can be beneficial in other common use cases besides replacing on-disk with memory-optimized tables. 
+
+This session discusses several of these use-cases:  
+* Improving performance of ETL processes and stored procedures with memory-optimized tables
+* Using the in-memory OLTP engine as a replacement for the distributed cache and session state server
+* Enhancing performance of batch import operations with memory-optimized TVPs
+
+Finally, this session shows several techniques that help address in-memory OLTP limitations, such as 8,060 byte maximum row size and missing unique and FK constraints</description>
+      <startTime>3/26/2016 1:45:00 PM</startTime>
+      <endTime>3/26/2016 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45731</importID>
+      <speakers>
+        <speaker>
+          <id>45731</id>
+          <name>Gogula Aryalingam</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence </track>
+      <location>
+        <name>Business intelligence</name>
+      </location>
+      <title>Power BI: The shift to business-led self-service analytics</title>
+      <description>The recent past has shown us how the business intelligence landscape is shifting away from an IT-led paradigm to a business-led paradigm. This paradigm attempts to put the power of data in the hands of users for self-service. Power BI is Microsoft's self-service business intelligence offering, and is now standing out as a leader in self-service business intelligence. Join this session to learn what Power BI is all about and its capabilities. We'll then move over to various usage scenarios and how Power BI helps save the day.</description>
+      <startTime>3/26/2016 10:30:00 AM</startTime>
+      <endTime>3/26/2016 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>46597</importID>
+      <speakers>
+        <speaker>
+          <id>46597</id>
+          <name>Shree Khanal</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration </track>
+      <location>
+        <name>Database Administration</name>
+      </location>
+      <title>Advanced SQL Server HA and DR Architectures</title>
+      <description>advanced HA and DR architectures for SQL Server that also enable you to scale-out certain workloads.  This will include design patterns and configuration best practices for Availability Groups (AG) and Failover Cluster Instances (FCI) across different sites as well AG replicas between FCIs.</description>
+      <startTime>3/26/2016 4:15:00 PM</startTime>
+      <endTime>3/26/2016 5:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45888</importID>
+      <speakers>
+        <speaker>
+          <id>45888</id>
+          <name>Dmitri Korotkevitch</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Database Administration</name>
+      </location>
+      <title>Data Partitioning for Database Architects and Mere Mortals</title>
+      <description>Data partitioning is a valuable technique that simplifies database administration tasks and helps meet availability and performance SLAs. In this session, Dmitri will cover several techniques and architectural approaches you can use to partition data in the different versions and editions of SQL Server. You will learn about partitioned tables, partitioned views and stretch databases introduced in SQL Server 2016. Finally, Dmitri will discuss the practical questions, such as how to move data between filegroups and disk arrays keeping tables online and how to address some of performance issues caused by data partitioning.  
+</description>
+      <startTime>3/26/2016 11:30:00 AM</startTime>
+      <endTime>3/26/2016 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>48525</importID>
+      <speakers>
+        <speaker>
+          <id>48525</id>
+          <name>Satya Prakash</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration </track>
+      <location>
+        <name>Database Administration</name>
+      </location>
+      <title>SQL Server On Windows Cluster</title>
+      <description>Generally SQL DBAs found very good in managing  SQL server standalone instances but for managing SQL server on cluster requires altogether new skills. The difference stats right from installation planning and then implementing and finally troubleshooting. This session will be focused on following topics:
+
+What  is Windows cluster and how it work.
+How SQL server works on Windows clusters.
+How to install, configure, perform maintenance and troubleshoot SQL server on Windows Cluster. </description>
+      <startTime>3/26/2016 2:45:00 PM</startTime>
+      <endTime>3/26/2016 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>46369</importID>
+      <speakers>
+        <speaker>
+          <id>46369</id>
+          <name>Nagaraj Venkatesan</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration </track>
+      <location>
+        <name>Database Administration</name>
+      </location>
+      <title>Cardinality Estimator - Before 2014 and After</title>
+      <description>Cardinality estimator providing row estimates, plays a pivotal role in obtaining efficient query plans. Cardinality Estimator algorithm which remained unchanged since SQL 7.0, was revamped in SQL Server 2014. The presentation will take a ride through the new cardinality estimator, showcase the need for the significant redesign and demonstrate the new cardinality estimator's efficiency at different scenarios. Presentation will also cover how one can perform regressive testing, checking for any performance degradation on new cardinality estimator and how they can be handled gracefully.</description>
+      <startTime>3/26/2016 10:30:00 AM</startTime>
+      <endTime>3/26/2016 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>45935</importID>
+      <speakers>
+        <speaker>
+          <id>45935</id>
+          <name>Gurvesh Singh</name>
+        </speaker>
+      </speakers>
+      <track>Pre-Conference</track>
+      <location>
+        <name>Business intelligence</name>
+      </location>
+      <title>Take your IT to the next level</title>
+      <description>Cloud and Cloud Computing</description>
+      <startTime>3/26/2016 1:00:00 PM</startTime>
+      <endTime>3/26/2016 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>44431</importID>
+      <speakers>
+        <speaker>
+          <id>44431</id>
+          <name>Gogula Aryalingam</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence </track>
+      <location>
+        <name>Business intelligence</name>
+      </location>
+      <title>Building a Power BI solution</title>
+      <description>With Power BI one can perform business intelligence without having to invest in the big bucks that is usually involved with it. With Power BI one does not have to be a "techie" to BI. This session would first focus on theory on the various use cases of Power BI. It would then move over to demos and hands-on of how to build a Power BI solution: query and build a data model from a variety of data sources; report and collaborate on the data; and more...</description>
+      <startTime>3/26/2016 2:45:00 PM</startTime>
+      <endTime>3/26/2016 6:45:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,21 @@
+# SQLSaturday #896 - Puerto Rico 2019
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:00:00|Warren Sifre|BI Platform Architecture, Development  Administration|[Introduction to BI Architecture](96791.md)
+09:00:00|Kerry Tyler|BI Platform Architecture, Development  Administration|[45 Minutes to Your First Tabular Model](98158.md)
+10:00:00|Gilda Alvarez|Professional Development|[Women in IT. A survival guide.](93260.md)
+10:00:00|Tamera Clark|Cloud Application Development  Deployment|[How do you Azure?](96919.md)
+11:00:00|Edwin Martinez|Application  Database Development|[Typescript and beyond...](98555.md)
+11:00:00|Philip Austin|BI Platform Architecture, Development  Administration|[Azure Databricks: A Brief Introduction](98754.md)
+13:30:00|Isaias Martinez|Advanced Analysis Techniques|[Chatbot, 0 to 100 with L.U.I.S.](98501.md)
+13:30:00|Orlando Mezquita|Analytics and Visualization|[Data visualization tips for Power BI](99086.md)
+14:30:00|Kerry Tyler|Cloud Application Development  Deployment|[Active Directory and Azure Active Directory: Authentication in a Cloudy World](98159.md)
+14:30:00|Kenneth Urena|Application  Database Development|[SQL Server 2019: Estrategias de Indexación para alto desempeño](98957.md)
+14:30:00|Guillermo Caicedo|BI Information Delivery|[Data Integration at Scale with Azure Data Factory](99163.md)
+15:30:00|Warren Sifre|BI Platform Architecture, Development  Administration|[Introduction To Data Lakes](96792.md)
+15:30:00|Warren Sifre|Other|[Introduction To Data Governance](96793.md)
+15:30:00|Jose L. Rivera|BI Platform Architecture, Development  Administration|[What's new in SQL Server 2019](98604.md)
+15:30:00|Jose L. Rivera|BI Platform Architecture, Development  Administration|[SQL Server 2019: Big Data Clusters](98605.md)
+16:30:00|Kenneth Urena|Enterprise Database Administration  Deployment|[Heredé una base de datos, y ahora que hago?](98958.md)
+16:30:00|Juan Martí|Application  Database Development|[Let's make your apps, "smart" apps!](99102.md)
+16:30:00|Guillermo Caicedo|Advanced Analysis Techniques|[Azure Machine Learning Overview](99161.md)

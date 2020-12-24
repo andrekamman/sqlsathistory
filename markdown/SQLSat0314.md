@@ -1,0 +1,23 @@
+# SQLSaturday #314 - Providence 2014
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Jason Brimhall|Track 3 (PERF)|[Murder They Wrote](10879.md)
+00:00:00|Bryan Cafferky|Track 2 (DEV)|[PowerShell for Database Developers](11032.md)
+00:00:00|Bryan Cafferky|Track 2 (DEV)|[Breaking Down BI Barriers with PowerShell](11033.md)
+00:00:00|Chris Bell|Track 4 (ADM)|[Prevent Recovery Amnesia – Forget the Backups](11279.md)
+00:00:00|Christopher Seferlis|Track 1 (BI)|[Scratching the surface: An overview of SSRS and building your first BI Report](11467.md)
+00:00:00|Chris Skorlinski|Track 3 (PERF)|[Check Engine Lights](11567.md)
+00:00:00|Dennis Messina|Track 1 (BI)|[The Quest for the Golden Record:MDM Best Practices](13174.md)
+00:00:00|Edward Pollack|Track 3 (PERF)|[Diving Into Query Execution Plans](13857.md)
+00:00:00|George Walters|Track 4 (ADM)|[SQL Server 2012/2014 AlwaysOn Availability Groups](14558.md)
+00:00:00|George Walters|Track 4 (ADM)|[SQL Server 2012/2014 Failover Clustering](14559.md)
+00:00:00|John Flannery|Track 2 (DEV)|[SQL Server Data Tools Dev Life Cycle](16747.md)
+00:00:00|Michael Nowill|Track 2 (DEV)|[Data Partitioning - for performance, scalability and sanity!](20993.md)
+00:00:00|Paresh Motiwala|Track 4 (ADM)|[Network or Perish](21669.md)
+00:00:00|Randy Knight|Track 3 (PERF)|[Understanding Transaction Isolation Levels](22592.md)
+00:00:00|Randy Knight|Track 3 (PERF)|[Locks, Blocks, and Deadlocks Oh My!](22593.md)
+00:00:00|Steve Simon|Track 1 (BI)|[A dive into Data Quality Services](25548.md)
+00:00:00|Sunil Kadimdiwan|Track 1 (BI)|[Develop Impressive Dashboards using SSRS 2014](25881.md)
+00:00:00|Todd Chittenden|Track 1 (BI)|[Power BI Components in Microsoft's Self-Service BI Suite](26975.md)
+00:00:00|Aaron Bertrand|Track 2 (DEV)|[T-SQL : Bad Habits  Best Practices](8922.md)
+00:00:00|Andy Roberts|Track 4 (ADM)|[Storing Data in Windows Azure](9648.md)

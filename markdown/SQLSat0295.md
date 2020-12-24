@@ -1,0 +1,20 @@
+# SQLSaturday #295 - Las Vegas 2014
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Ben Miller|DBA 2|[SQL Server TDE](10230.md)
+00:00:00|David Klee|DBA 2|[Squeezing Top Performance from Your Virtualized SQL Server](12527.md)
+00:00:00|Erika Bakse|DBA 1|[Stats Across The Stack](13606.md)
+00:00:00|Ed Watson|DBA 1|["So you have a performance issue.  What now?"](13686.md)
+00:00:00|Jason Horner|BI|[Dimensional Modeling Design Patterns: Beyond Basics](15813.md)
+00:00:00|Joseph D'Antoni|BI|[The Modern Analytics Architecture](16160.md)
+00:00:00|Karen Lopez|BI|[$#*! Your Database Says About Me](17868.md)
+00:00:00|Randy Knight|DBA 2|[But it worked great in Dev!  Perfomance for Devs](22532.md)
+00:00:00|Reeves Smith|BI|[Increase your SSIS productivity with Biml](22760.md)
+00:00:00|Russ Thomas|DBA 1|[XPath - XQuery; I guess if I HAVE to](23589.md)
+00:00:00|Steve Jones|DBA 2|[The Encryption Primer](24529.md)
+00:00:00|Pat Wright|BI|[Integrating SQL Server with Hadoop](24877.md)
+00:00:00|Thomas LaRock|DBA 1|[Database Design: Size DOES Matter](25148.md)
+00:00:00|Tamera Clark|BI|[45 min to build your first SSRS report](26011.md)
+00:00:00|TJay Belt|DBA 2|[Database Monitoring : Trying To Keep Sane](26893.md)
+00:00:00|Michael Fal|DBA 1|[Managing Log File Obesity](34792.md)
+00:00:00|Allen White|DBA 2|[Manage SQLServer Efficiently w/PowerShell Remoting](9980.md)

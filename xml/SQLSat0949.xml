@@ -1,0 +1,85 @@
+<GuidebookXML>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/949/EventSponsor_14337.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1473</importID>
+      <name>SQL Service Nordic AB</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.sqlservice.se</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/949/EventSponsor_14444.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2170</importID>
+      <name>Structured Concepts AB</name>
+      <label>Gold Sponsor</label>
+      <url>https://strd.co/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/949/EventSponsor_14340.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2655</importID>
+      <name>B3 Consulting Group</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.b3.se/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/949/EventSponsor_14671.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1817</importID>
+      <name>SentryOne</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.sentryone.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/949/EventSponsor_14436.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2395</importID>
+      <name>Snabbfoting Group AB</name>
+      <label>Silver Sponsor</label>
+      <url>https://snabbfoting.se/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/949/EventSponsor_14341.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2645</importID>
+      <name>Basefarm AB</name>
+      <label>Silver Sponsor</label>
+      <url>https://basefarm.se/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/949/EventSponsor_14588.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1928</importID>
+      <name>dbWatch</name>
+      <label>Bronze Sponsor</label>
+      <url>http://cilbuper.se/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/949/EventSponsor_14438.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/949/EventSponsor_14336.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

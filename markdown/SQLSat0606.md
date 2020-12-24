@@ -1,0 +1,23 @@
+# SQLSaturday #606 - Santiago 2017
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:30:00|Benjamin Nevarez|SQL Server 2016  v.Next|[SQL Server Query Tuning  Optimization](64010.md)
+10:00:00|Gaston Cruz|Business Intelligence|[Power BI in Action - Live Streaming using Flow - Azure](61544.md)
+10:00:00|Benjamin Nevarez|SQL Server 2016  v.Next|[Query Processing in In-Memory OLTP (Hekaton)](62551.md)
+10:00:00|Adrian Fernandez|Advanced Analytics|[Microsoft R Server  Data Science world](63301.md)
+11:00:00|Dhiego Piroto|Business Intelligence|[stop reinventing the wheel. Use window functions](57203.md)
+11:00:00|Eduardo Castro|Advanced Analytics|[Uso de Lenguaje R con Spark en Data Analytics](57465.md)
+11:00:00|Carlos Farias|SQL Server 2016  v.Next|[Tip para migrar SSIS (Integration Services)](63295.md)
+12:00:00|Patricio Cofre|Advanced Analytics|[Usando Código R en Transact-SQL](57202.md)
+12:00:00|Nestor Campos|Business Intelligence|[Analytics con Azure Data Lake y HDInsight](57238.md)
+12:00:00|Javier Villegas|SQL Server 2016  v.Next|[Nuevas Caracteristicas de SQL Server 2016 para DBAs](59685.md)
+12:00:00|Mauricio Muñoz|Business Intelligence|[Corriendo R sobre un ambiente Serverless: Amazon Athena](63703.md)
+14:00:00|Cristobal Ibarra|Business Intelligence|[Usando Pig y Hive en HDInsight](57602.md)
+14:00:00|Benjamin Nevarez|SQL Server 2016  v.Next|[Dive into the Query Optimizer - Undocumented Insight](62548.md)
+14:00:00|Marco Ramirez|Advanced Analytics|[Azure Data Lake Analytics y U-SQL](62975.md)
+15:00:00|Eduardo Castro|Advanced Analytics|[Monitoreo de SQL Server R Services](57466.md)
+15:00:00|Gustavo Carneiro|Business Intelligence|[Be more productive in the development and management of your SQL Server and Analysis Services](59314.md)
+15:00:00|Kamal Valero|SQL Server 2016  v.Next|[Nuevas características de SQL Server 2018 (vNext) Database Engine](62665.md)
+16:00:00|Javier Villegas|SQL Server 2016  v.Next|[Recomendaciones para Entornos de SQL Server Productivo](61029.md)
+16:00:00|Patricio Cofre|Advanced Analytics|[Creación de un Modelo de Healthcare en Azure Machine Learning](61516.md)
+16:00:00|Gustavo Boismoreau|Business Intelligence|[Integrando Datos y Migrando hacia una plataforma Microsoft](63473.md)

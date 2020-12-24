@@ -1,0 +1,19 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #732 - Budapest 2018</name>
+    <startDate>4/14/2018 12:00:00 AM</startDate>
+    <attendeeEstimate>400</attendeeEstimate>
+    <timezone>(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatBudapest</twitterHashtag>
+    <venue>
+      <name>Budapesti Muszaki es Gazdasagtudomanyi Egyetem Q epulet</name>
+      <street>Magyar tudosok korutja 2</street>
+      <city>Budapest</city>
+      <state>, Hungary</state>
+      <zipcode>1117</zipcode>
+      <longitude>19.0598879</longitude>
+      <latitude>47.4734528</latitude>
+    </venue>
+  </guide>
+</GuidebookXML>

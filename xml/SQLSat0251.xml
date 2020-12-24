@@ -1,0 +1,392 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #251 - Paris 2013</name>
+    <startDate>9/14/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>(GMT+01:00) Brussels, Copenhagen, Madrid, Paris</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatParis</twitterHashtag>
+    <venue>
+      <name>Campus EPITA/EPITECH</name>
+      <street>24 rue Pasteur</street>
+      <city>Le Kremlin-Bicetre</city>
+      <state>, France</state>
+      <zipcode>94270</zipcode>
+      <longitude>2.3633883</longitude>
+      <latitude>48.8154526</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>8</importID>
+      <name>FusionIO</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.fusionio.com/solutions/microsoft-sql-server/</url>
+      <imageURL>https://www.sqlsaturday.com/files/18b704b1-226d-48fe-b0b8-f7b4d3443b3d.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>136</importID>
+      <name>D-Cube</name>
+      <label>Silver Sponsor</label>
+      <url>http://d-cube.fr/Pages/default.aspx</url>
+      <imageURL>https://guss.fr/wp-content/uploads/2013/09/DCube.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>415</importID>
+      <name>Azeo</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.azeo.com/</url>
+      <imageURL>https://guss.pro/wp-content/uploads/2014/05/AZEO-Copier.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>34607</importID>
+      <name>GUSS GUSS</name>
+      <label>
+      </label>
+      <description>Des DBA viendront vous parler de leur métier et de leur quotidien</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14289</importID>
+      <name>Florian Eiden</name>
+      <label>
+      </label>
+      <description>Data Platform Solution Architect for Microsoft in Western Canada</description>
+      <twitter>@fleid_bi</twitter>
+      <linkedin>https://www.linkedin.com/in/fleid</linkedin>
+      <ContactURL>http://fleid.fr</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@fleid_bi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>20683</importID>
+      <name>David Barbarin</name>
+      <label>
+      </label>
+      <description>David Barbarin is Consultant at dbi services. He has more than ten years of experience in Microsoft solutions. He is specialized in SQL Server technologies and associated topics such as installation, migration, security audits, troubleshooting of performance issues, or high availability architectures etc. David Barbarin is SQL Server MVP (since 2010), Microsoft Certified Master (MCM) for SQL Server, and Microsoft Certified Trainer (MCT).</description>
+      <twitter>mikedavem</twitter>
+      <linkedin>http://fr.linkedin.com/in/mikedavem/en</linkedin>
+      <ContactURL>http://www.dbi-services.com/index.php/blog/dbi-bloggers/blogger/listings/dab</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mikedavem</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16254</importID>
+      <name>Jean-Pierre Riehl</name>
+      <label>
+      </label>
+      <description>Architect, Consultant, Trainer and also Manager, Jean-Pierre leads the Data  BI Practice at AZEO, a French Microsoft "pure-player" partner. 
+Jean-Pierre is MVP Data Platform since 2008 and speaks at many events in France and in Europe. JP leads the local community (GUSS) and organize events in France since 2011 : MS Cloud Summit, Les Journées SQL Server, SQLSaturday, etc. 
+JP is passionate by data concerns in business like Data Governance, Data Quality or Data Vizualisation and since 2010, he’s specialized in Self-Service BI. His favorite topic is Power BI and business usages and technical architectures that go with.</description>
+      <twitter>djeepy1</twitter>
+      <linkedin>http://fr.linkedin.com/in/djeepy1</linkedin>
+      <ContactURL>http://blog.djeepy1.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=djeepy1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9301</importID>
+      <name>Allan Mitchell</name>
+      <label>
+      </label>
+      <description>Allan Mitchell is a SQL Server MVP and runs elastio, a small consultancy helping customers to make informed decisions about their data storage and integration.  His focus is on enterprise search as well as real-time data integration.</description>
+      <twitter>@allanSQLIS</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://onlysearch.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@allanSQLIS</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15082</importID>
+      <name>Hugo Kornelis</name>
+      <label>
+      </label>
+      <description>Hugo is co-founder and RD lead of perFact BV, a Dutch company that improves analysis methods and develops computer-aided tools to generate completely functional applications from the analysis deliverable. The platform for this development is SQL Server. In his spare time, Hugo likes to share and enhance his knowledge of SQL Server by frequenting newsgroups and forums, reading and writing books and blogs, and attending and speaking at conferences.
+Hugo is also a SQL Server MVP since 2006.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlblog.com/blogs/hugo_kornelis/default.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34606</importID>
+      <name>GUSS GUSS</name>
+      <label>
+      </label>
+      <description>Des DBA viendront vous parler de leur métier et de leur quotidien</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>16541</importID>
+      <name>Jen Stirrup</name>
+      <label>
+      </label>
+      <description>Jen is a database strategist, small business owner, SQLFamily and community advocate, public speaker and blogger. Jen was elected Director-At-Large (elect) for the Professional Association of SQL Server, responsible for the EMEA regions plus the Virtual Chapter portfolio.  Jen is passionate about all things data and business intelligence, helping leaders derive value from their Microsoft SQL Server, SharePoint and Office365 investments. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.jenstirrup.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11835</importID>
+      <name>Charles-Henri Sauget</name>
+      <label>
+      </label>
+      <description>Consultant décisionnel depuis 2009, j'ai eu l'occasion d'explorer certaines des fonctionnalités offertes par SQL Server, et cela est loin d'être terminé avec la croissance des volumes de données, et les nouveaux outils à disposition (Data Insights), de nouveaux défis vont très certainement s'offrir à nous. Même si la B.I. reste mon coeur de métier, je ne cache pas mon intérêt pour le Moteur SQL Server, surtout si l'on rajoute à ceci l'impact d'un hébergement en IaaS dans Azure !</description>
+      <twitter>SaugetCh</twitter>
+      <linkedin>https://www.linkedin.com/in/charleshenrisauget</linkedin>
+      <ContactURL>http://www.sauget-ch.fr</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SaugetCh</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34605</importID>
+      <name>GUSS GUSS</name>
+      <label>
+      </label>
+      <description>Des DBA viendront vous parler de leur métier et de leur quotidien</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>16541</importID>
+      <speakers>
+        <speaker>
+          <id>16541</id>
+          <name>Jen Stirrup</name>
+        </speaker>
+      </speakers>
+      <track>Track 1 - Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Data Visualisation with Hadoop Mashups, Power View and Excel 2013</title>
+      <description>The Hadoop ecosystem is a valuable tool for Business Intelligence and Data Visualisation practitioners. It allows you to mashup unstructured data from Hadoop with structured data from more traditional relational and multi-dimensional sources. For Business Intelligence practitioners, this is an excellent tool to gain new business insights, and overcome data silos that come from within the organisation, whilst freeing you to make use of external data sources too.
+Join us at this session in order to see how your Big Data can empower your business users via familiar Business Intelligence tools such as Excel and Power View.</description>
+      <startTime>9/14/2013 12:00:00 AM</startTime>
+      <endTime>9/14/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34606</importID>
+      <speakers>
+        <speaker>
+          <id>34606</id>
+          <name>GUSS GUSS</name>
+        </speaker>
+      </speakers>
+      <track>Track 3 - Spécial Etudiants</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Les métiers de la Business Intelligence</title>
+      <description>Lors de cette session, venez découvrir les métiers de la Business Intelligence. Chef de projet, développeur, architecte, data steward, MOA, etc.
+Rencontrez des experts du sujet et découvrez leur quotidien et les quelques anecdotes qu'ils vous raconteront.
+Une session participative qui n'aura de limites que vos questions.</description>
+      <startTime>9/14/2013 12:00:00 AM</startTime>
+      <endTime>9/14/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14289</importID>
+      <speakers>
+        <speaker>
+          <id>14289</id>
+          <name>Florian Eiden</name>
+        </speaker>
+      </speakers>
+      <track>Track 1 - Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Proposer une interface de saisie dans un projet décisionnel sous SQL Server 2012</title>
+      <description>Même si la théorie voudrait que les saisies de données soient traitées dans le monde applicatif, il nous ait tous arrivé d'avoir à offrir une petite interface de saisie à nos utilisateurs.
+
+Cette session propose un rapide tour d'horizon des méthodes offertes dans l'univers SQL Server, avec démonstration:
+- Listes SharePoint synchronisées par SSIS
+- Pages ASP.NET déployées sur IIS
+- Application LightSwitch connectée à SQL Server
+- Fichiers Excel chargés régulièrement par SSIS
+
+On parlera avantages et inconvénients, technique, licencing, et on évoquera également les autres solutions possibles (Access, InfoPath...).</description>
+      <startTime>9/14/2013 12:00:00 AM</startTime>
+      <endTime>9/14/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11835</importID>
+      <speakers>
+        <speaker>
+          <id>11835</id>
+          <name>Charles-Henri Sauget</name>
+        </speaker>
+      </speakers>
+      <track>Track 1 - Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL2014, a new breath for SSAS ? </title>
+      <description>Our aim is to show you the strengths and the weaknesses of three different SSAS architecture based on SQL 2014.This architecures can inculde Hekaton technologie, ROLAP or MOLAP implementation, Tabular model and so on.</description>
+      <startTime>9/14/2013 12:00:00 AM</startTime>
+      <endTime>9/14/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>16254</importID>
+      <speakers>
+        <speaker>
+          <id>16254</id>
+          <name>Jean-Pierre Riehl</name>
+        </speaker>
+      </speakers>
+      <track>Track 1 - Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>PowerBI</title>
+      <description>Lors de la Worlwide Partner Conference, Microsoft a annoncé la sortie prochaine de PowerBI, une offre packagée de Self-Service BI clé en main dans Office 365. L'offre est composée de toutes les dernière briques disponibles ou à venir : Power Pivot, Power Query (ex Data Explorer), Power Map (ex GeoFlow), SharePoint 2013, BI Mobile, etc.
+Cette session pose le décor autour de cette offre et rentre dans les enjeux d'architecture Cloud/On-Premise qu'il va falloir relever.</description>
+      <startTime>9/14/2013 12:00:00 AM</startTime>
+      <endTime>9/14/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>20683</importID>
+      <speakers>
+        <speaker>
+          <id>20683</id>
+          <name>David Barbarin</name>
+        </speaker>
+      </speakers>
+      <track>Track 2 - Database Engine</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Traces vs Extended Events</title>
+      <description>Les événements étendus sont apparus avec SQL Server 2008.  Cette fonctionnalité tend même à remplacer les traces SQL Server depuis SQL Server 2012. Lors de cette session nous expliquerons pourquoi les évènements étendus est en passe de devenir l'outil de prédilection de débogage des administrateurs de bases de données et des développeurs.
+
+
+
+</description>
+      <startTime>9/14/2013 12:00:00 AM</startTime>
+      <endTime>9/14/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34607</importID>
+      <speakers>
+        <speaker>
+          <id>34607</id>
+          <name>GUSS GUSS</name>
+        </speaker>
+      </speakers>
+      <track>Track 3 - Spécial Etudiants</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Le métier de DBA</title>
+      <description>Lors de cette session, venez découvrir le métier de DBA, ses contraintes, ses atouts.
+Rencontrez des DBA et découvrez leur quotidien et les quelques anecdotes qu'ils vous raconteront.
+Une session participative qui n'aura de limites que vos questions.</description>
+      <startTime>9/14/2013 12:00:00 AM</startTime>
+      <endTime>9/14/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34605</importID>
+      <speakers>
+        <speaker>
+          <id>34605</id>
+          <name>GUSS GUSS</name>
+        </speaker>
+      </speakers>
+      <track>Track 3 - Spécial Etudiants</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Panorama de l'écosystème Microsoft Data Platform</title>
+      <description>L'objectif de cette session est de faire le tour complet des outils et disciplines qui composent l'offre Data  Business Intelligence de Microsoft. Centrée autour de SQL Server et SharePoint, l'offre est riche et implique différents métiers, compétences, approches, etc.
+Une bonne entrée en matière pour avoir une vision 360 du sujet.</description>
+      <startTime>9/14/2013 12:00:00 AM</startTime>
+      <endTime>9/14/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15082</importID>
+      <speakers>
+        <speaker>
+          <id>15082</id>
+          <name>Hugo Kornelis</name>
+        </speaker>
+      </speakers>
+      <track>Track 2 - Database Engine</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Inside the Columnstore Index - Deep Dive</title>
+      <description>You have heard the marketing speak. You may have seen the demos. And maybe you have even played with the feature - columnstore indexes, the amazing "go faster" switch in SQL Server 2012!
+But do you know how they work? Come to this session to find out. We will lift the hood to give you a fascinating in-depth view of how columnstore indexes are built and read, how batch-mode execution operates, and how these features work together to achieve an amazing performance boost.</description>
+      <startTime>9/14/2013 12:00:00 AM</startTime>
+      <endTime>9/14/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9301</importID>
+      <speakers>
+        <speaker>
+          <id>9301</id>
+          <name>Allan Mitchell</name>
+        </speaker>
+      </speakers>
+      <track>Track 2 - Database Engine</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Let's Jive with Hive</title>
+      <description>Hive is to Hadoop what TSQL is to SQL Server.  Microsoft have released their own distro of Hadoop which extends their offering around Big Data.  Come to this session and learn how to use Hive against Hadoop.  In this session you will learn how to perform
+DML
+DDL
+SQL Operations</description>
+      <startTime>9/14/2013 12:00:00 AM</startTime>
+      <endTime>9/14/2013 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,23 @@
+# SQLSaturday #166 - Olympia 2012
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Robert Davis|Track 4|[Top Features of SQL 2012 Nobody Told You About](11441.md)
+00:00:00|Chuck Lathrope|Track 3|[Transactional Replication Beginner to Expert](11685.md)
+00:00:00|Hugo Kornelis|Track 2|[Advanced Indexing](15042.md)
+00:00:00|Hugo Kornelis|Track 2|[UDFs, or: How to kill performance in one easy step](15046.md)
+00:00:00|Janis Griffin|Track 1|[Extend Your Knowledge with Extended Events!](15671.md)
+00:00:00|Julie Koesmarno|Track 3|[Power View for Geographical Analysis ](16909.md)
+00:00:00|Kalen Delaney|Track 4|[What’s Simple About SIMPLE Recovery?](17842.md)
+00:00:00|Kalen Delaney|Track 1|[Partition Magic: Metadata and Partition Switching](17843.md)
+00:00:00|Laerte Junior|Track 1|[Troubleshooting SQL Server with PowerShell](18918.md)
+00:00:00|Michael Wells|Track 1|[Running SQL Server 2012 on Server Core: Why  How](20375.md)
+00:00:00|Michael DeFehr|Track 1|[Query Plans and Indexes in SQL Server](20455.md)
+00:00:00|Paul Turley|Track 4|[Oh, so Tabular!](21837.md)
+00:00:00|Paul Turley|Track 3|[Quickstart BI: Building a BI Solution in 5 Days](21838.md)
+00:00:00|Rick  Morelan|Track 2|[Do SQL XML queries have to scare me?](23004.md)
+00:00:00|Russel Loski|Track 2|[Introduction to the XML source](23622.md)
+00:00:00|Scott Klein|Track 2|[SQL Azure vs. Azure Tables –Clearing The Confusion](24130.md)
+00:00:00|Stacia Varga|Track 4|[Power View: A Peek Behind the Curtain](24698.md)
+00:00:00|Stacia Varga|Track 3|[Taking BI to the Next Level: Collaboration](24700.md)
+00:00:00|Steve Stedman|Track 3|[Exploring the TSQL Enhancements in SQL Server 2012](25731.md)
+00:00:00|Steve Stedman|Track 4|[Unleashing Common Table Expressions in SQL Server](25732.md)

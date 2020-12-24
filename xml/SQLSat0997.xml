@@ -1,0 +1,1112 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #997 - Salt Lake City – Virtual 2020</name>
+    <startDate>8/29/2020 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT-07:00) Mountain Time (US and Canada)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatSaltLakeCity</twitterHashtag>
+    <venue>
+      <name>Karen G Miller Conference Center</name>
+      <street>9750 S 300 W Sandy, UT</street>
+      <city>Salt Lake City</city>
+      <state>Utah</state>
+      <zipcode>84070</zipcode>
+      <longitude>-111.9018526</longitude>
+      <latitude>40.575151</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1781</importID>
+      <name>Microsoft</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/997/EventSponsor_14794.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2689</importID>
+      <name>Red Hat</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://www.redhat.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/997/EventSponsor_14836.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2678</importID>
+      <name>Google Cloud</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://cloud.google.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/997/EventSponsor_14793.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>105018</importID>
+      <name>Armando Lacerda</name>
+      <label>
+      </label>
+      <description>Over 30 years in the computing field as a developer and system integrator; over 20 years working with SQL Server since version 6; cross platform experience with Oracle and IBM SQL/DS and DB2; Microsoft Certified Trainer for over 20 years.</description>
+      <twitter>arlacerda</twitter>
+      <linkedin>http://www.linkedin.com/in/armando-lacerda</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=arlacerda</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105295</importID>
+      <name>David Patrick</name>
+      <label>
+      </label>
+      <description>Dave has been developing database applications for over 25 years. An MCT since 2001, he has taught many classes from Intro to Visual Interdev to Advanced SharePoint Development. Dave runs two user groups, the Maryland and Pennsylvania Microsoft Developers User Group, www.mapamdug.com, and MAD SharePoint, www.madsharepoint.com. Dave does SharePoint training and development for DSA, Inc., a DoD contractor that does great work for the Army over at Aberdeen Proving Ground. Dave is also an MVP.</description>
+      <twitter>DavidEPatrick</twitter>
+      <linkedin>http://www.linkedin.com/in/davidepatrick</linkedin>
+      <ContactURL>http://www.madsharepoint.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DavidEPatrick</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105640</importID>
+      <name>Janis Griffin</name>
+      <label>
+      </label>
+      <description>Janis Griffin has over 30 years of DBA/database experience including design, development and implementation of many critical database applications. Before coming to Quest Software, Janis primarily worked in the Telecom/Network Industry, working with both real-time network routing databases and OLTP business to business applications.  Janis also held positions as a Principal Architect and Senior Manager, mentoring other DBAs on best practices in database performance tuning.</description>
+      <twitter>DoBoutAnything</twitter>
+      <linkedin>http://www.linkedin.com/pub/janis-griffin/0/914/aba</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DoBoutAnything</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105116</importID>
+      <name>Tracy Boggiano</name>
+      <label>
+      </label>
+      <description>Tracy Boggiano is a Senior Database Administrator for DocuSIgn. She has spent over 20 years in IT, using SQL Server since 1999, and is currently certified as an MCSE Data Platform. Tracy has worked on SQL Server since 6.5. She has spoken at local user groups and numerous SQLSaturdays. She is currently a co-leader of a TriPASS Local Group in Raleigh, NC.   
+
+Tracy also tinkered with databases in middle school to keep her sports card collection organized. She blogs at databasesuperhero.com. 
+
+Her passion outside of SQL Server is volunteering with foster children as their advocate in court through volunteerforgal.org and being a mental health advocate as part of the PAIMI NC Advisory Council.</description>
+      <twitter>TracyBoggiano</twitter>
+      <linkedin>https://www.linkedin.com/in/tracyboggiano</linkedin>
+      <ContactURL>http://databasesuperhero.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=TracyBoggiano</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105156</importID>
+      <name>Rob Richardson</name>
+      <label>
+      </label>
+      <description>Rob Richardson is a software craftsman building web properties in ASP.NET and Node, React and Vue. He’s a Microsoft MVP, published author, frequent speaker at conferences, user groups, and community events, and a diligent teacher and student of high quality software development. You can find this and other talks on https://robrich.org/presentations and follow him on twitter at @rob_rich.</description>
+      <twitter>rob_rich</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://robrich.org/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=rob_rich</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105547</importID>
+      <name>Ramesh Satya</name>
+      <label>
+      </label>
+      <description>will update soonSatya Ramesh has credible experience working with SQL Server. As a Senior Consultant for SQLMaestros (a business unit of eDominer Systems), he has worked on countless projects involving SQL Server  Azure SQL Database. He has presented numerous webinars and delivered multiple sessions as part of his community work with DataPlatformGeeks. He was also a speaker at Data Platform Summit 2018  2017 edition. Other than DataPlatformGeeks, his also got selected in New Stars Of Data 2020. Satya frequently records SQL videos for the community and hosts them on SQLMaestros YouTube channel.</description>
+      <twitter>satyaramesh230</twitter>
+      <linkedin>https://www.linkedin.com/in/ramesh-satya-a87a5385/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=satyaramesh230</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105101</importID>
+      <name>Leslie Andrews</name>
+      <label>
+      </label>
+      <description>Leslie Andrews is an IT professional with almost 20 years of experience working with databases, designing databases, as well as designing and developing applications against those databases. 2018-2019 Idera ACE.</description>
+      <twitter>landrews5807</twitter>
+      <linkedin>https://www.linkedin.com/pub/leslie-andrews-csm/9/491/b89</linkedin>
+      <ContactURL>https://www.lace.technology/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=landrews5807</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105512</importID>
+      <name>Amit R S Bansal</name>
+      <label>
+      </label>
+      <description>Amit R. S. Bansal is a SQL Server Specialist at SQLMaestros. He leads the SQL Server practice with a focused team providing consulting, training, and content development services to more than 160+ SQL customers globally. He frequently speaks at international conferences on SQL Server performance tuning, which is his core expertise. Amit is also honored with Microsoft Regional Director status, MVP award, and Microsoft Certified Master of SQL Server credential. Amit has been working with SQL Server since 1999 and has been part of countless mission-critical SQL deployments. Performance Tuning in SQL Server is his core area of expertise. To learn more about Amit, visit http://sqlmaestros.com/amit-bansal.</description>
+      <twitter>A_Bansal</twitter>
+      <linkedin>http://www.linkedin.com/in/AmitBansal2010</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=A_Bansal</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105819</importID>
+      <name>Andy Yun</name>
+      <label>
+      </label>
+      <description>Andy Yun is a SentryOne Principal Solutions Engineer and a former Microsoft MVP. He has been working with SQL Server for nearly 20 years as both a Database Developer and Administrator. Leveraging knowledge of SQL Server Internals and extensive experience in highly transactional environments, he strives to make T-SQL leaner and meaner. Andy is extremely passionate about passing knowledge onto others, regularly speaking at User Groups, SQL Saturdays, and PASS Summit. Andy is a co-founder of the Chicago SQL Association, co-Chapter Leader of the Chicago Suburban User Group, and part of the Chicago SQL Saturday Organizing Committee.</description>
+      <twitter>SQLBek</twitter>
+      <linkedin>http://www.linkedin.com/in/sqlbek</linkedin>
+      <ContactURL>http://sqlbek.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLBek</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105024</importID>
+      <name>Jim Miller</name>
+      <label>
+      </label>
+      <description>Jim has worked in various facets of the IT business for over 30 years, with a primary focus on data warehousing, reporting and analytics, business intelligence, data modeling (relational, multi-dimensional), ETL frameworks, database architecture, as well as database performance tuning. In previous engagements, Jim has fulfilled roles as Data Architect, DBA, IT Director, and Senior Consultant. He also has experience in account management, marketing/technical support, and software application training. Jim has also had some extraordinary opportunities to lead IT organizations, with multinational participants, on reconstruction projects based in Bosnia and Iraq.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/jmiller8</linkedin>
+      <ContactURL>https://https://www.bitracks.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105853</importID>
+      <name>Steve Jones</name>
+      <label>
+      </label>
+      <description>Steve Jones is a Microsoft SQL Server MVP and has been working with SQL Server since version 4.2 on OS/2. After working as a DBA and developer for a variety of companies, Steve co-founded the community website SQLServerCentral.com in 2001.
+Since 2004, Steve has been the full-time editor of the site, ensuring it continues to be a great resource for SQL Server professionals. Over the last decade, Steve has written hundreds of articles about SQL Server for SQLServerCentral.com, SQL Server Standard magazine, SQL Server Magazine, and Database Journal.</description>
+      <twitter>way0utwest</twitter>
+      <linkedin>http://www.linkedin.com/in/way0utwest</linkedin>
+      <ContactURL>http://www.voiceofthedba.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=way0utwest</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105074</importID>
+      <name>Matt Horton</name>
+      <label>
+      </label>
+      <description>MS SQL Professional with 15+ years of experience.  I enjoy everything data!  I also an adjunct professor for Weber State University.  I have lived in Utah almost my whole life.  I love spending time with my family traveling, playing video games or watching movies.</description>
+      <twitter>GoDataNinjaGo</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=GoDataNinjaGo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105764</importID>
+      <name>Mark Runyon</name>
+      <label>
+      </label>
+      <description>Mark Runyon works as a principal consultant for Improving Atlanta. He focuses on systems architecture and development of enterprise web and mobile applications. As a full stack programmer, he primarily works with Microsoft technologies, leveraging the cloud through Azure and AWS. He is a contributing writer at InformationWeek, The Enterprisers Project and Business2Community.</description>
+      <twitter>https://twitter.com/aspprogrammer</twitter>
+      <linkedin>https://www.linkedin.com/in/softwarearchitect/</linkedin>
+      <ContactURL>http://markrunyon.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/aspprogrammer</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105940</importID>
+      <name>Pamela Mooney</name>
+      <label>
+      </label>
+      <description>Hi there! My name is Pam Mooney. The road to IT was a long and winding one for me, but I fell in love with SQL Server and knew that I wanted to be a DBA after my first database class in college.I was fortunate enough to be hired in as a Junior DBA straight out of school, and I have never looked back. I’m now a Senior DBA who loves to mentor and teach – as well as to continue to learn. A one-time, part-time professional musician and songwriter, I have a medical background and am a passionate history nerd. In my spare time, I like to hike, bike, read, go to the Ren Faire, write, and talk to you.</description>
+      <twitter>PamelaMooney</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://thenonclutteredindex.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=PamelaMooney</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105031</importID>
+      <name>Mike Byrd</name>
+      <label>
+      </label>
+      <description>Former rocket scientist and USAF Fighter Pilot -- now a SQL Server geek (24 years)! Past opportunities include free-lance technical writer for PC Magazine, Senior Software Manager for government sponsored munitions effectiveness committee, and insurance company CTO.  Currently senior database engineer consultant for several Austin companies.  
+
+Presenter at many SQL Saturdays over last 6 years in United States, Europe, and Australia.
+
+Specialize in SQL Server performance tuning; database (OLTP  OLAP) architecture; trouble-shooting; teaching TSQL (Basic through Advanced).
+
+Video presentations (for local SQL Server user groups or SQL Saturdays) can be found at http://usergroup.tv/videos/category/speaker/mike-byrd</description>
+      <twitter>ByrdNest_TX</twitter>
+      <linkedin>http://www.linkedin.com/pub/mike-byrd/1/aa0/bbb</linkedin>
+      <ContactURL>http://logicalread.solarwinds.com/?s=byrd, www.TSQLMentoring.com and SQLServerCentral.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ByrdNest_TX</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105720</importID>
+      <name>Harry Chandra</name>
+      <label>
+      </label>
+      <description>Harry Chandra is a SQL Server, VMWare and PowerShell enthusiast working with various releases of SQL Server for over 10 years. His main focus is in Administration and High Availability for SQL Server, although he has always strived to expand his knowledge into other area of SQL Server.</description>
+      <twitter>HarryChandraPDX</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.HarryChandra.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=HarryChandraPDX</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105923</importID>
+      <name>Sunil Kadimdiwan</name>
+      <label>
+      </label>
+      <description>Sunil Kadimdiwan Sunil Kadimdiwan has 25+ years’ experience in architecting and implementing database solutions. He has deep knowledge of the Microsoft SQL Server and Business Intelligence technology stack. He is a frequent speaker at SQL Saturdays, Code Camps, User Group meetings</description>
+      <twitter>@skadimdiwan</twitter>
+      <linkedin>https://www.linkedin.com/in/sunilkadimdiwan</linkedin>
+      <ContactURL>http://www.infotrove.com/events.html</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@skadimdiwan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105845</importID>
+      <name>Michael McKinley</name>
+      <label>
+      </label>
+      <description>Michael McKinley is the founder of McKinley Consulting.  Michael has managed projects and workstreams in consulting for the last five years, in areas including data analytics, change management, operations excellence, and supply chain transformation.
+
+Most recently, Mr. McKinley helped HCA build an enterprise-wide analytics model for their Human Resources Group, providing insights into how to retain and promote top talent.  He is currently engaged on his fourth project with HCA.</description>
+      <twitter>https://twitter.com/Mike_L_McKinley</twitter>
+      <linkedin>https://www.linkedin.com/in/michaellmckinley</linkedin>
+      <ContactURL>https://www.mckinley.consulting/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/Mike_L_McKinley</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>106023</importID>
+      <name>TJay Belt</name>
+      <label>
+      </label>
+      <description>TJay Belt is an outdoorsman at heart who enjoys riding dirtbikes, waterskiing, boating, playing racquetball and spending time with his family. 
+When he can't be out playing, TJay loves to tinker with databases. TJay has been an IT professional for over a decade and a half. Currently serving as a Senior Database Administrator with Imagine Learning.  TJay has progressed through several roles in his database career including developer, data guy, database developer, database analyst and DBA.</description>
+      <twitter>@tjaybelt</twitter>
+      <linkedin>http://www.linkedin.com/in/tjaybelt/</linkedin>
+      <ContactURL>http://tjaybelt.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@tjaybelt</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105080</importID>
+      <name>Steve Peterson</name>
+      <label>
+      </label>
+      <description>I have worked in ASP.NET and C# for a number of years before turning to SQL Server and T-SQL where Steve has been a SQL Server DBA for over 12 years with a focus on up time and performance. MCP MCTS
+Steve also likes photography.</description>
+      <twitter>@SQLFitness</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLFitness</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105776</importID>
+      <name>Sam Nasr</name>
+      <label>
+      </label>
+      <description>Sam Nasr has been a software developer since 1995, focusing mostly on Microsoft technologies.  He’s a Sr. Software Engineer with NIS Technologies where he consults and teaches clients about the latest .Net technologies.  Sam has achieved multiple certifications from Microsoft (MCSA, MCAD, MCTS, MCT), and is the leader of the Cleveland C#/VB.Net User Group since 2003. In addition, he’s the leader of the .Net Study Group, an author for Visual Studio Magazine, and a Microsoft MVP since 2013.  When not coding, Sam loves spending time with his family and friends or volunteering at his local church.</description>
+      <twitter>SamNasr</twitter>
+      <linkedin>http://www.linkedin.com/in/samsnasr</linkedin>
+      <ContactURL>http://samnasr.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SamNasr</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105949</importID>
+      <name>Jeff Iannucci</name>
+      <label>
+      </label>
+      <description>Jeff Iannucci is a Senior Database Administrator for DriveTime in Tempe, AZ. He has over 20 years of SQL Server experience as both a DBA and Developer in diverse environments such as health care, finance, retail sales, and government. He writes about solving problems for database professionals on both twitter (@DesertDBA) and his blog (desertdba.com), and has been chosen as an IDERA ACE for 2020.</description>
+      <twitter>DesertDBA</twitter>
+      <linkedin>https://www.linkedin.com/in/jeff-iannucci/</linkedin>
+      <ContactURL>https://desertdba.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DesertDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107094</importID>
+      <name>Brian Hansen</name>
+      <label>
+      </label>
+      <description>Brian is a database administrator at Children International in Kansas City.  He has been working with SQL Server technologies since 1998, including roles in report development, application development and database administration.</description>
+      <twitter>tf3604</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.tf3604.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=tf3604</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105842</importID>
+      <name>Paresh Motiwala</name>
+      <label>
+      </label>
+      <description>Paresh Motiwala a Azure/Big Data enthusiast, Manager of Database Platform teams has led several large SQL implementations, migrations and upgrades. He has managed multi terabyte OLTP databases. He has also been a Sr. SQL DBA and a Solutions Architect in Fortune 100 companies.  He helps/organizes and speaks at many SQL Saturdays, Azure Bootcamp, Azure Datafests and User Groups(Boston BI UG, NESQL, PASS PD VG and PASS DBA VG).
+
+He is certified in Big Data Analytics, FinTech, PMP, Public Speaking, Business Communications. He is a avid singer, cook, open networker, and stand-up comedian. 
+He teaches public speaking, debating, interviewing and group discussion skills and mentors children around the globe via www.circlesofgrowth.com</description>
+      <twitter>pareshmotiwala</twitter>
+      <linkedin>http://www.linkedin.com/in/pareshmotiwala</linkedin>
+      <ContactURL>https://pareshmotiwala.wordpress.com/wp-admin/post.php?post=2amp;action=editamp;message=6amp;postpost=v2</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pareshmotiwala</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105984</importID>
+      <name>Edward Pollack</name>
+      <label>
+      </label>
+      <description>Ed Pollack has over 20 years of experience in database and systems administration, which has developed his passion for performance optimization, database design, and making things go faster. He has spoken at many SQLSaturdays, 24 Hours of PASS, and PASS Summit. This led him to organize SQLSaturday Albany, which has become an annual event for New York’s Capital Region. Sharing these experiences with the community is a top priority, and encouraging everyone to take the leap into public speaking and engaging others, a passion.
+In his free time, Ed enjoys video games, traveling, cooking exceptionally spicy foods, and hanging out with his amazing wife and sons.</description>
+      <twitter>EdwardPollack</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=81593638</linkedin>
+      <ContactURL>https://www.sqlshack.com/author/edward-pollack/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=EdwardPollack</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105041</importID>
+      <name>George Walkey</name>
+      <label>
+      </label>
+      <description>SQL Server DBA, Developer, IT Manager, Business Owner from the Richmond, VA USA Area
+Interested in pushing the limits of both hardware software and my own brain</description>
+      <twitter>sqlbytehd</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://insyncva.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlbytehd</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105723</importID>
+      <name>Julie Koesmarno</name>
+      <label>
+      </label>
+      <description>Julie Koesmarno, MCSE Data Platform, and MCSE Business Intelligence, MCT, is a Senior Program Manager at Microsoft, with a Bachelor’s degree in IT. She has over 10 years of experience working with SQL Server for large-scale and multi-million-dollar OLTP and ETL projects as a SQL Server developer and system analyst/designer. Her past projects include delivering a SQL Server 2012 data warehouse and BI solutions in the US and Australia. She now works with hybrid, cloud and on-prem SQL projects.</description>
+      <twitter>@mssqlgirl</twitter>
+      <linkedin>http://www.linkedin.com/in/juliekoesmarno</linkedin>
+      <ContactURL>http://www.mssqlgirl.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@mssqlgirl</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105939</importID>
+      <name>Itshak David</name>
+      <label>
+      </label>
+      <description>David Yitzhak has over 24 years of experience with SQL Server, Oracle, and Sybase. He is an applicative  infrastructure DBA for relational and Nosql solutions (MongoDB, Redis), Hadoop CDH and Spark. David is a specialist in HA and DRP solutions, tuning, Machine learning , security, High Performance Computing, replication (Oracle  SQL Server), BI infrastructure and system engineering. David Yitzhak holds 3 Degrees from Technicon (Israel Institute of Technology): BSC Information System , MBA and ME (System engineering) and research associate in one of the enterprise Organizations. He presents in Oracle open world 2010, Organize Oracle ILOUG for 3 years , SQL Server forums, Microsoft BI forums, Sqlsaturday Israel 2016/17/18/19 , 3rd Israeli</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>Global Hebrew Virtual PASS Chapter : Data virtualization with SQL Server 2019 PolyBase https://www.youtube.com/watch?v=ixfwdZUj_A8feature=youtu.be https://globalhebrew.pass.org/MeetingDetails.aspx?EventID=15457    SQL Server 2019 Big Data Cluster BDC and Spark from Zero to an hero by David Yitzhak https://www.youtube.com/watch?v=iKgMqyPOVS0   David Izhak: Performance Improvements in SQL 2014 – lessons from the field  https://www.youtube.com/watch?v=x4hGjYGBfkc   David Itzhak: Practical SQL 2014 Data Mining</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105869</importID>
+      <name>Pedro Reis</name>
+      <label>
+      </label>
+      <description>Pedro is a Microsoft BI Stack Professional and enthusiast, with a passion for Power BI, SSAS, Excel and DAX. During his career he has coordinated multiple teams, and the development of thousands of Power BI Reports.
+He is the Leader of the Power BI Portugal Meetup group and the Porto Power BI User Group and an active Speaker at events like Power Platform World Tour, SQL Saturday, Porto Data, and meetups.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/pedrogoncalvesreis/</linkedin>
+      <ContactURL>https://www.meetup.com/Power-BI-Portugal</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107087</importID>
+      <name>Bob Pusateri</name>
+      <label>
+      </label>
+      <description>Bob Pusateri is a Microsoft Certified Master, DBA, and systems architect with over 10 years of experience on SQL Server. His interests involve internals, performance optimization, and cloud technologies. He is an active member of two Chicago-area PASS Local Groups, a community speaker, and maintains a web presence through both Twitter (@SQLBob) and his blog (bobpusateri.com).</description>
+      <twitter>@SQLBob</twitter>
+      <linkedin>http://www.linkedin.com/in/bobpusateri</linkedin>
+      <ContactURL>http://www.BobPusateri.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLBob</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107101</importID>
+      <name>Scott Cameron</name>
+      <label>
+      </label>
+      <description>Scott Cameron is an experienced senior business intelligence architect who has worked with organizations to design, develop, and implement high quality data warehouse and business intelligence solutions. He has helped multiple companies with their initial SQL Server BI implementations. Mr. Cameron has taught classes in the United States and Europe, presented at the SQL PASS Community Summit, Microsoft Business Intelligence Conference, Microsoft World-Wide Partner Conference, and the SAP SAPPHIRE NOW conference. He was a contributing author of Microsoft SQL Server 2005 Analysis Services Step by Step, co-authored Microsoft SQL Server 2005 Integration Services Step by Step, and authored Microsoft SQL Server 2008 Analysis Services Step by Step.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>105950</importID>
+      <name>Corey Hambrick</name>
+      <label>
+      </label>
+      <description>Corey Hambrick is a Database Administrator for Cafepress.  He has been working in IT for over 20 years,  using SQL Server since 2000.  He has worked on SQL Server since SQL 7.0.  He enjoys learning and sharing his knowledge with others in the user community.  When he is not being a geek, he can be found with his family, at his church and helping in the local jail ministry with those involved in the substance abuse program getting their lives back on track.</description>
+      <twitter>HamboneDBA</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=HamboneDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>105031</importID>
+      <speakers>
+        <speaker>
+          <id>105031</id>
+          <name>Mike Byrd</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 4</name>
+      </location>
+      <title>Climbing the SQL Server B-Tree</title>
+      <description>You’ll find a lot of Word of Mouth (WOM) advice out there about SQL Server performance, especially when it comes to indexes. Some of the things you have probably heard are: 
+
+• keep clustered index width small 
+• unique indexes perform better 
+• keep non-clustered index width small 
+• compressed indexes have fewer logical reads 
+• add one index for each column 
+
+But how do you know if this advice is good or bad? Did you know that there is a way to look under the hood at the actual index pages to see how the data is stored, and how it’s stored differently when data is compressed? Using this information, you can prove or disprove the WOM advice. 
+
+Attend this demo-heavy session to learn how the SQL Server optimizer uses indexes. It’s all about performance, and the right indexes will give your application a big performance advantage.</description>
+      <startTime>8/29/2020 8:00:00 AM</startTime>
+      <endTime>8/29/2020 9:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105939</importID>
+      <speakers>
+        <speaker>
+          <id>105939</id>
+          <name>Itshak David</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Query Store for SQL Server 2019  from zero to an hero  lessons learned from the fields .</title>
+      <description>Query Store is an important and recent feature in SQL Server that provides insight into the details of query execution and how that execution has changed over time. Query Store helps to identify queries that aren’t performing well, or that have regressed in their performance. Query Store provides detailed information and  wait stats that you need to resolve root causes, and it allows you to force the use of a known good execution plan. With SQL Server 2017 and later you can automate the correction of regressions in performance. 
+
+You'll Learn
+•	Best  practices in implementing Query Store on production servers
+•	Detect and correct regressions in query performance
+•	Lower the risk of performance degradation following an upgrade
+•	Use tools and techniques to get the most from Query Store
+•	Automate regression correction and other uses of Query Store.
+This is  a demo session only with minimum theory  lessons from the fields   !</description>
+      <startTime>8/29/2020 4:30:00 PM</startTime>
+      <endTime>8/29/2020 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105950</importID>
+      <speakers>
+        <speaker>
+          <id>105950</id>
+          <name>Corey Hambrick</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 4</name>
+      </location>
+      <title>AWS vs. Azure: What's The Difference For A DBA?</title>
+      <description>Everyone has strong opinions and reactions to which cloud database platform companies should be using but how different are they, really?  What features does one cloud provider support that the other might not?  How will normal DBA activities, such as backups and restores, change depending on the cloud provider your company uses?  Join me in this session as I share my migration stories and discuss the results of my research about how AWS and Azure are different and how many of my daily tasks and tools changed as our company migrated to AWS.  Come and listen as I share what I have learned on this journey from on-premises to the cloud.  Join me and find out which platform I would use.</description>
+      <startTime>8/29/2020 11:50:00 AM</startTime>
+      <endTime>8/29/2020 12:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105845</importID>
+      <speakers>
+        <speaker>
+          <id>105845</id>
+          <name>Michael McKinley</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>Basic Data Modeling for BI Reporting</title>
+      <description>We all start using business intelligence tools by using a single dataset, like a flat file.  Then, we hit a plateau in our learning curve, or we add a second flat file into our BI product, and we get incorrect results.  One reason is that we haven't modeled our solution correctly.
+
+In order to move to the next level of our journey along the BI learning curve, we need to understand how a tool like Power BI works.  Only then will we understand why we design our data models the way we do.
+
+In this session, we will review how tools like Power BI work under the covers and how that impacts the way we construct our data models.  This is an introductory level course, so we will not get too technical, just enough to get us to the next level and moving back up that learning curve!</description>
+      <startTime>8/29/2020 10:20:00 AM</startTime>
+      <endTime>8/29/2020 11:20:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105940</importID>
+      <speakers>
+        <speaker>
+          <id>105940</id>
+          <name>Pamela Mooney</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Code Smells - How to Keep Your Code From Stinking!</title>
+      <description>Maybe you’ve had some experience writing SQL, but no one’s ever told you what not to do. Or maybe you’re aware of some bad habits to avoid when writing SQL, but no one has ever shown you why a bad practice can hurt your query – or SQL Server.  Perhaps you feel a little more confident with your TSQL, but don’t understand why your queries aren’t running as quickly as you would like.
+
+Bad SQL coding practices are known in the SQL community as “code smells”.  Sign up for this hour-long workshop where you will work with me through five common coding mistakes that can make performance stink. By the time we’re done, you’ll have a better idea of how to freshen up some problem queries.</description>
+      <startTime>8/29/2020 1:00:00 PM</startTime>
+      <endTime>8/29/2020 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105723</importID>
+      <speakers>
+        <speaker>
+          <id>105723</id>
+          <name>Julie Koesmarno</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Notebooks 101 for SQL People</title>
+      <description>Are you a database developer, a DBA or a data analyst? Do you find spending quite a bit of time trying to reproduce analysis or reproduce issues and the troubleshooting techniques? This Notebooks 101 session is for you!
+
+The lack of rigor in being able to reproduce analysis in business context or to reproduce data troubleshooting can lead to confusion and time wasted on work that had been previously done. With Notebooks, Data Professionals can share their techniques and data sources used for the data analysis or troubleshooting for code review and reproducible insights/troubleshooting. 
+
+Azure Data Studio Notebooks support SQL and KQL natively with intellisense; with easy to use charting capabilities. With Notebooks and Jupyter Book (collection of Notebooks) in Azure Data Studio, it’s also easy now for your team to build an onboarding guide (user manual) / documentation on data sources, useful sample scripts and tutorials.</description>
+      <startTime>8/29/2020 2:10:00 PM</startTime>
+      <endTime>8/29/2020 3:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105116</importID>
+      <speakers>
+        <speaker>
+          <id>105116</id>
+          <name>Tracy Boggiano</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>SQL Server Configuration with dbatools and dbachecks</title>
+      <description>Automating the configuration of SQL Server instances and being able to check the configuration for standard configuration is an important role for any DBA when you have lots of instances.  But how can we automate the configuration easily?  How can we check to make sure the proper configuration is in place and hasn’t changed?
+
+In this session, we will look at how to configure your SQL Server Instances using PowerShell and the dbatools module.  Then we will look at how to use dbachecks to confirm the configuration of our instances and how to check for changes in the future of the configuration. 
+ 
+Attendees will see how easy it is to use PowerShell via dbatools to configure their SQL Server instances.  Attendees will see how easy it is to use PowerShell via dbachecks and PowerBI to see if their servers are configured properly.  Attendees will be given a set of scripts that take back to use to configure and test the configuration of their SQL Server instances.</description>
+      <startTime>8/29/2020 9:10:00 AM</startTime>
+      <endTime>8/29/2020 10:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105640</importID>
+      <speakers>
+        <speaker>
+          <id>105640</id>
+          <name>Janis Griffin</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 4</name>
+      </location>
+      <title>A Deep Dive into Execution Plans  How to Use Them!</title>
+      <description>The SQL Server Query Optimizer creates an execution plan for every statement running in the database. Since SQL is a declarative language, we describe what data we want to see, then the SQL Server Optimizer figures out a plan to retrieve that data efficiently.  However, sometimes the Optimizer chooses a bad query plan which not only makes the query run slow, but eats up resources so other processing can’t get done.  
+
+This presentation will show how to read and fine tune the query plan for better performance. We’ll quickly go over the different types of execution plans and when to use them. We’ll examine the different operators, their statistics and costs, then determine which steps to focus on tuning.  Finally, several trouble shooting techniques will be shown so you can increase your tuning skills.</description>
+      <startTime>8/29/2020 9:10:00 AM</startTime>
+      <endTime>8/29/2020 10:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105923</importID>
+      <speakers>
+        <speaker>
+          <id>105923</id>
+          <name>Sunil Kadimdiwan</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>Power BI: Advanced development techniques</title>
+      <description>Power BI usage and report development is quite simple to get started. You can produce fantastic reports in a relatively short amount of time.
+
+How about extending the available functionality? How to achieve consistent look and feel? These are important topics, as we get deeper into creating more than couple of views and PBIX files.
+
+In this session, I will show you how you can use database queries, custom theme files, custom visuals, parameters and other techniques to make your development efforts easier and keep your users happier.</description>
+      <startTime>8/29/2020 2:10:00 PM</startTime>
+      <endTime>8/29/2020 3:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107094</importID>
+      <speakers>
+        <speaker>
+          <id>107094</id>
+          <name>Brian Hansen</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 4</name>
+      </location>
+      <title>Remember Back When?  Temporal Tables in SQL Server 2016 and 2017</title>
+      <description>SQL Server 2016 and later come with their own version of a Wayback Machine: temporal tables.  With this new feature, it is easy to store and query the history of changes to data.  We will discuss the fundamentals and creating, storing data in, querying from, and maintaining these tables. We will also take a quick look under the hood to see how they work, and we'll also consider the current limitations that are in place.  Find out how temporal tables can benefit your system!</description>
+      <startTime>8/29/2020 2:10:00 PM</startTime>
+      <endTime>8/29/2020 3:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105869</importID>
+      <speakers>
+        <speaker>
+          <id>105869</id>
+          <name>Pedro Reis</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>"DAX" the way to do it</title>
+      <description>Love it or hate it, you just can't ignore DAX, the amazing language of Power BI. In this session, I'll show you it's true power and how knowing it can even make you completely rethink your data models.
+No more hundreds of columns and weird aggregations in the database. With the Power of DAX, you can now achieve much more sophisticated and powerful calculations, while keeping it simple at its core.
+I'll show you real-world applications of DAX and lots of tips and tricks that you will be able to use quickly and with little effort!</description>
+      <startTime>8/29/2020 8:00:00 AM</startTime>
+      <endTime>8/29/2020 9:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>107087</importID>
+      <speakers>
+        <speaker>
+          <id>107087</id>
+          <name>Bob Pusateri</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Isolation Levels: Improving Performance Through Concurrency</title>
+      <description>Support for multiple simultaneous operations is a key feature of database systems, but there are many ways this can be implemented. This session explores the different isolation levels supported by SQL Server, Azure SQL Database, and Azure SQL Database Managed Instance. It will cover what they are, how they work, the issues they address, and how they differ. We will also investigate In-Memory OLTP and what it offers. Demonstrations will show how isolation level configuration can affect both the performance and result set returned by a query. Additionally, attendees will learn how to choose the optimal isolation level for a given workload, and will see how easy it can be to improve performance by adjusting isolation settings. Proper use of isolation levels can help relieve bottlenecks that no amount of query tuning or indexing can address - attend this session and gain Senior DBA-level skills on how to maximize your database's ability to process transactions concurrently.</description>
+      <startTime>8/29/2020 11:50:00 AM</startTime>
+      <endTime>8/29/2020 12:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105041</importID>
+      <speakers>
+        <speaker>
+          <id>105041</id>
+          <name>George Walkey</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Tracking Logins with an Extended-Events-Driven Data Warehouse</title>
+      <description>Using Extended Events, Powershell, TSQL, MDX, DAX and Excel we will build a SSAS MD and Tabular Cube that allows you to track SQL Server Logins  that can be sliced and diced per Hour, Server, User, Host, Connection String and Database.
+
+This session touches on multiple advanced topics that you can use individually, but together, make for a powerful SQL Security Auditing Tool not found anywhere else.</description>
+      <startTime>8/29/2020 10:20:00 AM</startTime>
+      <endTime>8/29/2020 11:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105156</importID>
+      <speakers>
+        <speaker>
+          <id>105156</id>
+          <name>Rob Richardson</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Database DevOps with Containers</title>
+      <description>Unlike CI/CD pipelines for applications, we can't just delete the database and pop up a new one with each new version. Let's start with the production database, and get SQL Server content to developers in containers, and then flow schema and lookup data back into production with migration tools. You can bring the reliability and automation of CI/CD pipelines to Database DevOps with containers.</description>
+      <startTime>8/29/2020 11:50:00 AM</startTime>
+      <endTime>8/29/2020 12:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105018</importID>
+      <speakers>
+        <speaker>
+          <id>105018</id>
+          <name>Armando Lacerda</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>Azure Synapse back to back</title>
+      <description>Azure Synapse provides a complete platform to ingest and process data at scale in the cloud. In this workshop we will be learning and applying its features to all stages of data processing and understanding some best practices and pitfalls. From ingesting to data lakes to transform data in big data services to apply machine learning models, including data remodeling, this workshop will guide to through a full implementation of Azure Synapse all the way to presentation and reporting.</description>
+      <startTime>8/29/2020 4:30:00 PM</startTime>
+      <endTime>8/29/2020 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105776</importID>
+      <speakers>
+        <speaker>
+          <id>105776</id>
+          <name>Sam Nasr</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>14 T-SQL Functions You May Not Know</title>
+      <description>Newer releases of SQL Server have introduced many new functions developers may not know or use. This includes functions for type conversion, date/time calculation, enhanced logic, and string manipulation. In this session we’ll cover the ins and outs of these new functions, in addition to some best practices for using these functions.</description>
+      <startTime>8/29/2020 1:00:00 PM</startTime>
+      <endTime>8/29/2020 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105024</importID>
+      <speakers>
+        <speaker>
+          <id>105024</id>
+          <name>Jim Miller</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 4</name>
+      </location>
+      <title>Azure Data Studio – Way Cool for Azure and On-Prem SQL</title>
+      <description>Azure Data Studio (ADS) cross-platform database development tool which runs on Windows, Linux, and MacOS. ‘ADS’ supports SQL Server and Postgres (with more DB platforms soon) and works both on-prem and in the cloud. ADS is highly extensible, open source, and can dramatically change the way you approach SQL coding.
+
+In this session, we will cover ‘ADS’ features and capabilities such as
+ - Connections
+ - Code Snippets
+ - Notebooks
+ - Extensions
+And demonstrate why Azure Data Studio is in fact Way Cool.</description>
+      <startTime>8/29/2020 10:20:00 AM</startTime>
+      <endTime>8/29/2020 11:20:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105819</importID>
+      <speakers>
+        <speaker>
+          <id>105819</id>
+          <name>Andy Yun</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Advanced Plan Explorer Usage for Tuning Execution Plans</title>
+      <description>In 2010, SentryOne gave the community a completely free execution plan analysis tool: Plan Explorer, that is widely used today. But many users only utilize basic features and only scratch the surface of its capabilities.
+
+Join me to learn how you can go beyond the basics. This demo-heavy (and marketing free) session will teach you advanced use of Plan Explorer by exploring practical T-SQL anti-patterns.</description>
+      <startTime>8/29/2020 3:20:00 PM</startTime>
+      <endTime>8/29/2020 4:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105080</importID>
+      <speakers>
+        <speaker>
+          <id>105080</id>
+          <name>Steve Peterson</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Interviewing for a DBA job and how to Wow your new company.</title>
+      <description>We are really _really_ smart but can we show our best side when we interview?  I’ll show you how to interview and a few tips and tricks to get over the interview jitters.</description>
+      <startTime>8/29/2020 9:10:00 AM</startTime>
+      <endTime>8/29/2020 10:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105720</importID>
+      <speakers>
+        <speaker>
+          <id>105720</id>
+          <name>Harry Chandra</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Intro to PowerShell for the DBAs</title>
+      <description>In this demo-filled session, we will go through everything you need to start using PowerShell to automate your day-to-day tasks as a DBA. We will go through the tools you need such as PowerShell IDE  Visual Studio Code. We will be using the Microsoft SqlServer PowerShell module and the very popular and powerful community-driven, DBATools module. We will walk through the process of building a script to do a simple task from start to finish. By the end of the session, you will have the confidence, knowledge and tools to start your journey in automating your day-to-day tasks using PowerShell.</description>
+      <startTime>8/29/2020 4:30:00 PM</startTime>
+      <endTime>8/29/2020 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105074</importID>
+      <speakers>
+        <speaker>
+          <id>105074</id>
+          <name>Matt Horton</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 4</name>
+      </location>
+      <title>SSAS 101</title>
+      <description>Basic walk-through of creating a tabluar cube, deploying the cube and querying the data using Power BI.</description>
+      <startTime>8/29/2020 3:20:00 PM</startTime>
+      <endTime>8/29/2020 4:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105295</importID>
+      <speakers>
+        <speaker>
+          <id>105295</id>
+          <name>David Patrick</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>Intro to Power BI</title>
+      <description>For anyone new to Power BI, we'll cover all the main features and walk through getting data into the tool (using both the desktop and online versions), creating visualizations, turning them into reports and adding them to dashboards. When we're through we'll have several BI components available to share via the Cloud!</description>
+      <startTime>8/29/2020 11:50:00 AM</startTime>
+      <endTime>8/29/2020 12:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105853</importID>
+      <speakers>
+        <speaker>
+          <id>105853</id>
+          <name>Steve Jones</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>A Tour of Azure DevOps</title>
+      <description>The popularity and push for adopting DevOps as a way of developing software continues to grow. Do you wonder how to get started and what tools are out there? TFS and Azure DevOps are the way that more and more Microsoft developers look to try and automate parts of their software development process. Join this session for a look at how the capabilities of Azure DevOps/TFS are integrated together to help you track your code and automate the process of getting it to your production environment.</description>
+      <startTime>8/29/2020 3:20:00 PM</startTime>
+      <endTime>8/29/2020 4:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105512</importID>
+      <speakers>
+        <speaker>
+          <id>105512</id>
+          <name>Amit R S Bansal</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>How to Troubleshoot a Slow Running Query in SQL Server</title>
+      <description>You always wanted to troubleshoot a slow running query. But you just don’t know where to begin. In this demo-heavy session, I will show you how to troubleshoot a slow running query. You will see an end-to-end query tuning example with a slow running workload. We will capture important metrics while the workload is running and then use the captured data to troubleshoot query performance issues. The technique you will learn can be applied to production straight away. This will be a 100% demo session.</description>
+      <startTime>8/29/2020 8:00:00 AM</startTime>
+      <endTime>8/29/2020 9:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105984</importID>
+      <speakers>
+        <speaker>
+          <id>105984</id>
+          <name>Edward Pollack</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>All About Temporary Objects</title>
+      <description>Database development and administration require temporary objects for ETL, staging, data processing, and many other common tasks.
+
+In this session, we will delve into temporary tables, table variables, and memory-optimized table variables, as well as memory-optimized TempDB metadata, discussing their differences, how they work, and the optimal scenarios for using each of them.</description>
+      <startTime>8/29/2020 2:10:00 PM</startTime>
+      <endTime>8/29/2020 3:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105764</importID>
+      <speakers>
+        <speaker>
+          <id>105764</id>
+          <name>Mark Runyon</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>The Countless Benefits of Mentoring</title>
+      <description>Mentoring offers countless benefits to the mentee, mentor and the organization as a whole. In this session, we will map out the benefits to each participant as well as talk about how to find a mentor or how to start a mentorship program in your organization.</description>
+      <startTime>8/29/2020 10:20:00 AM</startTime>
+      <endTime>8/29/2020 11:20:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105842</importID>
+      <speakers>
+        <speaker>
+          <id>105842</id>
+          <name>Paresh Motiwala</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>How I Cut My Maintenance Window by 80%</title>
+      <description>As DBAs we oversee the safety and security of our databases. Integrity, Backup and ability to restore in a timely fashion are most important responsibilities. 
+In addition to Microsoft's own Maintenance Plans and Ola Hallengren's awesome scripts, there are many tweaks available that can be exploited for our success; we will learn about those too. 
+I will share with you my own experiments that I conducted over a period of one month. I will share supporting data, to show how I helped save several hours of downtime for my company. 
+We'll also some of the best practices to help you cut down the maintenance window and give max up-time for your discerning customer.</description>
+      <startTime>8/29/2020 8:00:00 AM</startTime>
+      <endTime>8/29/2020 9:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>105949</importID>
+      <speakers>
+        <speaker>
+          <id>105949</id>
+          <name>Jeff Iannucci</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 4</name>
+      </location>
+      <title>It's Not Your Fault, It's the SQL Server Default</title>
+      <description>When you see those little green checkmarks, then you know your new SQL Server instance is ready to go, right? Not exactly. Your fresh installation has some questionable default settings that could cause headaches and heartburn in the future. In this session, we identify several instance and database defaults that could lead to disaster, and discuss how you can modify them to improve performance and avoid unnecessary problems.</description>
+      <startTime>8/29/2020 4:30:00 PM</startTime>
+      <endTime>8/29/2020 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105547</importID>
+      <speakers>
+        <speaker>
+          <id>105547</id>
+          <name>Ramesh Satya</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 4</name>
+      </location>
+      <title>Understanding NULLs in SQL Server</title>
+      <description>SQL Server follows three-valued logic (3VL) (instead of Boolean logic) to evaluate any condition to True or False or Unknown. Unknown value in SQL Server is represented as NULL. NULLs in SQL Server are often misunderstood and causes data inconsistency issues. In this session, we will try to go through different test cases to understand NULLs properly.</description>
+      <startTime>8/29/2020 1:00:00 PM</startTime>
+      <endTime>8/29/2020 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>106023</importID>
+      <speakers>
+        <speaker>
+          <id>106023</id>
+          <name>TJay Belt</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>Let's take PowerBI on an adventure</title>
+      <description>For the past few years I have been collecting data on various adventures. This data takes many forms and is disperse. Some comes from my calendar, while other from a Garmin gps device tracking my data points as I traverse the land, the snow, the water.
+Let's collect all this data and present it in a way to compare between years and activities. To relive the adventures and plan for more.</description>
+      <startTime>8/29/2020 1:00:00 PM</startTime>
+      <endTime>8/29/2020 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>107101</importID>
+      <speakers>
+        <speaker>
+          <id>107101</id>
+          <name>Scott Cameron</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>Data Warehousing Top 10 Tips</title>
+      <description>During a recent SQL Server User Group meeting the question came up, "How do I get my data team to create a data warehouse that is more than just another database with DW in the name?" During this session we will discuss 10 tips to successfully create a data warehouse with an emphasis on having a data warehouse that will be consumed by your organization.</description>
+      <startTime>8/29/2020 3:20:00 PM</startTime>
+      <endTime>8/29/2020 4:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>105101</importID>
+      <speakers>
+        <speaker>
+          <id>105101</id>
+          <name>Leslie Andrews</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>Building a Strong Foundation for Data Analysis</title>
+      <description>We are living in a world full of data but what we need is information.  What is required to transform data into information?  What are the foundational activities your organization needs to do in order to produce analytics that you are confident in sharing?  In this session we will discuss what is needed for your organization to convert data into information, the basics of: Data Governance, Data Modeling and how to have an immediate impact using tools like Power BI to deliver value; and, Data Visualizations and telling stories with the data.</description>
+      <startTime>8/29/2020 9:10:00 AM</startTime>
+      <endTime>8/29/2020 10:10:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

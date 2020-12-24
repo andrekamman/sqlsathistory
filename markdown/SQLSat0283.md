@@ -1,0 +1,23 @@
+# SQLSaturday #283 - Puerto Rico 2014
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Bradley Ball|Track 2|[Inside the Query Optimizer](10150.md)
+00:00:00|Carlos L Chacon|Track 3|[SQL Server - En juego o Fuera de juego?](11188.md)
+00:00:00|David Dye|Track 1|[Location Location Location Preparing and Presenting Geographic Data](13023.md)
+00:00:00|Edwin Blancovitch|Track 4|[MsAccess and SQLServer in the Cloud Integration ](13610.md)
+00:00:00|Guillermo Caicedo Santiago|Track 4|[Introduction to SSIS with BIML](14855.md)
+00:00:00|Javier Guillen|Track 1|[Business Insight through Cloud Based Data Models](16027.md)
+00:00:00|Jose Chinchilla|Track 2|[PowerPivot + Powerview + PowerMap = Self-service BI Revolution](16107.md)
+00:00:00|Jorge Segarra|Track 1|[Azure Virtual Machines: A Walk in the Cloud](17414.md)
+00:00:00|Jose L. Rivera|Track 3|[Tablas Particionadas: De la A a la Z](17467.md)
+00:00:00|Jose Gregorio Redondo Lopez|Track 2|[SQL Server 2014 In Memory Column Store Indexes - Haciendo un Almacén de Datos](17599.md)
+00:00:00|Jorge Sanchez|Track 2|[Creating Reporting Services Reports to be Run in SQL Server Management Studio](17625.md)
+00:00:00|Juan Soto|Track 4|[Wish you could live the glamorous consulting life?](17670.md)
+00:00:00|Maximo Trinidad|Track 3|[Powershell Working with Windows Azure SQL Database Server](19916.md)
+00:00:00|Mike Hillwig|Track 2|[From Mess to Mastery: Managing Large Environments ](20509.md)
+00:00:00|Ramon Ponte|Track 3|[Understanding Power BI by Example](22442.md)
+00:00:00|Rafael Salas|Track 1|[ETL Architecture Checkup: Avoiding Costly Mistakes](22943.md)
+00:00:00|Rogger Rodriguez|Track 4|[Como lograr tu certificación de SQL Server 2012](23421.md)
+00:00:00|Wayne Sheffield|Track 4|[Windowing Functions in SQL Server 2012](27729.md)
+00:00:00|Wayne Sheffield|Track 3|[Table Vars  Temp Tables - What you NEED to Know!](27730.md)
+00:00:00|Alan Koo|Track 1|[PowerPivot, Tabular and Multidimensional Models: Understanding Analysis Services Flavors](9180.md)

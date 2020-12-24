@@ -1,0 +1,708 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #253 - Brasilia 2013</name>
+    <startDate>9/28/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>300</attendeeEstimate>
+    <timezone>(GMT-03:00) Greenland</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat253</twitterHashtag>
+    <venue>
+      <name>Faculdade Projeção</name>
+      <street>CNB 14 Lote 7 - Sandú Norte</street>
+      <city>Brasilia</city>
+      <state>, Brazil</state>
+      <zipcode>
+      </zipcode>
+      <longitude>-48.0488701</longitude>
+      <latitude>-15.8463755</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1202</importID>
+      <name>T-IT Consultoria  Serviços</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.titcs.com.br</url>
+      <imageURL>https://www.pass.org/files/d6c5f519-dd76-4a7b-8481-3d009347d3d6.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>676</importID>
+      <name>Hepta Informática</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.hepta.com.br</url>
+      <imageURL>https://www.pass.org/files/3d6e5f31-09d8-469b-ba8b-9d03349cb49c.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>441</importID>
+      <name>Bluestar Informática</name>
+      <label>Sponsor</label>
+      <url>http://www.bluestar.inf.br/</url>
+      <imageURL>https://www.pass.org/files/50ec4e07-57f3-4d19-9203-cbe0f55626a8.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>83</importID>
+      <name>PluralSight</name>
+      <label>Sponsor</label>
+      <url>http://www.pluralsight.com</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2015/11/Pluralsight_logo_novo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1136</importID>
+      <name>Sr. Nimbus</name>
+      <label>Sponsor</label>
+      <url>http://www.srnimbus.com.br</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2012/06/logo_srnimbus.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>892</importID>
+      <name>NGR Solutions</name>
+      <label>Sponsor</label>
+      <url>http://www.ngrsolutions.com.br</url>
+      <imageURL>https://www.ngrsolutions.com.br/wp-content/uploads/2013/08/NGR.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>21489</importID>
+      <name>Diego Nogare</name>
+      <label>
+      </label>
+      <description>Diego Nogare is Chief Data Officer @ Lambda3. He has graduated in Computer Science, Post-Graduated in Computer Engineering. Author of books in Portuguese about SQL Server, Business Intelligence and Machine Learning. Microsoft Most Valuable Professional [MVP] since 2008, shifting to Artificial Intelligence award in 2017. Spent a time as volunteer at PASS, as, Regional Mentor (2014/2015), Regional Board Advisor for LATAM (2016) and Board Director (2018/2019). Worked on the SQL Server team at Microsoft, in Brazil, engaged in the release of SQL Server 2012. Spent some time as a speaker at Microsoft and PASS events.</description>
+      <twitter>@DiegoNogare</twitter>
+      <linkedin>https://br.linkedin.com/in/diegonogare</linkedin>
+      <ContactURL>http://www.diegonogare.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@DiegoNogare</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19257</importID>
+      <name>Luan Moreno Medeiros Maciel</name>
+      <label>
+      </label>
+      <description>Based out of Brazil, Luan Moreno credits his ability to solve problems to thinking critically before acting. He values working with a team because he and his clients can benefit from various perspectives and collaboration, particularly when faced with difficult issues. When Luan Moreno first became interested in technology, he didn’t have a mentor, so he made a commitment to teaching others in the community and sharing his knowledge through blogging, speaking engagements.
+
+Luan Moreno is a addicted Brazilian blogger and speaker. SQL Server MCT, MCSE and MVP living in Brazil. Nowadays he#39;s a Database Consultant at Pythian, company based in Ottawa - Canada.#160;</description>
+      <twitter>@luansql</twitter>
+      <linkedin>https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile</linkedin>
+      <ContactURL>https://luanmorenodba.wordpress.com/ amp; http://www.sqlshack.com/author/luan-moreno-m-maciel/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@luansql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21450</importID>
+      <name>Nilton Pinheiro</name>
+      <label>
+      </label>
+      <description>Nilton has 18+ years of SQL Server experience and is the co-author of the book "SQL Server 2014: High Availability in Practice with AlwaysOn Failover Cluster Instances". He worked as a SQL Server Specialist at Itaú Bank (Brazil) for 11 years working on design and coordination of large database infrastructure projects involving deployment and migration of mission-critical servers. Nilton worked at IBM for 4 years as a SQL Server SME and also at Microsoft as a Sr. Support Engineer in the Microsoft CSS SQL team. Speaker at events like SQLSaturday, TechEd, MS Tech Summit and others, he was Microsoft MVP for 11 years and holds SQL Server MCSA\MCSE certifications. Currently he is a Sr. Database Consultant at AGAP2 IT, working in Brussels.</description>
+      <twitter>nilton_pinheiro</twitter>
+      <linkedin>http://br.linkedin.com/in/niltonpinheiro</linkedin>
+      <ContactURL>http://www.mcdbabrasil.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=nilton_pinheiro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23419</importID>
+      <name>Rogério Moraes de Carvalho</name>
+      <label>
+      </label>
+      <description>Rog#233;rio Moraes de Carvalho #233; um desenvolvedor Web, de aplica#231;#245;es desktop e de aplica#231;#245;es m#243;veis usando tecnologias de armazenamento, como os bancos de dados relacionais. Trabalha com SQL Server desde a vers#227;o 7.0. Desenvolve com tecnologias da plataforma .NET desde as vers#245;es beta do .NET Framework 1.0, cuja vers#227;o final foi lan#231;ada em fevereiro de 2002. Tem sido premiado como Most Valuable Professional (MVP) pela Microsoft desde 2009.</description>
+      <twitter>@rogeriomc</twitter>
+      <linkedin>https://br.linkedin.com/in/rogeriomc</linkedin>
+      <ContactURL>http://rogeriomc.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@rogeriomc</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19308</importID>
+      <name>Luciano Moreira</name>
+      <label>
+      </label>
+      <description>Luciano Moreira is owner of Sr. Nimbus, a consulting and training company. MVP and SQL Server specialist, in the past years he#39;s trying to explore other database engines, relational or not, besides studying subjects related to data science and solution#39;s architecture. Divides his professional time between consulting, training and technical community, helping companies to develop data solutions, utilizing efficiently their products and, of course, troubleshooting hard SQL Server issues.</description>
+      <twitter>@luticm</twitter>
+      <linkedin>http://www.linkedin.com/in/luticm</linkedin>
+      <ContactURL>http://luticm.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@luticm</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13928</importID>
+      <name>Erika Madeira</name>
+      <label>
+      </label>
+      <description>Erika Madeira é graduada em Engenharia da Computação e atuou na área de tecnologia da informação por mais de 3 anos como Administradora de Bando de Dados (DBA). Atualmente, especialista do time de SQL Server da Microsoft, atua com foco na comunidade técnica. Mantêm o blog http://blogs.technet.com/b/sqlserverbrasil/ com artigos relacionados a banco de dados em toda sua abrangência.
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23407</importID>
+      <name>Rodrigo Ribeiro Gomes</name>
+      <label>
+      </label>
+      <description>H#225; 6 anos, Rodrigo teve seu primeiro contato com SQL Server em est#225;gio cujo o foco era uma plataforma EaD. Desde ent#227;o, a curiosidade por escrever c#243;digo TSQL mais eficiente fez parte do seu dia-a-dia e a partir da#237;, foi aprofundando os conhecimentos n#227;o s#243; em desenvolvimento, mas principalmente em infra-estrutura, seguran#231;a, armazenamento, sistema operacionais e, #233; claro  em recursos de CPU e mem#243;ria e encarando desafios desde ambientes simples #224; ambientes cr#237;ticos 24x7x365. </description>
+      <twitter>https://twitter.com/thesqltimes</twitter>
+      <linkedin>http://br.linkedin.com/in/rodrigoribeirogomes</linkedin>
+      <ContactURL>http://www.thesqltimes.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/thesqltimes</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28324</importID>
+      <name>Thiago Zavaschi</name>
+      <label>
+      </label>
+      <description>Thiago is master in computer science (pattern recognition area).
+Worked for a Microsoft Partner as SQL Server group lead, implementing BI solutions (PowerPivot, SSAS, etc) and another consulting tasks related to SQL Server like query tuning and clustering.
+Now works for a Microsoft as Premier Field Engineer (BI/DW) and is a former SQL Server MVP.</description>
+      <twitter>@zavaschi</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.zavaschi.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@zavaschi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21451</importID>
+      <name>Nilton Pinheiro</name>
+      <label>
+      </label>
+      <description>Nilton has 18+ years of SQL Server experience and is the co-author of the book "SQL Server 2014: High Availability in Practice with AlwaysOn Failover Cluster Instances". He worked as a SQL Server Specialist at Itaú Bank (Brazil) for 11 years working on design and coordination of large database infrastructure projects involving deployment and migration of mission-critical servers. Nilton worked at IBM for 4 years as a SQL Server SME and also at Microsoft as a Sr. Support Engineer in the Microsoft CSS SQL team. Speaker at events like SQLSaturday, TechEd, MS Tech Summit and others, he was Microsoft MVP for 11 years and holds SQL Server MCSA\MCSE certifications. Currently he is a Sr. Database Consultant at AGAP2 IT, working in Brussels.</description>
+      <twitter>nilton_pinheiro</twitter>
+      <linkedin>http://br.linkedin.com/in/niltonpinheiro</linkedin>
+      <ContactURL>http://www.mcdbabrasil.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=nilton_pinheiro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19258</importID>
+      <name>Luan Moreno Medeiros Maciel</name>
+      <label>
+      </label>
+      <description>Based out of Brazil, Luan Moreno credits his ability to solve problems to thinking critically before acting. He values working with a team because he and his clients can benefit from various perspectives and collaboration, particularly when faced with difficult issues. When Luan Moreno first became interested in technology, he didn’t have a mentor, so he made a commitment to teaching others in the community and sharing his knowledge through blogging, speaking engagements.
+
+Luan Moreno is a addicted Brazilian blogger and speaker. SQL Server MCT, MCSE and MVP living in Brazil. Nowadays he#39;s a Database Consultant at Pythian, company based in Ottawa - Canada.#160;</description>
+      <twitter>@luansql</twitter>
+      <linkedin>https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile</linkedin>
+      <ContactURL>https://luanmorenodba.wordpress.com/ amp; http://www.sqlshack.com/author/luan-moreno-m-maciel/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@luansql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14708</importID>
+      <name>Gustavo Maia Aguiar</name>
+      <label>
+      </label>
+      <description>Profissional entusiasta do mundo de banco de dados e armazenamento, passou por v#225;rias empresas e hoje trabalha em uma das maiores institui#231;#245;es financeiras do pa#237;s atuando como l#237;der de banco de dados. Acostumado com ambientes de miss#227;o cr#237;tica e palestrante recorrente em eventos ligados a banco de dados e a tecnologias Microsoft.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://gustavomaiaaguiar.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21488</importID>
+      <name>Diego Nogare</name>
+      <label>
+      </label>
+      <description>Diego Nogare is Chief Data Officer @ Lambda3. He has graduated in Computer Science, Post-Graduated in Computer Engineering. Author of books in Portuguese about SQL Server, Business Intelligence and Machine Learning. Microsoft Most Valuable Professional [MVP] since 2008, shifting to Artificial Intelligence award in 2017. Spent a time as volunteer at PASS, as, Regional Mentor (2014/2015), Regional Board Advisor for LATAM (2016) and Board Director (2018/2019). Worked on the SQL Server team at Microsoft, in Brazil, engaged in the release of SQL Server 2012. Spent some time as a speaker at Microsoft and PASS events.</description>
+      <twitter>@DiegoNogare</twitter>
+      <linkedin>https://br.linkedin.com/in/diegonogare</linkedin>
+      <ContactURL>http://www.diegonogare.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@DiegoNogare</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19124</importID>
+      <name>Leandro Ribeiro</name>
+      <label>
+      </label>
+      <description>Leandro Ribeiro (@sqlleroy) é DBA SQL Server com mais de 9 anos de experiência na plataforma. Possui certificações MCTS SQL Server 2008, MCSA SQL Server 2014. 
+Tem compartilhado conhecimento desde 2012 sendo um membro da PASS e palestrante em SQL Saturday, 24Hop e Microsoft MVP Webcast entre outros eventos no meu país de origem.</description>
+      <twitter>https://twitter.com/sqlleroy</twitter>
+      <linkedin>http://www.linkedin.com/in/leandrorsilva</linkedin>
+      <ContactURL>http://www.sqlleroy.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/sqlleroy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19309</importID>
+      <name>Luciano Moreira</name>
+      <label>
+      </label>
+      <description>Luciano Moreira is owner of Sr. Nimbus, a consulting and training company. MVP and SQL Server specialist, in the past years he#39;s trying to explore other database engines, relational or not, besides studying subjects related to data science and solution#39;s architecture. Divides his professional time between consulting, training and technical community, helping companies to develop data solutions, utilizing efficiently their products and, of course, troubleshooting hard SQL Server issues.</description>
+      <twitter>@luticm</twitter>
+      <linkedin>http://www.linkedin.com/in/luticm</linkedin>
+      <ContactURL>http://luticm.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@luticm</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28323</importID>
+      <name>Thiago Zavaschi</name>
+      <label>
+      </label>
+      <description>Thiago is master in computer science (pattern recognition area).
+Worked for a Microsoft Partner as SQL Server group lead, implementing BI solutions (PowerPivot, SSAS, etc) and another consulting tasks related to SQL Server like query tuning and clustering.
+Now works for a Microsoft as Premier Field Engineer (BI/DW) and is a former SQL Server MVP.</description>
+      <twitter>@zavaschi</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.zavaschi.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@zavaschi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23418</importID>
+      <name>Rogério Moraes de Carvalho</name>
+      <label>
+      </label>
+      <description>Rog#233;rio Moraes de Carvalho #233; um desenvolvedor Web, de aplica#231;#245;es desktop e de aplica#231;#245;es m#243;veis usando tecnologias de armazenamento, como os bancos de dados relacionais. Trabalha com SQL Server desde a vers#227;o 7.0. Desenvolve com tecnologias da plataforma .NET desde as vers#245;es beta do .NET Framework 1.0, cuja vers#227;o final foi lan#231;ada em fevereiro de 2002. Tem sido premiado como Most Valuable Professional (MVP) pela Microsoft desde 2009.</description>
+      <twitter>@rogeriomc</twitter>
+      <linkedin>https://br.linkedin.com/in/rogeriomc</linkedin>
+      <ContactURL>http://rogeriomc.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@rogeriomc</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14241</importID>
+      <name>Marcelo Fernandes</name>
+      <label>
+      </label>
+      <description>Marcelo Fernandes is SQL Server MVP and has 12+ years experience with databases, specialized in High Availability, critical missions and very large databases. He holds the MCP / MCDBA / MCSA / MCTS / MCITP and MCT certifications, he lives and works in Berlin for an American e-commerce company that sells home goods. He share their knowledge through webcasts, presentations and articles on Microsoft technologies and can be cantacted by email fernandes_dba@hotmail.com or twitter @ marcelodba</description>
+      <twitter>marcelodba</twitter>
+      <linkedin>https://br.linkedin.com/in/marcelodba</linkedin>
+      <ContactURL>http://marcelodba.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=marcelodba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19307</importID>
+      <name>Luciano Moreira</name>
+      <label>
+      </label>
+      <description>Luciano Moreira is owner of Sr. Nimbus, a consulting and training company. MVP and SQL Server specialist, in the past years he#39;s trying to explore other database engines, relational or not, besides studying subjects related to data science and solution#39;s architecture. Divides his professional time between consulting, training and technical community, helping companies to develop data solutions, utilizing efficiently their products and, of course, troubleshooting hard SQL Server issues.</description>
+      <twitter>@luticm</twitter>
+      <linkedin>http://www.linkedin.com/in/luticm</linkedin>
+      <ContactURL>http://luticm.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@luticm</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14709</importID>
+      <name>Gustavo Maia Aguiar</name>
+      <label>
+      </label>
+      <description>Profissional entusiasta do mundo de banco de dados e armazenamento, passou por v#225;rias empresas e hoje trabalha em uma das maiores institui#231;#245;es financeiras do pa#237;s atuando como l#237;der de banco de dados. Acostumado com ambientes de miss#227;o cr#237;tica e palestrante recorrente em eventos ligados a banco de dados e a tecnologias Microsoft.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://gustavomaiaaguiar.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14240</importID>
+      <name>Marcelo Fernandes</name>
+      <label>
+      </label>
+      <description>Marcelo Fernandes is SQL Server MVP and has 12+ years experience with databases, specialized in High Availability, critical missions and very large databases. He holds the MCP / MCDBA / MCSA / MCTS / MCITP and MCT certifications, he lives and works in Berlin for an American e-commerce company that sells home goods. He share their knowledge through webcasts, presentations and articles on Microsoft technologies and can be cantacted by email fernandes_dba@hotmail.com or twitter @ marcelodba</description>
+      <twitter>marcelodba</twitter>
+      <linkedin>https://br.linkedin.com/in/marcelodba</linkedin>
+      <ContactURL>http://marcelodba.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=marcelodba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>14241</importID>
+      <speakers>
+        <speaker>
+          <id>14241</id>
+          <name>Marcelo Fernandes</name>
+        </speaker>
+      </speakers>
+      <track>Desenvolvimento</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Dividir e conquistar - Particionando de tabelas no SQL Server</title>
+      <description>O particionamento de tabelas em um banco de dados melhora o desempenho e simplifica a manutenção. Ao dividir uma tabela grande em frações menores, as consultas que acessam somente uma fração dos dados serão executadas com maior rapidez além de aumentarmos a performance de tarefas administativas como reconstruir índices e backups.</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21450</importID>
+      <speakers>
+        <speaker>
+          <id>21450</id>
+          <name>Nilton Pinheiro</name>
+        </speaker>
+      </speakers>
+      <track>Administração</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Provendo Alta Disponibilidade para suas Apps em Pequenos, Médios e Grandes Ambientes com SQL2012</title>
+      <description>AlwaysOn Availability Group é uma nova solução de Alta Disponnibilidade e Disaster Recovery do SQL Server 2012 que permite a você agrupar seus bancos de dados mais críticos em grupos de alta disponibilidade e maximizar a disponibilidade de suas aplicações e bancos de dados. Nesta sessão Nilton Pinheiro mostrará como você pode utilizar o SQL Server 2012 AlwaysOn Availability Group para aumentar a disponibilidade de suas aplicações em pequenos, médios e grandes ambientes.</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14240</importID>
+      <speakers>
+        <speaker>
+          <id>14240</id>
+          <name>Marcelo Fernandes</name>
+        </speaker>
+      </speakers>
+      <track>Academico</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Conhecendo o SQL Server Express - A edição gratuita do SQL Server</title>
+      <description>Nesta sessão você conhecerá  o SQL Server Express o banco de dados gratuito que fornece um repositório de dados confiável e avançado para sites e aplicativos leves lhe possibilitando criar bases de dados de até 10 Gb</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19257</importID>
+      <speakers>
+        <speaker>
+          <id>19257</id>
+          <name>Luan Moreno Medeiros Maciel</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>In-Memory OLAP a.k.a ColumnStore Index</title>
+      <description>Nessa sessão você irá entender o recurso "In-Memory" para ambientes OLAP no SQL Server, como as informações são armazenadas em colunas, como o recurso se beneficia de paralelismo, compressão, eliminação de segmento, batch mode dentre outros. No SQL Server 2012 o ColumnStore Index é um recurso somente "Read-Only" porém no SQL Sever 2014 ele se torna leitura e escrita além de possuir mais alguma melhorias que iremos entender nesse sessão.</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19258</importID>
+      <speakers>
+        <speaker>
+          <id>19258</id>
+          <name>Luan Moreno Medeiros Maciel</name>
+        </speaker>
+      </speakers>
+      <track>Desenvolvimento</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>In-Memory OLTP a.k.a Hekaton</title>
+      <description>Nessa sessão você irá aprender o novo recurso "In-Memory" do SQL Server 2014 para ambientes OLTP, como os registros são armazenados em memória, como eles são acessados e gerenciados por esse novo mecanismo e irá entender também quais são os melhores cenários para sua utilização além das melhores práticas para aplicação</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>23419</importID>
+      <speakers>
+        <speaker>
+          <id>23419</id>
+          <name>Rogério Moraes de Carvalho</name>
+        </speaker>
+      </speakers>
+      <track>Academico</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Entenda LINQ (Language-Integrated Query) e sua sintaxe na linguagem C#</title>
+      <description>A Language-Integrated Query (LINQ) foi uma inovação introduzida no .NET Framework 3.5 que fornece uma abstração para o mundo da programação orientada a objetos similar àquela fornecida pela Structure Query Language (SQL) no mundo dos bancos de dados relacionais. É necessário somente aprender LINQ para consultar diferentes fontes de dados, como: bancos de dados SQL, documentos XML, coleções de objetos, etc.</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21488</importID>
+      <speakers>
+        <speaker>
+          <id>21488</id>
+          <name>Diego Nogare</name>
+        </speaker>
+      </speakers>
+      <track>Academico</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Primeiros passos com BI</title>
+      <description>Junte-se ao MVP em SQL Server Diego Nogare nesta sessão que vai falar sobre o que é e como iniciar os estudos/trabalhos dentro da area de Business Intelligence. Venha conhecer as ferramentas do SQL Server como o Integration Services, Analysis Services e o Reporting Services, e entender onde aplicar cada uma delas no seu dia-a-dia.</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19308</importID>
+      <speakers>
+        <speaker>
+          <id>19308</id>
+          <name>Luciano Moreira</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Do MTA ao MCM*, carreira SQL Server e DBA multiplataforma</title>
+      <description>Nesta sessão vamos conversar e, provavelmente, discutir um pouco sobre o mercado de SQL Server. Além de discutir quais são as atividades relacionadas ao SQL Server, vamos entender quais são as vagas que andam em destaque, o valor e caminho da certificação e a realidade de se tornar um DBA multiplataforma.</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21451</importID>
+      <speakers>
+        <speaker>
+          <id>21451</id>
+          <name>Nilton Pinheiro</name>
+        </speaker>
+      </speakers>
+      <track>Administração</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Troubleshooting for Microsoft SQL Server 2005/2008/2012</title>
+      <description>Sabemos que os problemas de performance sempre acorrem, mas então Como realizar o troubleshotting de um problema de performance em um servidor SQL? Que métodos utilizar e por onde começar? Que ferramentas e técnicas você pode utilizar para investigação, identificação e correção? Nesta sessão Nilton Pinheiro mostrará como você pode atuar no troubleshooting de um ambiente SQL.</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13928</importID>
+      <speakers>
+        <speaker>
+          <id>13928</id>
+          <name>Erika Madeira</name>
+        </speaker>
+      </speakers>
+      <track>Academico</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server 2014, fique por dentro!</title>
+      <description>A cada nova versão do produto, novidades aparecem elevando ainda mais a capacidade da nossa plataforma de banco de dados favorita! Entenda os investimentos da Microsoft e saiba o que esperar do lançamento do SQL Server 2014 com tecnologia in-memory, alta disponibilidade e maior suporte a cenários de nuvem híbrida. </description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>23418</importID>
+      <speakers>
+        <speaker>
+          <id>23418</id>
+          <name>Rogério Moraes de Carvalho</name>
+        </speaker>
+      </speakers>
+      <track>Desenvolvimento</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Mapeamento Objeto-Relacional com Entity Framework </title>
+      <description>O Entity Framework é a tecnologia de acesso a dados recomendada pela Microsoft para o desenvolvimento de novas aplicações na plataforma .NET. É uma tecnologia de mapeamento objeto-relacional que reduz as dificuldades da programação orientada a objetos com persistência de dados em bancos de dados relacionais. Atualmente, o Entity Framework está disponível na versão 5. Porém, a versão 6 está próxima da versão final (RTM), que será lançada juntamente com a versão final (RTM) do Visual Studio 2013 e com o Windows 8.1 GA, em 18 de outubro de 2013. Veja as abordagens de modelagem suportadas pelo Entity Framework durante a fase de desenvolvimento: Code First, Model First e Database First.</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19124</importID>
+      <speakers>
+        <speaker>
+          <id>19124</id>
+          <name>Leandro Ribeiro</name>
+        </speaker>
+      </speakers>
+      <track>Administração</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Usando o Hyper-v 2012 para virtualização de SGBDs</title>
+      <description>Nesta sessão, será abordado as principais novidades do Hyper-v 2012 e quais as melhores práticas para um projeto de virtualização do SQL Server.</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21489</importID>
+      <speakers>
+        <speaker>
+          <id>21489</id>
+          <name>Diego Nogare</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Por onde começar no BigData??</title>
+      <description>Já se perguntou se sua empresa tem dados suficientes para olhar esta tendência chamada BigData? E por onde começar, já parou pra pensar?? Será que temos maturidade suficiente para entrar neste mundo??? Junte-se ao MVP em SQL Server, Diego Nogare, e juntos irão descobrir algumas respostas para esse universo novo chamado BigData.</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19309</importID>
+      <speakers>
+        <speaker>
+          <id>19309</id>
+          <name>Luciano Moreira</name>
+        </speaker>
+      </speakers>
+      <track>Administração</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Windows Server Failover Cluster Fundamentals</title>
+      <description>O WSFC (Windows Server Failover Cluster), é um pré-requisito para a configuração de alta disponibilidade com o AlwayOn Availability Groups. Nesta sessão, discutiremos os fundamentos, principais componentes e o papel de cada um no WSFC em nível de Sistema Operacional. Faremos a configuração de um WSFC em "real-time", deixando-o pronto para receber o AlwayOn Availability Group.</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19307</importID>
+      <speakers>
+        <speaker>
+          <id>19307</id>
+          <name>Luciano Moreira</name>
+        </speaker>
+      </speakers>
+      <track>Administração</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Cenários de corrupção no SQL Server</title>
+      <description>Corrupção de dados é sempre divertida... Quando estamos em laboratório! E no momento que aparece em seu ambiente de produção um problema de corrupção, você sabe o que fazer? Entra em pânico e executa um DBCC CHECKDB com a opção REPAIR_ALLOW_DATA_LOSS? Nesta sessão vamos explorar alguns cenários de corrupção e fazer o tratamento adequando do problema, mostrando os passos indicados para colocar seu ambiente operacional e com a menor perda de dados possível, e claro, destacando o que deve ser evitado.</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14708</importID>
+      <speakers>
+        <speaker>
+          <id>14708</id>
+          <name>Gustavo Maia Aguiar</name>
+        </speaker>
+      </speakers>
+      <track>Desenvolvimento</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Concorrência Otimista, Read Committed Snapshot (RCSI) e Snapshot Isolation Level</title>
+      <description>As implementações de modelo de concorrência otimista no SQL Server estão disponíveis desde o SQL Server 2005 e ainda são pouco conhecidas. Aprenda a utilizar com esse modelo de concorrência e entenda suas vantagens, desvantagens bem como alguns efeitos colaterais que precisam ser tratados para que sua aplicação possa tirar proveito desses recursos de concorrência.</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28324</importID>
+      <speakers>
+        <speaker>
+          <id>28324</id>
+          <name>Thiago Zavaschi</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Analysis Services Internals</title>
+      <description>Se você quer conhecer mais sobre o Analysis Services (SSAS) internamente, arquitetura e como ele lida com memória, arquivos e threads essa é a sua sessão! </description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>23407</importID>
+      <speakers>
+        <speaker>
+          <id>23407</id>
+          <name>Rodrigo Ribeiro Gomes</name>
+        </speaker>
+      </speakers>
+      <track>Academico</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Índices: Introdução</title>
+      <description>Esta sessão tem por objetivo demonstrar como os índices ajudam em consultas e qual é a sua estutura. O aluno vai poder entender como uma query sai de minutos para segundos devido a criação de um índice, e também vai ter uma noção de quando um índice não ajuda. O objetivo desta palestra é apenas apresentar a estrutura do mesmo.</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28323</importID>
+      <speakers>
+        <speaker>
+          <id>28323</id>
+          <name>Thiago Zavaschi</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Self-service BI de ponta a ponta!</title>
+      <description>Nesta sessão descubra o poder do self-service Business Intelligence e como construir uma solução de ponta-a-ponta!</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14709</importID>
+      <speakers>
+        <speaker>
+          <id>14709</id>
+          <name>Gustavo Maia Aguiar</name>
+        </speaker>
+      </speakers>
+      <track>Desenvolvimento</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Dicas e Recomendações para o Exame 70-461 (Querying Microsoft SQL Server 2012)</title>
+      <description>O exame 70-461 é um dos mais populares relacionados às certificações de SQL Server 2012 e pré-requisito para obter as credenciais MCSA e MCSE na modalidade Database Plataform. Aprenda algumas dicas para aumentar suas chances e revise seus conhecimentos para essa prova.</description>
+      <startTime>9/28/2013 12:00:00 AM</startTime>
+      <endTime>9/28/2013 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

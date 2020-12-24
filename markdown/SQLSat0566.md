@@ -1,0 +1,21 @@
+# SQLSaturday #566 - Parma 2016
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:45:00|Alessandro Rezzani|CLOUD/BI|[Using R in the Azure ML platform](53923.md)
+09:45:00|Pasquale Ceglie|DEV|[SQL Server 2016 Temporal Database Support - Focus on Retention and Performance](54068.md)
+09:45:00|Gianluca Hotz|DBA|[SQL Server Extended Events: monitoring  tuning (IT)](54327.md)
+11:00:00|Roberto Grandi|DEV|[Crate your own Data Pipeline with Spark on HDInsight](53526.md)
+11:00:00|Marco Parenzan|CLOUD/BI|[State of Azure SQL Database](54047.md)
+11:00:00|Saverio Lorenzini|DBA|[Troubleshooting delle prestazioni delle query con SQL Server 2016 Query Store](54061.md)
+12:15:00|Sergio Govoni|DBA|[Common non-configured options on a Database Server](50894.md)
+12:15:00|Salvatore Pellitteri|CLOUD/BI|[Upload data on Azure SQL Database with Azure Service Bus amp; Azure Logic Apps](53630.md)
+12:15:00|Erland Sommarskog|DEV|[Giving Permissions through Stored Procedures](54284.md)
+14:00:00|Emanuele Zanchettin|DBA|[Elastic Database, going to the infinity *](50863.md)
+14:00:00|Luca Ferrari|DEV|[T-SQL Error Handling - Perchè gestire gli errori è importante](54030.md)
+14:00:00|Bent Pedersen|CLOUD/BI|[Continuous integration for BI](54325.md)
+15:15:00|Marco Pozzan|CLOUD/BI|[Power BI: basic data modelling with DAX](50904.md)
+15:15:00|Gianluca Sartori|DEV|[SQL Server Infernals: Worst Practices in Action](53632.md)
+15:15:00|Gilberto Zampatti|DBA|[Configurare Always On Availability Group in Azure](53747.md)
+16:30:00|Andrea Martorana Tusa|DEV|[APPLY operator in action](52623.md)
+16:30:00|Danilo Dominici|DBA|[SQL Server tuning in pillole](53988.md)
+16:30:00|Francesco De Chirico|CLOUD/BI|[Cortana Intelligence Suite overview](54328.md)

@@ -1,0 +1,532 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #805 - Bucuresti 2018</name>
+    <startDate>10/6/2018 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>(GMT+02:00) Harare, Pretoria</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatBucuresti</twitterHashtag>
+    <venue>
+      <name>Microsoft Romania</name>
+      <street>Piața Presei Libere 3-5</street>
+      <city>Bucuresti</city>
+      <state>Bucureşti, Romania</state>
+      <zipcode>013702</zipcode>
+      <longitude>26.07142473308</longitude>
+      <latitude>44.4771748524044</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/972/EventSponsor_14605.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2306</importID>
+      <name>Microsoft Romania</name>
+      <label>Blog Sponsor</label>
+      <url>https://www.microsoft.com/ro-ro</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/915/EventSponsor_14275.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>76</importID>
+      <name>Apex SQL</name>
+      <label>Blog Sponsor</label>
+      <url>http://www.apexsql.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/881/EventSponsor_13896.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>85708</importID>
+      <name>Ozana Buse</name>
+      <label>
+      </label>
+      <description>I am Support Engineer SQL Server Core, at Microsoft, and at the same time a student. I am passionate about learning new things and teaching others.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84910</importID>
+      <name>Marcelo Fernandes</name>
+      <label>
+      </label>
+      <description>Marcelo Fernandes is SQL Server MVP and has 12+ years experience with databases, specialized in High Availability, critical missions and very large databases. He holds the MCP / MCDBA / MCSA / MCTS / MCITP and MCT certifications, he lives and works in Berlin for an American e-commerce company that sells home goods. He share their knowledge through webcasts, presentations and articles on Microsoft technologies and can be cantacted by email fernandes_dba@hotmail.com or twitter @ marcelodba</description>
+      <twitter>marcelodba</twitter>
+      <linkedin>https://br.linkedin.com/in/marcelodba</linkedin>
+      <ContactURL>http://marcelodba.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=marcelodba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85231</importID>
+      <name>Janusz Rokicki</name>
+      <label>
+      </label>
+      <description>Microsoft Data Platform Expert and certified Azure Solutions Architect with over 12 years’ experience working in the City of London in the Financial Services Industry (retail and investment banking, multi-asset class trading systems). He has passion for secure, high-performance, maintainable data-driven applications that can be deployed with confidence on-premises and in-cloud. With educational background in intelligent sensor networks and machine learning he is always in search of automation and optimisation opportunities.
+
+Has presented at SqlBits, PASS Summit, SqlDay and multiple Sql Saturday events (Tel-Aviv, Kiev, Paris, Tallinn, Bonn, Bratislava, Goteborg, Kharkiv, Bucharest, Sofia, Ljubljana) and user groups.</description>
+      <twitter>DataSic</twitter>
+      <linkedin>https://www.linkedin.com/in/jrokicki/</linkedin>
+      <ContactURL>https://www.datasic.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DataSic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84157</importID>
+      <name>Peter Willmot</name>
+      <label>
+      </label>
+      <description>Peter has been writing software (and teaching folk how to write software) for over 30 years. He has worked with SQL Server as an architect and developer for more than 20 years (since SQL 4.2) and has also worked extensively with the .Net and various other development platforms.
+
+Peter is a past MSDN Regional Director and was also an MVP (SQL Server and Architecture) for many years. He is a passionate and regular speaker and various industry events around the world.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84672</importID>
+      <name>Liviu Ieran</name>
+      <label>
+      </label>
+      <description>More than 9 years of SQL Server experience working for Microsoft currently as a Support Escalation Engineer. 
+My main area of expertise is SQL Server Performance where I helped optimize numerous query's and environments.</description>
+      <twitter>@Liviu_Ieran</twitter>
+      <linkedin>https://www.linkedin.com/in/IeranLiviu</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Liviu_Ieran</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84140</importID>
+      <name>Andrey Nikolov</name>
+      <label>
+      </label>
+      <description>Andrey is MCSA for SQL Server 2012/2014 with almost 20 years of experience in designing and implementing applications for Windows. He is working with various database platforms, but SQL Server is his favorite. He is also a leader of Plovdiv Power BI User Group and active member of local .NET, Power BI and SQL Server communities.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84621</importID>
+      <name>Dennes Torres</name>
+      <label>
+      </label>
+      <description>Dennes Torres is a Data Platform MVP with more than 25 years of experience in the IT area. He improves Data Platform Architectures and turns data into knowledge. As a Brazilian living in Malta, Dennes works as a software developer and leads the Malta MDP User Group. Having the MCSE Data Platform, Business Intelligence, and Microsoft Certified Trainer (MCT) certifications, Dennes has been in love with database servers since he was  introduced to SQL Server 6.5, more years ago than he would like to admit.</description>
+      <twitter>Dennes</twitter>
+      <linkedin>https://www.linkedin.com/in/dennestorres/</linkedin>
+      <ContactURL>https://www.red-gate.com/simple-talk/author/dennes-torres/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Dennes</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85048</importID>
+      <name>Alexandru Dinica</name>
+      <label>
+      </label>
+      <description>I am passionate about the latest trends in the technology world and in my free time I like to travel a lot, meet new people and form long-lasting bonds.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85266</importID>
+      <name>Cristian Lefter</name>
+      <label>
+      </label>
+      <description>Cristian Lefter is Principal of Esential Training and one of the SQL Server MVPs. His primary competence is training. He is also a consultant, author, speaker and community leader. 
+As his main expertise is Microsoft SQL Server, which resulted in founding an official PASS chapter, writing books and articles, contributing at the development of Microsoft Official Courseware, authoring certification exams, speaking at technical events and working as a Subject Matter Expert in various projects.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/cristianlefter</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84159</importID>
+      <name>Peter Willmot</name>
+      <label>
+      </label>
+      <description>Peter has been writing software (and teaching folk how to write software) for over 30 years. He has worked with SQL Server as an architect and developer for more than 20 years (since SQL 4.2) and has also worked extensively with the .Net and various other development platforms.
+
+Peter is a past MSDN Regional Director and was also an MVP (SQL Server and Architecture) for many years. He is a passionate and regular speaker and various industry events around the world.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84490</importID>
+      <name>Sorin Peste</name>
+      <label>
+      </label>
+      <description>I am a Technical Evangelist @ Microsoft and passionate about all things software development.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84909</importID>
+      <name>Marcelo Fernandes</name>
+      <label>
+      </label>
+      <description>Marcelo Fernandes is SQL Server MVP and has 12+ years experience with databases, specialized in High Availability, critical missions and very large databases. He holds the MCP / MCDBA / MCSA / MCTS / MCITP and MCT certifications, he lives and works in Berlin for an American e-commerce company that sells home goods. He share their knowledge through webcasts, presentations and articles on Microsoft technologies and can be cantacted by email fernandes_dba@hotmail.com or twitter @ marcelodba</description>
+      <twitter>marcelodba</twitter>
+      <linkedin>https://br.linkedin.com/in/marcelodba</linkedin>
+      <ContactURL>http://marcelodba.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=marcelodba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85223</importID>
+      <name>Alexandra Ciortea</name>
+      <label>
+      </label>
+      <description>2005-2009  Computer Science - Polytechnic University of Bucharest 
+2009-2011 - Master -IT Management - Polytechnic University of Bucharest 
+
+I started working for Microsoft in 2009 as a Support Engineer for Project Server and SQL Server for EMEA.
+In 2012 I changed to a  Premier Field Engineer position working onsite for SQL Server and Project Server</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85111</importID>
+      <name>Catalin Gheorghiu</name>
+      <label>
+      </label>
+      <description>Catalin Gheorghiu is a solution architect from Romania. He has more than 15 years of experience in developing solutions, especially on Microsoft technologies in very demanding environments. Is contributing articles and blogs to several user groups (MrSmersh), lecturing all over Romania and abroad, is also RONUA Timisoara (PASS Chapter) user group leader. Since 2011, every year he was awarded the Microsoft MVP Award.</description>
+      <twitter>MrSmersh</twitter>
+      <linkedin>?https://ro.linkedin.com/in/catalingheorghiu?</linkedin>
+      <ContactURL>http://ronua.ro/author/catalin/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MrSmersh</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>85231</importID>
+      <speakers>
+        <speaker>
+          <id>85231</id>
+          <name>Janusz Rokicki</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Cinema</name>
+      </location>
+      <title>The Road to The Autonomous Databases</title>
+      <description>Autonomous means capable of existing independently. Think maintenance free, self-healing, auto-tuning databases able to detect and automatically mitigate security risks. Sounds like impossible dream, but here is the best part - Azure is gradually making that next level of automation possible. Cloud economy of scale combined with unique features of Azure Sql PaaS resources transform and enhance the way we collect, store and process data. And that also affects our professional lives. Find out where we are on The Road to The Autonomous Databases, what are main building blocks, what kind of obstacles we still have to overcome and how to turn these challenges into opportunities.</description>
+      <startTime>10/6/2018 10:45:00 AM</startTime>
+      <endTime>10/6/2018 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>84490</importID>
+      <speakers>
+        <speaker>
+          <id>84490</id>
+          <name>Sorin Peste</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Downtown1</name>
+      </location>
+      <title>Azure SQL Database Managed Instance - Finally, SQL Server with None of the Headaches</title>
+      <description>Ever since Azure SQL Database was released way back in 2010, if you wanted to get SQL Server as cloud managed database service, you had to accept some compromises. SQL Server's cloud-born cousin came with missing features and different ways of doing things, some of them better, others just different, and still others came with specific caveats. But now, with the introduction of Managed Instance, we might have finally found our database holy grail: full-on SQL Server, as a service, with none of the management headaches. Could it really be that simple? Come to this session and find out.</description>
+      <startTime>10/6/2018 9:30:00 AM</startTime>
+      <endTime>10/6/2018 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>85708</importID>
+      <speakers>
+        <speaker>
+          <id>85708</id>
+          <name>Ozana Buse</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Downtown2</name>
+      </location>
+      <title>S (tudent) QL - SQL Server guide for students</title>
+      <description>As a student, how can SQL Server help with university projects or personal tech hobbies? 
+In the session we will talk about how SQL Server can help you learn, integrate it in your university projects, and many more.</description>
+      <startTime>10/6/2018 3:15:00 PM</startTime>
+      <endTime>10/6/2018 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84910</importID>
+      <speakers>
+        <speaker>
+          <id>84910</id>
+          <name>Marcelo Fernandes</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Downtown2</name>
+      </location>
+      <title>Thinking out of the Box! - SMB 3.0</title>
+      <description>In this session the SMB 3.0 protocol will be presented and how we can take advantages and increase the availability and performance of the environment by investing less in infrastructure.</description>
+      <startTime>10/6/2018 12:00:00 PM</startTime>
+      <endTime>10/6/2018 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84672</importID>
+      <speakers>
+        <speaker>
+          <id>84672</id>
+          <name>Liviu Ieran</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Cinema</name>
+      </location>
+      <title>SQL Server - Performance Basics</title>
+      <description>Discover and learn how to approach a performance problem.
+What information should I collect?
+What data should I gather?
+How to best approach the data analysis.
+Tips and tricks.</description>
+      <startTime>10/6/2018 9:30:00 AM</startTime>
+      <endTime>10/6/2018 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>85266</importID>
+      <speakers>
+        <speaker>
+          <id>85266</id>
+          <name>Cristian Lefter</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Downtown1</name>
+      </location>
+      <title>Data Storytelling</title>
+      <description>Behind the data, behind the numbers, there is a hidden story and sometimes more. Our job is to discover the story and make it accessible to others.</description>
+      <startTime>10/6/2018 3:15:00 PM</startTime>
+      <endTime>10/6/2018 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84140</importID>
+      <speakers>
+        <speaker>
+          <id>84140</id>
+          <name>Andrey Nikolov</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Cinema</name>
+      </location>
+      <title>The hidden power of Power BI or what we can do using Power BI REST API</title>
+      <description>Power BI is a very powerful tool. But behind the shiny UI, Power BI REST API gives you even more features to create better solutions! In this session we will explore what you can do using Power BI REST API and what you can’t (at least not yet!). I will demonstrate how your program can authenticate itself (both in interactive and non-interactive way), how it can add new rows to a dataset or refresh it programmatically, and how to share one dataset between multiple reports.</description>
+      <startTime>10/6/2018 2:00:00 PM</startTime>
+      <endTime>10/6/2018 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85048</importID>
+      <speakers>
+        <speaker>
+          <id>85048</id>
+          <name>Alexandru Dinica</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Downtown1</name>
+      </location>
+      <title>Upgrading to a newer SQL Server version: Tip, Tricks, Issues</title>
+      <description>Considering a SQL Server upgrade or migration? You’ll have to eventually.
+In the session, we will try to present you some best practices regarding the SQL Server version upgrade and the roadblocks that you might hit along the road.</description>
+      <startTime>10/6/2018 2:00:00 PM</startTime>
+      <endTime>10/6/2018 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84157</importID>
+      <speakers>
+        <speaker>
+          <id>84157</id>
+          <name>Peter Willmot</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Downtown1</name>
+      </location>
+      <title>Building low-cost back-end app services with SQL Express and .Net Core on Linux</title>
+      <description>Learn how to leverage the latest SQL and .Net Core offerings to develop and deploy low-cost (including potentially license free), effective back-end application services on contemporary Linux platforms.
+
+This session will provide an overview of challenges and opportunities, notably including:
+- migrating existing SQL databases to Linux platforms
+- working with Entity Framework (EF) Core
+- simplified webAPI development on .Net Core with EF Core and SQL</description>
+      <startTime>10/6/2018 10:45:00 AM</startTime>
+      <endTime>10/6/2018 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>84909</importID>
+      <speakers>
+        <speaker>
+          <id>84909</id>
+          <name>Marcelo Fernandes</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Downtown2</name>
+      </location>
+      <title>How to build solution for High Availability/Disaster Recovery</title>
+      <description>How does your SQL Server environment meet the RPO and RTO service levels?
+In this session, we will cover all aspects of HA / DR. We will cover all technology options and compare the benefits between them. We will also talk about processes to maintain your RPO and RTO level.</description>
+      <startTime>10/6/2018 10:45:00 AM</startTime>
+      <endTime>10/6/2018 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>84159</importID>
+      <speakers>
+        <speaker>
+          <id>84159</id>
+          <name>Peter Willmot</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Downtown2</name>
+      </location>
+      <title>Working with SQL Managed Data Types</title>
+      <description>The Geospatial and Hierarchical managed data types were introduced with SQL 2005 but are sadly seldom used (or understood) by most developers more than a decade later. In this session Peter Willmot will take you on a guided tour of these data types and help you to understand the pros and cons of their inclusion in your database/application design.</description>
+      <startTime>10/6/2018 9:30:00 AM</startTime>
+      <endTime>10/6/2018 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>85111</importID>
+      <speakers>
+        <speaker>
+          <id>85111</id>
+          <name>Catalin Gheorghiu</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Downtown1</name>
+      </location>
+      <title>“SQL-like” or query languages in Azure IoT</title>
+      <description>If you are reading Azure IoT documentation you will stumble a lot on the “SQL-like query language” or “SQL-like language” syntagms.
+In this presentation we will explore Azure IoT places where queries are used and see how to use them. And in the process to find out more about this “SQL-like” languages and how being a DB developer cam make you a IoT hero.
+We will concentrate on the scenarios with the greatest impact, where a little SQL can solve you a lot of hassle.
+So, we will leave no SQL query unturned  in Azure IoT Hub, Stream Analytics, Power Bi to name a few.</description>
+      <startTime>10/6/2018 12:00:00 PM</startTime>
+      <endTime>10/6/2018 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84621</importID>
+      <speakers>
+        <speaker>
+          <id>84621</id>
+          <name>Dennes Torres</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Cinema</name>
+      </location>
+      <title>PowerBI: From Zero to Hero</title>
+      <description>Starting from the very beginning, in this session we will cross together the main features Power BI has to offer, starting with the powerful self-service ETL using M language when needed,  modeling our tables and finally using powerful features to create a great data visualization, allowing you to better understand all the power and flexibility of this tool and how it will fit into your solution</description>
+      <startTime>10/6/2018 12:00:00 PM</startTime>
+      <endTime>10/6/2018 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85223</importID>
+      <speakers>
+        <speaker>
+          <id>85223</id>
+          <name>Alexandra Ciortea</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Downtown2</name>
+      </location>
+      <title>SQL vNext: What’s next?</title>
+      <description>We will discuss the features under devopment in the upcoming release of SQL Server</description>
+      <startTime>10/6/2018 2:00:00 PM</startTime>
+      <endTime>10/6/2018 3:00:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

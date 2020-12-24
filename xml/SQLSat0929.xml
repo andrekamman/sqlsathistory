@@ -1,0 +1,1199 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #929 - Baton Rouge - BI Edition 2020</name>
+    <startDate>3/7/2020 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT-06:00) Saskatchewan</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatBatonRougeBI</twitterHashtag>
+    <venue>
+      <name>LSU Patrick Taylor Hall - old CEBA</name>
+      <street>2228 Patrick Taylor Hall</street>
+      <city>Baton Rouge</city>
+      <state>Louisiana</state>
+      <zipcode>70803</zipcode>
+      <longitude>-91.1796459</longitude>
+      <latitude>30.407707</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>84</importID>
+      <name>Pure Storage</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.purestorage.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/929/EventSponsor_14468.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1075</importID>
+      <name>Sparkhound</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.sparkhound.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/929/EventSponsor_14466.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2506</importID>
+      <name>Alliance Safety Council</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.alliancesafetycouncil.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/929/EventSponsor_14498.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2642</importID>
+      <name>Icimo</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.icimo.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/929/EventSponsor_14576.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2605</importID>
+      <name>LSU College of Engineering - Patrick Taylor Hall</name>
+      <label>Facility Partner</label>
+      <url>https://www.lsu.edu/eng/about/pft-hall-overview.php</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/929/EventSponsor_14357.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/929/EventSponsor_14155.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2663</importID>
+      <name>eQHealth Solutions</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.eqhs.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/929/EventSponsor_14712.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>957</importID>
+      <name>Postlethwaite  Netterville</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.pncpa.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/929/EventSponsor_14484.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2619</importID>
+      <name>Marquee Insights</name>
+      <label>Bronze Sponsor</label>
+      <url>https://marqueeinsights.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/929/EventSponsor_14450.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2641</importID>
+      <name>ZAP</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.zapbi.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/929/EventSponsor_14705.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>995</importID>
+      <name>RDX</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.navisite.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/929/EventSponsor_14601.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2646</importID>
+      <name>L'Auberge Casino Hotel Baton Rouge</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.lbatonrouge.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/929/EventSponsor_14591.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2596</importID>
+      <name>Fox Pest Control</name>
+      <label>Blog Sponsor</label>
+      <url>https://foxpest-batonrouge.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/929/EventSponsor_14291.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>99756</importID>
+      <name>Jamey Johnston</name>
+      <label>
+      </label>
+      <description>Jamey Johnston is a Senior Data Scientist/Engineer for a large independent OG company. For over 25 years, he has worked for Fortune 500 companies architecting successful platforms in the cloud, on the edge, and on-premises for BI reporting, statistical analysis, ML, and AI. Lately, he spends his time in Azure, Python, R, Power BI, MS SQL, and SAS JMP. He holds a BS in Spatial Analysis from LSU and a Masters of Science in Analytics from Texas AM. He is a professor at the Mays Business School at Texas AM in the MS Analytics program. He is active in his PASS Local Group in Houston, co-leader of the local Power BI users group and data analytics group. He regularly speaks and volunteers at PASS events. He is also a Microsoft Data Platform MVP.</description>
+      <twitter>STATCowboy</twitter>
+      <linkedin>http://www.linkedin.com/in/jameyj</linkedin>
+      <ContactURL>http://STATCowboy.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=STATCowboy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>103770</importID>
+      <name>Thomas LeBlanc</name>
+      <label>
+      </label>
+      <description>Thomas LeBlanc (Microsoft Data Platform MVP) is a Data Warehouse Architect in Baton Rouge, and uses his 30+ years in IT to develop OLTP systems with normalized databases for high-performing T-SQL and dimensional data marts. Development is done in SSIS, SSAS, SSRS, Power BI, and Excel. As a PASS volunteer, he is past chair of Excel BI and Data Arch VCs and is active in the Baton Rouge Analytics and SQL Server User groups, as well as SQLSaturday in Baton Rouge.
+You can find his blog at TheSmilingDBA.BlogSpot.com and website at Thomas-LeBlanc.com</description>
+      <twitter>TheSmilingDBA</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=29648544amp;trk=hb_tab_pro_top</linkedin>
+      <ContactURL>http://Thomas-LeBlanc.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=TheSmilingDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99489</importID>
+      <name>Kevin Feasel</name>
+      <label>
+      </label>
+      <description>Kevin Feasel is a Microsoft Data Platform MVP and CTO at Envizage, where he specializes in data analytics with T-SQL and R, forcing Spark clusters to do his bidding, fighting with Kafka, and pulling rabbits out of hats on demand. He is the lead contributor to Curated SQL (https://curatedsql.com), president of the Triangle Area SQL Server Users Group (https://www.meetup.com/tripass), and author of PolyBase Revealed (https://www.apress.com/us/book/9781484254608). A resident of Durham, North Carolina, he can be found cycling the trails along the triangle whenever the weather's nice enough.</description>
+      <twitter>feaselkl</twitter>
+      <linkedin>https://www.linkedin.com/pub/kevin-feasel/7/716/504</linkedin>
+      <ContactURL>http://www.catallaxyservices.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=feaselkl</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98109</importID>
+      <name>William Assaf</name>
+      <label>
+      </label>
+      <description>William Assaf is a senior content developer on the SQLDocs team at Microsoft. Formerly a Data Platform MVP and a consultant for SQL Server, and before that a .NET developer, William currently works with Microsoft product groups on content related to the SQL database platform, specifically for SQL performance, Big Data Clusters, and Azure SQL DB. As a consultant for 13 years he worked with clients on SQL Server and Azure SQL platform optimization, management, disaster recovery and high availability, and led a crack multi-city team of consulting SQL DBA's. William has written for Microsoft SQL certification exams since 2011 and was the team lead author of the 2017 and 2019 editions of "SQL Server Administration Inside Out" by Microsoft Press. William is a past lead of the annual SQLSaturday Baton Rouge Planning Committee and supports the Baton Rouge User Groups.</description>
+      <twitter>william_a_dba</twitter>
+      <linkedin>https://www.linkedin.com/in/williamdassaf/</linkedin>
+      <ContactURL>http://www.sqltact.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=william_a_dba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>101346</importID>
+      <name>Bill Anton</name>
+      <label>
+      </label>
+      <description>Bill Anton is an expert in Analysis Services and an experienced data warehouse practitioner. In 2013, he founded Opifex Solutions, a consulting firm with deep expertise in enterprise-scale architecture, design, and performance optimization of Analysis Services and Power BI solutions. He loves eating and spends most of his free time convincing his beloved wife to adopt more golden retrievers.</description>
+      <twitter>https://twitter.com/SQLbyoBI</twitter>
+      <linkedin>http://www.linkedin.com/pub/bill-anton/12/526/4bb</linkedin>
+      <ContactURL>http://byobi.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/SQLbyoBI</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99753</importID>
+      <name>Jamey Johnston</name>
+      <label>
+      </label>
+      <description>Jamey Johnston is a Senior Data Scientist/Engineer for a large independent OG company. For over 25 years, he has worked for Fortune 500 companies architecting successful platforms in the cloud, on the edge, and on-premises for BI reporting, statistical analysis, ML, and AI. Lately, he spends his time in Azure, Python, R, Power BI, MS SQL, and SAS JMP. He holds a BS in Spatial Analysis from LSU and a Masters of Science in Analytics from Texas AM. He is a professor at the Mays Business School at Texas AM in the MS Analytics program. He is active in his PASS Local Group in Houston, co-leader of the local Power BI users group and data analytics group. He regularly speaks and volunteers at PASS events. He is also a Microsoft Data Platform MVP.</description>
+      <twitter>STATCowboy</twitter>
+      <linkedin>http://www.linkedin.com/in/jameyj</linkedin>
+      <ContactURL>http://STATCowboy.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=STATCowboy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99486</importID>
+      <name>Kevin Feasel</name>
+      <label>
+      </label>
+      <description>Kevin Feasel is a Microsoft Data Platform MVP and CTO at Envizage, where he specializes in data analytics with T-SQL and R, forcing Spark clusters to do his bidding, fighting with Kafka, and pulling rabbits out of hats on demand. He is the lead contributor to Curated SQL (https://curatedsql.com), president of the Triangle Area SQL Server Users Group (https://www.meetup.com/tripass), and author of PolyBase Revealed (https://www.apress.com/us/book/9781484254608). A resident of Durham, North Carolina, he can be found cycling the trails along the triangle whenever the weather's nice enough.</description>
+      <twitter>feaselkl</twitter>
+      <linkedin>https://www.linkedin.com/pub/kevin-feasel/7/716/504</linkedin>
+      <ContactURL>http://www.catallaxyservices.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=feaselkl</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98049</importID>
+      <name>Adrian Owen</name>
+      <label>
+      </label>
+      <description>Adrian leads the 38-person Advancement Services team at the LSU Foundation which includes the departments of Analytics, Donor Relations, Information Services, Records  Data Management, and Research  Prospect Management. She began her career as a working artist in visual media. This creative background shaped her approach to data and systems. Adrian is an active volunteer in her profession and the community. Her current leadership roles include serving as the incoming editor for Connections Magazine and on Executive Management for the Junior League of Baton Rouge. She is a former world ranked World Ranked World of Warcraft player and remains an active gamer.</description>
+      <twitter>adrianannette</twitter>
+      <linkedin>https://linkedin.com/in/adrianannette</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=adrianannette</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99851</importID>
+      <name>Chris Hyde</name>
+      <label>
+      </label>
+      <description>Chris Hyde is a Microsoft Data Platform MVP and Microsoft Certified Trainer based in Albuquerque, New Mexico. He works as an independent SQL Server BI and DBA consultant, and is the leader of the Albuquerque PASS local user group. He is also part of the Friends of Redgate program and was a member of the Idera ACE class of 2018. He loves loud music and cricket, but usually not at the same time.</description>
+      <twitter>ChrisHyde325</twitter>
+      <linkedin>https://www.linkedin.com/in/chris-hyde-3803706</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ChrisHyde325</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>100318</importID>
+      <name>Ed Pearson</name>
+      <label>
+      </label>
+      <description>Expert in data driven analytics to effect operational change in enterprises of all sizes utilizing a variety of data architectures and working with companies of all size to achieve data driven culture.
+
+Long career in IT and data with last 12+ years focused on analytics and reporting on data warehouses and big data stores. 
+
+Worked with multi-terrabyte architectures engineering highly performant, real time ETL/ELT workflows. Built largely in cloud enviroments, primarily Azure, and using SQL Server. Experienced with BI for reporting, including PowerBI and Tableau.</description>
+      <twitter>ecpdata</twitter>
+      <linkedin>https://www.linkedin.com/in/ecpearson5/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ecpdata</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>104136</importID>
+      <name>Tim Costello</name>
+      <label>
+      </label>
+      <description>Tim Costello is an MCITP, MCTS specializing in etl and data analytics for Interworks Inc. Tim is an international speaker that is always looking for opportunities to share his passion for SQL Server, Tableau and data visualization. Tim is active in the SQL community and leads a data visualization focused user group in the Dallas area.</description>
+      <twitter>timcost</twitter>
+      <linkedin>http://www.linkedin.com/pub/tim-costello/8/b38/a02/</linkedin>
+      <ContactURL>http://www.timcost.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=timcost</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99459</importID>
+      <name>Leslie Andrews</name>
+      <label>
+      </label>
+      <description>Leslie Andrews is an IT professional with almost 20 years of experience working with databases, designing databases, as well as designing and developing applications against those databases. 2018-2019 Idera ACE.</description>
+      <twitter>landrews5807</twitter>
+      <linkedin>https://www.linkedin.com/pub/leslie-andrews-csm/9/491/b89</linkedin>
+      <ContactURL>https://www.lace.technology/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=landrews5807</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>100319</importID>
+      <name>Andy Parkerson</name>
+      <label>
+      </label>
+      <description>Andy works at the leading eCommerce site for luxury outdoor kitchens. He is currently involved in data warehousing and BI development using data to make business decisions. He is active in the community with the Baton Rouge Analytics and Intelligence Network ( gobrain.org ). He enjoys grilling and smoking, and currently owns more grills than his wife approves of.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/andyparkerson/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>100687</importID>
+      <name>William Assaf</name>
+      <label>
+      </label>
+      <description>William Assaf is a senior content developer on the SQLDocs team at Microsoft. Formerly a Data Platform MVP and a consultant for SQL Server, and before that a .NET developer, William currently works with Microsoft product groups on content related to the SQL database platform, specifically for SQL performance, Big Data Clusters, and Azure SQL DB. As a consultant for 13 years he worked with clients on SQL Server and Azure SQL platform optimization, management, disaster recovery and high availability, and led a crack multi-city team of consulting SQL DBA's. William has written for Microsoft SQL certification exams since 2011 and was the team lead author of the 2017 and 2019 editions of "SQL Server Administration Inside Out" by Microsoft Press. William is a past lead of the annual SQLSaturday Baton Rouge Planning Committee and supports the Baton Rouge User Groups.</description>
+      <twitter>william_a_dba</twitter>
+      <linkedin>https://www.linkedin.com/in/williamdassaf/</linkedin>
+      <ContactURL>http://www.sqltact.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=william_a_dba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98503</importID>
+      <name>Ganesh Lohani</name>
+      <label>
+      </label>
+      <description>Ganesh Lohani has 10 years of experience working with Business Intelligence platform and Data Analytics, with over 8 years of experience with MS BI tools and Business Intelligence processes. He is currently working for Stericycle as a senior Business Intelligence Developer. He also enjoy his evening and weekend time in providing online training, coaching and mentoring individuals who want to learn MSBI (T – SQL,  SSIS, SSRS, SSAS, and Power BI ) products. He holds MSIS degree from University of Texas at Arlington.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/ganesh-lohani-6275a716</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>104125</importID>
+      <name>Rusty Frioux</name>
+      <label>
+      </label>
+      <description>Rusty is a hands-on technical architect and business consultant with over 20 years’ experience in the consulting industry. He specializes in the design and creation of data analysis projects infrastructure to support good business and government decision making. Rusty’s deep knowledge of data science, infrastructure, applications, and metrics from multiple industries help him manage programs for a wide array of clients. Rusty holds a Master’s of Analytics from LSU. He currently serves as an Analytics Practice Director for Sparkhound.  He has worked with Microsoft data technologies since 1999, including Power BI, Excel, SharePoint, SQL Server, and the current suite of Azure data technologies.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/rustyfrioux/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>100636</importID>
+      <name>Ed Witherington</name>
+      <label>
+      </label>
+      <description>Ed Witherington serves as the associate vice president of business intelligence for Columbia Southern University. He brings more than 18 years of experience in operations management, analytics and programming. He holds a B.S. in Commercial Banking from the University of South Alabama, Mobile, AL.  Currently, he is working on his Masters in Business Intelligence and Data Analytics degree from St. Mary's University of Minnesota.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/ed-witherington-3b39743b/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>104069</importID>
+      <name>Jennifer Gartner</name>
+      <label>
+      </label>
+      <description>Jennifer Gartner is the Director of Client Success at Icimo Analytics by Cherry Bekaert, a Tableau Gold and Alteryx Preferred Partner. As a strategic multidisciplinary executive, Jennifer draws upon her extensive Client Service and Product Development experience to help Icimo Analytics Clients design, execute and achieve their strategic data objectives. Prior to Icimo Analytics, she held leadership positions in both Account and Client Services in the industries of telecommunications, banking, financial and software. Jennifer serves on the Wake Tech Business Analytics Advisory Board, the Committee for Entrepreneurial Certifications and is an active sponsor for the Council for Entrepreneurial Development.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/jennifer-gartner-30548a8/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>100733</importID>
+      <name>Michael Treadwell</name>
+      <label>
+      </label>
+      <description>Michael Treadwell is a data engineering lead and the Alteryx practice lead at InterWorks. He earned a master’s in business analytics at Louisiana State University and now leads a team of data engineers</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>101047</importID>
+      <name>Rusty Frioux</name>
+      <label>
+      </label>
+      <description>Rusty is a hands-on technical architect and business consultant with over 20 years’ experience in the consulting industry. He specializes in the design and creation of data analysis projects infrastructure to support good business and government decision making. Rusty’s deep knowledge of data science, infrastructure, applications, and metrics from multiple industries help him manage programs for a wide array of clients. Rusty holds a Master’s of Analytics from LSU. He currently serves as an Analytics Practice Director for Sparkhound.  He has worked with Microsoft data technologies since 1999, including Power BI, Excel, SharePoint, SQL Server, and the current suite of Azure data technologies.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/rustyfrioux/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>101761</importID>
+      <name>Treb Gatte</name>
+      <label>
+      </label>
+      <description>Treb is a business intelligence expert with 24 years of experience.
+
+Prior to becoming CEO he worked in leadership positions at Microsoft, Starbucks, Wachovia (now Wells Fargo). He has been recognized as Data Platform MVP from Microsoft.
+
+Treb lives in the Seattle area with his wife, children and corgi and holds an MBA from Wake Forest University and a B.S. from LSU.</description>
+      <twitter>https://twitter.com/tgatte</twitter>
+      <linkedin>http://www.linkedin.com/in/tgatte/</linkedin>
+      <ContactURL>https://marqueeinsights.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/tgatte</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>104110</importID>
+      <name>Treb Gatte</name>
+      <label>
+      </label>
+      <description>Treb is a business intelligence expert with 24 years of experience.
+
+Prior to becoming CEO he worked in leadership positions at Microsoft, Starbucks, Wachovia (now Wells Fargo). He has been recognized as Data Platform MVP from Microsoft.
+
+Treb lives in the Seattle area with his wife, children and corgi and holds an MBA from Wake Forest University and a B.S. from LSU.</description>
+      <twitter>https://twitter.com/tgatte</twitter>
+      <linkedin>http://www.linkedin.com/in/tgatte/</linkedin>
+      <ContactURL>https://marqueeinsights.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/tgatte</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>101076</importID>
+      <name>Michelle Gaudette</name>
+      <label>
+      </label>
+      <description>In the second half of 2018, I discovered Tableau Desktop, attended my first Tableau Conference, engaged in the Tableau Community, and took over as the Leader of the Pensacola Tableau User Group. I have 14 years of experience in the design and delivery of online and face-to-face technology- enriched learning environments, which are grounded in instructional design best practice, and I am now an Analytics Consultant and Trainer at Interworks. I am constantly immersing myself in new learning opportunities, and I love using my diverse and eclectic skill set to solve ill-defined problems and communicate in various contexts and domains.</description>
+      <twitter>LearnVizWithMe</twitter>
+      <linkedin>https://www.linkedin.com/in/michelle-gaudette-edd/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=LearnVizWithMe</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>102148</importID>
+      <name>Sekou Tyler</name>
+      <label>
+      </label>
+      <description>I am a data geek who is fascinated with business intelligence and data visualization best practices. I started my IT journey on the helpdesk, transitioned into a SQL Developer and now my focus is storytelling with data. I have experience with several data visualization tools (Microsoft Power BI, Tableau, Amazon Quicksight, Qlik, Yellowfin, and Looker) and have worked with data in different industries, but my primary industry has been healthcare.
+
+My other interests include speaking, mentoring, reading, spending time with my wife and hanging out with friends and family.</description>
+      <twitter>sqlsekou</twitter>
+      <linkedin>https://www.linkedin.com/in/sekoutyler</linkedin>
+      <ContactURL>https://sqlsekou.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlsekou</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>100719</importID>
+      <name>Tim Costello</name>
+      <label>
+      </label>
+      <description>Tim Costello is an MCITP, MCTS specializing in etl and data analytics for Interworks Inc. Tim is an international speaker that is always looking for opportunities to share his passion for SQL Server, Tableau and data visualization. Tim is active in the SQL community and leads a data visualization focused user group in the Dallas area.</description>
+      <twitter>timcost</twitter>
+      <linkedin>http://www.linkedin.com/pub/tim-costello/8/b38/a02/</linkedin>
+      <ContactURL>http://www.timcost.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=timcost</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>100893</importID>
+      <name>Rusty Frioux</name>
+      <label>
+      </label>
+      <description>Rusty is a hands-on technical architect and business consultant with over 20 years’ experience in the consulting industry. He specializes in the design and creation of data analysis projects infrastructure to support good business and government decision making. Rusty’s deep knowledge of data science, infrastructure, applications, and metrics from multiple industries help him manage programs for a wide array of clients. Rusty holds a Master’s of Analytics from LSU. He currently serves as an Analytics Practice Director for Sparkhound.  He has worked with Microsoft data technologies since 1999, including Power BI, Excel, SharePoint, SQL Server, and the current suite of Azure data technologies.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/rustyfrioux/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99850</importID>
+      <name>Chris Hyde</name>
+      <label>
+      </label>
+      <description>Chris Hyde is a Microsoft Data Platform MVP and Microsoft Certified Trainer based in Albuquerque, New Mexico. He works as an independent SQL Server BI and DBA consultant, and is the leader of the Albuquerque PASS local user group. He is also part of the Friends of Redgate program and was a member of the Idera ACE class of 2018. He loves loud music and cricket, but usually not at the same time.</description>
+      <twitter>ChrisHyde325</twitter>
+      <linkedin>https://www.linkedin.com/in/chris-hyde-3803706</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ChrisHyde325</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>103775</importID>
+      <name>Balaji Nedurumalli</name>
+      <label>
+      </label>
+      <description>Balaji’s role at his company is to drive strategic decisions based on data and intel.  He started his career as a systems programmer and gradually wore multiple hats in IT department before taking focus on Business Development, Strategy and Business Intelligence.  He has Masters degrees in Business Administration, Engineering, Analytics that allows him to see things in different perspective.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/balaji-nedurumalli/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>100625</importID>
+      <name>Lee Mendoza</name>
+      <label>
+      </label>
+      <description>Lee Mendoza, Ph.D. is a healthcare and technology professional with 30 years experience. As an educator and a researcher, he has taught a wide array of allied health courses. He is also a professional software developer, and has developed software for healthcare practice management, electronic billing, and educational experience tracking. He is currently the director of Health Informatics in the Office of Public Health. His bureau prepares the State's Health Report Card, created and maintains the State's Health Data Portal, performs surveillance of the opioid and drug crisis in Louisiana, and produces a wide range of health data products and health data tools for the Department and the public.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/mendozalee/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99460</importID>
+      <name>Leslie Andrews</name>
+      <label>
+      </label>
+      <description>Leslie Andrews is an IT professional with almost 20 years of experience working with databases, designing databases, as well as designing and developing applications against those databases. 2018-2019 Idera ACE.</description>
+      <twitter>landrews5807</twitter>
+      <linkedin>https://www.linkedin.com/pub/leslie-andrews-csm/9/491/b89</linkedin>
+      <ContactURL>https://www.lace.technology/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=landrews5807</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>100320</importID>
+      <name>Andy Parkerson</name>
+      <label>
+      </label>
+      <description>Andy works at the leading eCommerce site for luxury outdoor kitchens. He is currently involved in data warehousing and BI development using data to make business decisions. He is active in the community with the Baton Rouge Analytics and Intelligence Network ( gobrain.org ). He enjoys grilling and smoking, and currently owns more grills than his wife approves of.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/andyparkerson/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>100718</importID>
+      <name>Tim Costello</name>
+      <label>
+      </label>
+      <description>Tim Costello is an MCITP, MCTS specializing in etl and data analytics for Interworks Inc. Tim is an international speaker that is always looking for opportunities to share his passion for SQL Server, Tableau and data visualization. Tim is active in the SQL community and leads a data visualization focused user group in the Dallas area.</description>
+      <twitter>timcost</twitter>
+      <linkedin>http://www.linkedin.com/pub/tim-costello/8/b38/a02/</linkedin>
+      <ContactURL>http://www.timcost.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=timcost</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>100891</importID>
+      <name>Anandi Subramanian</name>
+      <label>
+      </label>
+      <description>I started my IT journey 20+ years ago with native programming in C, C++ and Visual Basic. I found myself gravitating towards back end and databases made me comfortable, knowing what's in store, data being captured. The information that data reveals, modeling data to suit consumption, slicing and dicing to reveal the state of a business and visualization to tell a story is very enjoyable for me.
+As a consultant, I enjoy the vareity of business domains, business problems to solve and the challenge of devising a solution within constraints of client limitations or technology .</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/anandi-subramanian-5498141/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>104134</importID>
+      <name>Eric Nail</name>
+      <label>
+      </label>
+      <description>Eric Nail has worked in Information Technology for over twenty years and, like most of us, worn many different hats during this time.  He lives in Baton Rouge with his wife and two rescue German Shepherd Dogs.</description>
+      <twitter>Janachara</twitter>
+      <linkedin>https://www.linkedin.com/in/xgeneric/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Janachara</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98797</importID>
+      <name>Dan Szepesi</name>
+      <label>
+      </label>
+      <description>My first few jobs in IT were random IT consulting gigs but I really cut my teeth working in managed hosting with Digex in the late 90's.  I spent ten years supporting SharePoint at Microsoft but made the move to BI in 2015 and haven't looked back.  I work with Power BI and prefer to spend my time building and optimizing data models from piles of data.  When I am not wallowing in data, I spend time with my wife and two kids or pander to my mid life crisis by playing guitar.</description>
+      <twitter>szBigDan</twitter>
+      <linkedin>https://www.linkedin.com/in/dan-szepesi-1294522/</linkedin>
+      <ContactURL>http://szdata.co</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=szBigDan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>99851</importID>
+      <speakers>
+        <speaker>
+          <id>99851</id>
+          <name>Chris Hyde</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>1253</name>
+      </location>
+      <title>Python in SQL Server 2017 and 2019</title>
+      <description>SQL Server 2017 and 2019 have arrived, bringing with them a host of exciting new features.  Of particular interest to BI practitioners and data scientists is the integration of the Python programming language into the SQL ecosystem.  This integration opens up a number of possibilities for in-database analytics and intelligent database applications, so let's get started!
+
+In this introductory session we'll briefly introduce the Python language and then look at how to install and administer Machine Learning Services.  We'll start to demonstrate the power of Python by showing you how to create and run simple scripts from within T-SQL.  We'll then discuss some of the powerful open source packages that are available to aid your data analyses.  Finally, we'll go through some examples of how to use Python to integrate data analytical methods in real-world situations, and wow your customers with the power of analytics!</description>
+      <startTime>3/7/2020 9:45:00 AM</startTime>
+      <endTime>3/7/2020 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>99753</importID>
+      <speakers>
+        <speaker>
+          <id>99753</id>
+          <name>Jamey Johnston</name>
+        </speaker>
+      </speakers>
+      <track>Machine Learning</track>
+      <location>
+        <name>1253</name>
+      </location>
+      <title>Code Like a Snake Charmer – Advanced Data Modeling in Python!</title>
+      <description>Python is the one of the most popular programming languages used today and one of the most useful tools in the data scientist's tool belt, especially for machine learning. Python is integrated into the Microsoft stack in tools like Azure ML, Databricks, Azure Functions and SQL Server. 
+ 
+This session will dive in-depth into proper data modeling and deployment using the Python language including:  
+ 
+1.	Data extraction 
+2.	Data cleaning 
+3.	Data transformation 
+4.	Data exploration and visualization 
+5.	Predictive modeling 
+6.	Model validation/testing 
+7.	Deployment of the solution.  
+ 
+Attend this session to learn how to use Python to conduct data analysis and modeling. We will use Python and packages like pandas, numpy, matplotlib, scikit-learn and others to explore real-world datasets and build data models using proper techniques like feature engineering, splitting datasets into validation and training datasets, testing data models, interpretability of a machine learning (ML) models a</description>
+      <startTime>3/7/2020 3:00:00 PM</startTime>
+      <endTime>3/7/2020 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>100625</importID>
+      <speakers>
+        <speaker>
+          <id>100625</id>
+          <name>Lee Mendoza</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>1218</name>
+      </location>
+      <title>Creating Data Tools and Products at the LDH Office of Public Health</title>
+      <description>The Louisiana Department of Health provides a wide range of services to promote and protect the health of people living in Louisiana. The LDH Office of Public Health – Bureau of Health Informatics uses a variety of tools to perform data exploration, conduct data analysis, construct data tools, and create dashboards to help meet the goal of monitoring and improving health. In this session, you’ll see how we use these tools to study data and present public-facing information on topics such as social determinants of health, the opioid epidemic, and the treatment of Hepatitis C. Along the way, we’ll look at mapping in Tableau and how to build a Tableau dashboard embedded in a web page.</description>
+      <startTime>3/7/2020 9:45:00 AM</startTime>
+      <endTime>3/7/2020 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>98049</importID>
+      <speakers>
+        <speaker>
+          <id>98049</id>
+          <name>Adrian Owen</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>1212</name>
+      </location>
+      <title>Everything I Needed to Know About Dashboarding I Learned From World of Warcraft</title>
+      <description>The LSU Foundation embarked on its first $1B+ campaign in the university's history. To prepare, the organization saw the need to instill discipline, overhaul its systems, and develop a progressive business intelligence shop from the ground up. In this session you will hear from a world ranked World of Warcraft player on how her experience competing with one of the top guilds in the world provided deep insights that allowed her to build compelling, user friendly dashboards while instilling a culture that embraced transparency and accountability. This is a deep dive into the process that got them there, and the lessons they learned along the way. You will leave this session with concrete, actionable tasks and tools to begin building better dashboards, and a performance driven culture of your own.</description>
+      <startTime>3/7/2020 8:30:00 AM</startTime>
+      <endTime>3/7/2020 9:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>99850</importID>
+      <speakers>
+        <speaker>
+          <id>99850</id>
+          <name>Chris Hyde</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>1218</name>
+      </location>
+      <title>Data Engineering Brick-by-Brick: An Introduction To Azure Databricks</title>
+      <description>Do you want to be a Data Engineer in the next step on your career path?  Maybe you're just getting started in the rapidly-growing Data Science and Analytics space?  Or perhaps you're already doing on-premises analytics and want to take things to the cloud?  Then come to this introductory session and see what Azure Databricks can do for you!
+
+Azure Databricks provides a cloud-based Apache Spark environment that can be scaled up and out to tackle your big data analytics needs.  We'll look at how to set up your first Azure Databricks cluster, how to use shared notebooks in a collaborative environment, and how to leverage the integrated Azure Machine Learning capabilities.  We'll also discuss where Azure Databricks fits in the modern cloud data warehouse.</description>
+      <startTime>3/7/2020 9:45:00 AM</startTime>
+      <endTime>3/7/2020 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>101346</importID>
+      <speakers>
+        <speaker>
+          <id>101346</id>
+          <name>Bill Anton</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>1221</name>
+      </location>
+      <title>Power BI Time Intelligence - Beyond the Basics</title>
+      <description>Time-Intelligence refers to doing BI calculations across periods of time (usually dates), and is the most common type of analysis in business reporting. Month-to-Date (MTD), Year-to-Date (YTD), Prior-Month (PM), Prior-Year (PY), Month-over-Month (MoM), Year-over-Year (YoY) are all examples of Time-Intelligence calculations. There are many approaches to implementing time-intelligence into your Power BI solutions, including the use of built-in date tables and time-intelligence functions. In this session, we'll explore several of these approaches and the associated tradeoffs. We'll also learn about the importance of a good date table, what attributes it should include, and how it can be leveraged to simplify more complex time-intelligence calculations. We'll also take the first step in mastering DAX by familiarizing ourselves with the CALCULATE function.</description>
+      <startTime>3/7/2020 11:30:00 AM</startTime>
+      <endTime>3/7/2020 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>99756</importID>
+      <speakers>
+        <speaker>
+          <id>99756</id>
+          <name>Jamey Johnston</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>1221</name>
+      </location>
+      <title>Power BI dataflows and How to Leverage for Data Science</title>
+      <description>This session will give you an introduction to Power BI dataflows and how to leverage the data for data science. Power BI dataflows allow for self service data migration into Azure Data Lake Services gen 2 utilizing Power Query. 
+
+This session will show how to use dataflows, setup Azure Data Lake Services gen 2 and dataflows and how to connect to the resulting data in the Azure Data Lake Services gen 2 to do Data Science with tools like Azure Databricks.
+
+This session will use real data and analytics to demonstrate Power BI dataflows, Azure Data Lake Services gen2 and Azure Databricks utilizing DAX, M and Python.</description>
+      <startTime>3/7/2020 8:30:00 AM</startTime>
+      <endTime>3/7/2020 9:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>104136</importID>
+      <speakers>
+        <speaker>
+          <id>104136</id>
+          <name>Tim Costello</name>
+        </speaker>
+      </speakers>
+      <track>Business Analytic Cases</track>
+      <location>
+        <name>1212</name>
+      </location>
+      <title>How to build an analytics team</title>
+      <description>Everyone wants a high functioning internal analytics team, but what does it take to make that happen?  In this session I share the six key factors I've identified in my 20 years of experience in the field. I will show you what you need and some of the tools that make it easier to succeed in building (or reviving) an analytics team.</description>
+      <startTime>3/7/2020 1:45:00 PM</startTime>
+      <endTime>3/7/2020 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>104069</importID>
+      <speakers>
+        <speaker>
+          <id>104069</id>
+          <name>Jennifer Gartner</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>1221</name>
+      </location>
+      <title>A Data Journey for an Analytics Company</title>
+      <description>Often the most challenging aspect of becoming a data-driven organization is determining where to start. Case in point: Icimo Analytics. As a company that transforms data into meaningful business value, we were neglecting our own data journey. Externally, we were transforming organizations into lean data machines while internally, we were still relying heavily on spreadsheets, multiple platforms and disparate systems. Turning our expertise inward, we designed dynamic dashboards fueled by Tableau and Alteryx to see a one-stop holistic view of our entire business. The end result? Each employee is strategically positioned to see, understand and make data-driven informed decisions driving value and setting the foundation for lasting growth and success.</description>
+      <startTime>3/7/2020 11:00:00 AM</startTime>
+      <endTime>3/7/2020 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>99459</importID>
+      <speakers>
+        <speaker>
+          <id>99459</id>
+          <name>Leslie Andrews</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>1221</name>
+      </location>
+      <title>A Perfect Ten: The Data Model</title>
+      <description>Do you know what makes a great data model?  What does it mean to be Third Normal Form or a Star Schema?  When would you use one over the other and why?  How can you identify bad designs?  In this presentation you will be exposed to good and bad models and learn what you should do in order to create a perfect ten model of your own!</description>
+      <startTime>3/7/2020 9:45:00 AM</startTime>
+      <endTime>3/7/2020 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>102148</importID>
+      <speakers>
+        <speaker>
+          <id>102148</id>
+          <name>Sekou Tyler</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>1225</name>
+      </location>
+      <title>Data Visualization Tools For Entrepreneurs</title>
+      <description>Are you an aspiring entrepreneur who wants to do more with your data? Have you ever wondered what are some of the key differences between different data visualization tools? In this session I will provide a high level overview of different data visualization tools and discuss pros and cons of each. The goal of this session is to provide you with information that will help you determine which tool is best for you!</description>
+      <startTime>3/7/2020 8:30:00 AM</startTime>
+      <endTime>3/7/2020 9:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>101761</importID>
+      <speakers>
+        <speaker>
+          <id>101761</id>
+          <name>Treb Gatte</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>1221</name>
+      </location>
+      <title>How to mine data in SharePoint easily, using Power BI</title>
+      <description>See how to use Power BI to mine the data you have in SharePoint and Office 365. We’ll pull data from lists, files in libraries, triggered activities using Microsoft Power Automate, and show how to embed reports in SharePoint/Teams. We will provide a short Power BI licensing overview as well. We’ll also show you how this can be automated so that you save time and money by eliminating a manual process.</description>
+      <startTime>3/7/2020 3:00:00 PM</startTime>
+      <endTime>3/7/2020 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>104134</importID>
+      <speakers>
+        <speaker>
+          <id>104134</id>
+          <name>Eric Nail</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>1212</name>
+      </location>
+      <title>SQL and Pure Storage - Like Peanut Butter and Chocolate (With Prizes!)</title>
+      <description>In this session, I will talk about how Pure Storage technologies can help you save a ton of time, work, and storage space.  I will also briefly discuss our new - and totally free - SSMS plugin, which makes working with our storage easier than ever before for DBA's.  There will be prizes for random attendees.</description>
+      <startTime>3/7/2020 11:00:00 AM</startTime>
+      <endTime>3/7/2020 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>103775</importID>
+      <speakers>
+        <speaker>
+          <id>103775</id>
+          <name>Balaji Nedurumalli</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>1253</name>
+      </location>
+      <title>Safety Alliance Council (Sponsor)</title>
+      <description>Gold Sponsor - Safety Alliance Council</description>
+      <startTime>3/7/2020 11:00:00 AM</startTime>
+      <endTime>3/7/2020 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>100891</importID>
+      <speakers>
+        <speaker>
+          <id>100891</id>
+          <name>Anandi Subramanian</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>1218</name>
+      </location>
+      <title>Azure Data Factory 101</title>
+      <description>You're tasked with moving SSIS packages to Azure. How do you tackle these existing ETL processes to work seamlessly in Azure? Join David Nguyen and Anandi Subramanian as they demonstrate the basics, highlight some challenges, and things you need to know about Azure Data Factory Version 2, Microsoft's new data integration and orchestration engine for Azure. The speakers will discuss similarities and differences between ADF and SSIS, and walk through strategies for "lifting and shifting" SSIS workloads directly to ADF and Azure.</description>
+      <startTime>3/7/2020 8:30:00 AM</startTime>
+      <endTime>3/7/2020 9:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>100733</importID>
+      <speakers>
+        <speaker>
+          <id>100733</id>
+          <name>Michael Treadwell</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>1225</name>
+      </location>
+      <title>Snowflake: Design Patterns  Data Integration for a Modern Cloud Warehouse</title>
+      <description>Snowflake is a data warehouse built from the ground up to take advantage of all that the cloud has to offer. We’ll take a walkthrough of the system from setup to usage and see a demonstration of how Snowflake can supercharge your BI platform. This session will show you how to rethink old design patterns to make use of ELT, not ETL, in a scalable cloud environment.</description>
+      <startTime>3/7/2020 9:45:00 AM</startTime>
+      <endTime>3/7/2020 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>99489</importID>
+      <speakers>
+        <speaker>
+          <id>99489</id>
+          <name>Kevin Feasel</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>1253</name>
+      </location>
+      <title>Launching a Data Science Project:  Cleaning is Half the Battle</title>
+      <description>There's an old adage in software development: Garbage In, Garbage Out. This adage certainly applies to data science projects: if you simply throw raw data at models, you will end up with garbage results. In this session, we will build an understanding of just what it takes to implement a data science project whose results are not garbage. We will the Microsoft Team Data Science Process as our model for project implementation, learning what each step of the process entails. To motivate this walkthrough, we will see what we can learn from a survey of data professionals' salaries.</description>
+      <startTime>3/7/2020 1:45:00 PM</startTime>
+      <endTime>3/7/2020 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>104125</importID>
+      <speakers>
+        <speaker>
+          <id>104125</id>
+          <name>Rusty Frioux</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>1225</name>
+      </location>
+      <title>2020 Regional Trends in Business Intelligence  Analytics</title>
+      <description>Gartner has their perspective on the analytics industry, but what is happening in our own backyard?  Join Rusty Frioux from Sparkhound as he leads a discussion about projects and initiatives he's seen in Louisiana this year and what services Sparkhound expects to be in demand through 2021.</description>
+      <startTime>3/7/2020 11:00:00 AM</startTime>
+      <endTime>3/7/2020 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>100318</importID>
+      <speakers>
+        <speaker>
+          <id>100318</id>
+          <name>Ed Pearson</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>1218</name>
+      </location>
+      <title>Enabling Real Time Analytics through Azure</title>
+      <description>How do we deliver more business value to data hungry customers who constantly want more and faster? How do we enable automation to deliver complex solutions that provide consistent data to empower a self-service BI environment?
+
+I will demonstrate how our analytics team is leveraging Azure and cloud-native technologies to ensure we can meet the demands of our customer base, and in turn, deliver faster and higher volume results. 
+
+My presentation will walk through an end-to-end solution – from data acquisition using Azure Logic Apps; data transformation via Azure Data Factory; and ending with reporting in PowerBI.</description>
+      <startTime>3/7/2020 11:30:00 AM</startTime>
+      <endTime>3/7/2020 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>100636</importID>
+      <speakers>
+        <speaker>
+          <id>100636</id>
+          <name>Ed Witherington</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>1212</name>
+      </location>
+      <title>Taking Your Dashboard From Good To Great</title>
+      <description>Putting together an initial dashboard can have its own challenges. However, what does it take to go from a dashboard that meets requirements to one that shines and dazzles?
+
+This talk will look at best practices for which types of visuals to use, as well as which should be averted and why.  We will dig into things like colors to avoid, good charts and bad charts, and ways to maximize the visual real estate.</description>
+      <startTime>3/7/2020 9:45:00 AM</startTime>
+      <endTime>3/7/2020 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>99486</importID>
+      <speakers>
+        <speaker>
+          <id>99486</id>
+          <name>Kevin Feasel</name>
+        </speaker>
+      </speakers>
+      <track>Artificial Intelligence</track>
+      <location>
+        <name>1253</name>
+      </location>
+      <title>Classification With Naive Bayes</title>
+      <description>The Naïve Bayes series of algorithms are some of the simplest classification algorithms, but they tend to offer reasonably good results very quickly for a number of problems, including Natural Language Processing problems such as spam classification, as well as more classical feature-driven classification.  In this talk, we will look at the math behind Naïve Bayes classification, solving problems by hand before looking at a package in R which solves the problem for us.  By the end of this talk, you should be able to apply Naïve Bayes to existing problems.  No experience with statistics is required, although there will be a small amount of math.</description>
+      <startTime>3/7/2020 11:30:00 AM</startTime>
+      <endTime>3/7/2020 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>104110</importID>
+      <speakers>
+        <speaker>
+          <id>104110</id>
+          <name>Treb Gatte</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>1221</name>
+      </location>
+      <title>Five Key Trends in Business Intelligence</title>
+      <description>How They Will Impact Your Organization? - Is your organization ready for the third BI wave? There are five key trends in Business Intelligence that are dramatically changing the way we approach reporting. Join Treb as he takes you through each trend, the challenges resulting from the trend and recommended actions to take.</description>
+      <startTime>3/7/2020 1:45:00 PM</startTime>
+      <endTime>3/7/2020 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98109</importID>
+      <speakers>
+        <speaker>
+          <id>98109</id>
+          <name>William Assaf</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>1225</name>
+      </location>
+      <title>Careers in Business Intelligence Panel</title>
+      <description>A panel discuss of BI professionals, intended for job seekers, students, and professionals looking to transition into Business Intelligence fields.</description>
+      <startTime>3/7/2020 1:45:00 PM</startTime>
+      <endTime>3/7/2020 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98797</importID>
+      <speakers>
+        <speaker>
+          <id>98797</id>
+          <name>Dan Szepesi</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>1218</name>
+      </location>
+      <title>Troubleshooting PowerBI Performance Problems</title>
+      <description>Power BI is a great tool for mashing up and visualizing data. If you are not careful though, you end up with visuals that take too long to load and a PBIX that exhausts available memory.  This session shows you how to maintain the crisp performance and stunning compression that you want in every data model.
+
+ To help with the optimization effort, Dan will demonstrate common tools for troubleshooting Power BI performance issues. He will also review some common mistakes that drain the life from models and provide ways to avoid these pitfalls.</description>
+      <startTime>3/7/2020 1:45:00 PM</startTime>
+      <endTime>3/7/2020 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>100687</importID>
+      <speakers>
+        <speaker>
+          <id>100687</id>
+          <name>William Assaf</name>
+        </speaker>
+      </speakers>
+      <track>Business Analytic Cases</track>
+      <location>
+        <name>1225</name>
+      </location>
+      <title>Ethics in Data</title>
+      <description>This session will explore a variety of considerations that modern data scientists and data practictioners must account for when gathering and presenting data, including topics on bias, construct analysis, and machine learning.</description>
+      <startTime>3/7/2020 3:00:00 PM</startTime>
+      <endTime>3/7/2020 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>103770</importID>
+      <speakers>
+        <speaker>
+          <id>103770</id>
+          <name>Thomas LeBlanc</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>1212</name>
+      </location>
+      <title>Pure Storage (Sponsor)</title>
+      <description>Gold Sponsor - Pure Storage</description>
+      <startTime>3/7/2020 11:00:00 AM</startTime>
+      <endTime>3/7/2020 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>100719</importID>
+      <speakers>
+        <speaker>
+          <id>100719</id>
+          <name>Tim Costello</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>1212</name>
+      </location>
+      <title>Tableau eye for the PowerBI guy</title>
+      <description>A quick glance at the sessions scheduled shows there are lots of talks about PowerBI.  This is your chance to check out the competition.  I've been excited about Tableau for over 10 years.  I'll show you why I think it's the best choice for building a data driven culture in your organization.  We will explore the Tableau Prep tool, Tableau Builder and take a look at Tableau Server.</description>
+      <startTime>3/7/2020 11:30:00 AM</startTime>
+      <endTime>3/7/2020 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>101076</importID>
+      <speakers>
+        <speaker>
+          <id>101076</id>
+          <name>Michelle Gaudette</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>1212</name>
+      </location>
+      <title>Best Practices in Dashboard Design: Designing with your end user in mind.</title>
+      <description>In this session, Michelle will share tips and tricks for designing business dashboards that engage, excite, and inform your end users. Using research-based best practices and principles of design, you will learn how to develop dashboards from a people-first perspective, to help you get your message across to your end user. You will leave this session with new skills, techniques, and a ton of resources to get you on your way!</description>
+      <startTime>3/7/2020 3:00:00 PM</startTime>
+      <endTime>3/7/2020 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>99460</importID>
+      <speakers>
+        <speaker>
+          <id>99460</id>
+          <name>Leslie Andrews</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>1225</name>
+      </location>
+      <title>Building a Strong Foundation for Data Analysis</title>
+      <description>We are living in a world full of data but what we need is information.  What is required to transform data into information?  What are the foundational activities your organization needs to do in order to produce analytics that you are confident in sharing?  In this session we will discuss what is needed for your organization to convert data into information, the basics of: Data Governance, Data Modeling and how to have an immediate impact using tools like Power BI to deliver value; and, Data Visualizations and telling stories with the data.</description>
+      <startTime>3/7/2020 11:30:00 AM</startTime>
+      <endTime>3/7/2020 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>101047</importID>
+      <speakers>
+        <speaker>
+          <id>101047</id>
+          <name>Rusty Frioux</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>1218</name>
+      </location>
+      <title>Enterprise PowerBI for large organizations</title>
+      <description>Suppose you work for a large organization with hundreds or even thousands of potential Power BI users.  Is Power BI for you?  Can it handle the workload?  The answer is YES!  Join Bryan Smith and Rusty Friouxs they discuss the deployment and governance of Power BI at scale.  Topics will include the benefits of Power BI Pro, proper use of Active Directory for user management, the Power BI API, PowerBI DataFlows, integration with large ERP systems like SAP, among others.</description>
+      <startTime>3/7/2020 3:00:00 PM</startTime>
+      <endTime>3/7/2020 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98503</importID>
+      <speakers>
+        <speaker>
+          <id>98503</id>
+          <name>Ganesh Lohani</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>1253</name>
+      </location>
+      <title>Data Science 101: An Introduction to Data Science Using Python</title>
+      <description>Data is everywhere and Data Science is a very popular topic among data analysts and BI professionals. In this session, I will cover the basic data science principles and methodologies using the Python programming language. I will also present some real-world data analysis case studies using the Python libraries, such as NumPy, pandas, Matplotlib, and SciPy.  This session will benefit to anyone who is looking to get started in the data science/ Data Analytics field.</description>
+      <startTime>3/7/2020 8:30:00 AM</startTime>
+      <endTime>3/7/2020 9:30:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

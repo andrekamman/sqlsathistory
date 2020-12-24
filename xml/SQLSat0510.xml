@@ -1,0 +1,794 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #510 - Paris 2016</name>
+    <startDate>6/25/2016 12:00:00 AM</startDate>
+    <attendeeEstimate>175</attendeeEstimate>
+    <timezone>(GMT+01:00) Brussels, Copenhagen, Madrid, Paris</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatParis</twitterHashtag>
+    <venue>
+      <name>SUPINFO Paris</name>
+      <street>Tour Montparnasse</street>
+      <city>Paris</city>
+      <state>Île-de-France, France</state>
+      <zipcode>75015</zipcode>
+      <longitude>2.32137417793274</longitude>
+      <latitude>48.8426513671875</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS USE ONLY</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>85</importID>
+      <name>Pyramid Analytics</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.PyramidAnalytics.com</url>
+      <imageURL>http://pages.pyramidanalytics.com/rs/pyramidanalytics/images/logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>57</importID>
+      <name>Data by Design</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.dataxdesign.com</url>
+      <imageURL>https://034f89a.netsolhost.com/Images/DataByDesign_logoSmall.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1709</importID>
+      <name>JobLy</name>
+      <label>Silver Sponsor</label>
+      <url>http://myjobly.fr</url>
+      <imageURL>https://guss.pro/wp-content/uploads/2016/04/JobLy1.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>415</importID>
+      <name>Azeo</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.azeo.com/</url>
+      <imageURL>https://guss.pro/wp-content/uploads/2014/05/AZEO-Copier.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>555</importID>
+      <name>DCube</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.dcube.fr/</url>
+      <imageURL>https://guss.pro/wp-content/uploads/2014/05/DCube_sqlsat.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1115</importID>
+      <name>SQL Sentry</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.sqlsentry.com/</url>
+      <imageURL>https://www.sentryone.com/Images/logos/sentryone-black.svg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1724</importID>
+      <name>See-d</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.see-d.fr/</url>
+      <imageURL>https://www.see-d.fr/wp-content/uploads/2015/01/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>47185</importID>
+      <name>Sarah Bessard</name>
+      <label>
+      </label>
+      <description>J#39;ai fait mes premi#232;res armes comme analyste programmeur et administrateur syst#232;me par la suite pour finalement me sp#233;cialiser sur SQL Server en 2005. Toutes ces exp#233;riences m#39;ont permis d#39;acqu#233;rir une vision globale des syst#232;mes d#39;information. Gr#226;ce au GUSS qui f#233;d#232;re la communaut#233; Data Microsoft en  France, j#39;ai l#39;occasion d#39;animer des webcasts #224; intervalle r#233;gulier et  int#233;gr#233; le board pour entretenir plus activement cette passion.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://fr.linkedin.com/pub/sarah-bessard/87/972/495</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44498</importID>
+      <name>Uwe Ricken</name>
+      <label>
+      </label>
+      <description>Uwe Ricken is working with IT systems since the 90’s. The primary passion for developments with Microsoft SQL Server expanded in 2007 with his engagement as a DBA for Deutsche Bank AG in Frankfurt am Main. After 6 years of operational experiences as a DBA and over 14 years as a developer of complex database models he achieved the “Microsoft Certified Master – SQL Server 2008” certification which “was” the highest technical certification. In the same year he earned his first award as a Data Platform MVP for his support to the Microsoft SQL Server community in Germany and Europe. Uwe Ricken is a speaker on many international conferences and events and preferred topics are “Database Internals”, “Indexing” and “Development”.</description>
+      <twitter>https://twitter.com/dbBerater</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=270775013amp;trk=tab_pro</linkedin>
+      <ContactURL>http://www.sqlmaster.de</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dbBerater</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45090</importID>
+      <name>Chrissy LeMaire</name>
+      <label>
+      </label>
+      <description>Chrissy LeMaire is a Data Platform and PowerShell MVP who has worked in IT for over 20 years. She works for General Dynamics and serves as the SQL Server DBA at NATO Special Ops HQ in Belgium. She is also an avid scripter, and has used PowerShell since it was introduced in 2005 at the Microsoft Professional Conference in Los Angeles. Chrissy is the creator of the popular dbatools PowerShell module for SQL Server. 
+
+Chrissy recently achieved her MS in Systems Engineering at Regis University ‍</description>
+      <twitter>@cl</twitter>
+      <linkedin>http://linkedin.com/in/chrissylemaire</linkedin>
+      <ContactURL>https://netnerds.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@cl</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44481</importID>
+      <name>David Barbarin</name>
+      <label>
+      </label>
+      <description>David Barbarin is Consultant at dbi services. He has more than ten years of experience in Microsoft solutions. He is specialized in SQL Server technologies and associated topics such as installation, migration, security audits, troubleshooting of performance issues, or high availability architectures etc. David Barbarin is SQL Server MVP (since 2010), Microsoft Certified Master (MCM) for SQL Server, and Microsoft Certified Trainer (MCT).</description>
+      <twitter>mikedavem</twitter>
+      <linkedin>http://fr.linkedin.com/in/mikedavem/en</linkedin>
+      <ContactURL>http://www.dbi-services.com/index.php/blog/dbi-bloggers/blogger/listings/dab</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mikedavem</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49670</importID>
+      <name>jean-pierre Girardot</name>
+      <label>
+      </label>
+      <description>Jean-Pierre Girardot est Consultant ind#233;pendant sur les offres d#233;cisionnelles Power BI  de Microsoft et Pyramid Analytics.
+Ayant cr#233;#233; et g#233;r#233; plusieurs soci#233;t#233;s d#39;informatique, il a acquis une haute expertise sur l#39;apport des outils d#39;aide #224; la d#233;cision dans la gestion des entreprises. Aujourd#39;hui, pour r#233;pondre au besoin croissant des entreprises concernant l#39;analyse de l#39;information, il accompagne ses clients dans la mise en place de solutions d#233;cisionnelles Libre-Service.
+
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.bi-365.fr</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44354</importID>
+      <name>Dejan Sarka</name>
+      <label>
+      </label>
+      <description>Dejan Sarka, MCT and Data Platform MVP, is an independent trainer and consultant that focuses on development of database and business intelligence applications. Besides projects, he spends about half of his time on training and mentoring. He is the founder of the Slovenian SQL Server and .NET Users Group. Dejan Sarka is the main author or co-author of eighteen books about databases and SQL Server. Dejan Sarka has also developed many courses and seminars for Microsoft, Radacad, SolidQ, and Pluralsight.</description>
+      <twitter>DejanSarka</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.solidq.com/dsarka/Home.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DejanSarka</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49669</importID>
+      <name>Kevin Kline</name>
+      <label>
+      </label>
+      <description>Kevin Kline is a database and industry expert serving as Principal Program Manager at SentryOne, the industry leading SQL Server database tools vendor. A Microsoft SQL Server MVP since 2003, he is a founder and former president of PASS. Kevin is an author of many books, blogger, columnist, and popular international speaker. Kevin’s best known book is the best-selling SQL in a Nutshell and contributes monthly to Database Trends  Applications magazine. He tweets at @kekline and blogs at http://Blogs.SQLSentry.com/Author/KevinKline.</description>
+      <twitter>kekline</twitter>
+      <linkedin>http://www.linkedin.com/in/kekline/</linkedin>
+      <ContactURL>http://blogs.sentryone.com/author/kevinkline</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=kekline</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48519</importID>
+      <name>Ryan Yates</name>
+      <label>
+      </label>
+      <description>SharePoint amp; PowerShell Specialist - moving more into a dedicated PowerShell focus to help coach organisations in methods that they can use to improve their configuration management on a larger scale allowing them to deploy production ready code quicker, easier and with more confidence and importantly at scale in a repeatable manner.
+
+Co-Ordinator of the UK PowerShell User Groups - with groups in Manchester amp; London but with a view to expand this across the UK in 2016 - If interested in getting one going in your area then lets talk about it :-)</description>
+      <twitter>ryanyates1990</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.kilasuit.org/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ryanyates1990</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48322</importID>
+      <name>Christophe Laporte</name>
+      <label>
+      </label>
+      <description>Christophe Laporte is based in Toulouse, France and has worked with SQL Server since 1997, starting with SQL Server 6.5. Focusing on high availability, VLDBs, and virtualization, Christophe also delivers performance audits on SQL Server and helps companies in choosing the appropriate architectures (Cloud, OnPremise, or Hybrid). 
+In addition to his MCM certification, Christophe is also a SQL MVP, speaker, and Microsoft Certified Trainer since 2000.</description>
+      <twitter>conseilit</twitter>
+      <linkedin>http://fr.linkedin.com/in/christophelaporte</linkedin>
+      <ContactURL>http://conseilit.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=conseilit</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44732</importID>
+      <name>Markus Ehrenmueller-Jensen</name>
+      <label>
+      </label>
+      <description>Markus Ehrenmueller-Jensen, as the founder of Savory Data, has a long history of providing customer solutions in the areas of data engineering, data science, and Business Intelligence. He is a certified software engineer, a graduated business educator, and professor of Databases  Project Management at HTL Leonding, and is certified as an MCSE  MCT. He is a published author and writes articles for well-known journals. He co-founded PASS Austria and organizes SQLSaturdays in Austria. Markus is a founding member of Power BI Usergroup Austria. Since 2017 Markus was awarded as an Microsoft Data Platform MVP.</description>
+      <twitter>MEhrenmueller</twitter>
+      <linkedin>https://www.linkedin.com/in/markus-ehrenmueller/</linkedin>
+      <ContactURL>http://www.savorydata.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MEhrenmueller</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>46735</importID>
+      <name>Gianluca Sartori</name>
+      <label>
+      </label>
+      <description>Gianluca Sartori is a Data Platform MVP, independent consultant and performance tuning specialist. He has been working in the software industry since 1999 and has been working with SQL Server ever since. He also works as a SQL Server trainer and in his spare time he writes technical articles and participates the SQL Server forums. Gianluca enjoys presenting SQL Server topics at conferences in Europe and in Italy in particular. He is currently working as lead DBA at a famous Formula 1 team.</description>
+      <twitter>http://twitter.com/#!/spaghettidba</twitter>
+      <linkedin>http://it.linkedin.com/pub/gianluca-sartori/23/50b/a12</linkedin>
+      <ContactURL>http://spaghettidba.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/#!/spaghettidba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48725</importID>
+      <name>Jean-Pierre Riehl</name>
+      <label>
+      </label>
+      <description>Architect, Consultant, Trainer and also Manager, Jean-Pierre leads the Data  BI Practice at AZEO, a French Microsoft "pure-player" partner. 
+Jean-Pierre is MVP Data Platform since 2008 and speaks at many events in France and in Europe. JP leads the local community (GUSS) and organize events in France since 2011 : MS Cloud Summit, Les Journées SQL Server, SQLSaturday, etc. 
+JP is passionate by data concerns in business like Data Governance, Data Quality or Data Vizualisation and since 2010, he’s specialized in Self-Service BI. His favorite topic is Power BI and business usages and technical architectures that go with.</description>
+      <twitter>djeepy1</twitter>
+      <linkedin>http://fr.linkedin.com/in/djeepy1</linkedin>
+      <ContactURL>http://blog.djeepy1.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=djeepy1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48469</importID>
+      <name>Philippe Geiger</name>
+      <label>
+      </label>
+      <description>Consultant certifié Microsoft SQL Server, Philippe Geiger accompagne aussi bien des professionnels en infrastructure, en décisionnel que des développeurs. Maîtrisant toutes les versions de SQL Server, il assure également, en sa qualité de formateur certifié, les formations officielles de Microsoft. Il est aussi membre du programme "Microsoft Professional Program on Data Science". Basé en Alsace, Philippe travaille chez Titanium, Groupe Calliope, société "Pure Player" Microsoft.</description>
+      <twitter>@pgeiger</twitter>
+      <linkedin>https://fr.linkedin.com/in/pgeiger</linkedin>
+      <ContactURL>http://blog.pgeiger.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@pgeiger</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48520</importID>
+      <name>Marius Zaharia</name>
+      <label>
+      </label>
+      <description>Azure MVP and Advisor, community manager of AZUG.FR</description>
+      <twitter>lecampusazure</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blog.lecampusazure.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=lecampusazure</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>47723</importID>
+      <name>Charles-Henri Sauget</name>
+      <label>
+      </label>
+      <description>Consultant décisionnel depuis 2009, j'ai eu l'occasion d'explorer certaines des fonctionnalités offertes par SQL Server, et cela est loin d'être terminé avec la croissance des volumes de données, et les nouveaux outils à disposition (Data Insights), de nouveaux défis vont très certainement s'offrir à nous. Même si la B.I. reste mon coeur de métier, je ne cache pas mon intérêt pour le Moteur SQL Server, surtout si l'on rajoute à ceci l'impact d'un hébergement en IaaS dans Azure !</description>
+      <twitter>SaugetCh</twitter>
+      <linkedin>https://www.linkedin.com/in/charleshenrisauget</linkedin>
+      <ContactURL>http://www.sauget-ch.fr</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SaugetCh</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48471</importID>
+      <name>Romain Casteres</name>
+      <label>
+      </label>
+      <description>MVP SQL Server, certifi#233; MCITP, MCTS, MCSA 2008/2012 et membre du Board du Groupe Utilisateurs SQL Server (GUSS). Consultant en Business Intelligence depuis plus de 4 ans je me suis sp#233;cialis#233; sur les technologies d#233;cisionnelles de Microsoft, le moteur SQL Server et plus r#233;cemment sur HDInsight, l#39;offre BigData de Microsoft. Blog: http://www.pulsweb.fr/</description>
+      <twitter>@PulsWeb</twitter>
+      <linkedin>https://fr.linkedin.com/in/casteres</linkedin>
+      <ContactURL>http://pulsweb.fr/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@PulsWeb</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>45753</importID>
+      <name>Marco Russo</name>
+      <label>
+      </label>
+      <description>Marco is a Business Intelligence consultant and mentor. He wrote several books about Power BI, Analysis Service, and Power Pivot. He also regularly writes articles and white papers that are available on sqlbi.com. Marco is a Microsoft MVP and an SSAS Maestro, the highest level of certification on Microsoft Analysis Services.
+Today, Marco focuses his time with SQLBI customers, traveling extensively to train and consult on DAX and data modeling for Power BI and Analysis Services. Marco also teaches public classes worldwide.
+Marco is a regular speaker at international conferences like Microsoft Ignite, PASS Summit, and SQLBits. He also enjoys delivering evening sessions at local user groups during his trips.</description>
+      <twitter>marcorus</twitter>
+      <linkedin>http://www.linkedin.com/in/sqlbi</linkedin>
+      <ContactURL>https://www.sqlbi.com/blog/marco</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=marcorus</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>48717</importID>
+      <name>serge Luca</name>
+      <label>
+      </label>
+      <description>Serge Luca is a SharePoint MVP since 2007, co-author a book in SharePoint 2013 and author for SharePoint Pro Magazine and well known international speaker (ESC14, ESPC15, SharePoint Summit Canada, TechDays, Tech Ed, many SharePoint Saturdays around the world…). Serge has been working with SharePoint since the beginning of the product in 2001. As a real SharePoint architect Serge focus both on the infrastructure, the business side and the development side of SharePoint and Office 365. He has executed several assignments for the Microsoft SharePoint team (Redmond) across the world and has worked for Microsoft Learning as a Subject Matter Expert. He has trained more than a thousand developers in SharePoint. </description>
+      <twitter>@sergeluca</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sergeluca.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sergeluca</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>44755</importID>
+      <name>Jen Stirrup</name>
+      <label>
+      </label>
+      <description>Jen Stirrup, Microsoft Regional Director and MVP is a well-known Business Intelligence and Data Visualization expert, author, data strategist, and Master of Business Administration (MBA) student in London. Jen leads a boutique analytics consultancy, delivering strategic advice to companies large and small.
+
+Jen has presented in Africa, India, Europe and North America. Jen has presented at Ignite, Techorama, TechEd, PASS Summit, SQLBits, and SQLSaturday events in Europe and the US. She also delivers the MAPA Azure Architects course worldwide with Microsoft team members. Jen was also featured on the Best of PASS Summit 2015 DVD as one of the top 10 speakers. Jen also was awarded PASS prestigious PASSion Award in 2012</description>
+      <twitter>@jenstirrup</twitter>
+      <linkedin>http://uk.linkedin.com/in/jenstirrup/</linkedin>
+      <ContactURL>http://www.jenstirrup.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jenstirrup</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>47880</importID>
+      <name>Sean McCown</name>
+      <label>
+      </label>
+      <description>Sean McCown is a Certified Master with 23 years of experience in databases. He is also founder and co-owner of the MidnightDBA.com website, where he records free SQL Server training videos. He also writes the popular Minion Maintenance suite, the most configurable maintenance solution on the planet.</description>
+      <twitter>@KenpoDBA</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.midnightdba.com/dbarant</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KenpoDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>44755</importID>
+      <speakers>
+        <speaker>
+          <id>44755</id>
+          <name>Jen Stirrup</name>
+        </speaker>
+      </speakers>
+      <track>Air - la puissance du Cloud</track>
+      <location>
+        <name>Air</name>
+      </location>
+      <title>Hi there, I’m Cortana: Cortana Analytics Data Visualisations with Power BI</title>
+      <description>Cortana Analytics is a fully managed big data and advanced analytics suite that enables you to transform your data into intelligent action. In this talk, you will get an underpinning of analytical modelling, along with demos of visualizing data and getting insights via Power BI and the challenges of building a SaaS service at scale. Major features of new Power BI will be covered with demos, including natural language query, and others, in the context of Cortana Analytics.  Come and learn what model to use when, and how to use data storytelling to display the results meaningfully.
+
+Having spent time studying Artificial Intelligence at universities in the UK and in Paris, and then spending a good part of her early career as an Artificial Intelligence consultant,  Jen is happy to see that deep analytics and intelligence action is available to everyone in the form of Cortana Analytics. Join her as she demystifies this exciting technology so that you can get insights from your data.</description>
+      <startTime>6/25/2016 4:30:00 PM</startTime>
+      <endTime>6/25/2016 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>44732</importID>
+      <speakers>
+        <speaker>
+          <id>44732</id>
+          <name>Markus Ehrenmueller-Jensen</name>
+        </speaker>
+      </speakers>
+      <track>Eau - Plongez dans la BI</track>
+      <location>
+        <name>Eau</name>
+      </location>
+      <title>My Favorite Pie (Chart): Simple Rules for Clear Visualizations</title>
+      <description>Dataviz guru Stephen Few once stated that we should “save the pies for dessert”. What he meant is that pie charts are good in some specific use cases, but they should not be used in others. The same is true for other chart types. Using the wrong type of chart will make it harder for report users to understand the story behind the data. To enable insights, information has to be presented in the most intuitive way possible. You will leave this session with five easy-to-implement rules, which will guide you through the process of creating clear and attractive visualizations. Every rule will be applied through live demos in Excel, Reporting Services and Power BI Desktop, where you will learn how to avoid pitfalls from the defaults in those tools.</description>
+      <startTime>6/25/2016 11:30:00 AM</startTime>
+      <endTime>6/25/2016 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>44498</importID>
+      <speakers>
+        <speaker>
+          <id>44498</id>
+          <name>Uwe Ricken</name>
+        </speaker>
+      </speakers>
+      <track>Metal - la robustesse de SQL Server</track>
+      <location>
+        <name>Metal</name>
+      </location>
+      <title>Demystifying clustered indexes</title>
+      <description>If you ask an expert about using a clustered index you will ALWAYS hear: Yes, you need a clustered index for your table. Last but not least Microsoft Azure Databases requires clustered indexes. But clustered indexes are not always a good choice for your database solution because of several different reasons. This session will start a debate about genius and madness of clustered indexes in your application.
+
+This session will run several demos which will show in a very clear way why a clustered index isn't the best choice in several workload scenarios. "There's no lunch for free"! Not using clustered indexes will have ONE heavy drawback - this drawback will be demonstrated, too.
+
+The session goal is to make decisions easier for you to use a clustered index or not!</description>
+      <startTime>6/25/2016 11:30:00 AM</startTime>
+      <endTime>6/25/2016 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>46735</importID>
+      <speakers>
+        <speaker>
+          <id>46735</id>
+          <name>Gianluca Sartori</name>
+        </speaker>
+      </speakers>
+      <track>Metal - la robustesse de SQL Server</track>
+      <location>
+        <name>Metal</name>
+      </location>
+      <title>New Security Features in SQL Server 2016</title>
+      <description>In this session we will explore the new features introduced with SQL Server 2016 to enhance security. 
+Always Encrypted is a new technology that protects your data not only at rest, but also throughout the whole interaction between the application and the database.
+Dynamic Data Masking is another interesting feature that allows us to protect sensitive data by masking it to all users that don’t have enough privileges to see the actual contents.
+Row Level Security allows showing to end users only the data they’re entitled to access, without changing the applications’ code.
+We will demonstrate the use of these three features with example applications and we will explore the use cases where these technologies represent a big leap from previous custom implementations.
+</description>
+      <startTime>6/25/2016 4:30:00 PM</startTime>
+      <endTime>6/25/2016 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45753</importID>
+      <speakers>
+        <speaker>
+          <id>45753</id>
+          <name>Marco Russo</name>
+        </speaker>
+      </speakers>
+      <track>Eau - Plongez dans la BI</track>
+      <location>
+        <name>Eau</name>
+      </location>
+      <title>Handling Relationships in DAX</title>
+      <description>The Tabular model in Power Pivot for Excel, Power BI and SSAS Tabular seems to offer only plain-vanilla one-to-many relationships, based on a single column. In 2015 there was the introduction of many-to-many relationships, yet the model seems somewhat poor when compared with SSAS Multidimensional. In reality, by leveraging the DAX language, you can handle virtually any kind of relationship, no matter how complex they are. In this session we will analyze and solve several scenarios with calculated relationships, virtual relationships, complex many-to-many. The goal of the session is to show how to solve complex scenarios with the aid of the DAX language to build unconventional data models.</description>
+      <startTime>6/25/2016 10:00:00 AM</startTime>
+      <endTime>6/25/2016 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>48471</importID>
+      <speakers>
+        <speaker>
+          <id>48471</id>
+          <name>Romain Casteres</name>
+        </speaker>
+      </speakers>
+      <track>Air - la puissance du Cloud</track>
+      <location>
+        <name>Air</name>
+      </location>
+      <title>Velib  Cortana (Event Hubs, ASA, ADF, AML, SQL DB, Power BI, ...)</title>
+      <description>V#233;lib est un service public #224; grande #233;chelle de location de v#233;los sur la r#233;gion parisienne en France. Lanc#233; le 15 juillet 2007, le service propose aujourd’hui environ 14 500 v#233;los et 1230 stations sur Paris. Gr#226;ce #224; la suite Azure Cortana Analytics Suite, nous allons mettre en place une solution d’analyse des donn#233;es de ces V#233;lib de fa#231;on #224; r#233;pondre #224; 2 probl#233;matiques :
+-       Obtenir une analyse descriptive en temps r#233;el du r#233;seau V#233;lib
+-       Mettre #224; disposition une analyse pr#233;dictive permettant de pr#233;dire la disponibilit#233; du nombre de v#233;los et de stations disponibles pour une station donn#233;e. 
+
+Dans la pr#233;sentation nous montrerons comment nous avons mis en place la solution dans le Cloud Azure #224; l’aide des services suivants :
+-       Azure Event Hubs
+-       Azure Stream Analytics
+-       Azure Data Factory
+-       Azure Machine Learning
+-       Azure SQL Database
+-       Power BI</description>
+      <startTime>6/25/2016 3:00:00 PM</startTime>
+      <endTime>6/25/2016 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>48519</importID>
+      <speakers>
+        <speaker>
+          <id>48519</id>
+          <name>Ryan Yates</name>
+        </speaker>
+      </speakers>
+      <track>Metal - la robustesse de SQL Server</track>
+      <location>
+        <name>Metal</name>
+      </location>
+      <title>Why and how to Implement PowerShell DSC for SQL Server</title>
+      <description>In this Session we will delve into the need to deploy and manage SQL Server Configurations using PowerShell Desired State Configuration and the immediate benefits that this can and will bring to your deployment and administration of this very much vital technology.
+Believe me when I say that I am no SQL Expert but this session will leave those that attend in a position to go away and look to implement this in their organisation and really reap the benefits that managing your Infrastructure as Code brings to a flexible an more maintainable environment.
+
+This session will also briefly cover the other core necessities that will be required to get this underway which include the importance of Source Control for the configurations, Community Developed Resources  more.
+ </description>
+      <startTime>6/25/2016 10:00:00 AM</startTime>
+      <endTime>6/25/2016 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>44354</importID>
+      <speakers>
+        <speaker>
+          <id>44354</id>
+          <name>Dejan Sarka</name>
+        </speaker>
+      </speakers>
+      <track>Eau - Plongez dans la BI</track>
+      <location>
+        <name>Eau</name>
+      </location>
+      <title>Identity Mapping and De-Duplicating </title>
+      <description>In an enterprise, merging master data, like customer data, from multiple sources is a common problem. Typically, you do not have a single, i.e. the same key identifying a customer in different sources. You have to match data based on similarity of strings, like names and addresses. In this session, we are going to check how different algorithms for comparing strings included in SQL Server  work. We are going to use four different algorithms that come with Master Data Services (Levenshtein, Jaccard, Jaro-Winkler and Ratcliff-Obershelp), and Fuzzy Lookup transformation from Integration Services. Finally, we are going to introduce how SQL Server Data Quality Services help us here.</description>
+      <startTime>6/25/2016 4:30:00 PM</startTime>
+      <endTime>6/25/2016 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>48725</importID>
+      <speakers>
+        <speaker>
+          <id>48725</id>
+          <name>Jean-Pierre Riehl</name>
+        </speaker>
+      </speakers>
+      <track>Air - la puissance du Cloud</track>
+      <location>
+        <name>Air</name>
+      </location>
+      <title>Cortana Analytics, de nouvelles patterns pour vos plateformes de donn#233;es</title>
+      <description>Le monde de la donn#233;e est en pleine mutation. Le Data devient Big, le SQL devient NoSQL, la BI devient Analytics, le Data Mining devient Data Science…
+Faux buzz ou vrais paradigmes, quoiqu'il en soit, de nouvelles architectures apparaissent pour traiter les challenges d'aujourd'hui. Microsoft propose ses solutions au travers de Cortana Analytics, veritable mashup des briques Data du Cloud Azure : Azure Data Catalog, Azure Stream Analytics, Azure Data Lake, Azure Data Factory, Azure ML, HDInsight, etc.
+Que font ces briques ? Lesquelles choisir ? Comment s'interconnectent-elles ? Quelle architecture impl#233;menter ? Ce sont ces questions que nous aborderons lors de cette session.</description>
+      <startTime>6/25/2016 1:30:00 PM</startTime>
+      <endTime>6/25/2016 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49669</importID>
+      <speakers>
+        <speaker>
+          <id>49669</id>
+          <name>Kevin Kline</name>
+        </speaker>
+      </speakers>
+      <track>Feu - des performances brulantes</track>
+      <location>
+        <name>Feu</name>
+      </location>
+      <title>End-to-End Troubleshooting for SQL Server </title>
+      <description>Learning how to detect, diagnose and resolve performance problems in SQL Server is tough.  Often, years are spent learning how to use the tools and techniques that help you detect when a problem is occurring, diagnose the root-cause of the problem, and then resolve the problem.  
+
+In this session, attendees will see demonstrations of the tools and techniques which make difficult troubleshooting scenarios much faster and easier, including:
+
+• XEvents, Profiler/Traces, and PerfMon 
+• Using Dynamic Management Views (DMVs)
+• Advanced Diagnostics Using Wait Stats
+• Reading SQL Server execution plan 
+
+Every DBA needs to know how to keep their SQL Server in tip-top condition, and you’ll need skills the covered in this session to do it.</description>
+      <startTime>6/25/2016 3:00:00 PM</startTime>
+      <endTime>6/25/2016 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>48717</importID>
+      <speakers>
+        <speaker>
+          <id>48717</id>
+          <name>serge Luca</name>
+        </speaker>
+      </speakers>
+      <track>Eau - Plongez dans la BI</track>
+      <location>
+        <name>Eau</name>
+      </location>
+      <title>Que choisir ? SharePoint 2016 BI ou PowerBI v2 ?</title>
+      <description>La roadmap BI de Microsoft est rarement bien comprise. 
+On premises nous avons SharePoint 2013 ainsi que de nouvelles fonctionnalit#233;s BI en SharePoint 2016. Dans le cloud nous avons la PowerBI ; la PowerBI elle-m#234;me a #233;t#233; r#233;vis#233;e en profondeur par Microsoft de sorte qu’il devient assez compliqu#233; de comprendre la diff#233;rence entre la PowerBI v1 et la PowerBI v2. C’est ce qu’il sera clarifi#233; lors de cette session o#249; Serge Luca (SharePoint MVP) et Isabelle Van Campenhoudt (SQL Server MVP) d#233;criront les fonctionnalit#233;s de Business Intelligence de SharePoint 2016 , les am#233;liorations par rapport #224; SharePoint 2013; en seconde partie de session la nouvelle version de PowerBI (V2) sera #233;galement illustr#233;e et expliqu#233;e, en ce y compris  les sc#233;narios hybrides.
+
+</description>
+      <startTime>6/25/2016 1:30:00 PM</startTime>
+      <endTime>6/25/2016 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>47880</importID>
+      <speakers>
+        <speaker>
+          <id>47880</id>
+          <name>Sean McCown</name>
+        </speaker>
+      </speakers>
+      <track>Feu - des performances brulantes</track>
+      <location>
+        <name>Feu</name>
+      </location>
+      <title>The Backup Tune-up</title>
+      <description>Have you ever gotten tired of your database taking hours to back up? Are you sick of your users breathing down your neck because the database restore is taking too long? Now you won't have to worry about that anymore. In this session I show you some little known tricks, methods, and trace flags you can use to tune your backups just like you would a query. You'll learn about the backup "execution plan" and how to access it. Understanding how to tune the individual portions of your backup process will allow you to knock 80% and even more off of your backup and restore time. I’m not holding anything back in this session. This is a method I’ve used for 15 years to tune my backups and I’ve had great success.</description>
+      <startTime>6/25/2016 10:00:00 AM</startTime>
+      <endTime>6/25/2016 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>48469</importID>
+      <speakers>
+        <speaker>
+          <id>48469</id>
+          <name>Philippe Geiger</name>
+        </speaker>
+      </speakers>
+      <track>Feu - des performances brulantes</track>
+      <location>
+        <name>Feu</name>
+      </location>
+      <title>Query Store ou comment donner de la m#233;moire #224; sa base de donn#233;es</title>
+      <description>Le Query Store, tout le monde en parle pour diagnostiquer les probl#232;mes de performance en fonction de l'historique mais qu'est qui se cache en d#233;tail derri#232;re cette fonction.
+Pendant une heure, nous allons regarder en d#233;tail ce qui fait tourner ce moteur, ces cas d'usage et ses limites. Tout sera pass#233; #224; l'analyse et nous verrons si la fonction tient ses promesses : trouver les probl#232;mes de performancesen comparant avec ce qui s'est pass#233;.</description>
+      <startTime>6/25/2016 1:30:00 PM</startTime>
+      <endTime>6/25/2016 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49670</importID>
+      <speakers>
+        <speaker>
+          <id>49670</id>
+          <name>jean-pierre Girardot</name>
+        </speaker>
+      </speakers>
+      <track>Eau - Plongez dans la BI</track>
+      <location>
+        <name>Eau</name>
+      </location>
+      <title>Dashboards dynamiques et percutants avec Power BI</title>
+      <description>D#233;couvrir les multiples possibilit#233;s de dashboarding de Power BI 
+ -int#233;gration graphiques et tableaux crois#233;s dynamiques depuis Excel
+ -int#233;gration images dynamiques 
+ -insertion de graphiques personnalis#233;s 
+-Partage des dashboards 
+-Int#233;gration Power Point et Office 365</description>
+      <startTime>6/25/2016 3:00:00 PM</startTime>
+      <endTime>6/25/2016 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>48322</importID>
+      <speakers>
+        <speaker>
+          <id>48322</id>
+          <name>Christophe Laporte</name>
+        </speaker>
+      </speakers>
+      <track>Feu - des performances brulantes</track>
+      <location>
+        <name>Feu</name>
+      </location>
+      <title>SQL Server Scale-Out  Performance</title>
+      <description>Assurer la mont#233;e en charge d'une application fait partie int#233;grante des t#226;ches qui incombent au DBA. M#234;me si bon nombre de choix influant sur l'#233;volutivit#233; de l'application sont inh#233;rents au d#233;veloppement et #224; l'architecture de l'applicatif,  SQL Server offre portant bon nombre de possibilit#233;s afin de supporter la mont#233;e en charge. Techniques et retour d'exp#233;rience sur un domaine m#234;lant optimisation, architecture, infrastructure et ing#233;niosit#233;.</description>
+      <startTime>6/25/2016 11:30:00 AM</startTime>
+      <endTime>6/25/2016 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>47723</importID>
+      <speakers>
+        <speaker>
+          <id>47723</id>
+          <name>Charles-Henri Sauget</name>
+        </speaker>
+      </speakers>
+      <track>Air - la puissance du Cloud</track>
+      <location>
+        <name>Air</name>
+      </location>
+      <title>Et si ... nous connections SSAS Tabular sur Datalake ?</title>
+      <description>Nous vous proposons une session qui sort des sentiers battus, #224; base d'une architecture dont voici quelques #233;l#233;ments :
+
+- Des fichiers tr#232;s volumineux
+- Un stockage sur Azure Data Lake
+- Un traitement en U-SQL
+- Un ordonnancement avec ADF
+- Un SQL Server 2016 avec Polybase 
+- Et enfin un cube Tabular en DirectQuery
+
+Pensez-vous qu'une telle architecture peut donner quelque chose de viable ? Venez le d#233;couvrir avec nous :)</description>
+      <startTime>6/25/2016 10:00:00 AM</startTime>
+      <endTime>6/25/2016 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>48520</importID>
+      <speakers>
+        <speaker>
+          <id>48520</id>
+          <name>Marius Zaharia</name>
+        </speaker>
+      </speakers>
+      <track>Air - la puissance du Cloud</track>
+      <location>
+        <name>Air</name>
+      </location>
+      <title>From StreamInsight to Azure Stream Analytics, or moving CEP to the Cloud</title>
+      <description>In 1h we will understand the main concepts of Complex Event Processing, the "technological roots" of it at Microsoft (StreamInsight under SQL 2008 R2) then moving the implementation to Azure's corresponding service - Stream Analytics. Main use cases, including IoT but not only.</description>
+      <startTime>6/25/2016 11:30:00 AM</startTime>
+      <endTime>6/25/2016 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>44481</importID>
+      <speakers>
+        <speaker>
+          <id>44481</id>
+          <name>David Barbarin</name>
+        </speaker>
+      </speakers>
+      <track>Feu - des performances brulantes</track>
+      <location>
+        <name>Feu</name>
+      </location>
+      <title>Locks, latches and spinlocks</title>
+      <description>Do you want to know more about SQL Server and data consistency mechanisms? Please join this session ... We’ll talk about logical locking but also how SQL Server protects its physical data structures in memory with lightweight synchronization objects like Latches and Spinlocks.</description>
+      <startTime>6/25/2016 4:30:00 PM</startTime>
+      <endTime>6/25/2016 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>47185</importID>
+      <speakers>
+        <speaker>
+          <id>47185</id>
+          <name>Sarah Bessard</name>
+        </speaker>
+      </speakers>
+      <track>Metal - la robustesse de SQL Server</track>
+      <location>
+        <name>Metal</name>
+      </location>
+      <title>Mise #224; niveau du moteur de base de donn#233;es</title>
+      <description>Mise #224; niveau du moteur de base de donn#233;es
+- Pourquoi migrer ? Fin de support, une nouvelle fonctionnalit#233; strat#233;gique...
+- #201;valuer les risques de r#233;gression du code : Upgrade Advisor
+- #201;valuer les risques de r#233;gression sur la performance : Profiler (Distributed Replay Utility), XEvent
+- Pr#233;parer la mise #224; niveau : Inventaire des objets #224; migrer, m#233;thodes de migration...
+- Dans quel cas un rollback est possible ? Plan guide, traceflag...
+</description>
+      <startTime>6/25/2016 3:00:00 PM</startTime>
+      <endTime>6/25/2016 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>45090</importID>
+      <speakers>
+        <speaker>
+          <id>45090</id>
+          <name>Chrissy LeMaire</name>
+        </speaker>
+      </speakers>
+      <track>Metal - la robustesse de SQL Server</track>
+      <location>
+        <name>Metal</name>
+      </location>
+      <title>Simplifying SQL Server Migrations using PowerShell</title>
+      <description>What if migrating SQL Server instances was as simple as executing a single command? 
+
+In this presentation, I'll cover the reasons companies migrate, the ways SQL migrations are usually performed, and the considerations that must be made when performing a migration.
+
+Then I'll show you how to use the PowerShell dbatools module to simplify your SQL Server migrations. dbatools makes migrating databases, logins, linked servers, credentials, jobs, database mail, and other essential SQL components extremely easy. 
+</description>
+      <startTime>6/25/2016 1:30:00 PM</startTime>
+      <endTime>6/25/2016 2:30:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

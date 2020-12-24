@@ -1,0 +1,23 @@
+# SQLSaturday #342 - Mobile 2014
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Brian Rigsby|Track 2|[The Binary Language of Music](10788.md)
+00:00:00|Daniel Rosales|Track 3|[Aspect Oriented Programming](12183.md)
+00:00:00|Glenda Gable|Track 3|[Data Warehouse Indexes](14577.md)
+00:00:00|Matthew Roberts|Track 2|[SQL Server Internals](19839.md)
+00:00:00|Mike Robbins|Track 2|[Learn PowerShell or Die! for the DBA](20707.md)
+00:00:00|Mike Robbins|Track 2|[What’s New in PowerShell Version 5?](20708.md)
+00:00:00|Michael Viron|Track 1|[Fundamentals of Disaster Planning  Recovery](21249.md)
+00:00:00|Michael Viron|Track 4|[Lessons Learned from Starting Software Development Projects](21250.md)
+00:00:00|Ryan Duclos|Track 1|[Microsoft Azure SQL Database](22745.md)
+00:00:00|Ryan Duclos|Track 1|[*** Reporting Services Support /Tips/Tricks ***](22747.md)
+00:00:00|Rohn Edwards|Track 4|[Managing Access Control with PowerShell](23424.md)
+00:00:00|Stuart Ainsworth|Track 1|[The Elephant in the Room; A DBA's Guide to Hadoop ](25850.md)
+00:00:00|Stuart Ainsworth|Track 4|[Managing a Technical Team: Lessons Learned](25851.md)
+00:00:00|Stuart Ainsworth|Track 1|[What's in your toolbelt?](25852.md)
+00:00:00|Sven Aelterman|Track 2|[Windows Server 2012 R2 High Availability for SQL Server](25924.md)
+00:00:00|William E Pearson III|Track 3|[Design and Implement BI like Edison! ](28162.md)
+00:00:00|William E Pearson III|Track 3|[Getting Started with MDX](28164.md)
+00:00:00|Robert Cain|Track 4|[Zero to Hero with PowerShell and SQL Server in 1 Session](9730.md)
+00:00:00|Robert Cain|Track 1|[Introducing the SSAS 2012 BI Semantic Model, aka Tabular](9732.md)
+00:00:00|Robert Cain|Track 4|[Everything You Ever Knew About SSIS Is Null and Void](9733.md)

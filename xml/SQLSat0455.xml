@@ -1,0 +1,604 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #455 - Durban 2015</name>
+    <startDate>9/19/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>180</attendeeEstimate>
+    <timezone>(GMT+02:00) Jerusalem</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatDurban</twitterHashtag>
+    <venue>
+      <name>Derivco Offices</name>
+      <street>77 Armstrong Ave</street>
+      <city>Durban</city>
+      <state>KwaZulu-Natal, South Africa</state>
+      <zipcode>4051</zipcode>
+      <longitude>31.067534</longitude>
+      <latitude>-29.746734</latitude>
+    </venue>
+  </guide>
+  <speakers>
+    <speaker>
+      <importID>38099</importID>
+      <name>Arnie Rowland</name>
+      <label>
+      </label>
+      <description>Arnie long ago realized that most issues between Developer and DBA comes from incomplete communication and a misunderstanding of each other's objectives. He is a frequent Trainer and Mentor for Developers and DBAs, bringing both sets of skills to better communicate  with teams to create a working solution. For over a decade, Arnie has been a SQL Server MVP, Certified Trainer, technical editor for several publishers, including MOC, and has served as University and Community College adjunct faculty. Clients include Fortune 500 and Multi-Nationals, Federal and State agencies, Foreign governments, and local enterprises –both public and private.</description>
+      <twitter>@ArnieRowland</twitter>
+      <linkedin>https://www.linkedin.com/in/arnie</linkedin>
+      <ContactURL>http://sqlblog.com/blogs/arnie_rowland/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ArnieRowland</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40797</importID>
+      <name>Arnie Rowland</name>
+      <label>
+      </label>
+      <description>Arnie long ago realized that most issues between Developer and DBA comes from incomplete communication and a misunderstanding of each other's objectives. He is a frequent Trainer and Mentor for Developers and DBAs, bringing both sets of skills to better communicate  with teams to create a working solution. For over a decade, Arnie has been a SQL Server MVP, Certified Trainer, technical editor for several publishers, including MOC, and has served as University and Community College adjunct faculty. Clients include Fortune 500 and Multi-Nationals, Federal and State agencies, Foreign governments, and local enterprises –both public and private.</description>
+      <twitter>@ArnieRowland</twitter>
+      <linkedin>https://www.linkedin.com/in/arnie</linkedin>
+      <ContactURL>http://sqlblog.com/blogs/arnie_rowland/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ArnieRowland</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>39722</importID>
+      <name>Clinton van Blommestein</name>
+      <label>
+      </label>
+      <description>Clinton is a senior developer at Derivco in Durban (South Africa), a company that is a leader in the online gaming space. He has over 16 years experience in highly transactions systems, with focus on the services and data tiers. He is a regular speaker at SQL events in South Africa, is also the co-leader for the Durban SQL User Group and has recognised as a Couchbase Champion for his contribution to their community.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://za.linkedin.com/in/clintonvb</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37844</importID>
+      <name>Steve Simon</name>
+      <label>
+      </label>
+      <description>Steve Simon is a Database Solutions Architect with Business Knowledge Services Inc. He has been involved with database design and analysis for over 35 years. Steve has presented papers at numerous PASS Summits and PASS SQL Rallies. He is also regular presenter on the SQL Saturday circuit and he is a contributor on SQLShack.com</description>
+      <twitter>SQLServerBoffin</twitter>
+      <linkedin>http://www.linkedin.com/in/stephenrsimon/</linkedin>
+      <ContactURL>http://www.sqlservercentral.com/blogs/simon_says/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLServerBoffin</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>39309</importID>
+      <name>Sean Cremer</name>
+      <label>
+      </label>
+      <description>Sean Cremer is a Senior Developer at Derivco.  He has worked with SQL Server for nearly two decades on Large OLTP and Data Warehousing  Systems and has a wealth of accumulated  Database Design and Implementation knowledge.</description>
+      <twitter>https://twitter.com/seanCremer</twitter>
+      <linkedin>http://www.linkedin.com/profile/preview?locale=en_UStrk=prof-0-sb-preview-primary-button</linkedin>
+      <ContactURL>https://seancremer.github.io/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/seanCremer</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38158</importID>
+      <name>Gail Shaw</name>
+      <label>
+      </label>
+      <description>Gail Shaw is a Database Specialist focusing on database performance tuning and database recovery, with a particular interest in topics such as indexing strategies, execution plans, and writing T-SQL code that performs well and scales gracefully. Gail holds a Microsoft Certified Master certification for SQL Server 2008 and is a Data Platform MVP. She's a frequent poster on the SQLServerCentral forums, a Pluralsight author, writes articles for both SQLServerCentral.com and Simple-Talk.com, and has spoken at SQLSaturdays, SQL Bits and at the PASS Community Summit. Gail has been responsible for extending the lifespan of many an application, by performance-tuning their databases and providing technical guidance on all things SQL Server related.</description>
+      <twitter>@SQLInTheWild</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlinthewild.co.za</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLInTheWild</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37842</importID>
+      <name>Steve Simon</name>
+      <label>
+      </label>
+      <description>Steve Simon is a Database Solutions Architect with Business Knowledge Services Inc. He has been involved with database design and analysis for over 35 years. Steve has presented papers at numerous PASS Summits and PASS SQL Rallies. He is also regular presenter on the SQL Saturday circuit and he is a contributor on SQLShack.com</description>
+      <twitter>SQLServerBoffin</twitter>
+      <linkedin>http://www.linkedin.com/in/stephenrsimon/</linkedin>
+      <ContactURL>http://www.sqlservercentral.com/blogs/simon_says/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLServerBoffin</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38130</importID>
+      <name>Gail Shaw</name>
+      <label>
+      </label>
+      <description>Gail Shaw is a Database Specialist focusing on database performance tuning and database recovery, with a particular interest in topics such as indexing strategies, execution plans, and writing T-SQL code that performs well and scales gracefully. Gail holds a Microsoft Certified Master certification for SQL Server 2008 and is a Data Platform MVP. She's a frequent poster on the SQLServerCentral forums, a Pluralsight author, writes articles for both SQLServerCentral.com and Simple-Talk.com, and has spoken at SQLSaturdays, SQL Bits and at the PASS Community Summit. Gail has been responsible for extending the lifespan of many an application, by performance-tuning their databases and providing technical guidance on all things SQL Server related.</description>
+      <twitter>@SQLInTheWild</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlinthewild.co.za</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLInTheWild</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38961</importID>
+      <name>Niels Berglund</name>
+      <label>
+      </label>
+      <description>Niels works as Software Architect at Derivco, where he develops software as well as "dreaming" up new and innovative ways to use existing and new technology. Before joining Derivco, Niels worked as researcher/instructor at Developmentor where he was responsible for the database curriculum. He was a co-author of the first SQL Server 2005 book for developers: quot; A First Look at SQL 2005 for Developersquot;. He has presented at all leading technical conferences; Tech-ED, SQL PASS, DevWeek, Ignite the Tour, etc., and is also a Microsoft Data Platform MVP.</description>
+      <twitter>nielsberglund</twitter>
+      <linkedin>https://za.linkedin.com/in/niels-berglund-0122593</linkedin>
+      <ContactURL>https://nielsberglund.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=nielsberglund</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38131</importID>
+      <name>Gail Shaw</name>
+      <label>
+      </label>
+      <description>Gail Shaw is a Database Specialist focusing on database performance tuning and database recovery, with a particular interest in topics such as indexing strategies, execution plans, and writing T-SQL code that performs well and scales gracefully. Gail holds a Microsoft Certified Master certification for SQL Server 2008 and is a Data Platform MVP. She's a frequent poster on the SQLServerCentral forums, a Pluralsight author, writes articles for both SQLServerCentral.com and Simple-Talk.com, and has spoken at SQLSaturdays, SQL Bits and at the PASS Community Summit. Gail has been responsible for extending the lifespan of many an application, by performance-tuning their databases and providing technical guidance on all things SQL Server related.</description>
+      <twitter>@SQLInTheWild</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlinthewild.co.za</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLInTheWild</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37836</importID>
+      <name>Niels Berglund</name>
+      <label>
+      </label>
+      <description>Niels works as Software Architect at Derivco, where he develops software as well as "dreaming" up new and innovative ways to use existing and new technology. Before joining Derivco, Niels worked as researcher/instructor at Developmentor where he was responsible for the database curriculum. He was a co-author of the first SQL Server 2005 book for developers: quot; A First Look at SQL 2005 for Developersquot;. He has presented at all leading technical conferences; Tech-ED, SQL PASS, DevWeek, Ignite the Tour, etc., and is also a Microsoft Data Platform MVP.</description>
+      <twitter>nielsberglund</twitter>
+      <linkedin>https://za.linkedin.com/in/niels-berglund-0122593</linkedin>
+      <ContactURL>https://nielsberglund.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=nielsberglund</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37944</importID>
+      <name>Gary Hope</name>
+      <label>
+      </label>
+      <description>Cloud Data and AI Solution Architect at Microsoft South Africa</description>
+      <twitter>GaryHope</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=GaryHope</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40482</importID>
+      <name>Trevor Makoni</name>
+      <label>
+      </label>
+      <description>Trevor has over 6 Years of experience as a Data Analyst/Developer in the Financial, Telecommunications and retail sectors. Trevor is an accomplished and fluent communicator (verbal and written) with strong investigation, problem-solving and decision-making skills, he has a sharp eye for identifying process constraints and is able to recommend and apply efficiency and optimization solutions.
+
+Trevor’s skillset includes the following but is not limited to:
+SQL/SSIS/SSAS/C#/VB Development, ETL.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://za.linkedin.com/pub/trevor-makoni/46/288/859?</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40069</importID>
+      <name>Peter Willmot</name>
+      <label>
+      </label>
+      <description>Peter has been writing software (and teaching folk how to write software) for over 30 years. He has worked with SQL Server as an architect and developer for more than 20 years (since SQL 4.2) and has also worked extensively with the .Net and various other development platforms.
+
+Peter is a past MSDN Regional Director and was also an MVP (SQL Server and Architecture) for many years. He is a passionate and regular speaker and various industry events around the world.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40450</importID>
+      <name>Michael Johnson</name>
+      <label>
+      </label>
+      <description>Michael Johnson is a Microsoft data platform MVP and leader of the Johannesburg SQL User Group and Business Analytics Virtual Group. He works as an Independent Business Intelligence Consultant and regularly presents at local user groups, SQL Saturdays and PASS Virtual Chapters.</description>
+      <twitter>MikeJohnsonZA</twitter>
+      <linkedin>http://za.linkedin.com/pub/michael-johnson/22/73/735</linkedin>
+      <ContactURL>http://michaeladrianjohnson.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MikeJohnsonZA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37846</importID>
+      <name>Steve Simon</name>
+      <label>
+      </label>
+      <description>Steve Simon is a Database Solutions Architect with Business Knowledge Services Inc. He has been involved with database design and analysis for over 35 years. Steve has presented papers at numerous PASS Summits and PASS SQL Rallies. He is also regular presenter on the SQL Saturday circuit and he is a contributor on SQLShack.com</description>
+      <twitter>SQLServerBoffin</twitter>
+      <linkedin>http://www.linkedin.com/in/stephenrsimon/</linkedin>
+      <ContactURL>http://www.sqlservercentral.com/blogs/simon_says/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLServerBoffin</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37945</importID>
+      <name>Gary Hope</name>
+      <label>
+      </label>
+      <description>Cloud Data and AI Solution Architect at Microsoft South Africa</description>
+      <twitter>GaryHope</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=GaryHope</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>38099</importID>
+      <speakers>
+        <speaker>
+          <id>38099</id>
+          <name>Arnie Rowland</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Application  Database Development</name>
+      </location>
+      <title>RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works.</title>
+      <description>I'm just going to say it straight out. I'm pessimistically optimistic that most really understand transaction concurrency in SQL Server. There is often significant confusion about transaction concurrency and contention options available to Developers -is it 'pessimistic', or 'optimistic', or in between? Everyone ‘sort of’ understands READ COMMITTED (RC). But do you sometimes feel 'dirty' as you attempt to 'repeatedly' read that phantasma? In order to reduce locking and blocking conflicts, some folks adopt SNAPSHOT ISOLATION (SI). And a few hardy stalwarts have ventured into the new world of READ COMMITTED SNAPSHOT ISOLATION (RCSI). In this session, we will explore the differences between the three, including a discussion about the positives and negatives of each option. We will discuss the effects of 'Dirty', 'Repeatable' and 'Phantom' reads, and why you may want to know which may be buried in your code. There will be code examples demonstrating the benefits and traps of each option.</description>
+      <startTime>9/19/2015 10:10:00 AM</startTime>
+      <endTime>9/19/2015 11:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>37844</importID>
+      <speakers>
+        <speaker>
+          <id>37844</id>
+          <name>Steve Simon</name>
+        </speaker>
+      </speakers>
+      <track>Information Delivery</track>
+      <location>
+        <name>BI Platform Architecture, Development  Administration</name>
+      </location>
+      <title>SQL Server Reporting Services 2014 on Steroids!!</title>
+      <description>Reporting requests that are required ‘yesterday or sooner’, oft times necessitate working more efficiently and effectively. We have all been through this at one time or another.
+In this hands on presentation we shall be looking some of the more challenging techniques of extracting our data from our Multidimensional and Tabular Models, in addition to our Data Mining Models. 
+We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as a means to extract data,  in addition to looking at the way that these two concepts can help us extract our data utilizing MDX, DMX and DAX expressions;  AND YET maintain the  flexibility and the ability to utilize all those wonderful techniques that may  be done with T-SQL.
+
+</description>
+      <startTime>9/19/2015 3:00:00 PM</startTime>
+      <endTime>9/19/2015 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>38158</importID>
+      <speakers>
+        <speaker>
+          <id>38158</id>
+          <name>Gail Shaw</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Cloud Application Development  Deployment</name>
+      </location>
+      <title>All about Execution Plans</title>
+      <description>The key to understanding how SQL Server is processing your queries is the execution plan. 
+
+This full day session focuses on the execution plan. We'll look at the compile process, how and why plans are stored in cache and how they are removed. 
+
+We’ll spend time exploring the key differences between actual and estimated plans, and why those descriptions are more than a little misleading. We’ll also show you assorted methods to obtain a query's execution plan and what the differences and tradeoffs of each are.
+
+We'll look at where to find useful information in execution plans, what the common operators are and how to decipher the sometimes cryptic messages the plans are sending to you. We'll also debunk some myths surrounding query operators and execution plans, and we'll show how you can use the execution plan to identify performance issues and other query problems.</description>
+      <startTime>9/19/2015 10:10:00 AM</startTime>
+      <endTime>9/19/2015 11:40:00 AM</endTime>
+    </event>
+    <event>
+      <importID>39722</importID>
+      <speakers>
+        <speaker>
+          <id>39722</id>
+          <name>Clinton van Blommestein</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Application  Database Development</name>
+      </location>
+      <title>tSQLt - Database Unit Testing</title>
+      <description>Everyone writes perfect SQL code, but sometimes things happen that make your code run in weird and unexpected ways.
+Or you are that lucky person that has to make changes to business critical code, where a mistake can put you on a fist name basis with the CEO.
+
+Sure, we have testing departments that will check our code, and some of us have to test our code ourselves. 
+But you might still end up lying awake at night wondering about that edge case scenario.
+
+Testing takes time, and database tables have foreign keys and constraints and all sorts of other things that make it hard to get the system into a specific state. Then you change your code and have to do it all over again.
+
+tSQLt allows you to prepare your database for a test, and once the test is run the database is set back like nothing happened. All that remains is whether your test succeeded.
+
+We will go through setting up the framework, how to write tests and run them - either manually or as part of your build process
+</description>
+      <startTime>9/19/2015 11:10:00 AM</startTime>
+      <endTime>9/19/2015 12:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40069</importID>
+      <speakers>
+        <speaker>
+          <id>40069</id>
+          <name>Peter Willmot</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>BI Platform Architecture, Development  Administration</name>
+      </location>
+      <title>Designing and Building SQL Database Apps for IoT Scenarios</title>
+      <description>Learn about various features and capabilities of the SQL Database engine that can be leveraged to provide optimal support for IoT and similar applications scenarios in which data is gathered in high volumes from medium-to-large populations of distributed mobile and/or embedded client applications (e.g. Android, industrial micro-controller, etc) that utilize a variety of operating system and programming platforms. Session covers a wide range of topics from optimal physical schema design and tips for building apps that cater for popular protocols and data formats such as JSON and MQTT.</description>
+      <startTime>9/19/2015 9:10:00 AM</startTime>
+      <endTime>9/19/2015 10:40:00 AM</endTime>
+    </event>
+    <event>
+      <importID>39309</importID>
+      <speakers>
+        <speaker>
+          <id>39309</id>
+          <name>Sean Cremer</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Cloud Application Development  Deployment</name>
+      </location>
+      <title>Dynamic Management Views and Functions - a Practical Overview</title>
+      <description>For anyone working on SQL Server these are an invaluable tool.  They provide a means to diagnose problems and performance tune.  
+
+This session will cover the more commonly used Dynamic Management Views and introduce the new ones that will be coming in 2016.
+</description>
+      <startTime>9/19/2015 9:10:00 AM</startTime>
+      <endTime>9/19/2015 10:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>37945</importID>
+      <speakers>
+        <speaker>
+          <id>37945</id>
+          <name>Gary Hope</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>BI Platform Architecture, Development  Administration</name>
+      </location>
+      <title>Microsoft Machine Learning Overview</title>
+      <description>Advanced Predicive Analytics Overview with Azure Machine Learning</description>
+      <startTime>9/19/2015 2:00:00 PM</startTime>
+      <endTime>9/19/2015 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>37842</importID>
+      <speakers>
+        <speaker>
+          <id>37842</id>
+          <name>Steve Simon</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Application  Database Development</name>
+      </location>
+      <title>Efficient and Effective coding of Stored Procedures</title>
+      <description>Data does not become information until decision makers are able to view it and make those decisions that affect the enterprise as a whole. Stored procedures are one means of getting the data from the database tables to the reports in an effective and efficient manner.
+In this hands-on presentation, we shall be looking at best practices with regards to creating and tuning stored procedures. We shall also be discussing parameter sniffing and other gotcha’s that affect us in our daily lives. </description>
+      <startTime>9/19/2015 1:00:00 PM</startTime>
+      <endTime>9/19/2015 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>38131</importID>
+      <speakers>
+        <speaker>
+          <id>38131</id>
+          <name>Gail Shaw</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Cloud Application Development  Deployment</name>
+      </location>
+      <title>Lies, Damned Lies And Statistics</title>
+      <description>Ever wondered what the things called statistics are, why they're important and what needs to be done to maintain them? If so, this session is for you! 
+
+In this session well take a look at what statistics are and why SQL keeps them; at how SQL maintains them and under what circumstances that maintenance is insufficient; and well look at the problems that result when they are inaccurate. 
+
+Finally we'll cover some suggestions and options around maintenance of statistics when the automatic maintenance is not sufficient.</description>
+      <startTime>9/19/2015 2:00:00 PM</startTime>
+      <endTime>9/19/2015 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>37836</importID>
+      <speakers>
+        <speaker>
+          <id>37836</id>
+          <name>Niels Berglund</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Application  Database Development</name>
+      </location>
+      <title>Real World Error Handling in SQL Server</title>
+      <description>Every SQL developers should by now be aware of the new error handling introduced in SQL Server 2005, i.e. BEGIN TRY ... END TRY BEGIN CATCH ... END CATCH, and all of us are most likely extremely happy that we finally have "proper" error handling. 
+However, in the "real world" it may not be so straight forward as just using this new error handling. As we at Derivco have seen there are quite a few "gotchas" when it comes to  how to handle errors. In this session we will take a look and see what issues we have to be aware of, in order not to be bitten by our error handling.</description>
+      <startTime>9/19/2015 9:10:00 AM</startTime>
+      <endTime>9/19/2015 10:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>38130</importID>
+      <speakers>
+        <speaker>
+          <id>38130</id>
+          <name>Gail Shaw</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Cloud Application Development  Deployment</name>
+      </location>
+      <title>Backups? What backups?</title>
+      <description>That’s never something you want to hear. Unfortunately it tends to be heard far too often.
+In this introductory session, we’ll look at backups, backups and more backups (because there’s no such thing as too many backups)
+
+We’ll look at full backups, what they are and how often they should be run.
+We’ll look at differential backups, how they fit into backup strategies and the pitfalls you may encounter when using them.
+We’ll look at transaction log backups, at why they are an essential part of the backup strategy for important databases and at what happens when transaction log backups go wrong.
+</description>
+      <startTime>9/19/2015 1:00:00 PM</startTime>
+      <endTime>9/19/2015 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40450</importID>
+      <speakers>
+        <speaker>
+          <id>40450</id>
+          <name>Michael Johnson</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>BI Platform Architecture, Development  Administration</name>
+      </location>
+      <title>Automating your data-warehouse development with BIML</title>
+      <description>BIML is a great tool for the automaton of your Business Intelligence solution. In this talk you will learn how BIML can be used to create consistent and well-designed SSIS packages to handle the loading of your data warehouse. Using templates and meta-data driven package generation we can quickly build up the ETL solution and just as quickly respond to changing requirements as they arrive. </description>
+      <startTime>9/19/2015 1:00:00 PM</startTime>
+      <endTime>9/19/2015 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>38961</importID>
+      <speakers>
+        <speaker>
+          <id>38961</id>
+          <name>Niels Berglund</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Application  Database Development</name>
+      </location>
+      <title>What's New for SQL Developers in SQL Server 2016</title>
+      <description>Next version of SQL Server is just "around the corner". In this session we will look at what a SQL Server developer may find interesting among a "sea" of new features / functionality.
+
+Things we will look at is:  improvements to In-Memory OLTP (the "artist" formerly known as Hekaton),  Operational Analysis - how to combine OLTP processes together with the ability to analyse the data at the same time, new JSON support and other odd and "sundry" things</description>
+      <startTime>9/19/2015 2:00:00 PM</startTime>
+      <endTime>9/19/2015 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>37846</importID>
+      <speakers>
+        <speaker>
+          <id>37846</id>
+          <name>Steve Simon</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>BI Platform Architecture, Development  Administration</name>
+      </location>
+      <title>Business Analytics with SQL Server  Power Map:Everything you want to know but were afraid to ask </title>
+      <description>With the rapid advance in analytic features and the increased capabilities to produce more informative reports, SQL Server 2014 opens a plethora of new and exciting opportunities.
+In the hands-on presentation we shall be constructing a few simple analytic reports (from background financial data). More importantly we shall see how our conclusions help us target new prospective business opportunities.</description>
+      <startTime>9/19/2015 11:10:00 AM</startTime>
+      <endTime>9/19/2015 12:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40482</importID>
+      <speakers>
+        <speaker>
+          <id>40482</id>
+          <name>Trevor Makoni</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Cloud Application Development  Deployment</name>
+      </location>
+      <title>Dynamic SQL, not so scary?</title>
+      <description>A look at how dynamic SQL can be used in BAU tasks as a tool and also its use in applications.
+
+I will be looking at the specific example of an application runtime need to import all or a subset of database objects tables, views, functions, procedures, triggers from one database to another.
+
+I will also look at how to store the result of a SQL select into a .NET Data Table object and then to XML and then the reverse of picking up the XML and then recreating the dataset back to SQL.</description>
+      <startTime>9/19/2015 3:00:00 PM</startTime>
+      <endTime>9/19/2015 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40797</importID>
+      <speakers>
+        <speaker>
+          <id>40797</id>
+          <name>Arnie Rowland</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Application  Database Development</name>
+      </location>
+      <title>Query Performance QA</title>
+      <description>Want to know more about how SQL Server handles your queries?
+Or perhaps better understand why sometimes it just doesn't seem to work the way you hope?
+Maybe you have questions about specific queries in your environment?
+ 
+Bring your questions and desire for knowledge to this free flowing QA Session and let one of the top SQL Server Query Performance Specialists offer suggestions and advice.
+ 
+No Powerpoint. No 'canned' demos.
+Just a conversation about your 'real world' problems and how you might go about improving performance. Don't miss this opportunity.
+ 
+</description>
+      <startTime>9/19/2015 3:00:00 PM</startTime>
+      <endTime>9/19/2015 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>37944</importID>
+      <speakers>
+        <speaker>
+          <id>37944</id>
+          <name>Gary Hope</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>BI Platform Architecture, Development  Administration</name>
+      </location>
+      <title>Microsoft Steam Analytics and Real-Time Data Visualisation</title>
+      <description>An Introduction to real-time data analytics using Micosoft Azure Stream Analytics and Visualisation with Power BI</description>
+      <startTime>9/19/2015 10:10:00 AM</startTime>
+      <endTime>9/19/2015 11:10:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

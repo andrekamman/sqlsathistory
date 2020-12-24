@@ -1,0 +1,233 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #335 - Athens 2014</name>
+    <startDate>10/4/2014 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT+02:00) Harare, Pretoria</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatAthens</twitterHashtag>
+    <venue>
+      <name>Microsoft Hellas </name>
+      <street>221 Kifisias Ave</street>
+      <city>Marousi</city>
+      <state>Attica, Greece</state>
+      <zipcode>151 24</zipcode>
+      <longitude>23.7801399</longitude>
+      <latitude>38.0451202</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1114</importID>
+      <name>SQLschool.gr</name>
+      <label>Personal Sponsor</label>
+      <url>http://www.sqlschool.gr</url>
+      <imageURL>http://sqlschool.gr/images/SQLSCHOOL_LOGO_COLOR_BLACK_LETTERS_2019.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>869</importID>
+      <name>MSSQLTips</name>
+      <label>FREE Swag Sponsor</label>
+      <url>http://www.mssqltips.com/index.asp</url>
+      <imageURL>https://www.pass.org/files/e507d990-c152-464a-98f0-a5e6eb75d319.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>25055</importID>
+      <name>Satya Jayanty</name>
+      <label>
+      </label>
+      <description>My experience surrounded with high focus on the data platform with a track record of defining strategy, designing and delivering digital transformation  migrations with major enhancements to current working methods.  Worked in a capacity of Head of Data Engineering, Enterprise Data Architect and Solutions 
+
+Key career accomplishment  recognition as an industry expert  technical excellence from the Microsoft as Data Platform Most Valuable Professional (MVP) recognition since the year 2006 (13 years as MVP and counting), which recognizes exceptional technical community leaders worldwide who actively deliver, present  share their extraordinary contributions, high quality, and real-world expertise.
+Twitter pod (http://twitter.com/sqlmast</description>
+      <twitter>sqlmaster</twitter>
+      <linkedin>https://uk.linkedin.com/sqlmaster</linkedin>
+      <ContactURL>http://www.sqlserver-qa.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlmaster</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>25251</importID>
+      <name>Stelios Tzavaras</name>
+      <label>
+      </label>
+      <description>Stelios has started his professional IT carrier in 1988. He has worked at several software houses in Greece as a Junior and Senior Software Developer, Database administrator and Technical consultant. His experience in RDBS lies mostly in MS SQL Server but he is no stranger to Oracle, Sybase and DB2. In 2011 he joined Microsoft as a Senior Premier Engineer in SQL Server, and since then he is supporting and training premier customers in Greece and abroad. He thinks data is cool!</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>26471</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9689</importID>
+      <name>Antonios Chatzipavlis</name>
+      <label>
+      </label>
+      <description>I have been working in IT for over 25 years (since 1988). In my career, I have worked as junior and senior developer, ΙΤ Manager, Software Architect and IT Consultant. 
+
+The past 20 years I have been devoted on new technologies and software development tools, mainly by Microsoft Corp, either by training company staff and colleagues or assisting them in the design, development and implementation (as a consultant or chief developer).</description>
+      <twitter>antoniosch</twitter>
+      <linkedin>https://www.linkedin.com/in/achatzipavlis/</linkedin>
+      <ContactURL>http://www.sqlschool.gr</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=antoniosch</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>20355</importID>
+      <name>Mihail Mateev</name>
+      <label>
+      </label>
+      <description>Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Mentor for CEE, chapter lead, Microsoft Azure MVP, Microsoft Regional Director. He works as a Senior Solutions Architect at EPAM Systems, focused on Data Platform, IoT and cloud related solutions. He also worked many years like a Technical evangelist in the Infragistics. Last years Mihail was focused on various areas related to technology Microsoft: Data Platform, Visual Studio, ASP.Net, Windows client apps, Data Platform, and Microsoft Azure. Michael also has a PhD in cloud computing area. He is a university lecturer on Smart Homes and Smart Energy IoT Solutions.</description>
+      <twitter>mihailmateev</twitter>
+      <linkedin>http://www.linkedin.com/pub/mihail-mateev/1/6b3/4b1</linkedin>
+      <ContactURL>https://mmateev.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mihailmateev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>26472</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>25055</importID>
+      <speakers>
+        <speaker>
+          <id>25055</id>
+          <name>Satya Jayanty</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Data platform upgrade Techniques, best practices  notes from the field</title>
+      <description>Why Upgrade?This is the big question that every SQL Server user will be asking, from my experience I say not just for shiny new features but increase your productivity and do-more with-less practices.Data Platform Upgrade topic has been a popular session that I've presented in major conferences like Microsoft Tech-Ed (North America, Europe  India) and SQLbits since 2008.In this session, we will overview end-to-end upgrade process that covers the essential phases, steps and issues involved in upgrading SQL Server 2000, 2005,  2008 R2  SQL Server 2012 (with a good overview on 2014 too) by using best practices and available resources. We will cover the complete upgrade cycle, including the preparation tasks, upgrade tasks, and post-upgrade tasks. Real-world examples from my Consulting experience expanding on why  how such a solution is offered.</description>
+      <startTime>10/4/2014 12:00:00 AM</startTime>
+      <endTime>10/4/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9689</importID>
+      <speakers>
+        <speaker>
+          <id>9689</id>
+          <name>Antonios Chatzipavlis</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Configuring SQL Server</title>
+      <description>SQL Server has a plethora of configuration settings that are spread at server, database and connection level. The purpose of this session is to notify and clarify the most important configuration settings </description>
+      <startTime>10/4/2014 12:00:00 AM</startTime>
+      <endTime>10/4/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>25251</importID>
+      <speakers>
+        <speaker>
+          <id>25251</id>
+          <name>Stelios Tzavaras</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>AlwaysOn Availability Groups: Offloading reporting workloads to secondary replicas</title>
+      <description>SQL Server AlwaysOn Availability Groups is a HADR feature introduced in SQL 2012. In this presentation we’ll talk about setting up readable secondary replicas, the impact of running reporting workloads on a secondary replica, and finally about monitoring data latency.</description>
+      <startTime>10/4/2014 12:00:00 AM</startTime>
+      <endTime>10/4/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>26471</importID>
+      <speakers>
+        <speaker>
+          <id>26471</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Common TSQL Mistakes</title>
+      <description>We are going to examine a variety of oopsies MANY developers fall prey too - some obvious, some pretty subtle and some down right sneaky! Lots of code examples with the bad AND good code presented. I GUARANTEE that you will find things here that will either prevent you from getting bad data, throwing unwanted errors or vastly improving your database application's performance.  I have given this talk over FIFTY times now and it is always very highly rated!</description>
+      <startTime>10/4/2014 12:00:00 AM</startTime>
+      <endTime>10/4/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>20355</importID>
+      <speakers>
+        <speaker>
+          <id>20355</id>
+          <name>Mihail Mateev</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Node.js and Open Source Software Development on Microsoft Azure</title>
+      <description>Node.js is an exciting platform that has been increasing in popularity for the past few years. It offers a server side JavaScript programming model ideal for building highly scalable and performant network applications whether on premise or in the cloud. In this talk we will take a look at various options for building and deploying Node applications on Microsoft Azure. This session is how to useAzure SQL Databse and Azure Storage with Node.js</description>
+      <startTime>10/4/2014 12:00:00 AM</startTime>
+      <endTime>10/4/2014 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>26472</importID>
+      <speakers>
+        <speaker>
+          <id>26472</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>File IO Stalls and Wait Stats: Tune Like a Guru!</title>
+      <description>When you know how to find out WHAT your queries are waiting on you get a very good how to fix then - or help the server as a whole in myany cases. Lots of stuff here you will want to put in your bag of tuning tricks</description>
+      <startTime>10/4/2014 12:00:00 AM</startTime>
+      <endTime>10/4/2014 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

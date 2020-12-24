@@ -1,0 +1,20 @@
+# SQLSaturday #924 - Lima 2019
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+10:00:00|Vladimir Guzman|Big Data  Analytics|[Data Analytics en Azure](99451.md)
+10:50:00|Raul Martin Sarachaga Diaz|Artificial Intelligence  Business Intelligence|[Consultando Millones de Datos con Power BI y Azure Databricks](100162.md)
+10:50:00|Marlon Leandro|DBA / Enterprise / Relational / SQL|[Aplicación de Geolocalización con SQL Server](100413.md)
+10:50:00|Julio Enrique Urriola Barra|Big Data  Analytics|[Como los sistemas cognitivos aceleran la transformación digital](99538.md)
+12:00:00|Nicolas Nakasone|DBA / Enterprise / Relational / SQL|[Novedades en SQL Server 2019](100233.md)
+12:00:00|Martha Chávez|Artificial Intelligence  Business Intelligence|[Azure Data Integration: Data factory VS Databricks](100311.md)
+12:00:00|Daniel Enrique Espinoza Solórzano|Artificial Intelligence  Business Intelligence|[Power BI y Flow en los Juegos Panamericanos y ParaPanamericanos LIMA 2019](99709.md)
+12:50:00|Vladimir Guzman|DBA / Enterprise / Relational / SQL|[SQL DevOps](99450.md)
+12:50:00|Julio Enrique Urriola Barra|Artificial Intelligence  Business Intelligence|[Gobierno de Datos De la teoria a lo funcional](99536.md)
+12:50:00|Jorge Michael Muchaypiña Gutierrez|Big Data  Analytics|[Azure Synapse Analytics + Power BI](99854.md)
+15:00:00|Juan Rafael|Big Data  Analytics|[Power BI con MS Dynamics 365](100135.md)
+15:00:00|Juan Rafael|DBA / Enterprise / Relational / SQL|[SQL Server Always ON for Dynamics 365 FO (On Premises)](100136.md)
+15:00:00|Enzo Sandoval|Big Data  Analytics|[Creando Informes con Power BI](99811.md)
+15:00:00|Jorge Michael Muchaypiña Gutierrez|Big Data  Analytics|[Data Storytelling with Power BI](99853.md)
+15:50:00|Miguel Salvador|Artificial Intelligence  Business Intelligence|[Integrando IoT, con servicios cognitivos y el asistente virtual](100460.md)
+15:50:00|Alfredo Diego Amez Mendes|Artificial Intelligence  Business Intelligence|[Data Analysis with Excel: No todo es tabla dinámica](100516.md)
+15:50:00|Marlon Leandro|Artificial Intelligence  Business Intelligence|[Streaming de Datos en Power BI con PubNub](99635.md)

@@ -1,0 +1,492 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #728 - Catania 2018</name>
+    <startDate>5/19/2018 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat728</twitterHashtag>
+    <venue>
+      <name>Free Mind Foundry</name>
+      <street>Via Sclafani 40</street>
+      <city>Acireale</city>
+      <state>Sicilia, Italy</state>
+      <zipcode>95024</zipcode>
+      <longitude>15.145615</longitude>
+      <latitude>37.6223265</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1828</importID>
+      <name>Jet Brains</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.jetbrains.com/</url>
+      <imageURL>https://c3.staticflickr.com/6/5613/22823026618_e30c51cc7b_o.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2207</importID>
+      <name>ESET</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.eset.com/int/</url>
+      <imageURL>https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ESET_logo.svg/1200px-ESET_logo.svg.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1608</importID>
+      <name>ApexSQL</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.apexsql.com/</url>
+      <imageURL>https://www.apexsql.com/images/ApexSQL_Logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>73185</importID>
+      <name>Gilberto Zampatti</name>
+      <label>
+      </label>
+      <description>Time ago (a lot of time ago…) an excellent IT pro brought me with him and became my Mentor in the IT wonderland…it was a world full of mainframes…
+I met the Relational theory when there were no commercial RDBMS, and I was spellbound by that “magic”. When Microsoft appeared in the IT market, I felt finally which trek I had to follow. I’m still walking on such road, and in my rucksack I’ve ben putting some other stuff (like SharePoint, for example). My sole regret:  I’ve left the College to consecrate all my time to my job; curiously, since then, I’ve never stop learning…</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>73527</importID>
+      <name>Gianluca Hotz</name>
+      <label>
+      </label>
+      <description>Gianluca Hotz is an independent consultant, trainer, speaker and Mentor specialized in architecture, database design, high availability, capacity planning, performance tuning, system integration and migrations for Microsoft SQL Server. He has been working as a consultant in the IT field since 1993 and with SQL Server since 1996. He is among the original founders of ugiss.org, where he served as vice-president from 2001 to 2016 and he is now serving as president, for his contribution to the community he has been a SQL Server MVP since 1998.</description>
+      <twitter>glhotz</twitter>
+      <linkedin>http://it.linkedin.com/in/ghotz</linkedin>
+      <ContactURL>http://www.ghotz.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=glhotz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72004</importID>
+      <name>Gianluca Sartori</name>
+      <label>
+      </label>
+      <description>Gianluca Sartori is a Data Platform MVP, independent consultant and performance tuning specialist. He has been working in the software industry since 1999 and has been working with SQL Server ever since. He also works as a SQL Server trainer and in his spare time he writes technical articles and participates the SQL Server forums. Gianluca enjoys presenting SQL Server topics at conferences in Europe and in Italy in particular. He is currently working as lead DBA at a famous Formula 1 team.</description>
+      <twitter>http://twitter.com/#!/spaghettidba</twitter>
+      <linkedin>http://it.linkedin.com/pub/gianluca-sartori/23/50b/a12</linkedin>
+      <ContactURL>http://spaghettidba.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/#!/spaghettidba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71466</importID>
+      <name>Dr. Subramani Paramasivam</name>
+      <label>
+      </label>
+      <description>Dr.SubraMANI Paramasivam is a Microsoft MVP, PhD, Microsoft Certified Trainer and Head of Data  AI at DAGEOP Ltd having 21 years of DB, BI, Analytics and AI experience. Mani has also spoken in various events like MS IGNITE, PASS Summit, MS Inspire, SQLBITS, Power Platform Summit, Global AI Bootcamp, Data  BI Summit, SQLRelay,  Power BI World Tour, Data Platform Summit, INSIDESQL UK, Global AI Nights, SQLServerGeeks Summit, MCT Global Summits, Data Day Events and various user group events. Mani also believes in Empowering Every Person in the planet and spreads the awareness on Global challenges via www.EmpoweringEveryPerson.com. He is also a co-owner of 1 Global AI Meetup and 3 Power BI PUG  PASS local / user groups.</description>
+      <twitter>https://twitter.com/dageop</twitter>
+      <linkedin>http://uk.linkedin.com/in/dageop</linkedin>
+      <ContactURL>http://www.yoursqlman.com/index.php/blogs</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dageop</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71561</importID>
+      <name>Stephane Haby</name>
+      <label>
+      </label>
+      <description>St#233;phane Haby has more than ten years of experience in Microsoft solutions. He is specialized in SQL Server technologies such as installation, migration, best practices, and performance analysis etc. He is MVP as well as MCSA and MCSE for SQL Server 2012 as well as ITIL Foundation V3 certified. He holds a Engineer diploma in industrial computing and automation from France. His branch-related experience covers Chemicals amp; Pharmaceuticals, Banking / Financial Services and many other industries.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.dbi-services.com/index.php/blog/dbi-bloggers/blogger/listings/sth</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>73510</importID>
+      <name>Sergio Govoni</name>
+      <label>
+      </label>
+      <description>Since 1999 Sergio Govoni has been a software developer; in 2000 he got a degree in Computer Science at "Università degli Studi" in Ferrara (Italy). He has worked for over 18 years in Centro Software, a software house that produces the best ERP for manufacturing companies that are export oriented. Now, he manages the development product team and he is constantly involved on several team projects, where he focues his attention on the architecture and the mission-critical technical details. Since 2016 he is the vice president of the UGISS (www.ugiss.org). For the provided help to technical communities and for sharing his own experience, since 2010 he has received the Microsoft Data Platform MVP award.</description>
+      <twitter>@segovoni</twitter>
+      <linkedin>http://www.linkedin.com/in/sgovoni</linkedin>
+      <ContactURL>https://mvp.microsoft.com/it-it/PublicProfile/4029181?fullName=Sergio%20Govoni</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@segovoni</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72003</importID>
+      <name>Gianluca Sartori</name>
+      <label>
+      </label>
+      <description>Gianluca Sartori is a Data Platform MVP, independent consultant and performance tuning specialist. He has been working in the software industry since 1999 and has been working with SQL Server ever since. He also works as a SQL Server trainer and in his spare time he writes technical articles and participates the SQL Server forums. Gianluca enjoys presenting SQL Server topics at conferences in Europe and in Italy in particular. He is currently working as lead DBA at a famous Formula 1 team.</description>
+      <twitter>http://twitter.com/#!/spaghettidba</twitter>
+      <linkedin>http://it.linkedin.com/pub/gianluca-sartori/23/50b/a12</linkedin>
+      <ContactURL>http://spaghettidba.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/#!/spaghettidba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>77165</importID>
+      <name>Arnie Rowland</name>
+      <label>
+      </label>
+      <description>Arnie long ago realized that most issues between Developer and DBA comes from incomplete communication and a misunderstanding of each other's objectives. He is a frequent Trainer and Mentor for Developers and DBAs, bringing both sets of skills to better communicate  with teams to create a working solution. For over a decade, Arnie has been a SQL Server MVP, Certified Trainer, technical editor for several publishers, including MOC, and has served as University and Community College adjunct faculty. Clients include Fortune 500 and Multi-Nationals, Federal and State agencies, Foreign governments, and local enterprises –both public and private.</description>
+      <twitter>@ArnieRowland</twitter>
+      <linkedin>https://www.linkedin.com/in/arnie</linkedin>
+      <ContactURL>http://sqlblog.com/blogs/arnie_rowland/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ArnieRowland</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71482</importID>
+      <name>Danilo Dominici</name>
+      <label>
+      </label>
+      <description>Danilo Dominici, lavora con SQL Server sin dalla versione 6.5. Si occupa principalmente di progettazione, implementazione ed ottimizzazione architetturale, monitoring e performance tuning.  Alterna le attivit#224; di consulenza a quelle di formatore, speaker ed autore. Microsoft Certified Trainer dal 2000 e SQL Server MVP dal 2014, #232; anche co-leader del PASS Global Italian Virtual Chapter, lo user group quot;virtualequot; in lingua italiana dedicato a SQL Server.</description>
+      <twitter>@danilo_dominici</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@danilo_dominici</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>77164</importID>
+      <name>Arnie Rowland</name>
+      <label>
+      </label>
+      <description>Arnie long ago realized that most issues between Developer and DBA comes from incomplete communication and a misunderstanding of each other's objectives. He is a frequent Trainer and Mentor for Developers and DBAs, bringing both sets of skills to better communicate  with teams to create a working solution. For over a decade, Arnie has been a SQL Server MVP, Certified Trainer, technical editor for several publishers, including MOC, and has served as University and Community College adjunct faculty. Clients include Fortune 500 and Multi-Nationals, Federal and State agencies, Foreign governments, and local enterprises –both public and private.</description>
+      <twitter>@ArnieRowland</twitter>
+      <linkedin>https://www.linkedin.com/in/arnie</linkedin>
+      <ContactURL>http://sqlblog.com/blogs/arnie_rowland/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ArnieRowland</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71501</importID>
+      <name>Luca Zavarella</name>
+      <label>
+      </label>
+      <description>Mentor  Technical Director at SolidQ Italy. He loves BI, Advanced Analytics and Machine Learning. He plays piano in the free time.</description>
+      <twitter>@lucazav</twitter>
+      <linkedin>https://www.linkedin.com/in/lucazavarella/</linkedin>
+      <ContactURL>http://blogs.solidq.com/en/author/lzavarella/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@lucazav</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71515</importID>
+      <name>Marco Obinu</name>
+      <label>
+      </label>
+      <description>Curious by nature, talkative geek who can speak in front of a public or a camera, in love with technology, primarily SQL Server and Azure.
+I'd like to understand how things work and to solve problems by myself.</description>
+      <twitter>omegamadlab</twitter>
+      <linkedin>https://www.linkedin.com/in/marco-obinu-omegamadlab/</linkedin>
+      <ContactURL>https://www.omegamadlab.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=omegamadlab</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71470</importID>
+      <name>Rudi Bruchez</name>
+      <label>
+      </label>
+      <description>(same as before)</description>
+      <twitter>nepasderanger</twitter>
+      <linkedin>https://fr.linkedin.com/in/rudibruchez</linkedin>
+      <ContactURL>http://www.babaluga.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=nepasderanger</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71703</importID>
+      <name>Marcelo Fernandes</name>
+      <label>
+      </label>
+      <description>Marcelo Fernandes is SQL Server MVP and has 12+ years experience with databases, specialized in High Availability, critical missions and very large databases. He holds the MCP / MCDBA / MCSA / MCTS / MCITP and MCT certifications, he lives and works in Berlin for an American e-commerce company that sells home goods. He share their knowledge through webcasts, presentations and articles on Microsoft technologies and can be cantacted by email fernandes_dba@hotmail.com or twitter @ marcelodba</description>
+      <twitter>marcelodba</twitter>
+      <linkedin>https://br.linkedin.com/in/marcelodba</linkedin>
+      <ContactURL>http://marcelodba.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=marcelodba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72384</importID>
+      <name>Pasquale Ceglie</name>
+      <label>
+      </label>
+      <description>MCSE - Data Management and Analytics</description>
+      <twitter>@pceglie</twitter>
+      <linkedin>https://it.linkedin.com/in/pasqualeceglie</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@pceglie</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>72004</importID>
+      <speakers>
+        <speaker>
+          <id>72004</id>
+          <name>Gianluca Sartori</name>
+        </speaker>
+      </speakers>
+      <track>Begineer</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>SQL Server Infernals - A Beginner’s Guide to Worst Practices</title>
+      <description>Are you faced with complaints from users, poor performing code from developers, and regular requests to build reports? Do you uncover installation and configuration issues on your SQL Server instances? Have you ever thought that in dire times avoiding Worst Practices could be a good starting point? If the answer is “yes”, then this session is for you: together we will discover how not to torture a SQL Server instance and we will see how to avoid making choices that turn out to be not so smart in the long run.
+
+You are probably thinking: “Hey, wait, what about Best Practices?”. Sometimes Best Practices are not enough, especially for beginners, and it is not always clear what happens if we fail to follow them. Worst Practices can show the mistakes to avoid. I have made lots of mistakes throughout my career: come and learn from my mistakes!</description>
+      <startTime>5/19/2018 10:05:00 AM</startTime>
+      <endTime>5/19/2018 11:05:00 AM</endTime>
+    </event>
+    <event>
+      <importID>73510</importID>
+      <speakers>
+        <speaker>
+          <id>73510</id>
+          <name>Sergio Govoni</name>
+        </speaker>
+      </speakers>
+      <track>Advanced</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>SQL Server 2017 Graph Database</title>
+      <description>SQL Server offre da sempre gli strumenti per gestire dati gerarchici e relazioni tra le entità. A volte, però, le relazioni tra le entità possono diventare complesse. Pensiamo ad una relazione molti-a-molti, i database relazionali non dispongono di soluzioni native per questo tipo di legame, che viene comunemente implementato con una tabella di associazione. SQL Server 2017, grazie all'introduzione di Graph Database, permette di esprimere certi tipi di query più facilmente rispetto ad un database relazionale puro. In questa sessione verrà fornita un'introduzione a SQL Graph e agli scenari di utilizzo. Nell'ultima demo verrà mostrato come costruire un sistema di raccomandazione per le offerte, in grado di determinare i prodotti consigliati sulla base del prodotto che il cliente sta acquistando, uno scenario tipico di utilizzo di SQL Graph.</description>
+      <startTime>5/19/2018 4:55:00 PM</startTime>
+      <endTime>5/19/2018 5:55:00 PM</endTime>
+    </event>
+    <event>
+      <importID>77164</importID>
+      <speakers>
+        <speaker>
+          <id>77164</id>
+          <name>Arnie Rowland</name>
+        </speaker>
+      </speakers>
+      <track>Advanced</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Magical Memory Moments</title>
+      <description>OR, How In-Memory Objects Can Supercharge Your Data And Bring About World Peace 
+
+OK, so you’ve been reading about, perhaps even testing out some of the ‘in-memory’ objects now available in SQL Server. Some of the claims are exciting, and some seem overly optimistic. And Yet, you want to know, experience more … Perhaps your situation doesn’t really call out for in-memory tables. But you should consider memory-optimized #Temp tables, memory-optimized table variables, and natively compiled stored procedures.It’s true. Using memory-optimized tables requires a little more fore-thought, a bit more care, even a few configuration tweaks.
+• But what are the real advantages of memory-optimized objects?
+• What are the memory-optimized objects you can use?
+• How can you best use memory-optimized objects?
+In this demo packed session, we will discuss the pros and cons of using memory-optimized objects in ways that will supercharge your SQL Server.</description>
+      <startTime>5/19/2018 11:25:00 AM</startTime>
+      <endTime>5/19/2018 12:25:00 PM</endTime>
+    </event>
+    <event>
+      <importID>73527</importID>
+      <speakers>
+        <speaker>
+          <id>73527</id>
+          <name>Gianluca Hotz</name>
+        </speaker>
+      </speakers>
+      <track>Begineer</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>SQL Server  GDPR</title>
+      <description>Con l'avvicinarsi della scadenza per il recepimento del regolamento generale sulla protezione dei dati (GDPR, General Data Protection Regulation), ma anche per il continuo e preoccupante aumento del numero di crimini informatici, il tema della protezione dei dati diventa sempre più importante. Gli RDBMS sono tradizionalmente uno degli obiettivi principali di attacchi informatici e SQL Server offre svariate tecnologie sia per proteggere i dati in transito e a riposo, che per monitorare in maniera proattiva i tentativi di aggirare i meccanismi di protezione. Lungi dal voler esaurire l'argomento GDPR, che spesso è più una questione di processi che di tecnologia, in questa sessione vedremo quali sono le tecnologie che possono aiutarci nel recepimento del regolamento scendendo più in dettaglio sulle nuove funzionalità introdotte con SQL Server 2016 e faremo anche alcuni cenni alle tecnologie per mitigare i rischi di perdita dei dati.</description>
+      <startTime>5/19/2018 12:30:00 PM</startTime>
+      <endTime>5/19/2018 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>72384</importID>
+      <speakers>
+        <speaker>
+          <id>72384</id>
+          <name>Pasquale Ceglie</name>
+        </speaker>
+      </speakers>
+      <track>Begineer</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>SQL Server Temporal tables: Viaggiare nel tempo con SQL Server</title>
+      <description>Una delle nuove (tante) funzionalit#224; di SQL Server 2016 #232; il supporto integrato per tabelle di dati temporali. Con una tabella temporale pu#242; essere reperito il valore di ciascun record in qualsiasi momento nel tempo. Questo pu#242; essere utile per "viaggiare nel tempo", per fare audit, recuperare il vecchio valore di un campo in seguito a una modifica accidentale.</description>
+      <startTime>5/19/2018 3:35:00 PM</startTime>
+      <endTime>5/19/2018 4:35:00 PM</endTime>
+    </event>
+    <event>
+      <importID>73185</importID>
+      <speakers>
+        <speaker>
+          <id>73185</id>
+          <name>Gilberto Zampatti</name>
+        </speaker>
+      </speakers>
+      <track>Advanced</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Il Transaction Log: cos'è realmente e come si gestisce</title>
+      <description>Quando le cose funzionano bene è improbabile che ci si ponga il problema di verificare il "buon comportamento" del Transaction Log del nostro database. Quando però qualcosa non funziona a dovere, una buona conoscenza dell'architettura e delle logiche che governano questo specialissimo file sono essenziali per aiutarci ad individuare le corrette soluzioni. Qualche suggerimento ed una panoramica sul problema possono aiutarci a risolvere il problema, o anche solo a gestire al meglio il ripristino urgente (ovviamente point-in-time!) richiesto da qualche utente molto preoccupato.</description>
+      <startTime>5/19/2018 12:30:00 PM</startTime>
+      <endTime>5/19/2018 1:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71515</importID>
+      <speakers>
+        <speaker>
+          <id>71515</id>
+          <name>Marco Obinu</name>
+        </speaker>
+      </speakers>
+      <track>Advanced</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>SQL Server performance tuning on Azure IaaS</title>
+      <description>While creating SQL Server VMs via Azure gallery templates is really cool, these pre-built instaces are meant to be used in a large variety of scenarios and consequently use generic settings which aren't optimized from a performance point of view.
+Let's see together how to maximize performance (and minimize costs) of our SQL VMs on Azure, following Microsoft best practices and some additional tips.</description>
+      <startTime>5/19/2018 3:35:00 PM</startTime>
+      <endTime>5/19/2018 4:35:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71466</importID>
+      <speakers>
+        <speaker>
+          <id>71466</id>
+          <name>Dr. Subramani Paramasivam</name>
+        </speaker>
+      </speakers>
+      <track>Begineer</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Cert Prep:70-778: Analysing  Visualizing Data with Power BI</title>
+      <description>This certification exam prep session is designed for people experienced with analysing, modeling and visualizing Data and are interested in taking the 70-778. 
+
+Attendees of this session can expect to review the topics covered in this exam in a a fast-paced format, as well as receive some valuable test taking techniques.
+
+Attendees will leave with an understanding of how Microsoft Certification works, what are the key topics covered in the exams and an exhaustive look at resources for finalising and getting ready for the exam.</description>
+      <startTime>5/19/2018 11:25:00 AM</startTime>
+      <endTime>5/19/2018 12:25:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71703</importID>
+      <speakers>
+        <speaker>
+          <id>71703</id>
+          <name>Marcelo Fernandes</name>
+        </speaker>
+      </speakers>
+      <track>Begineer</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Thinking our of the Box! - SMB 3.0</title>
+      <description>In this session the SMB 3.0 protocol will be presented and how we can take advantages and increase the availability and performance of the environment by investing less in infrastructure.</description>
+      <startTime>5/19/2018 2:30:00 PM</startTime>
+      <endTime>5/19/2018 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71470</importID>
+      <speakers>
+        <speaker>
+          <id>71470</id>
+          <name>Rudi Bruchez</name>
+        </speaker>
+      </speakers>
+      <track>Begineer</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>From relational to Multimodel : Azure Cosmos DB</title>
+      <description>Azure Cosmos DB is Microsoft's globally distributed, multi-model database. This is NoSQL in the cloud. In this session, you'll see how to use it to create columnar tables, JSON documents and graphs, you'll understand what that means, see what's the difference with relational tables, and how it can be useful for you.</description>
+      <startTime>5/19/2018 4:55:00 PM</startTime>
+      <endTime>5/19/2018 5:55:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71501</importID>
+      <speakers>
+        <speaker>
+          <id>71501</id>
+          <name>Luca Zavarella</name>
+        </speaker>
+      </speakers>
+      <track>Advanced</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Decision Trees: the Machine Learning "Magic" Unveiled</title>
+      <description>Spesso un algoritmo di Machine Learning è visto come una di quelle armi magiche in grado di rivelare possibili scenari futuri a chi la detiene. In verità si tratta di applicazioni dirette di concetti di matematica e statistica, che a volte generano come output dei modelli complessi da interpretare. Esistono però dei modelli predittivi basati su alberi decisionali che sono davvero semplici da comprendere. In questa sessione verrà spiegato cosa c'è dietro ad un modello predittivo di questo tipo, chiarendo il tutto con pratici esempi realizzati in R.</description>
+      <startTime>5/19/2018 2:30:00 PM</startTime>
+      <endTime>5/19/2018 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71482</importID>
+      <speakers>
+        <speaker>
+          <id>71482</id>
+          <name>Danilo Dominici</name>
+        </speaker>
+      </speakers>
+      <track>Advanced</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>SQL Server on Linux</title>
+      <description>Ricordate quando, qualche anno fa, SQL Server su Linux era solo un pesce d'aprile? Beh, oggi è una realtà che sta rapidamente conquistando l'interesse del mercato. In questa sessione vedremo quali sono le caratteristiche, i prerequisiti e le modalità di installazione su Linux e Docker e come amministrare e monitorare SQL Server per Linux da un qualsiasi sistema operativo.</description>
+      <startTime>5/19/2018 10:05:00 AM</startTime>
+      <endTime>5/19/2018 11:05:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

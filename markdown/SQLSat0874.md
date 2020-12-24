@@ -1,0 +1,22 @@
+# SQLSaturday #874 - Timisoara 2019
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:40:00|Liviu Ieran|Cloud Application Development  Deployment|[Azure Data Explorer - Fast and highly scalable interactive analytics](90418.md)
+09:40:00|ILIE Mugurel|Application  Database Development|[Handling JSONs in SQL Server 2016](91830.md)
+09:40:00|André Melancia|AIML Architecture, Development  Administration|[BI Powers - The A.I. Who Tagged Me](93021.md)
+10:40:00|Dennes Torres|AIML Architecture, Development  Administration|[PowerBI: From Zero to Hero](89928.md)
+10:40:00|Dragos Madarasan|Cloud Application Development  Deployment|[Running Microsoft SQL Server on Amazon Web Services](90515.md)
+10:40:00|Miroslav Popovic|Application  Database Development|[Visual Studio productivity](92334.md)
+11:20:00|Shehab El-Najjar|Application  Database Development|[T-SQL Performance Guidelines for the optimal DB stress powers](89939.md)
+11:50:00|Dejan Sarka|AIML Architecture, Development  Administration|[Data Overview and Manipulation – T-SQL, R, Python](90120.md)
+11:50:00|André Melancia|AIML Architecture, Development  Administration|[If a computer can understand, why can't YOU understand Azure Cognitive Services?](93006.md)
+11:50:00|Alexandra Ciortea|Cloud Application Development  Deployment|[SQL Managed Instance - From the ground to the cloud](93816.md)
+13:20:00|Erland Sommarskog|Application  Database Development|[When Things go Wrong - Error Handling in SQL Server](90476.md)
+13:20:00|Cristian Lefter|AIML Architecture, Development  Administration|[AI in Power BI](91769.md)
+13:20:00|Ivan Čuljak|Cloud Application Development  Deployment|[How to be polite with databases when going serverless](92922.md)
+14:30:00|Dejan Sarka|AIML Architecture, Development  Administration|[SQL Server Data Science: Python or R?](90119.md)
+14:30:00|Michal Sadowski|Application  Database Development|[Encryption in SQL Server](91433.md)
+14:30:00|Mihail Mateev|Cloud Application Development  Deployment|[Connecting IoT data with artificial intelligence at scale](93420.md)
+15:40:00|Alexandru Craciun|Application  Database Development|[SQL Server full optimization](92591.md)
+15:40:00|Deji Akomolafe|Cloud Application Development  Deployment|[Successfully Virtualizing SQL Server on vSphere - Straight from the Source](94292.md)
+15:40:00|Damir Bulic|Cloud Application Development  Deployment|[Lightning-fast management of cloud and legacy databases, breaking vendor lock-in](94878.md)

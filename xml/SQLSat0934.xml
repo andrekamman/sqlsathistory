@@ -1,0 +1,634 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #934 - Rio de Janeiro 2019</name>
+    <startDate>11/23/2019 12:00:00 AM</startDate>
+    <attendeeEstimate>300</attendeeEstimate>
+    <timezone>(GMT-03:00) Greenland</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSaturdayRJ</twitterHashtag>
+    <venue>
+      <name>Instituto INFNET</name>
+      <street>Rua São José 90</street>
+      <city>Rio de Janeiro</city>
+      <state>Rio de Janeiro, Brazil</state>
+      <zipcode>20010-020</zipcode>
+      <longitude>-43.1768</longitude>
+      <latitude>-22.90612</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/934/EventSponsor_14285.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/934/EventSponsor_14284.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>99170</importID>
+      <name>Gustavo Moura Fé</name>
+      <label>
+      </label>
+      <description>Gustavo [Guzz] Moura Fé Maia é um SQL Geek viciado em automatização e performance tuning. É um dos autores do blog Comunidade SQL Server onde gosta de escrever sobre programação em T-SQL, powershell e segurança. Quando não está com uma caneca de café, estudando sobre tecnologia, está com uma caneca de café fazendo outra coisa.</description>
+      <twitter>https://twitter.com/GustavoMouraFe</twitter>
+      <linkedin>https://www.linkedin.com/in/gmfmaia</linkedin>
+      <ContactURL>https://comunidadesqlserver.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/GustavoMouraFe</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98998</importID>
+      <name>Roberto Santos</name>
+      <label>
+      </label>
+      <description>Roberto de Souza Santos, MSc, proprietário/consultor na RSS Informática Ltda.
+Consultoria/treinamento/implantação em tecnologias Microsoft, principalmente SQL Server desde 1995 (versão 4.21). Foco em ajuste de desempenho e planejamento de capacidade de ambientes críticos OLTP ou de DW, em diversos clientes da área financeira, energia, saúde, entre outros.</description>
+      <twitter>RobertoSantosBH</twitter>
+      <linkedin>https://www.linkedin.com/in/robertoss</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=RobertoSantosBH</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99072</importID>
+      <name>Thomás Vianna Pereira</name>
+      <label>
+      </label>
+      <description>Expert em transformação digital promovendo o uso consciente da tecnologia com foco em atingir resultados para o negócio. Ampla experiência em projetos de redução de gastos com ativos de TI e comunicação empresarial. Líder de projetos de migração de workload de sistemas para nuvem pública mantendo o investimento em recursos competitivo e sustentável para o negócio. Gestão de contratos e orçamento TI, negociação ativa com fornecedores e parceiros com ênfase nos requisitos, prazos de vigência e níveis de serviços. 
+Especializações técnicas em segurança da informação, servidores Windows 2012R2/2016, servidores Linux, rede estruturada, roteadores e appliances Cisco, servidores MS SQL Server em alta disponibilidade e Appliances Check Point.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/thom%C3%A1s-vianna-pereira-a12a342b/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99033</importID>
+      <name>Leandro Domingues</name>
+      <label>
+      </label>
+      <description>Microsoft Data Platform MVP, MongoDB Ambassador, Evangelist e Certified Trainer, membro do MongoDB Advocacy Hub, Top 50 Neo4j Certified, também tem grande experiência em MS SQL Server. Atualmente é Head of NoSQL Solutions na Dataside e Founder da Cluster Consultoria, uma empresa dedicada a oferecer soluções NoSQL. Entusiasta de tecnologias open-source, bigdata e NoSQL. Mais de 18 anos de experiência em desenvolvimento de aplicações e manutenção de grandes volumes de dados.</description>
+      <twitter>delbussoweb</twitter>
+      <linkedin>https://www.linkedin.com/in/leandro-domingues/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=delbussoweb</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99089</importID>
+      <name>Luiz Coelho</name>
+      <label>
+      </label>
+      <description>Matemático, com background que mescla competências nas áreas de Business, Analytics e Inovação, acumulando experiências em corporações como Oi, Senac e grandes consultorias. Atualmente é Consultor de Inovação no HC1506, Product Owner no Projeto #Colabora e mentor de negócios em diversos programas de aceleração de startups.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/luizcoelhome/</linkedin>
+      <ContactURL>https://about.me/lcoelho</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99036</importID>
+      <name>Wagner Crivelini</name>
+      <label>
+      </label>
+      <description>Consultor Sênior da Microsoft, na área de Data  AI para América Latina. Especialista em bancos de dados, é colunista em diversos portais de TI do Brasil e do exterior, com mais de 100 artigos técnicos publicados. É também co-produtor do DatabaseCast, primeiro podcast brasileiro sobre bancos de dados.</description>
+      <twitter>@wcrivelini</twitter>
+      <linkedin>https://www.linkedin.com/in/wagner-crivelini-107850</linkedin>
+      <ContactURL>http://www.databasecast.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@wcrivelini</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99117</importID>
+      <name>Mariane Borges</name>
+      <label>
+      </label>
+      <description>Engenheira de dados do PagSeguro, atuando no time de Governança de Dados e enfrentando a luta diária de entrar em conformidade com os regulatórios.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/marianesborges/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99043</importID>
+      <name>Guilherme Torres</name>
+      <label>
+      </label>
+      <description>Formado em Bacharel em Sistemas de Informação , formado em MBA Big Data, vem atuando como DBA SQL Server há 10 anos, se especializando em performance tuning.
+Passou por setores de mineração, ecommerce e atualmente no setor bancário em grande instituição financeira, trabalha como DBA SQL Server.
+Possui certificações MCP, MCSA e MCSE.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://br.linkedin.com/in/guilherme-torres-b133b62a</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98985</importID>
+      <name>William Lino Oliveira</name>
+      <label>
+      </label>
+      <description>DBA SQL Server à 5 anos. Trabalha atualmente em uma grande instituição financeira. Possui as certificações MCSE: Data Management and Analytics.</description>
+      <twitter>@WilloniL</twitter>
+      <linkedin>https://www.linkedin.com/in/williamlinooliveira/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@WilloniL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99049</importID>
+      <name>Wiluey Sousa</name>
+      <label>
+      </label>
+      <description>Profissional com 14 anos de experiência em administração e liderança de times de Infraestrutura e Banco de Dados (On Premises e Azure) SQL Server, DB2 Luw, MySQL, PostgreSQL e Sybase.
+Pós-Graduando em Gestão de TI  Cloud Computing pela UFSCar.
+
+Sou entusiasta de todo tipo de tecnologia aplicada a banco de dados, procuro sempre estar por dentro das features e do que elas podem facilitar a minha vida (rs!). 
+
+Acredito na troca de experiências com outros profissionais como um ótimo disseminador do conhecimento e impulsionador de carreira.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/wiluey-queiroz-de-sousa-0829bb51/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99152</importID>
+      <name>Fernanda ALVES</name>
+      <label>
+      </label>
+      <description>Apaixonada por tecnologia e tudo que engloba o universo de BI, Big Data e Data Science, graduada em Ciência da Computação na PUC Rio e cursando a especialização em Ciência de dado pela PUC Rio. Integrante do núcleo de inteligência de dados e analytics da Icatu Seguros.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/fernandapalves</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98986</importID>
+      <name>William Lino Oliveira</name>
+      <label>
+      </label>
+      <description>DBA SQL Server à 5 anos. Trabalha atualmente em uma grande instituição financeira. Possui as certificações MCSE: Data Management and Analytics.</description>
+      <twitter>@WilloniL</twitter>
+      <linkedin>https://www.linkedin.com/in/williamlinooliveira/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@WilloniL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99060</importID>
+      <name>Reginaldo Silva</name>
+      <label>
+      </label>
+      <description>Estudou ciências da computação
+Apaixonado por tecnologia
+MCSE: Data Management and Analytics
+MCSA: SQL 2016 Database Development
+MCP SQL Server 2012 e 2016
+MTAC - Multi-Platform Audience Contributor</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/reginaldosilva27/</linkedin>
+      <ContactURL>https://blogdojamal.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99169</importID>
+      <name>Kézia Letícia Carvalho</name>
+      <label>
+      </label>
+      <description>Sou estudante do curso Ciência da Computação e trabalho como Database Administrator. No meu dia a dia faço o que mais amo, administrar e monitorar bancos, atuando mais com automatizações e peformance tunning. Para dar aquela força nas noites viradas programando, nada melhor do que o bom e velho café com pão de queijo, - o pedido dos mineiros.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/k%C3%A9zia-let%C3%ADcia-carvalho/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98988</importID>
+      <name>Fabiano Lira</name>
+      <label>
+      </label>
+      <description>MCSE Database Administrator com experiência na administração e tuning de infraestruturas SQL em ambientes críticos de alta disponibilidade, cloud e on-premises. DBA no time de sustentação SQL do maior banco da América Latina.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99064</importID>
+      <name>Leandro Domingues</name>
+      <label>
+      </label>
+      <description>Microsoft Data Platform MVP, MongoDB Ambassador, Evangelist e Certified Trainer, membro do MongoDB Advocacy Hub, Top 50 Neo4j Certified, também tem grande experiência em MS SQL Server. Atualmente é Head of NoSQL Solutions na Dataside e Founder da Cluster Consultoria, uma empresa dedicada a oferecer soluções NoSQL. Entusiasta de tecnologias open-source, bigdata e NoSQL. Mais de 18 anos de experiência em desenvolvimento de aplicações e manutenção de grandes volumes de dados.</description>
+      <twitter>delbussoweb</twitter>
+      <linkedin>https://www.linkedin.com/in/leandro-domingues/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=delbussoweb</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99002</importID>
+      <name>Marcio Junior</name>
+      <label>
+      </label>
+      <description>MCSA | SQL Server Consultant at Dataside Soluções em Banco de Dados</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>99087</importID>
+      <name>Reginaldo Silva</name>
+      <label>
+      </label>
+      <description>Estudou ciências da computação
+Apaixonado por tecnologia
+MCSE: Data Management and Analytics
+MCSA: SQL 2016 Database Development
+MCP SQL Server 2012 e 2016
+MTAC - Multi-Platform Audience Contributor</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/reginaldosilva27/</linkedin>
+      <ContactURL>https://blogdojamal.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>98998</importID>
+      <speakers>
+        <speaker>
+          <id>98998</id>
+          <name>Roberto Santos</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Lab213</name>
+      </location>
+      <title>Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade</title>
+      <description>A atividade de medição, análise e previsão de desempenho de sistemas de computação se tornou muito complexa. Que parâmetros medir, como verificar sua precisão, e se eles são ou não os indicadores significativos de desempenho são constantemente discutidos.
+
+A capacidade atual de um sistema de processamento de dados pode ser estimada medindo-se seu desempenho no nível corrente de utilização, e extrapolando-se para aquele que seria o nível de máxima utilização indicada.
+
+O acompanhamento de desempenho exerce uma atividade de vital importância para o bom desempenho do ambiente, uma vez que torna possível a especificação e o acompanhamento da configuração de hardware e software adotados, procurando extrair do ambiente o máximo de rendimento. 
+
+Esta disciplina se faz muito relevante tanto no ambiente on-premise quanto em nuvem, no qual os custos aumentam de acordo com o "tamanho"do ambiente alocado.</description>
+      <startTime>11/23/2019 11:00:00 AM</startTime>
+      <endTime>11/23/2019 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98986</importID>
+      <speakers>
+        <speaker>
+          <id>98986</id>
+          <name>William Lino Oliveira</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Lab216</name>
+      </location>
+      <title>Infrastructure As Code + SQL Server</title>
+      <description>Só quem já passou horas dentro de um Data Center instalando clusters de SQL Server sabe como é trabalhoso configurar infras inteiras na mão. Nesta sessão vou mostrar como criar um ambiente inteiro de SQL Server no Azure em poucos minutos utilizando apenas código! Será abordado ferramentas de provisionamento e configuração de ambientes na nuvem, versionamento da infra e outras boas práticas que estão sendo utilizadas no mundo DevOps.</description>
+      <startTime>11/23/2019 10:00:00 AM</startTime>
+      <endTime>11/23/2019 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>99064</importID>
+      <speakers>
+        <speaker>
+          <id>99064</id>
+          <name>Leandro Domingues</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Lab216</name>
+      </location>
+      <title>Big Data, NoSQL e Analytics com MongoDB, Power BI e SQL Big Data Clusters - Parte 2</title>
+      <description>Nessa sessão vamos entender a arquitetura do Big Data Clusters, o poder do MongoDB e a robustez do Power BI. E juntos vamos criar um ambiente para processamento de dados com Spark em Near-real-time consumindo do HDFS, MongoDB e simulando um pipeline com apresentação no Power BI</description>
+      <startTime>11/23/2019 3:00:00 PM</startTime>
+      <endTime>11/23/2019 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>99033</importID>
+      <speakers>
+        <speaker>
+          <id>99033</id>
+          <name>Leandro Domingues</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Lab216</name>
+      </location>
+      <title>Big Data, NoSQL e Analytics com MongoDB, Power BI e SQL Big Data Clusters - Parte 1</title>
+      <description>Nessa sessão vamos entender a arquitetura do Big Data Clusters, o poder do MongoDB e a robustez do Power BI. E juntos vamos criar um ambiente para processamento de dados com Spark em Near-real-time consumindo do HDFS, MongoDB e simulando um pipeline com apresentação no Power BI</description>
+      <startTime>11/23/2019 2:00:00 PM</startTime>
+      <endTime>11/23/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>99117</importID>
+      <speakers>
+        <speaker>
+          <id>99117</id>
+          <name>Mariane Borges</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Lab213</name>
+      </location>
+      <title>Governança de dados: Primeiros Passos</title>
+      <description>Interessados em pegar uns insights sobre governança de dados? Nessa palestra eu apresento umas definições de governança de dados, explico porque a governança voltou a ser falada, comparo alguns pontos da GDPR e LGPD e destaco alguns tópicos para saber se a empresa (pessoa) conhece os dados que possui. Após isso dou ideias de como iniciar o projeto de  governança de dados na empresa, o que poderia ser pensado para entrar em conformidade com a LGPD, a importância do cuidado com o dado e a conscientização da galera para a mudança da cultura da empresa. É um momento de transição e adaptação.</description>
+      <startTime>11/23/2019 2:00:00 PM</startTime>
+      <endTime>11/23/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>99170</importID>
+      <speakers>
+        <speaker>
+          <id>99170</id>
+          <name>Gustavo Moura Fé</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Lab213</name>
+      </location>
+      <title>Always Encrypted: A Forensic Analysis</title>
+      <description>With the release of Always Encrypted, sensitive data such as credit card numbers, personal addresses, salaries and national identification numbers (i.e. Brazil's CPFs or U.S. SSNs) can be protected from high-privileged users such as DBAs and System Administrators. But how does this feature work under the covers? Could it prevent data exposure from Memory Dumps Attacks? Can it keep sensitive data safe from Man In The Middle Attacks? 
+ 
+In this session, we'll walkthrough Always Encrypted architecture and put it to the test. We'll simulate a Memory Dump Attack and look into the data pages dumped from memory. We'll sniff the network to see if sensitive data is encrypted inside TDS packets. Are you curious about the results? Then, come and join us!
+ 
+Prerequisites: Understanding how SQL Server stores data and manages the buffer pool. Basic understanding of the Tabular Data Stream protocol is recommended.</description>
+      <startTime>11/23/2019 1:10:00 PM</startTime>
+      <endTime>11/23/2019 2:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98985</importID>
+      <speakers>
+        <speaker>
+          <id>98985</id>
+          <name>William Lino Oliveira</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>Desenvolvimento e Administração em SQL Server com Python</title>
+      <description>Desde a versão 2017 o SQL Server é multi-plataforma e poliglota, ou seja, agora ele roda sobre Linux e tem integração com múltiplas linguagens como o Python. O Python é uma linguagem multi paradigma que esta crescendo cada dia mais e já passou linguagens como Java e C# em utilização de mercado, muito impulsionado pelas áreas de Data Science e DevOps. Nesta sessão vou expor formas de utilizar o Python integrado ao SQL Server para desenvolvimento de aplicações e administração de infraestrutura em seus ambientes de bancos de dados.</description>
+      <startTime>11/23/2019 11:00:00 AM</startTime>
+      <endTime>11/23/2019 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>99049</importID>
+      <speakers>
+        <speaker>
+          <id>99049</id>
+          <name>Wiluey Sousa</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Lab216</name>
+      </location>
+      <title>Infraestrutura de TI para DBAs - O que devo conhecer para não ser enganado?</title>
+      <description>Você como DBA já deve ter passado por muitos problemas de lentidão que depois descobriu que nem era no banco de dados o gargalo, certo?
+Nesta palestra vamos conhecer a Infraestrutura de TI, como acessar e analisar as principais ferramentas para não ser enganado.
+
+Discorreremos sobre:
+Hypervisors (Hyper-V e VMWare)
+Porque Hyper Threading é ruim para Servidores Físicos de Banco
+Switchs e Conceitos de Redes, como VLAN e SUBNET (como a rede pode me prejudicar)
+Storage e seus principais problemas e gargalos (TIER 01 a 03) e Protocolo ISCSi
+Arquitetura de um Windows Server Failover Cluster (WSFC) e as melhores práticas
+
+Fechamos com uma DEMO de Contadores de Performance (Perf Counters) para INFRA.</description>
+      <startTime>11/23/2019 1:10:00 PM</startTime>
+      <endTime>11/23/2019 2:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>99169</importID>
+      <speakers>
+        <speaker>
+          <id>99169</id>
+          <name>Kézia Letícia Carvalho</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Lab216</name>
+      </location>
+      <title>Hyper Scale - Perks and Pitfalls</title>
+      <description>Hyper Scale is the newest service tier available for SQL Databases. It provides many advantages regarding the traditional vCore-based purchasing models, some of which we'll see in greater detail. However, before changing your SQL Databases to Hyper Scale, there are some quirks you should be familiar with.
+In this session, we'll go through the architecture of Hyper Scale and explain, based on a real-life scenario, some behaviors and inner works that can lead to pitfalls and some ways to work around that.</description>
+      <startTime>11/23/2019 11:00:00 AM</startTime>
+      <endTime>11/23/2019 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>99087</importID>
+      <speakers>
+        <speaker>
+          <id>99087</id>
+          <name>Reginaldo Silva</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>Event Hub + Stream Analytics Jobs + Power BI = Visualizando dados em tempo real</title>
+      <description>Nesta sessão iremos conhecer essa sopa de ferramentas e como podemos utiliza-las para consumir e visualizar dados em tempo real no power BI.</description>
+      <startTime>11/23/2019 2:00:00 PM</startTime>
+      <endTime>11/23/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>99036</importID>
+      <speakers>
+        <speaker>
+          <id>99036</id>
+          <name>Wagner Crivelini</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>AZURE DATA EXPLORER - ADX  101</title>
+      <description>Esta apresentação faz um resumo geral do objetivo, características e qualidades do ADX, um novo serviço do AZURE voltado à análise de grandes volumes de dados. Entre suas principais características, se destacam a escalabilidade e ingestão dos mais variados tipos de dados, sejam logs de websites, sensores IOT ou dados de streaming de modo geral.</description>
+      <startTime>11/23/2019 11:00:00 AM</startTime>
+      <endTime>11/23/2019 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>99043</importID>
+      <speakers>
+        <speaker>
+          <id>99043</id>
+          <name>Guilherme Torres</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Lab213</name>
+      </location>
+      <title>SQL 2019 Intelligent Query Processing - New features</title>
+      <description>O Intelligent Query Processing é um conjunto de features de performance que chegou para ajudar a vida do DBA. Vamos abordar cada feature e mostrar exemplos de como elas se comportam, e quais os ganhos de performance teremos com cada uma delas.</description>
+      <startTime>11/23/2019 11:00:00 AM</startTime>
+      <endTime>11/23/2019 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98988</importID>
+      <speakers>
+        <speaker>
+          <id>98988</id>
+          <name>Fabiano Lira</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Lab213</name>
+      </location>
+      <title>Performance Tuning: Melhorando Sua Query e Evitando Armadilhas</title>
+      <description>Nesta sessão explicarei o que acontece com sua query no SQL Server e o que você deve fazer para otimiza-lá antes que alguém reclame.
+Abordarei temas como: query compilation, query optimizer, os planos de execução e porque você deve reutiliza-los. As péssimas práticas, as armadilhas que causam lentidão na sua query e como evitá-las com alterações simples.</description>
+      <startTime>11/23/2019 3:00:00 PM</startTime>
+      <endTime>11/23/2019 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>99072</importID>
+      <speakers>
+        <speaker>
+          <id>99072</id>
+          <name>Thomás Vianna Pereira</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>Azure ML - First steps to be a Data Scientist</title>
+      <description>Nessa sessão iremos conhecer um pouco sobe a plataforma de Machine Learning do Azure e ver como é simples criar seu primeiro experimento.</description>
+      <startTime>11/23/2019 3:00:00 PM</startTime>
+      <endTime>11/23/2019 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>99152</importID>
+      <speakers>
+        <speaker>
+          <id>99152</id>
+          <name>Fernanda ALVES</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>Data, o que?</title>
+      <description>Data o quê?!?!?! – Entendendo porque os dados são considerados o “novo petróleo”, seus conceitos e suas aplicações..</description>
+      <startTime>11/23/2019 1:10:00 PM</startTime>
+      <endTime>11/23/2019 2:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>99002</importID>
+      <speakers>
+        <speaker>
+          <id>99002</id>
+          <name>Marcio Junior</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Lab213</name>
+      </location>
+      <title>Problemas Mais Comuns Em Uma Query</title>
+      <description>Torne-se um herói salvando o seu dia! Aqui irei demonstrar como fazer mais com menos, pequenas alterações que geram grande impacto em uma query.</description>
+      <startTime>11/23/2019 10:00:00 AM</startTime>
+      <endTime>11/23/2019 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>99089</importID>
+      <speakers>
+        <speaker>
+          <id>99089</id>
+          <name>Luiz Coelho</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>O que virá após a Transformação Digital? Vem ai a Transformação Analítica</title>
+      <description>Num mundo cada vez mais digital, os dados exercem um papel fundamental no mundo dos negócios. Ser analítico será imprescindível para acelerar o potencial das organizações e a criação de novos mercados.
+Entenda nesta talk quais são os novos instrumentos da transformação digital que causarão uma verdadeira revolução analítica.</description>
+      <startTime>11/23/2019 10:00:00 AM</startTime>
+      <endTime>11/23/2019 11:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,228 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #533 - Bangladesh 2016</name>
+    <startDate>11/19/2016 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>
+    </timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatBangladesh</twitterHashtag>
+    <venue>
+      <name>Microsoft Bangladesh</name>
+      <street>Laila Tower, 4th Floor, 8 Gulshan Avenue, Gulshan-1</street>
+      <city>Dhaka</city>
+      <state>Dhaka, Bangladesh</state>
+      <zipcode>1212</zipcode>
+      <longitude>90.4160949</longitude>
+      <latitude>23.7771775</latitude>
+    </venue>
+  </guide>
+  <speakers>
+    <speaker>
+      <importID>52543</importID>
+      <name>Mohammad Morshed Sayem</name>
+      <label>
+      </label>
+      <description>I am working as a member of Product Engineer and Development Group and leading to develop banking and microfinance software from last 3 years. Before this I worked as a project manager of Microfinance project for 2 years.  I have started carrier as Software Engineer. I have 13+ years of working experience on large enterprise Application projects i.e. Banking Solution, Microfinance, and Capital Market. I am a technical speaker Tech Forum.</description>
+      <twitter>AskSayem</twitter>
+      <linkedin>https://www.linkedin.com/in/mohammad-morshad-sayem-705b0868?trk=hp-identity-name</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=AskSayem</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53886</importID>
+      <name>Debarchan Sarkar</name>
+      <label>
+      </label>
+      <description>Debarchan Sarkar (@debarchans) is a Microsoft Data Platform engineer specializing on Microsoft Azure. Debarchan is a subject matter expert in SQL Server Integration Services and is currently delving deep into open source world, specifically the Apache Hadoop framework. Debarchan is currently working in a technology called HDInsight which is Microsoft’s distribution of Hadoop on Windows. He is the author of various books on SQL Server and Big Data including Pro Microsoft HDInsight with Apress SQL Server 2012 with Hadoop with Packt Publishing and Mastering SQL Server 2014 Data Mining with Packt Publishing. Debarchan is a popular public speaker in several Microsoft internal and external conferences.</description>
+      <twitter>https://twitter.com/debarchans</twitter>
+      <linkedin>https://www.linkedin.com/in/debarchansarkar</linkedin>
+      <ContactURL>https://bitsnbytesofbigdata.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/debarchans</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>52474</importID>
+      <name>Md. Sultan-E-Alam Khan</name>
+      <label>
+      </label>
+      <description>A DevOps Manager and a software solution architect with unmediated experience in digital transformation for enterprises. Being a PMP having practical knowledge of managing projects which is intensified by the knowledge of cutting edge software development technologies. Having more than fifteen years of experience in global software development in different domain like banking and financial sector, ERP, defense, e-governance and stock exchange.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/md-sultan-e-alam-khan-pmp-75b78ab</linkedin>
+      <ContactURL>https://sultanealam.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>47187</importID>
+      <name>Saifullah Al Azad</name>
+      <label>
+      </label>
+      <description>Hi,
+I am azad from bangladesh. I provided speach about iis architecture, sql server, oop, c# advance programming etc under a community group in bangladesh named techforum user group. You can get our information from https://www.facebook.com/techforum.usergroup?fref=ts</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/saifullah-azad-7a860469</linkedin>
+      <ContactURL>www.dotnetbd.wordpress.com; https://social.technet.microsoft.com/Profile/md.%20saifullah%20al%20azad/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>49387</importID>
+      <name>Ahsan Kabir</name>
+      <label>
+      </label>
+      <description>Ahsan Kabir is now working as software development project manager from last few years. He has started carrier as Software Engineer. He has more than twelve years of experience of working on large enterprise Application project i.e. Banking Solution, ERP solution. He has worked every phase of SDLC. Beside that he contributed his experience and skill on different professional forum and Microsoft technical community as technical speaker .He writes article on blog and assist other technical people providing problem solving answer through different forum. He is rewarded as MVP Awarded by Microsoft. He is the PASS chapter leader of Bangladesh-quot;techforum PASSquot;. Ahsan is very active in the developer community and volunteers his time for</description>
+      <twitter>ahsan_kabir_</twitter>
+      <linkedin>https://www.linkedin.com/in/Ahsan-Kabir-</linkedin>
+      <ContactURL>https://techforumbd.github.io/techforum/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ahsan_kabir_</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>56449</importID>
+      <name>MJ Ferdous</name>
+      <label>
+      </label>
+      <description>I am working as Technical Lead and Solution Specialist at Microsoft Bangladesh for our Enterprise customers. My expertise basically on Microsoft Data Platform, SharePoint and Cloud Technology. Prior to joining Microsoft, I worked as SharePoint Architect at BrainStation-23, Sr. Software Engineer at OT Consulting, Project Engineer at Rockwell Automation, etc. 
+
+I am the co-founder and founder of SQL Server Forum  SharePoint Experts Bangladesh user-group. As a part of community work, I was the key organizer  speaker of “Microsoft Community Day 2016"  “SharePoint Developer’s Conference 2013”  "SharePoint Community Day 2012" jointly with Microsoft. I am the author of several technical articles at code project, MS SharePoint Tips, Dev Media</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/mjferdous</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>56428</importID>
+      <name>Zularbine Kamal</name>
+      <label>
+      </label>
+      <description>15 years of experience in different field of software development cycle from development to testing to the DevOps. He is technical community leader, speaker, and writer. His is working with Azure cloud for last 3 years. His company Ardites Bangladesh Ltd is Microsoft BizSpark member which allows him to work closely in Azure platform.</description>
+      <twitter>https://twitter.com/zularbine</twitter>
+      <linkedin>https://bd.linkedin.com/in/zularbine-kamal-7574222</linkedin>
+      <ContactURL>http://www.zularbine.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/zularbine</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>56449</importID>
+      <speakers>
+        <speaker>
+          <id>56449</id>
+          <name>MJ Ferdous</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Everything built-in SQL Server 2016</title>
+      <description>Enterprises that transform data into intelligent action are outperforming their competitors and will be the businesses of the future. As the biggest leap forward in Microsoft’s data platform history, SQL Server 2016 delivers breakthrough mission critical performance, deeper insights across any data on many devices and enables the power of hyperscale cloud to unlock new hybrid scenarios. 
+
+Join us to hear how companies like yours are embracing data to take the lead in their industries. You’ll get exclusive insights into our data strategy and solution portfolio.</description>
+      <startTime>11/19/2016 10:00:00 AM</startTime>
+      <endTime>11/19/2016 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>52543</importID>
+      <speakers>
+        <speaker>
+          <id>52543</id>
+          <name>Mohammad Morshed Sayem</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Performance Gain Through Columnstore Index</title>
+      <description>The columnstore index is the standard for storing and querying large data warehousing fact tables. It uses column-based data storage and query processing to achieve up to 10x query performance gains in your data warehouse over traditional row-oriented storage, and up to 10x data compression over the uncompressed data size. 
+Starting with SQL Server 2016, you can use columnstore indexes for real-time analytics on your operational workload.</description>
+      <startTime>11/19/2016 2:00:00 PM</startTime>
+      <endTime>11/19/2016 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>56428</importID>
+      <speakers>
+        <speaker>
+          <id>56428</id>
+          <name>Zularbine Kamal</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Cloud Data Platform</title>
+      <description>How to manage sql server in the Azure Cloud. How to create SQL server database in Azure as SaaS and IaaS model. Benefits and limitation of SQL server in Azure cloud.</description>
+      <startTime>11/19/2016 2:50:00 PM</startTime>
+      <endTime>11/19/2016 3:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>52474</importID>
+      <speakers>
+        <speaker>
+          <id>52474</id>
+          <name>Md. Sultan-E-Alam Khan</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Securing your data with SQL Server 2016</title>
+      <description>The recent survey of Cyber Security by IBM shows that in last year 60% of all attacks were carried out by insiders, by the people you'd be likely to trust. Protecting your data either from malicious attackers or from inadvertent actors inside your organization becomes a pivotal factors. SQL 2016 data security features comes into play here. You can separate the role between who own data and who manage it. We will discuss the new features of this data security along with few demonstration, how you can implement it in a new system and can migrate from the old system.</description>
+      <startTime>11/19/2016 11:00:00 AM</startTime>
+      <endTime>11/19/2016 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>49387</importID>
+      <speakers>
+        <speaker>
+          <id>49387</id>
+          <name>Ahsan Kabir</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Deep Drive on Big data using HDInsight</title>
+      <description>Big data is a collection of data sets so large, complex ,rapidly growing that becomes difficult to search, process, sharing, storage, transfer, visualization, querying, updating and information privacy using on-hand database management tools or traditional data processing applications.5-V of Big Data.Hadoop can be used to collect, tidy up and store boatloads of structure and unstructured data.Hadoop is an open source highly scalable compute and storage platform.</description>
+      <startTime>11/19/2016 12:00:00 PM</startTime>
+      <endTime>11/19/2016 1:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>47187</importID>
+      <speakers>
+        <speaker>
+          <id>47187</id>
+          <name>Saifullah Al Azad</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Reporting Service with Power BI</title>
+      <description>How to develop a report by ssrs and its deploy in server. And compare with other reporting service</description>
+      <startTime>11/19/2016 3:50:00 PM</startTime>
+      <endTime>11/19/2016 4:50:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,66 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #1020 – Costa Rica-BI – Virtual 2020</name>
+    <startDate>1/16/2021 12:00:00 AM</startDate>
+    <attendeeEstimate>500</attendeeEstimate>
+    <timezone>(GMT-06:00) Central America</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatBICR</twitterHashtag>
+    <venue>
+      <name>Texas Tech University</name>
+      <street>Avenida Escazú, Edificio AE205, San José Province, Escazú</street>
+      <city>Heredia</city>
+      <state>Heredia Province, Costa Rica</state>
+      <zipcode>10201</zipcode>
+      <longitude>-84.1429054</longitude>
+      <latitude>9.9367432</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1781</importID>
+      <name>Microsoft</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1020/EventSponsor_14936.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2678</importID>
+      <name>Google Cloud</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://cloud.google.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1020/EventSponsor_14937.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2274</importID>
+      <name>Red Gate Software</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>http://www.red-gate.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1020/EventSponsor_14938.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2696</importID>
+      <name>Melissa</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>http://www.melissa.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1020/EventSponsor_14939.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1553</importID>
+      <name>Business Intelligence LATAM</name>
+      <label>Bronze Sponsor</label>
+      <url>http://bit.ly/SuscribirseBILATAM</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1020/EventSponsor_14940.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+</GuidebookXML>

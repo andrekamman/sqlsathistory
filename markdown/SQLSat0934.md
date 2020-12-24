@@ -1,0 +1,20 @@
+# SQLSaturday #934 - Rio de Janeiro 2019
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+10:00:00|William Lino Oliveira|Enterprise Database Administration  Deployment|[Infrastructure As Code + SQL Server](98986.md)
+10:00:00|Marcio Junior|Application  Database Development|[Problemas Mais Comuns Em Uma Query](99002.md)
+10:00:00|Luiz Coelho|Professional Development|[O que virá após a Transformação Digital? Vem ai a Transformação Analítica](99089.md)
+11:00:00|William Lino Oliveira|Application  Database Development|[Desenvolvimento e Administração em SQL Server com Python](98985.md)
+11:00:00|Roberto Santos|Enterprise Database Administration  Deployment|[Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade](98998.md)
+11:00:00|Wagner Crivelini|Analytics and Visualization|[AZURE DATA EXPLORER - ADX  101](99036.md)
+11:00:00|Guilherme Torres|Application  Database Development|[SQL 2019 Intelligent Query Processing - New features](99043.md)
+11:00:00|Kézia Letícia Carvalho|Enterprise Database Administration  Deployment|[Hyper Scale - Perks and Pitfalls](99169.md)
+13:10:00|Wiluey Sousa|Strategy and Architecture|[Infraestrutura de TI para DBAs - O que devo conhecer para não ser enganado?](99049.md)
+13:10:00|Fernanda ALVES|Analytics and Visualization|[Data, o que?](99152.md)
+13:10:00|Gustavo Moura Fé|Application  Database Development|[Always Encrypted: A Forensic Analysis](99170.md)
+14:00:00|Leandro Domingues|BI Platform Architecture, Development  Administration|[Big Data, NoSQL e Analytics com MongoDB, Power BI e SQL Big Data Clusters - Parte 1](99033.md)
+14:00:00|Reginaldo Silva|Analytics and Visualization|[Event Hub + Stream Analytics Jobs + Power BI = Visualizando dados em tempo real](99087.md)
+14:00:00|Mariane Borges|Analytics and Visualization|[Governança de dados: Primeiros Passos](99117.md)
+15:00:00|Fabiano Lira|Application  Database Development|[Performance Tuning: Melhorando Sua Query e Evitando Armadilhas](98988.md)
+15:00:00|Leandro Domingues|BI Platform Architecture, Development  Administration|[Big Data, NoSQL e Analytics com MongoDB, Power BI e SQL Big Data Clusters - Parte 2](99064.md)
+15:00:00|Thomás Vianna Pereira|Analytics and Visualization|[Azure ML - First steps to be a Data Scientist](99072.md)

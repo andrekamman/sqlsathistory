@@ -1,0 +1,464 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #641 - Puerto Rico 2017</name>
+    <startDate>6/17/2017 12:00:00 AM</startDate>
+    <attendeeEstimate>300</attendeeEstimate>
+    <timezone>(GMT-04:00) Caracas, La Paz</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatPuertoRico</twitterHashtag>
+    <venue>
+      <name>Engine 4 Coworking Space</name>
+      <street>Complejo Onofre Carballeira Esq. PR-2 con Int. PR-5</street>
+      <city>Bayamón</city>
+      <state>PR, Puerto Rico</state>
+      <zipcode>00959</zipcode>
+      <longitude>-66.1466369628906</longitude>
+      <latitude>18.4142608642578</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Platinum</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>875</importID>
+      <name>Nagnoi, LLC</name>
+      <label>Platinum</label>
+      <url>http://www.nagnoi.com</url>
+      <imageURL>https://sqlconquerordotcom.files.wordpress.com/2018/09/nagnoi-logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1935</importID>
+      <name>Engine 4 Coworking Space</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.engine-4.com/en</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/896/EventSponsor_14264.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1588</importID>
+      <name>Quest</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/967/EventSponsor_14754.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1957</importID>
+      <name>GDG Puerto Rico</name>
+      <label>User Group</label>
+      <url>https://www.meetup.com/gdgpuertorico/</url>
+      <imageURL>https://pbs.twimg.com/profile_images/655736703043301376/vKha62KN.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>65511</importID>
+      <name>Jose L. Rivera</name>
+      <label>
+      </label>
+      <description>Jose L. Rivera is a seasoned data professional, speaker, homebrewer, trainer (former MCT), Data Platform MVP and community leader based in Puerto Rico working as Senior Financial Analyst for MCS. He shares his knowledge and experiences throughout his community work as Chapter Leader for the PASS Global Spanish VC (facebook.com/SpanishPASSVC), Vice-President of the Puerto Rico PASS (prpass.org), Mentor of GDG Puerto Rico (facebook.com/gdgpuertorico) and LATAM Regional Mentor at PASS. Jose L is a frequent speaker in SQL Saturday events throughout US and Latin America. He loves data, analytics, teaching, learning, having fun with his family, craft beer (a lot) and everything in between.</description>
+      <twitter>SQLConqueror</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=189422534</linkedin>
+      <ContactURL>http://sqlconqueror.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLConqueror</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66504</importID>
+      <name>German Ordonez</name>
+      <label>
+      </label>
+      <description>Strategic Solutions Consultant – Latinoamerica y Caribe
+Ingeniero de Sistemas de la Universidad Nacional de Colombia, Especialista en Gerencia de Proyectos de la Universidad del Rosario, con mas de 14 anos de experiencia en Administracion de bases de datos Oracle.
+Consultor de las soluciones para bases de datos en desarrollo, administracion y alta disponibilidad dentro de Quest, gestor en la region de Latinoamerica de las iniciativas de mejoramiento para la familia de productos de TOAD en Oracle y SQL Server</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66601</importID>
+      <name>Orlando Mezquita</name>
+      <label>
+      </label>
+      <description>Orlando is principal consultant and trainer at Master Data Analysis. He is a passionate analytics professional who shares his knowledge through MasterDataAnalysis.com. Orlando provides analytics training and consulting services with Power BI, Excel, R, and Minitab.</description>
+      <twitter>orlandomezquita</twitter>
+      <linkedin>https://www.linkedin.com/in/orlandomezquita/</linkedin>
+      <ContactURL>http://www.MasterDataAnalysis.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=orlandomezquita</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66745</importID>
+      <name>Kahlil Mendez</name>
+      <label>
+      </label>
+      <description>For the last 6 years, Kahlil Mendez has developed and managed “Interactive Technology Group”, a Microsoft Learning Partner in San Juan, Puerto Rico with an entrepreneurial and dynamic vision for IT professional development and Learning as a Service Solutions. His current objective is to improve the technical occupational skills challenges through innovative training services for a positive effect in the IT labor marketplace.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/interactivetechnologygroup/</linkedin>
+      <ContactURL>https://www.itg.online/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66497</importID>
+      <name>Juan Martí</name>
+      <label>
+      </label>
+      <description>Passionate Software Developer in mobile and web technologies.  Leader of the Google Developers Group Puerto Rico Chapter and collaborator of various other developers communities in the US and Puerto Rico.</description>
+      <twitter>@jmarti326</twitter>
+      <linkedin>https://pr.linkedin.com/in/juan-marti-31a64564</linkedin>
+      <ContactURL>http://polybits.io</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jmarti326</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66595</importID>
+      <name>Jorge Sanchez</name>
+      <label>
+      </label>
+      <description>Mr. Jorge S#225;nchez brings +27 years of experience in the IT industry, currently working for Rock Solid Technologies as IT Manager. Previously, Mr. Sanchez worked 8 years in Microsoft Puerto Rico as SQL Server Regional Specialist for Caribbean and Central America with direct focus in Puerto Rico, Costa Rica, Dominican Republic, and Trinidad. Before that, he worked 14 years as Senior Consultant, Developer, and SQL Server Certified Instructor within the Microsoft Partners Ecosystem.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/in/jorgesanchezpr</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>64902</importID>
+      <name>German Ordonez</name>
+      <label>
+      </label>
+      <description>Strategic Solutions Consultant – Latinoamerica y Caribe
+Ingeniero de Sistemas de la Universidad Nacional de Colombia, Especialista en Gerencia de Proyectos de la Universidad del Rosario, con mas de 14 anos de experiencia en Administracion de bases de datos Oracle.
+Consultor de las soluciones para bases de datos en desarrollo, administracion y alta disponibilidad dentro de Quest, gestor en la region de Latinoamerica de las iniciativas de mejoramiento para la familia de productos de TOAD en Oracle y SQL Server</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66570</importID>
+      <name>Guillermo Caicedo Santiago</name>
+      <label>
+      </label>
+      <description>Guillermo Caicedo es un profesional de bases de datos y tecnolog#237;a trabajando como Consultor en Nagnoi, LLC. Ha ayudado a numerosas empresas a obtener conocimiento sobre sus datos por desarrollar e implementar soluciones de inteligencia empresarial en sus organizaciones. El Sr. Caicedo tambi#233;n tiene una amplia experiencia desarrollando aplicaciones web y m#243;viles. Guillermo es un Data Platform MVP y l#237;der del Cap#237;tulo PASS para Puerto Rico (PRPASS).</description>
+      <twitter>@sqltitan</twitter>
+      <linkedin>http://www.linkedin.com/in/gcaicedo/</linkedin>
+      <ContactURL>http://www.sqltitan.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqltitan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>65512</importID>
+      <name>Jose L. Rivera</name>
+      <label>
+      </label>
+      <description>Jose L. Rivera is a seasoned data professional, speaker, homebrewer, trainer (former MCT), Data Platform MVP and community leader based in Puerto Rico working as Senior Financial Analyst for MCS. He shares his knowledge and experiences throughout his community work as Chapter Leader for the PASS Global Spanish VC (facebook.com/SpanishPASSVC), Vice-President of the Puerto Rico PASS (prpass.org), Mentor of GDG Puerto Rico (facebook.com/gdgpuertorico) and LATAM Regional Mentor at PASS. Jose L is a frequent speaker in SQL Saturday events throughout US and Latin America. He loves data, analytics, teaching, learning, having fun with his family, craft beer (a lot) and everything in between.</description>
+      <twitter>SQLConqueror</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=189422534</linkedin>
+      <ContactURL>http://sqlconqueror.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLConqueror</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66569</importID>
+      <name>Ramon Ponte</name>
+      <label>
+      </label>
+      <description>N/A</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66847</importID>
+      <name>Nestor Figueroa</name>
+      <label>
+      </label>
+      <description>Over 20 years of experience in management consulting to companies in Puerto Rico and Fortune 500 corporations in industries such as Healthcare, Insurance, Education, and Government. In 1995, he started his consulting career with international firm PricewaterhouseCoopers in New York. At PwC, Nestor led large implementations of Integrated Analytics and Data Warehousing. In 2002, Mr. Figueroa co-founded Nagnoi. Today, Nagnoi is a leading healthcare Big Data analytics software company with customers in PR and the US. 
+
+Nestor holds a Bachelor’s Degree in Industrial Engineering from Penn State University and MBA from the Massachusetts Institute of Technology (MIT) Sloan School of Management.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/nestor-figueroa-326a33/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>62724</importID>
+      <name>Isaias Martinez</name>
+      <label>
+      </label>
+      <description>Awarded as MVP C# for 7 consecutive years. Over 20 years of extensive experience in management, design and implementation of information technology projects aimed to automate processes to minimize time, save resources and improve operational efficiency. This to enhance the vision and mission of the organizations. The experience has been gathered in projects performed in various countries such as: Venezuela, Bolivia, Panama, Colombia, and Puerto Rico. In the last 6 years, I have specialized as Cloud Architect, leading the implementation of Microsoft Azure Solutions in Puerto Rico. My certifications include Microsoft MCP, MCSD, MCSE, MCT, MCDBA.#160;</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://pr.linkedin.com/in/isaiasrma</linkedin>
+      <ContactURL>http://www.isaiasmartinez.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>66595</importID>
+      <speakers>
+        <speaker>
+          <id>66595</id>
+          <name>Jorge Sanchez</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>Creating a Server Antivirus/Antimalware Definitions Update  Scanning Status Report</title>
+      <description>(In Spanish) Are you wonder how to know if your servers are up to date in their antivirus/antimalware? In this session I’ll explain and demonstrate how to create a custom solution for a server antivirus/antimalware definitions update  scanning status report. The technologies used on the solution are: SQL Server (Database  Reporting Services), Microsoft Endpoint Protection 2012, PowerShell Scripts (.ps1), Command files (.cmd), Windows Scheduled Tasks, and Active Directory Group Policy.</description>
+      <startTime>6/17/2017 9:45:00 AM</startTime>
+      <endTime>6/17/2017 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>66570</importID>
+      <speakers>
+        <speaker>
+          <id>66570</id>
+          <name>Guillermo Caicedo Santiago</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Azure SQL Data Warehouse Loading Strategies</title>
+      <description>Any data warehousing project has to include a data loading strategy during the development and operational phases. As the industry is moving to more modern and scalable alternatives in the cloud, it is important to understand what are our options and best practices to design the best strategy for our scenario. In this session we will go through some Polybase basics and various Azure SQL Data Warehouse loading best practices.</description>
+      <startTime>6/17/2017 1:45:00 PM</startTime>
+      <endTime>6/17/2017 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66601</importID>
+      <speakers>
+        <speaker>
+          <id>66601</id>
+          <name>Orlando Mezquita</name>
+        </speaker>
+      </speakers>
+      <track>Data Science</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Introduction to Data Visualization with R: ggplot2  more</title>
+      <description>ggplot2 is the most popular R package for data visualization. This incredibly versatile and powerful package allows you to create complex visualizations with simple code. In this session, we will cover the basics of ggplot2 and show you how to extend its capabilities with other packages. We will also provide some tips to consider when creating graphs.</description>
+      <startTime>6/17/2017 3:15:00 PM</startTime>
+      <endTime>6/17/2017 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>62724</importID>
+      <speakers>
+        <speaker>
+          <id>62724</id>
+          <name>Isaias Martinez</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>Disaster Recovery, de dificil a muy facil.</title>
+      <description>Contar con un “Disaster Recovery”, es una de las preocupaciones de muchos CIO, debido a la cantidad de diferentes sistemas, la complejidad de los mismos, el costo en dinero y operaciones de mantener un sitio alterno de recuperación, y no se hable de las pruebas, entre otras cosas más, hace que este sea un objetivo difícil de alcanzar.
+En esta sesión cubriremos las bases de “Site Recovery”, un muy poderoso servicio de Microsoft Azure, que nos permitirá implementar un “Disater Recovery”, para la mayoría de nuestras plataformas sean Windows o Linux, Hyper-V o VMWare.</description>
+      <startTime>6/17/2017 1:45:00 PM</startTime>
+      <endTime>6/17/2017 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>65511</importID>
+      <speakers>
+        <speaker>
+          <id>65511</id>
+          <name>Jose L. Rivera</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analytics</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>SQL Server Machine Learning Services in a nutshell</title>
+      <description>With the evolution of SQL Server R Services into Machine Learning Services in SQL Server 2017 expanding scalable R in-database analytics by adding scalable Python machine learning providing enterprise-scale data science within SQL Server’s database engine. In this session, we will demonstrate how to create, deploy and consume machine learning models within SQL Server 2017.</description>
+      <startTime>6/17/2017 11:15:00 AM</startTime>
+      <endTime>6/17/2017 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66745</importID>
+      <speakers>
+        <speaker>
+          <id>66745</id>
+          <name>Kahlil Mendez</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>Microsoft SQL Server Certification and Career Roadmap</title>
+      <description>Microsoft is streamlining its expert-level technical certifications. The new Microsoft Certified Solutions Associate (MCSA) and Microsoft Certified Solutions Expert (MCSE) Data Management and Analytics Certification paths is aligning to industry-recognized areas of competence while providing flexibility to showcase your specific skills on Microsoft products and services.</description>
+      <startTime>6/17/2017 3:15:00 PM</startTime>
+      <endTime>6/17/2017 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66569</importID>
+      <speakers>
+        <speaker>
+          <id>66569</id>
+          <name>Ramon Ponte</name>
+        </speaker>
+      </speakers>
+      <track>Data Science</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Better Together: Power BI, Office 365 and Azure</title>
+      <description>Power BI when combined with Office 365 and Azure opens up many new enterprise wide and self service scenarios. Learn how you can leverage other tools, which integrate natively with Power BI, to enable actionable, collaborative and process driven BI.</description>
+      <startTime>6/17/2017 9:45:00 AM</startTime>
+      <endTime>6/17/2017 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>66497</importID>
+      <speakers>
+        <speaker>
+          <id>66497</id>
+          <name>Juan Martí</name>
+        </speaker>
+      </speakers>
+      <track>Software Development</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Using Azure Machine Learning Power In Xamarin</title>
+      <description>Microsoft, Google and even Apple are pushing the power of machine learning as the future of technology.  This is the greatest moment of starting to make your application intelligent, predictive and using the power of machine learning.  In this talk you will be able to use the power of Azure and combine it with Xamarin.</description>
+      <startTime>6/17/2017 1:45:00 PM</startTime>
+      <endTime>6/17/2017 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>65512</importID>
+      <speakers>
+        <speaker>
+          <id>65512</id>
+          <name>Jose L. Rivera</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>SQL Server on Linux</title>
+      <description>The era of Windows only SQL Server is over. In this session, we will explore the capabilities that brings SQL Server 2017 on a Linux environment and its integration with the rest of the ecosystem.</description>
+      <startTime>6/17/2017 3:15:00 PM</startTime>
+      <endTime>6/17/2017 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66847</importID>
+      <speakers>
+        <speaker>
+          <id>66847</id>
+          <name>Nestor Figueroa</name>
+        </speaker>
+      </speakers>
+      <track>Data Science</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>"The Statistical Sommelier", A Practical Intro to R!</title>
+      <description>In this session, attendees will learn basic data exploration using R, and will be able to run an entire prediction case using Linear Regression, to predict quality of wine based on a real life case, but also stressing the importance for Data Scientists in the interpretation of the results.</description>
+      <startTime>6/17/2017 11:15:00 AM</startTime>
+      <endTime>6/17/2017 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>64902</importID>
+      <speakers>
+        <speaker>
+          <id>64902</id>
+          <name>German Ordonez</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>Monitoreo y diagnostico de bases de datos SQL Server</title>
+      <description>Conozca como las soluciones de Quest permiten monitorear un ambiente de bases de datos SQL Server, identificar problemas de espacio, identificar bloqueos en tiempo real, hacer diagnóstico histórico del comportamiento de la base de datos, generar alertas o notificaciones sobre los problemas en la base de datos, vea como rápidamente se puede hacer afinamiento a consultas SQL problemáticas, durante la sesión presentaremos los tips para identificar problemas en la base de datos y encontrar rápidamente las soluciones.</description>
+      <startTime>6/17/2017 11:15:00 AM</startTime>
+      <endTime>6/17/2017 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66504</importID>
+      <speakers>
+        <speaker>
+          <id>66504</id>
+          <name>German Ordonez</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Gestión de Backups y recuperación en bases de datos SQL Server</title>
+      <description>Alguna vez ha tenido que recuperar una base de datos SQL Server, para restaurar una tabla? 
+Le han solicitado archivos de backups encriptados para cumplir con estándares de seguridad?
+Los respaldos de SQL Server utilizan al máximo los recursos de hardware disponible?
+Durante esta sesión veremos cómo recuperar un objeto de la base de datos sin tener que recuperar la BD completa, vea cómo podemos recuperar registros modificados directamente de los archivos de log y conozca los nuevos algoritmos para realizar backups de SQL Server hasta con un 90% de compresión.</description>
+      <startTime>6/17/2017 9:45:00 AM</startTime>
+      <endTime>6/17/2017 11:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

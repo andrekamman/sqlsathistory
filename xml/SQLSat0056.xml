@@ -1,0 +1,1106 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #56 - Dallas (BI Edition) 2010</name>
+    <startDate>10/23/2010 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat56</twitterHashtag>
+    <venue>
+      <name>Microsoft Campus - Las Colinas</name>
+      <street>7000 State Hwy 161</street>
+      <city>Irving</city>
+      <state>Texas</state>
+      <zipcode>75309</zipcode>
+      <longitude>-96.963005</longitude>
+      <latitude>32.899219</latitude>
+    </venue>
+  </guide>
+  <speakers>
+    <speaker>
+      <importID>29751</importID>
+      <name>David Stein</name>
+      <label>
+      </label>
+      <description>David Stein - Agile Data Warehouse Architect and Independent Consultant - has more than a decade of experience working in SQL Server Business Intelligence. He’s designed multi-terabyte, multi-tenant Data Warehouses from scratch as well as saved projects in serious jeopardy.</description>
+      <twitter>@Made2Mentor</twitter>
+      <linkedin>http://www.linkedin.com/pub/david-stein/8/ba8/705</linkedin>
+      <ContactURL>http://www.Made2Mentor.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Made2Mentor</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32845</importID>
+      <name>Sean McCown</name>
+      <label>
+      </label>
+      <description>Sean McCown is a Certified Master with 23 years of experience in databases. He is also founder and co-owner of the MidnightDBA.com website, where he records free SQL Server training videos. He also writes the popular Minion Maintenance suite, the most configurable maintenance solution on the planet.</description>
+      <twitter>@KenpoDBA</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.midnightdba.com/dbarant</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KenpoDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30209</importID>
+      <name>Forrest Dermid</name>
+      <label>
+      </label>
+      <description>Forrest has been a Sr. BI Technology Specialist for almost 5 years at Microsoft specializing in reporting, analysis, and performance management.  Forrest’s professional career spans almost 22 years with ten years in business intelligence software and professional services sales, fourteen years internal and external analytical and application systems consulting experience in all the major US industries.  Forrest began his career as an industry accountant primarily in financial reporting, analysis</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29752</importID>
+      <name>David Stein</name>
+      <label>
+      </label>
+      <description>David Stein - Agile Data Warehouse Architect and Independent Consultant - has more than a decade of experience working in SQL Server Business Intelligence. He’s designed multi-terabyte, multi-tenant Data Warehouses from scratch as well as saved projects in serious jeopardy.</description>
+      <twitter>@Made2Mentor</twitter>
+      <linkedin>http://www.linkedin.com/pub/david-stein/8/ba8/705</linkedin>
+      <ContactURL>http://www.Made2Mentor.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Made2Mentor</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32846</importID>
+      <name>Sean McCown</name>
+      <label>
+      </label>
+      <description>Sean McCown is a Certified Master with 23 years of experience in databases. He is also founder and co-owner of the MidnightDBA.com website, where he records free SQL Server training videos. He also writes the popular Minion Maintenance suite, the most configurable maintenance solution on the planet.</description>
+      <twitter>@KenpoDBA</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.midnightdba.com/dbarant</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KenpoDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33138</importID>
+      <name>Sriram Ganapathy</name>
+      <label>
+      </label>
+      <description>Sriram Ganapathy is a Senior Technology Specialist with Microsoft Corporation. Sriram has been with Microsoft for 10+ years working on SQL Server, BI and related technologies.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33717</importID>
+      <name>Thomas LeBlanc</name>
+      <label>
+      </label>
+      <description>Thomas LeBlanc (Microsoft Data Platform MVP) is a Data Warehouse Architect in Baton Rouge, and uses his 30+ years in IT to develop OLTP systems with normalized databases for high-performing T-SQL and dimensional data marts. Development is done in SSIS, SSAS, SSRS, Power BI, and Excel. As a PASS volunteer, he is past chair of Excel BI and Data Arch VCs and is active in the Baton Rouge Analytics and SQL Server User groups, as well as SQLSaturday in Baton Rouge.
+You can find his blog at TheSmilingDBA.BlogSpot.com and website at Thomas-LeBlanc.com</description>
+      <twitter>TheSmilingDBA</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=29648544amp;trk=hb_tab_pro_top</linkedin>
+      <ContactURL>http://Thomas-LeBlanc.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=TheSmilingDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32730</importID>
+      <name>Microsoft Presenter</name>
+      <label>
+      </label>
+      <description>TBD</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33596</importID>
+      <name>Tim Mitchell</name>
+      <label>
+      </label>
+      <description>Tim Mitchell is a business intelligence architect, author, and trainer. He has worked with SQL Server for over a decade, specializing in data warehousing, ETL/SSIS, and reporting. He holds a Bachelor’s Degree in Computer Science from Texas AM at Commerce, and is recognized as a Microsoft Data Platform MVP.  Tim is a business intelligence consultant and principal at Tyleris Data Solutions.
+
+Tim is an active community speaker and volunteer, having spoken at over 100 events including the PASS Summit, SQLBits, Dev Connections, SQL Intersection, and scores of SQL Saturdays. He blogs at TimMitchell.net, and tweets at @Tim_Mitchell.</description>
+      <twitter>@Tim_Mitchell</twitter>
+      <linkedin>https://www.linkedin.com/in/timmitchell/</linkedin>
+      <ContactURL>http://www.TimMitchell.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Tim_Mitchell</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31496</importID>
+      <name>Leonard Mwangi</name>
+      <label>
+      </label>
+      <description>Leonard Mwangi is a Principal Consultant with e Tek Global Inc. concentrating mostly on Information Worker Solutions and applications Integration. Leonard has over 8 years of experience in IT Industry and has been working with SQL Server since SQL 7.0 and SharePoint since SPS with end-to-end client solutions. Leonard is also a regular contributor for MS forums and a presenter at different conferences and Special Interest Groups regarding SQL Server and SharePoint.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.geekswithblogs.net/leonardm</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32728</importID>
+      <name>Microsoft Presenter</name>
+      <label>
+      </label>
+      <description>TBD</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30704</importID>
+      <name>Jennifer McCown</name>
+      <label>
+      </label>
+      <description>Jen McCown is CEO of MinionWare, LLC; a Microsoft Certified Master for SQL Server; and an independent consultant. She is Senior Editor at MidnightDBA.com, where she creates training videos, the DBAs at Midnight webshow, blogs, reviews, and podcasts. Jen is a member, volunteer, and speaker in PASS, and the PASS Women in Technology Virtual Group.</description>
+      <twitter>http://www.Twitter.com/MidnightDBA</twitter>
+      <linkedin>http://www.linkedin.com/in/jennifermccown</linkedin>
+      <ContactURL>http://www.MidnightDBA.com/Jen</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://www.Twitter.com/MidnightDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30954</importID>
+      <name>John Welch</name>
+      <label>
+      </label>
+      <description>John Welch joined SentryOne in spring 2018 as VP of Engineering with the acquisition by SentryOne of the software division of Pragmatic Works. John leads the development of a suite of products that make developing, managing, and documenting data solutions easier. John has been successfully delivering IT solutions to business problems since 1994, and has been focused on business intelligence and data warehousing technologies since 2001. He is a Microsoft Most Valued Professional (MVP), and a frequent presenter on SQL Server and data topics. He also contributes to several open source projects and community initiatives targeted toward making data professionals work more productive.</description>
+      <twitter>@john_welch</twitter>
+      <linkedin>http://www.linkedin.com/in/johncwelch/</linkedin>
+      <ContactURL>http://agilebi.com/jwelch</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@john_welch</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32726</importID>
+      <name>Microsoft Presenter</name>
+      <label>
+      </label>
+      <description>TBD</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32847</importID>
+      <name>Sean McCown</name>
+      <label>
+      </label>
+      <description>Sean McCown is a Certified Master with 23 years of experience in databases. He is also founder and co-owner of the MidnightDBA.com website, where he records free SQL Server training videos. He also writes the popular Minion Maintenance suite, the most configurable maintenance solution on the planet.</description>
+      <twitter>@KenpoDBA</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.midnightdba.com/dbarant</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KenpoDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33140</importID>
+      <name>Sriram Ganapathy</name>
+      <label>
+      </label>
+      <description>Sriram Ganapathy is a Senior Technology Specialist with Microsoft Corporation. Sriram has been with Microsoft for 10+ years working on SQL Server, BI and related technologies.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31588</importID>
+      <name>Mark Verret</name>
+      <label>
+      </label>
+      <description>Mark Verret is the IT Manager for the LSU Highway Safety Research Group.  He has over 20 years experience in the IT field.  He has worked with SQL Server for the past 12 years implementing Business Intelligence and data warehousing related projects.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32710</importID>
+      <name>Russel Loski</name>
+      <label>
+      </label>
+      <description>Russ Loski is a SQL Server BI Developer based in Dallas-Fort Worth.  He current works as a Data Analytics Engineer for Navisite, a remote managed IT services company.   Twenty years ago, he began working with SQL Server 6.5. He has since continued to develop applications connected to all of the versions of SQL Server. He has worked with clients in industries from insurance to healthcare, from movie theaters to American football.  Russ is a regular speaker at SQLSaturday events, as well as the SQL Server Users Groups in the North Texas region. Russ likes working with data in various shapes.</description>
+      <twitter>sqlmovers</twitter>
+      <linkedin>http://www.linkedin.com/in/russloski</linkedin>
+      <ContactURL>http://www.sqlmovers.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlmovers</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33639</importID>
+      <name>Tim Costello</name>
+      <label>
+      </label>
+      <description>Tim Costello is an MCITP, MCTS specializing in etl and data analytics for Interworks Inc. Tim is an international speaker that is always looking for opportunities to share his passion for SQL Server, Tableau and data visualization. Tim is active in the SQL community and leads a data visualization focused user group in the Dallas area.</description>
+      <twitter>timcost</twitter>
+      <linkedin>http://www.linkedin.com/pub/tim-costello/8/b38/a02/</linkedin>
+      <ContactURL>http://www.timcost.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=timcost</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28770</importID>
+      <name>ANDREW MINKIN</name>
+      <label>
+      </label>
+      <description>Drew Minkin begin his data science career in 2010 with MS_SQL.   He has been an active speaker at the MS Business Intelligence Community, North Texas SQL Server User's Group and SQL Saturday events across the country , for four years, He worked at Microsoft in SQL Support and in Premier Field Engineering for over six years. After leaving Microsoft, Drew has designed and supported advanced analytics for dozens of Fortune 500 companies in dozens of business areas.</description>
+      <twitter>madmanminkin</twitter>
+      <linkedin>https://www.linkedin.com/in/drew-minkin-a50b285/</linkedin>
+      <ContactURL>http://dataminkin.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=madmanminkin</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32731</importID>
+      <name>Microsoft Presenter</name>
+      <label>
+      </label>
+      <description>TBD</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30088</importID>
+      <name>Erin Welker</name>
+      <label>
+      </label>
+      <description>Erin Welker, a consulting professional whose passion is SQL Server, has worked with the product since version 1.11. She has served as the data warehouse architect on projects for several globally recognized companies. She has also presented on SQL Server topics at several conferences and is the author of various whitepapers, articles, and book chapters on SQL Server and data warehousing. </description>
+      <twitter>sqlbigirl</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlbigirl</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33597</importID>
+      <name>Tim Mitchell</name>
+      <label>
+      </label>
+      <description>Tim Mitchell is a business intelligence architect, author, and trainer. He has worked with SQL Server for over a decade, specializing in data warehousing, ETL/SSIS, and reporting. He holds a Bachelor’s Degree in Computer Science from Texas AM at Commerce, and is recognized as a Microsoft Data Platform MVP.  Tim is a business intelligence consultant and principal at Tyleris Data Solutions.
+
+Tim is an active community speaker and volunteer, having spoken at over 100 events including the PASS Summit, SQLBits, Dev Connections, SQL Intersection, and scores of SQL Saturdays. He blogs at TimMitchell.net, and tweets at @Tim_Mitchell.</description>
+      <twitter>@Tim_Mitchell</twitter>
+      <linkedin>https://www.linkedin.com/in/timmitchell/</linkedin>
+      <ContactURL>http://www.TimMitchell.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Tim_Mitchell</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28769</importID>
+      <name>ANDREW MINKIN</name>
+      <label>
+      </label>
+      <description>Drew Minkin begin his data science career in 2010 with MS_SQL.   He has been an active speaker at the MS Business Intelligence Community, North Texas SQL Server User's Group and SQL Saturday events across the country , for four years, He worked at Microsoft in SQL Support and in Premier Field Engineering for over six years. After leaving Microsoft, Drew has designed and supported advanced analytics for dozens of Fortune 500 companies in dozens of business areas.</description>
+      <twitter>madmanminkin</twitter>
+      <linkedin>https://www.linkedin.com/in/drew-minkin-a50b285/</linkedin>
+      <ContactURL>http://dataminkin.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=madmanminkin</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29314</importID>
+      <name>Bryan Smith</name>
+      <label>
+      </label>
+      <description>Bryan is a Data Solution Specialist with Microsoft Las Colinas, focused on data-driven solutions in the Azure cloud.  He also teaches analytics technologies within the MBA amp; MSBA programs at SMU Cox School of Business.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/pub/bryan-smith/17/98b/161</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32039</importID>
+      <name>Ranjan Muttiah</name>
+      <label>
+      </label>
+      <description>Ranjan Muttiah is the president and owner of iHydro Engineering, a company
+that specializes in the use of spatial data to generate actional information
+for clients.  In addition to consulting experience, Ranjan has held a variety
+of academic positions with the TCU, Texas AM, and the University of Texas
+systems.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.ihydroeng.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28647</importID>
+      <name>Anand Pandya</name>
+      <label>
+      </label>
+      <description>Mr. Pandya is a BI Services Manager with GNet Group in Dallas, TX. Known for his expertise in Information Management strategy and architecture, Anand has managed high performing consulting teams in the acts of creating, selling and delivering market responsive information management solutions. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://gnetgroup.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32729</importID>
+      <name>Microsoft Presenter</name>
+      <label>
+      </label>
+      <description>TBD</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33595</importID>
+      <name>Tim Mitchell</name>
+      <label>
+      </label>
+      <description>Tim Mitchell is a business intelligence architect, author, and trainer. He has worked with SQL Server for over a decade, specializing in data warehousing, ETL/SSIS, and reporting. He holds a Bachelor’s Degree in Computer Science from Texas AM at Commerce, and is recognized as a Microsoft Data Platform MVP.  Tim is a business intelligence consultant and principal at Tyleris Data Solutions.
+
+Tim is an active community speaker and volunteer, having spoken at over 100 events including the PASS Summit, SQLBits, Dev Connections, SQL Intersection, and scores of SQL Saturdays. He blogs at TimMitchell.net, and tweets at @Tim_Mitchell.</description>
+      <twitter>@Tim_Mitchell</twitter>
+      <linkedin>https://www.linkedin.com/in/timmitchell/</linkedin>
+      <ContactURL>http://www.TimMitchell.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Tim_Mitchell</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30956</importID>
+      <name>John Welch</name>
+      <label>
+      </label>
+      <description>John Welch joined SentryOne in spring 2018 as VP of Engineering with the acquisition by SentryOne of the software division of Pragmatic Works. John leads the development of a suite of products that make developing, managing, and documenting data solutions easier. John has been successfully delivering IT solutions to business problems since 1994, and has been focused on business intelligence and data warehousing technologies since 2001. He is a Microsoft Most Valued Professional (MVP), and a frequent presenter on SQL Server and data topics. He also contributes to several open source projects and community initiatives targeted toward making data professionals work more productive.</description>
+      <twitter>@john_welch</twitter>
+      <linkedin>http://www.linkedin.com/in/johncwelch/</linkedin>
+      <ContactURL>http://agilebi.com/jwelch</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@john_welch</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31105</importID>
+      <name>John Sterrett</name>
+      <label>
+      </label>
+      <description>John Sterrett is a database administrator at a international law-firm, and is responsible for over 100 instances of SQL Server. John has been active within the SQL Server community, including hosting the first SQL Saturday in West Virginia. John also presented a lightning talk and chalk-talk at the SQL Server 2010 Member Summit, presented sessions at SQL Saturday’s, and the Pittsburgh SQL Server User Group. John is a syndicated blogger at SQLServerPedia and contributes tips at MSSQLTIPS. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://johnsterrett.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32727</importID>
+      <name>Microsoft Presenter</name>
+      <label>
+      </label>
+      <description>TBD</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33273</importID>
+      <name>Dr. Suresh Rajappa</name>
+      <label>
+      </label>
+      <description>Suresh Rajappa is a Principal @ Intellisee Group focusing on Enterprise Performance Management, Big Data, Business Analytics and In-memory computing. He has 20 years of experience in databases and Business intelligence. He holds a PhD in Data Mining and MBA degree in Strategy and Finance.
+
+He had spoken in various SQLSaturday sessions across the country.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/sureshrajappa</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30604</importID>
+      <name>Jose Chinchilla</name>
+      <label>
+      </label>
+      <description>Jose Chinchilla is an experienced data analytics professional with multiple certifications including Microsoft Certified Database Administration (MCSE), Microsoft Certified Data Management and Analytics (MCSE), and Microsoft Certified Trainer (MCT). Jose specializes in Data Warehouse and Data Lake Architecture and Development as the Data Analytics Practice Lead at AgileThought, a full-service custom software and analytics consulting firm based in Tampa, FL. Jose is a book author (SQL 2012 Bible, Professional SQL Server 2012 Administration, Exam Ref 70-767 Implementing a SQL Data Warehouse 2016) and leads the Tampa Bay BI  Data Analytics PASS Chapter in Tampa, FL.</description>
+      <twitter>SQLJoe</twitter>
+      <linkedin>http://www.linkedin.com/in/josechinchilla</linkedin>
+      <ContactURL>http://www.sqljoe.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLJoe</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>30604</importID>
+      <speakers>
+        <speaker>
+          <id>30604</id>
+          <name>Jose Chinchilla</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR1200</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Business Intelligence: Decaffeinated Please!</title>
+      <description>For many Database Administrators, Data Analysts and other IT and Business Professionals, Business Intelligence (BI) and Data Warehousing (DW) may be a new and uncharted territory with no clear path towards the destination. Others, who have already jumped head-on into the Business Intelligence journey, may be facing challenges that can potentially put their efforts at the risk of failure.In this session I will go over some of the basic concepts that are key in understanding BI and DW. I will also go over the natural roadmap towards BI success, its maturity stages and some of the factors that influence a successful BI project. I will exemplify all these concepts by showcasing a successful real-world BI and DW solution.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30954</importID>
+      <speakers>
+        <speaker>
+          <id>30954</id>
+          <name>John Welch</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR4025</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Implementing a Data Cleansing Component for SSIS</title>
+      <description>To ensure consistency across data integrated from multiple systems, the application of standard data cleansing routines is a best practice. Examples of data cleansing include translation of NULL values to defaults, trimming string values, and consistent formatting for textual data such as telephone and social security numbers. While these routines can be implemented using standard SSIS components, the resulting logic must be duplicated for each source and column which creates a development and maintenance burden.  This session will walk through the process of creating common data cleansing routines in a custom component to enable code reuse with minimal effort across many packages.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33717</importID>
+      <speakers>
+        <speaker>
+          <id>33717</id>
+          <name>Thomas LeBlanc</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR1200</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Transition from DBA to BI Architect</title>
+      <description>Database Normalization and Dimension Modeling are the same but different. Development in today ‘s larger industries require the design and analysis of Online Transaction Processing (OLTP) to take into account Data Warehousing/OLAP (Online Analytical Processing). My transition from Senior DBA to BI Architect at Amedisys has been a process of sanding the rough edges of my passion from fully normalized databases. The Dimensional Modeling started a re-tooling of my mind to look at end result analytics/statistics from smaller and smaller transactions. From previous experience, I know I am not going to get it right the first time. Lessons learned will mold me into a great BI Guy.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32726</importID>
+      <speakers>
+        <speaker>
+          <id>32726</id>
+          <name>Microsoft Presenter</name>
+        </speaker>
+      </speakers>
+      <track>Room: Office</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Enhanced contextual help for Reporting Services</title>
+      <description>Participants will be shown concepts depicting expanding contextual help for Report Builder 3.0 and beyond and be asked to provide feedback to help us choose between competing designs.    Previous customer comments and 2 benchmark tests of RB 3.0 have provided those areas that we think could benefit from this approach which we think might be an alternative to Office Ribbon contextual help.  Participants will help us determine future of delivery of on-line and local help with inputs to MSDN and TECH Net for the Business Intelligence products.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32847</importID>
+      <speakers>
+        <speaker>
+          <id>32847</id>
+          <name>Sean McCown</name>
+        </speaker>
+      </speakers>
+      <track>Room: Visual Basic</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SSIS Package Architecture</title>
+      <description>Here we’ll talk about different ways to make your packages more supportable.  Be it from choosing the right way to deploy them, to choosing the proper security model, or even moving packages between servers.  Let’s stop making this so hard on ourselves.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30209</importID>
+      <speakers>
+        <speaker>
+          <id>30209</id>
+          <name>Forrest Dermid</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR4025</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>BI Dashboarding End to End</title>
+      <description>During this session you will learn how to leverage the Microsoft platform to deliver information to the corporate and at the personal level.  We will review SQL Server Reporting Services 2008 R2, SQL Server Analysis Services 2008 R2, SQL Server 2008 R2, SharePoint 2010 and several services like PerformancePoint Services 2010, Excel 2010, and Excel 2010 PowerPivot Add In.  The intended audience is for IT and Information Workers who are looking for new ways to leverage the Microsoft platform to deliver information in a concise and meaningful way. </description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33596</importID>
+      <speakers>
+        <speaker>
+          <id>33596</id>
+          <name>Tim Mitchell</name>
+        </speaker>
+      </speakers>
+      <track>Room: Windows</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Dynamic SSIS with Expressions and Configurations</title>
+      <description>Never hard-code a connection string or file path again! In this session, we'll look at several ways to introduce dynamic logic into your packages by way of the SSIS expression language, package configurations, and variables. Learn how to reuse tasks, components, and containers by replacing static settings with dynamic and flexible properties.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32727</importID>
+      <speakers>
+        <speaker>
+          <id>32727</id>
+          <name>Microsoft Presenter</name>
+        </speaker>
+      </speakers>
+      <track>Room: Office</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Analysis Services Supporting User workflow -SQL 11</title>
+      <description>Participants will be asked to help us sketch out and better understand  the process of what a BI  project looks like end to end “in the wild”.  Emphasis will be on roles, artifacts, business requirements etc.  Special emphasis on work flow of dev, test and production and understanding difference between BI professional grade (BIDS) and Power Pivot oriented BI.   Participants’ input affects decisions to be made with regard to how tools and functionality for BIDS and the more Power pivot oriented BI products will be built out.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33138</importID>
+      <speakers>
+        <speaker>
+          <id>33138</id>
+          <name>Sriram Ganapathy</name>
+        </speaker>
+      </speakers>
+      <track>Room: Visual Basic</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Using powerpivot to create quick  effective cubes</title>
+      <description>This session will show how to use power pivot functionality in SQL Server 2008 R2 to quickly slice and dice data and create self service cubes and also show you how you can share this information with your team</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32730</importID>
+      <speakers>
+        <speaker>
+          <id>32730</id>
+          <name>Microsoft Presenter</name>
+        </speaker>
+      </speakers>
+      <track>Room: Office</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>High Availability, Disaster Recovery  - SQL11</title>
+      <description>Concept and story board exploration concentrating on Patching and HADR story for SQL 11.  There will be a special emphasis on roles and responsibilities and how those might change/improve.   Will be looking to participants to provide input on concept and help us to determine success criteria and fit to user work flow.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30956</importID>
+      <speakers>
+        <speaker>
+          <id>30956</id>
+          <name>John Welch</name>
+        </speaker>
+      </speakers>
+      <track>Room: Visual Basic</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Using the Excel PivotTable as an OLAP Client</title>
+      <description>Almost everyone in the business world has Excel, and it is one of the most popular tools for business analysts to use for analyzing data. Excel PivotTables work very well against an Analysis Services data source, and deliver very powerful analytic capabilities. But, as with any tool, it comes with some tradeoffs as well. During this session, we’ll walk through some of the capabilities of Excel PivotTables with OLAP, review the tradeoffs, and explain how you can optimize your OLAP cubes for Excel clients.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32728</importID>
+      <speakers>
+        <speaker>
+          <id>32728</id>
+          <name>Microsoft Presenter</name>
+        </speaker>
+      </speakers>
+      <track>Room: Office</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Integration Services -- Migrating to the Cloud</title>
+      <description>Group discussion on how participants see interaction between BI IT pros and IWs changing as a result of moving to the cloud.   What might “cloudifying” the existing tools look like for IWs and BI IT pros?   Participants’ input will be factored into SQL 11 and next gen planning</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33140</importID>
+      <speakers>
+        <speaker>
+          <id>33140</id>
+          <name>Sriram Ganapathy</name>
+        </speaker>
+      </speakers>
+      <track>Room: Visual Basic</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>How to integrate BI services with SQL Azure</title>
+      <description>SQL Azure is SQL Server's relational database as a service offering. SQL Azure can be used as a backend for a number of BI applications. This session will demonstrate how SQL Server Integration Services, SQL Server Reporting Services can be used to connect to a SQL Azure database to build applications that use a dynamic and agile data store. The session will also talk about Microsoft® Codename "Dallas" which is a new service allowing developers and information workers to easily discover, purchase, and manage premium data subscriptions in the Windows Azure platform</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33597</importID>
+      <speakers>
+        <speaker>
+          <id>33597</id>
+          <name>Tim Mitchell</name>
+        </speaker>
+      </speakers>
+      <track>Room: Windows</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Scripting in SSIS</title>
+      <description>In this session, we will explore the two scripting tools in SQL Server Integration Services, the Script Task and Script Component.  We'll take a tour through each of these tools, learning how they can add flexibility to your SSIS packages.  We'll discuss not only how but when and why to write code in SSIS, and will have a number of demos to illustrate.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31588</importID>
+      <speakers>
+        <speaker>
+          <id>31588</id>
+          <name>Mark Verret</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR1200</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>My First Report</title>
+      <description>SQL Reporting Services has become a powerful and flexible tool for delivery of information.  What tools and skills are needed to utilize this sytem?  In this session I will walk through creating your first report using Microsoft's free Report Builder.  We will walk through many examples moving from a basic report expanding to more complex functionality.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30088</importID>
+      <speakers>
+        <speaker>
+          <id>30088</id>
+          <name>Erin Welker</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR4005</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>High-performance Data Warehouses</title>
+      <description>This session will address the things to consider when architecting a large, high-performance relational data warehouse.  We’ll discuss strategies for improving ETL and query performance, which frequently conflict with one another.  The discussion will touch on partitioning, indexing strategies and pre-aggregation, among other SQL Server 2008 features.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33595</importID>
+      <speakers>
+        <speaker>
+          <id>33595</id>
+          <name>Tim Mitchell</name>
+        </speaker>
+      </speakers>
+      <track>Room: Windows</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Loops, Lookups and Splits: Intermediate SSIS</title>
+      <description>In this session, we'll explore some of the useful tasks and data flow components of SSIS. Join in as we review the File System Task and the For Each Loop container, as well as data flow components including the Lookup Transformation, the Conditional Split, and the Derived Column. This session will include various demonstrations using SSIS 2008.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31496</importID>
+      <speakers>
+        <speaker>
+          <id>31496</id>
+          <name>Leonard Mwangi</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR4005</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Business Intelligence from data to presentation</title>
+      <description>Data is the backbone of every business and providing the decision makers with accurate and up-to-date information can go long ways for every organization. With SQL Server being the backbone of Microsoft driven Business Intelligence (BI) Solution we will look at how you can build a BI solution from ground up mashing data from different sources and creating a data model that will streamline your environment data collection while provide a visual dashboard with KPI’s, Scorecard, Reports and Filters and presenting them in a SharePoint 2010 environment.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29752</importID>
+      <speakers>
+        <speaker>
+          <id>29752</id>
+          <name>David Stein</name>
+        </speaker>
+      </speakers>
+      <track>Room: Windows</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Who, What, Where. The Power of SSRS Parameters</title>
+      <description>SQL Server Reporting Services parameter creation and use will be discussed. Aspects such as multi-value parameters, setting default values, and dealing with nulls will be covered.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32846</importID>
+      <speakers>
+        <speaker>
+          <id>32846</id>
+          <name>Sean McCown</name>
+        </speaker>
+      </speakers>
+      <track>Room: Windows</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Intro to SSIS: Part 2</title>
+      <description>This session will pick up where the 1st one left off and continue discussing the basics of SSIS.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>30704</importID>
+      <speakers>
+        <speaker>
+          <id>30704</id>
+          <name>Jennifer McCown</name>
+        </speaker>
+      </speakers>
+      <track>Room: Visual Basic</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Ground Zero SSRS</title>
+      <description>Beginning SSRS and beyond</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29751</importID>
+      <speakers>
+        <speaker>
+          <id>29751</id>
+          <name>David Stein</name>
+        </speaker>
+      </speakers>
+      <track>Room: Visual Basic</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Creating Interactive Dashboards with PowerPivot</title>
+      <description>Will demonstrate how to use PowerPivot to dynamically control several different charts as an interactive dashboard. Presenter will also discuss the pitfalls of allowing users access to this new technology</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32845</importID>
+      <speakers>
+        <speaker>
+          <id>32845</id>
+          <name>Sean McCown</name>
+        </speaker>
+      </speakers>
+      <track>Room: Windows</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Intro to SSIS: Part 1</title>
+      <description>This session will take beginners who know nothing about SSIS and teach them what they need to know to get up and running writing their own packages from scratch.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32729</importID>
+      <speakers>
+        <speaker>
+          <id>32729</id>
+          <name>Microsoft Presenter</name>
+        </speaker>
+      </speakers>
+      <track>Room: Office</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Azure Reporting - early look</title>
+      <description>Demo and Q and A.  Participants will be asked to comment on the design, make suggestions particularly as to how they see this fitting into their workflow and environment and how will it be supported by IT?  </description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33273</importID>
+      <speakers>
+        <speaker>
+          <id>33273</id>
+          <name>Dr. Suresh Rajappa</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR4025</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Efficient Data Warehouse Design</title>
+      <description>Key design issues in desiging the EDW and how to avoild them. For Example, what are the criteria to combine the dimensions or put them saperate, What is the implecation of using RCD (rapidly changing dimensions)  etc and how to drive the business value . All these are explained with real world example</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28769</importID>
+      <speakers>
+        <speaker>
+          <id>28769</id>
+          <name>ANDREW MINKIN</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR4025</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Predictive Analytics Lifecycle Management - Part 1</title>
+      <description>This session will introduce techniques of integrating algorithm output with production data.   Example code and lab will use data sets beyond Adventureworks.Topics include:     Applying multiple models     Developing a scorecarding system      Assessing the most effective model     Track population stability and algorithm performance over time.  </description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31105</importID>
+      <speakers>
+        <speaker>
+          <id>31105</id>
+          <name>John Sterrett</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR4005</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server 2008 for Developers</title>
+      <description>Are you still on SQL Server 2005 and wonder what you are missing?  Did you upgrade to SQL Server 2008 and haven’t had the time to check out the new features? In one hour you will see demos that give an overview of the new features for developers included with SQL Server 2008.  This presentation will include Management Studio (SSMS) Enhancements, T-SQL enhancements, Table Value Parameters, Merge and more…</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29314</importID>
+      <speakers>
+        <speaker>
+          <id>29314</id>
+          <name>Bryan Smith</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR4005</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>MDX Boot Camp - Long</title>
+      <description>The purpose of this class is to provide you the basics of the MDX language and introduce you to the foundational functions you need to know to build solid MDX queries.  Participants should bring their laptops with the Adventure Works DW 2008, Adventure Works DW 2008 R2, or MDX Step-by-Step sample Analysis Services databases installed in order to follow along with the instructor-led demonstrations.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28770</importID>
+      <speakers>
+        <speaker>
+          <id>28770</id>
+          <name>ANDREW MINKIN</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR4025</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Predictive Analytics Lifecycle Management - Part 2</title>
+      <description>This session will introduce techniques of integrating algorithm output with production data. Example code and lab will use data sets beyond Adventureworks. Topics include: Applying multiple models Developing a scorecarding system Assessing the most effective model Track population stability and algorithm performance over time.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33639</importID>
+      <speakers>
+        <speaker>
+          <id>33639</id>
+          <name>Tim Costello</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR1200</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Tableau: Delivering Self-Serve BI</title>
+      <description>Rapid-fire visual analysis.  Ad hoc query capability.  Easy interactive dashboard building.  No, this is not going to be an hour of buzzword bingo.  This time we will actually deliver on the promise of self service BI.  Using SQL in conjunction with a visual analysis tool like Tableau we can help our users find the questions they didn't know they wanted to answer.  This session will be demo heavy and will highlight best practices in data visualization and dashboard design.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28647</importID>
+      <speakers>
+        <speaker>
+          <id>28647</id>
+          <name>Anand Pandya</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR1200</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Answers at the Speed of thought with SSAS</title>
+      <description>Microsoft SQL Server Analysis Services is the semantic layer in the Microsoft BI technology platform that allows users to see and interact with their information in a faster and more dynamic way compared to static reports.  In this event we will take an in-depth look at Analysis Services which provides business users the ability to perform analysis and mine their Data to understand and uncover business issues/drivers leading to better decisions and new business opportunities.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32731</importID>
+      <speakers>
+        <speaker>
+          <id>32731</id>
+          <name>Microsoft Presenter</name>
+        </speaker>
+      </speakers>
+      <track>Room: Office</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Impact and Lineage Analysis</title>
+      <description>Participants will work through use cases and other conceptual material to help us determine terminology and need for Impact and Lineage Analysis as well as critical to success metrics.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32710</importID>
+      <speakers>
+        <speaker>
+          <id>32710</id>
+          <name>Russel Loski</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR4025</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SSIS and SSRS Better Together - Long</title>
+      <description>SQL Server Integration Services (SSIS)  and Reporting Services (SSRS) are two pillars of Microsoft's Business Intelligence stack:  SSIS gathering the data and SSRS displaying the data.  Do you know that SSRS provides a set of Web Services that SSIS can use to manage and even render SSRS reports? In this session we will develop an SSIS package that exports an SSRS report to pdf format using these Web Services.  Then we will use the SSRS Web Services in a Data Flow Script Component to get data from a report.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32039</importID>
+      <speakers>
+        <speaker>
+          <id>32039</id>
+          <name>Ranjan Muttiah</name>
+        </speaker>
+      </speakers>
+      <track>Room: MPR4005</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Spatial</title>
+      <description>Introduction to spatial analysis of data using SQL Server 2008. Aspects
+from spatial data processing to generating actionable information
+for businesses. Description of projections, implementation in SQL Server 2008, 
+data mashups using mapping services API, spatial analysis with BI stack.</description>
+      <startTime>10/23/2010 12:00:00 AM</startTime>
+      <endTime>10/23/2010 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

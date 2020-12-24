@@ -1,0 +1,21 @@
+# SQLSaturday #609 - Caxias do Sul 2017
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:30:00|Diego Nogare|BI  Big Data|[Criando modelos preditivos com Azure Machine Learning](63901.md)
+09:30:00|Fabrício Lima|Database Development|[Indices para Iniciantes - Clustered, Nonclustered,  Scan, Seek, Lookup e Muito Mais](64268.md)
+09:30:00|Flávio Farias|Database Administration|[Azure SQL Databases](64818.md)
+10:45:00|Sulamita Dantas|Database Development|[Analisando o Plano de Execução através da Query Store](57503.md)
+10:45:00|Rafael Felipe|Database Administration|[Remote Desktop Services no Windows Azure - Deep Dive](62436.md)
+10:45:00|Viviane Ribeiro|BI  Big Data|[Planejamento Estratégico com BI  BIG Data](65331.md)
+13:00:00|Luiz Henrique Garetti|Database Administration|[High Availability and Disaster Recovery Salvando Vidas](59914.md)
+13:00:00|Bruno Feldman|BI  Big Data|[Columnstore Indexes - Como ele pode melhorar meu data warehouse?](65280.md)
+13:00:00|Reginaldo Silva|Database Development|[5 dicas de performance tuning para desenvolvedores](66984.md)
+14:00:00|Vitor Fava|BI  Big Data|[Introdução do Azure SQL DataWarehouse](60935.md)
+14:00:00|Marcelo Adade|Database Administration|[High Availability on SQL SERVER and ORACLE](61611.md)
+14:00:00|Marcelo Fernandes|Database Development|[Temporal table e Query Store - Extraindo o maximo de vantagem do SQL Server](62529.md)
+15:30:00|Gustavo Carneiro|Database Administration|[Obtenha maior produtividade: desenvolvimento e administracao do seu SQL Server](64155.md)
+15:30:00|Aline Favretto|Database Development|[Iniciando com Entity Framework](64753.md)
+15:30:00|Arthur Luz|BI  Big Data|[Por Detrás dos Relatórios](65332.md)
+16:30:00|Diego Ribeiro|BI  Big Data|[Data Driven Marketing - TI como suporte a tomada de decisões.](57540.md)
+16:30:00|Felipe de Assis|Database Development|[SQL In-Memory aka Hekaton 101](65317.md)
+16:30:00|Gustavo Moura Fé|Database Administration|[SQL Server vNext](67062.md)

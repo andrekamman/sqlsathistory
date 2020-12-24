@@ -1,0 +1,21 @@
+# SQLSaturday #713 - Brisbane 2018
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:00:00|Ginger Grant|Advanced Analysis Techniques|[Machine Learning with SQL Server](70695.md)
+09:00:00|Amit R S Bansal|Enterprise Database Administration  Deployment|[Practical SQL Server Performance Tuning](80112.md)
+09:40:00|Gilbert Quevauvilliers|BI Information Delivery|[Intro into Power BI](72705.md)
+09:40:00|Martin Catherall|Strategy and Architecture|[Data Privacy and the Data Professional.](77105.md)
+09:40:00|Greg Low|Application  Database Development|[Tips and Tricks for Using SQL Server Management Studio Effectively](78921.md)
+11:00:00|Manohar Punna|Advanced Analysis Techniques|[Real-Time Analytics with Power BI](70392.md)
+11:00:00|Henry Rooney|Strategy and Architecture|[SQL Server Managed Instance, the PaaS Instance Offering](74647.md)
+11:00:00|Michael van Halderen|Enterprise Database Administration  Deployment|[Configuring AlwaysOn Availability Groups exclusively in Azure, using IaaS.](80186.md)
+13:30:00|Phillip Seamark|BI Platform Architecture, Development  Administration|[Advanced DAX for the SQL Professional](74271.md)
+13:30:00|Anupama Natarajan|Cloud Application Development  Deployment|[Modern Data Warehouse using Lambda Architecture and Azure](80082.md)
+13:30:00|Amit R S Bansal|Enterprise Database Administration  Deployment|[Troubleshooting SQL Server Memory Issues](80113.md)
+14:50:00|Martin Cairney|Cloud Application Development  Deployment|[Hybrid Distributed Architecture with Azure Data Sync 2.0](70224.md)
+14:50:00|Gogula Aryalingam|BI Platform Architecture, Development  Administration|[BI is a Journey, Not a Destination](72435.md)
+14:50:00|Hamish Watson|Application  Database Development|[Test Driven Development in SQL Server – how to deploy code safer](78489.md)
+14:50:00|Ginger Grant|Advanced Analysis Techniques|[Implementing Python in SQL Server 2017](78627.md)
+16:00:00|Patrick Flynn|Enterprise Database Administration  Deployment|[DBATools! The reason to finally start learning and using Powershell](71109.md)
+16:00:00|Benjamin Nevarez|Application  Database Development|[Dive into the Query Optimizer - Undocumented Insight](73663.md)
+16:00:00|Craig Bryden|BI Information Delivery|[SSRS and Power BI Report Server - What's New](75788.md)

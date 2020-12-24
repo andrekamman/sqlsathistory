@@ -1,0 +1,21 @@
+# SQLSaturday #811 - Rio de Janeiro 2018
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+10:15:00|Orlando Gomes|Advanced Analysis Techniques|[Analise de Dados com Azure Machine Learning, R e Power BI](85628.md)
+10:15:00|Reginaldo Silva|Enterprise Database Administration  Deployment|[O que acontece por detrás dos panos quando executo minha query?](86055.md)
+10:15:00|Murilo Miranda|Analytics and Visualization|[Processing Real-Time Racing Telemetry with Azure Stream Analytics](86094.md)
+11:10:00|RUY LACERDA|Analytics and Visualization|[SQL e Power BI. Performance no tratamento de dados](85574.md)
+11:10:00|Vitor Fava|Advanced Analysis Techniques|[Implementando soluções de IA utilizando os serviços cognitvos no Azure](86265.md)
+11:10:00|Rodrigo Ribeiro Gomes|Enterprise Database Administration  Deployment|[Arquitetura de Processo e Threads no SQL Server](86272.md)
+13:00:00|Fernando Andreazi|Analytics and Visualization|[The Dark Side of Data](85916.md)
+13:00:00|Fabiano Amorim|Enterprise Database Administration  Deployment|[Workspace memory grant deep dive!](86304.md)
+13:00:00|Caio Amante|Strategy and Architecture|[Vivendo de consultoria: Entregando muito mais com muito menos](86582.md)
+14:00:00|Leandro Domingues|Strategy and Architecture|[MongoDB para DBAs Relacionais - Tudo o que você sempre quis saber](85273.md)
+14:00:00|Thiago Cruz|Enterprise Database Administration  Deployment|[Internals Transaction Log using AlwaysOn](86318.md)
+14:00:00|Arthur Luz|Analytics and Visualization|[Big Data e Arquitetura Lambda](86584.md)
+15:00:00|Wiluey Sousa|Strategy and Architecture|[Migrando seus pacotes SSIS para a nuvem com o Azure Data Factory](86266.md)
+15:00:00|Fabrício Lima|Enterprise Database Administration  Deployment|[Passo a passo de como fiz um Tuning em 7 queries reais de um cliente](86270.md)
+15:00:00|Paulo Ricardo Santos|Analytics and Visualization|[Desmistificando o Big Data com Azure HDInsight + Power BI](86581.md)
+16:00:00|Aislan Honorato|Analytics and Visualization|[Mind Map e Canvas: Elicitação e Indicadores implementando Estudo de Caso no SSIS, SSAS e Power BI](85549.md)
+16:00:00|Lucas Souza|Enterprise Database Administration  Deployment|[In-Memory Deep Dive](86275.md)
+16:00:00|Danielle Monteiro|Strategy and Architecture|[10 motivos para se preocupar com a Lei Geral de Proteção de Dados](86276.md)

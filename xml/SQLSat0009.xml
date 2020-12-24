@@ -1,0 +1,378 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #9 - Greenville 2008</name>
+    <startDate>10/11/2008 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>Free training event for SQL Server professionals</description>
+    <twitterHashtag>#sqlsat9</twitterHashtag>
+    <venue>
+      <name>ECPI Greenville Campus</name>
+      <street>1001 Keys Drive</street>
+      <city>Greenville</city>
+      <state>South Carolina</state>
+      <zipcode>29615</zipcode>
+      <longitude>-82.3139852</longitude>
+      <latitude>34.8450098</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>609</importID>
+      <name>End to End Training</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.endtoendtraining.com</url>
+      <imageURL>https://www.endtoendtraining.com/images/endtoendlogo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>766</importID>
+      <name>JumpstartTV.com</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.jumpstarttv.com</url>
+      <imageURL>https://www.jumpstarttv.com/images/header_logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>269</importID>
+      <name>ECPI Greenville, SC Campus</name>
+      <label>Gold Sponsor</label>
+      <url>http://snurl.com/3t5j4-87021</url>
+      <imageURL>https://www.ecpi.edu/images/logo/ecpict240X90.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1184</importID>
+      <name>Tek Systems</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.teksystems.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/855/EventSponsor_13925.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>24</importID>
+      <name>Progressive Software Solutions</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.pssolutionsinc.com</url>
+      <imageURL>https://www.pssolutionsinc.com/images/pssolutions.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>35294</importID>
+      <name>Lee Johnson</name>
+      <label>
+      </label>
+      <description>I have been a professional programmer since 1995.   I have worked in such fields as point of sale, internet communications, gage management, warehouse inventory, and accounting.   Early in my career I was specialized in communications, anything from RS232 to Winsock to low level protocols.  The past few years I have been with CSI and specialized in data conversion and database development.  I have tutored all the programming and database classes at Greenville Tech for 4 years.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35399</importID>
+      <name>Rob Schoenborn</name>
+      <label>
+      </label>
+      <description>Rob’s experience in designing and implementing databases in various technical and business environments has enabled him to become a subject matter expert in database administration and development, especially working with technologies such as Microsoft SQL Server, Analysis Server, Reporting and Notification Services, ASP.NET, Web Services, and XML.  With over 18 Years of industry experience, Rob brings outstanding skills in conceptual database modeling, scaling, clustering, replication, network </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.magenic.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35216</importID>
+      <name>John Welch</name>
+      <label>
+      </label>
+      <description>John Welch is Chief Architect with Mariner, a consulting firm specializing in enterprise reporting  analytics, data warehousing and performance management solutions. John has been working with business intelligence and data warehousing technologies for 7 years, with a focus on Microsoft products in heterogeneous environments. He is a Microsoft Most Valued Professional (MVP), an award given due to his commitment to sharing his knowledge with the IT community.  John is an experienced speaker, hav</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.agilebi.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35213</importID>
+      <name>John Welch</name>
+      <label>
+      </label>
+      <description>John Welch is Chief Architect with Mariner, a consulting firm specializing in enterprise reporting  analytics, data warehousing and performance management solutions. John has been working with business intelligence and data warehousing technologies for 7 years, with a focus on Microsoft products in heterogeneous environments. He is a Microsoft Most Valued Professional (MVP), an award given due to his commitment to sharing his knowledge with the IT community.  John is an experienced speaker, hav</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.agilebi.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35400</importID>
+      <name>Rob Schoenborn</name>
+      <label>
+      </label>
+      <description>Rob’s experience in designing and implementing databases in various technical and business environments has enabled him to become a subject matter expert in database administration and development, especially working with technologies such as Microsoft SQL Server, Analysis Server, Reporting and Notification Services, ASP.NET, Web Services, and XML.  With over 18 Years of industry experience, Rob brings outstanding skills in conceptual database modeling, scaling, clustering, replication, network </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.magenic.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35091</importID>
+      <name>David Darden</name>
+      <label>
+      </label>
+      <description>David Darden is a Senior Consultant at Mariner, a consulting firm specializing in enterprise reporting  analytics, data warehousing and performance management solutions. David has 10 years experience in software development including design, architecture, development, quality assurance, and project management. David has been working with SQL Server since version 7.0, with a focus on business intelligence and data warehousing since 2003, and has delivered solutions using a across a variety of in</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35457</importID>
+      <name>Tejas Patel</name>
+      <label>
+      </label>
+      <description>Tejas Patel works as a Senior BI Consultant with Magenic Technologies. He has worked various retail and manufacturing industries and have built enterprise level BI solutions for them.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35147</importID>
+      <name>Jason Burton</name>
+      <label>
+      </label>
+      <description>Jason is currently a Business Intelligence Architect at Ameco, a subsidiary of Fluor.  He has been working in IT for over 12 years developing internal and external web, e-commerce, and data warehouse applications.  He has been hacking out sql since Oracle 7.3 and SQL Server 6.5 and has given presentations at the SC Code Camp and the SQL Server Innovators Guild.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35514</importID>
+      <name>Whitney Weaver</name>
+      <label>
+      </label>
+      <description>Whitney Weaver is a Principal Consultant with Magenic Technologies.  He focuses on data technologies within the Microsoft product line.  Over the past 10 years he has implemented SQL Server solutions for a number of industries including Energy Management, Financial Services, Health Insurance, Manufacturing, and State Government.  Whitney regularly speaks at user groups and other developer events.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://whitneyweaver.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>35400</importID>
+      <speakers>
+        <speaker>
+          <id>35400</id>
+          <name>Rob Schoenborn</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Performance Point 2007 Server Data Integration</title>
+      <description>Performance Point 2007 Server is a powerful tool that allows the Business Analyst to define and create the relational and analysis data structures, forms, reports and dashboards with simple wizard driven tools.  The Information Technology folks still need to integrate these solutions into existing databases.  Based on real world experience building large enterprise Performance Point Planning and Monitoring solutions, this guides through the pitfalls and key issues involved with integrating Performance Point 2007 Server into your current Data Warehouse environment.  Key topics include The Business Model, Data Staging, Data Loading, Data Validation, PPS Command Line (PPSCMD), and Key Tips and Tricks for tying these all together using SQL Serv</description>
+      <startTime>10/11/2008 12:00:00 AM</startTime>
+      <endTime>10/11/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35091</importID>
+      <speakers>
+        <speaker>
+          <id>35091</id>
+          <name>David Darden</name>
+        </speaker>
+      </speakers>
+      <track>SQL DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Resource Governor in SQL Server 2008</title>
+      <description>One of the new features in SQL Server 2008 is the resource governor.  With increasingly consolidated SQL Server environments, and particularly with applications with complex performance requirements, this new feature will provide more fine grained control over how your solutions work.  During this session we will review the functionality included in this feature, identify scenarios where it can be used, and show how to implement it.
+</description>
+      <startTime>10/11/2008 12:00:00 AM</startTime>
+      <endTime>10/11/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35457</importID>
+      <speakers>
+        <speaker>
+          <id>35457</id>
+          <name>Tejas Patel</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Implementing Smart Reports with MS BI Platform</title>
+      <description>Intent of this session is to demostrate use of smart reports to present datamining results. Reports can be used to analyze historical patterns, review trends and present predictions.These reports use analysis services, CLR stored procedure and reporting services. [Note: Concept of this article comes from the book, Applied Microsoft Analysis Services, by Teo Lachev]</description>
+      <startTime>10/11/2008 12:00:00 AM</startTime>
+      <endTime>10/11/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35147</importID>
+      <speakers>
+        <speaker>
+          <id>35147</id>
+          <name>Jason Burton</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Getting Started with SQL Express</title>
+      <description>New to SQL?  Check out Microsoft's free versions of SQL Server Express.  We will discuss the differences between 2005 and 2005 SQL Express versions and walk through the installation process.  We'll also learn some basic SQL commands and how you can use SQL Express at home and in your next web project.</description>
+      <startTime>10/11/2008 12:00:00 AM</startTime>
+      <endTime>10/11/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35514</importID>
+      <speakers>
+        <speaker>
+          <id>35514</id>
+          <name>Whitney Weaver</name>
+        </speaker>
+      </speakers>
+      <track>SQL DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Dynamic Management Views Will Save Your Life</title>
+      <description>Do you ever wish you could get an X-Ray view of your sluggish SQL Server?
+Take the guesswork out of troubleshooting database issues by utilizing the
+data collected in Dynamic Management Views. In this session, Whitney
+Weaver will show you the tools implemented in SQL Server 2005 that give you
+extraordinary view into the health and well being of your database instance.
+Code samples will be presented around query performance, I/O utilization,
+index usage, and more.</description>
+      <startTime>10/11/2008 12:00:00 AM</startTime>
+      <endTime>10/11/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35399</importID>
+      <speakers>
+        <speaker>
+          <id>35399</id>
+          <name>Rob Schoenborn</name>
+        </speaker>
+      </speakers>
+      <track>SQL DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Scaling SQL Server for Large Datamarts</title>
+      <description>One of the roles of Business Intelligence for Retailers is to determine buying patterns based on customer demographics.  This type of analysis though can quickly create very large cubes above 600 Gigabytes and often between 1 to 4 Terabytes.   Based on real world experience with two major retailers, this talk will discuss key design tips and best practices for building these large cubes so the data can be accessed in a timely manner.  Key topics covered include vertical and horizontal partitioning, necessary key parameters, and custom aggregations.  </description>
+      <startTime>10/11/2008 12:00:00 AM</startTime>
+      <endTime>10/11/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35213</importID>
+      <speakers>
+        <speaker>
+          <id>35213</id>
+          <name>John Welch</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Patterns for SSIS Configurations</title>
+      <description>One of the common issues encountered with SSIS is deploying configurations for multiple environments. During this session, 3 patterns for handling configurations in SSIS will be covered. from a simple pattern that handles most cases, to a very flexible pattern that covers most complex scenarios. Learning and using these patterns will allow SSIS developers to more easily deploy packages between environments, and leverage a single point of configuration in each environment.</description>
+      <startTime>10/11/2008 12:00:00 AM</startTime>
+      <endTime>10/11/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35294</importID>
+      <speakers>
+        <speaker>
+          <id>35294</id>
+          <name>Lee Johnson</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server 2005 Auditing Using the CLR</title>
+      <description>Database auditing is something everyone would like their databases to do, but implementing it without slowing data access down can be difficult.  In this session I will show you how to use the CLR to create triggers that do not have a big performance hit and do not have to be rewritten if the tables change.</description>
+      <startTime>10/11/2008 12:00:00 AM</startTime>
+      <endTime>10/11/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35216</importID>
+      <speakers>
+        <speaker>
+          <id>35216</id>
+          <name>John Welch</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Using Data Profiling to Improve ETL</title>
+      <description>Data quality is one of the most challenging aspects of constructing a reliable data warehouse / business intelligence solution. SQL Server Integration Services 2008 introduces the Data Profiling Task, which can be used to help improve the data quality in the ETL process itself. This session will cover the use of the Data Profiling Task to gather initial quality metrics from both source systems and the warehouse. It will also cover how to incorporate data profiling into the ongoing ETL process to continue gathering quality metrics on new data, and to build dynamic data quality rules that adjust themselves based on the current quality measures.</description>
+      <startTime>10/11/2008 12:00:00 AM</startTime>
+      <endTime>10/11/2008 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

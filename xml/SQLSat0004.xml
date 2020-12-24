@@ -1,0 +1,409 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #4 Tweener(Sat) - Orlando 2008</name>
+    <startDate>6/7/2008 12:00:00 AM</startDate>
+    <attendeeEstimate>500</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>Free training event for SQL Server professionals</description>
+    <twitterHashtag>#sqlsat4</twitterHashtag>
+    <venue>
+      <name>Orange County Convention Center</name>
+      <street>9990 International Drive</street>
+      <city>Orlando</city>
+      <state>Florida</state>
+      <zipcode>
+      </zipcode>
+      <longitude>-81.461275</longitude>
+      <latitude>28.423054</latitude>
+    </venue>
+  </guide>
+  <speakers>
+    <speaker>
+      <importID>35505</importID>
+      <name>Wes Dumey</name>
+      <label>
+      </label>
+      <description>Wes is a Senior Consultant with Durable Impact Consulting, a Florida-based data warehouse and business intelligence firm.   Wes has over 10 years experience working with clients around the world, both large and small, on their business intelligence and operational needs.  </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.durableimpact.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35066</importID>
+      <name>Chris Rock</name>
+      <label>
+      </label>
+      <description>Chris Rock is a developer, DBA, and trainer for End to End Training. Chris is a frequent presenter at area Code Camps and has written several articles on SQLServerCentral.com and SQLTeam.com. He also blogs about all things SQL and .Net related at http://www.rocksthoughts.com </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35398</importID>
+      <name>Robert Skoglund</name>
+      <label>
+      </label>
+      <description>Robert Skoglund – Microsoft Worldwide Business Intelligence Technical Community Lead and Technical Lead for Enterprise Services Big Data Strategy – has deep knowledge of the Microsoft products required for delivering enterprise-class BI and data warehousing solutions. With experience implementing both MSF and SCRUM project management principles, he has implemented successful BI, DW, system integration, and application development solutions. Robert joined Microsoft in 2001 and has worked in many client-facing consultancy roles in the retail, financial services, and manufacturing sectors.
+ 
+A PASS member, Robert hosts a monthly BI User Group at the Microsoft office in his home town. He was one of the first independent Microsoft Certified Trainers (circa 1994), and regularly presents technical sessions at such events as TechReady, xDM, TechEd North America, and SharePoint Connections. 
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35021</importID>
+      <name>Barry Ralston</name>
+      <label>
+      </label>
+      <description>Barry Ralston is Chief Architect for Business Intelligence with Birmingham-based ComFrame Software.  Barry is also Microsoft Corporation’s Virtual Technical Specialist (VTS) for Business Intelligence, responsible for assisting in Alabama, Mississippi and Northwest Florida in sales efforts including customer meetings, software demonstrations and Proof of Concept efforts.  Barry’s  client successes include: Georgia Tech Research Institute, Bank of Hawaii, Honda Manufacturing of Alabama and Aflac. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqlbipro.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35391</importID>
+      <name>Rushabh Mehta</name>
+      <label>
+      </label>
+      <description>Rushabh Mehta is a Business Intelligence Mentor with SolidQ and the Managing Director for Solid Quality India Pvt. Ltd. He served as PASS President for 2010/2011 term.
+
+Rushabh has worked with MS Data Platform since 1998 and has designed and developed BI systems since 2001. He has been the lead architect for many large-scale and complex BI solutions for clients such as Publix, Raymond James, Jackson Hewitt, US Dept. of Defense, and Microsoft. He is an MVP with Microsoft, Damp;B amp; Melissa Data
+
+</description>
+      <twitter>@rushabhmehta</twitter>
+      <linkedin>https://www.linkedin.com/in/rushabhbmehta</linkedin>
+      <ContactURL>http://blogs.solidq.com/RushabhMehta</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@rushabhmehta</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34979</importID>
+      <name>Brian Knight</name>
+      <label>
+      </label>
+      <description>Brian Knight, SQL Server MVP, MCSE, MCDBA, is the co-founder of SQLServerCentral.com and JumpstartTV.com. He runs the local SQL Server users group in Jacksonville (JSSUG) and was recently on the Board of Directors of the Professional Association for </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.pragmaticworks.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35240</importID>
+      <name>Judy Pipia</name>
+      <label>
+      </label>
+      <description>Judy is an independent consultant and MCT with the MCAD, MCSD, MCTS:SQL Server 2005, MCITP: Database Development certifications. Currently, Judy is teaching for Microsoft Certified Learning Providers across the country.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34940</importID>
+      <name>Andy Warren</name>
+      <label>
+      </label>
+      <description>Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusing on administration, performance tuning, and SQL Server patterns and practices, he’s been a SQL Server MVP since 2008. Andy served two terms on the PASS Board of Directors, was a founding principal in SQLServerCentral, and created both the SQLSaturday and SQLRally event models.</description>
+      <twitter>@sqlandy</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://sqlandy.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlandy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35269</importID>
+      <name>Kendal Van Dyke</name>
+      <label>
+      </label>
+      <description>Kendal is a database strategist, community advocate, public speaker, and blogger. A practiced IT professional with over 15 years of SQL Server experience, Kendal excels at disaster recovery, high availability planning/implementation, amp; debugging/troubleshooting mission critical SQL Server environments. Kendal is a Senior Consultant on the Microsoft Premier Developer Support team and President of MagicPASS (http://magicpass.sqlpass.org), the Orlando, FL based chapter of PASS. Before joining Microsoft, Kendal was a SQL Server/Data Platform MVP from 2011-2016.</description>
+      <twitter>SQLDBA</twitter>
+      <linkedin>http://www.linkedin.com/in/kendalvandyke</linkedin>
+      <ContactURL>http://www.kendalvandyke.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34949</importID>
+      <name>Robert Cain</name>
+      <label>
+      </label>
+      <description>Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.</description>
+      <twitter>https://twitter.com/arcanecode</twitter>
+      <linkedin>http://www.linkedin.com/in/arcanecode</linkedin>
+      <ContactURL>http://arcanecode.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/arcanecode</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35246</importID>
+      <name>Jon Winer</name>
+      <label>
+      </label>
+      <description>Jon Winer is a Senior Developer with Channel Intelligence specializing in C#, XML, and SQL Server. Jon has more than 10 years experience as a developer and enjoys finding pragmatic ways to employ the latest bits of technology.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.channelintelligence.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34946</importID>
+      <name>Michael Antonovich</name>
+      <label>
+      </label>
+      <description>Mike Antonovich is the Assistant Director of Web Services for Orange County Public Schools, Orlando, FL, overseeing the SharePoint Portal and .NET applications team.  Mike has been using SQL since 1998 and SharePoint since 2007 and has a passion for all topics BI. He#39;s spoken at over 25 SQLSaturday events since the first one in Orlando. He has published seven computer books ad has spoken at two PASS Summits on BI related topics.</description>
+      <twitter>@MPAntonovich</twitter>
+      <linkedin>https://www.linkedin.com/in/michaelpantonovich?</linkedin>
+      <ContactURL>http://sharepointmike.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@MPAntonovich</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>35021</importID>
+      <speakers>
+        <speaker>
+          <id>35021</id>
+          <name>Barry Ralston</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Home Runs and DMX, Intro to Microsoft Data Mining</title>
+      <description>This session is intended to utilize the steroid era of baseball to introduce attendees to data mining with Microsoft technologies.  The demonstration-oriented session will create data mining models, evaluate their effectiveness, and demonstrate accessing data mining model results using Data Mining Add Ins for Office 2007.  Finally, in the spirit of the scientific method, all data will be available to attendees with which to attempt re-creation of the experiments / examples.</description>
+      <startTime>6/7/2008 12:00:00 AM</startTime>
+      <endTime>6/7/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35066</importID>
+      <speakers>
+        <speaker>
+          <id>35066</id>
+          <name>Chris Rock</name>
+        </speaker>
+      </speakers>
+      <track>SQL for DBA's</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Using DDL Triggers</title>
+      <description>In this session we'll create a database object (table, proc, functions) backup system using DDL Triggers in SQL Server 2005. This system is beneficial to both DBA's and developers.</description>
+      <startTime>6/7/2008 12:00:00 AM</startTime>
+      <endTime>6/7/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34940</importID>
+      <speakers>
+        <speaker>
+          <id>34940</id>
+          <name>Andy Warren</name>
+        </speaker>
+      </speakers>
+      <track>SQL for DBA's</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Statistics in SQL Server</title>
+      <description>Ever wonder what statistics have to do with performance? How to create and maintain them? What does it mean when someone says "the stats were corrupted"? We're going to explain all that in more in this session that will take a topic that often seems dense and complex and make it approachable and usable!</description>
+      <startTime>6/7/2008 12:00:00 AM</startTime>
+      <endTime>6/7/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35269</importID>
+      <speakers>
+        <speaker>
+          <id>35269</id>
+          <name>Kendal Van Dyke</name>
+        </speaker>
+      </speakers>
+      <track>SQL for Developers</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>XML Features in SQL 2005</title>
+      <description>XML in SQL 2000 wasn't very exciting and it was easy to dismiss it altogether by just relying on developers to handle any XML needed within the application. SQL 2005 changes the game and this session will show you how to use the new XML data type, do basic XML operations on XML data, and showcase the changes to FOR XML that make it so much more useful. This isn't a session to convince you to use XML, but to show you what you can do with XML if you do need to use it!</description>
+      <startTime>6/7/2008 12:00:00 AM</startTime>
+      <endTime>6/7/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35240</importID>
+      <speakers>
+        <speaker>
+          <id>35240</id>
+          <name>Judy Pipia</name>
+        </speaker>
+      </speakers>
+      <track>SQL for Developers</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SOA Using SQL Server 2005 Service Broker</title>
+      <description>This session will introduce the Service Broker in SQL Server 2005. During this session we will discuss an overview of Service Broker architecture and delve into the objects needed to create a Service Broker solution. Finally, we will build a sample solution from start to finish using the Adventureworks database.</description>
+      <startTime>6/7/2008 12:00:00 AM</startTime>
+      <endTime>6/7/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35246</importID>
+      <speakers>
+        <speaker>
+          <id>35246</id>
+          <name>Jon Winer</name>
+        </speaker>
+      </speakers>
+      <track>SQL for Developers</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>CLR User Defined Functions - Real World Examples</title>
+      <description>This exciting session will talk about why CLR UDF's are a good choice in many cases, why using UDF's will simplify your code, and then go into setting up environments for testing and debugging. We'll also be discussing a few hard learned tips and tricks that will help you when you start using UDF's.</description>
+      <startTime>6/7/2008 12:00:00 AM</startTime>
+      <endTime>6/7/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34949</importID>
+      <speakers>
+        <speaker>
+          <id>34949</id>
+          <name>Robert Cain</name>
+        </speaker>
+      </speakers>
+      <track>SQL for DBA's</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to SQL Server Full Text Searching</title>
+      <description>Microsoft SQL Server contains the functionality you need to issue full-text queries against plain character-based data in SQL Server tables. Full-text queries could include words and phrases or multiple forms of a word or phrase. Come learn how to setup your own "Windows Live" like searches in your applications. Give your users search capabilities into their data. It's as easy as 1-2-3!</description>
+      <startTime>6/7/2008 12:00:00 AM</startTime>
+      <endTime>6/7/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35398</importID>
+      <speakers>
+        <speaker>
+          <id>35398</id>
+          <name>Robert Skoglund</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Analysis Services 2005 – Tips  Tricks</title>
+      <description>A collection of examples for MDX, cube processing, dimension and hierarchy designs, aggregation designs, and security modeling, for the everyday developer. Accelerate your development with these samples!</description>
+      <startTime>6/7/2008 12:00:00 AM</startTime>
+      <endTime>6/7/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34946</importID>
+      <speakers>
+        <speaker>
+          <id>34946</id>
+          <name>Michael Antonovich</name>
+        </speaker>
+      </speakers>
+      <track>SQL for Developers</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Using CASE in TSQL</title>
+      <description>Most languages support an extended version of the IF/THEN syntax and in TSQL it's CASE. It's syntax is a little finicky and to add to the confusion there are two different ways to use it! We'll look at how to use it both ways and show how it contrasts with the IF/THEN syntax. This is a beginner level session.</description>
+      <startTime>6/7/2008 12:00:00 AM</startTime>
+      <endTime>6/7/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35391</importID>
+      <speakers>
+        <speaker>
+          <id>35391</id>
+          <name>Rushabh Mehta</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to Master Data Management (MDM)</title>
+      <description>This session will provide an overview of the Master Data Management and also introduce the business value of MDM.In addition, we will look at Microsoft's master data management software.</description>
+      <startTime>6/7/2008 12:00:00 AM</startTime>
+      <endTime>6/7/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34979</importID>
+      <speakers>
+        <speaker>
+          <id>34979</id>
+          <name>Brian Knight</name>
+        </speaker>
+      </speakers>
+      <track>SQL for DBA's</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server 2008 New Feature Overview</title>
+      <description>Learn what's new in SQL Server 2008 for the DBA, Developer and BI professional. This session is demo-packed with the best features of why you should upgrade to SQL Server 2008.</description>
+      <startTime>6/7/2008 12:00:00 AM</startTime>
+      <endTime>6/7/2008 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35505</importID>
+      <speakers>
+        <speaker>
+          <id>35505</id>
+          <name>Wes Dumey</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Using SSIS to Solve Common Business Problems</title>
+      <description>SSIS is a powerful tool used to automate data integration.  Come learn about SSIS and how you can use it in your organization to solve common business problems.</description>
+      <startTime>6/7/2008 12:00:00 AM</startTime>
+      <endTime>6/7/2008 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,20 @@
+# SQLSaturday #231 - Cocoa Beach 2013
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Brian Knight|BI|[Real World Lessons from Starting a Software Company](10517.md)
+00:00:00|Christopher Price|BI|[MDS in Practice: An Integrated Approach](11905.md)
+00:00:00|David Dye|SQL Suite|[Dealing With Errors in SSIS 2012](12952.md)
+00:00:00|David Ortiz|DBA|[Exploring The Microsoft Reporting Technologies](13377.md)
+00:00:00|David Pless|DBA|[Leveraging PAL for SQL Server Perfmon Analysis](13408.md)
+00:00:00|Ed Watson|SQL Suite|[Backup Strategies are for Losers!](13700.md)
+00:00:00|Jorge Novo|SQL Suite|[SQL Automation Using SSIS](17368.md)
+00:00:00|Richie Rump|DBA|[The T-SQL Features in SQL Server 2012 You Can't Ignore](17435.md)
+00:00:00|Josh Luedeman|SQL Suite|[SSRS: On Premises or Azure? What's the difference?](17525.md)
+00:00:00|Karen Lopez|BI|[Model-Driven Database Design](17888.md)
+00:00:00|Devin Knight|BI|[Excel 2013: BI for the Masses](18646.md)
+00:00:00|Michael Wells|DBA|[DBA Task Automation: Unleash the PowerShell Hero in You!](20373.md)
+00:00:00|Pam Shaw|SQL Suite|[Tips  Tricks for dynamic SSRS Reports](22331.md)
+00:00:00|Chad Churchwell|SQL Suite|[Introduction to SQL Server Replication](24925.md)
+00:00:00|Tim Radney|DBA|[You Inherited a Database, Now What?](26719.md)
+00:00:00|Andy Warren|DBA|[PCI For The SQLDBA](9582.md)
+00:00:00|Anthony Sammartino|BI|[A Balanced BI Approach (Self-Service  Corporate)](9899.md)

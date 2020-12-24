@@ -1,0 +1,246 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #789 - Tallinn 2018</name>
+    <startDate>11/24/2018 12:00:00 AM</startDate>
+    <attendeeEstimate>70</attendeeEstimate>
+    <timezone>(GMT+02:00) Cairo</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SqlSatEst</twitterHashtag>
+    <venue>
+      <name>Tallinna Polütehnikum</name>
+      <street>Pärnu mnt. 57</street>
+      <city>Tallinn</city>
+      <state>Harju maakond, Estonia</state>
+      <zipcode>10135</zipcode>
+      <longitude>24.7435388</longitude>
+      <latitude>59.4268487</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/972/EventSponsor_14605.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>86078</importID>
+      <name>Janusz Rokicki</name>
+      <label>
+      </label>
+      <description>Microsoft Data Platform Expert and certified Azure Solutions Architect with over 12 years’ experience working in the City of London in the Financial Services Industry (retail and investment banking, multi-asset class trading systems). He has passion for secure, high-performance, maintainable data-driven applications that can be deployed with confidence on-premises and in-cloud. With educational background in intelligent sensor networks and machine learning he is always in search of automation and optimisation opportunities.
+
+Has presented at SqlBits, PASS Summit, SqlDay and multiple Sql Saturday events (Tel-Aviv, Kiev, Paris, Tallinn, Bonn, Bratislava, Goteborg, Kharkiv, Bucharest, Sofia, Ljubljana) and user groups.</description>
+      <twitter>DataSic</twitter>
+      <linkedin>https://www.linkedin.com/in/jrokicki/</linkedin>
+      <ContactURL>https://www.datasic.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DataSic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85228</importID>
+      <name>LEONEL ABREU</name>
+      <label>
+      </label>
+      <description>An IT Pro who likes to play chess and baseball. 
+
+System Engineer degree since 2007, formerly Data Warehousing teacher at university levels from 2008 to 2009. Microsoft Student Partner during the years 2006 - 2007, Second Place in Microsoft Andean Imagine Cup (2006), MCTS, MCITP and MCP with over a decade of experience with SQL Server, working in BI, DBA, Database Development, .net Development, SharePoint and other several areas. 
+
+Since 2014 based in Barcelona, Spain. Learning enthusiast and always with passion for new technologies and new challenges.</description>
+      <twitter>leonel_abreu</twitter>
+      <linkedin>https://www.linkedin.com/in/abreulj/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=leonel_abreu</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84314</importID>
+      <name>Oskari Heikkinen</name>
+      <label>
+      </label>
+      <description>I have several years of experience in using Azure for data analytics at large scale. I have been implementing numerous projects for some of the largest companies in the Nordics.
+
+I am a Microsoft MVP, and I currently hold the MCSE: Data Management and Analytics certification. As a Microsoft Certified Trainer (MCT), I hold classes for subject-matter experts and consultants internally as well as give external customer training sessions. I am also an active speaker on community events.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/oskariheikkinen/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84172</importID>
+      <name>Michal Sadowski</name>
+      <label>
+      </label>
+      <description>Senior Database Platform Engineer, leader of Krakow chapter of Data Community Krakow (former Polish SQL Server User Group) - PASS Chapter. With more than 10 years of experience in Microsoft technology, helps in advisory for performance optimization on database and application levels. Active speaker on SQL Server related events like SQLSaturday, SQLDay, MCT Global Summit etc. Holds many Microsoft certificates including MCSE: Data Platform, MCSA: SQL Server 2012/2014/2016, MCSA: Windows Server 2008/2012/2016 and MCT.</description>
+      <twitter>SadowskiMichal</twitter>
+      <linkedin>https://pl.linkedin.com/pub/michal-sadowski/4/b33/717</linkedin>
+      <ContactURL>https://sqlplayer.net/michal-sadowski</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SadowskiMichal</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>84237</importID>
+      <name>Roman Lansky</name>
+      <label>
+      </label>
+      <description>Roman Lansky is MSBI consultant with over a decade of experience with SQL Server, SSAS, SSIS and data warehouse design and architecture. He likes to understand how thinks works and is passionate in performance tuning. He is author of the SSAS Tabular performance blogs and works in MSBI consultation focused company - Joyful Craftsmen.</description>
+      <twitter>@rlany</twitter>
+      <linkedin>https://www.linkedin.com/in/romanlansky/</linkedin>
+      <ContactURL>http://joyfulcraftsmen.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@rlany</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85538</importID>
+      <name>David Postlethwaite</name>
+      <label>
+      </label>
+      <description>David Postlethwaite has been a DBA for Liverpool Victoria in Bournemouth, England since 2008
+He supports both Oracle and SQL Server from 2000 to 2017, DBMS, SSIS, SSAS and Reporting Services.
+In 2015 David built and deployed the company's first cloud solution using Microsoft Azure SQL Database and web services 
+
+Before becoming a DBA David was a .NET developer and way back in history a Windows and Netware administrator. 
+
+He is an occasional blogger on www.gethynellis.com
+
+David is a regular speaker for SQL Saturday.
+Most of his presentations can be found on his YouTube channel www.youtube.com/c/DavidPostlethwaiteSQL</description>
+      <twitter>@postledm</twitter>
+      <linkedin>http://www.linkedin.com/in/davidpostlethwaite</linkedin>
+      <ContactURL>http://www.gethynellis.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@postledm</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>84172</importID>
+      <speakers>
+        <speaker>
+          <id>84172</id>
+          <name>Michal Sadowski</name>
+        </speaker>
+      </speakers>
+      <track>SQL</track>
+      <location>
+        <name>400</name>
+      </location>
+      <title>Database corruption</title>
+      <description>In this session, you will learn how to detect and avoid common problems related to database corruption. There will be a description of the data structures in SQL Server and how it can affect the availability of SQL Server during corruption. On the session, there will be not only theoretical knowledge but many real life examples with demos.</description>
+      <startTime>11/24/2018 11:30:00 AM</startTime>
+      <endTime>11/24/2018 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86078</importID>
+      <speakers>
+        <speaker>
+          <id>86078</id>
+          <name>Janusz Rokicki</name>
+        </speaker>
+      </speakers>
+      <track>SQL</track>
+      <location>
+        <name>400</name>
+      </location>
+      <title>The Road to The Autonomous Databases</title>
+      <description>Autonomous means capable of existing independently. Think maintenance free, self-healing, auto-tuning databases able to detect and automatically mitigate security risks. Sounds like impossible dream, but here is the best part - Azure is gradually making that next level of automation possible. Cloud economy of scale combined with unique features of Azure Sql PaaS resources transform and enhance the way we collect, store and process data. And that also affects our professional lives. Find out where we are on The Road to The Autonomous Databases, what are main building blocks, what kind of obstacles we still have to overcome and how to turn these challenges into opportunities.</description>
+      <startTime>11/24/2018 3:15:00 PM</startTime>
+      <endTime>11/24/2018 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85538</importID>
+      <speakers>
+        <speaker>
+          <id>85538</id>
+          <name>David Postlethwaite</name>
+        </speaker>
+      </speakers>
+      <track>SQL</track>
+      <location>
+        <name>400</name>
+      </location>
+      <title>SQL Server Management Studio Tips and Tricks</title>
+      <description>SQL Server Management Studio is still at the heart of most DBA and developer’s day. 
+We take it for granted but have you ever taken a deeper look at the features and shortcuts inside SSMS that can make your day to day work much easier and more productive? 
+Join me in this demo intensive session, where I will show you many of the tricks and handy shortcuts, including some new features in SSMS 2017, that I have learnt over the years that have helped me to make my day easier and more productive
+At the end of this session you will have learnt many new tricks that you can use to make SSMS more useful and fun to use.</description>
+      <startTime>11/24/2018 10:30:00 AM</startTime>
+      <endTime>11/24/2018 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>84237</importID>
+      <speakers>
+        <speaker>
+          <id>84237</id>
+          <name>Roman Lansky</name>
+        </speaker>
+      </speakers>
+      <track>SQL</track>
+      <location>
+        <name>400</name>
+      </location>
+      <title>Hitchhiker's Guide to the SSAS Tabular</title>
+      <description>If you flirt with SSAS Tabular or you are forced by circumstances to start you journey as SSAS Tabular developer. If you work with Power BI and wand to understand the engine better. Or if you just want to understand basics of SSAS Tabular technology and its traps. Join me for a short ride around SSAS Tabular galaxy. We will look into basic concepts, architecture and development process of SSAS Tabular.</description>
+      <startTime>11/24/2018 4:15:00 PM</startTime>
+      <endTime>11/24/2018 5:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>84314</importID>
+      <speakers>
+        <speaker>
+          <id>84314</id>
+          <name>Oskari Heikkinen</name>
+        </speaker>
+      </speakers>
+      <track>SQL</track>
+      <location>
+        <name>400</name>
+      </location>
+      <title>New capabilities of Azure Data Factory v2</title>
+      <description>Azure Data Factory v1 has not been considered a full blown ETL solution on the market. Data Factory v2 is now introduced to fill in the gaps. We will deliver the understanding of the different features  functionalities of both versions as well as a summary comparison between the two. We will also demonstrate the latest and greatest capabilities by orchestrating an end-to-end pipeline with Data Factory v2 including machine learning workloads with Azure DataBricks.</description>
+      <startTime>11/24/2018 2:15:00 PM</startTime>
+      <endTime>11/24/2018 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85228</importID>
+      <speakers>
+        <speaker>
+          <id>85228</id>
+          <name>LEONEL ABREU</name>
+        </speaker>
+      </speakers>
+      <track>SQL</track>
+      <location>
+        <name>400</name>
+      </location>
+      <title>Self Service BI Solutions with Analysis Services</title>
+      <description>This session covers the aspects to be considered to deploy a Self Service BI Solution, also will be made a comparison between two Analysis Services modes, Tabular and Multidimensional, exploring advantages, features and capabilites, explaining when and why use each model.</description>
+      <startTime>11/24/2018 12:30:00 PM</startTime>
+      <endTime>11/24/2018 1:30:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

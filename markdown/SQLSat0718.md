@@ -1,0 +1,21 @@
+# SQLSaturday #718 - Joinville 2018
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:30:00|Rodrigo Crespi|Novidades|[Conheça seu novo ambiente SQL Server - O Linux](72095.md)
+09:30:00|Flávio Farias|Azure|[Go to Space with Azure CosmosDB (Abertura com Fernando Andreazi)](72365.md)
+09:30:00|Diego Nogare|Análise de Dados|[Machine Learning de caixinha?](72932.md)
+10:45:00|Igor Santos de Paula|Análise de Dados|[Machine Learning Services: Detecção de anomalias onde um desvio pode custar milhões](70931.md)
+10:45:00|Felipe de Assis|Novidades|[SQL 2017 não é somente Linux, conheça as outras novidades!](71797.md)
+10:45:00|Vitor Fava|Azure|[Implementando soluções de IA utilizando os serviços cognitvos no Azure](72500.md)
+13:00:00|Diogenes Santos|Análise de Dados|[Big Data com Ecossistema Hadoop: Hands-on (HBase, MySql e Hive + Power BI)](72313.md)
+13:00:00|Fabiano Amorim|Novidades|[Man vs Machine: Adaptive query processing and auto tuning on SQL2017](72364.md)
+13:00:00|Luiz Henrique Garetti|Administração|[ITIL ajuda ou atrapalha a vida do DBA](73141.md)
+14:15:00|Luiz Mercante|Novidades|[Transaction Log - O que há de novo?](72518.md)
+14:15:00|Marcus Vinícius Bittencourt|Administração|[Hacking SQL Server](72933.md)
+14:15:00|Marcos Vinicius Oliveira Schardong|Azure|[Como o Azure Site Recovery e SQL Server lhe auxiliarão a entregar o RPO e RTO de sua Aplicação](73946.md)
+16:00:00|Felippe Oliveira|Análise de Dados|[Você conhece o Power BI Report Server?](72266.md)
+16:00:00|Diemerson Campos|Administração|[Segurança de dados utilizando controles da ISO 27002](72366.md)
+16:00:00|Anderson Souza|Novidades|[Docker Windows com SQL Server 2017 - HowTo](72479.md)
+16:45:00|RUY LACERDA|Análise de Dados|[Tratamento de dados no Power BI](72776.md)
+16:45:00|Ricardo Leka|Administração|[Melhores práticas #SQN - O que você não deveria fazer](72845.md)
+16:45:00|Orlando Mariano|Azure|[Deploy de Modelos no Azure Machine Learning](72934.md)

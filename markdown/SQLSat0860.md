@@ -1,0 +1,20 @@
+# SQLSaturday #860 - Lviv 2019
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+10:00:00|Jan Mulkens|Advanced Analysis Techniques|[The Haberdashery of Machine Learning](90540.md)
+10:00:00|Anton Boyko|Cloud Application Development  Deployment|[The future of serverless computing](93665.md)
+10:00:00|Andriy Pogorelov|Enterprise Database Administration  Deployment|[SQL Server  PowerShell. How to become a true senior DBA (на русском)](94404.md)
+10:00:00|Illia Lubenets|Cloud Application Development  Deployment|[The future of serverless computing](98783.md)
+11:10:00|André Melancia|Advanced Analysis Techniques|[If a machine can learn, why can't YOU learn Azure Machine Learning?](89563.md)
+11:10:00|Eugene Polonichko|Analytics and Visualization|[AI Capabilities for Power BI](96248.md)
+11:10:00|Andrii Zrobok|Application  Database Development|[Polybase in MS SQL Server 2019](98594.md)
+13:10:00|Jose Manuel Jurado Diaz|Enterprise Database Administration  Deployment|[Attention Contention!!!](90080.md)
+13:10:00|Taras Kloba|Enterprise Database Administration  Deployment|[What is CI/CD for databases or how to automate DB changes](91301.md)
+13:10:00|Catalin Gheorghiu|BI Platform Architecture, Development  Administration|[ML on the Edge](96354.md)
+13:10:00|Yevhen Nedashkivskyi|Application  Database Development|[SQL Server: Поради для непрофільних розробників](98053.md)
+14:20:00|Markus Ehrenmueller-Jensen|Application  Database Development|[A Game of Hierarchies: Graph Processing with SQL Server 2019](96371.md)
+14:20:00|Ruslan Zolotukhin|BI Platform Architecture, Development  Administration|[Report optimization techniques in both Desktop and Service. Vertipaq Engine in Power BI](96809.md)
+14:20:00|Taras Bachynskyy|Strategy and Architecture|[Data Insight Ecosystem Today](98634.md)
+15:30:00|Sławomir Drzymała|BI Platform Architecture, Development  Administration|[Docker for data amateur](96074.md)
+15:30:00|Mykola Pobyivovk|Application  Database Development|[Tuning SQL Server for mere mortals (українською)](96421.md)
+15:30:00|Yevhen Nedashkivskyi|Application  Database Development|[Узгодженість, паралелізм та блокування в сучасних базах даних](98054.md)

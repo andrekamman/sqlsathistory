@@ -1,0 +1,23 @@
+# SQLSaturday #576 - Salt Lake City 2016
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:00:00|Ben Miller|Enterprise Database Administration  Deployment|[Inside the SQLPS PowerShell Module](54185.md)
+09:00:00|Brandon Preece|Enterprise Database Administration  Deployment|[Introduction to the SQL Server Query Store](56473.md)
+10:10:00|Dale Cunningham|Enterprise Database Administration  Deployment|[Creating an Always On Distributed Availability Group](53640.md)
+10:10:00|Lars Rasmussen|Enterprise Database Administration  Deployment|[Alerts: Knowing Is Half the Battle!](54190.md)
+10:10:00|Randy Knight|Application  Database Development|[Locks, Blocks, and Deadlocks, Oh My!](54440.md)
+10:10:00|Steve Seeley|BI Information Delivery|[Power to the people](54846.md)
+11:20:00|Scott Cameron|BI Platform Architecture, Development  Administration|[Introduction to Azure SQL Data Warehouse](53901.md)
+11:20:00|J May|Strategy and Architecture|[SQL Server 2016 Always On Availability Groups Perf  Internals](56199.md)
+13:20:00|David Dye|BI Platform Architecture, Development  Administration|[Advanced SSIS Techniques](53518.md)
+13:20:00|Greg McMurray|Advanced Analysis Techniques|[MMM: Making the Most of the M Language - Real World Power Query for Excel and Power BI](54341.md)
+13:20:00|Jason Brimhall|Enterprise Database Administration  Deployment|[Extended Events - Better than Profiler](54445.md)
+14:30:00|David Dye|BI Platform Architecture, Development  Administration|[Dealing With Errors in SSIS ](53520.md)
+14:30:00|Chris Hyde|Analytics and Visualization|[SQL Server R Services in SQL 2016](53975.md)
+14:30:00|Tracy Boggiano|Strategy and Architecture|[Disaster Recovery Where to Begin](54143.md)
+14:30:00|TJay Belt|Enterprise Database Administration  Deployment|[PowerBI, from a DBA](56475.md)
+15:40:00|George Walkey|Enterprise Database Administration  Deployment|[Using Powershell to Document SQL Server](53435.md)
+15:40:00|Tracy Boggiano|Enterprise Database Administration  Deployment|[Query Store Primer](54144.md)
+15:40:00|Randy Knight|Application  Database Development|[But it worked great in Dev!  Perfomance for Devs](54439.md)
+15:40:00|Jason Brimhall|Enterprise Database Administration  Deployment|[Bare Naked Skinny on SQL Server](54444.md)
+15:40:00|Robert Every|Enterprise Database Administration  Deployment|[Database Restore Testing...Automated](54472.md)

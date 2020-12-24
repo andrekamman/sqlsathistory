@@ -1,0 +1,316 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #691 - Montevideo 2017</name>
+    <startDate>12/2/2017 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>
+    </timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatMontevideo</twitterHashtag>
+    <venue>
+      <name>Auditorio Torre Antel</name>
+      <street>Guatemala 1075</street>
+      <city>Montevideo</city>
+      <state>Montevideo, Uruguay</state>
+      <zipcode>11200</zipcode>
+      <longitude>-56.19455</longitude>
+      <latitude>-34.89233</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2072</importID>
+      <name>Pyxis</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.pyxis.com.uy/</url>
+      <imageURL>https://www.pyxis.com.uy/assets/logo-9ac06a4eda8f9c8aabcdf72675f6a78875f9fadd57c1210fed649541a39fa1de.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2075</importID>
+      <name>Arkano Software</name>
+      <label>Blog Sponsor</label>
+      <url>http://www.arkanosoft.com</url>
+      <imageURL>https://www.arkanosoft.com/wp-content/uploads/2016/03/logo-arkano.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2077</importID>
+      <name>BIOS</name>
+      <label>Blog Sponsor</label>
+      <url>http://www.biosportal.com</url>
+      <imageURL>https://www.trustedadvisors.com.uy/logobios.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>67921</importID>
+      <name>Eduardo Castro</name>
+      <label>
+      </label>
+      <description>Eduardo Castro, Microsoft Data Platform MVP and PASS Board of Advisor for LATAM, is well known LATAM SQL Server Expert and focuses on architecture, Business Intelligence and Data Analytics, Eduardo has an specialization and master degree in Data Analysis and Big Data. I have been speaker at PASS Summit delivering session about R and Data Science.
+
+Eduardo Castro has presented in United States, Costa Rica, Colombia, Guatemala, Mexico, Panama, El Salvador and South Korea.</description>
+      <twitter>edocastro</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=7313296amp;authType=NAME_SEARCHamp;authToken=pBHMamp;locale=en_USamp;srchid=73132961426368749508amp;srchindex=1amp;srchtotal=50amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A73132961426368749508%2CVSRPtargetId%3A7313296%2CVSRPcmpt%3Aprimary%2CVSRPnm%3A</linkedin>
+      <ContactURL>http://ecastrom.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=edocastro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70505</importID>
+      <name>Patrick LeBlanc</name>
+      <label>
+      </label>
+      <description>Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community.  Patrick is a regular speaker at many SQL Server Conferences and Community events.</description>
+      <twitter>patrickdba</twitter>
+      <linkedin>https://www.linkedin.com/in/patrickdleblanc</linkedin>
+      <ContactURL>http://patrickdleblanc.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=patrickdba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67919</importID>
+      <name>Eduardo Castro</name>
+      <label>
+      </label>
+      <description>Eduardo Castro, Microsoft Data Platform MVP and PASS Board of Advisor for LATAM, is well known LATAM SQL Server Expert and focuses on architecture, Business Intelligence and Data Analytics, Eduardo has an specialization and master degree in Data Analysis and Big Data. I have been speaker at PASS Summit delivering session about R and Data Science.
+
+Eduardo Castro has presented in United States, Costa Rica, Colombia, Guatemala, Mexico, Panama, El Salvador and South Korea.</description>
+      <twitter>edocastro</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=7313296amp;authType=NAME_SEARCHamp;authToken=pBHMamp;locale=en_USamp;srchid=73132961426368749508amp;srchindex=1amp;srchtotal=50amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A73132961426368749508%2CVSRPtargetId%3A7313296%2CVSRPcmpt%3Aprimary%2CVSRPnm%3A</linkedin>
+      <ContactURL>http://ecastrom.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=edocastro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67898</importID>
+      <name>Javier Villegas</name>
+      <label>
+      </label>
+      <description>Javier Villegas is a Database Administrator Manager for Mediterranean Shipping Company. Javier has more than 20 years working with SQL Server on every version from 6.5 to SQL Server 2019, Including SQL Azure Database and SQL Azure Managed Instance. His specialization is Administration, Performance Tuning and High Availability.
+He is a Microsoft MVP in Data Platform.
+Javier is a frequent speaker in conferences and events such as SQL Saturday , PASS Virtual Groups, 24 Hours SQL PASS , vOpen(NetConf), GroupBy and DataPlatformGeeks.
+@sqlargentina</description>
+      <twitter>https://www.twitter.com/javier_vill</twitter>
+      <linkedin>https://ar.linkedin.com/in/javiervillegas</linkedin>
+      <ContactURL>http://sql-javier-villegas.blogspot.com.ar/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://www.twitter.com/javier_vill</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67913</importID>
+      <name>Patricio Cofre</name>
+      <label>
+      </label>
+      <description>Microsoft AI MVP  Regional Director. PASS Chile User Group Leader. Master of Engineering Management, Northwestern University. He has developed and led projects of Analytics for various companies in Latam, mainly in the areas of financial services and retail. He has specialized in Data Warehousing, and Machine Learning. He is co-founder and CEO of Metric Arts, now part of EY. He is also lecturer at the Catholic University of Chile and FIU in USA</description>
+      <twitter>pcofre</twitter>
+      <linkedin>https://cl.linkedin.com/in/pcofre</linkedin>
+      <ContactURL>https://cl.linkedin.com/in/pcofre</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pcofre</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67900</importID>
+      <name>Javier Villegas</name>
+      <label>
+      </label>
+      <description>Javier Villegas is a Database Administrator Manager for Mediterranean Shipping Company. Javier has more than 20 years working with SQL Server on every version from 6.5 to SQL Server 2019, Including SQL Azure Database and SQL Azure Managed Instance. His specialization is Administration, Performance Tuning and High Availability.
+He is a Microsoft MVP in Data Platform.
+Javier is a frequent speaker in conferences and events such as SQL Saturday , PASS Virtual Groups, 24 Hours SQL PASS , vOpen(NetConf), GroupBy and DataPlatformGeeks.
+@sqlargentina</description>
+      <twitter>https://www.twitter.com/javier_vill</twitter>
+      <linkedin>https://ar.linkedin.com/in/javiervillegas</linkedin>
+      <ContactURL>http://sql-javier-villegas.blogspot.com.ar/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://www.twitter.com/javier_vill</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67914</importID>
+      <name>Patricio Cofre</name>
+      <label>
+      </label>
+      <description>Microsoft AI MVP  Regional Director. PASS Chile User Group Leader. Master of Engineering Management, Northwestern University. He has developed and led projects of Analytics for various companies in Latam, mainly in the areas of financial services and retail. He has specialized in Data Warehousing, and Machine Learning. He is co-founder and CEO of Metric Arts, now part of EY. He is also lecturer at the Catholic University of Chile and FIU in USA</description>
+      <twitter>pcofre</twitter>
+      <linkedin>https://cl.linkedin.com/in/pcofre</linkedin>
+      <ContactURL>https://cl.linkedin.com/in/pcofre</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pcofre</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70506</importID>
+      <name>Patrick LeBlanc</name>
+      <label>
+      </label>
+      <description>Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community.  Patrick is a regular speaker at many SQL Server Conferences and Community events.</description>
+      <twitter>patrickdba</twitter>
+      <linkedin>https://www.linkedin.com/in/patrickdleblanc</linkedin>
+      <ContactURL>http://patrickdleblanc.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=patrickdba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>67919</importID>
+      <speakers>
+        <speaker>
+          <id>67919</id>
+          <name>Eduardo Castro</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Conference - SQL Saturday Montevideo - Torre ANTEL</name>
+      </location>
+      <title>Data Analytics: Clustering, Regression and Machine Learning con  Power BI</title>
+      <description>En esta sesión veremos cómo realizar modelos de análisis de clustering, regresión y series de tiempo con SQL Server, Azure Machine Learning y cómo integrarlos con Power BI.</description>
+      <startTime>12/2/2017 5:40:00 PM</startTime>
+      <endTime>12/2/2017 6:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67921</importID>
+      <speakers>
+        <speaker>
+          <id>67921</id>
+          <name>Eduardo Castro</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Conference - SQL Saturday Montevideo - Torre ANTEL</name>
+      </location>
+      <title>Cognitive Computing con Microsoft</title>
+      <description>La computacion cognitiva permite integrar nuevos servicios dentro de las soluciones de datos, en esta sesión veremos cómo utilizar los Cognitive Services de Microsoft y su papel en las soluciones de Data Science.</description>
+      <startTime>12/2/2017 11:00:00 AM</startTime>
+      <endTime>12/2/2017 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67898</importID>
+      <speakers>
+        <speaker>
+          <id>67898</id>
+          <name>Javier Villegas</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Conference - SQL Saturday Montevideo - Torre ANTEL</name>
+      </location>
+      <title>SQL Server 2017 - Community-driven enhancements</title>
+      <description>With SQL Sever 2017 Microsoft incorporates new features proposed by the Data Platform professional community, we will talk about them as well as the outstanding features of the next version of SQL</description>
+      <startTime>12/2/2017 12:00:00 PM</startTime>
+      <endTime>12/2/2017 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67913</importID>
+      <speakers>
+        <speaker>
+          <id>67913</id>
+          <name>Patricio Cofre</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Conference - SQL Saturday Montevideo - Torre ANTEL</name>
+      </location>
+      <title>Usando R y Python desde SQL Server</title>
+      <description>SQL Server 2017 ofrece, con Machine Learning Services, la posibilidad de ejecutar código R y Python desde Transact SQL, eliminando la tradicional fricción entre el mundo de la gestión de datos y la gestión analítica, al poner todo sobre un mismo ambiente. Con esto, es posible aprovechar lo mejor de estos lenguajes, sin tener el costo de traspaso de datos desde un ambiente a otro. La sesión constará con ejemplos prácticos, a través de los cuales se buscará mostrar las ventajas de esta nueva característica de SQL Server 2017.</description>
+      <startTime>12/2/2017 2:30:00 PM</startTime>
+      <endTime>12/2/2017 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70505</importID>
+      <speakers>
+        <speaker>
+          <id>70505</id>
+          <name>Patrick LeBlanc</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Conference - SQL Saturday Montevideo - Torre ANTEL</name>
+      </location>
+      <title>Introduction to Azure Analysis Services</title>
+      <description>You have been wanting to using SQL Server Analysis Services, but just don't have the physical resources on-premises to set one up.  Analysis Services has typically shipped with SQL Server on premises, but now it has been implemented as a fully managed service in Azure. Join this session to learn how to create a and deploy a model, load and refresh data using Azure functions, secure the model, view the model and a little about pricing.</description>
+      <startTime>12/2/2017 4:40:00 PM</startTime>
+      <endTime>12/2/2017 5:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67914</importID>
+      <speakers>
+        <speaker>
+          <id>67914</id>
+          <name>Patricio Cofre</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Conference - SQL Saturday Montevideo - Torre ANTEL</name>
+      </location>
+      <title>Creación de un Sistema Recomendador basado en Grafos</title>
+      <description>Grafos son una forma común de representar redes y relaciones entre objetos. No es fácil representar tales estructuras de datos en bases de datos relacionales como SQL Server y Azure SQL DB. Para responder a este requisito, SQL 2017 tiene extensiones que nos permiten almacenar y consultar de forma nativa gráficos dentro de la base de datos en Azure SQL DB.</description>
+      <startTime>12/2/2017 6:40:00 PM</startTime>
+      <endTime>12/2/2017 7:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67900</importID>
+      <speakers>
+        <speaker>
+          <id>67900</id>
+          <name>Javier Villegas</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Conference - SQL Saturday Montevideo - Torre ANTEL</name>
+      </location>
+      <title>Tecnicas Avanzadas de Monitoreo</title>
+      <description>En esta charla estaremos demostrando Tecnicas avanzadas de Monitoreo tales como
+- Analizando la actividad de SQL Server
+- Utilizando Extended events para realizar monitoreo en SQL Server
+- monitoreo proactivo
+- Auditoria Utilizando Service Broker</description>
+      <startTime>12/2/2017 3:30:00 PM</startTime>
+      <endTime>12/2/2017 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70506</importID>
+      <speakers>
+        <speaker>
+          <id>70506</id>
+          <name>Patrick LeBlanc</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Conference - SQL Saturday Montevideo - Torre ANTEL</name>
+      </location>
+      <title>Guy in a Cube unplugged</title>
+      <description>Patrick and Adam answer a lot of questions. Those questions result in videos on their YouTube channel. This session combines some of the best challenges that they have dealt with including Power BI Desktop to the service, data source connectivity and Azure Analysis Services. Don’t miss out, there is a little something for everyone.</description>
+      <startTime>12/2/2017 10:00:00 AM</startTime>
+      <endTime>12/2/2017 11:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

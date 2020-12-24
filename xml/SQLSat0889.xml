@@ -1,0 +1,819 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #889 - Prague 2019</name>
+    <startDate>9/21/2019 12:00:00 AM</startDate>
+    <attendeeEstimate>350</attendeeEstimate>
+    <timezone>(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatPrague</twitterHashtag>
+    <venue>
+      <name>City Convention Center</name>
+      <street>Na Strži 1702/65</street>
+      <city>Prague</city>
+      <state>Prague, Czechia</state>
+      <zipcode>14000</zipcode>
+      <longitude>14.4392063</longitude>
+      <latitude>50.0502818</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/889/EventSponsor_14082.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2053</importID>
+      <name>JT Banka, a.s.</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.jtbank.cz/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/889/EventSponsor_13860.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2315</importID>
+      <name>ADASTRA, s.r.o.</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.adastra.cz/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/889/EventSponsor_14050.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1806</importID>
+      <name>Joyful Craftsmen</name>
+      <label>Gold Sponsor</label>
+      <url>http://joyfulcraftsmen.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/889/EventSponsor_13836.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1826</importID>
+      <name>Avast Software s.r.o.</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.avast.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/889/EventSponsor_14184.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2293</importID>
+      <name>Intelligent Technologies</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.intecs.cz</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/889/EventSponsor_14167.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1617</importID>
+      <name>VMWare</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.vmware.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/889/EventSponsor_13855.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/889/EventSponsor_13647.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>93235</importID>
+      <name>Dejan Sarka</name>
+      <label>
+      </label>
+      <description>Dejan Sarka, MCT and Data Platform MVP, is an independent trainer and consultant that focuses on development of database and business intelligence applications. Besides projects, he spends about half of his time on training and mentoring. He is the founder of the Slovenian SQL Server and .NET Users Group. Dejan Sarka is the main author or co-author of eighteen books about databases and SQL Server. Dejan Sarka has also developed many courses and seminars for Microsoft, Radacad, SolidQ, and Pluralsight.</description>
+      <twitter>DejanSarka</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.solidq.com/dsarka/Home.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DejanSarka</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95369</importID>
+      <name>Nicky van Vroenhoven</name>
+      <label>
+      </label>
+      <description>Nicky van Vroenhoven is a BI professional focused at the Microsoft stack. He mainly works with Power BI, Power Platform and T-SQL. After working 9 years in BI-consultancy jobs in several industries and companies, he is currently working as a Lead BI Developer at the DWH team at Van Lanschot Kempen in The Netherlands. Nicky has spoken at several User Groups, SQL Saturday Events, and the Power BI World Tour and is the co-founder of the Power BI Days Netherlands. In addition he enjoys tweeting and blogging about topics like Power BI and Power Platform at https://nickyvv.com.</description>
+      <twitter>https://www.twitter.com/nickyvv</twitter>
+      <linkedin>https://www.linkedin.com/in/nickyvanvroenhoven/</linkedin>
+      <ContactURL>https://www.nickyvv.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://www.twitter.com/nickyvv</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93298</importID>
+      <name>Marcos Freccia</name>
+      <label>
+      </label>
+      <description>Currently working as a Microsoft SQL Server DBA at Zalando SE, Marcos has over 9 years of SQL Server experience, working from small to enterprise environments with High Availability, Disaster Recovery, Database Optimization, etc.. Holding several Microsoft certifications such as: MCITP DBA  DEV, MCSE Data Plataform and his last certification on Microsoft Azure Design and Implement Cloud Data Platform Solutions. In 2013 Marcos was awarded as a Microsoft MVP by his contributions in the Brazilian SQL Server community. Marcos is a frequent speaker in the SQL Server Community and he was the organizer of the first SQL Saturday in South Brazil.</description>
+      <twitter>@sqlfreccia</twitter>
+      <linkedin>https://br.linkedin.com/in/marcosfreccia</linkedin>
+      <ContactURL>http://marcosfreccia.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlfreccia</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95462</importID>
+      <name>Jiří Neoral</name>
+      <label>
+      </label>
+      <description>Jiri is BI Data Architect in Dixons Carphone and Microsoft MVP Data Platform. Before joining Dixons worked as Freelance Bi consultant and MCT (since 2008). Jiri has strong passion for Business Intelligence and loves to share his knowledge. Is active blogger about BI although decided to write in Czech and focus mainly on Czech and Slovak audience. He is also active speaker on conferences and community events (mainly based in Czech Republic). Jiri is Czech PUG leader and SQL PASS Member.</description>
+      <twitter>https://twitter.com/JiriNeoral</twitter>
+      <linkedin>https://cz.linkedin.com/in/jiri-neoral-b2597945</linkedin>
+      <ContactURL>http://www.neoral.cz</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/JiriNeoral</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>94559</importID>
+      <name>Christina Leo</name>
+      <label>
+      </label>
+      <description>Christina Leo is a Cloud Solution Architect at Microsoft specialising in the Data and AI Platform. Prior to joining Microsoft in 2016, she worked as an independent consultant focusing on T-SQL and BI development, as well as database performance tuning in the finance and investment banking sector. When she isn't sharing her 18 years of technical experience with the data community, you can find her racing around the Solent on a 40' sailboat or often in the Thames on a little Laser.</description>
+      <twitter>christinaleo</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://christinaleo.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=christinaleo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98556</importID>
+      <name>Tasty Lunch</name>
+      <label>
+      </label>
+      <description>Bio</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96529</importID>
+      <name>Cédric Charlier</name>
+      <label>
+      </label>
+      <description>Cédric is a talented architect and Data Platform MVP active in the domain of Business Intelligence and Data warehousing. He has more than 10 years of successful experiences with SQL Server in European industrial groups and services companies. Driven by quality and reliability, he is the main developer of an open-source solution for testing BI solutions (cubes, etl, reports) named NBi (www.nbi.io). Cedric also advocates for the introduction and general usage of agile practices in BI’s world.</description>
+      <twitter>@Seddryck</twitter>
+      <linkedin>http://be.linkedin.com/in/cedriccharlier</linkedin>
+      <ContactURL>http://seddryck.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Seddryck</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96201</importID>
+      <name>Damian Widera</name>
+      <label>
+      </label>
+      <description>SQL Server MVP amp; MCT
+Software engineer with 18+ years of professional experience in all aspects of software development.
+Damian participated in a number of projects in international environments and possesses practical knowledge of procedures and tools which are necessary for successful implementation of such projects.
+Now he focuses on building solutions based on Microsoft SQL Server environment (including complex database driven systems, database tuning and optimization).</description>
+      <twitter>@DamianWidera</twitter>
+      <linkedin>https://pl.linkedin.com/in/damian-widera-0b56284</linkedin>
+      <ContactURL>https://codingfamily.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@DamianWidera</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96844</importID>
+      <name>Oleg Ulyanov</name>
+      <label>
+      </label>
+      <description>Oleg Ulyanov is a Sr. Solution Architect in VMware Technical Marketing focused on database virtualization and monitoring. He previously spend more than 6 years within VMware Professional Services (PSO) and have more than 15 years of experience in IT. He is a Subject Matter Expert in both monitoring and virtualization of business critical applications with tons of hands-on experience directly from customer sites.
+He holds a broad range of industry certificates including VMware VCP 4/5, VCAP5-DCD/DCA/CID/CIA, VCAP6-DCV, SNIA, Microsoft, and speaks regularly at the official events like VMworld, VMware User Group, SQL Saturdays.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/in/oulyanov-vmware</linkedin>
+      <ContactURL>https://blogs.vmware.com/apps/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98311</importID>
+      <name>Karel Rejthar</name>
+      <label>
+      </label>
+      <description>MVP Data platform - Power BI. Lektor a učitel ICT.</description>
+      <twitter>https://twitter.com/KarelRejthar</twitter>
+      <linkedin>https://www.linkedin.com/in/karel-rejthar-75494252/</linkedin>
+      <ContactURL>http://data.maleskoly.info/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/KarelRejthar</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>94086</importID>
+      <name>Luis Beltran</name>
+      <label>
+      </label>
+      <description>I am a Microsoft MVP in AI and Developer Technologies who is currently pursuing his PhD in Engineering Informatics at Tomas Bata University in Zlín, Czech Republic.</description>
+      <twitter>darkicebeam</twitter>
+      <linkedin>https://www.linkedin.com/in/darkicebeam/</linkedin>
+      <ContactURL>https://luisbeltran.mx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=darkicebeam</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95242</importID>
+      <name>Pinal Dave</name>
+      <label>
+      </label>
+      <description>Pinal Dave is a SQL Server Performance Tuning Expert and an independent consultant. He has authored 12 SQL Server database books, 30 Pluralsight courses and has written over 5000 articles on the database technology on his blog at a https://blog.sqlauthority.com. Along with 16+ years of hands-on experience, he holds a Masters of Science degree and a number of database certifications.</description>
+      <twitter>pinaldave</twitter>
+      <linkedin>http://www.linkedin.com/in/pinaldave</linkedin>
+      <ContactURL>https://blog.sqlauthority.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pinaldave</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93957</importID>
+      <name>Dr. Subramani Paramasivam</name>
+      <label>
+      </label>
+      <description>Dr.SubraMANI Paramasivam is a Microsoft MVP, PhD, Microsoft Certified Trainer and Head of Data  AI at DAGEOP Ltd having 21 years of DB, BI, Analytics and AI experience. Mani has also spoken in various events like MS IGNITE, PASS Summit, MS Inspire, SQLBITS, Power Platform Summit, Global AI Bootcamp, Data  BI Summit, SQLRelay,  Power BI World Tour, Data Platform Summit, INSIDESQL UK, Global AI Nights, SQLServerGeeks Summit, MCT Global Summits, Data Day Events and various user group events. Mani also believes in Empowering Every Person in the planet and spreads the awareness on Global challenges via www.EmpoweringEveryPerson.com. He is also a co-owner of 1 Global AI Meetup and 3 Power BI PUG  PASS local / user groups.</description>
+      <twitter>https://twitter.com/dageop</twitter>
+      <linkedin>http://uk.linkedin.com/in/dageop</linkedin>
+      <ContactURL>http://www.yoursqlman.com/index.php/blogs</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dageop</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98328</importID>
+      <name>Tomas Tucek</name>
+      <label>
+      </label>
+      <description>More than 10 years in IT spent on custom solution(s) development, mainly for enterprises. Last several years spent in Business Intelligence product/project leading. Passionate in software craftsmenship.</description>
+      <twitter>https://twitter.com/ttfromjc</twitter>
+      <linkedin>http://www.joyfulbi.com</linkedin>
+      <ContactURL>http://joyfulcraftsmen.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/ttfromjc</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95870</importID>
+      <name>Neil Hambly</name>
+      <label>
+      </label>
+      <description>Neil Hambly is a SQL Server consultant, founder and consultant at Datamovements, a Gold Microsoft Data  Analytics Consulting company.
+Neil has 20+ years in a variety of SQL Server roles and is an MCT. He is a regular presenter (200+ events) at user groups, and PASS events, including PASS Summit and SQLSaturday, and many UK events (SQLBits, SQLRelay). Neil is the leader of PASS London (UK), a Professional Development VC, a Melissa Data MVP, and a SQL Cruise Technical Lead, who loves Guinness, whisky, and dancing.</description>
+      <twitter>Neil_Hambly</twitter>
+      <linkedin>http://uk.linkedin.com/in/neilhambly</linkedin>
+      <ContactURL>http://dataidol.com/NeilHambly</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Neil_Hambly</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95298</importID>
+      <name>Ivan Donev</name>
+      <label>
+      </label>
+      <description>I am a Data platform MVP with more than 10 years of real-life experience with SQL Server and its stack of services. Besides the support and project work, I am also a trainer, conference speaker and user group organizer (and volunteer).</description>
+      <twitter>https://twitter.com/ikdonev</twitter>
+      <linkedin>https://www.linkedin.com/in/ivandonev/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/ikdonev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>94158</importID>
+      <name>Alexander Klein</name>
+      <label>
+      </label>
+      <description>Alexander Klein is a senior Business Intelligence consultant with more than 15 years of experience. He focuses on Business Intelligence and Data Warehouse projects with Microsoft technologies like SQL Server, Power BI, Azure ML or Cortana Intelligence. 
+
+Since 2008, he has been a self-employed consultant in large and medium-sized projects in all sectors across Europe. He has been visiting SQL Saturdays and other Data Conference all over Europe since 2013. Speaker at national and international events since 2017.</description>
+      <twitter>@SQL_Alex</twitter>
+      <linkedin>http://www.linkedin.com/in/alexander-klein-13a04b3a</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQL_Alex</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95320</importID>
+      <name>Michal Chmelár</name>
+      <label>
+      </label>
+      <description>Michal Chmelár is top expert for Power BI, PowerPivot and the DAX language. He is author of Power-BI.sk and PowerPivot.sk blogs, which are the largest blogs about Power BI and PowerPivot in Slovakia and Czech republic. He’s also an author of a Slovak book about Power BI – “Reporting v Power BI, PowerPivot a jazyk DAX”. He got the experience not only in Czech republic and Slovakia, but also at bigger installations in the UK, Ireland, Norway and Iran. During the nights, he’s worshipping Master Yoda and secretly plans to conquest the universe.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/michal-chmel%C3%A1r-74538620/</linkedin>
+      <ContactURL>https://www.powerpivot.sk</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95682</importID>
+      <name>Tomaž Kaštrun</name>
+      <label>
+      </label>
+      <description>Tomaž Kaštrun is BI developer and data analyst. His main focus are data mining, T-SQL development, programming and query optimization. He has been working with SQL server since version 2000. He is Microsoft Certified Professional, Microsoft MVP for data platform and Microsoft trainer.</description>
+      <twitter>@tomaz_tsql</twitter>
+      <linkedin>http://www.linkedin.com/tomaz.kastrun</linkedin>
+      <ContactURL>http://www.tomaztsql.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@tomaz_tsql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96718</importID>
+      <name>Angela Henry</name>
+      <label>
+      </label>
+      <description>Angela is a Solution Architect, living in High Point, NC and loves what she does. She's worked with all versions of SQL Server  worn all the hats that come with dealing with SQL Server throughout the years: developer, administrator, data architect and BI developer. She has her MSCE in Data and Analytics (f.k.a., Business Intelligence), is a Data Platform MVP, and a Microsoft Certified Trainer (MCT).  She is the former chapter leader for the PASS Triad SQL User Group in Greensboro, NC. In her spare time you can probably find her in or at the pool, she's an avid US Masters Swimmer, Coach and Instructor.</description>
+      <twitter>SQLSwimmer</twitter>
+      <linkedin>http://www.linkedin.com/in/angelahenrydba</linkedin>
+      <ContactURL>http://SQLSwimmer.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLSwimmer</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93775</importID>
+      <name>Janusz Rokicki</name>
+      <label>
+      </label>
+      <description>Microsoft Data Platform Expert and certified Azure Solutions Architect with over 12 years’ experience working in the City of London in the Financial Services Industry (retail and investment banking, multi-asset class trading systems). He has passion for secure, high-performance, maintainable data-driven applications that can be deployed with confidence on-premises and in-cloud. With educational background in intelligent sensor networks and machine learning he is always in search of automation and optimisation opportunities.
+
+Has presented at SqlBits, PASS Summit, SqlDay and multiple Sql Saturday events (Tel-Aviv, Kiev, Paris, Tallinn, Bonn, Bratislava, Goteborg, Kharkiv, Bucharest, Sofia, Ljubljana) and user groups.</description>
+      <twitter>DataSic</twitter>
+      <linkedin>https://www.linkedin.com/in/jrokicki/</linkedin>
+      <ContactURL>https://www.datasic.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DataSic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96274</importID>
+      <name>Dmitry Pilugin</name>
+      <label>
+      </label>
+      <description>Dmitry Pilugin, is a SQL Server DB developer from Russia, Moscow. He works with SQL Server for more than ten years. Currently he works as a database developer lead, responsible for the development of production databases in the media research company. 
+
+Dmitry holds a blog about SQL Server query processing: QueryProcessor.com, where he writes about a query optimization and execution, and also likes to share his knowledge about it speaking at various community events and tech conferences. Data Platform Microsoft MVP since 2014.</description>
+      <twitter>https://twitter.com/SomewereSomehow</twitter>
+      <linkedin>http://www.linkedin.com/pub/pilugin-dmitry-somewheresomehow/2b/210/277</linkedin>
+      <ContactURL>http://www.queryprocessor.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/SomewereSomehow</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>94086</importID>
+      <speakers>
+        <speaker>
+          <id>94086</id>
+          <name>Luis Beltran</name>
+        </speaker>
+      </speakers>
+      <track>Data Science  Machine Learning</track>
+      <location>
+        <name>Tower</name>
+      </location>
+      <title>Clever data: Building a chatbot from your database</title>
+      <description>The development of Artificial Intelligence is increasingly present in our lives and as time goes by, its presence will grow thanks to the momentum that enterprises are currently providing. 
+
+One of the most engaging AI applications are chatbots, which interact with real-time users in order to assist them to perform a task -such as booking a hotel, answering a question or looking for specific information on the Internet- while simulating that a real human is behind the scene.
+
+Data is knowledge, and the data that has been stored in your Azure SQL database can be used as an input for a bot which assists a company's customers in order to process the information for them and return expected results.
+
+This session will be focused on explaining the actors involved when building a bot capable of obtaining data from your storage, including Azure SQL Database, Microsoft Bot Framework and LUIS (Language Understanding Intelligent Services). A mobile app built with Xamarin will be used as demo.</description>
+      <startTime>9/21/2019 1:30:00 PM</startTime>
+      <endTime>9/21/2019 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95369</importID>
+      <speakers>
+        <speaker>
+          <id>95369</id>
+          <name>Nicky van Vroenhoven</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>Panorama</name>
+      </location>
+      <title>Power BI (Premium) Implementation at a Financial Institute</title>
+      <description>Back to September 2016: Power BI is new, shiny and hot. It is the tool of the moment, so people cannot wait to get their hands on it.
+Fast forward 6 months, there is more traction within the business, training is given and workshops are held. The adoption of Power BI is growing. Some departments already use Power BI very extensively and incorporate it in their day-to-day processes. Due to this quick success there is uncertainty regarding the right support team for incidents and problems.
+Because an app workspace creates an Office 365 group with a lot of artifacts behind the scenes, the creation workflow is controlled by IT. Unfortunately this inhibits the end users.
+We require more governance, not to further bother the users, but it is essential to stay in control. Responsibilities need to be better aligned between IT and the business.
+Throughout this session we take you along on our Power BI journey, with tips, tricks, do's and don'ts during the implementation of Power BI (Premium).</description>
+      <startTime>9/21/2019 5:15:00 PM</startTime>
+      <endTime>9/21/2019 6:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95320</importID>
+      <speakers>
+        <speaker>
+          <id>95320</id>
+          <name>Michal Chmelár</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>Panorama</name>
+      </location>
+      <title>Power BI as a universal analytic tool</title>
+      <description>In Power BI, you can also do other kinds of analyses than just business analytics. In this lecture you’ll see, how you can use Power BI together with cloud services for quick check of facts from freely available data sources, even if they aren’t published in a particularly suitable format. You will also see, how you can quickly analyze unstructured text (e.g. communication with customers). At the end we will take a look at PowerApps, using which you can not only quickly create a new business app in your web browser, but also integrate it in your Power BI reports, so that you can quickly react to results and take action from a single environment. Because Power BI is capable of doing much more than “just” business analyses.</description>
+      <startTime>9/21/2019 1:30:00 PM</startTime>
+      <endTime>9/21/2019 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>93235</importID>
+      <speakers>
+        <speaker>
+          <id>93235</id>
+          <name>Dejan Sarka</name>
+        </speaker>
+      </speakers>
+      <track>Data Science  Machine Learning</track>
+      <location>
+        <name>Tower</name>
+      </location>
+      <title>Comparing Predictive Models from R, Python, SSAS, and Azure ML</title>
+      <description>There is a lot of overlapping in Microsoft BI suite. For advanced analytics, like data mining, you can use SQL Server Analysis Services (SSAS), or R, or Python, or Azure ML. The question arises which tool to use. The answer is simple, through another question. Why not all of them? 
+In data mining, you typically create multiple predictive models for the same task, and then evaluate them to select the best one. So why wouldn’t you even use different tools for different models? You will learn how to evaluate the predictive models. Then you will see how to bring all of the mining models together and compare them no matter of the source they come from. You will see how you can use SQL Server Integration Services, Excel, and other tools for this task.</description>
+      <startTime>9/21/2019 11:30:00 AM</startTime>
+      <endTime>9/21/2019 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95242</importID>
+      <speakers>
+        <speaker>
+          <id>95242</id>
+          <name>Pinal Dave</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Empiria</name>
+      </location>
+      <title>Practical Real-World Performance Tuning for Accidental DBAs</title>
+      <description>In most of the organizations, accidental DBAs are the individuals who are often responsible for the SQL Server Performance. In the real world when we face any performance problems, we do not have the luxury to open PowerPoint and study theory. What helps us during the time of crisis are handy scripts which help us fix our performance problems.
+In this quick paced, demonstration-oriented learning session, we will see how we can immediately help our application with performance if we just know what exactly to do.
+We will cover the following topics during our session 
+a) Learn and Implement best deployment and configurations practices
+b) Indexing (and statistics) best practices deployments
+c) Understanding cardinality and compatibility levels and their impact
+d) Enabling SQL Server 2019 (on-premises and cloud) new features
+e) Secret Performance Tuning Scripts</description>
+      <startTime>9/21/2019 5:15:00 PM</startTime>
+      <endTime>9/21/2019 6:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95682</importID>
+      <speakers>
+        <speaker>
+          <id>95682</id>
+          <name>Tomaž Kaštrun</name>
+        </speaker>
+      </speakers>
+      <track>Data Science  Machine Learning</track>
+      <location>
+        <name>Tower</name>
+      </location>
+      <title>Common Data Science Mistakes</title>
+      <description>In the middle of deploying the model, team of data scientists realize that the predictions are "somewhat-off". Troubleshooting on the horizon and what to do. Session will guide you through most common mistakes data scientists and statisticians are making when preparing and engineering the data using T-SQL or any other database system. Further more, we will explore common statistical and data science mistakes when modeling data, extracting know-how from the data, finding the hidden patterns and running different test against the structural models using mainly R, Python, or Spark. What not-to-do will be replaced with what to-do explanations using sample datasets and sample codes. Some statistical knowledge or background is a plus!</description>
+      <startTime>9/21/2019 5:15:00 PM</startTime>
+      <endTime>9/21/2019 6:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95298</importID>
+      <speakers>
+        <speaker>
+          <id>95298</id>
+          <name>Ivan Donev</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>Empiria</name>
+      </location>
+      <title>Designing your tabular/PowerBI model for performance and scalability</title>
+      <description>You developed a PowerBI or an Analysis Services Tabular model and you run it on a server with plenty of cores and memory. But your queries does not scale or your users are not happy with the performance! So what can you do? You can fine tune the settings of your AS Tabular (usually does not bring a large benefit), you can scale up (which is costly) or you can apply the techniques I am going to show you in this session. Techniques, that range from optimizing the storage of your model, to how to effectively implement DAX patterns for maximum performance. And all of that, complemented with digging into engine execution plans, DMVs, tracing activity and tabular engine internals.</description>
+      <startTime>9/21/2019 2:45:00 PM</startTime>
+      <endTime>9/21/2019 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>96274</importID>
+      <speakers>
+        <speaker>
+          <id>96274</id>
+          <name>Dmitry Pilugin</name>
+        </speaker>
+      </speakers>
+      <track>Database Development</track>
+      <location>
+        <name>Empiria</name>
+      </location>
+      <title>Intelligent Query Processing in SQL Server 2019</title>
+      <description>Performance is one of the most important parts of a healthy database system, but sometimes a query performance may suffer, for a variety of reasons. In one case we may find a reason and fix it easily, while in the other case, it is much harder.
+
+SQL Server 2017 introduced a new approach for solving performance problems called Adaptive Query Processing. SQL Server 2019 evolves those mechanisms and the entire feature family now is named – Intelligent Query Processing.
+
+The Intelligent query processing in SQL Server 2019 includes the following:
+- Adaptive Query Processing enhancements
+- Table Variable Deferred Compilation
+- Approximate Query Processing
+- Scalar UDF Inlining
+
+In this session we will see how do these features work and in what cases they might be helpful.</description>
+      <startTime>9/21/2019 1:30:00 PM</startTime>
+      <endTime>9/21/2019 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95870</importID>
+      <speakers>
+        <speaker>
+          <id>95870</id>
+          <name>Neil Hambly</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Tower</name>
+      </location>
+      <title>Performance Troubleshooting Using DMVs</title>
+      <description>Performance troubleshooting is a complex subject with many factors under consideration when you find poorly performing SQL statements, using proven methodologies, and evaluating performance data available in the Dynamic Management Views and Functions. In this session, we’ll go over a foundation of how and which DMVs to use to identify those problematic statements for versions of SQL Server from 2005 – 2017 and will also include improvements for the 2019 release.
+
+We’ll be demonstrating using practical examples, including code that can be taken away and used on attendees’ own SQL Servers. We’ll also discuss how to identify common causes of performance issues, and learn how to quickly review and understand the wealth of performance data available.</description>
+      <startTime>9/21/2019 10:15:00 AM</startTime>
+      <endTime>9/21/2019 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>96529</importID>
+      <speakers>
+        <speaker>
+          <id>96529</id>
+          <name>Cédric Charlier</name>
+        </speaker>
+      </speakers>
+      <track>Data Science  Machine Learning</track>
+      <location>
+        <name>Tower</name>
+      </location>
+      <title>Data scientists have left ... How will I deploy their work?</title>
+      <description>Description
+That's it, data scientists have left the house! Behind them, some scripts written in Python or R, thousands of CSV files, three sheets and two whiteboards of mathematical equations, many PowerPoint presentations and a clear instruction from the CEO: go to production ASAP! Unfortunately, no trace of a deployment procedure. Hopefully, this session, will explain how to industrialize data scientists' scripts. How to import and refactor code written in Jupyter Notebooks within VS Code, How to put in place the best practices of DevOps and apply them to Machine Learning with Azure Pipelines and some other tips and tricks for a successful go-live.</description>
+      <startTime>9/21/2019 2:45:00 PM</startTime>
+      <endTime>9/21/2019 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98311</importID>
+      <speakers>
+        <speaker>
+          <id>98311</id>
+          <name>Karel Rejthar</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>Empiria</name>
+      </location>
+      <title>Maps in Power BI</title>
+      <description>In this session I show you what kind of maps can be used in Power BI. What type of map is useful for. Practically we will try 4 kinds of maps.</description>
+      <startTime>9/21/2019 9:00:00 AM</startTime>
+      <endTime>9/21/2019 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>93298</importID>
+      <speakers>
+        <speaker>
+          <id>93298</id>
+          <name>Marcos Freccia</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Panorama</name>
+      </location>
+      <title>My 10 favorite PowerShell commands</title>
+      <description>As a DBA I am always trying to automate the tasks that I have to do. In this session, I want to show you 10 Powershell commands that will make your life easier and increase your productivity. 
+I promise that at least one new thing you will learn it</description>
+      <startTime>9/21/2019 11:30:00 AM</startTime>
+      <endTime>9/21/2019 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>93775</importID>
+      <speakers>
+        <speaker>
+          <id>93775</id>
+          <name>Janusz Rokicki</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Panorama</name>
+      </location>
+      <title>Anomaly Detection in Predictive Maintenance for Sql Server</title>
+      <description>The amount of data we collect, store and process is rapidly growing and goes hand in hand with growing amount of work related to managing it. Automation is a key if we want to stay in control and AIOps represents its next major level with potential to revolutionise IT operations. This session explains what AIOps is, provides common use cases and gives practical examples that help to avoid costly Sql Server disruptions and eliminate firefighting. Presented solution addresses limitations of Query Store and automates the identification and resolution of common performance issues.</description>
+      <startTime>9/21/2019 9:00:00 AM</startTime>
+      <endTime>9/21/2019 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>96201</importID>
+      <speakers>
+        <speaker>
+          <id>96201</id>
+          <name>Damian Widera</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Empiria</name>
+      </location>
+      <title>Transaction Isolation Levels - that could be funny</title>
+      <description>Every developer and DBA should know way more beyound how the default transaction isolation level to make sure they know what to expect when working with them. I will present all of the levels and show you some suprising facts about them. We will go through various if deep demos that show what goes on internally in the SQL Server</description>
+      <startTime>9/21/2019 4:00:00 PM</startTime>
+      <endTime>9/21/2019 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>94559</importID>
+      <speakers>
+        <speaker>
+          <id>94559</id>
+          <name>Christina Leo</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>Panorama</name>
+      </location>
+      <title>Analytics on Azure: What to Use When</title>
+      <description>Azure offers a comprehensive set of big-data solutions that help you gather, store, process, analyse and visualise data of any variety, volume or velocity, so you can discover new opportunities and take quick action. In this overview session, we’ll look at the various components within Azure that make up the Modern Data Warehouse, enable Real-Time Analytics, and support Advanced Analytics scenarios. You should leave with a high level understanding of the capabilities and limitations of each of the products within the Azure Analytics portfolio.</description>
+      <startTime>9/21/2019 2:45:00 PM</startTime>
+      <endTime>9/21/2019 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>94158</importID>
+      <speakers>
+        <speaker>
+          <id>94158</id>
+          <name>Alexander Klein</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>Empiria</name>
+      </location>
+      <title>Build your next BI solution in Azure</title>
+      <description>Azure offers a variety of services that can be combined to form a BI solution in the cloud. What options does Azure currently offer to create a modern BI architecture? The components currently available range from Azure SQL DB and SQL DWH to Data Factory, Stream Analytics, Logic App, Databricks, Analysis Services and Power BI to name a few. This is a very good toolbox, with which you can achieve your first successes very quickly. Step by step you will learn how to create the classic ETL in the cloud and analyze the results in Power BI.</description>
+      <startTime>9/21/2019 10:15:00 AM</startTime>
+      <endTime>9/21/2019 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>96844</importID>
+      <speakers>
+        <speaker>
+          <id>96844</id>
+          <name>Oleg Ulyanov</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Empiria</name>
+      </location>
+      <title>Successfully Virtualizing SQL Server on VMware vSphere: Straight from the Source</title>
+      <description>Let us connect DBAs and Infrastructure Admins providing to DBAs vital information how to get best SQL Server deployment on top of VMware virtual platform. The session will cover both the design and the configuration of a SQL Server virtual machine with the special focus on:
+•	vCPU allocation and deep dive in vNUMA
+•	Memory allocation and configurations options
+•	Storage configuration best practices including PMem/NFS/Snapshots
+•	Network configuration myths and best practices
+
+It all that you want to know about virtual platform configuration but hesitated to ask! Directly from the source with the ton of hands-on from VMware Professional Services.</description>
+      <startTime>9/21/2019 12:35:00 PM</startTime>
+      <endTime>9/21/2019 1:35:00 PM</endTime>
+    </event>
+    <event>
+      <importID>98556</importID>
+      <speakers>
+        <speaker>
+          <id>98556</id>
+          <name>Tasty Lunch</name>
+        </speaker>
+      </speakers>
+      <track>Data  DevOps</track>
+      <location>
+        <name>Tower</name>
+      </location>
+      <title>.</title>
+      <description>Tasty Lunch</description>
+      <startTime>9/21/2019 12:35:00 PM</startTime>
+      <endTime>9/21/2019 1:35:00 PM</endTime>
+    </event>
+    <event>
+      <importID>93957</importID>
+      <speakers>
+        <speaker>
+          <id>93957</id>
+          <name>Dr. Subramani Paramasivam</name>
+        </speaker>
+      </speakers>
+      <track>Data Science  Machine Learning</track>
+      <location>
+        <name>Tower</name>
+      </location>
+      <title>Azure Machine Learning with Power BI</title>
+      <description>This session covers connected Python scripts from Jupyter Notebook, executing Azure Machine Learning models and the Stream Analytics job pushing data to Power BI. This is a great feature, where users learn how Azure ML are used for Power BI output.</description>
+      <startTime>9/21/2019 4:00:00 PM</startTime>
+      <endTime>9/21/2019 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95462</importID>
+      <speakers>
+        <speaker>
+          <id>95462</id>
+          <name>Jiří Neoral</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>Empiria</name>
+      </location>
+      <title>Power BI Row Level Security Deep Dive</title>
+      <description>Common requirement for Power BI reports is displaying different data in same data model for different report consumers. During this session you will learn how to prepare your data model  infrastructure and make Row Level Security work. Several approaches will be covered. Session is going to be applicable also for SSAS tabular.</description>
+      <startTime>9/21/2019 11:30:00 AM</startTime>
+      <endTime>9/21/2019 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>96718</importID>
+      <speakers>
+        <speaker>
+          <id>96718</id>
+          <name>Angela Henry</name>
+        </speaker>
+      </speakers>
+      <track>Database Development</track>
+      <location>
+        <name>Tower</name>
+      </location>
+      <title>Profiling Your Data</title>
+      <description>Have you ever started a warehouse or ETL project and realized that the data wasn't as "clean" as you were told?  If only you had profiled your data before you started then you wouldn't have to rework design elements, change code or redesign your database.  In this session we will talk about what data profiling is, why you should do it and how you can do it with tools that are already included in the SQL Server BI stack.</description>
+      <startTime>9/21/2019 9:00:00 AM</startTime>
+      <endTime>9/21/2019 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>98328</importID>
+      <speakers>
+        <speaker>
+          <id>98328</id>
+          <name>Tomas Tucek</name>
+        </speaker>
+      </speakers>
+      <track>Data  DevOps</track>
+      <location>
+        <name>Panorama</name>
+      </location>
+      <title>CI, CD, CDE and DevOps Explained</title>
+      <description>We, at Joyful Craftsmen, we are all the time meeting people asking 
+"... am I really able to deploy our data solution more often than once in a 3-6 months?
+Is that real? ..." The answer always is "Yes it is and yes you are!!!"
+Let's meet and have a light talk about how is that possible, what actually the buzzwords like CI (continuous integration),
+CD (continuous delivery), CDE (continuous deployment) and DevOps in our data platform world means and why it is important. Also with some real examples showing how simple that actually is ...</description>
+      <startTime>9/21/2019 10:15:00 AM</startTime>
+      <endTime>9/21/2019 11:15:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

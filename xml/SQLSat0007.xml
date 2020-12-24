@@ -1,0 +1,646 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #7 - Birmingham 2009</name>
+    <startDate>5/30/2009 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>Free training event for SQL Server professionals</description>
+    <twitterHashtag>#sqlsat7</twitterHashtag>
+    <venue>
+      <name>Jefferson State Community College</name>
+      <street>4600 Valleydale Road</street>
+      <city>Birmingham</city>
+      <state>Alabama</state>
+      <zipcode>35242</zipcode>
+      <longitude>-86.7341939</longitude>
+      <latitude>33.384262</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>539</importID>
+      <name>Dasher Technologies</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.dashertechnologies.com/</url>
+      <imageURL>https://www.dashertechnologies.com/html/images/dtlogo_color_200x126.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1182</importID>
+      <name>Teksouth Corporation</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.teksouth.com</url>
+      <imageURL>https://www.teksouth.com/images/logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1</importID>
+      <name>Confio</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.confio.com</url>
+      <imageURL>https://www.pass.org/images/resized-confio_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Silver Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>35</importID>
+      <name>Web Basics</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.webbasics.net</url>
+      <imageURL>https://www.webbasics.net/Portals/0/Images/LogoLg2.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>33</importID>
+      <name>Telerik</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.telerik.com/</url>
+      <imageURL>https://s3.amazonaws.com/rockdale_media/projects/543439b0fd67d36b7f000007/Telerik_brandmark_color_without_tagline_Black_1412710457532.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>20</importID>
+      <name>O'Reilly Books</name>
+      <label>Silver Sponsor</label>
+      <url>http://oreilly.com/</url>
+      <imageURL>https://oreilly.com/images/oreilly/oreilly.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>716</importID>
+      <name>Publishing Imprints of Pearson Education</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.informit.com/shortcuts</url>
+      <imageURL>https://www.informit.com/display/InformIT/images/header/informit.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>609</importID>
+      <name>End to End Training</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.endtoendtraining.com</url>
+      <imageURL>https://www.endtoendtraining.com/images/endtoendlogo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>766</importID>
+      <name>JumpstartTV.com</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.jumpstarttv.com</url>
+      <imageURL>https://www.jumpstarttv.com/images/header_logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>56</importID>
+      <name>CTS, Inc.</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.cgi.com/en</url>
+      <imageURL>https://www.cgi.com/sites/all/themes/cgi/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>817</importID>
+      <name>Matrix Resources</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.matrixresources.com/</url>
+      <imageURL>https://www.pass.org/images/SQLSaturday/EventSponsors/MATRIX-logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1184</importID>
+      <name>Tek Systems</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.teksystems.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/855/EventSponsor_13925.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>31</importID>
+      <name>SQL Server Magazine</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.sqlmag.com</url>
+      <imageURL>https://windowsitpro.com/Common/adforceimages/062607_email_SQLLogo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>301</importID>
+      <name>Steel City SQL</name>
+      <label>Gold Sponsor</label>
+      <url>http://steelcitysql.sqlpass.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/899/EventSponsor_13938.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>34943</importID>
+      <name>Andy Warren</name>
+      <label>
+      </label>
+      <description>Andy Warren is a SQL Server consultant and trainer based in Orlando, FL. Focusing on administration, performance tuning, and SQL Server patterns and practices, he’s been a SQL Server MVP since 2008. Andy served two terms on the PASS Board of Directors, was a founding principal in SQLServerCentral, and created both the SQLSaturday and SQLRally event models.</description>
+      <twitter>@sqlandy</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://sqlandy.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlandy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35468</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31457</importID>
+      <name>Chris Eargle</name>
+      <label>
+      </label>
+      <description>Chris Eargle is a Telerik Developer Evangelist, INETA Director, and Microsoft Most Valuable Professional – C# from Columbia, SC, USA. He has over a decade of experience designing and developing enterprise applications, and he runs the local .NET User Group: the Columbia Enterprise Developers Guild. He is a frequent guest of conferences and community events promoting best practices and new technologies. His blog, kodefuguru.com, features content to guide you in becoming a .NET Ninja!</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.kodefuguru.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35093</importID>
+      <name>Dean Richards</name>
+      <label>
+      </label>
+      <description>Dean Richards is a Senior DBA for DBMS Insights and has helped hundreds of companies solve database and virtualization performance issues.  Dean has over 20 years of experience in both development and database administration and has focused his entire career on performance tuning of Oracle and SQL Server environments. Most recently Dean has focused on the trend to virtualize and move databases to the cloud.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/pub/dean-richards/6/167/a90</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35495</importID>
+      <name>Terry Webster</name>
+      <label>
+      </label>
+      <description>Terry is a Senior Systems Architect for TekSouth Corporation in Birmingham, Alabama and owner of Web Basics.  He has over 20 years experience in software engineering and design.  Terry focuses on Microsoft Technologies and specializes in ASP.NET, VB.NET, VSTO, OBA, Business Intelligence, Sharepoint and other custom solutions.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.webbasics.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29132</importID>
+      <name>Brad Marshall</name>
+      <label>
+      </label>
+      <description>Brad Marshall is a veteran IT professional with 18 years experience in data management and data warehousing solutions.  Brad has held several Microsoft certifications through the years and is currently the Director of Commercial Products and Services at Teksouth Corporation, a high end data warehouse and BI consulting company specializing in BI solutions on the Microsoft platform.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35090</importID>
+      <name>Derek Comingore</name>
+      <label>
+      </label>
+      <description>Derek Comingore is a Senior Architect with ComFrame Software, a SQL Server MVP, a certified professional in several Microsoft technologies including SQL Server BI, a speaker at several local  national SQL Server user groups, and is a published author on SQL Server topics. Derek has been using SQL Server since 1999 as a student in relational database classes at the University of North Dakota with version 7.0. Derek focuses on building  delivering enterprise-class data warehousing and business i</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://mvp.support.microsoft.com/profile/Derek.Comingore</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35494</importID>
+      <name>Terry Webster</name>
+      <label>
+      </label>
+      <description>Terry is a Senior Systems Architect for TekSouth Corporation in Birmingham, Alabama and owner of Web Basics.  He has over 20 years experience in software engineering and design.  Terry focuses on Microsoft Technologies and specializes in ASP.NET, VB.NET, VSTO, OBA, Business Intelligence, Sharepoint and other custom solutions.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.webbasics.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35451</importID>
+      <name>Stuart Ainsworth</name>
+      <label>
+      </label>
+      <description>Stuart Ainsworth (MA, MEd) manages a team of Service Reliability Engineers for the Gladiator Enterprise Information Security Services section of Profitstars, a division of Jack Henry and Associates.  He's a former DBA, developer, consultant, and public speaking professor.  He's one of the chapter leaders for AtlantaMDF, and a long-time organizer of SQL Saturday's.  He tweets infrequently (@codegumbo) and blogs even less often at http://codegumbo.com.</description>
+      <twitter>@codegumbo</twitter>
+      <linkedin>https://www.linkedin.com/in/stuartainsworth</linkedin>
+      <ContactURL>http://codegumbo.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@codegumbo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35467</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35459</importID>
+      <name>Tejas Patel</name>
+      <label>
+      </label>
+      <description>Tejas Patel is a Business Intelligence Architect with EyeWonder, LLC. He has 8+ years of experience working in Business Intelligence field. He is a frequent presenter on local and regional technical conferences and events. He has designed and developed enterprise level Business Intelligence Solutions for many fortune 500 companies.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://intenseanalytics.com/default.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35465</importID>
+      <name>Kevin Boles</name>
+      <label>
+      </label>
+      <description>Kevin Boles is a SQL Server expert, working exclusively with the product since v6.5. With over 25 years of database experience and over 45,000 man hours of SQL Server engine experience, he holds many related certifications, is an MCT and was a SQL Server MVP from 2007 to 2012. Kevin has been a very successful independent consultant for over 20 years. His passion is the relational engine, especially designing, building, analyzing and tuning high-performance database applications.</description>
+      <twitter>@TheSQLGuru</twitter>
+      <linkedin>http://www.linkedin.com/in/thesqlguru</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@TheSQLGuru</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34953</importID>
+      <name>Robert Cain</name>
+      <label>
+      </label>
+      <description>Robert C. Cain (http://arcanecode.com) is a Microsoft MVP, MCTS Certified in BI, and is the owner of Arcane Training and Consulting, LLC. He is also a course author for Plurasight, author for Red Gate's SImple Talk website, and co-author of 4 books. A popular speaker, Robert has presented at events such as the SQL PASS Summit, TechEd, CodeStock, and numerous SQL Saturdays. Robert has over 25 years experience in the IT industry, working in a variety of fields ranging from manufacturing to telecommunications to nuclear power.</description>
+      <twitter>https://twitter.com/arcanecode</twitter>
+      <linkedin>http://www.linkedin.com/in/arcanecode</linkedin>
+      <ContactURL>http://arcanecode.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/arcanecode</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35071</importID>
+      <name>Ken Simmons</name>
+      <label>
+      </label>
+      <description>Ken Simmons is a database administrator/developer specializing in SQL Server and .NET. He is the Author of Pro SQL Server 2008 Administration (Apress, 2009) and Pro SQL Server 2008 Mirroring (Apress, 2009). He has been working in the IT industry since 2000 and currently holds certifications for MCP, MCAD, MCSD, MCDBA, and MCTS for SQL 2005.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://cybersql.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>35491</importID>
+      <name>Tim  Roper</name>
+      <label>
+      </label>
+      <description>Tim Roper is a consultant for CTS Inc. He holds MCTS certifications in SQL Server 2005, Biztalk Server 2006 and Business Intelligence. He currently provides IT outsourcing support for clients in the SMB space.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>35090</importID>
+      <speakers>
+        <speaker>
+          <id>35090</id>
+          <name>Derek Comingore</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>BI for a Tough Economy, Data Mining</title>
+      <description>Best Buy does it. American Express does it. Netflix does it. Microsoft is moving data mining from the unique to the routine. SQL Server Analysis Services 2008 and 2005 versions include a robust set of data mining algorithms and tools with which to harvest new insights into YOUR data. Make that marginal sale, discover a murky cost pattern, and find your truly profitable circumstances. Attendees will learn how to use two of the most applicable data mining algorithms included in the SQL Server products. Using the data mining model viewers, attendees will learn how to explore their model results. Through demonstration and lecture, the use of the Profit Chart and Lift Chart attendees will learn how to evaluate the effectiveness of </description>
+      <startTime>5/30/2009 12:00:00 AM</startTime>
+      <endTime>5/30/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35071</importID>
+      <speakers>
+        <speaker>
+          <id>35071</id>
+          <name>Ken Simmons</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Preproduction Tasks</title>
+      <description>This session will cover the tasks you need to perform before you hand over a new SQL Server to production in order to keep the server running smoothly. After this session, you should be able to create a script that best suits your organization in order to make moving a server into production a quick and easy process. While the session is geared towards new systems, many of these preproduction considerations apply to existing SQL Servers as well.</description>
+      <startTime>5/30/2009 12:00:00 AM</startTime>
+      <endTime>5/30/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35491</importID>
+      <speakers>
+        <speaker>
+          <id>35491</id>
+          <name>Tim  Roper</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Revitalizing a neglected SQL Server</title>
+      <description>This session will focus on how a SQL Server installation becomes neglected over time, how to identify neglected components, and how to revitalize the neglected installation. In many cases a client may report specific performance issues or errors, but after investigation, it becomes obvious that the underlying issue is more widespread and results from lack of maintenance or planning. Learn how to survey a  SQL installation for problems, and how to correct them.</description>
+      <startTime>5/30/2009 12:00:00 AM</startTime>
+      <endTime>5/30/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35093</importID>
+      <speakers>
+        <speaker>
+          <id>35093</id>
+          <name>Dean Richards</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Tuna Helper- A Proven Process for Tuning SQL</title>
+      <description>Many DBAs and Developers are faced with tuning poorly performing SQL statements.  However, many tuning projects fail because the process being used is inefficient. This presentation will walk through a process Confio Software uses with great success and will include topics such as: SQL diagramming, wait time data, indexing strategies, column selectivity and several more that will help the you succeed on future tuning projects.</description>
+      <startTime>5/30/2009 12:00:00 AM</startTime>
+      <endTime>5/30/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35495</importID>
+      <speakers>
+        <speaker>
+          <id>35495</id>
+          <name>Terry Webster</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Using Multi-dimensional Data in SSAS in ASP.NET</title>
+      <description>This sessions will demonstrate several methods for querying multi-dimensional data and rendering the results in two-dimensional data controls.  We will cover using both ADOMD.NET and SQL Server stored procedures to retrieve data from SQL Server Analysis Services multi-dimensional cubes.</description>
+      <startTime>5/30/2009 12:00:00 AM</startTime>
+      <endTime>5/30/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31457</importID>
+      <speakers>
+        <speaker>
+          <id>31457</id>
+          <name>Chris Eargle</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>RESTful Data</title>
+      <description>REST is an architectural style that allows for a layered, scalable, and cacheable enterprise information system. With ADO.NET Data Services, a database can be surfaced to a service as a REST-style resource collection that is addressable with natural URIs and can be interacted with using the usual HTTP verbs: GET, POST, PUT, and DELETE.
+
+This session will describe RESTful Data, the benefits it conveys, and its uses. Then we will set up a data service using an existing database that developers would then access rather than accessing the database directly.
+</description>
+      <startTime>5/30/2009 12:00:00 AM</startTime>
+      <endTime>5/30/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35459</importID>
+      <speakers>
+        <speaker>
+          <id>35459</id>
+          <name>Tejas Patel</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Data Mining ASP.Net Controls Library</title>
+      <description>Intent of this session is to demonstrate use of Data Mining Web Controls Library with web applications. Data Mining Web Controls Library is a library intended to extend the data mining user experience in Microsoft SQL Server Analysis Services to the Web. This library provides a lightweight version of the data mining model viewers. Using Data Mining Web Controls, you can browse complex mining models from any computer that has Microsoft Internet Explorer installed.</description>
+      <startTime>5/30/2009 12:00:00 AM</startTime>
+      <endTime>5/30/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35494</importID>
+      <speakers>
+        <speaker>
+          <id>35494</id>
+          <name>Terry Webster</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>ASP.NET Databinding 101</title>
+      <description>This session will demonstrate how easy it is to quickly display your data on a web page with a minimum amount of code. We will cover displaying, editing, deleting and inserting data.</description>
+      <startTime>5/30/2009 12:00:00 AM</startTime>
+      <endTime>5/30/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29132</importID>
+      <speakers>
+        <speaker>
+          <id>29132</id>
+          <name>Brad Marshall</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Getting the warm "Fuzzies" with SSIS</title>
+      <description>This session is an overview of the Fuzzy Grouping and Fuzzy Lookup transformations provided with SQL Server 2008 Enterprise Edition.  We will explore how to use these tools to simplify complicated data quality issues and help standardize data input for BI systems.</description>
+      <startTime>5/30/2009 12:00:00 AM</startTime>
+      <endTime>5/30/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35468</importID>
+      <speakers>
+        <speaker>
+          <id>35468</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SANs and SQL Server</title>
+      <description>Lets get down and dirty on some fundamentals of how SANs work and how we can best utilize them to improve SQL Server's IO performance and reliability.</description>
+      <startTime>5/30/2009 12:00:00 AM</startTime>
+      <endTime>5/30/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34943</importID>
+      <speakers>
+        <speaker>
+          <id>34943</id>
+          <name>Andy Warren</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to SQL Server Statistics</title>
+      <description>This beginner to intermediate level session will introduce you to statistics, including how to create, manage, troubleshoot, and more! Statistics are a key part of getting solid and repeatable performance and is easily just as important as having indexes. Whether you're a DBA or trying to get by without one, this session will give you the information you need to know.</description>
+      <startTime>5/30/2009 12:00:00 AM</startTime>
+      <endTime>5/30/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35465</importID>
+      <speakers>
+        <speaker>
+          <id>35465</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Injection</title>
+      <description>Discussion on various forms of SQL Injection attacks and some guidelines on how to avoid them.</description>
+      <startTime>5/30/2009 12:00:00 AM</startTime>
+      <endTime>5/30/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34953</importID>
+      <speakers>
+        <speaker>
+          <id>34953</id>
+          <name>Robert Cain</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to Data Warehousing with SQL Server</title>
+      <description>Business Intelligence is one of the hot job skills for 2009. In this concepts talk you will learn the concepts behind building and designing data warehouses, and cut through the buzz words so you will walk away with a clear understanding of what words like dimensions, facts, and measures mean. You'll also get a peak at the tools available in SQL Server 2008. </description>
+      <startTime>5/30/2009 12:00:00 AM</startTime>
+      <endTime>5/30/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35467</importID>
+      <speakers>
+        <speaker>
+          <id>35467</id>
+          <name>Kevin Boles</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Disk Partition Alignment/Care and Feeding TempDB</title>
+      <description>EVERYONE can benefit from this presentation!!  Improper disk alignment will rob the server of 15-50% IO throughput capability.  We will cover what disk partition alignment really is, how it affects performance and how you can get it done correctly.  </description>
+      <startTime>5/30/2009 12:00:00 AM</startTime>
+      <endTime>5/30/2009 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>35451</importID>
+      <speakers>
+        <speaker>
+          <id>35451</id>
+          <name>Stuart Ainsworth</name>
+        </speaker>
+      </speakers>
+      <track>SQL Development</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Confessions of a Data Integrator</title>
+      <description>Most database professionals are charged with managing, extracting, and integrating data from sources which were not designed by themselves.  This session focuses on methods of dealing with "somebody else's" design choices, including a focus on dynamic SQL, datetime concerns, and data abstraction.  This should be an interactive session, so feel free to bring your horror stories as well as your ideas for success!</description>
+      <startTime>5/30/2009 12:00:00 AM</startTime>
+      <endTime>5/30/2009 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

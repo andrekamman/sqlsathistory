@@ -1,0 +1,218 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #182 - Istanbul 2012</name>
+    <startDate>12/1/2012 12:00:00 AM</startDate>
+    <attendeeEstimate>300</attendeeEstimate>
+    <timezone>(GMT+02:00) Harare, Pretoria</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat182</twitterHashtag>
+    <venue>
+      <name>Bahcesehir Universitesi - B Konferans Salonu</name>
+      <street>Ciragan Cad. No:4</street>
+      <city>Istanbul</city>
+      <state>, Turkey</state>
+      <zipcode>
+      </zipcode>
+      <longitude>29.0088902</longitude>
+      <latitude>41.0424194</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1173</importID>
+      <name>TCM - Teknoloji Çözümleri Merkezi</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.tcm.com.tr</url>
+      <imageURL>https://www.pass.org/files/9e467770-ce9c-4303-ac54-645b298372f8.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>371</importID>
+      <name>Agilis</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.agilis.com.tr</url>
+      <imageURL>https://www.pass.org/files/a013adab-35a7-49af-9781-11780f29fed2.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>429</importID>
+      <name>BilgeAdam</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.bilgeadam.com</url>
+      <imageURL>https://www.pass.org/files/8c2f1f70-c56a-4dd2-b2e9-094d7fac84ad.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1303</importID>
+      <name>YEMEK SEPETI</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.yemeksepeti.com</url>
+      <imageURL>https://www.pass.org/files/5b56b2c4-8d50-4dd5-b0dd-7b48dd58c68d.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Media Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>83</importID>
+      <name>PluralSight</name>
+      <label>Media Sponsor</label>
+      <url>http://www.pluralsight.com</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2015/11/Pluralsight_logo_novo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>867</importID>
+      <name>MSHOWTO</name>
+      <label>Media Sponsor</label>
+      <url>http://www.mshowto.org</url>
+      <imageURL>https://www.pass.org/files/edea11ff-6099-4d80-ab6e-0959da4fa348.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1030</importID>
+      <name>Seckin</name>
+      <label>Media Sponsor</label>
+      <url>http://www.seckin.com.tr/browser/fa/236948543/sx/6</url>
+      <imageURL>https://www.pass.org/files/fee46f3c-b13d-474f-86b3-cf75c63866d3.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>975</importID>
+      <name>Pusula</name>
+      <label>Media Sponsor</label>
+      <url>http://www.pusula.com</url>
+      <imageURL>https://www.pass.org/files/4600810d-df38-4323-81d9-06a499865a17.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>14927</importID>
+      <name>Hakan M. SUBASI</name>
+      <label>
+      </label>
+      <description>http://www.linkedin.com/in/hmsubasi
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28279</importID>
+      <name>Yigit Aktan</name>
+      <label>
+      </label>
+      <description>Yigit Aktan is a founder and principal consultant of DataDynamic and he has been working in the IT industry since 2000. He specializes in HA amp; DR solutions, performance tuning and optimization of database systems with a focus on scalable, performing and secure deployments. He has been using SQL Server since version 2000. He is president of the PASS Turkey and a SQLSaturday organizer. He has been awarded as SQL Server MVP since 2012. He is a regular speaker at the SQL Server related events.</description>
+      <twitter>@ygtaktn</twitter>
+      <linkedin>https://tr.linkedin.com/in/yigitaktan</linkedin>
+      <ContactURL>http://www.yigitaktan.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@ygtaktn</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27118</importID>
+      <name>Turgay Sahtiyan</name>
+      <label>
+      </label>
+      <description>Turgay Sahtiyan has been working in IT industry over a decade and he currently works as a PMC (Premier Mission Critical) Solution Engineer at Microsoft.He is based in Turkey and primarily giving proactive and reactive services with solution based approach to top enterprise customer in the MEA region.Before joined to Microsoft, he was one of the SQL Server MVP in Turkey,in addition he is founder and former president of SQLPass Turkey Chapter.(Detailed BIO http://www.turgaysahtiyan.com/about.aspx)</description>
+      <twitter>https://twitter.com/turgaysahtiyan</twitter>
+      <linkedin>http://tr.linkedin.com/pub/turgay-sahtiyan/15/b46/682</linkedin>
+      <ContactURL>http://www.turgaysahtiyan.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/turgaysahtiyan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>27118</importID>
+      <speakers>
+        <speaker>
+          <id>27118</id>
+          <name>Turgay Sahtiyan</name>
+        </speaker>
+      </speakers>
+      <track>SQLSaturday #182</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>HA  DR with SQL Server 2012 AlwaysOn</title>
+      <description>The AlwaysOn Availability Groups feature is a high-availability and disaster-recovery solution that provides an enterprise-level alternative to database mirroring. Introduced in SQL Server 2012, AlwaysOn Availability Groups maximizes the availability of a set of user databases for an enterprise. In this session we will talk about what’s coming with Always On, and how does it help to improve high availability and disaster recovery solutions.</description>
+      <startTime>12/1/2012 12:00:00 AM</startTime>
+      <endTime>12/1/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14927</importID>
+      <speakers>
+        <speaker>
+          <id>14927</id>
+          <name>Hakan M. SUBASI</name>
+        </speaker>
+      </speakers>
+      <track>SQLSaturday #182</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server 2008 R2 Parallel Data Warehouse</title>
+      <description>SQL Server 2008 R2 Parallel Data Warehouse Overview
+
+* Parallel Data Warehouse Overview
+* Parallel Shared Nothing Environment
+* Parallel Data Warehouse Architecture
+* Data Rack
+* Control Rack
+* PDW Software Architecture
+</description>
+      <startTime>12/1/2012 12:00:00 AM</startTime>
+      <endTime>12/1/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28279</importID>
+      <speakers>
+        <speaker>
+          <id>28279</id>
+          <name>Yigit Aktan</name>
+        </speaker>
+      </speakers>
+      <track>SQLSaturday #182</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Extended Events in SQL Server 2012</title>
+      <description>Extended Events is an extended event handling system for SQL Server. It has a highly scalable and highly configurable architecture that allows administrators to collect as much or as little information as is necessary to troubleshoot or identify a problem. In this demo-packed session we will undertand the new age of profiling.</description>
+      <startTime>12/1/2012 12:00:00 AM</startTime>
+      <endTime>12/1/2012 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

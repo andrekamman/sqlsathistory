@@ -1,0 +1,477 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #140 - Perth 2012</name>
+    <startDate>4/28/2012 12:00:00 AM</startDate>
+    <attendeeEstimate>80</attendeeEstimate>
+    <timezone>(GMT+08:00) Perth</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat140</twitterHashtag>
+    <venue>
+      <name>New Horizons Learning Centre</name>
+      <street>12/251 Adelaide Terrace</street>
+      <city>Perth</city>
+      <state>, Australia</state>
+      <zipcode>6000</zipcode>
+      <longitude>115.866202</longitude>
+      <latitude>-31.957882</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>895</importID>
+      <name>New Horizons Learning Centres</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.nhaustralia.com.au</url>
+      <imageURL>https://lobsterpot.com.au/files/NewHorizons.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>525</importID>
+      <name>CSG</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.csg.com.au</url>
+      <imageURL>https://www1.vtrenz.net/imarkownerfiles/ownerassets/2069/CSG_MB_FullCol_RGB_170x60.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>8</importID>
+      <name>FusionIO</name>
+      <label>Whole Tour Gold</label>
+      <url>http://www.fusionio.com/solutions/microsoft-sql-server/</url>
+      <imageURL>https://www.sqlsaturday.com/files/18b704b1-226d-48fe-b0b8-f7b4d3443b3d.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>194</importID>
+      <name>LobsterPot Solutions</name>
+      <label>Whole Tour Gold</label>
+      <url>http://lobsterpot.com.au</url>
+      <imageURL>https://lobsterpot.com.au/files/LobsterPot_170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1272</importID>
+      <name>WARDY IT Solutions</name>
+      <label>Whole Tour Gold</label>
+      <url>http://www.wardyit.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/986/EventSponsor_14725.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1090</importID>
+      <name>SQL Down Under</name>
+      <label>Whole Tour Gold</label>
+      <url>http://www.sqldownunder.com/</url>
+      <imageURL>https://www.sqldownunder.com/Portals/0/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Whole Tour Gold</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>3</importID>
+      <name>Idera</name>
+      <label>Whole Tour Silver</label>
+      <url>http://www.idera.com/Content/Home.aspx</url>
+      <imageURL>https://www.sqlsaturday.com/images/SQLSaturday/eventsponsors/IDERA170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1</importID>
+      <name>Confio</name>
+      <label>Whole Tour Bronze</label>
+      <url>http://www.confio.com</url>
+      <imageURL>https://www.pass.org/images/resized-confio_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>247</importID>
+      <name>ReadyRoll</name>
+      <label>Whole Tour Bronze</label>
+      <url>http://ready-roll.com/</url>
+      <imageURL>https://ready-roll.com/img/rr-sm-whitebg.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1149</importID>
+      <name>StrataDB</name>
+      <label>Whole Tour Bronze</label>
+      <url>http://www.stratadb.com/</url>
+      <imageURL>https://www.stratadb.com/StrataDB.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1087</importID>
+      <name>SQL Concepts</name>
+      <label>Whole Tour Friend</label>
+      <url>http://www.sqlconcepts.co.nz/</url>
+      <imageURL>https://www.sqlconcepts.co.nz/images/logo-100x40.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>103</importID>
+      <name>AucklandSQL</name>
+      <label>Whole Tour Friend</label>
+      <url>http://aucklandsql.com</url>
+      <imageURL>https://aucklandsql.com/SQLSaturday/AucklandSQL.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>820</importID>
+      <name>McGraw-Hill Education Australia  New Zealand</name>
+      <label>Whole Tour Friend</label>
+      <url>http://www.mcgraw-hill.com.au/</url>
+      <imageURL>https://www.mcgraw-hill.com.au/images/home/mgh_education.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>9062</importID>
+      <name>Peter O'Gorman</name>
+      <label>
+      </label>
+      <description>Peter O'Gorman is a Business Intelligence consultant currently working in Queensland, Australia on a large Water Utility Asset Consolidation Project.  Peter is passionate about helping people unlock the value in their data.  Coming from a DBA background, Peter understands that DBA's are people too and can also reap all of the benefits that a self service business intelligence solution can provide.
+ 
+Linked in
+http://au.linkedin.com/in/popbi
+Blog
+http://popbi.wordpress.com</description>
+      <twitter>@peterogorman</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://popbi.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@peterogorman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22381</importID>
+      <name>Paul te Braak</name>
+      <label>
+      </label>
+      <description>Paul te Braak is the principle consultant of abaX Data and has over a decade of experience in delivering reporting and business intelligence solutions across a variety of verticals.  This experience includes systems auditing, planning and business simulation models that predict activity through heuristic rules imbedded into the model.  He holds several qualifications including MCT, CA, MIT, MComm. </description>
+      <twitter>@paultebraak</twitter>
+      <linkedin>http://www.linkedin.com/in/paultebraak</linkedin>
+      <ContactURL>http://www.paultebraak.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@paultebraak</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10412</importID>
+      <name>Bhavik Merchant</name>
+      <label>
+      </label>
+      <description>Bhavik is a Microsoft vTSP for BI, leads a national team of consultants and has over 7 years of experience across the entire Microsoft BI stack.  
+
+He speaks regularly at public events and has presented a theatre session at Microsoft TechEd and topics at various Sharepoint Saturday and SQL Saturday events around Australia. He also presents at Sharepoint and SQL Server User Groups and for the PASS BI Virtual Chapter. 
+
+He has been delivering formal training for over 3 years, teaching classes on SSAS, SSRS, SSIS, PowerPivot and Sharepoint BI.
+
+He has a genuine and zealous passion for Microsoft BI and the value it can bring to business when implemented correctly!
+</description>
+      <twitter>@BhavikMerchant</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://bhavikmerchant.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@BhavikMerchant</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14828</importID>
+      <name>Greg Low</name>
+      <label>
+      </label>
+      <description>Greg Low is well-known in the SQL Server community as a mentor, trainer, author, and community leader. He is a certified master for SQL Server, was an instructor in that program, and holds a PhD in Computer Science. Microsoft often calls on Greg to develop data-related content, and to train their staff. He regularly speaks at tier-one conferences internationally. Greg is best known for his SQL Down Under podcast, SDU Tools, and his eBooks and whitepapers. He heads up a boutique consultancy called SQL Down Under in Melbourne Australia. Greg has been awarded as an MVP since 2001.</description>
+      <twitter>greglow</twitter>
+      <linkedin>http://www.linkedin.com/in/greglow</linkedin>
+      <ContactURL>http://blog.greglow.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=greglow</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23189</importID>
+      <name>Rob Farley</name>
+      <label>
+      </label>
+      <description>Rob Farley runs LobsterPot Solutions in Australia, where he's a consultant in the Microsoft Data Platform and Analytics space. He's been an MVP since 2006, probably because of his blogging, his presentations around the world, and his dedication to the Adelaide Data  Analytics User Group which he has led since before the release of SQL Server 2005. He's on Twitter at @rob_farley, but you can always email him using rob@lobsterpot.com.au</description>
+      <twitter>rob_farley</twitter>
+      <linkedin>http://au.linkedin.com/in/robfarley/</linkedin>
+      <ContactURL>http://blogs.lobsterpot.com.au</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=rob_farley</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21519</importID>
+      <name>Raja N</name>
+      <label>
+      </label>
+      <description>TBC</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22060</importID>
+      <name>Peter Ward</name>
+      <label>
+      </label>
+      <description>Peter Ward is WARDY IT Solutions Chief Technical Architect. Peter's credentials and achievements include being a highly regarded speaker at SQL Server events; a sought after SQL Server consultant and trainer providing solutions for some of the largest SQL Server sites in Australia. Peter has been recognised as a Microsoft Most Valuable Professional for his technical excellence and commitment to the SQL Server Community.</description>
+      <twitter>@wardy</twitter>
+      <linkedin>http://au.linkedin.com/in/petersward/</linkedin>
+      <ContactURL>http://wardyit.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@wardy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23192</importID>
+      <name>Rob Farley</name>
+      <label>
+      </label>
+      <description>Rob Farley runs LobsterPot Solutions in Australia, where he's a consultant in the Microsoft Data Platform and Analytics space. He's been an MVP since 2006, probably because of his blogging, his presentations around the world, and his dedication to the Adelaide Data  Analytics User Group which he has led since before the release of SQL Server 2005. He's on Twitter at @rob_farley, but you can always email him using rob@lobsterpot.com.au</description>
+      <twitter>rob_farley</twitter>
+      <linkedin>http://au.linkedin.com/in/robfarley/</linkedin>
+      <ContactURL>http://blogs.lobsterpot.com.au</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=rob_farley</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22380</importID>
+      <name>Paul te Braak</name>
+      <label>
+      </label>
+      <description>Paul te Braak is the principle consultant of abaX Data and has over a decade of experience in delivering reporting and business intelligence solutions across a variety of verticals.  This experience includes systems auditing, planning and business simulation models that predict activity through heuristic rules imbedded into the model.  He holds several qualifications including MCT, CA, MIT, MComm. </description>
+      <twitter>@paultebraak</twitter>
+      <linkedin>http://www.linkedin.com/in/paultebraak</linkedin>
+      <ContactURL>http://www.paultebraak.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@paultebraak</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10411</importID>
+      <name>Bhavik Merchant</name>
+      <label>
+      </label>
+      <description>Bhavik is a Microsoft vTSP for BI, leads a national team of consultants and has over 7 years of experience across the entire Microsoft BI stack.  
+
+He speaks regularly at public events and has presented a theatre session at Microsoft TechEd and topics at various Sharepoint Saturday and SQL Saturday events around Australia. He also presents at Sharepoint and SQL Server User Groups and for the PASS BI Virtual Chapter. 
+
+He has been delivering formal training for over 3 years, teaching classes on SSAS, SSRS, SSIS, PowerPivot and Sharepoint BI.
+
+He has a genuine and zealous passion for Microsoft BI and the value it can bring to business when implemented correctly!
+</description>
+      <twitter>@BhavikMerchant</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://bhavikmerchant.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@BhavikMerchant</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>21519</importID>
+      <speakers>
+        <speaker>
+          <id>21519</id>
+          <name>Raja N</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>DBCA - Database Consolidation Appliance</title>
+      <description>Gain insights into SQL Server Database Consolidation Appliance (DBCA), first appliance in the industry specifically designed to meet the challenge of database sprawl and help customers regain control of their SQL Server environments. Come and Learn more about this pre-built hardware and management software and how to  accelerate the consolidation efforts and eliminate the complexity of managing the database infrastructure for thousands of SQL instances while maintaining an highly performing environment at the same time.  </description>
+      <startTime>4/28/2012 12:00:00 AM</startTime>
+      <endTime>4/28/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>10412</importID>
+      <speakers>
+        <speaker>
+          <id>10412</id>
+          <name>Bhavik Merchant</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Migrating Config and Deployment to SSIS 2012</title>
+      <description>In SQL 2012, SSIS has had its largest facelift since SQL 2005. A raft of new features have been introduced, and the most significant of them from an ETL framework perspective is the new Project Deployment model. This completely redefines how we could architect and deploy our solutions with configurations supporting multiple environments. It also raises some concerns around upgrading/migrating older solutions.This session briefly looks at common approaches for configuration management in SQL 2008R2. The new 2012 deployment and configuration model is then introduced and we look at how to best migrate these legacy configurations over. </description>
+      <startTime>4/28/2012 12:00:00 AM</startTime>
+      <endTime>4/28/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9062</importID>
+      <speakers>
+        <speaker>
+          <id>9062</id>
+          <name>Peter O'Gorman</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>X-ray Vision For SQL Server Error Logs</title>
+      <description>In this session we explore the full potential of the SQL Server Error Log.   The error log is painful to sift through at best, so we turn to Business Intelligence to provide us with an insightful 30,000 view of the error log, and will be amazed at what we can see !We will cover how to extract the error log into a SQL Server database, transform this into a dimensional model where we can apply powerful Analytics and Time Intelligence, and provide insightful visualisations of our errors.   The demonstration will use the SQL Server 2012 Sharepoint platform to demonstrate the pillars of Business Intelligence can be used to benefit DBA's specifically.</description>
+      <startTime>4/28/2012 12:00:00 AM</startTime>
+      <endTime>4/28/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22060</importID>
+      <speakers>
+        <speaker>
+          <id>22060</id>
+          <name>Peter Ward</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>If you had $10K what would you spend it on?</title>
+      <description>You are looking at the Bill of Materials for the new shiny server that you are going to purchase for SQL Server and you realise that there is still $10,000 in the hardware budget - how do you spend it?  Do you increase the core density, maybe increase the RAM or maybe even look at adding some solid state storage to the storage array.  In this session we will explore how some small hardware investments made in the right place can pimp your next SQL Server deployment. 
+</description>
+      <startTime>4/28/2012 12:00:00 AM</startTime>
+      <endTime>4/28/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>10411</importID>
+      <speakers>
+        <speaker>
+          <id>10411</id>
+          <name>Bhavik Merchant</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Accelerated BI Growth with Power View  PowerPivot</title>
+      <description>It is a known fact that a low rate of user adoption is a major issue in less than successful BI implementations. The most significant cause could arguably be the lack of simple, intuitive and flexible tools at the reporting/presentation layer. With PowerPivot, Microsoft gave us an easy way to mash-up data models, create Excel reports and surface them through Sharepoint.Now, with Power View in SQL 2012 we have an easy, sexy and compelling way for true business users visualise and present this information. With interactive demos you will learn about Power View, understand its dependencies, learn data model design tips and be made aware of any pitfalls and limitations.</description>
+      <startTime>4/28/2012 12:00:00 AM</startTime>
+      <endTime>4/28/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>23189</importID>
+      <speakers>
+        <speaker>
+          <id>23189</id>
+          <name>Rob Farley</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Analytic T-SQL Functions in 2012</title>
+      <description>There are a bunch of new T-SQL functions in SQL Server 2012, and as usual  there's a combination of the "this is really useful" and the "...but there's a caveat". In this presentation, Rob will take you through the new analytic functions, show you how they seriously enhance your reporting ability, and show you some of the ways that they don't behave the way you might expect. You may not be using SQL Server 2012 yet, but you're bound to recognise some of the problems that these functions solve.</description>
+      <startTime>4/28/2012 12:00:00 AM</startTime>
+      <endTime>4/28/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>23192</importID>
+      <speakers>
+        <speaker>
+          <id>23192</id>
+          <name>Rob Farley</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The MERGE Statement - T-SQL's Swiss Army Knife</title>
+      <description>Despite being around since SQL Server 2008 MERGE is one of the most underappreciated features in T-SQL. In many ways it's the Swiss Army Knife, able to be used in many different situations. It's not without it's frustrations though, and you'll see both sides of this useful tool in this presentation.</description>
+      <startTime>4/28/2012 12:00:00 AM</startTime>
+      <endTime>4/28/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22380</importID>
+      <speakers>
+        <speaker>
+          <id>22380</id>
+          <name>Paul te Braak</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Tabular Modelling and Design Concepts</title>
+      <description>Analysis Service in SQL2012 introduces the Vertipac engine and the tabular model.  While the tabular model is delivered through SSAS, the model offers some unique design opportunities for users who would otherwise design a dimensional OLAP solution.  This session looks at tabular modelling by comparing it to the multidimensional model.  We address some of the advantages, considerations and restrictions of the tabular model and examine how the limitations of the native model can be overcome with DAX (the tabular query language). </description>
+      <startTime>4/28/2012 12:00:00 AM</startTime>
+      <endTime>4/28/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22381</importID>
+      <speakers>
+        <speaker>
+          <id>22381</id>
+          <name>Paul te Braak</name>
+        </speaker>
+      </speakers>
+      <track>Business Intelligence</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Golden Nuggets </title>
+      <description>Too much data to think about and no idea where to start?  Let the machine to the thinking and give data mining a try!  This presentation looks into data mining: what it is, how to get it up and running, how to know if it makes any sense and (more importantly) how the use it.  We look at the development and evaluation of models and then put them to work so they can be used to produce tangible benefits for your end users. </description>
+      <startTime>4/28/2012 12:00:00 AM</startTime>
+      <endTime>4/28/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14828</importID>
+      <speakers>
+        <speaker>
+          <id>14828</id>
+          <name>Greg Low</name>
+        </speaker>
+      </speakers>
+      <track>SQL Server</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Better Together: Merge, Partitioning, ColumnStore </title>
+      <description>Most SQL Server sessions are based around individual features but SQL Server really shines when you start to combine features. In this session, Greg will provide an introduction to ColumnStore indexes, review Table Partitioning and Merge and show how to combine these features to improve query performance while still being able to load data warehouse data quickly.</description>
+      <startTime>4/28/2012 12:00:00 AM</startTime>
+      <endTime>4/28/2012 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

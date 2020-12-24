@@ -1,0 +1,51 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #428 - Beijing 2015</name>
+    <startDate>7/25/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>(GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatBeijing</twitterHashtag>
+    <venue>
+      <name>3nd Floor Microsoft Tower, LSH Plaza</name>
+      <street>8 Wangjing Street, Chaoyang District</street>
+      <city>Beijing</city>
+      <state>, China</state>
+      <zipcode>100102</zipcode>
+      <longitude>116.4431079</longitude>
+      <latitude>39.92147</latitude>
+    </venue>
+  </guide>
+  <speakers>
+    <speaker>
+      <importID>36315</importID>
+      <name>Mark Skiles</name>
+      <label>
+      </label>
+      <description>Mark Skiles is a (BI) Solutions Architect with Architect IT in Des Moines, IA.  He and his wife live in Carlisle, IA.  He is an international consultant and has worked for EDS in Taiwan and traveled extensively in China and Southeast Asia.  He has over 28 years of technology experience and has worked with SQL server since 1995.  His areas of interest are designing and integrating large scale databases and continual improvement in the presentation of data – ways to turn data into decisions.  </description>
+      <twitter>
+      </twitter>
+      <linkedin>?https://www.linkedin.com/in/insightstoaction?</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>38012</importID>
+      <name>JiWei Gao</name>
+      <label>
+      </label>
+      <description>Over 10 years with SQL Server.Expert at SQL Server performance optimization , data platform architecture design ,database high availability and scale-out solution plan.Willing to sharing knowledge and experience in my part time.
+</description>
+      <twitter>https://twitter.com/shankgaojw</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.cnblogs.com/shanksgao/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/shankgaojw</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+</GuidebookXML>

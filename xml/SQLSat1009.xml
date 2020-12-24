@@ -1,0 +1,231 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #1009 – Gazipur – Virtual 2020</name>
+    <startDate>9/26/2020 12:00:00 AM</startDate>
+    <attendeeEstimate>80</attendeeEstimate>
+    <timezone>
+    </timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatGazipur</twitterHashtag>
+    <venue>
+      <name>Meghbari Resort</name>
+      <street>Nagarvella , Ulokhola Kaligong, Gazipur, Bangladesh.</street>
+      <city>Gazipur</city>
+      <state>Dhaka Division, Bangladesh</state>
+      <zipcode>1720</zipcode>
+      <longitude>90.4739003</longitude>
+      <latitude>23.8869082</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1009/EventSponsor_14822.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2696</importID>
+      <name>Melissa</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>http://www.melissa.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1009/EventSponsor_14877.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2678</importID>
+      <name>Google Cloud</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://cloud.google.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1009/EventSponsor_14823.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2689</importID>
+      <name>Red Hat</name>
+      <label>Global SQLSaturday Supporter</label>
+      <url>https://www.redhat.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1009/EventSponsor_14825.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>107874</importID>
+      <name>Saifullah Azad</name>
+      <label>
+      </label>
+      <description>Hi, This is Azad from Bangladesh.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107876</importID>
+      <name>Kamrul Hasan</name>
+      <label>
+      </label>
+      <description>My work area mostly revolves around modern day Cloud Computing. I have good working experience with AWS cloud platform. For the last few years, I've been building ML driven solutions backed by Big Data technologies. My engagements covers a board range of responsibilities like working as DevOps for travel applications to developing Analytics  Visualizations for Garments ERP solutions  leading Cloud Computing  Big Data Team to ensure customer success. I also advocate adoption of serverless architecture for modern software applications at Public Speakings.
+
+I studied Applied Physics at University of Dhaka, dreamed to be a Physicist but ended up being a software engineer by profession.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/hasan19/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107875</importID>
+      <name>A. Z. M. Jannat-ul Karim</name>
+      <label>
+      </label>
+      <description>With more than a decade of project management and process improvement experience in software development and deployment for manufacturing and distribution businesses, Karim has proven to be an invaluable resource providing oversight during ERP development and implementation projects. 
+ERP implementations require a large and varied array of skills and capabilities in order to be successful.  Businesses undertaking ERP transformations find it difficult to assemble project teams that possess sufficient skills, including ERP implementation experience. Having worked with various group of companies, analyzing and addressing ERP, Karim has provided businesses with the competencies that they don’t possess.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/in/azmkarim</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107878</importID>
+      <name>Doly Akter</name>
+      <label>
+      </label>
+      <description>I am Doly Akter. I am working as a Senior Software Engineer of Southtech Group– one of the largest software company in Bangladesh. It is CMMI level-5 Dev V2.0 and ISO Certified Organization. I have over 4 years of working experience in the field of software design and development as well as project management in Microfinance solution. I am a blogger by passion on share the knowledge and other technical stuff on Microsoft technology. I have been completed my graduation in Computer Science  Engineering from IUBAT and M.Sc Eng. in Computer Science  Engineering from Jahangirnagar University. I have been recently achieved CMMI Associate certification Dev V2.0.  I have been worked on many enterprise applications and skilled in Microsoft Technol</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108170</importID>
+      <name>Rifat Jahan Azad</name>
+      <label>
+      </label>
+      <description>I am a tech enthusiastic and like to explore new technologies. Specially interested in cloud technologies and AI solutions and algorithms.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107767</importID>
+      <name>Ronen Ariely</name>
+      <label>
+      </label>
+      <description>Ronen Ariely is a senior consultant, an applications  data architect. He has more than 15 years' experience in variety programming languages and technologies, leading development teams and software companies in enterprise level solutions in the fields of Data Platforms, BI, and developing. Ronen is active in communities (aka pituach) in the fields of Microsoft Azure, SQL Server, T-SQL, and Dot.Net programming. He serves as Moderator at MSDN and as one of the Microsoft TechNet WIKI communities' leaders. Ronen writes technical blogs, TechNet articles and blogs, he is co-admin of Microsoft's blogs "TechNet WIki" and "MSDN Forum", and has been awarded as Microsoft Most Valuable Professional.</description>
+      <twitter>https://twitter.com/pitoach</twitter>
+      <linkedin>https://il.linkedin.com/in/pitoach</linkedin>
+      <ContactURL>http://ariely.info/Blog/tabid/83</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/pitoach</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108315</importID>
+      <name>Enamul Chowdhury</name>
+      <label>
+      </label>
+      <description>Backend programmer for in house software development</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/enamul-hoque-chowdhury-349a916/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107877</importID>
+      <name>MD BASHIRUL ISLAM SOHEL</name>
+      <label>
+      </label>
+      <description>Consultant, Department of BI, Senior Software and Database Architect, Database Administrator, Financial Solution Department.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107882</importID>
+      <name>Mahid Choudhury</name>
+      <label>
+      </label>
+      <description>Bio About Mahid Choudhury</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/mahidcse/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>108194</importID>
+      <name>ANDREW MINKIN</name>
+      <label>
+      </label>
+      <description>Drew Minkin begin his data science career in 2010 with MS_SQL.   He has been an active speaker at the MS Business Intelligence Community, North Texas SQL Server User's Group and SQL Saturday events across the country , for four years, He worked at Microsoft in SQL Support and in Premier Field Engineering for over six years. After leaving Microsoft, Drew has designed and supported advanced analytics for dozens of Fortune 500 companies in dozens of business areas.</description>
+      <twitter>madmanminkin</twitter>
+      <linkedin>https://www.linkedin.com/in/drew-minkin-a50b285/</linkedin>
+      <ContactURL>http://dataminkin.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=madmanminkin</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>107547</importID>
+      <name>M A A Mehedi Hasan</name>
+      <label>
+      </label>
+      <description>This is M A A Mehedi Hasan working in EBS Group since 2005. Starting career as a Software Developer, I am now Chief Technology Officer (CTO) of EBS Group. In this long journey, I have got opportunity to work with various technologies like Microsoft Data Platform, Telecom Value Added Service, and Audio/Video streaming.
+
+I have hands-on experience in managing Telecom Value Added projects, Web/App/Audio/Video streaming projects. Apart from these, I also manage large database, testing and deployment, performance tuning, long term capacity planning, and streamlining operational workflow.
+
+Being a member of techforumbd,  I regularly speak and organize sessions at local and virtual PASS chapters, SQL Saturdays, and Azure conferences.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/m-a-a-mehedi-hasan-0956298a</linkedin>
+      <ContactURL>https://www.techearth.xyz</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+</GuidebookXML>

@@ -1,0 +1,463 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #417 - Sri Lanka 2015</name>
+    <startDate>6/6/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>150</attendeeEstimate>
+    <timezone>(GMT+06:00) Astana, Dhaka</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatSriLanka</twitterHashtag>
+    <venue>
+      <name>CIDA</name>
+      <street>"Sausiripaya" 123 Wijerama Mawatha</street>
+      <city>Colombo</city>
+      <state>Western, Sri Lanka</state>
+      <zipcode>00700</zipcode>
+      <longitude>79.8730821609497</longitude>
+      <latitude>6.90738833306928</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1376</importID>
+      <name>Microsoft Sri Lanka</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-lk/default.aspx</url>
+      <imageURL>https://www.pass.org/files/692afc15-2ca0-4607-a1b2-4f98eafd4f15.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>83</importID>
+      <name>PluralSight</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.pluralsight.com</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2015/11/Pluralsight_logo_novo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>876</importID>
+      <name>Navantis Inc.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.navantis.com</url>
+      <imageURL>https://www.navantis.com/page%20images/logos_SL/navantis_170_60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1266</importID>
+      <name>Virtusa Pvt. Ltd</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.virtusa.com</url>
+      <imageURL>https://www.virtusa.com/downloads/media/VirtusaLogo-JPG.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1434</importID>
+      <name>NetAssist International</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.netassist.com.lk</url>
+      <imageURL>https://www.netassist.com.lk/images/logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1423</importID>
+      <name>Tech One Global (Pvt) Ltd</name>
+      <label>Bronze Raffle Sponsor</label>
+      <url>http://www.techonelearning.com</url>
+      <imageURL>https://p6plpw.bn1304.livefilestore.com/y2mJdAhLEm9goU6ruTcwUwrbPmciKn0IFOtVv0WtscAe8bkhQG186bPc4LCWO3kJkpLVC6rsqMptHsmS8dTEO0QCzGnExW-7ui31xxYgQ0nTv94fI1vWEbB2C_4RTYBGvTQFu0sgZo1R889x6zFeKOt0QlO1gvJZh8mjWw74xdbv14/Tech%20One%20Learning.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1437</importID>
+      <name>HTN Information Systems (Pvt) Ltd</name>
+      <label>Crystal Raffle Sponsor</label>
+      <url>http://www.htnsys.com</url>
+      <imageURL>https://www.htnsys.com/wp-content/uploads/2012/05/new-HTN-Logo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1292</importID>
+      <name>Wiley / Wrox</name>
+      <label>Swag sponsor</label>
+      <url>http://www.wrox.com</url>
+      <imageURL>https://www.wileyindia.com/media/wysiwyg/wrox_logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>21415</importID>
+      <name>Nilabja Ball</name>
+      <label>
+      </label>
+      <description>Nilabja is a Premier Field Engineer for Microsoft Global Business Support (GBS), India. He has more than 8 years of SQL Server and BI experience. He is engaged with the customer either for proactive activities including health check, assessment and support or for reactive tasks to troubleshoot and fix complex and critical issues. He has an engineering degree from Visvesvaraya technological university and keen to learn new technologies.
+
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36654</importID>
+      <name>Indika Ariyasinghe</name>
+      <label>
+      </label>
+      <description>I am working as a Associate Architect - Technology for Virtusa. My tenure at Virtusa is more than 11 years. I am holding a Software Engineering Degree from University of Peradeniya, Faculty of Engineering </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21416</importID>
+      <name>Nilabja Ball</name>
+      <label>
+      </label>
+      <description>Nilabja is a Premier Field Engineer for Microsoft Global Business Support (GBS), India. He has more than 8 years of SQL Server and BI experience. He is engaged with the customer either for proactive activities including health check, assessment and support or for reactive tasks to troubleshoot and fix complex and critical issues. He has an engineering degree from Visvesvaraya technological university and keen to learn new technologies.
+
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10492</importID>
+      <name>Prabhakaran Bhaskaran</name>
+      <label>
+      </label>
+      <description>Prabhakaran is SQL Server consultant at Pythian, a company based in Ottawa, Canada, specializing in Remote database services. He is former SQL Server Support Engineer at Microsoft. He always loves to learn and share his knowledge.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.pythian.com/blog/author/Bhaskaran/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36538</importID>
+      <name>Dinesh Priyankara</name>
+      <label>
+      </label>
+      <description>Dinesh is an experienced professional and database enthusiast with skills in database management systems and business intelligence. Possessing over 18 years of experience on data related technologies, he does training, consulting, and is a top contributor to the local SQL Server community. In recognition of his contributions and expertise he has demonstrated, he was awarded the Microsoft Most Valuable Professional (MVP) award for SQL Server for 13 consecutive years since 2006.
+He is a Subject Matter Expert on SQL Server exams and has contributed for SQL Server 2012, 2016, 2017 and Azure Data Engineering exam development and Job Task Analysis (JTA).
+Dinesh is the Founder/Principal Architect of dinesQL (Pvt) Ltd (http://dinesql.com). In his</description>
+      <twitter>http://twitter.com/dinesh_priya</twitter>
+      <linkedin>http://lk.linkedin.com/in/dineshpriyankara/</linkedin>
+      <ContactURL>http://dinesql.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/dinesh_priya</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36173</importID>
+      <name>Pinal Dave</name>
+      <label>
+      </label>
+      <description>Pinal Dave is a SQL Server Performance Tuning Expert and an independent consultant. He has authored 12 SQL Server database books, 30 Pluralsight courses and has written over 5000 articles on the database technology on his blog at a https://blog.sqlauthority.com. Along with 16+ years of hands-on experience, he holds a Masters of Science degree and a number of database certifications.</description>
+      <twitter>pinaldave</twitter>
+      <linkedin>http://www.linkedin.com/in/pinaldave</linkedin>
+      <ContactURL>https://blog.sqlauthority.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pinaldave</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>37115</importID>
+      <name>Pinal Dave</name>
+      <label>
+      </label>
+      <description>Pinal Dave is a SQL Server Performance Tuning Expert and an independent consultant. He has authored 12 SQL Server database books, 30 Pluralsight courses and has written over 5000 articles on the database technology on his blog at a https://blog.sqlauthority.com. Along with 16+ years of hands-on experience, he holds a Masters of Science degree and a number of database certifications.</description>
+      <twitter>pinaldave</twitter>
+      <linkedin>http://www.linkedin.com/in/pinaldave</linkedin>
+      <ContactURL>https://blog.sqlauthority.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pinaldave</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36650</importID>
+      <name>Vijayakumar Thurupathan</name>
+      <label>
+      </label>
+      <description>Thuru is a versatile technical person who has diversified experience in many areas of Information Technology for 6 years. Cloud computing, security, software development, business intelligence and databases are his most preferred technology areas. 
+
+He is a frequent speaker in Sri Lanka .NET forum and Sri Lanka SQL Server Universe user groups. Thuru is the founder of Colombo Cloud Meet Up where he often talks about various cloud computing topics. Also he is a Microsoft MVP for Microsoft Azure.
+</description>
+      <twitter>thurutweets</twitter>
+      <linkedin>http://lk.linkedin.com/in/thuru/</linkedin>
+      <ContactURL>http://www.thuru.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=thurutweets</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36000</importID>
+      <name>Gogula Aryalingam</name>
+      <label>
+      </label>
+      <description>Gogula is a data analytics professional from Sri Lanka, with 14+ years on the Microsoft data platform. He has worked with many aspects of data analytics and BI solutions from architecting, designing, developing and consulting across various industries and verticals. He is Regional Mentor for PASS South Asia, Data Platform MVP, MCSE, former MCT, and MSc in IT. Gogula's passion revolves data analytics and BI; hence enjoys writing, teaching and speaking about the things he works with. He was also involved as an SME for Microsoft certification development. He currently juggles his full time job as Lead Architect while speaking at local and foreign events, along with regular stints at the Sri Lankan Data Community which he co-founded.</description>
+      <twitter>http://www.twitter.com/gogula</twitter>
+      <linkedin>http://www.linkedin.com/in/gogula</linkedin>
+      <ContactURL>http://datamaul.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://www.twitter.com/gogula</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36174</importID>
+      <name>Pinal Dave</name>
+      <label>
+      </label>
+      <description>Pinal Dave is a SQL Server Performance Tuning Expert and an independent consultant. He has authored 12 SQL Server database books, 30 Pluralsight courses and has written over 5000 articles on the database technology on his blog at a https://blog.sqlauthority.com. Along with 16+ years of hands-on experience, he holds a Masters of Science degree and a number of database certifications.</description>
+      <twitter>pinaldave</twitter>
+      <linkedin>http://www.linkedin.com/in/pinaldave</linkedin>
+      <ContactURL>https://blog.sqlauthority.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=pinaldave</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36522</importID>
+      <name>Sammani Palansuriya</name>
+      <label>
+      </label>
+      <description>Sammani Palansuriya is a Visual C#.net MVP in Sri Lanka with more than 5 years#39; experience in various aspects of .net technologies. Currently she is stationed as a Senior Software Engineer at Exilesoft and working on projects based on asp.net and azure technologies. </description>
+      <twitter>
+      </twitter>
+      <linkedin>https://lk.linkedin.com/in/sammanipalansuriya</linkedin>
+      <ContactURL>http://sammanipalansuriya.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>10492</importID>
+      <speakers>
+        <speaker>
+          <id>10492</id>
+          <name>Prabhakaran Bhaskaran</name>
+        </speaker>
+      </speakers>
+      <track>Database Engine</track>
+      <location>
+        <name>Seminar Room 4 (50 persons)</name>
+      </location>
+      <title>Inside Transactional Replication</title>
+      <description>You can probably do a good job in configuring and maintaining transactional replication in your environment. You can get these things done with reasonable quality without knowing how SQL Server does things under the covers. However if you want to take your skills to the next level and troubleshoot complex replication issues, it's crucial to know how transactional replication works internally.
+
+This session will answers questions like; How does the log reader know where to start the scan? How does it add the commands to the Distribution database? How many threads are involved in a replication process? How does distribution agent look for pending transactions to distribute to its subscribers? Knowing all these will help you to manage and troubleshoot the replication very effectively. Come lets learn together!</description>
+      <startTime>6/6/2015 10:45:00 AM</startTime>
+      <endTime>6/6/2015 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>36173</importID>
+      <speakers>
+        <speaker>
+          <id>36173</id>
+          <name>Pinal Dave</name>
+        </speaker>
+      </speakers>
+      <track>Database Engine</track>
+      <location>
+        <name>Auditorium (220 persons)</name>
+      </location>
+      <title>Performance in 60 Seconds - SQL Tricks Everybody MUST Know</title>
+      <description>Data and Database are very important aspects of application development for businesses. Developers often come across situations where they face a slow server response, even though their hardware specifications are above par. This session is for all the Developers who want their server to perform at blazing fast speed, but want to invest very little time to make it happen. We will go over various database tricks which require absolutely no time to master and require practically no SQL coding at all. After attending this session, Developers will only need 60 seconds to improve performance of their database server in their implementation. We will have a quiz during the session to keep the conversation alive. Developers will walk out with scripts and knowledge that can be applied to their servers, immediately post the session. </description>
+      <startTime>6/6/2015 9:30:00 AM</startTime>
+      <endTime>6/6/2015 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>36000</importID>
+      <speakers>
+        <speaker>
+          <id>36000</id>
+          <name>Gogula Aryalingam</name>
+        </speaker>
+      </speakers>
+      <track>Data Analytics</track>
+      <location>
+        <name>Seminar Room 4 (50 persons)</name>
+      </location>
+      <title>Telling Stories with Data</title>
+      <description>Data is all around us; it is in bits and pieces; it is in shapeless chunks. These data can tell us stories. Organizations have loads of these data lying around, but seldom make use of it. Modern data analytics methods however, give us a plethora of methods to access this data, mash them up and tell stories using them. Stories, that can help make effective decisions.
+
+This session looks at how you could collect data from the various sources in your organization, combine them, process them and tell stories using the wealth of tools given to us by Microsoft. Words you would hear are business intelligence, self-service data analytics and big data.</description>
+      <startTime>6/6/2015 2:00:00 PM</startTime>
+      <endTime>6/6/2015 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>36654</importID>
+      <speakers>
+        <speaker>
+          <id>36654</id>
+          <name>Indika Ariyasinghe</name>
+        </speaker>
+      </speakers>
+      <track>Data Analytics</track>
+      <location>
+        <name>Seminar Room 4 (50 persons)</name>
+      </location>
+      <title>Enterprise MS BI for everyone, The Journey So Far</title>
+      <description>Virtusa is a rapidly evolving company with diverse business intelligence needs spanning all level of the organization; from CxOs to Engineers (numbering around 8000 employees); from mobile devices to public area dashboards. In this session, I will share with you the challenges faced and how we have over come them so far, and plans for beyond future.</description>
+      <startTime>6/6/2015 3:15:00 PM</startTime>
+      <endTime>6/6/2015 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>21416</importID>
+      <speakers>
+        <speaker>
+          <id>21416</id>
+          <name>Nilabja Ball</name>
+        </speaker>
+      </speakers>
+      <track>Database Engine</track>
+      <location>
+        <name>Auditorium (220 persons)</name>
+      </location>
+      <title>SQL Server 2014 In-Memory Overview </title>
+      <description>Overview of the in-memory technologies which are included in SQL Server 2014. We will cover In-Memory OLTP (AKA "Hekaton"), In-Memory Data Warehousing (AKA "Apollo") as well as SSD Buffer Pool Extensions. This session will give understanding of the broad in-memory strategy as well as a basic understanding of the technologies involved.</description>
+      <startTime>6/6/2015 12:00:00 PM</startTime>
+      <endTime>6/6/2015 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>36174</importID>
+      <speakers>
+        <speaker>
+          <id>36174</id>
+          <name>Pinal Dave</name>
+        </speaker>
+      </speakers>
+      <track>Database Engine</track>
+      <location>
+        <name>Auditorium (220 persons)</name>
+      </location>
+      <title>Indexes – The Unsung Hero</title>
+      <description>Slow Running Queries  are the most common problem that developers face while working with SQL Server. While it is easy to blame the SQL Server for unsatisfactory performance, however the issue often persists with the way queries have been written, and how Indexes has been set up. The session will focus on the ways of identifying problems that slow down SQL Server, and Indexing tricks to fix them. Developers will walk out with scripts and knowledge that can be applied to their servers, immediately post the session.</description>
+      <startTime>6/6/2015 2:00:00 PM</startTime>
+      <endTime>6/6/2015 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>36650</importID>
+      <speakers>
+        <speaker>
+          <id>36650</id>
+          <name>Vijayakumar Thurupathan</name>
+        </speaker>
+      </speakers>
+      <track>Data Analytics</track>
+      <location>
+        <name>Seminar Room 4 (50 persons)</name>
+      </location>
+      <title>Setting your first foot in the world of Business Intelligence</title>
+      <description>Have you ever wondered why we need a data warehouse when we have the good old stringent relational database scheme. Do you want to get to know the concepts of data warehousing and business intelligence? Then this is the session you have been looking for: A tour from OLTP to OLAP with Microsoft technologies. Gear up for the excitement!</description>
+      <startTime>6/6/2015 12:00:00 PM</startTime>
+      <endTime>6/6/2015 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>21415</importID>
+      <speakers>
+        <speaker>
+          <id>21415</id>
+          <name>Nilabja Ball</name>
+        </speaker>
+      </speakers>
+      <track>Data Analytics</track>
+      <location>
+        <name>Seminar Room 4 (50 persons)</name>
+      </location>
+      <title>NoSQL on Azure: An Introduction to DocumentDB</title>
+      <description>NoSQL data stores have gone mainstream. In this session, we will survey the expanding NoSQL landscape on Azure, providing a big-picture view of these technologies. Also spend a bit more time on DocumentDB, Microsoft’s document database-as-a-service, and Azure Search. This session is aimed at anybody who’s new to NoSQL or is curious about the NoSQL options that Azure provides today.</description>
+      <startTime>6/6/2015 9:30:00 AM</startTime>
+      <endTime>6/6/2015 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>36522</importID>
+      <speakers>
+        <speaker>
+          <id>36522</id>
+          <name>Sammani Palansuriya</name>
+        </speaker>
+      </speakers>
+      <track>Database Engine</track>
+      <location>
+        <name>Auditorium (220 persons)</name>
+      </location>
+      <title>My Data in the Cloud: Microsoft Azure SQL Database</title>
+      <description>Microsoft Azure SQL Database (formerly SQL Azure) is another Microsoft Azure service that offers relational database-as-a-service with proven performance, scalability, data security and near-zero administration.
+
+This discussion will give you an understanding about Azure SQL Database; what this service is and what it offers. It will also help you understand what sort of requirements will benefit from Azure SQL Database, and what factors you need to know in order to choose this service, along with pros and cons of choosing Azure SQL Database</description>
+      <startTime>6/6/2015 3:15:00 PM</startTime>
+      <endTime>6/6/2015 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>36538</importID>
+      <speakers>
+        <speaker>
+          <id>36538</id>
+          <name>Dinesh Priyankara</name>
+        </speaker>
+      </speakers>
+      <track>Data Analytics</track>
+      <location>
+        <name>Auditorium (220 persons)</name>
+      </location>
+      <title>Big Data Analytics: The Microsoft Way</title>
+      <description>Have you already incorporated  “Big Data” into your analytical solution, but still feel you are going nowhere with it? Or are you planning to bring “Big Data” into your analytical solution, but not sure which way to go? Do you wonder about how to get it done, and what tools and methods that you need to use? Let us talk about it; let us understand the “Big Data” requirement; how to and the best way of bringing it into analytical stack using the Microsoft way, of course.</description>
+      <startTime>6/6/2015 10:45:00 AM</startTime>
+      <endTime>6/6/2015 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>37115</importID>
+      <speakers>
+        <speaker>
+          <id>37115</id>
+          <name>Pinal Dave</name>
+        </speaker>
+      </speakers>
+      <track>General</track>
+      <location>
+        <name>Auditorium (220 persons)</name>
+      </location>
+      <title>The Great SQL Panel Discussion</title>
+      <description>Join Pinal and Nilabja as they take questions from the audience that is anything SQL Server, business intelligence and data on the cloud! This is a great opportunity to pick the minds of a couple of great SQL minds. We would also the other speakers ready to go as well...</description>
+      <startTime>6/6/2015 4:30:00 PM</startTime>
+      <endTime>6/6/2015 5:30:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

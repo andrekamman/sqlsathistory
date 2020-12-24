@@ -1,0 +1,23 @@
+# SQLSaturday #685 - Porto 2017
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:00:00|Sander van der hoeff|BI Platform Architecture, Development  Analytics |[SSIS Package generation with BIML](67657.md)
+09:00:00|Pedro Sousa|Cloud Application Development  Deployment|[Yet Another Session about Docker and Containers](68613.md)
+09:00:00|Murilo Miranda|Enterprise Database Administration  Deployment|[Patterns for building hybrid scenarios with SQL Server and Azure](69127.md)
+10:30:00|James Anderson|Cloud Application Development  Deployment|[SQL Server and Continuous Integration](67488.md)
+10:30:00|Andre Batista|Enterprise Database Administration  Deployment|[Deep dive into Query Store on SQL Server 2016](68567.md)
+10:30:00|Ana Maria Bisbé York|BI Platform Architecture, Development  Analytics |[Modeling scenarios in DAX, the awesome language of Power BI](69157.md)
+11:40:00|Eduardo Piairo|Cloud Application Development  Deployment|[Setting a WordPress website using Azure Web Apps and Azure Database for MySQL](67535.md)
+11:40:00|Maryna Popova|BI Platform Architecture, Development  Analytics |[Development Methodology for BI teams](67810.md)
+11:40:00|Etienne Lopes|Enterprise Database Administration  Deployment|[Taking Security to another level: SQL Server Audit](68403.md)
+13:45:00|David Barbarin|Enterprise Database Administration  Deployment|[SQL Server on Linux and high availability](67887.md)
+13:45:00|Gavin Campbell|Cloud Application Development  Deployment|[Database Continuous Delivery on the Microsoft Platform](68184.md)
+13:45:00|Rui Romano|BI Platform Architecture, Development  Analytics |["Start Small and Grow Big" with Power BI and Azure AS](68843.md)
+14:45:00|Ivan Campos|Information Delivery|[Natixis Sponsor Session](70344.md)
+14:45:00|Ivan Campos|Information Delivery|[DevScope Sponsor Session](70346.md)
+15:50:00|Roberto Cavalcanti|Cloud Application Development  Deployment|[Azure SQL Database - Lessons learned from the trenches](67467.md)
+15:50:00|Ivan Campos|Enterprise Database Administration  Deployment|[Hiding data with SQL Server 2016/2017](67470.md)
+15:50:00|Pau Sempere|BI Platform Architecture, Development  Analytics |[R Server on Spark - Go big or go home](68983.md)
+17:00:00|Rudi Bruchez|Enterprise Database Administration  Deployment|[Discover the new graph features of SQL Server 2017](67605.md)
+17:00:00|Ana Maria Bisbé York|BI Platform Architecture, Development  Analytics |[Pattern analysis with SQL Server DM Excel DM AzureML R  PowerBI](69159.md)
+17:00:00|Vitor Pombeiro|Cloud Application Development  Deployment|[What you want to know about Azure Database for MySQL and PostgreSQL?](69240.md)

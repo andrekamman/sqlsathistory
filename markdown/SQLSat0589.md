@@ -1,0 +1,21 @@
+# SQLSaturday #589 - Pordenone 2017
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+11:00:00|Alessandro Alpi|DEV|[SQL Server deployment journey, da Dev a Ops](55059.md)
+11:00:00|Dr. Subramani Paramasivam|DATA SCIENCE|[Think  work like a Data Scientist with SQL 2016 R](55095.md)
+11:00:00|Sergiy Lunyakin|BI/CLOUD|[Cloud BI with Azure Analysis Services](56579.md)
+11:00:00|Danilo Dominici|DBA|[SQL Server tuning : start to finish](57237.md)
+12:10:00|Tomaž Kaštrun|DATA SCIENCE|[Data Science for beginners](55047.md)
+12:10:00|Sergio Govoni|DBA|[Exploring SQL Server Plan Cache](57408.md)
+12:10:00|Marco Parenzan|BI/CLOUD|[What's new on SQL Azure?](57868.md)
+12:10:00|Francesco Milano|DEV|[Columnstore Indexes: what they are, and how to use them](59730.md)
+14:30:00|Gilberto Zampatti|DBA|[Indici e statistiche: quanto e come incidono sull'efficenza dei nostri databases](57247.md)
+14:30:00|Pasquale Ceglie|DEV|[SQL Server 2016 Temporal Database Support - Management, Retention and Performance](57286.md)
+14:30:00|Satya Jayanty|DATA SCIENCE|[Big Data with Azure: where to begin? Concepts and best practices](57294.md)
+14:30:00|Marco Pozzan|BI/CLOUD|[Optimizing Dax](57869.md)
+15:45:00|Dejan Sarka|DATA SCIENCE|[Analyzing Text with SQL Server, R, and Azure ML](55045.md)
+15:45:00|Gianluca Hotz|DEV|[Securing SQL Server 2016 Databases (IT)](57287.md)
+15:45:00|Gianluca Sartori|DBA|[SQL Server Infernals: Worst Practices in Action](57377.md)
+16:55:00|Miroslav Dimitrov|DBA|[Performance Tuning for the Transaction Log](56198.md)
+16:55:00|Andrea Martorana Tusa|BI/CLOUD|[Data Quality Services: Let's clean our data](56242.md)
+16:55:00|Emanuele Zanchettin|DEV|[Performance tips for faster SQL queries](57355.md)

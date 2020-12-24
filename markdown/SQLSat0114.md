@@ -1,0 +1,22 @@
+# SQLSaturday #114 - Vancouver 2012
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Michael Lato|Development|[Reserved for Microsoft](20246.md)
+00:00:00|Michael Lato|Expanded Horizons|[Baselines](20247.md)
+00:00:00|Michael Lato|Expanded Horizons|[Design Planning](20248.md)
+00:00:00|Cathy Dumas|Expanded Horizons|[Analysis Services Tabular Modeling 101](29385.md)
+00:00:00|Cathy Dumas|Business Intelligence|[Using DirectQuery](29386.md)
+00:00:00|Dev Nambi|Development|[Database Development: Keep It Agile, Not Fragile](29900.md)
+00:00:00|Donabel Santos|Administration|[ETL with SSIS for Beginners](29956.md)
+00:00:00|Donabel Santos|Expanded Horizons|[You did what with PowerShell?!](29957.md)
+00:00:00|Michael Lato|Expanded Horizons|[Raffle Draws](31767.md)
+00:00:00|Paul Turley|Business Intelligence|[Dashboard Design: Making Reports Pop](32174.md)
+00:00:00|Paul Turley|Expanded Horizons|[Power View and PowerPivot: High-Octane Self-Servic](32177.md)
+00:00:00|Rick  Morelan|Administration|[Basic Performance Tips and Gotchas](32509.md)
+00:00:00|Rick  Morelan|Administration|[Avoid Errors on Errors](32510.md)
+00:00:00|Steve Stedman|Development|[Unleashing Common Table Expressions in SQL Server](33211.md)
+00:00:00|Steve Stedman|Administration|[Using SSRS reports to analyze SQL Server health](33213.md)
+00:00:00|William E Pearson III|Business Intelligence|[Design and Implement BI Like Edison! ](34387.md)
+00:00:00|William E Pearson III|Business Intelligence|[Bridging the Chasm: BI Theory vs. Practice](34395.md)
+00:00:00|John Huang|Business Intelligence|[Advanced SQL Certifications](34689.md)
+00:00:00|John Huang|Development|[Introduction to SQL Server Development (2hours)](34691.md)

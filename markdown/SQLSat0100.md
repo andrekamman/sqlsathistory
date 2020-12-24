@@ -1,0 +1,21 @@
+# SQLSaturday #100 - São Paulo 2011
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Diego Nogare|Sala 3|[Aplicação prática de gráficos menos comuns do SSRS](29905.md)
+00:00:00|Andressa Martins|Sala 3|[Novidades do Denali para Integration Services](29982.md)
+00:00:00|Fabiano Amorim|Sala 2|[Windows Functions and Denali](30178.md)
+00:00:00|Marcelo Fernandes|Sala 1|[Protegendo seu banco com o TDE](30186.md)
+00:00:00|Felipe Ferreira|Sala 1|[Melhores práticas para seu Datawarehouse](30187.md)
+00:00:00|Gustavo Maia Aguiar|Sala 1|[Replicação em ambientes mistos com SSB, XML e .NET](30258.md)
+00:00:00|Laerte Junior|Sala 1|[Hey PowerShell eventing, você pode me notificar ?](31484.md)
+00:00:00|Lucas Romão|Sala 2|[Escalando soluções de BD com SQL Azure Federations](31521.md)
+00:00:00|Luciano Moreira|Sala 2|[Por dentro dos wait types no SQL Server](31522.md)
+00:00:00|Nilton Pinheiro|Sala 2|[SQL Denali AlwaysOn: Alta Disponibilidade para...](32083.md)
+00:00:00|Mauro Pichiliani|Sala 3|[Aplicando o poder de uma GPU no SQL Server](32229.md)
+00:00:00|Rob Ranches|Sala 2|[Criando novas aplicações de BI usando Crescent](32544.md)
+00:00:00|Rodney Landrum|Sala 1|[T-SQL Alphabet Soup](32624.md)
+00:00:00|Daniel CAMILLO |Sala 3|[ DBA MANTENHA O SEU FOCO!! SQL SERVER + SYSTEM CE](33815.md)
+00:00:00|Vitor Fava|Sala 3|[Alta Disponibilidade com o SQL Server R2](33842.md)
+00:00:00|Viviane Ribeiro|Sala 1|[As novidades do SQL Server Analysis Services](33851.md)
+00:00:00|Thiago Zavaschi|Sala 2|[Programação DAX Avançada](34530.md)
+00:00:00|Dennes Torres|Sala 3|[Criando Bancos com MS "Juneau"](34611.md)

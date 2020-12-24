@@ -1,0 +1,21 @@
+# SQLSaturday #834 - Caxias do Sul 2019
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:40:00|Arthur Luz|BI Platform Architecture, Development  Administration|[Big Data e Arquitetura Lambda](88200.md)
+09:40:00|Alex Ramos|Strategy and Architecture|[Let's talk about Always On Availability Group](93795.md)
+09:40:00|Luan Moreno Medeiros Maciel|Analytics and Visualization|[Arquitetura Kappa com Apache Kafka, Azure Databricks e Delta Lake](93948.md)
+10:35:00|Tiago Crespi|Enterprise Database Administration  Deployment|[Configurando a infraestrutura para uma FCI do SQL Server no Azure](93385.md)
+10:35:00|Rodrigo Dornel|BI Platform Architecture, Development  Administration|[Power BI - Dicas e Truques para turbinar seu Dashboard](93402.md)
+10:35:00|Rafael Felipe|Strategy and Architecture|[Entregando aplicações legadas client-server com alto desempenho no Azure](93477.md)
+11:30:00|Luiz Henrique Garetti|Enterprise Database Administration  Deployment|[SQL Server 2019 Big Data Clusters](87992.md)
+11:30:00|Fabrício Lima|Cloud Application Development  Deployment|[Managed Instance - Uma instância do SQL Server como serviço que você terá que conhecer](88010.md)
+11:30:00|Marcus Vinícius Bittencourt|Enterprise Database Administration  Deployment|[Hacking SQL Server 2](90031.md)
+13:30:00|Fabiano Amorim|Application  Database Development|[Tuning no SQL Server 2019 - Quais as novidades?](87562.md)
+13:30:00|Tiago Crespi|Application  Database Development|[Hoje no SQL Saturday – Índices! Como vivem? Como se reproduzem?](95330.md)
+13:30:00|Marcelo Adade|Enterprise Database Administration  Deployment|[SQL SERVER on Linux: Breaking paradigms](95424.md)
+14:25:00|Ricardo Leka|Enterprise Database Administration  Deployment|[BSoD - Blue Screen of Death](90656.md)
+14:25:00|LOGAN MERAZZI|Application  Database Development|[Entendendo o que são Window Functions e como ganhar desempenho nas suas consultas](93571.md)
+14:25:00|Rodrigo Dornel|BI Platform Architecture, Development  Administration|[SQL Server PolyBase - Como integrar meu banco de dados relacional com NoSQL e BigData](95400.md)
+15:55:00|Wiluey Sousa|Cloud Application Development  Deployment|[Conhecendo SQL Azure Intelligent Insights](90478.md)
+15:55:00|Vitor Fava|Cloud Application Development  Deployment|[Aumentando a performance do Azure SQL Database utilizando o Hyperscale](93302.md)
+15:55:00|Marcelo Adade|Enterprise Database Administration  Deployment|[Distributed Availability Groups - How to](93433.md)

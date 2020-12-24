@@ -1,0 +1,1383 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #574 - Washington DC 2016</name>
+    <startDate>12/3/2016 12:00:00 AM</startDate>
+    <attendeeEstimate>350</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSATDC</twitterHashtag>
+    <venue>
+      <name>The Microsoft Technology Center</name>
+      <street>5404 Wisconsin Ave, Suite 700</street>
+      <city>Chevy Chase</city>
+      <state>Maryland</state>
+      <zipcode>20815</zipcode>
+      <longitude>-77.0860749</longitude>
+      <latitude>38.9612894</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>1590</importID>
+      <name>MVP Systems Software</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.jamsscheduler.com</url>
+      <imageURL>https://www.jamsscheduler.com/wp-content/uploads/2013/11/mvp-logo-transparent.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Platinum Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>13</importID>
+      <name>Quest Software</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://www.sqlsaturday.com/images/sqlsaturday/eventsponsors/Quest_170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1617</importID>
+      <name>VMWare</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.vmware.com</url>
+      <imageURL>https://bobpusateri.blob.core.windows.net/shared/ChiSQL/vmware.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>3</importID>
+      <name>Idera</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.idera.com/Content/Home.aspx</url>
+      <imageURL>https://www.sqlsaturday.com/images/SQLSaturday/eventsponsors/IDERA170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Bronze Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>54909</importID>
+      <name>William Wolf</name>
+      <label>
+      </label>
+      <description>Bill is the Manager of SQL Server Performance Tuning for RDX.  He works with over 400 customers on solutions within the SQL Server environment and specialized in code tuning and mentoring the team within RDX. He has become a SQL Saturday veteran speaking at nearly 40 SQL Saturdays in the last 3 years.  He has also spoken at Summit and is an Idera Ace class of 2018. Bill is active in the Pittsburgh SQL Server User Group.  He is also the chapter lead for the DevOps Virtual User Group. He is passionate about educating users on SQL Server and mentoring others.</description>
+      <twitter>sqlwarewolf</twitter>
+      <linkedin>https://www.linkedin.com/in/williamjwolf</linkedin>
+      <ContactURL>http://www.sqlwarewolf.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlwarewolf</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>55169</importID>
+      <name>Rick Lowe</name>
+      <label>
+      </label>
+      <description>Rick is a Microsoft Certified Master with more than 20 years of SQL Server experience in a variety of roles. He currently lives in Washington state and works as an independent consultant providing remote performance DBA and performance tuning services for clients in the USA and Canada. His first exposure to SQL Server was as a database developer, but over time he became more and more interested in how the database engine operated... eventually specializing more on performance issues than code.
+
+Rick will work with all things relational, but most enjoys helping smaller companies get better performance from MSSQL, as well as smoothing over relationships between DBA and development teams.</description>
+      <twitter>DataFLowe</twitter>
+      <linkedin>http://www.linkedin.com/pub/rick-lowe/a/228/441/</linkedin>
+      <ContactURL>http://dataflowe.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DataFLowe</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54683</importID>
+      <name>Adam Machanic</name>
+      <label>
+      </label>
+      <description>Adam Machanic is a Boston-based SQL Server developer, writer, and speaker. He focuses on large-scale data warehouse performance and development, and is the author of the award-winning SQL Server monitoring stored procedure, quot;sp_WhoIsActive.quot; He has contributed to several books on SQL Server, including quot;T-SQL Queryingquot; (Microsoft Press, 2015). He is a Microsoft Most Valuable Professional (MVP) for SQL Server.</description>
+      <twitter>@AdamMachanic</twitter>
+      <linkedin>https://www.linkedin.com/in/adammachanic</linkedin>
+      <ContactURL>http://sqlblog.com/blogs/adam_machanic</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@AdamMachanic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54959</importID>
+      <name>Amy Herold</name>
+      <label>
+      </label>
+      <description>Amy Herold is currently a Premier Field Engineer with Microsoft, specializing in APS. Prior to this, she was a Sr. Database Administrator, focusing on PowerShell and automation. She is also currently the Director of Programs for the North Texas SQL Server User Group (NTSSUG). She frequently speaks at SQL Saturday and user group events across the United States and has also participated in numerous Women in Technology sessions as a panelist. Amy currently blogs at sqlkitten.com.</description>
+      <twitter>@texasamy</twitter>
+      <linkedin>http://www.linkedin.com/in/aherold</linkedin>
+      <ContactURL>http://www.sqlkitten.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@texasamy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>55138</importID>
+      <name>Kendra Little</name>
+      <label>
+      </label>
+      <description>Kendra Little is a Microsoft Certified Master and a Microsoft MVP. Kendra fell in love with the challenge of deploying software to a complex database environment when she worked in a build operations team at a software startup. She went on to become a database administrator for performance critical databases at Microsoft Corporation. Since then, Kendra has worked internationally as a teacher and consultant, and founded the training site SQL Workbooks. She joined Redgate as a Product Evangelist in 2018.</description>
+      <twitter>Kendra_Little</twitter>
+      <linkedin>https://www.linkedin.com/in/kendralittle</linkedin>
+      <ContactURL>http://littlekendra.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Kendra_Little</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54568</importID>
+      <name>Wayne Sheffield</name>
+      <label>
+      </label>
+      <description>Wayne Sheffield, a Microsoft Certified Master in SQL Server and Microsoft Most Valuable Professional, started working with xBase databases in the late 80’s. With over 25 years in IT, he has worked with SQL Server (since 6.5 in the late 90’s) in various dev/admin roles, with an emphasis in performance tuning. He is the author of several articles at www.sqlservercentral.com, a co-author of “SQL Server T-SQL Recipes”, and enjoys sharing his knowledge by presenting at SQL events worldwide and blogging at http://blog.waynesheffield.com/wayne</description>
+      <twitter>@DBAWayne</twitter>
+      <linkedin>http://www.linkedin.com/in/WayneSheffield</linkedin>
+      <ContactURL>http://blog.waynesheffield.com/wayne</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@DBAWayne</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54689</importID>
+      <name>Jessica Moss</name>
+      <label>
+      </label>
+      <description>Jessica M. Moss is a well-known architect, speaker, author, and Microsoft MVP of SQL Server Business Intelligence.  Jessica#39;s expertise includes data warehouse modeling, Integration Services ETL, Analysis Services semantic modeling, Reporting Services report design, and helping customers across industries successfully implement and enhance their BI solutions. She enjoys sharing her knowledge with the SQL community and has co-authored numerous technical books.</description>
+      <twitter>@jessicammoss</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.jessicammoss.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jessicammoss</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>55156</importID>
+      <name>Ed Leighton-Dick</name>
+      <label>
+      </label>
+      <description>Ed Leighton-Dick is a Microsoft MVP, SQL Server performance and architecture specialist, and Founder/Principal Consultant of Kingfisher Technologies. He is a frequent volunteer with PASS, including current roles as a Regional Mentor, co-leader of I-380 PASS local group, and co-leader of the HA/DR virtual group. He can often be found teaching sessions at local, regional, and national events, including user groups, SQLSaturday, and PASS Summit.</description>
+      <twitter>eleightondick</twitter>
+      <linkedin>http://www.linkedin.com/in/eleightondick</linkedin>
+      <ContactURL>http://www.edleightondick.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=eleightondick</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54658</importID>
+      <name>Stephen Frost</name>
+      <label>
+      </label>
+      <description>As a PostgreSQL major contributor and committer, Stephen has brought a number of features to PostgreSQL, including the role system, column-level privileges, and row-level security. He has spoken previously at numerous conferences, including pgConf.EU conferences in Amsterdam, Dublin and Madrid, PostgresOpen in Chicago and Dallas, PGCon in Ottawa, PGConf.US in NYC, and SCALE in Pasadena.</description>
+      <twitter>@net_snow</twitter>
+      <linkedin>https://www.linkedin.com/in/stephen-frost-12763a14?trk=hp-identity-name</linkedin>
+      <ContactURL>http://info.crunchydata.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@net_snow</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54829</importID>
+      <name>Monica Rathbun</name>
+      <label>
+      </label>
+      <description>Monica Rathbun lives in Virginia, is a Microsoft MVP for Data Platform and Microsoft Certified Solutions Expert. She has nearly two decades of experience working with a wide variety of database platforms with a focus on SQL Server and the Microsoft Data Platform. She is a frequent speaker at IT industry conferences on topics including performance tuning and configuration management. She is the Leader of the Hampton Roads SQL Server User Group and a Mid‐Atlantic PASS Regional Mentor. She is passionate about SQL Server and the SQL Server community, doing anything she can to give back. Monica can always be found on Twitter (@sqlespresso) handing out helpful tips. You can find Monica blogging at sqlespresso.com</description>
+      <twitter>SQLEspresso</twitter>
+      <linkedin>https://www.linkedin.com/in/sqlespresso</linkedin>
+      <ContactURL>http://www.sqlespresso.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLEspresso</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54956</importID>
+      <name>Rie Irish</name>
+      <label>
+      </label>
+      <description>Rie lives with her family just north of Atlanta, Georgia.  She worked as a SQL Server DBA, manager  director for over 20 years.  She's worked in many industries including the non-profit sector, education, big pharma, and e-commerce. She was awarded the MVP in the Data Platform 3 times beginning in 2017 and gave that up to accept her role as a Senior Program Manager with Microsoft in 2019.  She is very involved with the Atlanta MDF User Group, SQL Saturday Atlanta and is co-leader of the PASS Women in Tech virtual group.</description>
+      <twitter>IrishSQL</twitter>
+      <linkedin>http://www.linkedin.com/pub/rie-irish/2/34a/78/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=IrishSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>55002</importID>
+      <name>John Morehouse</name>
+      <label>
+      </label>
+      <description>John Morehouse is currently a Consultant with Denny Cherry  Associates living in Louisville, Kentucky. With over 2 decades of technical experience in various industries, John now focuses on the Microsoft Data platform and specializes in Microsoft SQL Server.  He is honored to be a Microsoft Data Platform MVP, VMWare vExpert, Friend of Red Gate, Sentry One PAC member  Community Ambassador, and 2016 Idera Ace.  John has a passion around speaking, teaching technical topics, and giving back to the technical community as much as possible.  He is a user group leader, SQL Saturday organizer, and former PASS regional mentor. He is also a blogger, avid tweeter, and a frequent speaker at SQL Saturday’s as well as other conferences.</description>
+      <twitter>SQLrUs</twitter>
+      <linkedin>https://www.linkedin.com/in/sqlrus</linkedin>
+      <ContactURL>http://www.sqlrus.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLrUs</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54519</importID>
+      <name>Niran Even-Chen</name>
+      <label>
+      </label>
+      <description>Niran Even-Chen (@niranec) is a Staff Solution architect at VMware Inc. In his role as a Microsoft enterprise applications architecture specialist Niran is responsible for developing solutions for SQL Server with VMware solutions, writing white papers and is also a frequent speaker in different venues such as VMUG conferences, SQL Saturday user groups, VMworld conferences and more. 
+Niran is certified as VMware certified design expert (VCDX) #142 for datacenter virtualization  and Cloud with 15 years of experience in the industry designing and architecting enterprise level solutions.
+</description>
+      <twitter>@niranec</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://cloud-abstract.com </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@niranec</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54688</importID>
+      <name>Jessica Moss</name>
+      <label>
+      </label>
+      <description>Jessica M. Moss is a well-known architect, speaker, author, and Microsoft MVP of SQL Server Business Intelligence.  Jessica#39;s expertise includes data warehouse modeling, Integration Services ETL, Analysis Services semantic modeling, Reporting Services report design, and helping customers across industries successfully implement and enhance their BI solutions. She enjoys sharing her knowledge with the SQL community and has co-authored numerous technical books.</description>
+      <twitter>@jessicammoss</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.jessicammoss.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jessicammoss</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>55151</importID>
+      <name>Adam Machanic</name>
+      <label>
+      </label>
+      <description>Adam Machanic is a Boston-based SQL Server developer, writer, and speaker. He focuses on large-scale data warehouse performance and development, and is the author of the award-winning SQL Server monitoring stored procedure, quot;sp_WhoIsActive.quot; He has contributed to several books on SQL Server, including quot;T-SQL Queryingquot; (Microsoft Press, 2015). He is a Microsoft Most Valuable Professional (MVP) for SQL Server.</description>
+      <twitter>@AdamMachanic</twitter>
+      <linkedin>https://www.linkedin.com/in/adammachanic</linkedin>
+      <ContactURL>http://sqlblog.com/blogs/adam_machanic</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@AdamMachanic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54598</importID>
+      <name>Mike Hillwig</name>
+      <label>
+      </label>
+      <description>Veteran DBA Mike Hillwig is a native Pittsburgher and resident of the Boston Suburbs. He’s a DBA Manager for a financial software company that’s owned by one of the world’s largest bank. Mike has been working with SQL Server since version 7 and has a background in infrastructure and network. Today, he manages a team of DBAs around the globe.</description>
+      <twitter>@mikehillwig</twitter>
+      <linkedin>http://www.linkedin.com/in/mikehillwig</linkedin>
+      <ContactURL>http://www.mikehillwig.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@mikehillwig</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54784</importID>
+      <name>Eugene Meidinger</name>
+      <label>
+      </label>
+      <description>Eugene Meidinger works as a BI consultant and full time Pluralsight author. He currently focuses on content on Power BI and related products. He also leads the Pittsburgh Power BI User Group. He is certified in querying and administering SQL Server.</description>
+      <twitter>@sqlgene</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqlgene.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlgene</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>55161</importID>
+      <name>Sebastian Meine</name>
+      <label>
+      </label>
+      <description>Sebastian Meine, Ph.D. is the SQL Stylist behind sqlity.net llc. In 2010 he founded sqlity.net to fully engage in his passion for SQL Server.
+Armed with a Ph.D. in Computer Science and years of experience in architecting DBs for a global Fortune 50 company, Sebastian now provides training and consulting services for his clients, specializing in SQL Server Security, Test Driven Development and Performance. Sebastian is an experienced public speaker, published author, president of the Philly PASS Chapter, PASS Regional Mentor and coauthor  lead developer of tSQLt.</description>
+      <twitter>@sqlity</twitter>
+      <linkedin>http://www.linkedin.com/in/sebastianmeine</linkedin>
+      <ContactURL>http://sqlity.net/en/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlity</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54667</importID>
+      <name>David Klee</name>
+      <label>
+      </label>
+      <description>David Klee is a Microsoft Data Platform MVP and VMware vExpert with a lifelong passion for technology. David spends his days focusing on the convergence of data and infrastructure as the Founder of Heraflux Technologies. His areas of expertise include cloud, virtualization, performance, and business continuity. David speaks at a number of national and regional technology related events, including PASS Summit, VMware VMworld, SQLBits, SQL Saturday events, and many SQL Server User Groups.</description>
+      <twitter>kleegeek</twitter>
+      <linkedin>http://www.linkedin.com/in/davidaklee</linkedin>
+      <ContactURL>http://davidklee.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=kleegeek</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54901</importID>
+      <name>Andy Mallon</name>
+      <label>
+      </label>
+      <description>--</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>55167</importID>
+      <name>Rick Lowe</name>
+      <label>
+      </label>
+      <description>Rick is a Microsoft Certified Master with more than 20 years of SQL Server experience in a variety of roles. He currently lives in Washington state and works as an independent consultant providing remote performance DBA and performance tuning services for clients in the USA and Canada. His first exposure to SQL Server was as a database developer, but over time he became more and more interested in how the database engine operated... eventually specializing more on performance issues than code.
+
+Rick will work with all things relational, but most enjoys helping smaller companies get better performance from MSSQL, as well as smoothing over relationships between DBA and development teams.</description>
+      <twitter>DataFLowe</twitter>
+      <linkedin>http://www.linkedin.com/pub/rick-lowe/a/228/441/</linkedin>
+      <ContactURL>http://dataflowe.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DataFLowe</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53784</importID>
+      <name>James Serra</name>
+      <label>
+      </label>
+      <description>James Serra is a big data and data warehousing solution architect at Microsoft.  He is a thought leader in the use and application of Big Data and advanced analytics. Previously, James was an independent consultant working as a Data Warehouse/Business Intelligence architect and developer. He is a prior SQL Server MVP with over 35 years of IT experience. James is a popular blogger (JamesSerra.com) and speaker. He is the author of the book “Reporting with Microsoft SQL Server 2012”.</description>
+      <twitter>www.twitter.com/JamesSerra</twitter>
+      <linkedin>http://www.linkedin.com/in/JamesSerra</linkedin>
+      <ContactURL>http://www.JamesSerra.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=www.twitter.com/JamesSerra</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53424</importID>
+      <name>Kevin Feasel</name>
+      <label>
+      </label>
+      <description>Kevin Feasel is a Microsoft Data Platform MVP and CTO at Envizage, where he specializes in data analytics with T-SQL and R, forcing Spark clusters to do his bidding, fighting with Kafka, and pulling rabbits out of hats on demand. He is the lead contributor to Curated SQL (https://curatedsql.com), president of the Triangle Area SQL Server Users Group (https://www.meetup.com/tripass), and author of PolyBase Revealed (https://www.apress.com/us/book/9781484254608). A resident of Durham, North Carolina, he can be found cycling the trails along the triangle whenever the weather's nice enough.</description>
+      <twitter>feaselkl</twitter>
+      <linkedin>https://www.linkedin.com/pub/kevin-feasel/7/716/504</linkedin>
+      <ContactURL>http://www.catallaxyservices.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=feaselkl</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>55162</importID>
+      <name>Sebastian Meine</name>
+      <label>
+      </label>
+      <description>Sebastian Meine, Ph.D. is the SQL Stylist behind sqlity.net llc. In 2010 he founded sqlity.net to fully engage in his passion for SQL Server.
+Armed with a Ph.D. in Computer Science and years of experience in architecting DBs for a global Fortune 50 company, Sebastian now provides training and consulting services for his clients, specializing in SQL Server Security, Test Driven Development and Performance. Sebastian is an experienced public speaker, published author, president of the Philly PASS Chapter, PASS Regional Mentor and coauthor  lead developer of tSQLt.</description>
+      <twitter>@sqlity</twitter>
+      <linkedin>http://www.linkedin.com/in/sebastianmeine</linkedin>
+      <ContactURL>http://sqlity.net/en/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlity</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53669</importID>
+      <name>Ayman El-Ghazali</name>
+      <label>
+      </label>
+      <description>Ayman is a passionate SQL Server DBA, Developer, and BI Developer. His passion for technology started when he was a young boy playing DOS games on his father's computer. He can be reached via his blog or twitter handle and is looking forward to connecting with other SQL Geeks.</description>
+      <twitter>thesqlpro</twitter>
+      <linkedin>http://www.linkedin.com/in/aymansqldba</linkedin>
+      <ContactURL>http://www.thesqlpro.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=thesqlpro</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53345</importID>
+      <name>David Patrick</name>
+      <label>
+      </label>
+      <description>Dave has been developing database applications for over 25 years. An MCT since 2001, he has taught many classes from Intro to Visual Interdev to Advanced SharePoint Development. Dave runs two user groups, the Maryland and Pennsylvania Microsoft Developers User Group, www.mapamdug.com, and MAD SharePoint, www.madsharepoint.com. Dave does SharePoint training and development for DSA, Inc., a DoD contractor that does great work for the Army over at Aberdeen Proving Ground. Dave is also an MVP.</description>
+      <twitter>DavidEPatrick</twitter>
+      <linkedin>http://www.linkedin.com/in/davidepatrick</linkedin>
+      <ContactURL>http://www.madsharepoint.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DavidEPatrick</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53449</importID>
+      <name>David Dye</name>
+      <label>
+      </label>
+      <description>David is a Sergeant with the Cape Coral Police Department and currently works as a database administrator and developer in the Administrative Services Division. He began his career with the police department in 1990 in the patrol division and worked various assignments until being promoted to Sergeant in 1998. Based on his education and experience David was assigned to his current position in 2002 and is responsible for database administration, software integration, and development for public sa</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53994</importID>
+      <name>Mark Hudson</name>
+      <label>
+      </label>
+      <description>Mark Hudson is an MCITP with many years of experience in business intelligence and data analysis.  He has developed data solutions using numerous platform tools including multiple SQL Server versions.  He is a data architect and developer with CapTech (www.captechconsulting.com) and served as a leader of the Richmond SQL Server User Group (www.richmondsql.org).</description>
+      <twitter>HMarkHudson</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=HMarkHudson</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53533</importID>
+      <name>Thomas Grohser</name>
+      <label>
+      </label>
+      <description>Thomas Grohser has spent most of the past 26+ years exploring the deeper inner workings of SQL Server and its features while working for entertainment, pharmaceutical, and financial services industries. His primary focus is to architect, plan, build, and operate reliable, highly available, secure, and scalable infrastructures for SQL Server. Over the years he has managed thousands of SQL Server instances, processing trillions of rows, taking up petabytes of storage. Thomas has been a Microsoft Data Platform MVP for 9 years and has spoken regularly at conferences, SQLSaturdays, and user groups for 12 years.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/thomasgrohser/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54020</importID>
+      <name>George Govantes</name>
+      <label>
+      </label>
+      <description>SQL Architect and Senior SQL Database Administrator with over 20 years of experience turned Chief Information Security Officer, Certified Information Security Manager, and Governance Risk and Compliance Certified Professional that helps organizations develop cloud and on-prem Identity and Information Security programs.  He also trains and consults in the area of IT leadership and the development of high-performance teams.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/georgegovantes/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54298</importID>
+      <name>Mindy Curnutt</name>
+      <label>
+      </label>
+      <description>Mindy Curnutt is a 5X Microsoft Data Platform MVP, Business Owner and Entrepreneur. Her specialties include SQL Server hardware, configuration, migrations, scalability, performance tuning.  She has been actively involved in the SQL Server Community for over two decades and has become a well known speaker within the SQL and Transportation Management communities. She is a two-time PASS Volunteer of the Month, has presented at 6 SQLPASS Summits, Live360, DevConnections, MVPMix and too many SQL Saturdays to count. She is currently the President of the North Texas SQL Server User Group out of Dallas/Fort Worth, TX.</description>
+      <twitter>@sqlgirl</twitter>
+      <linkedin>https://www.linkedin.com/in/mindycurnutt</linkedin>
+      <ContactURL>http://www.mindycurnutt.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlgirl</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53942</importID>
+      <name>Andrew Kelly</name>
+      <label>
+      </label>
+      <description>Andrew J. Kelly is a Senior Technical Subject Matter Expert with B3 Group Inc. and lives in Clarkdale, AZ. He has over 20 years experience with relational databases and application development, but his main focus now is SQL Server. In addition to general SQL Server training and mentoring, he specializes in performance, scalability, and maintainability of large-scale SQL Servers. He is a regular speaker at conferences and user groups and was a SQL Server / Data Platform MVP for 18 years.</description>
+      <twitter>gunneyk</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlblog.com/blogs/andrew_kelly/default.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=gunneyk</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54314</importID>
+      <name>Slava Murygin</name>
+      <label>
+      </label>
+      <description>Started working with SQL Server 7.0 as DBA and Developer. Since then went through all SQL Server versions, migrations and multiple companies of different sizes and industries. Currently working as a  contractor with all aspects of SQL Server, including, but not limited to: troubleshooting performance, designing/developing: databases, systems, processes, data warehouses,  cubes, reports, ETLs; Refactoring old code; Migrating data from other systems to SQL Server; Securing the data on enterprise level.</description>
+      <twitter>SlavaSQL</twitter>
+      <linkedin>https://www.linkedin.com/pub/slava-murygin/9/b95/858</linkedin>
+      <ContactURL>http://slavasql.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SlavaSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53753</importID>
+      <name>David Klee</name>
+      <label>
+      </label>
+      <description>David Klee is a Microsoft Data Platform MVP and VMware vExpert with a lifelong passion for technology. David spends his days focusing on the convergence of data and infrastructure as the Founder of Heraflux Technologies. His areas of expertise include cloud, virtualization, performance, and business continuity. David speaks at a number of national and regional technology related events, including PASS Summit, VMware VMworld, SQLBits, SQL Saturday events, and many SQL Server User Groups.</description>
+      <twitter>kleegeek</twitter>
+      <linkedin>http://www.linkedin.com/in/davidaklee</linkedin>
+      <ContactURL>http://davidklee.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=kleegeek</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53371</importID>
+      <name>Jamie Wick</name>
+      <label>
+      </label>
+      <description>Jamie Wick is the Systems  Database Engineer for The College of William  Mary and has been working with SQL databases for the past 10+ years.  His background includes working for several years as a SQL SysAdmin for the University of Queensland (Australia), a Masters degree in Computer Information Systems from Boston University, and assorted Microsoft SQL certifications.  He is the Chapter Leader of the Richmond SQL Server Users Group, a volunteer and speaker at regional SQL events (User Groups/SQLSaturdays), helps run the SQLSaturday RVA events, and is an avid photographer.</description>
+      <twitter>Jamie_Wick</twitter>
+      <linkedin>https://www.linkedin.com/in/jamiewick/</linkedin>
+      <ContactURL>http://blog.wicktech.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Jamie_Wick</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53797</importID>
+      <name>Timothy McAliley</name>
+      <label>
+      </label>
+      <description>I am currently a Microsoft Cloud Solutions Architect in the Washington, DC area.  Previously, I was a Microsoft Technology Solutions Professional (TSP), a Microsoft Account Technology Strategist and a SQL Server Premier Field Engineer. Prior to Microsoft, I was a Technical Trainer and DBA in the Enterprise Security Group at Symantec . I have been in IT for over 20 years. My particular interests are IT operations, IT auditing, IT audit frameworks, IT service management (ITSM), ITIL, information security, project management, and database/application tier high availability solutions. I also co-run the Northern Virginia SQL Server User Group ( @novasl) and also co-run the Azure Datafest events.</description>
+      <twitter>sysframeworks</twitter>
+      <linkedin>https://www.linkedin.com/in/timothymcaliley/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sysframeworks</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53551</importID>
+      <name>Alex Grinberg</name>
+      <label>
+      </label>
+      <description>I have more than 20 years of IT experience. My primary focus is with the latest Microsoft technologies including .NET (VB and C#), SSRS and SSIS. I provide services in tuning, optimization, analysis and development for the creation of new applications, converting legacy technologies (SQL Server, VB.NET and C# ) and site training. I have worked for CSC, VerticalNet, IDP, LSAC , and TMNAS (to name a few) and I am currently employed with Cox Automotive. I am Apress author book "XML and JSON Recipes for SQL Server", also wrote number of articles for Simple-Talk and SQLServerCentral.com</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/alex-grinberg-36773a6/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54148</importID>
+      <name>Allan Hirt</name>
+      <label>
+      </label>
+      <description>SQLHA, LLC founder, consultant, trainer, author, and business continuity, infrastructure, and virtualization expert Allan Hirt has been working with SQL Server since 1992 when it was still a Sybase product. He has also been clustering in Windows Server since the late 1990s when it was known as Wolfpack. Currently a dual Microsoft MVP (Data Platform; Cloud and Datacenter Management) as well as a VMware vExpert, Allan works with all sizes of customers, no matter if they are on premises or in the public cloud. He also delivers training and speaks at events over the world.</description>
+      <twitter>SQLHA</twitter>
+      <linkedin>https://www.linkedin.com/pub/allan-hirt/1/b72/673</linkedin>
+      <ContactURL>http://www.sqlha.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLHA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>54299</importID>
+      <name>Mindy Curnutt</name>
+      <label>
+      </label>
+      <description>Mindy Curnutt is a 5X Microsoft Data Platform MVP, Business Owner and Entrepreneur. Her specialties include SQL Server hardware, configuration, migrations, scalability, performance tuning.  She has been actively involved in the SQL Server Community for over two decades and has become a well known speaker within the SQL and Transportation Management communities. She is a two-time PASS Volunteer of the Month, has presented at 6 SQLPASS Summits, Live360, DevConnections, MVPMix and too many SQL Saturdays to count. She is currently the President of the North Texas SQL Server User Group out of Dallas/Fort Worth, TX.</description>
+      <twitter>@sqlgirl</twitter>
+      <linkedin>https://www.linkedin.com/in/mindycurnutt</linkedin>
+      <ContactURL>http://www.mindycurnutt.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlgirl</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>55170</importID>
+      <name>Brad McKuhen</name>
+      <label>
+      </label>
+      <description>Brad McKuhen is a SQL Server Architect for Microtech Technologies, in the Washington, DC area. He has been working with SQL Server in some form or another since SQL Server 2000, and has been in IT for over 20 years. In his spare time, you#39;ll find him devoted to his family#39;s activities, and studying for the next certification.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.bradmckuhen.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53447</importID>
+      <name>David Dye</name>
+      <label>
+      </label>
+      <description>David is a Sergeant with the Cape Coral Police Department and currently works as a database administrator and developer in the Administrative Services Division. He began his career with the police department in 1990 in the patrol division and worked various assignments until being promoted to Sergeant in 1998. Based on his education and experience David was assigned to his current position in 2002 and is responsible for database administration, software integration, and development for public sa</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>53943</importID>
+      <name>Andrew Kelly</name>
+      <label>
+      </label>
+      <description>Andrew J. Kelly is a Senior Technical Subject Matter Expert with B3 Group Inc. and lives in Clarkdale, AZ. He has over 20 years experience with relational databases and application development, but his main focus now is SQL Server. In addition to general SQL Server training and mentoring, he specializes in performance, scalability, and maintainability of large-scale SQL Servers. He is a regular speaker at conferences and user groups and was a SQL Server / Data Platform MVP for 18 years.</description>
+      <twitter>gunneyk</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlblog.com/blogs/andrew_kelly/default.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=gunneyk</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>53943</importID>
+      <speakers>
+        <speaker>
+          <id>53943</id>
+          <name>Andrew Kelly</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate DBA</track>
+      <location>
+        <name>7-2 (Mixed)</name>
+      </location>
+      <title>The Art of War with Bad Code</title>
+      <description>Let’s face it, many of us are at war with poorly written or poorly tuned queries and processes. There is usually just one of you who has been tasked with managing one or more SQL Server instances while there are hundreds or even thousands of users of which a certain percentage will inevitably write poor code. So you must battle it out to identify the culprits before they wreak too much havoc on your systems. We will see several fairly straightforward techniques to positively identify the culprits and allow you to prioritize your efforts in tuning them to give you the biggest ROI for your time. TSQL and Extended Events code examples will be provided that you can use immediately in your environment to become more productive.</description>
+      <startTime>12/3/2016 11:10:00 AM</startTime>
+      <endTime>12/3/2016 12:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>53753</importID>
+      <speakers>
+        <speaker>
+          <id>53753</id>
+          <name>David Klee</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>7-3 (Prof  Dev)</name>
+      </location>
+      <title>The Many Paths of Consulting</title>
+      <description>People often dream of becoming a consultant, but what does that actually mean? Is consulting really the right path for you? Many choices are available when deciding to become a consultant, but these options can be overlooked. Contracting, consulting for an established team, going out on your own, or looking to build a larger business are all great options, depending on your vision and future goals.
+
+This session will help you ask the right questions to better chose and prepare for your path. We then explore the various realities and strategies of each path. Real-life experiences will be shared to help you make the most informed decision on which path is best for you, and how to accelerate your career as a consultant.</description>
+      <startTime>12/3/2016 8:20:00 AM</startTime>
+      <endTime>12/3/2016 9:20:00 AM</endTime>
+    </event>
+    <event>
+      <importID>53447</importID>
+      <speakers>
+        <speaker>
+          <id>53447</id>
+          <name>David Dye</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>7-5 (BI 2)</name>
+      </location>
+      <title>Creating Dynamic Packages</title>
+      <description>In a perfect world an ETL solution would only have to import data from a single file that always had the same name deliver it to a single already existing table.  Unfortunately this case is the exception rather than the rule.  How can you use SSIS to: 
+1.    Iterate through all files in a folder and import their content into SQL
+2.    Dynamically create and name table based on a data source 
+3.    Dynamically create a T-SQL statement at runtime based on run time conditions
+This session focuses on how to create SSIS packages that can change to meet runtime events dynamically based on the environment.
+Each attendee will leave with the knowledge and toolset necessary to:
+1.      Use expressions within SSIS packages
+2.      Use variables to dynamically create SQL statements
+3.      Configure custom dynamic logging
+4.      Use package configurations and parameters and environments to make packages more portable at execution
+5. 	Replace dynamic SQL using expressions in SSIS</description>
+      <startTime>12/3/2016 11:10:00 AM</startTime>
+      <endTime>12/3/2016 12:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>54020</importID>
+      <speakers>
+        <speaker>
+          <id>54020</id>
+          <name>George Govantes</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>7-2 (Mixed)</name>
+      </location>
+      <title>Getting to 99.99% Uptime Delivering Operational Excellence</title>
+      <description>How does one take advice from the top leadership experts and translate into action?  As one's responsibilities grow many more factors come into play to achieving both the realities and perception of high availability.  The building of professional relationships, managing expectations, helping with setting standards and procedures are all critical components to success.   While some will argue this is out of my scope of responsibilities why should I care about the building of professional relationships, managing expectations, helping with setting standards and procedures?  The answer is simple because the perception is that no matter where the process breaks down it’s always a database problem.  Managing customer expectations what do you really mean by 99.99% up time, translating business requirements to operational realities, commonly overlooked items that impact your 4 nines  Avoiding human errors the realities and perception of high availability.</description>
+      <startTime>12/3/2016 9:45:00 AM</startTime>
+      <endTime>12/3/2016 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>53797</importID>
+      <speakers>
+        <speaker>
+          <id>53797</id>
+          <name>Timothy McAliley</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>5-2 (DBA 2)</name>
+      </location>
+      <title>A Discussion on Azure SQL Database Security Features for the Cloud Objectionist</title>
+      <description>This session is for the those who have security objections related to moving to the cloud or are interested in the security features of the of the Azure SQL Database, a relational database Platform as a Service offering in Microsoft Azure.  There certainly are Azure SQL Database features which have parity with SQL Server engine features (Always Encrypted, TDE, RLS, etc.).  But this session will take a look at security features focused on the Azure SQL Database; server firewall settings, Auditing  Threat detection,  Alert Rules, Role-based Access Control and configuring Azure AD Authentication.  If time permits, we will step through Dynamic Data Making via the Azure portal.  Hopefully the main take away will be a warm and fuzzy (and more secure) feeling about planning for cloud workloads.</description>
+      <startTime>12/3/2016 8:20:00 AM</startTime>
+      <endTime>12/3/2016 9:20:00 AM</endTime>
+    </event>
+    <event>
+      <importID>53784</importID>
+      <speakers>
+        <speaker>
+          <id>53784</id>
+          <name>James Serra</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>7-3 (Prof  Dev)</name>
+      </location>
+      <title>Enhancing your career: Building your personal brand</title>
+      <description>In three years I went from a complete unknown to a popular blogger, speaker at PASS Summit, and a SQL Server MVP.  Along the way I saw my yearly income triple.  Is it because I know some secret?  Is it because I am a genius?  No!  It is just about laying out your career path, setting goals, and doing the work.  It's about building your personal brand and stepping out of your comfort zone.  It's about overcoming your fear of taking risks.  If you can do those things, you will be rewarded.  I will discuss how you too can go from unknown to well-known.  I will talk about building your community presence by blogging, presenting, writing articles and books, twitter, LinkedIn, certifications, interviewing, networking, and consulting and contracting.  Your first step to enhancing your career will be to attend this session!</description>
+      <startTime>12/3/2016 9:45:00 AM</startTime>
+      <endTime>12/3/2016 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>53449</importID>
+      <speakers>
+        <speaker>
+          <id>53449</id>
+          <name>David Dye</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>7-4 (BI 1)</name>
+      </location>
+      <title>Location Location Location Preparing and Presenting Geographic Data </title>
+      <description>This session will begin with the tasks necessary to model a dimensional data structure to maintain and present geographic data.  We will discuss various requirements that can affect a data model such as granularity, surrogate keys, slowly changing dimensions.  Real life examples and solutions will provided to give better context to each step in the process.
+After the data structure has been created we will focus on how to best “clean” and validate the geographic data.  We will focus on using SSIS to obtain latitude and longitude and then how this can be converted SQL Server spatial types.
+Finally we will cover presenting this data using SSRS and Power Map and how to create dynamic and aesthetically pleasing graphical reports.  This portion of the session concentrates on presenting reports using the geographic data type that answer specific questions such as:
+Events that occurred at a specific address, zip code, and even block range and events within a mile radius.
+</description>
+      <startTime>12/3/2016 8:20:00 AM</startTime>
+      <endTime>12/3/2016 9:20:00 AM</endTime>
+    </event>
+    <event>
+      <importID>54299</importID>
+      <speakers>
+        <speaker>
+          <id>54299</id>
+          <name>Mindy Curnutt</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>7-3 (Prof  Dev)</name>
+      </location>
+      <title>Imposter Syndrome: Are You Faking It  Will they Find Out?</title>
+      <description>Have you ever thought to yourself  “All these people think I’m smarter than I really am" or "I really don’t know what I’m doing, they're going to figure out I'm a fraud!”  If yes, then you suffer from the Impostor Syndrome. And despite all the accomplishments, awards and accolades, you still doubt yourself. It’s rampant in the modern day tech workplace, and the fear will make you shrink back from opportunities. You dismiss praise. You overcompensate by working harder, being charming and demanding perfection from yourself. What would happen if you were released from this bondage, and kicked your impostor to the curb? In this session, learn 3 powerful techniques that can help to improve your confidence and silent that annoying voice in your head!</description>
+      <startTime>12/3/2016 1:40:00 PM</startTime>
+      <endTime>12/3/2016 2:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>54148</importID>
+      <speakers>
+        <speaker>
+          <id>54148</id>
+          <name>Allan Hirt</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>5-2 (DBA 2)</name>
+      </location>
+      <title>Top 10 Dos and Don’ts for Clustered SQL Server Implementations</title>
+      <description>Whether you are a new DBA or a seasoned veteran, clustered implementations of SQL Server can still vex many in one way or another. Physical, virtual, and cloud-based architectures all have different subtle complexities when it comes to deploying either clustered instances of SQL Server (FCIs) or availability groups (AGs) regardless if you are using an older version or SQL Server 2016. Storage, networking, Active Directory, quorum, the overall underlying Windows Server failover cluster, and more are topics that come up quite often. This session will cut to the chase and concentrate nearly 20 years of experience down into the most relevant aspects of planning, deployment, and administration of clustered implementations that every DBA should know. The ten dos and don’ts presented could not only mean the difference between success and failure, but whether your systems are up or down.</description>
+      <startTime>12/3/2016 9:45:00 AM</startTime>
+      <endTime>12/3/2016 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>54519</importID>
+      <speakers>
+        <speaker>
+          <id>54519</id>
+          <name>Niran Even-Chen</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>7-2 (Mixed)</name>
+      </location>
+      <title>SQL and VMware - more than just virtualization demos</title>
+      <description>The demos in this session have been developed to illustrate a few key capabilities of VMware vSphere and VMware NSX that can be used to enhance the overall SQL Server implementation. As a true platform of virtualized hardware, vSphere should be considered the premier platform on which to implement SQL Server. Features such as vSphere vMotion, vSphere HA, Distributed Resource Scheduler and Fault Tolerance are complimentary to all the features and capabilities of SQL Server and create an unparalleled combination of the world’s top RDBMS and the world’s most complete and effective virtualization proposition. With network virtualization NSX can provide security enhancements unachievable with any other technology and can streamline SQL server deployment automation processes. Please join us for this demonstration of advanced vSphere and NSX feature functionality and an explanation as to how this enhances your SQL Server environment.”</description>
+      <startTime>12/3/2016 1:40:00 PM</startTime>
+      <endTime>12/3/2016 2:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>55162</importID>
+      <speakers>
+        <speaker>
+          <id>55162</id>
+          <name>Sebastian Meine</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>7-3 (Prof  Dev)</name>
+      </location>
+      <title>The Phenomenal IT Consultant</title>
+      <description>Whether you are just starting out or have been in business as an IT consultant for a while, if you desire more clients or wonder how to finally achieve success online, you are not alone.
+In this session we’ll cover how to identify your target market and your niche. You will learn why a strong brand is vital to your success. You will discover how to make your ideal client want to work with you and pay you what you are worth, even if you hate the selling part.
+This session is for you…
+- if you are struggling to find enough new clients,
+- if you feel like you are the best-kept secret in your field or if prospects love you but don’t buy from you,
+- if you feel like you are treading water when it comes to marketing.
+Join this session and get started on your way to becoming a Phenomenal IT Consultant.</description>
+      <startTime>12/3/2016 3:05:00 PM</startTime>
+      <endTime>12/3/2016 4:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>54658</importID>
+      <speakers>
+        <speaker>
+          <id>54658</id>
+          <name>Stephen Frost</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>7-1 (Dev 1)</name>
+      </location>
+      <title>Introduction to PostgreSQL</title>
+      <description>PostgreSQL is a powerful, open source object-relational database system with decades of continuous active development and a proven architecture that has earned it a strong reputation for reliability, data integrity, and correctness. It runs on all major operating systems, including Linux, UNIX (AIX, BSD, HP-UX, SGI IRIX, Mac OS X, Solaris, Tru64), and Windows, is fully ACID compliant, has full support for foreign keys, joins, views, triggers, and stored procedures (in multiple languages).
+
+This talk will provide an introduction to PostgreSQL by one of the project's committers, including the overall architecture, major features, data types, and capabilities.</description>
+      <startTime>12/3/2016 3:05:00 PM</startTime>
+      <endTime>12/3/2016 4:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>55151</importID>
+      <speakers>
+        <speaker>
+          <id>55151</id>
+          <name>Adam Machanic</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate Dev</track>
+      <location>
+        <name>5-3 (Dev 2)</name>
+      </location>
+      <title>Don't Let History Be a Mystery! Temporal Data in SQL Server 2016</title>
+      <description>It's been said that the only constant is change, and no truism better defines the average database workload. With data constantly shifting in form and focus, DBAs and developers find themselves fielding myriad questions about whens and whys: When did this fact get updated? Why is data quality lower than it was last week? And where did my sales figures go?!? Solutions such as Change Tracking, Change Data Capture, and hand-rolled triggers can each be leveraged to help in this scenario, but with various ugly tradeoffs. SQL Server 2016 introduces Temporal Tables, a new technology that finally gets us what we've needed all along. In this session you'll learn how to enable seamless and automatic history collection, take control of a great query experience, and build on a solid platform to help your users understand data history. By taking advantage of this fantastic feature, you'll approach your next project ready to answer all of the questions that constant change brings to the table.</description>
+      <startTime>12/3/2016 8:20:00 AM</startTime>
+      <endTime>12/3/2016 9:20:00 AM</endTime>
+    </event>
+    <event>
+      <importID>55167</importID>
+      <speakers>
+        <speaker>
+          <id>55167</id>
+          <name>Rick Lowe</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>5-3 (Dev 2)</name>
+      </location>
+      <title>Why should I care about ... the plan cache?</title>
+      <description>SQL Server is a huge product, with many different places a DBA can go to look for information on how the server is performing. So many in fact that they can often overlap, which sometimes makes it hard to understand why tackling a new tool is worth the effort. In this installment of Rick's "Why should I care" series, he lays out a case for why working knowledge of the plan cache is critical for performance tuning efforts in real world environments. A review of relevant views and functions is included for the (newly?) motivated audience.
+
+Perfect for those who are relatively new to performance tuning concerns, or advanced DBAs trying to figure out how to have a similar conversation with their less experienced peers, or developers who are curious as to why their DBAs drink in the morning (allegedly). This is not a deep dive into the cache, it really is primarily a session exploring _why_ these DMOs are worth slogging through.</description>
+      <startTime>12/3/2016 11:10:00 AM</startTime>
+      <endTime>12/3/2016 12:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>55002</importID>
+      <speakers>
+        <speaker>
+          <id>55002</id>
+          <name>John Morehouse</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>5-2 (DBA 2)</name>
+      </location>
+      <title>SQL Server Databaseology: A Deep Dive Into Database Internals</title>
+      <description>Have you ever taken apart a toaster or an alarm clock just to see how it worked? Ever wondered how that database actually functions at the record level, behind the scenes? SQL Server Databaseology is the study of SQL Server databases and their structures down to the very core of the records themselves. In this session, we will explore some of the deep inner workings of a SQL Server database at the record and page level.  You will walk away with a better understanding of how SQL Server stores data and that knowledge will allow you to build better, faster databases.</description>
+      <startTime>12/3/2016 11:10:00 AM</startTime>
+      <endTime>12/3/2016 12:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>55170</importID>
+      <speakers>
+        <speaker>
+          <id>55170</id>
+          <name>Brad McKuhen</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate BI</track>
+      <location>
+        <name>7-4 (BI 1)</name>
+      </location>
+      <title>Extending the SSIS Framework to be region aware</title>
+      <description>In this demo-heavy session, we will extend the EntDNA SSIS Framework Community Edition to become region aware, tackling the problem of running groups of packages around the world on multiple servers, and get the results back to the calling server, all using a centralized, coordinated schedule.</description>
+      <startTime>12/3/2016 3:05:00 PM</startTime>
+      <endTime>12/3/2016 4:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>55161</importID>
+      <speakers>
+        <speaker>
+          <id>55161</id>
+          <name>Sebastian Meine</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>7-1 (Dev 1)</name>
+      </location>
+      <title>Unit-Testing in SQL Server - An Introduction</title>
+      <description>It’s bad enough to spend hours finding and fixing database defects, explaining to the rest of the team what went wrong and trying to clean up the mess. It’s even worse when a defect causes the end-user to make a bad decision. Database defects are far too costly and most testing practices do not adequately detect or prevent them.
+
+In this session you’ll learn techniques to write SQL code that is resilient to defects and is easier to change and maintain. We will cover writing simple unit tests and look into more advanced topics such as faking tables and spying procedures. We will also look at how unit testing improves code quality and maintainability.
+
+You will leave this session ready to write unit tests for your own environment to get started on the way to a defect-free and maintainable SQL Server code base.</description>
+      <startTime>12/3/2016 1:40:00 PM</startTime>
+      <endTime>12/3/2016 2:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>54598</importID>
+      <speakers>
+        <speaker>
+          <id>54598</id>
+          <name>Mike Hillwig</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>5-1 (DBA 1)</name>
+      </location>
+      <title>Rewriting Your Checklist for SQL 2016</title>
+      <description>How big should the page file be for Windows Server 2016? How many data files should SQL Server 2016's TempDB contain? What trace flags should we use by default now?
+ 
+These are questions you addressed long ago in your setup checklist. You've spent a lot of time with that checklist, and you're sure it's perfect. Or is it? When was the last time you visited that checklist?  Does it make sense for SQL 2014? What about SQL 2016? Change is hard, and DBAs need to constantly challenge yesterday's best practices to ensure they meet today's business needs.
+ 
+Join veteran DBA Mike Hillwig and his list of server administration best practices that need to be revisited for modern versions of SQL Server, especially SQL 2016.</description>
+      <startTime>12/3/2016 1:40:00 PM</startTime>
+      <endTime>12/3/2016 2:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>54909</importID>
+      <speakers>
+        <speaker>
+          <id>54909</id>
+          <name>William Wolf</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>7-1 (Dev 1)</name>
+      </location>
+      <title>Blue Collar SQL Tricks - Make Standard Edition Work for you.</title>
+      <description>You want Enterprise Edition of SQL Server? Not gonna happen!  When we are limited by having just the Standard version we have to dig into our “Blue Collar” roots, we need to become more creative and squeeze every penny it has to offer out of it.
+
+In this session, we will review some of the limitations that Standard has.  Then review items such as basic normalization and  High Availability options available to Standard.   You will also learn Blue Collar techniques to implement partitioning using techniques like as indexed views and partitioned views.
+
+Let’s dig in and learn to make use of all we have until we beg our bosses enough to get Enterprise Edition!</description>
+      <startTime>12/3/2016 11:10:00 AM</startTime>
+      <endTime>12/3/2016 12:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>55169</importID>
+      <speakers>
+        <speaker>
+          <id>55169</id>
+          <name>Rick Lowe</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>7-1 (Dev 1)</name>
+      </location>
+      <title>Why Should I Care About ... Partitioned Views?</title>
+      <description>Partitioned tables are awesome and partitioned views are dead, right? Well, sure partitioned views are not sexy but there are still plenty of applications where they are critical. And not necessarily just for standard edition. If your data is time stamped, do you see different queries run against older data than new data? Do you with you could segment your data across multiple columns? Do you have data you need to partition horizontally? It's possible partitioned views may still be for you. Come hear why this is still an important topic long after cargo pants and trucker hats went away.</description>
+      <startTime>12/3/2016 8:20:00 AM</startTime>
+      <endTime>12/3/2016 9:20:00 AM</endTime>
+    </event>
+    <event>
+      <importID>53942</importID>
+      <speakers>
+        <speaker>
+          <id>53942</id>
+          <name>Andrew Kelly</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate DBA</track>
+      <location>
+        <name>5-2 (DBA 2)</name>
+      </location>
+      <title>Query Store – What is it all about?</title>
+      <description>SQL 2016 brings us many new features but one of the most anticipated is surely the Query Store. The Query Store now allows us to track query plans as they change over time giving us a whole slew of new possibilities when it comes to tuning our queries. Even just the ability to compare a previous plan to a new plan is a huge step towards understanding what may be happening in our instance. We can even tell the optimizer which plan we want it to use. These were all either extremely difficult to do before and in some cases impossible to do. This session will give you the insight to get started using this new and wonderful feature set.</description>
+      <startTime>12/3/2016 3:05:00 PM</startTime>
+      <endTime>12/3/2016 4:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>53533</importID>
+      <speakers>
+        <speaker>
+          <id>53533</id>
+          <name>Thomas Grohser</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>5-1 (DBA 1)</name>
+      </location>
+      <title>Security 101</title>
+      <description>Integrating security into your database design. Learn how to use roles, schemas and encryption to secure the data.  A very demo rich session that will introduce you to security on the database level. We start with understanding GRANT, REVOKE and DENY while working our way through the object hierarchy till we end up at the column level when we have a lock at encryption. This session will also cover new SQL 2016 security features and how to use them correctly.  </description>
+      <startTime>12/3/2016 3:05:00 PM</startTime>
+      <endTime>12/3/2016 4:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>53994</importID>
+      <speakers>
+        <speaker>
+          <id>53994</id>
+          <name>Mark Hudson</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate BI</track>
+      <location>
+        <name>7-5 (BI 2)</name>
+      </location>
+      <title>Introducing Azure Machine Learning</title>
+      <description>Not satisfied with Multidimensional Analysis Services’ data mining or maybe you are using Tabular Analysis Services? Looking for a  flexible and robust predictive analytics tool? Consider Azure Machine Learning … a cloud service for advanced analytics. In this session, I quickly describe concepts and terms before jumping straight into a start-to-finish AML experiment. Join me to see how AML might meet your advanced data analysis needs.</description>
+      <startTime>12/3/2016 3:05:00 PM</startTime>
+      <endTime>12/3/2016 4:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>53669</importID>
+      <speakers>
+        <speaker>
+          <id>53669</id>
+          <name>Ayman El-Ghazali</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>7-5 (BI 2)</name>
+      </location>
+      <title>PolyBase: I now pronounce you SQL and Hadoop</title>
+      <description>If you thought the Royal wedding of 2011 was a big deal, then you#39;re about to be blown away! This is a match made in Data Heaven. You#39;re all invited, no need to RSVP, there is plenty of food for thought in this session. There will be some background talk and a demo for querying and creating data on HDFS (using Azure Blobs). As a special gift to the happy couple, we will also have a special demo with JSON documents. This will be the greatest coming together of 2016! See you there!</description>
+      <startTime>12/3/2016 1:40:00 PM</startTime>
+      <endTime>12/3/2016 2:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>54688</importID>
+      <speakers>
+        <speaker>
+          <id>54688</id>
+          <name>Jessica Moss</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>7-4 (BI 1)</name>
+      </location>
+      <title>Introduction to SQL Server Integration Services 2016</title>
+      <description>SQL Server Integration Services (SSIS) provides database administrators, business intelligence developers, and application programmers the ability to quickly and easily move and transform data.  Whether your data in on-premises or in the cloud, within SQL Server or stored in text files, clean or dirty, SSIS can help you extract, transform, and load (ETL) the information.  Join this session to learn more about SSIS, specifically how to develop, deploy, and maintain SSIS packages.</description>
+      <startTime>12/3/2016 1:40:00 PM</startTime>
+      <endTime>12/3/2016 2:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>53371</importID>
+      <speakers>
+        <speaker>
+          <id>53371</id>
+          <name>Jamie Wick</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>5-1 (DBA 1)</name>
+      </location>
+      <title>Automated SQL Server installation and configuration using PowerShell</title>
+      <description>Using the SQL setup wizard and management studio (SSMS) to install and configure a new SQL server is a time-intensive process.  PowerShell scripts can greatly reduce the time required to complete the process.  They can also ensure build standardization throughout your SQL environment.  In this session we will look at PowerShell scripting, including the basic syntax and commandlets needed to automate the installation and post-install configuration of a SQL Server.
+</description>
+      <startTime>12/3/2016 8:20:00 AM</startTime>
+      <endTime>12/3/2016 9:20:00 AM</endTime>
+    </event>
+    <event>
+      <importID>54568</importID>
+      <speakers>
+        <speaker>
+          <id>54568</id>
+          <name>Wayne Sheffield</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>5-2 (DBA 2)</name>
+      </location>
+      <title>SQL Server 2016: Temporal Tables and Dynamic Data Masking</title>
+      <description>SQL Server 2016 introduces many new features and enhancements. This session will look into two of those: Temporal Tables and Dynamic Data Masking. Temporal Tables simplifies the task of building a history table to track all data changes so that you can see how the data looked at a specific point in time, while Dynamic Data Masking is used to obfuscate data from users (for example, show just the last 4 characters of your SSN). This session is &gt;90% demos!</description>
+      <startTime>12/3/2016 1:40:00 PM</startTime>
+      <endTime>12/3/2016 2:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>54956</importID>
+      <speakers>
+        <speaker>
+          <id>54956</id>
+          <name>Rie Irish</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>7-3 (Prof  Dev)</name>
+      </location>
+      <title>WIT: Identifying, Understanding and Combating Gender Bias</title>
+      <description>Gender Bias is something we're all guilty of. It's typically unconscious and often stems from long held misperceptions about women and job responsibilities. We'll learn about the origins of some of these biases and how to identify gender bias when we see it. We'll discuss some strategies for how both men and women can combat this at work and in our every day lives. This session is about developing positive solutions to a problem that often goes undiscussed.</description>
+      <startTime>12/3/2016 11:10:00 AM</startTime>
+      <endTime>12/3/2016 12:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>55138</importID>
+      <speakers>
+        <speaker>
+          <id>55138</id>
+          <name>Kendra Little</name>
+        </speaker>
+      </speakers>
+      <track>Intro DBA</track>
+      <location>
+        <name>5-1 (DBA 1)</name>
+      </location>
+      <title>Troubleshooting Blocking for Beginners</title>
+      <description>Your SQL Server is slow, and you suspect blocking. You need to set up simple, lightweight monitoring using free tools to document who’s holding locks, who’s stuck waiting, and which queries are causing deadlocks. In this session we will work through three common scenarios where blocking problems steal your performance -- and sometimes even kill your queries! You'll learn how to cut through the confusion with free scripts that reveal why queries are slowing down your SQL Server.</description>
+      <startTime>12/3/2016 9:45:00 AM</startTime>
+      <endTime>12/3/2016 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>54959</importID>
+      <speakers>
+        <speaker>
+          <id>54959</id>
+          <name>Amy Herold</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>7-2 (Mixed)</name>
+      </location>
+      <title>Hi, my name is Powershell, let's be friends! An Intro to PoSH</title>
+      <description>Powershell wants to be your friend - your very powerful friend. In this session we will go over some Powershell basics that will help get you started as well as some known "gotchas" when working in Powershell. This is a beginner session - no Powershell experience necessary. WARNING: You may get warm-fuzzies about Powershell by attending this session.</description>
+      <startTime>12/3/2016 3:05:00 PM</startTime>
+      <endTime>12/3/2016 4:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>54829</importID>
+      <speakers>
+        <speaker>
+          <id>54829</id>
+          <name>Monica Rathbun</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>5-1 (DBA 1)</name>
+      </location>
+      <title>I’m It – Survival Techniques for the Lone DBA</title>
+      <description>Are you the only database person at your company? Are you both the DBA and the Developer? Being the only data professional in an environment can seem overwhelming, daunting, and darn near impossible sometimes. However, it can also be extremely rewarding and empowering.  This session will cover how you can keep your sanity, get stuff done, and still love your job. We’ll cover how I have survived and thrived being a Lone DBA for 15 years and how you can too.  When you finish this session, you’ll know what you can do to make your job easier, where to find help, and how to still be able to advance and enrich your career.</description>
+      <startTime>12/3/2016 11:10:00 AM</startTime>
+      <endTime>12/3/2016 12:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>53551</importID>
+      <speakers>
+        <speaker>
+          <id>53551</id>
+          <name>Alex Grinberg</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate DBA</track>
+      <location>
+        <name>5-3 (Dev 2)</name>
+      </location>
+      <title>CONVERT_IMPLICIT is a hidden danger</title>
+      <description>Abstract: The CONVERT_IMPLICIT operator is part of an execution plan. When an execution plan has a CONVERT_IMPLICIT operator, this is a signal that “your statement has a problem”. This presentation will show you how to detect the Execution Plans with CONVERT_IMPLICIT operator; how to find the statement that causes conversion, and what DMVs can help to solve the problem. It will also show you the solution to collect the Execution Plans with CONVERT_IMPLICIT operator across the servers.</description>
+      <startTime>12/3/2016 1:40:00 PM</startTime>
+      <endTime>12/3/2016 2:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>54901</importID>
+      <speakers>
+        <speaker>
+          <id>54901</id>
+          <name>Andy Mallon</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>7-2 (Mixed)</name>
+      </location>
+      <title>Demystifying Data Compression</title>
+      <description>High-end storage is expensive, and SQL Server data compression can make your database smaller. So compress all the tables! 
+
+No--unfortunately, it's not that easy. We'll talk about how data compression actually works, and the differences between ROW and PAGE compression. As part of this, we'll look at the costs and benefits associated with each type of compression. By the end of this session, you'll have a better idea of how the different compression algorithms work, when compression is the right solution, as well as what type of compression to use.</description>
+      <startTime>12/3/2016 8:20:00 AM</startTime>
+      <endTime>12/3/2016 9:20:00 AM</endTime>
+    </event>
+    <event>
+      <importID>54314</importID>
+      <speakers>
+        <speaker>
+          <id>54314</id>
+          <name>Slava Murygin</name>
+        </speaker>
+      </speakers>
+      <track>Intermediate DBA</track>
+      <location>
+        <name>5-3 (Dev 2)</name>
+      </location>
+      <title>SQL Server on Windows Core. Installation and Configuration.</title>
+      <description>Would you consider building your next SQL Server in Windows Core Environment?
+Do you have enough knowledge?
+In this session we will go step by step  through an installation, remote configuration and administration of SQL Server using PowerShell scripts.</description>
+      <startTime>12/3/2016 9:45:00 AM</startTime>
+      <endTime>12/3/2016 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>54784</importID>
+      <speakers>
+        <speaker>
+          <id>54784</id>
+          <name>Eugene Meidinger</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>7-5 (BI 2)</name>
+      </location>
+      <title>PowerBI Internals</title>
+      <description>This session takes a deeper dive into PowerBI. We won't be explaining the individual components, instead we will take time to go through the technology behind the scenes. We will dig into the Vertipaq engine and how it affects performance. We will look into how customer visuals are made. Finally, we will quickly cover the architecture of the Power BI Service.</description>
+      <startTime>12/3/2016 8:20:00 AM</startTime>
+      <endTime>12/3/2016 9:20:00 AM</endTime>
+    </event>
+    <event>
+      <importID>54298</importID>
+      <speakers>
+        <speaker>
+          <id>54298</id>
+          <name>Mindy Curnutt</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>5-3 (Dev 2)</name>
+      </location>
+      <title>Fun with SQL Server Spatial Data</title>
+      <description>This session is an introduction to the spatial features in SQL Server. In this session, you will learn how to create, procure and leverage spatial data.  You will be made aware of tools you can use to integrate your own spatial data with a variety of public data sources such as the Census Bureau, National Weather Service, etc. Functions and T-SQL commands related to spatial data analysis will be demonstrated. We will end the session by using the geometry data type to actually mimic a bitmapped picture using SQL (that's the fun part!).</description>
+      <startTime>12/3/2016 3:05:00 PM</startTime>
+      <endTime>12/3/2016 4:05:00 PM</endTime>
+    </event>
+    <event>
+      <importID>53345</importID>
+      <speakers>
+        <speaker>
+          <id>53345</id>
+          <name>David Patrick</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>7-4 (BI 1)</name>
+      </location>
+      <title>Using Excel Web Services to Create Dashboards in SharePoint</title>
+      <description>In this session, we'll do a deep dive into Excel Web Services, a feature of SharePoint, that allows us to use Excel to create custom dashboards. Dashboards are pages served up by SharePoint and we'll look at how to create these pages, add Excel Web Services web parts to these pages, and arrange these web parts and "connect" these parts to communicate with each other, to create interactive, updating dashboards for our users.</description>
+      <startTime>12/3/2016 9:45:00 AM</startTime>
+      <endTime>12/3/2016 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>55156</importID>
+      <speakers>
+        <speaker>
+          <id>55156</id>
+          <name>Ed Leighton-Dick</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>7-1 (Dev 1)</name>
+      </location>
+      <title>Understanding SQL Server 2016 Always Encrypted</title>
+      <description>Always Encrypted is a highly-touted new feature of SQL Server 2016 that promises to make encryption simple to use and transparent to applications while still protecting the data both at rest and in motion, even from high-privilege users such as developers and DBAs.  Does that sound too good to be true?  It isn’t - Always Encrypted is an incredible feature - but like any new technology, it does have some limitations.  In this session, you’ll see how to configure Always Encrypted, and we’ll talk about when you should and shouldn’t use it in your environment.</description>
+      <startTime>12/3/2016 9:45:00 AM</startTime>
+      <endTime>12/3/2016 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>54689</importID>
+      <speakers>
+        <speaker>
+          <id>54689</id>
+          <name>Jessica Moss</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>7-4 (BI 1)</name>
+      </location>
+      <title>Introduction to SQL Server Reporting Services 2016</title>
+      <description>Reports, dashboards, and indicators are an essential part of your job as a report analyst.  SQL Server Reporting Services (SSRS) 2016 gives you the ability to create these items to share with coworkers and management.  This session will walk you through how to design, develop, deploy, and maintain reports within your environment.  As a bonus, we will cover mobile reports, introduced in SSRS 2016!</description>
+      <startTime>12/3/2016 11:10:00 AM</startTime>
+      <endTime>12/3/2016 12:10:00 PM</endTime>
+    </event>
+    <event>
+      <importID>53424</importID>
+      <speakers>
+        <speaker>
+          <id>53424</id>
+          <name>Kevin Feasel</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>7-5 (BI 2)</name>
+      </location>
+      <title>R For the SQL Server Developer</title>
+      <description>R is the premiere language for data analysis.  If the world of data science sounds fun and exciting, now is the time to get into R.  We will walk through the core constructs of R, learn how to retrieve data from flat files and databases, and get a peek at the power behind R.  This session will also give resources on where to go in order to become more familiar with statistics, R the language, and the R package ecosystem.</description>
+      <startTime>12/3/2016 9:45:00 AM</startTime>
+      <endTime>12/3/2016 10:45:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

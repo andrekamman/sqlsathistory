@@ -1,0 +1,1408 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #813 - Boston - BI Edition 2019</name>
+    <startDate>3/30/2019 12:00:00 AM</startDate>
+    <attendeeEstimate>350</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatBostonBI</twitterHashtag>
+    <venue>
+      <name>Microsoft (Burlington, MA)</name>
+      <street>5 Wayside Road</street>
+      <city>Burlington</city>
+      <state>Massachusetts</state>
+      <zipcode>01803</zipcode>
+      <longitude>-71.1914963722229</longitude>
+      <latitude>42.4840296872445</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/972/EventSponsor_14605.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>360</importID>
+      <name>Actifio</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.actifio.com</url>
+      <imageURL>https://d38mhi8jtu7akf.cloudfront.net/wp-content/uploads/2014/10/actifio-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>89</importID>
+      <name>Profisee</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.profisee.com</url>
+      <imageURL>https://www.profisee.com/Portals/0/lp/assets/img/logo_profisee.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1613</importID>
+      <name>WhereScape USA, Inc.</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.wherescape.com</url>
+      <imageURL>https://wwdvc.com/wp-content/uploads/RED-Logo-no-tagline.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>3</importID>
+      <name>Idera</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.idera.com/Content/Home.aspx</url>
+      <imageURL>https://www.sqlsaturday.com/images/SQLSaturday/eventsponsors/IDERA170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1817</importID>
+      <name>SentryOne</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.sentryone.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/908/EventSponsor_14257.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2339</importID>
+      <name>Ntirety</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.ntirety.com/</url>
+      <imageURL>https://www.ntirety.com/wp-content/uploads/2019/02/logo_ntirety.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1588</importID>
+      <name>Quest</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/967/EventSponsor_14754.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>23</importID>
+      <name>Pragmatic Works</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.pragmaticworks.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/973/EventSponsor_14499.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2351</importID>
+      <name>Insight Digital Innovation</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.insight.com/en_US/solve/digital-innovation.html</url>
+      <imageURL>https://www.insight.com/content/dam/insight/en_US/edm-template-images/update/edm-insight-DI-top-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2350</importID>
+      <name>Merrimack College</name>
+      <label>Bronze Sponsor</label>
+      <url>http://onlinedsa.merrimack.edu/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/877/EventSponsor_14176.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1817</importID>
+      <name>SentryOne</name>
+      <label>Beginner Sponsor</label>
+      <url>https://www.sentryone.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/908/EventSponsor_14257.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2386</importID>
+      <name>Data Advantage Group</name>
+      <label>Beginner Sponsor</label>
+      <url>https://www.dag.com/</url>
+      <imageURL>https://www.dag.com/hubfs/social-suggested-images/DAG_New_Logo-1.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2384</importID>
+      <name>Shova K. Sharma, Executive Council Agent, Newyork Life</name>
+      <label>Beginner Sponsor</label>
+      <url>http://www.shovaksharma.com/</url>
+      <imageURL>http://www.shovaksharma.com/files/89137/Shova.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>87926</importID>
+      <name>Andy Leonard</name>
+      <label>
+      </label>
+      <description>Andy Leonard is founder and Chief Data Engineer at Enterprise Data  Analytics, Microsoft Data Platform MVP, creator of the DILM (Data Integration Lifecycle Management) Suite, an SSIS trainer, consultant, developer, Business Intelligence Markup Language (Biml) developer and BimlHero, SQL Server database and data warehouse developer, community mentor, engineer, and farmer. He is a co-author of "The Biml Book and SQL Server Integration Services Design Patterns" and author of "Managing Geeks - A Journey of Leading by Doing", "Data Integration Lifecycle Management with SSIS", "Building Custom Tasks for SSIS", and the "Stairway to Integration Services". Andy blogs at andyleonard.blog where you can learn more on the About Andy page.</description>
+      <twitter>AndyLeonard</twitter>
+      <linkedin>http://www.linkedin.com/in/AndyLeonard</linkedin>
+      <ContactURL>https://andyleonard.blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=AndyLeonard</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88977</importID>
+      <name>John Miner</name>
+      <label>
+      </label>
+      <description>John Miner is currently a Data Architect at Insight DI (BlueMetal) advising corporations on how to solve their business needs with data platform solutions.
+
+He has over twenty five years of data processing experience, and his architecture expertise encompasses all phases of the software project life cycle, including design, development, implementation, and maintenance of systems.
+
+He has an undergraduate and graduate degrees in Computer Science from the University of Rhode Island.  Other credentials include an up to date MCSE certificate and currently taking the Data Science program from EDX.
+
+Before joining BlueMetal, John won the Data Platform MVP award in 2014 and 2015 for his outstanding contributions to the SQL Server community.</description>
+      <twitter>https://twitter.com/JohnMiner3</twitter>
+      <linkedin>https://www.linkedin.com/in/minerjohn/</linkedin>
+      <ContactURL>https://www.mssqltips.com/sqlserverauthor/154/john-miner/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/JohnMiner3</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85768</importID>
+      <name>Jessica Jolly</name>
+      <label>
+      </label>
+      <description>I am a Microsoft Certified Trainer with an MCSE in Data Analytics, with a practice focused on Power BI specifically, and the Power Platform more generally.  I focus my training on teaching business analysts the practical uses of the features and functionality in Microsoft Office applications, with a special focus on Power BI, Excel, Power Pivot (Excel 2016), and the Power Query Editor. 
+I speak regularly at Power Platform events (both World Tour and Summit) and SQL Saturdays.
+I blog at www.altentertraining.com. I tweet at @JBJ2110 when I am at professional seminars and conferences. You can connect with me on LinkedIn at https://www.linkedin.com/in/jessicabjolly/ and on Facebook at https://www.facebook.com/ALTEnter/.</description>
+      <twitter>JBJ2110</twitter>
+      <linkedin>http://www.linkedin.com/in/jessicabjolly/</linkedin>
+      <ContactURL>https://www.altentertraining.com/bitybybyteblog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=JBJ2110</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87054</importID>
+      <name>Belinda Allen</name>
+      <label>
+      </label>
+      <description>Belinda Allen is a (Power BI) Data Platform Microsoft Most Valuable Professional (MVP).
+Belinda has just completed her second book, Building Dashboards with Microsoft Dynamics GP 2016 -  Second Edition.
+Belinda is also an inaugural member of the Board of Advisors for PBIUG (Power BI User Group.)  
+Belinda is also well known for her blog, www.BelindaTheGPcsi.com. On her blog, she shares really useful information about the product quickly and succinctly. With followers from all over the globe, she can share knowledge and achieve her mission: “To improve the lives and business success of my followers.”</description>
+      <twitter>MsBelindaAllen</twitter>
+      <linkedin>https://www.linkedin.com/in/msbelindaallen/</linkedin>
+      <ContactURL>http://www.BIBelinda.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MsBelindaAllen</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85844</importID>
+      <name>Edward Pollack</name>
+      <label>
+      </label>
+      <description>Ed Pollack has over 20 years of experience in database and systems administration, which has developed his passion for performance optimization, database design, and making things go faster. He has spoken at many SQLSaturdays, 24 Hours of PASS, and PASS Summit. This led him to organize SQLSaturday Albany, which has become an annual event for New York’s Capital Region. Sharing these experiences with the community is a top priority, and encouraging everyone to take the leap into public speaking and engaging others, a passion.
+In his free time, Ed enjoys video games, traveling, cooking exceptionally spicy foods, and hanging out with his amazing wife and sons.</description>
+      <twitter>EdwardPollack</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=81593638</linkedin>
+      <ContactURL>https://www.sqlshack.com/author/edward-pollack/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=EdwardPollack</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88930</importID>
+      <name>Beth Wolfset</name>
+      <label>
+      </label>
+      <description>Beth Wolfset has more than twenty-five years of data architecture, analysis, modeling, development and administration experience. She has presented at several conferences and user groups. She has worked primarily in the Healthcare and Defense industries. Beth strives to create practical data solutions that balance current requirements with the needs of the future.  She has a MS in CS from Northeastern University,  a BA in CS and Psychology from Clark University, and a Data Science Certification from Johns Hopkins University.</description>
+      <twitter>@beth_wolfset</twitter>
+      <linkedin>https://www.linkedin.com/in/beth-wolfset-86114b7</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@beth_wolfset</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88996</importID>
+      <name>Taiob Ali</name>
+      <label>
+      </label>
+      <description>Taiob Ali, MVP Data Platform, is an accomplished technical leader with a proven record of success. For 14 years, he has worked with the Microsoft Data Platform and MongoDB both on-premise and cloud. His experience includes all three major business sectors: finance, e-commerce, and healthcare. Taiob has hands-on experience in managing large database projects, massive data migration, intricate process design, testing and deployment, performance tuning, long term capacity planning.
+Taiob is currently working at “GMO LLC” as a Database Solution Manager, focusing on cloud migration, automation, improving, and streamlining operational workflow. He is a regular speaker at local and virtual PASS chapters, SQL Saturdays, and Azure conferences.</description>
+      <twitter>SqlWorldWide</twitter>
+      <linkedin>http://www.linkedin.com/in/sqlworldwide</linkedin>
+      <ContactURL>http://www.sqlworldwide.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SqlWorldWide</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86024</importID>
+      <name>James Serra</name>
+      <label>
+      </label>
+      <description>James Serra is a big data and data warehousing solution architect at Microsoft.  He is a thought leader in the use and application of Big Data and advanced analytics. Previously, James was an independent consultant working as a Data Warehouse/Business Intelligence architect and developer. He is a prior SQL Server MVP with over 35 years of IT experience. James is a popular blogger (JamesSerra.com) and speaker. He is the author of the book “Reporting with Microsoft SQL Server 2012”.</description>
+      <twitter>www.twitter.com/JamesSerra</twitter>
+      <linkedin>http://www.linkedin.com/in/JamesSerra</linkedin>
+      <ContactURL>http://www.JamesSerra.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=www.twitter.com/JamesSerra</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87051</importID>
+      <name>John Miner</name>
+      <label>
+      </label>
+      <description>John Miner is currently a Data Architect at Insight DI (BlueMetal) advising corporations on how to solve their business needs with data platform solutions.
+
+He has over twenty five years of data processing experience, and his architecture expertise encompasses all phases of the software project life cycle, including design, development, implementation, and maintenance of systems.
+
+He has an undergraduate and graduate degrees in Computer Science from the University of Rhode Island.  Other credentials include an up to date MCSE certificate and currently taking the Data Science program from EDX.
+
+Before joining BlueMetal, John won the Data Platform MVP award in 2014 and 2015 for his outstanding contributions to the SQL Server community.</description>
+      <twitter>https://twitter.com/JohnMiner3</twitter>
+      <linkedin>https://www.linkedin.com/in/minerjohn/</linkedin>
+      <ContactURL>https://www.mssqltips.com/sqlserverauthor/154/john-miner/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/JohnMiner3</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90039</importID>
+      <name>Andy Yun</name>
+      <label>
+      </label>
+      <description>Andy Yun is a SentryOne Principal Solutions Engineer and a former Microsoft MVP. He has been working with SQL Server for nearly 20 years as both a Database Developer and Administrator. Leveraging knowledge of SQL Server Internals and extensive experience in highly transactional environments, he strives to make T-SQL leaner and meaner. Andy is extremely passionate about passing knowledge onto others, regularly speaking at User Groups, SQL Saturdays, and PASS Summit. Andy is a co-founder of the Chicago SQL Association, co-Chapter Leader of the Chicago Suburban User Group, and part of the Chicago SQL Saturday Organizing Committee.</description>
+      <twitter>SQLBek</twitter>
+      <linkedin>http://www.linkedin.com/in/sqlbek</linkedin>
+      <ContactURL>http://sqlbek.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLBek</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86975</importID>
+      <name>Steve Simon</name>
+      <label>
+      </label>
+      <description>Steve Simon is a Database Solutions Architect with Business Knowledge Services Inc. He has been involved with database design and analysis for over 35 years. Steve has presented papers at numerous PASS Summits and PASS SQL Rallies. He is also regular presenter on the SQL Saturday circuit and he is a contributor on SQLShack.com</description>
+      <twitter>SQLServerBoffin</twitter>
+      <linkedin>http://www.linkedin.com/in/stephenrsimon/</linkedin>
+      <ContactURL>http://www.sqlservercentral.com/blogs/simon_says/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLServerBoffin</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86145</importID>
+      <name>Leslie Andrews</name>
+      <label>
+      </label>
+      <description>Leslie Andrews is an IT professional with almost 20 years of experience working with databases, designing databases, as well as designing and developing applications against those databases. 2018-2019 Idera ACE.</description>
+      <twitter>landrews5807</twitter>
+      <linkedin>https://www.linkedin.com/pub/leslie-andrews-csm/9/491/b89</linkedin>
+      <ContactURL>https://www.lace.technology/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=landrews5807</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89105</importID>
+      <name>Meghana Vasavada</name>
+      <label>
+      </label>
+      <description>I'm currently a SQL Server Developer Consultant working for one of the clients of an IT Consulting firm in New Jersey, and have a Master's degree in Bioinformatics from NJIT, USA. With over five years of Professional experience using MS SQL Server Database, I have extensive knowledge and solid understanding of Data warehouse concepts with strong expertise in T-SQL Objects, Business Intelligence (SSIS, SSAS, SSRS, and Power BI) and Database Administration. My curiosity in understanding the complexity across the data further enhanced me to pursue a certification in Data Science and Big Data Analysis. Last but foremost, I love to learn and share knowledge.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/meghana-vasavada-4a654b2a/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86987</importID>
+      <name>Varsham Papikian</name>
+      <label>
+      </label>
+      <description>Varsham Papikian has 20+ years of experience working with databases and different Microsoft technologies.
+ He works as a Principal Database Architect, Developer and DBA at Wolters Kluwer Financial Services. He speaks at different events like SQLSaturday or user group meetings. Varsham helped to start and then run 'Boston Business Intelligence' user group for some time. Previously he was also involved in running 'New England SQL Server' user group.</description>
+      <twitter>https://twitter.com/SQLVAR</twitter>
+      <linkedin>http://www.linkedin.com/in/varshampapikian</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/SQLVAR</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89656</importID>
+      <name>Tyler Graham</name>
+      <label>
+      </label>
+      <description>asdf</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88336</importID>
+      <name>Rodney Landrum</name>
+      <label>
+      </label>
+      <description>Rodney Landrum has been architecting solutions for SQL Server for over 12 years. He has worked with and written about many SQL Server technologies, including DTS, Integration Services, Analysis Services, and Reporting Services. He has co-authored 4 books on Reporting Services. He is been a regular contributor to SQL Server magazine, sqlservercentral.com and Simple-talk.com. Rodney is also SQL Server MVP</description>
+      <twitter>@SQLBeat</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://www.simple-talk.com/blogs/author/2133-rodney-landrum/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLBeat</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89113</importID>
+      <name>Varsham Papikian</name>
+      <label>
+      </label>
+      <description>Varsham Papikian has 20+ years of experience working with databases and different Microsoft technologies.
+ He works as a Principal Database Architect, Developer and DBA at Wolters Kluwer Financial Services. He speaks at different events like SQLSaturday or user group meetings. Varsham helped to start and then run 'Boston Business Intelligence' user group for some time. Previously he was also involved in running 'New England SQL Server' user group.</description>
+      <twitter>https://twitter.com/SQLVAR</twitter>
+      <linkedin>http://www.linkedin.com/in/varshampapikian</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/SQLVAR</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88818</importID>
+      <name>Sreeja Pullagura</name>
+      <label>
+      </label>
+      <description>DevOps practitioner
+Application developer</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92194</importID>
+      <name>Beth Wolfset</name>
+      <label>
+      </label>
+      <description>Beth Wolfset has more than twenty-five years of data architecture, analysis, modeling, development and administration experience. She has presented at several conferences and user groups. She has worked primarily in the Healthcare and Defense industries. Beth strives to create practical data solutions that balance current requirements with the needs of the future.  She has a MS in CS from Northeastern University,  a BA in CS and Psychology from Clark University, and a Data Science Certification from Johns Hopkins University.</description>
+      <twitter>@beth_wolfset</twitter>
+      <linkedin>https://www.linkedin.com/in/beth-wolfset-86114b7</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@beth_wolfset</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85760</importID>
+      <name>Chris Seferlis</name>
+      <label>
+      </label>
+      <description>Chris Seferlis is a Sr Cloud Solution Architect at Microsoft. He has 20+ years’ experience working in IT and solving technical challenges from a business perspective. Chris is a former CIO with an MBA from UMass, bringing a mix of business acumen and practical technology solutions, primarily focusing on Data and AI within the Microsoft Data Platform, including MCSA and MCT designations.</description>
+      <twitter>bizdataviz</twitter>
+      <linkedin>http://www.linkedin.com/in/cseferlis</linkedin>
+      <ContactURL>http://blog.bizdataviz.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=bizdataviz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89104</importID>
+      <name>Sunil Kadimdiwan</name>
+      <label>
+      </label>
+      <description>Sunil Kadimdiwan Sunil Kadimdiwan has 25+ years’ experience in architecting and implementing database solutions. He has deep knowledge of the Microsoft SQL Server and Business Intelligence technology stack. He is a frequent speaker at SQL Saturdays, Code Camps, User Group meetings</description>
+      <twitter>@skadimdiwan</twitter>
+      <linkedin>https://www.linkedin.com/in/sunilkadimdiwan</linkedin>
+      <ContactURL>http://www.infotrove.com/events.html</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@skadimdiwan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87563</importID>
+      <name>Paul DellaGrotte</name>
+      <label>
+      </label>
+      <description>Paul brings over 10+ years as an analytics professional in a variety of industries including Defense and Healthcare. He began his career in finance and quickly developed a passion for data. Paul has experience in strategy development, data modeling, process improvement and financial analysis. He has a B.S. in Finance and an M.S. in Predictive Analytics from Northwestern University. His passions are data analysis, business process, and developing solutions using the latest software and technology.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/pauldellagrotte/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87691</importID>
+      <name>George Walters</name>
+      <label>
+      </label>
+      <description>Currently a partner technical strategist, George has been solving customer needs and issues. He can translate customer pain into potential solutions.
+
+A seasoned Microsoft SQL and Azure expert, with over 20 years of experience with Microsoft SQL Server, Sybase, Oracle, and other relational databases.  
+
+Specialties: Partner strategy, PreSales Engineering, Cloud Architecture, Enterprise Scalability, SQL Server performance, Business Intelligence, High Availability, Scale.
+I volunteer and present relevant topics at SQL Saturday and internal Microsoft events</description>
+      <twitter>https://twitter.com/geo_walters</twitter>
+      <linkedin>https://www.linkedin.com/in/georgewalters</linkedin>
+      <ContactURL>https://georgewalters.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/geo_walters</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87571</importID>
+      <name>Matt Cushing</name>
+      <label>
+      </label>
+      <description>Matt started out his career in Accounting and quickly realized he liked data a whole lot more!  Starting as a help desk associate, he's moved through support, development, data, and management positions before settling back to his passion for data.
+
+Currently working for Applegate Farms in NJ, he loves the people he works with and for, and the company as a whole.  Thanks to the input and help from the SQL community, he was able to be ready for the right opportunity in his current position as a BI developer.  He also teaches a Database Management class at Rutgers University.
+
+Ask him about the Red Sox sometime if you want your ear talked off ;).</description>
+      <twitter>Sqlkohai</twitter>
+      <linkedin>https://www.linkedin.com/in/mattcushing/</linkedin>
+      <ContactURL>http://sqlkohai.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Sqlkohai</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90040</importID>
+      <name>Andy Yun</name>
+      <label>
+      </label>
+      <description>Andy Yun is a SentryOne Principal Solutions Engineer and a former Microsoft MVP. He has been working with SQL Server for nearly 20 years as both a Database Developer and Administrator. Leveraging knowledge of SQL Server Internals and extensive experience in highly transactional environments, he strives to make T-SQL leaner and meaner. Andy is extremely passionate about passing knowledge onto others, regularly speaking at User Groups, SQL Saturdays, and PASS Summit. Andy is a co-founder of the Chicago SQL Association, co-Chapter Leader of the Chicago Suburban User Group, and part of the Chicago SQL Saturday Organizing Committee.</description>
+      <twitter>SQLBek</twitter>
+      <linkedin>http://www.linkedin.com/in/sqlbek</linkedin>
+      <ContactURL>http://sqlbek.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLBek</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86520</importID>
+      <name>Todd Chittenden</name>
+      <label>
+      </label>
+      <description>Todd started working with Microsoft’s SSRS in 2004. When Microsoft released its rebuild of SQL Server in 2005, he quickly added the full BI Stack to his repertoire. He became a MCTS in SQL Server 2005.  Today, Todd works for Blum Shapiro as a Business Intelligence Architect on various BI Projects across a wide range of company sizes and product combinations. He is a Microsoft Certified Solutions Expert in SQL Server Business Intelligence and a frequent speaker at local User Groups and SQL Saturday events. He Started working with Power BI in its early development time before General Availability in July of 2015.</description>
+      <twitter>@toddchitt</twitter>
+      <linkedin>http://www.linkedin.com/in/toddchitt</linkedin>
+      <ContactURL>http://blog.blumshapiro.com/blog/author/toddc/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@toddchitt</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92193</importID>
+      <name>Tyler Graham</name>
+      <label>
+      </label>
+      <description>With over 20 years experience in Data Management
+6 Years at Microsoft
+One of the Original Designers of SQL Server Master Data Services
+Author - Master Data Services -SQL Server 2008R2 and 2012
+6 Years at Profisee developing Industry Solutions</description>
+      <twitter>@codeswim</twitter>
+      <linkedin>https://www.linkedin.com/in/tyler-d-graham-095b946</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@codeswim</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85711</importID>
+      <name>Kellyn Pot'Vin-Gorman</name>
+      <label>
+      </label>
+      <description>Kellyn Pot’Vin-Gorman is a member of the Oak Table Network and an Idera ACE and Oracle ACE Director alumnus. She is a Data Platform Architect in Power BI with AI in the EdTech group at Microsoft. Kellyn is known for her extensive work with multi-database platforms, DevOps, cloud migrations, virtualization, visualizations, scripting, environment optimization tuning, automation, and architecture design. 
+
+Kellyn has spoken at numerous technical conferences for Oracle, Big Data, DevOps, testing, and SQL Server. Her blog (http://dbakevlar.com) and social media activity under her handle, DBAKevlar, is well respected for her insight and content.</description>
+      <twitter>DBAKevlar</twitter>
+      <linkedin>https://www.linkedin.com/in/kellynpotvin</linkedin>
+      <ContactURL>http://dbakevlar.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DBAKevlar</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89119</importID>
+      <name>Ryan Kennedy</name>
+      <label>
+      </label>
+      <description>My name is Ryan Kennedy.  I am a Data and AI Software Engineer at BlueMetal and an avid endurance athlete.
+
+I have experience working with a large variety of technologies in the data realm, spanning industries, and including business intelligence, integration, data warehousing, data management, and big data / data science.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https:////www.linkedin.com/in/ryan-kennedy-32948282/</linkedin>
+      <ContactURL>https://datastrides.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86471</importID>
+      <name>Ravi Kumar</name>
+      <label>
+      </label>
+      <description>I have over 12 years of experience working with SQL Server and Business Intelligence Technology.  My current focus is cloud technologies: Power BI, Azure Analysis Services, Azure SQL Data Warehouse, Azure Data Factory.  As a PFE at Microsoft, I regularly deliver 2 - 4 day training workshops.</description>
+      <twitter>@sqlravi</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlravi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89373</importID>
+      <name>Andy Leonard</name>
+      <label>
+      </label>
+      <description>Andy Leonard is founder and Chief Data Engineer at Enterprise Data  Analytics, Microsoft Data Platform MVP, creator of the DILM (Data Integration Lifecycle Management) Suite, an SSIS trainer, consultant, developer, Business Intelligence Markup Language (Biml) developer and BimlHero, SQL Server database and data warehouse developer, community mentor, engineer, and farmer. He is a co-author of "The Biml Book and SQL Server Integration Services Design Patterns" and author of "Managing Geeks - A Journey of Leading by Doing", "Data Integration Lifecycle Management with SSIS", "Building Custom Tasks for SSIS", and the "Stairway to Integration Services". Andy blogs at andyleonard.blog where you can learn more on the About Andy page.</description>
+      <twitter>AndyLeonard</twitter>
+      <linkedin>http://www.linkedin.com/in/AndyLeonard</linkedin>
+      <ContactURL>https://andyleonard.blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=AndyLeonard</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88988</importID>
+      <name>Deborah Melkin</name>
+      <label>
+      </label>
+      <description>Deborah Melkin has been working as a database professional with SQL Server for almost 20 years. She spends her days helping programmers with all aspects of database design, queries, performance, and deployment. In 2016, she began her blog, Deb the DBA. Soon after that, she began speaking at SQL Saturdays and user groups. Deborah is a board member of the New England SQL Server User group (NESQL) and was named as an IDERA ACE Class of 2020. She also won Speaker Idol at PASS Summit 2019. In November 2020, she was awarded a Microsoft MVP for the Data Platform. 
+
+In her spare time, Deborah can usually be found doing something musical.</description>
+      <twitter>dgmelkin</twitter>
+      <linkedin>http://www.linkedin.com/in/deborah-melkin-5ba4244</linkedin>
+      <ContactURL>http://debthedba.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=dgmelkin</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88872</importID>
+      <name>Veronika Kolesnikova</name>
+      <label>
+      </label>
+      <description>Web Developer at Rightpoint 
+Passionate about backend web development, mainly with Microsoft technologies like C#, .NET, SQL, Azure. Loves to learn new development tools and languages and share the knowledge with the community. Recently started working with Xamarin and cannot wait to provide her insights. 
+Veronika holds a master degree in Information Technology. In her free time, she likes dancing, traveling and practicing aerial yoga.</description>
+      <twitter>https://twitter.com/breakpointv16</twitter>
+      <linkedin>https://www.linkedin.com/in/vkolesnikova/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/breakpointv16</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87324</importID>
+      <name>Tony DiPesa</name>
+      <label>
+      </label>
+      <description>Database architect and developer with 30 years experience with Oracle and 5 years experience with Microsoft SQL Server. Business Intelligence and Integration Architect at Wellesley College. Enjoy designing, developing, integrating and supporting database and business intelligence applications for higher education using the Microsoft data platform. Have always enjoyed mentoring co-workers in newer technologies and have more recently presented at a couple of regional events - NERCOMP (March 2017) and Boston Code Camp (November 2018).</description>
+      <twitter>@adipesa</twitter>
+      <linkedin>https://www.linkedin.com/in/tony-dipesa/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@adipesa</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85764</importID>
+      <name>Ray Kim</name>
+      <label>
+      </label>
+      <description>Ray Kim is an advocate for documentation and technical communication. He is a co-founder of the Albany, NY SQL group (CASSUG), a member of STC and the AlbanyUX user group, and has spoken at numerous SQLSaturdays and at PASS Summit. He has worked various positions in technology, including as a developer, webmaster, analyst, technical writer, and instructor. He holds an MS in technical communication from Rensselaer Polytechnic Institute and a BS in computer science from Syracuse University.
+
+A musician in his spare time, Ray plays four different instruments. He also enjoys going to ball games and doing CrossFit, and is a two-time SQLServerCentral.com fantasy football champion. He lives in Troy, NY with his wife, Lianne, and their two cats.</description>
+      <twitter>PianoRayK</twitter>
+      <linkedin>https://www.linkedin.com/in/pianorayk</linkedin>
+      <ContactURL>https://pianorayk.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=PianoRayK</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>85844</importID>
+      <speakers>
+        <speaker>
+          <id>85844</id>
+          <name>Edward Pollack</name>
+        </speaker>
+      </speakers>
+      <track>BI Development</track>
+      <location>
+        <name>Washington</name>
+      </location>
+      <title>Creating and Using Calendar Tables</title>
+      <description>Creating and Using Calendar Tables
+
+There is a common need in analytics and reporting to aggregate data based on date attributes.  These may include weekdays, holidays, quarters, or specific times of the year.  Crunching these metrics on-the-fly can be slow and inefficient.
+
+Calendar tables allow the complex conversions, definitions, and date-related metadata to be calculated ahead of time and stored in a static, reliable structure.  We can then use this table to avoid the need to perform any date math on the fly.  This not only saves time and computing resources, but also allows more complex analytics to be performed that would otherwise be very challenging.
+
+This session delves into the design, implementation, and use of calendar tables, providing plenty of demos that illustrate their value and just how much fun they are!</description>
+      <startTime>3/30/2019 1:50:00 PM</startTime>
+      <endTime>3/30/2019 2:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85711</importID>
+      <speakers>
+        <speaker>
+          <id>85711</id>
+          <name>Kellyn Pot'Vin-Gorman</name>
+        </speaker>
+      </speakers>
+      <track>BI Administration and Performance</track>
+      <location>
+        <name>Adams</name>
+      </location>
+      <title>Taming of the Shrew - Optimizing Power BI</title>
+      <description>No one wants to tell a report user that while running a report in Power BI they have time to go get a cup of coffee…in another town.  Although data sets will often be the focus of performance issues, it’s important to know how to locate performance problems in Power BI and how to eliminate them.  
+
+This session will take the Power User through how to identify time consuming processing in Power BI and how to address it through step-by-step and proven methods used to optimize in multi-tier environments.  This method removes frustration and finger-pointing and gets to the heart of the problem with a goal of correcting performance challenges.  The results are satisfied end users who get the information they need, when they need it.
+
+Take Aways:
+Learn how to identify what is taking the time in a Power BI data set and report.
+Understand the logging and tracing mechanisms and capabilities in the environment.
+Understand when a problem is really a problem.</description>
+      <startTime>3/30/2019 3:00:00 PM</startTime>
+      <endTime>3/30/2019 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86145</importID>
+      <speakers>
+        <speaker>
+          <id>86145</id>
+          <name>Leslie Andrews</name>
+        </speaker>
+      </speakers>
+      <track>BI Development</track>
+      <location>
+        <name>Washington</name>
+      </location>
+      <title>The Power of Data: The Complete Beginners Data Warehouse Kit</title>
+      <description>For many of us data is scattered in many different systems.  We almost all have data that someone wants to compare or track but can't without a lot of manual manipulation.  So, how do you tie disparate systems together? With a Data Warehouse! In this presentation you will get the skills you need to start building your own. We will discuss the basics of what a Data Warehouse is, the tools needed to create, deploy and manage the Data Warehouse process, and the benefits of using the data you collect to manage operational processes and create data visualizations. After attending this session you will be able to return to your job and amaze people with your ability to show them the power of the data!</description>
+      <startTime>3/30/2019 9:00:00 AM</startTime>
+      <endTime>3/30/2019 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>86024</importID>
+      <speakers>
+        <speaker>
+          <id>86024</id>
+          <name>James Serra</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture/Design</track>
+      <location>
+        <name>Jefferson</name>
+      </location>
+      <title>Big Data Architectures and The Data Lake</title>
+      <description>With so many new technologies it can get confusing on the best approach to building a big data architecture.  The data lake is a great new concept, usually built in Hadoop, but what exactly is it and how does it fit in?  In this presentation I’ll discuss the four most common patterns in big data production implementations, the top-down vs bottoms-up approach to analytics, and how you can use a data lake and a RDBMS data warehouse together.  We will go into detail on the characteristics of a data lake and its benefits, and how you still need to perform the same data governance tasks in a data lake as you do in a data warehouse.  Come to this presentation to make sure your data lake does not turn into a data swamp!</description>
+      <startTime>3/30/2019 11:20:00 AM</startTime>
+      <endTime>3/30/2019 12:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86520</importID>
+      <speakers>
+        <speaker>
+          <id>86520</id>
+          <name>Todd Chittenden</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Canon</name>
+      </location>
+      <title>Advanced Power BI features for Beginners</title>
+      <description>Power BI is fast becoming a staple in many Business Intelligence solutions. And its feature set is expanding faster than the average user can assimilate. Take your knowledge of Power BI to the next level by incorporating some slick, 'no coding needed' features. Wow your boss by noon on Monday with advanced features you may not know existed, but leaned in this session. We'll let the attendees pick from a list of quick win and easy to implement topics such as Cortana Integration, Drill-through report pages, Power BI Mobile Dashboards, Bar Code readers, Query Folding (for performance), Excel Reports in Power BI and several others. We can't cover them all, so come vote on what is of the most interest to you!</description>
+      <startTime>3/30/2019 10:10:00 AM</startTime>
+      <endTime>3/30/2019 11:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>87051</importID>
+      <speakers>
+        <speaker>
+          <id>87051</id>
+          <name>John Miner</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture/Design</track>
+      <location>
+        <name>Jefferson</name>
+      </location>
+      <title>Effective Data Warehouse Storage Patterns</title>
+      <description>Many companies start off with a simple data mart for reporting. As the company grows, users become dependent on the data mart for monitoring and making decisions on Key Performance Indicators (KPI).
+
+Unexpected information growth in your data mart may lead to a performance impacted reporting system. In short, your users will be lining up at your cube for their daily reports.
+
+How do you reduce the size of your data mart and speed up data retrieval?  This presentation will review the following techniques to fix your woes.
+
+Techniques:
+1 – What is horizontal partitioning?
+2 – Database sharding for daily information.
+3 – Working with files and file groups.
+3 – Partitioned views for performance.
+4 – Table and Index partitions.
+5 – Row Data Compression.
+6 – Page Data Compression.
+7 – Programming a sliding window.
+8 – What is different in Azure SQL database?</description>
+      <startTime>3/30/2019 3:00:00 PM</startTime>
+      <endTime>3/30/2019 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86471</importID>
+      <speakers>
+        <speaker>
+          <id>86471</id>
+          <name>Ravi Kumar</name>
+        </speaker>
+      </speakers>
+      <track>BI Development</track>
+      <location>
+        <name>Washington</name>
+      </location>
+      <title>Power BI In a day Hands-On</title>
+      <description>Attend this Power BI Hands-on comprehensive class with Ravi Kumar to learn how to model your data and how to create beautiful visuals using your data. Full day introductory course will give you a great working knowledge on how Power BI works in general. We will be covering Power BI Desktop and Power BI Service for the following topics:
+
+Power BI Desktop:
+What is Power BI and what it is not
+Introduction
+Connecting to the data
+Shaping data at query time
+Modeling Data
+Dax Calculations
+Building Reports
+
+Power BI Service: 
+What is Power BI Service
+Publishing Power BI Desktop file to the Service (Instructor will provide logins to a test Power BI Service tenant)
+Get the online data
+Sharing reports and desktops
+Refreshing the data
+Mobile Reports
+
+Power BI On Premises Server: 
+How is Power BI On Premises server different from Power BI Service
+When should you use Power BI Server
+
+SSAS Tabular: What it is and how it integrates with Power BI
+
+Pre-requisite: Please have Pow</description>
+      <startTime>3/29/2019 8:30:00 AM</startTime>
+      <endTime>3/29/2019 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87054</importID>
+      <speakers>
+        <speaker>
+          <id>87054</id>
+          <name>Belinda Allen</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Canon</name>
+      </location>
+      <title>Not your Daddy's Financial Statements</title>
+      <description>In almost 28 years of working with Microsoft Dynamics GP customers, the formatting for PL and Balance Sheets has not changed.  Sure, some people look at each month side by side, others compare to budget or previous years, but the format varies very little.  How many people in your organization receive a copy of these statements, but do not know how to read the data?  Can they really obtain useful information that provides sound decisions to make your company more profitable?
+The traditional format will always be needed, but for operations perhaps there is a more insightful way to really “see” your data.  Attend this webinar and see Belinda present alternatives to the traditional financial statement using Microsoft Power BI and GP data.
+Learning Objectives: 
+•	Start the process of new ways to visualize financial data
+•	Create a plan that can provide information to your team that will help them make more profitable and timely decisions
+•	Provide information that helps your data tel</description>
+      <startTime>3/30/2019 1:50:00 PM</startTime>
+      <endTime>3/30/2019 2:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86975</importID>
+      <speakers>
+        <speaker>
+          <id>86975</id>
+          <name>Steve Simon</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Canon</name>
+      </location>
+      <title>SQL Server Reporting Services 2017 on Steroids!!</title>
+      <description>Reporting requests that are required ‘yesterday or sooner’, oft times necessitate working more efficiently and effectively. We have all been through this at one time or another.
+In this hands on presentation we shall be looking some of the more challenging techniques of extracting our data from our Multidimensional and Tabular Models, in addition to our Data Mining Models. 
+We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as a means to extract data,  in addition to looking at the way that these two concepts can help us extract our data utilizing MDX, DMX and DAX expressions;  AND YET maintain the  flexibility and the ability to utilize all those wonderful techniques that may  be done with T-SQL.</description>
+      <startTime>3/30/2019 9:00:00 AM</startTime>
+      <endTime>3/30/2019 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>89105</importID>
+      <speakers>
+        <speaker>
+          <id>89105</id>
+          <name>Meghana Vasavada</name>
+        </speaker>
+      </speakers>
+      <track>BI Development</track>
+      <location>
+        <name>Washington</name>
+      </location>
+      <title>Custom Auditing in SSIS</title>
+      <description>In order to effectively monitor SSIS performance, troubleshoot errors and understand the data linage in the production environment one needs to implement the package logging and Data auditing. SSIS already contains an Audit Transformation Component that captures information about the package metadata and the environment in which the package runs.
+
+However, what if you encountered an error, or a package failure?  Suppose, a Data warehouse developer is performing an ETL to load a Dimension of a Data mart and would like to track the Data being processed. Audit Transformation Component cannot perform the job effectively.
+
+So lets have an insight of how Auditing can be done by designing an SSIS  package that captures the Error information, DML operation on the table (Inserts/Updates/Deletes) along with the package metadata.
+
+We'll create a package with an event handler that loads Data from a Staging to Dimension and creates an Audit table to track information on Data processing.</description>
+      <startTime>3/30/2019 10:10:00 AM</startTime>
+      <endTime>3/30/2019 11:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>88977</importID>
+      <speakers>
+        <speaker>
+          <id>88977</id>
+          <name>John Miner</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Jefferson</name>
+      </location>
+      <title>Introduction to Data Science With Python</title>
+      <description>“Python” and “R” are two well-known data science languages being used today. Both of these languages are part of the open source community and have many free modules available for your use.
+
+Which one of the languages do you choose as an enterprise standard?
+
+My money is on the “Python” language, due to the fact it can be used to solve business problems other than ones related to data science.
+
+Python is a general purpose programming language created by Guido van Rossum in 1991. It was designed for readability and easy syntax by using significant whitespace. The main goal was to allow programmers to solve problems using fewer lines of code.
+
+During this pre-conference course, we will be covering the following topics.
+
+Python Programming Basics
+Introduction to Data Science with Python
+
+This course is meant for beginners who want to learn Python. At the end of the day, you will have a solid understanding of the language and an introduction to the data science libraries.</description>
+      <startTime>3/29/2019 8:30:00 AM</startTime>
+      <endTime>3/29/2019 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>89373</importID>
+      <speakers>
+        <speaker>
+          <id>89373</id>
+          <name>Andy Leonard</name>
+        </speaker>
+      </speakers>
+      <track>BI Administration and Performance</track>
+      <location>
+        <name>Adams</name>
+      </location>
+      <title>Intelligent Data Integration with SSIS</title>
+      <description>What is Intelligent Data Integration? SSIS (SQL Server Integration Services) packages developed using tried and true design patterns, built to participate in a DevOps enterprise practicing DILM (Data Integration Lifecycle Management), produced using Biml (Business Intelligence Markup Language) and executed using an SSIS
+Framework.
+
+Attend a day of training focused on intelligent data integration delivered by an experienced SSIS consultant who has also led an enterprise team of several ETL developers during multiple projects that spanned 2.5 years. And delivered. 
+
+Attendees will learn:
+- a holistic approach to data integration design.
+- a methodology for enterprise data integration that spans development through operational support.
+- how automation changes everything. Including data integration with SSIS.
+
+Topics include:
+1. SSIS Design Patterns
+2. Executing SSIS in the Enterprise
+3. Custom SSIS Execution Frameworks
+4. DevOps and SSIS
+5. Biml, Biml Frameworks, and Tools</description>
+      <startTime>3/29/2019 8:30:00 AM</startTime>
+      <endTime>3/29/2019 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>89113</importID>
+      <speakers>
+        <speaker>
+          <id>89113</id>
+          <name>Varsham Papikian</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Monroe</name>
+      </location>
+      <title>Power BI gets 'smarter': infuse more AI and ML into your BI processes</title>
+      <description>Power BI gets better every day. In addition to supporting R and Python, it gets more AI/ML features ready to use with very little effort - either right 'out-of-box' or as a result of easy integration with relevant Azure services. And this is just the beginning since Microsoft has recently assigned a dedicated AI team to enhance AI capabilities in Power BI so we should expect much more in coming months.
+During the session I will describe the Power BI ecosystem and AI/ML in general. Then we will discuss existing and new 'out-of-box' AI features which are easy to use. I hope it will help you to master 'smarter' approaches and help to start exploring and applying predictive analyses to your processes. Stop only asking questions like 'What happened?' - start asking new new type of questions like 'What will happen next?'. Achieve more by using AI-infused features like QA, Insights and Web search by example.</description>
+      <startTime>3/30/2019 1:50:00 PM</startTime>
+      <endTime>3/30/2019 2:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>88996</importID>
+      <speakers>
+        <speaker>
+          <id>88996</id>
+          <name>Taiob Ali</name>
+        </speaker>
+      </speakers>
+      <track>BI Administration and Performance</track>
+      <location>
+        <name>Adams</name>
+      </location>
+      <title>How to Tune your BI DBs in Azure to save $$$</title>
+      <description>The cloud is just using someone else's compute. You still need to care about and optimize for performance.  Just as a dropped call frustrates cellular customers, a BI report with data issues, high latency, connection timeouts will create the same frustration for users.  Do you want to catch the performance issues before your customers?  Do you want to automatically identify database issues and quickly drill down into details? Azure provides built in tools just to do that. 
+
+In this session I will show you 4 of those tools.  You will learn how these tools can provide Performance overview of a database and recommendations that can improve workload performance.  Find top resource consuming queries, deeper insight into your databases resource (DTU) consumption and learn when to let Azure  automatically optimize your database. 
+
+At the end of this session you will walk out knowing how to identify and tune Azure SQL database performance  issues with built in tools in Azure Portal.</description>
+      <startTime>3/30/2019 11:20:00 AM</startTime>
+      <endTime>3/30/2019 12:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>88818</importID>
+      <speakers>
+        <speaker>
+          <id>88818</id>
+          <name>Sreeja Pullagura</name>
+        </speaker>
+      </speakers>
+      <track>BI Development</track>
+      <location>
+        <name>Washington</name>
+      </location>
+      <title>SSIS DevOps with Azure Containers</title>
+      <description>Do you want faster turnaround and higher code quality for your SSIS projects, without disturbing your live environment? Join SSIS DevOps Pioneer, Sreeja Pullagura, in a live demo as she shows us how to run SSIS in a Docker container to help meet your dreams of Continuous Integration and Continuous Delivery for SSIS.
+
+First, we’ll see how to modify the existing Microsoft Docker file for SQL Server 2017 to run SSIS. Second, we will explore the new container to see what has been created, including SQL Server 2017, required Security roles and users, and the Integration Services catalogue. Third, we will kick off an SSIS job which moves data between databases on the container. Finally, we’ll exercise our SSIS project with unit tests developed in TSQLT (modified version). At the end of this session, we hope you’ll walk away with the confidence to begin or refine your own DevOps journey.</description>
+      <startTime>3/30/2019 11:20:00 AM</startTime>
+      <endTime>3/30/2019 12:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>88872</importID>
+      <speakers>
+        <speaker>
+          <id>88872</id>
+          <name>Veronika Kolesnikova</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Bretton Woods</name>
+      </location>
+      <title>Artificial Intelligence for everyone</title>
+      <description>I’m sure you have heard about artificial intelligence because it’s next big thing and all major tech companies are involved in its development. Now you can implement it too directly in all your websites, mobile and desktop apps using Microsoft Cognitive Services. In this session you will get basic knowledge about artificial intelligence, machine learning and their applications, go over all 6 groups of Cognitive Services and see individual APIs available in Azure. We’ll see how to use pre-built and custom services. Also we will concentrate on some details and specifics of Cognitive Services implementation in Xamarin and Xamarin.Forms solutions. In the end, you will see a demo on how using exported model from Custom Vision service create image recognition app.</description>
+      <startTime>3/30/2019 11:20:00 AM</startTime>
+      <endTime>3/30/2019 12:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>88988</importID>
+      <speakers>
+        <speaker>
+          <id>88988</id>
+          <name>Deborah Melkin</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Monroe</name>
+      </location>
+      <title>Looking "Normal" and Seeing "Stars": Understanding Table Design in BI</title>
+      <description>Most database professionals know there are two different database design patterns - normal forms for OLTP databases and star schemas for data warehouses. We tend to discuss these separately. But these two designs actually work together when we create our table schemas.
+
+In this session, we will review the basics of both normal forms and star schemas. We'll compare and contrast the two designs. We will then discuss how a normalized database design influences a star schema design and vice versa. 
+
+By the end of the session, you will better understand how using the two designs together gives you a greater insight to how you use your data throughout its lifecycle.</description>
+      <startTime>3/30/2019 3:00:00 PM</startTime>
+      <endTime>3/30/2019 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85764</importID>
+      <speakers>
+        <speaker>
+          <id>85764</id>
+          <name>Ray Kim</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Bretton Woods</name>
+      </location>
+      <title>Whacha just say? Talking technology to non-technical people</title>
+      <description>Many tech professionals are faced with the challenge of explaining technical concepts to people who don't understand technology.  And only a few are able to do it well.  This session provides some strategies and suggestions to go about bridging the technological knowledge gap.  With time and practice, a technical person can serve as an effective interpreter of technical concepts.  This is an interactive session; audience participation is expected and encouraged!</description>
+      <startTime>3/30/2019 1:50:00 PM</startTime>
+      <endTime>3/30/2019 2:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>89656</importID>
+      <speakers>
+        <speaker>
+          <id>89656</id>
+          <name>Tyler Graham</name>
+        </speaker>
+      </speakers>
+      <track>BI Administration and Performance</track>
+      <location>
+        <name>Adams</name>
+      </location>
+      <title>Master Data Management: BI and Data Science’s Best Friend</title>
+      <description>No matter the complexity of your BI application, Master Data Management can provide your organization the tools needed to conform, manage and simplify your dimensions. Attend this session and learn how Analytical MDM can forge quicker and more valuable insights.</description>
+      <startTime>3/30/2019 10:10:00 AM</startTime>
+      <endTime>3/30/2019 11:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>85760</importID>
+      <speakers>
+        <speaker>
+          <id>85760</id>
+          <name>Chris Seferlis</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Monroe</name>
+      </location>
+      <title>Azure Databricks... what makes it better?</title>
+      <description>In this session we will explore the differences between Databricks and its foundation Spark, how easy it is to get started, what the Azure difference is, and common workloads in which we’re seeing it being used.</description>
+      <startTime>3/30/2019 9:00:00 AM</startTime>
+      <endTime>3/30/2019 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>87926</importID>
+      <speakers>
+        <speaker>
+          <id>87926</id>
+          <name>Andy Leonard</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture/Design</track>
+      <location>
+        <name>Jefferson</name>
+      </location>
+      <title>Azure Data Factory Design Patterns</title>
+      <description>Azure Data Factory - ADF - is a cloud data engineering solution. Like all data integration platforms (like SSIS), ADF is software development. 
+
+Attend this session to learn: 
+ - Pipeline data-load design patterns;
+ - Pipeline execution design patterns.
+ - Azure-SSIS execution design patterns.</description>
+      <startTime>3/30/2019 9:00:00 AM</startTime>
+      <endTime>3/30/2019 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>88336</importID>
+      <speakers>
+        <speaker>
+          <id>88336</id>
+          <name>Rodney Landrum</name>
+        </speaker>
+      </speakers>
+      <track>BI Administration and Performance</track>
+      <location>
+        <name>Adams</name>
+      </location>
+      <title>Azure Databricks (ADB) and the Traditional DBA</title>
+      <description>As more data services come online in Microsoft Azure, DBAs are being tasked with bringing these services into their organizations.  Azure Databricks is one such service that has the appeal of combining scalable compute resources with collaborative development and analytic tools in Notebooks and workspaces.  To the traditional DBA, however, many of the concepts and language support may be foreign. What the heck is Scala anyway?  This session is designed to introduce the DBA to the Azure Databricks workspace and show how to easily integrate it with upstream and downstream services like Azure Data Factory, Machine Learning and Power BI.</description>
+      <startTime>3/30/2019 1:50:00 PM</startTime>
+      <endTime>3/30/2019 2:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86987</importID>
+      <speakers>
+        <speaker>
+          <id>86987</id>
+          <name>Varsham Papikian</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Canon</name>
+      </location>
+      <title>Using SQL Server, Powershell and Power BI together - achieve amaz</title>
+      <description>SQL Server, Powershell and Power BI are very powerful and capable technologies on their own. When used together, they can help to achieve much more. We can create end-to-end solutions, automate processes, create very cost-effective, interactive and robust monitoring, testing and analyses solutions. During the presentation I will show different demos which will demonstrate different ways that we could use this powerful trio to solve real-world problems.</description>
+      <startTime>3/30/2019 11:20:00 AM</startTime>
+      <endTime>3/30/2019 12:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87563</importID>
+      <speakers>
+        <speaker>
+          <id>87563</id>
+          <name>Paul DellaGrotte</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Bretton Woods</name>
+      </location>
+      <title>Preparing for Power BI Exam 70-778</title>
+      <description>Interested in taking the Analyzing and Visualizing Data with Microsoft Power BI exam from Microsoft? Increase your chances of success by listening to this one hour session where the instructor will cover the key elements of Power BI as well as what topics to focus your attention on for exam preparation efficiency. Attendees should already be familiar with the basics of Power BI Desktop and the Power BI Service. The session will cover concepts such as data model optimization, advanced visuals, and dashboard configuration.
+
+https://www.microsoft.com/en-us/learning/exam-70-778.aspx</description>
+      <startTime>3/30/2019 10:10:00 AM</startTime>
+      <endTime>3/30/2019 11:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>90039</importID>
+      <speakers>
+        <speaker>
+          <id>90039</id>
+          <name>Andy Yun</name>
+        </speaker>
+      </speakers>
+      <track>BI Administration and Performance</track>
+      <location>
+        <name>Adams</name>
+      </location>
+      <title>Building Winning Business Cases</title>
+      <description>Are you a technologist who sometimes has a difficult time getting "the business" to sign off on the things you need?  Perhaps you have a great idea to improve something, but management just does not see the value that you see.  
+ 
+Come to this session and you'll learn some new techniques on how to engage your busines counterparts, present an effective business case, and get them on your side!</description>
+      <startTime>3/30/2019 9:00:00 AM</startTime>
+      <endTime>3/30/2019 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>85768</importID>
+      <speakers>
+        <speaker>
+          <id>85768</id>
+          <name>Jessica Jolly</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Monroe</name>
+      </location>
+      <title>Data here, there and everywhere</title>
+      <description>Geography often plays a big role in our data analysis. Power BI offers several standard map options to help us understand where our data happens. This session will explore the three standard maps, including ESRI. We will compare the type of data that best fits each map. We will also look at the ESRI Plus subscription and it's benefits. If you have data with a geographical component, this session will get you started mapping it.</description>
+      <startTime>3/30/2019 11:20:00 AM</startTime>
+      <endTime>3/30/2019 12:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87571</importID>
+      <speakers>
+        <speaker>
+          <id>87571</id>
+          <name>Matt Cushing</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Bretton Woods</name>
+      </location>
+      <title>Networking 101: Getting Ready for a SQL Event</title>
+      <description>Looking to get the most out of your SQL Saturday, PASS Summit, or local user group meeting? Plan ahead!  Events aren't just about learning new things, they're about meeting new people, networking with peers, and learning different approaches to common issues.
+
+In this session, we'll go over steps you can take before, during and after the event to maximize the amount of great stuff you'll take away at the end (besides cool vendor swag).  Not just keeping up on new technologies, but meeting new people, getting leads on solutions/opportunities, and an appreciation for the community you're in and what it has to offer.</description>
+      <startTime>3/30/2019 9:00:00 AM</startTime>
+      <endTime>3/30/2019 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>92194</importID>
+      <speakers>
+        <speaker>
+          <id>92194</id>
+          <name>Beth Wolfset</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture/Design</track>
+      <location>
+        <name>Jefferson</name>
+      </location>
+      <title>Diversity  Inclusion Discussion Group</title>
+      <description>Grab your lunch, eat and discuss Diversity and Inclusion.  We will break into groups, network and discuss:
+
+Making Diversity and Inclusion a priority at your organization: driving the use case and new policies
+Improving Hiring, Retention and Promotion
+
+Addressing Everyday Discrimination</description>
+      <startTime>3/30/2019 12:40:00 PM</startTime>
+      <endTime>3/30/2019 1:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90040</importID>
+      <speakers>
+        <speaker>
+          <id>90040</id>
+          <name>Andy Yun</name>
+        </speaker>
+      </speakers>
+      <track>BI Administration and Performance</track>
+      <location>
+        <name>Adams</name>
+      </location>
+      <title>Boosting Performance of SSAS (Sponsor)</title>
+      <description>Are you a DBA who does not have a background in SSAS or BI? Perhaps you're a BI analyst but never had to troubleshoot SSAS performance issues?
+ 
+Join me for a mostly vendor-agnostic exploration of SSAS performance challenges. We'll break down SSAS workload and discuss factors that impact SSAS query performance. To close, will I show a brief demo of SentryOne's BI Sentry to bring everything together. 
+ 
+When you leave, you will be armed with new insights into SSAS and how to tackle performance challenges.</description>
+      <startTime>3/30/2019 12:40:00 PM</startTime>
+      <endTime>3/30/2019 1:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>92193</importID>
+      <speakers>
+        <speaker>
+          <id>92193</id>
+          <name>Tyler Graham</name>
+        </speaker>
+      </speakers>
+      <track>BI Development</track>
+      <location>
+        <name>Washington</name>
+      </location>
+      <title>Micro Data Management: Data in the age of Micro-services (Sponsor)</title>
+      <description>Containerization and Micro-services are the future of development.  Learn how to structure your data management strategy to simplify the creation and integration of services across your organization.</description>
+      <startTime>3/30/2019 12:40:00 PM</startTime>
+      <endTime>3/30/2019 1:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>88930</importID>
+      <speakers>
+        <speaker>
+          <id>88930</id>
+          <name>Beth Wolfset</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture/Design</track>
+      <location>
+        <name>Jefferson</name>
+      </location>
+      <title>Designing for Azure Data Warehouse Peformance</title>
+      <description>Azure Data Warehouse is not Kimball's data warehouse. This session will discuss design and data modelling considerations when creating objects in Azure Data Warehouse to yield the best performance.</description>
+      <startTime>3/30/2019 10:10:00 AM</startTime>
+      <endTime>3/30/2019 11:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>89104</importID>
+      <speakers>
+        <speaker>
+          <id>89104</id>
+          <name>Sunil Kadimdiwan</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Monroe</name>
+      </location>
+      <title>Time Intelligence in Azure Analysis Services</title>
+      <description>Pick any reporting solution, analysis based on Time (mostly Date) is almost always essential. Business users would want to know measures such as: How was Sales, What was Sales year-over-year, year-to-date? Did our Expenses go down? Compared to similar period last year? etc. etc.
+
+In this session I will show you, using DAX functions in Azure (and on-premise) Analysis Services, how you can develop Date based dimensions and measures that will help answer such questions.</description>
+      <startTime>3/30/2019 10:10:00 AM</startTime>
+      <endTime>3/30/2019 11:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>87691</importID>
+      <speakers>
+        <speaker>
+          <id>87691</id>
+          <name>George Walters</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture/Design</track>
+      <location>
+        <name>Jefferson</name>
+      </location>
+      <title>Re-Architect your Software as a Service Application for Azure: Tips and Tricks</title>
+      <description>Considering a cloud architecture instead of on-premises? Come and walk through a Tier 1 Application with a heavy SQL on-premises footprint that was migrated to Azure.  Considerations such as development changes, architecture, features required, reduced labor required, and people process to get this deployed.</description>
+      <startTime>3/30/2019 1:50:00 PM</startTime>
+      <endTime>3/30/2019 2:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87324</importID>
+      <speakers>
+        <speaker>
+          <id>87324</id>
+          <name>Tony DiPesa</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Canon</name>
+      </location>
+      <title>SQL Server and JSON - It's not a horror movie!</title>
+      <description>JSON has become the defacto standard for exchanging data between applications and over the web. SQL Server 2016 provides built-in support for JSON.
+This presentation will:
+- Provide a brief introduction to JSON
+- Describe the SQL Server 2016 functions that can be used to parse / format JSON data
+- Demonstrate the use of these functions against a dataset containing movie data in JSON format
+- Visualize the results in a Power BI report</description>
+      <startTime>3/30/2019 3:00:00 PM</startTime>
+      <endTime>3/30/2019 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>89119</importID>
+      <speakers>
+        <speaker>
+          <id>89119</id>
+          <name>Ryan Kennedy</name>
+        </speaker>
+      </speakers>
+      <track>BI Development</track>
+      <location>
+        <name>Washington</name>
+      </location>
+      <title>Your Report 2.0:  A Data Engineer's Guide to Migrating BI Reports from Old to New Systems</title>
+      <description>As more and more companies go to the cloud, build data warehouse solutions, and become more data-centric, we as BI Developers and Data Engineers will find ourselves migrating reports to pull data from old systems to new systems.  In this talk, I will walk through the process / some tips and tricks that I use when migrating a report from an old system to a new system. I break this talk into four phases - Requirements Gathering, Building the Data Extract, Unit Testing and QA, and Supporting / Enhancing the extract.</description>
+      <startTime>3/30/2019 3:00:00 PM</startTime>
+      <endTime>3/30/2019 4:00:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

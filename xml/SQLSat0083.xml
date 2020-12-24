@@ -1,0 +1,318 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #83 - Johannesburg 2011</name>
+    <startDate>5/7/2011 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat83</twitterHashtag>
+    <venue>
+      <name>Microsoft Office</name>
+      <street>3201 William Nicol Drive</street>
+      <city>Bryanston</city>
+      <state>Gauteng, South Africa</state>
+      <zipcode>2191</zipcode>
+      <longitude>28.018736</longitude>
+      <latitude>-26.044474</latitude>
+    </venue>
+  </guide>
+  <speakers>
+    <speaker>
+      <importID>32968</importID>
+      <name>Phlippie Smit</name>
+      <label>
+      </label>
+      <description>Phlippie Smit has over 15 years’ experience with SQL Server.  He spent most of his career in a MIS/BI environment and has used SQL Server 6.5 – 2008 in his endeavours.  He is passionate about performance and optimisation, and improving out-dated processes and thinking.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://za.linkedin.com/in/pfsmit </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33200</importID>
+      <name>Stephan Lawson</name>
+      <label>
+      </label>
+      <description>I am a seasoned data platform professional, with over 10 years experience in the field, with an interest in data platform technologies, as well as the systems they are built on.
+
+I worked for one of the largest banks in South Africa, and was then recruited into the Premier Field Engineering (PFE) division within Microsoft CSS. I spent over 3 years working in PFE for SQL Server and Analytics Platform System (APS).
+
+Currently I am an Data Architect for a South African startup using Azure, the Microsoft Data Platform, and analytics.
+
+I enjoy spending time with my family, listening to podcasts, and learning about new technologies.</description>
+      <twitter>sqlarcher</twitter>
+      <linkedin>http://www.linkedin.com/in/stephanlawson</linkedin>
+      <ContactURL>https://sqlarcher.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlarcher</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28453</importID>
+      <name>Benjamin Nevarez</name>
+      <label>
+      </label>
+      <description>Benjamin Nevarez is a SQL Server independent consultant based in Los Angeles, California, who specializes in SQL Server query tuning and optimization. He is the author of “SQL Server 2014 Query Tuning amp; Optimization” and “Inside the SQL Server Query Optimizer” and co-author of “SQL Server 2012 Internals.quot; Benjamin has also been a speaker at many SQL Server conferences, including PASS Summit, SQL Server Connections, and SQLBits. His blog can be found at http://www.benjaminnevarez.com.</description>
+      <twitter>@BenjaminNevarez</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.benjaminnevarez.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@BenjaminNevarez</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>30215</importID>
+      <name>Gail Shaw</name>
+      <label>
+      </label>
+      <description>Gail Shaw is a Database Specialist focusing on database performance tuning and database recovery, with a particular interest in topics such as indexing strategies, execution plans, and writing T-SQL code that performs well and scales gracefully. Gail holds a Microsoft Certified Master certification for SQL Server 2008 and is a Data Platform MVP. She's a frequent poster on the SQLServerCentral forums, a Pluralsight author, writes articles for both SQLServerCentral.com and Simple-Talk.com, and has spoken at SQLSaturdays, SQL Bits and at the PASS Community Summit. Gail has been responsible for extending the lifespan of many an application, by performance-tuning their databases and providing technical guidance on all things SQL Server related.</description>
+      <twitter>@SQLInTheWild</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlinthewild.co.za</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLInTheWild</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33377</importID>
+      <name>Theo Potgieter</name>
+      <label>
+      </label>
+      <description>15 years in IT. What a ride we are on! I am a technical resource that has fell in love with SQL and what it can do. The projects that I work on range from big (50GB) to huge (3 Tb) to massive (30TB) databases and all that that entails. PM, Architect, Lead, Mentor, BA, Developer, DBA, Tester and yes call centre operator.  
+
+Massive for me anyway. :-)</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.businessgenetics.co.za/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31525</importID>
+      <name>Luis de Sousa</name>
+      <label>
+      </label>
+      <description>Consult to large financial institutions in South Africa providing Business Intelligence and Analysis insight.</description>
+      <twitter>@luis_de_sousa</twitter>
+      <linkedin>http://za.linkedin.com/in/luisdza</linkedin>
+      <ContactURL>http://www.luisdesousa.co.za</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@luis_de_sousa</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32027</importID>
+      <name>Mark Stacey</name>
+      <label>
+      </label>
+      <description>Mark is the principal architect at PragmaticWorks SA</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33150</importID>
+      <name>Steve Simon</name>
+      <label>
+      </label>
+      <description>Steve Simon is an AVP with State Street Corporation Boston. He has been involved with database design and analysis for over 23 years. He has presented papers at eight PASS Summits and PASS Europe 2009 2010. He is the chairman of the PASS SQL Server / Oracle Virtual Chapter in addition to being a PASS Regional Mentor. He is also a regular presenter at SQL Saturdays and regional Code Camps.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.infogoldusa.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29290</importID>
+      <name>Jason Brimhall</name>
+      <label>
+      </label>
+      <description>Jason Brimhall has more than 20 years of experience and has worked with SQL Server 6.5 through SQL Server 2019. He has experience in performance tuning, high transaction environments, and large environments. He is currently a consultant specializing in performance tuning, server analysis, and problem resolution. Jason is a Microsoft Certified Master (MCM) and a Data Platform MVP.</description>
+      <twitter>sqlrnnr</twitter>
+      <linkedin>https://www.linkedin.com/in/dbajbrimhall/</linkedin>
+      <ContactURL>http://jasonbrimhall.info</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlrnnr</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>30215</importID>
+      <speakers>
+        <speaker>
+          <id>30215</id>
+          <name>Gail Shaw</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>12 ways to write badly performing T-SQL</title>
+      <description>Database performance is a hot topic and there are often questions asked pertaining to the best way to write T-SQL queries. 
+
+In this presentation, the attendee will NOT be shown the best manner in which to write queries but rather numerous ways of how to write poorly performing queries, with the hope that the attendee  will obtain an understanding of what NOT to do.  
+
+The user will be guided through each query, be shown why it’s not the optimal way of doing things and then shown a well-written query that achieves the same results.
+</description>
+      <startTime>5/7/2011 12:00:00 AM</startTime>
+      <endTime>5/7/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33150</importID>
+      <speakers>
+        <speaker>
+          <id>33150</id>
+          <name>Steve Simon</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Recursive Queries: Beautiful Events Always Recur </title>
+      <description>(Eng  Afrikaans)
+Within the realm of financial instruments, business structure and rules are highly hierarchical in nature. Investor funds consist of one or many levels of asset ID’s which in turn are comprised of one or more lots. This certainly poses interesting challenges when it comes to creating efficient and effective detailed and summary level queries and reports. This beginners' to intermediate level hands-on presentations is aimed at showing the attendee how we handle recursive scenarios,utilizing several techniques including, recursive T-SQL, code using memory TABLEs (as custom stacks) and CTE's.</description>
+      <startTime>5/7/2011 12:00:00 AM</startTime>
+      <endTime>5/7/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32968</importID>
+      <speakers>
+        <speaker>
+          <id>32968</id>
+          <name>Phlippie Smit</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Get your Oracle data into SQL Server faster!</title>
+      <description>In this session, we will explore the usage and performance of the Microsoft Connector Version 1.1 for Oracle by Attunity.  Delegates will leave the session empowered to replace their current SQL Server Integration Packages to use the new connector to dramatically increase data transfer speed between SQL Server and Oracle.  The session is a must for BI developers working in heterogeneous environments where Oracle source systems or Data Warehouses and Microsoft BI tools co-exist.</description>
+      <startTime>5/7/2011 12:00:00 AM</startTime>
+      <endTime>5/7/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33200</importID>
+      <speakers>
+        <speaker>
+          <id>33200</id>
+          <name>Stephan Lawson</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The Transaction Log and VLF performance.</title>
+      <description>Look at what happens to a transaction in the log file, and take a deep dive into VLF's with a live demo to see how they can affect performance if managed badly. </description>
+      <startTime>5/7/2011 12:00:00 AM</startTime>
+      <endTime>5/7/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28453</importID>
+      <speakers>
+        <speaker>
+          <id>28453</id>
+          <name>Benjamin Nevarez</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Query Optimizer Topics for Better Performance</title>
+      <description>This session will show you how a better understanding of how the Query Optimizer works can help you to improve the performance of your queries. I will show you some of the top Query Optimizer topics that can give you the most benefit by focusing both on concepts and practical solutions. Several areas of the query processor will be covered, everything from troubleshooting query performance problems and identifying what information the Query Optimizer needs to do a better job to the extreme cases where, because of the its limitations, the Query Optimizer may not give you a good plan and you may need to take a different approach.</description>
+      <startTime>5/7/2011 12:00:00 AM</startTime>
+      <endTime>5/7/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29290</importID>
+      <speakers>
+        <speaker>
+          <id>29290</id>
+          <name>Jason Brimhall</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Tools for a DB TakeOver</title>
+      <description>In this session we will explore some practical scripts to help create database documentation. We will be looking at how to make some of those documentation tasks easier, while giving you greater insight into your database(s). Attendees will be able to leave with some additional tools for their toolbox and through the use of these scripts the attendee will be able to perform these tasks faster.</description>
+      <startTime>5/7/2011 12:00:00 AM</startTime>
+      <endTime>5/7/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33377</importID>
+      <speakers>
+        <speaker>
+          <id>33377</id>
+          <name>Theo Potgieter</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Baseline my Database</title>
+      <description>As a DBA I always get asked by my  DBA peers “How many I/Os, Deadlocks, Scans etc. does your database perform?”. Very valid question but in what context? The starting point of answering the context questions starts with implementing a baseline for your database. In this session I will propose concepts and raise important things to consider when implementing a baseline on a production database.</description>
+      <startTime>5/7/2011 12:00:00 AM</startTime>
+      <endTime>5/7/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31525</importID>
+      <speakers>
+        <speaker>
+          <id>31525</id>
+          <name>Luis de Sousa</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Database Design Methodologies</title>
+      <description>"Data lasts longer than code, treat it right" - In this session we take a look at database design phases, data modelling and some tools to help you along the way.</description>
+      <startTime>5/7/2011 12:00:00 AM</startTime>
+      <endTime>5/7/2011 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32027</importID>
+      <speakers>
+        <speaker>
+          <id>32027</id>
+          <name>Mark Stacey</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title> "GIS in SQL and SSRS using Statistics SA data"</title>
+      <description>"Many data are publicly  available , including Geographic Information Systems points, and economic metrics. In this session, Mark will show a couple of these sources, and show how to import this geographic and economic information into a SQL database, and display it as a map in SSRS"</description>
+      <startTime>5/7/2011 12:00:00 AM</startTime>
+      <endTime>5/7/2011 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

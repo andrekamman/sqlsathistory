@@ -1,0 +1,1132 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #687 - Slovenia 2017</name>
+    <startDate>12/9/2017 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlSatSlovenia</twitterHashtag>
+    <venue>
+      <name>Faculty of Computer Science</name>
+      <street>Vecna pot 113</street>
+      <city>Ljubljana</city>
+      <state>Ljubljana, Slovenia</state>
+      <zipcode>1000</zipcode>
+      <longitude>14.4772701</longitude>
+      <latitude>46.05019</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2052</importID>
+      <name>Comtrade d.o.o.</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.comtradegaming.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/910/EventSponsor_14318.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1522</importID>
+      <name>Kompas Xnet d.o.o.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.kompas-xnet.si</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/910/EventSponsor_14290.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2055</importID>
+      <name>COMPAREX d.o.o.</name>
+      <label>Bronze Sponsor</label>
+      <url>https://www.comparex.si</url>
+      <imageURL>https://www.comparex-group.com/MediaLibrary/Catalog/layout/web/images/logo_cpx_144px.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1817</importID>
+      <name>SentryOne</name>
+      <label>Raffle Only Sponsor</label>
+      <url>https://www.sentryone.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/908/EventSponsor_14257.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2002</importID>
+      <name>Redgate Software</name>
+      <label>Raffle Only Sponsor</label>
+      <url>http://www.red-gate.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/991/EventSponsor_14803.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1608</importID>
+      <name>ApexSQL</name>
+      <label>Raffle Only Sponsor</label>
+      <url>http://www.apexsql.com/</url>
+      <imageURL>https://www.apexsql.com/images/ApexSQL_Logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>67603</importID>
+      <name>Regis Baccaro</name>
+      <label>
+      </label>
+      <description>Regis has more than 15 years of experience with SQL Server, SharePoint and .Net as an architect and developer. R#233;gis is a SQL Server MVP since 2014 and a frequent speaker at SQL conferences, a PASS Regional Mentor and the founder of SQL Saturday Denmark community event. He is also a certified industry trainer on the APS/PDW platform. In his freetime he is an avid runner, cook and farmer.</description>
+      <twitter>@regbac</twitter>
+      <linkedin>http://dk.linkedin.com/in/regisbaccaro</linkedin>
+      <ContactURL>http://theblobfarm.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@regbac</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69604</importID>
+      <name>Hugo Kornelis</name>
+      <label>
+      </label>
+      <description>Hugo Kornelis is an established SQL Server community expert who spends a lot of time at various conferences. He is author of "the Execution Plan Reference" (sqlserverfast.com/epr), blogger, technical editor of Grant Fritchey's "SQL Server Execution Plans, 3rd edition" and some other books, and Pluralsight author. He was awarded SQL Server MVP and Data Platform MVP 12 times (2006 - 2016, and 2019-present).
+
+When not working for the community, he is busy at his day job: freelance database developer/consultant.
+
+Hugo has over 20 years of SQL Server experience in various roles. He loves to write and tune complex queries, but he also has a strong database design background.
+
+When not working for the community, he is busy at his day job: freelance database developer/consultant.
+
+Hugo has over 20 years of SQL Server experience in various roles. He loves to write and tune complex queries, but he also has a strong database design background.</description>
+      <twitter>Hugo_Kornelis</twitter>
+      <linkedin>http://nl.linkedin.com/in/hugokornelis</linkedin>
+      <ContactURL>http://sqlblog.com/blogs/hugo_kornelis/default.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Hugo_Kornelis</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67544</importID>
+      <name>Uwe Ricken</name>
+      <label>
+      </label>
+      <description>Uwe Ricken is working with IT systems since the 90’s. The primary passion for developments with Microsoft SQL Server expanded in 2007 with his engagement as a DBA for Deutsche Bank AG in Frankfurt am Main. After 6 years of operational experiences as a DBA and over 14 years as a developer of complex database models he achieved the “Microsoft Certified Master – SQL Server 2008” certification which “was” the highest technical certification. In the same year he earned his first award as a Data Platform MVP for his support to the Microsoft SQL Server community in Germany and Europe. Uwe Ricken is a speaker on many international conferences and events and preferred topics are “Database Internals”, “Indexing” and “Development”.</description>
+      <twitter>https://twitter.com/dbBerater</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=270775013amp;trk=tab_pro</linkedin>
+      <ContactURL>http://www.sqlmaster.de</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dbBerater</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68115</importID>
+      <name>Cathrine Wilhelmsen</name>
+      <label>
+      </label>
+      <description>Cathrine loves teaching and sharing knowledge :) She is based in Norway and works as a Senior Business Intelligence Consultant in Inmeta, focusing on Data Warehousing, Data Integration, Analytics, and Reporting projects. Her core skills are Azure Data Factory, SSIS, Biml and T-SQL development, but she enjoys everything from programming to data visualization. Outside of work she's active in the SQL Server community as a Microsoft Data Platform MVP, BimlHero Certified Expert, author, speaker, blogger, organizer and chronic volunteer.</description>
+      <twitter>@cathrinew</twitter>
+      <linkedin>https://www.linkedin.com/in/cathrinewilhelmsen</linkedin>
+      <ContactURL>https://www.cathrinewilhelmsen.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@cathrinew</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68025</importID>
+      <name>Kamil Nowinski</name>
+      <label>
+      </label>
+      <description>Blogger, speaker, #sqlfamily member. Microsoft Data Platform MVP. Data passionate, Data engineer and Architect.
+Over 13 years of programming and experience with SQL Server databases, he worked both as developer and administrator big databases designing systems from the scratch. Passionate about tuning database engines, code transparency and maximising performance database engine.
+Currently, he is expanding new horizons as a contractor in the UK market, making troubleshooting, prototyping BI and Big Data solutions, enhancing existing processes among Microsoft stuff environments, popularizing the DevOps approach and efficient solutions in the cloud.
+An originator of the "Ask SQL Family" podcast and founder of SQLPlayer blog.</description>
+      <twitter>@NowinskiK</twitter>
+      <linkedin>https://www.linkedin.com/in/kamilnowinski/</linkedin>
+      <ContactURL>https://sqlplayer.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@NowinskiK</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67650</importID>
+      <name>Wolfgang Strasser</name>
+      <label>
+      </label>
+      <description>Wolfgang Strasser creates solutions based on the Microsoft Data Platform tools in his day-to-day job as Business Intelligence consultant. Either using SQL Server Database Engine, SSIS, reporting with SSAS and SSRS, implementing Power BI solutions or cloud tools for data analysis - the data-tools-landscape is broadening every day! Based on his professional careers as a software developer he likes to work on structured development processes.
+Wolfgang shares his knowledge with the community at many national and international events. For his community work, Wolfgang has been awarded with the Microsoft MVP Award for Data Platform in October 2015</description>
+      <twitter>wstrasser</twitter>
+      <linkedin>http://www.linkedin.com/pub/wolfgang-strasser/7b/912/22b</linkedin>
+      <ContactURL>http://workingondata.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=wstrasser</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67566</importID>
+      <name>Alex Yates</name>
+      <label>
+      </label>
+      <description>Alex Yates has been helping organisations to apply DevOps principles to relational database development and deployment since 2010. He’s most proud of helping Skyscanner develop the ability to deploy 95 times a day. Originally for Redgate, later for DLM Consultants, Alex has worked with clients on every continent except Antarctica – so he’s keen to meet anyone who researches penguins. 
+
+A keen community member, he co-organises SQL Relay, is the founder of www.SpeakingMentors.com and has been recognised as a Microsoft Data Platform MVP since 2017.</description>
+      <twitter>@_alexyates_</twitter>
+      <linkedin>http://uk.linkedin.com/in/alexanderyates</linkedin>
+      <ContactURL>http://www.workingwithdevs.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@_alexyates_</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69561</importID>
+      <name>Sergey Olontsev</name>
+      <label>
+      </label>
+      <description>I have been working with SQL Server since SQL Server 2000 version as a database administrator, developer, consultant and trainer, focusing on high availability and disaster recovery solutions, ETL, troubleshooting and performance tuning, developing high performance solutions . I'm a regular speaker at SQL Server user group meetings, SQL Saturday events and other conferences. An owner of MCM certification and MVP award on SQL Server.</description>
+      <twitter>SergeyOlontsev</twitter>
+      <linkedin>http://linkedin.com/in/sergeyolontsev</linkedin>
+      <ContactURL>http://SergeyOlontsev.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SergeyOlontsev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68130</importID>
+      <name>David Williams</name>
+      <label>
+      </label>
+      <description>David is a cross product DBA (SQL Server, DB2, Oracle, Informix, Sybase) who has worked for 25 years as a DBA for both private, 
+local/central government customers including a Fortune 50 investment bank. Certifications include MCSE 2014 Data Platform, MCTS SQL Server 2008 DBA and Developer as well as certifcations in other products. 
+David has spoken at multiple SQL Saturdays as well as local usergroups and is a regular volunteer at events including SQLBits.</description>
+      <twitter>@smooth1x1</twitter>
+      <linkedin>https://www.linkedin.com/in/justdaveinfo?trk=nav_responsive_tab_profile</linkedin>
+      <ContactURL>http://justdave.info</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@smooth1x1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68720</importID>
+      <name>Mikael Wedham</name>
+      <label>
+      </label>
+      <description>Mikael Wedham is the first SQL Server MCM in Sweden and the only one who also is a Microsoft Certified Trainer. He has been paid to do things in SQL Server since 1993. His long experience makes him an appreciated speaker at events and conferences all over Europe. To be prepared for deep dives, he is also certified as an Open Water Scuba Instructor.</description>
+      <twitter>@wedham</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.wedham.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@wedham</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68062</importID>
+      <name>Enrico van de Laar</name>
+      <label>
+      </label>
+      <description>Enrico has been working with data in all kinds of formats and sizes for over 15 years. He is a Data  Advanced Analytics Consultant for Dataheroes where he helps organisations take their first steps in the world of Advanced Analytics. Enrico is a Data Platform MVP since 2014 and a frequent speaker on various data related events all over the world. He authored the book “Pro SQL Server Wait Statistics” and blogs about technologies like Microsoft SQL Server and Azure Machine Learning on his blog at www.enricovandelaar.com</description>
+      <twitter>twitter.com/evdlaar</twitter>
+      <linkedin>http://nl.linkedin.com/pub/enrico-van-de-laar/33/882/756/</linkedin>
+      <ContactURL>https://www.enricovandelaar.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=twitter.com/evdlaar</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67795</importID>
+      <name>Marcin Szeliga</name>
+      <label>
+      </label>
+      <description>Data Philosopher. Since 2006 invariably awarded Microsoft Most Valuable Professional title in the Data Platform category. A speaker at numerous conferences across Europe, as well as at user groups meetings. The author of many books and articles devoted to Microsoft Data Platform. An independent consultant, database-centric application practitioner and architect totally focused on SQL Server and Azure. Huge fan of Data Science and Machine Learning.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://pl.linkedin.com/in/marcinszeliga</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68845</importID>
+      <name>LEONEL ABREU</name>
+      <label>
+      </label>
+      <description>An IT Pro who likes to play chess and baseball. 
+
+System Engineer degree since 2007, formerly Data Warehousing teacher at university levels from 2008 to 2009. Microsoft Student Partner during the years 2006 - 2007, Second Place in Microsoft Andean Imagine Cup (2006), MCTS, MCITP and MCP with over a decade of experience with SQL Server, working in BI, DBA, Database Development, .net Development, SharePoint and other several areas. 
+
+Since 2014 based in Barcelona, Spain. Learning enthusiast and always with passion for new technologies and new challenges.</description>
+      <twitter>leonel_abreu</twitter>
+      <linkedin>https://www.linkedin.com/in/abreulj/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=leonel_abreu</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67830</importID>
+      <name>Stijn Wynants</name>
+      <label>
+      </label>
+      <description>Stijn is a Microsoft Premier Field Engineer on Data  AI and a DataMinds core member. He is also one of the organizers of the local user group sessions  the yearly event called DataMinds Connect (SQL Server Days). He is a speaker at various international events (SQL Saturday,PASS Summit,Difinity,...).  He spends his days tuning SQL Servers  solving problems with the full data platform. His focus is primarily on sql server core, but has also done various BI  ETL projects. He gets his kicks out of Columnstore indexes  tuning queries but shivers at the sight of an SSAS cube.
+
+When Stijn is not working with SQL Server, you can probably find him enjoying the local cuisine  local beers or enjoying time with his wife and his dog.</description>
+      <twitter>SQLStijn</twitter>
+      <linkedin>https://www.linkedin.com/in/stijn-wynants-ba528660?trk=hp-identity-name</linkedin>
+      <ContactURL>http://swyssql.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLStijn</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68860</importID>
+      <name>Prathy Kamasani</name>
+      <label>
+      </label>
+      <description>Prathy Kamasani is a Microsoft Valuable Professional working as an independent MSBI contractor based in London. She specialises in Power BI, SSIS, SSAS and SSRS. Prathy organisers London Power BI user group and co-organizes the London PASS Local Group. She is a regular speaker at events like SQLSaturday and local user groups.</description>
+      <twitter>@pkamasani</twitter>
+      <linkedin>https://uk.linkedin.com/in/prathy</linkedin>
+      <ContactURL>http://prathy.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@pkamasani</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67885</importID>
+      <name>Christopher Adkin</name>
+      <label>
+      </label>
+      <description>Chris is a freelance SQL consultant who has been working with SQL Server since 2000, his passion is for squeezing every last drop of performance out of SQL Server and understanding the database engine at a level which conventional tools cannot provide any insights on.</description>
+      <twitter>ChrisAdkin8</twitter>
+      <linkedin>https://www.linkedin.com/in/wollatondba</linkedin>
+      <ContactURL>http://www.chrisadkin.io</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ChrisAdkin8</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69075</importID>
+      <name>Marcos Freccia</name>
+      <label>
+      </label>
+      <description>Currently working as a Microsoft SQL Server DBA at Zalando SE, Marcos has over 9 years of SQL Server experience, working from small to enterprise environments with High Availability, Disaster Recovery, Database Optimization, etc.. Holding several Microsoft certifications such as: MCITP DBA  DEV, MCSE Data Plataform and his last certification on Microsoft Azure Design and Implement Cloud Data Platform Solutions. In 2013 Marcos was awarded as a Microsoft MVP by his contributions in the Brazilian SQL Server community. Marcos is a frequent speaker in the SQL Server Community and he was the organizer of the first SQL Saturday in South Brazil.</description>
+      <twitter>@sqlfreccia</twitter>
+      <linkedin>https://br.linkedin.com/in/marcosfreccia</linkedin>
+      <ContactURL>http://marcosfreccia.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlfreccia</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70597</importID>
+      <name>Christina Leo</name>
+      <label>
+      </label>
+      <description>Christina Leo is a Cloud Solution Architect at Microsoft specialising in the Data and AI Platform. Prior to joining Microsoft in 2016, she worked as an independent consultant focusing on T-SQL and BI development, as well as database performance tuning in the finance and investment banking sector. When she isn't sharing her 18 years of technical experience with the data community, you can find her racing around the Solent on a 40' sailboat or often in the Thames on a little Laser.</description>
+      <twitter>christinaleo</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://christinaleo.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=christinaleo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68215</importID>
+      <name>Chrissy LeMaire</name>
+      <label>
+      </label>
+      <description>Chrissy LeMaire is a Data Platform and PowerShell MVP who has worked in IT for over 20 years. She works for General Dynamics and serves as the SQL Server DBA at NATO Special Ops HQ in Belgium. She is also an avid scripter, and has used PowerShell since it was introduced in 2005 at the Microsoft Professional Conference in Los Angeles. Chrissy is the creator of the popular dbatools PowerShell module for SQL Server. 
+
+Chrissy recently achieved her MS in Systems Engineering at Regis University ‍</description>
+      <twitter>@cl</twitter>
+      <linkedin>http://linkedin.com/in/chrissylemaire</linkedin>
+      <ContactURL>https://netnerds.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@cl</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69700</importID>
+      <name>Gašper Kamenšek</name>
+      <label>
+      </label>
+      <description>Microsoft MVP for Excel since 2016
+Lead Author @ ExcelUnplugged.com (voted one of the top 40 blogs for Excel Worldwide)
+Speaker @ 50+ conferences
+Trainer with 900+ courses
+Trainer with 5000+ attendees</description>
+      <twitter>https://twitter.com/ExcelUnplugged</twitter>
+      <linkedin>https://www.linkedin.com/in/gasperkamensek</linkedin>
+      <ContactURL>http://excelunplugged.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/ExcelUnplugged</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67626</importID>
+      <name>Paul Andrew</name>
+      <label>
+      </label>
+      <description>Paul Andrew is a principal consultant and architect, specializing in big data solutions on the Microsoft Azure cloud platform.
+Paul's data engineering competencies include Azure Data Factory, Data Lake, Databricks, Stream Analytics, Event Hub, IoT Hub, Functions, Automation, Logic Apps, and of course the complete SQL Server Business Intelligence stack. 
+
+He has many years’ experience working within healthcare, retail, and gaming verticals, delivering analytics using industry leading methods and technical design patterns.
+
+Paul is a STEM ambassador and a very active member of the data platform community delivering training and technical sessions at conferences both nationally and internationally.
+
+He is a father, husband, swimmer, cyclist, r</description>
+      <twitter>mrpaulandrew</twitter>
+      <linkedin>https://www.linkedin.com/in/mrpaulandrew</linkedin>
+      <ContactURL>https://mrpaulandrew.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mrpaulandrew</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70860</importID>
+      <name>Jason Horner</name>
+      <label>
+      </label>
+      <description>Hi, my name is Jason. I spend most of my day helping clients solve business problems mostly in the Data and Advanced Analytics spaces. Sometimes this involves various and sundry cloud technologies including Azure Data Factory, Azure SQL Data Warehouse, Azure Data Lake Store, Azure Databricks, HDInsight and Azure SQL Database. I'm fluent in several languages including: SQL, C#, Python, and PowerShell.
+
+I'm a Microsoft Certified Master of SQL Server (MCM) and have been recognized for my technical excellence and evangelism efforts by Microsoft by being awarded the Most Valuable Professional (MVP) for the last 5+ years.
+
+In my off hours I like to snowboard, karaoke, ride roller coasters, and play arcade games</description>
+      <twitter>jasonhorner</twitter>
+      <linkedin>http://www.linkedin.com/in/jasonhorner</linkedin>
+      <ContactURL>http://blog.jasonhorner.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=jasonhorner</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>67608</importID>
+      <name>Markus Ehrenmueller-Jensen</name>
+      <label>
+      </label>
+      <description>Markus Ehrenmueller-Jensen, as the founder of Savory Data, has a long history of providing customer solutions in the areas of data engineering, data science, and Business Intelligence. He is a certified software engineer, a graduated business educator, and professor of Databases  Project Management at HTL Leonding, and is certified as an MCSE  MCT. He is a published author and writes articles for well-known journals. He co-founded PASS Austria and organizes SQLSaturdays in Austria. Markus is a founding member of Power BI Usergroup Austria. Since 2017 Markus was awarded as an Microsoft Data Platform MVP.</description>
+      <twitter>MEhrenmueller</twitter>
+      <linkedin>https://www.linkedin.com/in/markus-ehrenmueller/</linkedin>
+      <ContactURL>http://www.savorydata.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MEhrenmueller</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69666</importID>
+      <name>Erland Sommarskog</name>
+      <label>
+      </label>
+      <description>Erland Sommarskog is an independent consultant based in Stockholm, working with SQL Server since 1991. He was first awarded SQL Server MVP in 2001, and has been re-awarded every year since. His focus is on systems development with the SQL Server Database Engine and his passion is to help people to write better SQL Server applications.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sommarskog.se</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68235</importID>
+      <name>Denis Reznik</name>
+      <label>
+      </label>
+      <description>Denis Reznik is a Data Architect at Intapp, Inc. He has more than ten years experience in software development, database design, and performance tuning for cloud and on-premises solutions. In 2010 Denis became Microsoft Data Platform MVP and maintains MVP status today. Apart from his professional career, Denis actively participates in the development of the Ukrainian Data Community.</description>
+      <twitter>https://twitter.com/DenisReznik</twitter>
+      <linkedin>http://www.linkedin.com/pub/denis-reznik/3/502/234</linkedin>
+      <ContactURL>http://reznik.uneta.com.ua</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/DenisReznik</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68700</importID>
+      <name>Janos Berke</name>
+      <label>
+      </label>
+      <description>I am  an IT professional with over a decade of technical and management experience. I am using SQL Server since version 6.5. Currently I am a  consultant and helping companies in SQL Server design, migrations, operation and developments as well as providing customized training .</description>
+      <twitter>@JanosBerke</twitter>
+      <linkedin>https://hu.linkedin.com/in/janosberke</linkedin>
+      <ContactURL>http://www.iamberke.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@JanosBerke</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69694</importID>
+      <name>Stephanie Locke</name>
+      <label>
+      </label>
+      <description>Steph Locke leads a life of data, coffee, books and board games. During the day, Steph runs her own consultancy helping people start doing data science. Steph enjoys being her own gal as it means she gets to spend plenty of time building communities to provide platforms for people to help each other be better with data.</description>
+      <twitter>@stefflocke</twitter>
+      <linkedin>https://uk.linkedin.com/in/stephanielocke</linkedin>
+      <ContactURL>https://itsalocke.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@stefflocke</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68283</importID>
+      <name>Karen Lopez</name>
+      <label>
+      </label>
+      <description>Karen Lopez is a Sr. Project Manager and Architect for InfoAdvisors. A frequent speaker at conferences and local user groups, she has 20+ years of experience in project and data management on large, multi-project programs. Karen is a chronic volunteer, a Data Platform MVP, and an active advocate for science, technology, engineering, and mathematics (STEM) education and data quality.
+
+Karen’s presentations are known for their lively and interactive approach to learning. Her motto: “Love Your Data!”</description>
+      <twitter>datachick</twitter>
+      <linkedin>http://www.linkedin.com/in/karenlopez</linkedin>
+      <ContactURL>http://datamodel.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=datachick</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68515</importID>
+      <name>Joseph D'Antoni</name>
+      <label>
+      </label>
+      <description>Joseph D'Antoni is a Senior Consultant and Microsoft Data Platform MVP with over 20 years of experience working in both Fortune 500 and smaller firms. He is a Principal Consultant for Denny Cherry  Associates and lives in Malvern, PA. He is a frequent speaker at major tech events like Microsoft Ignite, PASS Summit, and Enterprise Data World. He blogs about all topics technology at joeydantoni.com. He believes that no single platform is the answer to all technology problems. Joseph holds a BS in Computer Information Systems from Louisiana Tech University and an MBA from North Carolina State University, and is the co-author of the Microsoft book "Introducing SQL Server 2016”.</description>
+      <twitter>jdanton</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=3997984amp;trk=hb_tab_pro_top</linkedin>
+      <ContactURL>http://joeydantoni.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=jdanton</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69235</importID>
+      <name>Gabi Münster</name>
+      <label>
+      </label>
+      <description>Gabi Münster is working as a Business Intelligence consultant and team lead and brings in her experience with SQL Server, data warehousing, relational and multidimensional database design and implementation, report and dashboard design, and Master Data Services, as well as project management into the community as a regional PASS Local Group lead. She is also passionate about motivating other women to start a technical career and therefore initiates and supports "Women in Technology" events. Apart from SQLSaturdays, she also spoke at SQLBits, SQL Nexus, Tuga IT, and 2015's and 2017's PASS Summit. In October 2017 Gabi received her first Data Platform MVP award.</description>
+      <twitter>@SQLMissSunshine</twitter>
+      <linkedin>https://www.linkedin.com/in/gabimuenster/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLMissSunshine</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>67566</importID>
+      <speakers>
+        <speaker>
+          <id>67566</id>
+          <name>Alex Yates</name>
+        </speaker>
+      </speakers>
+      <track>DEV</track>
+      <location>
+        <name>P01: DEV</name>
+      </location>
+      <title>€20M+ fines and prison: General Data Protection Regulation (GDPR)</title>
+      <description>Do you hold data on EU citizens? If so GDPR applies to you.
+
+From the 25th May 2018 organisations who fail to implement appropriate technical and organisational measures that ensure and demonstrate that they are compliant will be liable for a fine of €20M or 4% of annual global turnover – whichever is GREATER. Also, prison.
+
+As a professional who works with data it is wise to ensure that you understand GDPR.
+
+DISCLAIMER: I am not a lawyer.
+
+Let me repeat: I AM NOT A LAWYER.
+
+I am not qualified to give legal advice. However, I do know a thing or two about delivering software. In this talk I will bring your attention to the main aspects of GDPR and discuss some of the consequences this has on the use of production data and database lifecycle management (DLM).
+
+I will focus on technical problems that we need to address. You can (and should) hire your own lawyers to provide legal advice.</description>
+      <startTime>12/9/2017 9:00:00 AM</startTime>
+      <endTime>12/9/2017 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>67544</importID>
+      <speakers>
+        <speaker>
+          <id>67544</id>
+          <name>Uwe Ricken</name>
+        </speaker>
+      </speakers>
+      <track>DEV</track>
+      <location>
+        <name>P01: DEV</name>
+      </location>
+      <title>Advanced insides into System Versioned Temporal Tables</title>
+      <description>SQL Server 2016 introduces support for system-versioned temporal tables as a database feature that brings built-in support for providing information about data stored in the table at any point in time rather than only the data that is correct at the current moment in time. 
+
+This session takes you behind the basics of Temporal Tables and answers - after a short introduction - the following questions:
+- How to handle the change of NULL constraints?
+- Can Temporal Tables be renamed and what happens to the System Versioned table?
+- What will happen if you change meta data (data length, data type, ...)?
+- What happens if you drop a column or add another column to the Temporal Table?
+- what about security for the  system versioned table?
+- what about calculated columns in the temporal table?
+- ...
+
+You are interested in the answers to all the above questions (and more). This session will answer EVERY question about Temporal Tables.</description>
+      <startTime>12/9/2017 10:15:00 AM</startTime>
+      <endTime>12/9/2017 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>68283</importID>
+      <speakers>
+        <speaker>
+          <id>68283</id>
+          <name>Karen Lopez</name>
+        </speaker>
+      </speakers>
+      <track>DEV/DBA</track>
+      <location>
+        <name>P20: DBA/DEV</name>
+      </location>
+      <title>Data Modeling and Design for New Features in SQL Server and Cosmos DB</title>
+      <description>With the availability of new Graph Database features in SQL Server 2017 and the new Cosmos DB, Microsoft’s globally-distributed, multi-model database service for managing data at scale, database architects are expected to create and translate data models to non-relational physical database designs.  For decades, data modeling and database design has been focused on the relational model, yet we have all these new features to model for.
+
+In this session, we’ll look at:
+Why these features still need data modelsHow to prepare data models, logical and physical, for these target featuresHow these features change the data model/database design processHow tools support these new features (or don’t)How to approach tuning for these non-relational featuresFinally, we end with 10 tips for working with non-relational features while still maintaining data model-driven database design.</description>
+      <startTime>12/9/2017 9:00:00 AM</startTime>
+      <endTime>12/9/2017 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>68025</importID>
+      <speakers>
+        <speaker>
+          <id>68025</id>
+          <name>Kamil Nowinski</name>
+        </speaker>
+      </speakers>
+      <track>DEV/DBA</track>
+      <location>
+        <name>P20: DBA/DEV</name>
+      </location>
+      <title>Understand better Transaction Isolation Levels</title>
+      <description>SQL Server is an extraordinarily powerful engine of relational databases, which lets you achieve high scalability of data platform. For many years SQL Server gains more and more new features and more efficient mechanisms including InMemory or ColumnStore Indexes. However, there is still many companies not using those features and struggling with performance issues, which the root cause turn out the problems with concurrency. 
+Let's back to the basis then in order to better understand transaction isolation levels available in SQL Server. On this session we will learn about a concurrency issue, (not)expected behaviours, lost modifications and consider how to cope with them. I will tell what the optimistic and pessimistic concurrency models are, when use it and what tempdb has in common with them. Also, we will see in practice how dangerous (NOLOCK) might be which has being used so passionately by developers.</description>
+      <startTime>12/9/2017 1:30:00 PM</startTime>
+      <endTime>12/9/2017 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67650</importID>
+      <speakers>
+        <speaker>
+          <id>67650</id>
+          <name>Wolfgang Strasser</name>
+        </speaker>
+      </speakers>
+      <track>BI/DEV</track>
+      <location>
+        <name>P22: BI/DEV</name>
+      </location>
+      <title>Scale-Out your SSIS Package Executions</title>
+      <description>With a rising number of parallel SQL Server Integration Services (SSIS) package executions the resource requirements on the SSIS server can be a limiting factor. In older SQL Server versions, scale-out architectures needed to be implemented by hand and required a lot of manual implementation effort. Beginning with SQL Server 2017, SSIS provides a built-in scale-out functionality for package executions. 
+After the definition of scalability-types, the SSIS scale-out architecture and the involved system-parts are introduced. The attendees will learn the basics, get checklists and best practices when building up their own SSIS scale-out cluster. In addition to the configuration using SSMS other configuration options (command line, T-SQL,..) are presented. Behind the scenes information like logging, the programmability interfaces and configuration options will be shared.</description>
+      <startTime>12/9/2017 11:30:00 AM</startTime>
+      <endTime>12/9/2017 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67626</importID>
+      <speakers>
+        <speaker>
+          <id>67626</id>
+          <name>Paul Andrew</name>
+        </speaker>
+      </speakers>
+      <track>BI/DEV</track>
+      <location>
+        <name>P22: BI/DEV</name>
+      </location>
+      <title>Building an End to End IoT Solution Using Raspberry Pi Sensors  Azure</title>
+      <description>The Internet of Things is the new kid on the block offering a wealth of possibilities for data streaming and rich analytics. Using a Raspberry Pi 3 we will take an end to end look at how to interact with the physical world collecting sensor values and feeding that data in real-time into cloud services for manipulation and consumption. This will be a heavily demonstrated session looking at how such an environment can be setup using the Microsoft offerings including; Windows 10 IoT Core, a C# Universal Windows Platform application, an Azure IoT Event Hub, Azure Stream Analytics, Azure SQL DB and Power BI. This is an overview of what’s possible, but showing exactly how to build such a simplified solution with a session which will be 90% demonstrations. In addition, spare Raspberry Pi devices will be available for the audience to pass around and look at. This will hopefully add that level excitement of what hardware is now available and what it can do when setup with Microsoft software.</description>
+      <startTime>12/9/2017 2:45:00 PM</startTime>
+      <endTime>12/9/2017 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68130</importID>
+      <speakers>
+        <speaker>
+          <id>68130</id>
+          <name>David Williams</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>P21: DBA</name>
+      </location>
+      <title>SQL Server on Linux - SQL Server 2017 goes cross platform!</title>
+      <description>- How it started - Project Drawbridge, Slava with his brother!
+
+- SQL PAL (SQL Platform Abstraction Layer)
+
+- SQLOSv2
+
+- The (very small) host extension which is platform specific
+
+- Installation with demo,yes that fast!
+
+- Backups and Restores cross platform
+
+- Clustering on Linux
+
+- AlwaysOn Availability Groups cross platform
+
+- SQL Agent for Log Shipping 
+
+- Compiling/Deploying CLR code for both platforms with demo
+
+- How the Linux layer is compiled
+
+- Debugging a combined Windows PE and Linux ELF execution including getting a stack dump
+
+- New DMVs for Linux and DMVs which are replaced as they are not cross platform
+
+- Active Directory Integration with demo
+
+- Performance goals
+
+- Limitations with the current implementation</description>
+      <startTime>12/9/2017 4:00:00 PM</startTime>
+      <endTime>12/9/2017 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67608</importID>
+      <speakers>
+        <speaker>
+          <id>67608</id>
+          <name>Markus Ehrenmueller-Jensen</name>
+        </speaker>
+      </speakers>
+      <track>DEV</track>
+      <location>
+        <name>P01: DEV</name>
+      </location>
+      <title>A Game of Hierarchies: Introduction to Graph Processing with SQL</title>
+      <description>Hierarchies are the bread and butter of most business applications and you find them almost everywhere:
+* Product Categories
+* Sales Territories
+* Bill of Material
+* Calendar and Time
+Even when there is a big need from a business perspective, the solutions in relational databases are mostly sort of awkward. The most flexible hierarchies are usually modeled as self-referenced tables. If you want to successfully query such self-referenced hierarchies, you will need either loops or recursive Common Table Expressions. SQL Server 2017 comes now with a different approach: Graph Database. 
+Join this session for a journey through best practices to transform your hierarchies into useful information. We will have fun playing around with a sample database based on G. R. R. Martin’s famous “Game of Thrones”.</description>
+      <startTime>12/9/2017 11:30:00 AM</startTime>
+      <endTime>12/9/2017 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67795</importID>
+      <speakers>
+        <speaker>
+          <id>67795</id>
+          <name>Marcin Szeliga</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>P19: BI</name>
+      </location>
+      <title>State-of-the-Art Machine Learning Algorithms in R from Microsoft</title>
+      <description>Do you fancy learning regression and classification in one hour? 
+We will start with linear regression, simple but powerful machine learning algorithm. With it you will learn about correlation coefficient, loss function, optimization algorithms and regularization. At the end of this section we will built a ML model using Fast linear model with Stochastic Dual Coordinate Ascent (SDCA) optimization.
+Next step is get to know artificial neural networks, their architecture, activation functions and backpropagation algorithm. This allows us to build a (better?) model using rxNeuralNet and N#.
+Evaluation metrics for regression models will conclude first part of the session.
+In the second part we will use almost the same ML algorithms for classification — the difference is that Logistic regression will replace Linear regression. Finally we will learn about Evaluation metrics for classification models, which allows us to pick the very best model for problems we are going to solve together.</description>
+      <startTime>12/9/2017 1:30:00 PM</startTime>
+      <endTime>12/9/2017 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68515</importID>
+      <speakers>
+        <speaker>
+          <id>68515</id>
+          <name>Joseph D'Antoni</name>
+        </speaker>
+      </speakers>
+      <track>DEV/DBA</track>
+      <location>
+        <name>P20: DBA/DEV</name>
+      </location>
+      <title>Design Seamless Upgrades to SQL Server 2017 with Query Store</title>
+      <description>One of the biggest fears most customers have is upgrading to a new release of Microsoft SQL Server and having performance degrade, because of changes in query execution plans. SQL Server 2016 mitigated this risk by the introduction of the Query Store and the ability to easily force execution plans.
+
+In this session, you will learn about the data that the query store captures to identify queries that have regressed. You will learn about patterns for upgrades that allow you to upgrade with minimal impact to user performance. You will see demos of how to identify when a query has regressed in either plan or performance, and you will get some hints for the future of the Query Store with Adaptive Plans in SQL Server 2017.</description>
+      <startTime>12/9/2017 4:00:00 PM</startTime>
+      <endTime>12/9/2017 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69604</importID>
+      <speakers>
+        <speaker>
+          <id>69604</id>
+          <name>Hugo Kornelis</name>
+        </speaker>
+      </speakers>
+      <track>DEV</track>
+      <location>
+        <name>P01: DEV</name>
+      </location>
+      <title>T-SQL User-Defined Functions, or: How to kill performance in one, easy step</title>
+      <description>User-defined functions in SQL Server are very much like custom methods and properties in .Net languages. At first sight, they seem to be the perfect tool to introduce code encapsulation and reuse in T-SQL. So why is this feature mostly avoided by all T-SQL gurus?
+The reason is performance. In this session, you will learn how user-defined functions feed the optimizer with misleading and insufficient information, how the optimizer fails to use even what little information it has, and how this can lead to shocking query performance.
+However, you will also see that there is a way to avoid the problems. With just a little extra effort, you can reap the benefits of code encapsulation and reuse, and still get good performance.</description>
+      <startTime>12/9/2017 4:00:00 PM</startTime>
+      <endTime>12/9/2017 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70860</importID>
+      <speakers>
+        <speaker>
+          <id>70860</id>
+          <name>Jason Horner</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>P19: BI</name>
+      </location>
+      <title>Dimensional Modeling Design Patterns: Beyond the Basics</title>
+      <description>Dimensional modeling is one of cornerstones of successful Business Intelligence initiatives. Even with new technologies like PowerPivot and Analysis Services Tabular models, you need to represent your organization’s data in a way that is accessible for end users and IT staff alike. An effective dimensional model will also ensure that your data warehouse or data mart will be responsive and capable of accommodating emerging requirements.
+
+In this session, we will dive deeper into the art of dimensional modeling. We will look at how and when to create the different types of fact and dimension tables, Including patterns for enriching dimensional data, creating usable hierarchies for efficient navigation, and tracking historical changes. After attending this session you will be able to confidently assess the quality of your organization’s dimensional model and recommend and implement changes. Bring your toughest quandaries to help make this an interactive and engaging session.</description>
+      <startTime>12/9/2017 11:30:00 AM</startTime>
+      <endTime>12/9/2017 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67830</importID>
+      <speakers>
+        <speaker>
+          <id>67830</id>
+          <name>Stijn Wynants</name>
+        </speaker>
+      </speakers>
+      <track>BI/DEV</track>
+      <location>
+        <name>P22: BI/DEV</name>
+      </location>
+      <title>Datawarehouse Lightning Performance with Columnstore!</title>
+      <description>During this session we will be talking about Columnstore Indexes and how to use them. We will be showing you tips  tricks on how to get the performance you want out of Columnstore.
+We will show you the concepts on how to efficiently load data to your Columnstore tables, how to get your Columnstore properly created, and some dangers with performance you might face when working with Columnstore Indexes as seen in the field!
+After this session things like segment elimination, auto adjust buffer size, Delta Store,... will no longer be a mysterious concept for you  you will be ready to start implementing the different flavors of Columnstore Indexes in your environment.</description>
+      <startTime>12/9/2017 9:00:00 AM</startTime>
+      <endTime>12/9/2017 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>68700</importID>
+      <speakers>
+        <speaker>
+          <id>68700</id>
+          <name>Janos Berke</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>P21: DBA</name>
+      </location>
+      <title>SQL Server Installation 101</title>
+      <description>Have you ever wondered why SQL Server is not starting after the installation or got an error message? Did you have performance issues right after the installation? This session is about the minimum basic settings you may need to set up before,during and after your installations.
+This session would be great for accidental as well as experienced DBA's to learn or get more ideas about SQL Server installations. The following topics will be covered:
+- pre-installation checklists
+- automate and standardize installation 
+- post-installation checklist
+- basic database settings best practices in general</description>
+      <startTime>12/9/2017 9:00:00 AM</startTime>
+      <endTime>12/9/2017 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>70597</importID>
+      <speakers>
+        <speaker>
+          <id>70597</id>
+          <name>Christina Leo</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>P21: DBA</name>
+      </location>
+      <title>Self-Healing Query Execution in SQL 2017</title>
+      <description>In this session we’ll look at two of the big performance improvements introduced with SQL 2017: Adaptive Query Processing and Automatic Tuning. We will discuss the mechanics of each feature, highlight any implementation considerations, and, of course, have a look at the features in action. Scripts will be made available for your own experimentation.</description>
+      <startTime>12/9/2017 1:30:00 PM</startTime>
+      <endTime>12/9/2017 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68720</importID>
+      <speakers>
+        <speaker>
+          <id>68720</id>
+          <name>Mikael Wedham</name>
+        </speaker>
+      </speakers>
+      <track>DEV/DBA</track>
+      <location>
+        <name>P20: DBA/DEV</name>
+      </location>
+      <title>A Masters view on Locking and blocking</title>
+      <description>How do the wait stats show you that you have a locking issue?
+This session will show you how to detect and view blocking and lock waits, and understand the cause of it.
+An extensive walkthrough of the different isolation levels and their respective benefits and drawbacks.
+And finally a real-world quick list of suggestions on what you can do to solve some of the common issues I come across in my daily work.</description>
+      <startTime>12/9/2017 2:45:00 PM</startTime>
+      <endTime>12/9/2017 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68845</importID>
+      <speakers>
+        <speaker>
+          <id>68845</id>
+          <name>LEONEL ABREU</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>P21: DBA</name>
+      </location>
+      <title>Security Enhancements in SQL Server 2016</title>
+      <description>In this session will be shown how to obfuscate critical data in real time using Dynamic Data Masking, a new feature in SQL Server 2016, also will be covered two other topics, Always Encrypted, defined as Help to protect data at rest and in motion with the master key residing with the application avoiding application changes, because they are not required, finally Row-Level security that consists in set access control to table rows based on users rights.</description>
+      <startTime>12/9/2017 11:30:00 AM</startTime>
+      <endTime>12/9/2017 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68062</importID>
+      <speakers>
+        <speaker>
+          <id>68062</id>
+          <name>Enrico van de Laar</name>
+        </speaker>
+      </speakers>
+      <track>BI/DEV</track>
+      <location>
+        <name>P22: BI/DEV</name>
+      </location>
+      <title>Crazy Data Science</title>
+      <description>Data is the most valuable asset to any company right now and you can gain a corporate advantage through the insights your data can provide. However, implementing Advanced Analytics can also lead to very....interesting....results.
+Remember that algorithm that named paint colors? That's nothing compared to what you are going to witness in this session. From analyzing demonic possession based on selfies, to analyzing how "metal" a song is. In this session, presented by mad data scientists Tomaž Kaštrun and Enrico van de Laar, we will explore all the crazy things that are possible with data science. And who knows? You might even learn a thing or two!</description>
+      <startTime>12/9/2017 4:00:00 PM</startTime>
+      <endTime>12/9/2017 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68860</importID>
+      <speakers>
+        <speaker>
+          <id>68860</id>
+          <name>Prathy Kamasani</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>P19: BI</name>
+      </location>
+      <title>On-premises Power BI with Power BI premium and/or Power BI Report Server</title>
+      <description>Recently Microsoft announced capacity based license system, this offering leverages on-premises report publishing. Using this functionality user can now publish reports to Power BI service (Cloud) or Power BI Report Server ( on-premises).
+
+In this session, Prathy will talk about what options are available for On-Premises report publishing. What is Power BI Report Server how is it different from existing SQL Server Reporting Services(SSRS), how licensing works, what are the benefits of Power BI report server and how quickly we can create and deploy Power BI reports to SQL Server Reporting Services Portal / Power BI Report Server portal</description>
+      <startTime>12/9/2017 10:15:00 AM</startTime>
+      <endTime>12/9/2017 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>68115</importID>
+      <speakers>
+        <speaker>
+          <id>68115</id>
+          <name>Cathrine Wilhelmsen</name>
+        </speaker>
+      </speakers>
+      <track>BI/DEV</track>
+      <location>
+        <name>P22: BI/DEV</name>
+      </location>
+      <title>Tools and Tips for Data Warehouse Developers</title>
+      <description>Have you ever accidentally pressed the wrong combination of keys, stared at your screen in utter confusion, then spent the next ten minutes trying to figure out what you just pressed that did that really cool thing?
+
+In this session, I will show you some of what I have learned and discovered that has made me say "Oh wow! Why did I not know this yesterday!?" - including features in SQL Server Management Studio (SSMS) and SQL Operations Studio (SOS), keyboard shortcuts, free tools and scripts, Biml for SQL Server Integration Services (SSIS), and even a couple of things I used to think were only useful for those scary DBAs.</description>
+      <startTime>12/9/2017 1:30:00 PM</startTime>
+      <endTime>12/9/2017 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68235</importID>
+      <speakers>
+        <speaker>
+          <id>68235</id>
+          <name>Denis Reznik</name>
+        </speaker>
+      </speakers>
+      <track>DEV/DBA</track>
+      <location>
+        <name>P20: DBA/DEV</name>
+      </location>
+      <title>Hidden gems of SQL Server 2016</title>
+      <description>SQL Server 2016 is full of new features and improvements. Some of them are "Killer" features like Query Store, Temporal Tables, R Integration, etc., which are discussed a lot and we always can get a lot of information about them. And in the same time, SQL Server 2016 have several fantastic features and improvements, which are more hidden from our sight. 
+
+In this session, we will learn a lot about these features and improvements. Which features? This is a secret :) Come to the session and discover them with me!</description>
+      <startTime>12/9/2017 10:15:00 AM</startTime>
+      <endTime>12/9/2017 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>68215</importID>
+      <speakers>
+        <speaker>
+          <id>68215</id>
+          <name>Chrissy LeMaire</name>
+        </speaker>
+      </speakers>
+      <track>DEV/DBA</track>
+      <location>
+        <name>P20: DBA/DEV</name>
+      </location>
+      <title>Introducing dbatools 1.0</title>
+      <description>Join PowerShell MVPs Chrissy LeMaire and Rob Sewell as they discuss the newest release of dbatools in-depth. In this session, you'll learn about key Enterprise features, tips  tricks and how you can integrate dbatools into your daily toolset, no matter if you are Dev or Ops.</description>
+      <startTime>12/9/2017 11:30:00 AM</startTime>
+      <endTime>12/9/2017 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69075</importID>
+      <speakers>
+        <speaker>
+          <id>69075</id>
+          <name>Marcos Freccia</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>P21: DBA</name>
+      </location>
+      <title>Migrating your local database to Azure SQL DB</title>
+      <description>Azure SQL Database is becoming more and more easy to use, but migration is still a pain point when planning it. In this session I am going to show you some ways to migrate your existing database to Azure SQL Database and how to achieve the same performance.</description>
+      <startTime>12/9/2017 2:45:00 PM</startTime>
+      <endTime>12/9/2017 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69700</importID>
+      <speakers>
+        <speaker>
+          <id>69700</id>
+          <name>Gašper Kamenšek</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>P19: BI</name>
+      </location>
+      <title>Power Query - The Best thing that ever happened in Excel</title>
+      <description>Excel so far had three "official" revolutions. One being the Pivot Table, second one Tables in Excel and the last one obviously Power Pivot. But Power Query (aka Get  Transform aka Data Explorer) trumps them all. This session will show you why this outrageous claim actually makes sense. This will be a full demo session that will prove the title right case by case and should also give you an understanding that if you do not use Power Query in Excel, you are not using Excel at all!</description>
+      <startTime>12/9/2017 9:00:00 AM</startTime>
+      <endTime>12/9/2017 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>67603</importID>
+      <speakers>
+        <speaker>
+          <id>67603</id>
+          <name>Regis Baccaro</name>
+        </speaker>
+      </speakers>
+      <track>BI/DEV</track>
+      <location>
+        <name>P22: BI/DEV</name>
+      </location>
+      <title>Azure Data Factory vs SSIS, the Ins and Outs.</title>
+      <description>ADF provides a managed way to orchestrate the collection, movement and transformation of structured and semi-structured data together. It works both with on-premises and cloud data and it has - of course - a powershell interface, enabling you to manage it without the bling of the Azure portal. But is it useful, is it fast, is it easy and powerful to use ? And most of all is Azure Data Factory  the new SSIS ?
+These are some of the questions that might arise, when reading about this new PaaS and that we will answer together in this demo packed session where will we go through orchestration, consumption and administration of data through the ADF pipeline.</description>
+      <startTime>12/9/2017 10:15:00 AM</startTime>
+      <endTime>12/9/2017 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>69694</importID>
+      <speakers>
+        <speaker>
+          <id>69694</id>
+          <name>Stephanie Locke</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>P19: BI</name>
+      </location>
+      <title>SQL Server and R for real-time predictions</title>
+      <description>Embedding your R (and soon Python!) models in SQL Server enables you to add predictive capabilities to your applications and your analytics without adding expensive components or going outside your network via expensive API calls.
+
+In this demo-packed talk, you’ll see how you can go from a model built in R to making predictions on the fly in SQL Server 2016.</description>
+      <startTime>12/9/2017 4:00:00 PM</startTime>
+      <endTime>12/9/2017 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>67885</importID>
+      <speakers>
+        <speaker>
+          <id>67885</id>
+          <name>Christopher Adkin</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>P21: DBA</name>
+      </location>
+      <title>The All Flash DBA</title>
+      <description>We are at a major turning point in the world of storage; the transition from spinning disk to flash and as we move into this new world a lot of conventional wisdom will be turned on its head. Things such as the use of compression, putting different database components on different volumes, the desire to chase large readaheads for sequential scan workloads, how well mixed workloads are handled, the multi threaded log writer and delayed durability, besides this, the session will also cover nand flash fundamentals at 300 level.</description>
+      <startTime>12/9/2017 10:15:00 AM</startTime>
+      <endTime>12/9/2017 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>69235</importID>
+      <speakers>
+        <speaker>
+          <id>69235</id>
+          <name>Gabi Münster</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>P19: BI</name>
+      </location>
+      <title>Scoped assignments – Threat or salvation? Some real life experiences…</title>
+      <description>Did you ever reach the state in your multidimensional projects when you just didn’t want to implement a new scoped assignment? Will it have any side effects on existing scopes? How about performance?
+Sometimes your projects get that complex. You will need to choose between many options and it might get hard to even measure the impact or test out all consequences. This session will not answer all your questions, but you will get some real life experiences on what better not to do…</description>
+      <startTime>12/9/2017 2:45:00 PM</startTime>
+      <endTime>12/9/2017 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69666</importID>
+      <speakers>
+        <speaker>
+          <id>69666</id>
+          <name>Erland Sommarskog</name>
+        </speaker>
+      </speakers>
+      <track>DEV</track>
+      <location>
+        <name>P01: DEV</name>
+      </location>
+      <title>Dynamic Search Conditions</title>
+      <description>A common requirement in database applications is that users need a function to search a set of data from a large set of possible search conditions. The challenge is to implement such searches in a way that isboth maintenanble and efficient in terms of performance. This session looks at the two main techniques to implement such searches and highlights their strengths and limitaitons.</description>
+      <startTime>12/9/2017 2:45:00 PM</startTime>
+      <endTime>12/9/2017 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69561</importID>
+      <speakers>
+        <speaker>
+          <id>69561</id>
+          <name>Sergey Olontsev</name>
+        </speaker>
+      </speakers>
+      <track>DEV</track>
+      <location>
+        <name>P01: DEV</name>
+      </location>
+      <title>Tricky ways to optimize your T-SQL queries</title>
+      <description>Curious about optimizing your queries? Have you already know how to catch and analyse query plans? Do you think you did all your best to achieve maximum performance? If yes, come to this session. No slides, but only practical examples. I will show you some real tasks that I came across, some almost perfect query plans, but we will go a little bit further, when knowing our data will help us to achieve better results.</description>
+      <startTime>12/9/2017 1:30:00 PM</startTime>
+      <endTime>12/9/2017 2:30:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

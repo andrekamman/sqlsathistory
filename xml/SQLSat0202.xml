@@ -1,0 +1,489 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #202 - Edinburgh 2013</name>
+    <startDate>6/8/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatEdinburgh</twitterHashtag>
+    <venue>
+      <name>University of Edinburgh</name>
+      <street>18 Holyrood Park Road</street>
+      <city>Edinburgh</city>
+      <state>, United Kingdom</state>
+      <zipcode>EH16 5AY</zipcode>
+      <longitude>-3.1738743</longitude>
+      <latitude>55.9394764</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>8</importID>
+      <name>FusionIO</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.fusionio.com/solutions/microsoft-sql-server/</url>
+      <imageURL>https://www.sqlsaturday.com/files/18b704b1-226d-48fe-b0b8-f7b4d3443b3d.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1</importID>
+      <name>Confio</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.confio.com</url>
+      <imageURL>https://www.pass.org/images/resized-confio_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>966</importID>
+      <name>Prodata</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.prodata.ie</url>
+      <imageURL>http://www.prodata.ie/images/Prodata_Logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>6</importID>
+      <name>Melissa Data Corp.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.melissadata.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/931/EventSponsor_14597.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>633</importID>
+      <name>Big Bang Data Ltd</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.facebook.com/bigbangdataco</url>
+      <imageURL>https://bigbangdata.sharepoint.com/SiteImages/bigbangdataco-170x60.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>48</importID>
+      <name>Nimble Storage</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.nimblestorage.com/</url>
+      <imageURL>
+      </imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>400</importID>
+      <name>Aspose Pty Ltd</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.aspose.com</url>
+      <imageURL>https://www.pass.org/files/2d01d9bc-b681-4764-8475-aef3f44c1779.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1124</importID>
+      <name>SQLskills</name>
+      <label>Friday Preconference Sponsorship</label>
+      <url>http://www.sqlskills.com</url>
+      <imageURL>https://www.sqlskills.com/sqlskillslogo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1281</importID>
+      <name>Wiley</name>
+      <label>Bronze Braveheart</label>
+      <url>http://www.wiley.com</url>
+      <imageURL>https://www.pass.org/files/023c5608-6225-48e4-8401-2c545a63ded2.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Bronze Braveheart</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>17056</importID>
+      <name>Jonathan Kehayias</name>
+      <label>
+      </label>
+      <description>Jonathan Kehayias is a Principal Consultant and trainer with SQLskills, and has been recognized as a Microsoft Data Platform MVP for over 10 years, and was the youngest person ever to achieve the Microsoft Certified Master – SQL Server certification. He has presented at numerous conferences including PASS Summit and SQL Rally, SQLBits, VMware Open Forum, SQLintersection, and multiple SQLSaturdays around the world. As a performance tuning and high availability expert for SQL Server, Jonathan has architected and implemented complex systems and solutions for some of the worlds most challenging workloads.</description>
+      <twitter>@SQLPoolBoy</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://www.sqlskills.com/blogs/jonathan</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLPoolBoy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19537</importID>
+      <name>Mark Broadbent</name>
+      <label>
+      </label>
+      <description>Mark Broadbent is a Microsoft Certified Master in SQL Server, Chapter Leader, Virtual Chapter Leader, SQLSaturday Cambridge and SharePoint Saturday Cambridge founder (the UKs first SQLSaturday) and awarded Microsoft#39;s Community Contributor award in 2011 and the PASS Outstanding Volunteer award in 2012. Mark is a regular speaker at both International and National events and is an expert in HADR solutions, SQL Server migration, and SQL Server Concurrency control.</description>
+      <twitter>retracement</twitter>
+      <linkedin>https://uk.linkedin.com/in/retracement</linkedin>
+      <ContactURL>http://tenbulls.co.uk</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=retracement</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15384</importID>
+      <name>Niko Neugebauer</name>
+      <label>
+      </label>
+      <description>Niko Neugebauer is a Data Platform Consultant. A SQL Server MVP with over 20 years of experience in IT, he is passionate about the Microsoft Data Platform and community. Founder of the Portuguese SQL Server User Group and the main organizer of the first SQLSaturday event outside of North America (#78 Portugal), Niko speaks regularly at events such as PASS Summit, SQLRally, SQLBits, and SQLSaturday events around the world. Niko loves sharing information and knowledge and has authored over 130 blog posts on Columnstore Indexes, and regularly contributes to the open-sourced CISL library focused on Columnstore Indexes.</description>
+      <twitter>NikoNeugebauer</twitter>
+      <linkedin>http://pt.linkedin.com/in/webcaravela/</linkedin>
+      <ContactURL>http://www.nikoport.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=NikoNeugebauer</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9287</importID>
+      <name>Allan Mitchell</name>
+      <label>
+      </label>
+      <description>Allan Mitchell is a SQL Server MVP and runs elastio, a small consultancy helping customers to make informed decisions about their data storage and integration.  His focus is on enterprise search as well as real-time data integration.</description>
+      <twitter>@allanSQLIS</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://onlysearch.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@allanSQLIS</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18713</importID>
+      <name>Tobias Koprowski</name>
+      <label>
+      </label>
+      <description>Founder of Shadowland Consulting. In January 2015 decided to permanently leave Poland and discover new worlds. Actually settled in Hucknall (The Last home of The Byron Family). Community leader focused on SQL Server, SharePoint, security, collaboration and ITIL, DR, BCM, and SLA. Love licensing stuff. 
+
+Microsoft Certified Trainer, freelancer, and consultant. Subject Matter Expert at Microsoft. Member of Microsoft Terminology Community, Friends of RedGate PLUS, PASS, ISSA, ACM and more. Since 1st July 2010 Data Platform MVP. Creator of SQLDAY Conference and Conference CEO 2009-2011. Co-Leader of PASS East Midlands Group. Speaker at group meetings and conferences. STEM Ambassador. 
+
+Traveler. Coffee Addicted.</description>
+      <twitter>@KoprowskiT</twitter>
+      <linkedin>https://uk.linkedin.com/in/koprowskit</linkedin>
+      <ContactURL>http://koprowskit.eu/geek/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KoprowskiT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23966</importID>
+      <name>Sanjaya Padhi</name>
+      <label>
+      </label>
+      <description>Sanjaya Padhi has worked at Microsoft for more than 6 years and on SQL Server since 2004. He’s worked on the SQL Server Support team for more than 4 years and is currently a SQL Server PFE in Europe. He’s passionate about SQL Server, especially replication, performance tuning, and SQL Server BI. Recently, he’s been delivering workshops and chalk talk sessions to customers about the latest and upcoming SQL Server releases.</description>
+      <twitter>@sqlinsider</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.msdn.com/sqlserverfaq</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sqlinsider</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17602</importID>
+      <name>James Rowland-Jones</name>
+      <label>
+      </label>
+      <description>James Rowland-Jones (JRJ) is a Principal Program Manager at Microsoft. He is currently part of the SQL Server team working on SQL Server 2019 Big Data Clusters and data virtualization. Prior to joining SQL Server, JRJ worked extensively on Azure SQL Data Warehouse. He helped the team launch Gen 1 of the service and led the product management effort to bring Gen 2 into preview.</description>
+      <twitter>https://twitter.com/jrowlandjones</twitter>
+      <linkedin>http://uk.linkedin.com/in/jrowlandjones/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/jrowlandjones</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>12077</importID>
+      <name>n/a n/a</name>
+      <label>
+      </label>
+      <description>
+      </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21543</importID>
+      <name>Oliver Engels</name>
+      <label>
+      </label>
+      <description>Oliver Engels is CEO of oh22data AG, a Microsoft Gold Partner in Germany specializing in CRM and BI. His special interests are Azure, Data Governance and Integration, Visualisation Tools like SSRS, Power BI, Tableau, R, and SharePoint. He has worked with SQL Server since version 6.5 and is a founder and Board member of PASS Germany, a PASS Regional Mentor, and runs the Frankfurt PASS Local Group. For more than seven years he is a Microsoft Data Platform MVP and a Microsoft pTSP.</description>
+      <twitter>@oengels</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.ssis-components.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@oengels</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17124</importID>
+      <name>Joe Sack</name>
+      <label>
+      </label>
+      <description>Joe Sack is a Principal Program Manager in the SQL Server product team at Microsoft, with a focus on the Query Optimizer. Joe is an author and speaker with over 18 years of experience in the industry, specializing in performance tuning, high availability and disaster recovery.</description>
+      <twitter>@JoeSackMSFT</twitter>
+      <linkedin>https://www.linkedin.com/in/joesack</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@JoeSackMSFT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10560</importID>
+      <name>Bob Duffy</name>
+      <label>
+      </label>
+      <description>Bob Duffy is a SQL Server MVP from Dublin, Ireland who is MCA, MCM. and Analysis Services Maestro certified. 
+
+Bob works as a Database Architect at the Prodata SQL Centre of Excellence where he specializes in business intelligence and performance tuning.</description>
+      <twitter>@bob_duffy</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=8301243amp;authType=NAME_SEARCHamp;authToken=MWkaamp;locale=en_USamp;srchid=83012431382480825815amp;srchindex=1amp;srchtotal=767amp;trk=vsrp_people_res_nameamp;trkInfo=VSRPsearchId%3A83012431382480825815%2CVSRPtargetId%3A8301243%2CVSRPcmpt%3Aprimary</linkedin>
+      <ContactURL>http://blogs.prodata.ie/author/bob.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@bob_duffy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>18713</importID>
+      <speakers>
+        <speaker>
+          <id>18713</id>
+          <name>Tobias Koprowski</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Azure from Plan, to Backup, to Cloud </title>
+      <description>Microsoft released SQL Azure more than two years ago - that's enough time for testing (I hope!). So, are you ready to move your data to the Cloud? If you’re considering a business (i.e. a production environment) in the Cloud, you need to think about methods for backing up your data, a backup plan for your data and, eventually, restoring with Red Gate Cloud Services. In this session, you’ll see the differences, functionality, restrictions, and opportunities in SQL Azure and On-Premise SQL Server 2008/2008 R2/2012. We’ll consider topics such as how to be prepared for backup and restore, and which parts of a cloud environment are most important: keys, triggers, indexes, prices, security, service level agreements, etc.</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19537</importID>
+      <speakers>
+        <speaker>
+          <id>19537</id>
+          <name>Mark Broadbent</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server AlwaysOn for Dummies</title>
+      <description>Welcome to Microsoft's world of the buzzword. Yes, they've done it again and created another ambiguous term that no one really understands. AlwaysOn is a powerful group of highly available technologies, and in this presentation, we will delve into their murky world  reveal the technology behind the buzz.
+
+Focusing specifically on the two key components of SQL Server 2012 AlwaysOn in Failover Clustered Instances and Availability Groups, we will investigate their pre-requisites, setup, administration, use  drawbacks. We will look at:
+Using Windows 2008, 2012 and Server Core
+Windows Clustering
+Quorum
+Failover Clustered Instances
+Availability Groups
+Readable Secondaries
+Clustering Tools and PowerShell
+Dummies and higher are welcome</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>23966</importID>
+      <speakers>
+        <speaker>
+          <id>23966</id>
+          <name>Sanjaya Padhi</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server 2012 Integration with MDS  DQS</title>
+      <description>Data Quality Services is a solution for helping maintain the quality of data and ensure the data is suited for business usage.
+MDS is the solution for master data management in the enterprises by providing a central data hub to ensure the consistency of data across different applications and environments. In this session we will have a quick look at the basics of DQS and MDS in SQL Server 2012  and discuss the integration of DQS and MDS with the enterprise environments along with some interesting demos.</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21543</importID>
+      <speakers>
+        <speaker>
+          <id>21543</id>
+          <name>Oliver Engels</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Data Explorer - The future of selfservice ETL</title>
+      <description>Data Explorer is an Information Worker focused ETL Tool integrated in Excel 2013. We will show this cool new tool to mash up data from different data sources (from Facebook to ODATA, from SQL Server to Files in a table). We will show in many live demos transformations and will go into the formular engine and possibilities for using it with PowerPivot and PowerView as an output.</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17124</importID>
+      <speakers>
+        <speaker>
+          <id>17124</id>
+          <name>Joe Sack</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Troubleshooting Query Plan Quality Issues</title>
+      <description>When the query optimizer inaccurately estimates the number of rows for query execution plan iterators, performance can suffer due to the generation and use of a suboptimal plan. Fixing cardinality estimate issues will help the query optimizer generate a higher quality plan. This session will teach you how to identify cardinality estimate issues in your query execution plan and also cover various ways in which cardinality estimate issues can be addressed.</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15384</importID>
+      <speakers>
+        <speaker>
+          <id>15384</id>
+          <name>Niko Neugebauer</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Analyzing Twitter Data</title>
+      <description>This session will concentrate on explanation of how to start using and analysing the data from one of the most popular social networks - Twitter. We shall take a look at the different dashboards and we shall try to understand some of the meanings. This presentation shall try to explore the best of the existing Microsoft technologies for an accessible Twitter data analysis. </description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>12077</importID>
+      <speakers>
+        <speaker>
+          <id>12077</id>
+          <name>n/a n/a</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Session Details not available</title>
+      <description>Session Details not available</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17602</importID>
+      <speakers>
+        <speaker>
+          <id>17602</id>
+          <name>James Rowland-Jones</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Thinking Big  Understanding PDW</title>
+      <description>Do you design and build Data Warehouses? Are you interested in learning about big data design challenges and how you can avoid them? Would you like to know more about Parallel Data Warehouse (PDW), MPP Architectures and Microsoft's Big Data Platform? If so then this is the session for you.
+
+We will visit the architectural components of PDW and look at some of the new features available in V2. We will also dive into some of the lessons learned developing systems for PDW in the field.
+
+You will leave this session understanding why you should be thinking about PDW for your data warehouse and how you can accelerate the delivery of your PDW project.</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>10560</importID>
+      <speakers>
+        <speaker>
+          <id>10560</id>
+          <name>Bob Duffy</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Microsoft Access Power Hour</title>
+      <description>This fun and demo packed hour is a look at some of cool stuff you can do with Micosoft Access and SQL Server
+
+Learn: 
+- How you can create complex data entry forms in 2 minutes
+- Use access as a RAD or prototyping tool
+- Publish database forms to sharepoint
+- Create complex reports
+- No need for ETL processes. Learn how to master the black art of cut and paste.
+- Go behind the scenes to see how access uses extended properties to extend SQL Data Models
+- How to create a 200 user access solution (we have one!)
+- Some horror stories and how people abuse Access
+
+Rotten Tomatoes Provided for anyone that really hates Microsoft Access</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17056</importID>
+      <speakers>
+        <speaker>
+          <id>17056</id>
+          <name>Jonathan Kehayias</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Solving Complex Problems with Extended Events</title>
+      <description>New to SQL Server 2008, Extended Events provide a refreshingly new method of looking at what occurs inside of SQL Server.  This session will show you how to leverage Extended Events to solve complex problems by identifying the root cause faster than other methods of data collection provide.</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9287</importID>
+      <speakers>
+        <speaker>
+          <id>9287</id>
+          <name>Allan Mitchell</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Hadoop for the Business Intelligence Professional</title>
+      <description>Microsoft have teamed with HortonWorks to provide their own distribution of Hadoop running on both Windows Server as well as Azure.  This shows a real intention on looking to Big Data. Being able to store huge amounts of data is no good if you do not have the tools to get the information back out.  Luckily Microsoft have those tools in PV and PP. This session will be broken into 2.  Allan will set the scene with Hadoop and give us a tour of what is on offer and quickly how to look at the data.  Jen will then follow this up and really drive some business benefits from the data stored in Hadoop.</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

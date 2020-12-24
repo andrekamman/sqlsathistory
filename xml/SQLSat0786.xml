@@ -1,0 +1,462 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #786 - Puerto Rico 2018</name>
+    <startDate>10/6/2018 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT-04:00) Caracas, La Paz</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatPuertoRico</twitterHashtag>
+    <venue>
+      <name>Engine-4</name>
+      <street>Complejo Onofre Carballeira Esq. PR-2 con Int. PR-5</street>
+      <city>San Juan</city>
+      <state>San Juan, Puerto Rico</state>
+      <zipcode>00959</zipcode>
+      <longitude>-66.1526101</longitude>
+      <latitude>18.3953444</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/972/EventSponsor_14605.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>875</importID>
+      <name>Nagnoi, LLC</name>
+      <label>Platinum</label>
+      <url>http://www.nagnoi.com</url>
+      <imageURL>https://sqlconquerordotcom.files.wordpress.com/2018/09/nagnoi-logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2272</importID>
+      <name>Microsoft Caribbean</name>
+      <label>Platinum</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2288</importID>
+      <name>JC Automation Corp.</name>
+      <label>Silver Sponsor</label>
+      <url>http://jcapr.com/</url>
+      <imageURL>http://jcapr.com/wp-content/uploads/2018/04/JCA_n-logo_new_ns-js-copy-3.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1291</importID>
+      <name>Wovenware Inc.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.wovenware.com/</url>
+      <imageURL>https://tinyurl.com/yc7te2jo</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1935</importID>
+      <name>Engine 4 Coworking Space</name>
+      <label>Venue</label>
+      <url>http://www.engine-4.com/en</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/896/EventSponsor_14264.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1957</importID>
+      <name>GDG Puerto Rico</name>
+      <label>User Groups</label>
+      <url>https://www.meetup.com/gdgpuertorico/</url>
+      <imageURL>https://pbs.twimg.com/profile_images/655736703043301376/vKha62KN.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>85989</importID>
+      <name>Orlando Mezquita</name>
+      <label>
+      </label>
+      <description>Orlando is principal consultant and trainer at Master Data Analysis. He is a passionate analytics professional who shares his knowledge through MasterDataAnalysis.com. Orlando provides analytics training and consulting services with Power BI, Excel, R, and Minitab.</description>
+      <twitter>orlandomezquita</twitter>
+      <linkedin>https://www.linkedin.com/in/orlandomezquita/</linkedin>
+      <ContactURL>http://www.MasterDataAnalysis.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=orlandomezquita</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85740</importID>
+      <name>Jose L. Rivera</name>
+      <label>
+      </label>
+      <description>Jose L. Rivera is a seasoned data professional, speaker, homebrewer, trainer (former MCT), Data Platform MVP and community leader based in Puerto Rico working as Senior Financial Analyst for MCS. He shares his knowledge and experiences throughout his community work as Chapter Leader for the PASS Global Spanish VC (facebook.com/SpanishPASSVC), Vice-President of the Puerto Rico PASS (prpass.org), Mentor of GDG Puerto Rico (facebook.com/gdgpuertorico) and LATAM Regional Mentor at PASS. Jose L is a frequent speaker in SQL Saturday events throughout US and Latin America. He loves data, analytics, teaching, learning, having fun with his family, craft beer (a lot) and everything in between.</description>
+      <twitter>SQLConqueror</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=189422534</linkedin>
+      <ContactURL>http://sqlconqueror.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLConqueror</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85738</importID>
+      <name>Jose L. Rivera</name>
+      <label>
+      </label>
+      <description>Jose L. Rivera is a seasoned data professional, speaker, homebrewer, trainer (former MCT), Data Platform MVP and community leader based in Puerto Rico working as Senior Financial Analyst for MCS. He shares his knowledge and experiences throughout his community work as Chapter Leader for the PASS Global Spanish VC (facebook.com/SpanishPASSVC), Vice-President of the Puerto Rico PASS (prpass.org), Mentor of GDG Puerto Rico (facebook.com/gdgpuertorico) and LATAM Regional Mentor at PASS. Jose L is a frequent speaker in SQL Saturday events throughout US and Latin America. He loves data, analytics, teaching, learning, having fun with his family, craft beer (a lot) and everything in between.</description>
+      <twitter>SQLConqueror</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=189422534</linkedin>
+      <ContactURL>http://sqlconqueror.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLConqueror</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85899</importID>
+      <name>Juan Martí</name>
+      <label>
+      </label>
+      <description>Passionate Software Developer in mobile and web technologies.  Leader of the Google Developers Group Puerto Rico Chapter and collaborator of various other developers communities in the US and Puerto Rico.</description>
+      <twitter>@jmarti326</twitter>
+      <linkedin>https://pr.linkedin.com/in/juan-marti-31a64564</linkedin>
+      <ContactURL>http://polybits.io</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jmarti326</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85739</importID>
+      <name>Jose L. Rivera</name>
+      <label>
+      </label>
+      <description>Jose L. Rivera is a seasoned data professional, speaker, homebrewer, trainer (former MCT), Data Platform MVP and community leader based in Puerto Rico working as Senior Financial Analyst for MCS. He shares his knowledge and experiences throughout his community work as Chapter Leader for the PASS Global Spanish VC (facebook.com/SpanishPASSVC), Vice-President of the Puerto Rico PASS (prpass.org), Mentor of GDG Puerto Rico (facebook.com/gdgpuertorico) and LATAM Regional Mentor at PASS. Jose L is a frequent speaker in SQL Saturday events throughout US and Latin America. He loves data, analytics, teaching, learning, having fun with his family, craft beer (a lot) and everything in between.</description>
+      <twitter>SQLConqueror</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=189422534</linkedin>
+      <ContactURL>http://sqlconqueror.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLConqueror</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>82684</importID>
+      <name>Gilda Alvarez</name>
+      <label>
+      </label>
+      <description>She graduated from the University of Central Florida with MIS and Computer science degrees. She has over a decade of experience in Enterprise Information Technology solutions for several Fortune 500 companies. In depth and applied knowledge of database administration with emphasis on high availability and disaster recovery solutions, security audits, database health checks, capacity planning, resource utilization analysis and enterprise database migrations. She is a big advocate of technical and leadership education in her community. She loves to spend time with her family, friends and dance Latin music.</description>
+      <twitter>@Latina_DBA</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Latina_DBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85900</importID>
+      <name>Juan Martí</name>
+      <label>
+      </label>
+      <description>Passionate Software Developer in mobile and web technologies.  Leader of the Google Developers Group Puerto Rico Chapter and collaborator of various other developers communities in the US and Puerto Rico.</description>
+      <twitter>@jmarti326</twitter>
+      <linkedin>https://pr.linkedin.com/in/juan-marti-31a64564</linkedin>
+      <ContactURL>http://polybits.io</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jmarti326</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86144</importID>
+      <name>Isaias Martinez</name>
+      <label>
+      </label>
+      <description>Awarded as MVP C# for 7 consecutive years. Over 20 years of extensive experience in management, design and implementation of information technology projects aimed to automate processes to minimize time, save resources and improve operational efficiency. This to enhance the vision and mission of the organizations. The experience has been gathered in projects performed in various countries such as: Venezuela, Bolivia, Panama, Colombia, and Puerto Rico. In the last 6 years, I have specialized as Cloud Architect, leading the implementation of Microsoft Azure Solutions in Puerto Rico. My certifications include Microsoft MCP, MCSD, MCSE, MCT, MCDBA.#160;</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://pr.linkedin.com/in/isaiasrma</linkedin>
+      <ContactURL>http://www.isaiasmartinez.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85828</importID>
+      <name>Edwin Torres</name>
+      <label>
+      </label>
+      <description>An experienced data architect and technical leader, has more than 10 years of consulting practice across different industries and verticals including digital media, advertising, health, government, retail, education and tourism.</description>
+      <twitter>https://twitter.com/_edtorr</twitter>
+      <linkedin>https://www.linkedin.com/in/edwintorres/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/_edtorr</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85737</importID>
+      <name>Jose L. Rivera</name>
+      <label>
+      </label>
+      <description>Jose L. Rivera is a seasoned data professional, speaker, homebrewer, trainer (former MCT), Data Platform MVP and community leader based in Puerto Rico working as Senior Financial Analyst for MCS. He shares his knowledge and experiences throughout his community work as Chapter Leader for the PASS Global Spanish VC (facebook.com/SpanishPASSVC), Vice-President of the Puerto Rico PASS (prpass.org), Mentor of GDG Puerto Rico (facebook.com/gdgpuertorico) and LATAM Regional Mentor at PASS. Jose L is a frequent speaker in SQL Saturday events throughout US and Latin America. He loves data, analytics, teaching, learning, having fun with his family, craft beer (a lot) and everything in between.</description>
+      <twitter>SQLConqueror</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=189422534</linkedin>
+      <ContactURL>http://sqlconqueror.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLConqueror</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>85832</importID>
+      <name>Joan Manuel Pérez</name>
+      <label>
+      </label>
+      <description>Visionary and versatile manager with over 15 years of diverse professional experience in Information Systems, Quality Assurance, Business/Data Analytics and Education within global technology company, regulated pharmaceutical manufacturing and university environments. 
+
+Areas of Expertise: 
+Digital Advisory ♦ Data and Analytics ♦ Business Intelligence (BI) ♦ Business/Process Improvement ♦ Passion to Quality ♦ Lean/Six Sigma ♦ Scrum/Agile ♦ Data Integration ♦ Project Management ♦ Virtual Project Teams ♦ Consultative Problem Solving ♦ Risk  Change Management ♦ Agile BI ♦ BI Platform Architecture ♦ Business Analytics.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://pr.linkedin.com/in/joan-manuel-perez-cardona-5193a145</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>85740</importID>
+      <speakers>
+        <speaker>
+          <id>85740</id>
+          <name>Jose L. Rivera</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Borinken A y B</name>
+      </location>
+      <title>End to End Power BI Workshop - Part2</title>
+      <description>Power BI is a suite of business analytics tools that deliver insights throughout your organization. Connect to hundreds of data sources, simplify data prep, and drive ad hoc analysis. Produce beautiful reports, then publish them for your organization to consume on the web and across mobile devices. Everyone can create personalized dashboards with a unique, 360-degree view of their business. And scale across the enterprise, with governance and security built-in.
+
+Join us for this hand-on intensive workshop were you will learn Power BI from end to end. At the end of the day, attendees will better understand how to:
+
+Connect to, import, and transform data from a variety of sources
+Define business rules and KPIs
+Explore your data with powerful visualization tools
+Build stunning reports
+Advanced Data Modeling
+R integration
+Advanced Visualizations
+Share your dashboards with your team and/or the world
+Power BI Administration</description>
+      <startTime>10/5/2018 1:30:00 PM</startTime>
+      <endTime>10/5/2018 5:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85739</importID>
+      <speakers>
+        <speaker>
+          <id>85739</id>
+          <name>Jose L. Rivera</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Borinken A y B</name>
+      </location>
+      <title>End to End Power BI Workshop - Part1</title>
+      <description>Power BI is a suite of business analytics tools that deliver insights throughout your organization. Connect to hundreds of data sources, simplify data prep, and drive ad hoc analysis. Produce beautiful reports, then publish them for your organization to consume on the web and across mobile devices. Everyone can create personalized dashboards with a unique, 360-degree view of their business. And scale across the enterprise, with governance and security built-in.
+
+Join us for this hand-on intensive workshop were you will learn Power BI from end to end. At the end of the day, attendees will better understand how to:
+
+Connect to, import, and transform data from a variety of sources
+Define business rules and KPIs
+Explore your data with powerful visualization tools
+Build stunning reports
+Advanced Data Modeling
+R integration
+Advanced Visualizations
+Share your dashboards with your team and/or the world
+Power BI Administration</description>
+      <startTime>10/5/2018 9:00:00 AM</startTime>
+      <endTime>10/5/2018 1:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85832</importID>
+      <speakers>
+        <speaker>
+          <id>85832</id>
+          <name>Joan Manuel Pérez</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Power BI Dataset monitoring tool</title>
+      <description>The Power BI Dataset monitoring tool is a “In House” application that can help monitor heterogeneous database environments.  It also helps database administrators (DBAs) and system administrators by notifying potential dataset performance problems. For database server monitoring, Power BI Dataset monitoring tool connects to the database and ensures it is up. Power BI Dataset monitoring tool  is also an agentless monitoring tool that executes Power BI Service API queries to collect refresh status and includes auto-retry features. Using the Power BI reports/visualizations capabilities, DBAs can plan inventory requirements and troubleshoot incidents quickly.</description>
+      <startTime>10/6/2018 11:00:00 AM</startTime>
+      <endTime>10/6/2018 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85989</importID>
+      <speakers>
+        <speaker>
+          <id>85989</id>
+          <name>Orlando Mezquita</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Data Visualization Best Practices</title>
+      <description>You might an expert creating all kinds of visualizations in Power BI or other tools but, do you really know how to communicate effectively using data? In this session, we will cover key elements to consider when creating dashboards and reports, such as the appropriate type of graph to use depending on the data, visual perception principles, when to use tables and what to avoid when creating graphs.</description>
+      <startTime>10/6/2018 1:30:00 PM</startTime>
+      <endTime>10/6/2018 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85899</importID>
+      <speakers>
+        <speaker>
+          <id>85899</id>
+          <name>Juan Martí</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Smart ways to consume your data with LUIS.AI</title>
+      <description>In today's world, we consume data in many different ways.  Some data we obtain it by browsing the web, a mobile app, and even asking our smartphones for it.  What if we can make our data available by voice or by the person typing a question in a human natural way.  In this section, we will learn how to do it with LUIS.AI.</description>
+      <startTime>10/6/2018 4:00:00 PM</startTime>
+      <endTime>10/6/2018 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86144</importID>
+      <speakers>
+        <speaker>
+          <id>86144</id>
+          <name>Isaias Martinez</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Converting images into information with Artificial Intelligence</title>
+      <description>For decision making, businesses need more than just data entry, with the Artificial Intelligence we can cross borders that until now were unthinkable and image analysis is one of them.</description>
+      <startTime>10/6/2018 9:45:00 AM</startTime>
+      <endTime>10/6/2018 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>82684</importID>
+      <speakers>
+        <speaker>
+          <id>82684</id>
+          <name>Gilda Alvarez</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Migrations 101</title>
+      <description>The only constant thing is change. As companies continue to migrate to newer versions or different data centers, we need to develop strategies and tools to make sure we can perform successful migrations. What if we had a checklist? Just like moving to a new home the success of the "move" relies on the preparation. This presentation will go over a checklist of steps needed to prepare for a database migration.</description>
+      <startTime>10/6/2018 9:45:00 AM</startTime>
+      <endTime>10/6/2018 10:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>85828</importID>
+      <speakers>
+        <speaker>
+          <id>85828</id>
+          <name>Edwin Torres</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Building a data warehouse in the cloud and its new challenges</title>
+      <description>Technology changes quickly and you need to know if the new toys are for you. This session will take you through how to deploy, design, and load data in the cloud using Microsoft's Azure SQL Data Warehouse. 
+
+We will discuss how to decide if this cloud-based massively parallel processing solution is the right Big Data solution for your project.</description>
+      <startTime>10/6/2018 2:45:00 PM</startTime>
+      <endTime>10/6/2018 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85737</importID>
+      <speakers>
+        <speaker>
+          <id>85737</id>
+          <name>Jose L. Rivera</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>SQL Server 2017: SSIS Scale Out</title>
+      <description>Como parte de las nuevas características que nos trae SQL Server 2017, en esta sesión demostraremos de una manera práctica la configuración y uso de esta nueva funcionalidad de escalabilidad llamada SSIS Scale out.</description>
+      <startTime>10/6/2018 2:45:00 PM</startTime>
+      <endTime>10/6/2018 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85738</importID>
+      <speakers>
+        <speaker>
+          <id>85738</id>
+          <name>Jose L. Rivera</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Getting Started with Azure DataBricks</title>
+      <description>In this session we will explore this new service called Azure Databricks and demonstrates its capabilities to accelerate big data analytics and artificial intelligence (AI) solutions with its easy, fast and collaborative Apache Spark–based analytics service.</description>
+      <startTime>10/6/2018 11:00:00 AM</startTime>
+      <endTime>10/6/2018 12:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>85900</importID>
+      <speakers>
+        <speaker>
+          <id>85900</id>
+          <name>Juan Martí</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Room 1</name>
+      </location>
+      <title>Azure CosmoDB Globalizing Your Data</title>
+      <description>As a globally distributed, multi-model database service, Azure Cosmos DB makes it easy to build scalable, highly responsive applications at global scale anywhere in the world.  Join me to learn about Azure CosmoDB and great tools to work with it.</description>
+      <startTime>10/6/2018 1:30:00 PM</startTime>
+      <endTime>10/6/2018 2:30:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

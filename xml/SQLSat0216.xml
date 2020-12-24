@@ -1,0 +1,357 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #216 - Krasnodar, Russia 2013</name>
+    <startDate>5/18/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>100</attendeeEstimate>
+    <timezone>(GMT+03:00) Baghdad</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat216</twitterHashtag>
+    <venue>
+      <name>Конференц Холл</name>
+      <street>Kommunarov st 268B</street>
+      <city>Krasnodar</city>
+      <state>, Russian Federation</state>
+      <zipcode>
+      </zipcode>
+      <longitude>38.984599</longitude>
+      <latitude>45.047997</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>722</importID>
+      <name>Infragistics Inc.</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.infragistics.com</url>
+      <imageURL>https://media.infragistics.com/community/SQLSaturday/Ig-logo170.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Swag Sponsor </label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1079</importID>
+      <name>SQL.RU</name>
+      <label>Information Sponsor</label>
+      <url>http://www.sql.ru/</url>
+      <imageURL>https://www.sql.ru/images/logo.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>180</importID>
+      <name>it-sobytie.ru</name>
+      <label>Event Sponsor</label>
+      <url>http://it-sobytie.ru/</url>
+      <imageURL>https://www.pass.org/files/3c7bc524-2f25-4ed1-a8ab-96fe073ee056.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>24355</importID>
+      <name>Sergey Olontsev</name>
+      <label>
+      </label>
+      <description>I have been working with SQL Server since SQL Server 2000 version as a database administrator, developer, consultant and trainer, focusing on high availability and disaster recovery solutions, ETL, troubleshooting and performance tuning, developing high performance solutions . I'm a regular speaker at SQL Server user group meetings, SQL Saturday events and other conferences. An owner of MCM certification and MVP award on SQL Server.</description>
+      <twitter>SergeyOlontsev</twitter>
+      <linkedin>http://linkedin.com/in/sergeyolontsev</linkedin>
+      <ContactURL>http://SergeyOlontsev.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SergeyOlontsev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>20287</importID>
+      <name>Mihail Mateev</name>
+      <label>
+      </label>
+      <description>Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Mentor for CEE, chapter lead, Microsoft Azure MVP, Microsoft Regional Director. He works as a Senior Solutions Architect at EPAM Systems, focused on Data Platform, IoT and cloud related solutions. He also worked many years like a Technical evangelist in the Infragistics. Last years Mihail was focused on various areas related to technology Microsoft: Data Platform, Visual Studio, ASP.Net, Windows client apps, Data Platform, and Microsoft Azure. Michael also has a PhD in cloud computing area. He is a university lecturer on Smart Homes and Smart Energy IoT Solutions.</description>
+      <twitter>mihailmateev</twitter>
+      <linkedin>http://www.linkedin.com/pub/mihail-mateev/1/6b3/4b1</linkedin>
+      <ContactURL>https://mmateev.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mihailmateev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13097</importID>
+      <name>Denis Reznik</name>
+      <label>
+      </label>
+      <description>Denis Reznik is a Data Architect at Intapp, Inc. He has more than ten years experience in software development, database design, and performance tuning for cloud and on-premises solutions. In 2010 Denis became Microsoft Data Platform MVP and maintains MVP status today. Apart from his professional career, Denis actively participates in the development of the Ukrainian Data Community.</description>
+      <twitter>https://twitter.com/DenisReznik</twitter>
+      <linkedin>http://www.linkedin.com/pub/denis-reznik/3/502/234</linkedin>
+      <ContactURL>http://reznik.uneta.com.ua</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/DenisReznik</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>24357</importID>
+      <name>Sergey Olontsev</name>
+      <label>
+      </label>
+      <description>I have been working with SQL Server since SQL Server 2000 version as a database administrator, developer, consultant and trainer, focusing on high availability and disaster recovery solutions, ETL, troubleshooting and performance tuning, developing high performance solutions . I'm a regular speaker at SQL Server user group meetings, SQL Saturday events and other conferences. An owner of MCM certification and MVP award on SQL Server.</description>
+      <twitter>SergeyOlontsev</twitter>
+      <linkedin>http://linkedin.com/in/sergeyolontsev</linkedin>
+      <ContactURL>http://SergeyOlontsev.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SergeyOlontsev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18825</importID>
+      <name>Andrey Korshikov</name>
+      <label>
+      </label>
+      <description>Работать с SQL Server начал в 2003 году. Довелось работать и сдавать сертификационные экзамены по версиям SQL Server от 2000 до 2012. Участник конференций SQLSaturday, Платформа, DevCon и TechEd. География выступлений от Тампы до Красноярска, от Санкт-Петербурга до Тбилиси. Основатель сообществ Krasnodar SQLamp;BI Usergroup и Global Russian Virtual Chapter. На данный момент являюсь PASS Regional Mentor for Central Eastern Europe. </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18668</importID>
+      <name>Konstantin Khomyakov</name>
+      <label>
+      </label>
+      <description>Константин Хомяков (MVP SQL Server) специализируется в Microsoft Business Inteligence: разработка SSIS пакетов, построение кубов и анализ данных в SSAS. Последние несколько лет занимается интеграцией данных.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>20285</importID>
+      <name>Mihail Mateev</name>
+      <label>
+      </label>
+      <description>Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Mentor for CEE, chapter lead, Microsoft Azure MVP, Microsoft Regional Director. He works as a Senior Solutions Architect at EPAM Systems, focused on Data Platform, IoT and cloud related solutions. He also worked many years like a Technical evangelist in the Infragistics. Last years Mihail was focused on various areas related to technology Microsoft: Data Platform, Visual Studio, ASP.Net, Windows client apps, Data Platform, and Microsoft Azure. Michael also has a PhD in cloud computing area. He is a university lecturer on Smart Homes and Smart Energy IoT Solutions.</description>
+      <twitter>mihailmateev</twitter>
+      <linkedin>http://www.linkedin.com/pub/mihail-mateev/1/6b3/4b1</linkedin>
+      <ContactURL>https://mmateev.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mihailmateev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19179</importID>
+      <name>Oleksii Kovalov</name>
+      <label>
+      </label>
+      <description>DBA and DB developer with more than 10 year expirience. SQLSat/SSUG speaker. MCTS, MCITP.
+Author of pet-projects ExpressProfiler and SQL Code Guard
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19333</importID>
+      <name>Maksim Lemeshko</name>
+      <label>
+      </label>
+      <description>лидер групп MCP  UG  в городе Ставрополе, руководитель направления Системной интеграции в ГК «Бизнес ИТ», г.Ставрополь, основное направление Unified Communication, Server Infrastructures, BSCKPI).</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://mrlemeshko.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>20287</importID>
+      <speakers>
+        <speaker>
+          <id>20287</id>
+          <name>Mihail Mateev</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Spatial Data with SQL Server Reporting Services</title>
+      <description>Spatial Data Visualization is one of the key new features of SQL Server Reporting Services. This feature was introduced in SQL Server 2008 R2 and continues to evolve in the new SQL Server 2012. SQL Server provided geospatial data from SQL Server 2008 and you may have noticed (or perhaps used) the two geospatial data types in SQL Server: geometry and geography. In this lecture we will talk about how to visualize spatial data in the SQL Server Reporting Services, creating Map reports. We will learn how to set reporting services and how to use spatial data with this product. Samples will demonstrate work with Reporting Services for both SQL Server 2008 R2 and SQL Server 2012.</description>
+      <startTime>5/18/2013 12:00:00 AM</startTime>
+      <endTime>5/18/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>20285</importID>
+      <speakers>
+        <speaker>
+          <id>20285</id>
+          <name>Mihail Mateev</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Windows Azure SQL Reporting for App developers</title>
+      <description>This talk is about how to deploy a report server project to Windows Azure SQL Reporting report server, and provide initial information for application developers who integrate reports hosted by Windows Azure SQL Reporting in their applications, as well as develop management tools against SQL Reporting report servers.</description>
+      <startTime>5/18/2013 12:00:00 AM</startTime>
+      <endTime>5/18/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>24355</importID>
+      <speakers>
+        <speaker>
+          <id>24355</id>
+          <name>Sergey Olontsev</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Повреждение данных и как с ним бороться</title>
+      <description>Случайное повреждение данных – это ночной кошмар любого администратора баз данных, но рано или поздно каждый с ним сталкивается. В докладе будут подробно освещены такие темы, как почему возникает повреждение баз данных, как минимизировать риски и на примерах будет показано, как восстановить поврежденные данные.</description>
+      <startTime>5/18/2013 12:00:00 AM</startTime>
+      <endTime>5/18/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19333</importID>
+      <speakers>
+        <speaker>
+          <id>19333</id>
+          <name>Maksim Lemeshko</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server 2012 – платформа для СЭДД организации</title>
+      <description>- типовая архитектура СЭД и основные ключевые требования к ним
+- личный опыт использования/внедрения SQL Server в системах СЭДД до 4000 пользователей
+- успешные реализованные проекты на базе SQL Server
+- планирование и проектирование систем поддержки и управления SQL Server
+- планирование и проектирование систем повышения доступности и обеспечения отказоустойчивости для СУБД SQL Server
+- рекомендации из личного опыта
+- обмен опытом/вопросы</description>
+      <startTime>5/18/2013 12:00:00 AM</startTime>
+      <endTime>5/18/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18668</importID>
+      <speakers>
+        <speaker>
+          <id>18668</id>
+          <name>Konstantin Khomyakov</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SSIS - Import Data (CSV, XML)</title>
+      <description>SQL Server Integration Services (SSIS) - Import Data (CSV, XMLl)
+Очень часто возникают задачи импорта данных. В своем докладе я расскажу
+про тонкости настройки импорта, приведу несколько пример работы с CSV и XML
+файлами</description>
+      <startTime>5/18/2013 12:00:00 AM</startTime>
+      <endTime>5/18/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19179</importID>
+      <speakers>
+        <speaker>
+          <id>19179</id>
+          <name>Oleksii Kovalov</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Не делай так! Немного об ошибках</title>
+      <description>Небольшой рассказ о том, чего мы не делаем и не должны делать - об ошибках при написании T-SQL кода.
+</description>
+      <startTime>5/18/2013 12:00:00 AM</startTime>
+      <endTime>5/18/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18825</importID>
+      <speakers>
+        <speaker>
+          <id>18825</id>
+          <name>Andrey Korshikov</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Injection - вы готовы к защите?</title>
+      <description>Этой проблеме очень много лет, но начинающие (и не только) разработчики баз данных продолжают совершать ошибки, которые делают возможным этот тип атаки. Узнайте как сделать правильное решение и защитить ваши базы данных.
+</description>
+      <startTime>5/18/2013 12:00:00 AM</startTime>
+      <endTime>5/18/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>24357</importID>
+      <speakers>
+        <speaker>
+          <id>24357</id>
+          <name>Sergey Olontsev</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Как читать план запроса и на что обращать внимание</title>
+      <description>В докладе пойдет речь о том, что такое план запроса; о различных операторах, с которыми можно встретиться, с чего начать анализ плана и на что обращать внимание. Также будет показано несколько примеров, когда с помощью анализа плана запроса будет выявлено и исправлено "узкое место" в запросе.
+</description>
+      <startTime>5/18/2013 12:00:00 AM</startTime>
+      <endTime>5/18/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13097</importID>
+      <speakers>
+        <speaker>
+          <id>13097</id>
+          <name>Denis Reznik</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Deadlock detected! Всё пропало или ещё рано бить тревогу?</title>
+      <description>Страшное слово Deadlock, согласитесь. Но так ли это страшно как звучит? Что это такое, благодаря чему они возникают, как собрать необходимую для анализа информацию, и, наконец, как этого можно избежать - об этом вы услышите в докладе.</description>
+      <startTime>5/18/2013 12:00:00 AM</startTime>
+      <endTime>5/18/2013 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

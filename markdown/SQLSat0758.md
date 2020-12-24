@@ -1,0 +1,23 @@
+# SQLSaturday #758 - Montreal 2018
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+08:40:00|Vitor Fava|Data warehouse and BI delivery|[Implementing AI solutions using the cognitive services in Azure](74174.md)
+08:40:00|Steve Simon|Data warehouse and BI delivery|[SQL Server Reporting Services 2017 on Steroids!!](74200.md)
+08:40:00|Franck Mercier|Data warehouse and BI delivery|[Introduction to Microsoft Azure Databricks](78520.md)
+09:50:00|Marcelo Adade|Database administration and performance management|[Hybrid Theory - Synchronizing data between Azure SQL Database and  SQL SERVER Instances](74166.md)
+09:50:00|Gregory Boge|Database administration and performance management|[J'ai migré un publisher sans réinitialiser la réplication](74364.md)
+09:50:00|Denys Chamberland|Database Development and TSQL|[Azure Cosmos DB + Gremlin API in Action](80867.md)
+09:50:00|Marco Russo|Data warehouse and BI delivery|[Time intelligence and date tables in Power BI](82362.md)
+11:00:00|Steve Simon|Data warehouse and BI delivery|[An introduction to Data Mining  with SQL Server 2016](74195.md)
+11:00:00|Tim Gorman|Database administration and performance management|[Accelerating Development and Testing Using Data Virtualization](74237.md)
+11:00:00|John Miner|Data warehouse and BI delivery|[Effective Data Warehouse Storage Patterns](77374.md)
+11:00:00|Marco Russo|Data warehouse and BI delivery|[My Power BI report is slow: what should I do?](82361.md)
+13:15:00|Dan Clark|Data warehouse and BI delivery|[Self-Service ETL with Power Query](74637.md)
+13:15:00|Christophe Laporte|Database administration and performance management|[Les bases du dépannage SQL Server](74639.md)
+13:15:00|Warner Chaves|Data warehouse and BI delivery|[Azure SQL Data Warehouse for the SQL Server DBA](80497.md)
+14:25:00|Sophie Marchand|Data warehouse and BI delivery|[Power BI : Un tour complet de la solution](74278.md)
+14:25:00|Mohamed Mawla|Database administration and performance management|[Mapping SQL Server Expertise to Azure Cortana Intelligence - Cases and Scenarios](77289.md)
+14:25:00|Jean Rene Roy|Data warehouse and BI delivery|[What Azure platform have to offer for your data](82235.md)
+15:35:00|Edward Pollack|Database administration and performance management|[Query Optimization Techniques](74212.md)
+15:35:00|Dan Clark|Data warehouse and BI delivery|[Power Query Deep Dive](74636.md)
+15:35:00|Kellyn Pot'Vin-Gorman|Database administration and performance management|[Screw DevOps, Let's Talk DataOps](76875.md)

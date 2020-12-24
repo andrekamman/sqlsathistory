@@ -1,0 +1,563 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #475 - Belgrade 2015</name>
+    <startDate>11/28/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>120</attendeeEstimate>
+    <timezone>(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatBelgrade</twitterHashtag>
+    <venue>
+      <name>Microsoft Software d.o.o.</name>
+      <street>Španskih boraca 3/III</street>
+      <city>Belgrade</city>
+      <state>Belgrade, Serbia</state>
+      <zipcode>11070</zipcode>
+      <longitude>20.4233079</longitude>
+      <latitude>44.8186632</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1582</importID>
+      <name>MERA Software Services</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.merasws.com</url>
+      <imageURL>https://tarabica.msforge.net/Content/images/logos/mera2.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>388</importID>
+      <name>ApexSQL LLC</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.apexsql.com/?utm_source=SQLSaturdaysutm_medium=sponsorlinkutm_campaign=%5BSQLSaturdays-Homepage%5D</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/864/EventSponsor_13700.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1115</importID>
+      <name>SQL Sentry</name>
+      <label>Swag Sponsor</label>
+      <url>http://www.sqlsentry.com/</url>
+      <imageURL>https://www.sentryone.com/Images/logos/sentryone-black.svg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>40995</importID>
+      <name>Janos Berke</name>
+      <label>
+      </label>
+      <description>I am  an IT professional with over a decade of technical and management experience. I am using SQL Server since version 6.5. Currently I am a  consultant and helping companies in SQL Server design, migrations, operation and developments as well as providing customized training .</description>
+      <twitter>@JanosBerke</twitter>
+      <linkedin>https://hu.linkedin.com/in/janosberke</linkedin>
+      <ContactURL>http://www.iamberke.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@JanosBerke</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40485</importID>
+      <name>Catalin Gheorghiu</name>
+      <label>
+      </label>
+      <description>Catalin Gheorghiu is a solution architect from Romania. He has more than 15 years of experience in developing solutions, especially on Microsoft technologies in very demanding environments. Is contributing articles and blogs to several user groups (MrSmersh), lecturing all over Romania and abroad, is also RONUA Timisoara (PASS Chapter) user group leader. Since 2011, every year he was awarded the Microsoft MVP Award.</description>
+      <twitter>MrSmersh</twitter>
+      <linkedin>?https://ro.linkedin.com/in/catalingheorghiu?</linkedin>
+      <ContactURL>http://ronua.ro/author/catalin/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MrSmersh</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41178</importID>
+      <name>Dragoslav Ogar</name>
+      <label>
+      </label>
+      <description>Dragoslav Ogar is a CEO/Consultant/Trainer of A4ATCP d.o.o. Belgrade. He has 25 years of real-life and theoretical experience with information technologies. He is a tch.math.
+As Microsoft trainer, he delivered about 70 different MOCs at all and more than 15,000 hours. 
+On five Microsoft conferences, Sinergija 04, 06, 10, 11 and 13, held in Serbia, he was awarded as one of best speakers.
+Except SQL Server field, his favorite areas are Entity Framework, OData, MVC, and SOLID, also.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/pub/dragoslav-ogar/58/488/845</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40711</importID>
+      <name>Mikael Wedham</name>
+      <label>
+      </label>
+      <description>Mikael Wedham is the first SQL Server MCM in Sweden and the only one who also is a Microsoft Certified Trainer. He has been paid to do things in SQL Server since 1993. His long experience makes him an appreciated speaker at events and conferences all over Europe. To be prepared for deep dives, he is also certified as an Open Water Scuba Instructor.</description>
+      <twitter>@wedham</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.wedham.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@wedham</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>39926</importID>
+      <name>Dr. Subramani Paramasivam</name>
+      <label>
+      </label>
+      <description>Dr.SubraMANI Paramasivam is a Microsoft MVP, PhD, Microsoft Certified Trainer and Head of Data  AI at DAGEOP Ltd having 21 years of DB, BI, Analytics and AI experience. Mani has also spoken in various events like MS IGNITE, PASS Summit, MS Inspire, SQLBITS, Power Platform Summit, Global AI Bootcamp, Data  BI Summit, SQLRelay,  Power BI World Tour, Data Platform Summit, INSIDESQL UK, Global AI Nights, SQLServerGeeks Summit, MCT Global Summits, Data Day Events and various user group events. Mani also believes in Empowering Every Person in the planet and spreads the awareness on Global challenges via www.EmpoweringEveryPerson.com. He is also a co-owner of 1 Global AI Meetup and 3 Power BI PUG  PASS local / user groups.</description>
+      <twitter>https://twitter.com/dageop</twitter>
+      <linkedin>http://uk.linkedin.com/in/dageop</linkedin>
+      <ContactURL>http://www.yoursqlman.com/index.php/blogs</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dageop</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41443</importID>
+      <name>Dejan Pervulov</name>
+      <label>
+      </label>
+      <description>As a technical consultant Dejan participated in numerous ERP, CRM and DWH / BI projects in the CEE region. He is also involved in development with Microsoft technologies for last 18 years. Holds MCT, MCSE, MCSA, MCSD, MCDBA, MCTS and MCITP certifications. As a Microsoft Certified Trainer he was involved in preparation and delivery of trainings in several school centers in Serbia. Since October 2014, he is a Microsoft MVP for SQL Server.</description>
+      <twitter>@dekiper</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@dekiper</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>39928</importID>
+      <name>Miloš Radivojević</name>
+      <label>
+      </label>
+      <description>Miloš Radivojević is a database consultant located in Vienna, Austria. He is Data Platform MVP and specializes in SQL Server for application developers and performance and query tuning. Currently, he works as a principal database consultant in bwin GVC (the largest regulated online gaming company in the world). He is co-founder of the SQL Pass Austria and speaks regularly at local and international database conferences. He is also co-author of the books SQL Server 2016 Developer's Guide, SQL Server 2017 Developer's Guide and Mastering SQL Server 2017.</description>
+      <twitter>MilosSQL</twitter>
+      <linkedin>http://at.linkedin.com/pub/milos-radivojevic/1b/7bb/290/de</linkedin>
+      <ContactURL>https://milossql.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MilosSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41006</importID>
+      <name>Mihail Mateev</name>
+      <label>
+      </label>
+      <description>Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Mentor for CEE, chapter lead, Microsoft Azure MVP, Microsoft Regional Director. He works as a Senior Solutions Architect at EPAM Systems, focused on Data Platform, IoT and cloud related solutions. He also worked many years like a Technical evangelist in the Infragistics. Last years Mihail was focused on various areas related to technology Microsoft: Data Platform, Visual Studio, ASP.Net, Windows client apps, Data Platform, and Microsoft Azure. Michael also has a PhD in cloud computing area. He is a university lecturer on Smart Homes and Smart Energy IoT Solutions.</description>
+      <twitter>mihailmateev</twitter>
+      <linkedin>http://www.linkedin.com/pub/mihail-mateev/1/6b3/4b1</linkedin>
+      <ContactURL>https://mmateev.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mihailmateev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>39910</importID>
+      <name>Ivan Donev</name>
+      <label>
+      </label>
+      <description>I am a Data platform MVP with more than 10 years of real-life experience with SQL Server and its stack of services. Besides the support and project work, I am also a trainer, conference speaker and user group organizer (and volunteer).</description>
+      <twitter>https://twitter.com/ikdonev</twitter>
+      <linkedin>https://www.linkedin.com/in/ivandonev/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/ikdonev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40335</importID>
+      <name>Dejan Sarka</name>
+      <label>
+      </label>
+      <description>Dejan Sarka, MCT and Data Platform MVP, is an independent trainer and consultant that focuses on development of database and business intelligence applications. Besides projects, he spends about half of his time on training and mentoring. He is the founder of the Slovenian SQL Server and .NET Users Group. Dejan Sarka is the main author or co-author of eighteen books about databases and SQL Server. Dejan Sarka has also developed many courses and seminars for Microsoft, Radacad, SolidQ, and Pluralsight.</description>
+      <twitter>DejanSarka</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.solidq.com/dsarka/Home.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DejanSarka</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40896</importID>
+      <name>Zoltán Horváth</name>
+      <label>
+      </label>
+      <description>Zolt#225;n is a BI specialist with more than a decade of expertise. He leads the Hungarian User Group of Microsoft SQL Server (HUG-MSSQL), the Hungarian Chapter of PASS. MCSE: BI and MCSE: Data Platform. SQL Server MVP since 2015.</description>
+      <twitter>@zoltanhorvath</twitter>
+      <linkedin>http://www.linkedin.com/in/zhorvath</linkedin>
+      <ContactURL>http://addictivemeasures.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@zoltanhorvath</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>42572</importID>
+      <name>Vladimir Markovic</name>
+      <label>
+      </label>
+      <description>https://rs.linkedin.com/in/vlmarkovic</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://rs.linkedin.com/in/vlmarkovic</linkedin>
+      <ContactURL>https://rs.linkedin.com/in/vlmarkovic</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>41449</importID>
+      <name>Goran Milanov</name>
+      <label>
+      </label>
+      <description>My areas of interest are Microsoft SQL Server and its services as the bases for development of Data Warehouse and Business Intelligence Systems (SSAS, SSRS, SSIS, MDS, DQS, PowerPivot, Tabular Model …). For the last five years I have been one of the coordinators of the Belgrade SQL Server User Group. In April 2012, I got the first Microsoft MVP award.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/pub/goran-milanov/58/389/75</linkedin>
+      <ContactURL>http://www.goranmilanov.rs</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40814</importID>
+      <name>Mladen Prajdić</name>
+      <label>
+      </label>
+      <description>Mladen Prajdić is a Data Platform MVP from Slovenia. He's been programming for 20 years, developing diﬀerent types of applications in .Net (C#) and SQL Server, ranging from standard line-of-business, image-processing applications to high performace and IoT applications. He's a regular speaker at various conferences and usergroup meetings, really likes to optimize slow SQL statements, analyze performance, and find unconventional solutions to difficult SQL Server problems. In his free time, he also develops a very popular add-in for SSMS, called the SSMS Tools Pack (www.ssmstoolspack.com).</description>
+      <twitter>@MladenPrajdic</twitter>
+      <linkedin>https://www.linkedin.com/in/mladenprajdic</linkedin>
+      <ContactURL>http://weblogs.sqlteam.com/mladenp</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@MladenPrajdic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>40017</importID>
+      <name>Miroslav Dimitrov</name>
+      <label>
+      </label>
+      <description>Miroslav Dimitrov is a Senior Big Data and Analytics Engineer at DXC Technology, regular speaker at various events and Microsoft Certified Trainer. He is MCSE: Data Platform for SQL Server and MCITP on SQL 2008. In the last years he had worked on great variety of customers' environments and involved in complex transitions and transformation projects as well as developing private and public cloud solutions. Miroslav is also leading database courses at Sofia University.</description>
+      <twitter>@miro_dd</twitter>
+      <linkedin>https://bg.linkedin.com/in/dimitrovmiroslav</linkedin>
+      <ContactURL>http://www.sqlshack.com/author/miroslav-dimitrov/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@miro_dd</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>41006</importID>
+      <speakers>
+        <speaker>
+          <id>41006</id>
+          <name>Mihail Mateev</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Room 2 (65 seats)</name>
+      </location>
+      <title>Complex Event Processing with Azure Stream Analytics</title>
+      <description>Azure Stream Analytics targets complex event streams (CEP’s) to deduce meaningful patterns. Most of the typical use cases for this product is when various devices and sensors are sending data for further processing.
+
+This technology uses a T-SQL like syntax to express its intents. A language that most data-power users will be familiar with.
+
+The biggest advantage of Stream Analytics is when events are being published to the Stream Analytics, the only thing that event publishers needs to know is which Event Bus or Blob storage to place the data. Stream Analytics will then fetch the data.
+
+This talk is about the main concepts and solution architecture when using Azure Stream Analytics, and also how to use this technology together with MS SQL Server, Azure SQL Database and Power BI.</description>
+      <startTime>11/28/2015 5:30:00 PM</startTime>
+      <endTime>11/28/2015 6:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40814</importID>
+      <speakers>
+        <speaker>
+          <id>40814</id>
+          <name>Mladen Prajdić</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>Room 1 (55 seats)</name>
+      </location>
+      <title>Visualizing streaming data in real time</title>
+      <description>We're all familiar with reports or dashboards that show you a static snapshot of the data
+that has to be refreshed on an interval. And those are very important visualizations.
+But sometimes you just have to have a real time view of your data streams and snapshots aren't enough.
+What if you could monitor multiple servers with SQL Trace or Extended Events or had some other source of streaming data and 
+be able to see it all happening live on a central monitoring website?
+This is a scenario we'll take a detailed look at and build a system for such monitoring.
+We'll do this by using Extended Events .Net provider to get the live data stream, 
+SignalR to get the live stream from the server to the website and the D3 javaScript library 
+for actual real time visualizations on any device.
+After seeing all this in action, you'll definitely get a few ideas on where you could use this in your company.</description>
+      <startTime>11/28/2015 4:15:00 PM</startTime>
+      <endTime>11/28/2015 5:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40335</importID>
+      <speakers>
+        <speaker>
+          <id>40335</id>
+          <name>Dejan Sarka</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Room 2 (65 seats)</name>
+      </location>
+      <title>Analyzing Text with SQL Server, R, and Azure ML</title>
+      <description>Text mining is becoming more and more popular. Everybody would like to understand data from blogs, Web sites, and social media. Microsoft SQL Server in versions 2012 and 2014 enhances full-text search support that was substantially available in previous editions. Semantic Search, a new component in Full-Text Search, can help you understanding the meaning of documents. The Term Extraction and Term Lookup components from SQL Server Integration Services also help with text analysis. Free statistical package / language R is also useful for the text mining tasks. Azure ML is adding additional techniques to the big picture. However, the question arises: is all this enough? This presentation unveils the good and the bad side of text mining with the tools mentioned.</description>
+      <startTime>11/28/2015 4:15:00 PM</startTime>
+      <endTime>11/28/2015 5:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>39928</importID>
+      <speakers>
+        <speaker>
+          <id>39928</id>
+          <name>Miloš Radivojević</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 2 (65 seats)</name>
+      </location>
+      <title>Temporal Tables in SQL Server 2016</title>
+      <description>Temporal tables are defined in the SQL 2011 standard and now transactional (system-versioned) temporary tables are included in Azure SQL Database and SQL Server 2016.
+
+In this session we'll explain why we need them, how system-time tables work and demonstraint how to design and implement solutions for common use cases that involve temporal tables...
+</description>
+      <startTime>11/28/2015 1:45:00 PM</startTime>
+      <endTime>11/28/2015 2:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40485</importID>
+      <speakers>
+        <speaker>
+          <id>40485</id>
+          <name>Catalin Gheorghiu</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 1 (55 seats)</name>
+      </location>
+      <title>IoT and SQL (Server)</title>
+      <description>Or IoT for DBAs
+And we are not talking about Oracle Index Organized Tables, we are talking about Internet of Things. This buzzword you hear almost everywhere, and for sure needs databases. So let’s take the Microsoft vision of IoT and see the database side of it. We will talk about the vision of IoT and the real world practicalities of it. The presentation goal is to provide a DBA all he/she needs to know to support an IoT application.  And to make you curious we will cover topics such SQL 2014 for Embedded Systems or the Azure offerings (and their SQL connections), and I will try full demos with IoT hardware.
+</description>
+      <startTime>11/28/2015 5:30:00 PM</startTime>
+      <endTime>11/28/2015 6:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>42572</importID>
+      <speakers>
+        <speaker>
+          <id>42572</id>
+          <name>Vladimir Markovic</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 1 (55 seats)</name>
+      </location>
+      <title>Optimizacija DWH rešenja u praksi</title>
+      <description>Često velike kompanije imaju BI alate (Cognos, SAS, Informatica Tableau,…) koji kao izvor koriste MS SQL Server. Kako optimizovati dimanzionu bazu podataka na MS SQL Server 2012/2014 tako da se ona može podjednako dobro koristiti kao ROLAP za ad hoc izveštavanje kao i za izvođenje promenljivih za potrebe data mining-a? Na ovom predavanju biće prikazano kako koristiti funkcionalnosti MS SQL Server 2012/2014 kao što su Column Stored Index, Sequence objekat, SUM() OVER() za računanje running totala, particionisanje, kompresija,… Takođe, na predavanju će biti prikazano kako upravljati rastom dimenzione baze.</description>
+      <startTime>11/28/2015 11:45:00 AM</startTime>
+      <endTime>11/28/2015 12:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>40017</importID>
+      <speakers>
+        <speaker>
+          <id>40017</id>
+          <name>Miroslav Dimitrov</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 1 (55 seats)</name>
+      </location>
+      <title>Performance Tuning for the Transaction Log</title>
+      <description>SQL Server transaction log is one of the most critical components of the database and in the same time one of the most misunderstood. While being neglected it can easily become a bottleneck for our system. Are you interested in learning how to avoid issues with the transaction log and streamline its work? In these sessions we will explore how to optimize it, configure it and keep it under control.</description>
+      <startTime>11/28/2015 3:00:00 PM</startTime>
+      <endTime>11/28/2015 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>39910</importID>
+      <speakers>
+        <speaker>
+          <id>39910</id>
+          <name>Ivan Donev</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 2 (65 seats)</name>
+      </location>
+      <title>SQL Server Advanced indexing techniques</title>
+      <description>SQL Server indexing is an art. Choosing the right index for the right solution might just not be enough. Options are also without boundaries, but still there are several rules you must always apply to design an effective indexing strategy. Join me in this session and find out about these rules, how the SQL Server optimizer chooses an index and most importantly - is your index useful enough or is just a burden to your database. </description>
+      <startTime>11/28/2015 3:00:00 PM</startTime>
+      <endTime>11/28/2015 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>39926</importID>
+      <speakers>
+        <speaker>
+          <id>39926</id>
+          <name>Dr. Subramani Paramasivam</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Room 1 (55 seats)</name>
+      </location>
+      <title>Tired of connecting on-prem  cloud data? Take a DB stretch</title>
+      <description>You can stretch your legs and relax and get a quick session on delivering your analytics against hot, warm  cold data. Stretch Database is the new concept, which allows you to stretch from on-prem to cloud easily and this session will enable you to understand enabling / disabling data stretch, accessing data using stretch database, setup remote data archiving, basic concepts on enabling database/table and backup  restore for the stretch enabled databases. Stretch DB also covers the concepts of Shallow  Deep backups. However, Deep backups are not currently supported with SQL Server 2016 CTP2.</description>
+      <startTime>11/28/2015 9:15:00 AM</startTime>
+      <endTime>11/28/2015 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>41443</importID>
+      <speakers>
+        <speaker>
+          <id>41443</id>
+          <name>Dejan Pervulov</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>Room 1 (55 seats)</name>
+      </location>
+      <title>Welcome Note - Room 1</title>
+      <description>Keynote session</description>
+      <startTime>11/28/2015 9:00:00 AM</startTime>
+      <endTime>11/28/2015 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>41449</importID>
+      <speakers>
+        <speaker>
+          <id>41449</id>
+          <name>Goran Milanov</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>Room 2 (65 seats)</name>
+      </location>
+      <title>Welcome Note - Room 2</title>
+      <description>Welcome Note</description>
+      <startTime>11/28/2015 9:00:00 AM</startTime>
+      <endTime>11/28/2015 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>40995</importID>
+      <speakers>
+        <speaker>
+          <id>40995</id>
+          <name>Janos Berke</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 1 (55 seats)</name>
+      </location>
+      <title>High Availability - Partial Database Availabilty</title>
+      <description>High availability starts at database design. This session will show how to design your database supporting partial database availability. 
+Session agenda is the follwoing:
+- What is RPO/RTO?
+- What HA options are available?
+- Database physical layout basics
+- DEMO: files and filegroups
+- Multiple filegroups and files
+- Filegroup/file restore options
+- DEMO: online restore
+- DEMO: Auto Page repair in AAG and DBM
+- DEMO: offline restore (if time permits)
+
+
+
+</description>
+      <startTime>11/28/2015 10:30:00 AM</startTime>
+      <endTime>11/28/2015 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>40896</importID>
+      <speakers>
+        <speaker>
+          <id>40896</id>
+          <name>Zoltán Horváth</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 2 (65 seats)</name>
+      </location>
+      <title>Top 10 SSAS Solution Design Best Practices</title>
+      <description>Proper design of cubes, dimensions, hierarchies and attributes is critical to optimal performance of SQL Server Analysis Services solutions.
+
+I've collected a number of best practices during the years I've spent on building and maintaining OLAP cubes. In this session, we will go through the most important ten of these, so you can consider them in your everyday work when you build analytical back-end solutions with SSAS. Join this session, and see how these tips and best practices can save your precious time.</description>
+      <startTime>11/28/2015 9:15:00 AM</startTime>
+      <endTime>11/28/2015 10:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>41178</importID>
+      <speakers>
+        <speaker>
+          <id>41178</id>
+          <name>Dragoslav Ogar</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room 2 (65 seats)</name>
+      </location>
+      <title>SQL Server 2016: Operational Analytics</title>
+      <description>Microsoft SQL Server 2016 alloows you to run analytic queries on in-memory and disk-based OLTP tables with minimal impact on business critical OLTP workloads, requiring no application changes. This session covers various configurations and best practices for achieving significant performance gains with Operational Analytics.</description>
+      <startTime>11/28/2015 10:30:00 AM</startTime>
+      <endTime>11/28/2015 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>40711</importID>
+      <speakers>
+        <speaker>
+          <id>40711</id>
+          <name>Mikael Wedham</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 2 (65 seats)</name>
+      </location>
+      <title>When good pages go bad / The rise and fall of db corruption.</title>
+      <description>We'll walk through how to detect and repair corruption in a database. 
+The DBCC command is the most important part and its output will be covered.
+The different methods to repair the pages gives different amounts of data loss, so we'll go through some of your options such as page level restore, DBCC repair options and some other options. 
+Finally you'll learn to estimate how much data loss you can expect. We'll even going to see how to look at the corrupt page with DBCC PAGE to try to see approximately what data we are going to loose.
+</description>
+      <startTime>11/28/2015 11:45:00 AM</startTime>
+      <endTime>11/28/2015 12:45:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,315 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #137 - Canberra 2012</name>
+    <startDate>4/19/2012 12:00:00 AM</startDate>
+    <attendeeEstimate>110</attendeeEstimate>
+    <timezone>(GMT+10:00) Brisbane</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat137</twitterHashtag>
+    <venue>
+      <name>The Canberra Club</name>
+      <street>45 West Row</street>
+      <city>Canberra</city>
+      <state>, Australia</state>
+      <zipcode>2601</zipcode>
+      <longitude>149.127578</longitude>
+      <latitude>-35.27864</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Whole Tour Gold</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>8</importID>
+      <name>FusionIO</name>
+      <label>Whole Tour Gold</label>
+      <url>http://www.fusionio.com/solutions/microsoft-sql-server/</url>
+      <imageURL>https://www.sqlsaturday.com/files/18b704b1-226d-48fe-b0b8-f7b4d3443b3d.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1090</importID>
+      <name>SQL Down Under</name>
+      <label>Whole Tour Gold</label>
+      <url>http://www.sqldownunder.com/</url>
+      <imageURL>https://www.sqldownunder.com/Portals/0/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>194</importID>
+      <name>LobsterPot Solutions</name>
+      <label>Whole Tour Gold</label>
+      <url>http://lobsterpot.com.au</url>
+      <imageURL>https://lobsterpot.com.au/files/LobsterPot_170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1272</importID>
+      <name>WARDY IT Solutions</name>
+      <label>Whole Tour Gold</label>
+      <url>http://www.wardyit.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/986/EventSponsor_14725.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>3</importID>
+      <name>Idera</name>
+      <label>Whole Tour Silver</label>
+      <url>http://www.idera.com/Content/Home.aspx</url>
+      <imageURL>https://www.sqlsaturday.com/images/SQLSaturday/eventsponsors/IDERA170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>247</importID>
+      <name>ReadyRoll</name>
+      <label>Whole Tour Bronze</label>
+      <url>http://ready-roll.com/</url>
+      <imageURL>https://ready-roll.com/img/rr-sm-whitebg.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1</importID>
+      <name>Confio</name>
+      <label>Whole Tour Bronze</label>
+      <url>http://www.confio.com</url>
+      <imageURL>https://www.pass.org/images/resized-confio_logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1149</importID>
+      <name>StrataDB</name>
+      <label>Whole Tour Bronze</label>
+      <url>http://www.stratadb.com/</url>
+      <imageURL>https://www.stratadb.com/StrataDB.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>103</importID>
+      <name>AucklandSQL</name>
+      <label>Whole Tour Friend</label>
+      <url>http://aucklandsql.com</url>
+      <imageURL>https://aucklandsql.com/SQLSaturday/AucklandSQL.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1087</importID>
+      <name>SQL Concepts</name>
+      <label>Whole Tour Friend</label>
+      <url>http://www.sqlconcepts.co.nz/</url>
+      <imageURL>https://www.sqlconcepts.co.nz/images/logo-100x40.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>21517</importID>
+      <name>Raja N</name>
+      <label>
+      </label>
+      <description>TBC</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14827</importID>
+      <name>Greg Low</name>
+      <label>
+      </label>
+      <description>Greg Low is well-known in the SQL Server community as a mentor, trainer, author, and community leader. He is a certified master for SQL Server, was an instructor in that program, and holds a PhD in Computer Science. Microsoft often calls on Greg to develop data-related content, and to train their staff. He regularly speaks at tier-one conferences internationally. Greg is best known for his SQL Down Under podcast, SDU Tools, and his eBooks and whitepapers. He heads up a boutique consultancy called SQL Down Under in Melbourne Australia. Greg has been awarded as an MVP since 2001.</description>
+      <twitter>greglow</twitter>
+      <linkedin>http://www.linkedin.com/in/greglow</linkedin>
+      <ContactURL>http://blog.greglow.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=greglow</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27661</importID>
+      <name>Warwick Rudd</name>
+      <label>
+      </label>
+      <description>Warwick Rudd is currently employed as a SQL Server Consultant and Certified Trainer for WARDY IT Solutions, Australia’s leading SQL Server consultants, trainers and Business Intelligence specialists. Warwick is a frequent speaker at local SQL Server user groups and SQL Saturday events in Australia. When not playing with the SQL stack, Warwick likes to get away to the cold and spend time snowboarding.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.jnrit.com.au/Blog.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19725</importID>
+      <name>Martin Cairney</name>
+      <label>
+      </label>
+      <description>Martin has 20 years’ experience in SQL Server technologies. His experience spans both the Database Engine and infrastructure requirements, and Data Warehousing and BI implementations. 
+He has worked across many industry sectors including London’s global financial institutions and both State and Federal Government Departments. 
+He is a SQL Server MVP, MCT and an experienced conference presenter, having presented at PASS Summit, SQLBits, and SQL Saturday events and User Groups round the world</description>
+      <twitter>martin_cairney</twitter>
+      <linkedin>http://au.linkedin.com/in/martincairney</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=martin_cairney</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23415</importID>
+      <name>Roger Noble</name>
+      <label>
+      </label>
+      <description>Roger Noble is a Business Intelligence Consultant and MCT for LobsterPot Solutions. Based in Adelaide, Australia, he spends most of his time building BI solutions using the Microsoft stack. Specializing in SharePoint and Analysis Services, and one of the industry’s leaders in PivotViewer and HTML5 technologies, he regularly attends and speaks at the Adelaide SQL Server User Group and Adelaide SharePoint User Group.</description>
+      <twitter>@Roger_Noble</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.rogernoble.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Roger_Noble</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14722</importID>
+      <name>Grant Paisley</name>
+      <label>
+      </label>
+      <description>Grant Paisley is a Data Platform MVP and founder of Angry Koala, a Microsoft Business Intelligence partner based in Sydney, Australia. Grant is president of the SQL Server Usergroup Sydney and created http://reportsurfer.com, a community built around reporting, where you can also run the reports. He was contributing author for quot;SQL Server 2008 Analysis Services with MDXquot; and quot;Microsoft SQL Server Reporting Services Recipesquot;.</description>
+      <twitter>@angrykoala</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@angrykoala</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>14827</importID>
+      <speakers>
+        <speaker>
+          <id>14827</id>
+          <name>Greg Low</name>
+        </speaker>
+      </speakers>
+      <track>Everything SQL</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Better Together: Merge, Partitioning, ColumnStore </title>
+      <description>Most SQL Server sessions are based around individual features but SQL Server really shines when you start to combine features. In this session, Greg will provide an introduction to ColumnStore indexes, review Table Partitioning and Merge and show how to combine these features to improve query performance while still being able to load data warehouse data quickly.</description>
+      <startTime>4/19/2012 12:00:00 AM</startTime>
+      <endTime>4/19/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>23415</importID>
+      <speakers>
+        <speaker>
+          <id>23415</id>
+          <name>Roger Noble</name>
+        </speaker>
+      </speakers>
+      <track>Everything SQL</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Visualising  your data with PivotViewer</title>
+      <description>Discover the power of PivotViewer, the Silverlight control that enables users to visualise large data sets in an extremely effective and tangible way. Quickly filter, sort and see how your data relates to each other in a way that traditional reports cannot. This session will cover what the  PivotViewer control is and how to get the most out of it with your own data. Even if you've used PivotViewer before, see what's new in the recent Silverlight 5 version to enable you to make the most out of your collections.</description>
+      <startTime>4/19/2012 12:00:00 AM</startTime>
+      <endTime>4/19/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14722</importID>
+      <speakers>
+        <speaker>
+          <id>14722</id>
+          <name>Grant Paisley</name>
+        </speaker>
+      </speakers>
+      <track>Everything SQL</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Killer Real-World PowerPivot Examples</title>
+      <description>This session is even more jam packed with amazing PowerPivot report examples than last year's presentation. This is *the* session to attend if you want to get the most out of PowerPivot visualizations. See real-world PowerPivot reports from clients in Education, Retail, Banking, and Telco, and learn a variety of visualization techniques including sparklines, slicers, and charts. You will leave this fun session armed with plenty of ideas for your next personal BI project. Oh, and watch out for flying Koalas.</description>
+      <startTime>4/19/2012 12:00:00 AM</startTime>
+      <endTime>4/19/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27661</importID>
+      <speakers>
+        <speaker>
+          <id>27661</id>
+          <name>Warwick Rudd</name>
+        </speaker>
+      </speakers>
+      <track>Everything SQL</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Keeping the light's on with SQL 2012 Always On</title>
+      <description>In this session, we'll cover how HA  DR is currently utlised and some misgivings. We'll then introduce the capabilities of Always On in SQL Server 2012 and how these can benefit your existing solution. This presentation will be rich with demo's covering installation and configuration of your Always On environment.</description>
+      <startTime>4/19/2012 12:00:00 AM</startTime>
+      <endTime>4/19/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19725</importID>
+      <speakers>
+        <speaker>
+          <id>19725</id>
+          <name>Martin Cairney</name>
+        </speaker>
+      </speakers>
+      <track>Everything SQL</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL to the Core</title>
+      <description>SQL Server 2012 is fully supported on Windows Server Core - a minimal installation of Windows Server 2008 that removes the services and features that are not absolutely essential for running core network services.This session will demonstrate the installation of SQL Server 2012 on Windows Core and identify some of the pros and cons arising from the use of Server Core.</description>
+      <startTime>4/19/2012 12:00:00 AM</startTime>
+      <endTime>4/19/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21517</importID>
+      <speakers>
+        <speaker>
+          <id>21517</id>
+          <name>Raja N</name>
+        </speaker>
+      </speakers>
+      <track>Everything SQL</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Database Consolidation with HP’s DBCA</title>
+      <description>Gain insights into SQL Server Database Consolidation Appliance (DBCA), first appliance in the industry specifically designed to meet the challenge of database sprawl and help customers regain control of their SQL Server environments. Come and Learn more about this pre-built hardware and management software and how to  accelerate the consolidation efforts and eliminate the complexity of managing the database infrastructure for thousands of SQL instances while maintaining an highly performing environment at the same time.</description>
+      <startTime>4/19/2012 12:00:00 AM</startTime>
+      <endTime>4/19/2012 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

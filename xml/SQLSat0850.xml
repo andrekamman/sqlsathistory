@@ -1,0 +1,416 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #850 - Budapest 2019</name>
+    <startDate>4/20/2019 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatBudapest</twitterHashtag>
+    <venue>
+      <name>Gábor Dénes Főiskola</name>
+      <street>Mérnök utca 39</street>
+      <city>Budapest</city>
+      <state>, Hungary</state>
+      <zipcode>1119</zipcode>
+      <longitude>19.0370903</longitude>
+      <latitude>47.4647484</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/972/EventSponsor_14605.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2375</importID>
+      <name>Prianto</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.quest.com/solutions/database-management/</url>
+      <imageURL>https://www.prianto.hu/fileadmin/user_upload/Prianto_Quest_color_png.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1387</importID>
+      <name>Sun City Software Kft.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.suncitysoftware.hu</url>
+      <imageURL>https://www.suncitysoftware.hu/Portals/0/Skins/SunCity/images/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2002</importID>
+      <name>Redgate Software</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.red-gate.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/991/EventSponsor_14803.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>90404</importID>
+      <name>Catalin Gheorghiu</name>
+      <label>
+      </label>
+      <description>Catalin Gheorghiu is a solution architect from Romania. He has more than 15 years of experience in developing solutions, especially on Microsoft technologies in very demanding environments. Is contributing articles and blogs to several user groups (MrSmersh), lecturing all over Romania and abroad, is also RONUA Timisoara (PASS Chapter) user group leader. Since 2011, every year he was awarded the Microsoft MVP Award.</description>
+      <twitter>MrSmersh</twitter>
+      <linkedin>?https://ro.linkedin.com/in/catalingheorghiu?</linkedin>
+      <ContactURL>http://ronua.ro/author/catalin/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MrSmersh</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90007</importID>
+      <name>Satya Jayanty</name>
+      <label>
+      </label>
+      <description>My experience surrounded with high focus on the data platform with a track record of defining strategy, designing and delivering digital transformation  migrations with major enhancements to current working methods.  Worked in a capacity of Head of Data Engineering, Enterprise Data Architect and Solutions 
+
+Key career accomplishment  recognition as an industry expert  technical excellence from the Microsoft as Data Platform Most Valuable Professional (MVP) recognition since the year 2006 (13 years as MVP and counting), which recognizes exceptional technical community leaders worldwide who actively deliver, present  share their extraordinary contributions, high quality, and real-world expertise.
+Twitter pod (http://twitter.com/sqlmast</description>
+      <twitter>sqlmaster</twitter>
+      <linkedin>https://uk.linkedin.com/sqlmaster</linkedin>
+      <ContactURL>http://www.sqlserver-qa.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlmaster</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90245</importID>
+      <name>Liviu Ieran</name>
+      <label>
+      </label>
+      <description>More than 9 years of SQL Server experience working for Microsoft currently as a Support Escalation Engineer. 
+My main area of expertise is SQL Server Performance where I helped optimize numerous query's and environments.</description>
+      <twitter>@Liviu_Ieran</twitter>
+      <linkedin>https://www.linkedin.com/in/IeranLiviu</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Liviu_Ieran</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>91612</importID>
+      <name>Tobias Koprowski</name>
+      <label>
+      </label>
+      <description>Founder of Shadowland Consulting. In January 2015 decided to permanently leave Poland and discover new worlds. Actually settled in Hucknall (The Last home of The Byron Family). Community leader focused on SQL Server, SharePoint, security, collaboration and ITIL, DR, BCM, and SLA. Love licensing stuff. 
+
+Microsoft Certified Trainer, freelancer, and consultant. Subject Matter Expert at Microsoft. Member of Microsoft Terminology Community, Friends of RedGate PLUS, PASS, ISSA, ACM and more. Since 1st July 2010 Data Platform MVP. Creator of SQLDAY Conference and Conference CEO 2009-2011. Co-Leader of PASS East Midlands Group. Speaker at group meetings and conferences. STEM Ambassador. 
+
+Traveler. Coffee Addicted.</description>
+      <twitter>@KoprowskiT</twitter>
+      <linkedin>https://uk.linkedin.com/in/koprowskit</linkedin>
+      <ContactURL>http://koprowskit.eu/geek/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@KoprowskiT</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>89073</importID>
+      <name>Tomaž Kaštrun</name>
+      <label>
+      </label>
+      <description>Tomaž Kaštrun is BI developer and data analyst. His main focus are data mining, T-SQL development, programming and query optimization. He has been working with SQL server since version 2000. He is Microsoft Certified Professional, Microsoft MVP for data platform and Microsoft trainer.</description>
+      <twitter>@tomaz_tsql</twitter>
+      <linkedin>http://www.linkedin.com/tomaz.kastrun</linkedin>
+      <ContactURL>http://www.tomaztsql.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@tomaz_tsql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90395</importID>
+      <name>Gergely Csom</name>
+      <label>
+      </label>
+      <description>Data and AI expert with 15+ years of experience in various data warehousing, BI and AI projects in FSI, OilGas, Energy and Transportation. Experienced trainer, mentor, regular public speaker in various events. Nowadays building the best in class data team for helping our customers in their digital transformation journey in the super exciting Data  AI driven revolution. Running cloud  IoT pet projects nowadays in his free time:)</description>
+      <twitter>https://twitter.com/CsomGergely</twitter>
+      <linkedin>https://www.linkedin.com/in/gergely-csom-27171670/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/CsomGergely</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88880</importID>
+      <name>Mihail Mateev</name>
+      <label>
+      </label>
+      <description>Mihail Mateev is a technical consultant, community enthusiast, PASS Regional Mentor for CEE, chapter lead, Microsoft Azure MVP, Microsoft Regional Director. He works as a Senior Solutions Architect at EPAM Systems, focused on Data Platform, IoT and cloud related solutions. He also worked many years like a Technical evangelist in the Infragistics. Last years Mihail was focused on various areas related to technology Microsoft: Data Platform, Visual Studio, ASP.Net, Windows client apps, Data Platform, and Microsoft Azure. Michael also has a PhD in cloud computing area. He is a university lecturer on Smart Homes and Smart Energy IoT Solutions.</description>
+      <twitter>mihailmateev</twitter>
+      <linkedin>http://www.linkedin.com/pub/mihail-mateev/1/6b3/4b1</linkedin>
+      <ContactURL>https://mmateev.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mihailmateev</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>90695</importID>
+      <name>Zoltán Hangyál</name>
+      <label>
+      </label>
+      <description>1998 óta próbálom megérteni, hogy miért az adott végrehajtási tervet választja az SQL Server. MCT és MCM minősítésekkel rendelkezem, előző életemben évekig tartottam SQL tanfolyamokat az egyik neves oktatóközpontban.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>91066</importID>
+      <name>Zoltán Horváth</name>
+      <label>
+      </label>
+      <description>Zolt#225;n is a BI specialist with more than a decade of expertise. He leads the Hungarian User Group of Microsoft SQL Server (HUG-MSSQL), the Hungarian Chapter of PASS. MCSE: BI and MCSE: Data Platform. SQL Server MVP since 2015.</description>
+      <twitter>@zoltanhorvath</twitter>
+      <linkedin>http://www.linkedin.com/in/zhorvath</linkedin>
+      <ContactURL>http://addictivemeasures.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@zoltanhorvath</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>88711</importID>
+      <name>Marcin Szeliga</name>
+      <label>
+      </label>
+      <description>Data Philosopher. Since 2006 invariably awarded Microsoft Most Valuable Professional title in the Data Platform category. A speaker at numerous conferences across Europe, as well as at user groups meetings. The author of many books and articles devoted to Microsoft Data Platform. An independent consultant, database-centric application practitioner and architect totally focused on SQL Server and Azure. Huge fan of Data Science and Machine Learning.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://pl.linkedin.com/in/marcinszeliga</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>88880</importID>
+      <speakers>
+        <speaker>
+          <id>88880</id>
+          <name>Mihail Mateev</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Neumann</name>
+      </location>
+      <title>Dealing with CosmosDB</title>
+      <description>CosmosDB service is a NoSQL is a globally distributed, multi-model database database service designed for scalable and high performance modern applications. CosmosDB is delivered as a fully managed service with an enterprise grade SLA. It supports querying of documents using a familiar SQL over hierarchical JSON documents. Azure Cosmos DB is a superset of the DocumentDB service. It allows you to store and query noSQL data, regardless of schema.
+In this presentation, you will learn:
+•	How to get started with DocumentDB you provision a new database account. 
+•	How to index documents 
+•	How to create applications using CosmosDb (using REST API or programming libraries for several popular language) 
+•	Best practices designing applications with CosmosDB
+•	Best practices creating queries.</description>
+      <startTime>4/20/2019 1:00:00 PM</startTime>
+      <endTime>4/20/2019 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90404</importID>
+      <speakers>
+        <speaker>
+          <id>90404</id>
+          <name>Catalin Gheorghiu</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights</title>
+      <description>Or how to visualize your data and find insights for beginner IoT developer
+If you create an IoT solution today, you have a variety of components available to mix and match to make your solution, akin LEGO.
+You get your hardware and firmware right and you get data from the sensors, now what? Of course, you would like to have, some data visualization easy and fast, and of course you would like to learn something from that data easy and fast. And it would be nice to have the results available on mobile devices, yes, yes easy and fast.
+Now enter our two titan technologies in a match to the death oops data  trying to achieve these goals, you guess it easy fast (and cheap). 
+And we will see them clash, from real hardware, to the big Azure cloud, to mobile devices, trying to outmatch each other.</description>
+      <startTime>4/20/2019 2:15:00 PM</startTime>
+      <endTime>4/20/2019 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90395</importID>
+      <speakers>
+        <speaker>
+          <id>90395</id>
+          <name>Gergely Csom</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Neumann</name>
+      </location>
+      <title>Building a modern data warehouse and BI solution in Microsoft cloud</title>
+      <description>Data warehouse and BI market is evolving rapidly with the appearance of new cloud born technologies. We might assume, that moving an existing Microsoft based DWH to the cloud is an easy step, but when we dig a little bit deeper, we will see, there are many-many new technological choices and aspects on how to modernize an existing dwh/bi system in the cloud. Not to mention if we start everything from scratch in a new project designed specifically to the cloud to utilize cloud flexibility and innovation as much as possible. 
+Which ETL tool should I use? Data factory v2 with SSIS and BIML, or Azure Databricks powered Dataflows? Or Power BI Dataflow? Which is the right decision to run OLAP workloads? Azure AS? Or simply Power BI? When do I need Azure SQL DWH?
+In the last couple years I helped many customers to modernize their DWH landscape partially or fully in the cloud and during my presentation I will share my findings and recipes for the most common situation I met. You will have fun:)</description>
+      <startTime>4/20/2019 9:30:00 AM</startTime>
+      <endTime>4/20/2019 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>91612</importID>
+      <speakers>
+        <speaker>
+          <id>91612</id>
+          <name>Tobias Koprowski</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>SQL Server Security and Vulnerability Assessment in One Hour</title>
+      <description>Security. We are taking it seriously. But as DBA, we are not always up-to-date with all kind of information which we store in our databases. We know that our database and some tables, even some specific columns when we have multiple types of data, users, permissions and so on need to be protected even more than others.
+
+But we need to know. We have GDPR, ISO2700, SOC compliance around us. And nobody tells us what it exactly means. We 'simply' need to be compliant (which is not simple). But we can use the power of SSMS together with Vulnerability Assessment and Security Center to collect all necessary information which we can use later to improve security, as well as decrease risks for our databases. Even better it will cost us (almost) nothing.
+
+We will look for a hybrid environment when our data are on-premises and in the cloud, but we use security tools for both.</description>
+      <startTime>4/20/2019 1:00:00 PM</startTime>
+      <endTime>4/20/2019 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>88711</importID>
+      <speakers>
+        <speaker>
+          <id>88711</id>
+          <name>Marcin Szeliga</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Room 3</name>
+      </location>
+      <title>How to win Kaggle competition and get familiar with machine learning ?</title>
+      <description>Have you heard that knowing machine learning is the easiest way to get rich quickly? Let’s test this statement. Kaggle is the place to do data science projects, why not to start there?
+During this session we will solve simple Kaggle competition. Actually, we will submit two solutions. The first made with super-duper deep neural network (black-box approach). Then we will follow proven ML methodologies and solve the problem methodically. All that using SQL Server Machine Learning Services.
+Minimum slides and maximum fun guaranteed.</description>
+      <startTime>4/20/2019 10:45:00 AM</startTime>
+      <endTime>4/20/2019 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>91066</importID>
+      <speakers>
+        <speaker>
+          <id>91066</id>
+          <name>Zoltán Horváth</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Top 10 SSAS Design Best Practice (vagy talán több is)</title>
+      <description>Az adatkockák, dimenziók, hierarchiák és attribútumok helyes tervezése létfontosságú az SSAS megoldások teljesítményének fenntartásában.
+
+Jó pár best practice-t összegyűjtöttem az OLAP-kockák építésével és üzemeltetésével töltött évek alatt. Ebben az előadásban végigmegyünk a tíz legfontosabb ilyen gyakorlaton, hogy beépíthesd ezeket a mindennapi munkádba, amikor te építed saját OLAP-kockáidat az Analysis Services platformon. Ülj be erre az előadásra, és nézd meg, hogyan segíthetnek ezek a tippek és best practice-ek időt spórolni neked is!</description>
+      <startTime>4/20/2019 9:30:00 AM</startTime>
+      <endTime>4/20/2019 10:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>89073</importID>
+      <speakers>
+        <speaker>
+          <id>89073</id>
+          <name>Tomaž Kaštrun</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Neumann</name>
+      </location>
+      <title>SQL Server In-database machine learning with R and Python</title>
+      <description>Get your fundamental knowledge and insights on how to establish and create your machine learning project with SQL Server 2016 or SQL Server 2017 using R or Python.
+
+From retrieving data from SQL Server to providing data insights with different data exploration techniques to data operationalization and completing the journey with predictive modeling and data visualization and presentation.</description>
+      <startTime>4/20/2019 2:15:00 PM</startTime>
+      <endTime>4/20/2019 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90007</importID>
+      <speakers>
+        <speaker>
+          <id>90007</id>
+          <name>Satya Jayanty</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>Modernise your data migration with Azure Data Migration Service</title>
+      <description>A simple and straightforward  solution/process is always helpful when a database migration is planned, irrespective whether it is on-premise or cloud.
+
+Azure Data Migration Service (DMS) is here to perform, lift and shift migrations to Azure SQL Database Managed Instance. Not just with migration using GUI, you can perform scripting to scale migration and plan minimal downtime migrations from different data sources to SQL Server.
+
+Let us jump into Database Migration Service, and how you can utilize and modernize your data estate to fully managed services in Azure.</description>
+      <startTime>4/20/2019 10:45:00 AM</startTime>
+      <endTime>4/20/2019 11:45:00 AM</endTime>
+    </event>
+    <event>
+      <importID>90245</importID>
+      <speakers>
+        <speaker>
+          <id>90245</id>
+          <name>Liviu Ieran</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room 2</name>
+      </location>
+      <title>SQL Server - A Developers vs Admins story</title>
+      <description>When a query runs slow we have debates between developers and admins on "who's fault it is". Is the server too slow or badly configured - admins fault. Is the query written badly or the design of the database very poor - developers fault. 
+During this presentation we will learn how to determine if a query can perform better and where to start looking for improvements based on the findings. It will include demo's which will hopefully engage the audience in debates and see that working together (devs and admins) is the best option.</description>
+      <startTime>4/20/2019 3:30:00 PM</startTime>
+      <endTime>4/20/2019 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>90695</importID>
+      <speakers>
+        <speaker>
+          <id>90695</id>
+          <name>Zoltán Hangyál</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Neumann</name>
+      </location>
+      <title>A baglyok nem azok amiknek látszanak, avagy mi is az a scan?</title>
+      <description>Az SQL Serverrel való ismerkedés úgy kezdödik, hogy az utasításkészlet csupán a SELECT, INSERT, UPDATE és DELETE négyes. Mennyire egyszerü, ehhez mindenki ért. 
+
+Aztán ahogy hízik az adatbázis, nagyságrendekkel több tranzakció történik másodpercenként úgy jönnek a meglepetések is. Például mi is az az index scan, hol fordul elö, tényleg végigolvassa-e a teljes táblát? Mi az a scan count, mit jelent ha 0, ha 1, vagy ha több? 
+
+Ebben az elöadásban scan-elés témakörét járjuk körbe.</description>
+      <startTime>4/20/2019 10:45:00 AM</startTime>
+      <endTime>4/20/2019 11:45:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,21 @@
+# SQLSaturday #463 - Costa Rica BI Edition 2015
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+08:30:00|Carlos A. Ulate Hernandez|Data Warehouse Architecture, Development  Administration|[Introducci#243;n a SSIS, lo que necesitas saber para iniciar a trabajar con SSIS](38703.md)
+08:30:00|Jason Horner|Multidimensional Modeling|[Dimensional Modeling Design Patterns: Beyond the Basics](39281.md)
+08:30:00|Javier Loria|Data Warehouse Architecture, Development  Administration|[Como aplicar Scrum a proyectos de BI](41696.md)
+10:00:00|Jose Mayorga|Multidimensional Modeling|[Muldimenional Data Base Design by means of BISM Tabular Models](39026.md)
+10:00:00|Carlos Rojas Vargas|Data Warehouse Architecture, Development  Administration|[Opciones de Mejora de Rendimiento para el Datawarehouse](39031.md)
+10:00:00|Ricardo Estrada|Multidimensional Modeling|[S#250;base al Bus de la Inteligencia de Negocios y h#225;galo #161;#193;gilmente!](40321.md)
+11:00:00|Kenneth Urena|Data Warehouse Architecture, Development  Administration|[Dise#241;ando mi datawarehouse "Disaster recovery ready"](38676.md)
+11:00:00|Eduardo Castro|Data Warehouse Architecture, Development  Administration|[Introducci#243;n a BI con DATAZEN](40048.md)
+11:00:00|Pedro Huguet|Big Data / Internet of Things|[Using big data to drive U.S. healthcare reform](41711.md)
+13:00:00|David Sánchez Aguilar|BI Information Delivery|[Inteligencia de Negocios aplicado para Proyectos de Desarrollo](39418.md)
+13:00:00|Adrian Miranda|Data Warehouse Architecture, Development  Administration|[Lo que debe saber un DBA sobre BI.](40301.md)
+13:00:00|Oscar Marin|Big Data / Internet of Things|[Como implementar una plataforma del Internet of Things con Azure](41188.md)
+14:00:00|Keneth Murillo|Cloud Analytics|[Iniciando con Stream Analytics](39467.md)
+14:00:00|Jason Horner|BI Information Delivery|[Advanced Spatial Analysis: Beyond Bubble Charts](41634.md)
+14:00:00|Maristel Castro Montero|Data Warehouse Architecture, Development  Administration|[Data Profiling (SSIS)-  Herramienta #250;til para el perfilamiento de Datos ](41699.md)
+15:30:00|Miguel Escobar|BI Information Delivery|[Power Query para Power BI: De Cero al [M]#225;ximo](38707.md)
+15:30:00|César Oviedo|Cloud Analytics|[Introduciendo Azure Data Warehouse](38764.md)
+15:30:00|Alejandro Cordero|Data Warehouse Architecture, Development  Administration|[La receta de la abuela para mejores Cargas de Datos!](40922.md)

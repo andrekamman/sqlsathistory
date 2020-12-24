@@ -1,0 +1,20 @@
+# SQLSaturday #580 - Joinville 2017
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:00:00|Rodrigo Crespi|Track 01 - Administração|[SQL Server on Linux](57327.md)
+09:00:00|Vitor Fava|Track 02 - Desenvolvimento|[Stretch Database - Armazenamento de dados hist#243;ricos no SQL Server 2016](58066.md)
+09:00:00|Bruno Feldman|Track 03 - Business Intelligence|[Columnstore Indexes - Como ele pode melhorar meu data warehouse?](61832.md)
+10:30:00|Nilton Pinheiro|Track 01 - Administração|[Alta Disponibilidade para Pequenos, Medios e Grandes Ambientes](61523.md)
+10:30:00|Arthur Luz|Track 02 - Desenvolvimento|[SQL Server 2016 - Temporal Tables](61604.md)
+10:30:00|Diego Nogare|Track 03 - Business Intelligence|[Criando modelos preditivos com Azure Machine Learning](62549.md)
+13:00:00|Sulamita Dantas|Track 02 - Desenvolvimento|[Analisando o Plano de Execução através da Query Store](57266.md)
+13:00:00|Fabiano Amorim|Track 01 - Administração|[Quando as boas práticas não são boas](58283.md)
+13:00:00|Wasley Portes|Track 03 - Business Intelligence|[SSIS 2016 - New features and improvements](59680.md)
+14:15:00|Fabrício Lima|Track 02 - Desenvolvimento|[Passo a Passo para realizar uma Consultoria de Tuning](54596.md)
+14:15:00|Marcos Vinicius Oliveira Schardong|Track 03 - Business Intelligence|[Projetos com Reporting Services 2016 e SSAS (Row Level Security in EASY Mode)!!!](55171.md)
+14:15:00|Tiago Neves|Track 01 - Administração|[Quero ser um DBA. O que devo aprender ?](56732.md)
+16:00:00|Marcelo Adade|Track 01 - Administração|[(Fast Track) SQL SERVER on Linux - First glimpse on High Availability](61607.md)
+16:00:00|Rodrigo Dornel|Track 03 - Business Intelligence|[(Fast Track) Power BI  Power BI Embedded](62473.md)
+16:00:00|Tiago Crespi|Track 02 - Desenvolvimento|[(Fast Track) T-SQL - Window Functions](63470.md)
+16:45:00|Ignez Mello|Track 02 - Desenvolvimento|[(Fast Track) TSQL statements every DBA should teach to developers](57288.md)
+16:45:00|Flávio Farias|Track 01 - Administração|[(FastTrack) Azure SQL Databases](61733.md)

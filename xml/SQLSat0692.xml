@@ -1,0 +1,270 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #692 - Nepal 2017</name>
+    <startDate>12/23/2017 12:00:00 AM</startDate>
+    <attendeeEstimate>225</attendeeEstimate>
+    <timezone>(GMT+05:45) Kathmandu</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatNepal</twitterHashtag>
+    <venue>
+      <name>Hotel Yellow Pagoda</name>
+      <street>Kantipath कान्तिपथ मार्ग, Kathmandu, Nepal</street>
+      <city>Nepal</city>
+      <state>, Nepal</state>
+      <zipcode>44600</zipcode>
+      <longitude>85.3151969</longitude>
+      <latitude>27.7104126</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2082</importID>
+      <name>Pioneer Solutions</name>
+      <label>Bronze Sponsor</label>
+      <url>http://pioneersolutionsglobal.com/</url>
+      <imageURL>https://pioneersolutionsglobal.com/images/pioneer_logo_black.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2087</importID>
+      <name>Edgewood Solutions LLc</name>
+      <label>Personal Sponsor</label>
+      <url>https://www.mssqltips.com/</url>
+      <imageURL>https://www.mssqltips.com/images/mslogo_113x60.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2083</importID>
+      <name>SQLHELPS</name>
+      <label>Blog Sponsor</label>
+      <url>http://www.sqlhelps.com/</url>
+      <imageURL>https://www.sqlhelps.com/img/logo.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>71121</importID>
+      <name>Jonathan Stewart</name>
+      <label>
+      </label>
+      <description>Jonathan Stewart is a Business Intelligence consultant specializing in data visualization, data warehousing, and data management technologies. An advocate for educating others, he is a public speaker, teacher and blogger, continually teaching people about the Microsoft BI Stack. Since 2000, he has been working in the database field with industry leaders in healthcare, manufacturing, financial, insurance and federal, state and local governments.
+
+Jonathan is very active in the community. He has presented on SQL Server, SSIS, Reporting Services, Power BI and Business Intelligence at numerous SQLSaturday events, local user groups, and conferences throughout the United States and around the world. He participates in webcasts, podcasts, and on</description>
+      <twitter>sqllocks</twitter>
+      <linkedin>https://www.linkedin.com/in/sqllocks/</linkedin>
+      <ContactURL>https://sqllocks.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqllocks</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71990</importID>
+      <name>Shree Khanal</name>
+      <label>
+      </label>
+      <description>Shree Khanal is a Database Architect, Speaker and Trainer having 15+ 
+years of professional experience on database solution development 
+and optimization. Mr. Khanal is a Data Platform MVP  Microsoft 
+Certified Database Professional since 2000 to till date. Starting with 
+SQL Server 7, he has been working with all the version of SQL Server 
+up to 2016 in production environment. In context of OLAP cube 
+development, he started working on it from SQL Server 2000 to latest 
+SSAS 2016. He has worked number of years providing SQL BI solutions 
+to various enterprise clients most of them from BI sector. He founded 
+and has been leading the Himalayan SQL Server User Group (www.sqlpassnepal.org) based in 
+Kathmandu, Nepal since 2010.</description>
+      <twitter>shreekhanal</twitter>
+      <linkedin>http://np.linkedin.com/in/shreekhanal</linkedin>
+      <ContactURL>http://www.sqlhelps.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=shreekhanal</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69840</importID>
+      <name>Gogula Aryalingam</name>
+      <label>
+      </label>
+      <description>Gogula is a data analytics professional from Sri Lanka, with 14+ years on the Microsoft data platform. He has worked with many aspects of data analytics and BI solutions from architecting, designing, developing and consulting across various industries and verticals. He is Regional Mentor for PASS South Asia, Data Platform MVP, MCSE, former MCT, and MSc in IT. Gogula's passion revolves data analytics and BI; hence enjoys writing, teaching and speaking about the things he works with. He was also involved as an SME for Microsoft certification development. He currently juggles his full time job as Lead Architect while speaking at local and foreign events, along with regular stints at the Sri Lankan Data Community which he co-founded.</description>
+      <twitter>http://www.twitter.com/gogula</twitter>
+      <linkedin>http://www.linkedin.com/in/gogula</linkedin>
+      <ContactURL>http://datamaul.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://www.twitter.com/gogula</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69753</importID>
+      <name>Guy Glantser</name>
+      <label>
+      </label>
+      <description>Guy Glantser, Data Platform MVP, is the leader of the Israeli PASS Local Group, as well as the CEO and founder of Madeira Data Solutions. His career has been focused on the Microsoft Data Platform for the past 20 years, performing various database roles as either an on-site DBA, an external consultant, or a speaker. His main area of expertise is SQL Server development and optimization. Guy is involved in many activities in the Microsoft Data Platform community. He occasionally speaks at community events, such as PASS Summit, SQLBits, SQLSaturdays, and user groups around the world. He also co-hosts the SQL Server Radio podcast.</description>
+      <twitter>guy_glantser</twitter>
+      <linkedin>http://www.linkedin.com/in/glantser</linkedin>
+      <ContactURL>https://www.madeiradata.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=guy_glantser</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70376</importID>
+      <name>Virendra Yaduvanshi</name>
+      <label>
+      </label>
+      <description>https://wikidba.net/</description>
+      <twitter>https://twitter.com/v_yaduvanshi</twitter>
+      <linkedin>https://www.linkedin.com/in/virendrayaduvanshi/</linkedin>
+      <ContactURL>https://wikidba.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/v_yaduvanshi</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>69982</importID>
+      <name>Anil Maharjan</name>
+      <label>
+      </label>
+      <description>Anil Maharjan is Microsoft Data Platform MVP, Has more than 9 years of development  implementation experience in HealthCare Data Analytics, Telecommunication Industry.
+•	Published article, frequent Blogger and speaker at Microsoft Ignite Singapore - 2019, Data and BI Summit 2018 -Dublin, Power Platform Australia Summit 2019, SQL Saturday , SQLServer2016 Discovery Day, SQLServerGeeks Annual Summit , SQL Server User group , Nepal Power BI User Group Meetup and other SQL Events.
+•	Organizing member at Himalayan SQL Server User Group
+•	User Group Leader Nepal Power BI User Group
+•	Program Committee member for PASS Summit 2014 
+•      Program Committee member for DATA and BI Summit 2018 and  Power Platform Australia Summit 2019 .</description>
+      <twitter>Anil_Maharjan</twitter>
+      <linkedin>http://np.linkedin.com/in/maharjananil</linkedin>
+      <ContactURL>https://anilmaharjanonbi.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Anil_Maharjan</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>69840</importID>
+      <speakers>
+        <speaker>
+          <id>69840</id>
+          <name>Gogula Aryalingam</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Conference Room</name>
+      </location>
+      <title>BI for Everyone: Why, What and How of Power BI</title>
+      <description>Business Intelligence has been around for a long time, however a lot of BI projects have failed than have succeeded*. Despite knowing its shortcomings, only as of recent, have we had the right tools to make BI succeed. This session will focus on a very short history on how BI came into being and reasons for most failures. We will then look at the new wave of BI concepts and tools, and how it could help build better business intelligence solutions, and why Power BI is a tool of choice out of these. We will finally take a look at how the two main focus groups, business users and technical folk, can make use of Power BI, the part they have to play, and what they need to know, and how together they could build better business intelligence for everyone.</description>
+      <startTime>12/23/2017 9:00:00 AM</startTime>
+      <endTime>12/23/2017 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>69982</importID>
+      <speakers>
+        <speaker>
+          <id>69982</id>
+          <name>Anil Maharjan</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Conference Room</name>
+      </location>
+      <title>PowerBI : Data Visualization SQL Saturday with R</title>
+      <description>This session is mainly use to learn more about Power BI and R visualization chart. From this session one can learn how can we make some simple and quick visualization using Power BI desktop taking real SQL Saturday data and publish in PowerBI cloud service and also publish those visualization reports to publicly in web. Also, this session mainly helps to tell the story of SQL Saturday by using Power BI and R visualization chart. 
+
+Overall, by using Power BI Visualization how one can find out which SQL Saturday is conducted in which state or country in which year and a particular Day along with total sessions conducted. Also one can find SQL Saturday trends year on year and mostly in which month most of SQL Saturday is conducted as per SQL Saturday data history. So, this session will surely help one to learn regarding Power BI and its capabilities and SQL Saturday Stories.</description>
+      <startTime>12/23/2017 2:30:00 PM</startTime>
+      <endTime>12/23/2017 3:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>69753</importID>
+      <speakers>
+        <speaker>
+          <id>69753</id>
+          <name>Guy Glantser</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Conference Room</name>
+      </location>
+      <title>How to Use Parameters Like a Pro and Boost Performance</title>
+      <description>Parameters are a fundamental part of T-SQL programming, whether they are used in stored procedures, in dynamic statements or in ad-hoc queries. Although widely used, most people aren't aware of the crucial influence they have on query performance. In fact, wrong use of parameters is one of the common reasons for poor application performance.
+In this session we will learn about plan caching and how the query optimizer handles parameters. We will talk about the pros and cons of parameter sniffing as well as about simple vs. forced parameterization. But most important – we will learn how to identify performance problems caused by poor parameter handling, and we will also learn many techniques for solving these problems and boosting your application performance.</description>
+      <startTime>12/23/2017 1:30:00 PM</startTime>
+      <endTime>12/23/2017 2:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71121</importID>
+      <speakers>
+        <speaker>
+          <id>71121</id>
+          <name>Jonathan Stewart</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Conference Room</name>
+      </location>
+      <title>Performance Tuning for the BI Professional</title>
+      <description>Being a BI Professional, you need all the performance tuning the DB folks get and more.  In this hour, we will go over important performance tuning tips that you can use to help make your deliverables faster and more effective.  We will touch on the MSBI tools of SSIS, SSAS, SSRS and PowerBI.</description>
+      <startTime>12/23/2017 11:15:00 AM</startTime>
+      <endTime>12/23/2017 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70376</importID>
+      <speakers>
+        <speaker>
+          <id>70376</id>
+          <name>Virendra Yaduvanshi</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Conference Room</name>
+      </location>
+      <title>Understanding SQL Server's transaction log and how to manage it.</title>
+      <description>let try to understand Internals of SQL Server transaction log and learn how to manage it.</description>
+      <startTime>12/23/2017 10:00:00 AM</startTime>
+      <endTime>12/23/2017 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>71990</importID>
+      <speakers>
+        <speaker>
+          <id>71990</id>
+          <name>Shree Khanal</name>
+        </speaker>
+      </speakers>
+      <track>Database Administration</track>
+      <location>
+        <name>Conference Room</name>
+      </location>
+      <title>SQL Server 2016 Advanced Security</title>
+      <description>In this session we will review the new enhancement to SQL Server security available in SQL Server 2016 and Azure SQL DB.  These include Always Encrypted, Row-Level Security and Dynamic Data Masking as well as whatever else Microsoft has released since I've written this abstract. We'll look at how to set these features up, how to use them, and most importantly when to use them.</description>
+      <startTime>12/23/2017 3:45:00 PM</startTime>
+      <endTime>12/23/2017 4:45:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

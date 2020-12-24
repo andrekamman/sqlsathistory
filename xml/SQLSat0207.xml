@@ -1,0 +1,258 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #207 - Cameroon 2013</name>
+    <startDate>6/8/2013 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT+01:00) Brussels, Copenhagen, Madrid, Paris</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat207</twitterHashtag>
+    <venue>
+      <name>Catholic University of Central Africa</name>
+      <street>16326 Coron Yaounde</street>
+      <city>Yaounde</city>
+      <state>, Cameroon</state>
+      <zipcode>16326</zipcode>
+      <longitude>11.515475</longitude>
+      <latitude>3.872005</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>83</importID>
+      <name>PluralSight</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.pluralsight.com</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2015/11/Pluralsight_logo_novo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>50</importID>
+      <name>xSQL Software</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.xsql.com</url>
+      <imageURL>
+      </imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>20</importID>
+      <name>O'Reilly Books</name>
+      <label>Bronze Sponsor</label>
+      <url>http://oreilly.com/</url>
+      <imageURL>https://oreilly.com/images/oreilly/oreilly.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Bronze Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>21414</importID>
+      <name>ACHILLE NGUELA NGUELA</name>
+      <label>
+      </label>
+      <description>11 Years Informations technology Pro. MCITP Entreprise Admin MCITP Entreprise Desktop Admin MCITP Sharepoint Admin MCSA Windows Server</description>
+      <twitter>@AchillesB1</twitter>
+      <linkedin>http://www.linkedin.com/in/achil/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@AchillesB1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>25356</importID>
+      <name>Steve Simon</name>
+      <label>
+      </label>
+      <description>Steve Simon is a Database Solutions Architect with Business Knowledge Services Inc. He has been involved with database design and analysis for over 35 years. Steve has presented papers at numerous PASS Summits and PASS SQL Rallies. He is also regular presenter on the SQL Saturday circuit and he is a contributor on SQLShack.com</description>
+      <twitter>SQLServerBoffin</twitter>
+      <linkedin>http://www.linkedin.com/in/stephenrsimon/</linkedin>
+      <ContactURL>http://www.sqlservercentral.com/blogs/simon_says/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLServerBoffin</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>25357</importID>
+      <name>Steve Simon</name>
+      <label>
+      </label>
+      <description>Steve Simon is a Database Solutions Architect with Business Knowledge Services Inc. He has been involved with database design and analysis for over 35 years. Steve has presented papers at numerous PASS Summits and PASS SQL Rallies. He is also regular presenter on the SQL Saturday circuit and he is a contributor on SQLShack.com</description>
+      <twitter>SQLServerBoffin</twitter>
+      <linkedin>http://www.linkedin.com/in/stephenrsimon/</linkedin>
+      <ContactURL>http://www.sqlservercentral.com/blogs/simon_says/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLServerBoffin</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10824</importID>
+      <name>Jason Brimhall</name>
+      <label>
+      </label>
+      <description>Jason Brimhall has more than 20 years of experience and has worked with SQL Server 6.5 through SQL Server 2019. He has experience in performance tuning, high transaction environments, and large environments. He is currently a consultant specializing in performance tuning, server analysis, and problem resolution. Jason is a Microsoft Certified Master (MCM) and a Data Platform MVP.</description>
+      <twitter>sqlrnnr</twitter>
+      <linkedin>https://www.linkedin.com/in/dbajbrimhall/</linkedin>
+      <ContactURL>http://jasonbrimhall.info</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlrnnr</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17096</importID>
+      <name>Jody Roberts</name>
+      <label>
+      </label>
+      <description>Jody Roberts is a Microsoft Data Platform MVP based in Cape Town, South Africa. He specializes in SQL Server architecture, disaster recovery (DR), and server optimization.
+
+Jody serves as a PASS Regional Mentor responsible for the Middle East amp; Africa, Chapter Lead of the SQLCape user group, and Co-Lead of the PASS Cloud Virtual Chapter. Jody is a Principal Consultant at Northern Data.</description>
+      <twitter>Jody_Wp</twitter>
+      <linkedin>http://za.linkedin.com/pub/jody-roberts/7/b29/193/Edit</linkedin>
+      <ContactURL>http://JodyWP.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Jody_Wp</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17095</importID>
+      <name>Jody Roberts</name>
+      <label>
+      </label>
+      <description>Jody Roberts is a Microsoft Data Platform MVP based in Cape Town, South Africa. He specializes in SQL Server architecture, disaster recovery (DR), and server optimization.
+
+Jody serves as a PASS Regional Mentor responsible for the Middle East amp; Africa, Chapter Lead of the SQLCape user group, and Co-Lead of the PASS Cloud Virtual Chapter. Jody is a Principal Consultant at Northern Data.</description>
+      <twitter>Jody_Wp</twitter>
+      <linkedin>http://za.linkedin.com/pub/jody-roberts/7/b29/193/Edit</linkedin>
+      <ContactURL>http://JodyWP.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Jody_Wp</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>21414</importID>
+      <speakers>
+        <speaker>
+          <id>21414</id>
+          <name>ACHILLE NGUELA NGUELA</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server 2012 - Cloud on Your Terms: Scale On De</title>
+      <description>Microsoft SQL Server is a cloud-ready information platform that will help IT and Database Professionals unlock breakthrough insights across their organizations and quickly build solutions to extend data across on-premises and public cloud. Cloud on Your Terms enables organizations to create and scale business solutions fast, on their terms from server to private or public cloud.
+ 
+This content module is designed for the 2012 release of SQL Server 2012. To learn more about the latest SQL Server 2012 features and services,</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17096</importID>
+      <speakers>
+        <speaker>
+          <id>17096</id>
+          <name>Jody Roberts</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The big difference</title>
+      <description>We will be looking at the HA and DR considerations and the difference between the two. We will focus on the built in HA functionality of SQL server.</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>10824</importID>
+      <speakers>
+        <speaker>
+          <id>10824</id>
+          <name>Jason Brimhall</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Reporting Services for Mere DBAs</title>
+      <description>As a DBA in the modern era, you may be required from time to time to do something outside of your comfort zone.  One of these things may be to become quickly acquainted with SSRS.  Even better is that you may be required to do things you have not considered in a standard report.  In this session, you will learn how to implement a framework to help provide a common ground for your reports.  This session will delve into fun topics such as dynamic grouping and dynamic sorting.  We are not talking about the interactive sorting that your accountant may use.  Attendees will also be introduced to a few quick methods of exporting Reports from the report server - this is from a DBA perspective after-all!</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>25356</importID>
+      <speakers>
+        <speaker>
+          <id>25356</id>
+          <name>Steve Simon</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Get your Mining Model Predictions out to all. Presentation en Francais</title>
+      <description>SQL Server 2012: Over the past 18 months many financial and portfolio management firms have been severely ‘hit’ by the depressed markets and poor economic conditions.This lead to risk exposure and considerable client liability.We like many firms have gone through the 'teething process'with regards to data mining model predictions and have now taken our systems from the prototype stage to our “shop floor” and are getting the 'good word' out to management via SQL Server Reporting Services.</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>25357</importID>
+      <speakers>
+        <speaker>
+          <id>25357</id>
+          <name>Steve Simon</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>I 'wanna' learn SQL Server. Presentation en Francais</title>
+      <description>This presentation is meant to introduce the power of SQL Server to the "total novice". Often folks arrive at SQL Saturdays hoping to attend a session aimed at the novice. Well this is your chance!!. This hands on presentation assumes that you know NOTHING about SQL Server and that you must come up to speed in a minimal amount of time. We shall learn about the varied components of the product and end up creating a few simple queries, giving you enough knowledge to go back to your workplace and to perform like a star.</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17095</importID>
+      <speakers>
+        <speaker>
+          <id>17095</id>
+          <name>Jody Roberts</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Rocking with SQL 2012 Extended Events</title>
+      <description>In this session we will discover the benefits of using SQL 2012 extended events. How to work smart and NOT hard</description>
+      <startTime>6/8/2013 12:00:00 AM</startTime>
+      <endTime>6/8/2013 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

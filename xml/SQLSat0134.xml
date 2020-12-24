@@ -1,0 +1,416 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #134 - Johannesburg 2012</name>
+    <startDate>5/5/2012 12:00:00 AM</startDate>
+    <attendeeEstimate>150</attendeeEstimate>
+    <timezone>(GMT+02:00) Jerusalem</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat134</twitterHashtag>
+    <venue>
+      <name>Microsoft Office</name>
+      <street>3201 William Nicol Drive</street>
+      <city>Bryanston</city>
+      <state>Gauteng, South Africa</state>
+      <zipcode>2191</zipcode>
+      <longitude>28.018736</longitude>
+      <latitude>-26.044474</latitude>
+    </venue>
+  </guide>
+  <speakers>
+    <speaker>
+      <importID>27713</importID>
+      <name>Wayne Sheffield</name>
+      <label>
+      </label>
+      <description>Wayne Sheffield, a Microsoft Certified Master in SQL Server and Microsoft Most Valuable Professional, started working with xBase databases in the late 80’s. With over 25 years in IT, he has worked with SQL Server (since 6.5 in the late 90’s) in various dev/admin roles, with an emphasis in performance tuning. He is the author of several articles at www.sqlservercentral.com, a co-author of “SQL Server T-SQL Recipes”, and enjoys sharing his knowledge by presenting at SQL events worldwide and blogging at http://blog.waynesheffield.com/wayne</description>
+      <twitter>@DBAWayne</twitter>
+      <linkedin>http://www.linkedin.com/in/WayneSheffield</linkedin>
+      <ContactURL>http://blog.waynesheffield.com/wayne</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@DBAWayne</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11607</importID>
+      <name>Christina Leo</name>
+      <label>
+      </label>
+      <description>Christina Leo is a Cloud Solution Architect at Microsoft specialising in the Data and AI Platform. Prior to joining Microsoft in 2016, she worked as an independent consultant focusing on T-SQL and BI development, as well as database performance tuning in the finance and investment banking sector. When she isn't sharing her 18 years of technical experience with the data community, you can find her racing around the Solent on a 40' sailboat or often in the Thames on a little Laser.</description>
+      <twitter>christinaleo</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://christinaleo.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=christinaleo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>25156</importID>
+      <name>Josef Richberg</name>
+      <label>
+      </label>
+      <description>I have over 29 years in the world of RDBMS.  I have in-depth knowledge of Microsoft SQL Server and the Azure platform (Data Factories, Logic Apps, Functions,Event Grids...) .  I am fiercely passionate about my work.
+
+I am currently developing a new Azure ecosystem for Penguin Random House. This includes moving load processes to Azure Logic Apps and Data Factory pipelines, leveraging Azure Functions, and pushing the new SQL Services to the limit. 
+
+I am the creator of the Enhanced Threading Framework (ETF) for SSIS.  I presented at PASS 2013 on advanced SSIS techniques:  http://www.sqlpass.org/summit/2013/Sessions/SessionDetails.aspx?sid=4845
+and was awarded '2009 Exceptional DBA of the Year', by RedGate and my peers.</description>
+      <twitter>sqlrunner</twitter>
+      <linkedin>https://www.linkedin.com/in/josefrichberg/</linkedin>
+      <ContactURL>http://josefrichberg.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlrunner</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9486</importID>
+      <name>Andrew Thornton-Smith</name>
+      <label>
+      </label>
+      <description>I am a Specialist SharePoint Consultant at Mint Management Technologies South Africa, and have been in the industry for about 10 years.
+I have been dabbling in the dark and mystical art of SharePoint for many a year and have learnt many tips and tricks, Do#39;s and Do not#39;s!!
+I enjoy new tech toys and anything radio controlled especially monster trucks  and quad copters.</description>
+      <twitter>https://twitter.com/AThorntonSmith</twitter>
+      <linkedin>https://za.linkedin.com/in/andrew-thornton-smith-97186120</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/AThorntonSmith</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>15525</importID>
+      <name>Jacques Mostert</name>
+      <label>
+      </label>
+      <description>A family man, Christian, starcraft addict with some SQL on the side.
+
+Working on SQL for a long time, started on V6.5. I have seen way to many versions of SQL/BI tools for any sane person. ‘There is evil here that does not sleep” and as far as I can will help where I can. As the “about” title says I wear sandals (Afrikaans: Plakkies) do not like shoes to my wifes/boss dismay. I enjoy going off-road with my “toyota” and when I am not “sql”ing I will be constructing something from wood.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlinbuddy.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>20113</importID>
+      <name>Mark Stacey</name>
+      <label>
+      </label>
+      <description>Mark Stacey founded the Aphelion Software Group, and works tirelessly to cross the business/technical boundaries in Business Intelligence, working in both SharePoint and SQL. He has published two books on BI - Sharepoint 2010 BI and Visual Intelligence and frequently speaks at both SQL Saturday and SharePoint Saturday events. Mark is one of the few Microsoft PDW trainers, and has trained in Africa, India and Europe on the PDW, as well as all over the world on other technologies </description>
+      <twitter>@MarkGStacey</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://MarkGStacey.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@MarkGStacey</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>17604</importID>
+      <name>Jody Roberts</name>
+      <label>
+      </label>
+      <description>PASS RM,SQL DBA by heart,UG Arsonist</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://jodywp.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19300</importID>
+      <name>Luis de Sousa</name>
+      <label>
+      </label>
+      <description>Consult to large financial institutions in South Africa providing Business Intelligence and Analysis insight.</description>
+      <twitter>@luis_de_sousa</twitter>
+      <linkedin>http://za.linkedin.com/in/luisdza</linkedin>
+      <ContactURL>http://www.luisdesousa.co.za</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@luis_de_sousa</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19342</importID>
+      <name>Michael Johnson</name>
+      <label>
+      </label>
+      <description>Michael Johnson is an independent Business intelligence consultant from Johannesburg South Africa</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>12424</importID>
+      <name>David Peter Hansen</name>
+      <label>
+      </label>
+      <description>David Peter Hansen is a Senior Consultant, Practice Manager at Platon (www.platon.net), a Scandinavian Information Management consultancy. He has worked with databases for 10+ years, and has worked with the Microsoft BI platform since SQL Server 2000. He currently lives in Durban, but works mostly on projects in the financial sector in Europe. He specializes in developer coaching as well as scalable architecture and performance tuning on large  scale data warehouses and BI solutions.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://dave.dk/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21326</importID>
+      <name>Neil Hambly</name>
+      <label>
+      </label>
+      <description>Neil Hambly is a SQL Server consultant, founder and consultant at Datamovements, a Gold Microsoft Data  Analytics Consulting company.
+Neil has 20+ years in a variety of SQL Server roles and is an MCT. He is a regular presenter (200+ events) at user groups, and PASS events, including PASS Summit and SQLSaturday, and many UK events (SQLBits, SQLRelay). Neil is the leader of PASS London (UK), a Professional Development VC, a Melissa Data MVP, and a SQL Cruise Technical Lead, who loves Guinness, whisky, and dancing.</description>
+      <twitter>Neil_Hambly</twitter>
+      <linkedin>http://uk.linkedin.com/in/neilhambly</linkedin>
+      <ContactURL>http://dataidol.com/NeilHambly</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Neil_Hambly</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14365</importID>
+      <name>Gail Shaw</name>
+      <label>
+      </label>
+      <description>Gail Shaw is a Database Specialist focusing on database performance tuning and database recovery, with a particular interest in topics such as indexing strategies, execution plans, and writing T-SQL code that performs well and scales gracefully. Gail holds a Microsoft Certified Master certification for SQL Server 2008 and is a Data Platform MVP. She's a frequent poster on the SQLServerCentral forums, a Pluralsight author, writes articles for both SQLServerCentral.com and Simple-Talk.com, and has spoken at SQLSaturdays, SQL Bits and at the PASS Community Summit. Gail has been responsible for extending the lifespan of many an application, by performance-tuning their databases and providing technical guidance on all things SQL Server related.</description>
+      <twitter>@SQLInTheWild</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlinthewild.co.za</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLInTheWild</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>11607</importID>
+      <speakers>
+        <speaker>
+          <id>11607</id>
+          <name>Christina Leo</name>
+        </speaker>
+      </speakers>
+      <track>Virtual/remote</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Internals:  It's What's for Dinner!</title>
+      <description>Ever wondered what happens under the hood when you query your SQL Server database? Well, it’s somewhat like asking for a special meal for dinner. During this session, I will use a cooking analogy to describe the life cycle of a query and the journey it takes through SQL Server’s working parts. By comparing the concepts of SQL Internals to a familiar idea, you will have a clear understanding of the underlying processes involved in returning data from a SELECT query. Once we’ve established a frame of reference for a simple read operation, we’ll look at an UPDATE statement and consider the additional factors associated with a write operation.  By session's end you should have a clear overview of what happens when a query hits your server.</description>
+      <startTime>5/5/2012 12:00:00 AM</startTime>
+      <endTime>5/5/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9486</importID>
+      <speakers>
+        <speaker>
+          <id>9486</id>
+          <name>Andrew Thornton-Smith</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Considerations for SharePoint 2010 Farms</title>
+      <description>SharePoint is to be hosted on your SQL farm... Now what?
+
+In this session, we will cover some need to know for  SQL administrators who are now responsible for SharePoint's DBs.  
+In our journey, topics we will cover will be from, Farm sizing's  architecture considerations for SQL , Enterprise Search considerations for crawling public drives, followed by the myriad of SharePoint Databases and which to watch out for.
+Also touch on maintenance plans and health analyser rules. 
+And finally what tasks in SharePoint are the heavy weights in terms of IOPS, CPU  RAM.</description>
+      <startTime>5/5/2012 12:00:00 AM</startTime>
+      <endTime>5/5/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>17604</importID>
+      <speakers>
+        <speaker>
+          <id>17604</id>
+          <name>Jody Roberts</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Powershell for the DBA </title>
+      <description>This session will provide you with the knowledge to effectivelly perform DBA functions with powershell</description>
+      <startTime>5/5/2012 12:00:00 AM</startTime>
+      <endTime>5/5/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21326</importID>
+      <speakers>
+        <speaker>
+          <id>21326</id>
+          <name>Neil Hambly</name>
+        </speaker>
+      </speakers>
+      <track>Virtual/remote</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Extended Events – New Age of Profiling</title>
+      <description>Extended Events is the replacement for profiler in many respects, and will be the choice of capturing data from within SQL Server now and in future editions, so we need to understand the differences it has to profiler "old guard" and why we should be using this new feature for this purposeI'll take you on a Guided tour of the key aspects, and show you simply how in just minutes you can up and running and capturing data using this new method and how to analyze it effectivelyFollow me to the "new age" of understanding your systems activity</description>
+      <startTime>5/5/2012 12:00:00 AM</startTime>
+      <endTime>5/5/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>25156</importID>
+      <speakers>
+        <speaker>
+          <id>25156</id>
+          <name>Josef Richberg</name>
+        </speaker>
+      </speakers>
+      <track>Virtual/remote</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SSIS Enhanced Threading Framework</title>
+      <description>How is it possible to aggregate 12,000,000 records of sales data in a short time window? In this presentation you will learn the techniques used to make this possible. These include workload distribution, pipeline elimination and thread management.
+</description>
+      <startTime>5/5/2012 12:00:00 AM</startTime>
+      <endTime>5/5/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19342</importID>
+      <speakers>
+        <speaker>
+          <id>19342</id>
+          <name>Michael Johnson</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>The new package deployment model in SQL Server 201</title>
+      <description>SQL server 2012 brings many new features to integration services, the biggest of which has to be the new package deployment model. In this session we will look at how BI developers can use SSDT to develop data integration packages using many of the new features.</description>
+      <startTime>5/5/2012 12:00:00 AM</startTime>
+      <endTime>5/5/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27713</importID>
+      <speakers>
+        <speaker>
+          <id>27713</id>
+          <name>Wayne Sheffield</name>
+        </speaker>
+      </speakers>
+      <track>Virtual/remote</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Windowing Functions in SQL Server 2012</title>
+      <description>SQL Server 2012 brings with it nearly full ANSI compliance with the windowing functions. Come to this code filled session to find out the changes to existing windowing functions, and the new windowing functions that have been added.</description>
+      <startTime>5/5/2012 12:00:00 AM</startTime>
+      <endTime>5/5/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19300</importID>
+      <speakers>
+        <speaker>
+          <id>19300</id>
+          <name>Luis de Sousa</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Building and Implementing SQL 2012 Data Warehouse</title>
+      <description>An overview of building a Data Warehouse using SQL 2012 SSIS (SQL Server Integration Services), DQS (Data Quality Services) and MDS (Master Data Services)</description>
+      <startTime>5/5/2012 12:00:00 AM</startTime>
+      <endTime>5/5/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>20113</importID>
+      <speakers>
+        <speaker>
+          <id>20113</id>
+          <name>Mark Stacey</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>PowerPivot with NASA data</title>
+      <description>Power Pivot is an amazing tool for mashing up data from a variety of sources ~ in this session, we will combine data from NASA, OpenGOV, and other publicly available sources, as well as from a prebuilt cube, to show the power of user driven analysis, and visualisation in Excel.
+Using DAX, you will see how to create time-intelligence driven visualisations, and then dive into the new enhancements for the date table, relationshios, perspectives and KPIs.
+As an added bonus, you will see how to pull the model into Visual Studio, decorate it with new attributes, and show the visualisations in other tools such as Performance Point and Crescent (PowerView)</description>
+      <startTime>5/5/2012 12:00:00 AM</startTime>
+      <endTime>5/5/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>15525</importID>
+      <speakers>
+        <speaker>
+          <id>15525</id>
+          <name>Jacques Mostert</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Data has "R" value</title>
+      <description>Many companies take data for granted, and see it as a liability instead of an asset. In this session we will discuss some of the elements of how you can start to measure the “cost” of your data and if that data was lost what would it cost the company to recover. Your companies data must be a measurable asset.</description>
+      <startTime>5/5/2012 12:00:00 AM</startTime>
+      <endTime>5/5/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>12424</importID>
+      <speakers>
+        <speaker>
+          <id>12424</id>
+          <name>David Peter Hansen</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Layered partitioning in a Data Warehouse</title>
+      <description>How does one load a large fact table in a Data Warehouse, when the source system can deliver any chunk of the data at any given time? This session will show how to handle this by using layered partitioning. We will walk through table partitioning, partitioned views, and layered partitioning, as well as go through the management and performance benefits (and challenges) partitioning gives us.</description>
+      <startTime>5/5/2012 12:00:00 AM</startTime>
+      <endTime>5/5/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14365</importID>
+      <speakers>
+        <speaker>
+          <id>14365</id>
+          <name>Gail Shaw</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Bad plan! Sit!</title>
+      <description>Bad execution plans are the bane of database performance everywhere they crop up. But what is a bad execution plan? How do you identify one in your system and, once identified how do you go about fixing it?
+
+In this session we’ll look at some things that make a plan ‘bad’, how you might detect such plans and various methods of fixing the problem, both immediately and long-term. </description>
+      <startTime>5/5/2012 12:00:00 AM</startTime>
+      <endTime>5/5/2012 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

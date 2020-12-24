@@ -1,0 +1,19 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #6 - Cleveland 2008</name>
+    <startDate>2/1/2009 12:00:00 AM</startDate>
+    <attendeeEstimate>300</attendeeEstimate>
+    <timezone>(GMT-05:00) Indiana (East)</timezone>
+    <description>One day free training event for SQL Server professionals in Cleveland, OH</description>
+    <twitterHashtag>#sqlsat6</twitterHashtag>
+    <venue>
+      <name>Baldwin-Wallace College</name>
+      <street>275 Eastland Rd</street>
+      <city>Cleveland</city>
+      <state>Ohio</state>
+      <zipcode>44017</zipcode>
+      <longitude>-81.8430405</longitude>
+      <latitude>41.3979416</latitude>
+    </venue>
+  </guide>
+</GuidebookXML>

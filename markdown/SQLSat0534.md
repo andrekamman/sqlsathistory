@@ -1,0 +1,22 @@
+# SQLSaturday #534 - Krakow 2016
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+08:30:00|Pawel Potasinski|BI Platform Architecture, Development  Administration|[(PL) Think Mobile! Mobile Reporting with Microsoft Data Platform](53900.md)
+10:30:00|Uwe Ricken|Enterprise Database Administration  Deployment|[(EN) Demystifying clustered indexes](47718.md)
+10:30:00|Agnieszka Cieplak|Enterprise Database Administration  Deployment|[(PL) Rozwiązywanie problemów i optym. SQL Server przy użyciu Data Collect](52912.md)
+10:30:00|André Melancia|Enterprise Database Administration  Deployment|[(EN) NSA Secrets - Hacking SQL Server](53109.md)
+11:45:00|Cédric Charlier|BI Platform Architecture, Development  Administration|[(EN) Automating the testing of your BI solutions with NBi](47604.md)
+11:45:00|Lord Richard Douglas|Enterprise Database Administration  Deployment|[(EN) Natural Born Killers, Performance Issues to Avoid](50377.md)
+11:45:00|Michał Janiec|Enterprise Database Administration  Deployment|[(PL) Optymalizacja zapytań opartych o linked servery](53569.md)
+13:45:00|Satya Jayanty|Enterprise Database Administration  Deployment|[(EN)Upgrade, upgrade  more upgrade -know about SQL Server platform upgrade](48864.md)
+13:45:00|Marcin Szeliga|Advanced Analysis Techniques|[(EN) Microsoft R Server](53324.md)
+13:45:00|Neil Hambly|Enterprise Database Administration  Deployment|[(EN) Effective Index Partitioning, Compression Strategy](53327.md)
+13:45:00|Bartosz Ratajczyk|Application  Database Development|[(PL) How minimal logging can help me?](53467.md)
+15:00:00|Regis Baccaro|Enterprise Database Administration  Deployment|[(EN) Continuous Integration with SSDT and Team Foundation Server](51153.md)
+15:00:00|Sergiy Lunyakin|BI Platform Architecture, Development  Administration|[(EN) Azure SQL Data Warehouse: Deep Dive](52268.md)
+15:00:00|Denis Reznik|Application  Database Development|[(EN) Hidden gems of SQL Server 2014](53291.md)
+16:15:00|Andrzej Pilacik|Enterprise Database Administration  Deployment|[(PL) Refresh a 1TB+ database in under 10 seconds](48103.md)
+16:15:00|Grzegorz Stolecki|BI Platform Architecture, Development  Administration|[(PL) Diving into hyperspace - how to make better OLAP calculation](52390.md)
+17:30:00|Damian Widera|Application  Database Development|[(PL) Travelling in time with SQL Server 2016](53200.md)
+17:30:00|Mikael Wedham|Enterprise Database Administration  Deployment|[(EN) When good pages go bad / The rise and fall of db corruption.](53525.md)
+17:30:00|Hubert Kobierzewski|BI Information Delivery|[(PL) SQL Server talks Hadoop](53625.md)

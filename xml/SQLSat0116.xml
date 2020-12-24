@@ -1,0 +1,428 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #116 - Bangalore 2012</name>
+    <startDate>1/7/2012 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT-06:00) Saskatchewan</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat116</twitterHashtag>
+    <venue>
+      <name>Microsoft Signature Building </name>
+      <street>Domlur, Bangalore </street>
+      <city>Bangalore</city>
+      <state>Karnataka, India</state>
+      <zipcode>560071</zipcode>
+      <longitude>77.6361771</longitude>
+      <latitude>12.9613504</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>33</importID>
+      <name>Telerik</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.telerik.com/</url>
+      <imageURL>https://s3.amazonaws.com/rockdale_media/projects/543439b0fd67d36b7f000007/Telerik_brandmark_color_without_tagline_Black_1412710457532.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>185</importID>
+      <name>Joes 2 Pros</name>
+      <label>Book Sponsor</label>
+      <url>http://joes2pros.com/</url>
+      <imageURL>https://www.pass.org/files/d1f43e53-caa9-47f9-96bd-56fce8eff663.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>83</importID>
+      <name>PluralSight</name>
+      <label>Book Sponsor</label>
+      <url>http://www.pluralsight.com</url>
+      <imageURL>https://www.srnimbus.com.br/wp-content/uploads/2015/11/Pluralsight_logo_novo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>32232</importID>
+      <name>Pinal Dave</name>
+      <label>
+      </label>
+      <description>Pinal Dave is a SQL Server Performance Tuning Expert and an independent consultant. He has authored 12 SQL Server database books, 30 Pluralsight courses and has written over 5000 articles on the database technology on his blog at a https://blog.sqlauthority.com. Along with 16+ years of hands-on experience, he holds a Masters of Science degree and a number of database certifications.</description>
+      <twitter>@pinaldave</twitter>
+      <linkedin>http://www.linkedin.com/in/pinaldave</linkedin>
+      <ContactURL>http://blog.sqlauthority.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@pinaldave</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33352</importID>
+      <name>Tejas Shah</name>
+      <label>
+      </label>
+      <description>Tejas is a Principal Program Manager with SQL Tiger team at Microsoft. Prior to that he worked as an Escalation Engineer with SQL support team for over 13 years and has an overall industrial experience of over 19 years.</description>
+      <twitter>@mr_tejs</twitter>
+      <linkedin>https://www.linkedin.com/in/tejas-shah-72a62027/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@mr_tejs</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31206</importID>
+      <name>Lohith GN</name>
+      <label>
+      </label>
+      <description>Well - you can know more about me here - http://about.me/kashyapa</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://kashyapas.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>33841</importID>
+      <name>Vinod Kumar M</name>
+      <label>
+      </label>
+      <description>Vinod Kumar has worked with SQL Server extensively since joining the industry over more than 17 years back. Working on various versions from SQL Server 7.0, Oracle 7.3 and other database technologies - he now works with Microsoft Technology Center (MTC) as Technology Architect. With extensive database, BI and application background, he currently helps customers maximize on the investments on technologies to solve real world business and technology integration problems. Speaker in major conferences like TechEd India (12 yrs), TechNet, MSDN, Azure Conference etc.</description>
+      <twitter>http://twitter.com/vinodk_sql</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.ExtremeExperts.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/vinodk_sql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32508</importID>
+      <name>Rick  Morelan</name>
+      <label>
+      </label>
+      <description>Rick has worked more than 12 years at Microsoft and has attained over 30 Microsoft technical including certifications in applications, networking, databases and .NET development (MCDBA, MCTS, MCITP, MCAD, MOE, MCSE, MCSE+I). He has also provided training for NW University, Volt Technical Education, The DigiGirlz, and Microsoft. Rick is the Author of the 5 volume SQL Joes 2 Pros book series.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31175</importID>
+      <name>Karan Gulati</name>
+      <label>
+      </label>
+      <description>Employer - Microsoft India
+Designation - Support Escalation Engineer (SQL BI)
+Handling Critical Cases from Premier and Mission Critical Customers, only Escalation Rersouce in India for SQL Analysis Services.
+Apart from daily case work i am very active blogger, in free time i try to help Dev Community through Forums. 
+In July 2011, I appared for SSAS Maestro (MCM) in Redmond - resut awaited.
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.msdn.com/karang</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32507</importID>
+      <name>Rick  Morelan</name>
+      <label>
+      </label>
+      <description>Rick has worked more than 12 years at Microsoft and has attained over 30 Microsoft technical including certifications in applications, networking, databases and .NET development (MCDBA, MCTS, MCITP, MCAD, MOE, MCSE, MCSE+I). He has also provided training for NW University, Volt Technical Education, The DigiGirlz, and Microsoft. Rick is the Author of the 5 volume SQL Joes 2 Pros book series.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31173</importID>
+      <name>Karan Gulati</name>
+      <label>
+      </label>
+      <description>Employer - Microsoft India
+Designation - Support Escalation Engineer (SQL BI)
+Handling Critical Cases from Premier and Mission Critical Customers, only Escalation Rersouce in India for SQL Analysis Services.
+Apart from daily case work i am very active blogger, in free time i try to help Dev Community through Forums. 
+In July 2011, I appared for SSAS Maestro (MCM) in Redmond - resut awaited.
+</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.msdn.com/karang</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>29089</importID>
+      <name>Balmukund Lakhani</name>
+      <label>
+      </label>
+      <description>Balmukund is currently working as Technical Lead - SQL Support team with Microsoft India GTSC. Balmukund is passionate for technology, learning and sharing his knowledge. He is active blogger on www.sqlserver-help.com to share his knowledge with world. He also owns project SQLServerFAQ (http://blogs.msdn.com/SQLServerFAQ) where SQL support team writes technical content on various topics.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.sqlserver-help.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>32328</importID>
+      <name>Pranab Mazumdar</name>
+      <label>
+      </label>
+      <description>I am presently aligned to our Escalation Services team as a Support Escalation Engineer for SQL Server. I am with Microsoft for little more than 7 years now.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28966</importID>
+      <name>Amit Banerjee</name>
+      <label>
+      </label>
+      <description>I am a data professional with over a decade of experience in Relational Database Management Systems. I lead Program Management for the SQL Server engineering team focusing on the SQL Server database engine (Windows and Linux) and Azure SQL Edge.
+
+My past experiences include Program Management for Business Continuity and Disaster Recovery (HADR), Data Movement and Performance for SQL Server, Azure Database for PostgreSQL and Azure Database for MySQL.
+
+I am an active blogger, co-author of Pro SQL Server on Microsoft Azure and Professional SQL Server 2012: Internals and Troubleshooting and a regular speaker at various community events like Microsoft Ignite, SQL PASS, TechEd, Virtual Tech Days, SQL Saturday and User Group meeting.</description>
+      <twitter>banerjeeamit</twitter>
+      <linkedin>http://in.linkedin.com/pub/amit-banerjee/20/64a/852</linkedin>
+      <ContactURL>http://www.troubleshootingsql.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=banerjeeamit</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>28966</importID>
+      <speakers>
+        <speaker>
+          <id>28966</id>
+          <name>Amit Banerjee</name>
+        </speaker>
+      </speakers>
+      <track>Practical Track</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Demsytifying SQL Server Memory Dumps</title>
+      <description>This session will help you understand when memory dumps are generated in SQL Server, what information can be gathered without analyzing the dump and how much can be done by just using public symbols.</description>
+      <startTime>1/7/2012 12:00:00 AM</startTime>
+      <endTime>1/7/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33841</importID>
+      <speakers>
+        <speaker>
+          <id>33841</id>
+          <name>Vinod Kumar M</name>
+        </speaker>
+      </speakers>
+      <track>Main Track</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Security with SQL Server - Discovering Pitfalls</title>
+      <description>Compliance and auditing are some of the core tenants around which SQL Server based applications can be built. But understanding the intracacies of each of these fundamentals is critical to both developers and administrators alike. Come to this fun filled, demo centric and interesting session where we unearth some of these fine prints in understanding why we use SQL Server the way we use it and build the system is the most secure and locked down mode.</description>
+      <startTime>1/7/2012 12:00:00 AM</startTime>
+      <endTime>1/7/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32507</importID>
+      <speakers>
+        <speaker>
+          <id>32507</id>
+          <name>Rick  Morelan</name>
+        </speaker>
+      </speakers>
+      <track>Main Track</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Basic Performance Tips and Gotchas</title>
+      <description>Forget Profiler for a second, I have seen one poorly placed index bring an enterprise database to its knees. We will cover the basic tips of performance which always work and the ones which always fail. What can you do – and what should you do –when it comes to the most common types of indexes so you always make the right move. We will use lessons from SQL Architecture Joes 2 Pros Vol3.</description>
+      <startTime>1/7/2012 12:00:00 AM</startTime>
+      <endTime>1/7/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31206</importID>
+      <speakers>
+        <speaker>
+          <id>31206</id>
+          <name>Lohith GN</name>
+        </speaker>
+      </speakers>
+      <track>Main Track</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Sever Dev Tools - Code Name Juneau</title>
+      <description>SQL Server Developer Tools, or SSDT (code-named Juneau), represents Microsoft’s continued commitment to providing integrated tools for developers targeting Microsoft SQL Server. Those familiar with the previous versions of the Database Project in Visual Studio will find that Juneau is an evolution of those tools for SQL Server, plus many new capabilities and improvements.</description>
+      <startTime>1/7/2012 12:00:00 AM</startTime>
+      <endTime>1/7/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32328</importID>
+      <speakers>
+        <speaker>
+          <id>32328</id>
+          <name>Pranab Mazumdar</name>
+        </speaker>
+      </speakers>
+      <track>Practical Track</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>A Whirlwind Tour of Contained Databases and TSQL e</title>
+      <description>SQL Server 2012 will introduce the concept of a contained database . CDBs represent a fundamental shift in the architecture of SQL Server that will simplify the development and management of SQL Server applications. Without containment, SQL Server databases are highly intertwined with the instance on which they reside. This entanglement complicates application development, deployment, and management tasks. </description>
+      <startTime>1/7/2012 12:00:00 AM</startTime>
+      <endTime>1/7/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31173</importID>
+      <speakers>
+        <speaker>
+          <id>31173</id>
+          <name>Karan Gulati</name>
+        </speaker>
+      </speakers>
+      <track>Practical Track</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>BI in Denali</title>
+      <description>New Features in Denali from BI Perspective
+-BISM (Tabular Model)
+-DAX
+-Crescent
+-PowerPivot</description>
+      <startTime>1/7/2012 12:00:00 AM</startTime>
+      <endTime>1/7/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>29089</importID>
+      <speakers>
+        <speaker>
+          <id>29089</id>
+          <name>Balmukund Lakhani</name>
+        </speaker>
+      </speakers>
+      <track>Main Track</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Want Databases Always Available?AlwaysOn Unplugged</title>
+      <description>This session will describe how to build practical end-to-end HA and DR solutions for mission critical applications using SQL Server 2012 AlwaysOn technology. For example, how to combine Failover Cluster Instances with Availability Groups to provide a complete HA and DR solution, how to use Availability Groups Multiple Secondaries to replace existing database mirroring + log shipping solutions. Readable Secondaries, backup on secondaries are kool features which would be covered.</description>
+      <startTime>1/7/2012 12:00:00 AM</startTime>
+      <endTime>1/7/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31175</importID>
+      <speakers>
+        <speaker>
+          <id>31175</id>
+          <name>Karan Gulati</name>
+        </speaker>
+      </speakers>
+      <track>Practical Track</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Keynote</title>
+      <description>Keynote</description>
+      <startTime>1/7/2012 12:00:00 AM</startTime>
+      <endTime>1/7/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32508</importID>
+      <speakers>
+        <speaker>
+          <id>32508</id>
+          <name>Rick  Morelan</name>
+        </speaker>
+      </speakers>
+      <track>Main Track</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Avoid Errors on Errors</title>
+      <description>Did you know that when SQL encounters an error of Severity 11 (or higher), there a 4 different ways it can react? Learn how to predict the Error Action or control it. This is possible with or without structured error handling. See both ways to control the outcome. This is a very common workplace faux pas and a Microsoft Certification topic for Dev and Admins. We will use lessons from SQL Programming Joes 2 Pros Vol4.</description>
+      <startTime>1/7/2012 12:00:00 AM</startTime>
+      <endTime>1/7/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>33352</importID>
+      <speakers>
+        <speaker>
+          <id>33352</id>
+          <name>Tejas Shah</name>
+        </speaker>
+      </speakers>
+      <track>Practical Track</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Clinic</title>
+      <description>In this track we are going to have resources from SQL Server support at Microsoft available at a booth for QA. If you have a question about how things work in SQL Server, how to make best use of them, or something is broken and you need help - walk over and talk to experts from Escalation servcies at SQL Server support at Microsoft. </description>
+      <startTime>1/7/2012 12:00:00 AM</startTime>
+      <endTime>1/7/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>32232</importID>
+      <speakers>
+        <speaker>
+          <id>32232</id>
+          <name>Pinal Dave</name>
+        </speaker>
+      </speakers>
+      <track>Main Track</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server Performance Tips and Tricks</title>
+      <description>In this session we will go over various SQL Server Performance Tuning Tricks and Tips. 
+
+Learn about top tips and best SQL Server performance practices related to: 
+o	Unused Indexes 
+o	Clustered Indexes 
+o	Importance of Statistics 
+o	Index Maintenance Scripts 
+o	ColumnStore Index 
+o	A Surprise Secret Tip
+</description>
+      <startTime>1/7/2012 12:00:00 AM</startTime>
+      <endTime>1/7/2012 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

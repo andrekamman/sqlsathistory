@@ -1,0 +1,1192 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #738 - Israel 2018</name>
+    <startDate>4/26/2018 12:00:00 AM</startDate>
+    <attendeeEstimate>350</attendeeEstimate>
+    <timezone>(GMT+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatIsrael</twitterHashtag>
+    <venue>
+      <name>Megamot College</name>
+      <street>Derekh Em Hamoshavot 94</street>
+      <city>Petah Tikva</city>
+      <state>HaMerkaz, Israel</state>
+      <zipcode>49527</zipcode>
+      <longitude>34.849725</longitude>
+      <latitude>32.101443</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2093</importID>
+      <name>Inspire Bar Technologies LTD</name>
+      <label>Gold Sponsor</label>
+      <url>http://inspireit.co.il/</url>
+      <imageURL>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrjSvw3fxK5CJRfhp5-hyJtpfyPT2L2Ylz5-odsEhnJ-Pi1vH0dw</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2094</importID>
+      <name>DBASRV</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.experda.com/</url>
+      <imageURL>https://www.experda.com/images/logoBig.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1891</importID>
+      <name>Microsoft IL</name>
+      <label>Gold Sponsor</label>
+      <url>https://azure.microsoft.com/en-us/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/947/EventSponsor_14360.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>5</importID>
+      <name>Quest Software</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.quest.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/947/EventSponsor_14722.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2137</importID>
+      <name>SQream</name>
+      <label>Gold Sponsor</label>
+      <url>https://sqream.com</url>
+      <imageURL>https://sqream.com/wp-content/uploads/2017/07/Artboard-1@2x.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1305</importID>
+      <name>Valionor Ltd.</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.valinor.co.il</url>
+      <imageURL>https://www.valinor.co.il/wp-content/uploads/2016/11/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1883</importID>
+      <name>DataSite LTD</name>
+      <label>Silver Sponsor</label>
+      <url>http://datasite.co.il</url>
+      <imageURL>https://d22ugv96r73n8r.cloudfront.net/wp-content/uploads/2018/12/logo-ds.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1951</importID>
+      <name>dbWatch AS</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.dbwatch.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/1015/EventSponsor_14931.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1893</importID>
+      <name>Prologic Ltd</name>
+      <label>Bronze Sponsor</label>
+      <url>http://prologic.co.il/</url>
+      <imageURL>https://prologic.co.il/wp-content/themes/prologic/img/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>72102</importID>
+      <name>Vitor Fava</name>
+      <label>
+      </label>
+      <description>I'm a DBA with extensive experience in the areas of Database and Information Technology, working on planning, implementation, and maintenance of large corporate database servers. 
+I have several professional certifications and good experience in development activities and management of entrepreneurial environments using SQL SERVER. 
+I'm a speaker at various technology events such as SQL Saturday, The Developers Conference, InteropMix and also in various discussion groups focused on database technology.
+I teach advanced training in SQL Server and Azure SQL Database and also acting as MCT in Microsoft official training.
+I'm the Chapter Leader of SQLManiacs PASS chapter.</description>
+      <twitter>sqlservermaniacs</twitter>
+      <linkedin>https://br.linkedin.com/in/vitorfava</linkedin>
+      <ContactURL>https://www.vitorfava.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlservermaniacs</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>75774</importID>
+      <name>Janusz Rokicki</name>
+      <label>
+      </label>
+      <description>Microsoft Data Platform Expert and certified Azure Solutions Architect with over 12 years’ experience working in the City of London in the Financial Services Industry (retail and investment banking, multi-asset class trading systems). He has passion for secure, high-performance, maintainable data-driven applications that can be deployed with confidence on-premises and in-cloud. With educational background in intelligent sensor networks and machine learning he is always in search of automation and optimisation opportunities.
+
+Has presented at SqlBits, PASS Summit, SqlDay and multiple Sql Saturday events (Tel-Aviv, Kiev, Paris, Tallinn, Bonn, Bratislava, Goteborg, Kharkiv, Bucharest, Sofia, Ljubljana) and user groups.</description>
+      <twitter>DataSic</twitter>
+      <linkedin>https://www.linkedin.com/in/jrokicki/</linkedin>
+      <ContactURL>https://www.datasic.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DataSic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72286</importID>
+      <name>Itshak David</name>
+      <label>
+      </label>
+      <description>David Yitzhak has over 24 years of experience with SQL Server, Oracle, and Sybase. He is an applicative  infrastructure DBA for relational and Nosql solutions (MongoDB, Redis), Hadoop CDH and Spark. David is a specialist in HA and DRP solutions, tuning, Machine learning , security, High Performance Computing, replication (Oracle  SQL Server), BI infrastructure and system engineering. David Yitzhak holds 3 Degrees from Technicon (Israel Institute of Technology): BSC Information System , MBA and ME (System engineering) and research associate in one of the enterprise Organizations. He presents in Oracle open world 2010, Organize Oracle ILOUG for 3 years , SQL Server forums, Microsoft BI forums, Sqlsaturday Israel 2016/17/18/19 , 3rd Israeli</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>Global Hebrew Virtual PASS Chapter : Data virtualization with SQL Server 2019 PolyBase https://www.youtube.com/watch?v=ixfwdZUj_A8feature=youtu.be https://globalhebrew.pass.org/MeetingDetails.aspx?EventID=15457    SQL Server 2019 Big Data Cluster BDC and Spark from Zero to an hero by David Yitzhak https://www.youtube.com/watch?v=iKgMqyPOVS0   David Izhak: Performance Improvements in SQL 2014 – lessons from the field  https://www.youtube.com/watch?v=x4hGjYGBfkc   David Itzhak: Practical SQL 2014 Data Mining</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>77412</importID>
+      <name>Liran Eisenberg</name>
+      <label>
+      </label>
+      <description>Data architect with over 15+ years of experience in software  system architecture: 
+
+•	Software development (specializing in database design)
+•	Application life cycle – from design to delivery, both as vendor  consultant
+•	System architecture design
+•	Cloud services architecture  implementation 
+
+Technology is my passion :)</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/liraneisenberg/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72128</importID>
+      <name>Ronen Chenn</name>
+      <label>
+      </label>
+      <description>Ronen works with Microsoft BI tools since ... ever(...)
+Since then, he professionalize with Cloud based BI. while serving in number of roles, one of them, as Microsoft Regional Director for Microsoft EPG and Microsoft Consulting Services.
+
+Since Power BI was released to the market , Ronen is involved within the tool design, from its early stage, especially with the local dev team in ILDC ( Israel ).
+Ronen successfully implemented PowerBI implementations in some of the major strategical sites in the EMEA Area.
+
+Ronen is an Architect Expert.
+Ronen's quote of the day: "Forget about reporting. consider turns Data Into Value."</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/ronenchenn/</linkedin>
+      <ContactURL>http://blogs.microsoft.co.il/bilive/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>77399</importID>
+      <name>Elad Luvka</name>
+      <label>
+      </label>
+      <description>SQL Server DBA
+Experience in Performance tuning.
+High-level of T-SQL.
+Experience in BI Tools.
+SQL Server Backups, Restores, Security ,Installations and Upgrades.
+Experience in HADR solutions.
+Microsoft Azure.
+Amazon AWS.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/elad-luvka/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>77921</importID>
+      <name>Ray Maor</name>
+      <label>
+      </label>
+      <description>Ray Maor is an experienced RD leader, developer and architect. Ray has over 20 years of experience as a senior DBA and a development Team Leader. He went on to consult to the RD teams of leading technology providers and other companies including HP Israel (Mercury), CA, EDS, Digital Fuel and Bank Hapoalim. Since joining Experda, Maor has led the development of the company’s product lines including Qure Profiler, Qure Optimizer, EZManage 4.0-5.5 and the newly EZManage cloud development.
+Maor is fluent with over 15 programming languages and has over 25 certificates for advanced computer science skills he has acquired over the years.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/maorray/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72088</importID>
+      <name>Yuval Klein</name>
+      <label>
+      </label>
+      <description>BigData presale leader at NessPro the product division of Ness. as a PreSale of Big Data products I am leading the division in all the business and technical aspects of big data products sales , handling POC to company clients , RFI , the focal point to all technical aspects of the products , helping in all technical asects of the big data products on top of hadoop , apache drill , hive , kafka , Cassandra etc.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/yuvalklein?trk=nav_responsive_tab_profile</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>75766</importID>
+      <name>Ronen Ariely</name>
+      <label>
+      </label>
+      <description>Ronen Ariely is a senior consultant, an applications  data architect. He has more than 15 years' experience in variety programming languages and technologies, leading development teams and software companies in enterprise level solutions in the fields of Data Platforms, BI, and developing. Ronen is active in communities (aka pituach) in the fields of Microsoft Azure, SQL Server, T-SQL, and Dot.Net programming. He serves as Moderator at MSDN and as one of the Microsoft TechNet WIKI communities' leaders. Ronen writes technical blogs, TechNet articles and blogs, he is co-admin of Microsoft's blogs "TechNet WIki" and "MSDN Forum", and has been awarded as Microsoft Most Valuable Professional.</description>
+      <twitter>https://twitter.com/pitoach</twitter>
+      <linkedin>https://il.linkedin.com/in/pitoach</linkedin>
+      <ContactURL>http://ariely.info/Blog/tabid/83</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/pitoach</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>75748</importID>
+      <name>Andrey Zavadskiy</name>
+      <label>
+      </label>
+      <description>Andrey has been leading the development of corporate information system for realty estate business based on MS SQL Server, ASP.NET and Sharepoint. He works with SQL Server since version 7.0. Currently holds MCSE certification for SQL Server, MCSD for Web development and active Microsoft trainer status. 
+He loves to design enterprise-scale application architecture, take part in database development and optimization.</description>
+      <twitter>@AndreyZavadskiy</twitter>
+      <linkedin>https://www.linkedin.com/in/zavadskiy</linkedin>
+      <ContactURL>https://andreyzavadskiy.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@AndreyZavadskiy</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>77510</importID>
+      <name>Matan Yungman</name>
+      <label>
+      </label>
+      <description>Matan Yungman is a Data Engineering Team Lead at Taboola</description>
+      <twitter>MatanYungman</twitter>
+      <linkedin>http://il.linkedin.com/in/matanyungman/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MatanYungman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72924</importID>
+      <name>Leonard Lobel</name>
+      <label>
+      </label>
+      <description>Leonard Lobel (Microsoft MVP, Data Platform) is CTO and co-founder of Sleek Technologies, Inc., a New York-based development shop with an early adopter philosophy toward new technologies. He is also a principal consultant at Tallan, Inc., a Microsoft National Systems Integrator and Gold Competency Partner.
+
+Programming since 1979, Lenni specializes in Microsoft-based solutions, with experience that spans a variety of business domains, including publishing, financial, wholesale/retail, health care, and e-commerce. Lenni has served as chief architect and lead developer for various organizations, ranging from small shops to high-profile clients. He is also a consultant, trainer, and frequent speaker at local usergroup meetings, VSLive, SQL PASS, and other industry conferences.
+
+Lenni has also authored several MS Press books and Pluralsight courses on SQL Server programming.</description>
+      <twitter>@lennilobel</twitter>
+      <linkedin>http://www.linkedin.com/in/lennilobel</linkedin>
+      <ContactURL>http://lennilobel.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@lennilobel</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>74027</importID>
+      <name>Lior King</name>
+      <label>
+      </label>
+      <description>I've started my career as a developer, but later I've discovered that my true passion lies in data platforms of all kinds (relational and non-relational). Since then I'm a DBA, an instructor, a team leader, a consultant and an architect of data platforms for more than 20 years.
+At first I was an Oracle DBA and on 2005 I fell in love with SQL Server and been using it ever since along with other platforms.
+
+Today I work for Intercontinental Exchange (ICE) and deal with a wide variaty of platforms including SQL Server, Oracle, MySQL, PostgreSQL, Cassandra, Hadoop, Kafka and MongoDB.</description>
+      <twitter>Lior__King</twitter>
+      <linkedin>https://www.linkedin.com/in/liorking/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Lior__King</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72077</importID>
+      <name>Michelle Gutzait</name>
+      <label>
+      </label>
+      <description>Involved in IT for more than 30 years as a developer, business analyst and database consultant. Worked exclusively with Microsoft SQL Server for the past 20+ years, consulting for many and diverse clients. Skills include everything related to SQL Server:  infrastructure and database design, Performance tuning, security, High Availability, consolidation, Disaster Recovery, Cloud migrations and much more! 
+Also active in the community as a speaker and a Blogger.
+One of the Organizers of the PASS Chapter in Montreal.</description>
+      <twitter>mgutzait</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=2796867</linkedin>
+      <ContactURL>http://Google me!</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mgutzait</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>74023</importID>
+      <name>Maria Zakourdaev</name>
+      <label>
+      </label>
+      <description>I have been working with SQL Server for more about 20 years. I have experience managing enterprise-wide environments, both transactional and data warehouse flavors. This days, also working closely with other database technologies, including Postgresql, Redis, RedShift, CouchBase and ElasticSearch. However, my preferred technology is still an SQL Server.</description>
+      <twitter>@Maria_SQL</twitter>
+      <linkedin>https://www.linkedin.com/in/redheaddba/</linkedin>
+      <ContactURL>http://sqlblog.com/blogs/maria_zakourdaev/default.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Maria_SQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72361</importID>
+      <name>Leonid Ore</name>
+      <label>
+      </label>
+      <description>BI Solution architect and BI development team leader for last 7 years.
+Strong background in Data Modeling, deep understanding of theories and practices of Data Warehousing, proven experience of 15 years in the field.
+Big data , Social analytics and Cloud based applications recent experience.
+Very experienced with Microsoft SQL Server (7-2016) including SSAS, SSIS, Reporting services, PowerBI and tabular data bases</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/leonidore/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>80264</importID>
+      <name>Anat Dror</name>
+      <label>
+      </label>
+      <description>A SQL Server and DB2 domain expert with over 20 years of experience in a long list of IT related roles including leadership, processes re-engineering, technical architecture, design, implementation, planning and deployment. As a subject matter expert, Anat has a broad and deep understanding of cloud computing, virtualization, database development and administration, performance management and storage. Today she plays a pivotal role in understanding customer requirements, fostering innovation and bringing Dell Software Database Performance Management solutions to life.</description>
+      <twitter>anatdror72</twitter>
+      <linkedin>http://anat-dror-4521134</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=anatdror72</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>77508</importID>
+      <name>Matan Yungman</name>
+      <label>
+      </label>
+      <description>Matan Yungman is a Data Engineering Team Lead at Taboola</description>
+      <twitter>MatanYungman</twitter>
+      <linkedin>http://il.linkedin.com/in/matanyungman/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MatanYungman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>77202</importID>
+      <name>Noam Brezis</name>
+      <label>
+      </label>
+      <description>Noam is the CTO of Noos AI, a start-up developing innovative general-purpose AI technologies.
+In the past, Noam has been working as a senior database consultant for leading high-tech companies</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>73787</importID>
+      <name>Mohamed Mawla</name>
+      <label>
+      </label>
+      <description>Trilingual Principal Consultant amp; Team Tech lead at a global Tech Consulting Mohamed had worked with large SQL server environments such as financials and gov of hundreds of SQL server instances and enormous amounts of data. His favorite subjects are Cloud Analytics, performance tuning, High Availability, especially Replication and Disaster recovery. Certified Google Cloud and Azure Data Engineer.
+
+When not working, Mohamed carries his cameras and takes a trip somewhere.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>77511</importID>
+      <name>Matan Yungman</name>
+      <label>
+      </label>
+      <description>Matan Yungman is a Data Engineering Team Lead at Taboola</description>
+      <twitter>MatanYungman</twitter>
+      <linkedin>http://il.linkedin.com/in/matanyungman/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MatanYungman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>73925</importID>
+      <name>Fabiano Amorim</name>
+      <label>
+      </label>
+      <description>Fabiano Amorim is a Data Platform MVP that loves to conquer complex, challenging problems—especially ones that others aren’t able to solve. He first became interested in technology when his older brother would bring him to his work meetings at the age of 14. With over a decade of experience, Fabiano is well known in the database community for his performance tuning abilities. When he isn’t working, he loves to read and spend time with his family.</description>
+      <twitter>mcflyamorim</twitter>
+      <linkedin>https://www.linkedin.com/in/fabianoamorim/</linkedin>
+      <ContactURL>http:\\blogfabiano.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mcflyamorim</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72581</importID>
+      <name>Alexander Arvidsson</name>
+      <label>
+      </label>
+      <description>Alexander is a principal solutions architect at Solution Xperts in Linköping, Sweden. Nobody really knows what it means to be a principal solutions architect, but he spends his days helping clients of all shapes and sizes to take better care of their data. 
+
+He has spent the last 23 years toying with databases and related infrastructure services such as storage, networking and virtualization, occasionally emerging from the technical darkness to attend a Star Wars convention somewhere in the world.  
+
+He is a frequent international speaker, a Data Platform MVP, podcaster, blogger and a Microsoft Certified Trainer, focusing on SQL Server, the Azure data stack and Power BI.</description>
+      <twitter>arcticdba</twitter>
+      <linkedin>https://www.linkedin.com/in/alexanderarvidsson</linkedin>
+      <ContactURL>http://www.arcticdba.se</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=arcticdba</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>77509</importID>
+      <name>Matan Yungman</name>
+      <label>
+      </label>
+      <description>Matan Yungman is a Data Engineering Team Lead at Taboola</description>
+      <twitter>MatanYungman</twitter>
+      <linkedin>http://il.linkedin.com/in/matanyungman/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MatanYungman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72770</importID>
+      <name>Dubi Lebel</name>
+      <label>
+      </label>
+      <description>Dubi Or Not To Be
+If you think you are too small and can not make a change, you probably never went to sleep with a mosquito</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>77265</importID>
+      <name>Assaf Fraenkel</name>
+      <label>
+      </label>
+      <description>Assaf Fraenkel, Database Architect at Microsoft Israel.  Assaf is a database architect working in Microsoft Consulting Services since 2000. He consults in Israel and abroad (mainly in Europe) with a focus on databases and project management. Assaf lectures on a regular basis in the Israel Tech Ed and at other conferences as well. Before joining Microsoft, Assaf served in senior positions in Cellular Company .  Assaf received M.Sc. and B.Sc. degrees (both Cum Laude) in Computer Science. </description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/assaffraenkel</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>74510</importID>
+      <name>Murilo Miranda</name>
+      <label>
+      </label>
+      <description>Murilo Miranda is a blogger, speaker and SQL Server MVP from Portugal. Nowadays he#39;s a Cloud Operations Engineer at DataStax. Murilo’s passion for working with people coupled with his honesty have helped him establish effective, meaningful relationships with his clients. When he isn’t working, he can be found enjoying life with his family, watching football and playing Playstation.</description>
+      <twitter>murilocmiranda</twitter>
+      <linkedin>http://pt.linkedin.com/in/murilomiranda/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=murilocmiranda</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>77506</importID>
+      <name>Matan Yungman</name>
+      <label>
+      </label>
+      <description>Matan Yungman is a Data Engineering Team Lead at Taboola</description>
+      <twitter>MatanYungman</twitter>
+      <linkedin>http://il.linkedin.com/in/matanyungman/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MatanYungman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>77191</importID>
+      <name>Adi Cohn</name>
+      <label>
+      </label>
+      <description>Work as a SQL Server DBA since 1997</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>80485</importID>
+      <name>David Leichner</name>
+      <label>
+      </label>
+      <description>David has over 25 years of marketing and sales executive management experience garnered from leading software vendors including Information Builders, Magic Software and BluePhoenix Solutions.
+
+At SQream, David is responsible for creating and executing its marketing strategy and managing the global marketing team that forms the foundation for SQream’s product and market penetration.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/davidleichner</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>72770</importID>
+      <speakers>
+        <speaker>
+          <id>72770</id>
+          <name>Dubi Lebel</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Tel-aviv</name>
+      </location>
+      <title>The fact that I am an old Database Server does not mean I have no memory problems</title>
+      <description>Having enough memory is critical to SQL Server's performance, in this session we will try to answer some questions:
+how SQLOS of SQL Server manage its memory?
+SQL Server is using all of the memory available for it on the server, but is it enough? 
+What could be wrong if SQL Server will have too much memory?
+Why Doesn’t SQL Server Release Memory?
+How to identify when the system was under external and/or internal memory pressure?
+What are the RING_BUFFER_RESOURCE_MONITOR telling me?
+Who is filling my memory?
+How much server memory is being wasted by storing empty space?
+Large-page memory (trace flag 834) could it help Columnstore indexes?
+How much memory can a single session have?
+What can I do with Out Of Memory error?</description>
+      <startTime>4/26/2018 11:15:00 AM</startTime>
+      <endTime>4/26/2018 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>72581</importID>
+      <speakers>
+        <speaker>
+          <id>72581</id>
+          <name>Alexander Arvidsson</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Ashkelon</name>
+      </location>
+      <title>Speak your hands – using body language for effective presentations</title>
+      <description>Your body language can be a great asset to your presentation skills, and it can also be a good reason your presentation is relegated to the bottom of the scrap heap. Why is it that some speakers make you feel warm and fuzzy, like you instantly like them, while other speakers make you want to leave? Science tells us time and again that the nonverbal part of communication is a very important and significant, but still surprisingly few speakers – especially technical speakers – give it much thought.
+
+ In this hour I go through several pointers for using your hands to convey and reinforce your message. I give ample examples of both good and bad body language and show you several tips and tricks to seriously enhance your stage presence.  Attend this session to learn about how body language can make sure you convey what you think you do!</description>
+      <startTime>4/26/2018 10:15:00 AM</startTime>
+      <endTime>4/26/2018 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>72286</importID>
+      <speakers>
+        <speaker>
+          <id>72286</id>
+          <name>Itshak David</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Raanana</name>
+      </location>
+      <title>Practical data science and Performance patterns for a DBA with SQL Server 2017</title>
+      <description>This session overviews the new technologies, including Microsoft SQL Server 2017 Machine Learning Services, R Server 9.1+. as follows : 
+•	Learn about how the extensibility mechanism in Microsoft SQL Server 2016/2017 enables you to run R and Python scripts from T-SQL. 
+•	Programming patterns that will allow you to leverage the best of SQL Server and R/Python. We look at how parallel query execution integrates with external script execution and how it can be used to scale your training/scoring scenarios.  
+•	Integration Power Bi Desktop and  R scripts.
+•	Real-time Predictions using Native Scoring using PREDICT function with No dependency on R or Python runtime. New in SQL Server 2017.
+This Minimum theory maximum practical examples session!</description>
+      <startTime>4/26/2018 10:15:00 AM</startTime>
+      <endTime>4/26/2018 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>74023</importID>
+      <speakers>
+        <speaker>
+          <id>74023</id>
+          <name>Maria Zakourdaev</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Jerusalem</name>
+      </location>
+      <title>The extraordinary effect of Python support in SQL Server</title>
+      <description>Python is one of the most popular languages this days and we are very excited to have an ability to use Python inside SQL Server stored procedures starting SQL Server 2017.
+If you are Database Administrator - you need to get to know this wonderful feature! Learn how it can solve DBA's everyday challenges when dealing with text and json files, bulk loads and even simplify ETL flows when you need to get data from database systems other than SQL Server. Moreover, you can offload the big data querying to nosql database and use Python to get the results into SQL server. Have you ever dreamed about receiving emails from SQL Server stored procedure? Yes, Python can do that!
+This session will answer questions like:
+
+-	Why do I need to learn Python if I am not working with Machine learning?
+-	What are the main components that enable external script execution?
+-	How are the external scripts isolated?
+-	What is the new Launchpad service?
+-	What is the bxlserver.exe and Sql Sattelite API ?</description>
+      <startTime>4/26/2018 3:25:00 PM</startTime>
+      <endTime>4/26/2018 4:25:00 PM</endTime>
+    </event>
+    <event>
+      <importID>72924</importID>
+      <speakers>
+        <speaker>
+          <id>72924</id>
+          <name>Leonard Lobel</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Tel-aviv</name>
+      </location>
+      <title>Learning Azure Cosmos DB</title>
+      <description>This session presents an overview of Azure Cosmos DB, a globally distributed, massively scalable, low (single-digit millisecond) latency, fully managed NoSQL database service that is designed specifically for modern web and mobile applications. Like other NoSQL platforms, Cosmos DB supports a schema-free data model, built-in partitioning for sustained heavy-write ingestion, and replication for high availability. But only Cosmos DB offers turnkey global distribution, automatic indexing, and SLAs for guarantees on 99.99% availability, throughput, latency, and consistency.
+
+We tour many features of Cosmos DB, including its multi-model capabilities which allow you to store and query schema-free JSON, graph, key/value, and columnar data models. You’ll learn about global distribution, scale-out partitioning, tunable consistency, custom indexing, and more. We’ll also explore client development using the many available SDKs and APIs. Attend this session, and get up to speed on Cosmos DB toda</description>
+      <startTime>4/26/2018 4:35:00 PM</startTime>
+      <endTime>4/26/2018 5:35:00 PM</endTime>
+    </event>
+    <event>
+      <importID>75748</importID>
+      <speakers>
+        <speaker>
+          <id>75748</id>
+          <name>Andrey Zavadskiy</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Raanana</name>
+      </location>
+      <title>Database Modeling In Practice</title>
+      <description>Many times we had created databases according to KISS principle – small set of objects, 3rd NF. Then they were getting more complex, and less efficient. We had to add more features to application, reporting, logging, history lookups. Someday the database became a mess. Oh! If I had known all the demands the day I'd made the first table, I'd have offered a better solution...
+In this session, we look at some issues that arise in database modeling. We'll try to look at a database from different angles – model, implementation, performance, application that works with that database and business value. We'll touch a logical and physical design, and such things like an "entity vs attribute" problem, denormalization, table splitting, strategy of primary key implementation, how to provide history of data changes, archiving, etc. 
+This session would give you some thoughts and ideas about what to consider when you create a database.</description>
+      <startTime>4/26/2018 2:15:00 PM</startTime>
+      <endTime>4/26/2018 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>75766</importID>
+      <speakers>
+        <speaker>
+          <id>75766</id>
+          <name>Ronen Ariely</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Tel-aviv</name>
+      </location>
+      <title>Azure Elastic Databases  Azure Elastic Jobs</title>
+      <description>A single Azure SQL Database gets dedicated resources (DTUs), which determine CPU, Memory, and the read-write rates that are available to use. The cost of each database is predefined according to the service tier and resources we choose, regardless the actual use.
+Azure SQL Database Elastic Pool enables to manage and scale multiple Azure SQL Databases as a group. Databases in a pool share resources (eDTUs). It's a powerful and a cost-effective option for databases that have varying and unpredictable usage demands.
+During the meetup, we will review “Azure Elastic Pools” and “Azure Elastic Database jobs”, which enable us to execute queries across a group of databases, aggregate data from multiple databases, and improve performance. We will demonstrate the use and discuss cases, which can be optimized by using these features, including a real-life case where we reduce the cost dramatically.
+Join the meeting and learn how to improve performance and reduce the cost of your Azure databases</description>
+      <startTime>4/26/2018 3:25:00 PM</startTime>
+      <endTime>4/26/2018 4:25:00 PM</endTime>
+    </event>
+    <event>
+      <importID>74510</importID>
+      <speakers>
+        <speaker>
+          <id>74510</id>
+          <name>Murilo Miranda</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Jerusalem</name>
+      </location>
+      <title>Azure and SQL Server: Getting the best out of the cloud</title>
+      <description>SQL Server and Azure are built for each other. New hybrid scenarios between on-premise SQL Server and Azure mean they don't have to exclude each other but instead you can have the best of both worlds, reducing operational costs.
+ 
+For example, by taking advantage of services like Azure Blob Storage or Azure VMs
+we can increase the availability of our services or distribute data in smart
+ways that benefit our performance and decrease cost.
+
+In this session, you will learn the strongest use cases for hybrid scenarios
+between on-premises and the cloud, and open a new horizon of what you can do
+with your SQL Server infrastructure.</description>
+      <startTime>4/26/2018 10:15:00 AM</startTime>
+      <endTime>4/26/2018 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>77508</importID>
+      <speakers>
+        <speaker>
+          <id>77508</id>
+          <name>Matan Yungman</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>SqlServerRadioStudio</name>
+      </location>
+      <title>Big Data in SQL Server Panel with Ronen Chenn  Elad Shwarchberg</title>
+      <description>Big Data is everywhere these days. There are a lot of Big Data scenarios, from IoT (Internet of Things) to AI (Artificial Intelligence). The common challenge to all of these scenarios is to handle very large volume, velocity and variety of data (a.k.a “the 3 V’s”). There are plenty of data platforms to handle Big Data scenarios. Some of them are NoSQL databases, while others are relational. Some of them are open-source, while others are not. Some are MPP (Massively Parallel Processing) platforms, while others are SMP (Symmetric Multi-Processing) platforms. In many cases, SQL Server is not the right choice, and you should learn about other data platforms and choose the best one to handle your workload.
+On the other hand, SQL Server offers a lot of features and capabilities to handle Big Data scenarios, and in many cases, it can be the best solution.</description>
+      <startTime>4/26/2018 2:15:00 PM</startTime>
+      <endTime>4/26/2018 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>77511</importID>
+      <speakers>
+        <speaker>
+          <id>77511</id>
+          <name>Matan Yungman</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>SqlServerRadioStudio</name>
+      </location>
+      <title>The Future of the DBA Panel with Lior King  Asaf Aviv</title>
+      <description>In the era of cloud, automation, big data and some other hot buzzwords – what does the future role of the DBA look like? Are we even going to need DBAs in the future? And if we do – are we still going to run maintenance plans? Set up disaster recovery solutions? Implement security best practices? And when is that future anyway? One year from now? Five years? More?
+Lior King is going to present the keynote in SQL Saturday Israel 2018, and the topic is “The Future of the DBA”. We are going to grab him right after the keynote, and develop a fascinating discussion with him and with the audience. If you are a DBA today, and you are not sure what you are going to be tomorrow, then this session is for you…</description>
+      <startTime>4/26/2018 10:15:00 AM</startTime>
+      <endTime>4/26/2018 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>80264</importID>
+      <speakers>
+        <speaker>
+          <id>80264</id>
+          <name>Anat Dror</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Ashkelon</name>
+      </location>
+      <title>The freedom to choose. Selecting the correct SQL Server flavor for you</title>
+      <description>In the past, choosing the right SQL Server meant that you basically only needed to choose the correct edition. Then came the question whether you going to have it virtualized or not.
+Nowadays, while virtualized or not is almost always answered “virtualized”, there are much more questions to answer before you can finalize your decision: where will the database be hosted, will it be on-premise or in the cloud, on windows or on Linux, do I want to create the database engine myself or use a managed database and many more. Join this session to get an overall view of all options available including Azure DB, APS, RDS, Azure IASS, Azure managed instances, hybrid solutions and more. We will talk about the considerations for choosing any of the options and discuss the relative benefits of each.</description>
+      <startTime>4/26/2018 12:45:00 PM</startTime>
+      <endTime>4/26/2018 1:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>80485</importID>
+      <speakers>
+        <speaker>
+          <id>80485</id>
+          <name>David Leichner</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>Raanana</name>
+      </location>
+      <title>Radically Boosting SQL Queries with GPU Acceleration</title>
+      <description>Due to exponentially growing data stores, enterprises often need to pre-aggregate and pre-model their data before they are able to execute analytical queries. In addition, slowdowns and bottlenecks frequently occur at peak processing times with some queries taking hours or some that are simply not possible to execute. This session entitled "Radically boosting SQL queries with GPU acceleration" will demonstrate how the power of GPUs can be leveraged to accelerate SQL queries and the speed to analytical insights. It will also discuss how to scale the amount of raw data analyzed to meet the increasing demands of data scientists and business intelligence professionals alike without the need for pre-aggregation and pre-modeling.</description>
+      <startTime>4/26/2018 11:30:00 AM</startTime>
+      <endTime>4/26/2018 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>77510</importID>
+      <speakers>
+        <speaker>
+          <id>77510</id>
+          <name>Matan Yungman</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>SqlServerRadioStudio</name>
+      </location>
+      <title>SQL Server in the Cloud Panel with Itai Binyamin  Pini Krisher</title>
+      <description>If you like it or not (and you should like it), the cloud is here, and we need to leverage it. There are a lot of possibilities and advantages when it comes to working in the cloud. If you would like to migrate your on-premise SQL Server to the cloud, then you have a bunch of options. You can choose between several cloud vendors (e.g. Azure vs. AWS). You can choose between an IaaS solution (a virtual machine running SQL Server) and a PaaS solution (a managed database). There are also many things you need to consider, such as latency and security. If you are considering the cloud, and even if you are already there, join us for a fascinating discussion…</description>
+      <startTime>4/26/2018 3:25:00 PM</startTime>
+      <endTime>4/26/2018 4:25:00 PM</endTime>
+    </event>
+    <event>
+      <importID>73787</importID>
+      <speakers>
+        <speaker>
+          <id>73787</id>
+          <name>Mohamed Mawla</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Jerusalem</name>
+      </location>
+      <title>SQL Server on Linux? Yes, Linux!</title>
+      <description>With SQL Server almost available on Linux, seasonal SQL Server DBAs, who spent most of their work on Windows, should hone their skills on Linux.
+
+The session will explore the essential skills needed to manage SQL server on Linux. It will also explore the most common tasks and procedures DBAs commit on Windows and their equivalents on Linux. Some troubleshooting skills on Linux will be explored, as well</description>
+      <startTime>4/26/2018 2:15:00 PM</startTime>
+      <endTime>4/26/2018 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>73925</importID>
+      <speakers>
+        <speaker>
+          <id>73925</id>
+          <name>Fabiano Amorim</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Ashkelon</name>
+      </location>
+      <title>13 reasons why my query is slow</title>
+      <description>What if we could analyze a single query with thirteen different performance problems? In this session we’ll explore a query, understand and fix all thirteen problems. 
+
+1- There is a nonsargable filter
+2- An index is missing
+3- It is a query optimizer mistake
+4- The subquery is unnecessary
+5- Query join order is incorrect
+6- A filtered statistic is missing
+7- Scalar functions are running twice per each row
+8- High number of reads on worktable
+9- An unknown syntax could be used
+10- Memory grant wasn’t enough
+11- Distributed query doesn't look good
+12- Residual predicates
+13- Avoid window spool ondisk</description>
+      <startTime>4/26/2018 4:35:00 PM</startTime>
+      <endTime>4/26/2018 5:35:00 PM</endTime>
+    </event>
+    <event>
+      <importID>72077</importID>
+      <speakers>
+        <speaker>
+          <id>72077</id>
+          <name>Michelle Gutzait</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Ashkelon</name>
+      </location>
+      <title>Top 10 FREE performance troubleshooting tools for SQL Server</title>
+      <description>This presentation will be held in Hebrew!
+Many DBAs and IT professionals are not aware of the greatness and strength of some of the FREE performance tools that are out there! Those tools, used individually or combined, can help us improve performance significantly by assisting in identifying bottlenecks.  In this session I will discuss the top 10 FREE Performance Troubleshooting tools for Windows and SQL Server and will show how to use them, also providing real-world examples.</description>
+      <startTime>4/26/2018 11:30:00 AM</startTime>
+      <endTime>4/26/2018 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>72361</importID>
+      <speakers>
+        <speaker>
+          <id>72361</id>
+          <name>Leonid Ore</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Jerusalem</name>
+      </location>
+      <title>Real world usage of Azure cognitive services with SQL Server 2017 Analytics for operational insight</title>
+      <description>We'll show several use cases of analytical insights that could be derived from everyday operations by applying azure cognitive services, azure functions, SQL Server data managing capabilities and PowerBI.</description>
+      <startTime>4/26/2018 4:35:00 PM</startTime>
+      <endTime>4/26/2018 5:35:00 PM</endTime>
+    </event>
+    <event>
+      <importID>77921</importID>
+      <speakers>
+        <speaker>
+          <id>77921</id>
+          <name>Ray Maor</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Tel-aviv</name>
+      </location>
+      <title>Monitor your SQL Servers from anywhere</title>
+      <description>a high level lecture about real time SQL Server diagnostics and monitoring from anywhere. Also technical performance tunning and DB optimization for critical applications</description>
+      <startTime>4/26/2018 11:30:00 AM</startTime>
+      <endTime>4/26/2018 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>77265</importID>
+      <speakers>
+        <speaker>
+          <id>77265</id>
+          <name>Assaf Fraenkel</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Ashkelon</name>
+      </location>
+      <title>Azure SQL Managed Instance - Paas or IaaS?</title>
+      <description>A new deployment option in SQL Database that streamlines the migration of SQL Server workloads to a fully managed database service. This new Managed Instance deployment option provides full SQL Server engine compatibility and native virtual network (VNET) support. 
+Come and learn why this new Instance can help you in migrating your workload to the cloud.</description>
+      <startTime>4/26/2018 3:25:00 PM</startTime>
+      <endTime>4/26/2018 4:25:00 PM</endTime>
+    </event>
+    <event>
+      <importID>72128</importID>
+      <speakers>
+        <speaker>
+          <id>72128</id>
+          <name>Ronen Chenn</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Tel-aviv</name>
+      </location>
+      <title>PowerBI  Sql Server 2017 Tabular Architecture. Living On the Edge.</title>
+      <description>This session will do a brief overview of the New features of PowerBI April Update.
+Along with the duet of Tabular Model 2017  PowerBI + upcoming cool features.
+
+Development LifeCycle Best Practice and +++</description>
+      <startTime>4/26/2018 10:15:00 AM</startTime>
+      <endTime>4/26/2018 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>77412</importID>
+      <speakers>
+        <speaker>
+          <id>77412</id>
+          <name>Liran Eisenberg</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Jerusalem</name>
+      </location>
+      <title>Machine Learning Services on SQL Server 2017</title>
+      <description>Introduction to Machine Learning Services on SQL Server 2017 and its new features</description>
+      <startTime>4/26/2018 12:45:00 PM</startTime>
+      <endTime>4/26/2018 1:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>77191</importID>
+      <speakers>
+        <speaker>
+          <id>77191</id>
+          <name>Adi Cohn</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Tel-aviv</name>
+      </location>
+      <title>Adaptive query processing</title>
+      <description>In this session I'll explain what is Adaptive query processing, what are the problem that Microsoft tried to solve and we'll check if those problems were indeed solved</description>
+      <startTime>4/26/2018 2:15:00 PM</startTime>
+      <endTime>4/26/2018 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>74027</importID>
+      <speakers>
+        <speaker>
+          <id>74027</id>
+          <name>Lior King</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Tel-aviv</name>
+      </location>
+      <title>SPECIAL KEYNOTE: The DBA is DEAD!   Long live the NEW DBA !</title>
+      <description>The DBA's role is slowly changing and some of the old-school DBA work gradually becomes irrelevant. New technologies such as the cloud, big data, devops and automation are making many of the classic DBA tasks simply unnecessary.
+Are DBAs no longer needed? (spoiler: they still are).
+What should you do to stay relevant amidst the technology changes in the industry?
+We will talk about the new industry trends that are changing the DBA's role, about new career paths that the "new DBA" can take and what new skills DBAs should acquire for each of these paths.</description>
+      <startTime>4/26/2018 9:00:00 AM</startTime>
+      <endTime>4/26/2018 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>77202</importID>
+      <speakers>
+        <speaker>
+          <id>77202</id>
+          <name>Noam Brezis</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Raanana</name>
+      </location>
+      <title>The true limitations of AI’s current technology</title>
+      <description>Difficult tasks such as Image Processing, Speech recognition and Natural Language Processing, are performed nowadays thanks to Deep-Learning. Everybody is talking about the strengths of deep-learning, but what are its drawbacks? When does it fail to work? In this exciting session, Noam Brezis will overview the current state of the art implementations of deep-learning and will discuss its limitations.</description>
+      <startTime>4/26/2018 3:25:00 PM</startTime>
+      <endTime>4/26/2018 4:25:00 PM</endTime>
+    </event>
+    <event>
+      <importID>72102</importID>
+      <speakers>
+        <speaker>
+          <id>72102</id>
+          <name>Vitor Fava</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Ashkelon</name>
+      </location>
+      <title>What is the SQL Datawarehouse?</title>
+      <description>Azure SQL Data Warehouse is a massively parallel processing (MPP) cloud-based, scale-out, relational database capable of processing massive volumes of data.
+SQL Data Warehouse:
+Combines the SQL Server relational database with Azure cloud scale-out capabilities.
+Decouples storage from compute.
+Enables increasing, decreasing, pausing, or resuming compute.
+Integrates across the Azure platform.
+Utilizes SQL Server Transact-SQL (T-SQL) and tools.
+In this session we will discuss about this awesome feature from Microsoft Azure and how we can use it to help on our day to day.</description>
+      <startTime>4/26/2018 2:15:00 PM</startTime>
+      <endTime>4/26/2018 3:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>75774</importID>
+      <speakers>
+        <speaker>
+          <id>75774</id>
+          <name>Janusz Rokicki</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Raanana</name>
+      </location>
+      <title>The Road to Autonomous Databases</title>
+      <description>The latest version of Sql Server takes advantage of data science more than ever and that trend is going to continue. Three pillars of change are Adaptive Query Processing, Database Automatic Tuning and Intelligent Query Diagnostics. This session will give high level overview of these features and then will focus on performance monitoring intelligence available in Azure Sql DB/DW and standalone version of Sql Server. That covers Query Store and smart tools built on top of it like Automatic Tuning, Automatic Index Management and more.</description>
+      <startTime>4/26/2018 4:35:00 PM</startTime>
+      <endTime>4/26/2018 5:35:00 PM</endTime>
+    </event>
+    <event>
+      <importID>77506</importID>
+      <speakers>
+        <speaker>
+          <id>77506</id>
+          <name>Matan Yungman</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>SqlServerRadioStudio</name>
+      </location>
+      <title>Database Continuous Integration Panel with Amir Fourey  Hila Bar</title>
+      <description>Continuous integration is a development and deployment methodology that has been around for many years. Many dev teams use this methodology to constantly build and deploy application releases. But for some reason, the database world has been left behind. Even today, there is still not a single methodology or tool that really works. Each organization creates its own tools and methodologies to manage the integration and deployment of database changes. Why is it so hard?</description>
+      <startTime>4/26/2018 11:30:00 AM</startTime>
+      <endTime>4/26/2018 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>77399</importID>
+      <speakers>
+        <speaker>
+          <id>77399</id>
+          <name>Elad Luvka</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Tel-aviv</name>
+      </location>
+      <title>Always Encrypted</title>
+      <description>In this session we'll talk about Always Encrypted, a new security feature in SQL Server 2016.
+Always Encrypted allows encryption for the sensitive application data for everywhere beyond the application's client connection, including network, server, database and storage.
+Always Encrypted available in all editions of SQL Server 2016 SP1.
+You'll learn the diffrence between existing encryption features that have been available in previous versions of SQL Server. 
+You'll learn how Always Encrypted works. 
+Also, there will be a demonstrating of how to implement  Always Encrypted with SSMS and PowerShell</description>
+      <startTime>4/26/2018 12:45:00 PM</startTime>
+      <endTime>4/26/2018 1:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>72088</importID>
+      <speakers>
+        <speaker>
+          <id>72088</id>
+          <name>Yuval Klein</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>Jerusalem</name>
+      </location>
+      <title>Sql Server and Big Data : the Hybrid approach</title>
+      <description>In the session I will discuss how can we Sql Developers interact with data that is in Data lake such as hadoop , hive , hbase etc. also I will demonstrate how can we use the SQL language to interact with data that is inside files in the data lake. the approach is called the hybrid approach since organisations need to create data lake aside of the main database but still the best way to approach data is using the SQL language we all know and all our BI visualization is based on.</description>
+      <startTime>4/26/2018 11:30:00 AM</startTime>
+      <endTime>4/26/2018 12:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>77509</importID>
+      <speakers>
+        <speaker>
+          <id>77509</id>
+          <name>Matan Yungman</name>
+        </speaker>
+      </speakers>
+      <track>Other</track>
+      <location>
+        <name>SqlServerRadioStudio</name>
+      </location>
+      <title>Programming Best Practices Panel with Shy Engelberg  Maria Zakourdaev</title>
+      <description>There are so many tips and bets practices, when it comes to programming in T-SQL. From writing SARGable predicates to avoiding scalar functions, from using semi-joins to avoiding cursors, and so on… In this session, we will try to cover as many best practices as we can. If you are a developer writing code in T-SQL, then you will come out of this session with a heavy bag full of tips.</description>
+      <startTime>4/26/2018 4:35:00 PM</startTime>
+      <endTime>4/26/2018 5:35:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

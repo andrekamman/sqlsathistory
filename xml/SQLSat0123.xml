@@ -1,0 +1,363 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #123 - Western Cape 2012</name>
+    <startDate>3/3/2012 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT+02:00) Jerusalem</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsat123</twitterHashtag>
+    <venue>
+      <name>Torque-IT offices 2nd Floor, Gihon Building</name>
+      <street>Cnr Bill Bezuidenhout  Sportica Avenues, Tyger Valley</street>
+      <city>Cape Town</city>
+      <state>Western Cape, South Africa</state>
+      <zipcode>8001</zipcode>
+      <longitude>18.634496</longitude>
+      <latitude>-33.876846</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1205</importID>
+      <name>Torque-IT</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.torque-it.co.za</url>
+      <imageURL>https://www.torque-it.co.za/images/torque_it_logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>23</importID>
+      <name>Pragmatic Works</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.pragmaticworks.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/973/EventSponsor_14499.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>785</importID>
+      <name>KRS</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.krs.co.za/index.php</url>
+      <imageURL>https://www.krs.co.za/images/krs-logo.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1025</importID>
+      <name>Saratoga Software</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.saratoga.co.za</url>
+      <imageURL>https://www.pass.org/files/48a32455-32dc-41ac-a39d-a587fdb85b79.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>927</importID>
+      <name>Osmosis Consulting</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.osmosisconsulting.co.za/</url>
+      <imageURL>https://www.osmosisconsulting.co.za/images/logo.gif</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>3</importID>
+      <name>Idera</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.idera.com/Content/Home.aspx</url>
+      <imageURL>https://www.sqlsaturday.com/images/SQLSaturday/eventsponsors/IDERA170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>760</importID>
+      <name>StrateSQL</name>
+      <label>Blog Sponsor</label>
+      <url>http://www.jasonstrate.com</url>
+      <imageURL>https://www.jasonstrate.com/images/StrateSQLBanner.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>17772</importID>
+      <name>Saratoga  Software</name>
+      <label>
+      </label>
+      <description> d</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10506</importID>
+      <name>Brian Knight</name>
+      <label>
+      </label>
+      <description>Brian Knight, a SQL Server MVP, MCSE, and MCDBA, is the owner and founder of Pragmatic Works. He is also the co-founder of SQLServerCentral.com, BIDN.com, and SQLShare.com. Brian runs the local SQL Server users group in Jacksonville (JSSUG), is a contributing columnist at several technical magazines, and does regular webcasts at PragmaticWorks.com. He is the author of 15 SQL Server books and a frequent speaker at conferences such as PASS Summit, SQL Connections, TechEd, and many Code Camps.</description>
+      <twitter>@BrianKnight</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.bidn.com/people/brianknight</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@BrianKnight</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>11398</importID>
+      <name>Torque-IT Torque-IT</name>
+      <label>
+      </label>
+      <description>Torque Technical Computer Training (Pty) Ltd was acquired by the JSE-listed Kelly Group Ltd during August 2008 and currently trades as a wholly owned subsidiary of the leading people solutions provider in South Africa.   The Kelly Group is in the business of providing people management solutions that add value to every link in the human capital management chain.  </description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.torque-it.co.za/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10508</importID>
+      <name>Brian Knight</name>
+      <label>
+      </label>
+      <description>Brian Knight, a SQL Server MVP, MCSE, and MCDBA, is the owner and founder of Pragmatic Works. He is also the co-founder of SQLServerCentral.com, BIDN.com, and SQLShare.com. Brian runs the local SQL Server users group in Jacksonville (JSSUG), is a contributing columnist at several technical magazines, and does regular webcasts at PragmaticWorks.com. He is the author of 15 SQL Server books and a frequent speaker at conferences such as PASS Summit, SQL Connections, TechEd, and many Code Camps.</description>
+      <twitter>@BrianKnight</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.bidn.com/people/brianknight</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@BrianKnight</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14393</importID>
+      <name>Gary Hope</name>
+      <label>
+      </label>
+      <description>Gary is a legend</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9176</importID>
+      <name>Alain King</name>
+      <label>
+      </label>
+      <description>TBA</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10507</importID>
+      <name>Brian Knight</name>
+      <label>
+      </label>
+      <description>Brian Knight, a SQL Server MVP, MCSE, and MCDBA, is the owner and founder of Pragmatic Works. He is also the co-founder of SQLServerCentral.com, BIDN.com, and SQLShare.com. Brian runs the local SQL Server users group in Jacksonville (JSSUG), is a contributing columnist at several technical magazines, and does regular webcasts at PragmaticWorks.com. He is the author of 15 SQL Server books and a frequent speaker at conferences such as PASS Summit, SQL Connections, TechEd, and many Code Camps.</description>
+      <twitter>@BrianKnight</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.bidn.com/people/brianknight</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@BrianKnight</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>31720</importID>
+      <name>Mark Stacey</name>
+      <label>
+      </label>
+      <description>Mark Stacey founded the Aphelion Software Group, and works tirelessly to cross the business/technical boundaries in Business Intelligence, working in both SharePoint and SQL. He has published two books on BI - Sharepoint 2010 BI and Visual Intelligence and frequently speaks at both SQL Saturday and SharePoint Saturday events. Mark is one of the few Microsoft PDW trainers, and has trained in Africa, India and Europe on the PDW, as well as all over the world on other technologies </description>
+      <twitter>@MarkGStacey</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://MarkGStacey.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@MarkGStacey</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>17772</importID>
+      <speakers>
+        <speaker>
+          <id>17772</id>
+          <name>Saratoga  Software</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>BI LifeCycle</title>
+      <description>A 3 way approach to BI</description>
+      <startTime>3/3/2012 12:00:00 AM</startTime>
+      <endTime>3/3/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>10508</importID>
+      <speakers>
+        <speaker>
+          <id>10508</id>
+          <name>Brian Knight</name>
+        </speaker>
+      </speakers>
+      <track>DEV</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Performance Tuning SQL Server Integration Services</title>
+      <description>In this demo-rich presentation, Brian shows you some of the common and not so common ways to tune SQL Server Integration Services (SSIS). Learn how to tune the data flow using some of the advanced SSIS options and how to avoid common SSIS mistakes. See how to measure performance and how to keep SSIS from monopolizing your server's resourcing. Lastly, discover SQL Server 2008 and 2012 features that will make SSIS more efficient.</description>
+      <startTime>3/3/2012 12:00:00 AM</startTime>
+      <endTime>3/3/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14393</importID>
+      <speakers>
+        <speaker>
+          <id>14393</id>
+          <name>Gary Hope</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL 2012 High Availabilty</title>
+      <description>Loooks at SQL 2012 High Availabilty</description>
+      <startTime>3/3/2012 12:00:00 AM</startTime>
+      <endTime>3/3/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>31720</importID>
+      <speakers>
+        <speaker>
+          <id>31720</id>
+          <name>Mark Stacey</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>BI for the DBA - DeepDive</title>
+      <description>Business Intelligence requirements create a completely different workload to a traditional SQL implementation - both in terms of the load placed upon the infrastructure, as well as the load placed upon the database engine itself.
+
+As BI adoption grows, DBAs are going to be expected to maintain and enhance both the BI infrastructure, and make sure that the databases support the requirements adequately. In this session, Mark will dive into the tradeoffs of various architectures for a BI platform, and work through the nuances of managing SSIS, SSAS and SSRS, both in terms of administering the instances, and also cover how a BI workload differs from an OLTP workload</description>
+      <startTime>3/3/2012 12:00:00 AM</startTime>
+      <endTime>3/3/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>11398</importID>
+      <speakers>
+        <speaker>
+          <id>11398</id>
+          <name>Torque-IT Torque-IT</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>TBA - Presented by Torque-IT</title>
+      <description>TBA - Presented by Torque-IT</description>
+      <startTime>3/3/2012 12:00:00 AM</startTime>
+      <endTime>3/3/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>10506</importID>
+      <speakers>
+        <speaker>
+          <id>10506</id>
+          <name>Brian Knight</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>What’s in SQL Server 2012 for the DBA?</title>
+      <description>In this session, you’ll learn how the new SQL Server 2012 features like Always On will help you create a better high availability experience for your users and applications. Then, you’ll learn about the new table types (file table) and how you can use it to create a better content management system. Lastly, we’ll cover new indexing strategies that SQL Server 2012 now allows called Column Store indexes to potentially give your queries a 500x boost!</description>
+      <startTime>3/3/2012 12:00:00 AM</startTime>
+      <endTime>3/3/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>9176</importID>
+      <speakers>
+        <speaker>
+          <id>9176</id>
+          <name>Alain King</name>
+        </speaker>
+      </speakers>
+      <track>DEV</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Agile for Developers</title>
+      <description>We will look at what Agile Software development means and then look at some examples of the benefits that our developers have seen by working in an Agile environment</description>
+      <startTime>3/3/2012 12:00:00 AM</startTime>
+      <endTime>3/3/2012 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>10507</importID>
+      <speakers>
+        <speaker>
+          <id>10507</id>
+          <name>Brian Knight</name>
+        </speaker>
+      </speakers>
+      <track>BI</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>What’s New in BI in SQL Server 2012</title>
+      <description>In this session, you’ll go through a whirlwind tour of what’s new in one of Microsoft’s biggest releases of SQL Server in its history: SQL Server code named SQL Server 2012. You’ll learn about the upcoming Crescent feature, which allows users to build ad-hoc reports easily. You’ll also learn about the Tabular Model in SSAS and the huge enhancements to SSIS. Lastly, Brian will cover the database engine enhancements that make BI more accessible and faster.</description>
+      <startTime>3/3/2012 12:00:00 AM</startTime>
+      <endTime>3/3/2012 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

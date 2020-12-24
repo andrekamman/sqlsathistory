@@ -1,0 +1,582 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #812 - Lima 2018</name>
+    <startDate>12/1/2018 12:00:00 AM</startDate>
+    <attendeeEstimate>250</attendeeEstimate>
+    <timezone>(GMT-05:00) Bogota, Lima, Quito</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatLima</twitterHashtag>
+    <venue>
+      <name>Universidad Norbert Wiener</name>
+      <street>Av. Petit Thouars 2021</street>
+      <city>Lince</city>
+      <state>Lima, Peru</state>
+      <zipcode>Lima14</zipcode>
+      <longitude>-77.0332757</longitude>
+      <latitude>-12.0848694</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/972/EventSponsor_14605.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2071</importID>
+      <name>ER CLOUD 4U</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.ercloud4u.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/990/EventSponsor_14789.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2322</importID>
+      <name>Universidad Norbert Wiener</name>
+      <label>University </label>
+      <url>https://www.uwiener.edu.pe/</url>
+      <imageURL>https://www.uwiener.edu.pe/static/img/logo_2.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2323</importID>
+      <name>MgSolutionsPeru</name>
+      <label>Catering</label>
+      <url>http://mgsolutionsperu.com/</url>
+      <imageURL>https://i.ibb.co/9cpyyvH/LOGO-2.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>85917</importID>
+      <name>Jose Manuel Jurado Diaz</name>
+      <label>
+      </label>
+      <description>José Manuel Jurado currently works as SQL Escalation Engineer and Subject Matter Expert in Azure SQL Database at Microsoft Spain. With over 20+ years of experience in SQL Server environments (administration and database development), he is a speaker for internal events at Microsoft and for public events such as SQLSaturday, SQL Nexus, SQLBits, Pass Summit, SQL Server Konferenze, TechReady, DotNetConference, and Azure BootCamp. In the past, he worked as Project Manager for large global retail company for more than 10 years developing projects using different Microsoft Technologies.</description>
+      <twitter>jmjuradodiaz</twitter>
+      <linkedin>https://www.linkedin.com/in/jose-manuel-jurado-diaz-5a586014/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=jmjuradodiaz</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87393</importID>
+      <name>Alejandro Humberto Sánchez Núñez</name>
+      <label>
+      </label>
+      <description>Ingeniero de Sistemas con mención en Ingeniería de Software, cuento con más de 4 años trabajando en el mundo de Business Intelligence  Data Analytics. 
+
+En ese tiempo he participado y/o desarrollado proyectos para empresas medianas y grandes en sectores tales como: retail, banca, estrategia digital, agro, bolsa de valores, social media y salud; los cuales me han permitido brindar soluciones BI de alto impacto. Asimismo, he dictado cursos de formación sobre Plataforma de Datos.
+
+Me gusta mantenerme al tanto de nuevas tendencias tecnológicas además de participar en eventos, charlas presenciales o webinars (tales como SQL PASS LIMA y Perú BI and Analytics Group), que promuevan el espíritu de comunidad y compartir en la ciencia de los dato</description>
+      <twitter>https://twitter.com/Alejandro_Zhao</twitter>
+      <linkedin>http://linkedin.com/in/alejandro-sanchez-nunez/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/Alejandro_Zhao</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87313</importID>
+      <name>Daniel Enrique Espinoza Solórzano</name>
+      <label>
+      </label>
+      <description>Ingeniero y Magister en Dirección de Tecnologías de Información. Certificado en Ciencia de Datos por Microsoft.
+
+A partir del 2014 empecé a trabajar para “IBT Group” Dicha experiencia me permitió adquirir una visión global y analítica para planificar, diseñar, desarrollar e implementar modelos estadísticos y sistemas informáticos que permitan sistematizar, procesar y analizar información representativa, suficiente, oportuna y confiable para el apoyo en la toma de decisiones; brindar soluciones a problemas concretos y proponer mejoras en las diferentes áreas de la organización.
+
+Gusto de la investigación y el trabajo en equipo para asumir nuevos retos.</description>
+      <twitter>danielxenrique</twitter>
+      <linkedin>https://www.linkedin.com/in/danielxenrique/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=danielxenrique</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87407</importID>
+      <name>Fernando Cobo Enriquez</name>
+      <label>
+      </label>
+      <description>Fernando Cobo currently works as an Azure SQL DB support engineer who is tackling cases that range from the most basic aspects of this technology all the way up to complex configuration scenarios. Fernando has expertise in Azure SQL Database, Azure Database for MySQL, Azure Database for PostgreSQL and Azure SQL Managed Instance. Currently, Fernando is aiming to expand his horizons and meet new people and be able to take part in more international conferences and interactions with people from around the world.</description>
+      <twitter>https://twitter.com/fercoboms</twitter>
+      <linkedin>https://www.linkedin.com/in/fercobo/</linkedin>
+      <ContactURL>https://blogs.msdn.microsoft.com/azuresqldbsupport/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/fercoboms</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87352</importID>
+      <name>Raul Martin Sarachaga Diaz</name>
+      <label>
+      </label>
+      <description>Raúl es consultor en Inteligencia de Negocios y Plataforma de Datos, Ingeniero en Informática en la Universidad Nacional de Trujillo, Perú. 
+Tiene experiencia en áreas de Salud y Retail, donde ha realizado proyectos que incluyen integración, modelado, análisis y visualización de datos basándose fundamentalmente en Tecnología Microsoft. 
+Ha participado en una serie de Webcasts sobre Inteligencia de Negocios y Plataforma de Datos. Asimismo, ha impartido diversas cursos de certificación en SQL Server.
+Ponente habitual en eventos organizado por la comunidad del SQLPASS Lima y Perú BI and Analytics Group y Power BI User Group Lima.
+Es autor del blog Aprende BI (https://aprendebi.wordpress.com/).</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://pe.linkedin.com/in/raul-martin-sarachaga-diaz-mcp-mcse-bbb12798</linkedin>
+      <ContactURL>https://aprendebi.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86367</importID>
+      <name>ALAN FERRANDIZ LANGLEY</name>
+      <label>
+      </label>
+      <description>Ingeniero Empresarial, especialista en analítica, estrategia digital e innovación. Posee las certificaciones de Microsoft Certified Trainer (MCT) y Microsoft Certified Solutions Expert (MCSE): Data Management y Analitics.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://www.linkedin.com/in/aferrandiz</linkedin>
+      <ContactURL>http://www.ferrandiz.pe</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86010</importID>
+      <name>Raul Martin Sarachaga Diaz</name>
+      <label>
+      </label>
+      <description>Raúl es consultor en Inteligencia de Negocios y Plataforma de Datos, Ingeniero en Informática en la Universidad Nacional de Trujillo, Perú. 
+Tiene experiencia en áreas de Salud y Retail, donde ha realizado proyectos que incluyen integración, modelado, análisis y visualización de datos basándose fundamentalmente en Tecnología Microsoft. 
+Ha participado en una serie de Webcasts sobre Inteligencia de Negocios y Plataforma de Datos. Asimismo, ha impartido diversas cursos de certificación en SQL Server.
+Ponente habitual en eventos organizado por la comunidad del SQLPASS Lima y Perú BI and Analytics Group y Power BI User Group Lima.
+Es autor del blog Aprende BI (https://aprendebi.wordpress.com/).</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://pe.linkedin.com/in/raul-martin-sarachaga-diaz-mcp-mcse-bbb12798</linkedin>
+      <ContactURL>https://aprendebi.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87321</importID>
+      <name>Juan Rafael</name>
+      <label>
+      </label>
+      <description>MCT- MCSA-MCITP-MCP-MTA-MCTS. Consultor Microsoft Dynamics con m#225;s de 4 a#241;os de experiencia en ERP y mas de 7 a#241;os en tecnolog#237;as Microsoft como SQL Server, Windows Server y SharePoint. Ha participado en proyectos de implementaci#243;n de ERP Microsoft Dynamics AX para empresas de Peru como EuroMotors, C#225;mara de Comercio de Lima, Consorcio Minero Horizonte, SIka Peru, entre otras, tambi#233;n con menci#243;n en implementaciones de ERP Microsoft Dynamics GP para diferentes industrias del Per#250;.</description>
+      <twitter>@jlc_rve</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://geeks.ms/blogs/juanrafael/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jlc_rve</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>86009</importID>
+      <name>Raul Martin Sarachaga Diaz</name>
+      <label>
+      </label>
+      <description>Raúl es consultor en Inteligencia de Negocios y Plataforma de Datos, Ingeniero en Informática en la Universidad Nacional de Trujillo, Perú. 
+Tiene experiencia en áreas de Salud y Retail, donde ha realizado proyectos que incluyen integración, modelado, análisis y visualización de datos basándose fundamentalmente en Tecnología Microsoft. 
+Ha participado en una serie de Webcasts sobre Inteligencia de Negocios y Plataforma de Datos. Asimismo, ha impartido diversas cursos de certificación en SQL Server.
+Ponente habitual en eventos organizado por la comunidad del SQLPASS Lima y Perú BI and Analytics Group y Power BI User Group Lima.
+Es autor del blog Aprende BI (https://aprendebi.wordpress.com/).</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://pe.linkedin.com/in/raul-martin-sarachaga-diaz-mcp-mcse-bbb12798</linkedin>
+      <ContactURL>https://aprendebi.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87320</importID>
+      <name>Juan Rafael</name>
+      <label>
+      </label>
+      <description>MCT- MCSA-MCITP-MCP-MTA-MCTS. Consultor Microsoft Dynamics con m#225;s de 4 a#241;os de experiencia en ERP y mas de 7 a#241;os en tecnolog#237;as Microsoft como SQL Server, Windows Server y SharePoint. Ha participado en proyectos de implementaci#243;n de ERP Microsoft Dynamics AX para empresas de Peru como EuroMotors, C#225;mara de Comercio de Lima, Consorcio Minero Horizonte, SIka Peru, entre otras, tambi#233;n con menci#243;n en implementaciones de ERP Microsoft Dynamics GP para diferentes industrias del Per#250;.</description>
+      <twitter>@jlc_rve</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://geeks.ms/blogs/juanrafael/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jlc_rve</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87417</importID>
+      <name>Marlon Leandro</name>
+      <label>
+      </label>
+      <description>MBA, Ingeniero de Sistemas con más de 15 años de experiencia en el sector industrial y minería. Experto en desarrollo de software con herramientas Microsoft para escritorio y móviles</description>
+      <twitter>MarlonLuisLR</twitter>
+      <linkedin>https://pe.linkedin.com/in/marlonleandro</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MarlonLuisLR</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87319</importID>
+      <name>Juan Rafael</name>
+      <label>
+      </label>
+      <description>MCT- MCSA-MCITP-MCP-MTA-MCTS. Consultor Microsoft Dynamics con m#225;s de 4 a#241;os de experiencia en ERP y mas de 7 a#241;os en tecnolog#237;as Microsoft como SQL Server, Windows Server y SharePoint. Ha participado en proyectos de implementaci#243;n de ERP Microsoft Dynamics AX para empresas de Peru como EuroMotors, C#225;mara de Comercio de Lima, Consorcio Minero Horizonte, SIka Peru, entre otras, tambi#233;n con menci#243;n en implementaciones de ERP Microsoft Dynamics GP para diferentes industrias del Per#250;.</description>
+      <twitter>@jlc_rve</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://geeks.ms/blogs/juanrafael/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jlc_rve</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87408</importID>
+      <name>Fernando Cobo Enriquez</name>
+      <label>
+      </label>
+      <description>Fernando Cobo currently works as an Azure SQL DB support engineer who is tackling cases that range from the most basic aspects of this technology all the way up to complex configuration scenarios. Fernando has expertise in Azure SQL Database, Azure Database for MySQL, Azure Database for PostgreSQL and Azure SQL Managed Instance. Currently, Fernando is aiming to expand his horizons and meet new people and be able to take part in more international conferences and interactions with people from around the world.</description>
+      <twitter>https://twitter.com/fercoboms</twitter>
+      <linkedin>https://www.linkedin.com/in/fercobo/</linkedin>
+      <ContactURL>https://blogs.msdn.microsoft.com/azuresqldbsupport/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/fercoboms</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87388</importID>
+      <name>Jorge Michael Muchaypiña Gutierrez</name>
+      <label>
+      </label>
+      <description>Especialista de Inteligencia de Negocios y Plataforma de Datos, reconocido como MVP Data Platform de Microsoft.
+Soy apasionado en compartir conocimientos en talleres, congresos y charlas. Actualmente me encuentro certificado como MCT,  MCSE Business Intelligence,MCSE Management and Analytics, MCSA SQL 2016 Development, MCSA BI Reporting, MCSA BI Developer,MCSA SQL Server 2012/2014, MCP, Itil Foundations y Scrum Foundations. 
+Soy entrenador de los cursos oficiales de Microsoft.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/jorge-muchaypi%C3%B1a-79038491?trk=nav_responsive_tab_profile_pic</linkedin>
+      <ContactURL>https://jorgemuchaypina.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87595</importID>
+      <name>Alejandro Humberto Sánchez Núñez</name>
+      <label>
+      </label>
+      <description>Ingeniero de Sistemas con mención en Ingeniería de Software, cuento con más de 4 años trabajando en el mundo de Business Intelligence  Data Analytics. 
+
+En ese tiempo he participado y/o desarrollado proyectos para empresas medianas y grandes en sectores tales como: retail, banca, estrategia digital, agro, bolsa de valores, social media y salud; los cuales me han permitido brindar soluciones BI de alto impacto. Asimismo, he dictado cursos de formación sobre Plataforma de Datos.
+
+Me gusta mantenerme al tanto de nuevas tendencias tecnológicas además de participar en eventos, charlas presenciales o webinars (tales como SQL PASS LIMA y Perú BI and Analytics Group), que promuevan el espíritu de comunidad y compartir en la ciencia de los dato</description>
+      <twitter>https://twitter.com/Alejandro_Zhao</twitter>
+      <linkedin>http://linkedin.com/in/alejandro-sanchez-nunez/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/Alejandro_Zhao</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>87389</importID>
+      <name>Jorge Michael Muchaypiña Gutierrez</name>
+      <label>
+      </label>
+      <description>Especialista de Inteligencia de Negocios y Plataforma de Datos, reconocido como MVP Data Platform de Microsoft.
+Soy apasionado en compartir conocimientos en talleres, congresos y charlas. Actualmente me encuentro certificado como MCT,  MCSE Business Intelligence,MCSE Management and Analytics, MCSA SQL 2016 Development, MCSA BI Reporting, MCSA BI Developer,MCSA SQL Server 2012/2014, MCP, Itil Foundations y Scrum Foundations. 
+Soy entrenador de los cursos oficiales de Microsoft.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/jorge-muchaypi%C3%B1a-79038491?trk=nav_responsive_tab_profile_pic</linkedin>
+      <ContactURL>https://jorgemuchaypina.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>87313</importID>
+      <speakers>
+        <speaker>
+          <id>87313</id>
+          <name>Daniel Enrique Espinoza Solórzano</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aula B</name>
+      </location>
+      <title>El sorprendente mundo de la ciencia de datos</title>
+      <description>Ciencia de Datos: definición, evolución, perspectivas y recomendaciones.</description>
+      <startTime>12/1/2018 9:40:00 AM</startTime>
+      <endTime>12/1/2018 10:40:00 AM</endTime>
+    </event>
+    <event>
+      <importID>87407</importID>
+      <speakers>
+        <speaker>
+          <id>87407</id>
+          <name>Fernando Cobo Enriquez</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>Azure SQL Database - Lessons learned from the trenches</title>
+      <description>In this session you will learn the best practices, tips and tricks on how to successfully use Azure SQL Database on production environments. You will learn how to monitor and improve Azure SQL Database query performance. I will cover how Microsoft CSS has been using Query Store, Extended Events, DMVs to help customers monitor and improve query response times when running their databases in the Microsoft Azure cloud. These learnings are fruit of Microsoft CSS support cases, and customer field engagements. This session includes several demos.</description>
+      <startTime>12/1/2018 10:50:00 AM</startTime>
+      <endTime>12/1/2018 11:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>87319</importID>
+      <speakers>
+        <speaker>
+          <id>87319</id>
+          <name>Juan Rafael</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Aula B</name>
+      </location>
+      <title>The roadmap for SQL Server</title>
+      <description>SQL Server 2017 has brought to market a new modern data platform including support for Linux, Docker Containers and rich features in intelligent performance, HADR, machine learning, and graph database. Come learn about the roadmap and new functionality planned for SQL Server including intelligent query processing, data virtualization, new features for mission critical security and HADR, and new scenarios for Linux and Docker Containers.</description>
+      <startTime>12/1/2018 1:25:00 PM</startTime>
+      <endTime>12/1/2018 2:25:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87408</importID>
+      <speakers>
+        <speaker>
+          <id>87408</id>
+          <name>Fernando Cobo Enriquez</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>Back to the future - Migrating our SQL Server On-premises database to Azure SQL Database</title>
+      <description>We will cover the main aspects to migrate to one of the three architectures available in SQL Server in Azure from SQL Server On-premises. 
+ 
+This session consists of:
+-&gt; What is the best platform for my environment? IaaS, PaaS, or SQL Datawarehouse.
+-&gt; Best Practices and best tools for our migration process depending on the platform chosen.
+-&gt; After the migration, we have several outstanding questions:
+            Can I keep both environments synchronized?
+             How is the performance of my database</description>
+      <startTime>12/1/2018 12:15:00 PM</startTime>
+      <endTime>12/1/2018 1:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86009</importID>
+      <speakers>
+        <speaker>
+          <id>86009</id>
+          <name>Raul Martin Sarachaga Diaz</name>
+        </speaker>
+      </speakers>
+      <track>Artificial Intelligence</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>Modelos Predictivos con Azure Machine Learning</title>
+      <description>En esta sesión se creará un modelo predictivo utilizando Azure Machine Learning, con el cual se abarcarán algunas consideraciones como: Selección de Variables, Transformación de variables ,Limpieza de datos , etc.</description>
+      <startTime>12/1/2018 1:25:00 PM</startTime>
+      <endTime>12/1/2018 2:25:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87393</importID>
+      <speakers>
+        <speaker>
+          <id>87393</id>
+          <name>Alejandro Humberto Sánchez Núñez</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aula C</name>
+      </location>
+      <title>Time Intelligence with SSAS  Power BI</title>
+      <description>Veremos distintos tipos de calendarios y como trabajar con nuestros indicadores versus el tiempo haciendo uso desde las clásicas funciones de time intelligences hasta el uso de patrones DAX analizando caso por caso.</description>
+      <startTime>12/1/2018 9:40:00 AM</startTime>
+      <endTime>12/1/2018 10:40:00 AM</endTime>
+    </event>
+    <event>
+      <importID>86010</importID>
+      <speakers>
+        <speaker>
+          <id>86010</id>
+          <name>Raul Martin Sarachaga Diaz</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aula B</name>
+      </location>
+      <title>Best practices using Azure Data Warehouse</title>
+      <description>Esta sesión se verán las mejores técnicas para la carga de datos hacia Azure DW(Polybase, Azure Data Factory) , diseño correcto de distribución de tablas , optimización de querys y  ventajas de utilizar Azure DW Gen2.</description>
+      <startTime>12/1/2018 10:50:00 AM</startTime>
+      <endTime>12/1/2018 11:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>87388</importID>
+      <speakers>
+        <speaker>
+          <id>87388</id>
+          <name>Jorge Michael Muchaypiña Gutierrez</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Aula C</name>
+      </location>
+      <title>Que necesito saber de los Indices en SQL Server?</title>
+      <description>Veremos lo necesario que debemos saber sobre los indices en SQL Server, los diferentes tipos de indices, optimizando el diseño de estrategias de indices, como mejoran nuestras consultas con los indices y verificar el monitorio y mantenimiento de los indices.</description>
+      <startTime>12/1/2018 3:40:00 PM</startTime>
+      <endTime>12/1/2018 4:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>86367</importID>
+      <speakers>
+        <speaker>
+          <id>86367</id>
+          <name>ALAN FERRANDIZ LANGLEY</name>
+        </speaker>
+      </speakers>
+      <track>Artificial Intelligence</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>Herramientas de Data Science: Analítica e Storytelling</title>
+      <description>En esta charla descubriremos los secretos para crear impacto en una presentación usando los recursos que nos brinda la analítica y el storytelling. Adicionalmente, veremos los errores más comunes que se cometen al presentar datos y cómo solucionarlos utilizando las mejores prácticas de analítica e storytelling.</description>
+      <startTime>12/1/2018 9:40:00 AM</startTime>
+      <endTime>12/1/2018 10:40:00 AM</endTime>
+    </event>
+    <event>
+      <importID>87320</importID>
+      <speakers>
+        <speaker>
+          <id>87320</id>
+          <name>Juan Rafael</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>Microsoft PowerApps, Power BI, and Flow: Power platform vision and roadmap</title>
+      <description>Turn insight into action when you build business apps with PowerApps, Microsoft Power BI, and Microsoft Flow. This session gives you an overview of the power platform and how you can empower everyone to build apps that transform your business. We cover what we have in market today along with our roadmap and vision for the future</description>
+      <startTime>12/1/2018 3:40:00 PM</startTime>
+      <endTime>12/1/2018 4:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87417</importID>
+      <speakers>
+        <speaker>
+          <id>87417</id>
+          <name>Marlon Leandro</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aula B</name>
+      </location>
+      <title>Enviando datos a Power BI desde Arduino</title>
+      <description>Aprenda como conectar un circuito elaborado en Arduino con la nube de Power BI y a enviar datos en tiempo real</description>
+      <startTime>12/1/2018 1:25:00 PM</startTime>
+      <endTime>12/1/2018 2:25:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87352</importID>
+      <speakers>
+        <speaker>
+          <id>87352</id>
+          <name>Raul Martin Sarachaga Diaz</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aula B</name>
+      </location>
+      <title>Data Modeling with Power BI</title>
+      <description>En esta sesión los participantes podrán ver las consideraciones que deben tener al realizar un modelo dimensional y teniendo como consideraciones las capacidades que te brinda Power BI(Cross Filter,Many to Many, UseRelationShip,etc)</description>
+      <startTime>12/1/2018 3:40:00 PM</startTime>
+      <endTime>12/1/2018 4:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87321</importID>
+      <speakers>
+        <speaker>
+          <id>87321</id>
+          <name>Juan Rafael</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aula B</name>
+      </location>
+      <title>Microsoft Dynamics 365 for Finance  Operations and Power BI: Intro to building great analytics</title>
+      <description>Join us to better understand how you can build high volume, near real-time analytics leveraging Microsoft Entity store and Power BI. We'll learn about the incremental refresh feature that keeps Entity store up to date and how to extend ready-made analytics using your own Power BI subscription.</description>
+      <startTime>12/1/2018 4:50:00 PM</startTime>
+      <endTime>12/1/2018 5:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87389</importID>
+      <speakers>
+        <speaker>
+          <id>87389</id>
+          <name>Jorge Michael Muchaypiña Gutierrez</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>Power BI en Ambientes Empresariales</title>
+      <description>Veremos como incorporar para Power BI en una pequeña o gran empresa. Las diferencias entre Power BI Desktop, Power BI Service, Power BI Premium, Power BI Report Server. Las nuevas caracteristicas que traeran estas nuevas herramientas.</description>
+      <startTime>12/1/2018 4:50:00 PM</startTime>
+      <endTime>12/1/2018 5:50:00 PM</endTime>
+    </event>
+    <event>
+      <importID>87595</importID>
+      <speakers>
+        <speaker>
+          <id>87595</id>
+          <name>Alejandro Humberto Sánchez Núñez</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Aula B</name>
+      </location>
+      <title>Dynamic Row Level Security with SSAS  Power BI</title>
+      <description>RLS</description>
+      <startTime>12/1/2018 12:15:00 PM</startTime>
+      <endTime>12/1/2018 1:15:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

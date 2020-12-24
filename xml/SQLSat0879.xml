@@ -1,0 +1,375 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #879 - Cuiabá 2019</name>
+    <startDate>7/13/2019 12:00:00 AM</startDate>
+    <attendeeEstimate>400</attendeeEstimate>
+    <timezone>
+    </timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatCuiabá</twitterHashtag>
+    <venue>
+      <name>UNIVAG Centro Universitário de Várzea Grande</name>
+      <street>Avenida Dom Orlando Chaves, 2655 - Cristo Rei, Várzea Grande - MT</street>
+      <city>Cuiabá</city>
+      <state>State of Mato Grosso, Brazil</state>
+      <zipcode>78118000</zipcode>
+      <longitude>-56.0955605354126</longitude>
+      <latitude>-15.6432805478014</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/879/EventSponsor_13964.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/879/EventSponsor_13498.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>93836</importID>
+      <name>Leandro Domingues</name>
+      <label>
+      </label>
+      <description>Microsoft Data Platform MVP, MongoDB Ambassador, Evangelist e Certified Trainer, membro do MongoDB Advocacy Hub, Top 50 Neo4j Certified, também tem grande experiência em MS SQL Server. Atualmente é Head of NoSQL Solutions na Dataside e Founder da Cluster Consultoria, uma empresa dedicada a oferecer soluções NoSQL. Entusiasta de tecnologias open-source, bigdata e NoSQL. Mais de 18 anos de experiência em desenvolvimento de aplicações e manutenção de grandes volumes de dados.</description>
+      <twitter>delbussoweb</twitter>
+      <linkedin>https://www.linkedin.com/in/leandro-domingues/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=delbussoweb</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93924</importID>
+      <name>Fernando Avelãs</name>
+      <label>
+      </label>
+      <description>Atua no ramo de tecnologia há mais de 10 anos. Formado em Sistemas de Informação. Possui certificações MCP e MCSA 2016 em SQL Server. Trabalha como Coordenador de Produção, DBA´s e BI de uma empresa de Telecom de Médio Porte. Apaixonado por Bancos de Dados, em especial o SQL Server.
+Fundador da empresa Kadom Solutions,  consultoria especializada em administração, monitoramento, cloud e treinamentos para bancos de dados.</description>
+      <twitter>@AvelasFernando</twitter>
+      <linkedin>https://www.linkedin.com/in/fernandoavelas/</linkedin>
+      <ContactURL>http://www.kadomsolutions.com.br</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@AvelasFernando</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95922</importID>
+      <name>Rafael Moura</name>
+      <label>
+      </label>
+      <description>Xamarin  Microsoft MVP</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://linkedin.com/in/rafaelrmou</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95953</importID>
+      <name>William Amorim</name>
+      <label>
+      </label>
+      <description>Developer com quase 20 anos de estrada, atuando em projetos de setores públicos e privados. Esportista de vídeo game e exímio degustador de churrascos.</description>
+      <twitter>williamthiago</twitter>
+      <linkedin>https://www.linkedin.com/in/williamthiago</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=williamthiago</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>94293</importID>
+      <name>Nilton Kazuyuki Ueda</name>
+      <label>
+      </label>
+      <description>Nilton Ueda trabalha como Analista de BI Sênior ajudando as empresas a melhorar o processo de decisão através de melhores práticas de visualização de dados, construindo painéis de analise de dados e dashboards eficientes. Tem experiência em empresas multi nacionais conhecidas. É conhecido nacionalmente por disseminar e evangelizar a pratica de BI com a plataforma Tableau e é Alteryx Designer Core Certified.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/niltonkazuyukiueda/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>94349</importID>
+      <name>Roberto Santos</name>
+      <label>
+      </label>
+      <description>Roberto de Souza Santos, MSc, proprietário/consultor na RSS Informática Ltda.
+Consultoria/treinamento/implantação em tecnologias Microsoft, principalmente SQL Server desde 1995 (versão 4.21). Foco em ajuste de desempenho e planejamento de capacidade de ambientes críticos OLTP ou de DW, em diversos clientes da área financeira, energia, saúde, entre outros.</description>
+      <twitter>RobertoSantosBH</twitter>
+      <linkedin>https://www.linkedin.com/in/robertoss</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=RobertoSantosBH</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93026</importID>
+      <name>Sidney Cirqueira</name>
+      <label>
+      </label>
+      <description>Atuando a 9 anos no mercado de Tecnologia da Informação. Analista de Dados  AI na Lanlink, atualmente focado em engenharia de dados e soluções de inteligência artificial no ambiente Microsoft Azure. Participante ativo das Comunidades SQL Server DF, Brasilia Data Group, BSB IA, Data Science, BigData  Analytics e palestrante iniciante em eventos de Plataforma de Dados e Analytics. Possuo as certificações: Azure Data Scientist Associate, Azure Data Engineer Associate, Azure Fundamentals e MCSA - SQL 2016 Database Administrator. 
+Participante ativo das comunidades: [SQL Server DF], [Brasilia Data Group] e [BSB IA, Data Science, BigData  Analytics].</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/sidney-oliveira-60b41128/</linkedin>
+      <ContactURL>https://medium.com/@sidneyocirqueira</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92144</importID>
+      <name>Vitor Fava</name>
+      <label>
+      </label>
+      <description>I'm a DBA with extensive experience in the areas of Database and Information Technology, working on planning, implementation, and maintenance of large corporate database servers. 
+I have several professional certifications and good experience in development activities and management of entrepreneurial environments using SQL SERVER. 
+I'm a speaker at various technology events such as SQL Saturday, The Developers Conference, InteropMix and also in various discussion groups focused on database technology.
+I teach advanced training in SQL Server and Azure SQL Database and also acting as MCT in Microsoft official training.
+I'm the Chapter Leader of SQLManiacs PASS chapter.</description>
+      <twitter>sqlservermaniacs</twitter>
+      <linkedin>https://br.linkedin.com/in/vitorfava</linkedin>
+      <ContactURL>https://www.vitorfava.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlservermaniacs</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95051</importID>
+      <name>Paulo Ricardo Santos</name>
+      <label>
+      </label>
+      <description>Profissional da área de Tecnologia da Informação com mais de 10 anos de experiência e vivência no exterior. 
+Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas e Pós graduando em Business Intelligence e Big Data. 
+Palestrante de inovação e tecnologia nacional e internacional</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/pauloricardovds</linkedin>
+      <ContactURL>https://www.paulorsantos.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95805</importID>
+      <name>Igor Santos de Paula</name>
+      <label>
+      </label>
+      <description>Administrador de bancos de dados em ambientes 24x7, sem janela de manutenção. Possui experiencia em instituições financeiras e de e-commerce. Atua na empresa líder em soluções de pagamento e serviços financeiros para e-commerce na América Latina.
+Entusiasta do Cosmos DB.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://br.linkedin.com/in/igor-santos-de-paula-098bab35</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>94349</importID>
+      <speakers>
+        <speaker>
+          <id>94349</id>
+          <name>Roberto Santos</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>1102</name>
+      </location>
+      <title>Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade</title>
+      <description>A atividade de medição, análise e previsão de desempenho de sistemas de computação têm se tornado muito complexa. 
+
+Que parâmetros medir? Como verificar sua precisão? Eles são ou não os indicadores significativos de desempenho? Estas perguntas precisam ser constantemente discutidas.
+
+A capacidade atual de um sistema de processamento de dados pode ser estimada medindo-se seu desempenho no nível corrente de utilização, e extrapolando-se para aquele que seria o nível de máxima utilização permissível.
+
+O Planejamento de Capacidade exerce uma atividade de vital importância para o bom desempenho do ambiente, uma vez que torna possível a especificação e o acompanhamento da configuração de hardware adotada, procurando extrair do equipamento o máximo de rendimento.</description>
+      <startTime>7/13/2019 1:00:00 PM</startTime>
+      <endTime>7/13/2019 2:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>93924</importID>
+      <speakers>
+        <speaker>
+          <id>93924</id>
+          <name>Fernando Avelãs</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>Dicas e Truques para Aumentar sua Produtividade com o SSMS</title>
+      <description>Nesta sessão irei demonstrar uma serie de dicas que ajudarão o profissional a obter uma produtividade maior ao se trabalhar com o SSMS, além de demonstrar ferramentas que são muito uteis para ajudar o mesmo nas tarefas diárias.</description>
+      <startTime>7/13/2019 2:00:00 PM</startTime>
+      <endTime>7/13/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95922</importID>
+      <speakers>
+        <speaker>
+          <id>95922</id>
+          <name>Rafael Moura</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>1102</name>
+      </location>
+      <title>O que há de novo para os desenvolvedores no Visual Studio 2019</title>
+      <description>Nessa talk vamos falar sobre as novidades do Visual Studio 2019 para desenvolvimento de softwares e aplicativos móveis.</description>
+      <startTime>7/13/2019 3:30:00 PM</startTime>
+      <endTime>7/13/2019 5:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>93026</importID>
+      <speakers>
+        <speaker>
+          <id>93026</id>
+          <name>Sidney Cirqueira</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>DevOps for Azure SQL Databases</title>
+      <description>Nessa sessão apresentaremos fim a fim como adicionar projetos de Azure Sql Databases dentro da cultura DevOps, nos ciclos de integração e entrega contínua (CI/CD) utilizando as ferramentas Azure DevOps e Visual Studio + SSDT.</description>
+      <startTime>7/13/2019 9:00:00 AM</startTime>
+      <endTime>7/13/2019 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>95805</importID>
+      <speakers>
+        <speaker>
+          <id>95805</id>
+          <name>Igor Santos de Paula</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>NoSQL Principios e Conceitos com Cosmos DB</title>
+      <description>NoSQL Principios e Conceitos com Cosmos DB</description>
+      <startTime>7/13/2019 3:30:00 PM</startTime>
+      <endTime>7/13/2019 4:30:00 PM</endTime>
+    </event>
+    <event>
+      <importID>94293</importID>
+      <speakers>
+        <speaker>
+          <id>94293</id>
+          <name>Nilton Kazuyuki Ueda</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>1102</name>
+      </location>
+      <title>[Tableau] Compartilhando insights com sua organização com Tableau Server</title>
+      <description>Todo projeto chega(ou deveria) chegar na etapa de finalmente realizar os deploys dos dashboards de dados analiticos com as demais áreas de negocio da empresa.
+O Tableau Server é uma plataforma de gerenciamento e compartilhamento de dashboards, aliada com a arquitetura de segurança que a sua empresa e uma camada adicional de segurança à nível de linha na sua base de dados.
+Vamos ver o funcionamento da plataforma na prática?</description>
+      <startTime>7/13/2019 9:00:00 AM</startTime>
+      <endTime>7/13/2019 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>95953</importID>
+      <speakers>
+        <speaker>
+          <id>95953</id>
+          <name>William Amorim</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>1102</name>
+      </location>
+      <title>Preparando uma base de teste com docker</title>
+      <description>Nessa sessão apresentaremos uma forma de exportar os dados de uma base de produção do Azure SQL Database para gerar uma base de testes em docker a ser consumida localmente, utilizando as ferramentas Git, Azure Container registries, Azure DevOps e Azure Storage.</description>
+      <startTime>7/13/2019 2:00:00 PM</startTime>
+      <endTime>7/13/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95051</importID>
+      <speakers>
+        <speaker>
+          <id>95051</id>
+          <name>Paulo Ricardo Santos</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>1102</name>
+      </location>
+      <title>Power BI + linguagem R: mais poder em suas mãos</title>
+      <description>Você sabia que a Liguem R e uma das linguagens mais utilizadas pelos Cientistas de dados?
+Sabia também que é possível executar scripts do R diretamente no Power BI Desktop?
+Esta é a sua chance de iniciar o seu primeiro projeto de Data Science.</description>
+      <startTime>7/13/2019 10:30:00 AM</startTime>
+      <endTime>7/13/2019 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>93836</importID>
+      <speakers>
+        <speaker>
+          <id>93836</id>
+          <name>Leandro Domingues</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>Modelando em Document Model - Além do NoJoin!</title>
+      <description>Já pensou que utilizar NoSQL é além de simplesmente migrar dados de uma lado para o outro? Nesta sessão veremos dicas para modelar corretamente seus dados e também as armadilhas que podem nos pegar pelo caminho. Além do NoJoin é conhecer as estruturas de dados e como utilizá-las para tirarmos o melhor que modelo de documentos: performance!</description>
+      <startTime>7/13/2019 10:30:00 AM</startTime>
+      <endTime>7/13/2019 11:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>92144</importID>
+      <speakers>
+        <speaker>
+          <id>92144</id>
+          <name>Vitor Fava</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Auditorio</name>
+      </location>
+      <title>Azure SQL Database - Scaling In e Scaling Out através do elastic pool</title>
+      <description>Nesta sessão discutiremos como configurar o elastic pool do Azure SQL Database para gerenciar a utilização de recursos e garantir alta performance e estabilidade de seus bancos de dados hospedados no Azure.</description>
+      <startTime>7/13/2019 1:00:00 PM</startTime>
+      <endTime>7/13/2019 2:00:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

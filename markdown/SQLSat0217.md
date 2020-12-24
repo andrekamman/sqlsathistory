@@ -1,0 +1,23 @@
+# SQLSaturday #217 - Columbus 2013
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+00:00:00|Allen White|Database Administration|[PowerShell 101 for the SQL Server DBA](10021.md)
+00:00:00|Allen White|Database Performance|[Gather SQL Server Performance Data with PowerShell](10022.md)
+00:00:00|Julie Smith|SQL Development|[Up and Running with SSIS](11124.md)
+00:00:00|Colleen Morrow|Database Administration|[SQL Audit - auditing doesn't have to be boring](11764.md)
+00:00:00|Colleen Morrow|Database Administration|[Quest for the Holy Grail of SQL Server Auditing](11765.md)
+00:00:00|Erin Stellato|Database Performance|[Making the Leap from Profiler to Extended Events](13938.md)
+00:00:00|Erin Stellato|Database Administration|[Demystifying Database Statistics](13939.md)
+00:00:00|Kevin Feasel|Database Administration|[What's In YOUR DB Wallet?](14192.md)
+00:00:00|Janis Griffin|Database Performance|[Extend Your Knowledge with Extended Events!](15699.md)
+00:00:00|Janis Griffin|Database Performance|[Looney Tuner?  No, there IS a method to my madness](15701.md)
+00:00:00|Jeremiah Peschka|Business Intelligence|[Reporting in Production: A Hadoop Case Study](16586.md)
+00:00:00|Jeremiah Peschka|Business Intelligence|[Much Ado About Hadoop](16587.md)
+00:00:00|Brian Davis|SQL Development|[SSIS Templates Can Make Your Life Easier](22661.md)
+00:00:00|Russel Loski|Business Intelligence|[Creating an SSIS template using BIML](23653.md)
+00:00:00|Sam Nasr|SQL Development|[14 New T-SQL Functions](23848.md)
+00:00:00|Sam Nasr|SQL Development|[Full-Text Search in SQL 2012 with Custom Proximity](23850.md)
+00:00:00|Kevin Boles|Database Performance|[Indexing Deep Dive](26178.md)
+00:00:00|Kevin Boles|SQL Development|[TSQL Road Less Traveled: MERGE](26180.md)
+00:00:00|William E Pearson III|Business Intelligence|[Design and Implement BI like Edison! ](28083.md)
+00:00:00|William E Pearson III|Business Intelligence|[Possible Musics:  Choosing between Analysis Services 2012 Multidimensional and Tabular](28084.md)

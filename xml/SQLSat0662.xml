@@ -1,0 +1,937 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #662 - Sioux Falls 2017</name>
+    <startDate>8/19/2017 12:00:00 AM</startDate>
+    <attendeeEstimate>125</attendeeEstimate>
+    <timezone>(GMT-06:00) Saskatchewan</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatSiouxFalls</twitterHashtag>
+    <venue>
+      <name>University Center</name>
+      <street>4801 N Career Ave</street>
+      <city>Sioux Falls</city>
+      <state>South Dakota</state>
+      <zipcode>57107</zipcode>
+      <longitude>-96.7855606079102</longitude>
+      <latitude>43.5981216430664</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1920</importID>
+      <name>MetaBank</name>
+      <label>Gold Sponsor</label>
+      <url>https://www.metabank.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/888/EventSponsor_13523.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>6</importID>
+      <name>Melissa Data Corp.</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.melissadata.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/931/EventSponsor_14597.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1984</importID>
+      <name>Beyond Impact</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.beyondimpactllc.com</url>
+      <imageURL>https://static1.squarespace.com/static/54e8e30ee4b0440df7a395af/t/5a8f2f1c9140b7b24de3f320/1519333149543/Social+Sharing-01.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1731</importID>
+      <name>SDN Communications</name>
+      <label>Gold Sponsor</label>
+      <url>https://sdncommunications.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/888/EventSponsor_13524.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1469</importID>
+      <name>Omnitech Inc</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.omnitech-inc.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/888/EventSponsor_13614.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1684</importID>
+      <name>Sanford Health</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.sanfordhealth.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/888/EventSponsor_13678.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1651</importID>
+      <name>Dakota State University</name>
+      <label>Silver Sponsor</label>
+      <url>http://dsu.edu/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/888/EventSponsor_13837.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1446</importID>
+      <name>First Bank  Trust</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.bankeasy.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/888/EventSponsor_13905.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1455</importID>
+      <name>Wells Fargo</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.wellsfargo.com/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/888/EventSponsor_13930.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1646</importID>
+      <name>CHR Solutions</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.chrsolutions.com</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/888/EventSponsor_13526.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>607</importID>
+      <name>DELL EMC</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.dellemc.com/en-us/index.htm</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/913/EventSponsor_14262.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1405</importID>
+      <name>COZYROC</name>
+      <label>Bronze Sponsor</label>
+      <url>http://bit.ly/cozyrocssis</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/978/EventSponsor_14586.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Bronze Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>1963</importID>
+      <name>Daktronics</name>
+      <label>Daktronics</label>
+      <url>http://www.daktronics.com</url>
+      <imageURL>https://www.daktronics.com/SiteCollectionImages/Corporate/Brand-Assets/DakLogoBlue.jpg</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>65107</importID>
+      <name>Don St. Cyr</name>
+      <label>
+      </label>
+      <description>I am originally from Maine but I have lived in the Midwest since '95. I am married with a son and daughter, 3 dogs, 2 bunnies and a horse. I have worked in IT for the last 20+ years in various roles such as technical trainer, computer tech, systems administrator and database administrator. I have worked in numerous fields such as education (for K-12 and post secondary), the military (for the U.S. Army and the Dept of Defense) and in healthcare. I am also a U.S. Army and Desert Storm veteran.</description>
+      <twitter>@Machiavelli_too</twitter>
+      <linkedin>https://www.linkedin.com/in/donstcyr</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Machiavelli_too</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66302</importID>
+      <name>Nem Schlecht</name>
+      <label>
+      </label>
+      <description>I've been a Server Administrator and DBA for 20+ years and have worked with multiple operating systems (UNIX variants, Mac OS X and Windows) and database engines (MySQL/MariaDB, Oracle, PostgreSQL, SQLite, and MSSQL).  I currently work a lot with PowerShell and automation as well as supervising a group of awesome systems administrators.  I've worked for a large state university system, a start-up company, and everything in-between (including my own consulting company).  I currently work for Border States Electric as an I.T. Supervisor.</description>
+      <twitter>nemws1</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=nemws1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>65312</importID>
+      <name>Christopher Wolff</name>
+      <label>
+      </label>
+      <description>Chris Wolff has been a developer, report writer, and an admin in Microsoft and SQL Server Space since SQL Server 2000 in industries such as telecommunications, green energy, money transfers, and online accounting. He has been an active member of the Denver SQL User Group since 2011 and enjoys learning new things about computers. His interests includes video games, movies, and enjoying time with his wife and 2 kids.</description>
+      <twitter>@tickytong</twitter>
+      <linkedin>https://www.linkedin.com/pub/christopher-wolff/11/a07/458</linkedin>
+      <ContactURL>http://sqlred.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@tickytong</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>65044</importID>
+      <name>Janis Griffin</name>
+      <label>
+      </label>
+      <description>Janis Griffin has over 30 years of DBA/database experience including design, development and implementation of many critical database applications. Before coming to Quest Software, Janis primarily worked in the Telecom/Network Industry, working with both real-time network routing databases and OLTP business to business applications.  Janis also held positions as a Principal Architect and Senior Manager, mentoring other DBAs on best practices in database performance tuning.</description>
+      <twitter>DoBoutAnything</twitter>
+      <linkedin>http://www.linkedin.com/pub/janis-griffin/0/914/aba</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DoBoutAnything</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66941</importID>
+      <name>Julia Renz</name>
+      <label>
+      </label>
+      <description>Julia is a student of technology with a passion for learning new things.  She loves math, computers and science.  Julia has a passion for dance and softball in her spare time.</description>
+      <twitter>@jmr0323</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@jmr0323</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>65196</importID>
+      <name>Stacia Varga</name>
+      <label>
+      </label>
+      <description>Stacia Varga is a Microsoft Data Platform MVP and SSAS Maestro with a Bachelor’s Degree in Social Sciences. A consultant, educator, author, and principal of Data Inspirations, her career spans more than 30 years, with a focus on improving business practices through technology.
+
+Since 2000, Stacia has provided consulting and education services for Microsoft's Business Intelligence technologies. As Stacia Misner, she also authored several books covering the Microsoft BI stack.</description>
+      <twitter>@_StaciaV_</twitter>
+      <linkedin>http://www.linkedin.com/in/staciavarga</linkedin>
+      <ContactURL>http://blog.datainspirations.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@_StaciaV_</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66816</importID>
+      <name>Brian Hansen</name>
+      <label>
+      </label>
+      <description>Brian is a database administrator at Children International in Kansas City.  He has been working with SQL Server technologies since 1998, including roles in report development, application development and database administration.</description>
+      <twitter>tf3604</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.tf3604.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=tf3604</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>64565</importID>
+      <name>Adam Koehler</name>
+      <label>
+      </label>
+      <description>Adam Koehler is the Senior Database Administrator for ScriptPro, LLC.  He has worked with SQL Server from 7.0 to 2017 in various roles throughout his career with the last 14 years in a DBA role.</description>
+      <twitter>sql_geek</twitter>
+      <linkedin>http://www.linkedin.com/in/adam-j-koehler</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sql_geek</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66431</importID>
+      <name>Rick Bielawski</name>
+      <label>
+      </label>
+      <description>Rick has 35 years experience as a systems, applications and database architect having designed major systems for such institutions as NASDAQ, Bank of America, Blue Cross Blue Shield, Ecolab and Emperex.  He holds multiple certifications including MCITP and MCSE in Business Intelligence and Data Platform.  Rick currently designs database systems for custom software applications and likes speaking at local user groups and SQL Saturday events.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/richardbielawski</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66814</importID>
+      <name>Brian Hansen</name>
+      <label>
+      </label>
+      <description>Brian is a database administrator at Children International in Kansas City.  He has been working with SQL Server technologies since 1998, including roles in report development, application development and database administration.</description>
+      <twitter>tf3604</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.tf3604.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=tf3604</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68793</importID>
+      <name>Joshua Warne</name>
+      <label>
+      </label>
+      <description>Joshua Warne is a Business Intelligence Analyst with the Fishback Financial Corporation in Brookings, SD. He has a Master’s in Economics and provides reporting and analytics for projects that involve process enhancements, product development, and customer research. Joshua is also Founder and Director of the (605) SQL User Group and is lead organizer of SQL Saturday Sioux Falls.</description>
+      <twitter>@605sql</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=368401119amp;trk=hp-identity-name</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@605sql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>64556</importID>
+      <name>Marcus Hopfinger</name>
+      <label>
+      </label>
+      <description>Marcus has been with Daktronics, Inc. since 2001 where he started doing ColdFusion development and some SQL Server 7 database administration. In late 2003 he was activated and deployed in early 2004 to Iraq with the South Dakota Army National Guard. During this time, he served as a Battalion Communications Officer where he was responsible for redundant voice and data networks including satellite internet and secure internet routing protocol networks. Upon returning to Daktronics in 2005 he moved in into a fulltime database administration position where he gets to work on SQL Server instances on three continents. He is also a Sci-Fi Fan, History buff, Amateur Radio Operator (call sign KA0SQL), but most importantly husband and father.</description>
+      <twitter>DakotaDataWrang</twitter>
+      <linkedin>https://www.linkedin.com/in/marcus-hopfinger-69728121?</linkedin>
+      <ContactURL>http://dakotadatawrangler.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DakotaDataWrang</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>65096</importID>
+      <name>Susantha Bathige</name>
+      <label>
+      </label>
+      <description>Susantha Bathige (MSc, MCITP) is a Microsoft Certified Database Professional specialized in relational database product, MS SQL Server. Having more than 16 years of IT experience including more than 9 years in database development and administration in non-production and production environments. He has experience of other databases systems such Cassandra and MongoDB as well.</description>
+      <twitter>@sbathige</twitter>
+      <linkedin>https://www.linkedin.com/in/susanthabathigesql</linkedin>
+      <ContactURL>http://www.sqlservertorque.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sbathige</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>65199</importID>
+      <name>Stacia Varga</name>
+      <label>
+      </label>
+      <description>Stacia Varga is a Microsoft Data Platform MVP and SSAS Maestro with a Bachelor’s Degree in Social Sciences. A consultant, educator, author, and principal of Data Inspirations, her career spans more than 30 years, with a focus on improving business practices through technology.
+
+Since 2000, Stacia has provided consulting and education services for Microsoft's Business Intelligence technologies. As Stacia Misner, she also authored several books covering the Microsoft BI stack.</description>
+      <twitter>@_StaciaV_</twitter>
+      <linkedin>http://www.linkedin.com/in/staciavarga</linkedin>
+      <ContactURL>http://blog.datainspirations.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@_StaciaV_</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>65045</importID>
+      <name>Janis Griffin</name>
+      <label>
+      </label>
+      <description>Janis Griffin has over 30 years of DBA/database experience including design, development and implementation of many critical database applications. Before coming to Quest Software, Janis primarily worked in the Telecom/Network Industry, working with both real-time network routing databases and OLTP business to business applications.  Janis also held positions as a Principal Architect and Senior Manager, mentoring other DBAs on best practices in database performance tuning.</description>
+      <twitter>DoBoutAnything</twitter>
+      <linkedin>http://www.linkedin.com/pub/janis-griffin/0/914/aba</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DoBoutAnything</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66974</importID>
+      <name>Eric Zierdt</name>
+      <label>
+      </label>
+      <description>Eric is a level 70 Data Slayer, who has worked with SQL Server since 2000. Eric has worked with benefit systems, real estate data, marketing, game data, and medical device data. Eric enjoys performance tuning, T-SQL programming, and SQL Server Administration.</description>
+      <twitter>@EricZierdt</twitter>
+      <linkedin>http://www.linkedin.com/in/ericzierdt</linkedin>
+      <ContactURL>http://ericemployed.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@EricZierdt</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>65197</importID>
+      <name>Stacia Varga</name>
+      <label>
+      </label>
+      <description>Stacia Varga is a Microsoft Data Platform MVP and SSAS Maestro with a Bachelor’s Degree in Social Sciences. A consultant, educator, author, and principal of Data Inspirations, her career spans more than 30 years, with a focus on improving business practices through technology.
+
+Since 2000, Stacia has provided consulting and education services for Microsoft's Business Intelligence technologies. As Stacia Misner, she also authored several books covering the Microsoft BI stack.</description>
+      <twitter>@_StaciaV_</twitter>
+      <linkedin>http://www.linkedin.com/in/staciavarga</linkedin>
+      <ContactURL>http://blog.datainspirations.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@_StaciaV_</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68848</importID>
+      <name>Jasmine Miller</name>
+      <label>
+      </label>
+      <description>Jasmine Miller is a Data Engineer with DHL Global Forwarding in San Mateo, CA. With a Master's in Analytics from DSU and a Bachelor's in Neuroscience and Behavior from the University of Notre Dame, Jasmine has conducted data mining and machine learning techniques within industries like health care, neuroscience research, and pharmaceutical cold chain logistics.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://linkedin.com/in/jasminum</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>64933</importID>
+      <name>Jim Dorame</name>
+      <label>
+      </label>
+      <description>Jim Dorame has been working with SQL Server for over 20 years. Over those years he has learned a great deal from the SQL community. He has also given back to the community in the hopes that he may help someone in their career. He is always looking for something to learn and luckily Microsoft keeps adding to SQL Server.</description>
+      <twitter>@DBAJD</twitter>
+      <linkedin>https://www.linkedin.com/in/jamesdorame</linkedin>
+      <ContactURL>http://www.jamesdorame.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@DBAJD</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66848</importID>
+      <name>Susantha Bathige</name>
+      <label>
+      </label>
+      <description>Susantha Bathige (MSc, MCITP) is a Microsoft Certified Database Professional specialized in relational database product, MS SQL Server. Having more than 16 years of IT experience including more than 9 years in database development and administration in non-production and production environments. He has experience of other databases systems such Cassandra and MongoDB as well.</description>
+      <twitter>@sbathige</twitter>
+      <linkedin>https://www.linkedin.com/in/susanthabathigesql</linkedin>
+      <ContactURL>http://www.sqlservertorque.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@sbathige</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66430</importID>
+      <name>Rick Bielawski</name>
+      <label>
+      </label>
+      <description>Rick has 35 years experience as a systems, applications and database architect having designed major systems for such institutions as NASDAQ, Bank of America, Blue Cross Blue Shield, Ecolab and Emperex.  He holds multiple certifications including MCITP and MCSE in Business Intelligence and Data Platform.  Rick currently designs database systems for custom software applications and likes speaking at local user groups and SQL Saturday events.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/richardbielawski</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>66815</importID>
+      <name>Brian Hansen</name>
+      <label>
+      </label>
+      <description>Brian is a database administrator at Children International in Kansas City.  He has been working with SQL Server technologies since 1998, including roles in report development, application development and database administration.</description>
+      <twitter>tf3604</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://www.tf3604.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=tf3604</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>68323</importID>
+      <name>George Bryant</name>
+      <label>
+      </label>
+      <description>George has over a decade of experience in the Business Intelligence industry and is an active member of the BI community across the Midwest. His knowledge spans multiple industries including, retail, manufacturing, finance, and medical, however recent years has seen him focus on the analytics in sports. 
+
+George specializes in BI architecture and end to end development in order to deliver advanced analytics and metrics to multiple organizations across the country. In recent years George has focused on and worked primarily in the Azure cloud, utilizing both established and recent offerings.</description>
+      <twitter>Azure_George0</twitter>
+      <linkedin>https://www.linkedin.com/in/mrgbryant</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Azure_George0</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>64564</importID>
+      <name>Andy Tabisz</name>
+      <label>
+      </label>
+      <description>Andy Tabisz is a Microsoft MVP and owner of WorkSmart Database Masters based in Grand Rapids, MI.  WorkSmart provides custom database and mobile solutions for small to mid-sized corporations using Access, SQL/Azure, ASP.NET, SharePoint, Power BI, Excel and integration with many technologies.  Through rapid application development, WorkSmart empowers organizations to work smarter and make better decisions by automating workflow, alerts and reporting capabilities.</description>
+      <twitter>@AccessWisdom</twitter>
+      <linkedin>http://www.linkedin.com/in/andytabisz</linkedin>
+      <ContactURL>http://www.worksmartdb.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@AccessWisdom</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>65196</importID>
+      <speakers>
+        <speaker>
+          <id>65196</id>
+          <name>Stacia Varga</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room #253</name>
+      </location>
+      <title>Where Does R Fit Into Your SQL Server Stack?</title>
+      <description>Now that SQL Server 2016 includes support for R in the database, how does this change your BI implementation options?
+
+In this session, we start with a brief introduction to R and explain why it’s increasingly popular, the typical development workflow, which tools you can use, common use cases, and where it fits into the latest Microsoft stack at a high level.
+
+Then we’ll review how to implement R Services so that you can use R with SQL Server data, including how to install R packages on SQL Server, how to use rx functions, and how to operationalize R in SQL Server.
+
+Then we explore options for using R to prepare data for analytics using SSIS or Power BI and how to report and visualize data using SSRS or Power BI.</description>
+      <startTime>8/19/2017 1:25:00 PM</startTime>
+      <endTime>8/19/2017 2:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>65199</importID>
+      <speakers>
+        <speaker>
+          <id>65199</id>
+          <name>Stacia Varga</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room #253</name>
+      </location>
+      <title>Reduce, Reuse, Recycle: Automating Your BI Framework</title>
+      <description>Quite frankly, some aspects of building out a business intelligence solution are tedious. As you cycle through iterations of your star schema, you’ll find that even a simple data type change in the data warehouse requires you to make corresponding changes to staging tables, and SSIS packages that take a considerable amount of time to implement. But there’s a better, faster way!In this session, we’ll explore lessons from a project that required implementation of a framework to easily generate BI objects based on reusable patterns. We’ll walk through the decision points in the framework design, review the implementation steps, and see demonstrations of how easily you can make iterative changes to your BI solution’s design by using reusable design patterns. Whether you simply want to accelerate change management or reproduce objects in bulk on demand, this session will give you practical tips for automating these processes.</description>
+      <startTime>8/19/2017 2:45:00 PM</startTime>
+      <endTime>8/19/2017 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>65107</importID>
+      <speakers>
+        <speaker>
+          <id>65107</id>
+          <name>Don St. Cyr</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Avera Hall</name>
+      </location>
+      <title>Remote SQL Server Troubleshooting and Monitoring Using SSIS</title>
+      <description>We have over 3500 remote installations of SQL Server and only 3 DBAs to find and resolve issues. While some installations need daily examination others operate for months without any attention at all.
+We needed a system to keep a light, revolving set of data that we could quickly pull back and analyze when issues were escalated to us.
+This system also had to be modular so we could add or remove  queries, as needed, while always keeping the data fresh.
+In this session I'll use Glenn Berry's diagnostic queries and SSIS to show how we collect and store data on our remote systems. When problems arise we download the data and use Powershell to digest it into a simple report.</description>
+      <startTime>8/19/2017 11:00:00 AM</startTime>
+      <endTime>8/19/2017 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68323</importID>
+      <speakers>
+        <speaker>
+          <id>68323</id>
+          <name>George Bryant</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Avera Hall</name>
+      </location>
+      <title>Navigating Modern BI Infrastructure – Power BI Report Server (On-</title>
+      <description>Business Intelligence has sat pretty comfortably on the same laurels for well over a decade however that landscape has been disrupted by the surfacing new Azure tools, Power BI, and now Power BI on premise. With so many new tools and features things can get pretty intimidating, especially for those with additional considerations and regulations. It can however open new doors to organizations who were previously unable to fully utilize BI.
+ 
+Through presentation, demo, and open discussion we attempt to navigate classic BI Architecture and the available options there in, as well as touch upon the future of BI and modern architecture.</description>
+      <startTime>8/19/2017 4:05:00 PM</startTime>
+      <endTime>8/19/2017 5:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66815</importID>
+      <speakers>
+        <speaker>
+          <id>66815</id>
+          <name>Brian Hansen</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Avera Hall</name>
+      </location>
+      <title>Remember Back When?  Temporal Tables in SQL Server 2016</title>
+      <description>SQL Server 2016 comes with its own version of a Wayback Machine: temporal tables.  With this new feature, it is easy to store and query the history of changes to data.  We will discuss the fundamentals and creating, storing data in, querying from, and maintaining these tables. We will also take a quick look under the hood to see how they work.  And yes, this is a version 1 product, so we'll also consider the current limitations that are in place.  Find out how temporal tables can benefit your system!</description>
+      <startTime>8/19/2017 2:45:00 PM</startTime>
+      <endTime>8/19/2017 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>65096</importID>
+      <speakers>
+        <speaker>
+          <id>65096</id>
+          <name>Susantha Bathige</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room #250</name>
+      </location>
+      <title>Statistics and New Cardinality Estimator Model</title>
+      <description>Statistics in SQL Server plays a major role creating execution plan which essentially decides server performance. If you get a good execution plan the server performance is good otherwise it will impact negatively on the server performance. SQL Server 2014 introduced new Cardinality Estimation (CE) model to improve the quality of the execution plans via quality estimates of row counts. The new CE model is a major redesign to the Query Optimizer since SQL Server 7.0. In this session, I'm going to talk about how statistics is used to generate the execution plan, how execution plan changes with new CE model with demos.</description>
+      <startTime>8/19/2017 9:40:00 AM</startTime>
+      <endTime>8/19/2017 11:10:00 AM</endTime>
+    </event>
+    <event>
+      <importID>64564</importID>
+      <speakers>
+        <speaker>
+          <id>64564</id>
+          <name>Andy Tabisz</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room #253</name>
+      </location>
+      <title>Intro to PowerApps  Flow - Creating mobile business apps without writing code</title>
+      <description>PowerApps allows you to extend your SQL  SharePoint business data along with data from over 100 other software packages to iPhone, Android phone and other mobile devices.   Flow extends that capability by automating your workflow.  This introduction will discuss Microsoft's strategy and demonstrate how you can create your own business apps.</description>
+      <startTime>8/19/2017 11:00:00 AM</startTime>
+      <endTime>8/19/2017 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66941</importID>
+      <speakers>
+        <speaker>
+          <id>66941</id>
+          <name>Julia Renz</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room #245</name>
+      </location>
+      <title>Even I Can Power BI!</title>
+      <description>Power BI Desktop is so intuitive when it comes to creating reports that even a 13 year old can do it.  In fact I'm 13 and I can do it! Don't believe me?  Come to my session as I demonstrate how to import data, create dashboards, and publish them to the Power BI service.</description>
+      <startTime>8/19/2017 9:40:00 AM</startTime>
+      <endTime>8/19/2017 10:55:00 AM</endTime>
+    </event>
+    <event>
+      <importID>65044</importID>
+      <speakers>
+        <speaker>
+          <id>65044</id>
+          <name>Janis Griffin</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room #250</name>
+      </location>
+      <title>Welcome To the 2016 Query Store!</title>
+      <description>One of my favorite new features in SQL Server 2016 is the Query Store. The Query Store houses valuable information on performance of your queries as well as gives you great insights into your query workload. This presentation will take a look at the Query Store, how it works and the type of information it holds. You will learn how to use the Query Store to quickly find plan changes and analyze performance issues caused by them.  New DMVs will be introduced and the performance impact of enabling the Query Store will be discussed. Both DBAs and developers can increase their performance tuning skills by attending this session.</description>
+      <startTime>8/19/2017 2:45:00 PM</startTime>
+      <endTime>8/19/2017 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66431</importID>
+      <speakers>
+        <speaker>
+          <id>66431</id>
+          <name>Rick Bielawski</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room #245</name>
+      </location>
+      <title>Difficult Queries</title>
+      <description>Take your T-SQL skills to the next level.  Regardless of your current level there will be something here you'll be glad you didn't miss.  Basics like avoiding cursors in iterative tasks and multi-database executions is the tip of the iceberg.  If queries are basic arithmetic then this is basic algebra.  First we see how coding style affects maintainability then dive into several types of encapsulation, parameterization and more.</description>
+      <startTime>8/19/2017 11:00:00 AM</startTime>
+      <endTime>8/19/2017 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66814</importID>
+      <speakers>
+        <speaker>
+          <id>66814</id>
+          <name>Brian Hansen</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room #250</name>
+      </location>
+      <title>Visualize Your Transaction Log</title>
+      <description>The SQL transaction log can be a mystery to many DBAs.  We live in the age of visualizations, so let's visualize the log!  In this session, we will examine the purpose and organization of the transaction log and will explore the log through a unique visualization tool.  We will consider common performance issues that are related to the logging mechanism and how to overcome these problems.  Finally, we will discuss some techniques to monitor the log so that potential performance problems can be addressed pro-actively.</description>
+      <startTime>8/19/2017 11:00:00 AM</startTime>
+      <endTime>8/19/2017 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66430</importID>
+      <speakers>
+        <speaker>
+          <id>66430</id>
+          <name>Rick Bielawski</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room #245</name>
+      </location>
+      <title>Mastering queries into XML data.</title>
+      <description>If you've never queried an XML column you definitely want to attend.  While targeted to beginners this isn't a "Just do this" session where you are walked down a chocolate path, then back on the job scratch your head to apply it in real life.  After this session I'd like you to truly understand even subtle nuances of basic query syntax.  Seasoned veterans stand a fair chance of learning something new.</description>
+      <startTime>8/19/2017 4:05:00 PM</startTime>
+      <endTime>8/19/2017 5:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>65197</importID>
+      <speakers>
+        <speaker>
+          <id>65197</id>
+          <name>Stacia Varga</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room #253</name>
+      </location>
+      <title>Getting Your Story Straight with Data Visualizations</title>
+      <description>Having multiple data visualizations doesn't make it easier to choose the right one to reveal the story. Choosing the wrong visualization can obscure the story - or worse yet, distort it! In this session, learn the vocabulary of data visualization and how to apply grammar (visualization design principles) to your data. Along the way, you will also learn how to evaluate the goal of your data story and how to choose the correct visualizations that communicate this story accurately and effectively.</description>
+      <startTime>8/19/2017 4:05:00 PM</startTime>
+      <endTime>8/19/2017 5:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66974</importID>
+      <speakers>
+        <speaker>
+          <id>66974</id>
+          <name>Eric Zierdt</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Room #250</name>
+      </location>
+      <title>SQL Server DBA Quiz Show</title>
+      <description>You are invited to be a participant on the SQL Server DBA Quiz Show; this fun and interactive session will test your knowledge of SQL Server.  We will be using an online tool to allow you to submit your answers to questions in real time via a mobile device or laptop.  If you have ever played trivia in a bar or restaurant you'll be familiar with the setup for this.
+
+This session promises to be fast paced and fun and hopefully you will even learn something.</description>
+      <startTime>8/19/2017 1:25:00 PM</startTime>
+      <endTime>8/19/2017 2:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>66816</importID>
+      <speakers>
+        <speaker>
+          <id>66816</id>
+          <name>Brian Hansen</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room #250</name>
+      </location>
+      <title>Set Me Up: How to Think in Sets</title>
+      <description>SQL Server is optimized to work in sets, but this is certainly a paradigm shift for someone accustomed to row-by-row operations.
+
+We will look at T-SQL features that can break set-based processing -- generally meaning poor performance -- and gather empirical evidence to support that assertion.  We'll also look at some constructs to overcome these issues and make your T-SQL scripts run faster and use fewer resources.</description>
+      <startTime>8/19/2017 8:15:00 AM</startTime>
+      <endTime>8/19/2017 9:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>68793</importID>
+      <speakers>
+        <speaker>
+          <id>68793</id>
+          <name>Joshua Warne</name>
+        </speaker>
+      </speakers>
+      <track>Professional Development</track>
+      <location>
+        <name>Room #245</name>
+      </location>
+      <title>Building Stronger Relationships Between Us... "Data People" and T</title>
+      <description>The role of data and IT professionals is evolving from simply responding to requests about business to one of helping shape the business strategy. The integration of these professionals into the strategy process is a transformation that presents communication challenges and requires more visibility by people typically known to be introverts. In this session we will discuss some of the barriers causing relationship pains as well as some techniques and strategies to begin building stronger relationships with the managers and end users so data can thrive and customer satisfaction can proliferate.</description>
+      <startTime>8/19/2017 8:15:00 AM</startTime>
+      <endTime>8/19/2017 9:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>66302</importID>
+      <speakers>
+        <speaker>
+          <id>66302</id>
+          <name>Nem Schlecht</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Room #250</name>
+      </location>
+      <title>Maximizing SQL Server Management Studio for Developers and DBAs</title>
+      <description>Whether you're a developer or a DBA, you likely use SSMS (SQL Server Management Studio) a lot.  However, are you using all the features and extensions available to maximize your efficiency?  This talk will show some of the most useful, yet overlooked, features of SSMS and some of the best (and free) extensions to make life easier for you and your teams.  I'll also include some of my most useful code snippets that I've found or written over the years.  Save yourself some time and headaches!</description>
+      <startTime>8/19/2017 4:05:00 PM</startTime>
+      <endTime>8/19/2017 5:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>65312</importID>
+      <speakers>
+        <speaker>
+          <id>65312</id>
+          <name>Christopher Wolff</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>Room #245</name>
+      </location>
+      <title>Amazon Web Services RDS with SQL Server</title>
+      <description>Are you wanting to make more SQL Servers but don't want to invest in more hardware? Then Relational Database Service (RDS) in Amazon Web Services (AWS) maybe the right choice for you. We will begin with creating a server using the Amazon Web Console, explore how to automate installation through Cloud Formation, show how to administrate the service, and walk through advanced features. Whether you are familiar with AWS or are brand new to it, this presentation should at least give you a good overview to decide if RDS is the right service for you.</description>
+      <startTime>8/19/2017 1:25:00 PM</startTime>
+      <endTime>8/19/2017 2:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>64565</importID>
+      <speakers>
+        <speaker>
+          <id>64565</id>
+          <name>Adam Koehler</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Avera Hall</name>
+      </location>
+      <title>Isolation Levels – Understanding Transaction Temper Tantrums</title>
+      <description>In this session we will review Isolation levels and how they affect applications that run on SQL Server.  We will explore what happens when multiple applications accessing the same data use different isolation levels, and how that effects the server as a whole.   We will also explore different ways to relieve these tantrums, and make your applications play nice together.</description>
+      <startTime>8/19/2017 1:25:00 PM</startTime>
+      <endTime>8/19/2017 2:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>68848</importID>
+      <speakers>
+        <speaker>
+          <id>68848</id>
+          <name>Jasmine Miller</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>Room #253</name>
+      </location>
+      <title>Business Intelligence with R and Python</title>
+      <description>With the integration of R into SQL Server 2016, and now Python into SQL Server 2017, this presentation will dive into the differences between the two languages, what they are best suited for, and highlight key features and packages within both for descriptive and predictive analytics. Application of SQL statements will be demonstrated within RStudio/Jupyter notebooks, as opposed to within SQL Server, in order to demonstrate its multi-purpose use across all platforms (Oracle, PostgreSQL, MySQL, etc.).</description>
+      <startTime>8/19/2017 8:15:00 AM</startTime>
+      <endTime>8/19/2017 9:30:00 AM</endTime>
+    </event>
+    <event>
+      <importID>65045</importID>
+      <speakers>
+        <speaker>
+          <id>65045</id>
+          <name>Janis Griffin</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Avera Hall</name>
+      </location>
+      <title>Does Your Performance Tuning Need a 12-step Program?</title>
+      <description>Performance tuning can be complex.It's often hard to know which knob to turn or button to press to get the biggest performance boost. In this presentation, Janis Griffin, Database Performance Evangelist, SolarWinds, will detail 12 steps to quickly identify performance issues and resolve them. Attendees at this session will learn how to:
+
+ 1. Quickly fine tune a SQL statement
+ 2.  Identify performance inhibitors to help avoid future performance issues
+ 3.  Recognize and understand how new SQL Server features can help improve query    
+      performance</description>
+      <startTime>8/19/2017 9:40:00 AM</startTime>
+      <endTime>8/19/2017 10:55:00 AM</endTime>
+    </event>
+    <event>
+      <importID>64556</importID>
+      <speakers>
+        <speaker>
+          <id>64556</id>
+          <name>Marcus Hopfinger</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room #253</name>
+      </location>
+      <title>HELP! HELP! My System Databases Are Gone!</title>
+      <description>Your worst nightmare has happened. You had a server crash and lost your system databases. Now what? Watch me break a Hyper-V virtual machine and then fix it again. This presentation will walk through regenerating and restoring your system databases to get back up and running. I will also discuss several situations I have faced and scenarios prepped for and strategies for preparing for the worst case DR situations.</description>
+      <startTime>8/19/2017 9:40:00 AM</startTime>
+      <endTime>8/19/2017 10:55:00 AM</endTime>
+    </event>
+    <event>
+      <importID>66848</importID>
+      <speakers>
+        <speaker>
+          <id>66848</id>
+          <name>Susantha Bathige</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>Room #245</name>
+      </location>
+      <title>How to Fix Cardinality Estimation Anomalies</title>
+      <description>Statistics in SQL Server plays a major role deciding the shape of the Execution Plan. Execution plan, ultimately responsible for the query performance. Filtered statistics is a type of statistics in SQL Server which you can influence the query optimizer by providing more information to it so that query optimizer could produce quality execution plans. Filtered statistics was introduced in SQL Server 2008 but in my opinion, it has not got the attention it needed yet.
+In this presentation, I will demo the use of filtered statistics to fix some cardinality estimation anomalies.</description>
+      <startTime>8/19/2017 2:45:00 PM</startTime>
+      <endTime>8/19/2017 4:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>64933</importID>
+      <speakers>
+        <speaker>
+          <id>64933</id>
+          <name>Jim Dorame</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>Avera Hall</name>
+      </location>
+      <title>JSON for the Data Mortals</title>
+      <description>In SQL Server 2016 Microsoft has include native handling of JSON.  What does that mean?  What is JSON?  Why do I care?  Will there be knives and hockey masks?  Come to this session and you will learn what JSON is, where and how it is used and why as a data professional you need to know this.</description>
+      <startTime>8/19/2017 8:15:00 AM</startTime>
+      <endTime>8/19/2017 9:30:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

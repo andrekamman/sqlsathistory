@@ -1,0 +1,863 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #893 - Singapore 2019</name>
+    <startDate>8/31/2019 12:00:00 AM</startDate>
+    <attendeeEstimate>200</attendeeEstimate>
+    <timezone>(GMT+08:00) Irkutsk, Ulaan Bataar</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatSingapore</twitterHashtag>
+    <venue>
+      <name>Microsoft Singapore Operations Pte Ltd</name>
+      <street> #22-01 One Marina Boulevard</street>
+      <city>Singapore</city>
+      <state>Singapore, Singapore</state>
+      <zipcode>018989</zipcode>
+      <longitude>103.85277</longitude>
+      <latitude>1.28222</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/893/EventSponsor_14070.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/893/EventSponsor_13575.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>92837</importID>
+      <name>Karen Lopez</name>
+      <label>
+      </label>
+      <description>Karen Lopez is a Sr. Project Manager and Architect for InfoAdvisors. A frequent speaker at conferences and local user groups, she has 20+ years of experience in project and data management on large, multi-project programs. Karen is a chronic volunteer, a Data Platform MVP, and an active advocate for science, technology, engineering, and mathematics (STEM) education and data quality.
+
+Karen’s presentations are known for their lively and interactive approach to learning. Her motto: “Love Your Data!”</description>
+      <twitter>datachick</twitter>
+      <linkedin>http://www.linkedin.com/in/karenlopez</linkedin>
+      <ContactURL>http://datamodel.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=datachick</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93835</importID>
+      <name>Nisal Mihiranga</name>
+      <label>
+      </label>
+      <description>Nisal Mihiranga is a Data enthusiastic and a BI Professional who has more than 8 years of exposure on Microsoft Business Intelligence stack and other data-driven technologies. He is very passionate about technologies like Microsoft SQL Server, SSIS, SSAS, Power BI and some other areas like advanced Analytics, Machine Learning, and Deep Learning etc. In his professional life he is working as a Business Intelligence Consultant at Fortude.  He shares his knowledge with the community by writing technical articles, blog posts and frequently speaking at tech conferences and community events. He also a Microsoft Certified Trainer.</description>
+      <twitter>https://twitter.com/nisalm</twitter>
+      <linkedin>https://www.linkedin.com/in/nisalm/</linkedin>
+      <ContactURL>http://nisalbi.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/nisalm</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>94734</importID>
+      <name>Patrick Flynn</name>
+      <label>
+      </label>
+      <description>Patrick Flynn is a Senior Database Administrator with 10 years experience in large 24 x 7 enterprise environments. He is a certified master for SQL Server and a regular attendee of the PASS Summit.
+
+Has presented at SQLSaturday events in Sydney, Melbourne, Brisbane and Auckland, Edmonton and Calgary, Oslo and Cambridge</description>
+      <twitter>sqllensman</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqllensman.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqllensman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98080</importID>
+      <name>Sanjiv Venkatram</name>
+      <label>
+      </label>
+      <description>Background in financial planning and analysis, sales analytics, program management and engineering. Over 20 years of experience in IT Cloud Services/Software, IT Professional Services and Automotive Electronics Hardware. Worked across North America (17 years) and now APAC (3.5 years).
+
+MBA from the University of Michigan (2003) and Master of Science in Mechanical Engineering from the University of Rhode Island (1997). Hold 7 published US patents.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/sanjiv-venkatram/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93653</importID>
+      <name>Sandy Winarko</name>
+      <label>
+      </label>
+      <description>Sandy is a seasoned Product Manager with extensive experience in the US, Europe, and Asia, combining commercial/technical responsibilities in principal/senior roles at various TMT (Technology, Media, and Telecommunications) companies, such as Microsoft/Skype/Nokia, BSkyB (British Sky Broadcasting), and CW (Cable  Wireless). At Microsoft, he is currently driving the efforts to modernize SSIS (SQL Server Integration Services) on premises and in the cloud as part of ADF (Azure Data Factory).</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/swinarko/</linkedin>
+      <ContactURL>https://techcommunity.microsoft.com/t5/SQL-Server-Integration-Services/bg-p/SSIS</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>94776</importID>
+      <name>Janusz Rokicki</name>
+      <label>
+      </label>
+      <description>Microsoft Data Platform Expert and certified Azure Solutions Architect with over 12 years’ experience working in the City of London in the Financial Services Industry (retail and investment banking, multi-asset class trading systems). He has passion for secure, high-performance, maintainable data-driven applications that can be deployed with confidence on-premises and in-cloud. With educational background in intelligent sensor networks and machine learning he is always in search of automation and optimisation opportunities.
+
+Has presented at SqlBits, PASS Summit, SqlDay and multiple Sql Saturday events (Tel-Aviv, Kiev, Paris, Tallinn, Bonn, Bratislava, Goteborg, Kharkiv, Bucharest, Sofia, Ljubljana) and user groups.</description>
+      <twitter>DataSic</twitter>
+      <linkedin>https://www.linkedin.com/in/jrokicki/</linkedin>
+      <ContactURL>https://www.datasic.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DataSic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93938</importID>
+      <name>Joanna Wolthuis</name>
+      <label>
+      </label>
+      <description>Joanna Wolthuis is an independent contractor specialising in T-SQL database development and reporting using SSRS and Excel based solutions for the last 8 years. She is passionate about data and learning everything about anything. 
+Aside from SQL Joanna enjoys traveling, nice food and attempting to be an acrobat (not at the same time!).</description>
+      <twitter>ochthenoodle</twitter>
+      <linkedin>https://www.linkedin.com/in/joannawolthuis/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ochthenoodle</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95407</importID>
+      <name>Dinesh Priyankara</name>
+      <label>
+      </label>
+      <description>Dinesh is an experienced professional and database enthusiast with skills in database management systems and business intelligence. Possessing over 18 years of experience on data related technologies, he does training, consulting, and is a top contributor to the local SQL Server community. In recognition of his contributions and expertise he has demonstrated, he was awarded the Microsoft Most Valuable Professional (MVP) award for SQL Server for 13 consecutive years since 2006.
+He is a Subject Matter Expert on SQL Server exams and has contributed for SQL Server 2012, 2016, 2017 and Azure Data Engineering exam development and Job Task Analysis (JTA).
+Dinesh is the Founder/Principal Architect of dinesQL (Pvt) Ltd (http://dinesql.com). In his</description>
+      <twitter>http://twitter.com/dinesh_priya</twitter>
+      <linkedin>http://lk.linkedin.com/in/dineshpriyankara/</linkedin>
+      <ContactURL>http://dinesql.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://twitter.com/dinesh_priya</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>94992</importID>
+      <name>Joseph D'Antoni</name>
+      <label>
+      </label>
+      <description>Joseph D'Antoni is a Senior Consultant and Microsoft Data Platform MVP with over 20 years of experience working in both Fortune 500 and smaller firms. He is a Principal Consultant for Denny Cherry  Associates and lives in Malvern, PA. He is a frequent speaker at major tech events like Microsoft Ignite, PASS Summit, and Enterprise Data World. He blogs about all topics technology at joeydantoni.com. He believes that no single platform is the answer to all technology problems. Joseph holds a BS in Computer Information Systems from Louisiana Tech University and an MBA from North Carolina State University, and is the co-author of the Microsoft book "Introducing SQL Server 2016”.</description>
+      <twitter>jdanton</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=3997984amp;trk=hb_tab_pro_top</linkedin>
+      <ContactURL>http://joeydantoni.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=jdanton</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92856</importID>
+      <name>Jason Aw</name>
+      <label>
+      </label>
+      <description>A passionate IT leader with over 20 years of experience in in technology, infrastructure, cloud environments particularly with high availability and disaster recovery solutions for different architectures including SQL database applications.</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/awjason</linkedin>
+      <ContactURL>http://www.sios-apac.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95579</importID>
+      <name>Mohammad Asif Waquar</name>
+      <label>
+      </label>
+      <description>Asif is Microsoft MVP ,Microsoft Azure Platform .He specialises in Microsoft development, Blockchain, Mobile App and Cloud technologies. He works as Solution Architect at ABN AMRO Bank .He is certified in Corda and Hyperledger Development Framework for block chain. He has successfully implemented solutions for Trade finance on the Quorum Block chain.
+
+He has completed his Masters in Software Engineering from NUS Singapore.Actively blogs at http://asifwaquar.com. Active in the developer community as public speaker, mentor etc. As an active member of SQL Server community and Azure Community, Asif leads Singapore SQL Server Pass Chapter (User group).</description>
+      <twitter>asifwaquar</twitter>
+      <linkedin>https://www.linkedin.com/in/mohammad-asif-6a6153111/</linkedin>
+      <ContactURL>http://asifwaquar.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=asifwaquar</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>94587</importID>
+      <name>Senthamil V</name>
+      <label>
+      </label>
+      <description>Microsoft MVP on Windows Development. SharePoint is my profession and Windows Dev is my Passion</description>
+      <twitter>@altfo</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://msisgreat.net</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@altfo</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96936</importID>
+      <name>SHAILENDRA KUMAR</name>
+      <label>
+      </label>
+      <description>Shailendra Kumar (ITILV3F, MCSE, MCSA, MCP, MCITP, MCTS) is an azure Certified Solutions Architect.He works with Path Infotech pte ltd. He is having rich experience in microsoft Data  Bi platform. Rich DBA experience of almost all SQL Server versions from MSSQL 2000 to MSSQL 2017  MSSQL on linux and database migration/upgrade  CIS implementation.</description>
+      <twitter>skumarm09</twitter>
+      <linkedin>https://sg.linkedin.com/in/shailendra-kumar-09</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=skumarm09</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93528</importID>
+      <name>Monica Rathbun</name>
+      <label>
+      </label>
+      <description>Monica Rathbun lives in Virginia, is a Microsoft MVP for Data Platform and Microsoft Certified Solutions Expert. She has nearly two decades of experience working with a wide variety of database platforms with a focus on SQL Server and the Microsoft Data Platform. She is a frequent speaker at IT industry conferences on topics including performance tuning and configuration management. She is the Leader of the Hampton Roads SQL Server User Group and a Mid‐Atlantic PASS Regional Mentor. She is passionate about SQL Server and the SQL Server community, doing anything she can to give back. Monica can always be found on Twitter (@sqlespresso) handing out helpful tips. You can find Monica blogging at sqlespresso.com</description>
+      <twitter>SQLEspresso</twitter>
+      <linkedin>https://www.linkedin.com/in/sqlespresso</linkedin>
+      <ContactURL>http://www.sqlespresso.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLEspresso</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>94595</importID>
+      <name>Anupama Natarajan</name>
+      <label>
+      </label>
+      <description>Anu Natarajan is a Data and AI Consultant with 15+ years of experience working in design and development of Data Warehouse, Business Intelligence, AI enabled applications, and SaaS integrated solutions. Anu is a Microsoft MVP Data Platform, Microsoft Certified Trainer and passionate in sharing knowledge. She loves solving complex business problems with innovative solutions using technologies. 
+Anu also speaks at conferences including PASS Summit, SQL Saturdays, Data Platform Summit, Difinity, and she organizes local user group meetups.</description>
+      <twitter>@shantha05</twitter>
+      <linkedin>https://nz.linkedin.com/in/anupama-natarajan-516a107</linkedin>
+      <ContactURL>http://www.anupamanatarajan.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@shantha05</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93350</importID>
+      <name>Manohar Punna</name>
+      <label>
+      </label>
+      <description>Manohar Punna is an Data Platform Geek and Vice President of DataPlatformGeeks by passion and a Data Platform Consultant by profession. He is a speaker at various conferences like PASS Summit, SQLBits, DPS. He has authored over 150 blogs and has written a One DMV a Day series which is a longest one day series on any topic on SQL Server till date.
+Manohar is a product of this community and strongly believes in giving back to the community. So, ask him anything you would like to know and he is happy to learn it with you.</description>
+      <twitter>ManuSQLGeek</twitter>
+      <linkedin>https://www.linkedin.com/pub/manohar-punna/15/153/508</linkedin>
+      <ContactURL>http://www.sqlservergeeks.com/author/manoharpunna/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ManuSQLGeek</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92095</importID>
+      <name>Ben Weissman</name>
+      <label>
+      </label>
+      <description>Ben Weissman has been working with SQL Server since SQL Server 6.5, mainly in the BI/Datawarehousing field. He is a Data Platform MVP, MCSE Data Management and Analytics, and a Certified Data Vault Data Modeler. He is also the first BimlHero Certified Expert in Germany and a co-author of  'SQL Server Big Data Clusters' and 'The Biml Book'.
+Ben has been involved in more than 150 BI Projects and is always looking for ways to become more productive and make SQL Server even more fun!
+Together with his team at Solisyon, Ben provides training, implementation and consultancy for SQL/BI developers and data analysts in upper-mid-market companies around the globe.</description>
+      <twitter>bweissman</twitter>
+      <linkedin>https://de.linkedin.com/in/weissmanben</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=bweissman</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92200</importID>
+      <name>Mohamed Mawla</name>
+      <label>
+      </label>
+      <description>Trilingual Principal Consultant amp; Team Tech lead at a global Tech Consulting Mohamed had worked with large SQL server environments such as financials and gov of hundreds of SQL server instances and enormous amounts of data. His favorite subjects are Cloud Analytics, performance tuning, High Availability, especially Replication and Disaster recovery. Certified Google Cloud and Azure Data Engineer.
+
+When not working, Mohamed carries his cameras and takes a trip somewhere.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93541</importID>
+      <name>Denny Cherry</name>
+      <label>
+      </label>
+      <description>Denny Cherry is the owner and principal consultant for Denny Cherry  Associates Consulting and has over a decade of experience working with platforms such as Microsoft Azure, Amazon AWS, Microsoft SQL Server, Hyper-V, vSphere, and Enterprise Storage solutions. Denny’s areas of technical expertise include system architecture, performance tuning, security, replication, and troubleshooting. Denny currently holds several Microsoft Certifications related to SQL Server 2000 through 2019, including being a Microsoft Certified Master, Microsoft MVP and VMware vExpert Award.</description>
+      <twitter>mrdenny</twitter>
+      <linkedin>https://www.linkedin.com/in/mrdenny</linkedin>
+      <ContactURL>https://www.dcac.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=mrdenny</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96414</importID>
+      <name>Pio Balistoy</name>
+      <label>
+      </label>
+      <description>Pio Balistoy is a Microsoft MVP  Certified Trainer for Data Platform. A SQL Server professional with more than 17 years of experience with SQL Server operations, architecture and administration. He brings his passion for SQL Server as the community leader for Singapore SQL PASS and Philippine SQL Server User Group. He is currently one of the Lead Microsoft Data Platform Consultant for The Pythian Services - a global IT product and services company with headquarters in Ottawa, New York, Sydney, UK and India.  He also co-founded Excent One Inc, a technology solutions company based in the Philippines and Singapore that helps SMEs integrate and develop Microsoft based business Applications.</description>
+      <twitter>Pioisms</twitter>
+      <linkedin>https://www.linkedin.com/in/piobalistoy/</linkedin>
+      <ContactURL>https://lazysqlwriter.wordpress.com/; https://blog.pythian.com/author/balistoy/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Pioisms</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>98052</importID>
+      <name>Naginder Singh Virdi</name>
+      <label>
+      </label>
+      <description>Naginder is currently working as Technical Architect. With years of proven IT enterprise architecture experience, Naginder has successfully led many innovative projects and technology initiatives which have resulted in efficient ecosystems. 
+
+Naginder specializes in providing data driven solutions with Advanced Analytics, HA/DR solutions, performance optimization, consolidations. Has hands on experience in AI/BI, Azure Data Services. Past experience involves Database Administration and management, RD, Release cycles across multiple sectors like financial services and IT services.
+
+Naginder’s acknowledged hands on experience in the IT industry has seen him speak at international conferences and level 400 trainings for microsoft clients</description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/in/naginder-singh-virdi/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>95923</importID>
+      <name>Gogula Aryalingam</name>
+      <label>
+      </label>
+      <description>Gogula is a data analytics professional from Sri Lanka, with 14+ years on the Microsoft data platform. He has worked with many aspects of data analytics and BI solutions from architecting, designing, developing and consulting across various industries and verticals. He is Regional Mentor for PASS South Asia, Data Platform MVP, MCSE, former MCT, and MSc in IT. Gogula's passion revolves data analytics and BI; hence enjoys writing, teaching and speaking about the things he works with. He was also involved as an SME for Microsoft certification development. He currently juggles his full time job as Lead Architect while speaking at local and foreign events, along with regular stints at the Sri Lankan Data Community which he co-founded.</description>
+      <twitter>http://www.twitter.com/gogula</twitter>
+      <linkedin>http://www.linkedin.com/in/gogula</linkedin>
+      <ContactURL>http://datamaul.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=http://www.twitter.com/gogula</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>96131</importID>
+      <name>Aroh Shukla</name>
+      <label>
+      </label>
+      <description>Aroh works as a Microsoft partner, MVP in Data platform and a MCT. He is primarily focusing on SharePoint Online and Power BI. He helps the customers with their digital transformation journey through cutting edge Microsoft solutions.</description>
+      <twitter>aaroh_bits</twitter>
+      <linkedin>https://www.linkedin.com/in/arohshukla/</linkedin>
+      <ContactURL>http://aarohblah.blogspot.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=aaroh_bits</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92251</importID>
+      <name>Shehab El-Najjar</name>
+      <label>
+      </label>
+      <description>Shehab El-Najjar was the ONLY Microsoft SQL Server MVP in Gulf for the past 6 years and the 2nd one all over the Middle East  , he is the founder of SQL Gulf events series (SQL Gulf #1 , #2 and #3 ) where he spent so much time and efforts  to broadcast Microsoft SQL Server technologies all over the Gulf such as  KSA and Emirates and other Gulf cities ahead ..) 
+
+	He is now Professional Services Manager at Saudi  Emircom 
+
+	He was previously COO and business leader in KSA market through his startup WAJA IT for  3 years
+
+	He is an influencing Database community leader all over the region  	
+	A senior Database Consultant (SQL Server MVP for 6 years in row) -The 2nd MVP awardee SQL Server all over Middle East and Arabic region</description>
+      <twitter>https://twitter.com/MSQLPerformance</twitter>
+      <linkedin>https://www.linkedin.com/profile/view?id=126446983amp;trk=hp-identity-name</linkedin>
+      <ContactURL>http://sqlserver-performance-tuning.net/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/MSQLPerformance</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>93644</importID>
+      <name>Eng Soon Cheah</name>
+      <label>
+      </label>
+      <description>Eng Soon is a Microsoft MVP and certified Professional with more than 5 years of working experience ranging from Microsoft Azure,Xamarin,and Web. As a developer, besides the development task, he also involved in Application Security ,Cloud Security and DevSecOps.</description>
+      <twitter>https://twitter.com/CheahEngSoon</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/CheahEngSoon</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92092</importID>
+      <name>Asanka Padmakumara</name>
+      <label>
+      </label>
+      <description>Asanka is an experienced data engineer who is currently performing the role of Business Intelligence Consultant in Qrious. He has worked close to 10 years in BI and data analytics field and has implemented BI solutions for different industries. As a technology enthusiastic, he enjoys conducting technical presentations both locally and internationally. He is a MCSE in Data Management and Analytics as well as a Microsoft certified Azure Data Engineer. He is passionate about Data Analytics, Business Intelligence and AI related technologies.</description>
+      <twitter>asanka_e</twitter>
+      <linkedin>https://www.linkedin.com/in/asankapadmakumara/</linkedin>
+      <ContactURL>https://asankap.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=asanka_e</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>92251</importID>
+      <speakers>
+        <speaker>
+          <id>92251</id>
+          <name>Shehab El-Najjar</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>21MPR-02</name>
+      </location>
+      <title>T-SQL Performance Guidelines for the optimal DB stress powers</title>
+      <description>To reach your desired business functionalities, it can be easy using some common T-SQL practices like MTVF , scalar functions , Temp tables, Union…etc and they might perform pretty well on development server coz neither adequate stress of users nor adequate volume of data exist there but actually they seem totally strange once going to live where they become performing badly ending up eventually with and sharp skew of performance and standstill cases sometimes , this is due to the lack of stress powers of T-SQL codes which should be considered largely for critical mission DBs in particular more therefore I am going to talk to you about How to capture expensive queries using different techniques ..?and How to optimize them in the shortest time using scientific ways ..? (10 different T-SQL Practices will be explained within this session)</description>
+      <startTime>8/31/2019 3:15:00 PM</startTime>
+      <endTime>8/31/2019 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>92837</importID>
+      <speakers>
+        <speaker>
+          <id>92837</id>
+          <name>Karen Lopez</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>21MPR-02</name>
+      </location>
+      <title>The Tricky Part of Doing Tricky Things in your Database</title>
+      <description>We've mastered the basics of basic database design patterns, but what happens when you or a teammate wants to use THIS ONE WEIRD TRICK to improve on your database design?  Have you just discovered a brilliant new trick that no one else has ever thought of? Or will your new design cost you more, take on more risk and cause all kinds of pain for both IT and your business users?
+
+We'll demo tricks that we've seen in our database design reviews and show you how they work and talk about the trade-offs for using them.  You' learn about: Building a database engine inside your database, Implementing Hierarchies, Dealing with data structures that don't do as well in RDBMSs, Generating code out of the database, 	Optimizing the developer versus the data or the app, 	Using design patterns that don't reflect modern architectures and tools, …and a lot more.</description>
+      <startTime>8/31/2019 10:55:00 AM</startTime>
+      <endTime>8/31/2019 11:55:00 AM</endTime>
+    </event>
+    <event>
+      <importID>93653</importID>
+      <speakers>
+        <speaker>
+          <id>93653</id>
+          <name>Sandy Winarko</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>21MPR-01</name>
+      </location>
+      <title>PaaSport to Paradise: Lifting  Shifting with Azure SQL DB/Managed Instance + Azure Data Factory</title>
+      <description>This session focuses on the all PaaS solution of Azure SQL DB/Managed Instance (MI) + SSIS in Azure Data Factory (ADF) to lift  shift, modernize, and extend ETL workflows. You will first learn to provision Azure-SSIS Integration Runtime (IR) – dedicated ADF servers for running SSIS – with SSIS catalog (SSISDB) hosted by Azure SQL DB/MI and extend it with custom components. You will also learn to configure SSIS IR to access data on premises using Windows authentication and Virtual Network injection. You can then use the familiar SSDT/SSMS tools to manage your SSIS packages in the cloud just like you do on premises. You will next learn to modernize your ETL workflows by invoking SSIS package executions as first-class activities in ADF pipelines, allowing you to chain them with other activities, automatically (de)provision SSIS IR just in time, store secrets in Azure Key Vault, and splice advanced transformations, such as Power Query Source, Data Quality Tasks, etc.</description>
+      <startTime>8/31/2019 12:55:00 PM</startTime>
+      <endTime>8/31/2019 2:25:00 PM</endTime>
+    </event>
+    <event>
+      <importID>92856</importID>
+      <speakers>
+        <speaker>
+          <id>92856</id>
+          <name>Jason Aw</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>22CF-12</name>
+      </location>
+      <title>High Availability and Disaster Recovery for SQL Server in Azure IaaS</title>
+      <description>The CEO just tasked you with moving all the SQL Server instances to Azure, or maybe you are deploying a brand new application and want to leverage Azure IaaS to host SQL Server. Beyond security and performance, your most pressing concern might be ensuring SQL Server running in Azure is highly available.
+ 
+While on-prem high availability and disaster recovery options for SQL Server are well defined, moving those instances to Azure immediately presents some questions and challenges. Can I simply lift and shift my SQL Server Failover Cluster Instance to the cloud? Do I need to upgrade to SQL Server Enterprise Edition and us Always On Availability Groups? What about shared storage and failover clustering? What about disaster recovery, what are my options there? Load Balancers, Fault Domains, Availability Zones, Azure Site Recovery and Region Pairs, what are these things and why do they matter to me? 
+
+HA and DR professional Jason Aw with 20 years of experience explains all this and more in</description>
+      <startTime>8/31/2019 12:55:00 PM</startTime>
+      <endTime>8/31/2019 1:55:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95407</importID>
+      <speakers>
+        <speaker>
+          <id>95407</id>
+          <name>Dinesh Priyankara</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>21MPR-01</name>
+      </location>
+      <title>Data Science with SQL Server Machine Learning Service: Predictive Experiment</title>
+      <description>Making data available for data science was considered as very expensive and it was rare to see data scientist works directly with a database for creating experiments. Main reason could be, widely-used languages for data science were not available within DBMSs and DBMSs were not rich enough for experiments.
+
+Good news is, SQL Server Machine Learning Service is now equipped for data science. Let’s have a look on it and see how we can work on training experiments and predictive experiments. Let me show you;
+•	What is Data Science and its processes?
+•	What is SQL Server Machine Learning Service?
+•	Configuring SQL Server for data science
+•	Make a training experiment and predictive experiment using Python within SQL Server
+•	Consumed a trained model using TSQL
+
+Join with me and see how useful this with both operational and business intelligence areas.</description>
+      <startTime>8/31/2019 9:50:00 AM</startTime>
+      <endTime>8/31/2019 10:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>94595</importID>
+      <speakers>
+        <speaker>
+          <id>94595</id>
+          <name>Anupama Natarajan</name>
+        </speaker>
+      </speakers>
+      <track>Analytics and Visualization</track>
+      <location>
+        <name>22CF-12</name>
+      </location>
+      <title>Enterprise Big Data Analytics using Azure Data Lake Storage Gen2</title>
+      <description>Azure Data Lake Storage Gen2 is a highly scalable and cost-effective data lake solution for big data analytics. Data Lake Storage Gen2 makes Azure Storage the foundation for building enterprise data lakes on Azure. Data Lake Storage Gen2 allows you to easily manage massive amounts of data. 
+In this session you will learn
+•	How to ingest structured and unstructured data into Azure Data Lake Storage Gen2?
+•	How to access Azure Data Lake Storage Gen2 data with Azure Data Bricks using Spark?
+•	How to secure data in Azure Data Lake Storage Gen2?
+At the end of the session you will learn how to implement end to end Analytics for a modern Data Warehouse using Azure Data Lake Storage Gen2.</description>
+      <startTime>8/31/2019 3:15:00 PM</startTime>
+      <endTime>8/31/2019 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>94992</importID>
+      <speakers>
+        <speaker>
+          <id>94992</id>
+          <name>Joseph D'Antoni</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>21MPR-02</name>
+      </location>
+      <title>Automagic Tuning - SQL Server 2019 and Beyond</title>
+      <description>Identifying and fixing problematic query plans got a lot easier in SQL Server 2016, with the introduction of the Query Store. SQL Server 2019 takes that power a few steps further. Have you ever:
+
+•    Had a query suddenly slow down at 2 AM when you were on call?
+•    Seen a query that received a giant memory grant that brought the rest of the work on your server to a screeching halt?
+•    Had the optimizer choose the wrong type of join and send your query off to never finish?
+
+Don’t worry, you will still have your job, but the features introduced in SQL Server 2017 will make narrow your focus to the absolute worst queries in your environment. You will also get a sneak preview of what’s coming into future releases of SQL Server in terms of performance.</description>
+      <startTime>8/31/2019 9:50:00 AM</startTime>
+      <endTime>8/31/2019 10:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>94587</importID>
+      <speakers>
+        <speaker>
+          <id>94587</id>
+          <name>Senthamil V</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>21MPR-01</name>
+      </location>
+      <title>SharePoint as a Data Platform for Microsoft Power Platform</title>
+      <description>Use SharePoint Online site and custom List as a data source for number of applications. SharePoint Custom list can behave like a data table with Relationship to enforce data integrity. Use Custom list as a development platform for custom apps. Microsoft Power platform can be used to integrate with custom list to fetch and act on data. Microsoft Flow can be a business process engine.</description>
+      <startTime>8/31/2019 3:15:00 PM</startTime>
+      <endTime>8/31/2019 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>95579</importID>
+      <speakers>
+        <speaker>
+          <id>95579</id>
+          <name>Mohammad Asif Waquar</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>22BR-01</name>
+      </location>
+      <title>Manage data to the ledger using Azure Blockchain as Service</title>
+      <description>Block chain is very fast growing technology.It is going to transform industry , lot of RD and initiatives going on in this area. In this session, We are going  to cover patterns and server-less tools for sending data to the ledger network with Azure Blockchain Service and understand data flow in Blockchain Consortium Network.</description>
+      <startTime>8/31/2019 4:15:00 PM</startTime>
+      <endTime>8/31/2019 5:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>93528</importID>
+      <speakers>
+        <speaker>
+          <id>93528</id>
+          <name>Monica Rathbun</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>21MPR-02</name>
+      </location>
+      <title>Performance Tuning, Getting the Biggest Bang for Your Buck</title>
+      <description>Everyone wants to know if there are magic buttons you can push to make SQL Server run faster, better and more efficiently. In this session we will go over some of my go-to performance tricks that you can implement to get the biggest improvement with the least amount of change.  When it comes to performance tuning, every second counts. We will cover memory optimization, isolation levels, trace flags, statistics, configuration changes and more.  I’ll go over real life scenarios we come across as consultants and the changes we made to fix them.</description>
+      <startTime>8/31/2019 12:55:00 PM</startTime>
+      <endTime>8/31/2019 1:55:00 PM</endTime>
+    </event>
+    <event>
+      <importID>93835</importID>
+      <speakers>
+        <speaker>
+          <id>93835</id>
+          <name>Nisal Mihiranga</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>22BR-01</name>
+      </location>
+      <title>Scalable Data Models using Aggregations in Power BI</title>
+      <description>The Aggregations is one of the biggest feature introduced in Power BI in terms of scalability. In this session, will introduce the aggregation feature first. Then move to discuss use cases where you can implement aggs and finally demonstrate how to implement aggregations in your data models.</description>
+      <startTime>8/31/2019 10:55:00 AM</startTime>
+      <endTime>8/31/2019 11:55:00 AM</endTime>
+    </event>
+    <event>
+      <importID>92200</importID>
+      <speakers>
+        <speaker>
+          <id>92200</id>
+          <name>Mohamed Mawla</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>22CF-12</name>
+      </location>
+      <title>From Zero to Hero: Start Machine Learning using Azure ML studio</title>
+      <description>The session aim is to get people excited and curious more about ML without digging in coding or deep concepts. 
+
+We will explore ML Azure offering, Some ML concepts, ML Studio, create an experiment from Scratch and show how ML can target common business challenges like demand projection or price targeting
+
+Lots of hands-on</description>
+      <startTime>8/31/2019 2:00:00 PM</startTime>
+      <endTime>8/31/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>93938</importID>
+      <speakers>
+        <speaker>
+          <id>93938</id>
+          <name>Joanna Wolthuis</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>21MPR-02</name>
+      </location>
+      <title>Be a dynamic SQL dynamo!</title>
+      <description>This session will cover the basics of dynamic SQL; how, why and when you may wish to use it with demos of use cases and scenarios where it can really save the day (trying to perform a search with a variable number of optional search terms, anyone?). We will also cover the performance and security impacts touching on the effect on query plans, index usage and security (SQL injection!) along with some best practices.</description>
+      <startTime>8/31/2019 4:15:00 PM</startTime>
+      <endTime>8/31/2019 5:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>93350</importID>
+      <speakers>
+        <speaker>
+          <id>93350</id>
+          <name>Manohar Punna</name>
+        </speaker>
+      </speakers>
+      <track>Strategy and Architecture</track>
+      <location>
+        <name>21MPR-02</name>
+      </location>
+      <title>Bridging the gap between SSRS and Power BI</title>
+      <description>Traditionally, SSRS is used for paginated reports which gives flexibility like drill through reports, subscriptions and print formatting. With Power BI the reports are now more interactive and dynamic. There are still few gaps between these two platforms which are built to purpose. This gap is getting smaller as features are ported between these two platforms. In this session I will be going through various features which are bridging these gaps and point out the differences. These are significant and can affect your decision in choosing the right platform which will fit your needs.</description>
+      <startTime>8/31/2019 2:00:00 PM</startTime>
+      <endTime>8/31/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>94776</importID>
+      <speakers>
+        <speaker>
+          <id>94776</id>
+          <name>Janusz Rokicki</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>21MPR-01</name>
+      </location>
+      <title>Anomaly Detection in Predictive Maintenance for Sql Server</title>
+      <description>The amount of data we collect, store and process is rapidly growing and goes hand in hand with growing amount of work related to managing it. Automation is a key if we want to stay in control and AIOps represents its next major level with potential to revolutionise IT operations. This session explains what predictive maintenance is, provides common use cases and gives practical examples that help to avoid costly Sql Server disruptions and eliminate firefighting. Presented real-world examples address limitations of Query Store and automate the identification and resolution of common performance issues.</description>
+      <startTime>8/31/2019 10:55:00 AM</startTime>
+      <endTime>8/31/2019 11:55:00 AM</endTime>
+    </event>
+    <event>
+      <importID>94734</importID>
+      <speakers>
+        <speaker>
+          <id>94734</id>
+          <name>Patrick Flynn</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>22BR-01</name>
+      </location>
+      <title>Get Comfortable with Query tuning and Execution Plans</title>
+      <description>Even as many of the traditional DBA activities become automated or managed by Cloud providers, the ability to tune and optimize database query performance remains a desirable and marketable skill.
+
+Central to ability to tune queries is an ability to use information provided from Execution plans, DMVs, Query Store and Extended Events.
+
+In this demo based session we will look into:
+- What information is available 
+- How it can be used.
+- Techniques to improve performance. 
+
+Attendees will leave with an understanding of possibilities of turning queries and a roadmap for further learning.
+
+This session will assume a basic knowledge of T-SQL and execution plans.</description>
+      <startTime>8/31/2019 12:55:00 PM</startTime>
+      <endTime>8/31/2019 1:55:00 PM</endTime>
+    </event>
+    <event>
+      <importID>93541</importID>
+      <speakers>
+        <speaker>
+          <id>93541</id>
+          <name>Denny Cherry</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>21MPR-01</name>
+      </location>
+      <title>SQL Server Database Administration for the non-DBA</title>
+      <description>Are you a developer or a systems admin and you've just been handed a SQL Server database and you've got no idea what to do with it?  I've got some of the answers here in this session for you.  During this session we will cover a variety of topics including backup and restore, recovery models, database maintenance, compression, data corruption, database compatibility levels and indexing.
+
+While this session won't teach you everything you need to know, it will give you some insights into the SQL Server database engine and give you the ability to better know what to look for.</description>
+      <startTime>8/31/2019 2:00:00 PM</startTime>
+      <endTime>8/31/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>93644</importID>
+      <speakers>
+        <speaker>
+          <id>93644</id>
+          <name>Eng Soon Cheah</name>
+        </speaker>
+      </speakers>
+      <track>Cloud Application Development  Deployment</track>
+      <location>
+        <name>22CF-12</name>
+      </location>
+      <title>Securing your data with Azure SQL DB</title>
+      <description>In this session, you will learn about the layers of data protection, important security features, potential scenarios in which these features can be applied to limit exposure to security threats and best practices for securing business applications and data.</description>
+      <startTime>8/31/2019 10:55:00 AM</startTime>
+      <endTime>8/31/2019 11:55:00 AM</endTime>
+    </event>
+    <event>
+      <importID>92095</importID>
+      <speakers>
+        <speaker>
+          <id>92095</id>
+          <name>Ben Weissman</name>
+        </speaker>
+      </speakers>
+      <track>Advanced Analysis Techniques</track>
+      <location>
+        <name>22BR-01</name>
+      </location>
+      <title>SQL Server Big Data Clusters - A game changer?</title>
+      <description>With SQL Server 2019, Microsoft is introducing a new couple of features for data virtualization, data mart scale out and big data analysis. They all together form the SQL Server Big Data Clusters.
+
+Let's take a look at what that means and how you can make use of the extended PolyBase capabilities, built-in Spark queries and more!</description>
+      <startTime>8/31/2019 2:00:00 PM</startTime>
+      <endTime>8/31/2019 3:00:00 PM</endTime>
+    </event>
+    <event>
+      <importID>92092</importID>
+      <speakers>
+        <speaker>
+          <id>92092</id>
+          <name>Asanka Padmakumara</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>22CF-12</name>
+      </location>
+      <title>ETL2.0: Data Engineering with Azure Databricks</title>
+      <description>Spark and Azure Databricks have become game changing features in data world and processing large volume of data has never been faster. In this session , I will give a introduction to Azure Databricks, Apache Spark and will walk though step by step on how to use Azure Databricks.Additionally I will showcase how to perform ETL operations using Azure Databricks.</description>
+      <startTime>8/31/2019 4:15:00 PM</startTime>
+      <endTime>8/31/2019 5:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>96414</importID>
+      <speakers>
+        <speaker>
+          <id>96414</id>
+          <name>Pio Balistoy</name>
+        </speaker>
+      </speakers>
+      <track>Enterprise Database Administration  Deployment</track>
+      <location>
+        <name>22BR-01</name>
+      </location>
+      <title>The Right way of Modernizing Your SQL Server</title>
+      <description>Any SQL Server from 2008 R2 and older are no longer supported. Compatibility and Support has changed. In this session we will discuss compatibility, support and the right way of modernizing your Database Application and the necessary tasks for planning, migrating and optimizing your Database be it on premise or into the cloud.</description>
+      <startTime>8/31/2019 3:15:00 PM</startTime>
+      <endTime>8/31/2019 4:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>96131</importID>
+      <speakers>
+        <speaker>
+          <id>96131</id>
+          <name>Aroh Shukla</name>
+        </speaker>
+      </speakers>
+      <track>BI Information Delivery</track>
+      <location>
+        <name>22BR-01</name>
+      </location>
+      <title>3 reasons to get excited about Power BI Dataflow.</title>
+      <description>Power BI Dataflow is a new feature in Power BI and gives you self-service data prep in Power BI. Dataflows give extensibility to other services Azure, Dynamics, Azure Databricks, Azure ML etc. and uses common data model that PowerApps leverages.</description>
+      <startTime>8/31/2019 9:50:00 AM</startTime>
+      <endTime>8/31/2019 10:50:00 AM</endTime>
+    </event>
+    <event>
+      <importID>95923</importID>
+      <speakers>
+        <speaker>
+          <id>95923</id>
+          <name>Gogula Aryalingam</name>
+        </speaker>
+      </speakers>
+      <track>BI Platform Architecture, Development  Administration</track>
+      <location>
+        <name>22CF-12</name>
+      </location>
+      <title>Azure Data Factory: Ingesting and Integrating Data for a Modern Data Warehouse</title>
+      <description>When you build a business intelligence system for the current times, such as a modern data warehouse, the mantra for getting data onboard is ELT, and not ETL. Building an ELT solution is not as simple as switching two letter; it is a paradigm shift in thinking. In this session, I will brief you on the concept of a modern data warehouse, then move to why its data integration needs are different, how a solution for such a need is designed, and finally how you would build it using Azure Data Factory, and related technologies.</description>
+      <startTime>8/31/2019 9:50:00 AM</startTime>
+      <endTime>8/31/2019 10:50:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

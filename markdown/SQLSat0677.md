@@ -1,0 +1,22 @@
+# SQLSaturday #677 - Salvador 2017
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:45:00|Vitor Fava|Track 3|[Quer ser um excelente DBA? Pergunte-me como.](66418.md)
+09:45:00|Tiago Crespi|Track 1|[SQL Server no Linux! Como é possível?](70200.md)
+10:45:00|Rodrigo Dornel|Track 3|[Análise de dados com Linguagem R + Visual Studio 2017 + Power BI](67562.md)
+10:45:00|Marcelo Adade|Track 1|[Linux Administration for SQL SERVER DBAs](68665.md)
+10:45:00|Fernando Andreazi|Track 2|[Dados, Cloud e Inovação](68943.md)
+11:45:00|Igor Santos de Paula|Track 3|[Azure CosmosDB: O serviço de banco de dados globalmente distribuído e multimodelo da Microsoft](69282.md)
+11:45:00|Nilton Pinheiro|Track 1|[Coletando e Analizando Dados de Performance do SQL Server com PSSDiag e SQLNexus](69968.md)
+11:45:00|Mauricio Purificação|Track 2|[Aprendendo R](70028.md)
+13:30:00|Antonio Lazaro Carvalho Borges|Track 2|[NoSQL, mas o que é isso? Já posso usar?](67850.md)
+13:30:00|Raul Oliveira|Track 1|[Análise de Performance Usando o Sistema Operacional](69900.md)
+14:30:00|Anderson Vasconcelos|Track 1|[Blockchain como Serviço no Azure](69778.md)
+14:30:00|Fabrício Lima|Track 2|[Indices para Iniciantes - Clustered, Nonclustered,  Scan, Seek, Lookup e Muito Mais](69863.md)
+14:30:00|Bruno Feldman|Track 3|[Conhecendo o Azure SQL Data Warehouse](70124.md)
+16:00:00|Thiago Carlos de Alencar|Track 1|[Azure SQL Database - Troubleshooting Performance  e Otimização!](69071.md)
+16:00:00|Diogenes Santos|Track 2|[Big Data com Ecossistema Hadoop](70009.md)
+16:00:00|Maycon Alves|Track 3|[ENTREGANDO INFORMAÇÕES GERENCIAIS AO SEU NEGÓCIO COM SQL SERVER E](70160.md)
+17:00:00|Ignez Mello|Track 1|[Wait types: o que são e para que servem?](67505.md)
+17:00:00|Joice Souza|Track 3|[Consumindo dados de forma prática com EXCEL](70038.md)
+17:00:00|Luiz Cláudio Silva|Track 2|[Usando bancos de dados NoSQL com Python](70094.md)

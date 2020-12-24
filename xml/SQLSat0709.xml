@@ -1,0 +1,316 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #709 - Belgium 2018</name>
+    <startDate>3/17/2018 12:00:00 AM</startDate>
+    <attendeeEstimate>150</attendeeEstimate>
+    <timezone>(GMT+01:00) Brussels, Copenhagen, Madrid, Paris</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#SQLSatBE</twitterHashtag>
+    <venue>
+      <name>Thomas More Campus De Vest</name>
+      <street>Zandpoortvest 60, 2800 Mechelen</street>
+      <city>Mechelen</city>
+      <state>Antwerp, Belgium</state>
+      <zipcode>2800</zipcode>
+      <longitude>4.48817905082735</longitude>
+      <latitude>51.0237096098754</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>70296</importID>
+      <name>Cédric Charlier</name>
+      <label>
+      </label>
+      <description>Cédric is a talented architect and Data Platform MVP active in the domain of Business Intelligence and Data warehousing. He has more than 10 years of successful experiences with SQL Server in European industrial groups and services companies. Driven by quality and reliability, he is the main developer of an open-source solution for testing BI solutions (cubes, etl, reports) named NBi (www.nbi.io). Cedric also advocates for the introduction and general usage of agile practices in BI’s world.</description>
+      <twitter>@Seddryck</twitter>
+      <linkedin>http://be.linkedin.com/in/cedriccharlier</linkedin>
+      <ContactURL>http://seddryck.wordpress.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@Seddryck</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70313</importID>
+      <name>Simon Whiteley</name>
+      <label>
+      </label>
+      <description>Simon Whiteley is the Director of Engineering for Advancing Analytics Ltd and a Microsoft Data Platform MVP. Simon is a seasoned solution architect and technical lead with well over a decade of Microsoft Analytics experience. A deep techie with a focus on emerging cloud technologies and applying "big data" thinking to traditional analytics problems, Simon also has a passion for bringing it back to the high level and making sense of the bigger picture. When not tinkering with tech, Simon is a death-dodging London cyclist, a sampler of craft beers, an avid chef, and a generally nerdy person.</description>
+      <twitter>MrSiWhiteley</twitter>
+      <linkedin>https://uk.linkedin.com/pub/simon-whiteley/32/994/aa8</linkedin>
+      <ContactURL>http://blogs.adatis.co.uk/blogs/simonwhiteley/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MrSiWhiteley</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70336</importID>
+      <name>Nico Jacobs</name>
+      <label>
+      </label>
+      <description>Dr. Nico Jacobs is a Microsoft Business Intelligence and SQL Server trainer at the U2U training center since 2004. Before that, he was a machine learning researcher at the university of Leuven, Belgium.
+At U2U, Nico creates and delivers courses on the SQL Server business intelligence stack (Integration Services, Analysis Services, Reporting Services …), Power BI, the traditional relational database environment (database development and administration) and the Azure AI and Big Data stack (Azure Data Factory, Machine Learning, Synapse Analytics,...)</description>
+      <twitter>sqlwaldorf</twitter>
+      <linkedin>http://be.linkedin.com/in/sqlwaldorf</linkedin>
+      <ContactURL>http://blogs.u2u.be/u2u/author/Nico-Jacobs.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=sqlwaldorf</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>73187</importID>
+      <name>Callum Green</name>
+      <label>
+      </label>
+      <description>Callum is a Senior BI Consultant with Adatis Consulting, passionate about improving presentation layer architecture and finding new ways to exploit traditional warehouse structures. He has worked on many BI projects over a 9 year period, deviating from the typical Microsoft Stack and more into the Azure domain. Callum has written a number of blogs on subjects like Power BI, Power Query and the M programming language.</description>
+      <twitter>https://twitter.com/CallumGAdatis</twitter>
+      <linkedin>https://www.linkedin.com/in/callum-green</linkedin>
+      <ContactURL>http://blogs.adatis.co.uk/callumgreen/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/CallumGAdatis</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70421</importID>
+      <name>Sander van der hoeff</name>
+      <label>
+      </label>
+      <description>With over 20 years of experience in automation Sander van der Hoeff knows his way around in the ICT business. Since 2000 Sander is Specialized in business intelligence and data warehousing using the full SQLServer Stack. In 2012 Sander founded his own BI-company: Du Sabot. Nowadays Sander spends his time on several BI- and DWH-projects as an independent professional. Sander combines deep technical knowledge with the capability to explain difficult BI- and DWH-concepts to the non-technical people</description>
+      <twitter>shoeff</twitter>
+      <linkedin>http://nl.linkedin.com/in/shoeff</linkedin>
+      <ContactURL>http://www.du-sabot.nl</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=shoeff</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>72086</importID>
+      <name>Sander Stad</name>
+      <label>
+      </label>
+      <description>Sander is a SQL Server DBA with over 15 years of experience in IT. 
+He has worked with SQL Server since version 2000 and is a PowerShell enthusiast.</description>
+      <twitter>@SQLStad</twitter>
+      <linkedin>https://nl.linkedin.com/in/sanderstad</linkedin>
+      <ContactURL>http://www.sqlstad.nl</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLStad</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>70305</importID>
+      <name>Andrew Pruski</name>
+      <label>
+      </label>
+      <description>SQL Server DBA with over 10 year's experience. Originally from Wales but now living in Ireland</description>
+      <twitter>https://twitter.com/DBAFromTheCold</twitter>
+      <linkedin>https://www.linkedin.com/in/andrewpruski</linkedin>
+      <ContactURL>https://dbafromthecold.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/DBAFromTheCold</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>71859</importID>
+      <name>Christopher Adkin</name>
+      <label>
+      </label>
+      <description>Chris is a freelance SQL consultant who has been working with SQL Server since 2000, his passion is for squeezing every last drop of performance out of SQL Server and understanding the database engine at a level which conventional tools cannot provide any insights on.</description>
+      <twitter>ChrisAdkin8</twitter>
+      <linkedin>https://www.linkedin.com/in/wollatondba</linkedin>
+      <ContactURL>http://www.chrisadkin.io</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=ChrisAdkin8</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>70421</importID>
+      <speakers>
+        <speaker>
+          <id>70421</id>
+          <name>Sander van der hoeff</name>
+        </speaker>
+      </speakers>
+      <track>DBA</track>
+      <location>
+        <name>ROOM 2</name>
+      </location>
+      <title>SQL Server under Pressure: Can I Fix it?</title>
+      <description>SQLServer under pressure:  Can I fix it? 
+
+Where to start when your SQLServer is under pressure? If your server is misconfigured or strange things are happening, there are a lot of free tools and scripts available online.These tools will help you decide whether you have a problem you can fix yourself or you really need a specialized DBA to solve it. 
+ 
+Those scripts and tools are written by renouwned SQLServer specialists. Those tools provide you with insights of what might be wrong on your SQLServer in an quick and easy manner. You don’t need extensive knowledge of SQLServer nor do you need expensive tools to do your primary analysis of what is going wrong
+
+And in a lot of cases these tools will tell you that you yourself can fix the problem.</description>
+      <startTime>3/17/2018 1:20:00 PM</startTime>
+      <endTime>3/17/2018 2:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70313</importID>
+      <speakers>
+        <speaker>
+          <id>70313</id>
+          <name>Simon Whiteley</name>
+        </speaker>
+      </speakers>
+      <track>BI DEV</track>
+      <location>
+        <name>ROOM 1</name>
+      </location>
+      <title>Modern Data Warehousing - The Lambda Approach to Azure BI</title>
+      <description>Technology changes quickly - patterns and approaches less so. As people move towards the cloud, there are clear benefits of adopting a polyglot cloud architecture employing a range of distributed components.
+
+This session will take you through the pattern known as the Lambda architecture, a reference pattern for building data analytics systems that can handle any combination of data velocity, variety and volume. The session will outline the set of tools and integration points that can underpin the approach. Do you design real-time reporting systems? Or crunch petabytes of data? Perhaps you are adopting a cloud architecture and just want to handle anything the future throws at you? This session is for you.
+
+We will follow the movement of data through batch and speed layers via Azure Data Lake Store  Analytics and Streaming Analytics before considering the serving layer with Azure SQL DataWarehouse and downstream reporting tools.</description>
+      <startTime>3/17/2018 2:40:00 PM</startTime>
+      <endTime>3/17/2018 3:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>71859</importID>
+      <speakers>
+        <speaker>
+          <id>71859</id>
+          <name>Christopher Adkin</name>
+        </speaker>
+      </speakers>
+      <track>BI DEV</track>
+      <location>
+        <name>ROOM 2</name>
+      </location>
+      <title>Continuous Integration Pipelines With Jenkins, Docker and SQL Server</title>
+      <description>Docker has taken the world of IT by storm and looks to be ushering in the greatest platform paradigm shift since virtualisation and the public cloud. The transient nature of Docker containers makes them the perfect fit for spinning up and then tearing down SQL Server instances as part of continuous integration pipelines. Jenkins is the most popular build automation engine in the open source community, it has phenomenal plugin support, it is used by the likes of Netflix and eBay and excels in its ability to handle build pipelines as code. In this session you will learn how a simple build pipeline that takes a SQL Server data tools project checked out from source code control, built into a DACPAC which is then deployed to a SQL Server instance can be extended to use containers, multi-branch build pipelines, tSQt testing and much much more.</description>
+      <startTime>3/17/2018 10:00:00 AM</startTime>
+      <endTime>3/17/2018 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>73187</importID>
+      <speakers>
+        <speaker>
+          <id>73187</id>
+          <name>Callum Green</name>
+        </speaker>
+      </speakers>
+      <track>BI DEV</track>
+      <location>
+        <name>ROOM 1</name>
+      </location>
+      <title>Embedding PowerApps into a Power BI Dashboard</title>
+      <description>PowerApps are a relatively new technology released within the Azure stack.  Its primary focus is to empower technical or non-technical developers to create quick and simple custom apps.  They can be used as standalone apps or embedded within websites/mobile apps.  On the other hand, Power BI is now a mature product and needs little introduction.
+
+What if we could use PowerApps and Power BI together?  Can we embed a PowerApp into a Dashboard and give the end user the ability to write back data to a visual?  Come along to my session to find out.
+
+The 1-hour session includes other technologies such as Azure SQL Database, Common Data Service (CDS) and Flow.  In particular, I will demonstrate how you integrate these technologies with PowerApps and Power BI.  Whilst all levels of expertise are welcome, users require prior knowledge of Power BI Dashboards and PowerApps.</description>
+      <startTime>3/17/2018 1:20:00 PM</startTime>
+      <endTime>3/17/2018 2:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70305</importID>
+      <speakers>
+        <speaker>
+          <id>70305</id>
+          <name>Andrew Pruski</name>
+        </speaker>
+      </speakers>
+      <track>Application  Database Development</track>
+      <location>
+        <name>ROOM 2</name>
+      </location>
+      <title>Partitioning 101</title>
+      <description>Partitioning has been available in SQL Server since 2005 but there can be a lot of misconceptions around it.
+This session will give attendees a refresher through partitioning concepts and the implementation of those concepts through live demos.
+
+Topics covered will be: -
+Paritioning definition
+Potential benefits and pitfalls
+Overview of partitioning functions and schemes
+Table design considerations
+Splitting and merging partitions
+Switching data
+Implementing sliding windows</description>
+      <startTime>3/17/2018 11:20:00 AM</startTime>
+      <endTime>3/17/2018 12:20:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70336</importID>
+      <speakers>
+        <speaker>
+          <id>70336</id>
+          <name>Nico Jacobs</name>
+        </speaker>
+      </speakers>
+      <track>BI DEV</track>
+      <location>
+        <name>ROOM 2</name>
+      </location>
+      <title>When the ‘bug’ turns out to be a feature</title>
+      <description>You just finished a simple piece of T-SQL code, but when you run it, it turns out it does something different then what you expected… If you had this experience, hopefully you noticed it before it went into production!
+In this very interactive session you will learn about common T-SQL mistakes, why the code executes that way, and how to avoid making these mistakes in the future.</description>
+      <startTime>3/17/2018 2:40:00 PM</startTime>
+      <endTime>3/17/2018 3:40:00 PM</endTime>
+    </event>
+    <event>
+      <importID>70296</importID>
+      <speakers>
+        <speaker>
+          <id>70296</id>
+          <name>Cédric Charlier</name>
+        </speaker>
+      </speakers>
+      <track>BI DEV</track>
+      <location>
+        <name>ROOM 1</name>
+      </location>
+      <title>Graphs ... graphs everywhere!</title>
+      <description>Since a few months, graphs are popping up everywhere in the Microsoft Data Platform ecosystem. SQL Server has some new features dedicated to handle and query graphs and Azure CosmosDB has a new API dedicated to query graph structures. This session is the opportunity to be in contact with both technologies and find out their use-cases and limits. We'll start by an introduction to graph then see the concept in action with SQL Server and the new MATCH syntax supported by T-SQL. Then, we'll move to Azure CosmosDB and see why this TinkerPop-enabled database is a good place to handle more complex use-cases and go further with Graphs.</description>
+      <startTime>3/17/2018 10:00:00 AM</startTime>
+      <endTime>3/17/2018 11:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>72086</importID>
+      <speakers>
+        <speaker>
+          <id>72086</id>
+          <name>Sander Stad</name>
+        </speaker>
+      </speakers>
+      <track>BI DEV</track>
+      <location>
+        <name>ROOM 1</name>
+      </location>
+      <title>PowerShell - Grow Your Script From Simple to Module</title>
+      <description>With todays features within PowerShell developers are able to create the most advanced functions imaginable.
+
+We're talking about multiple functions interacting with each other, parameter validation, pipelines, use of the -WhatIf, modules, classes etc.
+
+If you're someone who wants to learn more to upgrade your current scripts to advanced functions, come to my session. I'll show you in a couple of easy steps how a simple script can be turned into something beautiful. 
+
+Have you written a couple of scripts but want to get them to the next level. Than you'll want to attend this session and we'll see how far the rabbit hole goes.</description>
+      <startTime>3/17/2018 11:20:00 AM</startTime>
+      <endTime>3/17/2018 12:20:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

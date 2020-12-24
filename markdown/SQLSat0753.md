@@ -1,0 +1,22 @@
+# SQLSaturday #753 - Lviv 2018
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:45:00|Markus Ehrenmueller-Jensen|Analytics and Visualization|[Create Stunning Visualizations with The Help of R](73920.md)
+09:45:00|Torsten Strauss|Enterprise Database Administration  Deployment|[Database tuning advisor vs. dynamic management views](74110.md)
+09:45:00|Eugene Polonichko|Cloud Application Development  Deployment|[Azure Databricks for Data Engineering](82328.md)
+10:55:00|André Melancia|Application  Database Development|[Hacking? Mission Possible!](73884.md)
+10:55:00|Michal Sadowski|Enterprise Database Administration  Deployment|[Encryption in SQL Server](73942.md)
+10:55:00|Maryna Popova|BI Platform Architecture, Development  Administration|[AWS Redshift Introduction](83079.md)
+12:50:00|Grzegorz Stolecki|BI Platform Architecture, Development  Administration|[Predictive Reporting Services Performance Monitoring](74193.md)
+12:50:00|Marcos Freccia|Enterprise Database Administration  Deployment|[10 Alerts that you should have it running in your SQL Server!](80706.md)
+12:50:00|Denis Reznik|Application  Database Development|[SQL Server Performance Tuning Nowadays](84165.md)
+14:00:00|Jan Mulkens|Advanced Analysis Techniques|[Practical SQL Server Machine Learning Services](73982.md)
+14:00:00|Erland Sommarskog|Application  Database Development|[Dynamic Search Conditions](83716.md)
+14:00:00|Andrii Zrobok|Application  Database Development|[MS SQL: Worst Practices](85476.md)
+15:10:00|Mikael Wedham|Application  Database Development|[A Masters view on Query plans and indexing](73895.md)
+15:10:00|Jose Manuel Jurado Diaz|Cloud Application Development  Deployment|[Back to the future - Migrating our SQL Server OnPremise Database to Azure](74339.md)
+15:10:00|Satya Jayanty|Cloud Application Development  Deployment|[Azure Cosmos DB - What you need to know to build globally distributed apps?](74418.md)
+15:10:00|Yevhen Nedashkivskyi|Enterprise Database Administration  Deployment|[ДБА мимоволі – що робити? (українською)](86074.md)
+16:20:00|Andriy Pogorelov|Enterprise Database Administration  Deployment|[SQL Server Transaction Log: internals](73940.md)
+16:20:00|Catalin Gheorghiu|Application  Database Development|[SQL database on IoT devices, could you? should you? would you?](84963.md)
+16:20:00|Vitalii Bondarenko|Strategy and Architecture|[Data Migration Project for over 200 TB: Pre-sale, Architecture, PoC and Delivery](85663.md)

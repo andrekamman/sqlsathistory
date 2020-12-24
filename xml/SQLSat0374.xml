@@ -1,0 +1,779 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #374 - Vienna 2015</name>
+    <startDate>2/28/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>300</attendeeEstimate>
+    <timezone>(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatVienna</twitterHashtag>
+    <venue>
+      <name>JUFA Wien City</name>
+      <street>Mautner Markhof Gasse 50</street>
+      <city>Vienna</city>
+      <state>, Austria</state>
+      <zipcode>1110 </zipcode>
+      <longitude>16.420449</longitude>
+      <latitude>48.175701</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>25</importID>
+      <name>Redgate Software (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://rd.gt/2j7SNf9</url>
+      <imageURL>https://www.red-gate.com/assets/interim/assets/community/images/rg-logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>27</importID>
+      <name>Solid Quality Mentors</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.solidq.com</url>
+      <imageURL>https://www.pass.org/images/solidquality.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>961</importID>
+      <name>ppedv Training</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.ppedv.at</url>
+      <imageURL>https://ppedv.de/Images/ppedvlogo_klein.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>3</importID>
+      <name>Idera</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.idera.com/Content/Home.aspx</url>
+      <imageURL>https://www.sqlsaturday.com/images/SQLSaturday/eventsponsors/IDERA170x60.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>532</importID>
+      <name>cubido business solutions gmbh</name>
+      <label>Silver Sponsor</label>
+      <url>http://www.cubido.at</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/917/EventSponsor_14377.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>659</importID>
+      <name>Global Knowledge Network GmbH</name>
+      <label>Bronze Sponsor</label>
+      <url>http://www.globalknowledge.at/</url>
+      <imageURL>https://www.globalknowledge.at/styles/images/logo.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Platinum</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>20820</importID>
+      <name>Miroslav Dimitrov</name>
+      <label>
+      </label>
+      <description>Miroslav Dimitrov is a Senior Big Data and Analytics Engineer at DXC Technology, regular speaker at various events and Microsoft Certified Trainer. He is MCSE: Data Platform for SQL Server and MCITP on SQL 2008. In the last years he had worked on great variety of customers' environments and involved in complex transitions and transformation projects as well as developing private and public cloud solutions. Miroslav is also leading database courses at Sofia University.</description>
+      <twitter>@miro_dd</twitter>
+      <linkedin>https://bg.linkedin.com/in/dimitrovmiroslav</linkedin>
+      <ContactURL>http://www.sqlshack.com/author/miroslav-dimitrov/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@miro_dd</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>24226</importID>
+      <name>Scott Klein</name>
+      <label>
+      </label>
+      <description>Scott Klein is a senior consultant with SQL Solutions Group with over two decades of experience working with Microsoft SQL Server. Prior to SSG, Scott spent almost 10 years at Microsoft, traveling the globe as a technical evangelist training and speaking about SQL Server and Microsoft’s Azure data services. Scott’s recent focus has been on advanced analytics, including big data and IoT, providing real-world training to help bring intelligence to your data. Scott has authored several books focusing on data and data analytics. Scott is continuously striving and looking for ways to help developers and companies grok the wonderful world of data.</description>
+      <twitter>SQLScott</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://aka.ms/sqlscott</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=SQLScott</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>20761</importID>
+      <name>Miloš Radivojević</name>
+      <label>
+      </label>
+      <description>Miloš Radivojević is a database consultant located in Vienna, Austria. He is Data Platform MVP and specializes in SQL Server for application developers and performance and query tuning. Currently, he works as a principal database consultant in bwin GVC (the largest regulated online gaming company in the world). He is co-founder of the SQL Pass Austria and speaks regularly at local and international database conferences. He is also co-author of the books SQL Server 2016 Developer's Guide, SQL Server 2017 Developer's Guide and Mastering SQL Server 2017.</description>
+      <twitter>MilosSQL</twitter>
+      <linkedin>http://at.linkedin.com/pub/milos-radivojevic/1b/7bb/290/de</linkedin>
+      <ContactURL>https://milossql.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MilosSQL</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>18602</importID>
+      <name>Kenneth Nielsen</name>
+      <label>
+      </label>
+      <description>Kenneth M. Nielsen currently work at Microsoft as Data Platform Solution Architect, focusing on data services on Azure. Previously worked as managing consultant and teamlead for the company Rehfeld Partners in Denmark. He has worked at various consulting firms and worked on many small/large/very large bi installations in Denmark over the last 12 years. He really likes to advice the customers to take the right decisions, but also maintains a high technical knowledge, so he can act at both architect and developer.</description>
+      <twitter>https://twitter.com/DoktorKermit</twitter>
+      <linkedin>http://dk.linkedin.com/in/kennethmnielsen/</linkedin>
+      <ContactURL>http://funkylab.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/DoktorKermit</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27358</importID>
+      <name>Vedran Kesegic</name>
+      <label>
+      </label>
+      <description>Vedran Kesegic is a Microsoft Certified Master for SQL Server, with Oracle background. With 14+ years enjoyed in exploration of SQL Server depths, developing smart algorithms, optimizing SQL Servers and SANs. He is the author of XDetails, Addin for SQL Management Studio that shows detailed info about indexes and other objects. He likes to hang out, share knowledge, and talk about more or less important things in life.</description>
+      <twitter>@VedranKesegic</twitter>
+      <linkedin>https://hr.linkedin.com/in/vedrankesegic</linkedin>
+      <ContactURL>http://blog.sqlxdetails.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@VedranKesegic</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19698</importID>
+      <name>Markus Ehrenmueller-Jensen</name>
+      <label>
+      </label>
+      <description>Markus Ehrenmueller-Jensen, as the founder of Savory Data, has a long history of providing customer solutions in the areas of data engineering, data science, and Business Intelligence. He is a certified software engineer, a graduated business educator, and professor of Databases  Project Management at HTL Leonding, and is certified as an MCSE  MCT. He is a published author and writes articles for well-known journals. He co-founded PASS Austria and organizes SQLSaturdays in Austria. Markus is a founding member of Power BI Usergroup Austria. Since 2017 Markus was awarded as an Microsoft Data Platform MVP.</description>
+      <twitter>MEhrenmueller</twitter>
+      <linkedin>https://www.linkedin.com/in/markus-ehrenmueller/</linkedin>
+      <ContactURL>http://www.savorydata.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=MEhrenmueller</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>22023</importID>
+      <name>Peter Myers</name>
+      <label>
+      </label>
+      <description>Peter Myers is a consultant, trainer and presenter, and has worked with Microsoft database and development products since 1997. Today he specializes in all Microsoft Business Intelligence products and also authors training course content for Microsoft products and services.
+
+He has a broad business background supported by a bachelor’s degree in applied economics and accounting, and he extends this with extensive experience backed by current MCSE certifications. He has been a Data Platform MVP since 2007.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://linkedin.com/in/peterjsmyers</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27263</importID>
+      <name>Uwe Ricken</name>
+      <label>
+      </label>
+      <description>Uwe Ricken is working with IT systems since the 90’s. The primary passion for developments with Microsoft SQL Server expanded in 2007 with his engagement as a DBA for Deutsche Bank AG in Frankfurt am Main. After 6 years of operational experiences as a DBA and over 14 years as a developer of complex database models he achieved the “Microsoft Certified Master – SQL Server 2008” certification which “was” the highest technical certification. In the same year he earned his first award as a Data Platform MVP for his support to the Microsoft SQL Server community in Germany and Europe. Uwe Ricken is a speaker on many international conferences and events and preferred topics are “Database Internals”, “Indexing” and “Development”.</description>
+      <twitter>https://twitter.com/dbBerater</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=270775013amp;trk=tab_pro</linkedin>
+      <ContactURL>http://www.sqlmaster.de</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/dbBerater</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19381</importID>
+      <name>Margarita Naumova</name>
+      <label>
+      </label>
+      <description>Magi Naumova is SQL Server Architect and Consultant, speaker and trainer, Microsoft Certified Master, MVP Data Platform, MCT, Founder of SQL Master Academy, founder and leader of the Bulgarian SQL User group. She has more than 15 years SQL Server training and consulting experience. Magi is a former member of Microsoft Services Worldwide Technical Leadership Team, а Microsoft Women worth watching http://zd.net/1lwNYKH Currently she speaks, writes, trains and consults people on SQL Server technology. She runs a Data Platform consulting company part of which is SQL Master Academy training program. It helps hundreds of specialists to feel knowledgeable in their daily work or to find an inspirational career path in the world of SQL Server.</description>
+      <twitter>
+      </twitter>
+      <linkedin>http://bg.linkedin.com/pub/margarita-naumova/9/965/206</linkedin>
+      <ContactURL>www.maginaumova.com; http://blogs.technet.com/b/magi/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>8787</importID>
+      <name>Reza Rad</name>
+      <label>
+      </label>
+      <description>Reza Rad is a Microsoft Regional Director, MVP, author, trainer, speaker and consultant. He is a Microsoft Data Platform MVP for nine years from 2011.
+Reza wrote many books on Power BI subjects including the Power BI from Rookie to Rock Star, and Pro Power BI Architecture.
+Reza is the invited speaker at the world's well-known conferences such as Microsoft Ignite, Microsoft Business Applications Summit, Ignite Tour, PASS Summit, and many other conferences.
+Reza is an active blogger and writes regularly about Power BI at https://radacad.com.</description>
+      <twitter>Rad_Reza</twitter>
+      <linkedin>http://nz.linkedin.com/in/rezarad/</linkedin>
+      <ContactURL>http://radacad.com/blog</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=Rad_Reza</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>12478</importID>
+      <name>David Postlethwaite</name>
+      <label>
+      </label>
+      <description>David Postlethwaite has been a DBA for Liverpool Victoria in Bournemouth, England since 2008
+He supports both Oracle and SQL Server from 2000 to 2017, DBMS, SSIS, SSAS and Reporting Services.
+In 2015 David built and deployed the company's first cloud solution using Microsoft Azure SQL Database and web services 
+
+Before becoming a DBA David was a .NET developer and way back in history a Windows and Netware administrator. 
+
+He is an occasional blogger on www.gethynellis.com
+
+David is a regular speaker for SQL Saturday.
+Most of his presentations can be found on his YouTube channel www.youtube.com/c/DavidPostlethwaiteSQL</description>
+      <twitter>@postledm</twitter>
+      <linkedin>http://www.linkedin.com/in/davidpostlethwaite</linkedin>
+      <ContactURL>http://www.gethynellis.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@postledm</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>9451</importID>
+      <name>Andreas Schabus</name>
+      <label>
+      </label>
+      <description>.</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://codefest.at/post/Developer-Events.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>28263</importID>
+      <name>Wolfgang Strasser</name>
+      <label>
+      </label>
+      <description>Wolfgang Strasser creates solutions based on the Microsoft Data Platform tools in his day-to-day job as Business Intelligence consultant. Either using SQL Server Database Engine, SSIS, reporting with SSAS and SSRS, implementing Power BI solutions or cloud tools for data analysis - the data-tools-landscape is broadening every day! Based on his professional careers as a software developer he likes to work on structured development processes.
+Wolfgang shares his knowledge with the community at many national and international events. For his community work, Wolfgang has been awarded with the Microsoft MVP Award for Data Platform in October 2015</description>
+      <twitter>wstrasser</twitter>
+      <linkedin>http://www.linkedin.com/pub/wolfgang-strasser/7b/912/22b</linkedin>
+      <ContactURL>http://workingondata.wordpress.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=wstrasser</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>14370</importID>
+      <name>Gail Shaw</name>
+      <label>
+      </label>
+      <description>Gail Shaw is a Database Specialist focusing on database performance tuning and database recovery, with a particular interest in topics such as indexing strategies, execution plans, and writing T-SQL code that performs well and scales gracefully. Gail holds a Microsoft Certified Master certification for SQL Server 2008 and is a Data Platform MVP. She's a frequent poster on the SQLServerCentral forums, a Pluralsight author, writes articles for both SQLServerCentral.com and Simple-Talk.com, and has spoken at SQLSaturdays, SQL Bits and at the PASS Community Summit. Gail has been responsible for extending the lifespan of many an application, by performance-tuning their databases and providing technical guidance on all things SQL Server related.</description>
+      <twitter>@SQLInTheWild</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://sqlinthewild.co.za</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLInTheWild</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>34912</importID>
+      <name>Zoltán Horváth</name>
+      <label>
+      </label>
+      <description>Zolt#225;n is a BI specialist with more than a decade of expertise. He leads the Hungarian User Group of Microsoft SQL Server (HUG-MSSQL), the Hungarian Chapter of PASS. MCSE: BI and MCSE: Data Platform. SQL Server MVP since 2015.</description>
+      <twitter>@zoltanhorvath</twitter>
+      <linkedin>http://www.linkedin.com/in/zhorvath</linkedin>
+      <ContactURL>http://addictivemeasures.blogspot.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@zoltanhorvath</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23392</importID>
+      <name>Rodney Landrum</name>
+      <label>
+      </label>
+      <description>Rodney Landrum has been architecting solutions for SQL Server for over 12 years. He has worked with and written about many SQL Server technologies, including DTS, Integration Services, Analysis Services, and Reporting Services. He has co-authored 4 books on Reporting Services. He is been a regular contributor to SQL Server magazine, sqlservercentral.com and Simple-talk.com. Rodney is also SQL Server MVP</description>
+      <twitter>@SQLBeat</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://www.simple-talk.com/blogs/author/2133-rodney-landrum/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLBeat</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19014</importID>
+      <name>Leila Etaati</name>
+      <label>
+      </label>
+      <description>Leila Etaati is the First Microsoft AI MVP in New Zealand and Australia, as well as a Data Platform MVP. She has a Ph.D. from the University of Auckland and is the co-director and data scientist in RADACAD company with many clients around the world. Additionally, she is the co-organizer of Microsoft Business Intelligence and Power BI Use group in Auckland with more than 1300 members. Leila has also co-organized 3 main conferences in Auckland: SQL Saturday Auckland (from 2015), Difinity (from 2017) and Global AI Bootcamp. She is a data scientist, BI consultant, trainer, and speaker. She is a well-known International speaker to many conferences such as MS Ignite, SQL PASS, Data Platform Summit, SQL Saturday, Power BI World Tour and in Europe, USA, Asia, Australia, and NZ. She has over 10 years’ experience with databases and software systems. Leila is an active Technical Microsoft AI blogger in RADACAD.</description>
+      <twitter>@leila_etaati</twitter>
+      <linkedin>https://nz.linkedin.com/pub/leila-etaati/36/46/b03</linkedin>
+      <ContactURL>http://blog.radacad.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@leila_etaati</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19715</importID>
+      <name>Markus Winand</name>
+      <label>
+      </label>
+      <description>Markus Winand tunes developers for high SQL performance. He also published the book quot;SQL Performance Explainedquot; and offers in-house training as well as remote coaching at http://winand.at/</description>
+      <twitter>https://twitter.com/MarkusWinand</twitter>
+      <linkedin>https://www.linkedin.com/in/markuswinand/</linkedin>
+      <ContactURL>http://use-the-index-luke.com/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/MarkusWinand</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>10939</importID>
+      <name>Boris Hristov</name>
+      <label>
+      </label>
+      <description>Boris is a SQL Server Consultant, but also an Author for Pluralsight and a SQL Server MVP. He is frequently speaking at conferences all accross Europe and is heavily involved in training students and organizations in what he calls quot;The Art of SQL Serverquot;. Boris is frequently blogging and is the host of SQLHangouts.</description>
+      <twitter>https://twitter.com/BorisHristov</twitter>
+      <linkedin>http://bg.linkedin.com/in/borishristov</linkedin>
+      <ContactURL>http://borishristov.com/blog/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=https://twitter.com/BorisHristov</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>27170</importID>
+      <name>Tanja Vukov</name>
+      <label>
+      </label>
+      <description>Tanja Vukov, PhD – research associate at Institute for Biological Research, University of Belgrade. She is an expert in biostatistics and her role is to transform data into meaningful scientific conclusions. As a bio-analyst she helped to develop new practices in a field of agriculture and medicine. She published more than 20 papers in leading international scientific journals. She was a speaker on using different Azure technologies. She holds a PhD in Evolutionary biology. </description>
+      <twitter>
+      </twitter>
+      <linkedin>https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>13553</importID>
+      <name>Dejan Sarka</name>
+      <label>
+      </label>
+      <description>Dejan Sarka, MCT and Data Platform MVP, is an independent trainer and consultant that focuses on development of database and business intelligence applications. Besides projects, he spends about half of his time on training and mentoring. He is the founder of the Slovenian SQL Server and .NET Users Group. Dejan Sarka is the main author or co-author of eighteen books about databases and SQL Server. Dejan Sarka has also developed many courses and seminars for Microsoft, Radacad, SolidQ, and Pluralsight.</description>
+      <twitter>DejanSarka</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>http://blogs.solidq.com/dsarka/Home.aspx</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=DejanSarka</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>9451</importID>
+      <speakers>
+        <speaker>
+          <id>9451</id>
+          <name>Andreas Schabus</name>
+        </speaker>
+      </speakers>
+      <track>Track 5</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Azure Hands-On Workshop #2 (re-run). (Bring your own Laptop!)</title>
+      <description>Steigt mit uns ein in die Welt von Cloud Computing und Microsoft Azure! Mit konkreten Beispielen zeigen wir Euch die einfache Handhabung und die Vorteile von Microsoft Azure. Wir beginnen mit der Anlage einer  Microsoft Azure Subscription und betrachten dann wie Microsoft Azure typische Unternehmensanforderungen ermöglicht:·     Kostenersparnis ·     Erhöhung der Agilität und ·     Maximierung der Sicherheit durch Auslagerung von Webanwendungen Begleitet uns durch einen interaktiven Vortrag und stellt Euch darauf ein selbst aktiv zu werden. Wir freuen uns auf Eure Teilnahme!·         Workshop #1: 13:00 – 15:15·         Workshop #2 (re-run mit identen Inhalten): 15:30 – 17:00Agenda: ·     Kurze Einführung in Microsoft Azure ·     Anlage und Verwaltung von Subscriptions  ·     Kaffeepause ·     Microsoft Azure Virtual Machines (IaaS) ·     Microsoft Azure Webservices (PaaS) ·     QAUm an den praktischen Übungen teilnehmen zu können, nehmt bitte einen Laptop mit!</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>18602</importID>
+      <speakers>
+        <speaker>
+          <id>18602</id>
+          <name>Kenneth Nielsen</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Azure Big Data Solution – automation of deployment</title>
+      <description>By now you’ve probably heard about Big Data 1.000 times or more so why a new session about big data you might ask.
+Show how to make creation and deletion of AZURE elements automatically as part of your ETL process or by Powershell, automate the trivial procedures and work on the interesting parts
+ This session will show you how :
+• Downloads and prepares several years of demo data and storing it in a dedicated Azure Blob Storage account.
+• Create a storage account and container for the HDInsight Cluster.
+• Create a SQL database server instance and a SQL database for the Hive Metastore. We will also setup the necessary firewall rules so that you can access the server directly.
+• The HDInsight cluster is provisioned and configured for access to the sample data.
+• A partitioned Hive table is created over top of the sample data 
+• Exploration of the result
+• And how to automate these task either in Powershell or SSIS.
+</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19014</importID>
+      <speakers>
+        <speaker>
+          <id>19014</id>
+          <name>Leila Etaati</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>A journey to Power BI</title>
+      <description>The aim of this session is to introduce easier way than corporate BI (Microsoft SSIS) .Power BI is a self- service tool which can handle all ETL process (extract, transfer and load), manage, discover, and visualize data. Power BI consists of many features and services, and works seamlessly with Excel. In this session you will see an end to end demo which shows how easily Power BI tools provides a business intelligence (BI) solution. In this demo we will show a practical solution which using 
+•	Power Query– easily discover and connect to data from public and corporate data sources
+•	Power Pivot – create a sophisticated Data Model directly in Excel
+•	Power View– create reports and analytical views with interactive data visualizations
+•	Power Map– explore and navigate geospatial data on a 3D map experience in Excel
+•	Power QA– use natural language queries to find, explore, and report over your data
+</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19698</importID>
+      <speakers>
+        <speaker>
+          <id>19698</id>
+          <name>Markus Ehrenmueller-Jensen</name>
+        </speaker>
+      </speakers>
+      <track>Track 5</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Azure Hands-On Workshop #1. (Bring your own Laptop!)</title>
+      <description>Steigt mit uns ein in die Welt von Cloud Computing und Microsoft Azure!  Mit konkreten Beispielen zeigen wir Euch die einfache Handhabung und die Vorteile von Microsoft Azure. Wir beginnen mit der Anlage einer  Microsoft Azure Subscription und betrachten dann wie Microsoft Azure typische Unternehmensanforderungen ermöglicht: ·     Kostenersparnis  ·     Erhöhung der Agilität und  ·     Maximierung der Sicherheit durch Auslagerung von Webanwendungen  Begleitet uns durch einen interaktiven Vortrag und stellt Euch darauf ein selbst aktiv zu werden. Wir freuen uns auf Eure Teilnahme!  ·         Workshop #1: 13:00 – 15:15 ·         Workshop #2 (re-run mit identen Inhalten): 15:30 – 17:00  Agenda:  ·     Kurze Einführung in Microsoft Azure  ·     Anlage und Verwaltung von Subscriptions   ·     Kaffeepause  ·     Microsoft Azure Virtual Machines (IaaS)  ·     Microsoft Azure Webservices (PaaS)  ·     QA  Um an den praktischen Übungen teilnehmen zu können, nehmt bitte einen Laptop mit!</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>20761</importID>
+      <speakers>
+        <speaker>
+          <id>20761</id>
+          <name>Miloš Radivojević</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>SQL Server 2014 and Ascending Key Problem in Large Tables</title>
+      <description>The SQL Server Query Optimizer relies on distribution statistics to create the query execution plan. But statistics are almost always out-of-date. For columns with ascending keys the most recent rows don’t exist for statistics objects. And common queries are looking for those rows. This can lead to poorly-performing plans, especially for large tables, where for instance a query that returns a few recent orders for a customer takes several seconds, with a few million logical reads.
+In this session we’ll show how to identify columns with ascending keys and also query patterns where this problem occurs. Of course we’ll see how to get well performing plans with the queries in SQL Server 2012. According to documentation about new features in SQL Server 2014 the problem seems to be solved in the latest SQL Server version. But is this really so? What is different in SQL Server 2014? Does the problem still occur? As you guess, all those questions will be addressed and answered in this session</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>22023</importID>
+      <speakers>
+        <speaker>
+          <id>22023</id>
+          <name>Peter Myers</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Introduction to Time Series Forecasting</title>
+      <description>Imagine taking historical sales data and using data science to accurately predict future sales values. This is precisely the objective of time series forecasting – to predict future values based on previously observed values.
+
+This session will introduce time series forecasting, and describe how different Microsoft BI products enable forecasting for various audiences, including the business analysts, IT developer, and even the Information Worker.
+
+Topics will include Analysis Services forecasting by using the Microsoft Time Series algorithm with the Excel add-ins (Table Analysis Tools and the Client Tools), SQL Server Data Tools (SSDT) and script. This session will also introduce and describe the impressive new forecasting capabilities delivered in Power View with Office 365. As part of Microsoft’s new approach to simplify complex Machine Learning technology, forecasting in Power View enables powerful forecasting capabilities for the unspecialized Information Worker.</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>13553</importID>
+      <speakers>
+        <speaker>
+          <id>13553</id>
+          <name>Dejan Sarka</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Identity Mapping and De-Duplicating </title>
+      <description>In an enterprise, merging master data, like customer data, from multiple sources is a common problem. Typically, you do not have a single, i.e. the same key identifying a customer in different sources. You have to match data based on similarity of strings, like names and addresses. In this session, we are going to check how different algorithms for comparing strings included in SQL Server  work. We are going to use four different algorithms that come with Master Data Services (Levenshtein, Jaccard, Jaro-Winkler and Ratcliff-Obershelp), and Fuzzy Lookup transformation from Integration Services. Finally, we are going to introduce how SQL Server Data Quality Services help us here.</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>23392</importID>
+      <speakers>
+        <speaker>
+          <id>23392</id>
+          <name>Rodney Landrum</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure</title>
+      <description>Using BI Power tools to visualize your SQL Infrastructure DBAs do not always have time to work with some of the amazing visual data tools that are becoming common place now for analysts. In this presentation I will show how in just a few very easy steps you can learn more than the basics of PowerView, PowerPivot and Data Mining using data you are already familiar with as a DBA, your SQL Server installation data. We will look at new and interesting way to load, transform, merge and analyze configuration and performance data for many servers simultaneously. I will also demonstrate how to best utilize that data for reports in Excel, SSRS and Visio to get the most out of automation, standardization and visualization with the new Power tools.</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>24226</importID>
+      <speakers>
+        <speaker>
+          <id>24226</id>
+          <name>Scott Klein</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Top 5 SQL Server 2014 Hybrid Cloud Features</title>
+      <description>: Microsoft SQL Server 2014 brings to market new capabilities to simplify cloud adoption and help you unlock new hybrid scenarios. This demo-filled session will highlight these features and show how you can use these features to lower your TCO and help manage your mission-critical applications by leveraging the cloud to provide new disaster recovery and backup solutions. In this session we will look at 5 great hybrid scenarios that are made possible by both great new features as well as enhanced features of SQL Server 2014. We’ll not only look how to use and implement these hybrid features, but also look at look at and discuss scenarios around why you would use these hybrid cloud features to expand your on-premises options without adding complexity. We’ll look at how you can easily move workloads from your datacenter to Windows Azure while still maintaining a complete view of your infrastructure with increased proficiency and reduced cost.</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>28263</importID>
+      <speakers>
+        <speaker>
+          <id>28263</id>
+          <name>Wolfgang Strasser</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Professionelles Recycling – SSIS Custom Control Flow Komponenten und Visual Studio Community</title>
+      <description>Die SQL Server Integration Services (SSIS) sind eine erweiterbare Datenintegrations-Plattform. Reicht die Funktionalität der mitausgelieferten Komponenten nicht aus, so kann mit der Script-Komponente beinahe jede Anforderung umgesetzt werden. Und genau diese Funktionalität ist es, welche man öfter und auch in mehreren SSIS Projekten einsetzen möchte. 
+Für ein professionelles Logik-Recycling bieten sich Custom SSIS Komponenten an. Seit der Veröffentlichung der Visual Studio Community Edition ist keine „vollwertige“ VisualStudio Edition für die Entwicklung notwendig. 
+In dieser Session werden die notwendigen Entwicklungsschritte, das Zusammenspiel der für die Programmierung benötigten API-Klassen, die Fallstricke beim Deployment sowie die Erfahrungen aus mehr als 6 Jahren SSIS Custom Komponenten Entwicklung mit dem Publikum geteilt. </description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>34912</importID>
+      <speakers>
+        <speaker>
+          <id>34912</id>
+          <name>Zoltán Horváth</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>So you are a BI Developer by Accident</title>
+      <description>You might be a DBA who deals with databases or a developer who creates applications, and you hear that you will be appointed to provide a business intelligence solution which will empower decision makers by displaying key measures of your department, company or client. This session is to help you where to start, giving an overview about the complete on-premise BI toolset of Microsoft, along with the analysis of your infrastructure constraints which influence how your BI solution will look like at the end of the day.
+The session also helps those who are planning to introduce the BI-related services (SSIS, SSRS, SSAS, MDS, DQS) of SQL Server to their companies, squeezing the last euro out of their SQL Server and Office license investments.</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27170</importID>
+      <speakers>
+        <speaker>
+          <id>27170</id>
+          <name>Tanja Vukov</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Mathematical modeling and Azure Machine Learning - drag, drop, predict</title>
+      <description>Microsoft Azure Machine Learning (AML) changes the way we work with data and what knowledge and skills are required in order to predict outcome of future events.  AML is a comprehensive “drag, drop, predict” technology with all the benefits of the cloud.  The transfer of machine learning to the new platform with ability to use R programming language makes common machine learning tasks very simple for the different customers and academic community.</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19381</importID>
+      <speakers>
+        <speaker>
+          <id>19381</id>
+          <name>Margarita Naumova</name>
+        </speaker>
+      </speakers>
+      <track>Track 3</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Top 10 configuration mistakes that affect your SQL Server performance</title>
+      <description>There are always performance problems that could happen in your production database. But you will be surprised how many of them occur as a result of DBA’s actions or lack of attention to SQL Server Instance and database level configuration settings. If you know them and how they harm your database system it will be easier to not get there. During the session Magi shows some of the worst practices in configuring your SQL Server, explains their whys and gives you the hints to the right settings. Sometimes you are just a few clicks away from a good SQL Server configuration. This sessions gets them to your fingers.</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>8787</importID>
+      <speakers>
+        <speaker>
+          <id>8787</id>
+          <name>Reza Rad</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>ETL on Cloud? Azure Data Factory </title>
+      <description>Azure Data Factory is the fully managed services for data consolidation and processing through Cloud, this service is part of Microsoft Azure services. In this session you will learn how to use Azure Data Factory to build a data consolidation and transformation scenario on cloud. You will also learn about scenarios in real world that ADF will be helpful. Many real world demos in this session will help you to learn working with this tool.</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27263</importID>
+      <speakers>
+        <speaker>
+          <id>27263</id>
+          <name>Uwe Ricken</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>CDC - Change Data Capture in Detail</title>
+      <description>Change data capture records insert, update, and delete activity that is applied to a SQL Server table. This makes the details of the changes available in an easily consumed relational format. Column information and the metadata that is required to apply the changes to a target environment is captured for the modified rows and stored in change tables that mirror the column structure of the tracked source tables.
+
+This session demonstrates the basic concepts, detailed components and implementation strategies of CDC.
+The demo is based on a real scenario which has been implemented that way!</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>20820</importID>
+      <speakers>
+        <speaker>
+          <id>20820</id>
+          <name>Miroslav Dimitrov</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Extended events in action</title>
+      <description>In this session we will walk through the world of Extended Events and their power in monitoring SQL server instances. We will explore some real-world scenarios and see how we can benefit from Xevents in solving them. You will be able to see how to track a specific application behavior and how to troubleshoot connectivity issues</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>12478</importID>
+      <speakers>
+        <speaker>
+          <id>12478</id>
+          <name>David Postlethwaite</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Putting Your head in the Cloud– A Beginner’s Guide to Cloud Computing and SQL Azure</title>
+      <description>Although Windows Azure  and the concept of Cloud Computing has been around for a number of years it is still a mystery to many. This talk takes a look at Cloud Computing – what it is, the types of Cloud available and their advantages and disadvantages. We’ll then look at Windows Azure  and specifically SQL Azure DB, to see how to create and manage SQL databases in the Cloud.
+</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>14370</importID>
+      <speakers>
+        <speaker>
+          <id>14370</id>
+          <name>Gail Shaw</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Dos and don’ts of database corruption</title>
+      <description>Database corruption is one of the worst things you can encounter as a DBA. It can result in downtime, data loss, and unhappy users. What’s scary about corruption is that it can strike out of the blue and with no warning, and without having some 
+In this session we’ll look at
+•	Easy maintenance operations you should be running right now to ensure the fastest possible identification and resolution of corruption
+•	Best practices for handling a database that you suspect may be corrupted
+•	Actions that can worsen the problem
+•	Appropriate steps to take and methods of recovery
+</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>27358</importID>
+      <speakers>
+        <speaker>
+          <id>27358</id>
+          <name>Vedran Kesegic</name>
+        </speaker>
+      </speakers>
+      <track>Track 4</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>How to recover deleted data with no backups?</title>
+      <description>From time to time on the forums emerge people in really tough situation: data is deleted, database is in SIMPLE recovery model, and as a cherry on top - there is no backup! It might be boss's private database that nobody has put into backup scheme yet, or some new database that was missing from the backup scheme.
+It is nearly impossible to recover the lost data from that situation. But I will show you at least three methods. After this presentation, you will be prepared to solve such a tough case. It is really important to know two simple steps you must do really fast, and after that you can relax and extract the data with peace of mind and without time pressure.</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>19715</importID>
+      <speakers>
+        <speaker>
+          <id>19715</id>
+          <name>Markus Winand</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Volkskrankheit „Stiefmütterliche Indizierung“</title>
+      <description>Sorgfältige Indizierung ist eine Zeit- und Kosten-Effektive Methode zur Steigerung der Performance. Dennoch wird meist nur sehr oberflächlich indiziert. Dieser Vortrag erklärt das Rollenmissverständnis, das zu schlampiger Indizierung führt, und bietet eine Lösung dafür an. Abschliessend wird anhand der Ergebnisse eines kurzen Online-Quizes gezeigt, wie es um das Indizierungs-Know-How in der Branche bestellt ist.</description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>10939</importID>
+      <speakers>
+        <speaker>
+          <id>10939</id>
+          <name>Boris Hristov</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>N/A</name>
+      </location>
+      <title>Top 5 T-SQL Improvements in SQL Server 2014</title>
+      <description>SQL Server 2014 comes with dozens of improvements in various areas. In this session we will discuss and see how the latest release can make the life of each and every developer easier and what are the top 5  T-SQL enhancements that we can use in our day-to-day work. </description>
+      <startTime>2/28/2015 12:00:00 AM</startTime>
+      <endTime>2/28/2015 1:00:00 AM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

@@ -1,0 +1,108 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #848 - Yaounde 2019</name>
+    <startDate>5/11/2019 12:00:00 AM</startDate>
+    <attendeeEstimate>70</attendeeEstimate>
+    <timezone>(GMT+01:00) Brussels, Copenhagen, Madrid, Paris</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#YAOUNDE</twitterHashtag>
+    <venue>
+      <name>Catholic University of Central Africa</name>
+      <street>16326 Coron Yaounde</street>
+      <city>Yaounde</city>
+      <state>, Cameroon</state>
+      <zipcode>16326</zipcode>
+      <longitude>11.515475</longitude>
+      <latitude>3.872005</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>846</importID>
+      <name>Microsoft Corporation</name>
+      <label>Global SQLSaturday Partner</label>
+      <url>https://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://sqlsaturdayfiles.blob.core.windows.net/972/EventSponsor_14605.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>2355</importID>
+      <name>SOCAGED SARL</name>
+      <label>Silver Sponsor</label>
+      <url>https://www.socaged.com</url>
+      <imageURL>https://i.postimg.cc/sDQXg6TD/Logo-SOCAGED.jpg</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+    <sponsor>
+      <importID>4</importID>
+      <name>PASS</name>
+      <label>PASS</label>
+      <url>http://www.pass.org</url>
+      <imageURL>https://www.pass.org/Portals/_default/Skins/pass-2016/images/pass-logo-2016.png</imageURL>
+      <imageHeight>40</imageHeight>
+      <imageWidth>100</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>92733</importID>
+      <name>ACHILLE NGUELA NGUELA</name>
+      <label>
+      </label>
+      <description>11 Years Informations technology Pro. MCITP Entreprise Admin MCITP Entreprise Desktop Admin MCITP Sharepoint Admin MCSA Windows Server</description>
+      <twitter>@AchillesB1</twitter>
+      <linkedin>http://www.linkedin.com/in/achil/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@AchillesB1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92734</importID>
+      <name>ACHILLE NGUELA NGUELA</name>
+      <label>
+      </label>
+      <description>11 Years Informations technology Pro. MCITP Entreprise Admin MCITP Entreprise Desktop Admin MCITP Sharepoint Admin MCSA Windows Server</description>
+      <twitter>@AchillesB1</twitter>
+      <linkedin>http://www.linkedin.com/in/achil/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@AchillesB1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92831</importID>
+      <name>ACHILLE NGUELA NGUELA</name>
+      <label>
+      </label>
+      <description>11 Years Informations technology Pro. MCITP Entreprise Admin MCITP Entreprise Desktop Admin MCITP Sharepoint Admin MCSA Windows Server</description>
+      <twitter>@AchillesB1</twitter>
+      <linkedin>http://www.linkedin.com/in/achil/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@AchillesB1</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>92832</importID>
+      <name>Signe EVARISTE</name>
+      <label>
+      </label>
+      <description>na</description>
+      <twitter>
+      </twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+</GuidebookXML>

@@ -1,0 +1,22 @@
+# SQLSaturday #384 - Varna 2015
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+09:00:00|Mihail Mateev|A|[Keynote ](20325.md)
+10:15:00|Boriana Petrova|C|[Building Great Business Intelligence Semantic Models for Power View](10612.md)
+10:15:00|Enrico van de Laar|B|[Memory-Optimized tables - Querying at the speed of light](13799.md)
+10:15:00|Margarita Naumova|A|[Find and tune those queries!](31541.md)
+11:30:00|Dejan Sarka|A|[SQL Server  Power BI Geographic and Temporal Predictions](13545.md)
+11:30:00|Kaloyan Kosev|C|[Managing 999 MS SQL Servers](17856.md)
+11:30:00|Sylvia Takvorian|B|[SQL Server as a Data Warehousing platform](36305.md)
+13:15:00|Ivan Donev|A|[SQL Server Advanced indexing techniques](15273.md)
+13:15:00|Markus Ehrenmueller-Jensen|B|[Boosting DWH-Performance with SQL Server 2014](19686.md)
+13:15:00|Miroslav Dimitrov|C|[Extended events in action](20815.md)
+14:30:00|Denis Reznik|A|[Deadlocks. Everything that developer needs to know.](13133.md)
+14:30:00|Janos Berke|B|[Introduction to SQL Server high availability solutions](15762.md)
+14:30:00|Rosen Kolev|C|[MS-SQL Basic Features](23449.md)
+16:00:00|Alexander Karl|B|[Data quality with DQS components in Integration Services](17931.md)
+16:00:00|Andrey Korshikov|C|[BIML – the best friend of SSIS developers](18821.md)
+16:00:00|Satya Jayanty|A|[Lets cook SQL Server Management practices for the Non-DBA ](25043.md)
+17:15:00|Boris Hristov|A|[The nightmare of locking, blocking and isolation levels!](10938.md)
+17:15:00|Evgeny Khabarov|C|[Transactional replication. It's not scary.](30047.md)
+17:15:00|Daniel Joskovski|B|[How to Forecast in C# with ADOMD and TimeSeries ](36304.md)

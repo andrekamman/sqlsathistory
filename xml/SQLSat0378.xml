@@ -1,0 +1,325 @@
+<GuidebookXML>
+  <guide>
+    <name>SQLSaturday #378 - Curacao 2015</name>
+    <startDate>5/23/2015 12:00:00 AM</startDate>
+    <attendeeEstimate>120</attendeeEstimate>
+    <timezone>(GMT-04:00) Caracas, La Paz</timezone>
+    <description>SQLSaturday is a training event for SQL Server professionals and those wanting to learn about SQL Server. </description>
+    <twitterHashtag>#sqlsatCuracao</twitterHashtag>
+    <venue>
+      <name>University of Curacao</name>
+      <street>111 Jan Noorduynweg</street>
+      <city>Willemstad</city>
+      <state>Curaçao, Netherlands Antilles</state>
+      <zipcode>AN5999</zipcode>
+      <longitude>-68.961042</longitude>
+      <latitude>12.157542</latitude>
+    </venue>
+  </guide>
+  <sponsors>
+    <sponsor>
+      <importID>845</importID>
+      <name>Microsoft Corporation (GAP)</name>
+      <label>Gold Sponsor</label>
+      <url>http://www.microsoft.com/en-us/server-cloud/products/sql-server/</url>
+      <imageURL>https://geeks.ms/johnbulla/wp-content/uploads/sites/199/2016/04/Microsoft_logo_2012.svg_.png</imageURL>
+      <imageHeight>60</imageHeight>
+      <imageWidth>170</imageWidth>
+    </sponsor>
+  </sponsors>
+  <speakers>
+    <speaker>
+      <importID>36508</importID>
+      <name>Joseph D'Antoni</name>
+      <label>
+      </label>
+      <description>Joseph D'Antoni is a Senior Consultant and Microsoft Data Platform MVP with over 20 years of experience working in both Fortune 500 and smaller firms. He is a Principal Consultant for Denny Cherry  Associates and lives in Malvern, PA. He is a frequent speaker at major tech events like Microsoft Ignite, PASS Summit, and Enterprise Data World. He blogs about all topics technology at joeydantoni.com. He believes that no single platform is the answer to all technology problems. Joseph holds a BS in Computer Information Systems from Louisiana Tech University and an MBA from North Carolina State University, and is the co-author of the Microsoft book "Introducing SQL Server 2016”.</description>
+      <twitter>jdanton</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=3997984amp;trk=hb_tab_pro_top</linkedin>
+      <ContactURL>http://joeydantoni.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=jdanton</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19277</importID>
+      <name>Luan Moreno Medeiros Maciel</name>
+      <label>
+      </label>
+      <description>Based out of Brazil, Luan Moreno credits his ability to solve problems to thinking critically before acting. He values working with a team because he and his clients can benefit from various perspectives and collaboration, particularly when faced with difficult issues. When Luan Moreno first became interested in technology, he didn’t have a mentor, so he made a commitment to teaching others in the community and sharing his knowledge through blogging, speaking engagements.
+
+Luan Moreno is a addicted Brazilian blogger and speaker. SQL Server MCT, MCSE and MVP living in Brazil. Nowadays he#39;s a Database Consultant at Pythian, company based in Ottawa - Canada.#160;</description>
+      <twitter>@luansql</twitter>
+      <linkedin>https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile</linkedin>
+      <ContactURL>https://luanmorenodba.wordpress.com/ amp; http://www.sqlshack.com/author/luan-moreno-m-maciel/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@luansql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>36507</importID>
+      <name>Joseph D'Antoni</name>
+      <label>
+      </label>
+      <description>Joseph D'Antoni is a Senior Consultant and Microsoft Data Platform MVP with over 20 years of experience working in both Fortune 500 and smaller firms. He is a Principal Consultant for Denny Cherry  Associates and lives in Malvern, PA. He is a frequent speaker at major tech events like Microsoft Ignite, PASS Summit, and Enterprise Data World. He blogs about all topics technology at joeydantoni.com. He believes that no single platform is the answer to all technology problems. Joseph holds a BS in Computer Information Systems from Louisiana Tech University and an MBA from North Carolina State University, and is the co-author of the Microsoft book "Introducing SQL Server 2016”.</description>
+      <twitter>jdanton</twitter>
+      <linkedin>http://www.linkedin.com/profile/view?id=3997984amp;trk=hb_tab_pro_top</linkedin>
+      <ContactURL>http://joeydantoni.com</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=jdanton</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>19275</importID>
+      <name>Luan Moreno Medeiros Maciel</name>
+      <label>
+      </label>
+      <description>Based out of Brazil, Luan Moreno credits his ability to solve problems to thinking critically before acting. He values working with a team because he and his clients can benefit from various perspectives and collaboration, particularly when faced with difficult issues. When Luan Moreno first became interested in technology, he didn’t have a mentor, so he made a commitment to teaching others in the community and sharing his knowledge through blogging, speaking engagements.
+
+Luan Moreno is a addicted Brazilian blogger and speaker. SQL Server MCT, MCSE and MVP living in Brazil. Nowadays he#39;s a Database Consultant at Pythian, company based in Ottawa - Canada.#160;</description>
+      <twitter>@luansql</twitter>
+      <linkedin>https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile</linkedin>
+      <ContactURL>https://luanmorenodba.wordpress.com/ amp; http://www.sqlshack.com/author/luan-moreno-m-maciel/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@luansql</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21196</importID>
+      <name>Murilo Miranda</name>
+      <label>
+      </label>
+      <description>Murilo Miranda is a blogger, speaker and SQL Server MVP from Portugal. Nowadays he#39;s a Cloud Operations Engineer at DataStax. Murilo’s passion for working with people coupled with his honesty have helped him establish effective, meaningful relationships with his clients. When he isn’t working, he can be found enjoying life with his family, watching football and playing Playstation.</description>
+      <twitter>murilocmiranda</twitter>
+      <linkedin>http://pt.linkedin.com/in/murilomiranda/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=murilocmiranda</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23391</importID>
+      <name>Rodney Landrum</name>
+      <label>
+      </label>
+      <description>Rodney Landrum has been architecting solutions for SQL Server for over 12 years. He has worked with and written about many SQL Server technologies, including DTS, Integration Services, Analysis Services, and Reporting Services. He has co-authored 4 books on Reporting Services. He is been a regular contributor to SQL Server magazine, sqlservercentral.com and Simple-talk.com. Rodney is also SQL Server MVP</description>
+      <twitter>@SQLBeat</twitter>
+      <linkedin>
+      </linkedin>
+      <ContactURL>https://www.simple-talk.com/blogs/author/2133-rodney-landrum/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@SQLBeat</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21281</importID>
+      <name>Rohan Joackhim</name>
+      <label>
+      </label>
+      <description>Rohan has been working with SQL Server since 2001. His experience includes SQL Server projects dealing with HP Europe, financial institutions in Canada and data centers in the Dutch Caribbean. He is currently  dealing with databases in 24/7 high availability environments . He was an active member and a presenter of the PASS chapter Toronto. Rohan holds a Bachelor of Computer Engineering degree and he is MCDBA SQL Server 2008 and ITIL V3 certified.</description>
+      <twitter>@rohanjoackhim</twitter>
+      <linkedin>http://ca.linkedin.com/pub/rohan-joackhim/4/76a/342</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@rohanjoackhim</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>21197</importID>
+      <name>Murilo Miranda</name>
+      <label>
+      </label>
+      <description>Murilo Miranda is a blogger, speaker and SQL Server MVP from Portugal. Nowadays he#39;s a Cloud Operations Engineer at DataStax. Murilo’s passion for working with people coupled with his honesty have helped him establish effective, meaningful relationships with his clients. When he isn’t working, he can be found enjoying life with his family, watching football and playing Playstation.</description>
+      <twitter>murilocmiranda</twitter>
+      <linkedin>http://pt.linkedin.com/in/murilomiranda/</linkedin>
+      <ContactURL>
+      </ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=murilocmiranda</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+    <speaker>
+      <importID>23484</importID>
+      <name>Roy Ernest</name>
+      <label>
+      </label>
+      <description>Roy Ernest (Twitter: @RumblingDBA) currently works as the Manager of the IT-DBA Department for Zarb Corporation. He is the Leader of the Curacao SQL Server User group. Roy is very active in the SQL Server community and volunteers his time for the PASS organization. You can read his blog at http://www.sqlservercentral.com/blogs/dba_rumblings/default.aspx.</description>
+      <twitter>@RumblingDBA</twitter>
+      <linkedin>https://www.linkedin.com/in/royernest</linkedin>
+      <ContactURL>http://www.sqlservercentral.com/blogs/dba_rumblings/</ContactURL>
+      <imageURL>https://api.twitter.com/1/users/profile_image?screen_name=@RumblingDBA</imageURL>
+      <imageHeight>48</imageHeight>
+      <imageWidth>48</imageWidth>
+    </speaker>
+  </speakers>
+  <events>
+    <event>
+      <importID>23391</importID>
+      <speakers>
+        <speaker>
+          <id>23391</id>
+          <name>Rodney Landrum</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>Aula</name>
+      </location>
+      <title>Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure</title>
+      <description>DBAs do not always have time to work with some of the amazing visual data tools that are becoming common place now for analysts.  In this presentation I will show how in just a few very easy steps you can learn more than the basics of PowerView, PowerPivot and Data Mining using data you are already familiar with as a DBA, your SQL Server installation data. We will look at new and interesting way to load, transform, merge and analyze configuration and performance data for many servers simultaneously. I will also demonstrate how to best utilize that data for reports in Excel, SSRS and Visio to get the most out of automation, standardization and visualization with the new Power tools.</description>
+      <startTime>5/23/2015 9:00:00 AM</startTime>
+      <endTime>5/23/2015 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>36507</importID>
+      <speakers>
+        <speaker>
+          <id>36507</id>
+          <name>Joseph D'Antoni</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>Aula</name>
+      </location>
+      <title>5 Steps to Being a Top DBA--Learning Automation in SQL Server</title>
+      <description>Being a DBA is tough job--there are on call situations to deal with, and managing a large amount of servers with less resources is a constant challenge in corporate environments. In this session you will learn techniques to reduce the amount of manual effort in your job, and keep you three steps ahead of your users. Learn techniques such as:
+	• Fully Automating SQL Server Installations
+	• Dynamically Adding Databases to an Availability Group
+	• Syncing jobs and logins between Availability Group members
+	• Patching SQL Servers automatically
+	• Other techniques for process automation
+This session will benefit both Junior and Senior DBAs, as well as anyone who wants to automate themselves into a promotion.
+</description>
+      <startTime>5/23/2015 2:45:00 PM</startTime>
+      <endTime>5/23/2015 3:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>23484</importID>
+      <speakers>
+        <speaker>
+          <id>23484</id>
+          <name>Roy Ernest</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>Classroom B</name>
+      </location>
+      <title>In Memory OLTP </title>
+      <description>If you have had waits due to high disk IO, come see this session where you will be introduced to In-Memory objects. In this session we will learn how In-Memory object will reduce the disk IO, what are the two types of memory tables, how to create them and how to maintain them. We will also see how we can manage memory for these In-Memory objects. </description>
+      <startTime>5/23/2015 9:00:00 AM</startTime>
+      <endTime>5/23/2015 10:00:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21281</importID>
+      <speakers>
+        <speaker>
+          <id>21281</id>
+          <name>Rohan Joackhim</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>Classroom B</name>
+      </location>
+      <title>SQL Server 2012 AlwaysON (HADR) for dummies</title>
+      <description>SQL Server 2012 introduced a new High availability concept Always ON. Always ON Availability Groups allows you to configure failover for one database, a set of databases or the entire instance again something you could not do with database mirroring.This session will cover the HADR from the basics to how to implement SQL Server 2012 Always On feature. </description>
+      <startTime>5/23/2015 10:15:00 AM</startTime>
+      <endTime>5/23/2015 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>21197</importID>
+      <speakers>
+        <speaker>
+          <id>21197</id>
+          <name>Murilo Miranda</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>Aula</name>
+      </location>
+      <title>Super Hybrid 2014</title>
+      <description>Most SQL Servers run on-premises. This one runs on the Cloud (too).
+More and more, Microsoft is betting in the Cloud and hybrid environments are already a reality. 
+We already have few different options to integrate on-premises with cloud environments, which opens a new horizon of possibilities.
+On this session, we will explore the available options and understand how could we take advantage of this option, as well as show some action - with some demos.</description>
+      <startTime>5/23/2015 3:45:00 PM</startTime>
+      <endTime>5/23/2015 4:45:00 PM</endTime>
+    </event>
+    <event>
+      <importID>19275</importID>
+      <speakers>
+        <speaker>
+          <id>19275</id>
+          <name>Luan Moreno Medeiros Maciel</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>Aula</name>
+      </location>
+      <title>Troubleshooting SQL ServerBasics</title>
+      <description>Discover in this session how to create a line of investigation in SQL Server. You will be able to find the root cause of the problems and solve them learning how to analyze the historical and live data in SQL Server. Download in the final of the presentation the SeatBelt kit with all the scripts to use in your environment.
+
+</description>
+      <startTime>5/23/2015 11:15:00 AM</startTime>
+      <endTime>5/23/2015 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>21196</importID>
+      <speakers>
+        <speaker>
+          <id>21196</id>
+          <name>Murilo Miranda</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>Aula</name>
+      </location>
+      <title>Buffer Pool Extension (BPE) - How it works?</title>
+      <description>A new feature of SQL Server 2014, Buffer Pool Extension (BPE) promises improvement on OLTP workload like systems, taking advantage of fast persistent disks.
+On this session we will enter in some theoretical details regarding this new technology, as well as some demos.</description>
+      <startTime>5/23/2015 10:15:00 AM</startTime>
+      <endTime>5/23/2015 11:15:00 AM</endTime>
+    </event>
+    <event>
+      <importID>36508</importID>
+      <speakers>
+        <speaker>
+          <id>36508</id>
+          <name>Joseph D'Antoni</name>
+        </speaker>
+      </speakers>
+      <track>Track 1</track>
+      <location>
+        <name>Classroom B</name>
+      </location>
+      <title>Power BI in the Fast Lane--Visualizing Formula 1</title>
+      <description>Power BI provides a great toolkit for building data models and doing rapid analysis of data. When you combine the broad capabilities of Power Query to gather external data through a wide variety of data sources and Open APIs. In this session, you will learn about the entire Power BI toolset using data from the current Formula 1 season. You will learn how to use graphics (track maps) as icons for filtering in Power View. You will learn how to relate data in a Power Pivot data model to build complex visualizations. You will learn about Power BI QA and how it can provide answers from your data.</description>
+      <startTime>5/23/2015 11:15:00 AM</startTime>
+      <endTime>5/23/2015 12:15:00 PM</endTime>
+    </event>
+    <event>
+      <importID>19277</importID>
+      <speakers>
+        <speaker>
+          <id>19277</id>
+          <name>Luan Moreno Medeiros Maciel</name>
+        </speaker>
+      </speakers>
+      <track>Track 2</track>
+      <location>
+        <name>Aula</name>
+      </location>
+      <title>Protecting SQL Server against Hackers [Best Practices] </title>
+      <description>In this session you will learn how to protect the various forms of attacks that are carried out in SQL Server, this session will teach the best security practices, lest's dig at the thought of a hacker and learn how he can access SQL Server of course after the session we will avoid such achievement Ready to learn how a hacker can break into your SQL Server? Join me in this internal session of SQL Server + Kali Linux.</description>
+      <startTime>5/23/2015 1:30:00 PM</startTime>
+      <endTime>5/23/2015 2:30:00 PM</endTime>
+    </event>
+  </events>
+</GuidebookXML>

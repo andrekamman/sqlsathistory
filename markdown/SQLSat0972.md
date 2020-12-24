@@ -1,0 +1,20 @@
+# SQLSaturday #972 – Belo Horizonte – Virtual 2020
+Start Time|Speaker(s)|Track|Title
+---|---|---|---
+01:00:00|Dirceu Resende|Enterprise Database Administration  Deployment|[DMV's - O primeiro passo para dominar o SQL Server](108106.md)
+01:00:00|André Melancia|Cloud Application Development  Deployment|[Cosmos DB: An Azure Odyssey](108370.md)
+02:00:00|Sidney Cirqueira|Cloud Application Development  Deployment|[Melhores praticas para carga de dados para o Azure Synapse Analytics - SQL Pool](108206.md)
+02:00:00|Damian Widera|Application  Database Development|[AQP vs IQP - query optimization on steroids](108398.md)
+09:00:00|Wagner Crivelini|Analytics and Visualization|[AZURE DATA EXPLORER - ADX  101](103093.md)
+09:00:00|Rodrigo Crespi|Application  Database Development|[Técnicas de Tuning que Todo Desenvolvedor Deve Saber](107983.md)
+09:00:00|Roberto Cavalcanti|Cloud Application Development  Deployment|[Azure SQL Managed Instance - lições aprendidas](108314.md)
+10:00:00|Luiz Henrique Garetti|Strategy and Architecture|[Streaming Architecture with Big Data Clusters (SQL2019)](102485.md)
+10:00:00|Thiago Carlos de Alencar|Cloud Application Development  Deployment|[Azure / AWS - Reduzindo o workload em 50% na Nuvem](108138.md)
+10:00:00|Marcus Vinícius Bittencourt|BI Platform Architecture, Development  Administration|[Hacking SQL Server 3.0](108458.md)
+11:00:00|Vitor Ferreira|BI Information Delivery|[Power BI - Data Visualization Best Practices](103887.md)
+11:00:00|Ondrej Aubrecht|Advanced Analysis Techniques|[Can you trust the intelligence of Application tracking systems with your CV?](107900.md)
+12:00:00|Vitor Fava|Enterprise Database Administration  Deployment|[Implementando uma solução de monitoração robusta e escalável com o SQL Server](102487.md)
+12:00:00|Tiago Ruela|Information Delivery|[Como uma tecnologia israelense está ajudando empresas brasileiras no Compliance com a LGPD.](103822.md)
+12:00:00|William Lino Oliveira|Cloud Application Development  Deployment|[Escalando SQL Server em containers com AKS](108105.md)
+15:00:00|Renato Groffe|Application  Database Development|[Boas práticas de segurança no acesso a dados em aplicações Web](103393.md)
+15:00:00|Sam Nasr|Enterprise Database Administration  Deployment|[SQL Server Security Features](107889.md)
