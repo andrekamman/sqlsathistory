@@ -1,3 +1,4 @@
+#### Nr: 670
 #### [Back to Main list](index.md)
 # SQLSaturday #670 - Banja Luka 2017
 Start Time (24h)|Speaker|Track|Title
@@ -17,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 65534
 # The All Flash DBA
-#### [Back to calendar](#SQLSaturday-#670-Banja-Luka-2017)
+#### [Back to calendar](#nr-670)
 Event Date: 09-09-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christopher Adkin
 ## Title: The All Flash DBA
@@ -26,7 +27,7 @@ Event Date: 09-09-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66367
 # Introduction to Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#670-Banja-Luka-2017)
+#### [Back to calendar](#nr-670)
 Event Date: 09-09-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dejan Pervulov
 ## Title: Introduction to Azure SQL Data Warehouse
@@ -35,7 +36,7 @@ Event Date: 09-09-2017 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 65533
 # Problem Solving With The In-Memory Engine
-#### [Back to calendar](#SQLSaturday-#670-Banja-Luka-2017)
+#### [Back to calendar](#nr-670)
 Event Date: 09-09-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Christopher Adkin
 ## Title: Problem Solving With The In-Memory Engine
@@ -50,7 +51,7 @@ Event Date: 09-09-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 68831
 # SQL Server 2016 and R Engine-powerful duo
-#### [Back to calendar](#SQLSaturday-#670-Banja-Luka-2017)
+#### [Back to calendar](#nr-670)
 Event Date: 09-09-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tomaž Kaštrun
 ## Title: SQL Server 2016 and R Engine-powerful duo
@@ -70,7 +71,7 @@ Session is useful for
 #  
 #### SessionID: 66241
 # Parameter Sniffing Problem with Stored Procedures
-#### [Back to calendar](#SQLSaturday-#670-Banja-Luka-2017)
+#### [Back to calendar](#nr-670)
 Event Date: 09-09-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: Parameter Sniffing Problem with Stored Procedures
@@ -79,7 +80,7 @@ Event Date: 09-09-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 68849
 # SQL Server on Linux
-#### [Back to calendar](#SQLSaturday-#670-Banja-Luka-2017)
+#### [Back to calendar](#nr-670)
 Event Date: 09-09-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jasmin Azemović
 ## Title: SQL Server on Linux
@@ -88,7 +89,7 @@ Event Date: 09-09-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 66292
 # Query Store and Query Optimization
-#### [Back to calendar](#SQLSaturday-#670-Banja-Luka-2017)
+#### [Back to calendar](#nr-670)
 Event Date: 09-09-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dean Savović
 ## Title: Query Store and Query Optimization
@@ -97,7 +98,7 @@ Event Date: 09-09-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66365
 # Get your data and your model ready for the Cloud using Power BI Desktop
-#### [Back to calendar](#SQLSaturday-#670-Banja-Luka-2017)
+#### [Back to calendar](#nr-670)
 Event Date: 09-09-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dejan Pervulov
 ## Title: Get your data and your model ready for the Cloud using Power BI Desktop
@@ -106,7 +107,7 @@ Event Date: 09-09-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 66906
 # Power Bi for beginner IoT developer
-#### [Back to calendar](#SQLSaturday-#670-Banja-Luka-2017)
+#### [Back to calendar](#nr-670)
 Event Date: 09-09-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: Power Bi for beginner IoT developer
@@ -118,7 +119,7 @@ All with the demo, from hardware, to the cloud, to Power BI.
 #  
 #### SessionID: 68833
 # Azure Data Lake Analytics
-#### [Back to calendar](#SQLSaturday-#670-Banja-Luka-2017)
+#### [Back to calendar](#nr-670)
 Event Date: 09-09-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tomaž Kaštrun
 ## Title: Azure Data Lake Analytics
@@ -131,7 +132,7 @@ For the demo, we will look at the image recognition and emotion detection.
 #  
 #### SessionID: 66243
 # Transact SQL Performance Tips
-#### [Back to calendar](#SQLSaturday-#670-Banja-Luka-2017)
+#### [Back to calendar](#nr-670)
 Event Date: 09-09-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: Transact SQL Performance Tips
@@ -140,7 +141,7 @@ Event Date: 09-09-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 66291
 # Cardinality Estimator with SQL Server 2014 and 2016
-#### [Back to calendar](#SQLSaturday-#670-Banja-Luka-2017)
+#### [Back to calendar](#nr-670)
 Event Date: 09-09-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dean Savović
 ## Title: Cardinality Estimator with SQL Server 2014 and 2016

@@ -1,3 +1,4 @@
+#### Nr: 196
 #### [Back to Main list](index.md)
 # SQLSaturday #196 - Denmark 2013
 Start Time (24h)|Speaker|Track|Title
@@ -31,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10191
 # SQL Server 2012 Parallel Data Warehouse
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Belkis Ozhorasan
 ## Title: SQL Server 2012 Parallel Data Warehouse
@@ -41,7 +42,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 10546
 # Migrating to the Azure and the Cloud
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Bob Duffy
 ## Title: Migrating to the Azure and the Cloud
@@ -53,7 +54,7 @@ In one hour we will take a sample ecommerce application and database, show tools
 #  
 #### SessionID: 10991
 # SQL Internal Storage
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Bruno Basto
 ## Title: SQL Internal Storage
@@ -62,7 +63,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11827
 # CAST([Transaction Log] as T.SQL) 
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Pedro Correia
 ## Title: CAST([Transaction Log] as T.SQL) 
@@ -71,7 +72,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 12425
 # Data-driven Subscription using SSIS and SharePoint
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Smeets
 ## Title: Data-driven Subscription using SSIS and SharePoint
@@ -80,7 +81,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13182
 # Data mining with Analysis Services
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Dennis Mark Thorsen
 ## Title: Data mining with Analysis Services
@@ -89,7 +90,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13959
 # Design a Metro Style Dashboard with Excel  PowerP
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Erik Svensen
 ## Title: Design a Metro Style Dashboard with Excel  PowerP
@@ -98,7 +99,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 14130
 # SQLServer2012 as semantic search engine
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Emanuele Zanchettin
 ## Title: SQLServer2012 as semantic search engine
@@ -107,7 +108,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 14592
 # SQL Server 2012 AlwaysOn
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Gianluca Hotz
 ## Title: SQL Server 2012 AlwaysOn
@@ -116,7 +117,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15398
 # Analyzing Twitter Data
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Niko Neugebauer
 ## Title: Analyzing Twitter Data
@@ -125,7 +126,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 16561
 # Power View from the Data Visualisation Perspective
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jen Stirrup
 ## Title: Power View from the Data Visualisation Perspective
@@ -140,7 +141,7 @@ Come to this session if you really want to think about the best ways of presenti
 #  
 #### SessionID: 17806
 # The Power of Custom Assemblies in Analysis Service
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jens Vestergaard
 ## Title: The Power of Custom Assemblies in Analysis Service
@@ -159,7 +160,7 @@ joins, whereby gaining scalability and consistency in query perfo
 #  
 #### SessionID: 18101
 # SQL anti patterns
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kennie Pontoppidan
 ## Title: SQL anti patterns
@@ -170,7 +171,7 @@ We will become acquainted with antipatterns on a physical level, a logical level
 #  
 #### SessionID: 19146
 # Securing the Cube; SSAS security framework
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Daniel Lewandowski
 ## Title: Securing the Cube; SSAS security framework
@@ -179,7 +180,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19595
 # Storing Character Data Optimally
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mark S. Rasmussen
 ## Title: Storing Character Data Optimally
@@ -188,7 +189,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 20274
 # Spatial Data and Windows Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mihail Mateev
 ## Title: Spatial Data and Windows Azure SQL Database
@@ -199,7 +200,7 @@ from Windows Azure SQL Database Spatial, optimizing Windows Azure applications a
 #  
 #### SessionID: 20367
 # Windows Server 2012 Infrastructure for SQL Server
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Michael Frandsen
 ## Title: Windows Server 2012 Infrastructure for SQL Server
@@ -208,7 +209,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21032
 # Getting SQL Service Broker Up and Running
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Denny Cherry
 ## Title: Getting SQL Service Broker Up and Running
@@ -219,7 +220,7 @@ In this session we’ll dig into how to configure the service broker for not onl
 #  
 #### SessionID: 21440
 # Decisions, Decisions...
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Niels Leth Gammelgaard
 ## Title: Decisions, Decisions...
@@ -230,7 +231,7 @@ This session will explain the basics of decision trees and demonstrate the proce
 #  
 #### SessionID: 22177
 # Remodel your old EAV design
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Peter Larsson
 ## Title: Remodel your old EAV design
@@ -243,7 +244,7 @@ There will be real life examples from a recent project. With the techniques disp
 #  
 #### SessionID: 22814
 # Database development with SSDT
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Regis Baccaro
 ## Title: Database development with SSDT
@@ -252,7 +253,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24150
 # Kung Fu Migration to Windows Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Scott Klein
 ## Title: Kung Fu Migration to Windows Azure SQL Database
@@ -261,7 +262,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24151
 # Cloud Database Scalability with SQL Federation
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Scott Klein
 ## Title: Cloud Database Scalability with SQL Federation
@@ -270,7 +271,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 26938
 # Accelerating SQL 2012 Clustering with NAND Flash
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Salvatore Buccoliero 
 ## Title: Accelerating SQL 2012 Clustering with NAND Flash
@@ -279,7 +280,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 34577
 # ETL Shootout, SSIS vs Powershell
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: André Kamman
 ## Title: ETL Shootout, SSIS vs Powershell
@@ -292,7 +293,7 @@ This session will be around 70% "why is this hard in SSIS and can you work aroun
 #  
 #### SessionID: 8807
 #  Tracing with Extended Events. - Adios Profiler
-#### [Back to calendar](#SQLSaturday-#196-Denmark-2013)
+#### [Back to calendar](#nr-196)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andreas Wolter
 ## Title:  Tracing with Extended Events. - Adios Profiler

@@ -1,3 +1,4 @@
+#### Nr: 879
 #### [Back to Main list](index.md)
 # SQLSaturday #879 - Cuiabá 2019
 Start Time (24h)|Speaker|Track|Title
@@ -15,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 93026
 # DevOps for Azure SQL Databases
-#### [Back to calendar](#SQLSaturday-#879-Cuiabá-2019)
+#### [Back to calendar](#nr-879)
 Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Sidney Cirqueira
 ## Title: DevOps for Azure SQL Databases
@@ -24,7 +25,7 @@ Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 94293
 # [Tableau] Compartilhando insights com sua organização com Tableau Server
-#### [Back to calendar](#SQLSaturday-#879-Cuiabá-2019)
+#### [Back to calendar](#nr-879)
 Event Date: 13-07-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Nilton Kazuyuki Ueda
 ## Title: [Tableau] Compartilhando insights com sua organização com Tableau Server
@@ -35,7 +36,7 @@ Vamos ver o funcionamento da plataforma na prática?
 #  
 #### SessionID: 93836
 # Modelando em Document Model - Além do NoJoin!
-#### [Back to calendar](#SQLSaturday-#879-Cuiabá-2019)
+#### [Back to calendar](#nr-879)
 Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Leandro Domingues
 ## Title: Modelando em Document Model - Além do NoJoin!
@@ -44,7 +45,7 @@ Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 95051
 # Power BI + linguagem R: mais poder em suas mãos
-#### [Back to calendar](#SQLSaturday-#879-Cuiabá-2019)
+#### [Back to calendar](#nr-879)
 Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Paulo Ricardo Santos
 ## Title: Power BI + linguagem R: mais poder em suas mãos
@@ -55,7 +56,7 @@ Esta é a sua chance de iniciar o seu primeiro projeto de Data Science.
 #  
 #### SessionID: 92144
 # Azure SQL Database - Scaling In e Scaling Out através do elastic pool
-#### [Back to calendar](#SQLSaturday-#879-Cuiabá-2019)
+#### [Back to calendar](#nr-879)
 Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Vitor Fava
 ## Title: Azure SQL Database - Scaling In e Scaling Out através do elastic pool
@@ -64,7 +65,7 @@ Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 94349
 # Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade
-#### [Back to calendar](#SQLSaturday-#879-Cuiabá-2019)
+#### [Back to calendar](#nr-879)
 Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Roberto Santos
 ## Title: Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade
@@ -79,7 +80,7 @@ O Planejamento de Capacidade exerce uma atividade de vital importância para o b
 #  
 #### SessionID: 93924
 # Dicas e Truques para Aumentar sua Produtividade com o SSMS
-#### [Back to calendar](#SQLSaturday-#879-Cuiabá-2019)
+#### [Back to calendar](#nr-879)
 Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Fernando Avelãs
 ## Title: Dicas e Truques para Aumentar sua Produtividade com o SSMS
@@ -88,7 +89,7 @@ Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 95953
 # Preparando uma base de teste com docker
-#### [Back to calendar](#SQLSaturday-#879-Cuiabá-2019)
+#### [Back to calendar](#nr-879)
 Event Date: 13-07-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: William Amorim
 ## Title: Preparando uma base de teste com docker
@@ -97,7 +98,7 @@ Event Date: 13-07-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 95805
 # NoSQL Principios e Conceitos com Cosmos DB
-#### [Back to calendar](#SQLSaturday-#879-Cuiabá-2019)
+#### [Back to calendar](#nr-879)
 Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Igor Santos de Paula
 ## Title: NoSQL Principios e Conceitos com Cosmos DB
@@ -106,7 +107,7 @@ Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 95922
 # O que há de novo para os desenvolvedores no Visual Studio 2019
-#### [Back to calendar](#SQLSaturday-#879-Cuiabá-2019)
+#### [Back to calendar](#nr-879)
 Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Rafael Moura
 ## Title: O que há de novo para os desenvolvedores no Visual Studio 2019

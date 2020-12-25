@@ -1,3 +1,4 @@
+#### Nr: 8
 #### [Back to Main list](index.md)
 # SQLSaturday #8 - Orlando 2008
 Start Time (24h)|Speaker|Track|Title
@@ -49,7 +50,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 34919
 # Data Scrambling
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL Developers
 ## Speaker: Andreas Etelkozi
 ## Title: Data Scrambling
@@ -58,7 +59,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL Developers
 #  
 #### SessionID: 34944
 # SQL Server Statistics
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Andy Warren
 ## Title: SQL Server Statistics
@@ -67,7 +68,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 34950
 # Intro to SQL Server 2008 Full Text Searching
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA II
 ## Speaker: Robert Cain
 ## Title: Intro to SQL Server 2008 Full Text Searching
@@ -78,7 +79,7 @@ In this session, the attendees will learn not only how to use the standard full 
 #  
 #### SessionID: 35025
 # Using LINQ to SQL in Your Applications 
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL Developers
 ## Speaker: Brandon Kelly
 ## Title: Using LINQ to SQL in Your Applications 
@@ -87,7 +88,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL Developers
 #  
 #### SessionID: 35042
 # Disaster Recovery: Preparing for the Storm
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA
 ## Speaker: Brandie Tarvin
 ## Title: Disaster Recovery: Preparing for the Storm
@@ -96,7 +97,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA
 #  
 #### SessionID: 35043
 # The Nitty Gritty of Database Backups
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA
 ## Speaker: Brandie Tarvin
 ## Title: The Nitty Gritty of Database Backups
@@ -107,7 +108,7 @@ Note: This session is not the same as Disaster Recovery - Preparing for the Stor
 #  
 #### SessionID: 35054
 # SQL Compact  Data Sync
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Nikita Polyakov
 ## Title: SQL Compact  Data Sync
@@ -116,7 +117,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 35063
 # Getting Started with SQL Server Profiler 2005
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Jack Corbett
 ## Title: Getting Started with SQL Server Profiler 2005
@@ -125,7 +126,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 35064
 # ASP.NET Databinding 101
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL Developers
 ## Speaker: Chris Rock
 ## Title: ASP.NET Databinding 101
@@ -134,7 +135,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL Developers
 #  
 #### SessionID: 35078
 # Transact SQL Frequently Asked Questions
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Sharepoint
 ## Speaker: Kent Waldrop
 ## Title: Transact SQL Frequently Asked Questions
@@ -143,7 +144,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Sharepoint
 #  
 #### SessionID: 35096
 # Report Viewer Controls in Reporting Services 2008
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Reporting Services
 ## Speaker: Darren Herbold
 ## Title: Report Viewer Controls in Reporting Services 2008
@@ -155,7 +156,7 @@ client interface. Examples ASP.NET and C#.
 #  
 #### SessionID: 35112
 # SSIS Configurations, Expressions and Constraints
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Eric Wisdahl
 ## Title: SSIS Configurations, Expressions and Constraints
@@ -164,7 +165,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 35163
 # Understanding Indexes for Single-Table Queries
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Jeffrey Garbus
 ## Title: Understanding Indexes for Single-Table Queries
@@ -173,7 +174,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 35164
 # indexes and join performance
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Jeffrey Garbus
 ## Title: indexes and join performance
@@ -182,7 +183,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 35183
 # Upgrading Analysis Services 2005 to 2008
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Jen Underwood
 ## Title: Upgrading Analysis Services 2005 to 2008
@@ -193,7 +194,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 35199
 # Database development using Team System 2008
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL 2008
 ## Speaker: Jim Blizzard
 ## Title: Database development using Team System 2008
@@ -202,7 +203,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL 2008
 #  
 #### SessionID: 35207
 # SQL Server 2008: The Need for Speed!
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL Developers
 ## Speaker: Joe Homnick
 ## Title: SQL Server 2008: The Need for Speed!
@@ -211,7 +212,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL Developers
 #  
 #### SessionID: 35228
 # Virtualizing SQL Server
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA
 ## Speaker: Jonathan Kehayias
 ## Title: Virtualizing SQL Server
@@ -220,7 +221,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA
 #  
 #### SessionID: 35229
 # Server Monitoring made Simple with SQL 2008
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA
 ## Speaker: Jonathan Kehayias
 ## Title: Server Monitoring made Simple with SQL 2008
@@ -229,7 +230,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA
 #  
 #### SessionID: 35251
 # Protecting Your SQL Server from Treasure Seekers
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL 2008
 ## Speaker: Brian Kelley
 ## Title: Protecting Your SQL Server from Treasure Seekers
@@ -238,7 +239,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL 2008
 #  
 #### SessionID: 35266
 # XML Features in SQL 2005
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL 2008
 ## Speaker: Kendal Van Dyke
 ## Title: XML Features in SQL 2005
@@ -247,7 +248,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL 2008
 #  
 #### SessionID: 35267
 # Transactional Replication Deep Dive
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA II
 ## Speaker: Kendal Van Dyke
 ## Title: Transactional Replication Deep Dive
@@ -256,7 +257,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA II
 #  
 #### SessionID: 35279
 # What Greeen and Sustainability Mean to SQL
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL 2008
 ## Speaker: Kathy Malone
 ## Title: What Greeen and Sustainability Mean to SQL
@@ -273,7 +274,7 @@ Come to this interactive session to brainstorm with other interested people, hea
 #  
 #### SessionID: 35280
 # Introduction to Reporting Services 2008
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Reporting Services
 ## Speaker: Devin Knight
 ## Title: Introduction to Reporting Services 2008
@@ -282,7 +283,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Reporting Services
 #  
 #### SessionID: 35324
 # Using Excel Services with SharePoint
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Sharepoint
 ## Speaker: Michael Antonovich
 ## Title: Using Excel Services with SharePoint
@@ -291,7 +292,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Sharepoint
 #  
 #### SessionID: 35325
 # Creating and Publishing InfoPath Forms
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Sharepoint
 ## Speaker: Michael Antonovich
 ## Title: Creating and Publishing InfoPath Forms
@@ -300,7 +301,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Sharepoint
 #  
 #### SessionID: 35337
 # Advanced SQL Server 2005 Reporting Services
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Reporting Services
 ## Speaker: Neil Marchadie
 ## Title: Advanced SQL Server 2005 Reporting Services
@@ -309,7 +310,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Reporting Services
 #  
 #### SessionID: 35338
 # SQL Server 2008 SSRS Changes 
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Reporting Services
 ## Speaker: Neil Marchadie
 ## Title: SQL Server 2008 SSRS Changes 
@@ -318,7 +319,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Reporting Services
 #  
 #### SessionID: 35343
 # Modeling People and Organizations
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Patrick Thompson
 ## Title: Modeling People and Organizations
@@ -327,7 +328,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 35360
 # T-SQL Enhancements in SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL 2008
 ## Speaker: Plamen Ratchev
 ## Title: T-SQL Enhancements in SQL Server 2008
@@ -336,7 +337,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL 2008
 #  
 #### SessionID: 35362
 # Performance Tuning and Query Optimization
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Plamen Ratchev
 ## Title: Performance Tuning and Query Optimization
@@ -345,7 +346,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 35371
 # Building a Polished Cube
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Pam Shaw
 ## Title: Building a Polished Cube
@@ -354,7 +355,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 35379
 # Tips and Tricks for Reporting Services
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Reporting Services
 ## Speaker: Pam Shaw
 ## Title: Tips and Tricks for Reporting Services
@@ -363,7 +364,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Reporting Services
 #  
 #### SessionID: 35394
 # Slowly Changing Dimensions
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Robert Hatton
 ## Title: Slowly Changing Dimensions
@@ -374,7 +375,7 @@ This session will show you how to design SQL Tables and Analysis Services dimens
 #  
 #### SessionID: 35401
 # DBA Repository, 2008 SSRS Overlay and Gantt Chart
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Reporting Services
 ## Speaker: Rodney Landrum
 ## Title: DBA Repository, 2008 SSRS Overlay and Gantt Chart
@@ -383,7 +384,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Reporting Services
 #  
 #### SessionID: 35403
 # The SQL DBA Green Thumb
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA
 ## Speaker: Rodney Landrum
 ## Title: The SQL DBA Green Thumb
@@ -392,7 +393,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA
 #  
 #### SessionID: 35409
 # Why DBAs Should Learn PowerShell
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA II
 ## Speaker: Ronald Dameron
 ## Title: Why DBAs Should Learn PowerShell
@@ -402,7 +403,7 @@ I will demonstrate how a DBA can use PowerShell in conjunction with SQL, WMI, an
 #  
 #### SessionID: 35411
 # Test Data Generation Practices
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL Developers
 ## Speaker: Ryan Dorrell
 ## Title: Test Data Generation Practices
@@ -411,7 +412,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL Developers
 #  
 #### SessionID: 35413
 # Optimizing SSIS PackagesUsing Sql Server 2008
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA II
 ## Speaker: Ryan Fonnett
 ## Title: Optimizing SSIS PackagesUsing Sql Server 2008
@@ -420,7 +421,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA II
 #  
 #### SessionID: 35440
 # The Modern Resume - Building Your Brand
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA II
 ## Speaker: Steve Jones
 ## Title: The Modern Resume - Building Your Brand
@@ -429,7 +430,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA II
 #  
 #### SessionID: 35441
 # Damned If You Do, Damned If You Don't: Legal Liabi
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL 2008
 ## Speaker: Suzanne Meehle
 ## Title: Damned If You Do, Damned If You Don't: Legal Liabi
@@ -438,7 +439,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL 2008
 #  
 #### SessionID: 35463
 # Getting With it With With (and Over On It, Too)
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA II
 ## Speaker: Terry Bomberger
 ## Title: Getting With it With With (and Over On It, Too)
@@ -447,7 +448,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: General DBA II
 #  
 #### SessionID: 35496
 # Databinding in Silverlight 2 
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL Developers
 ## Speaker: Kenneth Tucker
 ## Title: Databinding in Silverlight 2 
@@ -456,7 +457,7 @@ Event Date: 25-10-2008 - Session time: 00:00:00 - Track: SQL Developers
 #  
 #### SessionID: 35509
 # Building a Data Warehouse using SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#8-Orlando-2008)
+#### [Back to calendar](#nr-8)
 Event Date: 25-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Wes Dumey
 ## Title: Building a Data Warehouse using SQL Server 2008

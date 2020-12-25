@@ -1,3 +1,4 @@
+#### Nr: 94
 #### [Back to Main list](index.md)
 # SQLSaturday #94 - Salt Lake City 2011
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 29012
 # SQL Server PowerShell with SQLPSX
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 300 
 ## Speaker: Ben Miller
 ## Title: SQL Server PowerShell with SQLPSX
@@ -38,7 +39,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 300
 #  
 #### SessionID: 29287
 # Getting to Know your DB
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 309 
 ## Speaker: Jason Brimhall
 ## Title: Getting to Know your DB
@@ -47,7 +48,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 309
 #  
 #### SessionID: 29405
 # See the Future with Visual Predictive Analytics
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 309 
 ## Speaker: Carlos Bossy
 ## Title: See the Future with Visual Predictive Analytics
@@ -56,7 +57,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 309
 #  
 #### SessionID: 29435
 # Table Fission - An Introduction to Partition|ing
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 300 
 ## Speaker: Chad Crawford
 ## Title: Table Fission - An Introduction to Partition|ing
@@ -65,7 +66,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 300
 #  
 #### SessionID: 29770
 # Business Intelligence with SRS Report Builder
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 308 
 ## Speaker: David Eichner
 ## Title: Business Intelligence with SRS Report Builder
@@ -74,7 +75,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 308
 #  
 #### SessionID: 29971
 # Devs are from Mars, Report Servers are from Venus
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 308 
 ## Speaker: Doug Lane
 ## Title: Devs are from Mars, Report Servers are from Venus
@@ -84,7 +85,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 308
 #  
 #### SessionID: 30173
 # SQL Server Security and Intrusion Prevention
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 308 
 ## Speaker: Gabriel Villa
 ## Title: SQL Server Security and Intrusion Prevention
@@ -93,7 +94,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 308
 #  
 #### SessionID: 30509
 # Totally Tabular – Exploring Denali SSAS Features
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 302
 ## Speaker: Jason Horner
 ## Title: Totally Tabular – Exploring Denali SSAS Features
@@ -102,7 +103,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 302
 #  
 #### SessionID: 31545
 # Introduction to Integration Services
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 309 
 ## Speaker: Marc Beacom
 ## Title: Introduction to Integration Services
@@ -111,7 +112,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 309
 #  
 #### SessionID: 31824
 # Managing and Auditing SQL Server Permissions
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 309 
 ## Speaker: Michael Fal
 ## Title: Managing and Auditing SQL Server Permissions
@@ -121,7 +122,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 309
 #  
 #### SessionID: 31924
 # Want a promotion? It’s up to you!
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 302
 ## Speaker: Mitchell Bottel
 ## Title: Want a promotion? It’s up to you!
@@ -130,7 +131,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 302
 #  
 #### SessionID: 31925
 # Easily Manage your Servers with CMS and PMB
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 302
 ## Speaker: Mitchell Bottel
 ## Title: Easily Manage your Servers with CMS and PMB
@@ -139,7 +140,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 302
 #  
 #### SessionID: 31954
 # Index Management
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 308 
 ## Speaker: Martin Miller
 ## Title: Index Management
@@ -148,7 +149,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 308
 #  
 #### SessionID: 32167
 # Visual Report Design: Bringing Sexy Back
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 309 
 ## Speaker: Paul Turley
 ## Title: Visual Report Design: Bringing Sexy Back
@@ -161,7 +162,7 @@ Sure, Business Intelligence is all the rage but you don’t have to invest in an
 #  
 #### SessionID: 32382
 # Understanding SQL Server XML Features 
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 302
 ## Speaker: Randy Knight
 ## Title: Understanding SQL Server XML Features 
@@ -172,7 +173,7 @@ The XML Functionality embedded into SQL Server 2005 and 2008 is one of its most 
 #  
 #### SessionID: 32384
 # But it worked great in Dev!  Performance for Devs
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 300 
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Performance for Devs
@@ -182,7 +183,7 @@ If you've ever found yourself stating the above, this session is for you.  For m
 #  
 #### SessionID: 32490
 # Parallel Processing Database Architecture
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 309 
 ## Speaker: Jeff Renz
 ## Title: Parallel Processing Database Architecture
@@ -191,7 +192,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 309
 #  
 #### SessionID: 32816
 # .NET for the DBA
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 308 
 ## Speaker: Scott Golightly
 ## Title: .NET for the DBA
@@ -200,7 +201,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 308
 #  
 #### SessionID: 33027
 # MySQL Vs SQL Server Are they really different? 
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 300 
 ## Speaker: Pat Wright
 ## Title: MySQL Vs SQL Server Are they really different? 
@@ -209,7 +210,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 300
 #  
 #### SessionID: 33128
 # Utility Database
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 300 
 ## Speaker: Christopher Shaw
 ## Title: Utility Database
@@ -220,7 +221,7 @@ In the utility database that we create during this session we will track stored 
 #  
 #### SessionID: 33679
 # Documentation – you know you love it
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 300 
 ## Speaker: TJay Belt
 ## Title: Documentation – you know you love it
@@ -230,7 +231,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 300
 #  
 #### SessionID: 33680
 # Data File Sizes – How much is enough, if you don’t
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 302
 ## Speaker: TJay Belt
 ## Title: Data File Sizes – How much is enough, if you don’t
@@ -241,7 +242,7 @@ We’ll talk about a stand-alone tool that I used to determine space use for bas
 #  
 #### SessionID: 34018
 # Attribute Discretization in Analysis Services (BI)
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 302
 ## Speaker: William E Pearson III
 ## Title: Attribute Discretization in Analysis Services (BI)
@@ -250,7 +251,7 @@ Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 302
 #  
 #### SessionID: 34020
 # Beyond Plateaux: Optimize SSAS with Best Practices
-#### [Back to calendar](#SQLSaturday-#94-Salt-Lake-City-2011)
+#### [Back to calendar](#nr-94)
 Event Date: 10-09-2011 - Session time: 00:00:00 - Track: Room 308 
 ## Speaker: William E Pearson III
 ## Title: Beyond Plateaux: Optimize SSAS with Best Practices

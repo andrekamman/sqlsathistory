@@ -1,3 +1,4 @@
+#### Nr: 295
 #### [Back to Main list](index.md)
 # SQLSaturday #295 - Las Vegas 2014
 Start Time (24h)|Speaker|Track|Title
@@ -22,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10230
 # SQL Server TDE
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Ben Miller
 ## Title: SQL Server TDE
@@ -31,7 +32,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 12527
 # Squeezing Top Performance from Your Virtualized SQL Server
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: David Klee
 ## Title: Squeezing Top Performance from Your Virtualized SQL Server
@@ -40,7 +41,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 13606
 # Stats Across The Stack
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Erika Bakse
 ## Title: Stats Across The Stack
@@ -49,7 +50,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 13686
 # "So you have a performance issue.  What now?"
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Ed Watson
 ## Title: "So you have a performance issue.  What now?"
@@ -58,7 +59,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 15813
 # Dimensional Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
@@ -67,7 +68,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 16160
 # The Modern Analytics Architecture
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Joseph D'Antoni
 ## Title: The Modern Analytics Architecture
@@ -76,7 +77,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 17868
 # $#*! Your Database Says About Me
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Karen Lopez
 ## Title: $#*! Your Database Says About Me
@@ -85,7 +86,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 22532
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -95,7 +96,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 22760
 # Increase your SSIS productivity with Biml
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Reeves Smith
 ## Title: Increase your SSIS productivity with Biml
@@ -107,7 +108,7 @@ This session will be a demo based session that will inspire you to make Biml you
 #  
 #### SessionID: 23589
 # XPath - XQuery; I guess if I HAVE to
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Russ Thomas
 ## Title: XPath - XQuery; I guess if I HAVE to
@@ -116,7 +117,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 24529
 # The Encryption Primer
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Steve Jones
 ## Title: The Encryption Primer
@@ -125,7 +126,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 24877
 # Integrating SQL Server with Hadoop
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Pat Wright
 ## Title: Integrating SQL Server with Hadoop
@@ -134,7 +135,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 25148
 # Database Design: Size DOES Matter
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Thomas LaRock
 ## Title: Database Design: Size DOES Matter
@@ -143,7 +144,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 26011
 # 45 min to build your first SSRS report
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Tamera Clark
 ## Title: 45 min to build your first SSRS report
@@ -152,7 +153,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 26893
 # Database Monitoring : Trying To Keep Sane
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: TJay Belt
 ## Title: Database Monitoring : Trying To Keep Sane
@@ -162,7 +163,7 @@ We will discuss various ideas, tools, approaches, and solutions to how to monito
 #  
 #### SessionID: 34792
 # Managing Log File Obesity
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Michael Fal
 ## Title: Managing Log File Obesity
@@ -171,7 +172,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 9980
 # Manage SQLServer Efficiently w/PowerShell Remoting
-#### [Back to calendar](#SQLSaturday-#295-Las-Vegas-2014)
+#### [Back to calendar](#nr-295)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Allen White
 ## Title: Manage SQLServer Efficiently w/PowerShell Remoting

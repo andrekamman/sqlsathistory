@@ -1,3 +1,4 @@
+#### Nr: 921
 #### [Back to Main list](index.md)
 # SQLSaturday #921 – Pordenone – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -44,7 +45,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 100689
 # Walk-through of Azure Machine Learning Service new features
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t4
 ## Speaker: Luca Zavarella
 ## Title: Walk-through of Azure Machine Learning Service new features
@@ -54,7 +55,7 @@ https://speakerscore.com/ZGKX
 #  
 #### SessionID: 100693
 # Modernizing your Data Warehouse with Azure Synapse Analytics
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t2
 ## Speaker: andrea benedetti
 ## Title: Modernizing your Data Warehouse with Azure Synapse Analytics
@@ -64,7 +65,7 @@ https://speakerscore.com/9SSC
 #  
 #### SessionID: 100705
 # Performance Monitoring in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t1
 ## Speaker: Gilberto Zampatti
 ## Title: Performance Monitoring in SQL Server 2019
@@ -76,7 +77,7 @@ that can change our approach to the monitoring, maintenance and tuning activity.
 #  
 #### SessionID: 100736
 # SQL Server Data Virtualization with Polybase
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t5
 ## Speaker: Gianluca Hotz
 ## Title: SQL Server Data Virtualization with Polybase
@@ -85,7 +86,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 101039
 # A gentle introduction to Apache Spark for SQL Server people
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t3
 ## Speaker: Francesco Milano
 ## Title: A gentle introduction to Apache Spark for SQL Server people
@@ -99,7 +100,7 @@ In questa sessione proveremo ad avvicinarci ad Apache Spark partendo dalle sue b
 #  
 #### SessionID: 105119
 # (Envisioning Beantech) A modern crystal ball to predict the future
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t2
 ## Speaker: Dimitri Zornik
 ## Title: (Envisioning Beantech) A modern crystal ball to predict the future
@@ -108,7 +109,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 105132
 # (Envisioning Würth Phoenix) Utilizzo di Power Platform per l’int
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t3
 ## Speaker: Andrea Martorana Tusa
 ## Title: (Envisioning Würth Phoenix) Utilizzo di Power Platform per l’int
@@ -117,7 +118,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 105135
 # (Envisioning Real Comm): SmartMan: ERP Industria 4.0
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t5
 ## Speaker: Marco Giacomini
 ## Title: (Envisioning Real Comm): SmartMan: ERP Industria 4.0
@@ -126,7 +127,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 105171
 # IT market Clock for Database Management Systems
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t4
 ## Speaker: Fabrizio Saro
 ## Title: IT market Clock for Database Management Systems
@@ -135,7 +136,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 105176
 # Quando i dati fanno la differenza (e quando un po’ meno)
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t1
 ## Speaker: Federico Favero
 ## Title: Quando i dati fanno la differenza (e quando un po’ meno)
@@ -144,7 +145,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 100561
 # Ottimizzare SQL Server su VMWare: come si fa?
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t5
 ## Speaker: Danilo Dominici
 ## Title: Ottimizzare SQL Server su VMWare: come si fa?
@@ -154,7 +155,7 @@ https://speakerscore.com/4VJB
 #  
 #### SessionID: 100684
 # Introduction to M in Power BI
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t2
 ## Speaker: Francesco De Chirico
 ## Title: Introduction to M in Power BI
@@ -163,7 +164,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 98904
 # "SQL Wars, l'attacco dei cloni e la resistenza dei container
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t4
 ## Speaker: Alessandro Alpi
 ## Title: "SQL Wars, l'attacco dei cloni e la resistenza dei container
@@ -173,7 +174,7 @@ https://speakerscore.com/XJF3
 #  
 #### SessionID: 99148
 # SQL Notebooks in Azure Data Studio for the DBA
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t3
 ## Speaker: Rob Sewell
 ## Title: SQL Notebooks in Azure Data Studio for the DBA
@@ -189,7 +190,7 @@ and some gifs ;-) https://speakerscore.com/7QK2
 #  
 #### SessionID: 99544
 # Query Processing improvements in the latest versions of SQL Server – IT
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t1
 ## Speaker: Sergio Govoni
 ## Title: Query Processing improvements in the latest versions of SQL Server – IT
@@ -199,7 +200,7 @@ https://speakerscore.com/7QK2
 #  
 #### SessionID: 100208
 # What can Azure do for your batch data analytics workloads?
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t5
 ## Speaker: Mislav Karaula
 ## Title: What can Azure do for your batch data analytics workloads?
@@ -208,7 +209,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 100223
 # Datastorytelling  Visualization Best Practices with PowerBi
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t3
 ## Speaker: Lorenzo Vercellati
 ## Title: Datastorytelling  Visualization Best Practices with PowerBi
@@ -217,7 +218,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 101334
 # Moderm Data Science Lifecycle with ADX  Azure
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t1
 ## Speaker: Riccardo Zamana
 ## Title: Moderm Data Science Lifecycle with ADX  Azure
@@ -227,7 +228,7 @@ https://speakerscore.com/V5WR
 #  
 #### SessionID: 101349
 # The databases in SSDT - a work with project and best practices
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t2
 ## Speaker: Kamil Nowinski
 ## Title: The databases in SSDT - a work with project and best practices
@@ -237,7 +238,7 @@ All these topics I will explain in the session focused on practical aspects of w
 #  
 #### SessionID: 98786
 # SQL Server ed Azure: Disaster Recovery per tutti
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t4
 ## Speaker: Marco Obinu
 ## Title: SQL Server ed Azure: Disaster Recovery per tutti
@@ -247,7 +248,7 @@ Vediamo insieme quali sono le soluzioni suggerite da Microsoft, confrontandone p
 #  
 #### SessionID: 100192
 # Advanced Analytics with Power BI
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t2
 ## Speaker: Andrea Martorana Tusa
 ## Title: Advanced Analytics with Power BI
@@ -259,7 +260,7 @@ Discover how easy is using advanced analytics in Power BI to effectively address
 #  
 #### SessionID: 100214
 # Usate SQL Server in containers: best practices
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t2
 ## Speaker: Danilo Dominici
 ## Title: Usate SQL Server in containers: best practices
@@ -268,7 +269,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 100762
 # Sfruttiamo Dapper al 110%
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t4
 ## Speaker: Marco Minerva
 ## Title: Sfruttiamo Dapper al 110%
@@ -277,7 +278,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 98090
 # Building a modern data warehouse and BI solution in Microsoft cloud
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t1
 ## Speaker: Gergely Csom
 ## Title: Building a modern data warehouse and BI solution in Microsoft cloud
@@ -288,7 +289,7 @@ In the last couple years I helped many customers to modernize their DWH landscap
 #  
 #### SessionID: 99593
 # Azure SQL Database EDGE, put your SQL wherever you want!
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t3
 ## Speaker: Marco Dal Pino
 ## Title: Azure SQL Database EDGE, put your SQL wherever you want!
@@ -299,7 +300,7 @@ Expand device architecture coverage to include ARM-based devices on top of x64-b
 #  
 #### SessionID: 105107
 # (Envisioning Microsoft) "Move forward your data strategy"
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t4
 ## Speaker: andrea benedetti
 ## Title: (Envisioning Microsoft) "Move forward your data strategy"
@@ -308,7 +309,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 105120
 # (Envisioning Consulcesi)
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t2
 ## Speaker: Davide Cavalli
 ## Title: (Envisioning Consulcesi)
@@ -317,7 +318,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 105131
 # (Envisioning SolidQ)
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t1
 ## Speaker: Veronica Nuvolone
 ## Title: (Envisioning SolidQ)
@@ -326,7 +327,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 105150
 # Power BI App per analisi di Bilancio da file XBRL
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t5
 ## Speaker: Marco Pozzan
 ## Title: Power BI App per analisi di Bilancio da file XBRL
@@ -335,7 +336,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 100317
 # Power BI dataflows deep dive (IT) (https://speakerscore.com/SKKL))
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t2
 ## Speaker: Riccardo Perico
 ## Title: Power BI dataflows deep dive (IT) (https://speakerscore.com/SKKL))
@@ -347,7 +348,7 @@ Cerchiamo di rispondere a queste ed altre domande con esempi pratici.https://spe
 #  
 #### SessionID: 100683
 # Custom Text Analysis with Azure Machine Learning Services
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t4
 ## Speaker: Alessio Biasiutti
 ## Title: Custom Text Analysis with Azure Machine Learning Services
@@ -357,7 +358,7 @@ https://speakerscore.com/KW22
 #  
 #### SessionID: 101101
 # Microsoft Power BI fast with aggregation and composite model
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t5
 ## Speaker: Marco Pozzan
 ## Title: Microsoft Power BI fast with aggregation and composite model
@@ -366,7 +367,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 101209
 # Applied data analytics with Azure Databricks
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t1
 ## Speaker: Tomaž Kaštrun
 ## Title: Applied data analytics with Azure Databricks
@@ -378,7 +379,7 @@ Data engineers and business analysts (data scientists) can now work on RDD struc
 #  
 #### SessionID: 105106
 # Synapse Analytics: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t3
 ## Speaker: Dennes Torres
 ## Title: Synapse Analytics: Beyond the Basics
@@ -389,7 +390,7 @@ Synapse Analytics, which is way beyond the former Azure SQL Data Warehouse, is f
 #  
 #### SessionID: 100674
 # How scale SQL with Serverless
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t4
 ## Speaker: Andrea Tosato
 ## Title: How scale SQL with Serverless
@@ -399,7 +400,7 @@ In questa sessione vedremo come scalare correttamente una applicazione che ha la
 #  
 #### SessionID: 100914
 # .net developer for Jupyter Notebooks and Apache Spark and viceversa
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t3
 ## Speaker: Marco Parenzan
 ## Title: .net developer for Jupyter Notebooks and Apache Spark and viceversa
@@ -408,7 +409,7 @@ Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat92
 #  
 #### SessionID: 98387
 # Monitoring SQL Server without breaking the bank
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t1
 ## Speaker: Gianluca Sartori
 ## Title: Monitoring SQL Server without breaking the bank
@@ -418,7 +419,7 @@ In this session we will combine multiple open source tools (InfluxDB, Telegraf ,
 #  
 #### SessionID: 98621
 # Leverage Power BI automation using APIs and Flow
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t2
 ## Speaker: Andrea Martorana Tusa
 ## Title: Leverage Power BI automation using APIs and Flow
@@ -430,7 +431,7 @@ The session is demo only. A complete walk-through to the process, will show you 
 #  
 #### SessionID: 98969
 # SQL Server Lift  Shift on Azure!
-#### [Back to calendar](#SQLSaturday-#921-–-Pordenone-–-Virtual-2020)
+#### [Back to calendar](#nr-921)
 Event Date: 30-05-2020 - Session time: 16:35:00 - Track: https://bit.ly/sqlsat921t4
 ## Speaker: Marco Obinu
 ## Title: SQL Server Lift  Shift on Azure!

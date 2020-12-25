@@ -1,3 +1,4 @@
+#### Nr: 356
 #### [Back to Main list](index.md)
 # SQLSaturday #356 - Slovenia 2014
 Start Time (24h)|Speaker|Track|Title
@@ -30,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10943
 # The nightmare of locking, blocking and isolation levels!
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Boris Hristov
 ## Title: The nightmare of locking, blocking and isolation levels!
@@ -39,7 +40,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 13155
 # Deadlocks 2.0. Everything that developer needs to know
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Denis Reznik
 ## Title: Deadlocks 2.0. Everything that developer needs to know
@@ -48,7 +49,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 14604
 # Responding to extended events in near real time
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/BI
 ## Speaker: Gianluca Sartori
 ## Title: Responding to extended events in near real time
@@ -57,7 +58,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/BI
 #  
 #### SessionID: 14631
 # Columnstore indexes, concepts and evolution 
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/BI
 ## Speaker: Gilberto Zampatti
 ## Title: Columnstore indexes, concepts and evolution 
@@ -66,7 +67,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/BI
 #  
 #### SessionID: 15327
 # BI Markup Language - BI to the next level (EN)
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Davide Mauri
 ## Title: BI Markup Language - BI to the next level (EN)
@@ -75,7 +76,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 15761
 # High Availability - Partial Database Availabilty
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/BI
 ## Speaker: Janos Berke
 ## Title: High Availability - Partial Database Availabilty
@@ -97,7 +98,7 @@ Session agenda is the follwoing:
 #  
 #### SessionID: 17172
 # AlwaysOn for Multi-site  multi-subnet
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/DEV
 ## Speaker: John Martin
 ## Title: AlwaysOn for Multi-site  multi-subnet
@@ -108,7 +109,7 @@ We will also look at some of the performance  failover scenarios that you might 
 #  
 #### SessionID: 17343
 # How to look after SQL Server without needing a DBA
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/DEV
 ## Speaker: Jonathan Allen
 ## Title: How to look after SQL Server without needing a DBA
@@ -117,7 +118,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/DEV
 #  
 #### SessionID: 17938
 # Reporting Services with Geospatial Visualization
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Alexander Karl
 ## Title: Reporting Services with Geospatial Visualization
@@ -127,7 +128,7 @@ specifically: „from address data to data-presentation in SSRS Mapcontrol in 3 
 #  
 #### SessionID: 18796
 # SQL Server Source Control
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/BI
 ## Speaker: Tobias Koprowski
 ## Title: SQL Server Source Control
@@ -136,7 +137,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/BI
 #  
 #### SessionID: 19384
 # A deep dive into SQL Server Plan Cache Management  
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/DEV
 ## Speaker: Margarita Naumova
 ## Title: A deep dive into SQL Server Plan Cache Management  
@@ -145,7 +146,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/DEV
 #  
 #### SessionID: 20333
 # Dealing with Entity Framework 6.1
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Mihail Mateev
 ## Title: Dealing with Entity Framework 6.1
@@ -154,7 +155,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 20759
 # SQL Server 2014 In-Memory OLTP Challenges for Developers
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/DEV
 ## Speaker: Miloš Radivojević
 ## Title: SQL Server 2014 In-Memory OLTP Challenges for Developers
@@ -163,7 +164,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/DEV
 #  
 #### SessionID: 21090
 # Table Indexing for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
@@ -172,7 +173,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 21091
 # Index Internals
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/DEV
 ## Speaker: Denny Cherry
 ## Title: Index Internals
@@ -181,7 +182,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/DEV
 #  
 #### SessionID: 22849
 # SharePoint as a Business Intelligence platform
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Regis Baccaro
 ## Title: SharePoint as a Business Intelligence platform
@@ -192,7 +193,7 @@ In this session we will walk through the configuration of a complete on-premises
 #  
 #### SessionID: 23527
 # Building a meta-driven near realtime ETL solution with BIML and SSIS
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Rasmus Reinholdt
 ## Title: Building a meta-driven near realtime ETL solution with BIML and SSIS
@@ -206,7 +207,7 @@ Topics covered in the session
 #  
 #### SessionID: 23989
 # SSAS in multi-lingual environments: tips  tricks
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Saso Koren
 ## Title: SSAS in multi-lingual environments: tips  tricks
@@ -215,7 +216,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 24741
 # Multidimensional vs Tabular - May the Best Model Win
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Stacia Varga
 ## Title: Multidimensional vs Tabular - May the Best Model Win
@@ -224,7 +225,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 24801
 # SQL Saturday 356 Keynote
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Mladen Prajdić
 ## Title: SQL Saturday 356 Keynote
@@ -233,7 +234,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 26442
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -242,7 +243,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 27006
 # Usage of R in SQL Server for better data understanding
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/BI
 ## Speaker: Tomaž Kaštrun
 ## Title: Usage of R in SQL Server for better data understanding
@@ -251,7 +252,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/BI
 #  
 #### SessionID: 27277
 # INSERT / UPDATE / DELETE - deep dive
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/DEV
 ## Speaker: Uwe Ricken
 ## Title: INSERT / UPDATE / DELETE - deep dive
@@ -262,7 +263,7 @@ SEE, what a workload will be caused by a "forwarded record". What tremendous wor
 #  
 #### SessionID: 28220
 # Database Replication - What, How and Why
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DBA/BI
 ## Speaker: William Durkin
 ## Title: Database Replication - What, How and Why
@@ -277,7 +278,7 @@ The content will be valid for all versions of SQL Server from 2005 onward.
 #  
 #### SessionID: 9466
 # ORM Tuning From A Database Perspective
-#### [Back to calendar](#SQLSaturday-#356-Slovenia-2014)
+#### [Back to calendar](#nr-356)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: André Kamman
 ## Title: ORM Tuning From A Database Perspective

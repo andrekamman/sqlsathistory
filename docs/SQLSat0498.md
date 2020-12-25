@@ -1,3 +1,4 @@
+#### Nr: 498
 #### [Back to Main list](index.md)
 # SQLSaturday #498 - Chattanooga 2016
 Start Time (24h)|Speaker|Track|Title
@@ -42,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 42315
 # Create lightning fast Dashboard with Power BI and its Components
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Vishal Pawar
 ## Title: Create lightning fast Dashboard with Power BI and its Components
@@ -51,7 +52,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 47112
 # The Sorcerer's Apprentice Guide to Configuration Options and Trace Flags
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Justin Randall
 ## Title: The Sorcerer's Apprentice Guide to Configuration Options and Trace Flags
@@ -60,7 +61,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48569
 # Why “R” you not leveraging the power of “R” in Power BI?!?
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Wade
 ## Title: Why “R” you not leveraging the power of “R” in Power BI?!?
@@ -71,7 +72,7 @@ In this session I will focus on the benefits of using R in Power BI. I will show
 #  
 #### SessionID: 49595
 # Building Unconventional SQL Server Tools in PowerShell
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Other
 ## Speaker: Mike Robbins
 ## Title: Building Unconventional SQL Server Tools in PowerShell
@@ -80,7 +81,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 49664
 # A SQL Developer’s Guide to MDX Basics
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shabnam Watson
 ## Title: A SQL Developer’s Guide to MDX Basics
@@ -92,7 +93,7 @@ In this session you will explore how data is organized in SSAS in a data structu
 #  
 #### SessionID: 49667
 # Upgrade your Database Development Skills with SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Nathanial Gainer
 ## Title: Upgrade your Database Development Skills with SQL Server Data Tools
@@ -101,7 +102,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 45113
 # Road to Better SQL Code - Advance Techniques Part 1
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Road to Better SQL Code - Advance Techniques Part 1
@@ -110,7 +111,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 46477
 # Execution Plans for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
@@ -128,7 +129,7 @@ Finally, you will be able to capture the execution plan, save it for analysis an
 #  
 #### SessionID: 48803
 # Smart Rats Leave First
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Geoff Hiten
 ## Title: Smart Rats Leave First
@@ -137,7 +138,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 49574
 # Advanced Error Tracking for Quick Diagnosis
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Information Delivery
 ## Speaker: Matt Martin
 ## Title: Advanced Error Tracking for Quick Diagnosis
@@ -148,7 +149,7 @@ This toolset has saved many developers and DBA's tons of time researching failur
 #  
 #### SessionID: 50084
 # 16 Enhancements for SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Other
 ## Speaker: Robert Verell
 ## Title: 16 Enhancements for SQL Server 2016
@@ -157,7 +158,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 50561
 # Achieve More in Less Time by Using SQLPS
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Aaron Nelson
 ## Title: Achieve More in Less Time by Using SQLPS
@@ -169,7 +170,7 @@ There is a faster way to manage and even SQL Servers using PowerShell.  I will s
 #  
 #### SessionID: 42336
 # Data Analysis With SQL Window Functions
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Adam McDonald
 ## Title: Data Analysis With SQL Window Functions
@@ -178,7 +179,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 45117
 # Road to Better SQL Code - Advance Techniques Part 2
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Road to Better SQL Code - Advance Techniques Part 2
@@ -187,7 +188,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 48218
 # Azure Data Factory: My Data Wandered Lonely as a CLOUD.
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Julie Smith
 ## Title: Azure Data Factory: My Data Wandered Lonely as a CLOUD.
@@ -196,7 +197,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 49692
 # PowerShell 201: Debugging, Security, Code Signing, and Remoting
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Other
 ## Speaker: Robert Cain
 ## Title: PowerShell 201: Debugging, Security, Code Signing, and Remoting
@@ -209,7 +210,7 @@ The session will wrap up with a discussion of Remoting, a technique allowing you
 #  
 #### SessionID: 50006
 # Why Should I Care About ... Partitioned Views?
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
@@ -218,7 +219,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50101
 # Connecting Power BI to On-Prem Data with SSAS
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Kerry Tyler
 ## Title: Connecting Power BI to On-Prem Data with SSAS
@@ -227,7 +228,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 44283
 # Top 10 Wait Types Everyone Should Know
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Top 10 Wait Types Everyone Should Know
@@ -236,7 +237,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45070
 # SQL Server XML 101
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Alex Grinberg
 ## Title: SQL Server XML 101
@@ -245,7 +246,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 46783
 # Microsoft Business Intelligence 2016 – More Love for Your Data
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Tamera Clark
 ## Title: Microsoft Business Intelligence 2016 – More Love for Your Data
@@ -254,7 +255,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 48214
 # New Instance, Now what?
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Donahoe
 ## Title: New Instance, Now what?
@@ -268,7 +269,7 @@ By the end of this session, you will have developed a pallet of tools to help yo
 #  
 #### SessionID: 48503
 # Azure SQL Database for the Production DBA
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Radney
 ## Title: Azure SQL Database for the Production DBA
@@ -277,7 +278,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49691
 # Zero to Hero with PowerShell and SQL Server
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Cain
 ## Title: Zero to Hero with PowerShell and SQL Server
@@ -289,7 +290,7 @@ You'll also see how to perform developer tasks such as creating tables, insertin
 #  
 #### SessionID: 52535
 # Self-Service ETL with Microsoft Power Query
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Damu Venkatesan
 ## Title: Self-Service ETL with Microsoft Power Query
@@ -298,7 +299,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 42309
 # Service Broker: Coach your processes asynchronously
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Service Broker: Coach your processes asynchronously
@@ -308,7 +309,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 42328
 # Context  Calculation: Back to the Basics with DAX
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Austin Senseman
 ## Title: Context  Calculation: Back to the Basics with DAX
@@ -319,7 +320,7 @@ This session is for the intermediate DAX user who has produced some quality data
 #  
 #### SessionID: 42568
 # SQL Server Always On - The Good, The Bad and the Ugly
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Peterson
 ## Title: SQL Server Always On - The Good, The Bad and the Ugly
@@ -330,7 +331,7 @@ This session will review terms for high availability and review our implementati
 #  
 #### SessionID: 45431
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Ed Watson
 ## Title: Introduction to SQL Server Integration Services
@@ -339,7 +340,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 45733
 # Perceptual Intelligence with Cortana Analytics
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dan Evans
 ## Title: Perceptual Intelligence with Cortana Analytics
@@ -349,7 +350,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 45943
 # Table Partitioning Intro and make that a sliding window too!
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Reinhard
 ## Title: Table Partitioning Intro and make that a sliding window too!
@@ -359,7 +360,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42389
 # Data Migration Using BIML
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Feasel
 ## Title: Data Migration Using BIML
@@ -368,7 +369,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 42567
 # SQL Server 2016  - New DBMS Features and examples
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Peterson
 ## Title: SQL Server 2016  - New DBMS Features and examples
@@ -394,7 +395,7 @@ My job as lead architect is to implement these new features, and see how they ac
 #  
 #### SessionID: 45776
 # Pragmatic Power BI:  Transforming Data
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: William E Pearson III
 ## Title: Pragmatic Power BI:  Transforming Data
@@ -403,7 +404,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 46429
 # SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Naomi Williams
 ## Title: SQL Server Internals
@@ -412,7 +413,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 49588
 # What's New for BI in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Teo Lachev
 ## Title: What's New for BI in SQL Server 2016
@@ -421,7 +422,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 50079
 # Keys to Successful SharePoint Administration for the DBA
-#### [Back to calendar](#SQLSaturday-#498-Chattanooga-2016)
+#### [Back to calendar](#nr-498)
 Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Other
 ## Speaker: Daniel Glenn
 ## Title: Keys to Successful SharePoint Administration for the DBA

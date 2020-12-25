@@ -1,3 +1,4 @@
+#### Nr: 382
 #### [Back to Main list](index.md)
 # SQLSaturday #382 - Brisbane 2015
 Start Time (24h)|Speaker|Track|Title
@@ -20,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11991
 # Introduction to Biml  BimlScript
-#### [Back to calendar](#SQLSaturday-#382-Brisbane-2015)
+#### [Back to calendar](#nr-382)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Craig Bryden
 ## Title: Introduction to Biml  BimlScript
@@ -33,7 +34,7 @@ In this session Craig will introduce you to Biml  BimlScript, providing those ne
 #  
 #### SessionID: 15145
 # Power BI - Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#382-Brisbane-2015)
+#### [Back to calendar](#nr-382)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Iman Eftekhari
 ## Title: Power BI - Beyond the Basics
@@ -46,7 +47,7 @@ Topics include: Overview, real-life demo, hybrid-cloud scenarios with Data Manag
 #  
 #### SessionID: 16920
 # Interactive  Actionable Data Visualisation With Power View
-#### [Back to calendar](#SQLSaturday-#382-Brisbane-2015)
+#### [Back to calendar](#nr-382)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Julie Koesmarno
 ## Title: Interactive  Actionable Data Visualisation With Power View
@@ -57,7 +58,7 @@ This session will discuss how to design the appropriate data model to enable sel
 #  
 #### SessionID: 19734
 # The DBA with his head in the clouds
-#### [Back to calendar](#SQLSaturday-#382-Brisbane-2015)
+#### [Back to calendar](#nr-382)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Martin Cairney
 ## Title: The DBA with his head in the clouds
@@ -68,7 +69,7 @@ This session will look at the DBA functions for an Azure SQL Database instance a
 #  
 #### SessionID: 19735
 # Thinking Out of the Box: Manage SQL Server Using Built-in Tools
-#### [Back to calendar](#SQLSaturday-#382-Brisbane-2015)
+#### [Back to calendar](#nr-382)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Martin Cairney
 ## Title: Thinking Out of the Box: Manage SQL Server Using Built-in Tools
@@ -81,7 +82,7 @@ After this session you’ll be able to build out an effective management and mon
 #  
 #### SessionID: 19766
 # Getting Started with the Azure V12 Portal and it'sNew Features
-#### [Back to calendar](#SQLSaturday-#382-Brisbane-2015)
+#### [Back to calendar](#nr-382)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Martin Catherall
 ## Title: Getting Started with the Azure V12 Portal and it'sNew Features
@@ -93,7 +94,7 @@ Come along to this session and fin out more about the new features and how to go
 #  
 #### SessionID: 21473
 # TOPGUN SQL SERVER: Unlocking the Fighter Pilot in Every DBA
-#### [Back to calendar](#SQLSaturday-#382-Brisbane-2015)
+#### [Back to calendar](#nr-382)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Nicholas Loghides
 ## Title: TOPGUN SQL SERVER: Unlocking the Fighter Pilot in Every DBA
@@ -102,7 +103,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21939
 # Continuously Integrated Data Vault
-#### [Back to calendar](#SQLSaturday-#382-Brisbane-2015)
+#### [Back to calendar](#nr-382)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Peter Avenant
 ## Title: Continuously Integrated Data Vault
@@ -116,7 +117,7 @@ We will add unit test and continuous integration using MSBuild and the BimlCompi
 #  
 #### SessionID: 22012
 # An Introduction to Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#382-Brisbane-2015)
+#### [Back to calendar](#nr-382)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Peter Myers
 ## Title: An Introduction to Azure Machine Learning
@@ -125,7 +126,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22068
 # Apart from In-Memory OLTP what's new in the 2014 Data Platform?
-#### [Back to calendar](#SQLSaturday-#382-Brisbane-2015)
+#### [Back to calendar](#nr-382)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Peter Ward
 ## Title: Apart from In-Memory OLTP what's new in the 2014 Data Platform?
@@ -134,7 +135,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23171
 # Powershell Gems for the DBA
-#### [Back to calendar](#SQLSaturday-#382-Brisbane-2015)
+#### [Back to calendar](#nr-382)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rob Risetto
 ## Title: Powershell Gems for the DBA
@@ -145,7 +146,7 @@ In this session we will walk through a number of Powershell functions, code snip
 #  
 #### SessionID: 23385
 # Building Hybrid BI Solutions with Power BI
-#### [Back to calendar](#SQLSaturday-#382-Brisbane-2015)
+#### [Back to calendar](#nr-382)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Rod Colledge
 ## Title: Building Hybrid BI Solutions with Power BI
@@ -154,7 +155,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 27668
 # Help me Availability Groups, You're the only 1 who can save me
-#### [Back to calendar](#SQLSaturday-#382-Brisbane-2015)
+#### [Back to calendar](#nr-382)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Warwick Rudd
 ## Title: Help me Availability Groups, You're the only 1 who can save me
@@ -163,7 +164,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 34654
 # Stayin' Alive
-#### [Back to calendar](#SQLSaturday-#382-Brisbane-2015)
+#### [Back to calendar](#nr-382)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Heidi Wilson
 ## Title: Stayin' Alive
@@ -181,7 +182,7 @@ All critical features and tools that you must know and use to keep your SQL Serv
 #  
 #### SessionID: 9072
 # Data Warehouse Automation - Improving your productivity
-#### [Back to calendar](#SQLSaturday-#382-Brisbane-2015)
+#### [Back to calendar](#nr-382)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Adam Gilmore
 ## Title: Data Warehouse Automation - Improving your productivity

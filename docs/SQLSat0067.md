@@ -1,3 +1,4 @@
+#### Nr: 67
 #### [Back to Main list](index.md)
 # SQLSaturday #67 - Chicago 2011
 Start Time (24h)|Speaker|Track|Title
@@ -45,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28424
 # Raise the Bar by Writing Professional Database Cod
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 218
 ## Speaker: Aaron Lowe
 ## Title: Raise the Bar by Writing Professional Database Cod
@@ -54,7 +55,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 218
 #  
 #### SessionID: 28438
 # What's new in SQL Server 2011 ("Denali")?
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 216
 ## Speaker: Aaron Bertrand
 ## Title: What's new in SQL Server 2011 ("Denali")?
@@ -64,7 +65,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 216
 #  
 #### SessionID: 28601
 # Windows Failover Clustering Basics for the DBA
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 214
 ## Speaker: Allan Hirt
 ## Title: Windows Failover Clustering Basics for the DBA
@@ -73,7 +74,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 214
 #  
 #### SessionID: 28835
 # Monitoring Data Changes with Change Data Capture
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 214
 ## Speaker: Arie Jones
 ## Title: Monitoring Data Changes with Change Data Capture
@@ -82,7 +83,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 214
 #  
 #### SessionID: 28947
 # Automate Policy-Based Management using PowerShell
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 214
 ## Speaker: Allen White
 ## Title: Automate Policy-Based Management using PowerShell
@@ -91,7 +92,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 214
 #  
 #### SessionID: 29126
 # Backups  Recovery In Depth
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 216
 ## Speaker: Bob Pusateri
 ## Title: Backups  Recovery In Depth
@@ -100,7 +101,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 216
 #  
 #### SessionID: 29236
 # SQL Server Storage: Filegroups, Files, Partitions
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 116
 ## Speaker: Brent Ozar
 ## Title: SQL Server Storage: Filegroups, Files, Partitions
@@ -109,7 +110,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 116
 #  
 #### SessionID: 29534
 # SQL Server Internals:  It's What's for Dinner!
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 218
 ## Speaker: Christina Leo
 ## Title: SQL Server Internals:  It's What's for Dinner!
@@ -118,7 +119,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 218
 #  
 #### SessionID: 29640
 # Database Mirroring in the Real World
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 118
 ## Speaker: Craig Purnell
 ## Title: Database Mirroring in the Real World
@@ -128,7 +129,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 118
 #  
 #### SessionID: 29704
 # Running Mission Critical Apps on SQL Server
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 118
 ## Speaker: Dave Paulson
 ## Title: Running Mission Critical Apps on SQL Server
@@ -137,7 +138,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 118
 #  
 #### SessionID: 29761
 # Data Warehousing - How to Convince "The Bobs"
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 217
 ## Speaker: David Stein
 ## Title: Data Warehousing - How to Convince "The Bobs"
@@ -150,7 +151,7 @@ Come to this presentation, and I’ll answer all of these questions plus the mos
 #  
 #### SessionID: 29809
 # What To Do When It All Goes So Wrong
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 118
 ## Speaker: David Levy
 ## Title: What To Do When It All Goes So Wrong
@@ -159,7 +160,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 118
 #  
 #### SessionID: 29967
 # Data-Driven Report Subscriptions with SSIS
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 117
 ## Speaker: Doug Lane
 ## Title: Data-Driven Report Subscriptions with SSIS
@@ -168,7 +169,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 117
 #  
 #### SessionID: 30083
 # Baselines First, Troubleshooting Second
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 116
 ## Speaker: Erin Stellato
 ## Title: Baselines First, Troubleshooting Second
@@ -177,7 +178,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 116
 #  
 #### SessionID: 30150
 # Find Performance Problems by Reading the Waits
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 216
 ## Speaker: Eddie Wuerch
 ## Title: Find Performance Problems by Reading the Waits
@@ -186,7 +187,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 216
 #  
 #### SessionID: 30259
 # The Optimizer, Statistics, and Indexes
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 217
 ## Speaker: Grant Fritchey
 ## Title: The Optimizer, Statistics, and Indexes
@@ -195,7 +196,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 217
 #  
 #### SessionID: 30291
 # Minimize fragmentation during data loading
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 117
 ## Speaker: Haidong Ji
 ## Title: Minimize fragmentation during data loading
@@ -206,7 +207,7 @@ I will demonstrate ways to look at fragmentation and how to best avoid them whil
 #  
 #### SessionID: 30323
 # Self Service BI in SQL Server 2008 R2 (PowerPivot)
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 216
 ## Speaker: Hope Foley
 ## Title: Self Service BI in SQL Server 2008 R2 (PowerPivot)
@@ -218,7 +219,7 @@ explore what PowerPivot is and how can use it to create a self-service business 
 #  
 #### SessionID: 30329
 # SQL Azure Performance Considerations
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 116
 ## Speaker: Herve Roggero
 ## Title: SQL Azure Performance Considerations
@@ -227,7 +228,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 116
 #  
 #### SessionID: 30550
 # Index Black Ops
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 215
 ## Speaker: Jason Strate
 ## Title: Index Black Ops
@@ -236,7 +237,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 215
 #  
 #### SessionID: 30630
 # Custom hierachies with Analysis Services (SSAS)
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 215
 ## Speaker: Jose Chinchilla
 ## Title: Custom hierachies with Analysis Services (SSAS)
@@ -245,7 +246,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 215
 #  
 #### SessionID: 30660
 # Introduction to Developing with SQL Azure
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 116
 ## Speaker: Jeff Mlakar
 ## Title: Introduction to Developing with SQL Azure
@@ -254,7 +255,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 116
 #  
 #### SessionID: 30733
 # Refactoring SQL
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 216
 ## Speaker: Jeremiah Peschka
 ## Title: Refactoring SQL
@@ -264,7 +265,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 216
 #  
 #### SessionID: 30780
 # Make Your Voice Heard!
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 218
 ## Speaker: Jes Schultz
 ## Title: Make Your Voice Heard!
@@ -273,7 +274,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 218
 #  
 #### SessionID: 30959
 # Do More (ETL) with Less (Effort) - Automating SSIS
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 117
 ## Speaker: John Welch
 ## Title: Do More (ETL) with Less (Effort) - Automating SSIS
@@ -282,7 +283,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 117
 #  
 #### SessionID: 31168
 # Using Report Builder 3.0
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 118
 ## Speaker: James Volkmann
 ## Title: Using Report Builder 3.0
@@ -291,7 +292,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 118
 #  
 #### SessionID: 31193
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 215
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -300,7 +301,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 215
 #  
 #### SessionID: 31595
 # Intro To Reporting Services Report Models
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 118
 ## Speaker: Mark Vaillancourt
 ## Title: Intro To Reporting Services Report Models
@@ -309,7 +310,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 118
 #  
 #### SessionID: 31781
 # Index Internals for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 117
 ## Speaker: Michelle Ufford
 ## Title: Index Internals for Mere Mortals
@@ -318,7 +319,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 117
 #  
 #### SessionID: 32073
 # Powershell: Are you checking out my profile?
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 214
 ## Speaker: Nicholas Cain
 ## Title: Powershell: Are you checking out my profile?
@@ -327,7 +328,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 214
 #  
 #### SessionID: 32105
 # The Script Task, powerhouse of SSIS
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 117
 ## Speaker: Norman Kelm
 ## Title: The Script Task, powerhouse of SSIS
@@ -336,7 +337,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 117
 #  
 #### SessionID: 32406
 # Understanding SQL Server XML Features
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 215
 ## Speaker: Randy Knight
 ## Title: Understanding SQL Server XML Features
@@ -345,7 +346,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 215
 #  
 #### SessionID: 32449
 # Service Broker...What's That  How Do I Use It?
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 214
 ## Speaker: Brian Davis
 ## Title: Service Broker...What's That  How Do I Use It?
@@ -354,7 +355,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 214
 #  
 #### SessionID: 32653
 # SQL 2008 High Availability and Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 217
 ## Speaker: Ross LoForte
 ## Title: SQL 2008 High Availability and Disaster Recovery
@@ -363,7 +364,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 217
 #  
 #### SessionID: 33023
 # Who Needs DMVs?  You Do!
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 217
 ## Speaker: Tim Ford
 ## Title: Who Needs DMVs?  You Do!
@@ -372,7 +373,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 217
 #  
 #### SessionID: 33049
 # Performance Tuning Made Easy
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 215
 ## Speaker: Thomas LaRock
 ## Title: Performance Tuning Made Easy
@@ -381,7 +382,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 215
 #  
 #### SessionID: 33340
 # SSIS: The DBA multiplier
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 218
 ## Speaker: Ted Krueger
 ## Title: SSIS: The DBA multiplier
@@ -392,7 +393,7 @@ We’re going to take SSIS and make it a standard tool for your administrative t
 #  
 #### SessionID: 33342
 # Ask the Experts - Prize Giveaway
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 116
 ## Speaker: Ted Krueger
 ## Title: Ask the Experts - Prize Giveaway
@@ -401,7 +402,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 116
 #  
 #### SessionID: 33343
 # WIT Panel 
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 216
 ## Speaker: Ted Krueger
 ## Title: WIT Panel 
@@ -410,7 +411,7 @@ Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 216
 #  
 #### SessionID: 33465
 # Advanced TSQL Solutions
-#### [Back to calendar](#SQLSaturday-#67-Chicago-2011)
+#### [Back to calendar](#nr-67)
 Event Date: 26-03-2011 - Session time: 00:00:00 - Track: Room 217
 ## Speaker: Kevin Boles
 ## Title: Advanced TSQL Solutions

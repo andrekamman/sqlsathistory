@@ -1,3 +1,4 @@
+#### Nr: 31
 #### [Back to Main list](index.md)
 # SQLSaturday #31 - Chicago 2010
 Start Time (24h)|Speaker|Track|Title
@@ -37,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28395
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals
@@ -46,7 +47,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28425
 # Vendor Session A
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Aaron Lowe
 ## Title: Vendor Session A
@@ -55,7 +56,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28426
 # Vendor Session B
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Aaron Lowe
 ## Title: Vendor Session B
@@ -64,7 +65,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28427
 # Ask the Experts QA
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Aaron Lowe
 ## Title: Ask the Experts QA
@@ -73,7 +74,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28428
 # Welcome and Keynote
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Aaron Lowe
 ## Title: Welcome and Keynote
@@ -82,7 +83,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28429
 # After Party
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Aaron Lowe
 ## Title: After Party
@@ -91,7 +92,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28511
 # Zero to Cube in 60 Minutes
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Adam Jorgensen
 ## Title: Zero to Cube in 60 Minutes
@@ -100,7 +101,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 28545
 # One Developers Journey into MDX
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andrew Karcher
 ## Title: One Developers Journey into MDX
@@ -109,7 +110,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 28807
 # Working with Spatial Data in SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Arie Jones
 ## Title: Working with Spatial Data in SQL Server 2008
@@ -118,7 +119,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 28809
 # Reporting Services 2008 Unleashed! 
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Arie Jones
 ## Title: Reporting Services 2008 Unleashed! 
@@ -127,7 +128,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29176
 #  Introduction to Graphical Execution Plans
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brad McGehee
 ## Title:  Introduction to Graphical Execution Plans
@@ -136,7 +137,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29182
 # How and When to Use Indexed Views
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brad McGehee
 ## Title: How and When to Use Indexed Views
@@ -145,7 +146,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29227
 # BLITZ! 60 Minute Server Takeovers
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brent Ozar
 ## Title: BLITZ! 60 Minute Server Takeovers
@@ -154,7 +155,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29228
 # Perfmon  Profiler 101
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Brent Ozar
 ## Title: Perfmon  Profiler 101
@@ -163,7 +164,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29702
 # Getting Out from Behind the Curtain - The New DBA
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: David Levy
 ## Title: Getting Out from Behind the Curtain - The New DBA
@@ -172,7 +173,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29810
 # Oh Cluster, My Cluster!
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Chuck Heinzelman Michael Steineke
 ## Title: Oh Cluster, My Cluster!
@@ -181,7 +182,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29845
 # Delivering Rapid Business Value with Microsoft BI
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Derek Comingore
 ## Title: Delivering Rapid Business Value with Microsoft BI
@@ -190,7 +191,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29871
 # Wait-Time Based Performance Management
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Dean Richards
 ## Title: Wait-Time Based Performance Management
@@ -199,7 +200,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30755
 # A Dynamic World Demands Dynamic SQL
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jeremiah Peschka
 ## Title: A Dynamic World Demands Dynamic SQL
@@ -208,7 +209,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30756
 # Fundamentals of SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jeremiah Peschka
 ## Title: Fundamentals of SQL Server Internals
@@ -217,7 +218,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31017
 # SQL University 201: More DBA Fun
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jorge Segarra
 ## Title: SQL University 201: More DBA Fun
@@ -226,7 +227,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31018
 # Policy Based Management 101
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jorge Segarra
 ## Title: Policy Based Management 101
@@ -235,7 +236,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31153
 # Using XML to Query Execution Plans
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jason Strate
 ## Title: Using XML to Query Execution Plans
@@ -250,7 +251,7 @@ Goals:
 #  
 #### SessionID: 31155
 # Extended Events, Work Smarter Not Harder
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jason Strate
 ## Title: Extended Events, Work Smarter Not Harder
@@ -264,7 +265,7 @@ Goals:
 #  
 #### SessionID: 31303
 # Stored Procedure Best Practices
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Kline
 ## Title: Stored Procedure Best Practices
@@ -273,7 +274,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31417
 # Analysis Services Partitions and Aggregations
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Devin Knight
 ## Title: Analysis Services Partitions and Aggregations
@@ -282,7 +283,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32483
 # Defensive programming with Transact SQL
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Alex Kuznetsov
 ## Title: Defensive programming with Transact SQL
@@ -291,7 +292,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32655
 # Proactive DBA: Manage SQL Server Better           
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Ross LoForte
 ## Title: Proactive DBA: Manage SQL Server Better           
@@ -308,7 +309,7 @@ o Management best practice: Cross Platforms
 #  
 #### SessionID: 33018
 # SQL DMVs, DMFs, DMOs.  WTH?
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Tim Ford
 ## Title: SQL DMVs, DMFs, DMOs.  WTH?
@@ -317,7 +318,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33019
 # Tools for The Driven, But Lazy DBA
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Tim Ford
 ## Title: Tools for The Driven, But Lazy DBA
@@ -326,7 +327,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33777
 # The Benefits of SQL Azure
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Aaron King
 ## Title: The Benefits of SQL Azure
@@ -335,7 +336,7 @@ Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 34483
 # Building a Data Warehouse using SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#31-Chicago-2010)
+#### [Back to calendar](#nr-31)
 Event Date: 17-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Wes Dumey
 ## Title: Building a Data Warehouse using SQL Server 2008

@@ -1,3 +1,4 @@
+#### Nr: 15
 #### [Back to Main list](index.md)
 # SQLSaturday #15 - Jacksonville 2009
 Start Time (24h)|Speaker|Track|Title
@@ -43,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28724
 # What Is PASS?
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1001
 ## Speaker: Andy Warren
 ## Title: What Is PASS?
@@ -52,7 +53,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1001
 #  
 #### SessionID: 31458
 # RESTful Data
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1002
 ## Speaker: Chris Eargle
 ## Title: RESTful Data
@@ -64,7 +65,7 @@ This session will describe RESTful Data, the benefits it conveys, and its uses. 
 #  
 #### SessionID: 31774
 # SQLServer 2008 and Geography
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1026
 ## Speaker: Michael Stark
 ## Title: SQLServer 2008 and Geography
@@ -73,7 +74,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1026
 #  
 #### SessionID: 34929
 # SQL Server Statistics
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1001
 ## Speaker: Andy Warren
 ## Title: SQL Server Statistics
@@ -82,7 +83,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1001
 #  
 #### SessionID: 35004
 # Introduction to SQL Server Analysis Services(SSAS)
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1016 (Auditorium)
 ## Speaker: Brian Knight
 ## Title: Introduction to SQL Server Analysis Services(SSAS)
@@ -91,7 +92,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1016 (Auditorium)
 #  
 #### SessionID: 35005
 # Lunch (served outside)
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1016 (Auditorium)
 ## Speaker: Brian Knight
 ## Title: Lunch (served outside)
@@ -100,7 +101,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1016 (Auditorium)
 #  
 #### SessionID: 35038
 # Disaster Recovery: Preparing for the Storm
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1003
 ## Speaker: Brandie Tarvin
 ## Title: Disaster Recovery: Preparing for the Storm
@@ -109,7 +110,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1003
 #  
 #### SessionID: 35041
 # T-SQL 101 - English to T-SQL Queries
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1001
 ## Speaker: Brandie Tarvin
 ## Title: T-SQL 101 - English to T-SQL Queries
@@ -118,7 +119,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1001
 #  
 #### SessionID: 35050
 # Patterns And Practices For Successful Architecture
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1003
 ## Speaker: Bayer White
 ## Title: Patterns And Practices For Successful Architecture
@@ -127,7 +128,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1003
 #  
 #### SessionID: 35075
 # Things Go Wrong
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1026
 ## Speaker: Kent Waldrop
 ## Title: Things Go Wrong
@@ -136,7 +137,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1026
 #  
 #### SessionID: 35076
 # Transact SQL Frequently Asked Questions
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1009 (Auditorium)
 ## Speaker: Kent Waldrop
 ## Title: Transact SQL Frequently Asked Questions
@@ -145,7 +146,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1009 (Auditorium)
 #  
 #### SessionID: 35084
 # LINQ for SQL
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1002
 ## Speaker: David Fekke
 ## Title: LINQ for SQL
@@ -154,7 +155,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1002
 #  
 #### SessionID: 35118
 # SSIS - Beginner's Walkthrough
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1016 (Auditorium)
 ## Speaker: Eric Wisdahl
 ## Title: SSIS - Beginner's Walkthrough
@@ -163,7 +164,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1016 (Auditorium)
 #  
 #### SessionID: 35119
 # SSIS - A Beginning Framework
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1002
 ## Speaker: Eric Wisdahl
 ## Title: SSIS - A Beginning Framework
@@ -174,7 +175,7 @@ This session will present an example framework which can be used as the basis fo
 #  
 #### SessionID: 35151
 # SQL ServerBeyond S Roadmap 2008 
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1009 (Auditorium)
 ## Speaker: Jean-Claude Armand
 ## Title: SQL ServerBeyond S Roadmap 2008 
@@ -183,7 +184,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1009 (Auditorium)
 #  
 #### SessionID: 35155
 # SQL Server 2008 Fast Track Data Warehouse
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1009 (Auditorium)
 ## Speaker: Jean-Claude Armand
 ## Title: SQL Server 2008 Fast Track Data Warehouse
@@ -194,7 +195,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1009 (Auditorium)
 #  
 #### SessionID: 35180
 # Using Sql To Generate Sql
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1001
 ## Speaker: Jonathon Moorman
 ## Title: Using Sql To Generate Sql
@@ -204,7 +205,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1001
 #  
 #### SessionID: 35254
 # The Truth About Disk Performance and Configuration
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1001
 ## Speaker: Kendal Van Dyke
 ## Title: The Truth About Disk Performance and Configuration
@@ -213,7 +214,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1001
 #  
 #### SessionID: 35255
 # XML Features in SQL 2005
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1009 (Auditorium)
 ## Speaker: Kendal Van Dyke
 ## Title: XML Features in SQL 2005
@@ -223,7 +224,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1009 (Auditorium)
 #  
 #### SessionID: 35256
 # Transactional Replication Deep Dive
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1026
 ## Speaker: Kendal Van Dyke
 ## Title: Transactional Replication Deep Dive
@@ -233,7 +234,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1026
 #  
 #### SessionID: 35258
 # IIS, ASP\ASP.NET,  SQL Security HowTo
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1026
 ## Speaker: Kendal Van Dyke
 ## Title: IIS, ASP\ASP.NET,  SQL Security HowTo
@@ -243,7 +244,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1026
 #  
 #### SessionID: 35304
 # Introduction to SQL Server Reporting Services
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1026
 ## Speaker: Brian McDonald
 ## Title: Introduction to SQL Server Reporting Services
@@ -252,7 +253,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1026
 #  
 #### SessionID: 35307
 # Upgrading DTS to SSIS
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1003
 ## Speaker: Mike Davis
 ## Title: Upgrading DTS to SSIS
@@ -261,7 +262,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1003
 #  
 #### SessionID: 35308
 # Making your SSIS Packages Dynamic
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1003
 ## Speaker: Mike Davis
 ## Title: Making your SSIS Packages Dynamic
@@ -270,7 +271,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1003
 #  
 #### SessionID: 35309
 # SSIS - SQL server information
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1003
 ## Speaker: Michael Flora
 ## Title: SSIS - SQL server information
@@ -279,7 +280,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1003
 #  
 #### SessionID: 35320
 # Save Time and Merge It
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1009 (Auditorium)
 ## Speaker: Michael Antonovich
 ## Title: Save Time and Merge It
@@ -288,7 +289,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1009 (Auditorium)
 #  
 #### SessionID: 35321
 # Identifying and Removing Duplicate Records
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1001
 ## Speaker: Michael Antonovich
 ## Title: Identifying and Removing Duplicate Records
@@ -297,7 +298,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1001
 #  
 #### SessionID: 35354
 # Advanced SQL Querying Techniques
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1016 (Auditorium)
 ## Speaker: Plamen Ratchev
 ## Title: Advanced SQL Querying Techniques
@@ -306,7 +307,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1016 (Auditorium)
 #  
 #### SessionID: 35355
 # T-SQL Enhancements in SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1016 (Auditorium)
 ## Speaker: Plamen Ratchev
 ## Title: T-SQL Enhancements in SQL Server 2008
@@ -315,7 +316,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1016 (Auditorium)
 #  
 #### SessionID: 35356
 # Performance Tuning and Query Optimization
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1016 (Auditorium)
 ## Speaker: Plamen Ratchev
 ## Title: Performance Tuning and Query Optimization
@@ -324,7 +325,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1016 (Auditorium)
 #  
 #### SessionID: 35376
 # On Demand Report Subscriptions
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1026
 ## Speaker: Pam Shaw
 ## Title: On Demand Report Subscriptions
@@ -333,7 +334,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1026
 #  
 #### SessionID: 35377
 # Tips  Tricks for dynamic Reporting Services Repor
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1016 (Auditorium)
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic Reporting Services Repor
@@ -342,7 +343,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1016 (Auditorium)
 #  
 #### SessionID: 35406
 # The DBA Script Thumb
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1003
 ## Speaker: Rodney Landrum
 ## Title: The DBA Script Thumb
@@ -351,7 +352,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1003
 #  
 #### SessionID: 35422
 # Introduction to query optimization
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1001
 ## Speaker: Scott Gleason
 ## Title: Introduction to query optimization
@@ -360,7 +361,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1001
 #  
 #### SessionID: 35448
 # Troubleshooting SQL Server
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1009 (Auditorium)
 ## Speaker: Steve Schneider
 ## Title: Troubleshooting SQL Server
@@ -369,7 +370,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1009 (Auditorium)
 #  
 #### SessionID: 35501
 # What is new for Data Mining in SQL 2008
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1002
 ## Speaker: Vikas Hawaldar
 ## Title: What is new for Data Mining in SQL 2008
@@ -378,7 +379,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1002
 #  
 #### SessionID: 35502
 # Advanced SSAS development using MDX
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1002
 ## Speaker: Vikas Hawaldar
 ## Title: Advanced SSAS development using MDX
@@ -387,7 +388,7 @@ Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1002
 #  
 #### SessionID: 35504
 # Building a Data Warehouse using SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#15-Jacksonville-2009)
+#### [Back to calendar](#nr-15)
 Event Date: 02-05-2009 - Session time: 00:00:00 - Track: Room 1002
 ## Speaker: Wes Dumey
 ## Title: Building a Data Warehouse using SQL Server 2008

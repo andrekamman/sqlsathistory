@@ -1,3 +1,4 @@
+#### Nr: 350
 #### [Back to Main list](index.md)
 # SQLSaturday #350 - Winnipeg 2014
 Start Time (24h)|Speaker|Track|Title
@@ -24,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10614
 # Bring your SQL Server Skills to the Hive 
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: New Technology Track
 ## Speaker: Bill Preachuk
 ## Title: Bring your SQL Server Skills to the Hive 
@@ -33,7 +34,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: New Technology Track
 #  
 #### SessionID: 10615
 # Hadoop for the SQL Server Developer/DBA
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: New Technology Track
 ## Speaker: Bill Preachuk
 ## Title: Hadoop for the SQL Server Developer/DBA
@@ -42,7 +43,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: New Technology Track
 #  
 #### SessionID: 11577
 # Modernize your data warehouse
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Christian Cote
 ## Title: Modernize your data warehouse
@@ -51,7 +52,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 14234
 # Power BI QA: Take your data analysis to the next level
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Felipe Ferreira
 ## Title: Power BI QA: Take your data analysis to the next level
@@ -61,7 +62,7 @@ Let's see on this session how to use this powerful new tool to transform our BI 
 #  
 #### SessionID: 15729
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
@@ -70,7 +71,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 15730
 # Looney Tuner?  No, there IS a method to my madness
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Developer Track
 ## Speaker: Janis Griffin
 ## Title: Looney Tuner?  No, there IS a method to my madness
@@ -79,7 +80,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Developer Track
 #  
 #### SessionID: 16376
 # SQL Inejctions and How To Stop Them
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: New Technology Track
 ## Speaker: Jeff Prom
 ## Title: SQL Inejctions and How To Stop Them
@@ -88,7 +89,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: New Technology Track
 #  
 #### SessionID: 18391
 # Implement a Dynamic Table Partitioning Solution
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Kirby Richter
 ## Title: Implement a Dynamic Table Partitioning Solution
@@ -97,7 +98,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 19656
 # MDX Trek: First Contact
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Mark Vaillancourt
 ## Title: MDX Trek: First Contact
@@ -106,7 +107,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 19658
 # Analysis Services Terms and Concepts for the DBA
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Mark Vaillancourt
 ## Title: Analysis Services Terms and Concepts for the DBA
@@ -127,7 +128,7 @@ Come take a few steps into the exciting world of Business Intelligence with SQL 
 #  
 #### SessionID: 20678
 # Coupling and Cohesion Patterns and Anti-Patterns in SQL and ETL development
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Developer Track
 ## Speaker: Mike Diehl
 ## Title: Coupling and Cohesion Patterns and Anti-Patterns in SQL and ETL development
@@ -136,7 +137,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Developer Track
 #  
 #### SessionID: 22125
 # Getting Started with Analysis Services Tabular mode
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Phillip Labry
 ## Title: Getting Started with Analysis Services Tabular mode
@@ -145,7 +146,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 24986
 # Twice in a Lifetime: T-SQL Refactoring 101
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Developer Track
 ## Speaker: MIKE DONNELLY
 ## Title: Twice in a Lifetime: T-SQL Refactoring 101
@@ -156,7 +157,7 @@ This session will cover ways to quickly find old T-SQL antipatterns, tools that 
 #  
 #### SessionID: 26047
 # Breaking Data - How to Load and Stress test your database using SQL Profiler and OStress
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Terry Bunio
 ## Title: Breaking Data - How to Load and Stress test your database using SQL Profiler and OStress
@@ -167,7 +168,7 @@ The first third of the presentation will be presentation style and the following
 #  
 #### SessionID: 26550
 # Practical Powershell for the Harried DBA
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Ben Thul
 ## Title: Practical Powershell for the Harried DBA
@@ -176,7 +177,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 26591
 # Protecting SQL Data for Availability and DR
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Tim Plas
 ## Title: Protecting SQL Data for Availability and DR
@@ -185,7 +186,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 26806
 # 10 things I wish I knew about loading data
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Developer Track
 ## Speaker: Tim Costello
 ## Title: 10 things I wish I knew about loading data
@@ -194,7 +195,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Developer Track
 #  
 #### SessionID: 26809
 # Windowing Functions
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: New Technology Track
 ## Speaker: Tim Costello
 ## Title: Windowing Functions
@@ -203,7 +204,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: New Technology Track
 #  
 #### SessionID: 8923
 # T-SQL : Bad Habits  Best Practices
-#### [Back to calendar](#SQLSaturday-#350-Winnipeg-2014)
+#### [Back to calendar](#nr-350)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Developer Track
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits  Best Practices

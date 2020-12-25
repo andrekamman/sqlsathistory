@@ -1,3 +1,4 @@
+#### Nr: 634
 #### [Back to Main list](index.md)
 # SQLSaturday #634 - Iowa City 2017
 Start Time (24h)|Speaker|Track|Title
@@ -32,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 61482
 # Wish you could live the glamorous consulting life?
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Juan Soto
 ## Title: Wish you could live the glamorous consulting life?
@@ -44,7 +45,7 @@ In this session you will learn sales, marketing and management strategies to get
 #  
 #### SessionID: 63328
 # Extended Events: What are they and How do I use them
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
@@ -53,7 +54,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63808
 # Purging data in SQL 2016 using Dynamic Partitioning
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kirby Richter
 ## Title: Purging data in SQL 2016 using Dynamic Partitioning
@@ -62,7 +63,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63852
 # Supercharging Backups and Restores For Fun and Profit
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Pusateri
 ## Title: Supercharging Backups and Restores For Fun and Profit
@@ -71,7 +72,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64108
 # The Junior Developer's Handbook
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Doug Lane
 ## Title: The Junior Developer's Handbook
@@ -80,7 +81,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 64179
 # Index 360 - Looking at Indexes from Multiple Perspectives
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: John Eisbrener
 ## Title: Index 360 - Looking at Indexes from Multiple Perspectives
@@ -89,7 +90,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 61560
 # Cube Processing Strategies
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ross McNeely
 ## Title: Cube Processing Strategies
@@ -98,7 +99,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 61671
 # Anatomy of a Transaction
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Strategy and Architecture
 ## Speaker: Frank Gill
 ## Title: Anatomy of a Transaction
@@ -107,7 +108,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 64035
 # Remember Back When?  Temporal Tables in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Remember Back When?  Temporal Tables in SQL Server 2016
@@ -116,7 +117,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64093
 # Installing SQL Server on Linux in AWS
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Strategy and Architecture
 ## Speaker: Stacy Hein
 ## Title: Installing SQL Server on Linux in AWS
@@ -127,7 +128,7 @@ The session will end with a demonstration of an install of SQL Server 2016 on Li
 #  
 #### SessionID: 66628
 # Joe Celko - Data Encoding Schemes
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Ed Leighton-Dick
 ## Title: Joe Celko - Data Encoding Schemes
@@ -150,7 +151,7 @@ Joe Celko served on the original ANSI X3H2 Database Standards committee and is t
 #  
 #### SessionID: 61638
 # Isolation Levels – Understanding Transaction Temper Tantrums
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adam Koehler
 ## Title: Isolation Levels – Understanding Transaction Temper Tantrums
@@ -159,7 +160,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61672
 # Creating an Azure SQL Database Using PowerShell
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Frank Gill
 ## Title: Creating an Azure SQL Database Using PowerShell
@@ -168,7 +169,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 63557
 # Introduction to Data Analysis in R
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: David Thole
 ## Title: Introduction to Data Analysis in R
@@ -177,7 +178,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 64151
 # SQL Survivor  - Where's the data?
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matthew Wiegert
 ## Title: SQL Survivor  - Where's the data?
@@ -186,7 +187,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64159
 # He's Assertive, She's Aggressive: Recognizing patterns of unconscious bias in the workplace
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Andrea Mascher
 ## Title: He's Assertive, She's Aggressive: Recognizing patterns of unconscious bias in the workplace
@@ -197,7 +198,7 @@ This discussion will cover some common patterns of unconscious bias that occur i
 #  
 #### SessionID: 61527
 # Master Data Management with SQL Server 2016 MDS
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Neal Waterstreet
 ## Title: Master Data Management with SQL Server 2016 MDS
@@ -206,7 +207,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 61822
 # SQL as fast as the Flash!
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Jared Karney
 ## Title: SQL as fast as the Flash!
@@ -215,7 +216,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 63558
 # Intermediate R - Shiny, Working with SQL Server, and Docker
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: David Thole
 ## Title: Intermediate R - Shiny, Working with SQL Server, and Docker
@@ -224,7 +225,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 63968
 # Performance Dreams started at SQL Server 2014 and come true now at SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shehab El-Najjar
 ## Title: Performance Dreams started at SQL Server 2014 and come true now at SQL Server 2016
@@ -233,7 +234,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64311
 # Ethics, Morals, and Laws for the DBA 101
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Pat Phelan
 ## Title: Ethics, Morals, and Laws for the DBA 101
@@ -246,7 +247,7 @@ This session presents basic definitions, ideas, and discussion points. It is int
 #  
 #### SessionID: 64351
 # Learn to Love Database Security Audits
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: Learn to Love Database Security Audits
@@ -257,7 +258,7 @@ In this session, we’ll talk about why auditing is probably the single most imp
 #  
 #### SessionID: 61496
 # JSON for the Data Mortals
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Jim Dorame
 ## Title: JSON for the Data Mortals
@@ -266,7 +267,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 62693
 # Execution Planning for Success
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Arthur Daniels III
 ## Title: Execution Planning for Success
@@ -277,7 +278,7 @@ Learning to read an execution plan is a great way to begin troubleshooting perfo
 #  
 #### SessionID: 62868
 # SSAS 2016 Tabular - Diving into the new features
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Beswick
 ## Title: SSAS 2016 Tabular - Diving into the new features
@@ -286,7 +287,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 63331
 # I Know SQL Server, but want to become a great DBA - What do I need to know?
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Dave Bland
 ## Title: I Know SQL Server, but want to become a great DBA - What do I need to know?
@@ -295,7 +296,7 @@ Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Professional Developmen
 #  
 #### SessionID: 63392
 # T-SQL Tips  Tricks to Make Your Life Easier!
-#### [Back to calendar](#SQLSaturday-#634-Iowa-City-2017)
+#### [Back to calendar](#nr-634)
 Event Date: 10-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: T-SQL Tips  Tricks to Make Your Life Easier!

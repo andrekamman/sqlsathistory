@@ -1,3 +1,4 @@
+#### Nr: 463
 #### [Back to Main list](index.md)
 # SQLSaturday #463 - Costa Rica BI Edition 2015
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 38703
 # Introducci#243;n a SSIS, lo que necesitas saber para iniciar a trabajar con SSIS
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Introducci#243;n a SSIS, lo que necesitas saber para iniciar a trabajar con SSIS
@@ -33,7 +34,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architec
 #  
 #### SessionID: 39281
 # Dimensional Modeling Design Patterns: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Multidimensional Modeling
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond the Basics
@@ -45,7 +46,7 @@ This session dives deeper into the art of dimensional modeling. We look at how a
 #  
 #### SessionID: 41696
 # Como aplicar Scrum a proyectos de BI
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: Como aplicar Scrum a proyectos de BI
@@ -54,7 +55,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architec
 #  
 #### SessionID: 39026
 # Muldimenional Data Base Design by means of BISM Tabular Models
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Multidimensional Modeling
 ## Speaker: Jose Mayorga
 ## Title: Muldimenional Data Base Design by means of BISM Tabular Models
@@ -67,7 +68,7 @@ All the topics will be developed with SQL Server 2014/2016
 #  
 #### SessionID: 39031
 # Opciones de Mejora de Rendimiento para el Datawarehouse
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Carlos Rojas Vargas
 ## Title: Opciones de Mejora de Rendimiento para el Datawarehouse
@@ -76,7 +77,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architec
 #  
 #### SessionID: 40321
 # S#250;base al Bus de la Inteligencia de Negocios y h#225;galo #161;#193;gilmente!
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Multidimensional Modeling
 ## Speaker: Ricardo Estrada
 ## Title: S#250;base al Bus de la Inteligencia de Negocios y h#225;galo #161;#193;gilmente!
@@ -89,7 +90,7 @@ En esta sesi#243;n completamente conceptual mostrare la llave talvez m#225;s imp
 #  
 #### SessionID: 38676
 # Dise#241;ando mi datawarehouse "Disaster recovery ready"
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Kenneth Urena
 ## Title: Dise#241;ando mi datawarehouse "Disaster recovery ready"
@@ -98,7 +99,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architec
 #  
 #### SessionID: 40048
 # Introducci#243;n a BI con DATAZEN
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Eduardo Castro
 ## Title: Introducci#243;n a BI con DATAZEN
@@ -108,7 +109,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architec
 #  
 #### SessionID: 41711
 # Using big data to drive U.S. healthcare reform
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Big Data / Internet of Things
 ## Speaker: Pedro Huguet
 ## Title: Using big data to drive U.S. healthcare reform
@@ -117,7 +118,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Big Data / Internet of 
 #  
 #### SessionID: 39418
 # Inteligencia de Negocios aplicado para Proyectos de Desarrollo
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: David Sánchez Aguilar
 ## Title: Inteligencia de Negocios aplicado para Proyectos de Desarrollo
@@ -126,7 +127,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 40301
 # Lo que debe saber un DBA sobre BI.
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Adrian Miranda
 ## Title: Lo que debe saber un DBA sobre BI.
@@ -135,7 +136,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architec
 #  
 #### SessionID: 41188
 # Como implementar una plataforma del Internet of Things con Azure
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Big Data / Internet of Things
 ## Speaker: Oscar Marin
 ## Title: Como implementar una plataforma del Internet of Things con Azure
@@ -146,7 +147,7 @@ Por medio de una demostraci#243;n se va presentar un caso de uso practico en el 
 #  
 #### SessionID: 39467
 # Iniciando con Stream Analytics
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Cloud Analytics
 ## Speaker: Keneth Murillo
 ## Title: Iniciando con Stream Analytics
@@ -155,7 +156,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Cloud Analytics
 #  
 #### SessionID: 41634
 # Advanced Spatial Analysis: Beyond Bubble Charts
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Jason Horner
 ## Title: Advanced Spatial Analysis: Beyond Bubble Charts
@@ -164,7 +165,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 41699
 # Data Profiling (SSIS)-  Herramienta #250;til para el perfilamiento de Datos 
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Maristel Castro Montero
 ## Title: Data Profiling (SSIS)-  Herramienta #250;til para el perfilamiento de Datos 
@@ -173,7 +174,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architec
 #  
 #### SessionID: 38707
 # Power Query para Power BI: De Cero al [M]#225;ximo
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Miguel Escobar
 ## Title: Power Query para Power BI: De Cero al [M]#225;ximo
@@ -186,7 +187,7 @@ In this session you'll learn the basics of this tool and how some things are eve
 #  
 #### SessionID: 38764
 # Introduciendo Azure Data Warehouse
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Cloud Analytics
 ## Speaker: César Oviedo
 ## Title: Introduciendo Azure Data Warehouse
@@ -195,7 +196,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Cloud Analytics
 #  
 #### SessionID: 40922
 # La receta de la abuela para mejores Cargas de Datos!
-#### [Back to calendar](#SQLSaturday-#463-Costa-Rica-BI-Edition-2015)
+#### [Back to calendar](#nr-463)
 Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Alejandro Cordero
 ## Title: La receta de la abuela para mejores Cargas de Datos!

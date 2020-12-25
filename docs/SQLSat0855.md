@@ -1,3 +1,4 @@
+#### Nr: 855
 #### [Back to Main list](index.md)
 # SQLSaturday #855 - Albany 2019
 Start Time (24h)|Speaker|Track|Title
@@ -38,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 88921
 # Extend Power BI with Python
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Data Science
 ## Speaker: John Miner
 ## Title: Extend Power BI with Python
@@ -55,7 +56,7 @@ At the end of the presentation you will know which libraries that you can use to
 #  
 #### SessionID: 89511
 # Advanced T-SQL Development with latest features.
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Alex Grinberg
 ## Title: Advanced T-SQL Development with latest features.
@@ -64,7 +65,7 @@ Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 91731
 # 4 Threats to your SQL Servers - Become Default: Secure
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Data Security
 ## Speaker: Mike Walsh
 ## Title: 4 Threats to your SQL Servers - Become Default: Secure
@@ -79,7 +80,7 @@ Leave prepared, not scared, as you adopt a "Default: Secure" posture and lead th
 #  
 #### SessionID: 91782
 # Networking 101: Getting Ready for a SQL Event
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: Matt Cushing
 ## Title: Networking 101: Getting Ready for a SQL Event
@@ -90,7 +91,7 @@ In this session, we'll go over steps you can take before, during and after the e
 #  
 #### SessionID: 91917
 # SQL DevOps Simplified with Production Databases
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Paul Stanton
 ## Title: SQL DevOps Simplified with Production Databases
@@ -99,7 +100,7 @@ Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 93222
 # Let's Dive Into SQL Server I/O To Improve T-SQL Performance
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Andy Yun
 ## Title: Let's Dive Into SQL Server I/O To Improve T-SQL Performance
@@ -112,7 +113,7 @@ When you leave, you'll be able to optimize your T-SQL reduce I/O and improve per
 #  
 #### SessionID: 93778
 # Azure Databricks = Azure + Spark + Machine Learning Collaboration
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Data Science
 ## Speaker: Bryan Cafferky
 ## Title: Azure Databricks = Azure + Spark + Machine Learning Collaboration
@@ -121,7 +122,7 @@ Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Data Science
 #  
 #### SessionID: 89231
 # XML and JSON, does the DBA need it?
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Alex Grinberg
 ## Title: XML and JSON, does the DBA need it?
@@ -130,7 +131,7 @@ Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Administration
 #  
 #### SessionID: 89759
 # SQL Server Reporting Services 2017 on Steroids!!
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Business Intelligence
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2017 on Steroids!!
@@ -141,7 +142,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #  
 #### SessionID: 91244
 # Feeding the modern data warehouse (Power BI, Azure Data Factory and Databricks)
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Big Data
 ## Speaker: Christian Cote
 ## Title: Feeding the modern data warehouse (Power BI, Azure Data Factory and Databricks)
@@ -150,7 +151,7 @@ Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Big Data
 #  
 #### SessionID: 91258
 # Fundamentals That Will Improve Your Query Performance!
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: John Wells
 ## Title: Fundamentals That Will Improve Your Query Performance!
@@ -159,7 +160,7 @@ Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 93039
 # Overcoming Challenges with Source Control and Continuous Integration.
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Elizabeth Noble
 ## Title: Overcoming Challenges with Source Control and Continuous Integration.
@@ -174,7 +175,7 @@ Attendees should be familiar with general concepts about source control and be c
 #  
 #### SessionID: 93228
 # Looking "Normal" and Seeing "Stars": Table Designs Working Together
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Data Architecture  Design
 ## Speaker: Deborah Melkin
 ## Title: Looking "Normal" and Seeing "Stars": Table Designs Working Together
@@ -187,7 +188,7 @@ By the end of the session, you will better understand how using the two designs 
 #  
 #### SessionID: 93783
 # Python with SQL:  A Winning Combination
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Business Intelligence
 ## Speaker: Bryan Cafferky
 ## Title: Python with SQL:  A Winning Combination
@@ -196,7 +197,7 @@ Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 89147
 # Approaching Zero:  Minimizing Downtime During Deployments
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Kevin Feasel
 ## Title: Approaching Zero:  Minimizing Downtime During Deployments
@@ -205,7 +206,7 @@ Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 89314
 # Why candidates fail the job interview in the first minute
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: Thomas Grohser
 ## Title: Why candidates fail the job interview in the first minute
@@ -216,7 +217,7 @@ Thomas will share what he misses in resumes and how to respond to questions bett
 #  
 #### SessionID: 91201
 # Performance Optimization with Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Taiob Ali
 ## Title: Performance Optimization with Azure SQL Database
@@ -228,7 +229,7 @@ At the end of this session you will walk out knowing how to identify and tune Az
 #  
 #### SessionID: 92038
 # Azure Machine Learning 101
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Data Science
 ## Speaker: Kathi Kellenberger
 ## Title: Azure Machine Learning 101
@@ -241,7 +242,7 @@ If you are experienced in machine learning but haven’t seen Azure ML or if you
 #  
 #### SessionID: 93519
 # Top 10 FREE performance troubleshooting tools for SQL Server
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Optimization/Tuning
 ## Speaker: Michelle Gutzait
 ## Title: Top 10 FREE performance troubleshooting tools for SQL Server
@@ -250,7 +251,7 @@ Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Optimization/Tuning
 #  
 #### SessionID: 94612
 # Moving to SQL 2019- A primer for the unaware!
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Paresh Motiwala
 ## Title: Moving to SQL 2019- A primer for the unaware!
@@ -268,7 +269,7 @@ Time permitting we will demo these.
 #  
 #### SessionID: 88634
 # Pocket-sized Server: SQL Server for under $200!
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Greg Moore
 ## Title: Pocket-sized Server: SQL Server for under $200!
@@ -278,7 +279,7 @@ At the other end of the spectrum there's an amazing amount of power available in
 #  
 #### SessionID: 88675
 # The Complete Guide to Temporary Tables and Table Variables
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Guy Glantser
 ## Title: The Complete Guide to Temporary Tables and Table Variables
@@ -291,7 +292,7 @@ This is a must session for every SQL Server developer.
 #  
 #### SessionID: 89834
 # Power BI with Maps: Choose Your Destination
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Business Intelligence
 ## Speaker: Rayis Imayev
 ## Title: Power BI with Maps: Choose Your Destination
@@ -302,7 +303,7 @@ Power BI itself a great tool that could feed your appetite for an adventure usin
 #  
 #### SessionID: 92040
 # What is DevOps and Why Should DBAs Care?
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Kathi Kellenberger
 ## Title: What is DevOps and Why Should DBAs Care?
@@ -312,7 +313,7 @@ Attend this session to learn how DevOps is changing the DBAs world for the bette
 #  
 #### SessionID: 93138
 # Designing Accessible Power BI Reports
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Liz Amador
 ## Title: Designing Accessible Power BI Reports
@@ -321,7 +322,7 @@ Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 94679
 # dbatools for the Uninitiated
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Andy Levy
 ## Title: dbatools for the Uninitiated
@@ -334,7 +335,7 @@ It's time to automate with the dbatools Powershell module. We’ll briefly talk 
 #  
 #### SessionID: 95321
 # Lightning Talks
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Lightning Talks
 ## Speaker: Paresh Motiwala
 ## Title: Lightning Talks
@@ -351,7 +352,7 @@ Bryan Cafferky: Azure Machine Learning service and why the s is lower case
 #  
 #### SessionID: 88741
 # Blogging for Success: Advancing your career by blogging
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: Ray Kim
 ## Title: Blogging for Success: Advancing your career by blogging
@@ -362,7 +363,7 @@ In this presentation, I'll tell you how I got started with 'blogging, where it's
 #  
 #### SessionID: 88920
 # Staging data for Azure SQL services
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Miner
 ## Title: Staging data for Azure SQL services
@@ -386,7 +387,7 @@ Today, we will learn how to stage data using Azure blob storage which can be ing
 #  
 #### SessionID: 93551
 # Add Time Intelligence to Power BI
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Business Intelligence
 ## Speaker: Sunil Kadimdiwan
 ## Title: Add Time Intelligence to Power BI
@@ -399,7 +400,7 @@ questions.
 #  
 #### SessionID: 93603
 # From Zero to Hero: Start Machine Learning using Azure ML studio
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mohamed Mawla
 ## Title: From Zero to Hero: Start Machine Learning using Azure ML studio
@@ -412,7 +413,7 @@ Lots of hands-on
 #  
 #### SessionID: 94171
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
@@ -421,7 +422,7 @@ Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 95053
 # Ask the Experts Panel
-#### [Back to calendar](#SQLSaturday-#855-Albany-2019)
+#### [Back to calendar](#nr-855)
 Event Date: 20-07-2019 - Session time: 15:30:00 - Track: Panel
 ## Speaker: Guy Glantser
 ## Title: Ask the Experts Panel

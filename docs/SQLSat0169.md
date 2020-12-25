@@ -1,3 +1,4 @@
+#### Nr: 169
 #### [Back to Main list](index.md)
 # SQLSaturday #169 - Denver 2012
 Start Time (24h)|Speaker|Track|Title
@@ -39,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11310
 # Big Data for the SQL Server DBA w/Kevin Cox-Part 2
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Big Data/Cloud
 ## Speaker: Carlos Bossy
 ## Title: Big Data for the SQL Server DBA w/Kevin Cox-Part 2
@@ -48,7 +49,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Big Data/Cloud
 #  
 #### SessionID: 11313
 # Big Data for the SQL Server DBA w/Kevin Cox-Part 1
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Big Data/Cloud
 ## Speaker: Carlos Bossy
 ## Title: Big Data for the SQL Server DBA w/Kevin Cox-Part 1
@@ -57,7 +58,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Big Data/Cloud
 #  
 #### SessionID: 11489
 # "What is the Best Disaster Recovery Solution?"
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DB Developer/DBA
 ## Speaker: Chris Shaw
 ## Title: "What is the Best Disaster Recovery Solution?"
@@ -67,7 +68,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DB Developer/DBA
 #  
 #### SessionID: 11654
 # SSIS Configurations
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Chris Schmidt
 ## Title: SSIS Configurations
@@ -76,7 +77,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 11936
 # A Lap Around Data Quality Services 2012 
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: SQL Server 2012 Roundup
 ## Speaker: Christopher Price
 ## Title: A Lap Around Data Quality Services 2012 
@@ -85,7 +86,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: SQL Server 2012 Roundup
 #  
 #### SessionID: 12861
 # Oracle for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Oracle for the SQL Server DBA
@@ -99,7 +100,7 @@ Prerequisites:  An open mind to different database platforms and a solid underst
 #  
 #### SessionID: 12868
 # Data Warehouse Best Practices
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Doug Barrett
 ## Title: Data Warehouse Best Practices
@@ -108,7 +109,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 13385
 # What To Do When It's Just You
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Doug Lane
 ## Title: What To Do When It's Just You
@@ -117,7 +118,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 14122
 # Develop a Quick and Dirty Web interface to your DB
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DB Developer/DBA
 ## Speaker: Gabriel Villa
 ## Title: Develop a Quick and Dirty Web interface to your DB
@@ -126,7 +127,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DB Developer/DBA
 #  
 #### SessionID: 14685
 # DMV Emergency Room!
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Glenn Berry
 ## Title: DMV Emergency Room!
@@ -135,7 +136,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 15836
 # Dimension Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Jason Horner
 ## Title: Dimension Modeling Design Patterns: Beyond Basics
@@ -144,7 +145,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 16517
 # T-SQL Brush-up: The Best Things You Forgot
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DB Developer/DBA
 ## Speaker: Jennifer McCown
 ## Title: T-SQL Brush-up: The Best Things You Forgot
@@ -153,7 +154,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DB Developer/DBA
 #  
 #### SessionID: 16518
 # Women in Technology: Career Roundtable
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Jennifer McCown
 ## Title: Women in Technology: Career Roundtable
@@ -162,7 +163,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 16656
 # Exploring your Data with Power View
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: SQL Server 2012 Roundup
 ## Speaker: Jessica Moss
 ## Title: Exploring your Data with Power View
@@ -171,7 +172,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: SQL Server 2012 Roundup
 #  
 #### SessionID: 16657
 # Upgrading and Overhauling SSIS Packages for 2012
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: SQL Server 2012 Roundup
 ## Speaker: Jessica Moss
 ## Title: Upgrading and Overhauling SSIS Packages for 2012
@@ -180,7 +181,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: SQL Server 2012 Roundup
 #  
 #### SessionID: 16884
 # The Accidental Programmer
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DB Developer/DBA
 ## Speaker: Jason Kassay
 ## Title: The Accidental Programmer
@@ -189,7 +190,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DB Developer/DBA
 #  
 #### SessionID: 17110
 # SSRS Patterns and Practices: Cube Reporting
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Joe Salvatore
 ## Title: SSRS Patterns and Practices: Cube Reporting
@@ -198,7 +199,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 18250
 # Largest SQL Azure projects in the world
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Big Data/Cloud
 ## Speaker: Kevin Cox
 ## Title: Largest SQL Azure projects in the world
@@ -207,7 +208,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Big Data/Cloud
 #  
 #### SessionID: 19424
 # New T-SQL 2012 features
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: SQL Server 2012 Roundup
 ## Speaker: Marc Beacom
 ## Title: New T-SQL 2012 features
@@ -216,7 +217,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: SQL Server 2012 Roundup
 #  
 #### SessionID: 19950
 # A Practical Approach to Table Partitioning
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mike Byrd
 ## Title: A Practical Approach to Table Partitioning
@@ -225,7 +226,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 19973
 # SSIS 2012 New Features
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: SQL Server 2012 Roundup
 ## Speaker: Mike Davis
 ## Title: SSIS 2012 New Features
@@ -234,7 +235,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: SQL Server 2012 Roundup
 #  
 #### SessionID: 19974
 # Complex DAX Functions
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Mike Davis
 ## Title: Complex DAX Functions
@@ -243,7 +244,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 22898
 # Tabular Models
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Jeff Renz
 ## Title: Tabular Models
@@ -252,7 +253,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 24041
 # SQL Azure and Hadoop:  A practical example
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Big Data/Cloud
 ## Speaker: Scott Berkley
 ## Title: SQL Azure and Hadoop:  A practical example
@@ -261,7 +262,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Big Data/Cloud
 #  
 #### SessionID: 24255
 # The Backup Tune-Up
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sean McCown
 ## Title: The Backup Tune-Up
@@ -270,7 +271,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 24257
 # Mouth Wide Shut: Coherent Interviewing
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Sean McCown
 ## Title: Mouth Wide Shut: Coherent Interviewing
@@ -279,7 +280,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 24475
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -288,7 +289,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 24477
 # Unstructured Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Big Data/Cloud
 ## Speaker: Steve Jones
 ## Title: Unstructured Data in SQL Server
@@ -297,7 +298,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Big Data/Cloud
 #  
 #### SessionID: 24613
 # Reverse Engineering The Database
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DB Developer/DBA
 ## Speaker: Brandon Tucker
 ## Title: Reverse Engineering The Database
@@ -306,7 +307,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DB Developer/DBA
 #  
 #### SessionID: 26928
 # Track'em! What are DBA's doing on my server?
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Thomas Norman
 ## Title: Track'em! What are DBA's doing on my server?
@@ -318,7 +319,7 @@ auditor, let's prove what the DBA did.
 #  
 #### SessionID: 26958
 # SQL 2012 Encryption and You
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: SQL Server 2012 Roundup
 ## Speaker: Todd Kleinhans
 ## Title: SQL 2012 Encryption and You
@@ -328,7 +329,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: SQL Server 2012 Roundup
 #  
 #### SessionID: 34807
 # Exposing the Core: SQL 2012 on Server Core
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DB Developer/DBA
 ## Speaker: Michael Fal
 ## Title: Exposing the Core: SQL 2012 on Server Core
@@ -337,7 +338,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DB Developer/DBA
 #  
 #### SessionID: 34809
 # Musically Speaking: Building Better Presentations
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Michael Fal
 ## Title: Musically Speaking: Building Better Presentations
@@ -346,7 +347,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 34823
 # 10 Things That Every DBA Should Know!
-#### [Back to calendar](#SQLSaturday-#169-Denver-2012)
+#### [Back to calendar](#nr-169)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: John Morehouse
 ## Title: 10 Things That Every DBA Should Know!

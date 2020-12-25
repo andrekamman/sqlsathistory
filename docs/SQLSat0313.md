@@ -1,3 +1,4 @@
+#### Nr: 313
 #### [Back to Main list](index.md)
 # SQLSaturday #313 - Rheinland 2014
 Start Time (24h)|Speaker|Track|Title
@@ -33,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10954
 # The nightmare of locking, blocking and isolation levels!
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Boris Hristov
 ## Title: The nightmare of locking, blocking and isolation levels!
@@ -42,7 +43,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 11148
 # Performancesteigerung durch Window Functions
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Christoph Muthmann
 ## Title: Performancesteigerung durch Window Functions
@@ -51,7 +52,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 11683
 # From XML to Nested Sets: Handling Hierarchies with SQL Server
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Christoph Seck
 ## Title: From XML to Nested Sets: Handling Hierarchies with SQL Server
@@ -60,7 +61,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 11805
 # Unit Testing and Continuous Deployment for DB-Development?
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Constantin Klein
 ## Title: Unit Testing and Continuous Deployment for DB-Development?
@@ -69,7 +70,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 12090
 # Session Details not available
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: n/a n/a
 ## Title: Session Details not available
@@ -78,7 +79,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 12463
 # Beware of the Dark Side - A Guided Tour of Oracle for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Open
 ## Speaker: David Postlethwaite
 ## Title: Beware of the Dark Side - A Guided Tour of Oracle for the SQL Server DBA
@@ -87,7 +88,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Open
 #  
 #### SessionID: 13563
 # Analyzing Text with SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Mixed 
 ## Speaker: Dejan Sarka
 ## Title: Analyzing Text with SQL Server 2014
@@ -97,7 +98,7 @@ Microsoft SQL Server in versions 2012 and 2014 enhances full-text search support
 #  
 #### SessionID: 14290
 # Agile Datawarehousing: tips and tricks to deliver your BI solution using Agile methodolgy like SCRUM
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Florian Eiden
 ## Title: Agile Datawarehousing: tips and tricks to deliver your BI solution using Agile methodolgy like SCRUM
@@ -111,7 +112,7 @@ In this session we’ll quickly present what is Agile, and we’ll demo mockup i
 #  
 #### SessionID: 14325
 # Always ON 2014
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Frank Geisler
 ## Title: Always ON 2014
@@ -120,7 +121,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 14920
 # Datenzugriff mit Entity Framework – brauchbar oder einfach nur langsam?
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Dr. Holger Schwichtenberg
 ## Title: Datenzugriff mit Entity Framework – brauchbar oder einfach nur langsam?
@@ -129,7 +130,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 14941
 # Yahoo Cloud Serving Benchmark - MS SQL Server vs. MongoDB
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Open
 ## Speaker: Harm Knolle
 ## Title: Yahoo Cloud Serving Benchmark - MS SQL Server vs. MongoDB
@@ -138,7 +139,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Open
 #  
 #### SessionID: 15424
 # Clustered Columnstore Deep Dive
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Mixed 
 ## Speaker: Niko Neugebauer
 ## Title: Clustered Columnstore Deep Dive
@@ -147,7 +148,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Mixed
 #  
 #### SessionID: 16260
 # Power Query vs. SSIS, which one is the most powerful?
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jean-Pierre Riehl
 ## Title: Power Query vs. SSIS, which one is the most powerful?
@@ -156,7 +157,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 17948
 # Anwenden u. Erweitern des SSIS CatalogDB für ein Logging Framework
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Alexander Karl
 ## Title: Anwenden u. Erweitern des SSIS CatalogDB für ein Logging Framework
@@ -177,7 +178,7 @@ zu ermöglichen.
 #  
 #### SessionID: 19228
 # PowerShell 101 für SQL Administratoren
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sascha Lorenz
 ## Title: PowerShell 101 für SQL Administratoren
@@ -186,7 +187,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 19437
 # SAP HANA, Power Pivot, SQL Server - In-Memory-Technologien im Vergleich
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Open
 ## Speaker: Marcel Franke
 ## Title: SAP HANA, Power Pivot, SQL Server - In-Memory-Technologien im Vergleich
@@ -195,7 +196,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Open
 #  
 #### SessionID: 19739
 # Column Store Index 2012 vs. 2014
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Mixed 
 ## Speaker: Martin Kopp
 ## Title: Column Store Index 2012 vs. 2014
@@ -206,7 +207,7 @@ Der Column Store Index wurde mit der Version 2012 vom SQL Server erstmals eingef
 #  
 #### SessionID: 20346
 # Node.js for Microsoft SQLServer Nerds
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Open
 ## Speaker: Mihail Mateev
 ## Title: Node.js for Microsoft SQLServer Nerds
@@ -217,7 +218,7 @@ With the continued support from Microsoft for Nodejs on both Windows and Windows
 #  
 #### SessionID: 20752
 # SQL Server 2014 - New Cardinality Estimator
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Miloš Radivojević
 ## Title: SQL Server 2014 - New Cardinality Estimator
@@ -228,7 +229,7 @@ This session will answers all these questions and will demonstrate new query pro
 #  
 #### SessionID: 21554
 # Siena calling! Project Siena a RBID App?
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Mixed 
 ## Speaker: Oliver Engels
 ## Title: Siena calling! Project Siena a RBID App?
@@ -237,7 +238,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Mixed
 #  
 #### SessionID: 21555
 # SSIS und HDInsight - Zwei Welten treffen aufeinander?
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Open
 ## Speaker: Oliver Engels
 ## Title: SSIS und HDInsight - Zwei Welten treffen aufeinander?
@@ -246,7 +247,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Open
 #  
 #### SessionID: 23790
 # ROLAP mit der PDW - Endlich der nötige Performanceboost
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Mixed 
 ## Speaker: Stephan Köppen
 ## Title: ROLAP mit der PDW - Endlich der nötige Performanceboost
@@ -255,7 +256,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Mixed
 #  
 #### SessionID: 23986
 # MapReduce in der Praxis
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Sascha Dittmann
 ## Title: MapReduce in der Praxis
@@ -265,7 +266,7 @@ Diese Session stellt gängige Problemstellungen aus der Praxis vor und wie diese
 #  
 #### SessionID: 24182
 # SQL Server 2014 Top 5 - Hybrid Features
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Scott Klein
 ## Title: SQL Server 2014 Top 5 - Hybrid Features
@@ -274,7 +275,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 24200
 # MongoDB on Windows Azure
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Open
 ## Speaker: Scott Klein
 ## Title: MongoDB on Windows Azure
@@ -283,7 +284,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Open
 #  
 #### SessionID: 24368
 # Data Corruption: how to detect, resolve and prevent
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sergey Olontsev
 ## Title: Data Corruption: how to detect, resolve and prevent
@@ -292,7 +293,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 28210
 # Database Replication - What, How and Why
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: William Durkin
 ## Title: Database Replication - What, How and Why
@@ -307,7 +308,7 @@ The content will be valid for all versions of SQL Server from 2005 onward.
 #  
 #### SessionID: 8820
 # Columnstore, In-Memory, Page oder Row-Compressed, OLTP vs OLAP – SQL Server 2014 Speichertypen
-#### [Back to calendar](#SQLSaturday-#313-Rheinland-2014)
+#### [Back to calendar](#nr-313)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Mixed 
 ## Speaker: Andreas Wolter
 ## Title: Columnstore, In-Memory, Page oder Row-Compressed, OLTP vs OLAP – SQL Server 2014 Speichertypen

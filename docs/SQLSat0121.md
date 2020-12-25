@@ -1,3 +1,4 @@
+#### Nr: 121
 #### [Back to Main list](index.md)
 # SQLSaturday #121 - Philadelphia 2012
 Start Time (24h)|Speaker|Track|Title
@@ -54,7 +55,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10000
 # Manage SQL Server 2012 with PowerShell and Core
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Allen White
 ## Title: Manage SQL Server 2012 with PowerShell and Core
@@ -63,7 +64,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 10001
 # Gather SQL Server Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Allen White
 ## Title: Gather SQL Server Performance Data with PowerShell
@@ -72,7 +73,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 10763
 # Conversational leadership
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Prof Dev
 ## Speaker: Brian Moran
 ## Title: Conversational leadership
@@ -81,7 +82,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Prof Dev
 #  
 #### SessionID: 11136
 # SharePoint Integration with SQL Server 
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI/Dev
 ## Speaker: Bill Wolff
 ## Title: SharePoint Integration with SQL Server 
@@ -90,7 +91,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI/Dev
 #  
 #### SessionID: 11600
 # What's Buried in the Plan Cache?
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Development
 ## Speaker: Christina Leo
 ## Title: What's Buried in the Plan Cache?
@@ -102,7 +103,7 @@ In this session, we’ll look at how the plan cache is organized, what plans are
 #  
 #### SessionID: 11601
 # Working with Server Side Traces
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA\Dev
 ## Speaker: Christina Leo
 ## Title: Working with Server Side Traces
@@ -113,7 +114,7 @@ First, we’ll examine the anatomy of a server-side trace script and look at the
 #  
 #### SessionID: 13178
 # Thwarting Database Defects
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Development
 ## Speaker: Dennis Lloyd Jr
 ## Title: Thwarting Database Defects
@@ -122,7 +123,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 13238
 # Introduction to the .NET SSIS API (C#)
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Development
 ## Speaker: Dominic Falso
 ## Title: Introduction to the .NET SSIS API (C#)
@@ -131,7 +132,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 13946
 # DBCC Commands: The Quick and the Dangerous
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Erin Stellato
 ## Title: DBCC Commands: The Quick and the Dangerous
@@ -140,7 +141,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 13947
 # You’re My Density: Making Sense of Statistics
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA\Dev
 ## Speaker: Erin Stellato
 ## Title: You’re My Density: Making Sense of Statistics
@@ -149,7 +150,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA\Dev
 #  
 #### SessionID: 15015
 # PowerPivot  BISM in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI 2012
 ## Speaker: Hope Foley
 ## Title: PowerPivot  BISM in SQL Server 2012
@@ -158,7 +159,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI 2012
 #  
 #### SessionID: 15892
 # Advanced Charting Techniques in SSRS
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI/Dev
 ## Speaker: Jason Thomas
 ## Title: Advanced Charting Techniques in SSRS
@@ -168,7 +169,7 @@ This session will talk about the basic functionalities of all the charts as well
 #  
 #### SessionID: 16182
 # It Costs How Much? SQL Server Licensing
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Prof Dev
 ## Speaker: Joseph D'Antoni
 ## Title: It Costs How Much? SQL Server Licensing
@@ -177,7 +178,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Prof Dev
 #  
 #### SessionID: 16183
 # You Wouldn't Let HR Manage Your DBs...
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Prof Dev
 ## Speaker: Joseph D'Antoni
 ## Title: You Wouldn't Let HR Manage Your DBs...
@@ -186,7 +187,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Prof Dev
 #  
 #### SessionID: 16659
 # Exploring your Data with Power View
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI 2012
 ## Speaker: Jessica Moss
 ## Title: Exploring your Data with Power View
@@ -195,7 +196,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI 2012
 #  
 #### SessionID: 17693
 # Performance Tuning for Pirates
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: John Sterrett
 ## Title: Performance Tuning for Pirates
@@ -205,7 +206,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 17972
 # Advanced Performance Tuning Tips with Ignite
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Kathy  Gibbs
 ## Title: Advanced Performance Tuning Tips with Ignite
@@ -214,7 +215,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 17973
 # Best Practices for Monitoring Databases on VMware
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Kathy  Gibbs
 ## Title: Best Practices for Monitoring Databases on VMware
@@ -223,7 +224,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 18032
 # Mobilize your PowerPivot Solutions
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Kevin Bucher
 ## Title: Mobilize your PowerPivot Solutions
@@ -232,7 +233,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 18033
 # Power View 101
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Kevin Bucher
 ## Title: Power View 101
@@ -242,7 +243,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 18332
 # Integrating MDX code with OLAP applications
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI/Dev
 ## Speaker: Kevin Goff
 ## Title: Integrating MDX code with OLAP applications
@@ -251,7 +252,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI/Dev
 #  
 #### SessionID: 18333
 # T-SQL for Application Developers - Attendees chose
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Development
 ## Speaker: Kevin Goff
 ## Title: T-SQL for Application Developers - Attendees chose
@@ -260,7 +261,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 20222
 # Making Predictions with Microsoft Data Mining Tool
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mark Hudson
 ## Title: Making Predictions with Microsoft Data Mining Tool
@@ -270,7 +271,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20224
 # Put Your Data on the Map
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mark Hudson
 ## Title: Put Your Data on the Map
@@ -279,7 +280,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20554
 # Top Ten Rules for Managing a Production Environmen
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Mike Hillwig
 ## Title: Top Ten Rules for Managing a Production Environmen
@@ -288,7 +289,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 20852
 # Managing SQL Server in Large Warehouse Environment
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI/Dev
 ## Speaker: Mark Kromer
 ## Title: Managing SQL Server in Large Warehouse Environment
@@ -299,7 +300,7 @@ SQL Server and the associated BI tools to ensure a successful data warehouse env
 #  
 #### SessionID: 21228
 # SQL Server performance tuning made easy !
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Development
 ## Speaker: Muthu Ramanathan
 ## Title: SQL Server performance tuning made easy !
@@ -309,7 +310,7 @@ In this session, we will talk about some live performance scenarios including CP
 #  
 #### SessionID: 21270
 # Using  Database Projects to Manage Schema Changes
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI/Dev
 ## Speaker: Mark Wojciechowicz
 ## Title: Using  Database Projects to Manage Schema Changes
@@ -318,7 +319,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI/Dev
 #  
 #### SessionID: 21271
 # Data Quality Services in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI 2012
 ## Speaker: Mark Wojciechowicz
 ## Title: Data Quality Services in SQL Server 2012
@@ -327,7 +328,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI 2012
 #  
 #### SessionID: 21613
 # Analysis Services Half and Half-Half Cube/Half MDX
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Prof Dev
 ## Speaker: Vince Napoli
 ## Title: Analysis Services Half and Half-Half Cube/Half MDX
@@ -336,7 +337,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Prof Dev
 #  
 #### SessionID: 21714
 # Index Internals
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA\Dev
 ## Speaker: Sebastian Meine
 ## Title: Index Internals
@@ -345,7 +346,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA\Dev
 #  
 #### SessionID: 21787
 # Shortcuts to Building SSIS in .Net
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Paul Rizza
 ## Title: Shortcuts to Building SSIS in .Net
@@ -354,7 +355,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 22191
 # Accelerate SQL Server 10x
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Pat Latorra
 ## Title: Accelerate SQL Server 10x
@@ -363,7 +364,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 23029
 # Creating a PPS Dashboard Using a BI Semantic Model
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI 2012
 ## Speaker: Charles Rivel
 ## Title: Creating a PPS Dashboard Using a BI Semantic Model
@@ -372,7 +373,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI 2012
 #  
 #### SessionID: 23050
 # Creating a Performance Baseline for SQL Server
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Ron Johnson
 ## Title: Creating a Performance Baseline for SQL Server
@@ -381,7 +382,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 25158
 # SSIS Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI/Dev
 ## Speaker: Josef Richberg
 ## Title: SSIS Tips  Tricks
@@ -390,7 +391,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI/Dev
 #  
 #### SessionID: 27787
 # Increasing High Availability and Decreasing Comple
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Bill Emmert
 ## Title: Increasing High Availability and Decreasing Comple
@@ -399,7 +400,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 28277
 # Avoiding "Monkey At The Monitor" By Delegating
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Joshua Feierman
 ## Title: Avoiding "Monkey At The Monitor" By Delegating
@@ -408,7 +409,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 29826
 # Building Your First Tabular Model
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI 2012
 ## Speaker: Dan Clark
 ## Title: Building Your First Tabular Model
@@ -417,7 +418,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI 2012
 #  
 #### SessionID: 31181
 # Model-Driven Database Design
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA\Dev
 ## Speaker: Karen Lopez
 ## Title: Model-Driven Database Design
@@ -426,7 +427,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA\Dev
 #  
 #### SessionID: 31182
 # Career Management for Data Professionals
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Prof Dev
 ## Speaker: Karen Lopez
 ## Title: Career Management for Data Professionals
@@ -435,7 +436,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Prof Dev
 #  
 #### SessionID: 31945
 # Microsoft Cloud BI
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mark Kromer
 ## Title: Microsoft Cloud BI
@@ -444,7 +445,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 32193
 # Much Ado About Indexes - Tuning, Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Robert Pearl
 ## Title: Much Ado About Indexes - Tuning, Tips  Tricks
@@ -453,7 +454,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 33880
 # Minimally Invasive - Tools to Doctor Up Your Code
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA\Dev
 ## Speaker: Wayne Sheffield
 ## Title: Minimally Invasive - Tools to Doctor Up Your Code
@@ -462,7 +463,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA\Dev
 #  
 #### SessionID: 34536
 # MongoDB for the Relational DBA
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Justin Dearing
 ## Title: MongoDB for the Relational DBA
@@ -475,7 +476,7 @@ On the non-technical side, this talk will focus on when you would want to use Mo
 #  
 #### SessionID: 8990
 # SQL Server 2012 AlwaysOn Readable Secondaries
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Adam Belebczuk
 ## Title: SQL Server 2012 AlwaysOn Readable Secondaries
@@ -484,7 +485,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 8991
 # Introduction to SQL Server Service Broker
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA\Dev
 ## Speaker: Adam Belebczuk
 ## Title: Introduction to SQL Server Service Broker
@@ -493,7 +494,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA\Dev
 #  
 #### SessionID: 9103
 # SQL Server 2012's Net-New BI Capabilities
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI 2012
 ## Speaker: A.J. Mee
 ## Title: SQL Server 2012's Net-New BI Capabilities
@@ -508,7 +509,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI 2012
 #  
 #### SessionID: 9227
 # DBA-User Interface, build a bridge.
-#### [Back to calendar](#SQLSaturday-#121-Philadelphia-2012)
+#### [Back to calendar](#nr-121)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Development
 ## Speaker: Alex Grinberg
 ## Title: DBA-User Interface, build a bridge.

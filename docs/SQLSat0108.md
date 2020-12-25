@@ -1,3 +1,4 @@
+#### Nr: 108
 #### [Back to Main list](index.md)
 # SQLSaturday #108 - Redmond 2012
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28417
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Pioneer Square
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals
@@ -35,7 +36,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Pioneer Square
 #  
 #### SessionID: 28491
 # Fundamentals of SAN, NAS and IP Storage
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Queen Anne
 ## Speaker: Wesley Brown
 ## Title: Fundamentals of SAN, NAS and IP Storage
@@ -44,7 +45,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Queen Anne
 #  
 #### SessionID: 28788
 # Troubleshooting SQL Server with SysInternals Tools
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Queen Anne
 ## Speaker: Argenis Fernandez
 ## Title: Troubleshooting SQL Server with SysInternals Tools
@@ -53,7 +54,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Queen Anne
 #  
 #### SessionID: 29474
 # Replication Magic: Initializing From Backups
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Pioneer Square
 ## Speaker: Robert Davis
 ## Title: Replication Magic: Initializing From Backups
@@ -64,7 +65,7 @@ Demos will include initializing a subscriber from a transaction log backup and p
 #  
 #### SessionID: 29800
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Montlake
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -73,7 +74,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Montlake
 #  
 #### SessionID: 29901
 # Database Development: Keep It Agile, Not Fragile
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Capitol Hill
 ## Speaker: Dev Nambi
 ## Title: Database Development: Keep It Agile, Not Fragile
@@ -83,7 +84,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Capitol Hill
 #  
 #### SessionID: 29960
 # SQL Server Reporting Services - Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Montlake
 ## Speaker: Donabel Santos
 ## Title: SQL Server Reporting Services - Beyond the Basics
@@ -97,7 +98,7 @@ This presentation will be demo-filled. You'll be sure to go home with ready-to-u
 #  
 #### SessionID: 29976
 # Data Warehousing Update
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Montlake
 ## Speaker: Douglas Barrett
 ## Title: Data Warehousing Update
@@ -106,7 +107,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Montlake
 #  
 #### SessionID: 29984
 # Merge Replication for High Availability
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Queen Anne
 ## Speaker: Diane Robey
 ## Title: Merge Replication for High Availability
@@ -115,7 +116,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Queen Anne
 #  
 #### SessionID: 30348
 # Advanced indexing
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Queen Anne
 ## Speaker: Hugo Kornelis
 ## Title: Advanced indexing
@@ -124,7 +125,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Queen Anne
 #  
 #### SessionID: 31323
 # Top 10 Admin Mistakes on SQL Server
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Pioneer Square
 ## Speaker: Kevin Kline
 ## Title: Top 10 Admin Mistakes on SQL Server
@@ -140,7 +141,7 @@ fact, wouldn’t you like to learn about those mistakes before they ever happen?
 #  
 #### SessionID: 31600
 # The Elephant in the Room (Hadoop for DBAs)
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Capitol Hill
 ## Speaker: Mark Simms
 ## Title: The Elephant in the Room (Hadoop for DBAs)
@@ -154,7 +155,7 @@ This will encompass hands-on demonstrations, real world applications and how bes
 #  
 #### SessionID: 31702
 # PowerShell 101
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Pioneer Square
 ## Speaker: Merrill Aldrich
 ## Title: PowerShell 101
@@ -163,7 +164,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Pioneer Square
 #  
 #### SessionID: 32184
 # Dashboard Design: Making Reports Pop
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Montlake
 ## Speaker: Paul Turley
 ## Title: Dashboard Design: Making Reports Pop
@@ -172,7 +173,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Montlake
 #  
 #### SessionID: 32318
 # Database lifecycle with Visual Studio 2010 and TFS
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Capitol Hill
 ## Speaker: Piotr Palka
 ## Title: Database lifecycle with Visual Studio 2010 and TFS
@@ -184,7 +185,7 @@ Finally we will create deliverables for release.
 #  
 #### SessionID: 32514
 # Basic Performance Tips and Gotchas
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Capitol Hill
 ## Speaker: Rick  Morelan
 ## Title: Basic Performance Tips and Gotchas
@@ -193,7 +194,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Capitol Hill
 #  
 #### SessionID: 33082
 # Enterprise Data Mining with SQL Server
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Pioneer Square
 ## Speaker: Mark Tabladillo
 ## Title: Enterprise Data Mining with SQL Server
@@ -202,7 +203,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Pioneer Square
 #  
 #### SessionID: 33215
 # Unleashing Common Table Expressions in SQL Server
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Capitol Hill
 ## Speaker: Steve Stedman
 ## Title: Unleashing Common Table Expressions in SQL Server
@@ -211,7 +212,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Capitol Hill
 #  
 #### SessionID: 34489
 # 5 SSIS Tricks to Take You from Beginner to Awesome
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Montlake
 ## Speaker: Wil Sisney
 ## Title: 5 SSIS Tricks to Take You from Beginner to Awesome
@@ -220,7 +221,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Montlake
 #  
 #### SessionID: 34694
 # Parallel Task Scheduling with T-SQL
-#### [Back to calendar](#SQLSaturday-#108-Redmond-2012)
+#### [Back to calendar](#nr-108)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: Queen Anne
 ## Speaker: John Huang
 ## Title: Parallel Task Scheduling with T-SQL

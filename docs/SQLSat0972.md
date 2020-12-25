@@ -1,3 +1,4 @@
+#### Nr: 972
 #### [Back to Main list](index.md)
 # SQLSaturday #972 – Belo Horizonte – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -22,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 108106
 # DMV's - O primeiro passo para dominar o SQL Server
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dirceu Resende
 ## Title: DMV's - O primeiro passo para dominar o SQL Server
@@ -31,7 +32,7 @@ Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 108370
 # Cosmos DB: An Azure Odyssey
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: André Melancia
 ## Title: Cosmos DB: An Azure Odyssey
@@ -42,7 +43,7 @@ Disclaimer: Mixing SQL electrons with NoSQL positrons may lead to the destructio
 #  
 #### SessionID: 108206
 # Melhores praticas para carga de dados para o Azure Synapse Analytics - SQL Pool
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sidney Cirqueira
 ## Title: Melhores praticas para carga de dados para o Azure Synapse Analytics - SQL Pool
@@ -51,7 +52,7 @@ Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 108398
 # AQP vs IQP - query optimization on steroids
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Damian Widera
 ## Title: AQP vs IQP - query optimization on steroids
@@ -63,7 +64,7 @@ I would like to present both the AQP and IQP to show what you can expect in the 
 #  
 #### SessionID: 103093
 # AZURE DATA EXPLORER - ADX  101
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Wagner Crivelini
 ## Title: AZURE DATA EXPLORER - ADX  101
@@ -72,7 +73,7 @@ Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 107983
 # Técnicas de Tuning que Todo Desenvolvedor Deve Saber
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Rodrigo Crespi
 ## Title: Técnicas de Tuning que Todo Desenvolvedor Deve Saber
@@ -82,7 +83,7 @@ Contudo, você sabe o impacto de suas consultas no futuro? Nesta sessão, aprend
 #  
 #### SessionID: 108314
 # Azure SQL Managed Instance - lições aprendidas
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Roberto Cavalcanti
 ## Title: Azure SQL Managed Instance - lições aprendidas
@@ -91,7 +92,7 @@ Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 102485
 # Streaming Architecture with Big Data Clusters (SQL2019)
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Luiz Henrique Garetti
 ## Title: Streaming Architecture with Big Data Clusters (SQL2019)
@@ -101,7 +102,7 @@ Nesta sessão, vamos aprofundar o assunto e entender (teoria e prática) essa no
 #  
 #### SessionID: 108138
 # Azure / AWS - Reduzindo o workload em 50% na Nuvem
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Thiago Carlos de Alencar
 ## Title: Azure / AWS - Reduzindo o workload em 50% na Nuvem
@@ -110,7 +111,7 @@ Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 108458
 # Hacking SQL Server 3.0
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server 3.0
@@ -121,7 +122,7 @@ Vamos simular um novo modelo de acesso em um banco de dados e como prevenir este
 #  
 #### SessionID: 103887
 # Power BI - Data Visualization Best Practices
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Vitor Ferreira
 ## Title: Power BI - Data Visualization Best Practices
@@ -130,7 +131,7 @@ Event Date: 24-10-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 107900
 # Can you trust the intelligence of Application tracking systems with your CV?
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ondrej Aubrecht
 ## Title: Can you trust the intelligence of Application tracking systems with your CV?
@@ -146,7 +147,7 @@ Come along to this session and find out more about REAL DATA analysis and scanni
 #  
 #### SessionID: 102487
 # Implementando uma solução de monitoração robusta e escalável com o SQL Server
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vitor Fava
 ## Title: Implementando uma solução de monitoração robusta e escalável com o SQL Server
@@ -157,7 +158,7 @@ Nesta sessão vamos discutir como utilizar as principais ferramentas disponívei
 #  
 #### SessionID: 103822
 # Como uma tecnologia israelense está ajudando empresas brasileiras no Compliance com a LGPD.
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Information Delivery
 ## Speaker: Tiago Ruela
 ## Title: Como uma tecnologia israelense está ajudando empresas brasileiras no Compliance com a LGPD.
@@ -172,7 +173,7 @@ A busca dessa conformidade exige a conjugação de diferentes competências e á
 #  
 #### SessionID: 108105
 # Escalando SQL Server em containers com AKS
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: William Lino Oliveira
 ## Title: Escalando SQL Server em containers com AKS
@@ -181,7 +182,7 @@ Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 103393
 # Boas práticas de segurança no acesso a dados em aplicações Web
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Renato Groffe
 ## Title: Boas práticas de segurança no acesso a dados em aplicações Web
@@ -190,7 +191,7 @@ Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 107889
 # SQL Server Security Features
-#### [Back to calendar](#SQLSaturday-#972-–-Belo-Horizonte-–-Virtual-2020)
+#### [Back to calendar](#nr-972)
 Event Date: 24-10-2020 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sam Nasr
 ## Title: SQL Server Security Features

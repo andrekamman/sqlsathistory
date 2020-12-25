@@ -1,3 +1,4 @@
+#### Nr: 960
 #### [Back to Main list](index.md)
 # SQLSaturday #960 – Chattanooga – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 101124
 # Real-World PowerShell for SQL Administration
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Real-World PowerShell for SQL Administration
@@ -42,7 +43,7 @@ And then we'll spend the balance of our time looking at real-world, practical sc
 #  
 #### SessionID: 101218
 # What You Need To Know About Processing Tabular Models and Power BI Datasets
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Anton
 ## Title: What You Need To Know About Processing Tabular Models and Power BI Datasets
@@ -57,7 +58,7 @@ Keywords: Analysis Services, SSAS, Power BI
 #  
 #### SessionID: 102261
 # Data Visualization Tools For Entrepreneurs
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Analytics and Visualization
 ## Speaker: Sekou Tyler
 ## Title: Data Visualization Tools For Entrepreneurs
@@ -66,7 +67,7 @@ Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 103916
 # Turbo-charging SSMS for Beginners
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Nathan Boster
 ## Title: Turbo-charging SSMS for Beginners
@@ -75,7 +76,7 @@ Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Application  Database D
 #  
 #### SessionID: 101184
 # Why Learn Python?  A Microsoft DB/ETL/BI Developer's Answer
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Kingaby
 ## Title: Why Learn Python?  A Microsoft DB/ETL/BI Developer's Answer
@@ -84,7 +85,7 @@ Event Date: 27-06-2020 - Session time: 15:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 102288
 # Give Power [BI] to the people - securely share your insights
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: BI Information Delivery
 ## Speaker: Daniel Glenn
 ## Title: Give Power [BI] to the people - securely share your insights
@@ -96,7 +97,7 @@ In this session, you will get a short introduction to Power BI and understand wh
 #  
 #### SessionID: 102543
 # How to do a Complete SQL Server Assessment
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: How to do a Complete SQL Server Assessment
@@ -105,7 +106,7 @@ Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 105140
 # Looking "Normal" and Seeing "Stars": Table Designs Working Together
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Deborah Melkin
 ## Title: Looking "Normal" and Seeing "Stars": Table Designs Working Together
@@ -118,7 +119,7 @@ By the end of the session, you will better understand how using the two designs 
 #  
 #### SessionID: 101170
 # From Stutterer to Speaker: Overcoming Your Fears
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Professional Development
 ## Speaker: Matt Gordon
 ## Title: From Stutterer to Speaker: Overcoming Your Fears
@@ -127,7 +128,7 @@ Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Professional Developmen
 #  
 #### SessionID: 101200
 # The Art of Data Classification and Protection
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Norman
 ## Title: The Art of Data Classification and Protection
@@ -139,7 +140,7 @@ Prerequisites: Having an understanding of data privacy regulation is recommended
 #  
 #### SessionID: 104815
 # The Psychology of Better Power BI Reporting
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: BI Information Delivery
 ## Speaker: Ed Watson
 ## Title: The Psychology of Better Power BI Reporting
@@ -148,7 +149,7 @@ Event Date: 27-06-2020 - Session time: 15:20:00 - Track: BI Information Delivery
 #  
 #### SessionID: 105137
 # Achieve Enterprise Scale with Advanced SQL Server Features
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Kline
 ## Title: Achieve Enterprise Scale with Advanced SQL Server Features
@@ -157,7 +158,7 @@ Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 101164
 # The Countless Benefits of Mentoring
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Professional Development
 ## Speaker: Mark Runyon
 ## Title: The Countless Benefits of Mentoring
@@ -166,7 +167,7 @@ Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Professional Developmen
 #  
 #### SessionID: 101302
 # The function of Windowing Functions
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Kevin Wilkie
 ## Title: The function of Windowing Functions
@@ -175,7 +176,7 @@ Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Application  Database D
 #  
 #### SessionID: 102393
 # Applying Forensic Accounting Techniques Using SQL and R
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Kevin Feasel
 ## Title: Applying Forensic Accounting Techniques Using SQL and R
@@ -184,7 +185,7 @@ Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 105136
 # 5 Surprising Lessons Every SQL Server Generalists Has to Learn
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Kline
 ## Title: 5 Surprising Lessons Every SQL Server Generalists Has to Learn
@@ -195,7 +196,7 @@ In the session, your speaker takes you through five surprising situations where 
 #  
 #### SessionID: 101169
 # Azure-d Availability: SQL Server HA In and To the Cloud
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: Azure-d Availability: SQL Server HA In and To the Cloud
@@ -204,7 +205,7 @@ Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 101813
 # SQL Notebooks In-Depth
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Eric Flamm
 ## Title: SQL Notebooks In-Depth
@@ -213,7 +214,7 @@ Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Application  Database D
 #  
 #### SessionID: 102155
 # Enabling Real Time Analytics through Azure
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Pearson
 ## Title: Enabling Real Time Analytics through Azure
@@ -226,7 +227,7 @@ My presentation will walk through an end-to-end solution – from data acquisiti
 #  
 #### SessionID: 105118
 # Intelligent Insights with Power BI
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: BI Information Delivery
 ## Speaker: Dan Evans
 ## Title: Intelligent Insights with Power BI
@@ -235,7 +236,7 @@ Event Date: 27-06-2020 - Session time: 15:20:00 - Track: BI Information Delivery
 #  
 #### SessionID: 101329
 # Infrastructure for the Data Professional: An Introduction
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: Infrastructure for the Data Professional: An Introduction
@@ -244,7 +245,7 @@ Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 102010
 # Learn How to Master DATETIME Functions Like a Boss in 59.5 Minutes or Less
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Peter Doyle
 ## Title: Learn How to Master DATETIME Functions Like a Boss in 59.5 Minutes or Less
@@ -266,7 +267,7 @@ So stop wasting time and get on board because it's about time for the plane to d
 #  
 #### SessionID: 104153
 # Basic Data Modeling for BI Reporting
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael McKinley
 ## Title: Basic Data Modeling for BI Reporting
@@ -279,7 +280,7 @@ Event Date: 27-06-2020 - Session time: 15:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 105129
 # A Beginner's Guide to Becoming a Performance Tuner
-#### [Back to calendar](#SQLSaturday-#960-–-Chattanooga-–-Virtual-2020)
+#### [Back to calendar](#nr-960)
 Event Date: 27-06-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Yun
 ## Title: A Beginner's Guide to Becoming a Performance Tuner

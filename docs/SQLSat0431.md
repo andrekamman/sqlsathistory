@@ -1,3 +1,4 @@
+#### Nr: 431
 #### [Back to Main list](index.md)
 # SQLSaturday #431 - Spartanburg 2015
 Start Time (24h)|Speaker|Track|Title
@@ -43,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 36226
 # Getting Started with Analysis Services 2012 Tabular
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Business Intelligence
 ## Speaker: William E Pearson III
 ## Title: Getting Started with Analysis Services 2012 Tabular
@@ -52,7 +53,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 36576
 # SQL Server Performance Fundamentals: Building and Maintaining a Solid Foundation
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Justin Randall
 ## Title: SQL Server Performance Fundamentals: Building and Maintaining a Solid Foundation
@@ -61,7 +62,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 36836
 # Designing an SSIS Framework in 2015
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Data Integration
 ## Speaker: Andy Leonard
 ## Title: Designing an SSIS Framework in 2015
@@ -76,7 +77,7 @@ In this session, you will learn:
 #  
 #### SessionID: 38364
 # The Basics of SQL Injection
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Dale Burnett
 ## Title: The Basics of SQL Injection
@@ -85,7 +86,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 39289
 # Social Networking Is Alive!!!
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: John Morehouse
 ## Title: Social Networking Is Alive!!!
@@ -94,7 +95,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 40361
 # Execution Plans for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
@@ -106,7 +107,7 @@ Reading execution plans becomes much less intimidating as we walk through the fl
 #  
 #### SessionID: 36210
 # Data Pages, Allocation Units, IAM chains... Oh My! - Storage Inte
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Leach
 ## Title: Data Pages, Allocation Units, IAM chains... Oh My! - Storage Inte
@@ -117,7 +118,7 @@ We’ll start off by looking at the structure of a row and then move on the conc
 #  
 #### SessionID: 36230
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Business Intelligence
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -126,7 +127,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 36552
 # Smart Rats Leave First
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Geoff Hiten
 ## Title: Smart Rats Leave First
@@ -136,7 +137,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 38508
 # T-SQL Window Function Performance
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Performance
@@ -145,7 +146,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 39102
 # Advanced Scripting Using SSIS Script Tasks and Components
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Data Integration
 ## Speaker: John Welch
 ## Title: Advanced Scripting Using SSIS Script Tasks and Components
@@ -155,7 +156,7 @@ SSIS offers significant capabilities out-of-the-box. However, many data movement
 #  
 #### SessionID: 39287
 # Database Continuous Delivery  Your Salvation!
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: DevOps
 ## Speaker: John Morehouse
 ## Title: Database Continuous Delivery  Your Salvation!
@@ -164,7 +165,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: DevOps
 #  
 #### SessionID: 36220
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -173,7 +174,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 36651
 # Building Your Yellow Brick Road: Directing Your Path to a Success
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Justin Randall
 ## Title: Building Your Yellow Brick Road: Directing Your Path to a Success
@@ -182,7 +183,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 36834
 # Using BIML as an SSIS Design Patterns Engine 
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Data Integration
 ## Speaker: Andy Leonard
 ## Title: Using BIML as an SSIS Design Patterns Engine 
@@ -191,7 +192,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Data Integration
 #  
 #### SessionID: 37361
 # What's your Character Data Type?
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: What's your Character Data Type?
@@ -200,7 +201,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 38409
 # Clustering... the SQL Server Way
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Maxwell
 ## Title: Clustering... the SQL Server Way
@@ -209,7 +210,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39041
 # Everything you Want to know about Power BI dependency on Office 3
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Business Intelligence
 ## Speaker: Patrick LeBlanc
 ## Title: Everything you Want to know about Power BI dependency on Office 3
@@ -218,7 +219,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 36225
 # Converting Unreliable Deployments Into Consistent Releases
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: DevOps
 ## Speaker: Thomas Norman
 ## Title: Converting Unreliable Deployments Into Consistent Releases
@@ -227,7 +228,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: DevOps
 #  
 #### SessionID: 36266
 # What’s your Imperative doing in my Declarative?
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Geoff Hiten
 ## Title: What’s your Imperative doing in my Declarative?
@@ -236,7 +237,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 36272
 # Performance Tuning for Mere Mortals Part I
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Watson
 ## Title: Performance Tuning for Mere Mortals Part I
@@ -245,7 +246,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 36273
 # Backup Strategies are for Losers!
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Watson
 ## Title: Backup Strategies are for Losers!
@@ -254,7 +255,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37362
 # The PROCESS of queries
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: The PROCESS of queries
@@ -263,7 +264,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 37565
 # Tone Analysis with HDInsight and Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Data Integration
 ## Speaker: Paco Gonzalez
 ## Title: Tone Analysis with HDInsight and Azure Machine Learning
@@ -272,7 +273,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Data Integration
 #  
 #### SessionID: 39126
 # Introduction To R for SQL Developers
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Business Intelligence
 ## Speaker: Kiran Math
 ## Title: Introduction To R for SQL Developers
@@ -288,7 +289,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 36215
 # Table Vars and Temp Tables – What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars and Temp Tables – What you NEED to Know!
@@ -297,7 +298,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 36237
 # DBA’s1st Date - Getting to know a new environment
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ryan Brickey
 ## Title: DBA’s1st Date - Getting to know a new environment
@@ -306,7 +307,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38096
 # R with AzureML
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Business Intelligence
 ## Speaker: Jake Switzer
 ## Title: R with AzureML
@@ -315,7 +316,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 38738
 # Closing the SSIS Package Management Story with BIPS
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Business Intelligence
 ## Speaker: Jim Christopher
 ## Title: Closing the SSIS Package Management Story with BIPS
@@ -328,7 +329,7 @@ In this session, you will learn how to leverage BIPS in your own environment.  S
 #  
 #### SessionID: 39288
 # Only You Can Prevent Database Fires!
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: Only You Can Prevent Database Fires!
@@ -337,7 +338,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39396
 # Balancing Work and Home to Create a Better You
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Balancing Work and Home to Create a Better You
@@ -346,7 +347,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 39538
 # Master Data Management with MDS, DQS and SSIS
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Data Integration
 ## Speaker: Julie Smith
 ## Title: Master Data Management with MDS, DQS and SSIS
@@ -355,7 +356,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Data Integration
 #  
 #### SessionID: 36276
 # De-Mystifying Query Plans: Focus on the Cardinality Estimator
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Turpin
 ## Title: De-Mystifying Query Plans: Focus on the Cardinality Estimator
@@ -368,7 +369,7 @@ At the end of this session you will know how to assess the state of the statisti
 #  
 #### SessionID: 36393
 # SQL Server 2014 In-Memory Programming
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: miguel Cebollero
 ## Title: SQL Server 2014 In-Memory Programming
@@ -377,7 +378,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 37777
 # I'm It - Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
@@ -386,7 +387,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 39044
 # Introduction to the Power BI Desktop
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Business Intelligence
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to the Power BI Desktop
@@ -395,7 +396,7 @@ Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 39104
 # Testing Data and Data-Centric Applications
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: DevOps
 ## Speaker: John Welch
 ## Title: Testing Data and Data-Centric Applications
@@ -405,7 +406,7 @@ Testing is vital to fast, successful delivery of software and information today.
 #  
 #### SessionID: 39543
 # Azure Data Factory: My Data Wandered Lonely as a CLOUD.
-#### [Back to calendar](#SQLSaturday-#431-Spartanburg-2015)
+#### [Back to calendar](#nr-431)
 Event Date: 26-09-2015 - Session time: 15:45:00 - Track: Data Integration
 ## Speaker: Julie Smith
 ## Title: Azure Data Factory: My Data Wandered Lonely as a CLOUD.

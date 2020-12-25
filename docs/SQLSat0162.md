@@ -1,3 +1,4 @@
+#### Nr: 162
 #### [Back to Main list](index.md)
 # SQLSaturday #162 - Cambridge 2012
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10540
 # SQL 2012 Always On-Deep Dive
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bob Duffy
 ## Title: SQL 2012 Always On-Deep Dive
@@ -44,7 +45,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10997
 # SQL Internal Storage
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Bruno Basto
 ## Title: SQL Internal Storage
@@ -53,7 +54,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11098
 # Windows Azure from a Data Perspective
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Buck Woody
 ## Title: Windows Azure from a Data Perspective
@@ -62,7 +63,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 11470
 # Intro to Tabular Model in Analysis Services 2012
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Chris Webb
 ## Title: Intro to Tabular Model in Analysis Services 2012
@@ -72,7 +73,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 12067
 # Session Details not available
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: n/a n/a
 ## Title: Session Details not available
@@ -81,7 +82,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 12069
 # Session Details not available
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4 (special)
 ## Speaker: n/a n/a
 ## Title: Session Details not available
@@ -90,7 +91,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4 (special)
 #  
 #### SessionID: 12210
 # What's new in SQL Server 2012 - TSQL
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dave Ballantyne
 ## Title: What's new in SQL Server 2012 - TSQL
@@ -103,7 +104,7 @@ This will be a high-level look session, but will be diving a bit deeper to highl
 #  
 #### SessionID: 12819
 # Query Plan Operators Deep Dive
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: David Morrison
 ## Title: Query Plan Operators Deep Dive
@@ -117,7 +118,7 @@ Hopefully you'll walk away from this session with the knowledge which will give 
 #  
 #### SessionID: 13596
 # The Magic of SQL Server 2012 BI in SharePoint
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Duncan Sutcliffe
 ## Title: The Magic of SQL Server 2012 BI in SharePoint
@@ -128,7 +129,7 @@ Although this session is mildly technical, it is easy to grasp and uses 100% dem
 #  
 #### SessionID: 15039
 # Make Your Queries Fly With Columnstore Indexes
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Hugo Kornelis
 ## Title: Make Your Queries Fly With Columnstore Indexes
@@ -140,7 +141,7 @@ If you are running SQL Server 2012, you can add a columnstore index to your larg
 #  
 #### SessionID: 15403
 # Inheriting a database for Developers
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Niko Neugebauer
 ## Title: Inheriting a database for Developers
@@ -153,7 +154,7 @@ The practices shown in this session will allow to check the database design and 
 #  
 #### SessionID: 15539
 # Troubleshooting SQL Server with PowerShell
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: James Boother
 ## Title: Troubleshooting SQL Server with PowerShell
@@ -162,7 +163,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 16559
 # Mobile Business Intelligence for Everyone, Now!
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jen Stirrup
 ## Title: Mobile Business Intelligence for Everyone, Now!
@@ -174,7 +175,7 @@ Come to this session to learn about mobilising Business Intelligence using Share
 #  
 #### SessionID: 19515
 # Red Gate followed by Lightning Talks
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mark Broadbent
 ## Title: Red Gate followed by Lightning Talks
@@ -183,7 +184,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19541
 # READPAST  Furious-Transactions.Locking.Isolation.
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4 (special)
 ## Speaker: Mark Broadbent
 ## Title: READPAST  Furious-Transactions.Locking.Isolation.
@@ -199,7 +200,7 @@ I look forward to you joining me in this very revealing and thought provoking se
 #  
 #### SessionID: 19600
 # Optimizing Storage and Performance Using Page and 
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mark S. Rasmussen
 ## Title: Optimizing Storage and Performance Using Page and 
@@ -208,7 +209,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19683
 # Creating SSMS 2012 Add-ins for Crash Test Dummies 
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4 (special)
 ## Speaker: Mark Pryce-Maher
 ## Title: Creating SSMS 2012 Add-ins for Crash Test Dummies 
@@ -221,7 +222,7 @@ This session is for people who have some C# knownledge and want to extend SQL Se
 #  
 #### SessionID: 19782
 # Partitioning Design for Performance and Maintainab
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4 (special)
 ## Speaker: Martin Cairns
 ## Title: Partitioning Design for Performance and Maintainab
@@ -230,7 +231,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4 (special)
 #  
 #### SessionID: 21340
 # Extended Events – New Age of Profiling
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Neil Hambly
 ## Title: Extended Events – New Age of Profiling
@@ -239,7 +240,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21898
 # I work with SQL why should I care about SharePoint
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4 (special)
 ## Speaker: Peter Baddeley
 ## Title: I work with SQL why should I care about SharePoint
@@ -248,7 +249,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4 (special)
 #  
 #### SessionID: 22116
 # XML: The Marmite of SQL Server
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4 (special)
 ## Speaker: Phil Quinn
 ## Title: XML: The Marmite of SQL Server
@@ -257,7 +258,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4 (special)
 #  
 #### SessionID: 23301
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -266,7 +267,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 26952
 # 2 AM. A Disaster just began...
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Tobiasz Koprowski
 ## Title: 2 AM. A Disaster just began...
@@ -275,7 +276,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 26955
 # Welcome to the Licensing Nightmare
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4 (special)
 ## Speaker: Tobiasz Koprowski
 ## Title: Welcome to the Licensing Nightmare
@@ -284,7 +285,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4 (special)
 #  
 #### SessionID: 27075
 # Improving DB Development with SQL Source Control
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Red Gate
 ## Title: Improving DB Development with SQL Source Control
@@ -293,7 +294,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 8919
 # T-SQL : Bad Habits and Best Practices
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits and Best Practices
@@ -312,7 +313,7 @@ code.
 #  
 #### SessionID: 9216
 # Merge-tastic: a better way of loading dimensions
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Alex Whittles
 ## Title: Merge-tastic: a better way of loading dimensions
@@ -321,7 +322,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 9304
 # SQL Server 2012 SSIS Change Data Capture
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Allan Mitchell
 ## Title: SQL Server 2012 SSIS Change Data Capture
@@ -333,7 +334,7 @@ We therefore need to plan our data movement strategy better.  In this session I 
 #  
 #### SessionID: 9462
 # Practical PoSh – Design and build larger scripts
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: André Kamman
 ## Title: Practical PoSh – Design and build larger scripts
@@ -342,7 +343,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9528
 # Designing an SSIS Framework 
-#### [Back to calendar](#SQLSaturday-#162-Cambridge-2012)
+#### [Back to calendar](#nr-162)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andy Leonard
 ## Title: Designing an SSIS Framework 

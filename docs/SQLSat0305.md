@@ -1,3 +1,4 @@
+#### Nr: 305
 #### [Back to Main list](index.md)
 # SQLSaturday #305 - Dallas - BA Edition 2014
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10616
 # Integrating Power BI Technologies with HDInsight
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Information Delivery
 ## Speaker: Blake Price
 ## Title: Integrating Power BI Technologies with HDInsight
@@ -38,7 +39,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Information Delivery
 #  
 #### SessionID: 10754
 # Build Analytics Models with Excel Power Pivot
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Power BI
 ## Speaker: Brian Gogle
 ## Title: Build Analytics Models with Excel Power Pivot
@@ -47,7 +48,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Power BI
 #  
 #### SessionID: 11037
 # Natural Language Query in Power BI
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Visualization  Analytics
 ## Speaker: Bryan Smith
 ## Title: Natural Language Query in Power BI
@@ -56,7 +57,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Visualization  Analytic
 #  
 #### SessionID: 11038
 # Finding and Cleansing Data with Excel Power Query
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Power BI
 ## Speaker: Bryan Smith
 ## Title: Finding and Cleansing Data with Excel Power Query
@@ -65,7 +66,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Power BI
 #  
 #### SessionID: 11039
 # Overcoming Complex Data Cleansing Challenges with Excel Power Query
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Power BI
 ## Speaker: Bryan Smith
 ## Title: Overcoming Complex Data Cleansing Challenges with Excel Power Query
@@ -74,7 +75,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Power BI
 #  
 #### SessionID: 11825
 # How to Train your business users to create their own BI reports?
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Visualization  Analytics
 ## Speaker: Paras Doshi
 ## Title: How to Train your business users to create their own BI reports?
@@ -83,7 +84,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Visualization  Analytic
 #  
 #### SessionID: 12139
 # Data Discovery and Insights using Excel 2013 Power BI
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Visualization  Analytics
 ## Speaker: Derek Dai
 ## Title: Data Discovery and Insights using Excel 2013 Power BI
@@ -92,7 +93,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Visualization  Analytic
 #  
 #### SessionID: 12894
 # Enterprise Business Intelligence: Past, Present and Future
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Visualization  Analytics
 ## Speaker: David Browne
 ## Title: Enterprise Business Intelligence: Past, Present and Future
@@ -101,7 +102,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Visualization  Analytic
 #  
 #### SessionID: 13364
 # Using Mahout  R to Turn Text into Measurable Value
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Big Data
 ## Speaker: Don Hilborn
 ## Title: Using Mahout  R to Turn Text into Measurable Value
@@ -110,7 +111,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Big Data
 #  
 #### SessionID: 13783
 # An Introduction to Hadoop
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Big Data
 ## Speaker: Eric Mizell
 ## Title: An Introduction to Hadoop
@@ -119,7 +120,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Big Data
 #  
 #### SessionID: 15579
 # Modern Data Warehousing
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Big Data
 ## Speaker: James Serra
 ## Title: Modern Data Warehousing
@@ -128,7 +129,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Big Data
 #  
 #### SessionID: 16872
 # Self-Service Data Visualizations with Excel Power View
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Power BI
 ## Speaker: Jeff Johnston
 ## Title: Self-Service Data Visualizations with Excel Power View
@@ -138,7 +139,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Power BI
 #  
 #### SessionID: 17520
 # Time Intelligence with Excel Power Pivot
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Power BI
 ## Speaker: Josh George
 ## Title: Time Intelligence with Excel Power Pivot
@@ -147,7 +148,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Power BI
 #  
 #### SessionID: 19194
 # Don’t Miss Out on Excel Cube Functions
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Visualization  Analytics
 ## Speaker: Meagan Longoria
 ## Title: Don’t Miss Out on Excel Cube Functions
@@ -156,7 +157,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Visualization  Analytic
 #  
 #### SessionID: 19195
 # Choose Your Geospatial/Mapping Adventure
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Visualization  Analytics
 ## Speaker: Meagan Longoria
 ## Title: Choose Your Geospatial/Mapping Adventure
@@ -165,7 +166,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Visualization  Analytic
 #  
 #### SessionID: 19508
 # Tell Better Stories with Microsoft BI and PowerMap
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Power BI
 ## Speaker: marek koenig
 ## Title: Tell Better Stories with Microsoft BI and PowerMap
@@ -174,7 +175,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Power BI
 #  
 #### SessionID: 22968
 # Data Lake and Interactive Query In Hadoop
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Big Data
 ## Speaker: Rommel Garcia
 ## Title: Data Lake and Interactive Query In Hadoop
@@ -183,7 +184,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Big Data
 #  
 #### SessionID: 23684
 # SSIS project deployments with multiple developers
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Information Delivery
 ## Speaker: Russel Loski
 ## Title: SSIS project deployments with multiple developers
@@ -195,7 +196,7 @@ In this session I demonstrate common problems that arise in the package developm
 #  
 #### SessionID: 24578
 # Breakthrough Performance for Big Data Analytics - An Introduction to PDW
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Information Delivery
 ## Speaker: Sanjay Kaul
 ## Title: Breakthrough Performance for Big Data Analytics - An Introduction to PDW
@@ -204,7 +205,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Information Delivery
 #  
 #### SessionID: 26527
 # Dimensional Modeling 101
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Information Delivery
 ## Speaker: Thomas LeBlanc
 ## Title: Dimensional Modeling 101
@@ -213,7 +214,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Information Delivery
 #  
 #### SessionID: 26799
 # Pro Tips:  Tuning the data flow in SSIS
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Information Delivery
 ## Speaker: Tim Costello
 ## Title: Pro Tips:  Tuning the data flow in SSIS
@@ -222,7 +223,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Information Delivery
 #  
 #### SessionID: 28166
 # Data Manipulation with Pig
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Big Data
 ## Speaker: Wesley Floyd
 ## Title: Data Manipulation with Pig
@@ -234,7 +235,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Big Data
 #  
 #### SessionID: 8930
 # Configuring Security in SharePoint for SQL BI
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Information Delivery
 ## Speaker: Abhishek Srivastava
 ## Title: Configuring Security in SharePoint for SQL BI
@@ -255,7 +256,7 @@ The objective of this session is to clarify
 #  
 #### SessionID: 9972
 # Applied Predictive Analytics
-#### [Back to calendar](#SQLSaturday-#305-Dallas-BA-Edition-2014)
+#### [Back to calendar](#nr-305)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Visualization  Analytics
 ## Speaker: Andy Eggers
 ## Title: Applied Predictive Analytics

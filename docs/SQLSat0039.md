@@ -1,3 +1,4 @@
+#### Nr: 39
 #### [Back to Main list](index.md)
 # SQLSaturday #39 - New York City 2010
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28517
 # Performance Tuning Analysis Services
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room B
 ## Speaker: Adam Jorgensen
 ## Title: Performance Tuning Analysis Services
@@ -38,7 +39,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room B
 #  
 #### SessionID: 28518
 # Zero to Cube in 60 Minutes
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room B
 ## Speaker: Adam Jorgensen
 ## Title: Zero to Cube in 60 Minutes
@@ -47,7 +48,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room B
 #  
 #### SessionID: 28649
 # Self-Service Business Intelligence-MS PowerPivot
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room B
 ## Speaker: Andrew Brust
 ## Title: Self-Service Business Intelligence-MS PowerPivot
@@ -56,7 +57,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room B
 #  
 #### SessionID: 28652
 # Introduction to Incremental Loads
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room A
 ## Speaker: Andy Leonard
 ## Title: Introduction to Incremental Loads
@@ -65,7 +66,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room A
 #  
 #### SessionID: 28653
 # Applied SSIS Design Patterns
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room A
 ## Speaker: Andy Leonard
 ## Title: Applied SSIS Design Patterns
@@ -74,7 +75,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room A
 #  
 #### SessionID: 29553
 # A complete BI project in 90 minutes or less
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room B
 ## Speaker: Charles Hyman
 ## Title: A complete BI project in 90 minutes or less
@@ -83,7 +84,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room B
 #  
 #### SessionID: 29554
 # Whats involved in getting certified, Q  A Session
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room E
 ## Speaker: Charles Hyman
 ## Title: Whats involved in getting certified, Q  A Session
@@ -92,7 +93,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room E
 #  
 #### SessionID: 29806
 # Response Time Analysis of SQL Server Performance 
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room D
 ## Speaker: David Waugh
 ## Title: Response Time Analysis of SQL Server Performance 
@@ -102,7 +103,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room D
 #  
 #### SessionID: 29834
 # Delivering Rapid Business Value with Microsoft BI 
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room B
 ## Speaker: Derek Comingore
 ## Title: Delivering Rapid Business Value with Microsoft BI 
@@ -112,7 +113,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room B
 #  
 #### SessionID: 29836
 # SQL Server PowerPivot for IT Pros 
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room A
 ## Speaker: Derek Comingore
 ## Title: SQL Server PowerPivot for IT Pros 
@@ -121,7 +122,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room A
 #  
 #### SessionID: 29944
 # Introduction to MSSQL Server 2008 R2 StreamInsight
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room E
 ## Speaker: Don Demsak
 ## Title: Introduction to MSSQL Server 2008 R2 StreamInsight
@@ -130,7 +131,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room E
 #  
 #### SessionID: 30265
 # More Unecessary Query Tuning
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room A
 ## Speaker: Grant Fritchey
 ## Title: More Unecessary Query Tuning
@@ -139,7 +140,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room A
 #  
 #### SessionID: 31010
 # Dallas: Microsoft's Data Marketplace
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room D
 ## Speaker: Jim O'Neil
 ## Title: Dallas: Microsoft's Data Marketplace
@@ -148,7 +149,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room D
 #  
 #### SessionID: 31353
 # Building an OLAP cube with SSAS 2008 
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room D
 ## Speaker: Kevin Goff
 ## Title: Building an OLAP cube with SSAS 2008 
@@ -157,7 +158,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room D
 #  
 #### SessionID: 31357
 # SSRS 2008 and R2 Report Gallery 
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room A
 ## Speaker: Kevin Goff
 ## Title: SSRS 2008 and R2 Report Gallery 
@@ -166,7 +167,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room A
 #  
 #### SessionID: 31622
 # Developing with SQL Azure
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room C
 ## Speaker: Matt Van Horn
 ## Title: Developing with SQL Azure
@@ -175,7 +176,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room C
 #  
 #### SessionID: 31623
 # SSRS Interactive Reports
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room D
 ## Speaker: Matt Van Horn
 ## Title: SSRS Interactive Reports
@@ -184,7 +185,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room D
 #  
 #### SessionID: 32188
 # A step back in time - Temporal Database Designs
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room C
 ## Speaker: Paul Nielsen
 ## Title: A step back in time - Temporal Database Designs
@@ -193,7 +194,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room C
 #  
 #### SessionID: 32631
 # SQL Server 2008 Reporting Services Programming
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room C
 ## Speaker: Roman Rehak
 ## Title: SQL Server 2008 Reporting Services Programming
@@ -204,7 +205,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room C
 #  
 #### SessionID: 32838
 # Easy Integration without SSIS - Using MS PowerShel
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room C
 ## Speaker: Scott Weinstein
 ## Title: Easy Integration without SSIS - Using MS PowerShel
@@ -213,7 +214,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room C
 #  
 #### SessionID: 33062
 # SQL Server 2008 Audit
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room D
 ## Speaker: Thomas LaRock
 ## Title: SQL Server 2008 Audit
@@ -222,7 +223,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room D
 #  
 #### SessionID: 33264
 # Visualize your data on Maps  Charts: SSRS 2008 R2
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room E
 ## Speaker: Sunil Kadimdiwan
 ## Title: Visualize your data on Maps  Charts: SSRS 2008 R2
@@ -231,7 +232,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room E
 #  
 #### SessionID: 33718
 # 3rd Key Normal Form: That's crazy talk!!! 
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room E
 ## Speaker: Thomas LeBlanc
 ## Title: 3rd Key Normal Form: That's crazy talk!!! 
@@ -243,7 +244,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room E
 #  
 #### SessionID: 33843
 # Building a BI Web Portal with SSRS, SSAS, ASP.NET
-#### [Back to calendar](#SQLSaturday-#39-New-York-City-2010)
+#### [Back to calendar](#nr-39)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Room C
 ## Speaker: Slava Kokaev
 ## Title: Building a BI Web Portal with SSRS, SSAS, ASP.NET

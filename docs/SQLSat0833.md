@@ -1,3 +1,4 @@
+#### Nr: 833
 #### [Back to Main list](index.md)
 # SQLSaturday #833 - Mexico 2019
 Start Time (24h)|Speaker|Track|Title
@@ -42,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 87890
 # Business Intelligence - Step by Step
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: Business Intelligence - Step by Step
@@ -51,7 +52,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89650
 # Experto, rockstar, falso, promedio... el sindrome impostor
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Enrique Argüelles
 ## Title: Experto, rockstar, falso, promedio... el sindrome impostor
@@ -63,7 +64,7 @@ Cuestionamos nuestros conocimientos, los actualizamos.
 #  
 #### SessionID: 90332
 # Consumiendo una base datos SQL Server desde una app móvil
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Humberto Jaimes
 ## Title: Consumiendo una base datos SQL Server desde una app móvil
@@ -72,7 +73,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 92924
 # Fin de soporte extendido para SQL Server 2008, ¿cuáles son mis opciones?
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Fernando Sibaja Araya
 ## Title: Fin de soporte extendido para SQL Server 2008, ¿cuáles son mis opciones?
@@ -82,7 +83,7 @@ Abordaremos las respuestas técnicas y de licenciamiento.
 #  
 #### SessionID: 93704
 # Integracion de Power BI con R
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Raul Sao
 ## Title: Integracion de Power BI con R
@@ -91,7 +92,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 93968
 # Dr Rudo SQL presenta: EOS - Migrando SQL on premise hacia Azure SQL DB
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Dr Rudo SQL presenta: EOS - Migrando SQL on premise hacia Azure SQL DB
@@ -100,7 +101,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 87968
 # Data hardening with intelligent information protection and governance
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Vladimir Medina
 ## Title: Data hardening with intelligent information protection and governance
@@ -109,7 +110,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 89074
 # Exploring Azure Bot Service in Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Keneth Murillo
 ## Title: Exploring Azure Bot Service in Microsoft Azure
@@ -118,7 +119,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 91783
 # Necesito implementar Power BI en mi empresa ¿por donde empiezo?
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Necesito implementar Power BI en mi empresa ¿por donde empiezo?
@@ -127,7 +128,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 91791
 # El estimador de cardinalidad, nuestro amigo incomprendido
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Daniel Valero
 ## Title: El estimador de cardinalidad, nuestro amigo incomprendido
@@ -138,7 +139,7 @@ La respuesta a estas y otras interrogantes en esta sesión completamente basada 
 #  
 #### SessionID: 92590
 # El Data Warehouse y su importancia en nuestras soluciones de Inteligencia de Negocios
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: El Data Warehouse y su importancia en nuestras soluciones de Inteligencia de Negocios
@@ -148,7 +149,7 @@ En esta sesión abordaremos el Data Warehouse y mostraremos la importancia que �
 #  
 #### SessionID: 87889
 # BI DevOps 01 - Intro a SQL Server  TFS
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: BI DevOps 01 - Intro a SQL Server  TFS
@@ -157,7 +158,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 91936
 # ENCONTRANDO EL ORIGEN DEL PROBLEMA
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: PABLO JAVIER FERNANDEZ
 ## Title: ENCONTRANDO EL ORIGEN DEL PROBLEMA
@@ -170,7 +171,7 @@ Además...olvídate completamente de reiniciar el servidor para "solucionar" el 
 #  
 #### SessionID: 93831
 # Lo nuevo de Power BI
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Juan Alvarado
 ## Title: Lo nuevo de Power BI
@@ -179,7 +180,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 93834
 # Minando datos con SQL Server 2019 (una introducción a Data Mining
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Jesus Gil
 ## Title: Minando datos con SQL Server 2019 (una introducción a Data Mining
@@ -188,7 +189,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 93846
 # SQL Server Secure Enclaves
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eduardo Castro
 ## Title: SQL Server Secure Enclaves
@@ -197,7 +198,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 89075
 # Azure Log Analytics
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Keneth Murillo
 ## Title: Azure Log Analytics
@@ -206,7 +207,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 91792
 # Dividiendo el problema: Particionamiento
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Daniel Valero
 ## Title: Dividiendo el problema: Particionamiento
@@ -216,7 +217,7 @@ En esta sesión con muy pocas laminas vamos a ver el proceso completo del ciclo 
 #  
 #### SessionID: 93894
 # Ciencia de datos, implementado modelos de clasificación con Python
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ahias Portillo
 ## Title: Ciencia de datos, implementado modelos de clasificación con Python
@@ -229,7 +230,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 94107
 # ¡Data Discovery con R y PBI! ¿Qué es? y ¿Por qué es importante?
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Ricardo Estrada
 ## Title: ¡Data Discovery con R y PBI! ¿Qué es? y ¿Por qué es importante?
@@ -242,7 +243,7 @@ Herramientas que utilzaremos:
 #  
 #### SessionID: 94236
 # SQL Server 2017 Tablas en memoria desde cada #225;ngulo para mejoras del desempeño
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2017 Tablas en memoria desde cada #225;ngulo para mejoras del desempeño
@@ -253,7 +254,7 @@ Desde el punto de vista del Arquitecto, en que ocaciones me puede ser #250;til e
 #  
 #### SessionID: 93608
 # Desarrollo de aplicaciones a escala planetaria en Azure Cosmos DB
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Hassan Arteaga
 ## Title: Desarrollo de aplicaciones a escala planetaria en Azure Cosmos DB
@@ -268,7 +269,7 @@ Para los desarrolladores les resultará muy interesante la presentación de ejem
 #  
 #### SessionID: 93663
 # LA FORMA (IN)CORRECTA DE HACER TESTING EN SQL SERVER
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: PABLO JAVIER FERNANDEZ
 ## Title: LA FORMA (IN)CORRECTA DE HACER TESTING EN SQL SERVER
@@ -283,7 +284,7 @@ Esta sesión te mostrará los caminos adecuados para potenciar tus técnicas de 
 #  
 #### SessionID: 93705
 # Introduccion a Machine Learning
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Raul Sao
 ## Title: Introduccion a Machine Learning
@@ -292,7 +293,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 93908
 # Generation of workflows with Microsoft Flow And PowerBI
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Samantha Villarreal Torres
 ## Title: Generation of workflows with Microsoft Flow And PowerBI
@@ -301,7 +302,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 93932
 # Utiizando Microsoft Assestment and Planning toolkit MAP para planear tu migración a Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Fernando Jacinto Alvarez
 ## Title: Utiizando Microsoft Assestment and Planning toolkit MAP para planear tu migración a Microsoft Azure
@@ -311,7 +312,7 @@ The MAP Toolkit helps you create an inventory of all the SQL Server installation
 #  
 #### SessionID: 92310
 # Un vistazo a SQL Server 2019 Big Data Cluster
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Fernando Sibaja Araya
 ## Title: Un vistazo a SQL Server 2019 Big Data Cluster
@@ -324,7 +325,7 @@ Daremos un vistazo a la arquitectura general y mostraremos ejemplos de cómo int
 #  
 #### SessionID: 93832
 # Power BI avanzado: El poder de Power BI con Inteligencia artificial , Flow y Data Lakes
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Juan Alvarado
 ## Title: Power BI avanzado: El poder de Power BI con Inteligencia artificial , Flow y Data Lakes
@@ -333,7 +334,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 93833
 # Arquitecturas Verdes
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Miguel Angel Granados
 ## Title: Arquitecturas Verdes
@@ -342,7 +343,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 93847
 # SQL Server in Azure Secure Networking
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eduardo Castro
 ## Title: SQL Server in Azure Secure Networking
@@ -351,7 +352,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93852
 # Reinforce Learning for image recommender systems
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Eduardo Castro
 ## Title: Reinforce Learning for image recommender systems
@@ -360,7 +361,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 94235
 # SQL Server 2017: Estrategias de Indexación para alto desempeño
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2017: Estrategias de Indexación para alto desempeño
@@ -373,7 +374,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 90331
 # Introducción a los Micro ORMs en .NET
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Humberto Jaimes
 ## Title: Introducción a los Micro ORMs en .NET
@@ -384,7 +385,7 @@ Además de revisar algunos de los llamados Micro ORM que están disponibles para
 #  
 #### SessionID: 91784
 # Self-service data preparation con Power BI
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Self-service data preparation con Power BI
@@ -393,7 +394,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93895
 # Estadísticas para ciencia de datos, amasando los datos con R
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ahias Portillo
 ## Title: Estadísticas para ciencia de datos, amasando los datos con R
@@ -404,7 +405,7 @@ Una de las primeras etapas del descubrimiento de la información es el preproces
 #  
 #### SessionID: 94104
 # ¡Como hacer BI para Startups… y ganar dinero en el proceso!
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Ricardo Estrada
 ## Title: ¡Como hacer BI para Startups… y ganar dinero en el proceso!
@@ -413,7 +414,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 94240
 # Cómo analizar datos en Power BI con Dynamics, Project y SharePoint sin morir en el intento!
-#### [Back to calendar](#SQLSaturday-#833-Mexico-2019)
+#### [Back to calendar](#nr-833)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Milange Rivero
 ## Title: Cómo analizar datos en Power BI con Dynamics, Project y SharePoint sin morir en el intento!

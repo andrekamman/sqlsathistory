@@ -1,3 +1,4 @@
+#### Nr: 277
 #### [Back to Main list](index.md)
 # SQLSaturday #277 - Richmond 2014
 Start Time (24h)|Speaker|Track|Title
@@ -38,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10085
 # SQL Server Internals Party: Storage, Memory and the Query Life-cycle
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #5 (Dev)
 ## Speaker: Ayman El-Ghazali
 ## Title: SQL Server Internals Party: Storage, Memory and the Query Life-cycle
@@ -47,7 +48,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #5 (Dev)
 #  
 #### SessionID: 10689
 # Treating Tables Like Legos, Partitioning Basics
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #5 (Dev)
 ## Speaker: Brandon Leach
 ## Title: Treating Tables Like Legos, Partitioning Basics
@@ -56,7 +57,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #5 (Dev)
 #  
 #### SessionID: 10690
 # Wrangling performance with Resource Governor
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #6 (Misc)
 ## Speaker: Brandon Leach
 ## Title: Wrangling performance with Resource Governor
@@ -65,7 +66,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #6 (Misc)
 #  
 #### SessionID: 10841
 # SQL 2012 Extended Events
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #7 (Misc)
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Extended Events
@@ -74,7 +75,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #7 (Misc)
 #  
 #### SessionID: 10842
 # SQL 2012 Table Compression
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #7 (Misc)
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Table Compression
@@ -83,7 +84,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #7 (Misc)
 #  
 #### SessionID: 11185
 # Judge, Jury,  and Executioner--A First Look At Execution Plans
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #4 (DBA)
 ## Speaker: Carlos L Chacon
 ## Title: Judge, Jury,  and Executioner--A First Look At Execution Plans
@@ -92,7 +93,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #4 (DBA)
 #  
 #### SessionID: 11187
 # Database Performance Analyzer
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #4 (DBA)
 ## Speaker: Carlos L Chacon
 ## Title: Database Performance Analyzer
@@ -101,7 +102,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #4 (DBA)
 #  
 #### SessionID: 11265
 # The Spy Who Loathed Me - An Intro to SQL Security
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #5 (Dev)
 ## Speaker: Chris Bell
 ## Title: The Spy Who Loathed Me - An Intro to SQL Security
@@ -110,7 +111,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #5 (Dev)
 #  
 #### SessionID: 11541
 # Check Engine Lights
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #7 (Misc)
 ## Speaker: Chris Skorlinski
 ## Title: Check Engine Lights
@@ -119,7 +120,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #7 (Misc)
 #  
 #### SessionID: 11542
 # Your Best Interview Ever
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #3 (Pro Dev)
 ## Speaker: Chris Skorlinski
 ## Title: Your Best Interview Ever
@@ -129,7 +130,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #3 (Pro Dev)
 #  
 #### SessionID: 12423
 # Database Performance Monitoring with Spotlight on SQL Server Enterprise
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #7 (Misc)
 ## Speaker: David Orlandi
 ## Title: Database Performance Monitoring with Spotlight on SQL Server Enterprise
@@ -146,7 +147,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #7 (Misc)
 #  
 #### SessionID: 13412
 # Congrats on your promotion to DBA, now what?
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #3 (Pro Dev)
 ## Speaker: Doug Purnell
 ## Title: Congrats on your promotion to DBA, now what?
@@ -155,7 +156,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #3 (Pro Dev)
 #  
 #### SessionID: 13478
 # How to Write a DML Trigger
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #6 (Misc)
 ## Speaker: Louis Davidson
 ## Title: How to Write a DML Trigger
@@ -164,7 +165,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #6 (Misc)
 #  
 #### SessionID: 14194
 # T-SQL Anti-Patterns
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #7 (Misc)
 ## Speaker: Kevin Feasel
 ## Title: T-SQL Anti-Patterns
@@ -173,7 +174,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #7 (Misc)
 #  
 #### SessionID: 14477
 # Using Expressions to Avoid Three SSRS Annoyances
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #1 (BI)
 ## Speaker: Geoff Johnson
 ## Title: Using Expressions to Avoid Three SSRS Annoyances
@@ -182,7 +183,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #1 (BI)
 #  
 #### SessionID: 14955
 # Basic Monitoring with Perfmon
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #7 (Misc)
 ## Speaker: Rick Heiges
 ## Title: Basic Monitoring with Perfmon
@@ -191,7 +192,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #7 (Misc)
 #  
 #### SessionID: 14956
 # Community and Cool Stuff
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #4 (DBA)
 ## Speaker: Rick Heiges
 ## Title: Community and Cool Stuff
@@ -200,7 +201,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #4 (DBA)
 #  
 #### SessionID: 15907
 # DataViz You Thought You Couldn't Do with SSRS
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #1 (BI)
 ## Speaker: Jason Thomas
 ## Title: DataViz You Thought You Couldn't Do with SSRS
@@ -209,7 +210,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #1 (BI)
 #  
 #### SessionID: 16668
 # Data Warehouse ETL Rollback with SSIS 2012
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #1 (BI)
 ## Speaker: Jessica Moss
 ## Title: Data Warehouse ETL Rollback with SSIS 2012
@@ -218,7 +219,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #1 (BI)
 #  
 #### SessionID: 17680
 # 12 Steps to Workload Tuning
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #6 (Misc)
 ## Speaker: John Sterrett
 ## Title: 12 Steps to Workload Tuning
@@ -227,7 +228,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #6 (Misc)
 #  
 #### SessionID: 17681
 # Automate your daily checklist with PBM and CMS
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #5 (Dev)
 ## Speaker: John Sterrett
 ## Title: Automate your daily checklist with PBM and CMS
@@ -236,7 +237,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #5 (Dev)
 #  
 #### SessionID: 20210
 # Making Predictions with Microsoft Data Mining Tools
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #2 (BI)
 ## Speaker: Mark Hudson
 ## Title: Making Predictions with Microsoft Data Mining Tools
@@ -245,7 +246,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #2 (BI)
 #  
 #### SessionID: 20728
 # Practical SQL: High Availability and Disaster Recovery for SQL Server
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #5 (Dev)
 ## Speaker: Mike Sullivan
 ## Title: Practical SQL: High Availability and Disaster Recovery for SQL Server
@@ -254,7 +255,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #5 (Dev)
 #  
 #### SessionID: 22648
 # SSIS Templates Can Make Your Life Easier
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #2 (BI)
 ## Speaker: Brian Davis
 ## Title: SSIS Templates Can Make Your Life Easier
@@ -263,7 +264,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #2 (BI)
 #  
 #### SessionID: 22946
 # ETL Architecture Chekup: Avoiding Costly Mistakes
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #2 (BI)
 ## Speaker: Rafael Salas
 ## Title: ETL Architecture Chekup: Avoiding Costly Mistakes
@@ -273,7 +274,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #2 (BI)
 #  
 #### SessionID: 24938
 # Administering  Managing the Power BI Environment
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #2 (BI)
 ## Speaker: Melissa Coates
 ## Title: Administering  Managing the Power BI Environment
@@ -282,7 +283,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #2 (BI)
 #  
 #### SessionID: 26670
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #4 (DBA)
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -291,7 +292,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #4 (DBA)
 #  
 #### SessionID: 26819
 # Floating on a Hybrid Cloud: SQL Server 2014  Windows Azure 
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #2 (BI)
 ## Speaker: Timothy McAliley
 ## Title: Floating on a Hybrid Cloud: SQL Server 2014  Windows Azure 
@@ -300,7 +301,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #2 (BI)
 #  
 #### SessionID: 27513
 # Inside of Indexes
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #4 (DBA)
 ## Speaker: Slava Murygin
 ## Title: Inside of Indexes
@@ -309,7 +310,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #4 (DBA)
 #  
 #### SessionID: 27734
 # Crazy Things That Developers Do
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #6 (Misc)
 ## Speaker: Wayne Sheffield
 ## Title: Crazy Things That Developers Do
@@ -318,7 +319,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #6 (Misc)
 #  
 #### SessionID: 9159
 # Squeezing the Most out of Row  Page Compression
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #4 (DBA)
 ## Speaker: Andrew Kelly
 ## Title: Squeezing the Most out of Row  Page Compression
@@ -327,7 +328,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #4 (DBA)
 #  
 #### SessionID: 9534
 # Using BIML as an SSIS Design Patterns Engine 
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #1 (BI)
 ## Speaker: Andy Leonard
 ## Title: Using BIML as an SSIS Design Patterns Engine 
@@ -336,7 +337,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #1 (BI)
 #  
 #### SessionID: 9535
 # Hacking the SSIS 2012 Catalog
-#### [Back to calendar](#SQLSaturday-#277-Richmond-2014)
+#### [Back to calendar](#nr-277)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track #1 (BI)
 ## Speaker: Andy Leonard
 ## Title: Hacking the SSIS 2012 Catalog

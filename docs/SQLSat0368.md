@@ -1,3 +1,4 @@
+#### Nr: 368
 #### [Back to Main list](index.md)
 # SQLSaturday #368 - Costa Rica 2015
 Start Time (24h)|Speaker|Track|Title
@@ -44,7 +45,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11200
 # "I Know What You Did Last Query" --SQL Server
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola D
 ## Speaker: Carlos L Chacon
 ## Title: "I Know What You Did Last Query" --SQL Server
@@ -53,7 +54,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola D
 #  
 #### SessionID: 11219
 # Introducción a SSIS, lo que necesitas saber para iniciar a trabajar con SSIS
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 1
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Introducción a SSIS, lo que necesitas saber para iniciar a trabajar con SSIS
@@ -63,7 +64,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 1
 #  
 #### SessionID: 16704
 # Los 10 mandamientos de Jesus
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola A
 ## Speaker: Jesus Gil Velasco
 ## Title: Los 10 mandamientos de Jesus
@@ -73,7 +74,7 @@ Esta charla te hablara de los 10 mandamientos que todo buen DBA debe de conocer 
 #  
 #### SessionID: 17276
 # Servicios de datos en Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola C
 ## Speaker: John Alexander Bulla Torres
 ## Title: Servicios de datos en Microsoft Azure
@@ -82,7 +83,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola C
 #  
 #### SessionID: 20133
 # Primeros pasos en modelos Multidimensionales con Analysis Services
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola B
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Primeros pasos en modelos Multidimensionales con Analysis Services
@@ -91,7 +92,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola B
 #  
 #### SessionID: 22627
 # Iniciando con CLR Integration. Desde la visión del desarrollador.
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Presidencial
 ## Speaker: Randall Barnett
 ## Title: Iniciando con CLR Integration. Desde la visión del desarrollador.
@@ -100,7 +101,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Presidencial
 #  
 #### SessionID: 27618
 # Si soy un desarrollador, ¿qué debo conocer de SQL Server?
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 2
 ## Speaker: Walter Montes
 ## Title: Si soy un desarrollador, ¿qué debo conocer de SQL Server?
@@ -109,7 +110,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 2
 #  
 #### SessionID: 13221
 # Advanced SSIS Techniques
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola C
 ## Speaker: David Dye
 ## Title: Advanced SSIS Techniques
@@ -130,7 +131,7 @@ Upon completion of this workshop attendees will be able to:
 #  
 #### SessionID: 16018
 # Sistemas Inteligentes para soluciones Financieras
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola B
 ## Speaker: Javier Loria
 ## Title: Sistemas Inteligentes para soluciones Financieras
@@ -139,7 +140,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola B
 #  
 #### SessionID: 16134
 # SQL Server 2014 Columnstore indexes: Tu data warehouse a todo rock !
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola D
 ## Speaker: Jose Chinchilla
 ## Title: SQL Server 2014 Columnstore indexes: Tu data warehouse a todo rock !
@@ -148,7 +149,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola D
 #  
 #### SessionID: 17766
 # Dashboards 2.0 de POWER BI
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola A
 ## Speaker: Juan Alvarado
 ## Title: Dashboards 2.0 de POWER BI
@@ -157,7 +158,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola A
 #  
 #### SessionID: 18092
 # Arquitectura de Microservicios en Azure 
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 1
 ## Speaker: Keneth Murillo
 ## Title: Arquitectura de Microservicios en Azure 
@@ -166,7 +167,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 1
 #  
 #### SessionID: 22320
 # Técnicas de optimización para SSIS
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola C
 ## Speaker: Ricardo Estrada
 ## Title: Técnicas de optimización para SSIS
@@ -175,7 +176,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola C
 #  
 #### SessionID: 9057
 # Análisis de la salud de una base de datos SQL Server
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 2
 ## Speaker: Adrian Miranda
 ## Title: Análisis de la salud de una base de datos SQL Server
@@ -184,7 +185,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 2
 #  
 #### SessionID: 11890
 # Analíticas Avanzadas para Tomadores de Decisiones
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 2
 ## Speaker: César Oviedo
 ## Title: Analíticas Avanzadas para Tomadores de Decisiones
@@ -193,7 +194,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 2
 #  
 #### SessionID: 12053
 # SQL Server Backup to Azure
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 1
 ## Speaker: Christian Sanabria Jiménez
 ## Title: SQL Server Backup to Azure
@@ -206,7 +207,7 @@ También revisaremos que pasa con versiones anteriores de SQL Server que no tien
 #  
 #### SessionID: 17769
 # Lo nuevo de PowerMap
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Juan Alvarado
 ## Title: Lo nuevo de PowerMap
@@ -215,7 +216,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 27509
 # SharePoint for SQL DBAs
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola C
 ## Speaker: Vladimir Medina
 ## Title: SharePoint for SQL DBAs
@@ -224,7 +225,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola C
 #  
 #### SessionID: 9194
 # SQL Server 2014 EIM. Confiabilidad, consistencia y credibilidad de los  datos
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola B
 ## Speaker: Luis Alberto Rivera Tavera
 ## Title: SQL Server 2014 EIM. Confiabilidad, consistencia y credibilidad de los  datos
@@ -233,7 +234,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola B
 #  
 #### SessionID: 9459
 # Alta disponibilidad en SQL Server
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola D
 ## Speaker: Andrei Garzon
 ## Title: Alta disponibilidad en SQL Server
@@ -242,7 +243,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola D
 #  
 #### SessionID: 11864
 # Delayed durability from an application perspective
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 1
 ## Speaker: Alejandro Cordero
 ## Title: Delayed durability from an application perspective
@@ -251,7 +252,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 1
 #  
 #### SessionID: 16945
 # A differentiated approach for processing OLAP cubes dynamically
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 2
 ## Speaker: Juan Luis Quirós Venegas
 ## Title: A differentiated approach for processing OLAP cubes dynamically
@@ -260,7 +261,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 2
 #  
 #### SessionID: 19791
 # Asegurando la Calidad del dato en nuestros entornos de BI
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola B
 ## Speaker: Mary Arcia
 ## Title: Asegurando la Calidad del dato en nuestros entornos de BI
@@ -269,7 +270,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola B
 #  
 #### SessionID: 25256
 # Nuevas y furturas caracteristicas de Power BI - Power Designer
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola A
 ## Speaker: Stephan Torres
 ## Title: Nuevas y furturas caracteristicas de Power BI - Power Designer
@@ -278,7 +279,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola A
 #  
 #### SessionID: 27384
 # Practical Fundamentals of Query Performance Tuning
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola A
 ## Speaker: Vern Rabe
 ## Title: Practical Fundamentals of Query Performance Tuning
@@ -287,7 +288,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola A
 #  
 #### SessionID: 35934
 # Retos y claves del difícil camino de proporcionar servicios profesionales globalmente
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola D
 ## Speaker: Fernando Guerrero
 ## Title: Retos y claves del difícil camino de proporcionar servicios profesionales globalmente
@@ -297,7 +298,7 @@ Esta sesión es una reflexión personal sobre los retos y claves que hay que con
 #  
 #### SessionID: 12853
 # Configuraciones de SQL Server y SharePoint Server para Soluciones de BI
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola C
 ## Speaker: David Sánchez Aguilar
 ## Title: Configuraciones de SQL Server y SharePoint Server para Soluciones de BI
@@ -306,7 +307,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola C
 #  
 #### SessionID: 13770
 #  Interactuando con MS SQL Server a través de SMO
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola B
 ## Speaker: Erik Veliz
 ## Title:  Interactuando con MS SQL Server a través de SMO
@@ -315,7 +316,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola B
 #  
 #### SessionID: 14343
 # Proceso de Miner#237;a de Datos - como preparar los datos para una me
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Freddy Angarita
 ## Title: Proceso de Miner#237;a de Datos - como preparar los datos para una me
@@ -324,7 +325,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 15142
 # Corruption and what to do with it?
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola A
 ## Speaker: Ignacio Salom Rangel
 ## Title: Corruption and what to do with it?
@@ -333,7 +334,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola A
 #  
 #### SessionID: 16760
 # Always ON de 0 a 100, lecciones aprendidas de la vida real para un DRP
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola D
 ## Speaker: Jesus Gil
 ## Title: Always ON de 0 a 100, lecciones aprendidas de la vida real para un DRP
@@ -344,7 +345,7 @@ Esta sesión es sobre casos de la vida real, lecciones duras aprendidas al imple
 #  
 #### SessionID: 22228
 # Aprendamos sobre el optimizador de Sql Server
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 2
 ## Speaker: Ahias Portillo
 ## Title: Aprendamos sobre el optimizador de Sql Server
@@ -360,7 +361,7 @@ LA sesión estar orientada a presentar los principales conceptos que todos deber
 #  
 #### SessionID: 27202
 # Heredé una base de datos, y ahora que hago?
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 1
 ## Speaker: Kenneth Urena
 ## Title: Heredé una base de datos, y ahora que hago?
@@ -369,7 +370,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 1
 #  
 #### SessionID: 12052
 # SQL-Server Best Practices Analyzer y MAP
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola C
 ## Speaker: Carlos Rojas Vargas
 ## Title: SQL-Server Best Practices Analyzer y MAP
@@ -380,7 +381,7 @@ Con el Microsoft Assessment and Planning Toolkit podemos realizar un inventario 
 #  
 #### SessionID: 14342
 # machine Learning - De principio a fin
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola B
 ## Speaker: Freddy Angarita
 ## Title: machine Learning - De principio a fin
@@ -389,7 +390,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola B
 #  
 #### SessionID: 19961
 # Patrones de búsqueda en rangos con Lookups
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola D
 ## Speaker: Maristel Castro Montero
 ## Title: Patrones de búsqueda en rangos con Lookups
@@ -398,7 +399,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola D
 #  
 #### SessionID: 23568
 # Comparando las DB's de Exchange y SQL
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 2
 ## Speaker: Ruben Dario Pinzon Eraso
 ## Title: Comparando las DB's de Exchange y SQL
@@ -407,7 +408,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 2
 #  
 #### SessionID: 23809
 # From the earth to the cloud...
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Morazan 1
 ## Speaker: Salomón Henríquez
 ## Title: From the earth to the cloud...
@@ -417,7 +418,7 @@ The idea is expose to the audience not only differences between the 2 environmen
 #  
 #### SessionID: 27551
 # Creación de Cubos Tabulares
-#### [Back to calendar](#SQLSaturday-#368-Costa-Rica-2015)
+#### [Back to calendar](#nr-368)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Aurola A
 ## Speaker: Víctor Zúñiga
 ## Title: Creación de Cubos Tabulares

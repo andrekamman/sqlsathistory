@@ -1,3 +1,4 @@
+#### Nr: 544
 #### [Back to Main list](index.md)
 # SQLSaturday #544 - Spartanburg 2016
 Start Time (24h)|Speaker|Track|Title
@@ -41,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 48739
 # Bringing Balance to the SQL Server Force with Resource Governor
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Leach
 ## Title: Bringing Balance to the SQL Server Force with Resource Governor
@@ -52,7 +53,7 @@ Resource Governor is one the most underused features available to enterprise edi
 #  
 #### SessionID: 52638
 # A SQL Developer’s Guide to MDX Basics
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shabnam Watson
 ## Title: A SQL Developer’s Guide to MDX Basics
@@ -63,7 +64,7 @@ In this session we will first explore data organization in SSAS in multidimensio
 #  
 #### SessionID: 48695
 # Building a PowerPivot BI Dashboard
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Vazi Okhandiar
 ## Title: Building a PowerPivot BI Dashboard
@@ -72,7 +73,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 48934
 # Policy Based Management: Introduction and Implementation
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ryan Brickey
 ## Title: Policy Based Management: Introduction and Implementation
@@ -81,7 +82,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49312
 # Query Store Primer
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
@@ -90,7 +91,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50800
 # Getting to know U-SQL
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Azhagappan Arunachalam
 ## Title: Getting to know U-SQL
@@ -99,7 +100,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 52540
 # Creating Access Web Apps with Power BI Integration
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Andy Tabisz
 ## Title: Creating Access Web Apps with Power BI Integration
@@ -109,7 +110,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 53508
 # Surviving Your Peak Database Load
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben DeBow
 ## Title: Surviving Your Peak Database Load
@@ -118,7 +119,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48810
 # Moving Day - Successful SQL Migrations
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Geoff Hiten
 ## Title: Moving Day - Successful SQL Migrations
@@ -128,7 +129,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49127
 # Using Biml as an SSIS Design Patterns Engine 
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Using Biml as an SSIS Design Patterns Engine 
@@ -142,7 +143,7 @@ In this session, you will learn:
 #  
 #### SessionID: 50666
 # Write Queries Faster with AutoHotKey
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Nathan Boster
 ## Title: Write Queries Faster with AutoHotKey
@@ -151,7 +152,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 51055
 # Building Blocks of Cortana Intelligence Suite in Azure
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Melissa Coates
 ## Title: Building Blocks of Cortana Intelligence Suite in Azure
@@ -160,7 +161,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 51125
 # Beginning Azure
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Thomas Norman
 ## Title: Beginning Azure
@@ -169,7 +170,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 49044
 # Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Feasel
 ## Title: Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
@@ -178,7 +179,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49128
 # Use Biml to Automate SSIS Design Patterns
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Use Biml to Automate SSIS Design Patterns
@@ -193,7 +194,7 @@ In this session, you will learn:
 #  
 #### SessionID: 50476
 # Backup Strategies are for Losers...of Data!
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Watson
 ## Title: Backup Strategies are for Losers...of Data!
@@ -202,7 +203,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50520
 # Do Awesome Things with PowerShell in 5 minutes or Less
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Aaron Nelson
 ## Title: Do Awesome Things with PowerShell in 5 minutes or Less
@@ -215,7 +216,7 @@ Get Better, Faster, Stronger with PowerShell  SQL Server.
 #  
 #### SessionID: 51232
 # Automating SQL Server Administration Using SQLCMD
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Justin Randall
 ## Title: Automating SQL Server Administration Using SQLCMD
@@ -227,7 +228,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53558
 # Execution Plans for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
@@ -238,7 +239,7 @@ Reading execution plans becomes much less intimidating as we walk through the fl
 #  
 #### SessionID: 53721
 # Enabling Advanced Data Preparation Capabilities for Your Business
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Rafael Salas
 ## Title: Enabling Advanced Data Preparation Capabilities for Your Business
@@ -250,7 +251,7 @@ In this session we will explore how Power BI can be used to respond to more adva
 #  
 #### SessionID: 49045
 # Introducing Azure ML
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Introducing Azure ML
@@ -259,7 +260,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 49184
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Watson
 ## Title: Introduction to SQL Server Integration Services
@@ -268,7 +269,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 50519
 # Achieve More in Less Time by Using SQLPS
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Aaron Nelson
 ## Title: Achieve More in Less Time by Using SQLPS
@@ -279,7 +280,7 @@ There is a faster way to manage and even SQL Servers using PowerShell.  I will s
 #  
 #### SessionID: 51233
 # SQL Server 2016 In-Memory OLTP for DBAs
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Justin Randall
 ## Title: SQL Server 2016 In-Memory OLTP for DBAs
@@ -291,7 +292,7 @@ In this session we will highlight critical issues in implementing and managing S
 #  
 #### SessionID: 53635
 # Extract, Tranform And Load  - Using R
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Kiran Math
 ## Title: Extract, Tranform And Load  - Using R
@@ -300,7 +301,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 48729
 # Disaster Recovery Where to Begin
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Tracy Boggiano
 ## Title: Disaster Recovery Where to Begin
@@ -309,7 +310,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 48737
 # Partitioning Basics: Treating Your Tables Like Legos
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Brandon Leach
 ## Title: Partitioning Basics: Treating Your Tables Like Legos
@@ -320,7 +321,7 @@ With partitioning, you can break a table or index down into smaller more managea
 #  
 #### SessionID: 48765
 # Using Powershell to Document SQL Server
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Using Powershell to Document SQL Server
@@ -330,7 +331,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 51126
 # Encrypting Data within Sql Server
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within Sql Server
@@ -339,7 +340,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 52558
 # Enterprise Machine Learning with R and SQL Server
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Paco Gonzalez
 ## Title: Enterprise Machine Learning with R and SQL Server
@@ -348,7 +349,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 53636
 # Designing highly flexible PowerShell Scripts
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Eder
 ## Title: Designing highly flexible PowerShell Scripts
@@ -357,7 +358,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48738
 # Data Pages, Allocation Units, IAM chains... Oh My!
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Leach
 ## Title: Data Pages, Allocation Units, IAM chains... Oh My!
@@ -380,7 +381,7 @@ After this session you will understand:
 #  
 #### SessionID: 48795
 # Small Scale Data Collection Using PowerShell -  Going NSA Style!
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Jana Sattainathan
 ## Title: Small Scale Data Collection Using PowerShell -  Going NSA Style!
@@ -389,7 +390,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 50215
 # Seamlessly Scaling Azure SQL DB with Elastic Database Tools
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Silvia Doomra
 ## Title: Seamlessly Scaling Azure SQL DB with Elastic Database Tools
@@ -398,7 +399,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 52549
 # Policy Based Management - Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Keisler
 ## Title: Policy Based Management - Beyond the Basics
@@ -407,7 +408,7 @@ Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 52559
 # Introduction to Artificial Intelligence
-#### [Back to calendar](#SQLSaturday-#544-Spartanburg-2016)
+#### [Back to calendar](#nr-544)
 Event Date: 20-08-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Paco Gonzalez
 ## Title: Introduction to Artificial Intelligence

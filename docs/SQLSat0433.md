@@ -1,3 +1,4 @@
+#### Nr: 433
 #### [Back to Main list](index.md)
 # SQLSaturday #433 - Gothenburg 2015
 Start Time (24h)|Speaker|Track|Title
@@ -24,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 36313
 # Biml for Beginners: Generating SSIS packages with BimlScript
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Generating SSIS packages with BimlScript
@@ -37,7 +38,7 @@ This session is intended for SSIS developers who are not yet familiar with Biml.
 #  
 #### SessionID: 38475
 # Transaction Log Internals and Troubleshooting
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrey Zavadskiy
 ## Title: Transaction Log Internals and Troubleshooting
@@ -47,7 +48,7 @@ We examine the common issues such as full transaction log, how to get rid of mul
 #  
 #### SessionID: 40195
 # Rethink Your Data Model and Make It Super Fast
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Peter Larsson
 ## Title: Rethink Your Data Model and Make It Super Fast
@@ -56,7 +57,7 @@ Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 36984
 # When good SQL design goes bad
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Bob Duffy
 ## Title: When good SQL design goes bad
@@ -77,7 +78,7 @@ Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37665
 # Life saver - Resource Governor for applications  reporting
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Life saver - Resource Governor for applications  reporting
@@ -90,7 +91,7 @@ You can take away working scripts, functions, tools to make a Resource Governor 
 #  
 #### SessionID: 38473
 # A Toolkit for Off-loading Data from Production
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joakim Nyström
 ## Title: A Toolkit for Off-loading Data from Production
@@ -102,7 +103,7 @@ In this session you will be presented to a simple toolkit that will utilize thes
 #  
 #### SessionID: 36387
 # Taming the Beast – How a SQL DBA can keep Kerberos under control
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Postlethwaite
 ## Title: Taming the Beast – How a SQL DBA can keep Kerberos under control
@@ -114,7 +115,7 @@ This talk looks at the principle of Kerberos, how it applies to SQL Server and w
 #  
 #### SessionID: 37120
 # SQL Automation, how to build a highly automated SQL Server environment
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Raoul Illyes
 ## Title: SQL Automation, how to build a highly automated SQL Server environment
@@ -123,7 +124,7 @@ Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38729
 # How to kill SQL server performance
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Håkan Winther
 ## Title: How to kill SQL server performance
@@ -135,7 +136,7 @@ Prepare for few Power Point slides and lots of code samples.
 #  
 #### SessionID: 38757
 # SQL Server Foreign Keys – De-mystifying the Rest of the Story
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SQL Server Foreign Keys – De-mystifying the Rest of the Story
@@ -144,7 +145,7 @@ Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37428
 # Revenge: The SQL! - Director's Cut
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL! - Director's Cut
@@ -159,7 +160,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 37808
 # Many to Many in SSAS: How To Implement It
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Elvis Talic
 ## Title: Many to Many in SSAS: How To Implement It
@@ -174,7 +175,7 @@ After this session, you will have better understanding of many to many in SSAS, 
 #  
 #### SessionID: 38726
 # SQL Server Magic Buttons: What are Trace Flags, and why should I care?
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steinar Andersen
 ## Title: SQL Server Magic Buttons: What are Trace Flags, and why should I care?
@@ -185,7 +186,7 @@ In this session you will get a good overview of what Trace Flags can do for you,
 #  
 #### SessionID: 36881
 # Building a meta-driven near realtime ETL solution with BIML and SSIS
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rasmus Reinholdt
 ## Title: Building a meta-driven near realtime ETL solution with BIML and SSIS
@@ -199,7 +200,7 @@ Topics covered in the session
 #  
 #### SessionID: 37343
 # Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rodney Landrum
 ## Title: Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
@@ -208,7 +209,7 @@ Event Date: 05-09-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 38230
 # SQL Server 2016 AlwaysOn Availability Groups - New Features  Enhancements
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Martin
 ## Title: SQL Server 2016 AlwaysOn Availability Groups - New Features  Enhancements
@@ -217,7 +218,7 @@ Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37463
 # SQL Server 2016 New Feaures (Not Query Store!)
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Williams
 ## Title: SQL Server 2016 New Feaures (Not Query Store!)
@@ -238,7 +239,7 @@ Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38704
 # Using and improving Azure Machine Learning models with SSIS
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Söderlund
 ## Title: Using and improving Azure Machine Learning models with SSIS
@@ -247,7 +248,7 @@ Event Date: 05-09-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 38722
 # Eight hours of work in 20 minutes
-#### [Back to calendar](#SQLSaturday-#433-Gothenburg-2015)
+#### [Back to calendar](#nr-433)
 Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Magnus Ahlkvist
 ## Title: Eight hours of work in 20 minutes

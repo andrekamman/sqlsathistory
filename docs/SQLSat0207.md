@@ -1,3 +1,4 @@
+#### Nr: 207
 #### [Back to Main list](index.md)
 # SQLSaturday #207 - Cameroon 2013
 Start Time (24h)|Speaker|Track|Title
@@ -11,7 +12,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10824
 # Reporting Services for Mere DBAs
-#### [Back to calendar](#SQLSaturday-#207-Cameroon-2013)
+#### [Back to calendar](#nr-207)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jason Brimhall
 ## Title: Reporting Services for Mere DBAs
@@ -20,7 +21,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17095
 # Rocking with SQL 2012 Extended Events
-#### [Back to calendar](#SQLSaturday-#207-Cameroon-2013)
+#### [Back to calendar](#nr-207)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jody Roberts
 ## Title: Rocking with SQL 2012 Extended Events
@@ -29,7 +30,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17096
 # The big difference
-#### [Back to calendar](#SQLSaturday-#207-Cameroon-2013)
+#### [Back to calendar](#nr-207)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jody Roberts
 ## Title: The big difference
@@ -38,7 +39,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21414
 # SQL Server 2012 - Cloud on Your Terms: Scale On De
-#### [Back to calendar](#SQLSaturday-#207-Cameroon-2013)
+#### [Back to calendar](#nr-207)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: ACHILLE NGUELA NGUELA
 ## Title: SQL Server 2012 - Cloud on Your Terms: Scale On De
@@ -49,7 +50,7 @@ This content module is designed for the 2012 release of SQL Server 2012. To lear
 #  
 #### SessionID: 25356
 # Get your Mining Model Predictions out to all. Presentation en Francais
-#### [Back to calendar](#SQLSaturday-#207-Cameroon-2013)
+#### [Back to calendar](#nr-207)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Steve Simon
 ## Title: Get your Mining Model Predictions out to all. Presentation en Francais
@@ -58,7 +59,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 25357
 # I 'wanna' learn SQL Server. Presentation en Francais
-#### [Back to calendar](#SQLSaturday-#207-Cameroon-2013)
+#### [Back to calendar](#nr-207)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Steve Simon
 ## Title: I 'wanna' learn SQL Server. Presentation en Francais

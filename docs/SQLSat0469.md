@@ -1,3 +1,4 @@
+#### Nr: 469
 #### [Back to Main list](index.md)
 # SQLSaturday #469 - Brasilia 2015
 Start Time (24h)|Speaker|Track|Title
@@ -32,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 39375
 # Oportunidades com a plataforma de dados da Microsoft
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Academic (beginner)
 ## Speaker: Rodrigo Crespi
 ## Title: Oportunidades com a plataforma de dados da Microsoft
@@ -41,7 +42,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Academic (beginner)
 #  
 #### SessionID: 39393
 # A evolu#231;#227;o do Entity Framework 7
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Development
 ## Speaker: Rogério Moraes de Carvalho
 ## Title: A evolu#231;#227;o do Entity Framework 7
@@ -50,7 +51,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Development
 #  
 #### SessionID: 39480
 # DataZen - Do In#237;cio ao Fim
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  Data Science
 ## Speaker: Arthur Luz
 ## Title: DataZen - Do In#237;cio ao Fim
@@ -59,7 +60,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  
 #  
 #### SessionID: 40894
 # HandsOn - SQL Server AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 ## Speaker: EDVALDO CASTRO
 ## Title: HandsOn - SQL Server AlwaysOn Availability Groups
@@ -69,7 +70,7 @@ Poucos slides para que possamos fazer tem tempo real todos os passos para a inst
 #  
 #### SessionID: 40928
 # Configurando uma Replica#231;#227;o Transacional
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 ## Speaker: Gustavo Moura Fé
 ## Title: Configurando uma Replica#231;#227;o Transacional
@@ -78,7 +79,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 #  
 #### SessionID: 40262
 # Conhe#231;a as Temporal Tables do SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Development
 ## Speaker: Felipe de Assis
 ## Title: Conhe#231;a as Temporal Tables do SQL Server 2016
@@ -87,7 +88,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Development
 #  
 #### SessionID: 40759
 # Assumi o cargo de DBA. O que devo aprender para ontem???
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Academic (beginner)
 ## Speaker: Fabrício Lima
 ## Title: Assumi o cargo de DBA. O que devo aprender para ontem???
@@ -96,7 +97,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Academic (beginner)
 #  
 #### SessionID: 40903
 # SQL SERVER e ORACLE: Semelhan#231;as e Diferen#231;as para o DBA
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 ## Speaker: Marcelo Adade
 ## Title: SQL SERVER e ORACLE: Semelhan#231;as e Diferen#231;as para o DBA
@@ -106,7 +107,7 @@ A ideia #233; mostrar como os recursos do SQL SERVER equivalem aos de Oracle e v
 #  
 #### SessionID: 40949
 # Estrat#233;gias de backup para ambientes anal#237;ticos e heterog#234;neos
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 ## Speaker: Gustavo Maia Aguiar
 ## Title: Estrat#233;gias de backup para ambientes anal#237;ticos e heterog#234;neos
@@ -115,7 +116,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 #  
 #### SessionID: 40984
 # HiveQL x TSQL: Uma introdu#231;#227;o ao HIVE no HDInsight
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  Data Science
 ## Speaker: Bruno Feldman
 ## Title: HiveQL x TSQL: Uma introdu#231;#227;o ao HIVE no HDInsight
@@ -126,7 +127,7 @@ Abordaremos as diferen#231;as de sintaxe entre as duas linguagens de queries, al
 #  
 #### SessionID: 40847
 # HA e DR #233; o seguro de vida todo DBA
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Academic (beginner)
 ## Speaker: Luiz Henrique Garetti
 ## Title: HA e DR #233; o seguro de vida todo DBA
@@ -139,7 +140,7 @@ Aplicando HA e DR com Alwayson, para exemplificar na pratica o funcionamento de 
 #  
 #### SessionID: 40883
 # Onde est#225; o bot#227;o do P#226;nico! Meu database est#225; com corrup#231;#227;o
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 ## Speaker: Tiago Balabuch
 ## Title: Onde est#225; o bot#227;o do P#226;nico! Meu database est#225; com corrup#231;#227;o
@@ -149,7 +150,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 #  
 #### SessionID: 40905
 # Reporting Services Internals - High Availability and Scale-Out
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  Data Science
 ## Speaker: Alexandre Soteras
 ## Title: Reporting Services Internals - High Availability and Scale-Out
@@ -158,7 +159,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  
 #  
 #### SessionID: 41180
 # Tudo que voc#234; precisa saber sobre LOBs no SQL Server
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Development
 ## Speaker: Dennes Torres
 ## Title: Tudo que voc#234; precisa saber sobre LOBs no SQL Server
@@ -169,7 +170,7 @@ Os campos LOBs escondem muitos truques em sua armazenagem e isso pode ser impact
 #  
 #### SessionID: 41202
 # Saindo do Basico: Implementando SQL Server 2014 Failover Cluster com CSV
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 ## Speaker: Nilton Pinheiro
 ## Title: Saindo do Basico: Implementando SQL Server 2014 Failover Cluster com CSV
@@ -179,7 +180,7 @@ Uma das mais valiosas features do SQL Server 2014 voltada para alta disponibilid
 #  
 #### SessionID: 39388
 # Stretch Database - Armazenamento de dados hist#243;ricos no SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Cloud Application  Administration
 ## Speaker: Vitor Fava
 ## Title: Stretch Database - Armazenamento de dados hist#243;ricos no SQL Server 2016
@@ -188,7 +189,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Cloud Application  Admi
 #  
 #### SessionID: 39417
 # Conhecendo o Query Store do SQL 2016
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 ## Speaker: Luiz Mercante
 ## Title: Conhecendo o Query Store do SQL 2016
@@ -197,7 +198,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 #  
 #### SessionID: 40889
 # Powershell: Introdu#231;#227;o
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Academic (beginner)
 ## Speaker: Rodrigo Ribeiro Gomes
 ## Title: Powershell: Introdu#231;#227;o
@@ -208,7 +209,7 @@ Nesta se#231;#227;o, voc#234; ir#225; aprender o que #233; powershell e o que #2
 #  
 #### SessionID: 40947
 # Pensando fora da caixa!  - SMB 3.0
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 ## Speaker: Marcelo Fernandes
 ## Title: Pensando fora da caixa!  - SMB 3.0
@@ -218,7 +219,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 #  
 #### SessionID: 41192
 # HandsOn Troubleshooting - Casos reais e que podemos reproduzir
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 ## Speaker: Alex Rosa
 ## Title: HandsOn Troubleshooting - Casos reais e que podemos reproduzir
@@ -229,7 +230,7 @@ Venha para essa sess#227;o, e participe de forma ativa, sugerindo motivos que or
 #  
 #### SessionID: 41700
 # PowerBI - A nova plataforma de BI da Microsoft
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  Data Science
 ## Speaker: Thiago Zavaschi
 ## Title: PowerBI - A nova plataforma de BI da Microsoft
@@ -238,7 +239,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  
 #  
 #### SessionID: 42298
 # Hekaton v.2 e ColumnStore Index v.3 - Nova Gera#231;#227;o de DB's
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Hekaton v.2 e ColumnStore Index v.3 - Nova Gera#231;#227;o de DB's
@@ -247,7 +248,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 #  
 #### SessionID: 40269
 # Porque devo migrar para o SQL 2016?
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 ## Speaker: Thiago Carlos de Alencar
 ## Title: Porque devo migrar para o SQL 2016?
@@ -256,7 +257,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 #  
 #### SessionID: 40938
 # Melhores Pr#225;ticas para Utilizar as Policies no SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Academic (beginner)
 ## Speaker: Sulamita Dantas
 ## Title: Melhores Pr#225;ticas para Utilizar as Policies no SQL Server 2014
@@ -265,7 +266,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Academic (beginner)
 #  
 #### SessionID: 41166
 # Disponibilidade Parcial e Restaura#231;#227;o Online
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 ## Speaker: Ricardo Leka
 ## Title: Disponibilidade Parcial e Restaura#231;#227;o Online
@@ -275,7 +276,7 @@ Vamos configurar o SQL para suportar perda de partes da estrutura da base e mesm
 #  
 #### SessionID: 41190
 # Minera#231;#227;o de Dados com SQL Server - DataMining
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  Data Science
 ## Speaker: Rodrigo Dornel
 ## Title: Minera#231;#227;o de Dados com SQL Server - DataMining
@@ -284,7 +285,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  
 #  
 #### SessionID: 41463
 # Storage - Melhores Pr#225;ticas com SQL Server
-#### [Back to calendar](#SQLSaturday-#469-Brasilia-2015)
+#### [Back to calendar](#nr-469)
 Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Storage - Melhores Pr#225;ticas com SQL Server

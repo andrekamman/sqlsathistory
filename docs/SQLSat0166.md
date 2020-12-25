@@ -1,3 +1,4 @@
+#### Nr: 166
 #### [Back to Main list](index.md)
 # SQLSaturday #166 - Olympia 2012
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11441
 # Top Features of SQL 2012 Nobody Told You About
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Robert Davis
 ## Title: Top Features of SQL 2012 Nobody Told You About
@@ -34,7 +35,7 @@ Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 11685
 # Transactional Replication Beginner to Expert
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Chuck Lathrope
 ## Title: Transactional Replication Beginner to Expert
@@ -43,7 +44,7 @@ Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 15042
 # Advanced Indexing
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Hugo Kornelis
 ## Title: Advanced Indexing
@@ -53,7 +54,7 @@ Hugo will explore advanced features such as included columns, indexed views, and
 #  
 #### SessionID: 15046
 # UDFs, or: How to kill performance in one easy step
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Hugo Kornelis
 ## Title: UDFs, or: How to kill performance in one easy step
@@ -64,7 +65,7 @@ However, you will also see that there is a way to avoid the problems. With just 
 #  
 #### SessionID: 15671
 # Extend Your Knowledge with Extended Events!
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Janis Griffin
 ## Title: Extend Your Knowledge with Extended Events!
@@ -75,7 +76,7 @@ Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16909
 # Power View for Geographical Analysis 
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Julie Koesmarno
 ## Title: Power View for Geographical Analysis 
@@ -84,7 +85,7 @@ Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 17842
 # What’s Simple About SIMPLE Recovery?
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kalen Delaney
 ## Title: What’s Simple About SIMPLE Recovery?
@@ -93,7 +94,7 @@ Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 17843
 # Partition Magic: Metadata and Partition Switching
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kalen Delaney
 ## Title: Partition Magic: Metadata and Partition Switching
@@ -102,7 +103,7 @@ Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18918
 # Troubleshooting SQL Server with PowerShell
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Laerte Junior
 ## Title: Troubleshooting SQL Server with PowerShell
@@ -111,7 +112,7 @@ Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 20375
 # Running SQL Server 2012 on Server Core: Why  How
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Michael Wells
 ## Title: Running SQL Server 2012 on Server Core: Why  How
@@ -120,7 +121,7 @@ Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 20455
 # Query Plans and Indexes in SQL Server
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Michael DeFehr
 ## Title: Query Plans and Indexes in SQL Server
@@ -129,7 +130,7 @@ Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21837
 # Oh, so Tabular!
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Paul Turley
 ## Title: Oh, so Tabular!
@@ -139,7 +140,7 @@ It took some work to get our heads around cubes, MDX  OLAP concepts; and now the
 #  
 #### SessionID: 21838
 # Quickstart BI: Building a BI Solution in 5 Days
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Paul Turley
 ## Title: Quickstart BI: Building a BI Solution in 5 Days
@@ -148,7 +149,7 @@ Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 23004
 # Do SQL XML queries have to scare me?
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Rick  Morelan
 ## Title: Do SQL XML queries have to scare me?
@@ -157,7 +158,7 @@ Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23622
 # Introduction to the XML source
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Russel Loski
 ## Title: Introduction to the XML source
@@ -169,7 +170,7 @@ Attendees will be able to import simple XML using SSIS.  They will be able to cr
 #  
 #### SessionID: 24130
 # SQL Azure vs. Azure Tables –Clearing The Confusion
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Scott Klein
 ## Title: SQL Azure vs. Azure Tables –Clearing The Confusion
@@ -178,7 +179,7 @@ Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 24698
 # Power View: A Peek Behind the Curtain
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Stacia Varga
 ## Title: Power View: A Peek Behind the Curtain
@@ -188,7 +189,7 @@ Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24700
 # Taking BI to the Next Level: Collaboration
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Stacia Varga
 ## Title: Taking BI to the Next Level: Collaboration
@@ -197,7 +198,7 @@ Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 25731
 # Exploring the TSQL Enhancements in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Steve Stedman
 ## Title: Exploring the TSQL Enhancements in SQL Server 2012
@@ -206,7 +207,7 @@ Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 25732
 # Unleashing Common Table Expressions in SQL Server
-#### [Back to calendar](#SQLSaturday-#166-Olympia-2012)
+#### [Back to calendar](#nr-166)
 Event Date: 10-11-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Steve Stedman
 ## Title: Unleashing Common Table Expressions in SQL Server

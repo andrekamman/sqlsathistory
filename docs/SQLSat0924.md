@@ -1,3 +1,4 @@
+#### Nr: 924
 #### [Back to Main list](index.md)
 # SQLSaturday #924 - Lima 2019
 Start Time (24h)|Speaker|Track|Title
@@ -22,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 99451
 # Data Analytics en Azure
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Big Data  Analytics
 ## Speaker: Vladimir Guzman
 ## Title: Data Analytics en Azure
@@ -31,7 +32,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 100162
 # Consultando Millones de Datos con Power BI y Azure Databricks
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Consultando Millones de Datos con Power BI y Azure Databricks
@@ -40,7 +41,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 100413
 # Aplicación de Geolocalización con SQL Server
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Marlon Leandro
 ## Title: Aplicación de Geolocalización con SQL Server
@@ -49,7 +50,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: DBA / Enterprise / Rela
 #  
 #### SessionID: 99538
 # Como los sistemas cognitivos aceleran la transformación digital
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Big Data  Analytics
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: Como los sistemas cognitivos aceleran la transformación digital
@@ -58,7 +59,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 100233
 # Novedades en SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Nicolas Nakasone
 ## Title: Novedades en SQL Server 2019
@@ -67,7 +68,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: DBA / Enterprise / Rela
 #  
 #### SessionID: 100311
 # Azure Data Integration: Data factory VS Databricks
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Martha Chávez
 ## Title: Azure Data Integration: Data factory VS Databricks
@@ -76,7 +77,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 99709
 # Power BI y Flow en los Juegos Panamericanos y ParaPanamericanos LIMA 2019
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Daniel Enrique Espinoza Solórzano
 ## Title: Power BI y Flow en los Juegos Panamericanos y ParaPanamericanos LIMA 2019
@@ -85,7 +86,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 99450
 # SQL DevOps
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Vladimir Guzman
 ## Title: SQL DevOps
@@ -94,7 +95,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: DBA / Enterprise / Rela
 #  
 #### SessionID: 99536
 # Gobierno de Datos De la teoria a lo funcional
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: Gobierno de Datos De la teoria a lo funcional
@@ -104,7 +105,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 99854
 # Azure Synapse Analytics + Power BI
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Big Data  Analytics
 ## Speaker: Jorge Michael Muchaypiña Gutierrez
 ## Title: Azure Synapse Analytics + Power BI
@@ -113,7 +114,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 100135
 # Power BI con MS Dynamics 365
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Big Data  Analytics
 ## Speaker: Juan Rafael
 ## Title: Power BI con MS Dynamics 365
@@ -122,7 +123,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 100136
 # SQL Server Always ON for Dynamics 365 FO (On Premises)
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Juan Rafael
 ## Title: SQL Server Always ON for Dynamics 365 FO (On Premises)
@@ -131,7 +132,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: DBA / Enterprise / Rela
 #  
 #### SessionID: 99811
 # Creando Informes con Power BI
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Big Data  Analytics
 ## Speaker: Enzo Sandoval
 ## Title: Creando Informes con Power BI
@@ -140,7 +141,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 99853
 # Data Storytelling with Power BI
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Big Data  Analytics
 ## Speaker: Jorge Michael Muchaypiña Gutierrez
 ## Title: Data Storytelling with Power BI
@@ -149,7 +150,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 100460
 # Integrando IoT, con servicios cognitivos y el asistente virtual
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Miguel Salvador
 ## Title: Integrando IoT, con servicios cognitivos y el asistente virtual
@@ -158,7 +159,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 100516
 # Data Analysis with Excel: No todo es tabla dinámica
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Alfredo Diego Amez Mendes
 ## Title: Data Analysis with Excel: No todo es tabla dinámica
@@ -167,7 +168,7 @@ Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 99635
 # Streaming de Datos en Power BI con PubNub
-#### [Back to calendar](#SQLSaturday-#924-Lima-2019)
+#### [Back to calendar](#nr-924)
 Event Date: 07-12-2019 - Session time: 15:50:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Marlon Leandro
 ## Title: Streaming de Datos en Power BI con PubNub

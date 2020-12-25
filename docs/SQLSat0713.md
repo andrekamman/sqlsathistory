@@ -1,3 +1,4 @@
+#### Nr: 713
 #### [Back to Main list](index.md)
 # SQLSaturday #713 - Brisbane 2018
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 70695
 # Machine Learning with SQL Server
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ginger Grant
 ## Title: Machine Learning with SQL Server
@@ -37,7 +38,7 @@ Session Goals
 #  
 #### SessionID: 80112
 # Practical SQL Server Performance Tuning
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amit R S Bansal
 ## Title: Practical SQL Server Performance Tuning
@@ -50,7 +51,7 @@ Topics Include: Module 1: CPU Troubleshooting (Scheduling), IO Troubleshooting, 
 #  
 #### SessionID: 72705
 # Intro into Power BI
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Gilbert Quevauvilliers
 ## Title: Intro into Power BI
@@ -61,7 +62,7 @@ It will an interactive demo based session, where the goal will be for the user t
 #  
 #### SessionID: 77105
 # Data Privacy and the Data Professional.
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Martin Catherall
 ## Title: Data Privacy and the Data Professional.
@@ -75,7 +76,7 @@ Come along to this session and hear how you and your team can lessen your chance
 #  
 #### SessionID: 78921
 # Tips and Tricks for Using SQL Server Management Studio Effectively
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Greg Low
 ## Title: Tips and Tricks for Using SQL Server Management Studio Effectively
@@ -84,7 +85,7 @@ Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 70392
 # Real-Time Analytics with Power BI
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Manohar Punna
 ## Title: Real-Time Analytics with Power BI
@@ -99,7 +100,7 @@ In this session
 #  
 #### SessionID: 74647
 # SQL Server Managed Instance, the PaaS Instance Offering
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Henry Rooney
 ## Title: SQL Server Managed Instance, the PaaS Instance Offering
@@ -108,7 +109,7 @@ Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 80186
 # Configuring AlwaysOn Availability Groups exclusively in Azure, using IaaS.
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael van Halderen
 ## Title: Configuring AlwaysOn Availability Groups exclusively in Azure, using IaaS.
@@ -117,7 +118,7 @@ Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 74271
 # Advanced DAX for the SQL Professional
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Seamark
 ## Title: Advanced DAX for the SQL Professional
@@ -126,7 +127,7 @@ Event Date: 02-06-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 80082
 # Modern Data Warehouse using Lambda Architecture and Azure
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anupama Natarajan
 ## Title: Modern Data Warehouse using Lambda Architecture and Azure
@@ -143,7 +144,7 @@ In this session you will learn about
 #  
 #### SessionID: 80113
 # Troubleshooting SQL Server Memory Issues
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amit R S Bansal
 ## Title: Troubleshooting SQL Server Memory Issues
@@ -152,7 +153,7 @@ Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70224
 # Hybrid Distributed Architecture with Azure Data Sync 2.0
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Martin Cairney
 ## Title: Hybrid Distributed Architecture with Azure Data Sync 2.0
@@ -163,7 +164,7 @@ This session will show how one organisation has used Azure Data Sync to allow fo
 #  
 #### SessionID: 72435
 # BI is a Journey, Not a Destination
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gogula Aryalingam
 ## Title: BI is a Journey, Not a Destination
@@ -173,7 +174,7 @@ This session will focus on how you could develop a business intelligence solutio
 #  
 #### SessionID: 78489
 # Test Driven Development in SQL Server – how to deploy code safer
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Hamish Watson
 ## Title: Test Driven Development in SQL Server – how to deploy code safer
@@ -187,7 +188,7 @@ A comprehensive DEMO will reveal how Test Driven Development can help you deploy
 #  
 #### SessionID: 78627
 # Implementing Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ginger Grant
 ## Title: Implementing Python in SQL Server 2017
@@ -196,7 +197,7 @@ Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 71109
 # DBATools! The reason to finally start learning and using Powershell
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: DBATools! The reason to finally start learning and using Powershell
@@ -212,7 +213,7 @@ No prior experience with Powershell required!
 #  
 #### SessionID: 73663
 # Dive into the Query Optimizer - Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer - Undocumented Insight
@@ -221,7 +222,7 @@ Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 75788
 # SSRS and Power BI Report Server - What's New
-#### [Back to calendar](#SQLSaturday-#713-Brisbane-2018)
+#### [Back to calendar](#nr-713)
 Event Date: 02-06-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Craig Bryden
 ## Title: SSRS and Power BI Report Server - What's New

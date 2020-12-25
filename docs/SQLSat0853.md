@@ -1,3 +1,4 @@
+#### Nr: 853
 #### [Back to Main list](index.md)
 # SQLSaturday #853 - Plovdiv 2019
 Start Time (24h)|Speaker|Track|Title
@@ -27,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 89191
 # Making sense of Storage modes and Connection types in PowerBI
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ivan Donev
 ## Title: Making sense of Storage modes and Connection types in PowerBI
@@ -36,7 +37,7 @@ Event Date: 22-06-2019 - Session time: 17:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93469
 # Architecting SQL Server environments for Mission Critical and High Performance
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcelo Fernandes
 ## Title: Architecting SQL Server environments for Mission Critical and High Performance
@@ -45,7 +46,7 @@ Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93737
 # Data Mining from A to Z
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Analytics and Visualization
 ## Speaker: Ekaterina Marinova
 ## Title: Data Mining from A to Z
@@ -58,7 +59,7 @@ These are answers that we can approach with Data Mining. Let's see together why 
 #  
 #### SessionID: 89575
 # If a computer can understand, why can't YOU understand Azure Cognitive Services?
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: André Melancia
 ## Title: If a computer can understand, why can't YOU understand Azure Cognitive Services?
@@ -69,7 +70,7 @@ Disclaimer: Cognitive services will never guess a doctor's handwriting. That's j
 #  
 #### SessionID: 93428
 # SQL Server partitioning - Why, What and How
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rozalina Zaharieva
 ## Title: SQL Server partitioning - Why, What and How
@@ -78,7 +79,7 @@ Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 94178
 # Parallel Query Processing in SQL Server
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Application  Database Development
 ## Speaker: Dmitry Pilugin
 ## Title: Parallel Query Processing in SQL Server
@@ -89,7 +90,7 @@ In this session we will look at the balance from the Query Processor prospective
 #  
 #### SessionID: 89192
 # All you need to know about Microsoft Power Platform
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ivan Donev
 ## Title: All you need to know about Microsoft Power Platform
@@ -98,7 +99,7 @@ Event Date: 22-06-2019 - Session time: 17:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 91047
 # The intelligent Firing Range (Building Server-less python applications)
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Francesco Sbrescia
 ## Title: The intelligent Firing Range (Building Server-less python applications)
@@ -110,7 +111,7 @@ At the end of the session you'll have an understanding of how to set up these di
 #  
 #### SessionID: 92115
 # The Maths Behind Machine Learning
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matt Willis
 ## Title: The Maths Behind Machine Learning
@@ -123,7 +124,7 @@ If you would like an introduction to the world of Machine Learning and to acquir
 #  
 #### SessionID: 88794
 # Discovering the full power of parameters in Power BI
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Analytics and Visualization
 ## Speaker: Andrey Nikolov
 ## Title: Discovering the full power of parameters in Power BI
@@ -132,7 +133,7 @@ Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 93287
 # Possiblities and Limitations of System-Versioned Temporal Tables beyond the Basics
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Application  Database Development
 ## Speaker: Reinhard Flügel
 ## Title: Possiblities and Limitations of System-Versioned Temporal Tables beyond the Basics
@@ -141,7 +142,7 @@ Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Application  Database D
 #  
 #### SessionID: 94592
 # Power BI as a highway for your AI
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: BI Information Delivery
 ## Speaker: Diana Tisheva
 ## Title: Power BI as a highway for your AI
@@ -150,7 +151,7 @@ Event Date: 22-06-2019 - Session time: 17:50:00 - Track: BI Information Delivery
 #  
 #### SessionID: 88839
 # Custom maps in Power BI
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Analytics and Visualization
 ## Speaker: Andrea Martorana Tusa
 ## Title: Custom maps in Power BI
@@ -164,7 +165,7 @@ Last but not least, learn how to use Synoptic Panel, an awesome component that c
 #  
 #### SessionID: 88957
 # Time intelligence function in DAX
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Boriana Petrova
 ## Title: Time intelligence function in DAX
@@ -173,7 +174,7 @@ Event Date: 22-06-2019 - Session time: 17:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89468
 # Provisioning the IoT Devices - Best Practices
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Provisioning the IoT Devices - Best Practices
@@ -184,7 +185,7 @@ This talk is about the real-life cases and best practices when need to design an
 #  
 #### SessionID: 89679
 # T-SQL Performance Guidelines for the optimal DB stress powers
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Application  Database Development
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for the optimal DB stress powers
@@ -193,7 +194,7 @@ Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Application  Database D
 #  
 #### SessionID: 88837
 # T-SQL advanced: Grouping and Windowing
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Application  Database Development
 ## Speaker: Andrea Martorana Tusa
 ## Title: T-SQL advanced: Grouping and Windowing
@@ -206,7 +207,7 @@ The session is mainly based on a copious array of demos, to make explicit every 
 #  
 #### SessionID: 93856
 # Monitoring Microsoft SQL Server using the Elastic Stack
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Miroslav Lessev
 ## Title: Monitoring Microsoft SQL Server using the Elastic Stack
@@ -216,7 +217,7 @@ In this session, you will learn how use Metricbeat to monitor Monitoring SQL Ser
 #  
 #### SessionID: 94602
 # NotADBTalk
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Strategy and Architecture
 ## Speaker: Martin Chaov
 ## Title: NotADBTalk
@@ -225,7 +226,7 @@ Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 93500
 # IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Catalin Gheorghiu
 ## Title: IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights
@@ -238,7 +239,7 @@ And we will see them clash, from real hardware, to the big Azure cloud, to mobil
 #  
 #### SessionID: 93502
 # Enterprise Deployment of Power BI
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Analytics and Visualization
 ## Speaker: Scott Hudson
 ## Title: Enterprise Deployment of Power BI
@@ -250,7 +251,7 @@ this session looks to address how Power BI should be deployed and managed in an 
 #  
 #### SessionID: 93842
 # Full text search in digital and scanned documents with Elasticsearch and Tesseract
-#### [Back to calendar](#SQLSaturday-#853-Plovdiv-2019)
+#### [Back to calendar](#nr-853)
 Event Date: 22-06-2019 - Session time: 17:50:00 - Track: Other
 ## Speaker: Stamo Petkov
 ## Title: Full text search in digital and scanned documents with Elasticsearch and Tesseract

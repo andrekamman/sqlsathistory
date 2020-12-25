@@ -1,3 +1,4 @@
+#### Nr: 826
 #### [Back to Main list](index.md)
 # SQLSaturday #826 - Victoria 2019
 Start Time (24h)|Speaker|Track|Title
@@ -46,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 86700
 # Be Part of the Solution with Automation
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Be Part of the Solution with Automation
@@ -55,7 +56,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
 #  
 #### SessionID: 86796
 # What is Power BI?
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 ## Speaker: Angela Henry
 ## Title: What is Power BI?
@@ -64,7 +65,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 #  
 #### SessionID: 87306
 # DBA Checklists: Reliable, Repeatable,  Automated.
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 ## Speaker: Patrick Flynn
 ## Title: DBA Checklists: Reliable, Repeatable,  Automated.
@@ -85,7 +86,7 @@ Some basic knowledge of PowerShell and DBA
 #  
 #### SessionID: 88141
 # SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 ## Speaker: Rick Lowe
 ## Title: SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
@@ -94,7 +95,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 #  
 #### SessionID: 88666
 # Instant insights, automation and action with Power BI, Power Apps, Flow and Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 ## Speaker: Anthony Bulk
 ## Title: Instant insights, automation and action with Power BI, Power Apps, Flow and Azure Machine Learning
@@ -107,7 +108,7 @@ I will show you how you can use the tools listed above to rapidly build a system
 #  
 #### SessionID: 89714
 # Text Mining  Sentiment Analysis made easy
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Sanil Mhatre
 ## Title: Text Mining  Sentiment Analysis made easy
@@ -122,7 +123,7 @@ Session Goals
 #  
 #### SessionID: 86787
 # Using Your On-prem Data in a Cloud World
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 ## Speaker: Daniel Glenn
 ## Title: Using Your On-prem Data in a Cloud World
@@ -133,7 +134,7 @@ In this session, we will discover the benefits of using the cloud tools, how tho
 #  
 #### SessionID: 86800
 # Shaving off Microseconds
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 ## Speaker: Thomas Grohser
 ## Title: Shaving off Microseconds
@@ -142,7 +143,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 #  
 #### SessionID: 87434
 # Introduction to Power BI dataflows
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 ## Speaker: Matthew Roche
 ## Title: Introduction to Power BI dataflows
@@ -153,7 +154,7 @@ In this session, Power BI program manager Matthew Roche will introduce this exci
 #  
 #### SessionID: 87751
 # Governance in PowerBI - Enjoy your Power Responsibly
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 ## Speaker: Yana Berkovich
 ## Title: Governance in PowerBI - Enjoy your Power Responsibly
@@ -171,7 +172,7 @@ Will include the latest and greatest updates in PowerBI, as presented in PASS 20
 #  
 #### SessionID: 88662
 # SQL Server 2019: What's New, What's Great, What's Amazing
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Argenis Fernandez
 ## Title: SQL Server 2019: What's New, What's Great, What's Amazing
@@ -180,7 +181,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 88754
 # Effective Indexing
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Dev
 ## Speaker: Gail Shaw
 ## Title: Effective Indexing
@@ -193,7 +194,7 @@ This session is aimed at people who are relatively new to SQL Server indexing.
 #  
 #### SessionID: 87791
 # Analyze and solve common wait stats scenarios
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 ## Speaker: Uwe Ricken
 ## Title: Analyze and solve common wait stats scenarios
@@ -207,7 +208,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 #  
 #### SessionID: 87917
 # Introduction to Azure AI - The Art of the possible
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Melody Zacharias
 ## Title: Introduction to Azure AI - The Art of the possible
@@ -216,7 +217,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
 #  
 #### SessionID: 88387
 # Big Data with Azure: where to begin? Concepts and best practices
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Satya Jayanty
 ## Title: Big Data with Azure: where to begin? Concepts and best practices
@@ -227,7 +228,7 @@ Microsoft Azure has the ability to move, store and analyze data within the cloud
 #  
 #### SessionID: 88475
 # SQL Server Encryption
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
@@ -236,7 +237,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 #  
 #### SessionID: 89336
 # New Era of Data Warehouse Design
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 ## Speaker: Sepand Gojgini
 ## Title: New Era of Data Warehouse Design
@@ -245,7 +246,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 #  
 #### SessionID: 89653
 # Taking back control of your work using Kanban
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Michael Johnson
 ## Title: Taking back control of your work using Kanban
@@ -258,7 +259,7 @@ You will be introduced to the concepts behind Kanban, finding that it is one of 
 #  
 #### SessionID: 91406
 # BoF Session: Power BI
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 ## Speaker: Anthony Bulk
 ## Title: BoF Session: Power BI
@@ -269,7 +270,7 @@ Topic: PowerBI
 #  
 #### SessionID: 91407
 # BoF Session: Development  DevOps
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Dev
 ## Speaker: Hamish Watson
 ## Title: BoF Session: Development  DevOps
@@ -280,7 +281,7 @@ Topic: Development  DevOps
 #  
 #### SessionID: 91408
 # BoF Session: Database Administration
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 ## Speaker: Patrick Flynn
 ## Title: BoF Session: Database Administration
@@ -291,7 +292,7 @@ Topic: Database Administration
 #  
 #### SessionID: 91409
 # BoF Session: Data Warehousing, Analytics  Reporting
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 ## Speaker: Todd McDermid
 ## Title: BoF Session: Data Warehousing, Analytics  Reporting
@@ -302,7 +303,7 @@ Topic: Data Warehousing, Analytics  Reporting
 #  
 #### SessionID: 91410
 # BoF Session: Big Data, Data Science  AI
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Kevin Feasel
 ## Title: BoF Session: Big Data, Data Science  AI
@@ -313,7 +314,7 @@ Topic: Big Data, Data Science  AI
 #  
 #### SessionID: 86912
 # DataBricks, modern data transformation
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Andrew Boudreau
 ## Title: DataBricks, modern data transformation
@@ -322,7 +323,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
 #  
 #### SessionID: 87079
 # Use Docker to Deploy SQL Server Applications
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Dev
 ## Speaker: Frank Geisler
 ## Title: Use Docker to Deploy SQL Server Applications
@@ -331,7 +332,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Dev
 #  
 #### SessionID: 87111
 # Basics of Database Corruption Repair
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 ## Speaker: Steve Stedman
 ## Title: Basics of Database Corruption Repair
@@ -340,7 +341,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 #  
 #### SessionID: 87898
 # Basic Database Design
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Dev
 ## Speaker: John Miner
 ## Title: Basic Database Design
@@ -367,7 +368,7 @@ Coverage:
 #  
 #### SessionID: 88097
 # Azure Machine Learning 101
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 ## Speaker: Kathi Kellenberger
 ## Title: Azure Machine Learning 101
@@ -380,7 +381,7 @@ If you are experienced in machine learning but haven’t seen Azure ML or if you
 #  
 #### SessionID: 89056
 # Introduction to Dimensional Modeling for the Excel/Power BI Pro
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 ## Speaker: Ken Puls
 ## Title: Introduction to Dimensional Modeling for the Excel/Power BI Pro
@@ -390,7 +391,7 @@ In this session we will look at understanding the benefits of dimensional modeli
 #  
 #### SessionID: 86763
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
@@ -399,7 +400,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 86888
 # Predictive Analytics with R in Power BI
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 ## Speaker: Joseph Yeates
 ## Title: Predictive Analytics with R in Power BI
@@ -408,7 +409,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 #  
 #### SessionID: 87083
 # Data Quality matters! Go for a quality roundtrip in the MS data platform (2019 Version)
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 ## Speaker: Oliver Engels
 ## Title: Data Quality matters! Go for a quality roundtrip in the MS data platform (2019 Version)
@@ -418,7 +419,7 @@ We dive into the requirements of modern curation and show in examples, what the 
 #  
 #### SessionID: 88443
 # Managing and monitoring SQL Server on Linux from the command line
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 ## Speaker: Randolph West
 ## Title: Managing and monitoring SQL Server on Linux from the command line
@@ -431,7 +432,7 @@ This session will cover mssql-conf (for configuring the server instance), mssql-
 #  
 #### SessionID: 88498
 # Continuous Integration for Analysis Services?
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 ## Speaker: Gabi Münster
 ## Title: Continuous Integration for Analysis Services?
@@ -440,7 +441,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 #  
 #### SessionID: 90909
 # Can Scott create a mobile app in an hour using PowerApps?
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Dev
 ## Speaker: Scott Stauffer
 ## Title: Can Scott create a mobile app in an hour using PowerApps?
@@ -449,7 +450,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Dev
 #  
 #### SessionID: 86626
 # Architecture for AGILE and DevOps
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 ## Speaker: Christopher Docherty
 ## Title: Architecture for AGILE and DevOps
@@ -459,7 +460,7 @@ In this talk we will discuss how we can set ourselves up for success with an AGI
 #  
 #### SessionID: 87773
 # Tips, Tricks and Secrets for the SQL Professional
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 ## Speaker: Mitchell Bottel
 ## Title: Tips, Tricks and Secrets for the SQL Professional
@@ -468,7 +469,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 #  
 #### SessionID: 87818
 # Azure Data Studio – The New Frontier
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 ## Speaker: Warwick Rudd
 ## Title: Azure Data Studio – The New Frontier
@@ -478,7 +479,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 #  
 #### SessionID: 88263
 # SQL Server on Linux and Containers changes everything for the better!!
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 ## Speaker: Hamish Watson
 ## Title: SQL Server on Linux and Containers changes everything for the better!!
@@ -495,7 +496,7 @@ This session will show you the exciting future of SQL Server and how you can lea
 #  
 #### SessionID: 90802
 # The Science of Success: Building Faith in a Data Warehouse
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 ## Speaker: Todd McDermid
 ## Title: The Science of Success: Building Faith in a Data Warehouse
@@ -506,7 +507,7 @@ Learn how to leverage your tooling expertise in SSIS and SQL to build a dead-sim
 #  
 #### SessionID: 91276
 # Women Talk Tech
-#### [Back to calendar](#SQLSaturday-#826-Victoria-2019)
+#### [Back to calendar](#nr-826)
 Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Kathi Kellenberger
 ## Title: Women Talk Tech

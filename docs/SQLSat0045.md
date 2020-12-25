@@ -1,3 +1,4 @@
+#### Nr: 45
 #### [Back to Main list](index.md)
 # SQLSaturday #45 - Louisville 2011
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28470
 # High Performance SSIS Dimensional Datamart Loads 
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Michael Coles
 ## Title: High Performance SSIS Dimensional Datamart Loads 
@@ -39,7 +40,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 28471
 # SQL Server Encryption - Secure Your Data @ Rest!
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Michael Coles
 ## Title: SQL Server Encryption - Secure Your Data @ Rest!
@@ -48,7 +49,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 28473
 # Build Your Own Search Engine With SQL Server
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Michael Coles
 ## Title: Build Your Own Search Engine With SQL Server
@@ -57,7 +58,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 28816
 # Better Data Visualizations with SSRS
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Arie Jones
 ## Title: Better Data Visualizations with SSRS
@@ -66,7 +67,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 28818
 # Monitoring Data Changes with Change Data Capture
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Arie Jones
 ## Title: Monitoring Data Changes with Change Data Capture
@@ -75,7 +76,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 28918
 # Manage SQL Server System and Performance Data with
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Allen White
 ## Title: Manage SQL Server System and Performance Data with
@@ -85,7 +86,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 28919
 # Automate Policy-Based Management using PowerShell 
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Allen White
 ## Title: Automate Policy-Based Management using PowerShell 
@@ -95,7 +96,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 28960
 # Effective SQL: Understanding Order of Operations
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Kevin Cross
 ## Title: Effective SQL: Understanding Order of Operations
@@ -104,7 +105,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 29438
 # Capturing SQL Server performance diagnostics
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Tim Chapman
 ## Title: Capturing SQL Server performance diagnostics
@@ -113,7 +114,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 29439
 # Writing faster queries
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Tim Chapman
 ## Title: Writing faster queries
@@ -122,7 +123,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 29710
 # ETL from the Trenches: SSIS in the Real World
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Dave Fackler
 ## Title: ETL from the Trenches: SSIS in the Real World
@@ -131,7 +132,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 30011
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -140,7 +141,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 30167
 # Find Performance Problems by Reading the Waits
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Eddie Wuerch
 ## Title: Find Performance Problems by Reading the Waits
@@ -149,7 +150,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 30168
 # Drive SQL Server Performance: I/O For Developers
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Eddie Wuerch
 ## Title: Drive SQL Server Performance: I/O For Developers
@@ -159,7 +160,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 30939
 # Moving Data with SQL Azure and SSIS
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: John Welch
 ## Title: Moving Data with SQL Azure and SSIS
@@ -168,7 +169,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 32373
 # Become a Bilingual DBA! Oracle for the SQL Server 
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Randy Knight
 ## Title: Become a Bilingual DBA! Oracle for the SQL Server 
@@ -177,7 +178,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32374
 # Visual Studio 2010 Database Projects 
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Randy Knight
 ## Title: Visual Studio 2010 Database Projects 
@@ -186,7 +187,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 32948
 # Red Gate SQL Monitor
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Steve Jones
 ## Title: Red Gate SQL Monitor
@@ -195,7 +196,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 32985
 # PowerPivot: Delivering Self-Serve BI
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Craig Utley
 ## Title: PowerPivot: Delivering Self-Serve BI
@@ -204,7 +205,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 32987
 # Do It Right: Best Practices for Analysis Services 
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Craig Utley
 ## Title: Do It Right: Best Practices for Analysis Services 
@@ -213,7 +214,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 33061
 # Performance Tuning Made Easy
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Thomas LaRock
 ## Title: Performance Tuning Made Easy
@@ -222,7 +223,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 33971
 # Attribute Discretization in Analysis Services
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: William E Pearson III
 ## Title: Attribute Discretization in Analysis Services
@@ -231,7 +232,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 34702
 # Achieving Separation of Duties with SQL Server
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Kathi Kellenberger
 ## Title: Achieving Separation of Duties with SQL Server
@@ -240,7 +241,7 @@ Event Date: 22-01-2011 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 34749
 # Women in Technology Luncheon
-#### [Back to calendar](#SQLSaturday-#45-Louisville-2011)
+#### [Back to calendar](#nr-45)
 Event Date: 22-01-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mala Mahadevan
 ## Title: Women in Technology Luncheon

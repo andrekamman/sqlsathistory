@@ -1,3 +1,4 @@
+#### Nr: 10
 #### [Back to Main list](index.md)
 # SQLSaturday #10 - Tampa 2009
 Start Time (24h)|Speaker|Track|Title
@@ -39,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 34918
 # Data Scrambling
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andreas Etelkozi
 ## Title: Data Scrambling
@@ -48,7 +49,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 34945
 # SQL Server Statistics
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andy Warren
 ## Title: SQL Server Statistics
@@ -57,7 +58,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 34957
 # Reporting Services 2008 Unleashed! 
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Arie Jones
 ## Title: Reporting Services 2008 Unleashed! 
@@ -66,7 +67,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 34962
 # CLR within SQL Server 2008 
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Arie Jones
 ## Title: CLR within SQL Server 2008 
@@ -75,7 +76,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 34995
 # Introduction to SSAS
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Brian Knight
 ## Title: Introduction to SSAS
@@ -84,7 +85,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 34996
 # SSIS for DBAs
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Brian Knight
 ## Title: SSIS for DBAs
@@ -93,7 +94,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 35055
 # SQL Compact  Data Sync
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Nikita Polyakov
 ## Title: SQL Compact  Data Sync
@@ -103,7 +104,7 @@ Come find out why SQL Compact and Sunc Services are your ticket to quick and eas
 #  
 #### SessionID: 35060
 # Using RSS for System Administration
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Chad Miller
 ## Title: Using RSS for System Administration
@@ -112,7 +113,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 35065
 # ASP.NET Databinding 101
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Chris Rock
 ## Title: ASP.NET Databinding 101
@@ -124,7 +125,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 35077
 # Transact SQL Frequently Asked Questions
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kent Waldrop
 ## Title: Transact SQL Frequently Asked Questions
@@ -133,7 +134,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 35079
 # SQL Server Data Access Tips and Techniques
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Hayden
 ## Title: SQL Server Data Access Tips and Techniques
@@ -142,7 +143,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 35095
 # Wait-Time Based SQL Server Performance Management
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dean Richards
 ## Title: Wait-Time Based SQL Server Performance Management
@@ -151,7 +152,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 35114
 # SSIS: Configurations, Expressions and Constraints
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Eric Wisdahl
 ## Title: SSIS: Configurations, Expressions and Constraints
@@ -160,7 +161,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 35144
 # Using Visual Studio Database Edition GDR-RTM
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: James McAuliffe
 ## Title: Using Visual Studio Database Edition GDR-RTM
@@ -176,7 +177,7 @@ The following areas will be explored:
 #  
 #### SessionID: 35157
 # SQL Server Roadmap Beyond SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jean-Claude Armand
 ## Title: SQL Server Roadmap Beyond SQL Server 2008
@@ -185,7 +186,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 35165
 # Understanding Indexes for Single-Table Queries
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jeffrey Garbus
 ## Title: Understanding Indexes for Single-Table Queries
@@ -194,7 +195,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 35201
 # Enhance your .NET Application with SSRS
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Jessica Moss
 ## Title: Enhance your .NET Application with SSRS
@@ -203,7 +204,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 35202
 # Make Reporting Services Work For You
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Jessica Moss
 ## Title: Make Reporting Services Work For You
@@ -212,7 +213,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 35218
 # Securing Sensitive Data with SQL Server
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: John Magnabosco
 ## Title: Securing Sensitive Data with SQL Server
@@ -222,7 +223,7 @@ In this session the encryption and hashing features of SQL Server will be explor
 #  
 #### SessionID: 35224
 # Automating DBA Tasks with SQL Agent Jobs
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jonathan Kehayias
 ## Title: Automating DBA Tasks with SQL Agent Jobs
@@ -231,7 +232,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 35301
 # SQL Server and PowerShell
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Maximo Trinidad
 ## Title: SQL Server and PowerShell
@@ -240,7 +241,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 35317
 # The New World of Microsoft Certifications
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Mike Wells
 ## Title: The New World of Microsoft Certifications
@@ -249,7 +250,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 35319
 # Identifying and Removing Duplicate Records
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Michael Antonovich
 ## Title: Identifying and Removing Duplicate Records
@@ -258,7 +259,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 35358
 # T-SQL Enhancements in SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Plamen Ratchev
 ## Title: T-SQL Enhancements in SQL Server 2008
@@ -267,7 +268,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 35381
 # Monitoring Massive Scale Web Applications
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Roger Doherty
 ## Title: Monitoring Massive Scale Web Applications
@@ -276,7 +277,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 35387
 # Building an SSIS Management Framework - Part 1
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Rushabh Mehta
 ## Title: Building an SSIS Management Framework - Part 1
@@ -285,7 +286,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 35388
 # Building an SSIS Management Framwork - Part 2
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Rushabh Mehta
 ## Title: Building an SSIS Management Framwork - Part 2
@@ -294,7 +295,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 35402
 # Bulk Loading SQL in Space (drive space)
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Rodney Landrum
 ## Title: Bulk Loading SQL in Space (drive space)
@@ -303,7 +304,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 35408
 # Why DBAs Should Learn PowerShell
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ronald Dameron
 ## Title: Why DBAs Should Learn PowerShell
@@ -312,7 +313,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 35412
 # Test Data Generation Practices
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Ryan Dorrell
 ## Title: Test Data Generation Practices
@@ -322,7 +323,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 35420
 # SQL Server 2008 for Developers
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Sam Nasr
 ## Title: SQL Server 2008 for Developers
@@ -332,7 +333,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 35442
 # Legal Liability  Data Retention
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Suzanne Meehle
 ## Title: Legal Liability  Data Retention
@@ -341,7 +342,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 35479
 # Unconventional ETL Using SSIS Scripting
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Tim Mitchell
 ## Title: Unconventional ETL Using SSIS Scripting
@@ -350,7 +351,7 @@ Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 35499
 # Data Mining and Predictive Analysis using SSAS,SQL
-#### [Back to calendar](#SQLSaturday-#10-Tampa-2009)
+#### [Back to calendar](#nr-10)
 Event Date: 24-01-2009 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Vikas Hawaldar
 ## Title: Data Mining and Predictive Analysis using SSAS,SQL

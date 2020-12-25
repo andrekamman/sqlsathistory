@@ -1,3 +1,4 @@
+#### Nr: 156
 #### [Back to Main list](index.md)
 # SQLSaturday #156 - Providence 2012
 Start Time (24h)|Speaker|Track|Title
@@ -40,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10805
 # SQL 2012 Table Compression
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: MPT
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Table Compression
@@ -49,7 +50,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: MPT
 #  
 #### SessionID: 10806
 # Reporting Services for Mere DBAs
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S216
 ## Speaker: Jason Brimhall
 ## Title: Reporting Services for Mere DBAs
@@ -58,7 +59,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S216
 #  
 #### SessionID: 11838
 # Transitioning from SQL Trace to Extended Events
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S212
 ## Speaker: Jack Corbett
 ## Title: Transitioning from SQL Trace to Extended Events
@@ -67,7 +68,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S212
 #  
 #### SessionID: 14752
 # Top Tips for Writing Better T-SQL Queries
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S213
 ## Speaker: Grant Fritchey
 ## Title: Top Tips for Writing Better T-SQL Queries
@@ -76,7 +77,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S213
 #  
 #### SessionID: 14753
 # What to Look for in Execution Plans
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: MPT
 ## Speaker: Grant Fritchey
 ## Title: What to Look for in Execution Plans
@@ -85,7 +86,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: MPT
 #  
 #### SessionID: 15515
 # Biggest Loser: Database Edition
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S212
 ## Speaker: John Miner
 ## Title: Biggest Loser: Database Edition
@@ -104,7 +105,7 @@ Managing your data well can lead to savings in disk space as much as 75%.
 #  
 #### SessionID: 15562
 # Loading a Data Warehouse using SSIS 2012
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S214
 ## Speaker: James Phillips
 ## Title: Loading a Data Warehouse using SSIS 2012
@@ -113,7 +114,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S214
 #  
 #### SessionID: 16048
 # Cross Tabs  Pivots - Reports on Steroids
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S213
 ## Speaker: Jeff Moden
 ## Title: Cross Tabs  Pivots - Reports on Steroids
@@ -122,7 +123,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S213
 #  
 #### SessionID: 16050
 # The Tally Table: What it is/how it replaces loops
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: MPT
 ## Speaker: Jeff Moden
 ## Title: The Tally Table: What it is/how it replaces loops
@@ -131,7 +132,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: MPT
 #  
 #### SessionID: 17020
 # Full Text Indexing Basics
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S216
 ## Speaker: John Miner
 ## Title: Full Text Indexing Basics
@@ -140,7 +141,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S216
 #  
 #### SessionID: 17021
 # Designing Custom Maintenance Plans with TSQL
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S214
 ## Speaker: John Miner
 ## Title: Designing Custom Maintenance Plans with TSQL
@@ -151,7 +152,7 @@ I will review how to build a custom maintenance plans from the ground up using T
 #  
 #### SessionID: 20229
 # Virtualizing SQL 2012: Doing It Right
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S216
 ## Speaker: Michael Corey
 ## Title: Virtualizing SQL 2012: Doing It Right
@@ -160,7 +161,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S216
 #  
 #### SessionID: 20541
 # Seven SQL Agent Jobs You Should be Running
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S213
 ## Speaker: Mike Hillwig
 ## Title: Seven SQL Agent Jobs You Should be Running
@@ -173,7 +174,7 @@ You'll learn how to implement seven simple scripts that perk their ears up and s
 #  
 #### SessionID: 20543
 # New Server in an Hour? No Problem!
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S214
 ## Speaker: Mike Hillwig
 ## Title: New Server in an Hour? No Problem!
@@ -182,7 +183,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S214
 #  
 #### SessionID: 20633
 # As a DBA, Where Do I Start!?
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S212
 ## Speaker: Mike Walsh
 ## Title: As a DBA, Where Do I Start!?
@@ -191,7 +192,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S212
 #  
 #### SessionID: 20634
 # Iceberg, Dead Ahead!
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S212
 ## Speaker: Mike Walsh
 ## Title: Iceberg, Dead Ahead!
@@ -200,7 +201,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S212
 #  
 #### SessionID: 21665
 # Network or Perish
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: MPT
 ## Speaker: Paresh Motiwala
 ## Title: Network or Perish
@@ -211,7 +212,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: MPT
 #  
 #### SessionID: 21666
 # DBA to Project Manager in 75 minutes flat
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S216
 ## Speaker: Paresh Motiwala
 ## Title: DBA to Project Manager in 75 minutes flat
@@ -222,7 +223,7 @@ In this session we wil actually take an arbitrary application and its affiliated
 #  
 #### SessionID: 23372
 # Big Data with SQL Standard Edition - True Story
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S214
 ## Speaker: Robert McCauley
 ## Title: Big Data with SQL Standard Edition - True Story
@@ -231,7 +232,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S214
 #  
 #### SessionID: 24064
 # Policy Based Management –manage consistency
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: MPT
 ## Speaker: Scott Abrants
 ## Title: Policy Based Management –manage consistency
@@ -240,7 +241,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: MPT
 #  
 #### SessionID: 24100
 # Getting Started with MDX: The (Very) Basics
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S213
 ## Speaker: Scott Klein
 ## Title: Getting Started with MDX: The (Very) Basics
@@ -249,7 +250,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S213
 #  
 #### SessionID: 24101
 # Scaling your Cloud Database with SQL Federations
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S216
 ## Speaker: Scott Klein
 ## Title: Scaling your Cloud Database with SQL Federations
@@ -258,7 +259,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S216
 #  
 #### SessionID: 25223
 # Get your Mining Model Predictions out to all
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: MPT
 ## Speaker: Steve Simon
 ## Title: Get your Mining Model Predictions out to all
@@ -267,7 +268,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: MPT
 #  
 #### SessionID: 25225
 # SSIS 2012 : Keeping ahead of the curve
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S216
 ## Speaker: Steve Simon
 ## Title: SSIS 2012 : Keeping ahead of the curve
@@ -277,7 +278,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S216
 #  
 #### SessionID: 25876
 # Intuitive  ad-hoc reporting: SQL 2012 Power View
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S214
 ## Speaker: Sunil Kadimdiwan
 ## Title: Intuitive  ad-hoc reporting: SQL 2012 Power View
@@ -287,7 +288,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S214
 #  
 #### SessionID: 27714
 # Windowing Functions in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S216
 ## Speaker: Wayne Sheffield
 ## Title: Windowing Functions in SQL Server 2012
@@ -296,7 +297,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S216
 #  
 #### SessionID: 27715
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S214
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -305,7 +306,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S214
 #  
 #### SessionID: 27984
 # Overcoming Barriers and Avoiding Mistakes with BI
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S213
 ## Speaker: William E Pearson III
 ## Title: Overcoming Barriers and Avoiding Mistakes with BI
@@ -314,7 +315,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S213
 #  
 #### SessionID: 27988
 # Serene Velocity: Reporting Services and SSAS Data
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S213
 ## Speaker: William E Pearson III
 ## Title: Serene Velocity: Reporting Services and SSAS Data
@@ -323,7 +324,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S213
 #  
 #### SessionID: 34584
 # SQL Server 2012 Availability Groups
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S212
 ## Speaker: Andy Roberts
 ## Title: SQL Server 2012 Availability Groups
@@ -333,7 +334,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S212
 #  
 #### SessionID: 34586
 # Introduction to SQL Azure
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: MPT
 ## Speaker: Andy Roberts
 ## Title: Introduction to SQL Azure
@@ -342,7 +343,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: MPT
 #  
 #### SessionID: 34587
 # DB Development ALM with SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S213
 ## Speaker: Andy Roberts
 ## Title: DB Development ALM with SQL Server Data Tools
@@ -352,7 +353,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S213
 #  
 #### SessionID: 8913
 # T-SQL : Bad Habits to Kick
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S214
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits to Kick
@@ -361,7 +362,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S214
 #  
 #### SessionID: 8914
 # The Ins  Outs of Contained Databases
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S212
 ## Speaker: Aaron Bertrand
 ## Title: The Ins  Outs of Contained Databases
@@ -370,7 +371,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S212
 #  
 #### SessionID: 9693
 # Database Deployment Done Right
-#### [Back to calendar](#SQLSaturday-#156-Providence-2012)
+#### [Back to calendar](#nr-156)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: S212
 ## Speaker: Alex Papadimoulis
 ## Title: Database Deployment Done Right

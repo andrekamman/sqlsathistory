@@ -1,3 +1,4 @@
+#### Nr: 790
 #### [Back to Main list](index.md)
 # SQLSaturday #790 - Holland 2018
 Start Time (24h)|Speaker|Track|Title
@@ -36,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 82681
 # Understanding the Power BI data model
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kasper de Jonge
 ## Title: Understanding the Power BI data model
@@ -45,7 +46,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 82685
 # Azure Cognitive Services - AI for everyone
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Alexander Klein
 ## Title: Azure Cognitive Services - AI for everyone
@@ -56,7 +57,7 @@ This is a large playground for young and old. Here you can try out to your heart
 #  
 #### SessionID: 82698
 # dbachecks - The PowerShell Module to validate your SQL Estate
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Sewell
 ## Title: dbachecks - The PowerShell Module to validate your SQL Estate
@@ -78,7 +79,7 @@ Join one of the founders of the module, Rob Sewell MVP. and he will show you how
 #  
 #### SessionID: 82998
 # Scaling Out Workload Processing Using SQL Server Running Inside Containers
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Christopher Adkin
 ## Title: Scaling Out Workload Processing Using SQL Server Running Inside Containers
@@ -87,7 +88,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 83727
 # Introduction to Biml - Generating your SSIS packages from scratch
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Koen Verbeeck
 ## Title: Introduction to Biml - Generating your SSIS packages from scratch
@@ -105,7 +106,7 @@ A working knowledge of Integration Services package development is necessary.
 #  
 #### SessionID: 84050
 # Deploy database changes using SSDT, VSTS and DACPAC
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eelco Drost
 ## Title: Deploy database changes using SSDT, VSTS and DACPAC
@@ -115,7 +116,7 @@ In this demo only session we will build a CI/CD pipeline from scratch! From an e
 #  
 #### SessionID: 83074
 # New Security Features in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Postlethwaite
 ## Title: New Security Features in SQL Server 2016
@@ -133,7 +134,7 @@ In this session we will have an overview of these important security features an
 #  
 #### SessionID: 84272
 # Azure Analysis Services - An important step for BI in the cloud?
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gabi Münster
 ## Title: Azure Analysis Services - An important step for BI in the cloud?
@@ -144,7 +145,7 @@ This session offers answers to your questions and provides insight to support th
 #  
 #### SessionID: 84407
 # Combining Azure Cognitive Services and ML.net for AI empowerment!
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Niels Naglé
 ## Title: Combining Azure Cognitive Services and ML.net for AI empowerment!
@@ -157,7 +158,7 @@ This by using Microsoft Cognitive Services and ML.Net:
 #  
 #### SessionID: 84424
 # U-SQL custom extractor for multi-gigabyte XML
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Paul Mooij
 ## Title: U-SQL custom extractor for multi-gigabyte XML
@@ -170,7 +171,7 @@ Hands-on stuff where solutions will be shared with attendees.
 #  
 #### SessionID: 84454
 # Techniques to implement privacy for Data analytics
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Manon van den Burg
 ## Title: Techniques to implement privacy for Data analytics
@@ -179,7 +180,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 82761
 # Database tuning advisor vs. dynamic management views
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Torsten Strauss
 ## Title: Database tuning advisor vs. dynamic management views
@@ -192,7 +193,7 @@ So, we will try to answer these questions in this deep dive session (300-400).
 #  
 #### SessionID: 83018
 # Monitoring Availability Groups
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Monitoring Availability Groups
@@ -203,7 +204,7 @@ You will walk away from this session with tools you need to monitor your environ
 #  
 #### SessionID: 83592
 # Embedding PowerApps into a Power BI Dashboard
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Callum Green
 ## Title: Embedding PowerApps into a Power BI Dashboard
@@ -216,7 +217,7 @@ The 1-hour session includes other technologies such as Azure SQL Database, Commo
 #  
 #### SessionID: 83733
 # Using Azure Machine Learning in Stream Analytics
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Nico Jacobs
 ## Title: Using Azure Machine Learning in Stream Analytics
@@ -227,7 +228,7 @@ So if you want to see how within 60 minutes we can learn patterns in streams of 
 #  
 #### SessionID: 83978
 # Not just polish – How good code also runs faster
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Daniel Hutmacher
 ## Title: Not just polish – How good code also runs faster
@@ -242,7 +243,7 @@ This presentation is all-code, some execution plans, and no-powerpoint.
 #  
 #### SessionID: 82646
 # GDPR, A European Horror Story
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: John Martin
 ## Title: GDPR, A European Horror Story
@@ -253,7 +254,7 @@ Together we will talk through what GDPR is, how to know if it applies to you and
 #  
 #### SessionID: 84326
 # Migrating to an Azure SQL Datawarehouse with Azure Data Factory V2
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Erwin De Kreuk
 ## Title: Migrating to an Azure SQL Datawarehouse with Azure Data Factory V2
@@ -265,7 +266,7 @@ It will be a session with a lot of demo’s and after the session you should hav
 #  
 #### SessionID: 84404
 # Step-by-step towards building a SSIS Custom Pipeline Component
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Arne Bartels
 ## Title: Step-by-step towards building a SSIS Custom Pipeline Component
@@ -276,7 +277,7 @@ Only free tools will be used. Basic C# knowledge is recommended.
 #  
 #### SessionID: 84410
 # Building solutions with Azure Databricks
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Hans Geurtsen
 ## Title: Building solutions with Azure Databricks
@@ -285,7 +286,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 84537
 # Azure SQL Database - Lessons learned from the trenches
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Azure SQL Database - Lessons learned from the trenches
@@ -294,7 +295,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82937
 # Datawarehouse Lightning Performance with Columnstore!
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stijn Wynants
 ## Title: Datawarehouse Lightning Performance with Columnstore!
@@ -305,7 +306,7 @@ After this session things like segment elimination, auto adjust buffer size, Del
 #  
 #### SessionID: 83184
 # Containers, Pods, and Databases-The the Future of Infrastructure
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joseph D'Antoni
 ## Title: Containers, Pods, and Databases-The the Future of Infrastructure
@@ -314,7 +315,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83747
 # Automating Power BI
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jan Mulkens
 ## Title: Automating Power BI
@@ -329,7 +330,7 @@ You'll walk out of this session knowing:
 #  
 #### SessionID: 84089
 # Automatisch werkproces met Microsoft Flow en Power BI
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Hylke Peek
 ## Title: Automatisch werkproces met Microsoft Flow en Power BI
@@ -342,7 +343,7 @@ In deze sessie introduceren we Flow en kijken we naar use cases om Power Bi te i
 #  
 #### SessionID: 84339
 # Deep dive into Adaptive Query Processing
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Deep dive into Adaptive Query Processing
@@ -355,7 +356,7 @@ If you are more interested in how all this ACTUALLY works than in shiny marketin
 #  
 #### SessionID: 82692
 # Moving advanced analytics to your SQL Server databases
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Enrico van de Laar
 ## Title: Moving advanced analytics to your SQL Server databases
@@ -365,7 +366,7 @@ With the release of SQL Server 2016 Microsoft integrated a solution to the quest
 #  
 #### SessionID: 82694
 # Simplifying XEvents Management with dbatools
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chrissy LeMaire
 ## Title: Simplifying XEvents Management with dbatools
@@ -378,7 +379,7 @@ Join SQL Server MVP Gianluca Sartori and PowerShell MVP Chrissy LeMaire to see h
 #  
 #### SessionID: 83114
 # SQL Security in the Cloud
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tobias Koprowski
 ## Title: SQL Security in the Cloud
@@ -387,7 +388,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83327
 # Start testing your SSIS packages with ssisUnit
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bartosz Ratajczyk
 ## Title: Start testing your SSIS packages with ssisUnit
@@ -398,7 +399,7 @@ On this session, I will show you how to start with automated testing of the pack
 #  
 #### SessionID: 84250
 # Know What Your Code is Doing to SQL Server!
-#### [Back to calendar](#SQLSaturday-#790-Holland-2018)
+#### [Back to calendar](#nr-790)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Know What Your Code is Doing to SQL Server!

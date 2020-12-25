@@ -1,3 +1,4 @@
+#### Nr: 699
 #### [Back to Main list](index.md)
 # SQLSaturday #699 - Tampa 2018
 Start Time (24h)|Speaker|Track|Title
@@ -54,7 +55,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 69470
 # Azure Sql PAAS: Lessons from the Real World
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Jonathon Moorman
 ## Title: Azure Sql PAAS: Lessons from the Real World
@@ -63,7 +64,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 69903
 # Dynamic Data Masking - A Deep Dive Implementation
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bill Portman
 ## Title: Dynamic Data Masking - A Deep Dive Implementation
@@ -72,7 +73,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70647
 # Database Project Makes Deployment Consistent
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
@@ -81,7 +82,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 72376
 # SQL Server Standard Now Does All the Cool Tricks
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Andrew Novick
 ## Title: SQL Server Standard Now Does All the Cool Tricks
@@ -97,7 +98,7 @@ These features will be explained with examples of how them can benefit even a sm
 #  
 #### SessionID: 72697
 # Cautionary Tale of Recompilations, Excessive CPU Load and Plan Caching
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dmitri Korotkevitch
 ## Title: Cautionary Tale of Recompilations, Excessive CPU Load and Plan Caching
@@ -108,7 +109,7 @@ In this session, Dmitri will explain how plan caching works internally and demon
 #  
 #### SessionID: 72757
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -117,7 +118,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 74055
 # Eliminating Low Hanging Fruit for Faster Performance
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Jonathan Kehayias
 ## Title: Eliminating Low Hanging Fruit for Faster Performance
@@ -126,7 +127,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 74329
 # Hack / Protect SQL Server - Come learn both.
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Hiram Fleitas
 ## Title: Hack / Protect SQL Server - Come learn both.
@@ -144,7 +145,7 @@ No worries, I'll show you the way along with a load test.
 #  
 #### SessionID: 69973
 # Uptight Database Security
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ronald Dameron
 ## Title: Uptight Database Security
@@ -157,7 +158,7 @@ Come to this session to learn how to deploy a configurable permission model that
 #  
 #### SessionID: 72360
 # Introduction to IoT using Azure
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: John Wang
 ## Title: Introduction to IoT using Azure
@@ -167,7 +168,7 @@ We will take an look on what is Internet of Things (IoT), the impact of IoT to t
 #  
 #### SessionID: 72648
 # Tuning Like CSS: With These Tools There's No Need Call Support
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kerry Tyler
 ## Title: Tuning Like CSS: With These Tools There's No Need Call Support
@@ -180,7 +181,7 @@ In this session, you'll learn how to use battle tested tools to analyze your wor
 #  
 #### SessionID: 73087
 # Lessons Learned from Two Years as a Devops DBA
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Warren
 ## Title: Lessons Learned from Two Years as a Devops DBA
@@ -189,7 +190,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73310
 # 13 Tips for an Effective Job Search
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Erica Woods
 ## Title: 13 Tips for an Effective Job Search
@@ -198,7 +199,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 73315
 # Power BI administration made easy(ier)
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan Evans
 ## Title: Power BI administration made easy(ier)
@@ -207,7 +208,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 73970
 # Enabling EDW and BI workloads on Hadoop with Hive / LLAP + Druid!
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Luis Figueroa
 ## Title: Enabling EDW and BI workloads on Hadoop with Hive / LLAP + Druid!
@@ -216,7 +217,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 74215
 # SQL Server ColumnStore Indexes
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gareth Swanepoel
 ## Title: SQL Server ColumnStore Indexes
@@ -226,7 +227,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 69913
 # Welcome To the 2016 Query Store!
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Welcome To the 2016 Query Store!
@@ -235,7 +236,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70686
 # Database Creation Process
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Arvin Meyer
 ## Title: Database Creation Process
@@ -244,7 +245,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 71340
 # PowerShell Core working with Python (Anaconda) and SQL Server Cross-platform
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Maximo Trinidad
 ## Title: PowerShell Core working with Python (Anaconda) and SQL Server Cross-platform
@@ -253,7 +254,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 71592
 # A Beginner's Guide to Power BI
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Ed Watson
 ## Title: A Beginner's Guide to Power BI
@@ -262,7 +263,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 71734
 # Master Data Management with SQL Server 2016 MDS
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Neal Waterstreet
 ## Title: Master Data Management with SQL Server 2016 MDS
@@ -271,7 +272,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 72483
 # vNUMA, pNUMA, save your SQL Servers from certain DoomA
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: vNUMA, pNUMA, save your SQL Servers from certain DoomA
@@ -283,7 +284,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 72743
 # Spot the Potential Breakpoints in your Automated Process
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Glenda Gable
 ## Title: Spot the Potential Breakpoints in your Automated Process
@@ -292,7 +293,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 74512
 # Artificial Intelligence, Cognitive Services, and Power BI
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Paco Gonzalez
 ## Title: Artificial Intelligence, Cognitive Services, and Power BI
@@ -301,7 +302,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 74459
 # #GetModern with Dell EMC’s iCDM
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Other
 ## Speaker: Bryan Walsh
 ## Title: #GetModern with Dell EMC’s iCDM
@@ -310,7 +311,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 69378
 # How To Tune A Multi-Terabyte Database For Optimum Performance.
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Taylor
 ## Title: How To Tune A Multi-Terabyte Database For Optimum Performance.
@@ -319,7 +320,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70665
 # SQL Style
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Robert Hatton
 ## Title: SQL Style
@@ -330,7 +331,7 @@ Even if you've been writing SQL, this discussion might make challenging tasks ea
 #  
 #### SessionID: 70837
 # Going Asynchronous with Service Broker
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Jonathan Kehayias
 ## Title: Going Asynchronous with Service Broker
@@ -341,7 +342,7 @@ This session will explain the benefits of asynchronous processing in Service Bro
 #  
 #### SessionID: 71342
 # Migrations 101
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gilda Alvarez
 ## Title: Migrations 101
@@ -350,7 +351,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 72754
 # Hi, my name is Powershell, let's be friends! An Intro to PoSH
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Hi, my name is Powershell, let's be friends! An Intro to PoSH
@@ -359,7 +360,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 72756
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -370,7 +371,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 73077
 # Power BI-Create a Dashboard from Zero to Hero
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vishal Pawar
 ## Title: Power BI-Create a Dashboard from Zero to Hero
@@ -380,7 +381,7 @@ Learn how to create Power BI Dashboard from scratch.
 #  
 #### SessionID: 74142
 # Intro into SQL Server High Availability Technologies
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Harold Velazquez
 ## Title: Intro into SQL Server High Availability Technologies
@@ -389,7 +390,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69366
 # Modern Concerns about Reporting Style with Power BI
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Michael Antonovich
 ## Title: Modern Concerns about Reporting Style with Power BI
@@ -398,7 +399,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 70090
 # SQL Server Then and Now: Changing the State of Long-held Beliefs
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Maxwell Myrick
 ## Title: SQL Server Then and Now: Changing the State of Long-held Beliefs
@@ -407,7 +408,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70750
 # Temporal Tables:  Creation, Use, and Optimizing
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dale Sullenberger
 ## Title: Temporal Tables:  Creation, Use, and Optimizing
@@ -416,7 +417,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71899
 # The DBA Survival Guide for In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ned Otter
 ## Title: The DBA Survival Guide for In-Memory OLTP
@@ -431,7 +432,7 @@ Attendees will gain a clear understanding of the knowledge and skills required t
 #  
 #### SessionID: 72276
 # A Rocket Scientist Perspective on Indexes
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: A Rocket Scientist Perspective on Indexes
@@ -440,7 +441,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 72645
 # Introduction to Business Intelligence
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Other
 ## Speaker: Kerry Tyler
 ## Title: Introduction to Business Intelligence
@@ -449,7 +450,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 72652
 # The Modern Data Architecture, Big Data and Data Science
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Frank Quintana
 ## Title: The Modern Data Architecture, Big Data and Data Science
@@ -461,7 +462,7 @@ In this presentation I intent to expose limitations and opportunities
 #  
 #### SessionID: 74128
 # Don't Get Lost in Translation: Multilingual Reporting in SSRS
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Scott
 ## Title: Don't Get Lost in Translation: Multilingual Reporting in SSRS
@@ -471,7 +472,7 @@ This session will highlight how to create a pivoted dataset for the translated t
 #  
 #### SessionID: 69437
 # Securing SQL Server
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Feasel
 ## Title: Securing SQL Server
@@ -480,7 +481,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69617
 # The Business Intelligence Side of SQL Server
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sayed Saeed
 ## Title: The Business Intelligence Side of SQL Server
@@ -489,7 +490,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 69928
 # How To Improve Your Career And Market Yourself For Success.
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Albert Lau
 ## Title: How To Improve Your Career And Market Yourself For Success.
@@ -498,7 +499,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 70119
 # Full Azure Automation with PowerShell
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bryan Cafferky
 ## Title: Full Azure Automation with PowerShell
@@ -507,7 +508,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 70189
 # Collecting Performance Metrics
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Collecting Performance Metrics
@@ -520,7 +521,7 @@ Attendees in this session will learn how to collect important metric data, what 
 #  
 #### SessionID: 71224
 # Locks, Blocks, and Deadlocks; Tame the Sibling Rivalry
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Locks, Blocks, and Deadlocks; Tame the Sibling Rivalry
@@ -533,7 +534,7 @@ By the end of this session you will walk away with the knowledge of how the lock
 #  
 #### SessionID: 72329
 # Big Data on Azure: Processing, Wrangling  Analysing DataSets using Scalable Programming Languages
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Big Data on Azure: Processing, Wrangling  Analysing DataSets using Scalable Programming Languages
@@ -542,7 +543,7 @@ Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 73215
 # Twitter Data  Sentiment Analysis: Staring Logic Apps, Azure ML, Twitter Data, Power BI, and Python
-#### [Back to calendar](#SQLSaturday-#699-Tampa-2018)
+#### [Back to calendar](#nr-699)
 Event Date: 24-02-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Bradley Ball
 ## Title: Twitter Data  Sentiment Analysis: Staring Logic Apps, Azure ML, Twitter Data, Power BI, and Python

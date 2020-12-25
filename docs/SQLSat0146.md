@@ -1,3 +1,4 @@
+#### Nr: 146
 #### [Back to Main list](index.md)
 # SQLSaturday #146 - Nashua 2012
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 16190
 # SQL 2012 -- All About HA and DR
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Joseph D'Antoni
 ## Title: SQL 2012 -- All About HA and DR
@@ -38,7 +39,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16191
 # Way Too Deep--Inside AlwaysOn
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Joseph D'Antoni
 ## Title: Way Too Deep--Inside AlwaysOn
@@ -47,7 +48,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 16726
 # Advanced Transactional Replication
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: John Flannery
 ## Title: Advanced Transactional Replication
@@ -56,7 +57,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 17017
 # Effective use of temporary tables
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: John Miner
 ## Title: Effective use of temporary tables
@@ -68,7 +69,7 @@ I will be covering derived tables, local temporary tables, global temporary tabl
 #  
 #### SessionID: 19640
 # MDX Trek: First Contact
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Mark Vaillancourt
 ## Title: MDX Trek: First Contact
@@ -77,7 +78,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 19834
 # EIM - Bringing Together SSIS, DQS, and MDS (300)
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Matt Masson
 ## Title: EIM - Bringing Together SSIS, DQS, and MDS (300)
@@ -86,7 +87,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20631
 # SSIS 2012 – Overview and Changes
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mike Walsh
 ## Title: SSIS 2012 – Overview and Changes
@@ -95,7 +96,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20632
 # DBA Worst Practices, Disasters and Horror Stories
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mike Walsh
 ## Title: DBA Worst Practices, Disasters and Horror Stories
@@ -104,7 +105,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23373
 # Big Data with SQL Standard Edition - True Story
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Robert McCauley
 ## Title: Big Data with SQL Standard Edition - True Story
@@ -113,7 +114,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 25211
 # Database design for mere developers 
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Steve Simon
 ## Title: Database design for mere developers 
@@ -122,7 +123,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 25215
 # Alright,WHY is the server REALLY running so slow!
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Steve Simon
 ## Title: Alright,WHY is the server REALLY running so slow!
@@ -131,7 +132,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 25877
 # PowerPivot  Power View: Create Impressive Reports
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Sunil Kadimdiwan
 ## Title: PowerPivot  Power View: Create Impressive Reports
@@ -140,7 +141,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 27504
 # Introduction to BI Semantic Model (BISM) 
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Slava Kokaev
 ## Title: Introduction to BI Semantic Model (BISM) 
@@ -149,7 +150,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 27927
 # Beyond Plateaux: Optimize SSAS with Best Practices
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: William E Pearson III
 ## Title: Beyond Plateaux: Optimize SSAS with Best Practices
@@ -158,7 +159,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 27928
 # Bridging the Chasm: BI Theory vs. Practice
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: William E Pearson III
 ## Title: Bridging the Chasm: BI Theory vs. Practice
@@ -167,7 +168,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 27934
 # Overcoming Barriers and Avoiding Mistakes with BI
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: William E Pearson III
 ## Title: Overcoming Barriers and Avoiding Mistakes with BI
@@ -176,7 +177,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 34600
 # Introduction to SQL Azure
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Andy Roberts
 ## Title: Introduction to SQL Azure
@@ -186,7 +187,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 34601
 # Database Development ALM with SQL Server Data Tool
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Andy Roberts
 ## Title: Database Development ALM with SQL Server Data Tool
@@ -196,7 +197,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 8915
 # T-SQL : Bad Habits to Kick
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits to Kick
@@ -205,7 +206,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9155
 # Performance Monitoring 101
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andrew Kelly
 ## Title: Performance Monitoring 101
@@ -214,7 +215,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9156
 # SQL2012 Query  Procedure Call Statistics
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andrew Kelly
 ## Title: SQL2012 Query  Procedure Call Statistics
@@ -223,7 +224,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9515
 # Designing an SSIS Framework 
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andy Leonard
 ## Title: Designing an SSIS Framework 
@@ -232,7 +233,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9518
 # “I See a Control Flow Tab. Now What?” (Level 100)
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andy Leonard
 ## Title: “I See a Control Flow Tab. Now What?” (Level 100)
@@ -241,7 +242,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9672
 # Faster  Stored Procedures and Functions
-#### [Back to calendar](#SQLSaturday-#146-Nashua-2012)
+#### [Back to calendar](#nr-146)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Andrew Novick
 ## Title: Faster  Stored Procedures and Functions

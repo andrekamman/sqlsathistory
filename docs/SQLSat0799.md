@@ -1,3 +1,4 @@
+#### Nr: 799
 #### [Back to Main list](index.md)
 # SQLSaturday #799 - Salvador 2018
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 83862
 # Extend Events x SQLProfiler
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Database Administration
 ## Speaker: Advaldo Mesquita
 ## Title: Extend Events x SQLProfiler
@@ -33,7 +34,7 @@ Vamos montar na pratica um monitoramento utilizando os dois recursos e determina
 #  
 #### SessionID: 84774
 # [Tableau] Análise de dados, segurança e governança com Tableau + SQL Server
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: BI  Big Data
 ## Speaker: Nilton Kazuyuki Ueda
 ## Title: [Tableau] Análise de dados, segurança e governança com Tableau + SQL Server
@@ -42,7 +43,7 @@ Event Date: 20-10-2018 - Session time: 16:20:00 - Track: BI  Big Data
 #  
 #### SessionID: 85617
 # Evitando os problemas mais comuns no Always On Availability Groups
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Database Administration
 ## Speaker: Marcelo Adade
 ## Title: Evitando os problemas mais comuns no Always On Availability Groups
@@ -53,7 +54,7 @@ Nesta seção veremos as "pegadinhas" mais comuns quando  configuramos os AGs e 
 #  
 #### SessionID: 85447
 # Fundamentos do Azure para DBAs
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Cloud
 ## Speaker: Paulo Daniel Nobre
 ## Title: Fundamentos do Azure para DBAs
@@ -62,7 +63,7 @@ Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Cloud
 #  
 #### SessionID: 85542
 # PostgreSQL e SQL Server, um casamento perfeito!
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: BI  Big Data
 ## Speaker: Alan Ribeiro
 ## Title: PostgreSQL e SQL Server, um casamento perfeito!
@@ -75,7 +76,7 @@ Veja o quanto interessante é poder manipular dados de um MS SQL Server dentro d
 #  
 #### SessionID: 85582
 # Always Encrypted: A Forensic Analysis
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Software Development  Database
 ## Speaker: Gustavo Moura Fé
 ## Title: Always Encrypted: A Forensic Analysis
@@ -88,7 +89,7 @@ Prerequisites: Understanding how SQL Server stores data and manages the buffer p
 #  
 #### SessionID: 84055
 # Carregando dados para SQL Data Warehouse com DataFactory e PolyBase
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Cloud
 ## Speaker: Raiane Lins
 ## Title: Carregando dados para SQL Data Warehouse com DataFactory e PolyBase
@@ -101,7 +102,7 @@ processo de ETL utilizando os recursos que a nuvem pode nos oferecer.
 #  
 #### SessionID: 84239
 # Escalando aplicações utilizando o padrão CQRS
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Software Development  Database
 ## Speaker: ALISSON SENA
 ## Title: Escalando aplicações utilizando o padrão CQRS
@@ -110,7 +111,7 @@ Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Software Development  D
 #  
 #### SessionID: 85337
 # Persistência poliglota - Até onde isso ajuda ou complica seu ambiente
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Database Administration
 ## Speaker: Leandro Domingues
 ## Title: Persistência poliglota - Até onde isso ajuda ou complica seu ambiente
@@ -119,7 +120,7 @@ Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Database Administration
 #  
 #### SessionID: 83951
 # Transaction Log com AlwaysOn Availability Group
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Database Administration
 ## Speaker: Thiago Cruz
 ## Title: Transaction Log com AlwaysOn Availability Group
@@ -130,7 +131,7 @@ Vamos também entender o comportamento do AG em momentos de reverting e recoveri
 #  
 #### SessionID: 84926
 # MySQL  PostgreSQL como PaaS no Ecossistema do Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Cloud
 ## Speaker: Wiluey Sousa
 ## Title: MySQL  PostgreSQL como PaaS no Ecossistema do Microsoft Azure
@@ -143,7 +144,7 @@ Entenderemos quais os benefícios deste tipo de arquitetura.
 #  
 #### SessionID: 85258
 # ORM (Entity Framework | Hibernate), extraindo o melhor dessa técnica tão mal vista
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Software Development  Database
 ## Speaker: Igor Santos de Paula
 ## Title: ORM (Entity Framework | Hibernate), extraindo o melhor dessa técnica tão mal vista
@@ -152,7 +153,7 @@ Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Software Development  D
 #  
 #### SessionID: 84765
 # Monitorando seu ambiente em real-time com Power BI
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Database Administration
 ## Speaker: Reginaldo Silva
 ## Title: Monitorando seu ambiente em real-time com Power BI
@@ -161,7 +162,7 @@ Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Database Administration
 #  
 #### SessionID: 85588
 # Tuning na teoria
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Software Development  Database
 ## Speaker: Cleilson Gomes
 ## Title: Tuning na teoria
@@ -170,7 +171,7 @@ Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Software Development  D
 #  
 #### SessionID: 86326
 # Implementando soluções de IA utilizando os serviços cognitvos no
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: BI  Big Data
 ## Speaker: Vitor Fava
 ## Title: Implementando soluções de IA utilizando os serviços cognitvos no
@@ -181,7 +182,7 @@ Nesta sessão discutiremos os conceitos básicos da IA e como podemos aplicá-la
 #  
 #### SessionID: 84925
 # MongoDB para DBAs Relacionais - Tudo o que você sempre quis saber
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Database Administration
 ## Speaker: Leandro Domingues
 ## Title: MongoDB para DBAs Relacionais - Tudo o que você sempre quis saber
@@ -190,7 +191,7 @@ Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Database Administration
 #  
 #### SessionID: 85110
 # O Ecossistema de BI no Azure
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: BI  Big Data
 ## Speaker: Arthur Luz
 ## Title: O Ecossistema de BI no Azure
@@ -199,7 +200,7 @@ Event Date: 20-10-2018 - Session time: 16:20:00 - Track: BI  Big Data
 #  
 #### SessionID: 85604
 # Análise de Desempenho de Consultas - Uma abordagem através do Plano de Execução
-#### [Back to calendar](#SQLSaturday-#799-Salvador-2018)
+#### [Back to calendar](#nr-799)
 Event Date: 20-10-2018 - Session time: 16:20:00 - Track: Software Development  Database
 ## Speaker: Anderson Vasconcelos
 ## Title: Análise de Desempenho de Consultas - Uma abordagem através do Plano de Execução

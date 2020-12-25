@@ -1,3 +1,4 @@
+#### Nr: 812
 #### [Back to Main list](index.md)
 # SQLSaturday #812 - Lima 2018
 Start Time (24h)|Speaker|Track|Title
@@ -20,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 86367
 # Herramientas de Data Science: Analítica e Storytelling
-#### [Back to calendar](#SQLSaturday-#812-Lima-2018)
+#### [Back to calendar](#nr-812)
 Event Date: 01-12-2018 - Session time: 16:50:00 - Track: Artificial Intelligence
 ## Speaker: ALAN FERRANDIZ LANGLEY
 ## Title: Herramientas de Data Science: Analítica e Storytelling
@@ -29,7 +30,7 @@ Event Date: 01-12-2018 - Session time: 16:50:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 87313
 # El sorprendente mundo de la ciencia de datos
-#### [Back to calendar](#SQLSaturday-#812-Lima-2018)
+#### [Back to calendar](#nr-812)
 Event Date: 01-12-2018 - Session time: 16:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Enrique Espinoza Solórzano
 ## Title: El sorprendente mundo de la ciencia de datos
@@ -38,7 +39,7 @@ Event Date: 01-12-2018 - Session time: 16:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 87393
 # Time Intelligence with SSAS  Power BI
-#### [Back to calendar](#SQLSaturday-#812-Lima-2018)
+#### [Back to calendar](#nr-812)
 Event Date: 01-12-2018 - Session time: 16:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alejandro Humberto Sánchez Núñez
 ## Title: Time Intelligence with SSAS  Power BI
@@ -47,7 +48,7 @@ Event Date: 01-12-2018 - Session time: 16:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 86010
 # Best practices using Azure Data Warehouse
-#### [Back to calendar](#SQLSaturday-#812-Lima-2018)
+#### [Back to calendar](#nr-812)
 Event Date: 01-12-2018 - Session time: 16:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Best practices using Azure Data Warehouse
@@ -56,7 +57,7 @@ Event Date: 01-12-2018 - Session time: 16:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 87407
 # Azure SQL Database - Lessons learned from the trenches
-#### [Back to calendar](#SQLSaturday-#812-Lima-2018)
+#### [Back to calendar](#nr-812)
 Event Date: 01-12-2018 - Session time: 16:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Fernando Cobo Enriquez
 ## Title: Azure SQL Database - Lessons learned from the trenches
@@ -65,7 +66,7 @@ Event Date: 01-12-2018 - Session time: 16:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 87408
 # Back to the future - Migrating our SQL Server On-premises database to Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#812-Lima-2018)
+#### [Back to calendar](#nr-812)
 Event Date: 01-12-2018 - Session time: 16:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Fernando Cobo Enriquez
 ## Title: Back to the future - Migrating our SQL Server On-premises database to Azure SQL Database
@@ -81,7 +82,7 @@ This session consists of:
 #  
 #### SessionID: 87595
 # Dynamic Row Level Security with SSAS  Power BI
-#### [Back to calendar](#SQLSaturday-#812-Lima-2018)
+#### [Back to calendar](#nr-812)
 Event Date: 01-12-2018 - Session time: 16:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alejandro Humberto Sánchez Núñez
 ## Title: Dynamic Row Level Security with SSAS  Power BI
@@ -90,7 +91,7 @@ Event Date: 01-12-2018 - Session time: 16:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 86009
 # Modelos Predictivos con Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#812-Lima-2018)
+#### [Back to calendar](#nr-812)
 Event Date: 01-12-2018 - Session time: 16:50:00 - Track: Artificial Intelligence
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Modelos Predictivos con Azure Machine Learning
@@ -99,7 +100,7 @@ Event Date: 01-12-2018 - Session time: 16:50:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 87319
 # The roadmap for SQL Server
-#### [Back to calendar](#SQLSaturday-#812-Lima-2018)
+#### [Back to calendar](#nr-812)
 Event Date: 01-12-2018 - Session time: 16:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Juan Rafael
 ## Title: The roadmap for SQL Server
@@ -108,7 +109,7 @@ Event Date: 01-12-2018 - Session time: 16:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 87417
 # Enviando datos a Power BI desde Arduino
-#### [Back to calendar](#SQLSaturday-#812-Lima-2018)
+#### [Back to calendar](#nr-812)
 Event Date: 01-12-2018 - Session time: 16:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marlon Leandro
 ## Title: Enviando datos a Power BI desde Arduino
@@ -117,7 +118,7 @@ Event Date: 01-12-2018 - Session time: 16:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 87320
 # Microsoft PowerApps, Power BI, and Flow: Power platform vision and roadmap
-#### [Back to calendar](#SQLSaturday-#812-Lima-2018)
+#### [Back to calendar](#nr-812)
 Event Date: 01-12-2018 - Session time: 16:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Juan Rafael
 ## Title: Microsoft PowerApps, Power BI, and Flow: Power platform vision and roadmap
@@ -126,7 +127,7 @@ Event Date: 01-12-2018 - Session time: 16:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 87352
 # Data Modeling with Power BI
-#### [Back to calendar](#SQLSaturday-#812-Lima-2018)
+#### [Back to calendar](#nr-812)
 Event Date: 01-12-2018 - Session time: 16:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Data Modeling with Power BI
@@ -135,7 +136,7 @@ Event Date: 01-12-2018 - Session time: 16:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 87388
 # Que necesito saber de los Indices en SQL Server?
-#### [Back to calendar](#SQLSaturday-#812-Lima-2018)
+#### [Back to calendar](#nr-812)
 Event Date: 01-12-2018 - Session time: 16:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jorge Michael Muchaypiña Gutierrez
 ## Title: Que necesito saber de los Indices en SQL Server?
@@ -144,7 +145,7 @@ Event Date: 01-12-2018 - Session time: 16:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 87321
 # Microsoft Dynamics 365 for Finance  Operations and Power BI: Intro to building great analytics
-#### [Back to calendar](#SQLSaturday-#812-Lima-2018)
+#### [Back to calendar](#nr-812)
 Event Date: 01-12-2018 - Session time: 16:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Juan Rafael
 ## Title: Microsoft Dynamics 365 for Finance  Operations and Power BI: Intro to building great analytics
@@ -153,7 +154,7 @@ Event Date: 01-12-2018 - Session time: 16:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 87389
 # Power BI en Ambientes Empresariales
-#### [Back to calendar](#SQLSaturday-#812-Lima-2018)
+#### [Back to calendar](#nr-812)
 Event Date: 01-12-2018 - Session time: 16:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jorge Michael Muchaypiña Gutierrez
 ## Title: Power BI en Ambientes Empresariales

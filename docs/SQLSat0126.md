@@ -1,3 +1,4 @@
+#### Nr: 126
 #### [Back to Main list](index.md)
 # SQLSaturday #126 - Indianapolis 2012
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10005
 # Manage SQL Server 2012 on Server Core w/PowerShell
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Allen White
 ## Title: Manage SQL Server 2012 on Server Core w/PowerShell
@@ -44,7 +45,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10190
 # Database Crime Scene Investigation
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Brent Dragoo
 ## Title: Database Crime Scene Investigation
@@ -53,7 +54,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 11112
 # Data Quality Services--Finally!
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Julie Smith
 ## Title: Data Quality Services--Finally!
@@ -62,7 +63,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 12027
 # Professional Networking for IT Pros
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Craig Purnell
 ## Title: Professional Networking for IT Pros
@@ -71,7 +72,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12346
 # Understanding SSIS Performance
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Dave Fackler
 ## Title: Understanding SSIS Performance
@@ -80,7 +81,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 14037
 # TempDB Performance Troubleshooting and Optimizing
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Performance Troubleshooting and Optimizing
@@ -89,7 +90,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15019
 # Consulting The Good, The Bad, The Ugly 
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Hope Foley
 ## Title: Consulting The Good, The Bad, The Ugly 
@@ -98,7 +99,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 15482
 # (SQL,SSIS,MDS) Adv Fuzzy Matching Roll Your Own
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Ira Warren
 ## Title: (SQL,SSIS,MDS) Adv Fuzzy Matching Roll Your Own
@@ -107,7 +108,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 16715
 # Looking to the future - Tabular Mode SSAS
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Josh Fennessy
 ## Title: Looking to the future - Tabular Mode SSAS
@@ -116,7 +117,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17130
 # SQL Server and Sharepoint: Best Frienemies
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Joe McTaggart
 ## Title: SQL Server and Sharepoint: Best Frienemies
@@ -126,7 +127,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17131
 # Performance Troubleshooting Sql Server
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Joe McTaggart
 ## Title: Performance Troubleshooting Sql Server
@@ -135,7 +136,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18885
 # Powershell? Yea, but I'm a DBA!
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kyle Neier
 ## Title: Powershell? Yea, but I'm a DBA!
@@ -144,7 +145,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 19318
 # Introduction to the new Data Alert feature in SSRS
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Ludwig Armbruster
 ## Title: Introduction to the new Data Alert feature in SSRS
@@ -153,7 +154,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 20552
 # Seven SQL Agent Jobs You Should be Running
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mike Hillwig
 ## Title: Seven SQL Agent Jobs You Should be Running
@@ -166,7 +167,7 @@ You'll learn how to implement seven simple scripts that perk their ears up and s
 #  
 #### SessionID: 21505
 # The Script Task, powerhouse of SSIS
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Norman Kelm
 ## Title: The Script Task, powerhouse of SSIS
@@ -175,7 +176,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 23319
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -184,7 +185,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23957
 # Parameter sniffing - make it work for you !
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Sanil Mhatre
 ## Title: Parameter sniffing - make it work for you !
@@ -195,7 +196,7 @@ In this session we will discuss the workings of Parameter Sniffing and demonstra
 #  
 #### SessionID: 24119
 # SQL Azure Scalability with Federations
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Scott Klein
 ## Title: SQL Azure Scalability with Federations
@@ -204,7 +205,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24311
 # Optimizing SQL Server I/O with Solid State Drives
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Luke Jian
 ## Title: Optimizing SQL Server I/O with Solid State Drives
@@ -213,7 +214,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24408
 # Powershell and Perfmon...Come on!
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Shaun Watts
 ## Title: Powershell and Perfmon...Come on!
@@ -222,7 +223,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 26081
 # SSIS: The DBA Multiplier
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ted Krueger
 ## Title: SSIS: The DBA Multiplier
@@ -232,7 +233,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 26292
 # Parallel Query Execution Deep Dive
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Boles
 ## Title: Parallel Query Execution Deep Dive
@@ -241,7 +242,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 27794
 # Read Dirty to Me - Isolation Levels/User Impact
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Wendy Pastrick
 ## Title: Read Dirty to Me - Isolation Levels/User Impact
@@ -250,7 +251,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27795
 # Transactional Replication 101
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Wendy Pastrick
 ## Title: Transactional Replication 101
@@ -261,7 +262,7 @@ We will cover the players in the game: Pubishers, Subscribers and Distributors, 
 #  
 #### SessionID: 28566
 # A Complete BI Solution in About an Hour! 
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Aaron King
 ## Title: A Complete BI Solution in About an Hour! 
@@ -270,7 +271,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 33857
 # Contained DB?  Did it do something wrong?
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Warren Sifre
 ## Title: Contained DB?  Did it do something wrong?
@@ -279,7 +280,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 34465
 # Overcoming Barriers and Avoiding Mistakes with BI
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: William E Pearson III
 ## Title: Overcoming Barriers and Avoiding Mistakes with BI
@@ -288,7 +289,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 8898
 # Writing Professional Database Code
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Aaron Lowe
 ## Title: Writing Professional Database Code
@@ -297,7 +298,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 8987
 # SQL Server 2012 AlwaysOn Readable Secondaries
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Adam Belebczuk
 ## Title: SQL Server 2012 AlwaysOn Readable Secondaries
@@ -306,7 +307,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9801
 # PWNED! Security, SQL Server, and You!
-#### [Back to calendar](#SQLSaturday-#126-Indianapolis-2012)
+#### [Back to calendar](#nr-126)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Arie Jones
 ## Title: PWNED! Security, SQL Server, and You!

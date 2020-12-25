@@ -1,3 +1,4 @@
+#### Nr: 64
 #### [Back to Main list](index.md)
 # SQLSaturday #64 - Baton Rouge 2011
 Start Time (24h)|Speaker|Track|Title
@@ -56,7 +57,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28479
 # Understanding Storage Systems and SQL Server
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin I
 ## Speaker: Wesley Brown
 ## Title: Understanding Storage Systems and SQL Server
@@ -65,7 +66,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin I
 #  
 #### SessionID: 28633
 # Introduction to MVC 3
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET II
 ## Speaker: Al Manint
 ## Title: Introduction to MVC 3
@@ -74,7 +75,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET II
 #  
 #### SessionID: 28870
 # Storage Optimization and Data Availability
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: Arnoldo Ruiz
 ## Title: Storage Optimization and Data Availability
@@ -84,7 +85,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SharePoint
 #  
 #### SessionID: 29099
 # Building a Maintainable Model w/ EF Code-First
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET II
 ## Speaker: Brian Sullivan
 ## Title: Building a Maintainable Model w/ EF Code-First
@@ -93,7 +94,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET II
 #  
 #### SessionID: 29285
 # Zen Coding
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET I
 ## Speaker: Brian Rigsby
 ## Title: Zen Coding
@@ -102,7 +103,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET I
 #  
 #### SessionID: 29366
 # Get a Lever and Pick Any Turtle: Lifting with Meta
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin II
 ## Speaker: Cade Roux
 ## Title: Get a Lever and Pick Any Turtle: Lifting with Meta
@@ -111,7 +112,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin II
 #  
 #### SessionID: 29411
 # Business Intelligence for Managers/Decision Makers
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Carlos Bossy
 ## Title: Business Intelligence for Managers/Decision Makers
@@ -120,7 +121,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 29412
 # Tune a Star Schema for High Performance Reporting
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Bonus Track
 ## Speaker: Carlos Bossy
 ## Title: Tune a Star Schema for High Performance Reporting
@@ -129,7 +130,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Bonus Track
 #  
 #### SessionID: 29430
 # PowerShell Cookbook for SharePoint 2010
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: Cody  Gros
 ## Title: PowerShell Cookbook for SharePoint 2010
@@ -138,7 +139,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SharePoint
 #  
 #### SessionID: 29459
 # Auditing and SQL Forensics in SQL Server 2008 (r2)
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SSIS/SSRS
 ## Speaker: Cherie Sheriff
 ## Title: Auditing and SQL Forensics in SQL Server 2008 (r2)
@@ -151,7 +152,7 @@ How much of a summary do you need?  Or will this work?  I will go into some data
 #  
 #### SessionID: 29476
 # Windows Phone Garage - Develop a Phone App
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Windows Phone Garage
 ## Speaker: Chris  Koenig
 ## Title: Windows Phone Garage - Develop a Phone App
@@ -160,7 +161,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Windows Phone Garage
 #  
 #### SessionID: 29611
 # Getting the most out of SharePoint Search
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: Cory Roth
 ## Title: Getting the most out of SharePoint Search
@@ -169,7 +170,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SharePoint
 #  
 #### SessionID: 29659
 # MVc3 - Solid principles, IOC and ORM
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET I
 ## Speaker: Chander Dhall
 ## Title: MVc3 - Solid principles, IOC and ORM
@@ -178,7 +179,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET I
 #  
 #### SessionID: 30093
 # BCS Best Practices in SharePoint 2010
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: Eric Trivette
 ## Title: BCS Best Practices in SharePoint 2010
@@ -187,7 +188,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SharePoint
 #  
 #### SessionID: 30389
 # Creating a Metadata Mart w/ SSIS - Data Governance
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SSIS/SSRS
 ## Speaker: Ira Warren
 ## Title: Creating a Metadata Mart w/ SSIS - Data Governance
@@ -196,7 +197,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SSIS/SSRS
 #  
 #### SessionID: 30469
 # Looney Tuner?  No, there IS a method to my madness
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin II
 ## Speaker: Janis Griffin
 ## Title: Looney Tuner?  No, there IS a method to my madness
@@ -205,7 +206,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin II
 #  
 #### SessionID: 30631
 # Learning SSIS under 1 hour
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SSIS/SSRS
 ## Speaker: Jose Chinchilla
 ## Title: Learning SSIS under 1 hour
@@ -214,7 +215,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SSIS/SSRS
 #  
 #### SessionID: 30633
 # Designing and Optimizing SSAS Hierarchies
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jose Chinchilla
 ## Title: Designing and Optimizing SSAS Hierarchies
@@ -223,7 +224,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 30705
 # TSQL Brush-up: The Best Things You Forgot You Knew
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin II
 ## Speaker: Jennifer McCown
 ## Title: TSQL Brush-up: The Best Things You Forgot You Knew
@@ -232,7 +233,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin II
 #  
 #### SessionID: 30706
 # Unraveling Tangled Code–Tale of Victory Over Chaos
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin I
 ## Speaker: Jennifer McCown
 ## Title: Unraveling Tangled Code–Tale of Victory Over Chaos
@@ -249,7 +250,7 @@ turn them upside-down, and reform them into something sensible.
 #  
 #### SessionID: 30968
 # Do More (ETL) with Less (Effort) - Automating SSIS
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SSIS/SSRS
 ## Speaker: John Welch
 ## Title: Do More (ETL) with Less (Effort) - Automating SSIS
@@ -258,7 +259,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SSIS/SSRS
 #  
 #### SessionID: 30970
 # Handling Advanced Data Warehouse Scenarios in SSIS
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: John Welch
 ## Title: Handling Advanced Data Warehouse Scenarios in SSIS
@@ -267,7 +268,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 31074
 # Data in the Stream: Introducing StreamInsight
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Bonus Track
 ## Speaker: J Sawyer
 ## Title: Data in the Stream: Introducing StreamInsight
@@ -278,7 +279,7 @@ It's a whole new paradigm of looking at data
 #  
 #### SessionID: 31166
 # SSRS for .Net Developers 
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SSIS/SSRS
 ## Speaker: Justin Yesso
 ## Title: SSRS for .Net Developers 
@@ -287,7 +288,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SSIS/SSRS
 #  
 #### SessionID: 31376
 # Back to Basics - Threading in .NET
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET II
 ## Speaker: Kyle Kelin
 ## Title: Back to Basics - Threading in .NET
@@ -296,7 +297,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET II
 #  
 #### SessionID: 31469
 # Fundamental OOP with C#
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET II
 ## Speaker: Chris Eargle
 ## Title: Fundamental OOP with C#
@@ -305,7 +306,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET II
 #  
 #### SessionID: 31782
 # Introduction to Windows Phone Development
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Windows Phone Garage
 ## Speaker: Chris Koenig
 ## Title: Introduction to Windows Phone Development
@@ -314,7 +315,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Windows Phone Garage
 #  
 #### SessionID: 31783
 # Windows Phone Demo Walk-through
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Windows Phone Garage
 ## Speaker: Chris Koenig
 ## Title: Windows Phone Demo Walk-through
@@ -323,7 +324,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Windows Phone Garage
 #  
 #### SessionID: 31909
 # Leveraging Open XML to Create More Dynamic Docs
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET II
 ## Speaker: Mike Huguet
 ## Title: Leveraging Open XML to Create More Dynamic Docs
@@ -332,7 +333,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET II
 #  
 #### SessionID: 31959
 # Introduction to Agile/Scrum
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Bonus Track
 ## Speaker: Michael Moles
 ## Title: Introduction to Agile/Scrum
@@ -341,7 +342,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Bonus Track
 #  
 #### SessionID: 32285
 # Developing Rich Reporting Services Visualizations
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin I
 ## Speaker: Peter Myers
 ## Title: Developing Rich Reporting Services Visualizations
@@ -352,7 +353,7 @@ Learn what each delivers and how to configure them to produce visually compellin
 #  
 #### SessionID: 32289
 # Introduction to Analysis Services 2008 R2 Cubes
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Peter Myers
 ## Title: Introduction to Analysis Services 2008 R2 Cubes
@@ -363,7 +364,7 @@ For organizations that have a Standard or Enterprise SQL Server license, Analysi
 #  
 #### SessionID: 32471
 # Introduction to Windows Azure 
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Bonus Track
 ## Speaker: Ryan Duclos
 ## Title: Introduction to Windows Azure 
@@ -372,7 +373,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Bonus Track
 #  
 #### SessionID: 32472
 # Introduction to SQL Azure
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Bonus Track
 ## Speaker: Ryan Duclos
 ## Title: Introduction to SQL Azure
@@ -381,7 +382,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Bonus Track
 #  
 #### SessionID: 32598
 # Must-Know Design Patterns
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET I
 ## Speaker: Rob Vettor
 ## Title: Must-Know Design Patterns
@@ -401,7 +402,7 @@ You’ll walk away with an understanding of each pattern which you can take to t
 #  
 #### SessionID: 32599
 # EntityFramework 360: Getting Started
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET I
 ## Speaker: Rob Vettor
 ## Title: EntityFramework 360: Getting Started
@@ -418,7 +419,7 @@ Come see how you can resolve this recurring theme with the Microsoft ADO.NET Ent
 #  
 #### SessionID: 32724
 # Using the MVVM pattern in Silverlight and WPF
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET I
 ## Speaker: Ryan Richard
 ## Title: Using the MVVM pattern in Silverlight and WPF
@@ -427,7 +428,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET I
 #  
 #### SessionID: 32864
 # Understanding Backups
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin I
 ## Speaker: Sean McCown
 ## Title: Understanding Backups
@@ -436,7 +437,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin I
 #  
 #### SessionID: 32865
 # Beginning Powershell for DBAs 1.0
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin II
 ## Speaker: Sean McCown
 ## Title: Beginning Powershell for DBAs 1.0
@@ -448,7 +449,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin II
 #  
 #### SessionID: 32871
 # Extending Visual Studio  Sql Server Mgmt. Studio
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Bonus Track
 ## Speaker: Latish Sehgal
 ## Title: Extending Visual Studio  Sql Server Mgmt. Studio
@@ -457,7 +458,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: Bonus Track
 #  
 #### SessionID: 32929
 # The Top Ten SQL Server Skills You Need
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin I
 ## Speaker: Steve Jones
 ## Title: The Top Ten SQL Server Skills You Need
@@ -466,7 +467,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin I
 #  
 #### SessionID: 33195
 # Introduction to Visual Studio LightSwitch
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET II
 ## Speaker: Stacy Vicknair
 ## Title: Introduction to Visual Studio LightSwitch
@@ -475,7 +476,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET II
 #  
 #### SessionID: 33255
 # Basic Guidelines for VLDB's
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin II
 ## Speaker: Stuart Ainsworth
 ## Title: Basic Guidelines for VLDB's
@@ -491,7 +492,7 @@ Special attention will be paid to the following areas:
 #  
 #### SessionID: 33471
 # SQL Server Partitioning from A to Z
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin I
 ## Speaker: Kevin Boles
 ## Title: SQL Server Partitioning from A to Z
@@ -500,7 +501,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin I
 #  
 #### SessionID: 33473
 # Advanced TSQL Solutions
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SSIS/SSRS
 ## Speaker: Kevin Boles
 ## Title: Advanced TSQL Solutions
@@ -509,7 +510,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SSIS/SSRS
 #  
 #### SessionID: 33632
 # Visualizing SQL Saturday.
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Tim Costello
 ## Title: Visualizing SQL Saturday.
@@ -518,7 +519,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 33831
 # You want [Me] to do what?
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: Victor Chataboon
 ## Title: You want [Me] to do what?
@@ -529,7 +530,7 @@ In many environments, there's one lucky winner that becomes the SharePoint Admin
 #  
 #### SessionID: 34258
 # An Overview of PowerPivot 
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: William E Pearson III
 ## Title: An Overview of PowerPivot 
@@ -539,7 +540,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 34260
 # An Overview of PowerPivot in SharePoint
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: William E Pearson III
 ## Title: An Overview of PowerPivot in SharePoint
@@ -548,7 +549,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SharePoint
 #  
 #### SessionID: 34502
 # SQL Admin Best Practices with DMV's
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin II
 ## Speaker: William Assaf
 ## Title: SQL Admin Best Practices with DMV's
@@ -557,7 +558,7 @@ Event Date: 06-08-2011 - Session time: 00:00:00 - Track: SQL Admin II
 #  
 #### SessionID: 34524
 # Advanced Visual Studio Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#64-Baton-Rouge-2011)
+#### [Back to calendar](#nr-64)
 Event Date: 06-08-2011 - Session time: 00:00:00 - Track: .NET I
 ## Speaker: Zain Naboulsi
 ## Title: Advanced Visual Studio Tips and Tricks

@@ -1,3 +1,4 @@
+#### Nr: 36
 #### [Back to Main list](index.md)
 # SQLSaturday #36 - Wheeling 2010
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28900
 # Automate SQL Server Administration with PowerShell
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Development
 ## Speaker: Allen White
 ## Title: Automate SQL Server Administration with PowerShell
@@ -32,7 +33,7 @@ Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 29293
 # Wait-Time Based SQL Server Performance Management
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: Bronwyn Altizer
 ## Title: Wait-Time Based SQL Server Performance Management
@@ -41,7 +42,7 @@ Event Date: 01-05-2010 - Session time: 00:00:00 - Track: SQL Server
 #  
 #### SessionID: 29765
 # Intro to WCF Data Services and OData
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Development
 ## Speaker: David Hoerster
 ## Title: Intro to WCF Data Services and OData
@@ -50,7 +51,7 @@ Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 30751
 # Fundamentals of SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: Jeremiah Peschka
 ## Title: Fundamentals of SQL Server Internals
@@ -67,7 +68,7 @@ Apply their understanding of internals to daily queries to improve application a
 #  
 #### SessionID: 30752
 # A Dynamic World Demands Dynamic SQL
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Development
 ## Speaker: Jeremiah Peschka
 ## Title: A Dynamic World Demands Dynamic SQL
@@ -82,7 +83,7 @@ Develop an understanding of real world uses for dynami
 #  
 #### SessionID: 30894
 # Encryption in SQL Server
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: Joe Kuemerle
 ## Title: Encryption in SQL Server
@@ -92,7 +93,7 @@ Event Date: 01-05-2010 - Session time: 00:00:00 - Track: SQL Server
 #  
 #### SessionID: 30895
 # Developers….Are We Just a Commodity?
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Development
 ## Speaker: Joe Kuemerle
 ## Title: Developers….Are We Just a Commodity?
@@ -102,7 +103,7 @@ Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 30921
 # Introduction to Silverlight
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Development
 ## Speaker: John Hidey
 ## Title: Introduction to Silverlight
@@ -111,7 +112,7 @@ Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 31054
 # Dorothy: Twitter....LinkedIn....Facebook, O, my!
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Beginner
 ## Speaker: Joe Harford
 ## Title: Dorothy: Twitter....LinkedIn....Facebook, O, my!
@@ -122,7 +123,7 @@ Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Beginner
 #  
 #### SessionID: 31100
 # Introduction to Data Warehousing
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Beginner
 ## Speaker: John Sterrett
 ## Title: Introduction to Data Warehousing
@@ -131,7 +132,7 @@ Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Beginner
 #  
 #### SessionID: 31101
 # LUNCH - 1st Floor Ballroom
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: John Sterrett
 ## Title: LUNCH - 1st Floor Ballroom
@@ -140,7 +141,7 @@ Event Date: 01-05-2010 - Session time: 00:00:00 - Track: SQL Server
 #  
 #### SessionID: 31102
 # Lunch Provided by Panera
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Development
 ## Speaker: John Sterrett
 ## Title: Lunch Provided by Panera
@@ -149,7 +150,7 @@ Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 31103
 # Lunch Provided by Panera - 1st Floor Ballroom
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Beginner
 ## Speaker: John Sterrett
 ## Title: Lunch Provided by Panera - 1st Floor Ballroom
@@ -158,7 +159,7 @@ Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Beginner
 #  
 #### SessionID: 31626
 # SSRS Interactive Reports
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Beginner
 ## Speaker: Matt Van Horn
 ## Title: SSRS Interactive Reports
@@ -167,7 +168,7 @@ Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Beginner
 #  
 #### SessionID: 31627
 # Intro to SQL Reporting Services 2008
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Beginner
 ## Speaker: Matt Van Horn
 ## Title: Intro to SQL Reporting Services 2008
@@ -176,7 +177,7 @@ Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Beginner
 #  
 #### SessionID: 33655
 # Designing a Highly Available SQL environment
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: Tim  Beamer
 ## Title: Designing a Highly Available SQL environment
@@ -185,7 +186,7 @@ Event Date: 01-05-2010 - Session time: 00:00:00 - Track: SQL Server
 #  
 #### SessionID: 33656
 # Building and Executing a Disaster Recovery Plan
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: Tim  Beamer
 ## Title: Building and Executing a Disaster Recovery Plan
@@ -194,7 +195,7 @@ Event Date: 01-05-2010 - Session time: 00:00:00 - Track: SQL Server
 #  
 #### SessionID: 33850
 # How to enlist SSRS to enhance your application’s
-#### [Back to calendar](#SQLSaturday-#36-Wheeling-2010)
+#### [Back to calendar](#nr-36)
 Event Date: 01-05-2010 - Session time: 00:00:00 - Track: Development
 ## Speaker: Von Scarberry
 ## Title: How to enlist SSRS to enhance your application’s

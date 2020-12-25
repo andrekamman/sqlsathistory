@@ -1,3 +1,4 @@
+#### Nr: 577
 #### [Back to Main list](index.md)
 # SQLSaturday #577 - Dnipro 2016
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 53796
 # Hidden gems of SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Denis Reznik
 ## Title: Hidden gems of SQL Server 2016
@@ -34,7 +35,7 @@ In this session, we will learn a lot about these features and improvements. Whic
 #  
 #### SessionID: 54414
 # Статистика ожиданий или как найти место "где болит"
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Professional Development
 ## Speaker: Sergey Syrovatchenko
 ## Title: Статистика ожиданий или как найти место "где болит"
@@ -43,7 +44,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 54632
 # How to bring a new life for Oracle 9I in MS SQL Server environment.
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Oleg Alekseev
 ## Title: How to bring a new life for Oracle 9I in MS SQL Server environment.
@@ -66,7 +67,7 @@ Replication optimization
 #  
 #### SessionID: 53790
 # Power BI Embedded. Why do you need embed bi into your application?
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Polonichko
 ## Title: Power BI Embedded. Why do you need embed bi into your application?
@@ -76,7 +77,7 @@ Power BI Embedded is an Azure service that enables ISVs and app developers to su
 #  
 #### SessionID: 54376
 # Azure SQL Data Warehouse: What, Where, How
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL Data Warehouse: What, Where, How
@@ -86,7 +87,7 @@ In this session I'm going to answer on these questions. Also, I will prodive inf
 #  
 #### SessionID: 56251
 # Все, что вы хотели узнать об объектах БД, но всегда боялись спросить
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Dmitri Korotkevitch
 ## Title: Все, что вы хотели узнать об объектах БД, но всегда боялись спросить
@@ -95,7 +96,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database D
 #  
 #### SessionID: 53893
 # PostgreSQL as a Document Storage for .NET applications
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Konstantin Proskurdin
 ## Title: PostgreSQL as a Document Storage for .NET applications
@@ -104,7 +105,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database D
 #  
 #### SessionID: 54103
 # HDInsight: Spark. Advanced in-memory BigData Analytics with Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Vitalii Bondarenko
 ## Title: HDInsight: Spark. Advanced in-memory BigData Analytics with Microsoft Azure
@@ -113,7 +114,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 55069
 # NSA Secrets - Hacking SQL Server
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: NSA Secrets - Hacking SQL Server
@@ -127,7 +128,7 @@ Disclaimer: No actual state secrets will be revealed. Please do not send agents 
 #  
 #### SessionID: 53775
 # Inside Transaction Logging
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Taras Bobrovytskyi
 ## Title: Inside Transaction Logging
@@ -136,7 +137,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database D
 #  
 #### SessionID: 53825
 # @Table vs #Table: шаблони використання, спільні характеристики, міфи
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Andrii Zrobok
 ## Title: @Table vs #Table: шаблони використання, спільні характеристики, міфи
@@ -145,7 +146,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database D
 #  
 #### SessionID: 56244
 # Как убить SQL Server за 60 минут
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Dmitri Korotkevitch
 ## Title: Как убить SQL Server за 60 минут
@@ -156,7 +157,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database D
 #  
 #### SessionID: 53999
 # Azure Search - full-text search in a cloud
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: Azure Search - full-text search in a cloud
@@ -165,7 +166,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 54940
 # SQL Server: Delivery and synchronizing of the data
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Information Delivery
 ## Speaker: Andriy Pogorelov
 ## Title: SQL Server: Delivery and synchronizing of the data
@@ -177,7 +178,7 @@ In the demonstration we'll consider the one interesting example of using the Rep
 #  
 #### SessionID: 56577
 # Cloud BI with Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Cloud BI with Azure Analysis Services
@@ -186,7 +187,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 53844
 # Data-tier Application (DAC) overview
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Rostislav Nikitin
 ## Title: Data-tier Application (DAC) overview
@@ -199,7 +200,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database D
 #  
 #### SessionID: 55123
 # Переход в облако: Microsoft Azure и базы данных (ru)
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: Переход в облако: Microsoft Azure и базы данных (ru)
@@ -209,7 +210,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 56593
 # Always Encrypted at rest and in motion
-#### [Back to calendar](#SQLSaturday-#577-Dnipro-2016)
+#### [Back to calendar](#nr-577)
 Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Viktoriia Mala
 ## Title: Always Encrypted at rest and in motion

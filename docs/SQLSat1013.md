@@ -1,3 +1,4 @@
+#### Nr: 1013
 #### [Back to Main list](index.md)
 # SQLSaturday #1013 – Malaysia – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -14,7 +15,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 107210
 # Build a Complete Azure Data Platform in 1 Hour
-#### [Back to calendar](#SQLSaturday-#1013-–-Malaysia-–-Virtual-2020)
+#### [Back to calendar](#nr-1013)
 Event Date: 17-10-2020 - Session time: 12:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Patrick Gallucci
 ## Title: Build a Complete Azure Data Platform in 1 Hour
@@ -24,7 +25,7 @@ Patrick Gallucci will share a service delivery approach that helps organizations
 #  
 #### SessionID: 107606
 # Big Data Clusters for the Absolute Beginner
-#### [Back to calendar](#SQLSaturday-#1013-–-Malaysia-–-Virtual-2020)
+#### [Back to calendar](#nr-1013)
 Event Date: 17-10-2020 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohammad Darab
 ## Title: Big Data Clusters for the Absolute Beginner
@@ -40,7 +41,7 @@ Topics include:
 #  
 #### SessionID: 107831
 # Handle Data with Care
-#### [Back to calendar](#SQLSaturday-#1013-–-Malaysia-–-Virtual-2020)
+#### [Back to calendar](#nr-1013)
 Event Date: 17-10-2020 - Session time: 12:00:00 - Track: Application  Database Development
 ## Speaker: Jasmin Azemović
 ## Title: Handle Data with Care
@@ -52,7 +53,7 @@ Is everything just so black? Learn about it on this session.
 #  
 #### SessionID: 107213
 # Azure SQL - What to Use When
-#### [Back to calendar](#SQLSaturday-#1013-–-Malaysia-–-Virtual-2020)
+#### [Back to calendar](#nr-1013)
 Event Date: 17-10-2020 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pio Balistoy
 ## Title: Azure SQL - What to Use When
@@ -61,7 +62,7 @@ Event Date: 17-10-2020 - Session time: 12:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 107594
 # Power BI Tips, Tricks  Hacks from the Trenches
-#### [Back to calendar](#SQLSaturday-#1013-–-Malaysia-–-Virtual-2020)
+#### [Back to calendar](#nr-1013)
 Event Date: 17-10-2020 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rui Romano
 ## Title: Power BI Tips, Tricks  Hacks from the Trenches
@@ -72,7 +73,7 @@ This session is a collection of my top tips, tricks  hacks gathered over the yea
 #  
 #### SessionID: 107661
 # Optimum Environment for SQL Server
-#### [Back to calendar](#SQLSaturday-#1013-–-Malaysia-–-Virtual-2020)
+#### [Back to calendar](#nr-1013)
 Event Date: 17-10-2020 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamid J. Fard
 ## Title: Optimum Environment for SQL Server
@@ -88,7 +89,7 @@ and disaster recovery designs, and the importance of documentation.
 #  
 #### SessionID: 107704
 # Real-World Query Tuning Examples
-#### [Back to calendar](#SQLSaturday-#1013-–-Malaysia-–-Virtual-2020)
+#### [Back to calendar](#nr-1013)
 Event Date: 17-10-2020 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amit R S Bansal
 ## Title: Real-World Query Tuning Examples
@@ -97,7 +98,7 @@ Event Date: 17-10-2020 - Session time: 12:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 107752
 # Machine Learning is full of stars: An Azure Story
-#### [Back to calendar](#SQLSaturday-#1013-–-Malaysia-–-Virtual-2020)
+#### [Back to calendar](#nr-1013)
 Event Date: 17-10-2020 - Session time: 12:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: André Melancia
 ## Title: Machine Learning is full of stars: An Azure Story
@@ -108,7 +109,7 @@ Disclaimer: All these worlds are yours except Cognitive Service, that's for a di
 #  
 #### SessionID: 107862
 # Azure SQL Database Hyperscale: Bigger, Bigger and Bigger!
-#### [Back to calendar](#SQLSaturday-#1013-–-Malaysia-–-Virtual-2020)
+#### [Back to calendar](#nr-1013)
 Event Date: 17-10-2020 - Session time: 12:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tiago Balabuch
 ## Title: Azure SQL Database Hyperscale: Bigger, Bigger and Bigger!

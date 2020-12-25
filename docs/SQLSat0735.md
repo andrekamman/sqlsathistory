@@ -1,3 +1,4 @@
+#### Nr: 735
 #### [Back to Main list](index.md)
 # SQLSaturday #735 - Finland 2018
 Start Time (24h)|Speaker|Track|Title
@@ -30,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 71630
 # Hacking? Mission Possible!
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: André Melancia
 ## Title: Hacking? Mission Possible!
@@ -41,7 +42,7 @@ As always, should you or any of your colleagues be hacked or exploited, the Demo
 #  
 #### SessionID: 72715
 # Chatbots for Dummies
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Mendes
 ## Title: Chatbots for Dummies
@@ -54,7 +55,7 @@ Will it pass the Turing test, no, but we can extend the bot service using Machin
 #  
 #### SessionID: 72929
 # Python revolution in SQL Server world
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Architecture, Administration  Deployment
 ## Speaker: Maria Zakourdaev
 ## Title: Python revolution in SQL Server world
@@ -68,7 +69,7 @@ Application and Infrastructure DBAs that want to see various usages for Python l
 #  
 #### SessionID: 80588
 # Case Transparent Supply Chain using Azure Data Services
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Architecture, Administration  Deployment
 ## Speaker: Olli Lindroos
 ## Title: Case Transparent Supply Chain using Azure Data Services
@@ -83,7 +84,7 @@ In this webinar Olli Lindroos from Solita will go through how they have develope
 #  
 #### SessionID: 71686
 # Back to the future - Migrating our SQL Server OnPremise Database to Azure
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Back to the future - Migrating our SQL Server OnPremise Database to Azure
@@ -99,7 +100,7 @@ This session consists of:
 #  
 #### SessionID: 72593
 # Boring is stable, stable is good - best practices in practice
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Architecture, Administration  Deployment
 ## Speaker: Alexander Arvidsson
 ## Title: Boring is stable, stable is good - best practices in practice
@@ -109,7 +110,7 @@ The session covers primarily SQL Server 2012 to 2016, with SQL Server 2017 throw
 #  
 #### SessionID: 73985
 # Enabling Citizen Data Science with Microsoft
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques  Machine Learning
 ## Speaker: Jan Mulkens
 ## Title: Enabling Citizen Data Science with Microsoft
@@ -121,7 +122,7 @@ In this demo heavy session we explore Microsoft’s solutions to ensure democrat
 #  
 #### SessionID: 78948
 # Introducing Azure SQL DW – Architecture  Best Practices
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Other
 ## Speaker: Arun Justus
 ## Title: Introducing Azure SQL DW – Architecture  Best Practices
@@ -130,7 +131,7 @@ Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 72720
 # New Features and New Speed in SQL Server 2016 (and 2017!) Always On Availability Groups
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Architecture, Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: New Features and New Speed in SQL Server 2016 (and 2017!) Always On Availability Groups
@@ -139,7 +140,7 @@ Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Arc
 #  
 #### SessionID: 73345
 # What are Azure SQL Database Managed Instances?
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Martin
 ## Title: What are Azure SQL Database Managed Instances?
@@ -152,7 +153,7 @@ But, what is the reality, how do we make use of it, and are there any gotcha’s
 #  
 #### SessionID: 80781
 # New Data Visualization Features in Power BI
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Heidi Enho
 ## Title: New Data Visualization Features in Power BI
@@ -161,7 +162,7 @@ Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 80783
 # Automate DWH  BI development using TimeXtender Discovery Hub®
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Other
 ## Speaker: SQLSaturday Finland
 ## Title: Automate DWH  BI development using TimeXtender Discovery Hub®
@@ -173,7 +174,7 @@ Mahmoud is a Solution Architect in TimeXtenders Customer Service  Success team a
 #  
 #### SessionID: 80782
 # Lifting the lid on SQL Server on Linux
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Other
 ## Speaker: SQLSaturday Finland
 ## Title: Lifting the lid on SQL Server on Linux
@@ -185,7 +186,7 @@ Martin Wild is a principal systems consultant at Quest. He frequently presents a
 #  
 #### SessionID: 71660
 # Administrating SQL Server with PowerShell dbatools
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Architecture, Administration  Deployment
 ## Speaker: Rob Sewell
 ## Title: Administrating SQL Server with PowerShell dbatools
@@ -206,7 +207,7 @@ All this in a fast paced, fun session
 #  
 #### SessionID: 72439
 # Implementing a hybrid data warehouse
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Johan Ludvig Brattås
 ## Title: Implementing a hybrid data warehouse
@@ -221,7 +222,7 @@ This session will take a look at a few different approaches to a hybrid data war
 #  
 #### SessionID: 72983
 # I/O Tuning 101
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Anders Pedersen
 ## Title: I/O Tuning 101
@@ -238,7 +239,7 @@ All of this can be done without the need for any 3rd party tools, all within the
 #  
 #### SessionID: 81945
 # Experts should work with facts, not guesstimates
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Other
 ## Speaker: SQLSaturday Finland
 ## Title: Experts should work with facts, not guesstimates
@@ -251,7 +252,7 @@ Speaker: Jani K. Savolainen. Founder  CTO @ DB Pro.
 #  
 #### SessionID: 71743
 # Working smarter, not harder with Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Marcos Freccia
 ## Title: Working smarter, not harder with Azure SQL Database
@@ -260,7 +261,7 @@ Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 71880
 # Biml for Beginners: Script and Automate SSIS Development
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Script and Automate SSIS Development
@@ -275,7 +276,7 @@ Stop wasting your valuable time on doing the same things over and over and over 
 #  
 #### SessionID: 71893
 # SQL Server inside a Docker container
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Architecture, Administration  Deployment
 ## Speaker: Christophe Laporte
 ## Title: SQL Server inside a Docker container
@@ -286,7 +287,7 @@ During this discovery session let’s install Docker, create a first container, 
 #  
 #### SessionID: 80655
 # I know Microsoft Data Platform  R but where is the intersection?
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vesa Tikkanen
 ## Title: I know Microsoft Data Platform  R but where is the intersection?
@@ -297,7 +298,7 @@ In-Database R, Power BI with R, ML Server… there are a lot of tools where we h
 #  
 #### SessionID: 71642
 # Custom maps in Power BI
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Andrea Martorana Tusa
 ## Title: Custom maps in Power BI
@@ -310,7 +311,7 @@ Last but least, we will able to discover Synoptic Panel, an awesome component th
 #  
 #### SessionID: 72390
 # Responding to Extended Events in near real-time
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Architecture, Administration  Deployment
 ## Speaker: Gianluca Sartori
 ## Title: Responding to Extended Events in near real-time
@@ -321,7 +322,7 @@ In this session we will see how the Extended Events streaming API can be used to
 #  
 #### SessionID: 73048
 # Dynamic Search Conditions
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Dynamic Search Conditions
@@ -330,7 +331,7 @@ Event Date: 12-05-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 78932
 # New capabilities of Azure Data Factory v2
-#### [Back to calendar](#SQLSaturday-#735-Finland-2018)
+#### [Back to calendar](#nr-735)
 Event Date: 12-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Oskari Heikkinen
 ## Title: New capabilities of Azure Data Factory v2

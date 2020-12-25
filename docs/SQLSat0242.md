@@ -1,3 +1,4 @@
+#### Nr: 242
 #### [Back to Main list](index.md)
 # SQLSaturday #242 - Indianapolis 2013
 Start Time (24h)|Speaker|Track|Title
@@ -38,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10034
 # Manage SQLServer Efficiently w/PowerShell Remoting
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Allen White
 ## Title: Manage SQLServer Efficiently w/PowerShell Remoting
@@ -47,7 +48,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 10189
 # Going Live! Upgrading to SQL 2012 with Log Shipping
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Brent Dragoo
 ## Title: Going Live! Upgrading to SQL 2012 with Log Shipping
@@ -56,7 +57,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11119
 # BIML--Step by Step
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Julie Smith
 ## Title: BIML--Step by Step
@@ -65,7 +66,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 11255
 # “Indexing” Encrypted Data
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Chris Bell
 ## Title: “Indexing” Encrypted Data
@@ -74,7 +75,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 12417
 # High Performance SANLess Clustering
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Sios Technology and Allan Hirt
 ## Title: High Performance SANLess Clustering
@@ -83,7 +84,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13321
 # DBA 911 - Database Corruption
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: David Maxwell
 ## Title: DBA 911 - Database Corruption
@@ -93,7 +94,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14112
 # Partitioning for Perf and Mgmt of Large Tables
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Eddie Wuerch
 ## Title: Partitioning for Perf and Mgmt of Large Tables
@@ -102,7 +103,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 16082
 # Pervasive business information through Mobile BI
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Josh Burgin
 ## Title: Pervasive business information through Mobile BI
@@ -113,7 +114,7 @@ In this session we’ll discuss the pros and cons of Mobile BI.  We’ll discuss
 #  
 #### SessionID: 16145
 # What SQL DBAs need to know about SharePoint
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: JD Wade
 ## Title: What SQL DBAs need to know about SharePoint
@@ -122,7 +123,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 17127
 # Troubleshooting SQL IO issues with Xperf
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Joe McTaggart
 ## Title: Troubleshooting SQL IO issues with Xperf
@@ -131,7 +132,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 17511
 # Demystifying BISM and Tabular Mode SSAS
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Josh Fennessy
 ## Title: Demystifying BISM and Tabular Mode SSAS
@@ -142,7 +143,7 @@ In this session, attendees will gain understanding of what Multidimensional and 
 #  
 #### SessionID: 17619
 # Agile Data Warehouse Design – Just Enough Design for Success
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Joe Salvatore
 ## Title: Agile Data Warehouse Design – Just Enough Design for Success
@@ -151,7 +152,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 17642
 # SQL Server ‘BI Stack’ Metadata Management
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jim Miller
 ## Title: SQL Server ‘BI Stack’ Metadata Management
@@ -163,7 +164,7 @@ organize, and query this very helpful metadata.
 #  
 #### SessionID: 17892
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -172,7 +173,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18901
 # Into a Swan - Discovering the Beauty of RESTORE
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kyle Neier
 ## Title: Into a Swan - Discovering the Beauty of RESTORE
@@ -181,7 +182,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 19164
 # Performance Troubleshooting Tools  Techniques
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Lisa Gardner
 ## Title: Performance Troubleshooting Tools  Techniques
@@ -190,7 +191,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 21371
 # Why are we Waiting..
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Neil Hambly
 ## Title: Why are we Waiting..
@@ -207,7 +208,7 @@ And @ several UK User Groups
 #  
 #### SessionID: 21372
 # MDS and DQS - Beyond the TLAs to Data Quality
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Neil Hambly
 ## Title: MDS and DQS - Beyond the TLAs to Data Quality
@@ -218,7 +219,7 @@ High data quality is fundamental to any business analytics system. In this sessi
 #  
 #### SessionID: 22653
 # SSIS Templates Can Make Your Life Easier
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Brian Davis
 ## Title: SSIS Templates Can Make Your Life Easier
@@ -227,7 +228,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 23270
 # Denali Ho! Exploring SQL Server
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Rob Volk
 ## Title: Denali Ho! Exploring SQL Server
@@ -236,7 +237,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 24309
 # Anatomy of a Join
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Luke Jian
 ## Title: Anatomy of a Join
@@ -245,7 +246,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 24753
 # WIT Panel: You.. as a brand.
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: WIT Panel
 ## Title: WIT Panel: You.. as a brand.
@@ -254,7 +255,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 25998
 # Designing  Formatting Reports
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Tamera Clark
 ## Title: Designing  Formatting Reports
@@ -263,7 +264,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 26198
 # Windowing Functions: THE Reason to Upgrade to 2012
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012
@@ -272,7 +273,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 26199
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -281,7 +282,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 27560
 # Introduction to FileTables in SQL 2012
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Warren Sifre
 ## Title: Introduction to FileTables in SQL 2012
@@ -290,7 +291,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 27807
 # Visualizing Your Indexes - Science vs Art
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Wendy Pastrick
 ## Title: Visualizing Your Indexes - Science vs Art
@@ -299,7 +300,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28103
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -308,7 +309,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 8884
 # T-SQL Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Aaron Cutshall
 ## Title: T-SQL Tips  Tricks
@@ -317,7 +318,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 8971
 # Introduction to SQL Server 2012 AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Adam Belebczuk
 ## Title: Introduction to SQL Server 2012 AlwaysOn Availability Groups
@@ -326,7 +327,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9169
 # Agile Database Development
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Aaron King
 ## Title: Agile Database Development
@@ -335,7 +336,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 9830
 # Cloud Ready: Preparing Yourself for Azure SQL Databases
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Arie Jones
 ## Title: Cloud Ready: Preparing Yourself for Azure SQL Databases
@@ -344,7 +345,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 9965
 # Pretty Output: T-SQL for Presentation
-#### [Back to calendar](#SQLSaturday-#242-Indianapolis-2013)
+#### [Back to calendar](#nr-242)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Audrey Hammonds
 ## Title: Pretty Output: T-SQL for Presentation

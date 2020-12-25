@@ -1,3 +1,4 @@
+#### Nr: 773
 #### [Back to Main list](index.md)
 # SQLSaturday #773 - Los Angeles 2018
 Start Time (24h)|Speaker|Track|Title
@@ -51,7 +52,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 77882
 # Back to Basics - The SELECT Statement
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Application Development
 ## Speaker: Andrew Karcher
 ## Title: Back to Basics - The SELECT Statement
@@ -62,7 +63,7 @@ In this session, we will dive deep in to the SELECT statement as the window to g
 #  
 #### SessionID: 78407
 # Power BI For Master Data Management
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Swagatika Sarangi
 ## Title: Power BI For Master Data Management
@@ -73,7 +74,7 @@ Integrating Master Data Services with Power BI, and presenting analytics on top 
 #  
 #### SessionID: 78611
 # Collecting Performance Metrics
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Tracy Boggiano
 ## Title: Collecting Performance Metrics
@@ -84,7 +85,7 @@ In this session, we will be combining three open source tools (Telegraf, InfluxD
 #  
 #### SessionID: 78724
 # Infrastructure 101 for SQL Server Deployments
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Allan Hirt
 ## Title: Infrastructure 101 for SQL Server Deployments
@@ -93,7 +94,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #  
 #### SessionID: 80910
 # SSIS Basics
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Application Development
 ## Speaker: Brodie Brickey
 ## Title: SSIS Basics
@@ -102,7 +103,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Applicatio
 #  
 #### SessionID: 81966
 # A DBA's guide to full stack performance troubleshooting
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Daniel Janik
 ## Title: A DBA's guide to full stack performance troubleshooting
@@ -115,7 +116,7 @@ Join me as I guide you through troubleshooting SQL Server performance from tip t
 #  
 #### SessionID: 82109
 # An Introduction to SQL Server Spatial Data
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Application Development
 ## Speaker: Mindy Curnutt
 ## Title: An Introduction to SQL Server Spatial Data
@@ -131,7 +132,7 @@ Come to this session to learn about:
 #  
 #### SessionID: 82294
 # Time intelligence and date tables in Power BI
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Marco Russo
 ## Title: Time intelligence and date tables in Power BI
@@ -141,7 +142,7 @@ This session provides you the best practices to correctly shape a data model and
 #  
 #### SessionID: 82984
 # Move Over Dexter!  We're Building a Machine Learning Lab!
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: PEIXIN WANG
 ## Title: Move Over Dexter!  We're Building a Machine Learning Lab!
@@ -150,7 +151,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #  
 #### SessionID: 83591
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -159,7 +160,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence a
 #  
 #### SessionID: 77720
 # Soft skills for Geeks: Don't be a flat boxer
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Randy Knight
 ## Title: Soft skills for Geeks: Don't be a flat boxer
@@ -168,7 +169,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 78564
 # Attack of the Linux Sea Monsters!
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Andrew Nakamura
 ## Title: Attack of the Linux Sea Monsters!
@@ -177,7 +178,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #  
 #### SessionID: 80014
 # The Magic of SSISDB
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Application Development
 ## Speaker: Elaena Bakman
 ## Title: The Magic of SSISDB
@@ -187,7 +188,7 @@ This presentation will demonstrate how to use SSISDB to script out deployments o
 #  
 #### SessionID: 80072
 # Learning Azure Cosmos DB
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: Leonard Lobel
 ## Title: Learning Azure Cosmos DB
@@ -198,7 +199,7 @@ We tour many features of Cosmos DB, including its multi-model capabilities which
 #  
 #### SessionID: 80510
 # JSON and the Astronauts
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Application Development
 ## Speaker: Peter Kral
 ## Title: JSON and the Astronauts
@@ -210,7 +211,7 @@ You should have experience writing queries in T-SQL. No previous knowledge of JS
 #  
 #### SessionID: 80925
 # SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: Rick Lowe
 ## Title: SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
@@ -219,7 +220,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (S
 #  
 #### SessionID: 82095
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -230,7 +231,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 82194
 # Power BI Deployment Strategies:  The Business versus I.T.
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Jeremy Frye
 ## Title: Power BI Deployment Strategies:  The Business versus I.T.
@@ -241,7 +242,7 @@ In this session, we will look at potential data management concerns that include
 #  
 #### SessionID: 82431
 # Women in Technology (lead by Amy Herold and Mindy Curnutt)
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: SQL Saturday in LA
 ## Title: Women in Technology (lead by Amy Herold and Mindy Curnutt)
@@ -255,7 +256,7 @@ Speakers: Amy Herold, Mindy Curnutt, Swagatika Sarangi, Amie Mason, Tracy Boggia
 #  
 #### SessionID: 77689
 # How To Talk To Your Storage Admin
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Marsha Pierce
 ## Title: How To Talk To Your Storage Admin
@@ -264,7 +265,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #  
 #### SessionID: 80227
 # Azure Intelligent Services
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: Amie Mason
 ## Title: Azure Intelligent Services
@@ -273,7 +274,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (S
 #  
 #### SessionID: 82206
 # SQL Server on Amazon Web Services
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: Richard Waymire
 ## Title: SQL Server on Amazon Web Services
@@ -282,7 +283,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (S
 #  
 #### SessionID: 82215
 # Rubrik: Sponsor Session
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: SQL Saturday in LA
 ## Title: Rubrik: Sponsor Session
@@ -291,7 +292,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #  
 #### SessionID: 82220
 # Quest: Sponsor Session
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: SQL Saturday in LA
 ## Title: Quest: Sponsor Session
@@ -300,7 +301,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #  
 #### SessionID: 82221
 # CloudHealth: Master Rightsizing  Reserved Instances for AWS  Azure
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: SQL Saturday in LA
 ## Title: CloudHealth: Master Rightsizing  Reserved Instances for AWS  Azure
@@ -309,7 +310,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (S
 #  
 #### SessionID: 82224
 # DELL-EMC: Sponsor Session
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Application Development
 ## Speaker: SQL Saturday in LA
 ## Title: DELL-EMC: Sponsor Session
@@ -318,7 +319,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Applicatio
 #  
 #### SessionID: 82323
 # Virtualizing SQL Server on vSphere. Doing it Right!
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Brandon Leach
 ## Title: Virtualizing SQL Server on vSphere. Doing it Right!
@@ -327,7 +328,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #  
 #### SessionID: 83214
 # Power BI Dashboard - Creating End to End Solutions
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Suresh Datla
 ## Title: Power BI Dashboard - Creating End to End Solutions
@@ -337,7 +338,7 @@ Accessing data, Data preparation, and cleansing, consuming the data for reports 
 #  
 #### SessionID: 77337
 # Insights with massive data ingestion and Power BI
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Armando Lacerda
 ## Title: Insights with massive data ingestion and Power BI
@@ -346,7 +347,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence a
 #  
 #### SessionID: 77364
 # Environmental SQL Server Troubleshooting
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Jeff Mlakar
 ## Title: Environmental SQL Server Troubleshooting
@@ -357,7 +358,7 @@ In this session we will discuss both performance pitfalls and optimizations that
 #  
 #### SessionID: 80913
 # Understanding Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Application Development
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
@@ -366,7 +367,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Applicatio
 #  
 #### SessionID: 80922
 # My Journey to AWS
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: Nathaniel Payumo
 ## Title: My Journey to AWS
@@ -375,7 +376,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (S
 #  
 #### SessionID: 82161
 # Reporting Services 2016: New Features  Smart Migration Strategy
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services 2016: New Features  Smart Migration Strategy
@@ -386,7 +387,7 @@ The session will then dive into how to use the data in the ReportServer database
 #  
 #### SessionID: 82197
 # Optimizing your data warehouse for OLAP Processing
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Konstantin Melamud
 ## Title: Optimizing your data warehouse for OLAP Processing
@@ -395,7 +396,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence a
 #  
 #### SessionID: 82225
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -404,7 +405,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 82359
 # Automate the Pain Away with Adaptive Query Processing and Automatic Tuning
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: John Sterrett
 ## Title: Automate the Pain Away with Adaptive Query Processing and Automatic Tuning
@@ -413,7 +414,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #  
 #### SessionID: 82567
 # Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: Jason Horner
 ## Title: Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
@@ -423,7 +424,7 @@ Whether you are just getting started with Azure Data Factory or looking to make 
 #  
 #### SessionID: 77334
 # Data Wrangling for Reporting  Analytics using Power BI  M
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Phil Robinson
 ## Title: Data Wrangling for Reporting  Analytics using Power BI  M
@@ -436,7 +437,7 @@ In this presentation we will review tools to examine/repair schema issues and ex
 #  
 #### SessionID: 77353
 # 60 Reporting Tips in 60 Minutes
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Ike Ellis
 ## Title: 60 Reporting Tips in 60 Minutes
@@ -445,7 +446,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence a
 #  
 #### SessionID: 77385
 # Azure SQL Data Warehouse - The next generation of cloud data warehousing
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: Kevin Ngo
 ## Title: Azure SQL Data Warehouse - The next generation of cloud data warehousing
@@ -454,7 +455,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (S
 #  
 #### SessionID: 77411
 # Save Valuable Time and Resources - Job Performance Tuning Strategies
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Jeff Prom
 ## Title: Save Valuable Time and Resources - Job Performance Tuning Strategies
@@ -463,7 +464,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #  
 #### SessionID: 78233
 # The Mac DBA, using Docker and SQL Operations Studio
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Application Development
 ## Speaker: Charles Embry Jr
 ## Title: The Mac DBA, using Docker and SQL Operations Studio
@@ -472,7 +473,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Applicatio
 #  
 #### SessionID: 80290
 # Successfully Running SQL Server in AWS
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: Brian Carrig
 ## Title: Successfully Running SQL Server in AWS
@@ -481,7 +482,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (S
 #  
 #### SessionID: 82102
 # Hi, my name is Powershell, let's be friends! An Intro to PoSH
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Amy Herold
 ## Title: Hi, my name is Powershell, let's be friends! An Intro to PoSH
@@ -490,7 +491,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #  
 #### SessionID: 82425
 # Linux for SQL Server
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Jay Falck
 ## Title: Linux for SQL Server
@@ -501,7 +502,7 @@ NOTE: This is an intro to Linux for Windows users, only brief references to SQL 
 #  
 #### SessionID: 83007
 # GDPR – New age of data protection and privacy
-#### [Back to calendar](#SQLSaturday-#773-Los-Angeles-2018)
+#### [Back to calendar](#nr-773)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Rushabh Mehta
 ## Title: GDPR – New age of data protection and privacy

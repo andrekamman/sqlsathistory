@@ -1,3 +1,4 @@
+#### Nr: 164
 #### [Back to Main list](index.md)
 # SQLSaturday #164 - Cleveland 2012
 Start Time (24h)|Speaker|Track|Title
@@ -47,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10010
 # Panel Discussion: Managing Your Career
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: 114/115
 ## Speaker: Allen White
 ## Title: Panel Discussion: Managing Your Career
@@ -56,7 +57,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: 114/115
 #  
 #### SessionID: 10011
 # Sets and Relations and Queries, Oh My!
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL2
 ## Speaker: Allen White
 ## Title: Sets and Relations and Queries, Oh My!
@@ -65,7 +66,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL2
 #  
 #### SessionID: 11773
 # Searching for the Holy Grail of DDL Auditing
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL9
 ## Speaker: Colleen Morrow
 ## Title: Searching for the Holy Grail of DDL Auditing
@@ -74,7 +75,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL9
 #  
 #### SessionID: 11774
 # So I started this blog... now what?
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL5
 ## Speaker: Colleen Morrow
 ## Title: So I started this blog... now what?
@@ -83,7 +84,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL5
 #  
 #### SessionID: 11870
 # Getting Started with Report Services:  The Setup
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL2
 ## Speaker: Cory Stevenson
 ## Title: Getting Started with Report Services:  The Setup
@@ -92,7 +93,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL2
 #  
 #### SessionID: 12034
 # LinkedIn for SQL Server Professionals
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL5
 ## Speaker: Craig Purnell
 ## Title: LinkedIn for SQL Server Professionals
@@ -102,7 +103,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL5
 #  
 #### SessionID: 12754
 # Overview of PowerPivot
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL16
 ## Speaker: David Eichner
 ## Title: Overview of PowerPivot
@@ -111,7 +112,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL16
 #  
 #### SessionID: 13440
 # Factors for Successful Business Intelligence
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL2
 ## Speaker: Dave Rodabaugh
 ## Title: Factors for Successful Business Intelligence
@@ -120,7 +121,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL2
 #  
 #### SessionID: 13443
 # Designing for Common Problems in SQL Server 
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: 114/115
 ## Speaker: Louis Davidson
 ## Title: Designing for Common Problems in SQL Server 
@@ -130,7 +131,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: 114/115
 #  
 #### SessionID: 13444
 # What Sequence objects are (and are not)
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: 114/115
 ## Speaker: Louis Davidson
 ## Title: What Sequence objects are (and are not)
@@ -140,7 +141,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: 114/115
 #  
 #### SessionID: 13970
 # Building a Better Development Shop
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL5
 ## Speaker: Eric Wise
 ## Title: Building a Better Development Shop
@@ -149,7 +150,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL5
 #  
 #### SessionID: 14073
 # TempDB Performance Troubleshooting and Optimizing
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL9
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Performance Troubleshooting and Optimizing
@@ -158,7 +159,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL9
 #  
 #### SessionID: 14074
 # Page Latches for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL15
 ## Speaker: Eddie Wuerch
 ## Title: Page Latches for Mere Mortals
@@ -167,7 +168,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL15
 #  
 #### SessionID: 15491
 # Creating a Metadata Mart w/ SSIS - Data Governance
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL16
 ## Speaker: Ira Warren
 ## Title: Creating a Metadata Mart w/ SSIS - Data Governance
@@ -176,7 +177,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL16
 #  
 #### SessionID: 15879
 # Profiler? What is this tool you speak of?
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL2
 ## Speaker: Jason Spangler
 ## Title: Profiler? What is this tool you speak of?
@@ -185,7 +186,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL2
 #  
 #### SessionID: 16055
 # Hierarchies... on Steroids the No RBAR Way
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: 114/115
 ## Speaker: Jeff Moden
 ## Title: Hierarchies... on Steroids the No RBAR Way
@@ -194,7 +195,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: 114/115
 #  
 #### SessionID: 16178
 # SQL 2012 -- All About HA and DR
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL15
 ## Speaker: Joseph D'Antoni
 ## Title: SQL 2012 -- All About HA and DR
@@ -203,7 +204,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL15
 #  
 #### SessionID: 16179
 # Way Too Deep--Inside AlwaysOn
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL15
 ## Speaker: Joseph D'Antoni
 ## Title: Way Too Deep--Inside AlwaysOn
@@ -212,7 +213,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL15
 #  
 #### SessionID: 16276
 # Migrating to and Integrating with SQL Azure
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL13
 ## Speaker: Jeff Mlakar
 ## Title: Migrating to and Integrating with SQL Azure
@@ -221,7 +222,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL13
 #  
 #### SessionID: 16724
 # Administering the BI Stack
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL15
 ## Speaker: Josh Fennessy
 ## Title: Administering the BI Stack
@@ -232,7 +233,7 @@ This session will focus on the SSIS, SSRS, and SSAS engines in this session.  No
 #  
 #### SessionID: 18047
 # Building Your Own SQL Server Virtual Playground
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL9
 ## Speaker: Kendal Van Dyke
 ## Title: Building Your Own SQL Server Virtual Playground
@@ -241,7 +242,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL9
 #  
 #### SessionID: 18050
 # Transactional Replication: Beyond The Basics
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL9
 ## Speaker: Kendal Van Dyke
 ## Title: Transactional Replication: Beyond The Basics
@@ -250,7 +251,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL9
 #  
 #### SessionID: 19165
 # SQL Server and Sharepoint: Best Frienemies
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL15
 ## Speaker: Lisa Gardner
 ## Title: SQL Server and Sharepoint: Best Frienemies
@@ -259,7 +260,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL15
 #  
 #### SessionID: 19874
 # Communicate for Great Good!
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL5
 ## Speaker: Matt Velic
 ## Title: Communicate for Great Good!
@@ -268,7 +269,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL5
 #  
 #### SessionID: 20045
 # Before You Optimize: Understanding Execution Plans
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL2
 ## Speaker: Tim Corey
 ## Title: Before You Optimize: Understanding Execution Plans
@@ -277,7 +278,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL2
 #  
 #### SessionID: 20073
 # Conquering ETL Projects
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL13
 ## Speaker: Austin Zellner
 ## Title: Conquering ETL Projects
@@ -286,7 +287,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL13
 #  
 #### SessionID: 22668
 # Goodbye Next Next Next, Hello Automated Installs
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL15
 ## Speaker: Brian Davis
 ## Title: Goodbye Next Next Next, Hello Automated Installs
@@ -295,7 +296,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL15
 #  
 #### SessionID: 23074
 # Designing a SQL 2012 BI Architecture
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL16
 ## Speaker: Rob Kerr
 ## Title: Designing a SQL 2012 BI Architecture
@@ -305,7 +306,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL16
 #  
 #### SessionID: 23076
 # Designing Tabular BI Semantic Models
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL16
 ## Speaker: Rob Kerr
 ## Title: Designing Tabular BI Semantic Models
@@ -315,7 +316,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL16
 #  
 #### SessionID: 23826
 # 14 New T-SQL Functions
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL13
 ## Speaker: Sam Nasr
 ## Title: 14 New T-SQL Functions
@@ -324,7 +325,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL13
 #  
 #### SessionID: 24410
 # NoSQL: Know Your Enemy
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL13
 ## Speaker: Shelly Noll
 ## Title: NoSQL: Know Your Enemy
@@ -333,7 +334,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL13
 #  
 #### SessionID: 24705
 # Data Visualization in Reporting Services
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL16
 ## Speaker: Stacia Varga
 ## Title: Data Visualization in Reporting Services
@@ -342,7 +343,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL16
 #  
 #### SessionID: 24707
 # (Way Too Much) Fun with Reporting Services 
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL16
 ## Speaker: Stacia Varga
 ## Title: (Way Too Much) Fun with Reporting Services 
@@ -351,7 +352,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL16
 #  
 #### SessionID: 25125
 # Database Design Throwdown
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: 114/115
 ## Speaker: Thomas LaRock
 ## Title: Database Design Throwdown
@@ -360,7 +361,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: 114/115
 #  
 #### SessionID: 25944
 # Shade Tree Mechanic's Guide to SSAS
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL9
 ## Speaker: Steven Wright
 ## Title: Shade Tree Mechanic's Guide to SSAS
@@ -372,7 +373,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL9
 #  
 #### SessionID: 25945
 # Resource Governor for SQL Server
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL9
 ## Speaker: Steven Wright
 ## Title: Resource Governor for SQL Server
@@ -381,7 +382,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL9
 #  
 #### SessionID: 26276
 # Fundamentals of Join Operations
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL2
 ## Speaker: Kevin Boles
 ## Title: Fundamentals of Join Operations
@@ -390,7 +391,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL2
 #  
 #### SessionID: 26277
 # SQL Injection
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL5
 ## Speaker: Kevin Boles
 ## Title: SQL Injection
@@ -399,7 +400,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL5
 #  
 #### SessionID: 8976
 # Introduction to SQL Server Service Broker
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL13
 ## Speaker: Adam Belebczuk
 ## Title: Introduction to SQL Server Service Broker
@@ -408,7 +409,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL13
 #  
 #### SessionID: 9570
 # Building Your Professional Development Plan
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL5
 ## Speaker: Andy Warren
 ## Title: Building Your Professional Development Plan
@@ -417,7 +418,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL5
 #  
 #### SessionID: 9571
 # SQL Server Security for Developers
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: 114/115
 ## Speaker: Andy Warren
 ## Title: SQL Server Security for Developers
@@ -426,7 +427,7 @@ Event Date: 18-08-2012 - Session time: 00:00:00 - Track: 114/115
 #  
 #### SessionID: 9822
 # Strategies for Sharding with SQL Azure Federations
-#### [Back to calendar](#SQLSaturday-#164-Cleveland-2012)
+#### [Back to calendar](#nr-164)
 Event Date: 18-08-2012 - Session time: 00:00:00 - Track: LL13
 ## Speaker: Arie Jones
 ## Title: Strategies for Sharding with SQL Azure Federations

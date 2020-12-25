@@ -1,3 +1,4 @@
+#### Nr: 535
 #### [Back to Main list](index.md)
 # SQLSaturday #535 - Sri Lanka 2016
 Start Time (24h)|Speaker|Track|Title
@@ -18,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 49056
 # Machine Learning  with SQL Server 2016 R Services
-#### [Back to calendar](#SQLSaturday-#535-Sri-Lanka-2016)
+#### [Back to calendar](#nr-535)
 Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Business Intelligence  Data Analytics
 ## Speaker: Dinesh Asanka
 ## Title: Machine Learning  with SQL Server 2016 R Services
@@ -29,7 +30,7 @@ With SQL Server R Services, users can develop analytic models in a local R IDE a
 #  
 #### SessionID: 49987
 # SQL in Azure IaaS | Business Continuity Planning
-#### [Back to calendar](#SQLSaturday-#535-Sri-Lanka-2016)
+#### [Back to calendar](#nr-535)
 Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Cloud
 ## Speaker: Janaka Rangama
 ## Title: SQL in Azure IaaS | Business Continuity Planning
@@ -40,7 +41,7 @@ This demo driven session will explore the high availability and disaster recover
 #  
 #### SessionID: 50262
 # Secrets of SQL Server: Database Worst Practices
-#### [Back to calendar](#SQLSaturday-#535-Sri-Lanka-2016)
+#### [Back to calendar](#nr-535)
 Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Database Engine  Database Development
 ## Speaker: Pinal Dave
 ## Title: Secrets of SQL Server: Database Worst Practices
@@ -49,7 +50,7 @@ Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Database Engine  Databa
 #  
 #### SessionID: 49598
 # Data Visualization with SSRS Mobile Reports
-#### [Back to calendar](#SQLSaturday-#535-Sri-Lanka-2016)
+#### [Back to calendar](#nr-535)
 Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Business Intelligence  Data Analytics
 ## Speaker: Chamila Mihiripenna
 ## Title: Data Visualization with SSRS Mobile Reports
@@ -58,7 +59,7 @@ Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Business Intelligence  
 #  
 #### SessionID: 50209
 # How SQL Server  works on a Windows Cluster
-#### [Back to calendar](#SQLSaturday-#535-Sri-Lanka-2016)
+#### [Back to calendar](#nr-535)
 Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Database Engine  Database Development
 ## Speaker: Satya Prakash
 ## Title: How SQL Server  works on a Windows Cluster
@@ -71,7 +72,7 @@ How to install, configure, perform maintenance and troubleshoot SQL Server on a 
 #  
 #### SessionID: 50275
 # Real-Time Operational Analytics in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#535-Sri-Lanka-2016)
+#### [Back to calendar](#nr-535)
 Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Database Engine  Database Development
 ## Speaker: Nilabja Ball
 ## Title: Real-Time Operational Analytics in SQL Server 2016
@@ -80,7 +81,7 @@ Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Database Engine  Databa
 #  
 #### SessionID: 48398
 # A Glimpse of Polyglot Persistence with Azure Data Services offerings
-#### [Back to calendar](#SQLSaturday-#535-Sri-Lanka-2016)
+#### [Back to calendar](#nr-535)
 Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Cloud
 ## Speaker: Vijayakumar Thurupathan
 ## Title: A Glimpse of Polyglot Persistence with Azure Data Services offerings
@@ -98,7 +99,7 @@ This session will help you to understand the fundamentals of the NoSQL offerings
 #  
 #### SessionID: 50265
 # Blogging – How to Build and Sustain Top Ranking Blog
-#### [Back to calendar](#SQLSaturday-#535-Sri-Lanka-2016)
+#### [Back to calendar](#nr-535)
 Event Date: 18-06-2016 - Session time: 16:30:00 - Track: General  Other
 ## Speaker: Pinal Dave
 ## Title: Blogging – How to Build and Sustain Top Ranking Blog
@@ -108,7 +109,7 @@ Everybody can write, and everybody can build a blog. But not everyone can make t
 #  
 #### SessionID: 50304
 # Securing data with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#535-Sri-Lanka-2016)
+#### [Back to calendar](#nr-535)
 Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Database Engine  Database Development
 ## Speaker: G.R. Kulasingham
 ## Title: Securing data with SQL Server 2016
@@ -117,7 +118,7 @@ Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Database Engine  Databa
 #  
 #### SessionID: 50555
 # On-premise database. Files in the cloud.
-#### [Back to calendar](#SQLSaturday-#535-Sri-Lanka-2016)
+#### [Back to calendar](#nr-535)
 Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Cloud
 ## Speaker: Dinesh Priyankara
 ## Title: On-premise database. Files in the cloud.
@@ -126,7 +127,7 @@ Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Cloud
 #  
 #### SessionID: 50270
 # Azure SQL Data Warehouse – Cloud Solution for Data Warehousing
-#### [Back to calendar](#SQLSaturday-#535-Sri-Lanka-2016)
+#### [Back to calendar](#nr-535)
 Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Cloud
 ## Speaker: Nilabja Ball
 ## Title: Azure SQL Data Warehouse – Cloud Solution for Data Warehousing
@@ -136,7 +137,7 @@ In this session, we take an in-depth look at implementing a SQL DW, elastic scal
 #  
 #### SessionID: 50299
 # SQL Server 2016 New Features
-#### [Back to calendar](#SQLSaturday-#535-Sri-Lanka-2016)
+#### [Back to calendar](#nr-535)
 Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Database Engine  Database Development
 ## Speaker: Satya Prakash
 ## Title: SQL Server 2016 New Features
@@ -145,7 +146,7 @@ Event Date: 18-06-2016 - Session time: 16:30:00 - Track: Database Engine  Databa
 #  
 #### SessionID: 50552
 # The Great SQL Panel Discussion
-#### [Back to calendar](#SQLSaturday-#535-Sri-Lanka-2016)
+#### [Back to calendar](#nr-535)
 Event Date: 18-06-2016 - Session time: 16:30:00 - Track: General  Other
 ## Speaker: Dinesh Priyankara
 ## Title: The Great SQL Panel Discussion

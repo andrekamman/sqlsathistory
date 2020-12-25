@@ -1,3 +1,4 @@
+#### Nr: 369
 #### [Back to Main list](index.md)
 # SQLSaturday #369 - Lisbon 2015
 Start Time (24h)|Speaker|Track|Title
@@ -46,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 14949
 # Analysis Services: Choosing between Multidimensional and Tabular
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Analytics  NonRelational
 ## Speaker: Helena Cabral
 ## Title: Analysis Services: Choosing between Multidimensional and Tabular
@@ -55,7 +56,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Analytics  NonRelationa
 #  
 #### SessionID: 20760
 # SQL Server 2014 and Ascending Key Problem in Large Tables
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: F1 - The Performance
 ## Speaker: Miloš Radivojević
 ## Title: SQL Server 2014 and Ascending Key Problem in Large Tables
@@ -65,7 +66,7 @@ In this session we’ll show how to identify columns with ascending keys and als
 #  
 #### SessionID: 25275
 # Agile BI
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Agile  Cloud
 ## Speaker: Stephanie Locke
 ## Title: Agile BI
@@ -75,7 +76,7 @@ Covering the technology and process sides of enabling agile BI, this session is 
 #  
 #### SessionID: 25975
 # From MDS to SSRS - a short walkthrough 
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Business Intelligence
 ## Speaker: Tillmann Eitelberg
 ## Title: From MDS to SSRS - a short walkthrough 
@@ -84,7 +85,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Business Intelligence
 #  
 #### SessionID: 27088
 # PowerQuery and M
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Hands-On Labs
 ## Speaker: Peter ter Braake
 ## Title: PowerQuery and M
@@ -93,7 +94,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Hands-On Labs
 #  
 #### SessionID: 37047
 # Columnstore in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: SQL Server 2016
 ## Speaker: Niko Neugebauer
 ## Title: Columnstore in SQL Server 2016
@@ -105,7 +106,7 @@ This session will be delivering an overview of what is new and how it is going t
 #  
 #### SessionID: 9437
 # Improved Online Operations in SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: DBA
 ## Speaker: Andre Batista
 ## Title: Improved Online Operations in SQL Server 2014
@@ -114,7 +115,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: DBA
 #  
 #### SessionID: 13557
 # Fraud Detection – Notes From the Field
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Business Intelligence
 ## Speaker: Dejan Sarka
 ## Title: Fraud Detection – Notes From the Field
@@ -123,7 +124,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Business Intelligence
 #  
 #### SessionID: 13978
 # Resource Governor for SQL Server 2014 in Action!
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: DBA
 ## Speaker: Etienne Lopes
 ## Title: Resource Governor for SQL Server 2014 in Action!
@@ -134,7 +135,7 @@ In this session I'll present Resource Governor and I'll perform a full demonstra
 #  
 #### SessionID: 14285
 # My first data science experiment using Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Analytics  NonRelational
 ## Speaker: Florian Eiden
 ## Title: My first data science experiment using Azure Machine Learning
@@ -145,7 +146,7 @@ Well, at least, let’s talk about Machine Learning, in words understandable by 
 #  
 #### SessionID: 18599
 # Azure Big Data Solution – automation of deployment
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Hands-On Labs
 ## Speaker: Kenneth Nielsen
 ## Title: Azure Big Data Solution – automation of deployment
@@ -164,7 +165,7 @@ Show how to make creation and deletion of AZURE elements automatically as part o
 #  
 #### SessionID: 21889
 # Advanced Execution Plan Analysis
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: F1 - The Performance
 ## Speaker: Paul White
 ## Title: Advanced Execution Plan Analysis
@@ -175,7 +176,7 @@ There is always more to know about query plans and the execution engine, but thi
 #  
 #### SessionID: 37048
 # The Amazing Power BI vNext - All about the new version of Power BI!
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: SQL Server 2016
 ## Speaker: Rui Quintino
 ## Title: The Amazing Power BI vNext - All about the new version of Power BI!
@@ -184,7 +185,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: SQL Server 2016
 #  
 #### SessionID: 9320
 # Azure Data Factory - The New SSIS?
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Agile  Cloud
 ## Speaker: Allan Mitchell
 ## Title: Azure Data Factory - The New SSIS?
@@ -193,7 +194,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Agile  Cloud
 #  
 #### SessionID: 11235
 # Tools and Tips: From accidental to efficient Data Warehouse developer
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Analytics  NonRelational
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Tools and Tips: From accidental to efficient Data Warehouse developer
@@ -206,7 +207,7 @@ In this session I will show you some of what I've learned and discovered that ha
 #  
 #### SessionID: 16265
 # Data Management Gateway Deep Dive
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Agile  Cloud
 ## Speaker: Jean-Pierre Riehl
 ## Title: Data Management Gateway Deep Dive
@@ -217,7 +218,7 @@ How does it work ? Security, Firewall, Certificates,  Multiple gateways, Admin d
 #  
 #### SessionID: 17084
 # SSIS with BIML: Real Life Use Cases
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Business Intelligence
 ## Speaker: João Lopes
 ## Title: SSIS with BIML: Real Life Use Cases
@@ -226,7 +227,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Business Intelligence
 #  
 #### SessionID: 19562
 # From Francesinha to Bacalhau: Real-World Database Optimization
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: F1 - The Performance
 ## Speaker: Mark Broadbent
 ## Title: From Francesinha to Bacalhau: Real-World Database Optimization
@@ -243,7 +244,7 @@ Should you prefer Francesinha to Bacalhau? Let's find out...
 #  
 #### SessionID: 21383
 # DBA Guide to Extended Events
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Hands-On Labs
 ## Speaker: Neil Hambly
 ## Title: DBA Guide to Extended Events
@@ -254,7 +255,7 @@ This session is focused to make you Effective with Extended Events, find out how
 #  
 #### SessionID: 27267
 # INSERT / UPDATE / DELETE - deep dive
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: DBA
 ## Speaker: Uwe Ricken
 ## Title: INSERT / UPDATE / DELETE - deep dive
@@ -265,7 +266,7 @@ SEE, what a workload will be caused by a "forwarded record". What tremendous wor
 #  
 #### SessionID: 37053
 # Hiding your data with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: SQL Server 2016
 ## Speaker: Ivan Campos
 ## Title: Hiding your data with SQL Server 2016
@@ -274,7 +275,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: SQL Server 2016
 #  
 #### SessionID: 11018
 # DAX as BI enabler - Excel and SQL options
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Business Intelligence
 ## Speaker: Bruno Basto
 ## Title: DAX as BI enabler - Excel and SQL options
@@ -283,7 +284,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Business Intelligence
 #  
 #### SessionID: 12217
 # Query Optimizer internals
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: F1 - The Performance
 ## Speaker: Dave Ballantyne
 ## Title: Query Optimizer internals
@@ -298,7 +299,7 @@ This session will be a deep dive into the optimizers' internals and not for the 
 #  
 #### SessionID: 19298
 # AlwaysOn Availability Groups - From Standard to Complex Implementations
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: DBA
 ## Speaker: Luís Canastreiro
 ## Title: AlwaysOn Availability Groups - From Standard to Complex Implementations
@@ -308,7 +309,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: DBA
 #  
 #### SessionID: 23430
 # PowerBI for Developers
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Hands-On Labs
 ## Speaker: Rui Romano
 ## Title: PowerBI for Developers
@@ -317,7 +318,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Hands-On Labs
 #  
 #### SessionID: 23580
 # Data Intelligence: Stories of useful data
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Agile  Cloud
 ## Speaker: Rui Quintino
 ## Title: Data Intelligence: Stories of useful data
@@ -326,7 +327,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Agile  Cloud
 #  
 #### SessionID: 27014
 # Making customer segmentation using SQL Server SSAS
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Analytics  NonRelational
 ## Speaker: Tomaž Kaštrun
 ## Title: Making customer segmentation using SQL Server SSAS
@@ -337,7 +338,7 @@ Goal of this session is to show how to deploy customer segmentation using data m
 #  
 #### SessionID: 37052
 # In-memory OLTP: The faster is now simpler in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Other
 ## Speaker: Murilo Miranda
 ## Title: In-memory OLTP: The faster is now simpler in SQL Server 2016
@@ -346,7 +347,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Other
 #  
 #### SessionID: 13558
 # Analizing Text with SQL Server 2014 and R
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Business Intelligence
 ## Speaker: Dejan Sarka
 ## Title: Analizing Text with SQL Server 2014 and R
@@ -355,7 +356,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Business Intelligence
 #  
 #### SessionID: 16451
 # Python and R for SQL Server and Business Intelligence: Be a data analysis Rock Star!
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Analytics  NonRelational
 ## Speaker: Jen Stirrup
 ## Title: Python and R for SQL Server and Business Intelligence: Be a data analysis Rock Star!
@@ -366,7 +367,7 @@ Come to this session to see examples of data analysis using both R and Python, a
 #  
 #### SessionID: 19560
 # Triple Trouble - Running a SQL Failover Cluster on a Cluster from a Cluster
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Hands-On Labs
 ## Speaker: Mark Broadbent
 ## Title: Triple Trouble - Running a SQL Failover Cluster on a Cluster from a Cluster
@@ -379,7 +380,7 @@ In this session we will investigate whether times have really changed for the be
 #  
 #### SessionID: 21890
 # Exploring the SQL Server Source Code
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: F1 - The Performance
 ## Speaker: Paul White
 ## Title: Exploring the SQL Server Source Code
@@ -392,7 +393,7 @@ This demo-heavy session will use the WinDbg debugger from the Debugging Tools fo
 #  
 #### SessionID: 35940
 # Lightning Talks
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: DBA
 ## Speaker: Global Community
 ## Title: Lightning Talks
@@ -406,7 +407,7 @@ Fabiano
 #  
 #### SessionID: 37055
 # Query Store  So Much More in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: SQL Server 2016
 ## Speaker: Andre Batista
 ## Title: Query Store  So Much More in SQL Server 2016
@@ -415,7 +416,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: SQL Server 2016
 #  
 #### SessionID: 9319
 # Drinking from the Azure Data Streams
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Agile  Cloud
 ## Speaker: Allan Mitchell
 ## Title: Drinking from the Azure Data Streams
@@ -427,7 +428,7 @@ This session is going to look at a couple of ways to do real time analysis on yo
 #  
 #### SessionID: 11500
 # SQL Server Batch Mode and CPU Architectures
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: F1 - The Performance
 ## Speaker: Christopher Adkin
 ## Title: SQL Server Batch Mode and CPU Architectures
@@ -436,7 +437,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: F1 - The Performance
 #  
 #### SessionID: 15452
 # Using Delayed transaction durability in SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: DBA
 ## Speaker: Ivan Campos
 ## Title: Using Delayed transaction durability in SQL Server 2014
@@ -445,7 +446,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: DBA
 #  
 #### SessionID: 20329
 # Introduction to Microsoft Azure DocumentDB
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Analytics  NonRelational
 ## Speaker: Mihail Mateev
 ## Title: Introduction to Microsoft Azure DocumentDB
@@ -460,7 +461,7 @@ In this presentation, you will learn:
 #  
 #### SessionID: 21192
 # In-Memory OLTP: Three key points to monitor.
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Hands-On Labs
 ## Speaker: Murilo Miranda
 ## Title: In-Memory OLTP: Three key points to monitor.
@@ -469,7 +470,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Hands-On Labs
 #  
 #### SessionID: 22254
 # Power View – Real World Scenarios
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Business Intelligence
 ## Speaker: Pedro Perfeito
 ## Title: Power View – Real World Scenarios
@@ -478,7 +479,7 @@ Event Date: 16-05-2015 - Session time: 17:15:00 - Track: Business Intelligence
 #  
 #### SessionID: 37054
 # SQL vNext Business Intelligence
-#### [Back to calendar](#SQLSaturday-#369-Lisbon-2015)
+#### [Back to calendar](#nr-369)
 Event Date: 16-05-2015 - Session time: 17:15:00 - Track: SQL Server 2016
 ## Speaker: Bruno Basto
 ## Title: SQL vNext Business Intelligence

@@ -1,3 +1,4 @@
+#### Nr: 182
 #### [Back to Main list](index.md)
 # SQLSaturday #182 - Istanbul 2012
 Start Time (24h)|Speaker|Track|Title
@@ -8,7 +9,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 14927
 # SQL Server 2008 R2 Parallel Data Warehouse
-#### [Back to calendar](#SQLSaturday-#182-Istanbul-2012)
+#### [Back to calendar](#nr-182)
 Event Date: 01-12-2012 - Session time: 00:00:00 - Track: SQLSaturday #182
 ## Speaker: Hakan M. SUBASI
 ## Title: SQL Server 2008 R2 Parallel Data Warehouse
@@ -25,7 +26,7 @@ Event Date: 01-12-2012 - Session time: 00:00:00 - Track: SQLSaturday #182
 #  
 #### SessionID: 27118
 # HA  DR with SQL Server 2012 AlwaysOn
-#### [Back to calendar](#SQLSaturday-#182-Istanbul-2012)
+#### [Back to calendar](#nr-182)
 Event Date: 01-12-2012 - Session time: 00:00:00 - Track: SQLSaturday #182
 ## Speaker: Turgay Sahtiyan
 ## Title: HA  DR with SQL Server 2012 AlwaysOn
@@ -34,7 +35,7 @@ Event Date: 01-12-2012 - Session time: 00:00:00 - Track: SQLSaturday #182
 #  
 #### SessionID: 28279
 # Extended Events in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#182-Istanbul-2012)
+#### [Back to calendar](#nr-182)
 Event Date: 01-12-2012 - Session time: 00:00:00 - Track: SQLSaturday #182
 ## Speaker: Yigit Aktan
 ## Title: Extended Events in SQL Server 2012

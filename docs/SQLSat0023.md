@@ -1,3 +1,4 @@
+#### Nr: 23
 #### [Back to Main list](index.md)
 # SQLSaturday #23 - Louisville 2009
 Start Time (24h)|Speaker|Track|Title
@@ -20,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28363
 # Comparing Clustering Methods 
-#### [Back to calendar](#SQLSaturday-#23-Louisville-2009)
+#### [Back to calendar](#nr-23)
 Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Alexander Prusakov
 ## Title: Comparing Clustering Methods 
@@ -29,7 +30,7 @@ Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29272
 # Cloud Computing
-#### [Back to calendar](#SQLSaturday-#23-Louisville-2009)
+#### [Back to calendar](#nr-23)
 Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brian Prince
 ## Title: Cloud Computing
@@ -38,7 +39,7 @@ Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29591
 # Project Gemini
-#### [Back to calendar](#SQLSaturday-#23-Louisville-2009)
+#### [Back to calendar](#nr-23)
 Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Derek Comingore
 ## Title: Project Gemini
@@ -47,7 +48,7 @@ Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29711
 # ETL from the Trenches: SSIS in the Real World
-#### [Back to calendar](#SQLSaturday-#23-Louisville-2009)
+#### [Back to calendar](#nr-23)
 Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dave Fackler
 ## Title: ETL from the Trenches: SSIS in the Real World
@@ -56,7 +57,7 @@ Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29713
 # SSIS Power hour
-#### [Back to calendar](#SQLSaturday-#23-Louisville-2009)
+#### [Back to calendar](#nr-23)
 Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dave Fackler
 ## Title: SSIS Power hour
@@ -65,7 +66,7 @@ Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29870
 # Tuna Helper - Proven Process for Tuning SQL 
-#### [Back to calendar](#SQLSaturday-#23-Louisville-2009)
+#### [Back to calendar](#nr-23)
 Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dean Richards
 ## Title: Tuna Helper - Proven Process for Tuning SQL 
@@ -74,7 +75,7 @@ Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 33112
 # Why Data Warehousing Projects Fail
-#### [Back to calendar](#SQLSaturday-#23-Louisville-2009)
+#### [Back to calendar](#nr-23)
 Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Craig Utley
 ## Title: Why Data Warehousing Projects Fail
@@ -83,7 +84,7 @@ Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33113
 # Do It Right: Best Practices for Analysis Services
-#### [Back to calendar](#SQLSaturday-#23-Louisville-2009)
+#### [Back to calendar](#nr-23)
 Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Craig Utley
 ## Title: Do It Right: Best Practices for Analysis Services
@@ -92,7 +93,7 @@ Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33114
 # Analysis Services 2008 End-to-End
-#### [Back to calendar](#SQLSaturday-#23-Louisville-2009)
+#### [Back to calendar](#nr-23)
 Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Craig Utley
 ## Title: Analysis Services 2008 End-to-End
@@ -101,7 +102,7 @@ Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 34969
 # SQL Server 2008: Extended Events
-#### [Back to calendar](#SQLSaturday-#23-Louisville-2009)
+#### [Back to calendar](#nr-23)
 Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Arie Jones
 ## Title: SQL Server 2008: Extended Events
@@ -110,7 +111,7 @@ Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 34970
 # Powershell in SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#23-Louisville-2009)
+#### [Back to calendar](#nr-23)
 Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Arie Jones
 ## Title: Powershell in SQL Server 2008
@@ -119,7 +120,7 @@ Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 35089
 # Attunity CDC: Enabling the Real-Time SSIS Story
-#### [Back to calendar](#SQLSaturday-#23-Louisville-2009)
+#### [Back to calendar](#nr-23)
 Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Derek Comingore
 ## Title: Attunity CDC: Enabling the Real-Time SSIS Story
@@ -128,7 +129,7 @@ Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 35192
 # the XML Capabilities of SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#23-Louisville-2009)
+#### [Back to calendar](#nr-23)
 Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jason Follas
 ## Title: the XML Capabilities of SQL Server 2008
@@ -137,7 +138,7 @@ Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 35194
 # Demystifying Transact-SQL 
-#### [Back to calendar](#SQLSaturday-#23-Louisville-2009)
+#### [Back to calendar](#nr-23)
 Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jason Follas
 ## Title: Demystifying Transact-SQL 
@@ -146,7 +147,7 @@ Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 35421
 # Scalable SQL Server Virtualization
-#### [Back to calendar](#SQLSaturday-#23-Louisville-2009)
+#### [Back to calendar](#nr-23)
 Event Date: 24-10-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Sarah Barela
 ## Title: Scalable SQL Server Virtualization

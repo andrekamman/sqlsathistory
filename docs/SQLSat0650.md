@@ -1,3 +1,4 @@
+#### Nr: 650
 #### [Back to Main list](index.md)
 # SQLSaturday #650 - Sacramento 2017
 Start Time (24h)|Speaker|Track|Title
@@ -38,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 63264
 # Hybrid Data and Analytics via a SQL Server 2017  Azure Drone
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Joseph Barth
 ## Title: Hybrid Data and Analytics via a SQL Server 2017  Azure Drone
@@ -57,7 +58,7 @@ This presentation will include creation of a hybrid solution for operational ana
 #  
 #### SessionID: 63279
 # Designing High Availability Database Systems using AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: Designing High Availability Database Systems using AlwaysOn Availability Groups
@@ -66,7 +67,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63597
 # Welcome To the 2016 Query Store!
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Welcome To the 2016 Query Store!
@@ -75,7 +76,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63962
 # DBA Cheat Sheet
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Elizabeth Block
 ## Title: DBA Cheat Sheet
@@ -84,7 +85,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64969
 # Effective Communication and Self Promotion for the IT Introvert (YOU!)
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Mitchell Bottel
 ## Title: Effective Communication and Self Promotion for the IT Introvert (YOU!)
@@ -93,7 +94,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 63372
 # A Survey of the Azure Data Platform
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ike Ellis
 ## Title: A Survey of the Azure Data Platform
@@ -102,7 +103,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 64095
 # Inside the SQLPS PowerShell Module
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ben Miller
 ## Title: Inside the SQLPS PowerShell Module
@@ -111,7 +112,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 64432
 # Intro to Availability Group
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Harry Chandra
 ## Title: Intro to Availability Group
@@ -120,7 +121,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65261
 # Weird Stuff I Saw While ... Working With Heaps
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Weird Stuff I Saw While ... Working With Heaps
@@ -129,7 +130,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 66065
 # Treating Tables Like Legos: Table Partitioning Basics
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Leach
 ## Title: Treating Tables Like Legos: Table Partitioning Basics
@@ -139,7 +140,7 @@ With table partitioning, you can break a table or index down into smaller more m
 #  
 #### SessionID: 66486
 # SQL Server on Containers – Part 1
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: SQL Server on Containers – Part 1
@@ -152,7 +153,7 @@ This introductory session will help seasoned SQL Server DBA/Developers understan
 #  
 #### SessionID: 64097
 # Managing Availability Groups with PowerShell
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: Managing Availability Groups with PowerShell
@@ -161,7 +162,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65779
 # Where did I put my (primary) keys?
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ami Levin
 ## Title: Where did I put my (primary) keys?
@@ -171,7 +172,7 @@ We will consider the benefits and challenges of using different types of keys - 
 #  
 #### SessionID: 66063
 # A DBAs guide to the proper handling of corruption
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Leach
 ## Title: A DBAs guide to the proper handling of corruption
@@ -183,7 +184,7 @@ Then we will move onto how to respond to some common example of corruption throu
 #  
 #### SessionID: 66214
 # Bare Naked Skinny on SQL Server
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Bare Naked Skinny on SQL Server
@@ -196,7 +197,7 @@ In this session I will disrobe misunderstandings related to the aforementioned t
 #  
 #### SessionID: 66487
 # SQL Server on Containers – Part 2
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: SQL Server on Containers – Part 2
@@ -211,7 +212,7 @@ This session is designed for seasoned SQL Server DBA  Developers
 #  
 #### SessionID: 66530
 # VMware Lunch and Learn Series: Microsoft SQL Server on vSphere
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: SQLSAT650 Sponsor
 ## Title: VMware Lunch and Learn Series: Microsoft SQL Server on vSphere
@@ -222,7 +223,7 @@ VMware Lunch and Learn Series: Microsoft SQL Server on vSphere
 #  
 #### SessionID: 66606
 # Zerto: Keeping the Enterprise Always On with IT Resilience
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: SQLSAT650 Sponsor
 ## Title: Zerto: Keeping the Enterprise Always On with IT Resilience
@@ -233,7 +234,7 @@ Your organization is always running and can't afford downtime during a disaster 
 #  
 #### SessionID: 63281
 # Linux OS Fundamentals for the SQL Admin
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: Linux OS Fundamentals for the SQL Admin
@@ -242,7 +243,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63376
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
@@ -251,7 +252,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65876
 # SQL Server Containers and Clones
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Stanton
 ## Title: SQL Server Containers and Clones
@@ -262,7 +263,7 @@ Microsoft is emphasizing the use of containers for development and test on SQL S
 #  
 #### SessionID: 66417
 # Build your Key Performance Indicator data warehouse
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Christopher Anderson
 ## Title: Build your Key Performance Indicator data warehouse
@@ -271,7 +272,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 66605
 # Intro to Azure from a DBA's Perspective: How to Cover Your a.a.s.
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dan Hess
 ## Title: Intro to Azure from a DBA's Perspective: How to Cover Your a.a.s.
@@ -280,7 +281,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63284
 # Data Wrangling for Reporting  Analytics
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Phil Robinson
 ## Title: Data Wrangling for Reporting  Analytics
@@ -289,7 +290,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 65260
 # Why Should I Care About ... Partitioned Views?
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
@@ -298,7 +299,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 66182
 # Intro to the DBATools PowerShell module
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Courville
 ## Title: Intro to the DBATools PowerShell module
@@ -307,7 +308,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66213
 # A Masters Passport to Extended Events
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: A Masters Passport to Extended Events
@@ -321,7 +322,7 @@ You will be exposed to advanced troubleshooting techniques as we work through co
 #  
 #### SessionID: 66423
 # Dive into Azure Data Lake
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Ike Ellis
 ## Title: Dive into Azure Data Lake
@@ -330,7 +331,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 63265
 # Enabling Familiar, Powerful Business Intelligence
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Sayed Saeed
 ## Title: Enabling Familiar, Powerful Business Intelligence
@@ -339,7 +340,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 64077
 # Unleashing Stretched Databases
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Armando Lacerda
 ## Title: Unleashing Stretched Databases
@@ -348,7 +349,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64850
 # SSIS Process Automation Design for the T-SQL Developer
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eric Freeman
 ## Title: SSIS Process Automation Design for the T-SQL Developer
@@ -357,7 +358,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 66433
 # Dive into the Query Optimizer - Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer - Undocumented Insight
@@ -366,7 +367,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 66604
 # Lightning Talks
-#### [Back to calendar](#SQLSaturday-#650-Sacramento-2017)
+#### [Back to calendar](#nr-650)
 Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Glenn Burnett
 ## Title: Lightning Talks

@@ -1,3 +1,4 @@
+#### Nr: 299
 #### [Back to Main list](index.md)
 # SQLSaturday #299 - Columbus 2014
 Start Time (24h)|Speaker|Track|Title
@@ -30,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11274
 # The Spy Who Loathed Me - An Intro to SQL Security 
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development  Security
 ## Speaker: Chris Bell
 ## Title: The Spy Who Loathed Me - An Intro to SQL Security 
@@ -39,7 +40,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development  Security
 #  
 #### SessionID: 11780
 # SQL Audit - auditing doesn't have to be boring
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Administration	
 ## Speaker: Colleen Morrow
 ## Title: SQL Audit - auditing doesn't have to be boring
@@ -49,7 +50,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 11998
 # Achieving Compliance with SQL Server
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development  Security
 ## Speaker: Craig Purnell
 ## Title: Achieving Compliance with SQL Server
@@ -58,7 +59,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development  Security
 #  
 #### SessionID: 11999
 # From 0 to Hadoop
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI  Big Data
 ## Speaker: Craig Purnell
 ## Title: From 0 to Hadoop
@@ -67,7 +68,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI  Big Data
 #  
 #### SessionID: 14195
 # Tally 'Em Up
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Kevin Feasel
 ## Title: Tally 'Em Up
@@ -76,7 +77,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 14196
 # APPLY Yourself
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
@@ -85,7 +86,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 15722
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
@@ -94,7 +95,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 18554
 # Transactional Replication-10 steps for successful implementation
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Administration	
 ## Speaker: Konstantin Melamud
 ## Title: Transactional Replication-10 steps for successful implementation
@@ -103,7 +104,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 18555
 # Performance Tuning - Analyzing Execution Plans
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Konstantin Melamud
 ## Title: Performance Tuning - Analyzing Execution Plans
@@ -114,7 +115,7 @@ In this presentation, we will identify what indexes are being used by the SQL Op
 #  
 #### SessionID: 22295
 # Hacking SQL Server - A Peek into the Dark Side
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development  Security
 ## Speaker: Dustin Prescott
 ## Title: Hacking SQL Server - A Peek into the Dark Side
@@ -123,7 +124,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development  Security
 #  
 #### SessionID: 22641
 # Getting Started with Hekaton (In-Memory OLTP)
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI  Big Data
 ## Speaker: Brian Davis
 ## Title: Getting Started with Hekaton (In-Memory OLTP)
@@ -132,7 +133,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI  Big Data
 #  
 #### SessionID: 22643
 # SSIS Templates Can Make Your Life Easier
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SSIS  ETL
 ## Speaker: Brian Davis
 ## Title: SSIS Templates Can Make Your Life Easier
@@ -141,7 +142,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SSIS  ETL
 #  
 #### SessionID: 24045
 # Exposing SQL data with SharePoint
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI  Big Data
 ## Speaker: Scott Brickey
 ## Title: Exposing SQL data with SharePoint
@@ -150,7 +151,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI  Big Data
 #  
 #### SessionID: 24046
 # Power BI with SQL, Excel and SharePoint
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI  Big Data
 ## Speaker: Scott Brickey
 ## Title: Power BI with SQL, Excel and SharePoint
@@ -159,7 +160,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI  Big Data
 #  
 #### SessionID: 24419
 # Indexing Fundamentals
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Steve Hood
 ## Title: Indexing Fundamentals
@@ -168,7 +169,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 25082
 # SSIS for the Absolute Beginner
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SSIS  ETL
 ## Speaker: George Squillace
 ## Title: SSIS for the Absolute Beginner
@@ -177,7 +178,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SSIS  ETL
 #  
 #### SessionID: 25084
 # All About the SSIS Catalog (SSISDB)
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SSIS  ETL
 ## Speaker: George Squillace
 ## Title: All About the SSIS Catalog (SSISDB)
@@ -186,7 +187,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SSIS  ETL
 #  
 #### SessionID: 26379
 # SQL Injection
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development  Security
 ## Speaker: Kevin Boles
 ## Title: SQL Injection
@@ -195,7 +196,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development  Security
 #  
 #### SessionID: 26380
 # Unit Testing SQL Server
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SSIS  ETL
 ## Speaker: Kevin Boles
 ## Title: Unit Testing SQL Server
@@ -204,7 +205,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SSIS  ETL
 #  
 #### SessionID: 34869
 # Policy Based Management: Introduction and Implementation
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Administration	
 ## Speaker: Ryan Brickey
 ## Title: Policy Based Management: Introduction and Implementation
@@ -213,7 +214,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 8956
 # Introduction to SQL Server Service Broker
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development  Security
 ## Speaker: Adam Belebczuk
 ## Title: Introduction to SQL Server Service Broker
@@ -222,7 +223,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development  Security
 #  
 #### SessionID: 8957
 # Introduction to SQL Server 2012 AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Administration	
 ## Speaker: Adam Belebczuk
 ## Title: Introduction to SQL Server 2012 AlwaysOn Availability Groups
@@ -231,7 +232,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 9488
 # Full life-cycle of Self-Service BI with PowerPivot and the SSAS Tabular Model
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI  Big Data
 ## Speaker: Andrew Holowaty
 ## Title: Full life-cycle of Self-Service BI with PowerPivot and the SSAS Tabular Model
@@ -240,7 +241,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI  Big Data
 #  
 #### SessionID: 9985
 # Manage SQLServer Efficiently w/PowerShell Remoting
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Administration	
 ## Speaker: Allen White
 ## Title: Manage SQLServer Efficiently w/PowerShell Remoting
@@ -249,7 +250,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 9987
 # Get Near Realtime ETL with Service Broker
-#### [Back to calendar](#SQLSaturday-#299-Columbus-2014)
+#### [Back to calendar](#nr-299)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SSIS  ETL
 ## Speaker: Allen White
 ## Title: Get Near Realtime ETL with Service Broker

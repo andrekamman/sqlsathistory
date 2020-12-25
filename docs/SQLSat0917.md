@@ -1,3 +1,4 @@
+#### Nr: 917
 #### [Back to Main list](index.md)
 # SQLSaturday #917 - Vienna 2020
 Start Time (24h)|Speaker|Track|Title
@@ -40,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 94961
 # Lightning Talk Session
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Analytics
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Lightning Talk Session
@@ -55,7 +56,7 @@ Kamil Nowinski - "Cosmos DB - when yes and when not"
 #  
 #### SessionID: 95000
 # Building a modern data warehouse and BI solution in Microsoft cloud
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Cloud
 ## Speaker: Gergely Csom
 ## Title: Building a modern data warehouse and BI solution in Microsoft cloud
@@ -66,7 +67,7 @@ In the last couple years I helped many customers to modernize their DWH landscap
 #  
 #### SessionID: 95110
 # Bringing AI to the edge: On-premise Azure Cognitive Services using containers
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Development
 ## Speaker: Luis Beltran
 ## Title: Bringing AI to the edge: On-premise Azure Cognitive Services using containers
@@ -79,7 +80,7 @@ In this talk, we'll explore what it takes to configure and use containers in Azu
 #  
 #### SessionID: 95162
 # Designing your tabular/PowerBI model for performance and scalability
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Analytics
 ## Speaker: Ivan Donev
 ## Title: Designing your tabular/PowerBI model for performance and scalability
@@ -88,7 +89,7 @@ Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Analytics
 #  
 #### SessionID: 98424
 # Enterprise Power BI - Development Lifecycle
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Analytics
 ## Speaker: Asgeir Gunnarsson
 ## Title: Enterprise Power BI - Development Lifecycle
@@ -101,7 +102,7 @@ In this session we will look at what Power BI has to offer when it comes to deve
 #  
 #### SessionID: 98429
 # First steps with SQL Server on Docker
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Adminstration
 ## Speaker: Bartosz Ratajczyk
 ## Title: First steps with SQL Server on Docker
@@ -112,7 +113,7 @@ Join me in the session where I will introduce you to the containers world. You w
 #  
 #### SessionID: 100110
 # SQL Server produktiv in Docker bereitstellen
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Adminstration
 ## Speaker: Frank Geisler
 ## Title: SQL Server produktiv in Docker bereitstellen
@@ -121,7 +122,7 @@ Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Adminstration
 #  
 #### SessionID: 100111
 # Automated Machine Learning – brauchen wir noch Data Scientists?
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Analytics
 ## Speaker: Mario Schnalzenberger
 ## Title: Automated Machine Learning – brauchen wir noch Data Scientists?
@@ -134,7 +135,7 @@ Fazit: Diese Methoden stecken nun schon nicht mehr in den Kinderschuhen, Power B
 #  
 #### SessionID: 95420
 # 2 Fast 2 Furious - designing for speed, concurrency, and correctness
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Development
 ## Speaker: Mark Broadbent
 ## Title: 2 Fast 2 Furious - designing for speed, concurrency, and correctness
@@ -147,7 +148,7 @@ We will cover SQL Server’s traditional locking model, In-Memory OLTP, Columnst
 #  
 #### SessionID: 98395
 # Continuous Intelligence... What's This All About?
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Development
 ## Speaker: Gabi Münster
 ## Title: Continuous Intelligence... What's This All About?
@@ -158,7 +159,7 @@ Let's look at advantages and challenges for CI in BI and at possibilities to imp
 #  
 #### SessionID: 98451
 # From 0 to hero. Azure data factory CI/CD experiences
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Cloud
 ## Speaker: Halvar Trøyel Nerbø
 ## Title: From 0 to hero. Azure data factory CI/CD experiences
@@ -169,7 +170,7 @@ We will set up a development, test and production Azure Data Factory using varia
 #  
 #### SessionID: 98678
 # Real Time Autonomous Driving Data in Azure Databricks
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Cloud
 ## Speaker: Sanja Jovanovic
 ## Title: Real Time Autonomous Driving Data in Azure Databricks
@@ -178,7 +179,7 @@ Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Cloud
 #  
 #### SessionID: 95119
 # Achieving wonders with Query store
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Adminstration
 ## Speaker: Dennes Torres
 ## Title: Achieving wonders with Query store
@@ -187,7 +188,7 @@ Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Adminstration
 #  
 #### SessionID: 95196
 # Databricks for the SQL Developer
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Cloud
 ## Speaker: Gerhard Brueckl
 ## Title: Databricks for the SQL Developer
@@ -196,7 +197,7 @@ Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Cloud
 #  
 #### SessionID: 95218
 # Azure-d Availability: SQL Server HA In and To the Cloud
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Adminstration
 ## Speaker: Matt Gordon
 ## Title: Azure-d Availability: SQL Server HA In and To the Cloud
@@ -205,7 +206,7 @@ Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Adminstration
 #  
 #### SessionID: 95829
 # Statistics, an unreliable friend.
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Development
 ## Speaker: Magnus Ahlkvist
 ## Title: Statistics, an unreliable friend.
@@ -216,7 +217,7 @@ Much of this session is about the "ascending key problem", and how Microsoft hav
 #  
 #### SessionID: 96511
 # Big Time -  A Glance at Azure Time Series Insights
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Analytics
 ## Speaker: Sandra Geisler
 ## Title: Big Time -  A Glance at Azure Time Series Insights
@@ -225,7 +226,7 @@ Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Analytics
 #  
 #### SessionID: 98441
 # DAX - Musings about foundational concepts
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Analytics
 ## Speaker: Thomas Martens
 ## Title: DAX - Musings about foundational concepts
@@ -235,7 +236,7 @@ Each question comes with its own slides documenting the underlying concepts and 
 #  
 #### SessionID: 95071
 # Common Data Model - Our new buddy for Data Governance
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Analytics
 ## Speaker: Oliver Engels
 ## Title: Common Data Model - Our new buddy for Data Governance
@@ -244,7 +245,7 @@ Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Analytics
 #  
 #### SessionID: 95624
 # Temporal tables in SQL Server: practical usage scenarios
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Development
 ## Speaker: Andrea Martorana Tusa
 ## Title: Temporal tables in SQL Server: practical usage scenarios
@@ -262,7 +263,7 @@ All cases are based on real implementation to customers and on the experience ga
 #  
 #### SessionID: 98383
 # “SQL-like” or query languages in Azure IoT
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Cloud
 ## Speaker: Catalin Gheorghiu
 ## Title: “SQL-like” or query languages in Azure IoT
@@ -274,7 +275,7 @@ So, we will leave no SQL query unturned  in Azure IoT Hub, Stream Analytics, Pow
 #  
 #### SessionID: 98384
 # Monitoring SQL Server without breaking the bank
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Adminstration
 ## Speaker: Gianluca Sartori
 ## Title: Monitoring SQL Server without breaking the bank
@@ -284,7 +285,7 @@ In this session we will combine multiple open source tools (InfluxDB, Telegraf ,
 #  
 #### SessionID: 98431
 # Applied data analytics with Azure Databricks
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Analytics
 ## Speaker: Tomaž Kaštrun
 ## Title: Applied data analytics with Azure Databricks
@@ -296,7 +297,7 @@ Data engineers and business analysts (data scientists) can now work on RDD struc
 #  
 #### SessionID: 98523
 # DevOps in der Datenbank-Anwendungsentwicklung
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Development
 ## Speaker: Markus Schröder
 ## Title: DevOps in der Datenbank-Anwendungsentwicklung
@@ -305,7 +306,7 @@ Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Development
 #  
 #### SessionID: 95975
 # The Battle of DBAAS – RDS vs Cloud SQL vs SQL Azure
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Cloud
 ## Speaker: Sandeep Arora
 ## Title: The Battle of DBAAS – RDS vs Cloud SQL vs SQL Azure
@@ -314,7 +315,7 @@ Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Cloud
 #  
 #### SessionID: 96761
 # Reporting for Developers
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Development
 ## Speaker: Tillmann Eitelberg
 ## Title: Reporting for Developers
@@ -326,7 +327,7 @@ In this session, we will take a detailed look at the possibilities offered by th
 #  
 #### SessionID: 98144
 # Automation for the DBA: Embrace your inner sloth
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Adminstration
 ## Speaker: William Durkin
 ## Title: Automation for the DBA: Embrace your inner sloth
@@ -339,7 +340,7 @@ Along the way we will see that we can benefit from the wide world of automation 
 #  
 #### SessionID: 98173
 # Power BI Live Data sets, Monitoring your key metrics
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Adminstration
 ## Speaker: Jens Vestergaard
 ## Title: Power BI Live Data sets, Monitoring your key metrics
@@ -351,7 +352,7 @@ The session will be covering basic entry to best practices.
 #  
 #### SessionID: 98177
 # Power BI: From Self-Service to Enterprise
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Analytics
 ## Speaker: Just Blindbaek
 ## Title: Power BI: From Self-Service to Enterprise
@@ -362,7 +363,7 @@ In this demo heavy session we will take a look at the different steps you have t
 #  
 #### SessionID: 95049
 # From adaptive to intelligent: query processing in SQL 2019
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Development
 ## Speaker: Hugo Kornelis
 ## Title: From adaptive to intelligent: query processing in SQL 2019
@@ -373,7 +374,7 @@ In this high-paced session, we will look at all these features and cover some us
 #  
 #### SessionID: 95193
 # Data Science in Power BI Desktop
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Analytics
 ## Speaker: Dejan Sarka
 ## Title: Data Science in Power BI Desktop
@@ -382,7 +383,7 @@ Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Analytics
 #  
 #### SessionID: 95935
 # Batch Execution Mode on Rowstore Indexes
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Adminstration
 ## Speaker: Niko Neugebauer
 ## Title: Batch Execution Mode on Rowstore Indexes
@@ -393,7 +394,7 @@ Learn with me how and when it will function, and which challenges we shall meet 
 #  
 #### SessionID: 96063
 # Datacenter and/or Cloud - When to Use One, the Other, or Both
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Cloud
 ## Speaker: Thomas Grohser
 ## Title: Datacenter and/or Cloud - When to Use One, the Other, or Both
@@ -404,7 +405,7 @@ This session will show the various types and sizes of workloads, show you how to
 #  
 #### SessionID: 96745
 # SQL Server 2019 Big Data Clusters: Make SQL Server your Data Hub for everything
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Analytics
 ## Speaker: Ben Weissman
 ## Title: SQL Server 2019 Big Data Clusters: Make SQL Server your Data Hub for everything
@@ -417,7 +418,7 @@ In this session we are going to explore the capabilities of the exciting new fea
 #  
 #### SessionID: 98442
 # Creating an Enterprise Datalake without an Enterprise budget
-#### [Back to calendar](#SQLSaturday-#917-Vienna-2020)
+#### [Back to calendar](#nr-917)
 Event Date: 24-01-2020 - Session time: 16:15:00 - Track: Cloud
 ## Speaker: André Kamman
 ## Title: Creating an Enterprise Datalake without an Enterprise budget

@@ -1,3 +1,4 @@
+#### Nr: 322
 #### [Back to Main list](index.md)
 # SQLSaturday #322 - Guatemala 2014
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11223
 # Database Unit Testing
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Carlos Lone
 ## Title: Database Unit Testing
@@ -38,7 +39,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 12856
 # BCS con SharePoint 2013
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Sánchez Aguilar
 ## Title: BCS con SharePoint 2013
@@ -47,7 +48,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12857
 # SCOM para SQL Server
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: David Sánchez Aguilar
 ## Title: SCOM para SQL Server
@@ -56,7 +57,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 12860
 # Visualización de Datos de SSAS con SharePoint 2013
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David  Sanchez
 ## Title: Visualización de Datos de SSAS con SharePoint 2013
@@ -65,7 +66,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13640
 # Introducción al análisis predictivo con SQL Server
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Eduardo Castro
 ## Title: Introducción al análisis predictivo con SQL Server
@@ -76,7 +77,7 @@ Adicionalmente, se muestra cómo se puede publicar dichos análisis por medio de
 #  
 #### SessionID: 13641
 # Qué debe saber un BI-DBA de SQL Server sobre Hadoop
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Eduardo Castro
 ## Title: Qué debe saber un BI-DBA de SQL Server sobre Hadoop
@@ -87,7 +88,7 @@ El DBA aprende la forma de integrar Hadoop dentro de sus soluciones de bases de 
 #  
 #### SessionID: 16008
 # Construyendo una Dimension de Tiempo Excepcional
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Javier Loria
 ## Title: Construyendo una Dimension de Tiempo Excepcional
@@ -96,7 +97,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 16010
 # Modelos Mentales en BI: Implementación práctica en Finanzas
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Javier Loria
 ## Title: Modelos Mentales en BI: Implementación práctica en Finanzas
@@ -105,7 +106,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16702
 # Dr. Rudo SQL Vs Los Querys del infierno
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jesus Gil Velasco
 ## Title: Dr. Rudo SQL Vs Los Querys del infierno
@@ -115,7 +116,7 @@ Acompañame y juntos ganémosle la lucha.
 #  
 #### SessionID: 16703
 # SQL2014 -- ¿Cómo crear soluciones de bases de datos hibridas?
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jesus Gil Velasco
 ## Title: SQL2014 -- ¿Cómo crear soluciones de bases de datos hibridas?
@@ -125,7 +126,7 @@ Acompañame y te mostrare paso a paso como crear desde cero una solución hibrid
 #  
 #### SessionID: 17762
 # Power BI .. Inteligencia de negocios en la nube de Microsoft
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Juan Alvarado
 ## Title: Power BI .. Inteligencia de negocios en la nube de Microsoft
@@ -134,7 +135,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17763
 # Overview de lo nuevo de SQL 2014
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Juan Alvarado
 ## Title: Overview de lo nuevo de SQL 2014
@@ -143,7 +144,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 19719
 # Hacking SQL Server 101
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Marlon Ramos
 ## Title: Hacking SQL Server 101
@@ -152,7 +153,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 20130
 # Mejorando el performance de cubos en SQL server Analysis Services
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Mejorando el performance de cubos en SQL server Analysis Services
@@ -161,7 +162,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 22235
 # Conceptos de inteligencia de negocios - BI
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Ahias Portillo
 ## Title: Conceptos de inteligencia de negocios - BI
@@ -170,7 +171,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 22239
 # SOS de Alto de rendimiento con Window Functions
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ahias Portillo
 ## Title: SOS de Alto de rendimiento con Window Functions
@@ -179,7 +180,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22242
 # Todo Inicia con la Integración de datos (SSIS).
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ahias Portillo
 ## Title: Todo Inicia con la Integración de datos (SSIS).
@@ -188,7 +189,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 22318
 # TSQL a la Carta
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ricardo Estrada
 ## Title: TSQL a la Carta
@@ -197,7 +198,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22319
 # Migrando a Reporting Services 2014
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Ricardo Estrada
 ## Title: Migrando a Reporting Services 2014
@@ -206,7 +207,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 27392
 # Entornos distribuidos con la clásica Replicación en SQL Server
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Victor Hugo Cardenas
 ## Title: Entornos distribuidos con la clásica Replicación en SQL Server
@@ -215,7 +216,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 27393
 # Explanation of Indices, operation and maintenance
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Victor Hugo Cardenas
 ## Title: Explanation of Indices, operation and maintenance
@@ -224,7 +225,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 27395
 # In-Memory OLTP SQL 2014
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Victor Hugo Cardenas
 ## Title: In-Memory OLTP SQL 2014
@@ -233,7 +234,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9049
 # Análisis de la salud de una base de datos SQL Server
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Adrian Miranda
 ## Title: Análisis de la salud de una base de datos SQL Server
@@ -242,7 +243,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9050
 # En la tierra o en la Nube? SQL Server desde cada ángulo.
-#### [Back to calendar](#SQLSaturday-#322-Guatemala-2014)
+#### [Back to calendar](#nr-322)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Adrian Miranda
 ## Title: En la tierra o en la Nube? SQL Server desde cada ángulo.

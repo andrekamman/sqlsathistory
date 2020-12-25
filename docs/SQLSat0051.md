@@ -1,3 +1,4 @@
+#### Nr: 51
 #### [Back to Main list](index.md)
 # SQLSaturday #51 - Nashville 2010
 Start Time (24h)|Speaker|Track|Title
@@ -37,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28405
 # The Dirty Dozen: PowerShell Scripts for Busy DBAs
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Aaron Nelson
 ## Title: The Dirty Dozen: PowerShell Scripts for Busy DBAs
@@ -46,7 +47,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 28588
 # SQL Server 2008 R2 Utility and Data-tier Apps
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Session Mix
 ## Speaker: Alan Brewer
 ## Title: SQL Server 2008 R2 Utility and Data-tier Apps
@@ -55,7 +56,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Session Mix
 #  
 #### SessionID: 28674
 # Database Design for Developers
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Session Mix
 ## Speaker: Andy Leonard
 ## Title: Database Design for Developers
@@ -64,7 +65,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Session Mix
 #  
 #### SessionID: 28714
 # Introduction to SQL Server Statistics
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Session Mix
 ## Speaker: Andy Warren
 ## Title: Introduction to SQL Server Statistics
@@ -74,7 +75,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Session Mix
 #  
 #### SessionID: 28715
 # Building a Professional Development  Plan
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Andy Warren
 ## Title: Building a Professional Development  Plan
@@ -84,7 +85,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 28773
 # Data Mining in Action: A case study
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: ANDREW MINKIN
 ## Title: Data Mining in Action: A case study
@@ -94,7 +95,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 28825
 # Monitoring Data Changes with Change Data Capture
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Arie Jones
 ## Title: Monitoring Data Changes with Change Data Capture
@@ -103,7 +104,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 28910
 # Gather SQL Server Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Allen White
 ## Title: Gather SQL Server Performance Data with PowerShell
@@ -112,7 +113,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 28912
 # XQuery Basics
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Allen White
 ## Title: XQuery Basics
@@ -121,7 +122,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 28972
 # Introduction to MDX for SQL Programmers
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Barry Ralston
 ## Title: Introduction to MDX for SQL Programmers
@@ -131,7 +132,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 29375
 # From Access To SQL Server
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Jack Cannon
 ## Title: From Access To SQL Server
@@ -140,7 +141,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 29977
 # Realizing ROI for Business Intelligence Projects
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Douglas McDowell
 ## Title: Realizing ROI for Business Intelligence Projects
@@ -149,7 +150,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 30003
 # Keynote
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Cafeteria
 ## Speaker: Louis Davidson
 ## Title: Keynote
@@ -158,7 +159,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Cafeteria
 #  
 #### SessionID: 30004
 # Stump the "Experts"
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Cafeteria
 ## Speaker: Louis Davidson
 ## Title: Stump the "Experts"
@@ -167,7 +168,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Cafeteria
 #  
 #### SessionID: 30248
 # DMV Emergency Room!
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Session Mix
 ## Speaker: Glenn Berry
 ## Title: DMV Emergency Room!
@@ -176,7 +177,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Session Mix
 #  
 #### SessionID: 30321
 # Working with Spatial Data in SQL Server 2008 
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Hope Foley
 ## Title: Working with Spatial Data in SQL Server 2008 
@@ -185,7 +186,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 30523
 # Are You Following Your Own Best Practices?
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Jason Strate
 ## Title: Are You Following Your Own Best Practices?
@@ -194,7 +195,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 30746
 # Taking Control of Your Career
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Jeremiah Peschka
 ## Title: Taking Control of Your Career
@@ -203,7 +204,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 30747
 # Fundamentals of SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Session Mix
 ## Speaker: Jeremiah Peschka
 ## Title: Fundamentals of SQL Server Internals
@@ -212,7 +213,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Session Mix
 #  
 #### SessionID: 30804
 # Make Reporting Services Work For You
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Jessica Moss
 ## Title: Make Reporting Services Work For You
@@ -221,7 +222,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 30931
 # Creating Custom Components for SSIS
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: John Welch
 ## Title: Creating Custom Components for SSIS
@@ -230,7 +231,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 31239
 # Fortress SQL Server
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Session Mix
 ## Speaker: Brian Kelley
 ## Title: Fortress SQL Server
@@ -239,7 +240,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Session Mix
 #  
 #### SessionID: 31282
 # Take the Awesomeness Home: the Data Collector
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Kendra Little
 ## Title: Take the Awesomeness Home: the Data Collector
@@ -248,7 +249,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 32457
 # Data Dude - Making DB developers more productive
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Robert Cain
 ## Title: Data Dude - Making DB developers more productive
@@ -258,7 +259,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 33000
 # Analysis Services 2008 End-to-End
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Craig Utley
 ## Title: Analysis Services 2008 End-to-End
@@ -267,7 +268,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 33065
 # DBA Survivor
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Cafeteria
 ## Speaker: Thomas LaRock
 ## Title: DBA Survivor
@@ -276,7 +277,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Cafeteria
 #  
 #### SessionID: 33066
 # What Are You Waiting For?
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Thomas LaRock
 ## Title: What Are You Waiting For?
@@ -285,7 +286,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 33098
 # Data Mining with PowerPivot 2010
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Mark Tabladillo
 ## Title: Data Mining with PowerPivot 2010
@@ -295,7 +296,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 33239
 # The Social DBA: Resources for Career Building
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Stuart Ainsworth
 ## Title: The Social DBA: Resources for Career Building
@@ -304,7 +305,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 33545
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -313,7 +314,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 33862
 # Information Visualization - Designing great Charts
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Wayne Snyder
 ## Title: Information Visualization - Designing great Charts
@@ -322,7 +323,7 @@ Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 33899
 # Design and Implement Like Edison!
-#### [Back to calendar](#SQLSaturday-#51-Nashville-2010)
+#### [Back to calendar](#nr-51)
 Event Date: 21-08-2010 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: William E. Pearson III
 ## Title: Design and Implement Like Edison!

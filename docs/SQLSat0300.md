@@ -1,3 +1,4 @@
+#### Nr: 300
 #### [Back to Main list](index.md)
 # SQLSaturday #300 - Kansas City 2014
 Start Time (24h)|Speaker|Track|Title
@@ -49,7 +50,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10453
 # SSIS Project Deployment Model: Deployment and maintenance
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Bill Fellows
 ## Title: SSIS Project Deployment Model: Deployment and maintenance
@@ -58,7 +59,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 10467
 # Concurrency and Asynchronous Processing in SQL Server
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Bill Graziano
 ## Title: Concurrency and Asynchronous Processing in SQL Server
@@ -67,7 +68,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 11484
 # Outages; Dispatchers, Cops and Detectives
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Chris Shaw
 ## Title: Outages; Dispatchers, Cops and Detectives
@@ -78,7 +79,7 @@ The more I watched the more I realized that as database professionals we have cr
 #  
 #### SessionID: 12512
 # SQL Server Virtualization 101
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: David Klee
 ## Title: SQL Server Virtualization 101
@@ -87,7 +88,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 12864
 # Fill Factor: Performance or Nuisance?
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: WIlliam Barnes
 ## Title: Fill Factor: Performance or Nuisance?
@@ -96,7 +97,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 13303
 # DBA 911 - Database Corruption
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: David Maxwell
 ## Title: DBA 911 - Database Corruption
@@ -106,7 +107,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 13673
 # SQL Server Features That Will Blow Your Mind!
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Ed Leighton-Dick
 ## Title: SQL Server Features That Will Blow Your Mind!
@@ -115,7 +116,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 14691
 # Analyzing I/O Subsystem Performance
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Glenn Berry
 ## Title: Analyzing I/O Subsystem Performance
@@ -124,7 +125,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 14952
 # Introduction to Execution Plans
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Nathan  Heaivilin
 ## Title: Introduction to Execution Plans
@@ -133,7 +134,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 15721
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
@@ -142,7 +143,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 15816
 # Advanced Spatial Analysis: Beyond Bubble Charts
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Jason Horner
 ## Title: Advanced Spatial Analysis: Beyond Bubble Charts
@@ -151,7 +152,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 16466
 # Introduction to Powershell cmdlets for DBAs
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Jennifer McCown
 ## Title: Introduction to Powershell cmdlets for DBAs
@@ -160,7 +161,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 16770
 # TempDB Parasites!
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Jason Hall
 ## Title: TempDB Parasites!
@@ -169,7 +170,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 16873
 # Visual Studio Database Projects and Database Deployment
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Jason Kassay
 ## Title: Visual Studio Database Projects and Database Deployment
@@ -178,7 +179,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 17250
 # Social Networking Is Alive!!!
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: John Morehouse
 ## Title: Social Networking Is Alive!!!
@@ -187,7 +188,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 18439
 # Writing Better T-SQL Queries with Window Functions
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Kathi Kellenberger
 ## Title: Writing Better T-SQL Queries with Window Functions
@@ -198,7 +199,7 @@ This session will teach you how to get great performance, avoid cursor solutions
 #  
 #### SessionID: 18945
 # Tabular vs Multidimensional.  Lets build it together!
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Lance Kolie
 ## Title: Tabular vs Multidimensional.  Lets build it together!
@@ -207,7 +208,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 18963
 # Yesterday I Couldn’t Even Spell ‘DBA’.
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Larry Toothman
 ## Title: Yesterday I Couldn’t Even Spell ‘DBA’.
@@ -216,7 +217,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 19142
 # Data Modeling 101
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Leslie Weed
 ## Title: Data Modeling 101
@@ -227,7 +228,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 19853
 # The Fundamentals of Great SQL Query Performance
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Matt Wigdahl
 ## Title: The Fundamentals of Great SQL Query Performance
@@ -236,7 +237,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 19867
 # SQL Security Best Practices  Shrinking Your Attack Surface
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Matthew Brimer
 ## Title: SQL Security Best Practices  Shrinking Your Attack Surface
@@ -247,7 +248,7 @@ In addition, attending this talk is worth 1.5 Continuing Education credits.
 #  
 #### SessionID: 19927
 # Master of All I Survey - track code changes and more across your environment
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Michael Bourgon
 ## Title: Master of All I Survey - track code changes and more across your environment
@@ -257,7 +258,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 22546
 # Understanding the SQL Server Transaction Log
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Randy Knight
 ## Title: Understanding the SQL Server Transaction Log
@@ -266,7 +267,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 22752
 # Scaling the relational model
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Chase Aucoin
 ## Title: Scaling the relational model
@@ -275,7 +276,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 22759
 # Increase your SSIS productivity with Biml
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Reeves Smith
 ## Title: Increase your SSIS productivity with Biml
@@ -287,7 +288,7 @@ This session will be a demo based session that will inspire you to make Biml you
 #  
 #### SessionID: 22923
 # Data Vault Data Warehouse Architecture
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Jeff Renz
 ## Title: Data Vault Data Warehouse Architecture
@@ -296,7 +297,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 23358
 # Table Partitioning 101
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Robert Smith
 ## Title: Table Partitioning 101
@@ -305,7 +306,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 23587
 # XPath - XQuery; I guess if I HAVE to
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Russ Thomas
 ## Title: XPath - XQuery; I guess if I HAVE to
@@ -314,7 +315,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 24248
 # REGEX for DBAs
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Sean McCown
 ## Title: REGEX for DBAs
@@ -323,7 +324,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 24517
 # Continuous Integration for Databases
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Steve Jones
 ## Title: Continuous Integration for Databases
@@ -332,7 +333,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 24961
 # Twice in a Lifetime: T-SQL Refactoring 101
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: MIKE DONNELLY
 ## Title: Twice in a Lifetime: T-SQL Refactoring 101
@@ -343,7 +344,7 @@ This session will cover ways to quickly find old T-SQL antipatterns, tools that 
 #  
 #### SessionID: 25162
 # The Top Customer Problems: How to avoid calling Bob
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Bob Ward
 ## Title: The Top Customer Problems: How to avoid calling Bob
@@ -352,7 +353,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 25163
 # Troubleshooting the Memory of SQL Server
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Bob Ward
 ## Title: Troubleshooting the Memory of SQL Server
@@ -361,7 +362,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 25166
 # NULL: A Love Story
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: JK Wood
 ## Title: NULL: A Love Story
@@ -370,7 +371,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 25174
 # Can you check on the database?
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Tristan Wilson
 ## Title: Can you check on the database?
@@ -379,7 +380,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 25693
 # Capture Change and Apply it With Change Data Capture  SSIS
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Steve Wake
 ## Title: Capture Change and Apply it With Change Data Capture  SSIS
@@ -388,7 +389,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 26561
 # Fun with Availability Groups
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Christopher Wolff
 ## Title: Fun with Availability Groups
@@ -397,7 +398,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 26662
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -406,7 +407,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 27053
 # 10 Ways To Abuse T-SQL
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Tracy McKibben
 ## Title: 10 Ways To Abuse T-SQL
@@ -415,7 +416,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 27821
 # Read Dirty to Me - Isolation Levels/User Impact
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Wendy Pastrick
 ## Title: Read Dirty to Me - Isolation Levels/User Impact
@@ -424,7 +425,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 28297
 # Build ETL in 30 minutes or less with SSIS 
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Zane Brunette
 ## Title: Build ETL in 30 minutes or less with SSIS 
@@ -433,7 +434,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 9403
 # Making the Leap from Developer to DBA
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
@@ -442,7 +443,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 9843
 # Policy Based Management, Trolls and Watchmakers
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Thomas Norman
 ## Title: Policy Based Management, Trolls and Watchmakers
@@ -451,7 +452,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 9934
 # BI Basics - Finding Return on Data
-#### [Back to calendar](#SQLSaturday-#300-Kansas-City-2014)
+#### [Back to calendar](#nr-300)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Allen Smith
 ## Title: BI Basics - Finding Return on Data

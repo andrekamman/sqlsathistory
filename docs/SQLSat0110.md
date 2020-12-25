@@ -1,3 +1,4 @@
+#### Nr: 110
 #### [Back to Main list](index.md)
 # SQLSaturday #110 - Tampa 2012
 Start Time (24h)|Speaker|Track|Title
@@ -46,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10786
 # Reporting Services Deep Dive
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Brian McDonald
 ## Title: Reporting Services Deep Dive
@@ -56,7 +57,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 14060
 # TempDB Performance Troubleshooting and Optimizing
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Performance Troubleshooting and Optimizing
@@ -65,7 +66,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 16299
 # Rewriting bad T-SQL Code
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Jeffrey Garbus
 ## Title: Rewriting bad T-SQL Code
@@ -74,7 +75,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 16991
 # It's In There Somewhere! 
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: James McAuliffe
 ## Title: It's In There Somewhere! 
@@ -84,7 +85,7 @@ It’s like having the biggest junk drawer EVER.  That’s often what our “Doc
 #  
 #### SessionID: 17390
 # STOP! Consolidate and Listen!
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Jorge Segarra
 ## Title: STOP! Consolidate and Listen!
@@ -93,7 +94,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 17452
 # Introduction to Project Management
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Richie Rump
 ## Title: Introduction to Project Management
@@ -102,7 +103,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 17996
 # The Dirty Business of Auditing
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Brian Kelley
 ## Title: The Dirty Business of Auditing
@@ -111,7 +112,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 18055
 # Building Your Own SQL Server Virtual Playground
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Kendal Van Dyke
 ## Title: Building Your Own SQL Server Virtual Playground
@@ -120,7 +121,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 18997
 # Super Fast Data Warehouse Dimension Loading
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Luis Figueroa
 ## Title: Super Fast Data Warehouse Dimension Loading
@@ -129,7 +130,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 20379
 # Running SQL Server 2012 on Server Core: Why  How
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Michael Wells
 ## Title: Running SQL Server 2012 on Server Core: Why  How
@@ -138,7 +139,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 21717
 # Index Internals
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Sebastian Meine
 ## Title: Index Internals
@@ -147,7 +148,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 23167
 # Slowly Changing Dimensions
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Robert Hatton
 ## Title: Slowly Changing Dimensions
@@ -158,7 +159,7 @@ This session will show you how to design SQL Tables that model time and accurate
 #  
 #### SessionID: 23609
 # SkyDrive and Phone 7 App Photos!
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Russell Fustino
 ## Title: SkyDrive and Phone 7 App Photos!
@@ -167,7 +168,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 28698
 # SQL Server Security for Developers
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Andy Warren
 ## Title: SQL Server Security for Developers
@@ -176,7 +177,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 28950
 # Gather SQL Server Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Allen White
 ## Title: Gather SQL Server Performance Data with PowerShell
@@ -185,7 +186,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 29070
 # BI in the Cloud
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: David Liebman
 ## Title: BI in the Cloud
@@ -194,7 +195,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 29370
 # Intro to SSRS
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Chris Albrektson
 ## Title: Intro to SSRS
@@ -203,7 +204,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 29547
 # What's Buried in the Plan Cache?
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Christina Leo
 ## Title: What's Buried in the Plan Cache?
@@ -215,7 +216,7 @@ In this session, we’ll look at how the plan cache is organized, what plans are
 #  
 #### SessionID: 29614
 # Introduction to Master Data Services 2012
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Christopher Price
 ## Title: Introduction to Master Data Services 2012
@@ -224,7 +225,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 29785
 # SQL Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: David Eichner
 ## Title: SQL Report Builder for Business Intelligence
@@ -233,7 +234,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 29914
 # Service Broker - Why, When and Where?
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Dmitri Korotkevitch
 ## Title: Service Broker - Why, When and Where?
@@ -244,7 +245,7 @@ This session focuses on the latter case. While it provides very high level overv
 #  
 #### SessionID: 30299
 # Introduction to Execution Plan
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Nathan Heaivilin
 ## Title: Introduction to Execution Plan
@@ -253,7 +254,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 30479
 # Don't Panic, DBAs!  Databases on VMware made easy.
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Janis Griffin
 ## Title: Don't Panic, DBAs!  Databases on VMware made easy.
@@ -262,7 +263,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 30496
 # Introduction to PowerShell Remoting
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Jason Hofferle
 ## Title: Introduction to PowerShell Remoting
@@ -271,7 +272,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 30596
 # What is BI Semantic Model and why should you care?
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Jose Chinchilla
 ## Title: What is BI Semantic Model and why should you care?
@@ -280,7 +281,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 30690
 # Mobile Business Intelligence
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Jen Underwood
 ## Title: Mobile Business Intelligence
@@ -289,7 +290,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 30818
 # Little in the middle but got much [Write]Back
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Josh Fennessy
 ## Title: Little in the middle but got much [Write]Back
@@ -302,7 +303,7 @@ Writeback is often an underused feature in SSAS cubes.  In this session, attende
 #  
 #### SessionID: 30841
 # AlwaysOn - Finally, A usable 'mirror'!
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Jim Murphy
 ## Title: AlwaysOn - Finally, A usable 'mirror'!
@@ -311,7 +312,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 31440
 # Creating Dashboards with PerformancePoint Services
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Devin Knight
 ## Title: Creating Dashboards with PerformancePoint Services
@@ -320,7 +321,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 31646
 # PowerShell query for the T-SQL Developer
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Maximo Trinidad
 ## Title: PowerShell query for the T-SQL Developer
@@ -329,7 +330,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 31692
 # SQL 2012 DMV's  Extended Events
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Gareth Swanepoel
 ## Title: SQL 2012 DMV's  Extended Events
@@ -338,7 +339,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 31728
 # SharePoint BI: The Basic Environment 
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Michael Hinckley
 ## Title: SharePoint BI: The Basic Environment 
@@ -347,7 +348,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 31789
 # SQL - External Data Source for SharePoint  Office
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Michael Antonovich
 ## Title: SQL - External Data Source for SharePoint  Office
@@ -356,7 +357,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 32543
 # Loading a Data Warehouse with SSIS
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Robert Biddle
 ## Title: Loading a Data Warehouse with SSIS
@@ -365,7 +366,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 32579
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -374,7 +375,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 32580
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -383,7 +384,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 33274
 # Design considerations for Enterprise datawarehouse
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Dr. Suresh Rajappa
 ## Title: Design considerations for Enterprise datawarehouse
@@ -392,7 +393,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 33556
 # Fundamentals of Join Operations
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Kevin Boles
 ## Title: Fundamentals of Join Operations
@@ -401,7 +402,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 33558
 # Transaction Log Deep Dive
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Kevin Boles
 ## Title: Transaction Log Deep Dive
@@ -410,7 +411,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 33882
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -419,7 +420,7 @@ Event Date: 10-03-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 34307
 # Design and Implement BI Like Edison! 
-#### [Back to calendar](#SQLSaturday-#110-Tampa-2012)
+#### [Back to calendar](#nr-110)
 Event Date: 10-03-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI Like Edison! 

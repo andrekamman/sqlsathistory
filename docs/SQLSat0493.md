@@ -1,3 +1,4 @@
+#### Nr: 493
 #### [Back to Main list](index.md)
 # SQLSaturday #493 - Silicon Valley 2016
 Start Time (24h)|Speaker|Track|Title
@@ -42,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 41911
 # MICROSOFT: SQL Server Stretch Database 
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Anthony van Gemert
 ## Title: MICROSOFT: SQL Server Stretch Database 
@@ -53,7 +54,7 @@ Come find out how you can move your data securely and transparently, free up dis
 #  
 #### SessionID: 42563
 # SQL Server 2016  - New DBMS Features and examples
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Peterson
 ## Title: SQL Server 2016  - New DBMS Features and examples
@@ -79,7 +80,7 @@ My job as lead architect is to implement these new features, and see how they ac
 #  
 #### SessionID: 45083
 # Detect Worst Performing SQL Queries During Peak Hour
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: Detect Worst Performing SQL Queries During Peak Hour
@@ -92,7 +93,7 @@ In this session, Prakash walks you through with scenario  demos to find which ex
 #  
 #### SessionID: 46468
 # Transaction Log Fundamentals
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Van de Wiel
 ## Title: Transaction Log Fundamentals
@@ -107,7 +108,7 @@ And acronyms such as ACID will be clarified.
 #  
 #### SessionID: 47858
 # Plugging Data Quality as a Service  into Big Data
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paul Bertucci
 ## Title: Plugging Data Quality as a Service  into Big Data
@@ -116,7 +117,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 48563
 # Intro to DAX Patterns
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Analytics  Visualization
 ## Speaker: Eric Bragas
 ## Title: Intro to DAX Patterns
@@ -125,7 +126,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Analytics  Visualizatio
 #  
 #### SessionID: 47157
 # Hardware for Nothing, Get Your Flash for Free
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: J May
 ## Title: Hardware for Nothing, Get Your Flash for Free
@@ -134,7 +135,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 47571
 # Reduce deployment + management costs and make your employees more
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Reesha Dedhia
 ## Title: Reduce deployment + management costs and make your employees more
@@ -143,7 +144,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 47644
 # In BI, one size does not fit all
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: BI Information Delivery
 ## Speaker: Jason Picker
 ## Title: In BI, one size does not fit all
@@ -152,7 +153,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 48685
 # Real-time data delivery may be easier than you think
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: BI Information Delivery
 ## Speaker: Mark Van de Wiel
 ## Title: Real-time data delivery may be easier than you think
@@ -161,7 +162,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 48833
 # Manage SQL Server performance with Spotlight on SQL Server
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Trent Mera
 ## Title: Manage SQL Server performance with Spotlight on SQL Server
@@ -170,7 +171,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49197
 # Transform Database Agility with XtremIO
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bryan Walsh
 ## Title: Transform Database Agility with XtremIO
@@ -179,7 +180,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42481
 # Continuous Deployments using SSDT
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Christopher Wolff
 ## Title: Continuous Deployments using SSDT
@@ -188,7 +189,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 42884
 # Cardinality Estimates in Microsoft SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas LaRock
 ## Title: Cardinality Estimates in Microsoft SQL Server 2014
@@ -197,7 +198,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45293
 # The New Revolution in Data Science, R Integrated into SQL Server
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Reeves Smith
 ## Title: The New Revolution in Data Science, R Integrated into SQL Server
@@ -209,7 +210,7 @@ This session will demo the functionality and power of using R within SQL Server.
 #  
 #### SessionID: 45749
 # PolyBase in SQL Server 2016: Query Hadoop with ease
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Analytics  Visualization
 ## Speaker: Sahaj Saini
 ## Title: PolyBase in SQL Server 2016: Query Hadoop with ease
@@ -220,7 +221,7 @@ This session will cover the PolyBase fundamentals of what the feature is, how cu
 #  
 #### SessionID: 46051
 # Table Partitioning -Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Strategy and Architecture
 ## Speaker: Arnie Rowland
 ## Title: Table Partitioning -Beyond the Basics
@@ -237,7 +238,7 @@ This session will look at how Table Partitioning can be introduced into existing
 #  
 #### SessionID: 48562
 # Tabular Modeling for Power BI
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: BI Information Delivery
 ## Speaker: Angel Abundez
 ## Title: Tabular Modeling for Power BI
@@ -246,7 +247,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 42517
 # DBaaS Overview  Migration - A Practical Guide
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Scott McCormick
 ## Title: DBaaS Overview  Migration - A Practical Guide
@@ -267,7 +268,7 @@ You'll learn about:
 #  
 #### SessionID: 42605
 # How Good Is Your Indexing Strategy?
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Ford
 ## Title: How Good Is Your Indexing Strategy?
@@ -278,7 +279,7 @@ A working knowledge of Dynamic Management Objects, indexing internals, and eager
 #  
 #### SessionID: 45292
 # Increase your SSIS productivity with Biml
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reeves Smith
 ## Title: Increase your SSIS productivity with Biml
@@ -290,7 +291,7 @@ This session will be a demo based session that will inspire you to make Biml you
 #  
 #### SessionID: 45714
 # The Key to Keys
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Karen Lopez
 ## Title: The Key to Keys
@@ -304,7 +305,7 @@ We'll look at the generic and proprietary terms for these concepts, as well as w
 #  
 #### SessionID: 46679
 # Phone Book Phun - Learning database concepts with the White Pages
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Ben Thul
 ## Title: Phone Book Phun - Learning database concepts with the White Pages
@@ -315,7 +316,7 @@ Wait...  what was that last part? In this session, you'll gain a deeper understa
 #  
 #### SessionID: 47854
 # Metadata-driven schema evolution - building robust ELT workflows
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Big Data and Cloud
 ## Speaker: Mark Kidwell
 ## Title: Metadata-driven schema evolution - building robust ELT workflows
@@ -331,7 +332,7 @@ This presentation will discuss combining a metadata-driven schema evolution plat
 #  
 #### SessionID: 47864
 # Microsoft Visual Analytics: painting the picture
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Analytics  Visualization
 ## Speaker: Joshua Vickery
 ## Title: Microsoft Visual Analytics: painting the picture
@@ -340,7 +341,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Analytics  Visualizatio
 #  
 #### SessionID: 42673
 # Analyze your query plan like a Microsoft Engineer!
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Janik
 ## Title: Analyze your query plan like a Microsoft Engineer!
@@ -349,7 +350,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 44708
 # In Memory Tables; Not Just For OLTP
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Russ Thomas
 ## Title: In Memory Tables; Not Just For OLTP
@@ -358,7 +359,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 45723
 # SQL Server 2016 AlwaysOn AGs Break-through Perf Enhancements
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: J May
 ## Title: SQL Server 2016 AlwaysOn AGs Break-through Perf Enhancements
@@ -367,7 +368,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46434
 # Data Pages, Allocation Units, IAM chains... Oh My!
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Leach
 ## Title: Data Pages, Allocation Units, IAM chains... Oh My!
@@ -378,7 +379,7 @@ We’ll start off by looking at the structure of a row and then move on the conc
 #  
 #### SessionID: 46814
 # IoT For Data Guys
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Strategy and Architecture
 ## Speaker: Rajesh Agadi
 ## Title: IoT For Data Guys
@@ -390,7 +391,7 @@ IoT Analytics
 #  
 #### SessionID: 47134
 # Query Plan Deep Drive
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Query Plan Deep Drive
@@ -399,7 +400,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 48895
 # Cortana Analytics Suite: acceleration of intelligent solutions
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Analytics  Visualization
 ## Speaker: Jarek Kazmierczak
 ## Title: Cortana Analytics Suite: acceleration of intelligent solutions
@@ -408,7 +409,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Analytics  Visualizatio
 #  
 #### SessionID: 41876
 # Best Practice for ETL -  How to use minimal logging, and when?
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: BI Information Delivery
 ## Speaker: Simon Cho
 ## Title: Best Practice for ETL -  How to use minimal logging, and when?
@@ -418,7 +419,7 @@ I prepare many common mistakes people make with their  ETL jobs, and how to do i
 #  
 #### SessionID: 42541
 # Establishing a SLA
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: Establishing a SLA
@@ -430,7 +431,7 @@ This Session will teach you how to ask the right questions, analyze your databas
 #  
 #### SessionID: 46436
 # Lightning Talks - Sacramento SQL Server User Group
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Bonus
 ## Speaker: Mitchell Bottel
 ## Title: Lightning Talks - Sacramento SQL Server User Group
@@ -453,7 +454,7 @@ Description: This session will provide a quick overview of auditing user actions
 #  
 #### SessionID: 47133
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -462,7 +463,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 48558
 # Developing for Mobile with Azure Mobile App Service
-#### [Back to calendar](#SQLSaturday-#493-Silicon-Valley-2016)
+#### [Back to calendar](#nr-493)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Kimate Richards
 ## Title: Developing for Mobile with Azure Mobile App Service

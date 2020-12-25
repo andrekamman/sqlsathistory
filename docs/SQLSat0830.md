@@ -1,3 +1,4 @@
+#### Nr: 830
 #### [Back to Main list](index.md)
 # SQLSaturday #830 - Colorado Springs 2019
 Start Time (24h)|Speaker|Track|Title
@@ -38,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 86687
 # Power BI Security -  End to End
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 ## Speaker: Suresh Datla
 ## Title: Power BI Security -  End to End
@@ -47,7 +48,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 87091
 # The Power of Data: The Complete Beginners Data Warehouse Kit
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data: The Complete Beginners Data Warehouse Kit
@@ -56,7 +57,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 87289
 # Dump the Trace: Extending your Events
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Daniel Maenle
 ## Title: Dump the Trace: Extending your Events
@@ -65,7 +66,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 88238
 # “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
@@ -78,7 +79,7 @@ In this first of two back-to-back sessions on the subject, we’ll explore what 
 #  
 #### SessionID: 88369
 # Accelerate SQL Server Migration to the AWS Cloud: Approach and Methodology
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Manguirish Sardessai
 ## Title: Accelerate SQL Server Migration to the AWS Cloud: Approach and Methodology
@@ -89,7 +90,7 @@ Learn more on what trends you can expect to see, what the future holds for publi
 #  
 #### SessionID: 89763
 # Hyphenated Data Roles in Today's Information Environment
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Scot Reagin
 ## Title: Hyphenated Data Roles in Today's Information Environment
@@ -98,7 +99,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 92113
 # Exploring SQL Server containers on Docker  Kubernetes
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Carlos Robles
 ## Title: Exploring SQL Server containers on Docker  Kubernetes
@@ -107,7 +108,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 86811
 # CONVERT_IMPLICIT is a hidden danger
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Alex Grinberg
 ## Title: CONVERT_IMPLICIT is a hidden danger
@@ -116,7 +117,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 87036
 # Keeping up with SSMS
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michelle Haarhues
 ## Title: Keeping up with SSMS
@@ -127,7 +128,7 @@ On top of the new versions, there is a lot of cool stuff available in SSMS that 
 #  
 #### SessionID: 88239
 # “Black Arts” Index Maintenance #2: Better Methods that Can Actually Prevent Fragmentation for Weeks.
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #2: Better Methods that Can Actually Prevent Fragmentation for Weeks.
@@ -142,7 +143,7 @@ We’ll also learn that no simple method is a panacea, what to do about the horr
 #  
 #### SessionID: 88561
 # Introduction to the R Programming Language for BI Professionals
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Jeff Renz
 ## Title: Introduction to the R Programming Language for BI Professionals
@@ -153,7 +154,7 @@ In this session I will demonstrate how to use R Studio to generate and test R sc
 #  
 #### SessionID: 89807
 # Say Anything: Using knowledge base, NLP and AI to enable customer
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Yuliya Quintela
 ## Title: Say Anything: Using knowledge base, NLP and AI to enable customer
@@ -164,7 +165,7 @@ Come and learn how to use Azure technologies to build a Chat Bot to answer quest
 #  
 #### SessionID: 89809
 # Building Composable Query Abstractions in TSQL
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Isak Sky
 ## Title: Building Composable Query Abstractions in TSQL
@@ -175,7 +176,7 @@ This presentation will show how this problem can be avoided by taking a data-fir
 #  
 #### SessionID: 87000
 # The next generation of Business Intelligence is done with DevOps
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: The next generation of Business Intelligence is done with DevOps
@@ -184,7 +185,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 86690
 # Power BI Premium: Is it for your Company (and Worth it)?
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 ## Speaker: Steve Wake
 ## Title: Power BI Premium: Is it for your Company (and Worth it)?
@@ -193,7 +194,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 89352
 # Everlasting Issues with Temporary Tables and tempdb
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Kalen Delaney
 ## Title: Everlasting Issues with Temporary Tables and tempdb
@@ -202,7 +203,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 89735
 # So you want to be a consultant?
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Eric Peterson
 ## Title: So you want to be a consultant?
@@ -217,7 +218,7 @@ Then we'll review the various ways you can find new projects because waiting for
 #  
 #### SessionID: 89801
 # Power BI, from a DBA's Perspective
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: TJay Belt
 ## Title: Power BI, from a DBA's Perspective
@@ -228,7 +229,7 @@ As a DBA, we often need to collect and display data in a friendly and interactiv
 #  
 #### SessionID: 89837
 # Implementing a Cloud Analytics Solution: Options, Costs and More
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Marc Beacom
 ## Title: Implementing a Cloud Analytics Solution: Options, Costs and More
@@ -237,7 +238,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 89839
 # Storing Images in a Database - Tips and Techniques
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Todd Kleinhans
 ## Title: Storing Images in a Database - Tips and Techniques
@@ -246,7 +247,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 87775
 # Effective Communication and Self Promotion for the IT Introvert (YOU!)
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Mitchell Bottel
 ## Title: Effective Communication and Self Promotion for the IT Introvert (YOU!)
@@ -255,7 +256,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 88037
 # Understanding Azure SQL Managed Instances
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Moore
 ## Title: Understanding Azure SQL Managed Instances
@@ -264,7 +265,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88299
 # The very Model of a Modern Day Database
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Greg Moore
 ## Title: The very Model of a Modern Day Database
@@ -276,7 +277,7 @@ This session will cover how and when to back them up, how to move them if necess
 #  
 #### SessionID: 89846
 # Innovative Data Modeling: Make Data Warehousing Cool Again
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Weed
 ## Title: Innovative Data Modeling: Make Data Warehousing Cool Again
@@ -285,7 +286,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89902
 # Professional SQL Server Development
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Paul Nielsen
 ## Title: Professional SQL Server Development
@@ -294,7 +295,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 92652
 # SQL Server using Amazon Web Services EC2 Instances
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christopher Wolff
 ## Title: SQL Server using Amazon Web Services EC2 Instances
@@ -303,7 +304,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 86691
 # Azure SQL DB and PowerBI the Best friends
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Pini Krisher
 ## Title: Azure SQL DB and PowerBI the Best friends
@@ -312,7 +313,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 87133
 # Creating Accessible Power BI Reports: Challenges  Opportunities
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 ## Speaker: Meagan Longoria
 ## Title: Creating Accessible Power BI Reports: Challenges  Opportunities
@@ -321,7 +322,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 87800
 # Indexing Like a Rocket Scientist
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: Indexing Like a Rocket Scientist
@@ -344,7 +345,7 @@ Some knowledge of T-SQL and Management Studio is recommended.
 #  
 #### SessionID: 89326
 # Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
@@ -354,7 +355,7 @@ Whether you are just getting started with Azure Data Factory or looking to make 
 #  
 #### SessionID: 89591
 # Migrate Your Database with Distributed AGs
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Elizabeth Noble
 ## Title: Migrate Your Database with Distributed AGs
@@ -367,7 +368,7 @@ NOTE: This session expects that attendees are already familiar with Availability
 #  
 #### SessionID: 89842
 # Data Science Tips and Tricks using Python and SQL
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Carlos Bossy
 ## Title: Data Science Tips and Tricks using Python and SQL
@@ -380,7 +381,7 @@ Carlos will then cover predictive analytics using T-SQL and Python, providing a 
 #  
 #### SessionID: 92923
 # Loading SQL Server Data with Powershell
-#### [Back to calendar](#SQLSaturday-#830-Colorado-Springs-2019)
+#### [Back to calendar](#nr-830)
 Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Loading SQL Server Data with Powershell

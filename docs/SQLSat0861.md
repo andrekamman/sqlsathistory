@@ -1,3 +1,4 @@
+#### Nr: 861
 #### [Back to Main list](index.md)
 # SQLSaturday #861 - Columbus 2019
 Start Time (24h)|Speaker|Track|Title
@@ -46,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 89200
 # A Beginners Guide to Transactions
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: A Beginners Guide to Transactions
@@ -55,7 +56,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 89587
 # Large Transactional Data Migration: A Sr. DBA Case Study From The Trenches
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Julie McLain-Harper
 ## Title: Large Transactional Data Migration: A Sr. DBA Case Study From The Trenches
@@ -65,7 +66,7 @@ I'll show you the Data Migration Script that the Mid Level Developer gave me to 
 #  
 #### SessionID: 91003
 # Alexa, Talk to Me
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dave Mattingly
 ## Title: Alexa, Talk to Me
@@ -75,7 +76,7 @@ In this session, we'll create a simple skill from scratch, and show how to get i
 #  
 #### SessionID: 91704
 # Throw a Brick at Your Data: Intro to Azure Databricks
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Hope Foley
 ## Title: Throw a Brick at Your Data: Intro to Azure Databricks
@@ -84,7 +85,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 93009
 # What's New with SQL Server 2019?
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eugene Meidinger
 ## Title: What's New with SQL Server 2019?
@@ -93,7 +94,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93015
 # Better Together: Power BI Dataflows and Azure Data Lake Storage
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Slava Trofimov
 ## Title: Better Together: Power BI Dataflows and Azure Data Lake Storage
@@ -102,7 +103,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93017
 # “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
@@ -117,7 +118,7 @@ This 1st session is also a recommended segue into the second session.
 #  
 #### SessionID: 89311
 # Populating a Data Warehouse with SSIS and Biml Patterns
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jim Miller
 ## Title: Populating a Data Warehouse with SSIS and Biml Patterns
@@ -127,7 +128,7 @@ Attend to see how Biml can revolutionize your SSIS development!
 #  
 #### SessionID: 89348
 # Extending DevOps To SQL Server
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Extending DevOps To SQL Server
@@ -136,7 +137,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 90633
 # Install  Configure SQL Server with PowerShell DSC
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jess Pomfret
 ## Title: Install  Configure SQL Server with PowerShell DSC
@@ -150,7 +151,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91872
 # Analysis Services is in Azure? Seriously!? Let's build a model!
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Phillip Labry
 ## Title: Analysis Services is in Azure? Seriously!? Let's build a model!
@@ -161,7 +162,7 @@ This demo heavy session will be focused on setting up Azure Analysis Services, d
 #  
 #### SessionID: 93018
 # “Black Arts” Index Maintenance #2: Better Methods that Can Actually Prevent Fragmentation for Weeks.
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #2: Better Methods that Can Actually Prevent Fragmentation for Weeks.
@@ -178,7 +179,7 @@ Session #1 is a strongly recommend prerequisite for this session.
 #  
 #### SessionID: 93032
 # Introduction To Data Lakes
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Warren Sifre
 ## Title: Introduction To Data Lakes
@@ -187,7 +188,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93046
 # Help Me SSIS Logging, You're My Only Hope!
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vanessa Kesten
 ## Title: Help Me SSIS Logging, You're My Only Hope!
@@ -198,7 +199,7 @@ SSIS logging may be the last thing on your mind when starting a new project, but
 #  
 #### SessionID: 89201
 # Inside the Database Engine
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: Inside the Database Engine
@@ -207,7 +208,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 89864
 # SQL Server Big Data Clusters - A game changer?
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Other
 ## Speaker: Ben Weissman
 ## Title: SQL Server Big Data Clusters - A game changer?
@@ -218,7 +219,7 @@ Let's take a look at what that means and how you can make use of the extended Po
 #  
 #### SessionID: 90181
 # Performance Tuning for SQL Developer through Execution Plans
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Performance Tuning for SQL Developer through Execution Plans
@@ -227,7 +228,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 92876
 # Modernize Data Platform -  A Detailed Case Study
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sriharsh Adari
 ## Title: Modernize Data Platform -  A Detailed Case Study
@@ -236,7 +237,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93023
 # Building a Machine Learning Regression Model with Zero Code in PowerBI
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Greg Deckler
 ## Title: Building a Machine Learning Regression Model with Zero Code in PowerBI
@@ -245,7 +246,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 93029
 # Extending Your Use of Extended Events
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Erin Stellato
 ## Title: Extending Your Use of Extended Events
@@ -256,7 +257,7 @@ In this session we will discuss the targets, actions, and predicates available i
 #  
 #### SessionID: 89316
 # You should use Column Store but Avoid the Mistakes I made. (1/2)
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Thomas Grohser
 ## Title: You should use Column Store but Avoid the Mistakes I made. (1/2)
@@ -265,7 +266,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 89318
 # Implementing Key Value Store in SQL Server
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Thomas Grohser
 ## Title: Implementing Key Value Store in SQL Server
@@ -274,7 +275,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 89655
 # Business  Technology: A Communication Guide
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Cassandra Faris
 ## Title: Business  Technology: A Communication Guide
@@ -283,7 +284,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 91491
 # The Analyst’s Guide To Finding and Fixing Performance Anti-Patterns
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Bert Wagner
 ## Title: The Analyst’s Guide To Finding and Fixing Performance Anti-Patterns
@@ -296,7 +297,7 @@ Whether you strictly write SQL queries or incorporate those queries into tools l
 #  
 #### SessionID: 92265
 # Demystifying Data Compression
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Andy Mallon
 ## Title: Demystifying Data Compression
@@ -309,7 +310,7 @@ By the end of this session, you'll have a better idea of how the different compr
 #  
 #### SessionID: 92958
 # Emergency! Are You Ready for Disaster to Strike?
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Emergency! Are You Ready for Disaster to Strike?
@@ -318,7 +319,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93034
 # Continuous integration and delivery (CI/CD) in Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rayis Imayev
 ## Title: Continuous integration and delivery (CI/CD) in Azure Data Factory
@@ -329,7 +330,7 @@ Let's explore how we can use Microsoft DevOps and GitHub to build and release ou
 #  
 #### SessionID: 93047
 # 45 Minutes to Your First Tabular Model
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First Tabular Model
@@ -339,7 +340,7 @@ In this session, we will talk about what Tabular is and what it does, in additio
 #  
 #### SessionID: 94870
 # Starting your own consulting firm without getting sued.
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: David Maxwell
 ## Title: Starting your own consulting firm without getting sued.
@@ -350,7 +351,7 @@ This is a sponsor session provided by Arenstein and Andersen Co., LPA.  Our pres
 #  
 #### SessionID: 89402
 # Classification With Naive Bayes
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Kevin Feasel
 ## Title: Classification With Naive Bayes
@@ -359,7 +360,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 92881
 # Now you see it, but did you really?  Correcting visual fallacies...
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Jonathan Stewart
 ## Title: Now you see it, but did you really?  Correcting visual fallacies...
@@ -368,7 +369,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 93045
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -381,7 +382,7 @@ Instead of focusing on syntax, the session will plunge straight into examples an
 #  
 #### SessionID: 93641
 # You should use Column Store but Avoid the Mistakes I made. (2/2)
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Thomas Grohser
 ## Title: You should use Column Store but Avoid the Mistakes I made. (2/2)
@@ -390,7 +391,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 94137
 # A TCP packet walks into a bar - Connectivity Issues and Bad Jokes
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joe McTaggart
 ## Title: A TCP packet walks into a bar - Connectivity Issues and Bad Jokes
@@ -399,7 +400,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 94946
 # The Community Speaks: WIT, LGBTQ, diversity and inclusion.
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Tamera Clark
 ## Title: The Community Speaks: WIT, LGBTQ, diversity and inclusion.
@@ -408,7 +409,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 89786
 # Data Time Travel with SQL Server Temporal Tables
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: Data Time Travel with SQL Server Temporal Tables
@@ -417,7 +418,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 89863
 # Let’s Build SSIS Packages with Biml – Live!
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Information Delivery
 ## Speaker: Ben Weissman
 ## Title: Let’s Build SSIS Packages with Biml – Live!
@@ -429,7 +430,7 @@ PS: Even if you have not heard about Biml but are still tired of manually buildi
 #  
 #### SessionID: 89984
 # Lambda architecture design using Azure Databricks for advanced analytics
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Lucas Feiock
 ## Title: Lambda architecture design using Azure Databricks for advanced analytics
@@ -438,7 +439,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 91616
 # Hey, You Got Your TDD in my SQL DB!
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Jeff McKenzie
 ## Title: Hey, You Got Your TDD in my SQL DB!
@@ -447,7 +448,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 93637
 # Watch this space!
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Watch this space!
@@ -456,7 +457,7 @@ Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93766
 # Joker's Wild!
-#### [Back to calendar](#SQLSaturday-#861-Columbus-2019)
+#### [Back to calendar](#nr-861)
 Event Date: 08-06-2019 - Session time: 15:30:00 - Track: Other
 ## Speaker: Erin Stellato
 ## Title: Joker's Wild!

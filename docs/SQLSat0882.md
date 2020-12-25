@@ -1,3 +1,4 @@
+#### Nr: 882
 #### [Back to Main list](index.md)
 # SQLSaturday #882 - Iowa City 2019
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 91380
 # Is my SQL Server having Memory Pressure?
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Is my SQL Server having Memory Pressure?
@@ -38,7 +39,7 @@ Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 92967
 # Azure Data Factory V2: The cloud SSIS we have been waiting for?
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Joshuha Owen
 ## Title: Azure Data Factory V2: The cloud SSIS we have been waiting for?
@@ -47,7 +48,7 @@ Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 93124
 # Why is my DBA So Grumpy ... When I Use NOLOCK and Other Query Hints.
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Why is my DBA So Grumpy ... When I Use NOLOCK and Other Query Hints.
@@ -56,7 +57,7 @@ Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 93584
 # Introduction to reading execution plans
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Arthur Daniels III
 ## Title: Introduction to reading execution plans
@@ -69,7 +70,7 @@ This session will demonstrate how execution plans can be interpreted to explain 
 #  
 #### SessionID: 93670
 # T-SQL Tips  Tricks to Make Your Life Easier!
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: T-SQL Tips  Tricks to Make Your Life Easier!
@@ -82,7 +83,7 @@ This session targets both developers and DBAs; the only prerequisites are the de
 #  
 #### SessionID: 91351
 # “Go Faster!” And Other Things Yelled at the Backup Jobs
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Hays
 ## Title: “Go Faster!” And Other Things Yelled at the Backup Jobs
@@ -91,7 +92,7 @@ Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91382
 # How to do a Complete SQL Server Assessment
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: How to do a Complete SQL Server Assessment
@@ -100,7 +101,7 @@ Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93122
 # Weird Stuff I Saw While ... Working With Heaps
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Weird Stuff I Saw While ... Working With Heaps
@@ -109,7 +110,7 @@ Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 93585
 # Performance tuning for SQL Server memory grants
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Arthur Daniels III
 ## Title: Performance tuning for SQL Server memory grants
@@ -120,7 +121,7 @@ In this session, we'll cover query memory grants through examples. We'll also de
 #  
 #### SessionID: 93868
 # Beginner's Guide to Text Mining:  What We Learn from SQL Saturday Presentation Abstracts
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: Lynn Ballard
 ## Title: Beginner's Guide to Text Mining:  What We Learn from SQL Saturday Presentation Abstracts
@@ -129,7 +130,7 @@ Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 93523
 # Accelerated Database Recovery: The Future of the Transaction Log
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Frank Gill
 ## Title: Accelerated Database Recovery: The Future of the Transaction Log
@@ -138,7 +139,7 @@ Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93606
 # Modern SQL Server CPU Architecture
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Modern SQL Server CPU Architecture
@@ -147,7 +148,7 @@ Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93689
 # Data Breach 101 - Legal and IT Responses
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Other
 ## Speaker: Wm Bruce Wray
 ## Title: Data Breach 101 - Legal and IT Responses
@@ -156,7 +157,7 @@ Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Other
 #  
 #### SessionID: 93794
 # He's Assertive, She's Aggressive: Recognizing patterns of unconscious bias in the workplace
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Andrea Mascher
 ## Title: He's Assertive, She's Aggressive: Recognizing patterns of unconscious bias in the workplace
@@ -167,7 +168,7 @@ This discussion will cover some common patterns of unconscious bias that occur i
 #  
 #### SessionID: 93839
 # Why do I need Analysis Services?
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Labry
 ## Title: Why do I need Analysis Services?
@@ -180,7 +181,7 @@ Prerequisites: no prerequisites.
 #  
 #### SessionID: 91245
 # Diagnosing and fixing deadlocks in SQL Server
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Jake Manske
 ## Title: Diagnosing and fixing deadlocks in SQL Server
@@ -193,7 +194,7 @@ Attendees will leave with the understanding they need to develop solutions to de
 #  
 #### SessionID: 92918
 # SSDT, Docker, and (Azure) DevOps: How to Make Your Database Builds a First Class CI/CD Citizen
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dan Mallott
 ## Title: SSDT, Docker, and (Azure) DevOps: How to Make Your Database Builds a First Class CI/CD Citizen
@@ -204,7 +205,7 @@ SSDT and Azure DevOps can solve some of these problems, and even give us a windo
 #  
 #### SessionID: 93123
 # Little to Large - How to Scale to Enterprise Analysis Services Solutions
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: George Bryant
 ## Title: Little to Large - How to Scale to Enterprise Analysis Services Solutions
@@ -213,7 +214,7 @@ Event Date: 22-06-2019 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93672
 # Everyone Has a Story to Tell: Developing Your First Presentation
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Andy Yun
 ## Title: Everyone Has a Story to Tell: Developing Your First Presentation
@@ -226,7 +227,7 @@ You will leave armed with a wealth of resources (and hopefully some inspiration)
 #  
 #### SessionID: 93803
 # Always Encrypted - Now with Enclaves!
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Ed Leighton-Dick
 ## Title: Always Encrypted - Now with Enclaves!
@@ -237,7 +238,7 @@ Enter SQL Server 2019. With Always Encrypted with Secure Enclaves, the benefits 
 #  
 #### SessionID: 91460
 # COSMOS DB Develop Local Deploy Globally
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Dorame
 ## Title: COSMOS DB Develop Local Deploy Globally
@@ -248,7 +249,7 @@ Do you need to support JSON, Graph, et al?  Done.  Join me and see how easy it i
 #  
 #### SessionID: 93534
 # Power BI for the Data Systems Administrator
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: Gina Meronek
 ## Title: Power BI for the Data Systems Administrator
@@ -257,7 +258,7 @@ Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 93607
 # Level Up Your Cloud Skills
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Strategy and Architecture
 ## Speaker: David Klee
 ## Title: Level Up Your Cloud Skills
@@ -266,7 +267,7 @@ Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 93838
 # Analysis Services is in Azure? Seriously!? Let's build a model!
-#### [Back to calendar](#SQLSaturday-#882-Iowa-City-2019)
+#### [Back to calendar](#nr-882)
 Event Date: 22-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Phillip Labry
 ## Title: Analysis Services is in Azure? Seriously!? Let's build a model!

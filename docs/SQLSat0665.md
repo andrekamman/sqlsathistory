@@ -1,3 +1,4 @@
+#### Nr: 665
 #### [Back to Main list](index.md)
 # SQLSaturday #665 - Bucuresti 2017
 Start Time (24h)|Speaker|Track|Title
@@ -17,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 65058
 # Embrace the future: Running SQL Server in containers
-#### [Back to calendar](#SQLSaturday-#665-Bucuresti-2017)
+#### [Back to calendar](#nr-665)
 Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kaloyan Kosev
 ## Title: Embrace the future: Running SQL Server in containers
@@ -26,7 +27,7 @@ Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67713
 # Azure SQL Database - It's Just SQL Server Without the Headaches, Right?!
-#### [Back to calendar](#SQLSaturday-#665-Bucuresti-2017)
+#### [Back to calendar](#nr-665)
 Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sorin Peste
 ## Title: Azure SQL Database - It's Just SQL Server Without the Headaches, Right?!
@@ -35,7 +36,7 @@ Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 69429
 # SQL XML unleashed
-#### [Back to calendar](#SQLSaturday-#665-Bucuresti-2017)
+#### [Back to calendar](#nr-665)
 Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alice-Lavinia Pasare
 ## Title: SQL XML unleashed
@@ -44,7 +45,7 @@ Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64920
 # In-Memory Tables --Formula One Performance Unleashed, Part 1
-#### [Back to calendar](#SQLSaturday-#665-Bucuresti-2017)
+#### [Back to calendar](#nr-665)
 Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: In-Memory Tables --Formula One Performance Unleashed, Part 1
@@ -58,7 +59,7 @@ After this session you will
 #  
 #### SessionID: 66907
 # IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights
-#### [Back to calendar](#SQLSaturday-#665-Bucuresti-2017)
+#### [Back to calendar](#nr-665)
 Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights
@@ -71,7 +72,7 @@ And we will see them clash, from real hardware, to the big Azure cloud, to mobil
 #  
 #### SessionID: 69081
 # Distributed Availability Groups
-#### [Back to calendar](#SQLSaturday-#665-Bucuresti-2017)
+#### [Back to calendar](#nr-665)
 Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Octavian Cretu
 ## Title: Distributed Availability Groups
@@ -80,7 +81,7 @@ Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67300
 # Graph tables in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#665-Bucuresti-2017)
+#### [Back to calendar](#nr-665)
 Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Razvan Socol
 ## Title: Graph tables in SQL Server 2017
@@ -89,7 +90,7 @@ Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Application  Database D
 #  
 #### SessionID: 67308
 # Third Party Tools for SQL Server
-#### [Back to calendar](#SQLSaturday-#665-Bucuresti-2017)
+#### [Back to calendar](#nr-665)
 Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Cristian Lefter
 ## Title: Third Party Tools for SQL Server
@@ -98,7 +99,7 @@ Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Application  Database D
 #  
 #### SessionID: 69292
 # SQL Server migration
-#### [Back to calendar](#SQLSaturday-#665-Bucuresti-2017)
+#### [Back to calendar](#nr-665)
 Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrada Nastasie
 ## Title: SQL Server migration
@@ -107,7 +108,7 @@ Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64780
 # PowerBI On-Premises Vs Cloud
-#### [Back to calendar](#SQLSaturday-#665-Bucuresti-2017)
+#### [Back to calendar](#nr-665)
 Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: PowerBI On-Premises Vs Cloud
@@ -120,7 +121,7 @@ In this session, we will explore and compare the features availale on PowerBI On
 #  
 #### SessionID: 67307
 # Custom Visuals in PowerBI
-#### [Back to calendar](#SQLSaturday-#665-Bucuresti-2017)
+#### [Back to calendar](#nr-665)
 Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: Gheorghe-Bogdan SAHLEAN
 ## Title: Custom Visuals in PowerBI
@@ -129,7 +130,7 @@ Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 69232
 # SQL Server 2016 - Understanding Statistics
-#### [Back to calendar](#SQLSaturday-#665-Bucuresti-2017)
+#### [Back to calendar](#nr-665)
 Event Date: 16-09-2017 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Liviu Ieran
 ## Title: SQL Server 2016 - Understanding Statistics

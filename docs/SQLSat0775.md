@@ -1,3 +1,4 @@
+#### Nr: 775
 #### [Back to Main list](index.md)
 # SQLSaturday #775 - Gothenburg 2018
 Start Time (24h)|Speaker|Track|Title
@@ -22,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 78501
 # Let the Cognitive Services to help you to find your favourite cocktail.
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Alexander Klein
 ## Title: Let the Cognitive Services to help you to find your favourite cocktail.
@@ -32,7 +33,7 @@ The Cogntive services offer here with face, emotion and recommendation three API
 #  
 #### SessionID: 78503
 # DevOPS for DBAs - Where is your magic wand?
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: DevOPS for DBAs - Where is your magic wand?
@@ -46,7 +47,7 @@ Take away best practices associated in DEVOPS and DBA world.
 #  
 #### SessionID: 78530
 # Scaling Out Workload Processing Using SQL Server Running Inside Containers
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Christopher Adkin
 ## Title: Scaling Out Workload Processing Using SQL Server Running Inside Containers
@@ -55,7 +56,7 @@ Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Application  Database D
 #  
 #### SessionID: 78962
 # The Road to The Autonomous Databases
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Strategy and Architecture
 ## Speaker: Janusz Rokicki
 ## Title: The Road to The Autonomous Databases
@@ -64,7 +65,7 @@ Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 80611
 # SQL Server, Next station Azure
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: SQL Server, Next station Azure
@@ -80,7 +81,7 @@ We will cover:
 #  
 #### SessionID: 83920
 # Natural Born Killers, Performance Issues to Avoid
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Lord Richard Douglas
 ## Title: Natural Born Killers, Performance Issues to Avoid
@@ -93,7 +94,7 @@ You will leave this session with a list of things that you can check for in your
 #  
 #### SessionID: 80848
 # How to build solution for High Availability/Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Strategy and Architecture
 ## Speaker: Marcelo Fernandes
 ## Title: How to build solution for High Availability/Disaster Recovery
@@ -103,7 +104,7 @@ In this session, we will cover all aspects of HA / DR. We will cover all technol
 #  
 #### SessionID: 82885
 # SQL Server  GDPR
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Francisco Racionero
 ## Title: SQL Server  GDPR
@@ -118,7 +119,7 @@ Monitoring
 #  
 #### SessionID: 83714
 # Don't Use Cursors or Why You Maybe Should Use a Cursor After All
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Don't Use Cursors or Why You Maybe Should Use a Cursor After All
@@ -127,7 +128,7 @@ Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Application  Database D
 #  
 #### SessionID: 80821
 # Encryption in SQL Server
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: Encryption in SQL Server
@@ -136,7 +137,7 @@ Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83635
 # Data Wrangling as the key to success with Data Lake
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: BI Information Delivery
 ## Speaker: Sergiy Lunyakin
 ## Title: Data Wrangling as the key to success with Data Lake
@@ -145,7 +146,7 @@ Event Date: 15-09-2018 - Session time: 16:10:00 - Track: BI Information Delivery
 #  
 #### SessionID: 83732
 # Azure Stream Analytics  Machine learning: better together
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: Nico Jacobs
 ## Title: Azure Stream Analytics  Machine learning: better together
@@ -155,7 +156,7 @@ So if you want to see how within 60 minutes we can learn patterns in streams of 
 #  
 #### SessionID: 78873
 # Headless chicken - calming the sysadmin that turned DBA
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alexander Arvidsson
 ## Title: Headless chicken - calming the sysadmin that turned DBA
@@ -164,7 +165,7 @@ Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82570
 # Making reports in SSRS: beyond standard tools
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: BI Information Delivery
 ## Speaker: Andrea Martorana Tusa
 ## Title: Making reports in SSRS: beyond standard tools
@@ -181,7 +182,7 @@ With R inside SQL Server it’s possible to embed R charts straight into Reporti
 #  
 #### SessionID: 80698
 # My 10 favorite PowerShell commands
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcos Freccia
 ## Title: My 10 favorite PowerShell commands
@@ -191,7 +192,7 @@ I promise that at least one new thing you will learn it
 #  
 #### SessionID: 83151
 # Automate your work processes with Microsoft Flow and Power BI
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Analytics and Visualization
 ## Speaker: Hylke Peek
 ## Title: Automate your work processes with Microsoft Flow and Power BI
@@ -204,7 +205,7 @@ In this session we’ll introduce Flow and look at use cases to integrate apps w
 #  
 #### SessionID: 84027
 # Not just polish – How good code also runs faster
-#### [Back to calendar](#SQLSaturday-#775-Gothenburg-2018)
+#### [Back to calendar](#nr-775)
 Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Daniel Hutmacher
 ## Title: Not just polish – How good code also runs faster

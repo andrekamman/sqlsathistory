@@ -1,3 +1,4 @@
+#### Nr: 259
 #### [Back to Main list](index.md)
 # SQLSaturday #259 - Kharkov 2013
 Start Time (24h)|Speaker|Track|Title
@@ -24,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10913
 # Replay your workload as it's your actual one!
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Boris Hristov
 ## Title: Replay your workload as it's your actual one!
@@ -33,7 +34,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 13755
 # Конкуренция за ресурсы в многоядерных системах.
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Evgeny Khabarov
 ## Title: Конкуренция за ресурсы в многоядерных системах.
@@ -42,7 +43,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 14013
 # Использование uniqueidentifier в качестве первичного кластерного ключа
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Evgeny Garaev
 ## Title: Использование uniqueidentifier в качестве первичного кластерного ключа
@@ -51,7 +52,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18755
 # Maintenance Plans ad Hoc
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Tobias Koprowski
 ## Title: Maintenance Plans ad Hoc
@@ -61,7 +62,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 18758
 # 2 AM. A Disaster just began...
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Tobias Koprowski
 ## Title: 2 AM. A Disaster just began...
@@ -70,7 +71,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18810
 # SQL Server Reporting Services - дюжина советов
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Andrey Korshikov
 ## Title: SQL Server Reporting Services - дюжина советов
@@ -79,7 +80,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 19173
 # Я построю свой профайлер, с гридами и кнопками!
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Oleksii Kovalov
 ## Title: Я построю свой профайлер, с гридами и кнопками!
@@ -89,7 +90,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20293
 # Entity Framework 6 New Features
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mihail Mateev
 ## Title: Entity Framework 6 New Features
@@ -98,7 +99,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20294
 # Повышаем производительность обработки данных с использованием SSD
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mihail Mateev
 ## Title: Повышаем производительность обработки данных с использованием SSD
@@ -107,7 +108,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21273
 # Облака белоснежные лошадки или  История одного  BI проекта c SQL Azure
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Eugene Polonichko
 ## Title: Облака белоснежные лошадки или  История одного  BI проекта c SQL Azure
@@ -116,7 +117,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 21578
 # SQL Server Full-Text Search - это не для меня, или Построение своей системы
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Oleg Rakitskiy
 ## Title: SQL Server Full-Text Search - это не для меня, или Построение своей системы
@@ -125,7 +126,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22162
 # Внутри оптимизатора: стоимость и планы выполнения
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dmitry Pilugin
 ## Title: Внутри оптимизатора: стоимость и планы выполнения
@@ -134,7 +135,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24346
 # Оптимизация использования памяти для запросов
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Sergey Olontsev
 ## Title: Оптимизация использования памяти для запросов
@@ -143,7 +144,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 24348
 # In-Memory OLTP (Hekaton) в SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Sergey Olontsev
 ## Title: In-Memory OLTP (Hekaton) в SQL Server 2014
@@ -152,7 +153,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27142
 # Top 10 Performance Tips for SQL Server Developers
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Turgay Sahtiyan
 ## Title: Top 10 Performance Tips for SQL Server Developers
@@ -161,7 +162,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27176
 # High Performance SQL Server on Cloud – Best Practices
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Umit Sunar
 ## Title: High Performance SQL Server on Cloud – Best Practices
@@ -174,7 +175,7 @@ Session objective is to train SQL Server on Cloud Ninjas:)
 #  
 #### SessionID: 27447
 # BigData -NoSQL - MongoDB
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Viktoriia Mala
 ## Title: BigData -NoSQL - MongoDB
@@ -186,7 +187,7 @@ Will be very interesting! I promise ;)
 #  
 #### SessionID: 27507
 # Keynote. Ukrainian Comunity and Future of the Community.
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Vladimir Leshchinsky
 ## Title: Keynote. Ukrainian Comunity and Future of the Community.
@@ -195,7 +196,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9222
 # Сommon MS SQL Server DBA issues.
-#### [Back to calendar](#SQLSaturday-#259-Kharkov-2013)
+#### [Back to calendar](#nr-259)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Oleg Alekseev
 ## Title: Сommon MS SQL Server DBA issues.

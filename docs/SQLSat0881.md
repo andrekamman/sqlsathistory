@@ -1,3 +1,4 @@
+#### Nr: 881
 #### [Back to Main list](index.md)
 # SQLSaturday #881 - Chattanooga 2019
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 91029
 # A SQL table, CSV file, and an Excel spreadsheet walk into a bar chart...figuratively speaking.
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Paul Southerland
 ## Title: A SQL table, CSV file, and an Excel spreadsheet walk into a bar chart...figuratively speaking.
@@ -38,7 +39,7 @@ Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 91145
 # The function of Windowing Functions
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Wilkie
 ## Title: The function of Windowing Functions
@@ -56,7 +57,7 @@ Learn more about the class of functions that are known as "windowing functions" 
 #  
 #### SessionID: 91581
 # Leveraging Python in SQL Server
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Julie Smith
 ## Title: Leveraging Python in SQL Server
@@ -65,7 +66,7 @@ Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 93588
 # Managing Your Schema with Database Projects in Visual Studio
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kerry Tyler
 ## Title: Managing Your Schema with Database Projects in Visual Studio
@@ -74,7 +75,7 @@ Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 91048
 # Performance Tuning for SQL Developer through Execution Plans
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Performance Tuning for SQL Developer through Execution Plans
@@ -83,7 +84,7 @@ Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 91751
 # SQL Server Indexing - Practical Solutions
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: David Maxwell
 ## Title: SQL Server Indexing - Practical Solutions
@@ -94,7 +95,7 @@ In this session, we’ll discuss how SQL Server selects and uses indexes to impr
 #  
 #### SessionID: 93451
 # Using Your On-prem Data in a Cloud World
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Glenn
 ## Title: Using Your On-prem Data in a Cloud World
@@ -105,7 +106,7 @@ In this session, we will discover the benefits of using the cloud tools, how tho
 #  
 #### SessionID: 95440
 # Relational Design Critique
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Relational Design Critique
@@ -114,7 +115,7 @@ Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 95529
 # How to become a SQLSaturday Presenter, Step-by-Step
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Peter Doyle
 ## Title: How to become a SQLSaturday Presenter, Step-by-Step
@@ -123,7 +124,7 @@ Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 91049
 # Applying Data Warehousing Principles
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Spencer Swindell
 ## Title: Applying Data Warehousing Principles
@@ -132,7 +133,7 @@ Event Date: 22-06-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 91053
 # Moving Data to the Cloud (with Azure Data Factory)
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Simon Kingaby
 ## Title: Moving Data to the Cloud (with Azure Data Factory)
@@ -141,7 +142,7 @@ Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 91579
 # Introduction to Azure Search
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Julie Smith
 ## Title: Introduction to Azure Search
@@ -151,7 +152,7 @@ In this session I will introduce the features and use cases for Azure Search, ba
 #  
 #### SessionID: 93313
 # Using wait stats to determine why my server is slow
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Database Administration
 ## Speaker: Dustin Dorsey
 ## Title: Using wait stats to determine why my server is slow
@@ -160,7 +161,7 @@ Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Database Administration
 #  
 #### SessionID: 91350
 # What You Need To Know About Processing Tabular Models
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Anton
 ## Title: What You Need To Know About Processing Tabular Models
@@ -175,7 +176,7 @@ Keywords: Analysis Services, SSAS, Power BI
 #  
 #### SessionID: 93410
 # T-SQL : Bad Habits and Best Practices
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits and Best Practices
@@ -188,7 +189,7 @@ By changing your techniques and ditching some of these bad habits for best pract
 #  
 #### SessionID: 93413
 # What SQL Server DBAs Need To Know About Distributed Availability Groups
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Database Administration
 ## Speaker: Edwin M Sarmiento
 ## Title: What SQL Server DBAs Need To Know About Distributed Availability Groups
@@ -197,7 +198,7 @@ Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Database Administration
 #  
 #### SessionID: 93441
 # How do you Azure?
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Database Administration
 ## Speaker: Tamera Clark
 ## Title: How do you Azure?
@@ -210,7 +211,7 @@ This is a level 0 session, #N00b, #Imabeginner
 #  
 #### SessionID: 91546
 # Introduction to Serverless Architecture
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Samir Behara
 ## Title: Introduction to Serverless Architecture
@@ -221,7 +222,7 @@ If you are a software developer, IT Pro or an Architect, come join me in this se
 #  
 #### SessionID: 93335
 # Remember Back When?  Temporal Tables in SQL Server 2016 and 2017
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Brian Hansen
 ## Title: Remember Back When?  Temporal Tables in SQL Server 2016 and 2017
@@ -230,7 +231,7 @@ Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 95065
 # The Modern Power BI approach
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan Evans
 ## Title: The Modern Power BI approach
@@ -239,7 +240,7 @@ Event Date: 22-06-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93373
 # Tips and Tricks for the PowerShell DBA
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Database Administration
 ## Speaker: Ben Miller
 ## Title: Tips and Tricks for the PowerShell DBA
@@ -248,7 +249,7 @@ Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Database Administration
 #  
 #### SessionID: 93425
 # Become a T-SQL Pivoting Ninja in 60 Minutes Or Less
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Peter Doyle
 ## Title: Become a T-SQL Pivoting Ninja in 60 Minutes Or Less
@@ -262,7 +263,7 @@ Come join me, and by the end of this session, you will have the knowledge to lev
 #  
 #### SessionID: 93426
 # Adaptive Query Processing in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Database Administration
 ## Speaker: David Hiltenbrand
 ## Title: Adaptive Query Processing in SQL Server 2017
@@ -271,7 +272,7 @@ Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Database Administration
 #  
 #### SessionID: 93566
 # A Beginners Guide to Transactions
-#### [Back to calendar](#SQLSaturday-#881-Chattanooga-2019)
+#### [Back to calendar](#nr-881)
 Event Date: 22-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: A Beginners Guide to Transactions

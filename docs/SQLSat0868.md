@@ -1,3 +1,4 @@
+#### Nr: 868
 #### [Back to Main list](index.md)
 # SQLSaturday #868 - Kharkiv 2019
 Start Time (24h)|Speaker|Track|Title
@@ -20,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 90494
 # Hidden gems of SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#868-Kharkiv-2019)
+#### [Back to calendar](#nr-868)
 Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Denis Reznik
 ## Title: Hidden gems of SQL Server 2017
@@ -31,7 +32,7 @@ In this session, we will learn a lot about these features and improvements. Whic
 #  
 #### SessionID: 94876
 # Build Modern Cloud Applications with Net Core 3.0, entity framework and CosmosDB.
-#### [Back to calendar](#SQLSaturday-#868-Kharkiv-2019)
+#### [Back to calendar](#nr-868)
 Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mihail Mateev
 ## Title: Build Modern Cloud Applications with Net Core 3.0, entity framework and CosmosDB.
@@ -42,7 +43,7 @@ Let's look the possible architectures of modern cloud applications and the impac
 #  
 #### SessionID: 96811
 # Hidden force of the PowerQuery. Powerful ETL  AI integration
-#### [Back to calendar](#SQLSaturday-#868-Kharkiv-2019)
+#### [Back to calendar](#nr-868)
 Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ruslan Zolotukhin
 ## Title: Hidden force of the PowerQuery. Powerful ETL  AI integration
@@ -51,7 +52,7 @@ Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 91833
 # SQL Server Columnstore Indexes: Practical recipes
-#### [Back to calendar](#SQLSaturday-#868-Kharkiv-2019)
+#### [Back to calendar](#nr-868)
 Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Sergey Syrovatchenko
 ## Title: SQL Server Columnstore Indexes: Practical recipes
@@ -62,7 +63,7 @@ In this session, we will look at several tips how to improve performance of our 
 #  
 #### SessionID: 95710
 # Power BI. Benefits and Pitfalls of DAX.
-#### [Back to calendar](#SQLSaturday-#868-Kharkiv-2019)
+#### [Back to calendar](#nr-868)
 Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Artur Konstantynov
 ## Title: Power BI. Benefits and Pitfalls of DAX.
@@ -71,7 +72,7 @@ Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 98016
 # Узгодженість, паралелізм та блокування в сучасних базах даних
-#### [Back to calendar](#SQLSaturday-#868-Kharkiv-2019)
+#### [Back to calendar](#nr-868)
 Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: Узгодженість, паралелізм та блокування в сучасних базах даних
@@ -82,7 +83,7 @@ Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 91305
 # What is CI/CD for databases or how to automate DB changes
-#### [Back to calendar](#SQLSaturday-#868-Kharkiv-2019)
+#### [Back to calendar](#nr-868)
 Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taras Kloba
 ## Title: What is CI/CD for databases or how to automate DB changes
@@ -93,7 +94,7 @@ The main goal is to understand that applications and databases can and should sh
 #  
 #### SessionID: 94814
 # Don't Use Cursors or Why You Maybe Should Use a Cursor After All
-#### [Back to calendar](#SQLSaturday-#868-Kharkiv-2019)
+#### [Back to calendar](#nr-868)
 Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Don't Use Cursors or Why You Maybe Should Use a Cursor After All
@@ -102,7 +103,7 @@ Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 96229
 # Architecture of modern data warehouse
-#### [Back to calendar](#SQLSaturday-#868-Kharkiv-2019)
+#### [Back to calendar](#nr-868)
 Event Date: 28-09-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Polonichko
 ## Title: Architecture of modern data warehouse
@@ -112,7 +113,7 @@ Microsoft Azure provides a set of fully managed services, which allow you to bui
 #  
 #### SessionID: 94276
 # Hacking SQL Server Is Not Enough
-#### [Back to calendar](#SQLSaturday-#868-Kharkiv-2019)
+#### [Back to calendar](#nr-868)
 Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server Is Not Enough
@@ -123,7 +124,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #  
 #### SessionID: 94813
 # Don't Bite Off More Than You Can Chew - Take It in Chunks
-#### [Back to calendar](#SQLSaturday-#868-Kharkiv-2019)
+#### [Back to calendar](#nr-868)
 Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Don't Bite Off More Than You Can Chew - Take It in Chunks
@@ -136,7 +137,7 @@ I will also look at how you can use chunking for error handling: You want proces
 #  
 #### SessionID: 95707
 # Slowly Changing Dimensions types 0 through 7 and their ETL implementation (SSIS exmples)
-#### [Back to calendar](#SQLSaturday-#868-Kharkiv-2019)
+#### [Back to calendar](#nr-868)
 Event Date: 28-09-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dmytro Polishchuk
 ## Title: Slowly Changing Dimensions types 0 through 7 and their ETL implementation (SSIS exmples)
@@ -146,7 +147,7 @@ Explanation of every SCD type. Analytical value, pros and cons of each will be i
 #  
 #### SessionID: 94279
 # SQL Curiosities: Цікавість згубила кішку
-#### [Back to calendar](#SQLSaturday-#868-Kharkiv-2019)
+#### [Back to calendar](#nr-868)
 Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: SQL Curiosities: Цікавість згубила кішку
@@ -156,7 +157,7 @@ Disclaimer: No feline was harmed in the making of this session. Please do not re
 #  
 #### SessionID: 94300
 # MS SQLServer 2019 Intelligent Query Processing
-#### [Back to calendar](#SQLSaturday-#868-Kharkiv-2019)
+#### [Back to calendar](#nr-868)
 Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Andrii Zrobok
 ## Title: MS SQLServer 2019 Intelligent Query Processing
@@ -165,7 +166,7 @@ Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 98362
 # SQL database on IoT devices, could you? should you? would you?
-#### [Back to calendar](#SQLSaturday-#868-Kharkiv-2019)
+#### [Back to calendar](#nr-868)
 Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: SQL database on IoT devices, could you? should you? would you?

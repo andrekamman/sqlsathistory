@@ -1,3 +1,4 @@
+#### Nr: 450
 #### [Back to Main list](index.md)
 # SQLSaturday #450 - Bucuresti 2015
 Start Time (24h)|Speaker|Track|Title
@@ -12,7 +13,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 37379
 # Saved by the Cloud
-#### [Back to calendar](#SQLSaturday-#450-Bucuresti-2015)
+#### [Back to calendar](#nr-450)
 Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Analytics and Visualization
 ## Speaker: Tanja Vukov
 ## Title: Saved by the Cloud
@@ -22,7 +23,7 @@ Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 38120
 # Power BI- best practices to deliver just-in-time insights
-#### [Back to calendar](#SQLSaturday-#450-Bucuresti-2015)
+#### [Back to calendar](#nr-450)
 Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Analytics and Visualization
 ## Speaker: Satya Jayanty
 ## Title: Power BI- best practices to deliver just-in-time insights
@@ -33,7 +34,7 @@ Having said that, cloud computing is another aspect of this technology made is p
 #  
 #### SessionID: 37380
 # Azure Machine Learning - drag, drop, predict
-#### [Back to calendar](#SQLSaturday-#450-Bucuresti-2015)
+#### [Back to calendar](#nr-450)
 Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tanja Vukov
 ## Title: Azure Machine Learning - drag, drop, predict
@@ -42,7 +43,7 @@ Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 38034
 # Data Science approach for (Azure) Machine Learing
-#### [Back to calendar](#SQLSaturday-#450-Bucuresti-2015)
+#### [Back to calendar](#nr-450)
 Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: Data Science approach for (Azure) Machine Learing
@@ -51,7 +52,7 @@ Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 39129
 # Databases on mobile devices
-#### [Back to calendar](#SQLSaturday-#450-Bucuresti-2015)
+#### [Back to calendar](#nr-450)
 Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: Databases on mobile devices
@@ -62,7 +63,7 @@ And of course all with as much demoes and code as possible.
 #  
 #### SessionID: 38028
 # Easy ETL with Biml
-#### [Back to calendar](#SQLSaturday-#450-Bucuresti-2015)
+#### [Back to calendar](#nr-450)
 Event Date: 19-09-2015 - Session time: 14:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marcin Szeliga
 ## Title: Easy ETL with Biml
@@ -71,7 +72,7 @@ Event Date: 19-09-2015 - Session time: 14:05:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 39130
 # IoT and SQL (Server)
-#### [Back to calendar](#SQLSaturday-#450-Bucuresti-2015)
+#### [Back to calendar](#nr-450)
 Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: IoT and SQL (Server)

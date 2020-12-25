@@ -1,3 +1,4 @@
+#### Nr: 636
 #### [Back to Main list](index.md)
 # SQLSaturday #636 - Pittsburgh 2017
 Start Time (24h)|Speaker|Track|Title
@@ -51,7 +52,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 63261
 # Enabling Familiar, Powerful Business Intelligence
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Sayed Saeed
 ## Title: Enabling Familiar, Powerful Business Intelligence
@@ -60,7 +61,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Information Delivery
 #  
 #### SessionID: 63884
 # Drinking From the Firehose: a Guide to Keeping Up with Technology
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Eugene Meidinger
 ## Title: Drinking From the Firehose: a Guide to Keeping Up with Technology
@@ -69,7 +70,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 64778
 # What is a DBA?
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Other
 ## Speaker: Michael John
 ## Title: What is a DBA?
@@ -78,7 +79,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Other
 #  
 #### SessionID: 64998
 # Running SQL Server in AWS
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Brian Carrig
 ## Title: Running SQL Server in AWS
@@ -87,7 +88,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 65370
 # Does This Look Weird?  The Importance Of Baselining
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Does This Look Weird?  The Importance Of Baselining
@@ -96,7 +97,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68159
 # Indexing Fundamentals
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Steve Hood
 ## Title: Indexing Fundamentals
@@ -105,7 +106,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 68276
 # CONVERT_IMPLICIT is a hidden danger
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Alex Grinberg
 ## Title: CONVERT_IMPLICIT is a hidden danger
@@ -114,7 +115,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 62852
 # Got stress?  Sometimes the SQL Server needs some too
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: Got stress?  Sometimes the SQL Server needs some too
@@ -123,7 +124,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63024
 # Excel with DAX
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Azhagappan Arunachalam
 ## Title: Excel with DAX
@@ -132,7 +133,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 63317
 # Refresh a 1TB+ database in under 10 seconds
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrzej Pilacik
 ## Title: Refresh a 1TB+ database in under 10 seconds
@@ -142,7 +143,7 @@ Finally, the presentation will focus on an architecture based on SAN technologie
 #  
 #### SessionID: 65241
 # DBA - What's Most Important
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Other
 ## Speaker: Ed Wagner
 ## Title: DBA - What's Most Important
@@ -151,7 +152,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Other
 #  
 #### SessionID: 66596
 # Configuring DBaaS for the first time!
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Configuring DBaaS for the first time!
@@ -160,7 +161,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 68586
 # Getting Involved and Getting Ahead
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Tim Radney
 ## Title: Getting Involved and Getting Ahead
@@ -169,7 +170,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 69345
 # SSIS Incremental Loading:  The Tortoise and The Hare
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Frye
 ## Title: SSIS Incremental Loading:  The Tortoise and The Hare
@@ -180,7 +181,7 @@ In this session, we will cover a variety of incremental design approaches center
 #  
 #### SessionID: 61680
 # Recovery and Backup for Beginners
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Other
 ## Speaker: Mike Hillwig
 ## Title: Recovery and Backup for Beginners
@@ -191,7 +192,7 @@ In this session, veteran DBA Mike Hillwig will start with understanding the reco
 #  
 #### SessionID: 63805
 # Finding more space for your tight environment.
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Chan
 ## Title: Finding more space for your tight environment.
@@ -203,7 +204,7 @@ And in the final I will defragment the indexes and update the statistics, since 
 #  
 #### SessionID: 65465
 # How to get Microsoft Certified
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: John Deardurff
 ## Title: How to get Microsoft Certified
@@ -212,7 +213,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 65713
 # Using Filetables
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: Using Filetables
@@ -221,7 +222,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 68599
 # Tools for the DBA Newbie: What I Wish I Had Known Years Ago
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Ryan Booz
 ## Title: Tools for the DBA Newbie: What I Wish I Had Known Years Ago
@@ -234,7 +235,7 @@ I’ve learned all of this gradually, but I’m happy to give you a head start. 
 #  
 #### SessionID: 68604
 # Cross Tabs  Pivots - Much More Than Just Converting Rows to Columns
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Jeff Moden
 ## Title: Cross Tabs  Pivots - Much More Than Just Converting Rows to Columns
@@ -247,7 +248,7 @@ Don't let the "Intermediate" rating of this session scare you beginners away bec
 #  
 #### SessionID: 69340
 # Stop Doing That! Common T-SQL Anti-Patterns
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Stop Doing That! Common T-SQL Anti-Patterns
@@ -260,7 +261,7 @@ By the end of the session, you will be able to quickly identify these common ant
 #  
 #### SessionID: 69808
 # Lunch break
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Matt Nelson
 ## Title: Lunch break
@@ -269,7 +270,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 69747
 # New Horizons lunchtime chat
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: New Horizons lunchtime chat
@@ -279,7 +280,7 @@ No food is allowed in the classroom, please eat in the gallery or cafe first.
 #  
 #### SessionID: 69748
 # Plus Consulting lunchtime chat
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: Plus Consulting lunchtime chat
@@ -289,7 +290,7 @@ No food is allowed in the classroom, please eat in the gallery or cafe first.
 #  
 #### SessionID: 61684
 # SQL Server on Linux for SQL DBA.
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Slava Murygin
 ## Title: SQL Server on Linux for SQL DBA.
@@ -303,7 +304,7 @@ And I show you how to do it.
 #  
 #### SessionID: 62862
 # Access, Users, Permissions for Beginners!
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dummea Vincent
 ## Title: Access, Users, Permissions for Beginners!
@@ -312,7 +313,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64014
 # Crash Course on Better SQL Development
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
@@ -321,7 +322,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 66484
 # SQL Server Data Tools (SSDT) Basics
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Steve Grier
 ## Title: SQL Server Data Tools (SSDT) Basics
@@ -330,7 +331,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 66749
 # Machine Learning Melee: AWS vs Azure
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Frank La Vigne
 ## Title: Machine Learning Melee: AWS vs Azure
@@ -345,7 +346,7 @@ Come to this session to get a first hand account of a former Microsoft evangelis
 #  
 #### SessionID: 67890
 # Maintain SQL Server Performance Baseline w/PowerShell
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Maintain SQL Server Performance Baseline w/PowerShell
@@ -354,7 +355,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69323
 # Geo Location of Twitter messages in Power BI
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Rayis Imayev
 ## Title: Geo Location of Twitter messages in Power BI
@@ -371,7 +372,7 @@ However, Geo location for twitter messages is not available (if we want to filte
 #  
 #### SessionID: 63791
 # Tackling Technical Blogging
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Mike Hays
 ## Title: Tackling Technical Blogging
@@ -380,7 +381,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 64862
 # SSAS 2016 Tabular - Diving into the new features
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Beswick
 ## Title: SSAS 2016 Tabular - Diving into the new features
@@ -389,7 +390,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 65040
 # DBAs vs Developers: JSON in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Bert Wagner
 ## Title: DBAs vs Developers: JSON in SQL Server 2016
@@ -404,7 +405,7 @@ By the end of this session DBAs and developers will know how to efficiently work
 #  
 #### SessionID: 65218
 # An introduction to the magical world of BIML!
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
@@ -413,7 +414,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 66993
 # Getting Noticed: Strategies for Your Resume and LinkedIn
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Rick Heiges
 ## Title: Getting Noticed: Strategies for Your Resume and LinkedIn
@@ -422,7 +423,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 68401
 # The DBA Survival Guide for In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ned Otter
 ## Title: The DBA Survival Guide for In-Memory OLTP
@@ -437,7 +438,7 @@ Attendees will gain a clear understanding of the knowledge and skills required t
 #  
 #### SessionID: 69440
 # SSMS Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Eric Blinn
 ## Title: SSMS Tips and Tricks
@@ -446,7 +447,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 61679
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -455,7 +456,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61681
 # New Instance, Now what?
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Donahoe
 ## Title: New Instance, Now what?
@@ -468,7 +469,7 @@ By the end of this session, you will have developed a pallet of tools to help yo
 #  
 #### SessionID: 62813
 # # vs @ - it's not about Social Media it's about temporary tables and data
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Thomas Grohser
 ## Title: # vs @ - it's not about Social Media it's about temporary tables and data
@@ -477,7 +478,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 62851
 # DBA 102: Now What
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: DBA 102: Now What
@@ -486,7 +487,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64571
 # Cassandra for SQL Server Professionals
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Strategy and Architecture
 ## Speaker: Dan Mallott
 ## Title: Cassandra for SQL Server Professionals
@@ -495,7 +496,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 65253
 # Managing Up: The Art of Managing your Manager
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Mike Hillwig
 ## Title: Managing Up: The Art of Managing your Manager
@@ -506,7 +507,7 @@ In this session, veteran IT professional Mike Hillwig will teach you how to mana
 #  
 #### SessionID: 66992
 # SQL Games
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Rick Heiges
 ## Title: SQL Games
@@ -515,7 +516,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 69793
 # How to talk to your Storage Admin
-#### [Back to calendar](#SQLSaturday-#636-Pittsburgh-2017)
+#### [Back to calendar](#nr-636)
 Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Strategy and Architecture
 ## Speaker: Marsha Pierce
 ## Title: How to talk to your Storage Admin

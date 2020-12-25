@@ -1,3 +1,4 @@
+#### Nr: 320
 #### [Back to Main list](index.md)
 # SQLSaturday #320 - Raleigh 2014
 Start Time (24h)|Speaker|Track|Title
@@ -49,7 +50,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10058
 # Get Near Realtime ETL with Service Broker
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Allen White
 ## Title: Get Near Realtime ETL with Service Broker
@@ -58,7 +59,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 10059
 # Manage SQLServer Efficiently w/PowerShell Remoting
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Allen White
 ## Title: Manage SQLServer Efficiently w/PowerShell Remoting
@@ -67,7 +68,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 10784
 # Managing Very Large Databases with SQL Server
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Brian Carrig
 ## Title: Managing Very Large Databases with SQL Server
@@ -78,7 +79,7 @@ In this session, I will provide some practical advice on managing VLDBs with SQL
 #  
 #### SessionID: 10876
 # SQL 2012 Table Compression
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Performance/Internals
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Table Compression
@@ -87,7 +88,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Performance/Internals
 #  
 #### SessionID: 11162
 # Your Free Tools Swiss-Knife for SQL Server
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Mohamed Mawla
 ## Title: Your Free Tools Swiss-Knife for SQL Server
@@ -100,7 +101,7 @@ Those are powerful, free and easy to use tools to help you with your daily work.
 #  
 #### SessionID: 11209
 # "I Know What You Did Last Query" --SQL Server
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Performance/Internals
 ## Speaker: Carlos L Chacon
 ## Title: "I Know What You Did Last Query" --SQL Server
@@ -109,7 +110,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Performance/Internals
 #  
 #### SessionID: 11280
 # Optimizing Protected Indexes
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Performance/Internals
 ## Speaker: Chris Bell
 ## Title: Optimizing Protected Indexes
@@ -118,7 +119,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Performance/Internals
 #  
 #### SessionID: 11569
 # Check Engine Lights
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Performance/Internals
 ## Speaker: Chris Skorlinski
 ## Title: Check Engine Lights
@@ -127,7 +128,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Performance/Internals
 #  
 #### SessionID: 11570
 # Your Best Interview Ever
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Chris Skorlinski
 ## Title: Your Best Interview Ever
@@ -137,7 +138,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 13415
 # Congrats on your promotion to DBA, now what?
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Doug Purnell
 ## Title: Congrats on your promotion to DBA, now what?
@@ -146,7 +147,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 14206
 # We Have Normality
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Introductory Topics
 ## Speaker: Kevin Feasel
 ## Title: We Have Normality
@@ -155,7 +156,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Introductory Topics
 #  
 #### SessionID: 14209
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Cloud/Big Data
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
@@ -164,7 +165,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Cloud/Big Data
 #  
 #### SessionID: 14499
 # Cloudy with a Chance of Data
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Cloud/Big Data
 ## Speaker: Geoff Hiten
 ## Title: Cloudy with a Chance of Data
@@ -173,7 +174,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Cloud/Big Data
 #  
 #### SessionID: 15564
 # F# Type Providers Change The Way You Interact With Data Sources
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: T-SQL/Dev
 ## Speaker: Jamie Dixon
 ## Title: F# Type Providers Change The Way You Interact With Data Sources
@@ -182,7 +183,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: T-SQL/Dev
 #  
 #### SessionID: 16679
 # What's in the SQL Server 2014 Business Intelligence Suite?
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jessica Moss
 ## Title: What's in the SQL Server 2014 Business Intelligence Suite?
@@ -191,7 +192,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 16744
 # What the Hekaton
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Introductory Topics
 ## Speaker: John Flannery
 ## Title: What the Hekaton
@@ -200,7 +201,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Introductory Topics
 #  
 #### SessionID: 16777
 # TempDB Parasites!
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jason Hall
 ## Title: TempDB Parasites!
@@ -209,7 +210,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17150
 # The Froogle DBA – Combining SQL Features and Open Source
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: John Greeson
 ## Title: The Froogle DBA – Combining SQL Features and Open Source
@@ -219,7 +220,7 @@ We’ll be combining Zenoss, MDW, CMS, and Performance Dashboard Reports to buil
 #  
 #### SessionID: 17815
 # PowerShell  SQL Management Objects: automated sql server installs and configurations
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jamie Wick
 ## Title: PowerShell  SQL Management Objects: automated sql server installs and configurations
@@ -228,7 +229,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 20783
 # SQL Server Bingo – Install, Migration  Config
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mindy Curnutt
 ## Title: SQL Server Bingo – Install, Migration  Config
@@ -237,7 +238,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 21700
 # Automated Deployments - Lowering the risk of database releases
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Eli Weinstock-Herman
 ## Title: Automated Deployments - Lowering the risk of database releases
@@ -248,7 +249,7 @@ In this session, we'll build a deployment pipeline that will reduce the stress a
 #  
 #### SessionID: 21865
 # BI Expert Panel - Part 1
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Paul Turley
 ## Title: BI Expert Panel - Part 1
@@ -257,7 +258,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 21866
 # BI Expert Panel - Part 2
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Paul Turley
 ## Title: BI Expert Panel - Part 2
@@ -266,7 +267,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 22585
 # Locks, Blocks, and Deadlocks Oh My!
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Performance/Internals
 ## Speaker: Randy Knight
 ## Title: Locks, Blocks, and Deadlocks Oh My!
@@ -275,7 +276,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Performance/Internals
 #  
 #### SessionID: 22587
 # Understanding Transaction Isolation Levels
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Introductory Topics
 ## Speaker: Randy Knight
 ## Title: Understanding Transaction Isolation Levels
@@ -285,7 +286,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Introductory Topics
 #  
 #### SessionID: 22674
 # SSIS Templates Can Make Your Life Easier
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Brian Davis
 ## Title: SSIS Templates Can Make Your Life Easier
@@ -294,7 +295,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 22675
 # Goodbye Next Next Next, Hello Automated Installs
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Brian Davis
 ## Title: Goodbye Next Next Next, Hello Automated Installs
@@ -303,7 +304,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 23393
 # Data Analysis for the DBA - Performance and Audit Reporting
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Rodney Landrum
 ## Title: Data Analysis for the DBA - Performance and Audit Reporting
@@ -312,7 +313,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 24066
 # Getting Started With Execution Plans
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Introductory Topics
 ## Speaker: Scott Fallen
 ## Title: Getting Started With Execution Plans
@@ -323,7 +324,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Introductory Topics
 #  
 #### SessionID: 24984
 # Twice in a Lifetime: T-SQL Refactoring 101
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: T-SQL/Dev
 ## Speaker: MIKE DONNELLY
 ## Title: Twice in a Lifetime: T-SQL Refactoring 101
@@ -334,7 +335,7 @@ This session will cover ways to quickly find old T-SQL antipatterns, tools that 
 #  
 #### SessionID: 25182
 # Scalable, Large-Volume Data Synchronization in OLTP Systems
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Cloud/Big Data
 ## Speaker: Solomon Rutzky
 ## Title: Scalable, Large-Volume Data Synchronization in OLTP Systems
@@ -343,7 +344,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Cloud/Big Data
 #  
 #### SessionID: 25183
 # What can SQLCLR do for you?
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: T-SQL/Dev
 ## Speaker: Solomon Rutzky
 ## Title: What can SQLCLR do for you?
@@ -352,7 +353,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: T-SQL/Dev
 #  
 #### SessionID: 26504
 # SQL Injection
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: T-SQL/Dev
 ## Speaker: Kevin Boles
 ## Title: SQL Injection
@@ -361,7 +362,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: T-SQL/Dev
 #  
 #### SessionID: 26505
 # Indexing Deep Dive
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kevin Boles
 ## Title: Indexing Deep Dive
@@ -370,7 +371,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 26838
 # Floating on a Hybrid Cloud: SQL Server 2014  Windows Azure 
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Cloud/Big Data
 ## Speaker: Timothy McAliley
 ## Title: Floating on a Hybrid Cloud: SQL Server 2014  Windows Azure 
@@ -379,7 +380,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Cloud/Big Data
 #  
 #### SessionID: 26839
 # Backup to the Cloud: Integrating On-Premises SQL Server Backup and Recovery with Window Azure
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Cloud/Big Data
 ## Speaker: Timothy McAliley
 ## Title: Backup to the Cloud: Integrating On-Premises SQL Server Backup and Recovery with Window Azure
@@ -388,7 +389,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Cloud/Big Data
 #  
 #### SessionID: 27109
 # SQL Server on VMWare Monitoring:  Optimized for Performance
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Trent Sherman
 ## Title: SQL Server on VMWare Monitoring:  Optimized for Performance
@@ -397,7 +398,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 27765
 # Crazy Things That Developers Do
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: T-SQL/Dev
 ## Speaker: Wayne Sheffield
 ## Title: Crazy Things That Developers Do
@@ -406,7 +407,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: T-SQL/Dev
 #  
 #### SessionID: 27767
 # Windowing Functions in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: T-SQL/Dev
 ## Speaker: Wayne Sheffield
 ## Title: Windowing Functions in SQL Server 2012
@@ -415,7 +416,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: T-SQL/Dev
 #  
 #### SessionID: 28176
 # The 20-Minute Tabular Model
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Bill Anton
 ## Title: The 20-Minute Tabular Model
@@ -424,7 +425,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 9095
 # Sizing your DW Hardware - SMP, Fast Track or PDW
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Cloud/Big Data
 ## Speaker: Andy Isley
 ## Title: Sizing your DW Hardware - SMP, Fast Track or PDW
@@ -433,7 +434,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Cloud/Big Data
 #  
 #### SessionID: 9151
 # Getting the Most Out of Plan Reuse
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Performance/Internals
 ## Speaker: Andrew Kelly
 ## Title: Getting the Most Out of Plan Reuse
@@ -442,7 +443,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Performance/Internals
 #  
 #### SessionID: 9862
 # Policy Based Management, Trolls and Watchmakers
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Thomas Norman
 ## Title: Policy Based Management, Trolls and Watchmakers
@@ -451,7 +452,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 9863
 # I’m New, Select Me!
-#### [Back to calendar](#SQLSaturday-#320-Raleigh-2014)
+#### [Back to calendar](#nr-320)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Introductory Topics
 ## Speaker: Thomas Norman
 ## Title: I’m New, Select Me!

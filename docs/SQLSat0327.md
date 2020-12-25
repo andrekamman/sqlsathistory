@@ -1,3 +1,4 @@
+#### Nr: 327
 #### [Back to Main list](index.md)
 # SQLSaturday #327 - Johannesburg 2014
 Start Time (24h)|Speaker|Track|Title
@@ -24,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10409
 # Master data management - a simple approach to an improved data experience
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Bhavesh Lala
 ## Title: Master data management - a simple approach to an improved data experience
@@ -33,7 +34,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 10749
 # Designing Modern Apps using New Capabilities in Microsoft Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Brent  Samodien
 ## Title: Designing Modern Apps using New Capabilities in Microsoft Azure SQL Database
@@ -42,7 +43,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 14369
 # On Transactions and Atomic Operations
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Gail Shaw
 ## Title: On Transactions and Atomic Operations
@@ -55,7 +56,7 @@ In this session, we’ll look at what transactions are and why we should use the
 #  
 #### SessionID: 14394
 # Introduction to AzureML
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Gary Hope
 ## Title: Introduction to AzureML
@@ -64,7 +65,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17105
 # Rocking with SQL 2012 Extended Events
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jody Roberts
 ## Title: Rocking with SQL 2012 Extended Events
@@ -73,7 +74,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19301
 # Common ETL development mistakes (and their solutions)
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Luis de Sousa
 ## Title: Common ETL development mistakes (and their solutions)
@@ -82,7 +83,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 19356
 # Columnstore Indexing: From SQL Server 2012 to SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Sifiso Ndlovu
 ## Title: Columnstore Indexing: From SQL Server 2012 to SQL Server 2014
@@ -91,7 +92,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19419
 # DAX Ninja in 60 minutes
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mark White
 ## Title: DAX Ninja in 60 minutes
@@ -104,7 +105,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19513
 #  How New Feature in SQL Server 2014 Could Benefit Business Intelligence Solutions
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Marius Van Schalkwyk
 ## Title:  How New Feature in SQL Server 2014 Could Benefit Business Intelligence Solutions
@@ -113,7 +114,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19743
 # Who's in Control? Use Sql Server Resource Governor
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Martin Phelps
 ## Title: Who's in Control? Use Sql Server Resource Governor
@@ -122,7 +123,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 20154
 # Introduction to Data Analysis Expressions (DAX)
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Matt Horn
 ## Title: Introduction to Data Analysis Expressions (DAX)
@@ -133,7 +134,7 @@ While this session will not make you a DAX Jedi It should provide you with a goo
 #  
 #### SessionID: 20369
 # Keynote address with Franco Rothner
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Franco  Rothner
 ## Title: Keynote address with Franco Rothner
@@ -142,7 +143,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24294
 # Practical Query Tuning
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Sean Pearce
 ## Title: Practical Query Tuning
@@ -151,7 +152,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 25527
 # SQL Server 2014 Data Access Layers
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Steve Simon
 ## Title: SQL Server 2014 Data Access Layers
@@ -160,7 +161,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 25528
 # Creating efficient and effective SSRS BI Solutions
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Steve Simon
 ## Title: Creating efficient and effective SSRS BI Solutions
@@ -169,7 +170,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 27368
 # In-Memory Optimized Tables - Hands-on demo and Real World applications
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Frikkie  Venter
 ## Title: In-Memory Optimized Tables - Hands-on demo and Real World applications
@@ -178,7 +179,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 35689
 # SQL Skills: Senior In Age / Pay OR Skills
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Howard Diesel
 ## Title: SQL Skills: Senior In Age / Pay OR Skills
@@ -189,7 +190,7 @@ It does try to address the decisions "ground rules" required to becoming a "Seni
 #  
 #### SessionID: 9231
 # SQL Best Practices including tips and Tricks for optimizing your SharePoint Farm
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Alistair Pugin
 ## Title: SQL Best Practices including tips and Tricks for optimizing your SharePoint Farm
@@ -204,7 +205,7 @@ Invariably, SharePoint Architects have to co-exist with SQL DBA’s without havi
 #  
 #### SessionID: 9453
 # 10 Things that you already knew about SSIS
-#### [Back to calendar](#SQLSaturday-#327-Johannesburg-2014)
+#### [Back to calendar](#nr-327)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Andreas Bergstedt
 ## Title: 10 Things that you already knew about SSIS

@@ -1,3 +1,4 @@
+#### Nr: 691
 #### [Back to Main list](index.md)
 # SQLSaturday #691 - Montevideo 2017
 Start Time (24h)|Speaker|Track|Title
@@ -13,7 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 70506
 # Guy in a Cube unplugged
-#### [Back to calendar](#SQLSaturday-#691-Montevideo-2017)
+#### [Back to calendar](#nr-691)
 Event Date: 02-12-2017 - Session time: 18:40:00 - Track: BI Information Delivery
 ## Speaker: Patrick LeBlanc
 ## Title: Guy in a Cube unplugged
@@ -22,7 +23,7 @@ Event Date: 02-12-2017 - Session time: 18:40:00 - Track: BI Information Delivery
 #  
 #### SessionID: 67921
 # Cognitive Computing con Microsoft
-#### [Back to calendar](#SQLSaturday-#691-Montevideo-2017)
+#### [Back to calendar](#nr-691)
 Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Eduardo Castro
 ## Title: Cognitive Computing con Microsoft
@@ -31,7 +32,7 @@ Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 67898
 # SQL Server 2017 - Community-driven enhancements
-#### [Back to calendar](#SQLSaturday-#691-Montevideo-2017)
+#### [Back to calendar](#nr-691)
 Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Javier Villegas
 ## Title: SQL Server 2017 - Community-driven enhancements
@@ -40,7 +41,7 @@ Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67913
 # Usando R y Python desde SQL Server
-#### [Back to calendar](#SQLSaturday-#691-Montevideo-2017)
+#### [Back to calendar](#nr-691)
 Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: Patricio Cofre
 ## Title: Usando R y Python desde SQL Server
@@ -49,7 +50,7 @@ Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 67900
 # Tecnicas Avanzadas de Monitoreo
-#### [Back to calendar](#SQLSaturday-#691-Montevideo-2017)
+#### [Back to calendar](#nr-691)
 Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Javier Villegas
 ## Title: Tecnicas Avanzadas de Monitoreo
@@ -62,7 +63,7 @@ Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70505
 # Introduction to Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#691-Montevideo-2017)
+#### [Back to calendar](#nr-691)
 Event Date: 02-12-2017 - Session time: 18:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to Azure Analysis Services
@@ -71,7 +72,7 @@ Event Date: 02-12-2017 - Session time: 18:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67919
 # Data Analytics: Clustering, Regression and Machine Learning con  Power BI
-#### [Back to calendar](#SQLSaturday-#691-Montevideo-2017)
+#### [Back to calendar](#nr-691)
 Event Date: 02-12-2017 - Session time: 18:40:00 - Track: BI Information Delivery
 ## Speaker: Eduardo Castro
 ## Title: Data Analytics: Clustering, Regression and Machine Learning con  Power BI
@@ -80,7 +81,7 @@ Event Date: 02-12-2017 - Session time: 18:40:00 - Track: BI Information Delivery
 #  
 #### SessionID: 67914
 # Creación de un Sistema Recomendador basado en Grafos
-#### [Back to calendar](#SQLSaturday-#691-Montevideo-2017)
+#### [Back to calendar](#nr-691)
 Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: Patricio Cofre
 ## Title: Creación de un Sistema Recomendador basado en Grafos

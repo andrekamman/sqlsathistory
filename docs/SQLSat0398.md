@@ -1,3 +1,4 @@
+#### Nr: 398
 #### [Back to Main list](index.md)
 # SQLSaturday #398 - Krasnodar 2015
 Start Time (24h)|Speaker|Track|Title
@@ -15,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13766
 # Транзакционная репликация - это не страшно. 
-#### [Back to calendar](#SQLSaturday-#398-Krasnodar-2015)
+#### [Back to calendar](#nr-398)
 Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Other
 ## Speaker: Evgeny Khabarov
 ## Title: Транзакционная репликация - это не страшно. 
@@ -26,7 +27,7 @@ Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Other
 #  
 #### SessionID: 28308
 # Visual Studio для разработчиков баз данных
-#### [Back to calendar](#SQLSaturday-#398-Krasnodar-2015)
+#### [Back to calendar](#nr-398)
 Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Other
 ## Speaker: Andrey Zavadskiy
 ## Title: Visual Studio для разработчиков баз данных
@@ -35,7 +36,7 @@ Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Other
 #  
 #### SessionID: 13767
 # Поговорим об ожиданиях и очередях
-#### [Back to calendar](#SQLSaturday-#398-Krasnodar-2015)
+#### [Back to calendar](#nr-398)
 Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 1
 ## Speaker: Evgeny Khabarov
 ## Title: Поговорим об ожиданиях и очередях
@@ -44,7 +45,7 @@ Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 1
 #  
 #### SessionID: 18667
 # Windows Server 2012/R2: новые возможности для SQL Server и виртуализация на его платформе
-#### [Back to calendar](#SQLSaturday-#398-Krasnodar-2015)
+#### [Back to calendar](#nr-398)
 Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 3
 ## Speaker: Mikhail Komarov
 ## Title: Windows Server 2012/R2: новые возможности для SQL Server и виртуализация на его платформе
@@ -53,7 +54,7 @@ Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 3
 #  
 #### SessionID: 28307
 # Модульное тестирование в помощью SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#398-Krasnodar-2015)
+#### [Back to calendar](#nr-398)
 Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 2
 ## Speaker: Andrey Zavadskiy
 ## Title: Модульное тестирование в помощью SQL Server Data Tools
@@ -63,7 +64,7 @@ Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 2
 #  
 #### SessionID: 24365
 # Почему мой SQL Server "тормозит"?
-#### [Back to calendar](#SQLSaturday-#398-Krasnodar-2015)
+#### [Back to calendar](#nr-398)
 Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 1
 ## Speaker: Sergey Olontsev
 ## Title: Почему мой SQL Server "тормозит"?
@@ -72,7 +73,7 @@ Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 1
 #  
 #### SessionID: 35947
 # Использование динамического sql в MS SQL Server 
-#### [Back to calendar](#SQLSaturday-#398-Krasnodar-2015)
+#### [Back to calendar](#nr-398)
 Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 3
 ## Speaker: Alesya Zhuk
 ## Title: Использование динамического sql в MS SQL Server 
@@ -81,7 +82,7 @@ Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 3
 #  
 #### SessionID: 13111
 # Скрытые сокровища SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#398-Krasnodar-2015)
+#### [Back to calendar](#nr-398)
 Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 2
 ## Speaker: Denis Reznik
 ## Title: Скрытые сокровища SQL Server 2014
@@ -90,7 +91,7 @@ Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 2
 #  
 #### SessionID: 22165
 # Внутри Оптимизатора Запросов: Сортировка
-#### [Back to calendar](#SQLSaturday-#398-Krasnodar-2015)
+#### [Back to calendar](#nr-398)
 Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 1
 ## Speaker: Dmitry Pilugin
 ## Title: Внутри Оптимизатора Запросов: Сортировка
@@ -99,7 +100,7 @@ Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 1
 #  
 #### SessionID: 35772
 # BIML – ускоряем разработку в SSIS
-#### [Back to calendar](#SQLSaturday-#398-Krasnodar-2015)
+#### [Back to calendar](#nr-398)
 Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 3
 ## Speaker: Andrey Korshikov
 ## Title: BIML – ускоряем разработку в SSIS

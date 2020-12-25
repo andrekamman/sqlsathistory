@@ -1,3 +1,4 @@
+#### Nr: 614
 #### [Back to Main list](index.md)
 # SQLSaturday #614 - South Island NZ 2017
 Start Time (24h)|Speaker|Track|Title
@@ -26,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 57743
 # Power BI From Rookie to Rockstar
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Reza Rad
 ## Title: Power BI From Rookie to Rockstar
@@ -44,7 +45,7 @@ Detailed description of agenda here: http://www.radacad.com/power-bi-training
 #  
 #### SessionID: 61017
 # Beginners Guide to HA/DR, that can save your Bacon.
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: Beginners Guide to HA/DR, that can save your Bacon.
@@ -57,7 +58,7 @@ I will cover the following topics across 3 modules for the day:
 #  
 #### SessionID: 59715
 # DBA 101 - The things you absolutely MUST be doing in your SQL environment!
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Douglas
 ## Title: DBA 101 - The things you absolutely MUST be doing in your SQL environment!
@@ -68,7 +69,7 @@ The role of the DBA is never static or easy to define.  It means different thing
 #  
 #### SessionID: 59763
 # Security in Power BI; Everything You Need to Know
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: Security in Power BI; Everything You Need to Know
@@ -78,7 +79,7 @@ This is a demo-heavy session. Come and get answer to all your questions about Se
 #  
 #### SessionID: 59910
 # Tuning SQL Server Standard Edition
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Craig Ryan
 ## Title: Tuning SQL Server Standard Edition
@@ -87,7 +88,7 @@ Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 63664
 # A practical introduction to ML for the Data Professional
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Nick Burns
 ## Title: A practical introduction to ML for the Data Professional
@@ -98,7 +99,7 @@ We will build a prediction pipeline using AzureML and cover the essential elemen
 #  
 #### SessionID: 57697
 # The Power of Power BI
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Geoff Black
 ## Title: The Power of Power BI
@@ -107,7 +108,7 @@ Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 57700
 # Schroedinger’s Backup – will your recovery work?
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Schroedinger’s Backup – will your recovery work?
@@ -120,7 +121,7 @@ In this session Patrick will walk you through how to design,  create and test Re
 #  
 #### SessionID: 62633
 # DW SuperHero-Columnstore Index
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Manjot Kaur
 ## Title: DW SuperHero-Columnstore Index
@@ -129,7 +130,7 @@ Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 57824
 # Cardinality Estimator: A Ride from SQL 7.0 to SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Nagaraj Venkatesan
 ## Title: Cardinality Estimator: A Ride from SQL 7.0 to SQL Server 2016
@@ -138,7 +139,7 @@ Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 59326
 # 2016 – The Rise and Fall of DBM
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: 2016 – The Rise and Fall of DBM
@@ -147,7 +148,7 @@ Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61134
 # The DBA's guide to SharePoint
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steve Knutson
 ## Title: The DBA's guide to SharePoint
@@ -156,7 +157,7 @@ Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61716
 # On-Premise Reporting - Choosing the Right Strategy (SSRS 2016  Power BI)
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Anupama Natarajan
 ## Title: On-Premise Reporting - Choosing the Right Strategy (SSRS 2016  Power BI)
@@ -173,7 +174,7 @@ In this session, I will walk you through the
 #  
 #### SessionID: 57688
 # Protecting your data from SQL Injection attacks
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Alcock
 ## Title: Protecting your data from SQL Injection attacks
@@ -191,7 +192,7 @@ Kevin will give us a demo that will show an injection attack in action and how t
 #  
 #### SessionID: 57690
 # Database Administration for Azure SQL DB
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Martin Cairney
 ## Title: Database Administration for Azure SQL DB
@@ -202,7 +203,7 @@ You will leave this session with a better story for your manager to convince him
 #  
 #### SessionID: 61175
 # CortanaAnalytics : with RaspberryPI  WeatherSensor
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Leila Etaati
 ## Title: CortanaAnalytics : with RaspberryPI  WeatherSensor
@@ -211,7 +212,7 @@ Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 61696
 # Power Query is more than just a desktop BI ETL tool
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matt Allington
 ## Title: Power Query is more than just a desktop BI ETL tool
@@ -225,7 +226,7 @@ Event Date: 08-04-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 59713
 # DevOPs and the DBA
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamish Watson
 ## Title: DevOPs and the DBA
@@ -243,7 +244,7 @@ Through the use of a comprehensive live demo to a running production database th
 #  
 #### SessionID: 61167
 # SSIS Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Martin Catherall
 ## Title: SSIS Tips and Tricks
@@ -254,7 +255,7 @@ Having additional knowledge and design patterns in your SSIS tool belt can be th
 #  
 #### SessionID: 61719
 # Unleash the power of Power BI
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Phillip Seamark
 ## Title: Unleash the power of Power BI
@@ -270,7 +271,7 @@ And much more…..
 #  
 #### SessionID: 62482
 # Building a Centralised Database Maintenance and Monitoring Solution
-#### [Back to calendar](#SQLSaturday-#614-South-Island-NZ-2017)
+#### [Back to calendar](#nr-614)
 Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Manohar Punna
 ## Title: Building a Centralised Database Maintenance and Monitoring Solution

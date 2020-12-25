@@ -1,3 +1,4 @@
+#### Nr: 46
 #### [Back to Main list](index.md)
 # SQLSaturday #46 - Raleigh 2010
 Start Time (24h)|Speaker|Track|Title
@@ -38,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28409
 # The Dirty Dozen: PowerShell Scripts for Busy DBAs
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Aaron Nelson
 ## Title: The Dirty Dozen: PowerShell Scripts for Busy DBAs
@@ -47,7 +48,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 28555
 # Maximizing Plan Re-use in SQL 2008
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Andrew Kelly
 ## Title: Maximizing Plan Re-use in SQL 2008
@@ -56,7 +57,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28556
 # SQL Server Configuration Best Practices
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Andrew Kelly
 ## Title: SQL Server Configuration Best Practices
@@ -65,7 +66,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 28668
 # Build Your First SSIS Package 
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andy Leonard
 ## Title: Build Your First SSIS Package 
@@ -74,7 +75,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28669
 # Database Design for Developers 
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Andy Leonard
 ## Title: Database Design for Developers 
@@ -83,7 +84,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 28672
 # SSIS Design Patterns
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andy Leonard
 ## Title: SSIS Design Patterns
@@ -92,7 +93,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28916
 # XQuery Basics
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Allen White
 ## Title: XQuery Basics
@@ -101,7 +102,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29448
 #  How, where, why, and when to use Dynamic SQL
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Tim Chapman
 ## Title:  How, where, why, and when to use Dynamic SQL
@@ -110,7 +111,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29491
 # Introduction to Change Data Capture
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Chris Skorlinski
 ## Title: Introduction to Change Data Capture
@@ -119,7 +120,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29492
 # Integrating CDC and SSIS for Incremental Data Load
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Chris Skorlinski
 ## Title: Integrating CDC and SSIS for Incremental Data Load
@@ -128,7 +129,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30036
 # Windows PowerShell Best Practices for SQL DBA's
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Ed Wilson
 ## Title: Windows PowerShell Best Practices for SQL DBA's
@@ -137,7 +138,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 30053
 # Object Relational Mappers for the DBA
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Eric Humphrey
 ## Title: Object Relational Mappers for the DBA
@@ -146,7 +147,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 30189
 # Self-Service BI with PowerPivot
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Flavio Almeida
 ## Title: Self-Service BI with PowerPivot
@@ -155,7 +156,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 30227
 # Bad SQL
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Geoff Hiten
 ## Title: Bad SQL
@@ -164,7 +165,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 30228
 # Clustering for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Geoff Hiten
 ## Title: Clustering for Mere Mortals
@@ -175,7 +176,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 30262
 # Identifying and Fixing Performance Problems using 
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Grant Fritchey
 ## Title: Identifying and Fixing Performance Problems using 
@@ -184,7 +185,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30422
 # Partitioning in SQL Server 2005/2008
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jana Sattainathan
 ## Title: Partitioning in SQL Server 2005/2008
@@ -193,7 +194,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30800
 # Who Needs a Data Warehouse?
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Jessica Moss
 ## Title: Who Needs a Data Warehouse?
@@ -202,7 +203,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 30827
 # Recipe for a Happy DBA - A Guide for SQL Server De
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Jason Hall
 ## Title: Recipe for a Happy DBA - A Guide for SQL Server De
@@ -211,7 +212,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 30942
 # Processing Flat Files with SSIS
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: John Welch
 ## Title: Processing Flat Files with SSIS
@@ -220,7 +221,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30946
 # Patterns for SSIS Configuration and Deployment
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: John Welch
 ## Title: Patterns for SSIS Configuration and Deployment
@@ -229,7 +230,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31294
 # Statistics, how to prove everything but the truth.
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kevin Goode
 ## Title: Statistics, how to prove everything but the truth.
@@ -239,7 +240,7 @@ Statistics are the life blood of a cost based optimizers such as SQL Server and 
 #  
 #### SessionID: 31295
 # Embracing the CLR
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kevin Goode
 ## Title: Embracing the CLR
@@ -248,7 +249,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31687
 # Reporting Services 2008 R2, the New Stuff
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Mike Davis
 ## Title: Reporting Services 2008 R2, the New Stuff
@@ -257,7 +258,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 31688
 # Using Parameters in SQL Server Reporting Services 
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mike Davis
 ## Title: Using Parameters in SQL Server Reporting Services 
@@ -266,7 +267,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32891
 # SQL Server Performance Related DMVs 
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Sergey Pustovit
 ## Title: SQL Server Performance Related DMVs 
@@ -276,7 +277,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33067
 # Performance Tuning Made Easy
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Thomas LaRock
 ## Title: Performance Tuning Made Easy
@@ -285,7 +286,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33094
 # Document Classification using DMX in SSAS
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mark Tabladillo 
 ## Title: Document Classification using DMX in SSAS
@@ -294,7 +295,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33095
 # Data Mining with PowerPivot 2010
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mark Tabladillo 
 ## Title: Data Mining with PowerPivot 2010
@@ -303,7 +304,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33309
 # The Shade Tree Mechanic's Guide to SSAS
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Steven Wright
 ## Title: The Shade Tree Mechanic's Guide to SSAS
@@ -312,7 +313,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33540
 # Advanced TSQL Solutions
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kevin Boles
 ## Title: Advanced TSQL Solutions
@@ -321,7 +322,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33541
 # Common TSQL Programming Mistakes
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Programming Mistakes
@@ -330,7 +331,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33895
 # Attribute Discretization in Analysis Services
-#### [Back to calendar](#SQLSaturday-#46-Raleigh-2010)
+#### [Back to calendar](#nr-46)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: William E. Pearson III
 ## Title: Attribute Discretization in Analysis Services

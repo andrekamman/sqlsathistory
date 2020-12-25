@@ -1,3 +1,4 @@
+#### Nr: 236
 #### [Back to Main list](index.md)
 # SQLSaturday #236 - St. Louis 2013
 Start Time (24h)|Speaker|Track|Title
@@ -26,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10440
 # Somebody got BIDS Helper in my Data Tools
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Bill Fellows
 ## Title: Somebody got BIDS Helper in my Data Tools
@@ -44,7 +45,7 @@ Learn about this perfect combination from Meagan Longoria and Bill Fellows and y
 #  
 #### SessionID: 12544
 # It's All About the Performance, Right?
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Data Platform
 ## Speaker: David Klee
 ## Title: It's All About the Performance, Right?
@@ -53,7 +54,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Data Platform
 #  
 #### SessionID: 13720
 # SQL Server PDW 2012
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Eddie Hendrix
 ## Title: SQL Server PDW 2012
@@ -63,7 +64,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 14640
 # You're THE DBA.  Now What?
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Gill Rowley
 ## Title: You're THE DBA.  Now What?
@@ -72,7 +73,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 14916
 # Designing High-Performance Database Applications
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Dan Guzman
 ## Title: Designing High-Performance Database Applications
@@ -84,7 +85,7 @@ holistic performance perspective.
 #  
 #### SessionID: 15548
 # SQL Server on VMware, what a DBA should know
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: James Davis
 ## Title: SQL Server on VMware, what a DBA should know
@@ -93,7 +94,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 16144
 # What SQL DBAs need to know about SharePoint
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Data Platform
 ## Speaker: JD Wade
 ## Title: What SQL DBAs need to know about SharePoint
@@ -102,7 +103,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Data Platform
 #  
 #### SessionID: 16251
 # AlwaysOn, Clustering, Mirroring:  What are they?  What aren't they"
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: don conrad
 ## Title: AlwaysOn, Clustering, Mirroring:  What are they?  What aren't they"
@@ -112,7 +113,7 @@ We will address these technologies showing what they do.  We'll describe the typ
 #  
 #### SessionID: 16708
 # Database Change Management
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Jeff Fattic
 ## Title: Database Change Management
@@ -121,7 +122,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: App Dev
 #  
 #### SessionID: 18410
 # Women in Tech Panel
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Kathi Kellenberger
 ## Title: Women in Tech Panel
@@ -130,7 +131,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 18411
 # T-SQL 2012 Analytic Functions
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL 2012 Analytic Functions
@@ -139,7 +140,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: App Dev
 #  
 #### SessionID: 18957
 # Yesterday I Couldn’t Even Spell ‘DBA’.
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Larry Toothman
 ## Title: Yesterday I Couldn’t Even Spell ‘DBA’.
@@ -148,7 +149,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 20639
 # Introduction to Trace Flags
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Mike Hays
 ## Title: Introduction to Trace Flags
@@ -157,7 +158,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 20969
 # Don’t Miss Out on Excel Cube Functions
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Meagan Longoria
 ## Title: Don’t Miss Out on Excel Cube Functions
@@ -166,7 +167,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 22171
 # Implementing AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Pierre LaFromboise
 ## Title: Implementing AlwaysOn Availability Groups
@@ -175,7 +176,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 26583
 # Protecting SQL Data for Availability and DR
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Tim Plas
 ## Title: Protecting SQL Data for Availability and DR
@@ -184,7 +185,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 26870
 # Management Studio Features for Working Less and Getting More Done
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Data Platform
 ## Speaker: Tim Ford
 ## Title: Management Studio Features for Working Less and Getting More Done
@@ -193,7 +194,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Data Platform
 #  
 #### SessionID: 27099
 # SSRS Basics for the DBA
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Travis Whitley
 ## Title: SSRS Basics for the DBA
@@ -202,7 +203,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 27457
 # Data Flow Architectures in Software Development Life-Cycle
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Data Platform
 ## Speaker: Virginia Mushkatbat
 ## Title: Data Flow Architectures in Software Development Life-Cycle
@@ -211,7 +212,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Data Platform
 #  
 #### SessionID: 9168
 # Agile Database Development
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Aaron King
 ## Title: Agile Database Development
@@ -220,7 +221,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: App Dev
 #  
 #### SessionID: 9945
 # Moving Enterprise database to cloud
-#### [Back to calendar](#SQLSaturday-#236-St.-Louis-2013)
+#### [Back to calendar](#nr-236)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Andy Thiru
 ## Title: Moving Enterprise database to cloud

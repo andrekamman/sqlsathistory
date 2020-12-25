@@ -1,3 +1,4 @@
+#### Nr: 668
 #### [Back to Main list](index.md)
 # SQLSaturday #668 - Tallinn 2017
 Start Time (24h)|Speaker|Track|Title
@@ -13,7 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 67510
 # A Game of Hierarchies: Introduction to Graph Processing with SQL
-#### [Back to calendar](#SQLSaturday-#668-Tallinn-2017)
+#### [Back to calendar](#nr-668)
 Event Date: 18-11-2017 - Session time: 16:15:00 - Track: Developers
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: A Game of Hierarchies: Introduction to Graph Processing with SQL
@@ -28,7 +29,7 @@ Join this session for a journey through best practices to transform your hierarc
 #  
 #### SessionID: 67637
 # Don't cross the streams, a closer look at Azure Stream Analytics
-#### [Back to calendar](#SQLSaturday-#668-Tallinn-2017)
+#### [Back to calendar](#nr-668)
 Event Date: 18-11-2017 - Session time: 16:15:00 - Track: Developers
 ## Speaker: Johan Ludvig Brattås
 ## Title: Don't cross the streams, a closer look at Azure Stream Analytics
@@ -46,7 +47,7 @@ The session is based on real world project experiences and will use real world d
 #  
 #### SessionID: 65351
 # SQL Server 2017 New Features (Not Linux support!)
-#### [Back to calendar](#SQLSaturday-#668-Tallinn-2017)
+#### [Back to calendar](#nr-668)
 Event Date: 18-11-2017 - Session time: 16:15:00 - Track: ITPRO
 ## Speaker: David Williams
 ## Title: SQL Server 2017 New Features (Not Linux support!)
@@ -87,7 +88,7 @@ Event Date: 18-11-2017 - Session time: 16:15:00 - Track: ITPRO
 #  
 #### SessionID: 70859
 # SQL Graph Database
-#### [Back to calendar](#SQLSaturday-#668-Tallinn-2017)
+#### [Back to calendar](#nr-668)
 Event Date: 18-11-2017 - Session time: 16:15:00 - Track: Developers
 ## Speaker: Henn Sarv
 ## Title: SQL Graph Database
@@ -98,7 +99,7 @@ How to play with graphs and how the actually implemented internally
 #  
 #### SessionID: 68234
 # Hidden gems of SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#668-Tallinn-2017)
+#### [Back to calendar](#nr-668)
 Event Date: 18-11-2017 - Session time: 16:15:00 - Track: ITPRO
 ## Speaker: Denis Reznik
 ## Title: Hidden gems of SQL Server 2016
@@ -109,7 +110,7 @@ In this session, we will learn a lot about these features and improvements. Whic
 #  
 #### SessionID: 68109
 # Biml for Beginners: Speed Up Your SSIS Development
-#### [Back to calendar](#SQLSaturday-#668-Tallinn-2017)
+#### [Back to calendar](#nr-668)
 Event Date: 18-11-2017 - Session time: 16:15:00 - Track: Developers
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Speed Up Your SSIS Development
@@ -124,7 +125,7 @@ Stop wasting your valuable time on doing the same things over and over and over 
 #  
 #### SessionID: 67511
 # Create Stunning Visualizations with The Help of R
-#### [Back to calendar](#SQLSaturday-#668-Tallinn-2017)
+#### [Back to calendar](#nr-668)
 Event Date: 18-11-2017 - Session time: 16:15:00 - Track: Developers
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Create Stunning Visualizations with The Help of R
@@ -133,7 +134,7 @@ Event Date: 18-11-2017 - Session time: 16:15:00 - Track: Developers
 #  
 #### SessionID: 70844
 # Deadlocks. Everything you ever wanted to ask but were too shy.
-#### [Back to calendar](#SQLSaturday-#668-Tallinn-2017)
+#### [Back to calendar](#nr-668)
 Event Date: 18-11-2017 - Session time: 16:15:00 - Track: Developers
 ## Speaker: Denis Reznik
 ## Title: Deadlocks. Everything you ever wanted to ask but were too shy.

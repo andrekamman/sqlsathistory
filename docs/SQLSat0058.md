@@ -1,3 +1,4 @@
+#### Nr: 58
 #### [Back to Main list](index.md)
 # SQLSaturday #58 - Minnesota 2010
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 29061
 # Maintenance Plans - Lessons from the Real World
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-1
 ## Speaker: Bill Preachuk
 ## Title: Maintenance Plans - Lessons from the Real World
@@ -46,7 +47,7 @@ In this session we will dig into real-world examples of how maintenance plans br
 #  
 #### SessionID: 29074
 # Introduction to PowerPivot
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-1
 ## Speaker: Brian Knight
 ## Title: Introduction to PowerPivot
@@ -55,7 +56,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-1
 #  
 #### SessionID: 29075
 # Performance Tuning SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-1
 ## Speaker: Brian Knight
 ## Title: Performance Tuning SQL Server Integration Services
@@ -64,7 +65,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-1
 #  
 #### SessionID: 29092
 # Using Data Mining to Improve SSIS Data Loads
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-1
 ## Speaker: Brian Larson
 ## Title: Using Data Mining to Improve SSIS Data Loads
@@ -73,7 +74,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-1
 #  
 #### SessionID: 29803
 # A Single Sign-On BI Story: SAML Claims in SharePoi
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-1
 ## Speaker: David Baldauff
 ## Title: A Single Sign-On BI Story: SAML Claims in SharePoi
@@ -82,7 +83,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-1
 #  
 #### SessionID: 29880
 # Query Tuning - Get it Right the First Time
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-2
 ## Speaker: Dean Richards
 ## Title: Query Tuning - Get it Right the First Time
@@ -95,7 +96,7 @@ tuning path with no guessing.  If you are a beginner or expert, this approach wi
 #  
 #### SessionID: 29885
 # Leverage the MS BI Toolset to Monitor Performance
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-1
 ## Speaker: Dan English
 ## Title: Leverage the MS BI Toolset to Monitor Performance
@@ -104,7 +105,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-1
 #  
 #### SessionID: 30062
 # Tuning SQL Code using Logical Equivalencies
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-2
 ## Speaker: Eric Strom
 ## Title: Tuning SQL Code using Logical Equivalencies
@@ -113,7 +114,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-2
 #  
 #### SessionID: 30063
 # Table Partitions for Archiving
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: Development
 ## Speaker: Eric Zierdt
 ## Title: Table Partitions for Archiving
@@ -122,7 +123,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 30163
 # Drive SQL Server Performance: I/O For Developers
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: Development
 ## Speaker: Eddie Wuerch
 ## Title: Drive SQL Server Performance: I/O For Developers
@@ -132,7 +133,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 30164
 # Find Performance Problems by Reading the Waits
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-1
 ## Speaker: Eddie Wuerch
 ## Title: Find Performance Problems by Reading the Waits
@@ -141,7 +142,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-1
 #  
 #### SessionID: 30243
 # Self-Service Reporting/Analytics for SQL Server
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-2
 ## Speaker: Gilbert Evans
 ## Title: Self-Service Reporting/Analytics for SQL Server
@@ -155,7 +156,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-2
 #  
 #### SessionID: 30528
 # Extended Events, Work Smarter Not Harder
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-2
 ## Speaker: Jason Strate
 ## Title: Extended Events, Work Smarter Not Harder
@@ -164,7 +165,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-2
 #  
 #### SessionID: 30530
 # Using XML to Query Execution Plans
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-2
 ## Speaker: Jason Strate
 ## Title: Using XML to Query Execution Plans
@@ -173,7 +174,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-2
 #  
 #### SessionID: 31297
 # SQL Server Internals and Architecture
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-1
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals and Architecture
@@ -182,7 +183,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-1
 #  
 #### SessionID: 31298
 # Top 10 Admin Mistakes on SQL Server
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-1
 ## Speaker: Kevin Kline
 ## Title: Top 10 Admin Mistakes on SQL Server
@@ -191,7 +192,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-1
 #  
 #### SessionID: 31593
 # Intro To Reporting Services(2008 R2) Report Models
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-2
 ## Speaker: Mark Vaillancourt
 ## Title: Intro To Reporting Services(2008 R2) Report Models
@@ -200,7 +201,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-2
 #  
 #### SessionID: 31785
 # Taking your Data to SQL Azure
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: Development
 ## Speaker: Mike Benkovich
 ## Title: Taking your Data to SQL Azure
@@ -209,7 +210,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 31786
 # Programming with OData  the Microsoft Data Stack
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: Development
 ## Speaker: Mike Benkovich
 ## Title: Programming with OData  the Microsoft Data Stack
@@ -218,7 +219,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 32035
 # Answers at the speed of thought with SSAS Cubes
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-2
 ## Speaker: Mustafa Hussain
 ## Title: Answers at the speed of thought with SSAS Cubes
@@ -227,7 +228,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-2
 #  
 #### SessionID: 32656
 # Dynamic Text File Creation Via Single SSIS Package
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: Development
 ## Speaker: Ross McNeely
 ## Title: Dynamic Text File Creation Via Single SSIS Package
@@ -236,7 +237,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 32706
 # Stored procedure tracing using the xml datatype
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: Development
 ## Speaker: Russel Loski
 ## Title: Stored procedure tracing using the xml datatype
@@ -245,7 +246,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 32707
 # SSIS and SSRS Better Together
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-1
 ## Speaker: Russel Loski
 ## Title: SSIS and SSRS Better Together
@@ -254,7 +255,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-1
 #  
 #### SessionID: 33216
 # Report Lockdown: Implementing SSRS Security 
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-2
 ## Speaker: Steve Hughes
 ## Title: Report Lockdown: Implementing SSRS Security 
@@ -263,7 +264,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-2
 #  
 #### SessionID: 33574
 # Introduction To Transactional Replication
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-2
 ## Speaker: Ben Thul
 ## Title: Introduction To Transactional Replication
@@ -272,7 +273,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-2
 #  
 #### SessionID: 33575
 # Managing and Administering SQL Azure
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-1
 ## Speaker: Tim Plas
 ## Title: Managing and Administering SQL Azure
@@ -281,7 +282,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-1
 #  
 #### SessionID: 33576
 # High-Availability and DR Options for SQL Server
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-1
 ## Speaker: Tim Plas
 ## Title: High-Availability and DR Options for SQL Server
@@ -290,7 +291,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-1
 #  
 #### SessionID: 33941
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-2
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -299,7 +300,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-2
 #  
 #### SessionID: 33943
 # Documenting Your Integrated Microsoft BI Solution
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-2
 ## Speaker: William E Pearson III
 ## Title: Documenting Your Integrated Microsoft BI Solution
@@ -308,7 +309,7 @@ Event Date: 29-10-2010 - Session time: 00:00:00 - Track: BI-2
 #  
 #### SessionID: 34521
 # Powershell Eye for the Monitoring Guy.
-#### [Back to calendar](#SQLSaturday-#58-Minnesota-2010)
+#### [Back to calendar](#nr-58)
 Event Date: 29-10-2010 - Session time: 00:00:00 - Track: DBA-2
 ## Speaker: Zach Mattson
 ## Title: Powershell Eye for the Monitoring Guy.

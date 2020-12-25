@@ -1,3 +1,4 @@
+#### Nr: 304
 #### [Back to Main list](index.md)
 # SQLSaturday #304 - Indianapolis 2014
 Start Time (24h)|Speaker|Track|Title
@@ -43,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10618
 # The User Experience of Data Systems
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Lannister
 ## Speaker: Bradley Nielsen
 ## Title: The User Experience of Data Systems
@@ -52,7 +53,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Lannister
 #  
 #### SessionID: 10771
 # Database Unit Testing
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Baratheon
 ## Speaker: Brian Beswick
 ## Title: Database Unit Testing
@@ -61,7 +62,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Baratheon
 #  
 #### SessionID: 11212
 # Advanced Performance Tuning Tips with Database Performance Analyzer (formerly Confio Ignite) 
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Stark
 ## Speaker: Carlos  Parra
 ## Title: Advanced Performance Tuning Tips with Database Performance Analyzer (formerly Confio Ignite) 
@@ -70,7 +71,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Stark
 #  
 #### SessionID: 12323
 # Change Data Capture - What is it and Why I should use it
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Drogo
 ## Speaker: Dave Bland
 ## Title: Change Data Capture - What is it and Why I should use it
@@ -79,7 +80,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Drogo
 #  
 #### SessionID: 13302
 # DBA 911 - Database Corruption
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Snow
 ## Speaker: David Maxwell
 ## Title: DBA 911 - Database Corruption
@@ -89,7 +90,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Snow
 #  
 #### SessionID: 13603
 # How to start with XML
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Baratheon
 ## Speaker: Alan Dykes
 ## Title: How to start with XML
@@ -98,7 +99,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Baratheon
 #  
 #### SessionID: 13934
 # Making the Leap from Profiler to Extended Events
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Targaryen
 ## Speaker: Erin Stellato
 ## Title: Making the Leap from Profiler to Extended Events
@@ -107,7 +108,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Targaryen
 #  
 #### SessionID: 14115
 # The Guts of Data Manipulation
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Stark
 ## Speaker: Eddie Wuerch
 ## Title: The Guts of Data Manipulation
@@ -116,7 +117,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Stark
 #  
 #### SessionID: 14298
 # DIY Geocoding
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Targaryen
 ## Speaker: Frank Murphy
 ## Title: DIY Geocoding
@@ -125,7 +126,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Targaryen
 #  
 #### SessionID: 16147
 # What SQL DBAs need to know about SharePoint
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Lannister
 ## Speaker: JD Wade
 ## Title: What SQL DBAs need to know about SharePoint
@@ -134,7 +135,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Lannister
 #  
 #### SessionID: 16152
 # Building Perfect SQL Servers, Every Time
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Snow
 ## Speaker: Joseph D'Antoni
 ## Title: Building Perfect SQL Servers, Every Time
@@ -147,7 +148,7 @@ You will also learn how use these same methods to ensure your own server build c
 #  
 #### SessionID: 16153
 # Power BI in the Fast Lane--Visualizing Formula 1
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Drogo
 ## Speaker: Joseph D'Antoni
 ## Title: Power BI in the Fast Lane--Visualizing Formula 1
@@ -156,7 +157,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Drogo
 #  
 #### SessionID: 16754
 # Transforming Data using the T-SQL PIVOT / UNPIVOT operators
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Baratheon
 ## Speaker: Jeff Foushee
 ## Title: Transforming Data using the T-SQL PIVOT / UNPIVOT operators
@@ -165,7 +166,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Baratheon
 #  
 #### SessionID: 17477
 # Azure Development - Soup to Nuts
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Baratheon
 ## Speaker: Joe Mack
 ## Title: Azure Development - Soup to Nuts
@@ -174,7 +175,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Baratheon
 #  
 #### SessionID: 18435
 # Writing Better T-SQL Queries with Window Functions
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Targaryen
 ## Speaker: Kathi Kellenberger
 ## Title: Writing Better T-SQL Queries with Window Functions
@@ -185,7 +186,7 @@ This session will teach you how to get great performance, avoid cursor solutions
 #  
 #### SessionID: 18436
 # T-SQL Window Function Performance
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Snow
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Performance
@@ -194,7 +195,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Snow
 #  
 #### SessionID: 18437
 # Women in Tech Panel
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Snow
 ## Speaker: Kathi Kellenberger
 ## Title: Women in Tech Panel
@@ -203,7 +204,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Snow
 #  
 #### SessionID: 21768
 # Why Re-Invent the Wheel?  Build One Solution to Import/ Export Data
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Drogo
 ## Speaker: Patrick Brewer
 ## Title: Why Re-Invent the Wheel?  Build One Solution to Import/ Export Data
@@ -212,7 +213,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Drogo
 #  
 #### SessionID: 22635
 # Getting Started with Hekaton (In-Memory OLTP)
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Drogo
 ## Speaker: Brian Davis
 ## Title: Getting Started with Hekaton (In-Memory OLTP)
@@ -221,7 +222,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Drogo
 #  
 #### SessionID: 23261
 # Power Power Query Query! (With Julie Smith and Rob
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Stark
 ## Speaker: Rob Volk
 ## Title: Power Power Query Query! (With Julie Smith and Rob
@@ -230,7 +231,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Stark
 #  
 #### SessionID: 24065
 # Getting Started With Execution Plans
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Stark
 ## Speaker: Scott Fallen
 ## Title: Getting Started With Execution Plans
@@ -241,7 +242,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Stark
 #  
 #### SessionID: 24235
 # A Better Introduction to Tabular Mode in SSAS
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Baratheon
 ## Speaker: Scott Nei
 ## Title: A Better Introduction to Tabular Mode in SSAS
@@ -253,7 +254,7 @@ If you've been left confused by filter context, nested DAX measures, or the CALC
 #  
 #### SessionID: 24524
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Baratheon
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -262,7 +263,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Baratheon
 #  
 #### SessionID: 24591
 # Interrogating the Transaction Log 
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Snow
 ## Speaker: Frank Gill
 ## Title: Interrogating the Transaction Log 
@@ -272,7 +273,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Snow
 #  
 #### SessionID: 24881
 # Every Byte Counts: Why Your Data Type Choices Matter
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Stark
 ## Speaker: Andy Yun
 ## Title: Every Byte Counts: Why Your Data Type Choices Matter
@@ -281,7 +282,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Stark
 #  
 #### SessionID: 24896
 # Self Service Pitfalls 
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Lannister
 ## Speaker: David Ortiz
 ## Title: Self Service Pitfalls 
@@ -290,7 +291,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Lannister
 #  
 #### SessionID: 26009
 # 45 min to build your first SSRS report
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Targaryen
 ## Speaker: Tamera Clark
 ## Title: 45 min to build your first SSRS report
@@ -299,7 +300,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Targaryen
 #  
 #### SessionID: 26385
 # SQL Injection
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Lannister
 ## Speaker: Kevin Boles
 ## Title: SQL Injection
@@ -308,7 +309,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Lannister
 #  
 #### SessionID: 26388
 # SQL Server Defaults SUCK!!
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Snow
 ## Speaker: Kevin Boles
 ## Title: SQL Server Defaults SUCK!!
@@ -317,7 +318,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Snow
 #  
 #### SessionID: 27559
 # DBA Monitoring and Maintenance Fundamentals
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Snow
 ## Speaker: Warren Sifre
 ## Title: DBA Monitoring and Maintenance Fundamentals
@@ -326,7 +327,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Snow
 #  
 #### SessionID: 8937
 # Better Decision Making with Power BI
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Stark
 ## Speaker: Aaron Crouch
 ## Title: Better Decision Making with Power BI
@@ -335,7 +336,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Stark
 #  
 #### SessionID: 8940
 # T-SQL Tips  Tricks Part 2
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Targaryen
 ## Speaker: Aaron Cutshall
 ## Title: T-SQL Tips  Tricks Part 2
@@ -344,7 +345,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Targaryen
 #  
 #### SessionID: 8942
 # The Lost Science of Set Theory
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Targaryen
 ## Speaker: Aaron Cutshall
 ## Title: The Lost Science of Set Theory
@@ -353,7 +354,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Targaryen
 #  
 #### SessionID: 9087
 # 45 Minutes to Your First SSAS Tabular Model
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Stark
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First SSAS Tabular Model
@@ -363,7 +364,7 @@ SSAS Tabular is a new form of business intelligence model released with SQL Serv
 #  
 #### SessionID: 9598
 # Creating Access 2013 web apps on SharePoint using SQL Azure
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Drogo
 ## Speaker: Andy Tabisz
 ## Title: Creating Access 2013 web apps on SharePoint using SQL Azure
@@ -372,7 +373,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Drogo
 #  
 #### SessionID: 9680
 # Addressing Trends In Big Data with APS
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Lannister
 ## Speaker: Anthony Mattas
 ## Title: Addressing Trends In Big Data with APS
@@ -382,7 +383,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Lannister
 #  
 #### SessionID: 9833
 # Everything Columnstore!
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Drogo
 ## Speaker: Arie Jones
 ## Title: Everything Columnstore!
@@ -391,7 +392,7 @@ Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Drogo
 #  
 #### SessionID: 9978
 # Manage SQLServer Efficiently w/PowerShell Remoting
-#### [Back to calendar](#SQLSaturday-#304-Indianapolis-2014)
+#### [Back to calendar](#nr-304)
 Event Date: 09-08-2014 - Session time: 00:00:00 - Track: Lannister
 ## Speaker: Allen White
 ## Title: Manage SQLServer Efficiently w/PowerShell Remoting

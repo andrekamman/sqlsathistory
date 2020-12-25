@@ -1,3 +1,4 @@
+#### Nr: 1019
 #### [Back to Main list](index.md)
 # SQLSaturday #1019 – Singapore – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -26,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 108790
 # Deploy Azure SQL with Cloud IaC using Terraform
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Manohar Punna
 ## Title: Deploy Azure SQL with Cloud IaC using Terraform
@@ -36,7 +37,7 @@ DevOps and deployability of resources as needed have become even more critical w
 #  
 #### SessionID: 108840
 # The Transaction Log and How It Affects HA/DR
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Edwin M Sarmiento
 ## Title: The Transaction Log and How It Affects HA/DR
@@ -45,7 +46,7 @@ Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 108936
 # What is Tabular Editor and how can it help me with Power BI?
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Gilbert Quevauvilliers
 ## Title: What is Tabular Editor and how can it help me with Power BI?
@@ -72,7 +73,7 @@ In this session I will cover the following items
 #  
 #### SessionID: 108595
 # How to Maintain the Same Level of Utilities in Cloud Deployments - Securability, Reliability and Sca
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Denny Cherry
 ## Title: How to Maintain the Same Level of Utilities in Cloud Deployments - Securability, Reliability and Sca
@@ -81,7 +82,7 @@ Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 108885
 # T-SQL Basics: Coding for performance
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Eduardo Pivaral
 ## Title: T-SQL Basics: Coding for performance
@@ -92,7 +93,7 @@ In this session, we will learn some basic tips to improve our code and improve d
 #  
 #### SessionID: 108886
 # Exploring Window Functions
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Martin Catherall
 ## Title: Exploring Window Functions
@@ -105,7 +106,7 @@ Come along to this session and see a deep dive into window functions and learn h
 #  
 #### SessionID: 108601
 # Kusto Query Language (KQL) in Azure Data Studio
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Julie Koesmarno
 ## Title: Kusto Query Language (KQL) in Azure Data Studio
@@ -114,7 +115,7 @@ Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 108614
 # Machine Learning Like Never Before - Azure Machine Learning Service
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dinesh Priyankara
 ## Title: Machine Learning Like Never Before - Azure Machine Learning Service
@@ -123,7 +124,7 @@ Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 108618
 # SharePoint Data and Power Apps – Better Together
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Aroh Shukla
 ## Title: SharePoint Data and Power Apps – Better Together
@@ -132,7 +133,7 @@ Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 108611
 # Monitoring SQL Server using Community solutions (Free)
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Javier Villegas
 ## Title: Monitoring SQL Server using Community solutions (Free)
@@ -141,7 +142,7 @@ Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 108632
 # Blockchain It's all about Data !!
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mohammad Asif Waquar
 ## Title: Blockchain It's all about Data !!
@@ -150,7 +151,7 @@ Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 108745
 # Tips and Tricks for Using SQL Server Management Studio Effectively
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Greg Low
 ## Title: Tips and Tricks for Using SQL Server Management Studio Effectively
@@ -159,7 +160,7 @@ Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 108612
 # Whats new with OSS Databases on Azure
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Naginder Singh Virdi
 ## Title: Whats new with OSS Databases on Azure
@@ -168,7 +169,7 @@ Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 108629
 # Let's Make Semantic Models Simpler using Calculation Groups in SSAS Tabular
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Nisal Mihiranga
 ## Title: Let's Make Semantic Models Simpler using Calculation Groups in SSAS Tabular
@@ -177,7 +178,7 @@ Event Date: 28-11-2020 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 109003
 # Sneak Peek at SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dharmendra Keshari
 ## Title: Sneak Peek at SQL Server 2019
@@ -193,7 +194,7 @@ Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 108593
 # Secure multiparty Machine Learning with SQL Server Always Encrypted with Secure Enclaves
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Stefano Tempesta
 ## Title: Secure multiparty Machine Learning with SQL Server Always Encrypted with Secure Enclaves
@@ -205,7 +206,7 @@ This session presents the benefits of Confidential Computing in an ML scenario, 
 #  
 #### SessionID: 108704
 # Introduction to SQL SERVER 2019 ML Services
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Other
 ## Speaker: M A A Mehedi Hasan
 ## Title: Introduction to SQL SERVER 2019 ML Services
@@ -214,7 +215,7 @@ Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Other
 #  
 #### SessionID: 108799
 # Automating the deployment of Linux VMs with SQL Server through Ansible
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Murilo Miranda
 ## Title: Automating the deployment of Linux VMs with SQL Server through Ansible
@@ -225,7 +226,7 @@ In this session, I will show you how Ansible can help us create VMs on Azure, ad
 #  
 #### SessionID: 108627
 # Daily indexing problems and its - possible - solution
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Uwe Ricken
 ## Title: Daily indexing problems and its - possible - solution
@@ -240,7 +241,7 @@ Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 108647
 # The Untruthful Art - Five Ways of Misrepresenting Data
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: Information Delivery
 ## Speaker: Alexander Arvidsson
 ## Title: The Untruthful Art - Five Ways of Misrepresenting Data
@@ -251,7 +252,7 @@ Just like any other tools, however, it can be used for sinister purposes. This s
 #  
 #### SessionID: 108756
 # My Power BI Report is Slow: What Should I Do?
-#### [Back to calendar](#SQLSaturday-#1019-–-Singapore-–-Virtual-2020)
+#### [Back to calendar](#nr-1019)
 Event Date: 28-11-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Russo
 ## Title: My Power BI Report is Slow: What Should I Do?

@@ -1,3 +1,4 @@
+#### Nr: 349
 #### [Back to Main list](index.md)
 # SQLSaturday #349 - Salt Lake City 2014
 Start Time (24h)|Speaker|Track|Title
@@ -31,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10283
 # TSQL Best Practices for SQL Engine Kindness
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 3180
 ## Speaker: Ben Miller
 ## Title: TSQL Best Practices for SQL Engine Kindness
@@ -40,7 +41,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 3180
 #  
 #### SessionID: 10285
 # PoShDBA: Practical PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 5180
 ## Speaker: Ben Miller
 ## Title: PoShDBA: Practical PowerShell for the DBA
@@ -49,7 +50,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 5180
 #  
 #### SessionID: 10869
 # SQL 2012 Extended Events
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 3160
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Extended Events
@@ -58,7 +59,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 3160
 #  
 #### SessionID: 10870
 # Reporting Services for Mere DBAs
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 3160
 ## Speaker: Jason Brimhall
 ## Title: Reporting Services for Mere DBAs
@@ -67,7 +68,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 3160
 #  
 #### SessionID: 15732
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 170
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
@@ -76,7 +77,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 170
 #  
 #### SessionID: 16853
 # Columnstore Indexes in SQL Server 2014: Flipping the DW /faster Bit
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 160
 ## Speaker: Jimmy May
 ## Title: Columnstore Indexes in SQL Server 2014: Flipping the DW /faster Bit
@@ -85,7 +86,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 160
 #  
 #### SessionID: 16854
 # To The Cloud, Infinity,  Beyond: Top 10 Lessons Learned at MSIT
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 160
 ## Speaker: Jimmy May
 ## Title: To The Cloud, Infinity,  Beyond: Top 10 Lessons Learned at MSIT
@@ -98,7 +99,7 @@ As part of the team leading the migration effort from Microsoft IT's on-prem ser
 #  
 #### SessionID: 17303
 # Master Data Management - Getting Started with SQL Server MDS
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 1170
 ## Speaker: John McAllister
 ## Title: Master Data Management - Getting Started with SQL Server MDS
@@ -107,7 +108,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 1170
 #  
 #### SessionID: 20599
 # The Augean Stables:  Data Cleansing in the Modern Enterprise
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 3160
 ## Speaker: Michael Sexton
 ## Title: The Augean Stables:  Data Cleansing in the Modern Enterprise
@@ -122,7 +123,7 @@ Database professionals in Greece circa 600 BCE may have access to the Alpheus an
 #  
 #### SessionID: 21165
 # Simple things you can do to make  the Query Optimizer more efficient!
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 170
 ## Speaker: Mike Tutor
 ## Title: Simple things you can do to make  the Query Optimizer more efficient!
@@ -131,7 +132,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 170
 #  
 #### SessionID: 22576
 # Understanding Transaction Isolation Levels
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 1170
 ## Speaker: Randy Knight
 ## Title: Understanding Transaction Isolation Levels
@@ -141,7 +142,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 1170
 #  
 #### SessionID: 22579
 # Understanding SQL Server XML Features 
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 3170
 ## Speaker: Randy Knight
 ## Title: Understanding SQL Server XML Features 
@@ -150,7 +151,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 3170
 #  
 #### SessionID: 22781
 # Increase your SSIS productivity with Biml
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 160
 ## Speaker: Reeves Smith
 ## Title: Increase your SSIS productivity with Biml
@@ -162,7 +163,7 @@ This session will be a demo based session that will inspire you to make Biml you
 #  
 #### SessionID: 23598
 # Make SQL Server Management Studio Bark Like a Dog
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 3160
 ## Speaker: Russ Thomas
 ## Title: Make SQL Server Management Studio Bark Like a Dog
@@ -171,7 +172,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 3160
 #  
 #### SessionID: 24060
 # Understanding Your Processes Through Operation Intelligence
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 5180
 ## Speaker: Scott Heffron
 ## Title: Understanding Your Processes Through Operation Intelligence
@@ -180,7 +181,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 5180
 #  
 #### SessionID: 24879
 # Integrate SQL Server with hadoop
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 5180
 ## Speaker: Pat Wright
 ## Title: Integrate SQL Server with hadoop
@@ -189,7 +190,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 5180
 #  
 #### SessionID: 26564
 # Fun with Availability Groups
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 170
 ## Speaker: Christopher Wolff
 ## Title: Fun with Availability Groups
@@ -198,7 +199,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 170
 #  
 #### SessionID: 26912
 # Database Release Management: Tips to help organize it
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 3170
 ## Speaker: TJay Belt
 ## Title: Database Release Management: Tips to help organize it
@@ -207,7 +208,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 3170
 #  
 #### SessionID: 27756
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 1170
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -216,7 +217,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 1170
 #  
 #### SessionID: 27757
 # Windowing Functions in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 1170
 ## Speaker: Wayne Sheffield
 ## Title: Windowing Functions in SQL Server 2012
@@ -225,7 +226,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 1170
 #  
 #### SessionID: 28230
 # SQL Query Tuning
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 160
 ## Speaker: Willis Godwin
 ## Title: SQL Query Tuning
@@ -237,7 +238,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 160
 #  
 #### SessionID: 34909
 # Handling database evolution with Liquibase
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 110
 ## Speaker: David Gonzalez
 ## Title: Handling database evolution with Liquibase
@@ -246,7 +247,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 110
 #  
 #### SessionID: 34910
 # Unstructured Data  Deep Learning
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 3170
 ## Speaker: David Gonzalez
 ## Title: Unstructured Data  Deep Learning
@@ -255,7 +256,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 3170
 #  
 #### SessionID: 8945
 # The Lost Science of Set Theory
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 1180
 ## Speaker: Aaron Cutshall
 ## Title: The Lost Science of Set Theory
@@ -264,7 +265,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 1180
 #  
 #### SessionID: 9351
 # Database Decoder Ring
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 180
 ## Speaker: Andrea Allred
 ## Title: Database Decoder Ring
@@ -273,7 +274,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 180
 #  
 #### SessionID: 9859
 # I’m New, Select Me!
-#### [Back to calendar](#SQLSaturday-#349-Salt-Lake-City-2014)
+#### [Back to calendar](#nr-349)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Room 180
 ## Speaker: Thomas Norman
 ## Title: I’m New, Select Me!

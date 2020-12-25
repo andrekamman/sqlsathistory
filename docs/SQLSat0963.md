@@ -1,3 +1,4 @@
+#### Nr: 963
 #### [Back to Main list](index.md)
 # SQLSaturday #963 – Denmark – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -34,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 100909
 # Database CI/CD with Containers and Azure DevOps
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Data Platform
 ## Speaker: Chris Taylor
 ## Title: Database CI/CD with Containers and Azure DevOps
@@ -50,7 +51,7 @@ To get the most out of this session a basic understanding of what Docker/Contain
 #  
 #### SessionID: 101013
 # Common Data Service, why is it not common yet?
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
 ## Speaker: Hylke Peek
 ## Title: Common Data Service, why is it not common yet?
@@ -61,7 +62,7 @@ In this session, we have a good look at CDS and find his strengths and weaknesse
 #  
 #### SessionID: 101154
 # A Form, a Flow and a Power BI Streaming Dataset Walk Into a Bar
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Power BI
 ## Speaker: Nicky van Vroenhoven
 ## Title: A Form, a Flow and a Power BI Streaming Dataset Walk Into a Bar
@@ -78,7 +79,7 @@ But as I work with the Power Platform suite of products I thought it was a good 
 #  
 #### SessionID: 101752
 # Easing the pain of database migrations to the cloud - Planning, process and great tools!
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Cloud Development
 ## Speaker: Rune Ovlien Rakeie
 ## Title: Easing the pain of database migrations to the cloud - Planning, process and great tools!
@@ -93,7 +94,7 @@ In this talk we will:
 #  
 #### SessionID: 107520
 # How does Azure Cosmos DB work under the hood?
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure DB
 ## Speaker: Hasan Savran
 ## Title: How does Azure Cosmos DB work under the hood?
@@ -103,7 +104,7 @@ Learning new technologies make you a better leader and collaborator. Join me to 
 #  
 #### SessionID: 100922
 # Creating an modern data platform in the cloud
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
 ## Speaker: Johan Ludvig Brattås
 ## Title: Creating an modern data platform in the cloud
@@ -112,7 +113,7 @@ Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
 #  
 #### SessionID: 100954
 # Azure DevOps duet (90 minutes version)
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Cloud Development
 ## Speaker: Kevin Chant
 ## Title: Azure DevOps duet (90 minutes version)
@@ -133,7 +134,7 @@ After this session you will have the tools and knowledge to get started with Dev
 #  
 #### SessionID: 100964
 # Analyze and solve common wait stats scenarios
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Data Platform
 ## Speaker: Uwe Ricken
 ## Title: Analyze and solve common wait stats scenarios
@@ -147,7 +148,7 @@ Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Data Platform
 #  
 #### SessionID: 102502
 # How to get the most from Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure DB
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: How to get the most from Azure SQL Database
@@ -158,7 +159,7 @@ We will also see some ways to lower the costs or increase performance without ha
 #  
 #### SessionID: 103284
 # Datastorytelling  Visualization Best Practices with PowerBi
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Power BI
 ## Speaker: Lorenzo Vercellati
 ## Title: Datastorytelling  Visualization Best Practices with PowerBi
@@ -167,7 +168,7 @@ Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Power BI
 #  
 #### SessionID: 100917
 # Getting Started with Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure DB
 ## Speaker: John Martin
 ## Title: Getting Started with Azure SQL Database
@@ -178,7 +179,7 @@ In this session I will explain the differences between SQL Database, Managed Ins
 #  
 #### SessionID: 101562
 # What's New in Tabular Editor
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
 ## Speaker: Daniel Otykier
 ## Title: What's New in Tabular Editor
@@ -187,7 +188,7 @@ Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
 #  
 #### SessionID: 101943
 # What's Going On in My Power BI Environment?
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Power BI
 ## Speaker: Asgeir Gunnarsson
 ## Title: What's Going On in My Power BI Environment?
@@ -198,7 +199,7 @@ In this session, we will look at how you can find those answers by monitoring Po
 #  
 #### SessionID: 107537
 # The Battle of Modern Data Architectures: Databricks vs Synapse vs ADF
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Data Platform
 ## Speaker: Dave Ruijter
 ## Title: The Battle of Modern Data Architectures: Databricks vs Synapse vs ADF
@@ -207,7 +208,7 @@ Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Data Platform
 #  
 #### SessionID: 100916
 # Infrastructure as Code: An Introduction to Terraform
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Cloud Development
 ## Speaker: John Martin
 ## Title: Infrastructure as Code: An Introduction to Terraform
@@ -218,7 +219,7 @@ Together we will work through the what, why, and how of infrastructure automatio
 #  
 #### SessionID: 102871
 # Power BI Paginated Reports - How to and why should I care
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Power BI
 ## Speaker: Erik Svensen
 ## Title: Power BI Paginated Reports - How to and why should I care
@@ -231,7 +232,7 @@ I will also show how you can use paginated reports without having a Power BI pre
 #  
 #### SessionID: 107465
 # Continuous Integration for the BI Developer
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
 ## Speaker: Wolfgang Strasser
 ## Title: Continuous Integration for the BI Developer
@@ -243,7 +244,7 @@ After this 60 minutes you'll have the guidelines and some ideas how easy it is t
 #  
 #### SessionID: 107466
 # Azure SQL || SQL Server || Which one is right for me?
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure DB
 ## Speaker: Tariq Younas
 ## Title: Azure SQL || SQL Server || Which one is right for me?
@@ -252,7 +253,7 @@ Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure DB
 #  
 #### SessionID: 107510
 # From SQL to R – Leverage Your T-SQL Knowledge to Learn R
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Data Platform
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: From SQL to R – Leverage Your T-SQL Knowledge to Learn R
@@ -262,7 +263,7 @@ This session will kick you off to the new language by using analogies from T-SQL
 #  
 #### SessionID: 101091
 # Introduction to building Machine Learning pipelines and models using ML.NET
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Cloud Development
 ## Speaker: Will Velida
 ## Title: Introduction to building Machine Learning pipelines and models using ML.NET
@@ -277,7 +278,7 @@ By the end of the session, you'll know how you can leverage your existing C# ski
 #  
 #### SessionID: 101322
 # Why Synapse Analytics is beyond Azure SQL Datawarehouse
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
 ## Speaker: Dennes Torres
 ## Title: Why Synapse Analytics is beyond Azure SQL Datawarehouse
@@ -286,7 +287,7 @@ Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
 #  
 #### SessionID: 103577
 # SQL Notebooks in Azure Data Studio for the DBA
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure DB
 ## Speaker: Rob Sewell
 ## Title: SQL Notebooks in Azure Data Studio for the DBA
@@ -303,7 +304,7 @@ Prerequisites: Not having pogonophobia
 #  
 #### SessionID: 107523
 # Azure Key Vault, Azure Dev Ops and Data Factory how do these Azur
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Data Platform
 ## Speaker: Erwin De Kreuk
 ## Title: Azure Key Vault, Azure Dev Ops and Data Factory how do these Azur
@@ -314,7 +315,7 @@ During this session I will give answers on all of these questions. You will lear
 #  
 #### SessionID: 107536
 # Using calculation groups in DAX
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Power BI
 ## Speaker: Marco Russo
 ## Title: Using calculation groups in DAX
@@ -324,7 +325,7 @@ This session introduces the syntax of calculation groups, when they should be us
 #  
 #### SessionID: 101033
 # Top 5 Skills that a DBA will need in 2020
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure DB
 ## Speaker: Gethyn Ellis
 ## Title: Top 5 Skills that a DBA will need in 2020
@@ -340,7 +341,7 @@ If you want to get my take on what skills a DBA needs to have in the Roaring 20s
 #  
 #### SessionID: 102806
 # Advancing Databricks - Next Level ETL
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
 ## Speaker: Simon Whiteley
 ## Title: Advancing Databricks - Next Level ETL
@@ -362,7 +363,7 @@ We'll be doing everything in python, so a light familiarity will help but is not
 #  
 #### SessionID: 107462
 # The modern Cloud Data Warehouse - Snowflake on Azure
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Data Platform
 ## Speaker: Koen Verbeeck
 ## Title: The modern Cloud Data Warehouse - Snowflake on Azure
@@ -373,7 +374,7 @@ Snowflake is a vendor offering a native cloud data warehouse, hosted on Azure. I
 #  
 #### SessionID: 107529
 # External Tools for Power BI, how to create them!
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Power BI
 ## Speaker: Marc Lelijveld
 ## Title: External Tools for Power BI, how to create them!
@@ -384,7 +385,7 @@ In this session I will show you how I build my model documentation external tool
 #  
 #### SessionID: 107901
 # Synapse Beyond the Data Warehouse
-#### [Back to calendar](#SQLSaturday-#963-–-Denmark-–-Virtual-2020)
+#### [Back to calendar](#nr-963)
 Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Cloud Development
 ## Speaker: Andreas Bergstedt
 ## Title: Synapse Beyond the Data Warehouse

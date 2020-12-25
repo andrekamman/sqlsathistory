@@ -1,3 +1,4 @@
+#### Nr: 289
 #### [Back to Main list](index.md)
 # SQLSaturday #289 - Orange County, CA 2014
 Start Time (24h)|Speaker|Track|Title
@@ -45,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10153
 # Trimming Indexes Getting Your Database In Shape
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bradley Ball
 ## Title: Trimming Indexes Getting Your Database In Shape
@@ -54,7 +55,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10155
 # SQL Server 2014: A First Look at What’s New!
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bradley Ball
 ## Title: SQL Server 2014: A First Look at What’s New!
@@ -63,7 +64,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10352
 # Defeating the Limitations of the Query Optimizer
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Benjamin Nevarez
 ## Title: Defeating the Limitations of the Query Optimizer
@@ -72,7 +73,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 10353
 # Understanding Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
@@ -81,7 +82,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 10709
 # Faster  Leaner: Optimize DW Solution Delivery with Power Pivot and AS Tabular
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Brent Greenwood
 ## Title: Faster  Leaner: Optimize DW Solution Delivery with Power Pivot and AS Tabular
@@ -92,7 +93,7 @@ We'll touch on Agile  Lean disciplines,  how they can be applied to DW solution 
 #  
 #### SessionID: 12141
 # SQL Server 2014 for Hybrid Cloud 
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Dania Jones
 ## Title: SQL Server 2014 for Hybrid Cloud 
@@ -101,7 +102,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 12808
 # Turbo Charged SQL Development With SQL#
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Sumlin
 ## Title: Turbo Charged SQL Development With SQL#
@@ -110,7 +111,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13418
 # SQL Server Security 101
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Diana Dee
 ## Title: SQL Server Security 101
@@ -123,7 +124,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 15818
 # Advanced Spatial Analysis: Beyond Bubble Charts
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jason Horner
 ## Title: Advanced Spatial Analysis: Beyond Bubble Charts
@@ -132,7 +133,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 16328
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
@@ -141,7 +142,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 16331
 # How to be a GREAT DBA
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Jeffrey Garbus
 ## Title: How to be a GREAT DBA
@@ -153,7 +154,7 @@ Great for beginner to intermediate DBAs, as well as Developers who think this is
 #  
 #### SessionID: 16811
 # AlwaysOn - Finally, A usable 'mirror'!
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Jim Murphy
 ## Title: AlwaysOn - Finally, A usable 'mirror'!
@@ -162,7 +163,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 16812
 # Mission Possible: Interactive Performance Troubleshooting - Indexes
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Jim Murphy
 ## Title: Mission Possible: Interactive Performance Troubleshooting - Indexes
@@ -171,7 +172,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 16813
 # Mission Possible: Interactive Performance Troubleshooting - TSQL
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Jim Murphy
 ## Title: Mission Possible: Interactive Performance Troubleshooting - TSQL
@@ -180,7 +181,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 17608
 # Huhadoop?
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Joe Rossi
 ## Title: Huhadoop?
@@ -189,7 +190,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17872
 # 10 Things I Hate About Interviewing with You
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Karen Lopez
 ## Title: 10 Things I Hate About Interviewing with You
@@ -198,7 +199,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 17874
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -207,7 +208,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19243
 # Practical Big Data Solutions
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Lakshmi Randall
 ## Title: Practical Big Data Solutions
@@ -230,7 +231,7 @@ The purpose of this presentation is to provide a practical checklist for plannin
 #  
 #### SessionID: 19244
 # Under the hood of Power BI - Part I
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Lakshmi Randall
 ## Title: Under the hood of Power BI - Part I
@@ -243,7 +244,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19245
 # Under the hood of Power BI - Part II
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Lakshmi Randall
 ## Title: Under the hood of Power BI - Part II
@@ -255,7 +256,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19753
 # The 10 Commandments of ETL
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Martin Schoombee
 ## Title: The 10 Commandments of ETL
@@ -266,7 +267,7 @@ In this session I will share the 10 basic principles I follow when developing ET
 #  
 #### SessionID: 19754
 # Designing and Loading Slowly Changing Dimensions
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Martin Schoombee
 ## Title: Designing and Loading Slowly Changing Dimensions
@@ -279,7 +280,7 @@ Afterwards, we will walk through a practical and effective method (with code) to
 #  
 #### SessionID: 20394
 # Creating SSRS Reports Efficiently Through Best Practices
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mickey Stuewe
 ## Title: Creating SSRS Reports Efficiently Through Best Practices
@@ -289,7 +290,7 @@ Reports don’t stop changing once they’re released into production, and some 
 #  
 #### SessionID: 20395
 # Changing Your Habits to Improve the Performance of Your T-SQL
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mickey Stuewe
 ## Title: Changing Your Habits to Improve the Performance of Your T-SQL
@@ -298,7 +299,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21024
 # SQL Server's In Memory Database Objects
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Denny Cherry
 ## Title: SQL Server's In Memory Database Objects
@@ -307,7 +308,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21027
 # Storage For the DBA
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Denny Cherry
 ## Title: Storage For the DBA
@@ -316,7 +317,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22916
 # Battle of the Finch Bots
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Jeff Renz
 ## Title: Battle of the Finch Bots
@@ -325,7 +326,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 23160
 # Column Store Index: Practical analytics on a relational database
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Robert Hatton
 ## Title: Column Store Index: Practical analytics on a relational database
@@ -334,7 +335,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 25147
 # Database Design: Size DOES Matter
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Thomas LaRock
 ## Title: Database Design: Size DOES Matter
@@ -343,7 +344,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 25793
 # Using PowerPivot to Drive Quality into ETL Processes
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Steve Hughes
 ## Title: Using PowerPivot to Drive Quality into ETL Processes
@@ -352,7 +353,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 25795
 # A Window into Your Data: Using SQL Window Function
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Steve Hughes
 ## Title: A Window into Your Data: Using SQL Window Function
@@ -361,7 +362,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 26008
 # 45 min to build your first SSRS report
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Tamera Clark
 ## Title: 45 min to build your first SSRS report
@@ -370,7 +371,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 26571
 # Baseline,  Like a Boss
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Tim Hidalgo
 ## Title: Baseline,  Like a Boss
@@ -379,7 +380,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 27451
 # Testing with SSIS
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Virginia Mushkatbat
 ## Title: Testing with SSIS
@@ -388,7 +389,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 34668
 # Master Data Services - 4 Key Features in 60 Minutes
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: John McAllister
 ## Title: Master Data Services - 4 Key Features in 60 Minutes
@@ -397,7 +398,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 34669
 # Master Data Management - Getting Started with SQL Server MDS
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: John McAllister
 ## Title: Master Data Management - Getting Started with SQL Server MDS
@@ -408,7 +409,7 @@ After we've set the stage for what, how and why you need MDM, we'll take a brief
 #  
 #### SessionID: 9083
 # Manageable SSAS Deployment Strategies
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Kerry Tyler
 ## Title: Manageable SSAS Deployment Strategies
@@ -419,7 +420,7 @@ If you've answered "yes" to any of these questions, and are in search of a bette
 #  
 #### SessionID: 9557
 # Powershell for the Enterprise
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Andrew Nakamura
 ## Title: Powershell for the Enterprise
@@ -428,7 +429,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 9845
 # New Job! New Environment! Where to Start!
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Thomas Norman
 ## Title: New Job! New Environment! Where to Start!
@@ -437,7 +438,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 9846
 # Converting Unreliable Deployments Into Consistent Releases
-#### [Back to calendar](#SQLSaturday-#289-Orange-County,-CA-2014)
+#### [Back to calendar](#nr-289)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Thomas Norman
 ## Title: Converting Unreliable Deployments Into Consistent Releases

@@ -1,3 +1,4 @@
+#### Nr: 283
 #### [Back to Main list](index.md)
 # SQLSaturday #283 - Puerto Rico 2014
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10150
 # Inside the Query Optimizer
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Bradley Ball
 ## Title: Inside the Query Optimizer
@@ -34,7 +35,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11188
 # SQL Server - En juego o Fuera de juego?
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Carlos L Chacon
 ## Title: SQL Server - En juego o Fuera de juego?
@@ -43,7 +44,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13023
 # Location Location Location Preparing and Presenting Geographic Data
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: David Dye
 ## Title: Location Location Location Preparing and Presenting Geographic Data
@@ -52,7 +53,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13610
 # MsAccess and SQLServer in the Cloud Integration 
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Edwin Blancovitch
 ## Title: MsAccess and SQLServer in the Cloud Integration 
@@ -62,7 +63,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 14855
 # Introduction to SSIS with BIML
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Guillermo Caicedo Santiago
 ## Title: Introduction to SSIS with BIML
@@ -71,7 +72,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 16027
 # Business Insight through Cloud Based Data Models
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Javier Guillen
 ## Title: Business Insight through Cloud Based Data Models
@@ -82,7 +83,7 @@ This session will explore promotion paths for PowerPivot models that mature to d
 #  
 #### SessionID: 16107
 # PowerPivot + Powerview + PowerMap = Self-service BI Revolution
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jose Chinchilla
 ## Title: PowerPivot + Powerview + PowerMap = Self-service BI Revolution
@@ -91,7 +92,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17414
 # Azure Virtual Machines: A Walk in the Cloud
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jorge Segarra
 ## Title: Azure Virtual Machines: A Walk in the Cloud
@@ -100,7 +101,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17467
 # Tablas Particionadas: De la A a la Z
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jose L. Rivera
 ## Title: Tablas Particionadas: De la A a la Z
@@ -109,7 +110,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 17599
 # SQL Server 2014 In Memory Column Store Indexes - Haciendo un Almacén de Datos
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jose Gregorio Redondo Lopez
 ## Title: SQL Server 2014 In Memory Column Store Indexes - Haciendo un Almacén de Datos
@@ -118,7 +119,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17625
 # Creating Reporting Services Reports to be Run in SQL Server Management Studio
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jorge Sanchez
 ## Title: Creating Reporting Services Reports to be Run in SQL Server Management Studio
@@ -127,7 +128,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17670
 # Wish you could live the glamorous consulting life?
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Juan Soto
 ## Title: Wish you could live the glamorous consulting life?
@@ -139,7 +140,7 @@ In this session you will learn sales, marketing and management strategies to get
 #  
 #### SessionID: 19916
 # Powershell Working with Windows Azure SQL Database Server
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Maximo Trinidad
 ## Title: Powershell Working with Windows Azure SQL Database Server
@@ -148,7 +149,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 20509
 # From Mess to Mastery: Managing Large Environments 
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mike Hillwig
 ## Title: From Mess to Mastery: Managing Large Environments 
@@ -161,7 +162,7 @@ By leveraging what you already have in SQL Server, you'll certainly be able to d
 #  
 #### SessionID: 22442
 # Understanding Power BI by Example
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ramon Ponte
 ## Title: Understanding Power BI by Example
@@ -170,7 +171,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22943
 # ETL Architecture Checkup: Avoiding Costly Mistakes
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rafael Salas
 ## Title: ETL Architecture Checkup: Avoiding Costly Mistakes
@@ -179,7 +180,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23421
 # Como lograr tu certificación de SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Rogger Rodriguez
 ## Title: Como lograr tu certificación de SQL Server 2012
@@ -188,7 +189,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 27729
 # Windowing Functions in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Wayne Sheffield
 ## Title: Windowing Functions in SQL Server 2012
@@ -197,7 +198,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 27730
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -206,7 +207,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 9180
 # PowerPivot, Tabular and Multidimensional Models: Understanding Analysis Services Flavors
-#### [Back to calendar](#SQLSaturday-#283-Puerto-Rico-2014)
+#### [Back to calendar](#nr-283)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Alan Koo
 ## Title: PowerPivot, Tabular and Multidimensional Models: Understanding Analysis Services Flavors

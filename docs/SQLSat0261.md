@@ -1,3 +1,4 @@
+#### Nr: 261
 #### [Back to Main list](index.md)
 # SQLSaturday #261 - Moscow 2013
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10195
 # Microsoft SQL Server Database Development with SQL Server Data Tools(SSDT)
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Belkis Ozhorasan
 ## Title: Microsoft SQL Server Database Development with SQL Server Data Tools(SSDT)
@@ -35,7 +36,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 13054
 # Кнопка "Turbo" возвращается. Новый механизм в SQL2014 - Buffer Pool Extension
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Dmitriy Kostylev
 ## Title: Кнопка "Turbo" возвращается. Новый механизм в SQL2014 - Buffer Pool Extension
@@ -44,7 +45,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13093
 # Deadlock detected! Всё пропало или ещё рано бить тревогу?
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Denis Reznik
 ## Title: Deadlock detected! Всё пропало или ещё рано бить тревогу?
@@ -53,7 +54,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 13754
 # Конкуренция за ресурсы в многоядерных системах.
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Evgeny Khabarov
 ## Title: Конкуренция за ресурсы в многоядерных системах.
@@ -62,7 +63,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 18761
 # 2 AM. A Disaster just began...
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Tobias Koprowski
 ## Title: 2 AM. A Disaster just began...
@@ -71,7 +72,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 18764
 # Azure SQL Database Tips and Tricks for Beginners
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: Additional Features
 ## Speaker: Tobias Koprowski
 ## Title: Azure SQL Database Tips and Tricks for Beginners
@@ -81,7 +82,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: Additional Features
 #  
 #### SessionID: 18828
 # SQL Server Reporting Services - нестандартно о стандартном
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Andrey Korshikov
 ## Title: SQL Server Reporting Services - нестандартно о стандартном
@@ -90,7 +91,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 19174
 # Я построю свой профайлер, с гридами и кнопками!
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Oleksii Kovalov
 ## Title: Я построю свой профайлер, с гридами и кнопками!
@@ -99,7 +100,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 19966
 # Работа транзакционных механизмов SQL Server на примерах
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Михаил Гурьянов
 ## Title: Работа транзакционных механизмов SQL Server на примерах
@@ -108,7 +109,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 22163
 # Внутри оптимизатора: кардинальность и планы выполнения
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Dmitry Pilugin
 ## Title: Внутри оптимизатора: кардинальность и планы выполнения
@@ -117,7 +118,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 22322
 # Архитектура и функциональность аналитических хранилищ SQL Server Parallel Data Warehouse 2012
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: Additional Features
 ## Speaker: Андрей Резник
 ## Title: Архитектура и функциональность аналитических хранилищ SQL Server Parallel Data Warehouse 2012
@@ -126,7 +127,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: Additional Features
 #  
 #### SessionID: 24343
 # In-Memory OLTP (Hekaton) в SQL Server 2014: архитектура и практическое применение
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Sergey Olontsev
 ## Title: In-Memory OLTP (Hekaton) в SQL Server 2014: архитектура и практическое применение
@@ -135,7 +136,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 24344
 # Практика и особенности конфигурирования оборудования HP для решений MS SQL Server
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: Additional Features
 ## Speaker: Sergey Olontsev
 ## Title: Практика и особенности конфигурирования оборудования HP для решений MS SQL Server
@@ -144,7 +145,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: Additional Features
 #  
 #### SessionID: 24345
 # Improving performance and scalability using Fusion ioMemory and Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: Additional Features
 ## Speaker: Sergey Olontsev
 ## Title: Improving performance and scalability using Fusion ioMemory and Microsoft SQL Server
@@ -153,7 +154,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: Additional Features
 #  
 #### SessionID: 26189
 # SQL Server 2014 Column Store Index vNEXT
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2014 Column Store Index vNEXT
@@ -162,7 +163,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 26190
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -171,7 +172,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 27138
 # HA  DR with SQL Server AlwaysOn Availability Group
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: Additional Features
 ## Speaker: Turgay Sahtiyan
 ## Title: HA  DR with SQL Server AlwaysOn Availability Group
@@ -180,7 +181,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: Additional Features
 #  
 #### SessionID: 27139
 # Top 10 Performance Tips for SQL Server Developers
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Turgay Sahtiyan
 ## Title: Top 10 Performance Tips for SQL Server Developers
@@ -189,7 +190,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 28305
 # MDS + DQS + SSIS = EIM, или Как построить свою систему управления информацией
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Andrey Zavadskiy
 ## Title: MDS + DQS + SSIS = EIM, или Как построить свою систему управления информацией
@@ -198,7 +199,7 @@ Event Date: 30-11-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 8827
 # Почему «тормозит» запрос: анализ задержек с помощью XEvents
-#### [Back to calendar](#SQLSaturday-#261-Moscow-2013)
+#### [Back to calendar](#nr-261)
 Event Date: 30-11-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Арсений Бирюков
 ## Title: Почему «тормозит» запрос: анализ задержек с помощью XEvents

@@ -1,3 +1,4 @@
+#### Nr: 683
 #### [Back to Main list](index.md)
 # SQLSaturday #683 - Charlotte 2017
 Start Time (24h)|Speaker|Track|Title
@@ -55,7 +56,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 69574
 # Advanced Analytics with R, Microsoft SQL Server, Power BI, and Az
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Leila Etaati
 ## Title: Advanced Analytics with R, Microsoft SQL Server, Power BI, and Az
@@ -80,7 +81,7 @@ Scale and reduce: Group Data in Bins and Normalize Data.
 #  
 #### SessionID: 69575
 # Architecting a Data Lake to Modernize Your Data Warehouse
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Melissa Coates
 ## Title: Architecting a Data Lake to Modernize Your Data Warehouse
@@ -97,7 +98,7 @@ You will learn in this session:
 #  
 #### SessionID: 67088
 # Query Store Primer
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
@@ -106,7 +107,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67098
 # DevOps for the DBA
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: DevOps for the DBA
@@ -121,7 +122,7 @@ The take-aways from this session are to embrace DevOps basics with a “DBA twis
 #  
 #### SessionID: 67143
 # Database Project Makes Deployment Consistent
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
@@ -130,7 +131,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67366
 # I/O Tuning 101
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Anders Pedersen
 ## Title: I/O Tuning 101
@@ -147,7 +148,7 @@ All of this can be done without the need for any 3rd party tools, all within the
 #  
 #### SessionID: 67437
 # 5 Minute No Sweat SQL Security Audits
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: 5 Minute No Sweat SQL Security Audits
@@ -157,7 +158,7 @@ In this session, you will get scripts that I use for compliance audits that help
 #  
 #### SessionID: 68304
 # Environmental SQL Server Troubleshooting
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Mlakar
 ## Title: Environmental SQL Server Troubleshooting
@@ -168,7 +169,7 @@ In this session we will discuss both performance pitfalls and optimizations that
 #  
 #### SessionID: 68759
 # Excel with DAX
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Azhagappan Arunachalam
 ## Title: Excel with DAX
@@ -177,7 +178,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68809
 # Faster SSIS
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Faster SSIS
@@ -190,7 +191,7 @@ Finally, we'll demonstrate a design pattern that uses a Script Component in a Da
 #  
 #### SessionID: 69486
 # Create SQL Server VM, Active Directory VM and App Server VM in Az
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Michael Wharton
 ## Title: Create SQL Server VM, Active Directory VM and App Server VM in Az
@@ -199,7 +200,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 67091
 # Implementing an SSIS Framework and enforcing SSIS Patterns (with Biml).
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Kingaby
 ## Title: Implementing an SSIS Framework and enforcing SSIS Patterns (with Biml).
@@ -208,7 +209,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67378
 # Designing a Modern Data Warehouse + Data Lake
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melissa Coates
 ## Title: Designing a Modern Data Warehouse + Data Lake
@@ -217,7 +218,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67389
 # Using Kafka for Real-Time Data Ingestion with .NET
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Using Kafka for Real-Time Data Ingestion with .NET
@@ -226,7 +227,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 68048
 # R For Sql Developers
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Kiran Math
 ## Title: R For Sql Developers
@@ -246,7 +247,7 @@ Download Open R  : -  https://mran.revolutionanalytics.com/
 #  
 #### SessionID: 68268
 # Database Corruption
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stephen Muliokela
 ## Title: Database Corruption
@@ -264,7 +265,7 @@ Highlight of topics
 #  
 #### SessionID: 68578
 # Table Partitioning 101
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Robert Smith
 ## Title: Table Partitioning 101
@@ -273,7 +274,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 68865
 # SQL Server 2017 New BI Features
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Mellinger
 ## Title: SQL Server 2017 New BI Features
@@ -282,7 +283,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68928
 # Finding more space for your tight environment.
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Chan
 ## Title: Finding more space for your tight environment.
@@ -294,7 +295,7 @@ And in the final I will defragment the indexes and update the statistics, since 
 #  
 #### SessionID: 69029
 # Master Data Services Overview
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Prabhaker Potharaju
 ## Title: Master Data Services Overview
@@ -303,7 +304,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67453
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
@@ -312,7 +313,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68255
 # SSRS 2016 or Power BI?....or Both?
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Sean Werick
 ## Title: SSRS 2016 or Power BI?....or Both?
@@ -321,7 +322,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 68353
 # Secrets of the Query Optimizer Revealed Using Trace Flag 86xx
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Kline
 ## Title: Secrets of the Query Optimizer Revealed Using Trace Flag 86xx
@@ -332,7 +333,7 @@ First, we will examine using undocumented trace flags to look at the steps of pa
 #  
 #### SessionID: 68421
 # Solving Real World DevOps Problems - Customer success stories (90 min)
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: boB Taylor
 ## Title: Solving Real World DevOps Problems - Customer success stories (90 min)
@@ -342,7 +343,7 @@ Underlying these are the SQLDOM parser and the DACFX libraries. Iwill showcase t
 #  
 #### SessionID: 68872
 # Interviewing-Be So Good They Can’t Ignore You
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Leveat Ruse
 ## Title: Interviewing-Be So Good They Can’t Ignore You
@@ -351,7 +352,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 69185
 # Take Power BI Visualization to the Next Level
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Reza Rad
 ## Title: Take Power BI Visualization to the Next Level
@@ -360,7 +361,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 69333
 # Introduction to Ensemble Modeling
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeff Renz
 ## Title: Introduction to Ensemble Modeling
@@ -369,7 +370,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67454
 # Soaring Eagle:  How to be a GREAT DBA
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Sponsor Session
 ## Speaker: Jeffrey Garbus
 ## Title: Soaring Eagle:  How to be a GREAT DBA
@@ -380,7 +381,7 @@ Great for beginner to intermediate DBAs, as well as Developers who think this is
 #  
 #### SessionID: 70118
 # Vexata:  Architecting for performance
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Sponsor Session
 ## Speaker: Matt Henderson
 ## Title: Vexata:  Architecting for performance
@@ -389,7 +390,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Sponsor Session
 #  
 #### SessionID: 70130
 # SentryOne:  SQL Query Tuning Horror Stories
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Sponsor Session
 ## Speaker: Kevin Kline
 ## Title: SentryOne:  SQL Query Tuning Horror Stories
@@ -398,7 +399,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Sponsor Session
 #  
 #### SessionID: 70133
 # Cardinal Solutions:  Advanced Analytics with SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Sponsor Session
 ## Speaker: Vincent Staropoli
 ## Title: Cardinal Solutions:  Advanced Analytics with SQL Server 2017
@@ -407,7 +408,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Sponsor Session
 #  
 #### SessionID: 70147
 # DellEMC: The Path to #GetModern
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Sponsor Session
 ## Speaker: Ben Page
 ## Title: DellEMC: The Path to #GetModern
@@ -416,7 +417,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Sponsor Session
 #  
 #### SessionID: 67096
 # H*ckin Sweet Reports with Power BI
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Julie Smith
 ## Title: H*ckin Sweet Reports with Power BI
@@ -425,7 +426,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 67196
 # A Tour of Cloud Data Platforms as a Service
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Richard Weiss
 ## Title: A Tour of Cloud Data Platforms as a Service
@@ -434,7 +435,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 67580
 # Azure Machine Learning: Making Data Science Easy(er)
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Brad Llewellyn
 ## Title: Azure Machine Learning: Making Data Science Easy(er)
@@ -443,7 +444,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 67660
 # Using DMVs for Performance Root Cause
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jared Poché
 ## Title: Using DMVs for Performance Root Cause
@@ -452,7 +453,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67819
 # How to Manage Very Large Databases with SQL Server
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Carrig
 ## Title: How to Manage Very Large Databases with SQL Server
@@ -461,7 +462,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68146
 # TechGirlz  How You Can Help Usher In The Next Generation
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Lindsay Clark
 ## Title: TechGirlz  How You Can Help Usher In The Next Generation
@@ -470,7 +471,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 68179
 # The Art and Science of Designing a Mission Critical SQL Server
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Maxwell Myrick
 ## Title: The Art and Science of Designing a Mission Critical SQL Server
@@ -481,7 +482,7 @@ While you may not be able to revisit your current designs right away, what you l
 #  
 #### SessionID: 68250
 # Making Your List and Checking It Twice: Introduction to unit testing with tSQLt
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Elizabeth Noble
 ## Title: Making Your List and Checking It Twice: Introduction to unit testing with tSQLt
@@ -490,7 +491,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 68366
 # ARMed for Azure
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Geoff Hiten
 ## Title: ARMed for Azure
@@ -499,7 +500,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 67082
 # Impostor Syndrome: Are You Faking It  Will they Find Out?
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Mindy Curnutt
 ## Title: Impostor Syndrome: Are You Faking It  Will they Find Out?
@@ -508,7 +509,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 67089
 # Using Powershell to Document SQL Server
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Using Powershell to Document SQL Server
@@ -517,7 +518,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67217
 # Build Your Extract Packages Automatically!
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shannon Lowder
 ## Title: Build Your Extract Packages Automatically!
@@ -528,7 +529,7 @@ With that schema, automatically generating your extract package is a matter of s
 #  
 #### SessionID: 67442
 # SQL Games
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Rick Heiges
 ## Title: SQL Games
@@ -537,7 +538,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 68211
 # Demystifying Data Compression
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Andy Mallon
 ## Title: Demystifying Data Compression
@@ -550,7 +551,7 @@ By the end of this session, you'll have a better idea of how the different compr
 #  
 #### SessionID: 68577
 # Where Should My Data Live (and Why)?
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Matt Gordon
 ## Title: Where Should My Data Live (and Why)?
@@ -559,7 +560,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 69039
 # Azure ML Algorithm Accuracy Enhancement, Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Leila Etaati
 ## Title: Azure ML Algorithm Accuracy Enhancement, Tips and Tricks
@@ -568,7 +569,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 70073
 # Measure Performance Through Baselines
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carlos L Chacon
 ## Title: Measure Performance Through Baselines
@@ -577,7 +578,7 @@ Event Date: 14-10-2017 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70152
 # Deep Dive into Power Query and M
-#### [Back to calendar](#SQLSaturday-#683-Charlotte-2017)
+#### [Back to calendar](#nr-683)
 Event Date: 14-10-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: Deep Dive into Power Query and M

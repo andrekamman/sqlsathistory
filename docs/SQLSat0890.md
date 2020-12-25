@@ -1,3 +1,4 @@
+#### Nr: 890
 #### [Back to Main list](index.md)
 # SQLSaturday #890 - Austin 2019
 Start Time (24h)|Speaker|Track|Title
@@ -56,7 +57,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 92078
 # XML and JSON, does the DBA need it?
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: SQL Dev
 ## Speaker: Alex Grinberg
 ## Title: XML and JSON, does the DBA need it?
@@ -65,7 +66,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: SQL Dev
 #  
 #### SessionID: 93230
 # Azure SQL Managed Instance the New Hotness
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Azure
 ## Speaker: Ryan Adams
 ## Title: Azure SQL Managed Instance the New Hotness
@@ -74,7 +75,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Azure
 #  
 #### SessionID: 93283
 # A Perfect Ten: The Data Model
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI
 ## Speaker: Leslie Andrews
 ## Title: A Perfect Ten: The Data Model
@@ -83,7 +84,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI
 #  
 #### SessionID: 93354
 # Introduction To Data Governance
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DevOps
 ## Speaker: Warren Sifre
 ## Title: Introduction To Data Governance
@@ -92,7 +93,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DevOps
 #  
 #### SessionID: 93890
 # The Future of Database Development with Containers
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DevOps
 ## Speaker: Steve Jones
 ## Title: The Future of Database Development with Containers
@@ -101,7 +102,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DevOps
 #  
 #### SessionID: 94132
 # Mastering locks and blocks
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Performance Tuning
 ## Speaker: Daniel Janik
 ## Title: Mastering locks and blocks
@@ -110,7 +111,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Performance Tuning
 #  
 #### SessionID: 94134
 # Querying Semistructured Data in Azure Data Lake with USQL
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Azure
 ## Speaker: Russel Loski
 ## Title: Querying Semistructured Data in Azure Data Lake with USQL
@@ -119,7 +120,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Azure
 #  
 #### SessionID: 94937
 # Annoyed with a stubborn pivot table? PowerPivot is your answer.
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI
 ## Speaker: Toni Haag
 ## Title: Annoyed with a stubborn pivot table? PowerPivot is your answer.
@@ -139,7 +140,7 @@ Providing an overview of the above, the demos will give an insight into how powe
 #  
 #### SessionID: 92065
 # SQL DevOps Simplified with Production Databases
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DevOps
 ## Speaker: Paul Stanton
 ## Title: SQL DevOps Simplified with Production Databases
@@ -148,7 +149,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DevOps
 #  
 #### SessionID: 92072
 # Power BI Dashboard - Creating End to End Solutions
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI
 ## Speaker: Suresh Datla
 ## Title: Power BI Dashboard - Creating End to End Solutions
@@ -158,7 +159,7 @@ Accessing data, Data preparation, and cleansing, consuming the data for reports 
 #  
 #### SessionID: 92650
 # Make Database Documentation your Minion
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: SQL Dev
 ## Speaker: Jennifer McCown
 ## Title: Make Database Documentation your Minion
@@ -171,7 +172,7 @@ Documenting via comments serves YOU. They’re your repository of tribal knowled
 #  
 #### SessionID: 92939
 # Building Your First SQL Server Container Lab in Docker
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DBA
 ## Speaker: Chris Bell
 ## Title: Building Your First SQL Server Container Lab in Docker
@@ -182,7 +183,7 @@ In this session, we will go over the concepts of containers, their general capab
 #  
 #### SessionID: 93037
 # Overcoming Challenges with Source Control and Continuous Integration.
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DevOps
 ## Speaker: Elizabeth Noble
 ## Title: Overcoming Challenges with Source Control and Continuous Integration.
@@ -197,7 +198,7 @@ Attendees should be familiar with general concepts about source control and be c
 #  
 #### SessionID: 93871
 # Python in SQL Server 2017 and 2019
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017 and 2019
@@ -208,7 +209,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 94006
 # CosmosDB is the missing piece to your Data puzzle!
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Azure
 ## Speaker: Hasan Savran
 ## Title: CosmosDB is the missing piece to your Data puzzle!
@@ -228,7 +229,7 @@ CosmosDB Limitations
 #  
 #### SessionID: 94896
 # Managing the mystery database
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DBA
 ## Speaker: Dustin Dorsey
 ## Title: Managing the mystery database
@@ -244,7 +245,7 @@ By figuring out what these mystery databases, you will be more equipped to make 
 #  
 #### SessionID: 92076
 # Advanced T-SQL Development with latest features.
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: SQL Dev
 ## Speaker: Alex Grinberg
 ## Title: Advanced T-SQL Development with latest features.
@@ -253,7 +254,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: SQL Dev
 #  
 #### SessionID: 92645
 # The Master Stored Procedure Workshop: Part 1
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: SQL Dev
 ## Speaker: Sean McCown
 ## Title: The Master Stored Procedure Workshop: Part 1
@@ -270,7 +271,7 @@ The session will be packed with tons of code examples, with plenty of labs to re
 #  
 #### SessionID: 93762
 # PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DBA
 ## Speaker: Amy Herold
 ## Title: PowerShell for the DBA
@@ -281,7 +282,7 @@ In this session we will explore real-world examples and demonstrate how PowerShe
 #  
 #### SessionID: 96045
 # SSIS Performance Tuning with BimlScript
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI
 ## Speaker: David Stein
 ## Title: SSIS Performance Tuning with BimlScript
@@ -294,7 +295,7 @@ The only way to be sure that your SSIS packages are performing optimally is to t
 #  
 #### SessionID: 92062
 # A Primer on SQL Server Clustered Index Architecture
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Performance Tuning
 ## Speaker: Mike Byrd
 ## Title: A Primer on SQL Server Clustered Index Architecture
@@ -303,7 +304,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Performance Tuning
 #  
 #### SessionID: 93635
 # An Animated Look at Query Plans
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Performance Tuning
 ## Speaker: Forrest McDaniel
 ## Title: An Animated Look at Query Plans
@@ -312,7 +313,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Performance Tuning
 #  
 #### SessionID: 93870
 # Azure Databricks (ADB) and the Traditional DBA
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Azure
 ## Speaker: Rodney Landrum
 ## Title: Azure Databricks (ADB) and the Traditional DBA
@@ -321,7 +322,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Azure
 #  
 #### SessionID: 96043
 # Make Your SQL Server Queries Go Faster
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Performance Tuning
 ## Speaker: John Sterrett
 ## Title: Make Your SQL Server Queries Go Faster
@@ -330,7 +331,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Performance Tuning
 #  
 #### SessionID: 96044
 # Ntirety Lunch Session
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Performance Tuning
 ## Speaker: Mike Burek
 ## Title: Ntirety Lunch Session
@@ -339,7 +340,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Performance Tuning
 #  
 #### SessionID: 92110
 # Sharing and Collaborating for the Pro  Premium Power BI user
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: DeNisha Malone
 ## Title: Sharing and Collaborating for the Pro  Premium Power BI user
@@ -348,7 +349,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI Information Delivery
 #  
 #### SessionID: 92112
 # Not All Data is Relational: An introduction to Cosmos DB
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Azure
 ## Speaker: Shawn Weisfeld
 ## Title: Not All Data is Relational: An introduction to Cosmos DB
@@ -357,7 +358,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Azure
 #  
 #### SessionID: 92646
 # The Master Stored Procedure Workshop: Part 2
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: SQL Dev
 ## Speaker: Sean McCown
 ## Title: The Master Stored Procedure Workshop: Part 2
@@ -374,7 +375,7 @@ The session will be packed with tons of code examples, with plenty of labs to re
 #  
 #### SessionID: 93129
 # Little to Large - How to Scale to Enterprise Analysis Services Solutions
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI
 ## Speaker: George Bryant
 ## Title: Little to Large - How to Scale to Enterprise Analysis Services Solutions
@@ -383,7 +384,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI
 #  
 #### SessionID: 93889
 # Adopting a Compliant Database DevOps Process
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DevOps
 ## Speaker: Steve Jones
 ## Title: Adopting a Compliant Database DevOps Process
@@ -394,7 +395,7 @@ DevOps is transforming software development, with many organizations and individ
 #  
 #### SessionID: 94100
 # Tuning Like CSS: With These Tools There's No Need Call Support
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Performance Tuning
 ## Speaker: Kerry Tyler
 ## Title: Tuning Like CSS: With These Tools There's No Need Call Support
@@ -407,7 +408,7 @@ In this session, you'll learn how to use battle tested tools to analyze your wor
 #  
 #### SessionID: 94706
 # Your SQL Servers are Mi$ConFiguReDed
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DBA
 ## Speaker: Kevin Hill
 ## Title: Your SQL Servers are Mi$ConFiguReDed
@@ -435,7 +436,7 @@ Dallas DBAs is dedicated to helping you find these issues, test them, remediate 
 #  
 #### SessionID: 95126
 # 7.5 Steps to Social Media Marketing Domination for Employees, Ent
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Career
 ## Speaker: Peter Doyle
 ## Title: 7.5 Steps to Social Media Marketing Domination for Employees, Ent
@@ -448,7 +449,7 @@ At the end of the session, you will be equipped with the tools, resources, and e
 #  
 #### SessionID: 95520
 # Scales, Measurements and Encoding Schemes
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DBA
 ## Speaker: Joe Celko
 ## Title: Scales, Measurements and Encoding Schemes
@@ -457,7 +458,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DBA
 #  
 #### SessionID: 92059
 # Introduction to Linux for SQL Server Professionals
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DBA
 ## Speaker: Jay Falck
 ## Title: Introduction to Linux for SQL Server Professionals
@@ -466,7 +467,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DBA
 #  
 #### SessionID: 92116
 # Successfully Migrating Existing Databases to Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Azure
 ## Speaker: John Sterrett
 ## Title: Successfully Migrating Existing Databases to Azure SQL Database
@@ -475,7 +476,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Azure
 #  
 #### SessionID: 92651
 # The SQL Career Roadmap for Women (and Men)
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Career
 ## Speaker: Jennifer McCown
 ## Title: The SQL Career Roadmap for Women (and Men)
@@ -487,7 +488,7 @@ How can I get a database job with no experience? What’s the best way to learn 
 #  
 #### SessionID: 93270
 # Code Like a Pirate ... Intro to R and Data Science Tools in MS
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Pirate ... Intro to R and Data Science Tools in MS
@@ -511,7 +512,7 @@ The focus of the session will be primarily on the introduction to the R language
 #  
 #### SessionID: 93619
 # The True Story of Learning Biml
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI
 ## Speaker: Melissa Stein
 ## Title: The True Story of Learning Biml
@@ -527,7 +528,7 @@ How to automate SSIS package creation with BimlScript.
 #  
 #### SessionID: 94105
 # How do you Azure?
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Azure
 ## Speaker: Tamera Clark
 ## Title: How do you Azure?
@@ -540,7 +541,7 @@ This is a level 0 session, #N00b, #Imabeginner
 #  
 #### SessionID: 94136
 # Performance Tune like a Microsoft MVP
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Performance Tuning
 ## Speaker: Daniel Janik
 ## Title: Performance Tune like a Microsoft MVP
@@ -549,7 +550,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Performance Tuning
 #  
 #### SessionID: 94456
 # T-SQL Tools: Simplicity for Synchronizing Changes
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: SQL Dev
 ## Speaker: Martin Perez
 ## Title: T-SQL Tools: Simplicity for Synchronizing Changes
@@ -563,7 +564,7 @@ Any DBA or developer that has ever faced the problem of moving data changes acro
 #  
 #### SessionID: 95900
 # From Zero to Hero: intro to Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Azure
 ## Speaker: Mohamed Mawla
 ## Title: From Zero to Hero: intro to Azure Machine Learning
@@ -576,7 +577,7 @@ Lots of hands-on
 #  
 #### SessionID: 92064
 # A Rocket Scientist Perspective on Index Column Selection
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Performance Tuning
 ## Speaker: Mike Byrd
 ## Title: A Rocket Scientist Perspective on Index Column Selection
@@ -585,7 +586,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Performance Tuning
 #  
 #### SessionID: 92123
 # SQL in Azure 101
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Azure
 ## Speaker: Mark Moore
 ## Title: SQL in Azure 101
@@ -596,7 +597,7 @@ This is an introductory session.  At the end of this session you will have a goo
 #  
 #### SessionID: 92608
 # Dynamic SQL: Tables / Parameters  DBA Tools
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: SQL Dev
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables / Parameters  DBA Tools
@@ -605,7 +606,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: SQL Dev
 #  
 #### SessionID: 92867
 # Managing Excel Power Query With VBA
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI
 ## Speaker: Bob Phillips
 ## Title: Managing Excel Power Query With VBA
@@ -616,7 +617,7 @@ It is assumed that delegates will be familiar with VBA and Power Query, using th
 #  
 #### SessionID: 93616
 # Agile Data Warehouse and ETL Design with Biml
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI
 ## Speaker: David Stein
 ## Title: Agile Data Warehouse and ETL Design with Biml
@@ -625,7 +626,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI
 #  
 #### SessionID: 93880
 # Building your Microsoft Business Intelligence (MSBI) Career
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Career
 ## Speaker: Ganesh Lohani
 ## Title: Building your Microsoft Business Intelligence (MSBI) Career
@@ -634,7 +635,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: Career
 #  
 #### SessionID: 95705
 # Multidimensional Data Cubes and Data Mining in the Real World
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI
 ## Speaker: Robert Stewart
 ## Title: Multidimensional Data Cubes and Data Mining in the Real World
@@ -643,7 +644,7 @@ Event Date: 13-07-2019 - Session time: 15:50:00 - Track: BI
 #  
 #### SessionID: 95733
 # Using Oracle GoldenGate to Replicate SQL Server Data
-#### [Back to calendar](#SQLSaturday-#890-Austin-2019)
+#### [Back to calendar](#nr-890)
 Event Date: 13-07-2019 - Session time: 15:50:00 - Track: DBA
 ## Speaker: Edward Whalen
 ## Title: Using Oracle GoldenGate to Replicate SQL Server Data

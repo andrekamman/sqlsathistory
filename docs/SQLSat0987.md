@@ -1,3 +1,4 @@
+#### Nr: 987
 #### [Back to Main list](index.md)
 # SQLSaturday #987 –  El Salvador 2020 – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -37,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 106008
 # Attention Contention!!!
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Attention Contention!!!
@@ -46,7 +47,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 107242
 # Sobrevivendo la transformacion digital
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Application  Database Development
 ## Speaker: Gilda Alvarez
 ## Title: Sobrevivendo la transformacion digital
@@ -55,7 +56,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Application  Database D
 #  
 #### SessionID: 107361
 # Métodos de Encriptación de Datos en AZURE SQL DB
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Wagner Crivelini
 ## Title: Métodos de Encriptación de Datos en AZURE SQL DB
@@ -64,7 +65,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 107378
 # Dynamics 365 Finance and Operations y Power BI
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Analytics and Visualization
 ## Speaker: Juan Rafael
 ## Title: Dynamics 365 Finance and Operations y Power BI
@@ -73,7 +74,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 107229
 # Tips de Seguridad en SQL Server
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Maximiliano Damian Accotto
 ## Title: Tips de Seguridad en SQL Server
@@ -83,7 +84,7 @@ Entre ellas veremos (configuración de servicios, TDE, auditorias nativas, manej
 #  
 #### SessionID: 107244
 # ML.NET + SQL Server = Aplicando Machine Learning a tus datos
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Advanced Analysis Techniques
 ## Speaker: Luis Beltran
 ## Title: ML.NET + SQL Server = Aplicando Machine Learning a tus datos
@@ -94,7 +95,7 @@ En esta sesión, conoceremos qué es ML.NET, sus ventajas y cómo construir un m
 #  
 #### SessionID: 107263
 # ¿Quien borro mis datos? -Seguimiento al SQL Server con Auditoria y Eventos Extendidos
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Victor Hugo Cardenas
 ## Title: ¿Quien borro mis datos? -Seguimiento al SQL Server con Auditoria y Eventos Extendidos
@@ -103,7 +104,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 107503
 # Basic Data Modeling for BI Reporting
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael McKinley
 ## Title: Basic Data Modeling for BI Reporting
@@ -116,7 +117,7 @@ In this session, we will review how tools like Power BI work under the covers an
 #  
 #### SessionID: 104572
 # SQL DevOps
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Application  Database Development
 ## Speaker: Vladimir Guzman
 ## Title: SQL DevOps
@@ -125,7 +126,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Application  Database D
 #  
 #### SessionID: 105631
 # New waves to Processing Tabular Models
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gaston Cruz
 ## Title: New waves to Processing Tabular Models
@@ -134,7 +135,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 107236
 # SQL Machine Learning on Managed Instance (R, Python)  AML
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Application  Database Development
 ## Speaker: Miguel Arturo Valle Pelaez
 ## Title: SQL Machine Learning on Managed Instance (R, Python)  AML
@@ -143,7 +144,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Application  Database D
 #  
 #### SessionID: 107316
 # SQL Server 2019: Estrategias de Indexación para alto desempeño
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Application  Database Development
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2019: Estrategias de Indexación para alto desempeño
@@ -156,7 +157,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Application  Database D
 #  
 #### SessionID: 107248
 # Recovering you business after COVID-19 with the cloud
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Strategy and Architecture
 ## Speaker: Eduardo Castro
 ## Title: Recovering you business after COVID-19 with the cloud
@@ -165,7 +166,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 107522
 # SAFe®: Agilismo escalado a nivel Organizacional
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Advanced Analysis Techniques
 ## Speaker: Edgar Oviedo
 ## Title: SAFe®: Agilismo escalado a nivel Organizacional
@@ -174,7 +175,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 107848
 # Consultando millones de datos con Power BI
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Advanced Analysis Techniques
 ## Speaker: Martha Chávez
 ## Title: Consultando millones de datos con Power BI
@@ -183,7 +184,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 107309
 # Marco de trabajo para la creacion de aplicaciones analiticas en la nube con Azure
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Juan Alvarado
 ## Title: Marco de trabajo para la creacion de aplicaciones analiticas en la nube con Azure
@@ -192,7 +193,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 107371
 # Power BI y Dynamics CRM:  CDS y CDM
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Strategy and Architecture
 ## Speaker: MAYRA BADILLO VILLAMIZAR
 ## Title: Power BI y Dynamics CRM:  CDS y CDM
@@ -201,7 +202,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 107411
 # ¡Cross Selling con SQL Grafos!
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ricardo Estrada
 ## Title: ¡Cross Selling con SQL Grafos!
@@ -214,7 +215,7 @@ fb: SeHablaSQL
 #  
 #### SessionID: 107538
 # Continuos Release en Bases de Datos
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Advanced Analysis Techniques
 ## Speaker: Roberto Pena
 ## Title: Continuos Release en Bases de Datos
@@ -223,7 +224,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 107231
 # IoT e Inteligencia Artificial
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Adrian Miranda
 ## Title: IoT e Inteligencia Artificial
@@ -232,7 +233,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 107249
 # Empecemos a utilizar Spark en nuestro Servidor SQL 2019 Big Data Clusterd (BDC)
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Analytics and Visualization
 ## Speaker: Raul Sao
 ## Title: Empecemos a utilizar Spark en nuestro Servidor SQL 2019 Big Data Clusterd (BDC)
@@ -241,7 +242,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 107395
 # Power Bi para DBAs
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Analytics and Visualization
 ## Speaker: Marcela Ambrosio
 ## Title: Power Bi para DBAs
@@ -250,7 +251,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 107408
 # Azure Data Factory: Automatizando la Entrega Continua con Azure Pipelines
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Leda Araya
 ## Title: Azure Data Factory: Automatizando la Entrega Continua con Azure Pipelines
@@ -261,7 +262,7 @@ Veremos también sobre el uso de plantillas ARM en Azure Data Factory y referenc
 #  
 #### SessionID: 107218
 # The Evolution of SQL Server as a Service - Azure SQL Database Managed Instance
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Javier Villegas
 ## Title: The Evolution of SQL Server as a Service - Azure SQL Database Managed Instance
@@ -270,7 +271,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 107396
 # Arquitectura de una Plataforma Moderna de Inteligencia de Negocios
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Warner Chaves
 ## Title: Arquitectura de una Plataforma Moderna de Inteligencia de Negocios
@@ -281,7 +282,7 @@ En esta sesion cubriremos los componentes principales y arquitecturas de referen
 #  
 #### SessionID: 107414
 # No pierdas el tiempo, implementa Tablas Temporales en tu Data Warehouse
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: No pierdas el tiempo, implementa Tablas Temporales en tu Data Warehouse
@@ -290,7 +291,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 107519
 # Primeros pasos para consumir SQL Server desde .NET Core con Dapper
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Application  Database Development
 ## Speaker: Humberto Jaimes
 ## Title: Primeros pasos para consumir SQL Server desde .NET Core con Dapper
@@ -300,7 +301,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Application  Database D
 #  
 #### SessionID: 107290
 # Machine Learning para todos
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Professional Development
 ## Speaker: Fabricio Quintanilla
 ## Title: Machine Learning para todos
@@ -309,7 +310,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Professional Developmen
 #  
 #### SessionID: 107405
 # Azure Analysis Services Scale Out
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Strategy and Architecture
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Azure Analysis Services Scale Out
@@ -319,7 +320,7 @@ Scale Out es la funcionalidad que permite balancear cargas, asignar más poder p
 #  
 #### SessionID: 107501
 # Dax Step By Step With Power BI
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Analytics and Visualization
 ## Speaker: Ahias Portillo
 ## Title: Dax Step By Step With Power BI
@@ -328,7 +329,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 107518
 # Data WareHouse modernos con Synapse  PowerBI
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Analytics and Visualization
 ## Speaker: Jesus Gil
 ## Title: Data WareHouse modernos con Synapse  PowerBI
@@ -337,7 +338,7 @@ Event Date: 12-09-2020 - Session time: 15:35:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 107733
 # ingesta de datos (batch y streaming) en big data
-#### [Back to calendar](#SQLSaturday-#987-–--El-Salvador-2020-–-Virtual-2020)
+#### [Back to calendar](#nr-987)
 Event Date: 12-09-2020 - Session time: 15:35:00 - Track: BI Information Delivery
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: ingesta de datos (batch y streaming) en big data

@@ -1,3 +1,4 @@
+#### Nr: 152
 #### [Back to Main list](index.md)
 # SQLSaturday #152 - Bulgaria 2012
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10613
 # Let's talk real-world private cloud implementation
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SQL Azure  Personal Development 
 ## Speaker: Boris Hristov
 ## Title: Let's talk real-world private cloud implementation
@@ -36,7 +37,7 @@ Starting from a consolidation idea to optimize our costs, moving through the con
 #  
 #### SessionID: 15449
 # Is "the bigger the better" valid in the DB world?
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Ivan Donev
 ## Title: Is "the bigger the better" valid in the DB world?
@@ -47,7 +48,7 @@ What are the best practices for building and managing very large database enviro
 #  
 #### SessionID: 15457
 # Dare to build vertical design with relational data
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Ivelin Andreev
 ## Title: Dare to build vertical design with relational data
@@ -58,7 +59,7 @@ A challenge, a proof of concept, hard work and successful project for millions �
 #  
 #### SessionID: 15458
 # Practical SQL query monitoring and optimization
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Ivelin Andreev
 ## Title: Practical SQL query monitoring and optimization
@@ -69,7 +70,7 @@ In most cases there does not exist an ORM that can solve this task for you and y
 #  
 #### SessionID: 16570
 # Business Intelligence in Azure: SSIS  SSRS 2012
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jen Stirrup
 ## Title: Business Intelligence in Azure: SSIS  SSRS 2012
@@ -78,7 +79,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 16572
 # Mobile Business Intelligence for Everyone, Now!
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jen Stirrup
 ## Title: Mobile Business Intelligence for Everyone, Now!
@@ -90,7 +91,7 @@ Come to this session to learn about mobilising Business Intelligence using Share
 #  
 #### SessionID: 19357
 # SQL Server 2012 Analysis Services - practical over
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Margarita Naumova
 ## Title: SQL Server 2012 Analysis Services - practical over
@@ -99,7 +100,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 19358
 # The good, the bad and the ugly of SQL Server param
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Margarita Naumova
 ## Title: The good, the bad and the ugly of SQL Server param
@@ -108,7 +109,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 19360
 # Database corrupt! What’s next?
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Margarita Naumova
 ## Title: Database corrupt! What’s next?
@@ -117,7 +118,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 20256
 # Practical methods for OLAP Data Visualization
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mihail Mateev
 ## Title: Practical methods for OLAP Data Visualization
@@ -126,7 +127,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20259
 # Using SQL Local Database in Mobile Applications
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Mihail Mateev
 ## Title: Using SQL Local Database in Mobile Applications
@@ -135,7 +136,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 20260
 # Spatial Data with SQL Server Reporting Services
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mihail Mateev
 ## Title: Spatial Data with SQL Server Reporting Services
@@ -152,7 +153,7 @@ spatial data with this product. Samples will demonstrate work with Reporting Ser
 #  
 #### SessionID: 20742
 # TSQL Performance Tips
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Miloš Radivojević
 ## Title: TSQL Performance Tips
@@ -163,7 +164,7 @@ In this session we will answer these questions and show how bad designed queries
 #  
 #### SessionID: 20950
 # NoSQL and Windows Azure platform 
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SQL Azure  Personal Development 
 ## Speaker: Miroslav Lessev
 ## Title: NoSQL and Windows Azure platform 
@@ -172,7 +173,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SQL Azure  Personal Dev
 #  
 #### SessionID: 21447
 # Top 10 Myths and Mistakes for the DBA 
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Nikolay Chorbanov
 ## Title: Top 10 Myths and Mistakes for the DBA 
@@ -181,7 +182,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 26947
 # Welcome to the Licensing Nightmare
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Tobiasz Koprowski
 ## Title: Welcome to the Licensing Nightmare
@@ -190,7 +191,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 26949
 # High Availability of SQL  in the context of SLA
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SQL Azure  Personal Development 
 ## Speaker: Tobiasz Koprowski
 ## Title: High Availability of SQL  in the context of SLA
@@ -199,7 +200,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SQL Azure  Personal Dev
 #  
 #### SessionID: 27369
 # SQL for Developers with SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Ventsy Popov
 ## Title: SQL for Developers with SQL Server Data Tools
@@ -208,7 +209,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 9308
 # SQL Server 2012 SSIS Change Data Capture
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Allan Mitchell
 ## Title: SQL Server 2012 SSIS Change Data Capture
@@ -220,7 +221,7 @@ We therefore need to plan our data movement strategy better.  In this session I 
 #  
 #### SessionID: 9688
 # Intro to SQL Azure Federations
-#### [Back to calendar](#SQLSaturday-#152-Bulgaria-2012)
+#### [Back to calendar](#nr-152)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SQL Azure  Personal Development 
 ## Speaker: Anton Staykov
 ## Title: Intro to SQL Azure Federations

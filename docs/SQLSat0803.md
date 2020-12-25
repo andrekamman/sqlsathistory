@@ -1,3 +1,4 @@
+#### Nr: 803
 #### [Back to Main list](index.md)
 # SQLSaturday #803 - Durban 2018
 Start Time (24h)|Speaker|Track|Title
@@ -21,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 83411
 # SQL Server Temporal Tables
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Sean Cremer
 ## Title: SQL Server Temporal Tables
@@ -30,7 +31,7 @@ Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 83415
 # Master Data Services From Start To Finish
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Jeanne Combrinck
 ## Title: Master Data Services From Start To Finish
@@ -39,7 +40,7 @@ Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 85091
 # Machine Learning with R in Power BI
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Luis de Sousa
 ## Title: Machine Learning with R in Power BI
@@ -53,7 +54,7 @@ Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 83427
 # All you wanted to know about CTE's but were afraid to ask
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Information Delivery
 ## Speaker: Steve Simon
 ## Title: All you wanted to know about CTE's but were afraid to ask
@@ -62,7 +63,7 @@ Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Information Delivery
 #  
 #### SessionID: 83734
 # Wading into Stream Analytics
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Andrew Collier
 ## Title: Wading into Stream Analytics
@@ -89,7 +90,7 @@ To illustrate these concepts we'll build a real time sentiment analysis system f
 #  
 #### SessionID: 85093
 # An introduction to SQLDatawarehouse
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Gail Shaw
 ## Title: An introduction to SQLDatawarehouse
@@ -99,7 +100,7 @@ In this session, I’ll take you through the architecture of Azure SQL Datawareh
 #  
 #### SessionID: 85098
 # SQL Server Extensibility Framework
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Niels Berglund
 ## Title: SQL Server Extensibility Framework
@@ -108,7 +109,7 @@ Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 83426
 # SQL Server Reporting Services 2017 on Steroids!!
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2017 on Steroids!!
@@ -119,7 +120,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #  
 #### SessionID: 85099
 # Deadlocks: What they are and how to resolve them
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Jodi Craig
 ## Title: Deadlocks: What they are and how to resolve them
@@ -130,7 +131,7 @@ So when your DBA tells you that you need to fix a deadlock: what is it and how s
 #  
 #### SessionID: 85332
 # Power BI data preparation with Dataflows
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Michael Johnson
 ## Title: Power BI data preparation with Dataflows
@@ -139,7 +140,7 @@ Event Date: 15-09-2018 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 84324
 # Zero to Pi to 10 on Cloud,Intro to Windows 10 IoT Core on a Raspberry Pi and BI using Azure IoT Hub
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arohan Naidoo
 ## Title: Zero to Pi to 10 on Cloud,Intro to Windows 10 IoT Core on a Raspberry Pi and BI using Azure IoT Hub
@@ -148,7 +149,7 @@ Event Date: 15-09-2018 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 85094
 # Graphs in SQL Server and Cosmos DB
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Gail Shaw
 ## Title: Graphs in SQL Server and Cosmos DB
@@ -158,7 +159,7 @@ In this session, I’ll take you through the design process for graph tables, an
 #  
 #### SessionID: 85097
 # The Ins and Outs of sp_execute_external_script
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Niels Berglund
 ## Title: The Ins and Outs of sp_execute_external_script
@@ -167,7 +168,7 @@ Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 83423
 # Power BI Report Design for the Aesthetically Challenged
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: James McGillivray
 ## Title: Power BI Report Design for the Aesthetically Challenged
@@ -182,7 +183,7 @@ We'll also take a glance at enhancing our reports by the using bookmarks, toolti
 #  
 #### SessionID: 84372
 # Does everyone hate replication?
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Rory Bolle
 ## Title: Does everyone hate replication?
@@ -196,7 +197,7 @@ Next we will walk through some of the extra little toys that replication allows:
 #  
 #### SessionID: 85120
 # Top tips on cracking a new database (and improving your new emplo
-#### [Back to calendar](#SQLSaturday-#803-Durban-2018)
+#### [Back to calendar](#nr-803)
 Event Date: 15-09-2018 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Warren Rocchi
 ## Title: Top tips on cracking a new database (and improving your new emplo

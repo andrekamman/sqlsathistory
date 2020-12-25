@@ -1,3 +1,4 @@
+#### Nr: 520
 #### [Back to Main list](index.md)
 # SQLSaturday #520 - Cambridge 2016
 Start Time (24h)|Speaker|Track|Title
@@ -6,7 +7,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 45338
 # Introducing R and Using R in MS BI Suite
-#### [Back to calendar](#SQLSaturday-#520-Cambridge-2016)
+#### [Back to calendar](#nr-520)
 Event Date: 10-09-2016 - Session time: 09:00:00 - Track: BI
 ## Speaker: Dejan Sarka
 ## Title: Introducing R and Using R in MS BI Suite

@@ -1,3 +1,4 @@
+#### Nr: 268
 #### [Back to Main list](index.md)
 # SQLSaturday #268 - Connecticut 2014
 Start Time (24h)|Speaker|Track|Title
@@ -30,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10678
 # Implementing a HIPAA Compliance Strategy with SQL Server
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Brandon Leach
 ## Title: Implementing a HIPAA Compliance Strategy with SQL Server
@@ -41,7 +42,7 @@ In this hour long session We'll delve into the Health Insurance Portability and 
 #  
 #### SessionID: 11849
 # Inroduction to Triggers
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Jack Corbett
 ## Title: Inroduction to Triggers
@@ -50,7 +51,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 12532
 # Squeezing Top Performance from Your Virtualized SQL Server
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Infrastructure / Virtualization
 ## Speaker: David Klee
 ## Title: Squeezing Top Performance from Your Virtualized SQL Server
@@ -59,7 +60,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Infrastructure / Virtua
 #  
 #### SessionID: 13835
 # Query Optimization Crash Course
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Edward Pollack
 ## Title: Query Optimization Crash Course
@@ -69,7 +70,7 @@ This is a fun, fast-paced walkthrough of the most effective strategies for query
 #  
 #### SessionID: 17041
 # Effective use of temporary tables
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: John Miner
 ## Title: Effective use of temporary tables
@@ -80,7 +81,7 @@ I will be covering these various TSQL techniques with examples using the [Advent
 #  
 #### SessionID: 17652
 # 7 Great things you can do to improve and manage customer relationships
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Database Design
 ## Speaker: Juan Soto
 ## Title: 7 Great things you can do to improve and manage customer relationships
@@ -89,7 +90,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Database Design
 #  
 #### SessionID: 18265
 # Implementing Data Warehouse Patterns with the Microsoft BI Tools
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Kevin Goff
 ## Title: Implementing Data Warehouse Patterns with the Microsoft BI Tools
@@ -98,7 +99,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 19115
 # Native File Streaming with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Database Design
 ## Speaker: Lenni Lobel
 ## Title: Native File Streaming with SQL Server 2012
@@ -107,7 +108,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Database Design
 #  
 #### SessionID: 19116
 # Understanding your .NET 4.0 Data Access Options
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Database Design
 ## Speaker: Lenni Lobel
 ## Title: Understanding your .NET 4.0 Data Access Options
@@ -119,7 +120,7 @@ How to you sort out this chaos? Is conventional ADO.NET dead? Is it possible to 
 #  
 #### SessionID: 20537
 # What the VLF? 
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Mike Hillwig
 ## Title: What the VLF? 
@@ -133,7 +134,7 @@ In this more advanced session, veteran DBA Mike Hillwig will show you what VLFs 
 #  
 #### SessionID: 20539
 # From Mess to Mastery: Managing Large Environments 
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Mike Hillwig
 ## Title: From Mess to Mastery: Managing Large Environments 
@@ -146,7 +147,7 @@ By leveraging what you already have in SQL Server, you'll certainly be able to d
 #  
 #### SessionID: 20623
 # What I Wish I Knew Before Becoming a DBA
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Mike Walsh
 ## Title: What I Wish I Knew Before Becoming a DBA
@@ -159,7 +160,7 @@ He'll look through his 13 years of DBA experience and share some of the lessons 
 #  
 #### SessionID: 20987
 # SQL Server Compression - Getting More Out of Less
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Database Design
 ## Speaker: Michael Nowill
 ## Title: SQL Server Compression - Getting More Out of Less
@@ -168,7 +169,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Database Design
 #  
 #### SessionID: 21584
 # Indexing your Data Warehouse
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Database Design
 ## Speaker: Troy Gallant
 ## Title: Indexing your Data Warehouse
@@ -177,7 +178,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Database Design
 #  
 #### SessionID: 21647
 # Database Forensics - Part 1
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Infrastructure / Virtualization
 ## Speaker: Paresh Motiwala
 ## Title: Database Forensics - Part 1
@@ -196,7 +197,7 @@ In this the first of the two part session, we will explore the following:
 #  
 #### SessionID: 21648
 # Database Forensics - Part 2
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Infrastructure / Virtualization
 ## Speaker: Paresh Motiwala
 ## Title: Database Forensics - Part 2
@@ -210,7 +211,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Infrastructure / Virtua
 #  
 #### SessionID: 22471
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -220,7 +221,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 23544
 # HealthySQL 2.0
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Robert Pearl
 ## Title: HealthySQL 2.0
@@ -229,7 +230,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 24022
 # Get-PowerShell-3 | Get-SQLServer-2012
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: SB Chatterjee
 ## Title: Get-PowerShell-3 | Get-SQLServer-2012
@@ -241,7 +242,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 25136
 # Monitoring Databases in a Virtual Environment
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Infrastructure / Virtualization
 ## Speaker: Thomas LaRock
 ## Title: Monitoring Databases in a Virtual Environment
@@ -250,7 +251,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Infrastructure / Virtua
 #  
 #### SessionID: 25362
 # DAX and the tabular model
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Steve Simon
 ## Title: DAX and the tabular model
@@ -260,7 +261,7 @@ We shall discuss many of the often used functions, discuss their 'overloads' (ut
 #  
 #### SessionID: 25365
 # Challenges to designing financial warehouses, lessons learnt
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Steve Simon
 ## Title: Challenges to designing financial warehouses, lessons learnt
@@ -270,7 +271,7 @@ In this presentation, we shall look at some of the challenges and design issues 
 #  
 #### SessionID: 25873
 # Develop Impressive Dashboards using SSRS 2014
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Sunil Kadimdiwan
 ## Title: Develop Impressive Dashboards using SSRS 2014
@@ -279,7 +280,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 26116
 # Security and High Availability and DR
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Infrastructure / Virtualization
 ## Speaker: Thomas Grohser
 ## Title: Security and High Availability and DR
@@ -288,7 +289,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Infrastructure / Virtua
 #  
 #### SessionID: 26970
 # Adding User Configurations to an Analysis Server Cube
-#### [Back to calendar](#SQLSaturday-#268-Connecticut-2014)
+#### [Back to calendar](#nr-268)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Todd Chittenden
 ## Title: Adding User Configurations to an Analysis Server Cube

@@ -1,3 +1,4 @@
+#### Nr: 435
 #### [Back to Main list](index.md)
 # SQLSaturday #435 - El Paso 2015
 Start Time (24h)|Speaker|Track|Title
@@ -21,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 36355
 # Becoming Certified In Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Chris Hyde
 ## Title: Becoming Certified In Microsoft SQL Server
@@ -30,7 +31,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 36668
 # What’s this ‘Scaffolding a CRUD’ all about? Build a Website from your SQL Database
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Gabriel Villa
 ## Title: What’s this ‘Scaffolding a CRUD’ all about? Build a Website from your SQL Database
@@ -39,7 +40,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 38916
 # Why should I care about the plan cache?
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about the plan cache?
@@ -48,7 +49,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 36353
 # Row-Based Security in SSRS and SSAS
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Hyde
 ## Title: Row-Based Security in SSRS and SSAS
@@ -57,7 +58,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 38232
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -66,7 +67,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 38710
 # Build Android and iOS Apps with C# and Xamarin
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Russ Burns
 ## Title: Build Android and iOS Apps with C# and Xamarin
@@ -75,7 +76,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 36399
 # The Ins and Outs of SQL Indexes
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: The Ins and Outs of SQL Indexes
@@ -84,7 +85,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 38182
 # Relational Databases to Relational Leadership -  how to be a great leader
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Hasani X
 ## Title: Relational Databases to Relational Leadership -  how to be a great leader
@@ -100,7 +101,7 @@ How to Maximize Leadership Performance
 #  
 #### SessionID: 38324
 # Reporting with Spatial Data
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Russ Burns
 ## Title: Reporting with Spatial Data
@@ -109,7 +110,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 40516
 # Solving Business Problems Using SQL Window Functions
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Swan Webb
 ## Title: Solving Business Problems Using SQL Window Functions
@@ -118,7 +119,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 36666
 # Don’t fall victim to Little Bobby Tables: Guide to Developing a Secure Database Application
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Gabriel Villa
 ## Title: Don’t fall victim to Little Bobby Tables: Guide to Developing a Secure Database Application
@@ -127,7 +128,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 38165
 # Data Warehouse Design Decisions
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Colleen Barnitz
 ## Title: Data Warehouse Design Decisions
@@ -136,7 +137,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 38233
 # SQL Server Defaults SUCK!!
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Boles
 ## Title: SQL Server Defaults SUCK!!
@@ -148,7 +149,7 @@ This session will cover a laundry list from BIOS Power Setting to data file grow
 #  
 #### SessionID: 36401
 # SQL Server Bingo – Install, Migration  Config
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mindy Curnutt
 ## Title: SQL Server Bingo – Install, Migration  Config
@@ -157,7 +158,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38235
 # SQL Server 2014 New Features
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Other
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2014 New Features
@@ -166,7 +167,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 40148
 # Breaking Productivity Boundaries with BIML
-#### [Back to calendar](#SQLSaturday-#435-El-Paso-2015)
+#### [Back to calendar](#nr-435)
 Event Date: 29-08-2015 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Adrian Chacon
 ## Title: Breaking Productivity Boundaries with BIML

@@ -1,3 +1,4 @@
+#### Nr: 143
 #### [Back to Main list](index.md)
 # SQLSaturday #143 - Honolulu 2012
 Start Time (24h)|Speaker|Track|Title
@@ -14,7 +15,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11729
 # Building a BI Semantic Model for Power View
-#### [Back to calendar](#SQLSaturday-#143-Honolulu-2012)
+#### [Back to calendar](#nr-143)
 Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Matt Hollingsworth
 ## Title: Building a BI Semantic Model for Power View
@@ -23,7 +24,7 @@ Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11730
 # SQL Server 2012 AlwaysOn Enhancements
-#### [Back to calendar](#SQLSaturday-#143-Honolulu-2012)
+#### [Back to calendar](#nr-143)
 Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Matt Hollingsworth
 ## Title: SQL Server 2012 AlwaysOn Enhancements
@@ -32,7 +33,7 @@ Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11731
 # SQL Server 2012 EIM (SSIS, DQS, and MDS)
-#### [Back to calendar](#SQLSaturday-#143-Honolulu-2012)
+#### [Back to calendar](#nr-143)
 Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Matt Hollingsworth
 ## Title: SQL Server 2012 EIM (SSIS, DQS, and MDS)
@@ -41,7 +42,7 @@ Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 12910
 # Advancing Data Storage: How Flash-Optimized Storag
-#### [Back to calendar](#SQLSaturday-#143-Honolulu-2012)
+#### [Back to calendar](#nr-143)
 Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: David Cressman
 ## Title: Advancing Data Storage: How Flash-Optimized Storag
@@ -55,7 +56,7 @@ But SSDs by themselves are not the solution. The next decade will be dominated b
 #  
 #### SessionID: 14968
 # SQL 2012 and SharePoint 2010: Reporting Nirvana
-#### [Back to calendar](#SQLSaturday-#143-Honolulu-2012)
+#### [Back to calendar](#nr-143)
 Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Wen He
 ## Title: SQL 2012 and SharePoint 2010: Reporting Nirvana
@@ -64,7 +65,7 @@ Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14969
 # Self-Service BI with SharePoint - Today  Tomorrow
-#### [Back to calendar](#SQLSaturday-#143-Honolulu-2012)
+#### [Back to calendar](#nr-143)
 Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Wen He
 ## Title: Self-Service BI with SharePoint - Today  Tomorrow
@@ -73,7 +74,7 @@ Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23102
 # SSIS 2012 Management Considerations and Best Pract
-#### [Back to calendar](#SQLSaturday-#143-Honolulu-2012)
+#### [Back to calendar](#nr-143)
 Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Rushabh Mehta
 ## Title: SSIS 2012 Management Considerations and Best Pract
@@ -82,7 +83,7 @@ Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23103
 # Introduction to Master Data Management (MDM)
-#### [Back to calendar](#SQLSaturday-#143-Honolulu-2012)
+#### [Back to calendar](#nr-143)
 Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rushabh Mehta
 ## Title: Introduction to Master Data Management (MDM)
@@ -91,7 +92,7 @@ Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23104
 # Introduction to Data Quality Services
-#### [Back to calendar](#SQLSaturday-#143-Honolulu-2012)
+#### [Back to calendar](#nr-143)
 Event Date: 02-08-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Rushabh Mehta
 ## Title: Introduction to Data Quality Services

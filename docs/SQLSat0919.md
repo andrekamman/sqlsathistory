@@ -1,3 +1,4 @@
+#### Nr: 919
 #### [Back to Main list](index.md)
 # SQLSaturday #919 - Atlanta - BI Edition 2019
 Start Time (24h)|Speaker|Track|Title
@@ -43,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 96118
 # Keeping Your Data Secure In Azure While Automatically Refreshing Power BI Datasets
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 ## Speaker: Cornell Emile
 ## Title: Keeping Your Data Secure In Azure While Automatically Refreshing Power BI Datasets
@@ -56,7 +57,7 @@ This advanced Power BI session presents several techniques that can be used to m
 #  
 #### SessionID: 96128
 # DAX Fundamentals
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 ## Speaker: Lance England
 ## Title: DAX Fundamentals
@@ -74,7 +75,7 @@ Topics include:
 #  
 #### SessionID: 96397
 # Replace Hundreds of Fragmented SSRS Reports with Integrated Dashboards in Weeks
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chad Buher
 ## Title: Replace Hundreds of Fragmented SSRS Reports with Integrated Dashboards in Weeks
@@ -89,7 +90,7 @@ In this session, we will explore:
 #  
 #### SessionID: 96582
 # Power BI Dataset Tuning
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Armando Lacerda
 ## Title: Power BI Dataset Tuning
@@ -98,7 +99,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 96584
 # User Experience Brilliance in Power BI Dashboards
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Hilary Wilkie
 ## Title: User Experience Brilliance in Power BI Dashboards
@@ -109,7 +110,7 @@ In this session, we will explore how to start using UX and the psychology behind
 #  
 #### SessionID: 97967
 # Speed up your data models using Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Lucas Feiock
 ## Title: Speed up your data models using Azure Analysis Services
@@ -118,7 +119,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 98006
 # Architecture Blueprints for Power BI Implementation
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 ## Speaker: Reza Rad
 ## Title: Architecture Blueprints for Power BI Implementation
@@ -131,7 +132,7 @@ Come to this session to learn about important things you need to know about the 
 #  
 #### SessionID: 95615
 # The Power of Electric Snakes! An Introduction to PySpark for Big Data Analytics
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brad Llewellyn
 ## Title: The Power of Electric Snakes! An Introduction to PySpark for Big Data Analytics
@@ -140,7 +141,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 96042
 # The Psychology of Better Power BI Reporting
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Watson
 ## Title: The Psychology of Better Power BI Reporting
@@ -149,7 +150,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 96135
 # DAX 101 and 102
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Belinda Allen
 ## Title: DAX 101 and 102
@@ -163,7 +164,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 96795
 # Introduction to Azure Streaming Analytics
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Streaming Analytics
@@ -172,7 +173,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 96852
 # Changing Data Is Easy, Managing Data Change is Hard!
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: James McAuliffe
 ## Title: Changing Data Is Easy, Managing Data Change is Hard!
@@ -181,7 +182,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 98009
 # AI Builder: AI in Power Apps and Microsoft Flow
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Data Science
 ## Speaker: Leila Etaati
 ## Title: AI Builder: AI in Power Apps and Microsoft Flow
@@ -190,7 +191,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Data Science
 #  
 #### SessionID: 98081
 # Evolving Your BI Environment From SSRS To Power BI
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Preston Mesarvey
 ## Title: Evolving Your BI Environment From SSRS To Power BI
@@ -199,7 +200,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 98278
 # Running Windows and SQL Workloads on Google Cloud Platform
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Jay Rajendran
 ## Title: Running Windows and SQL Workloads on Google Cloud Platform
@@ -208,7 +209,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 98826
 # Dimension Management for Power BI
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 ## Speaker: Tyler Graham
 ## Title: Dimension Management for Power BI
@@ -217,7 +218,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 #  
 #### SessionID: 99067
 # Data Governance Implications of the California Consumer Protectio
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Geoffrey Rayner
 ## Title: Data Governance Implications of the California Consumer Protectio
@@ -226,7 +227,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 98007
 # Unleash Row Level Security Patterns in Power BI
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 ## Speaker: Reza Rad
 ## Title: Unleash Row Level Security Patterns in Power BI
@@ -235,7 +236,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 #  
 #### SessionID: 98010
 # Microsoft AutoML the Next Generation of Machine Learning
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Data Science
 ## Speaker: Leila Etaati
 ## Title: Microsoft AutoML the Next Generation of Machine Learning
@@ -244,7 +245,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Data Science
 #  
 #### SessionID: 98014
 # Data Science 101: An Introduction to Data Science Using Python
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ganesh Lohani
 ## Title: Data Science 101: An Introduction to Data Science Using Python
@@ -253,7 +254,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 98225
 # Data Modeling and DAX Tips for Power BI
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 ## Speaker: Patrick LeBlanc
 ## Title: Data Modeling and DAX Tips for Power BI
@@ -262,7 +263,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 #  
 #### SessionID: 98276
 # Intro to Power BI (or "How Power BI changed my Marriage")
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 ## Speaker: Jason Russell
 ## Title: Intro to Power BI (or "How Power BI changed my Marriage")
@@ -271,7 +272,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 #  
 #### SessionID: 98542
 # Power BI Pro, or Premium: that is the question
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Teo Lachev
 ## Title: Power BI Pro, or Premium: that is the question
@@ -285,7 +286,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 98606
 # Power BI for Data Scientists
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 ## Speaker: Javier Guillen
 ## Title: Power BI for Data Scientists
@@ -296,7 +297,7 @@ This session will provide an overview of typical use cases that benefit from Pow
 #  
 #### SessionID: 95764
 # Moving Data with Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Andy Leonard
 ## Title: Moving Data with Azure Data Factory
@@ -310,7 +311,7 @@ Attend this session to learn:
 #  
 #### SessionID: 96245
 # AI for the Masses: The Democratization of Artificial Intelligence in the Microsoft Ecosystem
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Ryan Wade
 ## Title: AI for the Masses: The Democratization of Artificial Intelligence in the Microsoft Ecosystem
@@ -327,7 +328,7 @@ Come to this information packed session, and you will walk away with ideas of ho
 #  
 #### SessionID: 96313
 # Managing ETL Change Using BIMLScript
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Russel Loski
 ## Title: Managing ETL Change Using BIMLScript
@@ -338,7 +339,7 @@ To demonstrate such an approach, I import some US census data. I create the SSIS
 #  
 #### SessionID: 96378
 # Power BI Embedded for Fun and Profit
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 ## Speaker: Samara Soucy
 ## Title: Power BI Embedded for Fun and Profit
@@ -349,7 +350,7 @@ None of that is fun, and it certainly isn't the most efficient use of time or fu
 #  
 #### SessionID: 98044
 # SQL Server Data Tools (SSDT) = Awesome
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Paul Waters
 ## Title: SQL Server Data Tools (SSDT) = Awesome
@@ -370,7 +371,7 @@ In this presentation, I will show you how to get started with SSDT, get some qui
 #  
 #### SessionID: 98045
 # Cool Things You Can Do With Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Daniel McConnell
 ## Title: Cool Things You Can Do With Azure Data Factory
@@ -384,7 +385,7 @@ What does it cost really?
 #  
 #### SessionID: 98224
 # Power BI Performance in 6 Demos
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 ## Speaker: Patrick LeBlanc
 ## Title: Power BI Performance in 6 Demos
@@ -393,7 +394,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 #  
 #### SessionID: 95595
 # Level Up: Data Modeling for the Power BI Rockstar
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Anton
 ## Title: Level Up: Data Modeling for the Power BI Rockstar
@@ -408,7 +409,7 @@ If your Power BI solutions typically contain a single table, if you're frequentl
 #  
 #### SessionID: 95597
 # AI on the Edge
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jared Rhodes
 ## Title: AI on the Edge
@@ -417,7 +418,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 95612
 # Azure Machine Learning Studio: Making Data Science Easy(er)
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Brad Llewellyn
 ## Title: Azure Machine Learning Studio: Making Data Science Easy(er)
@@ -426,7 +427,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 95884
 # Using Python In Power BI
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Data Science
 ## Speaker: Julie Smith
 ## Title: Using Python In Power BI
@@ -435,7 +436,7 @@ Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Data Science
 #  
 #### SessionID: 96831
 # Aggregations in Power BI
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: Power BI
 ## Speaker: Shabnam Watson
 ## Title: Aggregations in Power BI
@@ -446,7 +447,7 @@ In this session, you will learn about aggregations, different table storage mode
 #  
 #### SessionID: 98524
 # Using Your On-prem Data in a Cloud World
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Glenn
 ## Title: Using Your On-prem Data in a Cloud World
@@ -457,7 +458,7 @@ In this session, we will discover the benefits of using the cloud tools, how tho
 #  
 #### SessionID: 99225
 # Power BI Architecture
-#### [Back to calendar](#SQLSaturday-#919-Atlanta-BI-Edition-2019)
+#### [Back to calendar](#nr-919)
 Event Date: 19-10-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paco Gonzalez
 ## Title: Power BI Architecture

@@ -1,3 +1,4 @@
+#### Nr: 903
 #### [Back to Main list](index.md)
 # SQLSaturday #903 - Johannesburg 2019
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 93950
 # Data Types Do Matter
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Angela Henry
 ## Title: Data Types Do Matter
@@ -38,7 +39,7 @@ Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 93987
 # DAX and the tabular model
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Information Delivery
 ## Speaker: Steve Simon
 ## Title: DAX and the tabular model
@@ -48,7 +49,7 @@ We shall discuss many of the often used functions, discuss their 'overloads' (ut
 #  
 #### SessionID: 95909
 # What is the PiRate, Snake, and Cup of Coffee Doing in My Database?
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Niels Berglund
 ## Title: What is the PiRate, Snake, and Cup of Coffee Doing in My Database?
@@ -58,7 +59,7 @@ Here we look at the SQL Server Extensibility Framework, and we see how we can ca
 #  
 #### SessionID: 95998
 # Hyperscale! Database at the speed of cloud
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Gail Shaw
 ## Title: Hyperscale! Database at the speed of cloud
@@ -71,7 +72,7 @@ In this talk I'll show how the hyperscale architecture differs from a normal dat
 #  
 #### SessionID: 96641
 # Azure ML Studio for Beginners - Exploring, Creating  Training Models
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jeanne Combrinck
 ## Title: Azure ML Studio for Beginners - Exploring, Creating  Training Models
@@ -80,7 +81,7 @@ Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 94196
 # Are you making sure that you are standing out as a TOP IT Professional in South Africa?
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Vanessa Raath
 ## Title: Are you making sure that you are standing out as a TOP IT Professional in South Africa?
@@ -91,7 +92,7 @@ In order to be seen as a Thought Leader in your chosen IT discipline these days,
 #  
 #### SessionID: 95751
 # Working with data in Python for Beginners
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jean-Pierre Voogt
 ## Title: Working with data in Python for Beginners
@@ -102,7 +103,7 @@ In this session, we will use Python in an easy to understand layout by using Not
 #  
 #### SessionID: 96267
 # Design Strategies and Advanced Data Visualization: The Ingredients for a Delicious Data Story
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: James McGillivray
 ## Title: Design Strategies and Advanced Data Visualization: The Ingredients for a Delicious Data Story
@@ -115,7 +116,7 @@ Every data story is unique, but the techniques for effective data presentation a
 #  
 #### SessionID: 96480
 # Fully Managed Cloud Born DBaaS - Azure SQL DB Managed Instance
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alain Dormehl
 ## Title: Fully Managed Cloud Born DBaaS - Azure SQL DB Managed Instance
@@ -126,7 +127,7 @@ Azure SQL Database Managed Instance is a new deployment option for Azure SQL Dat
 #  
 #### SessionID: 96715
 # SQL Server Always On Availability Groups on Azure Kubernetes Services
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Warren du Toit
 ## Title: SQL Server Always On Availability Groups on Azure Kubernetes Services
@@ -135,7 +136,7 @@ Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 95847
 # A Beginners guide to Data Modeling
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tinus Visagie
 ## Title: A Beginners guide to Data Modeling
@@ -151,7 +152,7 @@ Go from Zoolander too Right Said Fred and be Too Sexy for your data in 50 minute
 #  
 #### SessionID: 95908
 # A Lap Around SQL Server Big Data Cluster
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Niels Berglund
 ## Title: A Lap Around SQL Server Big Data Cluster
@@ -161,7 +162,7 @@ This session gives you an overview of what a SQL Server Big Data Cluster is, and
 #  
 #### SessionID: 96649
 # A Day in the Life of the Data Scientist
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Buck Woody
 ## Title: A Day in the Life of the Data Scientist
@@ -170,7 +171,7 @@ Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 96726
 # Data Estate Modernization : Taking the guess work out of migrating to the cloud.
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: Jody Roberts
 ## Title: Data Estate Modernization : Taking the guess work out of migrating to the cloud.
@@ -187,7 +188,7 @@ Including 3 migration options in Microsoft Azure for your applications and datab
 #  
 #### SessionID: 95640
 # Paginated Reports in Power BI and SSRS
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Arohan Naidoo
 ## Title: Paginated Reports in Power BI and SSRS
@@ -196,7 +197,7 @@ Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 95999
 # There are Gremlins in my CosmosDB
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Gail Shaw
 ## Title: There are Gremlins in my CosmosDB
@@ -207,7 +208,7 @@ In this presentation I’m going to take you through the basics of what CosmosDB
 #  
 #### SessionID: 96614
 # Power BI + Microsoft Flow + PowerApps = Real Magic
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sven Vosse
 ## Title: Power BI + Microsoft Flow + PowerApps = Real Magic
@@ -227,7 +228,7 @@ Here are some of the things we’ll cover:
 #  
 #### SessionID: 96650
 # How to Migrate to Azure SQL
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Anna Hoffman
 ## Title: How to Migrate to Azure SQL
@@ -236,7 +237,7 @@ Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 96937
 # How to Become Microsoft Certified
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Vernon Du Preez
 ## Title: How to Become Microsoft Certified
@@ -246,7 +247,7 @@ Then Microsoft Certifications are for you. In this session, we will look at the 
 #  
 #### SessionID: 95318
 # Profiling Your Data
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Angela Henry
 ## Title: Profiling Your Data
@@ -255,7 +256,7 @@ Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 95725
 # Web Scraping
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Andrew Collier
 ## Title: Web Scraping
@@ -267,7 +268,7 @@ https://github.com/datawookie/talks/tree/master/2019-09-07-sql-saturday-johannes
 #  
 #### SessionID: 96148
 # Big Data Analytics with Power BI
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Kathryn Varrall
 ## Title: Big Data Analytics with Power BI
@@ -276,7 +277,7 @@ Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 96277
 # Data wrangling using Power Query and M language
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sandesh Nagaraj
 ## Title: Data wrangling using Power Query and M language
@@ -293,7 +294,7 @@ In this session, I will demonstrate around 30 Things that one can do with Power 
 #  
 #### SessionID: 96644
 # SQL Server 2019: The Modern Database Platform
-#### [Back to calendar](#SQLSaturday-#903-Johannesburg-2019)
+#### [Back to calendar](#nr-903)
 Event Date: 07-09-2019 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: SQL Server 2019: The Modern Database Platform

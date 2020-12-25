@@ -1,3 +1,4 @@
+#### Nr: 797
 #### [Back to Main list](index.md)
 # SQLSaturday #797 - Boston 2018
 Start Time (24h)|Speaker|Track|Title
@@ -47,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 85333
 # SQL Server running with VMware , Rich History ; Brilliant Future
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Keynote
 ## Speaker: Mike Adams
 ## Title: SQL Server running with VMware , Rich History ; Brilliant Future
@@ -56,7 +57,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Keynote
 #  
 #### SessionID: 83334
 # Documenting your SQL Server environment with PowerShell
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Matthew Anderson
 ## Title: Documenting your SQL Server environment with PowerShell
@@ -67,7 +68,7 @@ Finding a free and simple method to gather information about my SQL Server envir
 #  
 #### SessionID: 83396
 # 10 Years of Highs and Lows as an Independent Consultant
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Allan Hirt
 ## Title: 10 Years of Highs and Lows as an Independent Consultant
@@ -76,7 +77,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 84294
 # T-SQL Tips  Tricks to Make Your Life Easier!
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Development
 ## Speaker: Andy Yun
 ## Title: T-SQL Tips  Tricks to Make Your Life Easier!
@@ -89,7 +90,7 @@ This session targets both developers and DBAs; the only prerequisites are the de
 #  
 #### SessionID: 84444
 # Introduction to Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Derik Hammer
 ## Title: Introduction to Azure SQL Data Warehouse
@@ -98,7 +99,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Cloud
 #  
 #### SessionID: 84721
 # Data Protection  Privacy in the World of Database DevOps
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Development
 ## Speaker: Grant Fritchey
 ## Title: Data Protection  Privacy in the World of Database DevOps
@@ -107,7 +108,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 84890
 # A Different Dimension to Performance Tuning: Resource Governor
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Surbhi Pokharna
 ## Title: A Different Dimension to Performance Tuning: Resource Governor
@@ -118,7 +119,7 @@ In this session we will deep dive to learn how to use Resource Governor to cap d
 #  
 #### SessionID: 84993
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Analytics/BI
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -129,7 +130,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 83077
 # Tracking Index Usage Like a Pro!
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Edward Pollack
 ## Title: Tracking Index Usage Like a Pro!
@@ -143,7 +144,7 @@ In this session, we will discuss how SQL Server tracks index utilization and the
 #  
 #### SessionID: 83119
 # DAX and the tabular model
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Analytics/BI
 ## Speaker: Steve Simon
 ## Title: DAX and the tabular model
@@ -153,7 +154,7 @@ We shall discuss many of the often used functions, discuss their 'overloads' (ut
 #  
 #### SessionID: 83227
 # Extended Events: What are they and How do I use them
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
@@ -162,7 +163,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 #  
 #### SessionID: 83297
 # Azure Databricks = Azure + Spark + Machine Learning Collaboration
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Analytics/BI
 ## Speaker: Bryan Cafferky
 ## Title: Azure Databricks = Azure + Spark + Machine Learning Collaboration
@@ -171,7 +172,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Analytics/BI
 #  
 #### SessionID: 83347
 # Faster SSIS
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Analytics/BI
 ## Speaker: Andy Leonard
 ## Title: Faster SSIS
@@ -184,7 +185,7 @@ Finally, we'll demonstrate a design pattern that uses a Script Component in a Da
 #  
 #### SessionID: 83963
 # SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Rick Lowe
 ## Title: SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
@@ -193,7 +194,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Cloud
 #  
 #### SessionID: 84944
 # Azure CosmosDB and Tools
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Development
 ## Speaker: Bhavna Mangal
 ## Title: Azure CosmosDB and Tools
@@ -203,7 +204,7 @@ This session will also cover CosmosDB Explorer in Public View. It can be used to
 #  
 #### SessionID: 85188
 # Rubrik-Simplifying SQL Data Protection
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Sponsor
 ## Speaker: Chris Lumnah
 ## Title: Rubrik-Simplifying SQL Data Protection
@@ -212,7 +213,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Sponsor
 #  
 #### SessionID: 85274
 # Going Beyond Monitoring With SentryOne
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Sponsor
 ## Speaker: Andy Yun
 ## Title: Going Beyond Monitoring With SentryOne
@@ -225,7 +226,7 @@ Join me and I'll show you how SentryOne provides environment wide visibility and
 #  
 #### SessionID: 85281
 # Architecting SQL Server on VMware vSphere - Doing it Right!
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Sponsor
 ## Speaker: Oleg Ulyanov
 ## Title: Architecting SQL Server on VMware vSphere - Doing it Right!
@@ -246,7 +247,7 @@ It all that you want to know about virtual platform configuration but hesitated 
 #  
 #### SessionID: 85452
 # Delivering SQL Server High Availability on Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Sponsor
 ## Speaker: Michael Traudt
 ## Title: Delivering SQL Server High Availability on Microsoft Azure
@@ -255,7 +256,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Sponsor
 #  
 #### SessionID: 85674
 # WIT panel discussion
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: WIT
 ## Speaker: Deborah Melkin
 ## Title: WIT panel discussion
@@ -264,7 +265,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: WIT
 #  
 #### SessionID: 85732
 # How to Get Management Buy-In for Compliant Provisioning Software
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Sponsor
 ## Speaker: Dustin Abney
 ## Title: How to Get Management Buy-In for Compliant Provisioning Software
@@ -273,7 +274,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Sponsor
 #  
 #### SessionID: 83081
 # Networking 101: Building professional relationships
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Networking 101: Building professional relationships
@@ -284,7 +285,7 @@ In this interactive session, we will discuss networking -- what it is, why it's 
 #  
 #### SessionID: 83340
 # Master your tools: SSMS
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Development
 ## Speaker: Varsham Papikian
 ## Title: Master your tools: SSMS
@@ -293,7 +294,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 83345
 # Understanding Power BI Administration and Security
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Analytics/BI
 ## Speaker: Ginger Grant
 ## Title: Understanding Power BI Administration and Security
@@ -302,7 +303,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Analytics/BI
 #  
 #### SessionID: 83409
 # BI Infrastructure in Azure: Points to Consider
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Analytics/BI
 ## Speaker: Paresh Motiwala
 ## Title: BI Infrastructure in Azure: Points to Consider
@@ -318,7 +319,7 @@ We will also learn about setting up teams and ways to train them(and yourself) i
 #  
 #### SessionID: 84496
 # Containerized databases: SQL Server and DevOps
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Ned Otter
 ## Title: Containerized databases: SQL Server and DevOps
@@ -329,7 +330,7 @@ These are just a few of the questions we will answer in this session. Containers
 #  
 #### SessionID: 84722
 # Exploring Execution Plans
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Development
 ## Speaker: Grant Fritchey
 ## Title: Exploring Execution Plans
@@ -338,7 +339,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 85027
 # The Case for Change: Identifying and Remedying Bad Code
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Development
 ## Speaker: Amy Herold
 ## Title: The Case for Change: Identifying and Remedying Bad Code
@@ -349,7 +350,7 @@ How do you capture those bad queries? When you have this data what do you look a
 #  
 #### SessionID: 83087
 # Database Project Makes Deployment Consistent
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
@@ -358,7 +359,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 #  
 #### SessionID: 83096
 # What's new in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Development
 ## Speaker: Hasan Savran
 ## Title: What's new in SQL Server 2017
@@ -367,7 +368,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 83310
 # Organizational Security  Compliance with SQL 2012 through 2016/2017
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 ## Speaker: George Walters
 ## Title: Organizational Security  Compliance with SQL 2012 through 2016/2017
@@ -376,7 +377,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 #  
 #### SessionID: 83332
 # Azure Data Factory V2 /ETL in the clouds
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Analytics/BI
 ## Speaker: Christian Cote
 ## Title: Azure Data Factory V2 /ETL in the clouds
@@ -386,7 +387,7 @@ This session will also introduce concepts like the modern data warehouse and wha
 #  
 #### SessionID: 83349
 # Case study: How we simulated a lights-out data center DR test
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Michael O'Leary
 ## Title: Case study: How we simulated a lights-out data center DR test
@@ -399,7 +400,7 @@ This case study is a real-world story about how we decided to test our DR plans 
 #  
 #### SessionID: 83401
 # From (User) Story to Tables: Read Between the Lines to Find Your Data
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Development
 ## Speaker: Deborah Melkin
 ## Title: From (User) Story to Tables: Read Between the Lines to Find Your Data
@@ -414,7 +415,7 @@ This is for DBAs who are involved in any part of designing databases, who want t
 #  
 #### SessionID: 84170
 # Inventory your data with Azure Data Catalog
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Beth Wolfset
 ## Title: Inventory your data with Azure Data Catalog
@@ -423,7 +424,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 #  
 #### SessionID: 83200
 # Supercharging Backups and Restores For Fun and Profit
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Bob Pusateri
 ## Title: Supercharging Backups and Restores For Fun and Profit
@@ -432,7 +433,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 #  
 #### SessionID: 83208
 # A DBAs guide to the proper handling of corruption
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Brandon Leach
 ## Title: A DBAs guide to the proper handling of corruption
@@ -443,7 +444,7 @@ Then we will move onto how to respond to some common example of corruption.  Weâ
 #  
 #### SessionID: 83503
 # Effective Data Warehouse Storage Patterns
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Development
 ## Speaker: John Miner
 ## Title: Effective Data Warehouse Storage Patterns
@@ -472,7 +473,7 @@ Coverage:
 #  
 #### SessionID: 83624
 # Shaving off Microseconds
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Development
 ## Speaker: Thomas Grohser
 ## Title: Shaving off Microseconds
@@ -481,7 +482,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 84826
 # Power up SSRS 2017 with Power BI Report Server
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Analytics/BI
 ## Speaker: Sunil Kadimdiwan
 ## Title: Power up SSRS 2017 with Power BI Report Server
@@ -496,7 +497,7 @@ I will also show how you can develop and host Mobile reports, KPI and Paginated 
 #  
 #### SessionID: 84845
 # How to get your Dream Job: Resume  job hunting tips
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Andy Mallon
 ## Title: How to get your Dream Job: Resume  job hunting tips
@@ -511,7 +512,7 @@ Slides  handouts available on GitHub: http://am2.co/dream-job-ppt
 #  
 #### SessionID: 84943
 # Tune Like a Guru - The Big Three!
-#### [Back to calendar](#SQLSaturday-#797-Boston-2018)
+#### [Back to calendar](#nr-797)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Kevin Boles
 ## Title: Tune Like a Guru - The Big Three!

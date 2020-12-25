@@ -1,3 +1,4 @@
+#### Nr: 220
 #### [Back to Main list](index.md)
 # SQLSaturday #220 - Atlanta 2013
 Start Time (24h)|Speaker|Track|Title
@@ -65,7 +66,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10262
 # SMO Internals for High Performance PowerShell
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: PowerShell 
 ## Speaker: Ben Miller
 ## Title: SMO Internals for High Performance PowerShell
@@ -74,7 +75,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: PowerShell
 #  
 #### SessionID: 10263
 # SQL Server TDE
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 5 - Presented by Red Gate
 ## Speaker: Ben Miller
 ## Title: SQL Server TDE
@@ -84,7 +85,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 5 - Presented by Re
 #  
 #### SessionID: 10585
 # Jump-starting your career
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 2 - Presented by Tek Systems
 ## Speaker: Bobby Dimmick
 ## Title: Jump-starting your career
@@ -93,7 +94,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 2 - Presented by Te
 #  
 #### SessionID: 11122
 # Matching with Data Quality Services
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 1 - Presented by Slalom
 ## Speaker: Julie Smith
 ## Title: Matching with Data Quality Services
@@ -102,7 +103,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 1 - Presented by Sl
 #  
 #### SessionID: 11220
 # Data Warehouse physical design - better practices
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Twelfth Track!
 ## Speaker: Carlos Rodrigues
 ## Title: Data Warehouse physical design - better practices
@@ -111,7 +112,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Twelfth Track!
 #  
 #### SessionID: 11551
 # Enhanced Phone Interrogation
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBD 1 - Presented by Idera
 ## Speaker: Chris Skorlinski
 ## Title: Enhanced Phone Interrogation
@@ -120,7 +121,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBD 1 - Presented by Id
 #  
 #### SessionID: 12545
 # Squeezing the Most Performance from your VMware-Based SQL Server
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 2 - Presented by Precise
 ## Speaker: David Klee
 ## Title: Squeezing the Most Performance from your VMware-Based SQL Server
@@ -129,7 +130,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 2 - Presented by Pr
 #  
 #### SessionID: 13346
 # The Last Mile:  Dynamically Created Objects
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBD 1 - Presented by Idera
 ## Speaker: Dan Holmes
 ## Title: The Last Mile:  Dynamically Created Objects
@@ -138,7 +139,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBD 1 - Presented by Id
 #  
 #### SessionID: 13465
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 3 - Presented by Intellinet
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -148,7 +149,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 3 - Presented by In
 #  
 #### SessionID: 13698
 # Backup Strategies are for Losers!
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 2 - Presented by Precise
 ## Speaker: Ed Watson
 ## Title: Backup Strategies are for Losers!
@@ -157,7 +158,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 2 - Presented by Pr
 #  
 #### SessionID: 13885
 # High Availability with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 3 - Presented by Intellinet
 ## Speaker: Eric Peterson
 ## Title: High Availability with SQL Server 2012
@@ -166,7 +167,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 3 - Presented by In
 #  
 #### SessionID: 14088
 # Page Latches for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 1 - Presented by SIOS
 ## Speaker: Eddie Wuerch
 ## Title: Page Latches for Mere Mortals
@@ -175,7 +176,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 1 - Presented by SI
 #  
 #### SessionID: 14492
 # Smart Rats Leave First
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Zero Level
 ## Speaker: Geoff Hiten
 ## Title: Smart Rats Leave First
@@ -185,7 +186,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Zero Level
 #  
 #### SessionID: 15883
 # Advanced Charting Techniques in SSRS
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Twelfth Track!
 ## Speaker: Jason Thomas
 ## Title: Advanced Charting Techniques in SSRS
@@ -194,7 +195,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Twelfth Track!
 #  
 #### SessionID: 15884
 # GeoSpatial Analytics Using Microsoft BI
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 1 - Presented by Slalom
 ## Speaker: Jason Thomas
 ## Title: GeoSpatial Analytics Using Microsoft BI
@@ -203,7 +204,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 1 - Presented by Sl
 #  
 #### SessionID: 16021
 # DAX Formulas: Evaluation Context
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBD 1 - Presented by Idera
 ## Speaker: Javier Guillen
 ## Title: DAX Formulas: Evaluation Context
@@ -212,7 +213,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBD 1 - Presented by Id
 #  
 #### SessionID: 16073
 # T-SQL: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 3 - Presented by Intellinet
 ## Speaker: Jon Boulineau
 ## Title: T-SQL: Beyond the Basics
@@ -221,7 +222,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 3 - Presented by In
 #  
 #### SessionID: 16218
 # Using Compression to Improve Database Performance
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 4 - Presented by Dell
 ## Speaker: Joseph D'Antoni
 ## Title: Using Compression to Improve Database Performance
@@ -230,7 +231,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 4 - Presented by De
 #  
 #### SessionID: 16471
 # When a Strange Server Calls
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 1 - Presented by SIOS
 ## Speaker: Jennifer McCown
 ## Title: When a Strange Server Calls
@@ -239,7 +240,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 1 - Presented by SI
 #  
 #### SessionID: 16835
 # Taming Complex Tasks with the Psake Module
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: PowerShell 
 ## Speaker: Jim Christopher
 ## Title: Taming Complex Tasks with the Psake Module
@@ -250,7 +251,7 @@ In this session we will explore the PSake module, specifically learning how we c
 #  
 #### SessionID: 17351
 # PowerScripting Live! (PowerShell podcast / BoF)
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: PowerShell 
 ## Speaker: Jonathan Walz
 ## Title: PowerScripting Live! (PowerShell podcast / BoF)
@@ -259,7 +260,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: PowerShell
 #  
 #### SessionID: 17441
 # New T-SQL features in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 4 - Presented by Dell
 ## Speaker: Richie Rump
 ## Title: New T-SQL features in SQL Server 2012
@@ -268,7 +269,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 4 - Presented by De
 #  
 #### SessionID: 18205
 # Team Leadership Fundamentals
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Zero Level
 ## Speaker: Kevin Kline
 ## Title: Team Leadership Fundamentals
@@ -283,7 +284,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Zero Level
 #  
 #### SessionID: 19118
 # Report Builder: Reports made Easy.
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 3
 ## Speaker: Yelena Pavlyuk
 ## Title: Report Builder: Reports made Easy.
@@ -295,7 +296,7 @@ Then we'll walk through creating some reports to highlight Report Builder featur
 #  
 #### SessionID: 20620
 # What I Wish I Knew Before Becoming a DBA
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Zero Level
 ## Speaker: Mike Walsh
 ## Title: What I Wish I Knew Before Becoming a DBA
@@ -308,7 +309,7 @@ He'll look through his 13 years of DBA experience and share some of the lessons 
 #  
 #### SessionID: 20701
 # PowerShell Fundamentals for Beginners
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: PowerShell 
 ## Speaker: Mike Robbins
 ## Title: PowerShell Fundamentals for Beginners
@@ -317,7 +318,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: PowerShell
 #  
 #### SessionID: 21069
 # Using SQL Server 2012s Always On
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 4 - Presented by Dell
 ## Speaker: Denny Cherry
 ## Title: Using SQL Server 2012s Always On
@@ -326,7 +327,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 4 - Presented by De
 #  
 #### SessionID: 21070
 # Storage for the DBA
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 1 - Presented by SIOS
 ## Speaker: Denny Cherry
 ## Title: Storage for the DBA
@@ -335,7 +336,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 1 - Presented by SI
 #  
 #### SessionID: 21815
 # Automating SSIS Development with Biml
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 2 - Presented by Tek Systems
 ## Speaker: Paul Waters
 ## Title: Automating SSIS Development with Biml
@@ -345,7 +346,7 @@ In this session we will start by showing the power of Biml.  We will then step b
 #  
 #### SessionID: 22334
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 1 - Presented by Slalom
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports
@@ -355,7 +356,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 1 - Presented by Sl
 #  
 #### SessionID: 22738
 # SQL Database (Windows Azure)
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 5 - Presented by Red Gate
 ## Speaker: Ryan Duclos
 ## Title: SQL Database (Windows Azure)
@@ -366,7 +367,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 5 - Presented by Re
 #  
 #### SessionID: 23798
 # High Performance SANLess Clustering
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 1 - Presented by SIOS
 ## Speaker: Dave Bermingham and Eric Schwartz
 ## Title: High Performance SANLess Clustering
@@ -375,7 +376,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 1 - Presented by SI
 #  
 #### SessionID: 24677
 # Taking BI to the Next Level: Collaboration
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 1 - Presented by Slalom
 ## Speaker: Stacia Varga
 ## Title: Taking BI to the Next Level: Collaboration
@@ -384,7 +385,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 1 - Presented by Sl
 #  
 #### SessionID: 24693
 # Troubleshooting MDX Query Performance
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 3
 ## Speaker: Stacia Varga
 ## Title: Troubleshooting MDX Query Performance
@@ -393,7 +394,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 3
 #  
 #### SessionID: 24931
 # So You Want To Be A Rockstar Report Developer?
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 2 - Presented by Tek Systems
 ## Speaker: Melissa Coates
 ## Title: So You Want To Be A Rockstar Report Developer?
@@ -402,7 +403,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 2 - Presented by Te
 #  
 #### SessionID: 25760
 # SQL Server Parallel Data Warehouse 2012 Deep Dive
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 4 - Presented by Dell
 ## Speaker: Steve Busby
 ## Title: SQL Server Parallel Data Warehouse 2012 Deep Dive
@@ -411,7 +412,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 4 - Presented by De
 #  
 #### SessionID: 25837
 # Working with "Biggish Data"
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 4 - Presented by Dell
 ## Speaker: Stuart Ainsworth
 ## Title: Working with "Biggish Data"
@@ -420,7 +421,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 4 - Presented by De
 #  
 #### SessionID: 25903
 # Managing the SQL Server 2012 SSIS catalog (SSISDB)
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 1 - Presented by Slalom
 ## Speaker: Sven Aelterman
 ## Title: Managing the SQL Server 2012 SSIS catalog (SSISDB)
@@ -429,7 +430,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 1 - Presented by Sl
 #  
 #### SessionID: 25992
 # 45 min to build your first SSRS report
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 3 - Presented by Intellinet
 ## Speaker: Tamera Clark
 ## Title: 45 min to build your first SSRS report
@@ -438,7 +439,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 3 - Presented by In
 #  
 #### SessionID: 26097
 # Best Practices for Implementing an Enterprise BI Solution
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 3
 ## Speaker: Teo Lachev
 ## Title: Best Practices for Implementing an Enterprise BI Solution
@@ -447,7 +448,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 3
 #  
 #### SessionID: 26175
 # TSQL Road Less Traveled: MERGE
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 2 - Presented by Precise
 ## Speaker: Kevin Boles
 ## Title: TSQL Road Less Traveled: MERGE
@@ -456,7 +457,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 2 - Presented by Pr
 #  
 #### SessionID: 26176
 # TSQL Road Less Traveled: APPLY
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 1 - Presented by SIOS
 ## Speaker: Kevin Boles
 ## Title: TSQL Road Less Traveled: APPLY
@@ -465,7 +466,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 1 - Presented by SI
 #  
 #### SessionID: 26520
 # Using SSIS 2012 for ETL in a Data Warehouse
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Twelfth Track!
 ## Speaker: Thomas LeBlanc
 ## Title: Using SSIS 2012 for ETL in a Data Warehouse
@@ -474,7 +475,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Twelfth Track!
 #  
 #### SessionID: 26522
 # Attributes  Hierarchies in Analysis Services 2012
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 1 - Presented by Slalom
 ## Speaker: Thomas LeBlanc
 ## Title: Attributes  Hierarchies in Analysis Services 2012
@@ -484,7 +485,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 1 - Presented by Sl
 #  
 #### SessionID: 26717
 # You Inherited a Database, Now What?
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBD 1 - Presented by Idera
 ## Speaker: Tim Radney
 ## Title: You Inherited a Database, Now What?
@@ -493,7 +494,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBD 1 - Presented by Id
 #  
 #### SessionID: 26725
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 1 - Presented by SIOS
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -504,7 +505,7 @@ In this session I will cover several methods for performing much needed backups 
 #  
 #### SessionID: 26829
 # A Walk Around the SQL Server 2012 Audit Feature
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 5 - Presented by Red Gate
 ## Speaker: Timothy McAliley
 ## Title: A Walk Around the SQL Server 2012 Audit Feature
@@ -513,7 +514,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 5 - Presented by Re
 #  
 #### SessionID: 27160
 # Managing Enterprise Environments with PowerShell
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: PowerShell 
 ## Speaker: Thomas Stringer
 ## Title: Managing Enterprise Environments with PowerShell
@@ -522,7 +523,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: PowerShell
 #  
 #### SessionID: 28087
 # Bridging the Chasm:  BI Theory vs. Practice
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 3
 ## Speaker: William E Pearson III
 ## Title: Bridging the Chasm:  BI Theory vs. Practice
@@ -531,7 +532,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 3
 #  
 #### SessionID: 34712
 # Expanding Self-Service BI with Excel 2013
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 2 - Presented by Tek Systems
 ## Speaker: Leo Furlong
 ## Title: Expanding Self-Service BI with Excel 2013
@@ -540,7 +541,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 2 - Presented by Te
 #  
 #### SessionID: 34721
 # Secrets of Enterprise Data Mining
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 3
 ## Speaker: Mark Tabladillo
 ## Title: Secrets of Enterprise Data Mining
@@ -549,7 +550,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 3
 #  
 #### SessionID: 34722
 # Applied Enterprise Semantic Mining
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 2 - Presented by Tek Systems
 ## Speaker: Mark Tabladillo
 ## Title: Applied Enterprise Semantic Mining
@@ -558,7 +559,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 2 - Presented by Te
 #  
 #### SessionID: 8846
 # SQL Server Database Development with SSDT 
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 3 - Presented by Intellinet
 ## Speaker: Aaron Nelson
 ## Title: SQL Server Database Development with SSDT 
@@ -570,7 +571,7 @@ Most importantly we’ll show the many benefits of the Publish feature, and why 
 #  
 #### SessionID: 9033
 # Storage Tuning Deep Dive
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBD 1 - Presented by Idera
 ## Speaker: Wesley Brown
 ## Title: Storage Tuning Deep Dive
@@ -586,7 +587,7 @@ Takeaways:
 #  
 #### SessionID: 9363
 # 5 Query Plan Culprits That Cause 95% of Headaches
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 2 - Presented by Precise
 ## Speaker: Adam Machanic
 ## Title: 5 Query Plan Culprits That Cause 95% of Headaches
@@ -595,7 +596,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: DBA 2 - Presented by Pr
 #  
 #### SessionID: 9496
 # Using BIML as an SSIS Design Patterns Engine 
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 2 - Presented by Tek Systems
 ## Speaker: Andy Leonard
 ## Title: Using BIML as an SSIS Design Patterns Engine 
@@ -604,7 +605,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: B/I 2 - Presented by Te
 #  
 #### SessionID: 9499
 # Hacking the SSIS 2012 Catalog
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Twelfth Track!
 ## Speaker: Andy Leonard
 ## Title: Hacking the SSIS 2012 Catalog
@@ -613,7 +614,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Twelfth Track!
 #  
 #### SessionID: 9716
 # The Decoder Ring for Data Warehousing / BI
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Zero Level
 ## Speaker: Robert Cain
 ## Title: The Decoder Ring for Data Warehousing / BI
@@ -622,7 +623,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Zero Level
 #  
 #### SessionID: 9720
 # Off and Running with PowerPivot for Excel 2013
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Twelfth Track!
 ## Speaker: Robert Cain
 ## Title: Off and Running with PowerPivot for Excel 2013
@@ -631,7 +632,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Twelfth Track!
 #  
 #### SessionID: 9967
 # Database Design for Beginners
-#### [Back to calendar](#SQLSaturday-#220-Atlanta-2013)
+#### [Back to calendar](#nr-220)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Zero Level
 ## Speaker: Audrey Hammonds
 ## Title: Database Design for Beginners

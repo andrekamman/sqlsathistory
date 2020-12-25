@@ -1,3 +1,4 @@
+#### Nr: 459
 #### [Back to Main list](index.md)
 # SQLSaturday #459 - Madrid 2015
 Start Time (24h)|Speaker|Track|Title
@@ -32,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 38790
 # Maintenance Plans ad Hoc
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
 ## Speaker: Tobias Koprowski
 ## Title: Maintenance Plans ad Hoc
@@ -42,7 +43,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
 #  
 #### SessionID: 39469
 # La lucha contra el "Dame mi fichero"
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
 ## Speaker: Alberto López Grande
 ## Title: La lucha contra el "Dame mi fichero"
@@ -51,7 +52,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
 #  
 #### SessionID: 40815
 # Troubleshooting de bloqueos en SQL Server
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
 ## Speaker: Eladio Rincon
 ## Title: Troubleshooting de bloqueos en SQL Server
@@ -60,7 +61,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
 #  
 #### SessionID: 41019
 # No todo en esta vida es PowerBI: SSRS 2016 + Datazen 
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Big Data  Analytics
 ## Speaker: Sergio Carrillo Vila
 ## Title: No todo en esta vida es PowerBI: SSRS 2016 + Datazen 
@@ -73,7 +74,7 @@ En esta sesi#243;n veremos las novedades que nos aporta la nueva versi#243;n de 
 #  
 #### SessionID: 38407
 # Columnstore in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
 ## Speaker: Niko Neugebauer
 ## Title: Columnstore in SQL Server 2016
@@ -85,7 +86,7 @@ This session will be delivering an overview of what is new and how it is going t
 #  
 #### SessionID: 39820
 # Cuadros de Mando: El todo es m#225;s que la suma de las partes
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Big Data  Analytics
 ## Speaker: Salvador Ramos
 ## Title: Cuadros de Mando: El todo es m#225;s que la suma de las partes
@@ -94,7 +95,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 40667
 # Sex, PowerBI and RockRoll
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
 ## Speaker: Javier Menendez Pallo
 ## Title: Sex, PowerBI and RockRoll
@@ -106,7 +107,7 @@ In this session you will see the new Microsoft Business Intelligence Platform: P
 #  
 #### SessionID: 40705
 # SQL Server Disaster Recovery Plan con Azure
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Cloud
 ## Speaker: Enrique Puig
 ## Title: SQL Server Disaster Recovery Plan con Azure
@@ -117,7 +118,7 @@ En esta sesi#243;n, repleta de demos,  hablaremos de la importancia del DRP, de 
 #  
 #### SessionID: 42383
 # Hewlett Packard Enterprise - Arquitectura sin barreras para entornos SQL
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Sponsor Session
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Hewlett Packard Enterprise - Arquitectura sin barreras para entornos SQL
@@ -126,7 +127,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Sponsor Session
 #  
 #### SessionID: 42423
 # Pyramid Analytics-From Me BI to We BI, take your BI solution beyo
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Sponsor Session
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Pyramid Analytics-From Me BI to We BI, take your BI solution beyo
@@ -148,7 +149,7 @@ Pyramid Analytics revolutionary platform provides a single platform that deliver
 #  
 #### SessionID: 42424
 # SolidQ - Think big, Move fast
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Sponsor Session
 ## Speaker: Ruben Pertusa Lopez
 ## Title: SolidQ - Think big, Move fast
@@ -157,7 +158,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Sponsor Session
 #  
 #### SessionID: 39921
 # Bases de datos NoSQL en Azure
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Cloud
 ## Speaker: Roberto Gonzalez
 ## Title: Bases de datos NoSQL en Azure
@@ -167,7 +168,7 @@ En esta charla veremos las distintas posibilidades de bases de datos NoSQL que t
 #  
 #### SessionID: 40682
 # Los mejores patrones para cargas masivas en ETL 
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
 ## Speaker: Miguel Egea
 ## Title: Los mejores patrones para cargas masivas en ETL 
@@ -176,7 +177,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
 #  
 #### SessionID: 40856
 # Windows 10 IoT y an#225;lisis de sensores en tiempo real con stream analytics
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Big Data  Analytics
 ## Speaker: Juan Manuel Servera Bondroit
 ## Title: Windows 10 IoT y an#225;lisis de sensores en tiempo real con stream analytics
@@ -185,7 +186,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 41023
 # Query Store in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
 ## Speaker: Andre Batista
 ## Title: Query Store in SQL Server 2016
@@ -194,7 +195,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
 #  
 #### SessionID: 38727
 # Advanced BIML - for the advanced ETL developer
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
 ## Speaker: Regis Baccaro
 ## Title: Advanced BIML - for the advanced ETL developer
@@ -204,7 +205,7 @@ By now you already know that BIML is a great productivity enhancement to SSIS. Y
 #  
 #### SessionID: 39757
 # Navision + PowerBI: Manage your business 365, anywhere and everywhere
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Cloud
 ## Speaker: Miguel Llorca
 ## Title: Navision + PowerBI: Manage your business 365, anywhere and everywhere
@@ -216,7 +217,7 @@ The work of the department goes beyond solving problems and ensure efficient tec
 #  
 #### SessionID: 40817
 # Monitorizando SSISDB like a boss
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
 ## Speaker: Pau Sempere
 ## Title: Monitorizando SSISDB like a boss
@@ -225,7 +226,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
 #  
 #### SessionID: 40824
 # Como leer planes de ejecuci#243;n - Edici#243;n 2015
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
 ## Speaker: Enrique Bañuls
 ## Title: Como leer planes de ejecuci#243;n - Edici#243;n 2015
@@ -234,7 +235,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
 #  
 #### SessionID: 39024
 #  Ye Olde Cluster Curiosity Shoppe - Clustering tips, tricks and oddities
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
 ## Speaker: Mark Broadbent
 ## Title:  Ye Olde Cluster Curiosity Shoppe - Clustering tips, tricks and oddities
@@ -245,7 +246,7 @@ Welcome to the strange and mysterious world of SQL Server Failover Clustering an
 #  
 #### SessionID: 40318
 # Introducci#243;n a DAX, problema vs Soluci#243;n
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
 ## Speaker: Ana Maria Bisbé York
 ## Title: Introducci#243;n a DAX, problema vs Soluci#243;n
@@ -256,7 +257,7 @@ En esta sesi#243;n vamos a acercarnos a DAX, sus componentes y conceptos fundame
 #  
 #### SessionID: 40760
 # SQL Azure Database - Lecciones aprendidas desde las trincheras con V12
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Cloud
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: SQL Azure Database - Lecciones aprendidas desde las trincheras con V12
@@ -265,7 +266,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Cloud
 #  
 #### SessionID: 41018
 # Hazle la competencia a Netflix con tu propio Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Big Data  Analytics
 ## Speaker: Carlos Gonzalez
 ## Title: Hazle la competencia a Netflix con tu propio Azure Machine Learning
@@ -276,7 +277,7 @@ Los conocimientos para la charla, son b#225;sicos, puesto que iremos de 0 a Netf
 #  
 #### SessionID: 38808
 # Pensando en BigData: Un paseo por el Modern Data Warehouse
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Big Data  Analytics
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Pensando en BigData: Un paseo por el Modern Data Warehouse
@@ -293,7 +294,7 @@ Todo ello con un ejemplo real de un escenario del mundo Retail.
 #  
 #### SessionID: 39033
 # Power BI and Reporting in Microsoft Project
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
 ## Speaker: Rafael ansino lara
 ## Title: Power BI and Reporting in Microsoft Project
@@ -302,7 +303,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
 #  
 #### SessionID: 40385
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -311,7 +312,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
 #  
 #### SessionID: 41925
 # Detectando anomal#237;as de IoT con Machine Learning y Spark
-#### [Back to calendar](#SQLSaturday-#459-Madrid-2015)
+#### [Back to calendar](#nr-459)
 Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Big Data  Analytics
 ## Speaker: Francisco Soler Flores
 ## Title: Detectando anomal#237;as de IoT con Machine Learning y Spark

@@ -1,3 +1,4 @@
+#### Nr: 552
 #### [Back to Main list](index.md)
 # SQLSaturday #552 - Lincoln 2016
 Start Time (24h)|Speaker|Track|Title
@@ -34,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 49721
 # Introducing Forensic Analytics with Power BI
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: William E Pearson III
 ## Title: Introducing Forensic Analytics with Power BI
@@ -44,7 +45,7 @@ In this session, we explore Forensic Analytics: a set of techniques we can use t
 #  
 #### SessionID: 49979
 # Getting Started with Extended Events
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Galbraith
 ## Title: Getting Started with Extended Events
@@ -57,7 +58,7 @@ Come learn how to get started - the basics of sessions, events, actions, targets
 #  
 #### SessionID: 50104
 # Top 10 Wait Types Everyone Should Know
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Top 10 Wait Types Everyone Should Know
@@ -66,7 +67,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54297
 # The Ins and Outs of SQL Indexes
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: The Ins and Outs of SQL Indexes
@@ -75,7 +76,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 54437
 # SQL Server Databases in the Clouds
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tim Plas
 ## Title: SQL Server Databases in the Clouds
@@ -84,7 +85,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 54621
 # The Most Important IT Person in the Room: Why Data Experts Own the Future
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Kevin Kline
 ## Title: The Most Important IT Person in the Room: Why Data Experts Own the Future
@@ -93,7 +94,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 50574
 # Pragmatic Power BI:  Transforming Data
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: William E Pearson III
 ## Title: Pragmatic Power BI:  Transforming Data
@@ -102,7 +103,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 53717
 # WIT Panel Session
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Dana Stubben
 ## Title: WIT Panel Session
@@ -111,7 +112,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 53856
 # Get Your Optimizer to Give up All Its Secrets
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
@@ -120,7 +121,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54351
 # Ping! No Reply
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Cody Chapman
 ## Title: Ping! No Reply
@@ -131,7 +132,7 @@ By the end of this interactive session, you will be able to check your own netwo
 #  
 #### SessionID: 54438
 # Querying JSON in Azure Data Lake with USQL
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Russel Loski
 ## Title: Querying JSON in Azure Data Lake with USQL
@@ -140,7 +141,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 54618
 # Configuration Option and Trace Flag Secrets: Surprising Behavior at the Flick of a Switch
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Kline
 ## Title: Configuration Option and Trace Flag Secrets: Surprising Behavior at the Flick of a Switch
@@ -149,7 +150,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50591
 # Know What Your Code is Doing to SQL Server!
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Know What Your Code is Doing to SQL Server!
@@ -158,7 +159,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 53969
 # Power BI – Exploring New Frontiers
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Pam Shaw
 ## Title: Power BI – Exploring New Frontiers
@@ -167,7 +168,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 54059
 # What is Biml and why are SSIS developers excited about it?
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Fellows
 ## Title: What is Biml and why are SSIS developers excited about it?
@@ -180,7 +181,7 @@ You will leave this session armed with the knowledge of how Biml can help you ac
 #  
 #### SessionID: 54294
 # Fun with SQL Server Spatial Data
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: Fun with SQL Server Spatial Data
@@ -189,7 +190,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 54384
 # Protecting Your Data with Encryption
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Ed Leighton-Dick
 ## Title: Protecting Your Data with Encryption
@@ -198,7 +199,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 54401
 # Tips and Tricks for Performance Troubleshooting
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Phillip Podhradsky
 ## Title: Tips and Tricks for Performance Troubleshooting
@@ -207,7 +208,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 50593
 # Query Plan Deep Drive
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Query Plan Deep Drive
@@ -216,7 +217,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 53709
 # Microsoft R Explained
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Dana Stubben
 ## Title: Microsoft R Explained
@@ -225,7 +226,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 53830
 # Top 5 Tips to Keep Always On Always Humming and Users Happy
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: Top 5 Tips to Keep Always On Always Humming and Users Happy
@@ -234,7 +235,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53906
 # Why Should I Care About ... Partitioned Views?
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
@@ -243,7 +244,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53971
 # Taking the Scare out of Monster Reports
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Information Delivery
 ## Speaker: Pam Shaw
 ## Title: Taking the Scare out of Monster Reports
@@ -254,7 +255,7 @@ This session discusses how to use SQL Server Reporting Services (SSRS) to bring 
 #  
 #### SessionID: 54436
 # Protecting SQL Data for Availability and DR
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Plas
 ## Title: Protecting SQL Data for Availability and DR
@@ -263,7 +264,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53829
 # New Features and New Speed in SQL Server 2016 Always On Availability Groups
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: New Features and New Speed in SQL Server 2016 Always On Availability Groups
@@ -272,7 +273,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53907
 # Weird stuff I saw ... while supporting a Java team
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Weird stuff I saw ... while supporting a Java team
@@ -281,7 +282,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 54296
 # SQL Server Bingo – Install, Migration  Config
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mindy Curnutt
 ## Title: SQL Server Bingo – Install, Migration  Config
@@ -293,7 +294,7 @@ First one to hit BINGO! will win a fun and unique prize.
 #  
 #### SessionID: 54381
 # Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
@@ -302,7 +303,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54432
 # SSIS:  Handling flat file changes using BIMLScript
-#### [Back to calendar](#SQLSaturday-#552-Lincoln-2016)
+#### [Back to calendar](#nr-552)
 Event Date: 19-11-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Russel Loski
 ## Title: SSIS:  Handling flat file changes using BIMLScript

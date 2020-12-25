@@ -1,3 +1,4 @@
+#### Nr: 136
 #### [Back to Main list](index.md)
 # SQLSaturday #136 - Wellington 2012
 Start Time (24h)|Speaker|Track|Title
@@ -19,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11735
 # Data Visualisation
-#### [Back to calendar](#SQLSaturday-#136-Wellington-2012)
+#### [Back to calendar](#nr-136)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Clive Trott
 ## Title: Data Visualisation
@@ -28,7 +29,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 12231
 # What’s available with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#136-Wellington-2012)
+#### [Back to calendar](#nr-136)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dave Dustin
 ## Title: What’s available with SQL Server 2012
@@ -44,7 +45,7 @@ Honestly.  I could put hundreds of bullet points here but you'd lose interest
 #  
 #### SessionID: 12233
 # Myths and misconceptions
-#### [Back to calendar](#SQLSaturday-#136-Wellington-2012)
+#### [Back to calendar](#nr-136)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dave Dustin
 ## Title: Myths and misconceptions
@@ -56,7 +57,7 @@ We’re going to look into debunking some of these falsehoods.
 #  
 #### SessionID: 15751
 # Interpreting DMV's  practical uses
-#### [Back to calendar](#SQLSaturday-#136-Wellington-2012)
+#### [Back to calendar](#nr-136)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jannie Muller
 ## Title: Interpreting DMV's  practical uses
@@ -69,7 +70,7 @@ It also look at some best practises for configuration and maintenance.
 #  
 #### SessionID: 18132
 # PowerShell for Beginners
-#### [Back to calendar](#SQLSaturday-#136-Wellington-2012)
+#### [Back to calendar](#nr-136)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kent Chenery
 ## Title: PowerShell for Beginners
@@ -83,7 +84,7 @@ If that sounds like you, then this session is for you.  We will cover some basic
 #  
 #### SessionID: 19765
 # Extended Events - A whirlwind tour!
-#### [Back to calendar](#SQLSaturday-#136-Wellington-2012)
+#### [Back to calendar](#nr-136)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Martin Catherall
 ## Title: Extended Events - A whirlwind tour!
@@ -96,7 +97,7 @@ Learning the syntax now - and seeing what goes on behind the scenes of an XEvent
 #  
 #### SessionID: 21883
 # Query Optimizer Deep Dive
-#### [Back to calendar](#SQLSaturday-#136-Wellington-2012)
+#### [Back to calendar](#nr-136)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Paul White
 ## Title: Query Optimizer Deep Dive
@@ -105,7 +106,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22054
 # If you had $10K what would you spend it on?
-#### [Back to calendar](#SQLSaturday-#136-Wellington-2012)
+#### [Back to calendar](#nr-136)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Peter Ward
 ## Title: If you had $10K what would you spend it on?
@@ -115,7 +116,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22055
 # The Dark Art of Performance Tuning
-#### [Back to calendar](#SQLSaturday-#136-Wellington-2012)
+#### [Back to calendar](#nr-136)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Peter Ward
 ## Title: The Dark Art of Performance Tuning
@@ -124,7 +125,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22377
 # Tabular Modelling and Design Concepts
-#### [Back to calendar](#SQLSaturday-#136-Wellington-2012)
+#### [Back to calendar](#nr-136)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Paul te Braak
 ## Title: Tabular Modelling and Design Concepts
@@ -133,7 +134,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23214
 # Query Tuning Using Lessons Learned from SSIS
-#### [Back to calendar](#SQLSaturday-#136-Wellington-2012)
+#### [Back to calendar](#nr-136)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Rob Farley
 ## Title: Query Tuning Using Lessons Learned from SSIS
@@ -142,7 +143,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23217
 # Analytic T-SQL Functions in 2012
-#### [Back to calendar](#SQLSaturday-#136-Wellington-2012)
+#### [Back to calendar](#nr-136)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Rob Farley
 ## Title: Analytic T-SQL Functions in 2012
@@ -151,7 +152,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23414
 # Visualising  your data with PivotViewer
-#### [Back to calendar](#SQLSaturday-#136-Wellington-2012)
+#### [Back to calendar](#nr-136)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Roger Noble
 ## Title: Visualising  your data with PivotViewer
@@ -160,7 +161,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 8765
 # New Features of SSIS 2012
-#### [Back to calendar](#SQLSaturday-#136-Wellington-2012)
+#### [Back to calendar](#nr-136)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Reza Rad
 ## Title: New Features of SSIS 2012

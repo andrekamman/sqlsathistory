@@ -1,3 +1,4 @@
+#### Nr: 499
 #### [Back to Main list](index.md)
 # SQLSaturday #499 - Madison 2016
 Start Time (24h)|Speaker|Track|Title
@@ -50,7 +51,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 42470
 # XML Without Xanax: How to Handle XML in SQL Server
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Adam Belebczuk
 ## Title: XML Without Xanax: How to Handle XML in SQL Server
@@ -63,7 +64,7 @@ If you survive this session, you'll have faced your fears about XML in SQL Serve
 #  
 #### SessionID: 42527
 # I Installed SQL Server... Now What?
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jared Karney
 ## Title: I Installed SQL Server... Now What?
@@ -72,7 +73,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44690
 # Everyday Extended Events
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jes Schultz
 ## Title: Everyday Extended Events
@@ -82,7 +83,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44800
 # Data Architecture 101
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Data Architecture 101
@@ -96,7 +97,7 @@ This presentation is a survey of Data Architecture for the Intermediate DBA, it 
 #  
 #### SessionID: 45358
 # Introduction to Data Warehousing
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gill Rowley
 ## Title: Introduction to Data Warehousing
@@ -105,7 +106,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 45540
 # Why do I need Analysis Services?
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Labry
 ## Title: Why do I need Analysis Services?
@@ -114,7 +115,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 45650
 # The Query Store and Query Tuning in SQL Server vNext
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: The Query Store and Query Tuning in SQL Server vNext
@@ -123,7 +124,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 46461
 # Working with Object Compression in SQL Server
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Working with Object Compression in SQL Server
@@ -135,7 +136,7 @@ This session shows you how to reach into the database and discover compression s
 #  
 #### SessionID: 46465
 # Getting More from Analysis Services – Writing Data Back
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Rob Long
 ## Title: Getting More from Analysis Services – Writing Data Back
@@ -147,7 +148,7 @@ In this demo-centric session we’ll see what it takes to setup and use a writeb
 #  
 #### SessionID: 43061
 # SSMS Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Gary Schultz
 ## Title: SSMS Tips and Tricks
@@ -156,7 +157,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 44130
 # Clusters! From the ground up, let's build one together
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Popovich Jr
 ## Title: Clusters! From the ground up, let's build one together
@@ -166,7 +167,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44932
 # SQL Server Hybrid Cloud Strategy: Best Of Both Worlds With On-Prem + Cloud
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Timmerman
 ## Title: SQL Server Hybrid Cloud Strategy: Best Of Both Worlds With On-Prem + Cloud
@@ -177,7 +178,7 @@ Come spend the hour with me and you’ll learn how to leverage the power of the 
 #  
 #### SessionID: 45029
 # Be Friendly to SQL Server with TSQL Best Practices
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ben Miller
 ## Title: Be Friendly to SQL Server with TSQL Best Practices
@@ -186,7 +187,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 45443
 # Exploring SQLPS, the SQL Server Powershell Module
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Exploring SQLPS, the SQL Server Powershell Module
@@ -195,7 +196,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45790
 # Every Byte Counts: Why Your Data Type Choices Matter
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: Every Byte Counts: Why Your Data Type Choices Matter
@@ -208,7 +209,7 @@ When you leave, you will be able to explain to your colleagues why data type cho
 #  
 #### SessionID: 46494
 # Azure SQL Data Warehouse Overview
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Strate
 ## Title: Azure SQL Data Warehouse Overview
@@ -221,7 +222,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 46498
 # All things you need to know before you start setting up SQL AlwaysOn
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Steineke
 ## Title: All things you need to know before you start setting up SQL AlwaysOn
@@ -231,7 +232,7 @@ This session will review all the gotcha’s and things you need to know before y
 #  
 #### SessionID: 49187
 # How Developers Can Use SQL 2016
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Omni Resources Speaker Panel
 ## Title: How Developers Can Use SQL 2016
@@ -243,7 +244,7 @@ In this session, we’ll share what our development team loves about SQL Server 
 #  
 #### SessionID: 42391
 # What's new in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ross LoForte
 ## Title: What's new in SQL Server 2016
@@ -253,7 +254,7 @@ SQL Server 2016 delivers breakthrough mission-critical capabilities with in-memo
 #  
 #### SessionID: 42993
 # "I Love Replication"...Something Rarely if Ever Said By DBAs But Should Be
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Lane
 ## Title: "I Love Replication"...Something Rarely if Ever Said By DBAs But Should Be
@@ -262,7 +263,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44863
 # Introduction to SQL Server Encryption
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Pusateri
 ## Title: Introduction to SQL Server Encryption
@@ -271,7 +272,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45130
 # Power Query: Making developers redundant since 2015
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: George Bryant
 ## Title: Power Query: Making developers redundant since 2015
@@ -280,7 +281,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 45201
 # Infrastructure Tuning for SQL Server Performance
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Infrastructure Tuning for SQL Server Performance
@@ -289,7 +290,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45789
 # Uncovering Duplicate, Redundant,  Missing Indexes
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Yun
 ## Title: Uncovering Duplicate, Redundant,  Missing Indexes
@@ -298,7 +299,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45916
 # Surviving a Technical SQL Interview
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Reed Powell
 ## Title: Surviving a Technical SQL Interview
@@ -308,7 +309,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 46063
 # Effective Reporting through SSRS Advanced Authoring Features 
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Brian Larson
 ## Title: Effective Reporting through SSRS Advanced Authoring Features 
@@ -317,7 +318,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 46124
 # Power BI - A new way to Explore SQL Server Database and Performance Metrics
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Seth Bauer
 ## Title: Power BI - A new way to Explore SQL Server Database and Performance Metrics
@@ -326,7 +327,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 42942
 # The Usual SUSPECTs: When Good Databases Go Bad
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: The Usual SUSPECTs: When Good Databases Go Bad
@@ -335,7 +336,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44185
 # Data Migration Using BIML
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Feasel
 ## Title: Data Migration Using BIML
@@ -344,7 +345,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 44388
 # PowerBI  Other Self Service BI tools: Where They Fit in the Enterprise.
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Ross Parks
 ## Title: PowerBI  Other Self Service BI tools: Where They Fit in the Enterprise.
@@ -353,7 +354,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 44923
 # Anatomy of an Optimizer
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Luke Jian
 ## Title: Anatomy of an Optimizer
@@ -364,7 +365,7 @@ We explain why query optimization complexity increases exponentially with the nu
 #  
 #### SessionID: 45444
 # Managing Availability Groups (What happens after the build!)
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Managing Availability Groups (What happens after the build!)
@@ -373,7 +374,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45648
 # Automating Your Database Deployments
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Automating Your Database Deployments
@@ -384,7 +385,7 @@ In this session, we'll explore the concepts of continuous integration and contin
 #  
 #### SessionID: 45654
 # SQL Server 2016 - New Security Features
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Jared Zagelbaum
 ## Title: SQL Server 2016 - New Security Features
@@ -395,7 +396,7 @@ There’s a ton of ground to cover on all of the new enhancements, so this sessi
 #  
 #### SessionID: 46463
 # DBA Cheat Sheet
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Elizabeth Block
 ## Title: DBA Cheat Sheet
@@ -404,7 +405,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46680
 # Azure SQL Database Monitoring and Performance Tuning 101
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julie Koesmarno
 ## Title: Azure SQL Database Monitoring and Performance Tuning 101
@@ -413,7 +414,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 44331
 # Architecting Cloud Based BI Solutions using Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dave DuVarney
 ## Title: Architecting Cloud Based BI Solutions using Microsoft Azure
@@ -425,7 +426,7 @@ In this session we will break down the major architectural components of a BI so
 #  
 #### SessionID: 44691
 # Minimize Data Loss with Advanced Restore Methods 
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jes Schultz
 ## Title: Minimize Data Loss with Advanced Restore Methods 
@@ -434,7 +435,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44795
 # "R" You Ready For SQL 2016?
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: John Pertell
 ## Title: "R" You Ready For SQL 2016?
@@ -445,7 +446,7 @@ In this beginner session we will look at how to set up R on your SQL instance. W
 #  
 #### SessionID: 45196
 # Enterprise Auditing with SQL Server Audit
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Colleen Morrow
 ## Title: Enterprise Auditing with SQL Server Audit
@@ -458,7 +459,7 @@ Whether it's through the SQL Server Management Studio (SSMS) interface, via T-SQ
 #  
 #### SessionID: 45203
 # Objective SQL Server Performance
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Objective SQL Server Performance
@@ -467,7 +468,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45481
 # Understanding SQL Server 2016 Always Encrypted
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ed Leighton-Dick
 ## Title: Understanding SQL Server 2016 Always Encrypted
@@ -476,7 +477,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 46388
 # Hadoop for the SQL Server Developer/DBA
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Information Delivery
 ## Speaker: Bill Preachuk
 ## Title: Hadoop for the SQL Server Developer/DBA
@@ -487,7 +488,7 @@ We will go into technical detail about what HDFS, MapReduce and YARN/Tez actuall
 #  
 #### SessionID: 46407
 # JSON for the DBA
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Jim Dorame
 ## Title: JSON for the DBA
@@ -496,7 +497,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 46505
 # Living and Dying by Dynamic SQL
-#### [Back to calendar](#SQLSaturday-#499-Madison-2016)
+#### [Back to calendar](#nr-499)
 Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Doug Lane
 ## Title: Living and Dying by Dynamic SQL

@@ -1,3 +1,4 @@
+#### Nr: 154
 #### [Back to Main list](index.md)
 # SQLSaturday #154 - St. Louis 2012
 Start Time (24h)|Speaker|Track|Title
@@ -30,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10399
 # Pivoting Performance Data  Pinpointing Problems
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Brian Flynn
 ## Title: Pivoting Performance Data  Pinpointing Problems
@@ -39,7 +40,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 10419
 # Kama Sutra of SSIS: A guide to loving ETL
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bill Fellows
 ## Title: Kama Sutra of SSIS: A guide to loving ETL
@@ -49,7 +50,7 @@ After attending this session, you will come out with an understanding of how Con
 #  
 #### SessionID: 10420
 # 2012 TSQL Sweets
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Bill Fellows
 ## Title: 2012 TSQL Sweets
@@ -58,7 +59,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 12338
 # Get Ready for SSIS in SQL Server 2012!
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dave Fackler
 ## Title: Get Ready for SSIS in SQL Server 2012!
@@ -67,7 +68,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 12568
 # Database Health and Performance
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: David Klee
 ## Title: Database Health and Performance
@@ -76,7 +77,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 13750
 # Microsoft's Monitoring Options for SQL Server
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Eddie  Hendrix 
 ## Title: Microsoft's Monitoring Options for SQL Server
@@ -85,7 +86,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 14917
 # Maximizing SQL Server Insert Performance
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Dan Guzman
 ## Title: Maximizing SQL Server Insert Performance
@@ -95,7 +96,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14992
 # SQL Server Detective Duo – Change Tracking and CDC
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Hima Nagisetty
 ## Title: SQL Server Detective Duo – Change Tracking and CDC
@@ -104,7 +105,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 15476
 # Creating a Metadata Mart w/ SSIS - Data Governance
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Ira Warren
 ## Title: Creating a Metadata Mart w/ SSIS - Data Governance
@@ -113,7 +114,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 15678
 # Looney Tuner?  No, there IS a method to my madness
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Janis Griffin
 ## Title: Looney Tuner?  No, there IS a method to my madness
@@ -122,7 +123,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 15679
 # Don't Panic, DBAs!  Databases on VMware made easy.
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Janis Griffin
 ## Title: Don't Panic, DBAs!  Databases on VMware made easy.
@@ -131,7 +132,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 16707
 # Your Database Code is in My TFS!
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jeff Fattic
 ## Title: Your Database Code is in My TFS!
@@ -140,7 +141,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18396
 # SQL Server 2012 T-SQL
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kathi Kellenberger
 ## Title: SQL Server 2012 T-SQL
@@ -149,7 +150,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 20975
 # SQL 2012 Integration with SharePoint
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Melissa Meyer
 ## Title: SQL 2012 Integration with SharePoint
@@ -158,7 +159,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23137
 # Database Design Done Right
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rickey Nunn
 ## Title: Database Design Done Right
@@ -167,7 +168,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24841
 # Cubicle to Consulting
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Scott Shaw
 ## Title: Cubicle to Consulting
@@ -178,7 +179,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24844
 # SQL Server in Healthcare
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Scott Shaw
 ## Title: SQL Server in Healthcare
@@ -189,7 +190,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 26286
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -198,7 +199,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 27097
 # Behind the Scenes: SQL Server Statistics
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Travis Whitley
 ## Title: Behind the Scenes: SQL Server Statistics
@@ -208,7 +209,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27798
 # Read Dirty to Me - Isolation Levels/User Impact
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Wendy Pastrick
 ## Title: Read Dirty to Me - Isolation Levels/User Impact
@@ -217,7 +218,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 27799
 # Transactional Replication 101
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Wendy Pastrick
 ## Title: Transactional Replication 101
@@ -228,7 +229,7 @@ We will cover the players in the game: Pubishers, Subscribers and Distributors, 
 #  
 #### SessionID: 8864
 # Time Saving Tips  Tricks for SSMS 2012
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Aaron Nelson
 ## Title: Time Saving Tips  Tricks for SSMS 2012
@@ -237,7 +238,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9612
 # Maintain Your DBs with Help from Ola Hallengren
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andy Galbraith
 ## Title: Maintain Your DBs with Help from Ola Hallengren
@@ -246,7 +247,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9817
 # PWNED! Security, SQL Server, and You!
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Arie Jones
 ## Title: PWNED! Security, SQL Server, and You!
@@ -255,7 +256,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 9955
 # Windows Azure SQL database Intro and what’s New
-#### [Back to calendar](#SQLSaturday-#154-St.-Louis-2012)
+#### [Back to calendar](#nr-154)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Andy Thiru
 ## Title: Windows Azure SQL database Intro and what’s New

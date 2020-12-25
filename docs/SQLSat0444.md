@@ -1,3 +1,4 @@
+#### Nr: 444
 #### [Back to Main list](index.md)
 # SQLSaturday #444 - Kansas City 2015
 Start Time (24h)|Speaker|Track|Title
@@ -43,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 37136
 # The Usual SUSPECTs: When Good Databases Go Bad
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: The Usual SUSPECTs: When Good Databases Go Bad
@@ -52,7 +53,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38173
 # The PROCESS of Queries
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: The PROCESS of Queries
@@ -61,7 +62,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 38379
 # T-SQL Window Function Performance
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Performance
@@ -70,7 +71,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 39036
 # Extending Your Availability Group for Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: Extending Your Availability Group for Disaster Recovery
@@ -79,7 +80,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39291
 # Database Continuous Delivery  Your Salvation!
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: Database Continuous Delivery  Your Salvation!
@@ -88,7 +89,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39767
 # Date Dimension: Past  Future in One Script
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Wake
 ## Title: Date Dimension: Past  Future in One Script
@@ -97,7 +98,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 39841
 # SQL Server and ElasticSearch Integration
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Chris Miller
 ## Title: SQL Server and ElasticSearch Integration
@@ -106,7 +107,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37482
 # Navigating the Hadoop Stack
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Scott Shaw
 ## Title: Navigating the Hadoop Stack
@@ -115,7 +116,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 38200
 # Profiler is Dead! Long Live Extended Events!
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Keith Tate
 ## Title: Profiler is Dead! Long Live Extended Events!
@@ -127,7 +128,7 @@ Profiler was a friend of mine, but it is time to embrace the new king!
 #  
 #### SessionID: 38498
 # Dimensional Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
@@ -145,7 +146,7 @@ the art of dimensional modeling. We will look at the different types of fact tab
 #  
 #### SessionID: 39511
 # Defense in Depth - Minimizing the Risk of SQL Injection
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Rob Kraft
 ## Title: Defense in Depth - Minimizing the Risk of SQL Injection
@@ -154,7 +155,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 39780
 # Sql Server Architecture for World Domination
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Tristan Wilson
 ## Title: Sql Server Architecture for World Domination
@@ -163,7 +164,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 39970
 # Setting up your PowerShell Environment
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andre DuBois
 ## Title: Setting up your PowerShell Environment
@@ -172,7 +173,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40749
 # In Memory Tables; Not Just For OLTP
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Russ Thomas
 ## Title: In Memory Tables; Not Just For OLTP
@@ -181,7 +182,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 41151
 # Dell Software Performance Monitoring Solutions for SQL Server
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: KC SQLSaturday
 ## Title: Dell Software Performance Monitoring Solutions for SQL Server
@@ -190,7 +191,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 41153
 # Data Science at Rockhurst
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: KC SQLSaturday
 ## Title: Data Science at Rockhurst
@@ -199,7 +200,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 39049
 # Building a Modern Transaction System on SQL Server
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Bill Graziano
 ## Title: Building a Modern Transaction System on SQL Server
@@ -208,7 +209,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 39199
 # Cardinality estimation and how it affects your execution plan
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Zane Brunette
 ## Title: Cardinality estimation and how it affects your execution plan
@@ -217,7 +218,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39369
 # Power BI: Architecture, Integration Points, Implementation Options
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melissa Coates
 ## Title: Power BI: Architecture, Integration Points, Implementation Options
@@ -226,7 +227,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 39505
 # What, Why, and How of Cloud Migrations
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sudhir Gajre
 ## Title: What, Why, and How of Cloud Migrations
@@ -235,7 +236,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 40023
 # Visualizing Your Indexes - Science vs Art
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Wendy Pastrick
 ## Title: Visualizing Your Indexes - Science vs Art
@@ -244,7 +245,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 40212
 # SQL in SAS and R
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Xuan Pham
 ## Title: SQL in SAS and R
@@ -253,7 +254,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 40358
 # CSI: DW -- Anatomy of a VLDW!
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dave Fackler
 ## Title: CSI: DW -- Anatomy of a VLDW!
@@ -262,7 +263,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 39234
 # Data Integration with Master Data Services 
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reeves Smith
 ## Title: Data Integration with Master Data Services 
@@ -279,7 +280,7 @@ In this session, you will learn:
 #  
 #### SessionID: 39565
 # Source Control practices for your BI World
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Weed
 ## Title: Source Control practices for your BI World
@@ -288,7 +289,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 39733
 # Know what your machines are doing besides SQL Server - WMI, WQL, and PoSH
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Bourgon
 ## Title: Know what your machines are doing besides SQL Server - WMI, WQL, and PoSH
@@ -299,7 +300,7 @@ We'll finish it off with two immediately-usable implementations you can set up o
 #  
 #### SessionID: 39810
 # Azure Machine Learning - Building New Value From Old Data
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chase Aucoin
 ## Title: Azure Machine Learning - Building New Value From Old Data
@@ -310,7 +311,7 @@ In this talk we will be discussing how to leverage azure machine learning to ans
 #  
 #### SessionID: 39822
 # Splitting your tables: Partitioning Basics
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Brandon Reno
 ## Title: Splitting your tables: Partitioning Basics
@@ -319,7 +320,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 39845
 # A Look At SQL Server 2016 Always Encrypted
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Walden
 ## Title: A Look At SQL Server 2016 Always Encrypted
@@ -328,7 +329,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40214
 # Trees, Forests and Predictive Models
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Myles Gartland
 ## Title: Trees, Forests and Predictive Models
@@ -337,7 +338,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 41175
 # Lightning Talks
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: KC SQLSaturday
 ## Title: Lightning Talks
@@ -347,7 +348,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 37041
 # "But It Sounded So Simple!":  Building a Messaging System in Service Broker
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Matt Wigdahl
 ## Title: "But It Sounded So Simple!":  Building a Messaging System in Service Broker
@@ -356,7 +357,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37351
 # Connected at the hip for MS BI: SharePoint and SQL
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: JD Wade
 ## Title: Connected at the hip for MS BI: SharePoint and SQL
@@ -365,7 +366,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 38576
 # Introduction to Microsoft Azure DocumentDB
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Jeff Renz
 ## Title: Introduction to Microsoft Azure DocumentDB
@@ -380,7 +381,7 @@ Goals:
 #  
 #### SessionID: 39775
 # Create a Simple Operational Data Store
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Create a Simple Operational Data Store
@@ -389,7 +390,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40084
 # Continuous Deployments using SSDT
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Christopher Wolff
 ## Title: Continuous Deployments using SSDT
@@ -398,7 +399,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 40303
 # What is Biml and why are SSIS people talking about it?
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Fellows
 ## Title: What is Biml and why are SSIS people talking about it?
@@ -407,7 +408,7 @@ Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 41147
 # Power BI Open QA
-#### [Back to calendar](#SQLSaturday-#444-Kansas-City-2015)
+#### [Back to calendar](#nr-444)
 Event Date: 03-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melissa Coates
 ## Title: Power BI Open QA

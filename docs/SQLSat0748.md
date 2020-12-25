@@ -1,3 +1,4 @@
+#### Nr: 748
 #### [Back to Main list](index.md)
 # SQLSaturday #748 - Cambridge 2018
 Start Time (24h)|Speaker|Track|Title
@@ -32,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 77443
 # Azure Managed Instances—Your Bridge to the Cloud
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Enterprise/ Administration
 ## Speaker: Joseph D'Antoni
 ## Title: Azure Managed Instances—Your Bridge to the Cloud
@@ -45,7 +46,7 @@ In this session, you will learn about migrating your databases to Managed Instan
 #  
 #### SessionID: 77803
 # Data Cleansing With SQL And R
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Scientist
 ## Speaker: Kevin Feasel
 ## Title: Data Cleansing With SQL And R
@@ -54,7 +55,7 @@ Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Sci
 #  
 #### SessionID: 77919
 # Enterprise Power BI – Development Lifecycle
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Scientist
 ## Speaker: Asgeir Gunnarsson
 ## Title: Enterprise Power BI – Development Lifecycle
@@ -66,7 +67,7 @@ For all these topics we will look at the capabilities Power BI offers and how we
 #  
 #### SessionID: 82228
 # Data Classification in SQL Server and Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Enterprise/ Administration
 ## Speaker: Mark Pryce-Maher
 ## Title: Data Classification in SQL Server and Azure SQL Database
@@ -76,7 +77,7 @@ I run through the need for data classification in general and why its important 
 #  
 #### SessionID: 73470
 # Enabling Citizen Data Science with Microsoft
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Scientist
 ## Speaker: Jan Mulkens
 ## Title: Enabling Citizen Data Science with Microsoft
@@ -88,7 +89,7 @@ In this demo heavy session we explore Microsoft’s solutions to ensure democrat
 #  
 #### SessionID: 78836
 # Deep dive into Adaptive Query Processing
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Developer
 ## Speaker: Hugo Kornelis
 ## Title: Deep dive into Adaptive Query Processing
@@ -101,7 +102,7 @@ If you are more interested in how all this ACTUALLY works than in shiny marketin
 #  
 #### SessionID: 80265
 # Blockchain - The data platform perspective
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Enterprise/ Administration
 ## Speaker: Christoph Seck
 ## Title: Blockchain - The data platform perspective
@@ -113,7 +114,7 @@ In the second part we take a closer look at the bitcoin blockchain as a "databas
 #  
 #### SessionID: 82158
 # Hiding data with SQL Server
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Developer
 ## Speaker: Ivan Campos
 ## Title: Hiding data with SQL Server
@@ -122,7 +123,7 @@ Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Developer
 #  
 #### SessionID: 82864
 # Azure Cosmos DB - What you need to know to build globally distrib
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Enterprise/ Administration
 ## Speaker: Satya Jayanty
 ## Title: Azure Cosmos DB - What you need to know to build globally distrib
@@ -131,7 +132,7 @@ Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Enterprise/ Administrat
 #  
 #### SessionID: 73484
 # Using AI to write session submission to SQLSaturday
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Scientist
 ## Speaker: Terry McCann
 ## Title: Using AI to write session submission to SQLSaturday
@@ -142,7 +143,7 @@ We will then turn our new skills to the problem most speakers have! Writing sess
 #  
 #### SessionID: 73803
 # Adding unit tests with tSQLt to the database deployment pipeline
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Developer
 ## Speaker: Eduardo Piairo
 ## Title: Adding unit tests with tSQLt to the database deployment pipeline
@@ -153,7 +154,7 @@ In this talk I will address the basic steps to introduce unit tests at databases
 #  
 #### SessionID: 75785
 # Let’s Build SSIS Packages with Biml – Live!
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Scientist
 ## Speaker: Ben Weissman
 ## Title: Let’s Build SSIS Packages with Biml – Live!
@@ -165,7 +166,7 @@ PS: Even if you have not heard about Biml but are still tired of manually buildi
 #  
 #### SessionID: 77664
 # Graph Databases and Solutions
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Enterprise/ Administration
 ## Speaker: Niko Neugebauer
 ## Title: Graph Databases and Solutions
@@ -179,7 +180,7 @@ Let's dive into this diverse world of graph databases and discover the new kid o
 #  
 #### SessionID: 77823
 # Open Knowledge Platform Use-Cases
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Business/ End user
 ## Speaker: Pedro Sousa
 ## Title: Open Knowledge Platform Use-Cases
@@ -192,7 +193,7 @@ In this talk I'll go over some use-cases of Open Knowledge Platform implementati
 #  
 #### SessionID: 73460
 # Azure Machine Learning 101
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Scientist
 ## Speaker: Kathi Kellenberger
 ## Title: Azure Machine Learning 101
@@ -201,7 +202,7 @@ Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Sci
 #  
 #### SessionID: 73489
 # Power BI server and Office Online server, modernize your on-premises BI approach.
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Scientist
 ## Speaker: Isabelle Van Campenhoudt
 ## Title: Power BI server and Office Online server, modernize your on-premises BI approach.
@@ -211,7 +212,7 @@ Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Sci
 #  
 #### SessionID: 78890
 # A Gentle Intro to Multi-master Replication
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Developer
 ## Speaker: Ewald Cress
 ## Title: A Gentle Intro to Multi-master Replication
@@ -224,7 +225,7 @@ In this talk, I'll cover the basic premise of what CRDTs are, a few example CRDT
 #  
 #### SessionID: 78967
 # Climbing the SQL Server Index B-Tree (from a user perspective)
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Enterprise/ Administration
 ## Speaker: Mike Byrd
 ## Title: Climbing the SQL Server Index B-Tree (from a user perspective)
@@ -240,7 +241,7 @@ Performance! That’s what we are all looking for. Blast off with this presentat
 #  
 #### SessionID: 80194
 # Back to the future - Migrating our SQL Server OnPremise Database Minicon
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Charity Mini-Con
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Back to the future - Migrating our SQL Server OnPremise Database Minicon
@@ -261,7 +262,7 @@ After the migration, we will address several outstandin
 #  
 #### SessionID: 75791
 # Azure Data Factory v2 – SSIS Data Flows  Custom Extensibility
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Scientist
 ## Speaker: Paul Andrew
 ## Title: Azure Data Factory v2 – SSIS Data Flows  Custom Extensibility
@@ -270,7 +271,7 @@ Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Sci
 #  
 #### SessionID: 77099
 # Data Science for Kids and beyond
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Scientist
 ## Speaker: Shreeya Subramani
 ## Title: Data Science for Kids and beyond
@@ -279,7 +280,7 @@ Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Sci
 #  
 #### SessionID: 78607
 # Monitoring Linux Performance for the SQL Server Admin
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Enterprise/ Administration
 ## Speaker: Anthony Nocentino
 ## Title: Monitoring Linux Performance for the SQL Server Admin
@@ -288,7 +289,7 @@ Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Enterprise/ Administrat
 #  
 #### SessionID: 83659
 # SQLOpsStudio Vs SSMS - There can be only one
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Developer
 ## Speaker: Warwick Rudd
 ## Title: SQLOpsStudio Vs SSMS - There can be only one
@@ -298,7 +299,7 @@ In this session we will take you on a journey of comparing SSMS and SQLOpsStudio
 #  
 #### SessionID: 74310
 # Azure Data : SELECT People FROM DataLake WHERE HappyFace = TRUE
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Scientist
 ## Speaker: Jean-Pierre Riehl
 ## Title: Azure Data : SELECT People FROM DataLake WHERE HappyFace = TRUE
@@ -310,7 +311,7 @@ Even if this session is demo-driven, concepts and features of Azure Data technol
 #  
 #### SessionID: 78029
 # Modern Data Warehousing - The Lambda Approach to Azure BI
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: BI/ Analytics/ Data Scientist
 ## Speaker: Simon Whiteley
 ## Title: Modern Data Warehousing - The Lambda Approach to Azure BI
@@ -323,7 +324,7 @@ We will follow the movement of data through batch and speed layers via Azure Dat
 #  
 #### SessionID: 78604
 # Containers - You Better Get on Board
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Enterprise/ Administration
 ## Speaker: Anthony Nocentino
 ## Title: Containers - You Better Get on Board
@@ -337,7 +338,7 @@ In this session we’ll look at
 #  
 #### SessionID: 80923
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#748-Cambridge-2018)
+#### [Back to calendar](#nr-748)
 Event Date: 08-09-2018 - Session time: 16:15:00 - Track: Business/ End user
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job

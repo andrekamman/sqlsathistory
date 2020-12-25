@@ -1,3 +1,4 @@
+#### Nr: 538
 #### [Back to Main list](index.md)
 # SQLSaturday #538 - Sofia 2016
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 48577
 # SQL Server 2016: Evolution of the Columnstore Indexes
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gilberto Zampatti
 ## Title: SQL Server 2016: Evolution of the Columnstore Indexes
@@ -38,7 +39,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49396
 # Big Data with Azure: where to begin? Concepts and best practices
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Satya Jayanty
 ## Title: Big Data with Azure: where to begin? Concepts and best practices
@@ -49,7 +50,7 @@ Microsoft Azure has the ability to move, store and analyze data within the cloud
 #  
 #### SessionID: 51185
 # SQL Server Myths and Misconceptions
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Miroslav Dimitrov
 ## Title: SQL Server Myths and Misconceptions
@@ -58,7 +59,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54980
 # Big Data analytics with Microsoft R Server
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: Big Data analytics with Microsoft R Server
@@ -69,7 +70,7 @@ Don’t miss the opportunity to see how MRS addresses open source R scalability 
 #  
 #### SessionID: 48302
 # The Good, the Bad and the Ugly - Always Encrypted in action
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janos Berke
 ## Title: The Good, the Bad and the Ugly - Always Encrypted in action
@@ -87,7 +88,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50876
 # Mobile BI with Microsoft tools
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: BI Information Delivery
 ## Speaker: Andrea Martorana Tusa
 ## Title: Mobile BI with Microsoft tools
@@ -102,7 +103,7 @@ Based on some real examples we will set out a comparison matrix to find the best
 #  
 #### SessionID: 53955
 # IoT Duel - Cloud vs. on Premises Solutions
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: IoT Duel - Cloud vs. on Premises Solutions
@@ -111,7 +112,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 54426
 # Entity Framework Core - Did your feature got In, Out or Planned?
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Branimir Giurov
 ## Title: Entity Framework Core - Did your feature got In, Out or Planned?
@@ -125,7 +126,7 @@ We'll talk about what's in the v1.0 release, and what is still planned. We'll lo
 #  
 #### SessionID: 50970
 # SQL Server Performance Tuning. Old-School Practical Guide.
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Denis Reznik
 ## Title: SQL Server Performance Tuning. Old-School Practical Guide.
@@ -136,7 +137,7 @@ In this session, we will find answers to all these questions going from collecti
 #  
 #### SessionID: 53839
 # Building an SQL Server 2016 AlwaysON Availability Solution (Part 1)
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Margarita Naumova
 ## Title: Building an SQL Server 2016 AlwaysON Availability Solution (Part 1)
@@ -146,7 +147,7 @@ This two-part session will cover not only what is in SQL Server 2016, such as al
 #  
 #### SessionID: 53852
 # Less known component in SSIS and cool features of Power BI
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Professional Development
 ## Speaker: Ivan Miliovsky
 ## Title: Less known component in SSIS and cool features of Power BI
@@ -158,7 +159,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 53936
 # Data Science on Premise with Microsoft SQL Server 2016 and R-Services
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Analytics and Visualization
 ## Speaker: Daniel Joskovski
 ## Title: Data Science on Premise with Microsoft SQL Server 2016 and R-Services
@@ -167,7 +168,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 52272
 # Azure SQL Data Warehouse: What, Where, How
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL Data Warehouse: What, Where, How
@@ -177,7 +178,7 @@ In this session I'm going to answer on these questions. Also, I will prodive inf
 #  
 #### SessionID: 53840
 # Building an SQL Server 2016 AlwaysON Availability Solution (Part 2)
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Margarita Naumova
 ## Title: Building an SQL Server 2016 AlwaysON Availability Solution (Part 2)
@@ -187,7 +188,7 @@ This two-part session will cover not only what is in SQL Server 2016, such as al
 #  
 #### SessionID: 53928
 # Azure Search - full-text search in a cloud
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: Azure Search - full-text search in a cloud
@@ -196,7 +197,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 54425
 # Crafting killer real time apps with SignalR and SQL Server
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Samuil Aleksov
 ## Title: Crafting killer real time apps with SignalR and SQL Server
@@ -209,7 +210,7 @@ Cool demos are guaranteed.
 #  
 #### SessionID: 48265
 # Tired of connecting on-prem  cloud data? Take a DB stretch
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Tired of connecting on-prem  cloud data? Take a DB stretch
@@ -220,7 +221,7 @@ Stretch Database is the new concept, which allows you to stretch your data from 
 #  
 #### SessionID: 48286
 # Identity Mapping and De-Duplicating 
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Dejan Sarka
 ## Title: Identity Mapping and De-Duplicating 
@@ -229,7 +230,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 51069
 # Introduction to SQL Server Extended Events
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Andrey Nikolov
 ## Title: Introduction to SQL Server Extended Events
@@ -238,7 +239,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 53662
 # Native JSON support in SQL 2016
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Ivelin Andreev
 ## Title: Native JSON support in SQL 2016
@@ -250,7 +251,7 @@ In this session we will talk about JSON support features, limitations and some t
 #  
 #### SessionID: 48253
 # Are You a DBA by Accident? Welcome to the Club!
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Are You a DBA by Accident? Welcome to the Club!
@@ -264,7 +265,7 @@ In this session I will invite you to discuss the pros  cons of the solutions I c
 #  
 #### SessionID: 52487
 # Migration Strategies
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Virendra Kumar Yaduvanshi
 ## Title: Migration Strategies
@@ -273,7 +274,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53931
 # Tips and tricks to optimize data loading in SQL Server
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ivan Donev
 ## Title: Tips and tricks to optimize data loading in SQL Server
@@ -282,7 +283,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 54424
 # Life of a query
-#### [Back to calendar](#SQLSaturday-#538-Sofia-2016)
+#### [Back to calendar](#nr-538)
 Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kaloyan Kosev
 ## Title: Life of a query

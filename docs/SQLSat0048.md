@@ -1,3 +1,4 @@
+#### Nr: 48
 #### [Back to Main list](index.md)
 # SQLSaturday #48 - Columbia 2010
 Start Time (24h)|Speaker|Track|Title
@@ -53,7 +54,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28402
 # The Dirty Dozen: PowerShell Scripts for Busy DBAs
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 2
 ## Speaker: Aaron Nelson
 ## Title: The Dirty Dozen: PowerShell Scripts for Busy DBAs
@@ -62,7 +63,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 2
 #  
 #### SessionID: 28403
 # PowerShell 2.0 Beyond the Dirty Dozen
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 2
 ## Speaker: Aaron Nelson
 ## Title: PowerShell 2.0 Beyond the Dirty Dozen
@@ -71,7 +72,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 2
 #  
 #### SessionID: 28559
 # Maximizing Plan Re-use in SQL 2008
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 2
 ## Speaker: Andrew Kelly
 ## Title: Maximizing Plan Re-use in SQL 2008
@@ -81,7 +82,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 2
 #  
 #### SessionID: 28560
 # Storage and I/O Best Practices for SQL Server
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Large Session
 ## Speaker: Andrew Kelly
 ## Title: Storage and I/O Best Practices for SQL Server
@@ -90,7 +91,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Large Session
 #  
 #### SessionID: 28571
 # PowerSQL(CLR)
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 1
 ## Speaker: Alex Tocitu
 ## Title: PowerSQL(CLR)
@@ -101,7 +102,7 @@ We will continue with ways to integrate these with SSRS, SSIS, and/or Windows Fo
 #  
 #### SessionID: 28572
 # CLR 101
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 2
 ## Speaker: Alex Tocitu
 ## Title: CLR 101
@@ -112,7 +113,7 @@ We will also show you how to organize your SQL Server Express and up, for hostin
 #  
 #### SessionID: 28677
 # Database Design for Developers 
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Large Session
 ## Speaker: Andy Leonard
 ## Title: Database Design for Developers 
@@ -121,7 +122,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Large Session
 #  
 #### SessionID: 28679
 # SSIS Design Patterns 
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Andy Leonard
 ## Title: SSIS Design Patterns 
@@ -130,7 +131,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 28712
 # Building a Professional Development Plan
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Andy Warren
 ## Title: Building a Professional Development Plan
@@ -140,7 +141,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 28723
 # DBA 101: The Basics
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 1
 ## Speaker: Andy Warren
 ## Title: DBA 101: The Basics
@@ -149,7 +150,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 1
 #  
 #### SessionID: 28994
 # Consolidated SQL Server Architectures
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 1
 ## Speaker: Ben DeBow
 ## Title: Consolidated SQL Server Architectures
@@ -158,7 +159,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 1
 #  
 #### SessionID: 29117
 # Introduction To Column Level Encryption
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 2
 ## Speaker: Bob Langley
 ## Title: Introduction To Column Level Encryption
@@ -167,7 +168,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 2
 #  
 #### SessionID: 29246
 # What's New In SSRS 2008 (With Added R2 Flair)
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 1
 ## Speaker: Brett Tomson
 ## Title: What's New In SSRS 2008 (With Added R2 Flair)
@@ -176,7 +177,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 1
 #  
 #### SessionID: 29248
 # T-SQL Enhancements in SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 1
 ## Speaker: Brett Tomson
 ## Title: T-SQL Enhancements in SQL Server 2008
@@ -185,7 +186,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 1
 #  
 #### SessionID: 29362
 # Cool Tricks to Pull from your SSIS Hat
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Julie Smith
 ## Title: Cool Tricks to Pull from your SSIS Hat
@@ -194,7 +195,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 29446
 # How, where, why, and when to use Dynamic SQL
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 1
 ## Speaker: Tim Chapman
 ## Title: How, where, why, and when to use Dynamic SQL
@@ -203,7 +204,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 1
 #  
 #### SessionID: 29524
 # Introduction to Transactional Replication
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 1
 ## Speaker: Chris Skorlinski
 ## Title: Introduction to Transactional Replication
@@ -213,7 +214,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 1
 #  
 #### SessionID: 29526
 # Top 5 fastest ways as DBA to get fired
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Chris Skorlinski
 ## Title: Top 5 fastest ways as DBA to get fired
@@ -222,7 +223,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 30028
 # To click or to type, that is the question.
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 1
 ## Speaker: David Taylor
 ## Title: To click or to type, that is the question.
@@ -231,7 +232,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 1
 #  
 #### SessionID: 30038
 # Windows PowerShell Best Practices for SQL DBA's
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Large Session
 ## Speaker: Ed Wilson
 ## Title: Windows PowerShell Best Practices for SQL DBA's
@@ -241,7 +242,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Large Session
 #  
 #### SessionID: 30050
 # Object Relational Mappers for the DBA
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Eric Humphrey
 ## Title: Object Relational Mappers for the DBA
@@ -250,7 +251,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 30051
 # Things To Do With PowerShell  SMO
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 2
 ## Speaker: Eric Humphrey
 ## Title: Things To Do With PowerShell  SMO
@@ -259,7 +260,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 2
 #  
 #### SessionID: 30109
 # Diagnosing connectivity issues with SQL Server
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 2
 ## Speaker: Evan Basalik
 ## Title: Diagnosing connectivity issues with SQL Server
@@ -268,7 +269,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 2
 #  
 #### SessionID: 30110
 # Troubleshooting SSRS Performance
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Evan Basalik
 ## Title: Troubleshooting SSRS Performance
@@ -277,7 +278,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 30225
 # Clustering for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 2
 ## Speaker: Geoff Hiten
 ## Title: Clustering for Mere Mortals
@@ -288,7 +289,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 2
 #  
 #### SessionID: 30226
 # Bad SQL
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Large Session
 ## Speaker: Geoff Hiten
 ## Title: Bad SQL
@@ -297,7 +298,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Large Session
 #  
 #### SessionID: 30428
 # Tuna Helper - Proven Process for Tuning SQL
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 2
 ## Speaker: Janis Griffin
 ## Title: Tuna Helper - Proven Process for Tuning SQL
@@ -313,7 +314,7 @@ future tuning projects.
 #  
 #### SessionID: 30429
 # SQL Server Service Broker – An Overview
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 1
 ## Speaker: Janis Griffin
 ## Title: SQL Server Service Broker – An Overview
@@ -324,7 +325,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 1
 #  
 #### SessionID: 30602
 # Get Cert! Get Cred!
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Jose Chinchilla
 ## Title: Get Cert! Get Cred!
@@ -337,7 +338,7 @@ But why certify? Join me to find out the opportunities you may be missing on!
 #  
 #### SessionID: 30605
 # Business Intelligence: Decaffeinated Please! 
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Jose Chinchilla
 ## Title: Business Intelligence: Decaffeinated Please! 
@@ -347,7 +348,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 30796
 # Make Reporting Services Work For You
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Jessica Moss
 ## Title: Make Reporting Services Work For You
@@ -356,7 +357,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 30797
 # Who Needs a Data Warehouse?
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Jessica Moss
 ## Title: Who Needs a Data Warehouse?
@@ -365,7 +366,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 30929
 # Creating Custom Components for SSIS
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: John Welch
 ## Title: Creating Custom Components for SSIS
@@ -374,7 +375,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 30930
 # Processing Flat Files with SSIS
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 2
 ## Speaker: John Welch
 ## Title: Processing Flat Files with SSIS
@@ -383,7 +384,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 2
 #  
 #### SessionID: 31601
 # Going Spatial
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 1
 ## Speaker: Matthew Campbell
 ## Title: Going Spatial
@@ -392,7 +393,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 1
 #  
 #### SessionID: 31703
 # Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Large Session
 ## Speaker: Alejandro Mesa
 ## Title: Parameter Sniffing
@@ -404,7 +405,7 @@ Learn what is parameter sniffing, how it could affect your query response time, 
 #  
 #### SessionID: 32503
 # Planning your ETL architecture with SSIS
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Rafael Salas
 ## Title: Planning your ETL architecture with SSIS
@@ -414,7 +415,7 @@ In this session, we will use ETL best practices to make a requirements checklist
 #  
 #### SessionID: 32504
 # Managing Database Schemas With VS201 DB projects
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 2
 ## Speaker: Rafael Salas
 ## Title: Managing Database Schemas With VS201 DB projects
@@ -425,7 +426,7 @@ This session showcases VS 2010, but most the content remains relevant for VSDB20
 #  
 #### SessionID: 32767
 # Data Files and Transaction Logs -- beyond the GUIs
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 1
 ## Speaker: Sandra Mueller
 ## Title: Data Files and Transaction Logs -- beyond the GUIs
@@ -435,7 +436,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 1
 #  
 #### SessionID: 32768
 # OLTP (yes!) Databases and Cube Design
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Sandra Mueller
 ## Title: OLTP (yes!) Databases and Cube Design
@@ -447,7 +448,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 32894
 # SQL Server Diagnostics Tools Unleashed 
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Large Session
 ## Speaker: Sergey Pustovit
 ## Title: SQL Server Diagnostics Tools Unleashed 
@@ -457,7 +458,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Large Session
 #  
 #### SessionID: 32895
 # SQL Server Performance Related DMVs
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 2
 ## Speaker: Sergey Pustovit
 ## Title: SQL Server Performance Related DMVs
@@ -467,7 +468,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Admin 2
 #  
 #### SessionID: 33097
 # Data Mining with PowerPivot 2010
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Mark Tabladillo 
 ## Title: Data Mining with PowerPivot 2010
@@ -476,7 +477,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 33242
 # Confessions of a Data Integrator: Bad Designs
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Stuart Ainsworth
 ## Title: Confessions of a Data Integrator: Bad Designs
@@ -485,7 +486,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 33243
 # You Got XML In My Database? What's Up With That? 
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 1
 ## Speaker: Stuart Ainsworth
 ## Title: You Got XML In My Database? What's Up With That? 
@@ -494,7 +495,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DB Dev 1
 #  
 #### SessionID: 33863
 # Information Visualization - Making great Charts
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Wayne Snyder
 ## Title: Information Visualization - Making great Charts
@@ -503,7 +504,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 33923
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -512,7 +513,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 33924
 # Attribute Discretization in Analysis Services
-#### [Back to calendar](#SQLSaturday-#48-Columbia-2010)
+#### [Back to calendar](#nr-48)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: William E Pearson III
 ## Title: Attribute Discretization in Analysis Services

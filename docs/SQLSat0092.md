@@ -1,3 +1,4 @@
+#### Nr: 92
 #### [Back to Main list](index.md)
 # SQLSaturday #92 - Oregon 2011
 Start Time (24h)|Speaker|Track|Title
@@ -45,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28778
 # Troubleshooting SQL Server with SysInternals Tools
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Argenis Fernandez
 ## Title: Troubleshooting SQL Server with SysInternals Tools
@@ -54,7 +55,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 28920
 # Gather SQL Server Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Allen White
 ## Title: Gather SQL Server Performance Data with PowerShell
@@ -63,7 +64,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 28922
 # Let Service Broker Help You Scale Your Application
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Allen White
 ## Title: Let Service Broker Help You Scale Your Application
@@ -72,7 +73,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 29028
 # Self-service BI with project 'Crescent'
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Benjamin Muller
 ## Title: Self-service BI with project 'Crescent'
@@ -81,7 +82,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 29034
 # Cube Monitoring  Load Balancing in MS-Adcenter 
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Bilal Obeidat
 ## Title: Cube Monitoring  Load Balancing in MS-Adcenter 
@@ -95,7 +96,7 @@ Currently AdCenter has two major services that are integrated / connected to eac
 #  
 #### SessionID: 29192
 # Best Practices Every SQL Server DBA Must Know
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Brad McGehee
 ## Title: Best Practices Every SQL Server DBA Must Know
@@ -104,7 +105,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 29356
 # Hybrid Database Solutions with SQL Azure
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Buck Woody
 ## Title: Hybrid Database Solutions with SQL Azure
@@ -113,7 +114,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 29404
 # Real-time Data Warehouse and Reporting
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Carlos Bossy
 ## Title: Real-time Data Warehouse and Reporting
@@ -122,7 +123,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 29469
 # 10 Things all BI System Administrators Should Know
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Robert Davis
 ## Title: 10 Things all BI System Administrators Should Know
@@ -131,7 +132,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 29533
 # Working with Server Side Traces
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Christina Leo
 ## Title: Working with Server Side Traces
@@ -142,7 +143,7 @@ First, we’ll examine the anatomy of a server-side trace script and look at the
 #  
 #### SessionID: 29684
 # Analyze and map spatial data with SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Deepak Puri
 ## Title: Analyze and map spatial data with SQL Server 2008
@@ -159,7 +160,7 @@ spatial functionality in the forthcoming "Denali" version of SQL Server.
 #  
 #### SessionID: 29771
 # Kama Sutra of SSIS: A guide to loving ETL
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: David Eichner
 ## Title: Kama Sutra of SSIS: A guide to loving ETL
@@ -168,7 +169,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 29814
 # Data Warehousing Best Practices
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Doug Barrett
 ## Title: Data Warehousing Best Practices
@@ -177,7 +178,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 29972
 # Devs are from Mars, Report Servers are from Venus
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Doug Lane
 ## Title: Devs are from Mars, Report Servers are from Venus
@@ -186,7 +187,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 30043
 # Management Data Warehouse and Custom Collectors
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Edwin Quick
 ## Title: Management Data Warehouse and Custom Collectors
@@ -195,7 +196,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 30048
 # SQL Driven Mobile Platforms
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Aaron Allison
 ## Title: SQL Driven Mobile Platforms
@@ -204,7 +205,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 30068
 # Scripting in SSIS
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Erik Monchen
 ## Title: Scripting in SSIS
@@ -213,7 +214,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 30080
 # You’re My Density: Making Sense of Statistics
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Erin Stellato
 ## Title: You’re My Density: Making Sense of Statistics
@@ -222,7 +223,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 30297
 # Intro to SQL Server Mirroring and Log Shipping 
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Harry Chandra
 ## Title: Intro to SQL Server Mirroring and Log Shipping 
@@ -231,7 +232,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 30327
 # Deeper JOINs
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Rob Farley
 ## Title: Deeper JOINs
@@ -240,7 +241,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 30340
 # Advanced indexing
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Hugo Kornelis
 ## Title: Advanced indexing
@@ -249,7 +250,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 30449
 # Looney Tuner? No, there IS a method to my madness!
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Janis Griffin
 ## Title: Looney Tuner? No, there IS a method to my madness!
@@ -260,7 +261,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 30776
 # Reporting Services 201: From Basic To WOW!
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Jes Schultz
 ## Title: Reporting Services 201: From Basic To WOW!
@@ -269,7 +270,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 31198
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -278,7 +279,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 31508
 # No More Bad Dates: Working With Dates and Times
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Kendra Little
 ## Title: No More Bad Dates: Working With Dates and Times
@@ -287,7 +288,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 31552
 # Introduction to Analysis Services
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Marc Beacom
 ## Title: Introduction to Analysis Services
@@ -296,7 +297,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 31923
 # Want a promotion? It’s up to you!
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Mitchell Bottel
 ## Title: Want a promotion? It’s up to you!
@@ -305,7 +306,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 32066
 # Extended Events – New Age of Profiling
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Neil Hambly
 ## Title: Extended Events – New Age of Profiling
@@ -314,7 +315,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 32170
 # Models, Cubes  Marts: how  why to choose
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Paul Turley
 ## Title: Models, Cubes  Marts: how  why to choose
@@ -323,7 +324,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 32171
 # So you've built a cube...Now what?  MDX essentials
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Paul Turley
 ## Title: So you've built a cube...Now what?  MDX essentials
@@ -332,7 +333,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 32519
 # Basic Performance Tips and Gotchas
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Rick  Morelan
 ## Title: Basic Performance Tips and Gotchas
@@ -341,7 +342,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 32549
 # Bad Indexes
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Rob Farley
 ## Title: Bad Indexes
@@ -350,7 +351,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 32556
 # Exploring SQL 2008's MERGE
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Rob Garrison
 ## Title: Exploring SQL 2008's MERGE
@@ -359,7 +360,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 32970
 # SQL Server And Oracle
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Steve Moss
 ## Title: SQL Server And Oracle
@@ -374,7 +375,7 @@ In this session I will present and discuss managing an environment that includes
 #  
 #### SessionID: 32974
 # SSIS Package Design: Choosing the Right Components
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Sopheap Suy
 ## Title: SSIS Package Design: Choosing the Right Components
@@ -383,7 +384,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 33007
 # Database Development: Keep It Agile, Not Fragile
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Dev Nambi
 ## Title: Database Development: Keep It Agile, Not Fragile
@@ -393,7 +394,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 33665
 # The Periodic Table of Dynamic Management Objects
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Tim Ford
 ## Title: The Periodic Table of Dynamic Management Objects
@@ -402,7 +403,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 33818
 # Columnstore Indexes in SQL Server Denali
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Vern Rabe
 ## Title: Columnstore Indexes in SQL Server Denali
@@ -411,7 +412,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 33828
 # Parallelism in SQL Server
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: Victor Isakov
 ## Title: Parallelism in SQL Server
@@ -421,7 +422,7 @@ Event Date: 08-10-2011 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 34692
 # Multi-threading TSQL
-#### [Back to calendar](#SQLSaturday-#92-Oregon-2011)
+#### [Back to calendar](#nr-92)
 Event Date: 08-10-2011 - Session time: 00:00:00 - Track: 
 ## Speaker: John Huang
 ## Title: Multi-threading TSQL

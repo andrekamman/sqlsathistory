@@ -1,3 +1,4 @@
+#### Nr: 968
 #### [Back to Main list](index.md)
 # SQLSaturday #968 – Caxias do Sul – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 101759
 # Streaming Architecture with Big Data Clusters (SQL2019)
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Strategy and Architecture
 ## Speaker: Luiz Henrique Garetti
 ## Title: Streaming Architecture with Big Data Clusters (SQL2019)
@@ -33,7 +34,7 @@ Nesta sessão, vamos aprofundar o assunto e entender (teoria e prática) essa no
 #  
 #### SessionID: 105315
 # SQL Server Errorlog Near-Realtime
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Flávio Farias
 ## Title: SQL Server Errorlog Near-Realtime
@@ -42,7 +43,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 105320
 # Utilizando o Azure Sentinel para detectar um ataque de força bruta em um MSSQL Server
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Other
 ## Speaker: Eduardo Kieling
 ## Title: Utilizando o Azure Sentinel para detectar um ataque de força bruta em um MSSQL Server
@@ -51,7 +52,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Other
 #  
 #### SessionID: 101846
 # LGPD - Lei Geral de Proteção de Dados
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Sulamita Dantas
 ## Title: LGPD - Lei Geral de Proteção de Dados
@@ -60,7 +61,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Application  Database D
 #  
 #### SessionID: 105214
 # Gerenciando o seu banco de dados através do Windows Virtual Desktop
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rafael Felipe
 ## Title: Gerenciando o seu banco de dados através do Windows Virtual Desktop
@@ -69,7 +70,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 105333
 # Azure Synapse Analytics no Dia a Dia
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bruno Feldman
 ## Title: Azure Synapse Analytics no Dia a Dia
@@ -79,7 +80,7 @@ Nessa sessão abordaremos os desafios da migração, dicas para obter o máximo 
 #  
 #### SessionID: 102069
 # Melhores práticas #SQN
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: Ricardo Leka
 ## Title: Melhores práticas #SQN
@@ -89,7 +90,7 @@ Vamos conversar sobre configurações e programação que já encontramos em vá
 #  
 #### SessionID: 105319
 # SQL Server Backups 101
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: LOGAN MERAZZI
 ## Title: SQL Server Backups 101
@@ -100,7 +101,7 @@ Nessa sessão, veremos alguns modelos de estratégias de backups, algumas (des)v
 #  
 #### SessionID: 105380
 # Tudo que você deveria saber sobre os novos recursos do Azure Synapse Analytics.
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sidney Cirqueira
 ## Title: Tudo que você deveria saber sobre os novos recursos do Azure Synapse Analytics.
@@ -109,7 +110,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 102354
 # Conceitos de Alta disponibilidade no SQL SERVER
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcelo Adade
 ## Title: Conceitos de Alta disponibilidade no SQL SERVER
@@ -118,7 +119,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 103716
 # Entity Framework Core - Acesso a dados e controle de migrações
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Federico Bernasconi
 ## Title: Entity Framework Core - Acesso a dados e controle de migrações
@@ -128,7 +129,7 @@ Também vamos dar uma olhada para o recurso de controle de migração de tabelas
 #  
 #### SessionID: 105175
 # Quer começar na carreira de IA e ML... Aqui tem um caminho!
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Diego Nogare
 ## Title: Quer começar na carreira de IA e ML... Aqui tem um caminho!
@@ -137,7 +138,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 101914
 # SQL Server on Linux - Da Instalação a Configurações
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Anderson Souza
 ## Title: SQL Server on Linux - Da Instalação a Configurações
@@ -146,7 +147,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Application  Database D
 #  
 #### SessionID: 102050
 # Hacking SQL Server 3.0
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Strategy and Architecture
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server 3.0
@@ -157,7 +158,7 @@ Vamos simular um novo modelo de acesso em um banco de dados e como prevenir este
 #  
 #### SessionID: 105213
 # Power BI - Dicas e Truques para turbinar seu Dashboard
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rodrigo Dornel
 ## Title: Power BI - Dicas e Truques para turbinar seu Dashboard
@@ -166,7 +167,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 105180
 # Monitoring SQL Server using Community solutions (Free)
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Javier Villegas
 ## Title: Monitoring SQL Server using Community solutions (Free)
@@ -175,7 +176,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 105216
 # Quer ser um excelente profissional de dados? Pergunte-me como.
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: Vitor Fava
 ## Title: Quer ser um excelente profissional de dados? Pergunte-me como.
@@ -184,7 +185,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 105644
 # Databricks as a Unified Data Analytics Platform
-#### [Back to calendar](#SQLSaturday-#968-–-Caxias-do-Sul-–-Virtual-2020)
+#### [Back to calendar](#nr-968)
 Event Date: 20-06-2020 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Nilton Kazuyuki Ueda
 ## Title: Databricks as a Unified Data Analytics Platform

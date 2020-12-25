@@ -1,3 +1,4 @@
+#### Nr: 478
 #### [Back to Main list](index.md)
 # SQLSaturday #478 - Albuquerque 2016
 Start Time (24h)|Speaker|Track|Title
@@ -43,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 40980
 # SSAS Multidimensional vs. SSAS Tabular – Which one do I use?
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Information Delivery
 ## Speaker: Alan Faulkner
 ## Title: SSAS Multidimensional vs. SSAS Tabular – Which one do I use?
@@ -55,7 +56,7 @@ Determining whether multidimensional or tabular is the optimum solution for your
 #  
 #### SessionID: 41279
 # Fun with Availability Groups
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christopher Wolff
 ## Title: Fun with Availability Groups
@@ -64,7 +65,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42483
 # Hadoop, Hive, JSON, and Data! Oh, my!
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: TJay Belt
 ## Title: Hadoop, Hive, JSON, and Data! Oh, my!
@@ -73,7 +74,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 44229
 # The Internet of Things (IoT)
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Julia Renz
 ## Title: The Internet of Things (IoT)
@@ -82,7 +83,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 44273
 # Powershell Jumpstart for SQL Server DBAs
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Powershell Jumpstart for SQL Server DBAs
@@ -91,7 +92,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46767
 # EXEC and sp_executesql: An ad hoc rally
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: DEV
 ## Speaker: Jay Robinson
 ## Title: EXEC and sp_executesql: An ad hoc rally
@@ -100,7 +101,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: DEV
 #  
 #### SessionID: 40554
 # TSQL Coding Techniques - Are You Playing with Fire?
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: TSQL Coding Techniques - Are You Playing with Fire?
@@ -109,7 +110,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 40569
 # I'm It - Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
@@ -118,7 +119,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Professional Developmen
 #  
 #### SessionID: 40703
 # Why should I care about the plan cache?
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about the plan cache?
@@ -127,7 +128,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41538
 # Mastering and Enhancing Company Data
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rushabh Mehta
 ## Title: Mastering and Enhancing Company Data
@@ -136,7 +137,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 41902
 # Incorporating Azure Machine Learning to SQL Server Environments
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ginger Grant
 ## Title: Incorporating Azure Machine Learning to SQL Server Environments
@@ -148,7 +149,7 @@ This presentation will demo how to extend the flexibility of Azure ML by impleme
 #  
 #### SessionID: 44175
 # MDX: Troubleshooting Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Information Delivery
 ## Speaker: Martin Schoombee
 ## Title: MDX: Troubleshooting Tips  Tricks
@@ -159,7 +160,7 @@ In this session I will share (and demonstrate) very useful ways to find out the 
 #  
 #### SessionID: 44252
 # Getting started with Big Data and BI
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Carlos Bossy
 ## Title: Getting started with Big Data and BI
@@ -168,7 +169,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 40745
 # In Memory Tables; Not Just For OLTP
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Russ Thomas
 ## Title: In Memory Tables; Not Just For OLTP
@@ -177,7 +178,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 41998
 # Testing SSIS Packages
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Testing SSIS Packages
@@ -195,7 +196,7 @@ This session walks through design patterns for testing SSIS packages during and 
 #  
 #### SessionID: 42313
 # Source Control practices for your BI World
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Weed
 ## Title: Source Control practices for your BI World
@@ -204,7 +205,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 42455
 # Introduction to R and Data Science Tools in the Microsoft Stack
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Analytics and Visualization
 ## Speaker: Jamey Johnston
 ## Title: Introduction to R and Data Science Tools in the Microsoft Stack
@@ -217,7 +218,7 @@ The focus of the session will be primarily on the introduction to the R language
 #  
 #### SessionID: 42658
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -226,7 +227,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Professional Developmen
 #  
 #### SessionID: 43030
 # VLT Shootout
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Seth Washeck
 ## Title: VLT Shootout
@@ -235,7 +236,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46768
 # How to be agile building the data warehouse with WhereScape RED
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI
 ## Speaker: Dylan Newlander
 ## Title: How to be agile building the data warehouse with WhereScape RED
@@ -244,7 +245,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI
 #  
 #### SessionID: 42292
 # Intro to Monitoring I/O: The Counters That Count
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: J May
 ## Title: Intro to Monitoring I/O: The Counters That Count
@@ -253,7 +254,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41446
 # Adding Lightness: Better Performance Through Compression
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Jay Robinson
 ## Title: Adding Lightness: Better Performance Through Compression
@@ -262,7 +263,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 43060
 # Power BI is Awesome!
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Information Delivery
 ## Speaker: Steve Wake
 ## Title: Power BI is Awesome!
@@ -271,7 +272,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Information Delivery
 #  
 #### SessionID: 43119
 # Database Continuous Delivery  Your Salvation!
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: John Morehouse
 ## Title: Database Continuous Delivery  Your Salvation!
@@ -280,7 +281,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 44228
 # Windowing Functions: THE Reason to Upgrade to 2012+
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012+
@@ -289,7 +290,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 44271
 # Always Encrypted in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Todd Kleinhans
 ## Title: Always Encrypted in SQL Server 2016
@@ -298,7 +299,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46916
 # SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Naomi Williams
 ## Title: SQL Server Internals
@@ -307,7 +308,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: DBA
 #  
 #### SessionID: 41328
 # SQL Server 2016, New Features  Enhancements
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Martin
 ## Title: SQL Server 2016, New Features  Enhancements
@@ -318,7 +319,7 @@ By the end of this session you will have a jump-start on getting ready for the n
 #  
 #### SessionID: 41793
 # SQL Server Foreign Keys – De-mystifying the Rest of the Story
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SQL Server Foreign Keys – De-mystifying the Rest of the Story
@@ -332,7 +333,7 @@ After attending this session you will
 #  
 #### SessionID: 42067
 # Increase your SSIS Productivity with Biml
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reeves Smith
 ## Title: Increase your SSIS Productivity with Biml
@@ -346,7 +347,7 @@ In this session, you will learn:
 #  
 #### SessionID: 42246
 # Beginning Automation with Powershell
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Beginning Automation with Powershell
@@ -355,7 +356,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44226
 # SQL Server Defaults SUCK!!
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Boles
 ## Title: SQL Server Defaults SUCK!!
@@ -364,7 +365,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44261
 # 15  Things to ensure survivability of your database
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andre DuBois
 ## Title: 15  Things to ensure survivability of your database
@@ -373,7 +374,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41643
 # Design and Implement BI Like Edison! 
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI Like Edison! 
@@ -382,7 +383,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 41707
 # Critical Path SQL
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Thane Schaffer
 ## Title: Critical Path SQL
@@ -391,7 +392,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 42521
 # The Hangover - Ben has really broken his SQL Server
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Benjamin Reyes
 ## Title: The Hangover - Ben has really broken his SQL Server
@@ -400,7 +401,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44254
 # Overcoming Chartaphobia And Moving Toward Enlightening Data Viz
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Analytics and Visualization
 ## Speaker: Meagan Longoria
 ## Title: Overcoming Chartaphobia And Moving Toward Enlightening Data Viz
@@ -409,7 +410,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 44259
 # Getting Started with Databases on Amazon Web Services
-#### [Back to calendar](#SQLSaturday-#478-Albuquerque-2016)
+#### [Back to calendar](#nr-478)
 Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Gabriel Villa
 ## Title: Getting Started with Databases on Amazon Web Services

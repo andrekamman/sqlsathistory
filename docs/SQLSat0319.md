@@ -1,3 +1,4 @@
+#### Nr: 319
 #### [Back to Main list](index.md)
 # SQLSaturday #319 - Panama 2014
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11218
 # Introducción a SSIS, lo que necesitas saber para i
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Introducción a SSIS, lo que necesitas saber para i
@@ -35,7 +36,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 11892
 # SQL Server 2012 - Data Mining
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Business Intelligence  Analytics
 ## Speaker: César Oviedo
 ## Title: SQL Server 2012 - Data Mining
@@ -44,7 +45,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Business Intelligence  
 #  
 #### SessionID: 11893
 # Business Intelligence - Step by Step
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Business Intelligence  Analytics
 ## Speaker: César Oviedo
 ## Title: Business Intelligence - Step by Step
@@ -53,7 +54,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Business Intelligence  
 #  
 #### SessionID: 13249
 # The DiBA guide to Database Standards
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: English Track
 ## Speaker: Diana Betancourt
 ## Title: The DiBA guide to Database Standards
@@ -62,7 +63,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: English Track
 #  
 #### SessionID: 13639
 # SQL 2014 Alta disponibilidad en ambientes empresariales
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Eduardo Castro
 ## Title: SQL 2014 Alta disponibilidad en ambientes empresariales
@@ -71,7 +72,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 16013
 # Inteligencia Geoespacial en SQL 
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Business Intelligence  Analytics
 ## Speaker: Javier Loria
 ## Title: Inteligencia Geoespacial en SQL 
@@ -80,7 +81,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Business Intelligence  
 #  
 #### SessionID: 16138
 # Certificate en SQL luego Conectate, Contribuye y Aprende con PASS
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DB Dev  Misc
 ## Speaker: Jose Chinchilla
 ## Title: Certificate en SQL luego Conectate, Contribuye y Aprende con PASS
@@ -89,7 +90,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DB Dev  Misc
 #  
 #### SessionID: 16968
 # DQS en SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Business Intelligence  Analytics
 ## Speaker: Jonathan Madriz
 ## Title: DQS en SQL Server 2012
@@ -98,7 +99,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Business Intelligence  
 #  
 #### SessionID: 17470
 # Indices Columnares en SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jose L. Rivera
 ## Title: Indices Columnares en SQL Server 2014
@@ -107,7 +108,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17471
 # Tablas Particionadas: De la A a la Z
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DB Dev  Misc
 ## Speaker: Jose L. Rivera
 ## Title: Tablas Particionadas: De la A a la Z
@@ -116,7 +117,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DB Dev  Misc
 #  
 #### SessionID: 19205
 # The Accidental Report Designer: Data Visualization Best Practices in SSRS
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: English Track
 ## Speaker: Meagan Longoria
 ## Title: The Accidental Report Designer: Data Visualization Best Practices in SSRS
@@ -125,7 +126,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: English Track
 #  
 #### SessionID: 19206
 # Choose Your Geospatial Mapping Adventure
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: English Track
 ## Speaker: Meagan Longoria
 ## Title: Choose Your Geospatial Mapping Adventure
@@ -134,7 +135,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: English Track
 #  
 #### SessionID: 19249
 # Tabular o Multidimensional, he ahi el dilema
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Business Intelligence  Analytics
 ## Speaker: Stephan Torres
 ## Title: Tabular o Multidimensional, he ahi el dilema
@@ -144,7 +145,7 @@ Estaremos tocando aspectos basicos de cada modelo, como construir una solucion d
 #  
 #### SessionID: 22315
 # Buscando a Nemo (o patrones avanzados de búsqueda)
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DB Dev  Misc
 ## Speaker: Ricardo Estrada
 ## Title: Buscando a Nemo (o patrones avanzados de búsqueda)
@@ -153,7 +154,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DB Dev  Misc
 #  
 #### SessionID: 23800
 # Inventario de un Ambiente SQL Utilizando PowerShell
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: English Track
 ## Speaker: Sal Young
 ## Title: Inventario de un Ambiente SQL Utilizando PowerShell
@@ -165,7 +166,7 @@ En esta sesión estaré presentado los PowerShell scripts que utilizo para captu
 #  
 #### SessionID: 23801
 # Microsoft SQL Server Management Studio – A Mi Manera
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: English Track
 ## Speaker: Sal Young
 ## Title: Microsoft SQL Server Management Studio – A Mi Manera
@@ -182,7 +183,7 @@ Al terminar la sesión, tendrán mejor conocimiento acerca de
 #  
 #### SessionID: 27211
 # Particionamiento y BD Parciales HA para VLDB
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DB Dev  Misc
 ## Speaker: Kenneth Urena
 ## Title: Particionamiento y BD Parciales HA para VLDB
@@ -191,7 +192,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DB Dev  Misc
 #  
 #### SessionID: 27212
 # Estrategias de indexación y buenos diseños físicos para mejoras del desempeño
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kenneth Urena
 ## Title: Estrategias de indexación y buenos diseños físicos para mejoras del desempeño
@@ -205,7 +206,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 27614
 # Acceso a datos para soluciones altamente escalables usando SQL, noSQL y persistencia políglota
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DB Dev  Misc
 ## Speaker: Walter Montes
 ## Title: Acceso a datos para soluciones altamente escalables usando SQL, noSQL y persistencia políglota
@@ -214,7 +215,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DB Dev  Misc
 #  
 #### SessionID: 9053
 # Extendiento la vitualización hacia Windows Azure
-#### [Back to calendar](#SQLSaturday-#319-Panama-2014)
+#### [Back to calendar](#nr-319)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Adrian Miranda
 ## Title: Extendiento la vitualización hacia Windows Azure

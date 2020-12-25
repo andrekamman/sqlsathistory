@@ -1,3 +1,4 @@
+#### Nr: 630
 #### [Back to Main list](index.md)
 # SQLSaturday #630 - Brisbane 2017
 Start Time (24h)|Speaker|Track|Title
@@ -21,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 62565
 # Zero to Microsoft Power BI
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Peter Myers
 ## Title: Zero to Microsoft Power BI
@@ -41,7 +42,7 @@ This workshop is suitable for a broad array of professionals, including business
 #  
 #### SessionID: 61718
 # Power BI for the Developer
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Peter Myers
 ## Title: Power BI for the Developer
@@ -50,7 +51,7 @@ Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 63325
 # Schroedinger’s Backup – will your recovery work?
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Schroedinger’s Backup – will your recovery work?
@@ -63,7 +64,7 @@ In this session Patrick we will walk you through how to design,  create and test
 #  
 #### SessionID: 63484
 # Build your first Service Broker application
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Martin Catherall
 ## Title: Build your first Service Broker application
@@ -76,7 +77,7 @@ This session is aimed at people with little to no Service Broker knowledge and a
 #  
 #### SessionID: 61185
 # DevOPs and the DBA
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamish Watson
 ## Title: DevOPs and the DBA
@@ -94,7 +95,7 @@ Through the use of a comprehensive live demo to a running production database th
 #  
 #### SessionID: 61717
 # Reports on the Run: Mobile Reporting with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Peter Myers
 ## Title: Reports on the Run: Mobile Reporting with SQL Server 2016
@@ -107,7 +108,7 @@ This session will be of interest to a full range of professionals, including ana
 #  
 #### SessionID: 63399
 # Security in Power BI; Everything You Need to Know
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: Security in Power BI; Everything You Need to Know
@@ -117,7 +118,7 @@ This is a demo-heavy session. Come and get answer to all your questions about Se
 #  
 #### SessionID: 61280
 # Power Query is more than just a desktop BI ETL tool
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matt Allington
 ## Title: Power Query is more than just a desktop BI ETL tool
@@ -131,7 +132,7 @@ Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 63374
 # On-premises Machine Learning : SQL Server 2016 with R
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Leila Etaati
 ## Title: On-premises Machine Learning : SQL Server 2016 with R
@@ -140,7 +141,7 @@ Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 63457
 # Azure Database Migration – Choosing the Right Tier
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Manohar Punna
 ## Title: Azure Database Migration – Choosing the Right Tier
@@ -151,7 +152,7 @@ In this session, I will walk you through the steps involved in analyzing the res
 #  
 #### SessionID: 61267
 # SQL Server 2016: It Just Runs FASTER!
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Victor Isakov
 ## Title: SQL Server 2016: It Just Runs FASTER!
@@ -160,7 +161,7 @@ Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63113
 # Visual Studio SQL Server Database Projects and integrating into VSTS
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Craig Bryden
 ## Title: Visual Studio SQL Server Database Projects and integrating into VSTS
@@ -171,7 +172,7 @@ In this session, I will demonstrate how to use SQL Server Database Projects, dis
 #  
 #### SessionID: 63401
 # Data Preparation is the Keystone; Power Query is Building Block
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: Data Preparation is the Keystone; Power Query is Building Block
@@ -182,7 +183,7 @@ We will use customer case studies to go through scenarios of preparing data for 
 #  
 #### SessionID: 61660
 # Power BI real world tips and tricks
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Gilbert Quevauvilliers
 ## Title: Power BI real world tips and tricks
@@ -199,7 +200,7 @@ The real world tips will cover the following sections of Power BI:
 #  
 #### SessionID: 62471
 # Database Administration for Azure SQL DB
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Martin Cairney
 ## Title: Database Administration for Azure SQL DB
@@ -210,7 +211,7 @@ You will leave this session with a better story for your manager to convince him
 #  
 #### SessionID: 64299
 # Drone or Die - Defenders of the Universe
-#### [Back to calendar](#SQLSaturday-#630-Brisbane-2017)
+#### [Back to calendar](#nr-630)
 Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Peter O'Gorman
 ## Title: Drone or Die - Defenders of the Universe

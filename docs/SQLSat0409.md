@@ -1,3 +1,4 @@
+#### Nr: 409
 #### [Back to Main list](index.md)
 # SQLSaturday #409 - Rheinland 2015
 Start Time (24h)|Speaker|Track|Title
@@ -34,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 22107
 # Azure Rocks - Patrick plays with SQL and other technology a bit
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 3 - Cloud
 ## Speaker: Patrick Heyde
 ## Title: Azure Rocks - Patrick plays with SQL and other technology a bit
@@ -43,7 +44,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 3 - Cloud
 #  
 #### SessionID: 35755
 # Maintenance Plans ad Hoc
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 1 - DBA
 ## Speaker: Tobias Koprowski
 ## Title: Maintenance Plans ad Hoc
@@ -53,7 +54,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 1 - DBA
 #  
 #### SessionID: 36159
 # Hochverf#252;gbarkeit mit AlwaysOn f#252;r die SSISDB
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 5 - BI
 ## Speaker: Stefan Grigat
 ## Title: Hochverf#252;gbarkeit mit AlwaysOn f#252;r die SSISDB
@@ -62,7 +63,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 5 - BI
 #  
 #### SessionID: 36303
 # Kerberos: Alptraum oder Zusammenspiel?
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 4 - Mixed
 ## Speaker: Mark A. Kuschel
 ## Title: Kerberos: Alptraum oder Zusammenspiel?
@@ -72,7 +73,7 @@ In diesem Vortrag erl#228;utere ich, was man unter Kerberos und Delegierung vers
 #  
 #### SessionID: 15412
 # Understanding  Solving Columnstore Problems
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 5 - BI
 ## Speaker: Niko Neugebauer
 ## Title: Understanding  Solving Columnstore Problems
@@ -89,7 +90,7 @@ The answers on those questions are to be revealed at this session.
 #  
 #### SessionID: 19230
 # Data Vault in der Praxis mit dem SQL Server
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 4 - Mixed
 ## Speaker: Sascha Lorenz
 ## Title: Data Vault in der Praxis mit dem SQL Server
@@ -99,7 +100,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 4 - Mixed
 #  
 #### SessionID: 28256
 # A Programmatic Journey Through SSISDB
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 2 - DEV
 ## Speaker: Wolfgang Strasser
 ## Title: A Programmatic Journey Through SSISDB
@@ -109,7 +110,7 @@ Concluding, the analysing and reporting aspect of SSISB programmability is shown
 #  
 #### SessionID: 36192
 # Index Fragmentation
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 1 - DBA
 ## Speaker: Torsten Strauss
 ## Title: Index Fragmentation
@@ -127,7 +128,7 @@ You will get a deeper understanding of the reasons of fragmentation like
 #  
 #### SessionID: 37865
 # Azure Stream Analytics - Internet der Dinge in Echtzeit
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 3 - Cloud
 ## Speaker: Constantin Klein
 ## Title: Azure Stream Analytics - Internet der Dinge in Echtzeit
@@ -136,7 +137,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 3 - Cloud
 #  
 #### SessionID: 35855
 # Big Data for the SQL Ninja
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 3 - Cloud
 ## Speaker: Scott Klein
 ## Title: Big Data for the SQL Ninja
@@ -145,7 +146,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 3 - Cloud
 #  
 #### SessionID: 36131
 # Qualit#228;tsmanagement im DWH Projekt
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 4 - Mixed
 ## Speaker: Christoph Seck
 ## Title: Qualit#228;tsmanagement im DWH Projekt
@@ -157,7 +158,7 @@ In dieser Session wollen wir uns einerseits den Werkzeugkasten des potentiell Si
 #  
 #### SessionID: 36462
 # Using BIML as an SSIS Design Patterns Engine 
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 5 - BI
 ## Speaker: Andy Leonard
 ## Title: Using BIML as an SSIS Design Patterns Engine 
@@ -166,7 +167,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 5 - BI
 #  
 #### SessionID: 37903
 # Under Construction - Power BI for Developers?
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 2 - DEV
 ## Speaker: Tillmann Eitelberg
 ## Title: Under Construction - Power BI for Developers?
@@ -175,7 +176,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 2 - DEV
 #  
 #### SessionID: 8824
 # Tracing with Extended Events – Top Features 
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 1 - DBA
 ## Speaker: Andreas Wolter
 ## Title: Tracing with Extended Events – Top Features 
@@ -184,7 +185,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 1 - DBA
 #  
 #### SessionID: 10968
 # Securing your SQL Azure Database. How?
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 3 - Cloud
 ## Speaker: Boris Hristov
 ## Title: Securing your SQL Azure Database. How?
@@ -193,7 +194,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 3 - Cloud
 #  
 #### SessionID: 14328
 # Defensive T-SQL Datenbankentwicklung
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 2 - DEV
 ## Speaker: Frank Geisler
 ## Title: Defensive T-SQL Datenbankentwicklung
@@ -202,7 +203,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 2 - DEV
 #  
 #### SessionID: 27284
 # CDC - Change Data Capture in Detail
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 4 - Mixed
 ## Speaker: Uwe Ricken
 ## Title: CDC - Change Data Capture in Detail
@@ -214,7 +215,7 @@ The demo is based on a real scenario which has been implemented that way!
 #  
 #### SessionID: 36123
 # SSIS Performance Tuning Deep Dive
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 5 - BI
 ## Speaker: Marcel Franke
 ## Title: SSIS Performance Tuning Deep Dive
@@ -223,7 +224,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 5 - BI
 #  
 #### SessionID: 36487
 # SQL Server Monitoring - Piloten fliegen auch nicht Blind
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 1 - DBA
 ## Speaker: Andre Essing
 ## Title: SQL Server Monitoring - Piloten fliegen auch nicht Blind
@@ -232,7 +233,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 1 - DBA
 #  
 #### SessionID: 25113
 # PowerBI on SAP HANA
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 5 - BI
 ## Speaker: Gerhard Brueckl
 ## Title: PowerBI on SAP HANA
@@ -242,7 +243,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 5 - BI
 #  
 #### SessionID: 32123
 # Hätte ich auf der Titanic überlebt? Machine Learning in Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 3 - Cloud
 ## Speaker: Olivia Klose
 ## Title: Hätte ich auf der Titanic überlebt? Machine Learning in Microsoft Azure
@@ -253,7 +254,7 @@ In diesem Vortrag werden wir Microsoft Azure Machine Learning vorstellen - ein D
 #  
 #### SessionID: 35993
 # Build your own Monitoring Environment with Powershell
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 1 - DBA
 ## Speaker: André Kamman
 ## Title: Build your own Monitoring Environment with Powershell
@@ -262,7 +263,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 1 - DBA
 #  
 #### SessionID: 36183
 # Test-driven database development
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 2 - DEV
 ## Speaker: Sergey Olontsev
 ## Title: Test-driven database development
@@ -271,7 +272,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 2 - DEV
 #  
 #### SessionID: 37895
 # SQL Server Enterprise-Konsolidierung
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 4 - Mixed
 ## Speaker: Bodo Michael Danitz
 ## Title: SQL Server Enterprise-Konsolidierung
@@ -283,7 +284,7 @@ Dieser Vortrag zeigt auf, wie gro#223; das Chaos tats#228;chlich werden kann und
 #  
 #### SessionID: 23987
 # SQL Server vs. Azure DocumentDB – Ein Battle zwischen XML und JSON
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 3 - Cloud
 ## Speaker: Sascha Dittmann
 ## Title: SQL Server vs. Azure DocumentDB – Ein Battle zwischen XML und JSON
@@ -295,7 +296,7 @@ Dabei arbeiten wir die Vor- und Nachteile der einzelnen Ans#228;tze heraus und z
 #  
 #### SessionID: 34505
 # You don't need Enterprise Edition to do that!
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 2 - DEV
 ## Speaker: William Durkin
 ## Title: You don't need Enterprise Edition to do that!
@@ -304,7 +305,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 2 - DEV
 #  
 #### SessionID: 36161
 # A journey through the Modern Data Warehouse
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 5 - BI
 ## Speaker: Ruben Pertusa Lopez
 ## Title: A journey through the Modern Data Warehouse
@@ -315,7 +316,7 @@ Join this session and learn how to enable the Modern Data Warehouse in your orga
 #  
 #### SessionID: 37893
 # Performanceeinflussfaktoren einer BI-Applikation mit Praxisbeispielen
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 4 - Mixed
 ## Speaker: Bastian Sold
 ## Title: Performanceeinflussfaktoren einer BI-Applikation mit Praxisbeispielen
@@ -324,7 +325,7 @@ Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 4 - Mixed
 #  
 #### SessionID: 9361
 # Restoring Databases with Powershell
-#### [Back to calendar](#SQLSaturday-#409-Rheinland-2015)
+#### [Back to calendar](#nr-409)
 Event Date: 13-06-2015 - Session time: 17:15:00 - Track: 1 - DBA
 ## Speaker: Johan Bijnens
 ## Title: Restoring Databases with Powershell

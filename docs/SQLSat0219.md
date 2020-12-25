@@ -1,3 +1,4 @@
+#### Nr: 219
 #### [Back to Main list](index.md)
 # SQLSaturday #219 - Kiev 2013
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13055
 # Оптимизация запросов в SQL Server
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dmitriy Kostylev
 ## Title: Оптимизация запросов в SQL Server
@@ -32,7 +33,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 13185
 # Azure Storage overview - blobs, table and Queues
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Denys Kholod
 ## Title: Azure Storage overview - blobs, table and Queues
@@ -41,7 +42,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 15387
 # Inheriting a database for Developers, version 2
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Niko Neugebauer
 ## Title: Inheriting a database for Developers, version 2
@@ -50,7 +51,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15388
 # Analyzing Twitter Data
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Niko Neugebauer
 ## Title: Analyzing Twitter Data
@@ -59,7 +60,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15431
 # Microsoft SSIS: Best practices, ETL –patterns
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Alexandr Domashev
 ## Title: Microsoft SSIS: Best practices, ETL –patterns
@@ -72,7 +73,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18708
 # 2 AM. A Disaster just began...
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Tobias Koprowski
 ## Title: 2 AM. A Disaster just began...
@@ -81,7 +82,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18710
 # SQL Azure from Plan, to Backup, to Cloud 
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Tobias Koprowski
 ## Title: SQL Azure from Plan, to Backup, to Cloud 
@@ -91,7 +92,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18824
 # SQL Injection - вы готовы к защите?
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andrey Korshikov
 ## Title: SQL Injection - вы готовы к защите?
@@ -100,7 +101,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19177
 # Не делай так! Немного об ошибках
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Oleksii Kovalov
 ## Title: Не делай так! Немного об ошибках
@@ -109,7 +110,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 20290
 # Spatial Data and Windows Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Mihail Mateev
 ## Title: Spatial Data and Windows Azure SQL Database
@@ -120,7 +121,7 @@ from Windows Azure SQL Database Spatial, optimizing Windows Azure applications a
 #  
 #### SessionID: 20729
 # Deadlock – всё пропало,или ещё рано бить тревогу
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Denis Reznik
 ## Title: Deadlock – всё пропало,или ещё рано бить тревогу
@@ -129,7 +130,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 21577
 # Extended Events in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Oleg Alekseev
 ## Title: Extended Events in SQL Server 2012
@@ -138,7 +139,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22321
 # Архитектура и функциональность аналитических хранилищ SQL Server Parallel Data Warehouse 2012
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Андрей Резник
 ## Title: Архитектура и функциональность аналитических хранилищ SQL Server Parallel Data Warehouse 2012
@@ -147,7 +148,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24359
 # Повреждение данных и как с ним бороться
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Sergey Olontsev
 ## Title: Повреждение данных и как с ним бороться
@@ -156,7 +157,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 24360
 # Все о журнале транзакций в SQL Server
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Sergey Olontsev
 ## Title: Все о журнале транзакций в SQL Server
@@ -165,7 +166,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24387
 # Rewrite your queries with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Sergio Govoni
 ## Title: Rewrite your queries with SQL Server 2012
@@ -174,7 +175,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 27162
 # HA  DR with SQL Server 2012 AlwaysOn Availability Group
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Turgay Sahtiyan
 ## Title: HA  DR with SQL Server 2012 AlwaysOn Availability Group
@@ -183,7 +184,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 9493
 # MS SQL Server: почему не стоит использовать*
-#### [Back to calendar](#SQLSaturday-#219-Kiev-2013)
+#### [Back to calendar](#nr-219)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Andrii Zrobok
 ## Title: MS SQL Server: почему не стоит использовать*

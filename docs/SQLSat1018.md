@@ -1,3 +1,4 @@
+#### Nr: 1018
 #### [Back to Main list](index.md)
 # SQLSaturday #1018 – Atlanta BI – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -26,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 108569
 # Continuous Integration for the BI Developer
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Wolfgang Strasser
 ## Title: Continuous Integration for the BI Developer
@@ -38,7 +39,7 @@ After this 60 minutes you'll have the guidelines and some ideas how easy it is t
 #  
 #### SessionID: 108900
 # "DAX" the way to do it
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Pedro Reis
 ## Title: "DAX" the way to do it
@@ -49,7 +50,7 @@ I'll show you real-world applications of DAX and lots of tips and tricks that yo
 #  
 #### SessionID: 109015
 # Different Types of Many-to-Many Relationships in Power BI
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Russo
 ## Title: Different Types of Many-to-Many Relationships in Power BI
@@ -60,7 +61,7 @@ In this session, we clarify the purpose of the relationships with many-to-many c
 #  
 #### SessionID: 108498
 # Designing impactful visualisations for your data
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Benni De Jagere
 ## Title: Designing impactful visualisations for your data
@@ -73,7 +74,7 @@ Walking out of this session, you can expect to have a decent understanding on a 
 #  
 #### SessionID: 108504
 # Magnificent 7 - Simple tricks to boost your Power BI development
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Nikola Ilic
 ## Title: Magnificent 7 - Simple tricks to boost your Power BI development
@@ -82,7 +83,7 @@ Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 108514
 # Tabular Analysis Services 2019 from Start to Finish
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Thomas LeBlanc
 ## Title: Tabular Analysis Services 2019 from Start to Finish
@@ -91,7 +92,7 @@ Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 108727
 # Checking in on Tabular Models: Making Them Work Better
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Wilkie
 ## Title: Checking in on Tabular Models: Making Them Work Better
@@ -100,7 +101,7 @@ Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 108869
 # Advanced ETL with Power Query
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Dennes Torres
 ## Title: Advanced ETL with Power Query
@@ -111,7 +112,7 @@ We can create functions, re-use funcitons, create loops, everything to turn our 
 #  
 #### SessionID: 109313
 # An (Advanced) Introduction to DAX
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Eugene Meidinger
 ## Title: An (Advanced) Introduction to DAX
@@ -120,7 +121,7 @@ Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 108472
 # Intro to CDS inside of Power Automate (fka Microsoft Flow)
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: David Patrick
 ## Title: Intro to CDS inside of Power Automate (fka Microsoft Flow)
@@ -131,7 +132,7 @@ Learn how the CDS ties into Power Automate (Flow), what Triggers and actions are
 #  
 #### SessionID: 108513
 # Power BI Aggs
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Armando Lacerda
 ## Title: Power BI Aggs
@@ -141,7 +142,7 @@ In this session I will demo how to design and implement agg's and take advantage
 #  
 #### SessionID: 108573
 # Deep Dive on Embedded Analytics with Power BI
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mihail Mateev
 ## Title: Deep Dive on Embedded Analytics with Power BI
@@ -157,7 +158,7 @@ This session covers the major concepts, related to Power BI Embedded Analytics:
 #  
 #### SessionID: 108488
 # Azure Synapse Analytics: A Data Lakehouse
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: James Serra
 ## Title: Azure Synapse Analytics: A Data Lakehouse
@@ -166,7 +167,7 @@ Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 109023
 # Data Modeling Solutions for Challenging BI Data Modeling Problems
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Paul Turley
 ## Title: Data Modeling Solutions for Challenging BI Data Modeling Problems
@@ -175,7 +176,7 @@ Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 109026
 # Data Engineering Brick-by-Brick: An Introduction To Azure Databricks
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Hyde
 ## Title: Data Engineering Brick-by-Brick: An Introduction To Azure Databricks
@@ -186,7 +187,7 @@ Azure Databricks provides a cloud-based Apache Spark environment that can be sca
 #  
 #### SessionID: 108603
 # Getting Started with Apache Spark
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kevin Feasel
 ## Title: Getting Started with Apache Spark
@@ -195,7 +196,7 @@ Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 108927
 # Exploring the Power BI Desktop Designer
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: John Miner
 ## Title: Exploring the Power BI Desktop Designer
@@ -210,7 +211,7 @@ In short, the Power BI Desktop designer is a one stop place to turn mundane data
 #  
 #### SessionID: 108992
 # Top Essential Actions for Governing Power BI
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Melissa Coates
 ## Title: Top Essential Actions for Governing Power BI
@@ -219,7 +220,7 @@ Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 108557
 # Improving Analytics Performance With Columnstore Indexes
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Edward Pollack
 ## Title: Improving Analytics Performance With Columnstore Indexes
@@ -234,7 +235,7 @@ Columnstore indexes have evolved greatly since their introduction in SQL Server 
 #  
 #### SessionID: 108792
 # Azure Data Studio - Above and Beyond
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: Azure Data Studio - Above and Beyond
@@ -245,7 +246,7 @@ If you have not heard of or seen Azure Data Studio before, Warwick will introduc
 #  
 #### SessionID: 108889
 # Basic Data Modeling for BI Reporting
-#### [Back to calendar](#SQLSaturday-#1018-–-Atlanta-BI-–-Virtual-2020)
+#### [Back to calendar](#nr-1018)
 Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael McKinley
 ## Title: Basic Data Modeling for BI Reporting

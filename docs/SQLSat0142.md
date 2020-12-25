@@ -1,3 +1,4 @@
+#### Nr: 142
 #### [Back to Main list](index.md)
 # SQLSaturday #142 - Waltham 2012
 Start Time (24h)|Speaker|Track|Title
@@ -33,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10077
 # Building your first BI Semantic Model Tabular
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ayad Shammout
 ## Title: Building your first BI Semantic Model Tabular
@@ -42,7 +43,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10511
 # What’s New in BI in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brian Knight
 ## Title: What’s New in BI in SQL Server 2012
@@ -51,7 +52,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10514
 # What’s in SQL Server 2012 for the DBA?
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Brian Knight
 ## Title: What’s in SQL Server 2012 for the DBA?
@@ -60,7 +61,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 10792
 # Table Compression
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jason Brimhall
 ## Title: Table Compression
@@ -69,7 +70,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 11839
 # Inroduction to Triggers
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Jack Corbett
 ## Title: Inroduction to Triggers
@@ -78,7 +79,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 11840
 # Transitioning from SQL Trace to Extended Events
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jack Corbett
 ## Title: Transitioning from SQL Trace to Extended Events
@@ -87,7 +88,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 13602
 # To click or to type, that is the question 
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: David Taylor
 ## Title: To click or to type, that is the question 
@@ -96,7 +97,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 15563
 # Loading a Data Warehouse using SSIS 2012
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: James Phillips
 ## Title: Loading a Data Warehouse using SSIS 2012
@@ -105,7 +106,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 16185
 # SQL 2012 -- All About HA and DR
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Joseph D'Antoni
 ## Title: SQL 2012 -- All About HA and DR
@@ -114,7 +115,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 16186
 # It Costs How Much? SQL Server Licensing
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Joseph D'Antoni
 ## Title: It Costs How Much? SQL Server Licensing
@@ -123,7 +124,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 16728
 # Data Partitioning in SQL 2012
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: John Flannery
 ## Title: Data Partitioning in SQL 2012
@@ -132,7 +133,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 16823
 # Hadoopla - Microsoft and the Hadoop Ecosystem
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jim O'Neil
 ## Title: Hadoopla - Microsoft and the Hadoop Ecosystem
@@ -141,7 +142,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17837
 # What's New in T-SQL 2012 Denali
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kailash Chintamani
 ## Title: What's New in T-SQL 2012 Denali
@@ -151,7 +152,7 @@ New Coding features in management Studio
 #  
 #### SessionID: 17974
 # Best Practices for Monitoring Databases on VMware
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Kathy  Gibbs
 ## Title: Best Practices for Monitoring Databases on VMware
@@ -160,7 +161,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 20549
 # New Server in an Hour? No Problem!
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Mike Hillwig
 ## Title: New Server in an Hour? No Problem!
@@ -169,7 +170,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 20630
 # Aviation Disasters - And IT Lessons From Them
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Mike Walsh
 ## Title: Aviation Disasters - And IT Lessons From Them
@@ -178,7 +179,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 21667
 # Network or Perish
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Paresh Motiwala
 ## Title: Network or Perish
@@ -189,7 +190,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 21668
 # Best Practices Document
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Paresh Motiwala
 ## Title: Best Practices Document
@@ -198,7 +199,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 24011
 # Get-PowerShell | Get-SQLServer
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: SB Chatterjee
 ## Title: Get-PowerShell | Get-SQLServer
@@ -209,7 +210,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 24029
 # What is this cache and how did it get so big?
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Doug Brendle
 ## Title: What is this cache and how did it get so big?
@@ -218,7 +219,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 25878
 # Intuitive and ad-hoc reporting using Power View
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Sunil Kadimdiwan
 ## Title: Intuitive and ad-hoc reporting using Power View
@@ -230,7 +231,7 @@ In this session I will give you an overview of the key features of Power View an
 #  
 #### SessionID: 27547
 # SQL Server Data Tools(SSDT) a.k.a. "Juneau"
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Varsham Papikian
 ## Title: SQL Server Data Tools(SSDT) a.k.a. "Juneau"
@@ -239,7 +240,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27548
 # New in SQL Server 2012 for Devs: SSMS and T-SQL
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Varsham Papikian
 ## Title: New in SQL Server 2012 for Devs: SSMS and T-SQL
@@ -248,7 +249,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 27959
 # Getting Started with MDX: The (Very) Basics
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX: The (Very) Basics
@@ -257,7 +258,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 27966
 # Serene Velocity: Reporting Services and SSAS Data
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: William E Pearson III
 ## Title: Serene Velocity: Reporting Services and SSAS Data
@@ -266,7 +267,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 34589
 # New High Availability options with SQL Server 2
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Andy Roberts
 ## Title: New High Availability options with SQL Server 2
@@ -275,7 +276,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 34592
 # What’s new in SQL Server 2012 SSIS
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Andy Roberts
 ## Title: What’s new in SQL Server 2012 SSIS
@@ -284,7 +285,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 9673
 # Writing Faster Procedures and Functions
-#### [Back to calendar](#SQLSaturday-#142-Waltham-2012)
+#### [Back to calendar](#nr-142)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andrew Novick
 ## Title: Writing Faster Procedures and Functions

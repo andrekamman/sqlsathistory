@@ -1,3 +1,4 @@
+#### Nr: 500
 #### [Back to Main list](index.md)
 # SQLSaturday #500 - Boston 2016
 Start Time (24h)|Speaker|Track|Title
@@ -41,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 42468
 # XML Without Xanax: How to Handle XML in SQL Server
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Adam Belebczuk
 ## Title: XML Without Xanax: How to Handle XML in SQL Server
@@ -54,7 +55,7 @@ If you survive this session, you'll have faced your fears about XML in SQL Serve
 #  
 #### SessionID: 42534
 # Designing SQL Server HA/DR Infrastructure to meet the SLA
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: Designing SQL Server HA/DR Infrastructure to meet the SLA
@@ -65,7 +66,7 @@ For each one of the solutions we discuss we will define a series of failure mode
 #  
 #### SessionID: 42641
 # Virtual SQL Servers, Actual Performance
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Virtual SQL Servers, Actual Performance
@@ -76,7 +77,7 @@ This session is packed with many tips and tricks for getting the most performanc
 #  
 #### SessionID: 44963
 # Getting Started with Extended Events
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Galbraith
 ## Title: Getting Started with Extended Events
@@ -89,7 +90,7 @@ Come learn how to get started - the basics of sessions, events, actions, targets
 #  
 #### SessionID: 45500
 # Build Your BI House with a Blueprint: Modeling for MS BI
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Delora Bradish
 ## Title: Build Your BI House with a Blueprint: Modeling for MS BI
@@ -98,7 +99,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 42512
 # Architecting Availability Groups
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Derik Hammer
 ## Title: Architecting Availability Groups
@@ -107,7 +108,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44360
 # DAX and the tabular model
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: DAX and the tabular model
@@ -117,7 +118,7 @@ We shall discuss many of the often used functions, discuss their 'overloads' (ut
 #  
 #### SessionID: 44793
 # Entity-Attribute-Value (EAV): The Antipattern too Great to Give Up
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Andrew Novick
 ## Title: Entity-Attribute-Value (EAV): The Antipattern too Great to Give Up
@@ -136,7 +137,7 @@ In many applications the advantages outweigh the disadvantages and EAV has been 
 #  
 #### SessionID: 45166
 # TempDB- More permanent impact than you think
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paresh Motiwala
 ## Title: TempDB- More permanent impact than you think
@@ -160,7 +161,7 @@ Hopefully at the end of the session your knowledge on Tempdb won't be Temp.
 #  
 #### SessionID: 45321
 # PolyBase for SQL Server 2016: Connecting Hadoop and SQL Server with ease.
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Casey Karst
 ## Title: PolyBase for SQL Server 2016: Connecting Hadoop and SQL Server with ease.
@@ -169,7 +170,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 45420
 # Managing Security in SSIS
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Managing Security in SSIS
@@ -185,7 +186,7 @@ In this presentation, we’ll discuss the security features in SQL Server Integr
 #  
 #### SessionID: 42419
 # Query Optimization Crash Course
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Edward Pollack
 ## Title: Query Optimization Crash Course
@@ -195,7 +196,7 @@ This is a fun, fast-paced walkthrough of the most effective strategies for query
 #  
 #### SessionID: 44257
 # Building your ETL Framework with BIML
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Meagan Longoria
 ## Title: Building your ETL Framework with BIML
@@ -204,7 +205,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 45290
 # The New Revolution in Data Science, R Integrated into SQL Server
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Reeves Smith
 ## Title: The New Revolution in Data Science, R Integrated into SQL Server
@@ -216,7 +217,7 @@ This session will demo the functionality and power of using R within SQL Server.
 #  
 #### SessionID: 45316
 # Taking the pain out of database migrations
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Lumnah
 ## Title: Taking the pain out of database migrations
@@ -227,7 +228,7 @@ This session will discuss what you need to take into account to ensure a success
 #  
 #### SessionID: 45510
 # SQL Server 2014  2016 Features for non-Enterprise Customers
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Aaron Bertrand
 ## Title: SQL Server 2014  2016 Features for non-Enterprise Customers
@@ -236,7 +237,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42946
 # Source Control practices for your BI World
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Weed
 ## Title: Source Control practices for your BI World
@@ -245,7 +246,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 42992
 # An Introduction To Big Data For The SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: David Benoit
 ## Title: An Introduction To Big Data For The SQL Server DBA
@@ -261,7 +262,7 @@ So, come with an open mind, and be prepared to get excited about what a future w
 #  
 #### SessionID: 42446
 # Deploy Highly Available SQL Server for Virtualization  the Cloud
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allan Hirt
 ## Title: Deploy Highly Available SQL Server for Virtualization  the Cloud
@@ -270,7 +271,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42458
 # Advanced PowerShell Development
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Bryan Cafferky
 ## Title: Advanced PowerShell Development
@@ -294,7 +295,7 @@ Learn how to take your PowerShell skills to the next level. For those not famili
 #  
 #### SessionID: 42881
 # Monitoring Databases in a Virtual Environment
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas LaRock
 ## Title: Monitoring Databases in a Virtual Environment
@@ -305,7 +306,7 @@ This presentation describes the metrics DBAs must use in their performance and m
 #  
 #### SessionID: 44688
 # Minimize Data Loss with Advanced Restore Methods 
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jes Schultz
 ## Title: Minimize Data Loss with Advanced Restore Methods 
@@ -314,7 +315,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44741
 # SSRS 2016 - End-to-end Mobile BI on any device
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Sunil Kadimdiwan
 ## Title: SSRS 2016 - End-to-end Mobile BI on any device
@@ -324,7 +325,7 @@ Come to this interactive session and learn how you can do it.
 #  
 #### SessionID: 45322
 # Refresh a 1TB+ database in under 10 seconds
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrzej Pilacik
 ## Title: Refresh a 1TB+ database in under 10 seconds
@@ -335,7 +336,7 @@ Finally, the presentation will focus on an architecture based on SAN technologie
 #  
 #### SessionID: 42417
 # Table Indexing for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
@@ -344,7 +345,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 42430
 # Organizational Security  Compliance with SQL 2012 through 2016
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walters
 ## Title: Organizational Security  Compliance with SQL 2012 through 2016
@@ -353,7 +354,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 43017
 # Spatial Analysis Jumpstart: Beyond Bubble charts 
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Jason Horner
 ## Title: Spatial Analysis Jumpstart: Beyond Bubble charts 
@@ -363,7 +364,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 43067
 # Smart Rats Leave First
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Geoff Hiten
 ## Title: Smart Rats Leave First
@@ -372,7 +373,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 44390
 # Picking the Right Fights with Your Server Team
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joseph D'Antoni
 ## Title: Picking the Right Fights with Your Server Team
@@ -389,7 +390,7 @@ After attending this session, you will have a good understanding of how to talk 
 #  
 #### SessionID: 44525
 # Data Movement with Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Andy Roberts
 ## Title: Data Movement with Azure Data Factory
@@ -400,7 +401,7 @@ Let's set up a couple of data pipelines to see the strengths of Azure Data Facto
 #  
 #### SessionID: 42402
 # Enhancing your career: Building your personal brand
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: James Serra
 ## Title: Enhancing your career: Building your personal brand
@@ -409,7 +410,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 42800
 # SQL Server Agent : All the Knobs You Need to Know
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taiob Ali
 ## Title: SQL Server Agent : All the Knobs You Need to Know
@@ -418,7 +419,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44279
 # Scratching the Surface: Designing your first Power View Report
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Seferlis
 ## Title: Scratching the Surface: Designing your first Power View Report
@@ -427,7 +428,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 44516
 # The Query Store and Query Tuning in SQL Server vNext
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: The Query Store and Query Tuning in SQL Server vNext
@@ -436,7 +437,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 45275
 # Don't Be Trigger Happy: Safe Use of Triggers
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Jack Corbett
 ## Title: Don't Be Trigger Happy: Safe Use of Triggers
@@ -445,7 +446,7 @@ Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 45708
 # Never Have to Say "Mayday!!!" Again
-#### [Back to calendar](#SQLSaturday-#500-Boston-2016)
+#### [Back to calendar](#nr-500)
 Event Date: 19-03-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Mike Walsh
 ## Title: Never Have to Say "Mayday!!!" Again

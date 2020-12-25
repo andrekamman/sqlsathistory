@@ -1,3 +1,4 @@
+#### Nr: 1003
 #### [Back to Main list](index.md)
 # SQLSaturday #1003 – Memphis - Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -20,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 105784
 # Getting Started as a Conference Speaker
-#### [Back to calendar](#SQLSaturday-#1003-–-Memphis-Virtual-2020)
+#### [Back to calendar](#nr-1003)
 Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Professional Development
 ## Speaker: Mark Runyon
 ## Title: Getting Started as a Conference Speaker
@@ -29,7 +30,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 105824
 # The Psychology of Better Power BI Reporting
-#### [Back to calendar](#SQLSaturday-#1003-–-Memphis-Virtual-2020)
+#### [Back to calendar](#nr-1003)
 Event Date: 03-10-2020 - Session time: 14:00:00 - Track: BI Information Delivery
 ## Speaker: Ed Watson
 ## Title: The Psychology of Better Power BI Reporting
@@ -38,7 +39,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 107448
 # Modern SQL Server CPU Architectures for Performance
-#### [Back to calendar](#SQLSaturday-#1003-–-Memphis-Virtual-2020)
+#### [Back to calendar](#nr-1003)
 Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Modern SQL Server CPU Architectures for Performance
@@ -47,7 +48,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 107425
 # Introduction to GitHub for Data Professionals
-#### [Back to calendar](#SQLSaturday-#1003-–-Memphis-Virtual-2020)
+#### [Back to calendar](#nr-1003)
 Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Joshua Higginbotham
 ## Title: Introduction to GitHub for Data Professionals
@@ -60,7 +61,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Application  Database D
 #  
 #### SessionID: 107637
 # Certification Exams Inside Out
-#### [Back to calendar](#SQLSaturday-#1003-–-Memphis-Virtual-2020)
+#### [Back to calendar](#nr-1003)
 Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Professional Development
 ## Speaker: William Assaf
 ## Title: Certification Exams Inside Out
@@ -69,7 +70,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 107972
 # Become a Power BI Magician using Bookmarks and Drill Through Page
-#### [Back to calendar](#SQLSaturday-#1003-–-Memphis-Virtual-2020)
+#### [Back to calendar](#nr-1003)
 Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: DeNisha Malone
 ## Title: Become a Power BI Magician using Bookmarks and Drill Through Page
@@ -78,7 +79,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 105830
 # Turn Runbooks into Notebooks: Handling Maintenance and Emergencies with Azure Data Studio
-#### [Back to calendar](#SQLSaturday-#1003-–-Memphis-Virtual-2020)
+#### [Back to calendar](#nr-1003)
 Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: Turn Runbooks into Notebooks: Handling Maintenance and Emergencies with Azure Data Studio
@@ -87,7 +88,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 107243
 # How to Budget for a Azure Migration
-#### [Back to calendar](#SQLSaturday-#1003-–-Memphis-Virtual-2020)
+#### [Back to calendar](#nr-1003)
 Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dustin Dorsey
 ## Title: How to Budget for a Azure Migration
@@ -96,7 +97,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 107657
 # Organizational Trauma: Supporting Mental Health During a Crisis
-#### [Back to calendar](#SQLSaturday-#1003-–-Memphis-Virtual-2020)
+#### [Back to calendar](#nr-1003)
 Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Organizational Trauma: Supporting Mental Health During a Crisis
@@ -105,7 +106,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 105812
 # Checking in on Tabular Models: Making Them Work Better
-#### [Back to calendar](#SQLSaturday-#1003-–-Memphis-Virtual-2020)
+#### [Back to calendar](#nr-1003)
 Event Date: 03-10-2020 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Wilkie
 ## Title: Checking in on Tabular Models: Making Them Work Better
@@ -114,7 +115,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 107422
 # Advanced Plan Explorer Usage for Tuning Execution Plans
-#### [Back to calendar](#SQLSaturday-#1003-–-Memphis-Virtual-2020)
+#### [Back to calendar](#nr-1003)
 Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: Advanced Plan Explorer Usage for Tuning Execution Plans
@@ -125,7 +126,7 @@ Join me to learn how you can go beyond the basics. This demo-heavy (and marketin
 #  
 #### SessionID: 107470
 # I lost my job!  Now what?!?  A survival guide for the unemployed
-#### [Back to calendar](#SQLSaturday-#1003-–-Memphis-Virtual-2020)
+#### [Back to calendar](#nr-1003)
 Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: I lost my job!  Now what?!?  A survival guide for the unemployed
@@ -138,7 +139,7 @@ Fortunately, unemployment is survivable.  In this session, I'll share my own exp
 #  
 #### SessionID: 105617
 # Intelligent Insights with Power BI
-#### [Back to calendar](#SQLSaturday-#1003-–-Memphis-Virtual-2020)
+#### [Back to calendar](#nr-1003)
 Event Date: 03-10-2020 - Session time: 14:00:00 - Track: BI Information Delivery
 ## Speaker: Dan Evans
 ## Title: Intelligent Insights with Power BI
@@ -147,7 +148,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 107355
 # SELECT Questions FROM Diversity.Inclusion WHERE AfraidToAsk = 1
-#### [Back to calendar](#SQLSaturday-#1003-–-Memphis-Virtual-2020)
+#### [Back to calendar](#nr-1003)
 Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Professional Development
 ## Speaker: Andrea Mascher
 ## Title: SELECT Questions FROM Diversity.Inclusion WHERE AfraidToAsk = 1
@@ -158,7 +159,7 @@ This session will cover key concepts in DEI and how they apply to data practitio
 #  
 #### SessionID: 107434
 # From adaptive to intelligent: query processing in SQL 2019
-#### [Back to calendar](#SQLSaturday-#1003-–-Memphis-Virtual-2020)
+#### [Back to calendar](#nr-1003)
 Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: From adaptive to intelligent: query processing in SQL 2019

@@ -1,3 +1,4 @@
+#### Nr: 704
 #### [Back to Main list](index.md)
 # SQLSaturday #704 - Iceland 2018
 Start Time (24h)|Speaker|Track|Title
@@ -27,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 69618
 # ETL meets Azure
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
 ## Speaker: Alexander Klein
 ## Title: ETL meets Azure
@@ -36,7 +37,7 @@ Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
 #  
 #### SessionID: 69645
 # Investigate, analyze and solve common wait stats scenarios
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Uwe Ricken
 ## Title: Investigate, analyze and solve common wait stats scenarios
@@ -50,7 +51,7 @@ Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
 #  
 #### SessionID: 69709
 # Database version control  deployment: model or migration scripts
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: Dev
 ## Speaker: Alex Yates
 ## Title: Database version control  deployment: model or migration scripts
@@ -65,7 +66,7 @@ I'll illustrate the limitations of each approach with a simple scenario. I'll de
 #  
 #### SessionID: 70228
 # Index Tuning for the developer
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: Dev
 ## Speaker: Stijn Wynants
 ## Title: Index Tuning for the developer
@@ -74,7 +75,7 @@ Event Date: 10-03-2018 - Session time: 16:20:00 - Track: Dev
 #  
 #### SessionID: 70588
 # Power BI deployment strategy for publishing and maintenance
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
 ## Speaker: Prathy Kamasani
 ## Title: Power BI deployment strategy for publishing and maintenance
@@ -94,7 +95,7 @@ How to use Power BI API to document your organisation Power BI Service
 #  
 #### SessionID: 70899
 # Data Types Do Matter
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Angela Henry
 ## Title: Data Types Do Matter
@@ -103,7 +104,7 @@ Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
 #  
 #### SessionID: 70307
 # Partitioning 101
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Andrew Pruski
 ## Title: Partitioning 101
@@ -122,7 +123,7 @@ Implementing sliding windows
 #  
 #### SessionID: 70557
 # Hybrid BI DevOps
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: Dev
 ## Speaker: Regis Baccaro
 ## Title: Hybrid BI DevOps
@@ -132,7 +133,7 @@ We use Visual Studio Online for source control, development and integration. Dev
 #  
 #### SessionID: 71955
 # Mindset for doing DWH in the cloud
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
 ## Speaker: Bent Pedersen
 ## Title: Mindset for doing DWH in the cloud
@@ -152,7 +153,7 @@ Second part of the session will focus on the differences and benefits of differe
 #  
 #### SessionID: 76863
 # Automate DWH  BI development using TimeXtender Discovery Hub®
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
 ## Speaker: Jacob Ross Andersen
 ## Title: Automate DWH  BI development using TimeXtender Discovery Hub®
@@ -173,7 +174,7 @@ Visualize data with visualization tool”
 #  
 #### SessionID: 69792
 # ADFv2 - Data Integration in Azure Just Got a lot Better
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
 ## Speaker: Paul Andrew
 ## Title: ADFv2 - Data Integration in Azure Just Got a lot Better
@@ -182,7 +183,7 @@ Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
 #  
 #### SessionID: 69817
 # Tuning optional filters
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Vedran Kesegic
 ## Title: Tuning optional filters
@@ -191,7 +192,7 @@ Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
 #  
 #### SessionID: 70051
 # SQL 2017 New feature - Graph Data
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: Dev
 ## Speaker: David Postlethwaite
 ## Title: SQL 2017 New feature - Graph Data
@@ -216,7 +217,7 @@ Will it replace traditional relational database design within the next 10 years?
 #  
 #### SessionID: 69663
 # Security via policies
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Stephane Haby
 ## Title: Security via policies
@@ -229,7 +230,7 @@ We will try to answer all these questions we have during security audits...
 #  
 #### SessionID: 69851
 # Modern Data Warehousing - The Lambda Approach to Azure BI
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
 ## Speaker: Simon Whiteley
 ## Title: Modern Data Warehousing - The Lambda Approach to Azure BI
@@ -242,7 +243,7 @@ We will follow the movement of data through batch and speed layers via Azure Dat
 #  
 #### SessionID: 71085
 # Rub DevOps on all the things!
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: Dev
 ## Speaker: Jan Mulkens
 ## Title: Rub DevOps on all the things!
@@ -253,7 +254,7 @@ In the demo's we'll automate the deployment of databases, SSIS, SSRS and SSAS an
 #  
 #### SessionID: 69635
 # From SQL to R and beyond
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
 ## Speaker: Thomas Hütter
 ## Title: From SQL to R and beyond
@@ -268,7 +269,7 @@ Finally we’ll see how to use the Shiny framework to display our data on a map,
 #  
 #### SessionID: 69648
 # Migrating to the cloud options for SQL Server Professionals
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Kevin Chant
 ## Title: Migrating to the cloud options for SQL Server Professionals
@@ -279,7 +280,7 @@ After that we’ll dive into in to an overview of the main cloud providers and p
 #  
 #### SessionID: 70281
 # Never Say Hacking SQL Server Again
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
 ## Speaker: André Melancia
 ## Title: Never Say Hacking SQL Server Again
@@ -290,7 +291,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #  
 #### SessionID: 69653
 # Boring is stable, stable is good - best practices in practice
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Alexander Arvidsson
 ## Title: Boring is stable, stable is good - best practices in practice
@@ -300,7 +301,7 @@ The session covers primarily SQL Server 2012 to 2016, with SQL Server 2017 throw
 #  
 #### SessionID: 69660
 # Temporal Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
 ## Speaker: Dejan Sarka
 ## Title: Temporal Data in SQL Server
@@ -314,7 +315,7 @@ This session introduces the temporal problems, deals with solutions that go beyo
 #  
 #### SessionID: 71302
 # PowerShell Simplified: dbatools   dbachecks
-#### [Back to calendar](#SQLSaturday-#704-Iceland-2018)
+#### [Back to calendar](#nr-704)
 Event Date: 10-03-2018 - Session time: 16:20:00 - Track: Dev
 ## Speaker: Chrissy LeMaire
 ## Title: PowerShell Simplified: dbatools   dbachecks

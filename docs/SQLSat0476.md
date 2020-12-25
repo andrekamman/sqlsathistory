@@ -1,3 +1,4 @@
+#### Nr: 476
 #### [Back to Main list](index.md)
 # SQLSaturday #476 - Tampa - BI Edition 2015
 Start Time (24h)|Speaker|Track|Title
@@ -30,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 39932
 # T-SQL to MDX for Beginners
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSAS / Analytics
 ## Speaker: Dan King
 ## Title: T-SQL to MDX for Beginners
@@ -39,7 +40,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSAS / Analytics
 #  
 #### SessionID: 39991
 # Interview Puzzles and how to handle them
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Mike Davis
 ## Title: Interview Puzzles and how to handle them
@@ -48,7 +49,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 40677
 # Roadmap: What's Coming Next for SQL Server BI and Power BI 
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Power BI
 ## Speaker: Jen Underwood
 ## Title: Roadmap: What's Coming Next for SQL Server BI and Power BI 
@@ -58,7 +59,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Power BI
 #  
 #### SessionID: 40819
 # "Job Searches, Resumes, LinkedIn and Interviews are Fun" -said No One Ever
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Todd Davis
 ## Title: "Job Searches, Resumes, LinkedIn and Interviews are Fun" -said No One Ever
@@ -67,7 +68,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 41116
 # Power BI Data Visualizations
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Power BI
 ## Speaker: Jason Virtue
 ## Title: Power BI Data Visualizations
@@ -76,7 +77,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Power BI
 #  
 #### SessionID: 41693
 # The Health Data Initiative: A Quick Start Guide for Entrepreneurs
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Jean-Paul Antona
 ## Title: The Health Data Initiative: A Quick Start Guide for Entrepreneurs
@@ -87,7 +88,7 @@ Now the Health and Human Services Department has made health data free and easil
 #  
 #### SessionID: 41817
 # Expert Panel  QA
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Wes Springob
 ## Title: Expert Panel  QA
@@ -96,7 +97,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 41818
 # Tegile Gold Sponsor Presentation
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Wes Springob
 ## Title: Tegile Gold Sponsor Presentation
@@ -105,7 +106,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 41819
 # Pyramid Analytics Gold Sponsor Presentation
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Wes Springob
 ## Title: Pyramid Analytics Gold Sponsor Presentation
@@ -114,7 +115,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 41820
 # Dobler Consulting Gold Sponsor Presentation
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Wes Springob
 ## Title: Dobler Consulting Gold Sponsor Presentation
@@ -123,7 +124,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 40328
 # Calculated Columns, Measures, and KPIs, Oh My!
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSAS / Analytics
 ## Speaker: Michael Antonovich
 ## Title: Calculated Columns, Measures, and KPIs, Oh My!
@@ -132,7 +133,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSAS / Analytics
 #  
 #### SessionID: 40652
 # Power BI: End to End
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Power BI
 ## Speaker: Jorge Segarra
 ## Title: Power BI: End to End
@@ -141,7 +142,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Power BI
 #  
 #### SessionID: 40836
 # Taking the Scare out of Monster Reports
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSIS / SSRS / Datazen
 ## Speaker: Pam Shaw
 ## Title: Taking the Scare out of Monster Reports
@@ -152,7 +153,7 @@ This session discusses how to use SQL Server Reporting Services (SSRS) to bring 
 #  
 #### SessionID: 40969
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
@@ -161,7 +162,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Performance
 #  
 #### SessionID: 41070
 # SQL Standup! - It's Not a Scrum Team for DBAs
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Data Quality / Misc
 ## Speaker: David Weingarten
 ## Title: SQL Standup! - It's Not a Scrum Team for DBAs
@@ -170,7 +171,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Data Quality / Misc
 #  
 #### SessionID: 40198
 # Why I won't hire you and what you can do about it!
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Leigh Freijo
 ## Title: Why I won't hire you and what you can do about it!
@@ -179,7 +180,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 40538
 # Azure Machine Learning – Bringing Advanced Analytics to the Masses
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSAS / Analytics
 ## Speaker: Dan Clark
 ## Title: Azure Machine Learning – Bringing Advanced Analytics to the Masses
@@ -188,7 +189,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSAS / Analytics
 #  
 #### SessionID: 40822
 # Datazen, Where does it fit?
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSIS / SSRS / Datazen
 ## Speaker: Allen Ellison
 ## Title: Datazen, Where does it fit?
@@ -201,7 +202,7 @@ Datazen is available for free download to anyone with a valid enterprise SQL Ser
 #  
 #### SessionID: 40829
 # Optimizing your data warehouse for OLAP Processing
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Konstantin Melamud
 ## Title: Optimizing your data warehouse for OLAP Processing
@@ -210,7 +211,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Performance
 #  
 #### SessionID: 41026
 # Know Thyself. The Path to Self-Service BI Success
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Data Quality / Misc
 ## Speaker: Edward Kench
 ## Title: Know Thyself. The Path to Self-Service BI Success
@@ -225,7 +226,7 @@ Instead of waiting for users to adopt, get them to EMBRACE self-service BI tools
 #  
 #### SessionID: 40707
 # Introduction to IoT Analytics
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSAS / Analytics
 ## Speaker: John Wang
 ## Title: Introduction to IoT Analytics
@@ -234,7 +235,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSAS / Analytics
 #  
 #### SessionID: 40723
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -243,7 +244,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Performance
 #  
 #### SessionID: 40807
 # Looking for the Power BI on-prem alternative?
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Power BI
 ## Speaker: Mark Scott
 ## Title: Looking for the Power BI on-prem alternative?
@@ -252,7 +253,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Power BI
 #  
 #### SessionID: 40870
 # SSIS Programming
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSIS / SSRS / Datazen
 ## Speaker: Jemini Joseph
 ## Title: SSIS Programming
@@ -261,7 +262,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSIS / SSRS / Datazen
 #  
 #### SessionID: 40909
 # Clean Up On Column 3
-#### [Back to calendar](#SQLSaturday-#476-Tampa-BI-Edition-2015)
+#### [Back to calendar](#nr-476)
 Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Data Quality / Misc
 ## Speaker: James McAuliffe
 ## Title: Clean Up On Column 3

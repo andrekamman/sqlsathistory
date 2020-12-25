@@ -1,3 +1,4 @@
+#### Nr: 54
 #### [Back to Main list](index.md)
 # SQLSaturday #54 - Salt Lake City 2010
 Start Time (24h)|Speaker|Track|Title
@@ -24,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 29009
 # SQL Server TDE
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 209 
 ## Speaker: Ben Miller
 ## Title: SQL Server TDE
@@ -33,7 +34,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 209
 #  
 #### SessionID: 29291
 # Getting to Know Your DB
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200 
 ## Speaker: Jason Brimhall
 ## Title: Getting to Know Your DB
@@ -42,7 +43,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200
 #  
 #### SessionID: 29655
 # Visual Studio LightSwitch for the DBA
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 206
 ## Speaker: Craig Berntson
 ## Title: Visual Studio LightSwitch for the DBA
@@ -51,7 +52,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 206
 #  
 #### SessionID: 31989
 # How to decide if your database is a good candidate
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200 
 ## Speaker: Denny Cherry
 ## Title: How to decide if your database is a good candidate
@@ -60,7 +61,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200
 #  
 #### SessionID: 31990
 # SQL Server Clustering 101
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200 
 ## Speaker: Denny Cherry
 ## Title: SQL Server Clustering 101
@@ -69,7 +70,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200
 #  
 #### SessionID: 31991
 # Storage for the DBA
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200 
 ## Speaker: Denny Cherry
 ## Title: Storage for the DBA
@@ -78,7 +79,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200
 #  
 #### SessionID: 32074
 # Backup  Restore Basics
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200 
 ## Speaker: Nicholas Cain
 ## Title: Backup  Restore Basics
@@ -87,7 +88,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200
 #  
 #### SessionID: 32075
 # Be safe out there: Ship those logs
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 206
 ## Speaker: Nicholas Cain
 ## Title: Be safe out there: Ship those logs
@@ -96,7 +97,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 206
 #  
 #### SessionID: 32526
 # Visual Studio 2010 Database Projects
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 206
 ## Speaker: Randy Knight
 ## Title: Visual Studio 2010 Database Projects
@@ -105,7 +106,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 206
 #  
 #### SessionID: 32527
 # Become a Bilingual DBA!  Oracle for the SQL Server
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200 
 ## Speaker: Randy Knight
 ## Title: Become a Bilingual DBA!  Oracle for the SQL Server
@@ -115,7 +116,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200
 #  
 #### SessionID: 32528
 # What's in your Toolbox? 
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 206
 ## Speaker: Randy Knight
 ## Title: What's in your Toolbox? 
@@ -125,7 +126,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 206
 #  
 #### SessionID: 32798
 # Shortest Path Problem at DisneyLand
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 209 
 ## Speaker: Scott Heffron
 ## Title: Shortest Path Problem at DisneyLand
@@ -136,7 +137,7 @@ This talk will be on given a list of points (Attractions) and their pairwise dis
 #  
 #### SessionID: 33028
 # Performance Tuning Queries
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 209 
 ## Speaker: Pat Wright
 ## Title: Performance Tuning Queries
@@ -145,7 +146,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 209
 #  
 #### SessionID: 33029
 # Lunch Provided by Tek systems
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200 
 ## Speaker: Pat Wright
 ## Title: Lunch Provided by Tek systems
@@ -154,7 +155,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200
 #  
 #### SessionID: 33030
 # Registration Breakfast
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200 
 ## Speaker: Pat Wright
 ## Title: Registration Breakfast
@@ -163,7 +164,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 200
 #  
 #### SessionID: 33686
 # Database Switch
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 206
 ## Speaker: TJay Belt
 ## Title: Database Switch
@@ -172,7 +173,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 206
 #  
 #### SessionID: 33687
 # SQL Server Profiler and Tracing, a “How To”
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 209 
 ## Speaker: TJay Belt
 ## Title: SQL Server Profiler and Tracing, a “How To”
@@ -185,7 +186,7 @@ Once armed with this knowledge, you should be able to take it back to your shops
 #  
 #### SessionID: 33918
 # Many-to-Many: Multiple Calendars in a Single Cube 
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 209 
 ## Speaker: William E Pearson III
 ## Title: Many-to-Many: Multiple Calendars in a Single Cube 
@@ -194,7 +195,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 209
 #  
 #### SessionID: 33922
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#54-Salt-Lake-City-2010)
+#### [Back to calendar](#nr-54)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room 206
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX

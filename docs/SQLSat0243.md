@@ -1,3 +1,4 @@
+#### Nr: 243
 #### [Back to Main list](index.md)
 # SQLSaturday #243 - Cape Town 2013
 Start Time (24h)|Speaker|Track|Title
@@ -20,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11617
 # The Secret Life of APPLY: Helping Developers Work Smarter, Not Harder
-#### [Back to calendar](#SQLSaturday-#243-Cape-Town-2013)
+#### [Back to calendar](#nr-243)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: SQL Dev
 ## Speaker: Christina Leo
 ## Title: The Secret Life of APPLY: Helping Developers Work Smarter, Not Harder
@@ -29,7 +30,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: SQL Dev
 #  
 #### SessionID: 11618
 # Building Your T-SQL Tool Kit: Window Function Fundamentals
-#### [Back to calendar](#SQLSaturday-#243-Cape-Town-2013)
+#### [Back to calendar](#nr-243)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: SQL Dev
 ## Speaker: Christina Leo
 ## Title: Building Your T-SQL Tool Kit: Window Function Fundamentals
@@ -38,7 +39,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: SQL Dev
 #  
 #### SessionID: 13592
 # Closing the data loop with Master Data Services
-#### [Back to calendar](#SQLSaturday-#243-Cape-Town-2013)
+#### [Back to calendar](#nr-243)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Dudley Drummond-Hay
 ## Title: Closing the data loop with Master Data Services
@@ -47,7 +48,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 14364
 # Dos and don’ts of database corruption
-#### [Back to calendar](#SQLSaturday-#243-Cape-Town-2013)
+#### [Back to calendar](#nr-243)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Gail Shaw
 ## Title: Dos and don’ts of database corruption
@@ -62,7 +63,7 @@ In this session we’ll look at
 #  
 #### SessionID: 15349
 # Clustered Columnstore - Introduction
-#### [Back to calendar](#SQLSaturday-#243-Cape-Town-2013)
+#### [Back to calendar](#nr-243)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Niko Neugebauer
 ## Title: Clustered Columnstore - Introduction
@@ -72,7 +73,7 @@ This new feature is targeted at the OLAP installations and it is already availab
 #  
 #### SessionID: 15350
 # Deep Dive into Clustered Columnstore
-#### [Back to calendar](#SQLSaturday-#243-Cape-Town-2013)
+#### [Back to calendar](#nr-243)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Niko Neugebauer
 ## Title: Deep Dive into Clustered Columnstore
@@ -81,7 +82,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17770
 # Introduction to SQL Server 2012 PDW - The POC
-#### [Back to calendar](#SQLSaturday-#243-Cape-Town-2013)
+#### [Back to calendar](#nr-243)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Juan Thomas
 ## Title: Introduction to SQL Server 2012 PDW - The POC
@@ -90,7 +91,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 19741
 # Divide and Conquer - Scale out using Federated Database in Azure 
-#### [Back to calendar](#SQLSaturday-#243-Cape-Town-2013)
+#### [Back to calendar](#nr-243)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Martin Phelps
 ## Title: Divide and Conquer - Scale out using Federated Database in Azure 
@@ -99,7 +100,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 20080
 # Slowly changing dimensions- an integrated approach
-#### [Back to calendar](#SQLSaturday-#243-Cape-Town-2013)
+#### [Back to calendar](#nr-243)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mark Stacey
 ## Title: Slowly changing dimensions- an integrated approach
@@ -108,7 +109,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20150
 # Role based security from SharePoint through to the cube
-#### [Back to calendar](#SQLSaturday-#243-Cape-Town-2013)
+#### [Back to calendar](#nr-243)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Matt Horn
 ## Title: Role based security from SharePoint through to the cube
@@ -118,7 +119,7 @@ The benefits of this is to allow a non technical person to administer access per
 #  
 #### SessionID: 21435
 # Enhance SQL Performance by Messaging and Queuing Applications
-#### [Back to calendar](#SQLSaturday-#243-Cape-Town-2013)
+#### [Back to calendar](#nr-243)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: SQL Dev
 ## Speaker: Niels Berglund
 ## Title: Enhance SQL Performance by Messaging and Queuing Applications
@@ -127,7 +128,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: SQL Dev
 #  
 #### SessionID: 21436
 # Real World Error Handling in SQL Server
-#### [Back to calendar](#SQLSaturday-#243-Cape-Town-2013)
+#### [Back to calendar](#nr-243)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: SQL Dev
 ## Speaker: Niels Berglund
 ## Title: Real World Error Handling in SQL Server
@@ -137,7 +138,7 @@ However, in the "real world" it may not be so straight forward as just using thi
 #  
 #### SessionID: 25004
 # SQL Server Data platform upgrade Techniques, best practices  notes from the field
-#### [Back to calendar](#SQLSaturday-#243-Cape-Town-2013)
+#### [Back to calendar](#nr-243)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Satya Jayanty
 ## Title: SQL Server Data platform upgrade Techniques, best practices  notes from the field
@@ -149,7 +150,7 @@ In this session, we will overview end-to-end upgrade process that covers the ess
 #  
 #### SessionID: 27121
 # Top 10 Performance Tips for SQL Server Developers
-#### [Back to calendar](#SQLSaturday-#243-Cape-Town-2013)
+#### [Back to calendar](#nr-243)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: SQL Dev
 ## Speaker: Turgay Sahtiyan
 ## Title: Top 10 Performance Tips for SQL Server Developers
@@ -158,7 +159,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: SQL Dev
 #  
 #### SessionID: 34886
 # How to Model for Power View
-#### [Back to calendar](#SQLSaturday-#243-Cape-Town-2013)
+#### [Back to calendar](#nr-243)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Toufiq Abrahams
 ## Title: How to Model for Power View

@@ -1,3 +1,4 @@
+#### Nr: 781
 #### [Back to Main list](index.md)
 # SQLSaturday #781 - Columbus, GA 2018
 Start Time (24h)|Speaker|Track|Title
@@ -24,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 80349
 # A Beginner's Guide to Power BI
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration     RM 101
 ## Speaker: Ed Watson
 ## Title: A Beginner's Guide to Power BI
@@ -33,7 +34,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 80873
 # Source control, now. Peace through database lifecycle management.
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Elizabeth Noble
 ## Title: Source control, now. Peace through database lifecycle management.
@@ -42,7 +43,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 84059
 # Supporting a very large environment
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment  RM 201
 ## Speaker: Senthil Raghavan
 ## Title: Supporting a very large environment
@@ -55,7 +56,7 @@ The presentation style being drafted will ensure that the participants stay enga
 #  
 #### SessionID: 85108
 # SQL Server R Services in SQL 2016 and 2017
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration     RM 101
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016 and 2017
@@ -64,7 +65,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 82238
 # Database Project Makes Deployment Consistent
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment  RM 201
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
@@ -73,7 +74,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82401
 # Introducing Hadoop to SQL Server Pros
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration     RM 101
 ## Speaker: Jon Boulineau
 ## Title: Introducing Hadoop to SQL Server Pros
@@ -82,7 +83,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 82961
 # PowerShell for BI Pros: Automating SSIS, SSRS, SSAS, and Power BI
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration     RM 101
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for BI Pros: Automating SSIS, SSRS, SSAS, and Power BI
@@ -93,7 +94,7 @@ By the end of the session, you'll be able to accomplish in minutes what would no
 #  
 #### SessionID: 85635
 # PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment  RM 201
 ## Speaker: Amy Herold
 ## Title: PowerShell for the DBA
@@ -102,7 +103,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 80362
 # DevOps, Continuous Integration  Automated Testing: Rule them all
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Samir Behara
 ## Title: DevOps, Continuous Integration  Automated Testing: Rule them all
@@ -114,7 +115,7 @@ Come join me in this 60 min session to understand the problems with traditional 
 #  
 #### SessionID: 80767
 # Introduction to T-SQL Windowing Functions
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: Introduction to T-SQL Windowing Functions
@@ -125,7 +126,7 @@ Attend this session to learn how T-SQL windowing functions apply to many real wo
 #  
 #### SessionID: 82459
 # 2017 SSIS Scale Out:  How and Why
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration     RM 101
 ## Speaker: Paul LaGrone
 ## Title: 2017 SSIS Scale Out:  How and Why
@@ -134,7 +135,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 83670
 # A Beginner’s Guide to the Query Store
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment  RM 201
 ## Speaker: Steven Cush
 ## Title: A Beginner’s Guide to the Query Store
@@ -143,7 +144,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85637
 # LUNCH
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Other RM 202
 ## Speaker: Tim Radney
 ## Title: LUNCH
@@ -152,7 +153,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Other RM 202
 #  
 #### SessionID: 80353
 # Intro to SQL Operations Studio
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment  RM 201
 ## Speaker: Eric Flamm
 ## Title: Intro to SQL Operations Studio
@@ -163,7 +164,7 @@ And, it runs on a Mac (and Linux, and Windows, too). Similar to Visual Studio Co
 #  
 #### SessionID: 80758
 # Agile Database Development and Zero Downtime Deployments
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Jeff Reinhard
 ## Title: Agile Database Development and Zero Downtime Deployments
@@ -179,7 +180,7 @@ This approach is a new mindset, but with a few months of planning can be leverag
 #  
 #### SessionID: 80766
 # Azure Machine Learning 101
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration     RM 101
 ## Speaker: Kathi Kellenberger
 ## Title: Azure Machine Learning 101
@@ -188,7 +189,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 83731
 # Lessons learned for optimum performance and up-time
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment  RM 201
 ## Speaker: Steven Cush
 ## Title: Lessons learned for optimum performance and up-time
@@ -197,7 +198,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85104
 # Detecting and Capturing Change for Data Warehousing
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration     RM 101
 ## Speaker: Chris Hyde
 ## Title: Detecting and Capturing Change for Data Warehousing
@@ -208,7 +209,7 @@ Attendees will gain a full understanding of the pros and cons of each of these s
 #  
 #### SessionID: 85654
 # Cosmos DB: Planet Earth Scale
-#### [Back to calendar](#SQLSaturday-#781-Columbus,-GA-2018)
+#### [Back to calendar](#nr-781)
 Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment    RM 102
 ## Speaker: Mike Lawell
 ## Title: Cosmos DB: Planet Earth Scale

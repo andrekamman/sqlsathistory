@@ -1,3 +1,4 @@
+#### Nr: 202
 #### [Back to Main list](index.md)
 # SQLSaturday #202 - Edinburgh 2013
 Start Time (24h)|Speaker|Track|Title
@@ -16,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10560
 # Microsoft Access Power Hour
-#### [Back to calendar](#SQLSaturday-#202-Edinburgh-2013)
+#### [Back to calendar](#nr-202)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Bob Duffy
 ## Title: Microsoft Access Power Hour
@@ -37,7 +38,7 @@ Rotten Tomatoes Provided for anyone that really hates Microsoft Access
 #  
 #### SessionID: 12077
 # Session Details not available
-#### [Back to calendar](#SQLSaturday-#202-Edinburgh-2013)
+#### [Back to calendar](#nr-202)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: n/a n/a
 ## Title: Session Details not available
@@ -46,7 +47,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 15384
 # Analyzing Twitter Data
-#### [Back to calendar](#SQLSaturday-#202-Edinburgh-2013)
+#### [Back to calendar](#nr-202)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Niko Neugebauer
 ## Title: Analyzing Twitter Data
@@ -55,7 +56,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17056
 # Solving Complex Problems with Extended Events
-#### [Back to calendar](#SQLSaturday-#202-Edinburgh-2013)
+#### [Back to calendar](#nr-202)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jonathan Kehayias
 ## Title: Solving Complex Problems with Extended Events
@@ -64,7 +65,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17124
 # Troubleshooting Query Plan Quality Issues
-#### [Back to calendar](#SQLSaturday-#202-Edinburgh-2013)
+#### [Back to calendar](#nr-202)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Joe Sack
 ## Title: Troubleshooting Query Plan Quality Issues
@@ -73,7 +74,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17602
 # Thinking Big  Understanding PDW
-#### [Back to calendar](#SQLSaturday-#202-Edinburgh-2013)
+#### [Back to calendar](#nr-202)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: James Rowland-Jones
 ## Title: Thinking Big  Understanding PDW
@@ -86,7 +87,7 @@ You will leave this session understanding why you should be thinking about PDW f
 #  
 #### SessionID: 18713
 # SQL Azure from Plan, to Backup, to Cloud 
-#### [Back to calendar](#SQLSaturday-#202-Edinburgh-2013)
+#### [Back to calendar](#nr-202)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Tobias Koprowski
 ## Title: SQL Azure from Plan, to Backup, to Cloud 
@@ -95,7 +96,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19537
 # SQL Server AlwaysOn for Dummies
-#### [Back to calendar](#SQLSaturday-#202-Edinburgh-2013)
+#### [Back to calendar](#nr-202)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mark Broadbent
 ## Title: SQL Server AlwaysOn for Dummies
@@ -114,7 +115,7 @@ Dummies and higher are welcome
 #  
 #### SessionID: 21543
 # Data Explorer - The future of selfservice ETL
-#### [Back to calendar](#SQLSaturday-#202-Edinburgh-2013)
+#### [Back to calendar](#nr-202)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Oliver Engels
 ## Title: Data Explorer - The future of selfservice ETL
@@ -123,7 +124,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23966
 # SQL Server 2012 Integration with MDS  DQS
-#### [Back to calendar](#SQLSaturday-#202-Edinburgh-2013)
+#### [Back to calendar](#nr-202)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Sanjaya Padhi
 ## Title: SQL Server 2012 Integration with MDS  DQS
@@ -133,7 +134,7 @@ MDS is the solution for master data management in the enterprises by providing a
 #  
 #### SessionID: 9287
 # Hadoop for the Business Intelligence Professional
-#### [Back to calendar](#SQLSaturday-#202-Edinburgh-2013)
+#### [Back to calendar](#nr-202)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Allan Mitchell
 ## Title: Hadoop for the Business Intelligence Professional

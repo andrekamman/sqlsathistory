@@ -1,3 +1,4 @@
+#### Nr: 911
 #### [Back to Main list](index.md)
 # SQLSaturday #911 - Orlando 2019
 Start Time (24h)|Speaker|Track|Title
@@ -63,7 +64,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 94831
 # Data Science 101: An Introduction to Data Science Using Python
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Big Data/Data Science
 ## Speaker: Ganesh Lohani
 ## Title: Data Science 101: An Introduction to Data Science Using Python
@@ -72,7 +73,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Big Data/Data Science
 #  
 #### SessionID: 94923
 # In-Place vs Side-by-Side SQL Upgrades; Clearing the Confusion
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Troy Gallant
 ## Title: In-Place vs Side-by-Side SQL Upgrades; Clearing the Confusion
@@ -81,7 +82,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 #  
 #### SessionID: 95144
 # Containerize your learning - a docker introduction
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Docker  Powershell
 ## Speaker: Daniel Shrader
 ## Title: Containerize your learning - a docker introduction
@@ -90,7 +91,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Docker  Powershell
 #  
 #### SessionID: 95190
 # Why You Should Consider Implementing Indexed Views
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Alexander Fleming
 ## Title: Why You Should Consider Implementing Indexed Views
@@ -99,7 +100,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 #  
 #### SessionID: 95620
 # SQL Server in the Cloud: Microsoft Azure vs Amazon Web Services (AWS)
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Cloud
 ## Speaker: Darius Liktorius
 ## Title: SQL Server in the Cloud: Microsoft Azure vs Amazon Web Services (AWS)
@@ -108,7 +109,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Cloud
 #  
 #### SessionID: 95662
 # Test Driven Development (TDD) for T-SQL Database Development
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: TSQL
 ## Speaker: Anthony Mendoza
 ## Title: Test Driven Development (TDD) for T-SQL Database Development
@@ -117,7 +118,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: TSQL
 #  
 #### SessionID: 95736
 # Encrypting Data within SQL Server
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Security
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within SQL Server
@@ -130,7 +131,7 @@ You will leave this session with a deeper understanding about SQL Server encrypt
 #  
 #### SessionID: 96075
 # How UCF IT uses Power BI to monitor our IT Services
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 ## Speaker: Priscilla Camp
 ## Title: How UCF IT uses Power BI to monitor our IT Services
@@ -139,7 +140,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 #  
 #### SessionID: 96084
 # Data visualization tips for Power BI
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 ## Speaker: Orlando Mezquita
 ## Title: Data visualization tips for Power BI
@@ -148,7 +149,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 #  
 #### SessionID: 96278
 # DAX for Beginners - Learn the basics for Power BI
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 ## Speaker: Katie Schmidt
 ## Title: DAX for Beginners - Learn the basics for Power BI
@@ -157,7 +158,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 #  
 #### SessionID: 94827
 # Machine Learning with AzureML and Microsoft Excel API
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Machine Learning
 ## Speaker: Srikrishna Krishnarao Srinivasan
 ## Title: Machine Learning with AzureML and Microsoft Excel API
@@ -170,7 +171,7 @@ Join me in this exploratory session on building and deploying Machine Learning m
 #  
 #### SessionID: 94862
 # SQL Server 2019 - New Features
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Jeff Taylor
 ## Title: SQL Server 2019 - New Features
@@ -179,7 +180,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 #  
 #### SessionID: 94943
 # LEAD, LAG  CTE
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: TSQL
 ## Speaker: Victor Ivantsov
 ## Title: LEAD, LAG  CTE
@@ -188,7 +189,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: TSQL
 #  
 #### SessionID: 95297
 # What Is Clogging Your Database Performance?
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Eddy Djaja
 ## Title: What Is Clogging Your Database Performance?
@@ -197,7 +198,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 #  
 #### SessionID: 95385
 # Introduction to IoT using Azure
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Developer
 ## Speaker: John Wang
 ## Title: Introduction to IoT using Azure
@@ -207,7 +208,7 @@ We will take an look on what is Internet of Things (IoT), the impact of IoT to t
 #  
 #### SessionID: 95431
 # Building Scalable Cloud Databases
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Cloud
 ## Speaker: Tim Lentine
 ## Title: Building Scalable Cloud Databases
@@ -221,7 +222,7 @@ Finally, we will explore how Azure Elastic Database Pools can be used to optimiz
 #  
 #### SessionID: 95458
 # Big Data Clusters for the Absolute Beginner
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Big Data/Data Science
 ## Speaker: Mohammad Darab
 ## Title: Big Data Clusters for the Absolute Beginner
@@ -237,7 +238,7 @@ Topics include:
 #  
 #### SessionID: 95541
 # Power BI for the Data Systems Administrator
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 ## Speaker: Gina Meronek
 ## Title: Power BI for the Data Systems Administrator
@@ -246,7 +247,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 #  
 #### SessionID: 95969
 # How to automate row level security in Power BI using DAX and SSAS
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 ## Speaker: Ashwini Jain
 ## Title: How to automate row level security in Power BI using DAX and SSAS
@@ -255,7 +256,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 #  
 #### SessionID: 98554
 # Aggregations in Power BI: How to unlock the power of big datasets
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 ## Speaker: Shabnam Watson
 ## Title: Aggregations in Power BI: How to unlock the power of big datasets
@@ -266,7 +267,7 @@ In this session, you will learn about the concept of aggregations, different tab
 #  
 #### SessionID: 94837
 # Linked Servers - Creating, and Using
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: TSQL
 ## Speaker: Dale Sullenberger
 ## Title: Linked Servers - Creating, and Using
@@ -275,7 +276,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: TSQL
 #  
 #### SessionID: 94838
 # Data Virtualization with PolyBase
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Big Data/Data Science
 ## Speaker: Kevin Feasel
 ## Title: Data Virtualization with PolyBase
@@ -284,7 +285,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Big Data/Data Science
 #  
 #### SessionID: 94863
 # DevOps - How To Setup CICD Step By Step For Your Website  Database
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Developer
 ## Speaker: Jeff Taylor
 ## Title: DevOps - How To Setup CICD Step By Step For Your Website  Database
@@ -293,7 +294,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Developer
 #  
 #### SessionID: 94951
 # The SSRS 2017 Restful API
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: SSRS
 ## Speaker: George Walkey
 ## Title: The SSRS 2017 Restful API
@@ -302,7 +303,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: SSRS
 #  
 #### SessionID: 95593
 # Performance Tuning for SQL Developer through Execution Plans
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Vladimir Oselsky
 ## Title: Performance Tuning for SQL Developer through Execution Plans
@@ -311,7 +312,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 #  
 #### SessionID: 95629
 # Introduction to Agile
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Developer
 ## Speaker: Ryan Conrad
 ## Title: Introduction to Agile
@@ -324,7 +325,7 @@ Join us to learn how to apply this principles in real day to day activities.
 #  
 #### SessionID: 96086
 # A Rocket Scientist Perspective on Index Column Selection
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Mike Byrd
 ## Title: A Rocket Scientist Perspective on Index Column Selection
@@ -333,7 +334,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 #  
 #### SessionID: 96107
 # Level-up your Power BI Reports
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 ## Speaker: Cecilia Brusatori
 ## Title: Level-up your Power BI Reports
@@ -343,7 +344,7 @@ This session is 100% demos: Shortcuts, visuals interactions, drilling down/up/th
 #  
 #### SessionID: 96399
 # dbatools - A PowerShell Toolkit for the DBA
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Docker  Powershell
 ## Speaker: Jack Corbett
 ## Title: dbatools - A PowerShell Toolkit for the DBA
@@ -354,7 +355,7 @@ At the end of the session, you will be able to return to your office with dbatoo
 #  
 #### SessionID: 98069
 # Cloud Essentials for the Database Professional  - Hands-On Session
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Cloud
 ## Speaker: Jay Rajendran
 ## Title: Cloud Essentials for the Database Professional  - Hands-On Session
@@ -363,7 +364,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Cloud
 #  
 #### SessionID: 95537
 # Starting a Career in IT - Ask the Panel!
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: SQL101
 ## Speaker: Andy Warren
 ## Title: Starting a Career in IT - Ask the Panel!
@@ -372,7 +373,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: SQL101
 #  
 #### SessionID: 95985
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: ETL
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
@@ -381,7 +382,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: ETL
 #  
 #### SessionID: 96082
 # Introduction to SQL Server on AWS
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Cloud
 ## Speaker: Tom Staab
 ## Title: Introduction to SQL Server on AWS
@@ -390,7 +391,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Cloud
 #  
 #### SessionID: 96423
 # Data, Data Everywhere, a lot of it is Free
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Big Data/Data Science
 ## Speaker: Rodney Landrum
 ## Title: Data, Data Everywhere, a lot of it is Free
@@ -399,7 +400,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Big Data/Data Science
 #  
 #### SessionID: 98065
 # SQL based Tools to Build a Petabyte Scale Cloud Data Warehouse and Enable M
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Cloud
 ## Speaker: Jay Rajendran
 ## Title: SQL based Tools to Build a Petabyte Scale Cloud Data Warehouse and Enable M
@@ -408,7 +409,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Cloud
 #  
 #### SessionID: 98154
 # PaaSport to Paradise: Lifting  Shifting with Azure SQL Database + SSIS in Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: ETL
 ## Speaker: Sandy Winarko
 ## Title: PaaSport to Paradise: Lifting  Shifting with Azure SQL Database + SSIS in Azure Data Factory
@@ -417,7 +418,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: ETL
 #  
 #### SessionID: 98561
 # Master Data Services (MDS): Friend or Foe?
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Big Data/Data Science
 ## Speaker: Tyler Graham
 ## Title: Master Data Services (MDS): Friend or Foe?
@@ -426,7 +427,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Big Data/Data Science
 #  
 #### SessionID: 98571
 # Performance tuning with SQLGrease
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 ## Speaker: franklin yamamoto
 ## Title: Performance tuning with SQLGrease
@@ -435,7 +436,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 #  
 #### SessionID: 94936
 # The Psychology of Better Power BI Reporting
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 ## Speaker: Ed Watson
 ## Title: The Psychology of Better Power BI Reporting
@@ -444,7 +445,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 #  
 #### SessionID: 95007
 # Hack / Protect SQL Server - Come learn both.
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Security
 ## Speaker: Hiram Fleitas
 ## Title: Hack / Protect SQL Server - Come learn both.
@@ -461,7 +462,7 @@ We'll have plenty of time for QA. I hope to see you there!
 #  
 #### SessionID: 95092
 # Migrate Your Database(s) with Distributed AGs
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Elizabeth Noble
 ## Title: Migrate Your Database(s) with Distributed AGs
@@ -474,7 +475,7 @@ NOTE: This session expects that attendees are already familiar with Availability
 #  
 #### SessionID: 95211
 # Metadata driven Data Pipeline using ADF
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: ETL
 ## Speaker: Soumya Banerjee
 ## Title: Metadata driven Data Pipeline using ADF
@@ -483,7 +484,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: ETL
 #  
 #### SessionID: 95919
 # Hadoop, Hive, and Big Data For MSSQL Professionals
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Big Data/Data Science
 ## Speaker: Ernest Libertucci
 ## Title: Hadoop, Hive, and Big Data For MSSQL Professionals
@@ -492,7 +493,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Big Data/Data Science
 #  
 #### SessionID: 95959
 # PowerBI and PowerApps Married at First Sight
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 ## Speaker: Dan King
 ## Title: PowerBI and PowerApps Married at First Sight
@@ -501,7 +502,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 #  
 #### SessionID: 96053
 # PowerShell Core - Intro to SQL Server Linux Container
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Docker  Powershell
 ## Speaker: Maximo Trinidad
 ## Title: PowerShell Core - Intro to SQL Server Linux Container
@@ -510,7 +511,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Docker  Powershell
 #  
 #### SessionID: 96079
 # Deep Dive into Blocking and Deadlocks Troubleshooting
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: TSQL
 ## Speaker: Dmitri Korotkevitch
 ## Title: Deep Dive into Blocking and Deadlocks Troubleshooting
@@ -521,7 +522,7 @@ This, two-part session will explain why blocking and deadlocks occur, and how to
 #  
 #### SessionID: 98060
 # How to Speak SQL
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: TSQL
 ## Speaker: Carolyn Risk
 ## Title: How to Speak SQL
@@ -530,7 +531,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: TSQL
 #  
 #### SessionID: 98128
 # Women in IT. A survival guide.
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Gilda Alvarez
 ## Title: Women in IT. A survival guide.
@@ -539,7 +540,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 94836
 # Temporal Tables - Managing Large Data Sets and Their Effects on Performance
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Dale Sullenberger
 ## Title: Temporal Tables - Managing Large Data Sets and Their Effects on Performance
@@ -548,7 +549,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 #  
 #### SessionID: 94894
 # SQL Server Fundamentals for Beginners
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: SQL101
 ## Speaker: Harvey Hyman
 ## Title: SQL Server Fundamentals for Beginners
@@ -557,7 +558,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: SQL101
 #  
 #### SessionID: 94948
 # What's New in Creating Data Models and Reporting with Power BI
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 ## Speaker: Michael Antonovich
 ## Title: What's New in Creating Data Models and Reporting with Power BI
@@ -566,7 +567,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: PowerBI
 #  
 #### SessionID: 94988
 # Azure SQL DW. Redefining MPP, how it stacks against Snowflake and RedShift
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Cloud
 ## Speaker: Oscar Zamora
 ## Title: Azure SQL DW. Redefining MPP, how it stacks against Snowflake and RedShift
@@ -578,7 +579,7 @@ The presentation shows a side by side comparison, with pros and cons of each pla
 #  
 #### SessionID: 95157
 # Look, over there, your permissions are showing!
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Security
 ## Speaker: Travis Page
 ## Title: Look, over there, your permissions are showing!
@@ -587,7 +588,7 @@ Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Security
 #  
 #### SessionID: 95174
 # Build a Modern Data Warehouse from disparate sources with Apache Spark and Power BI
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Big Data/Data Science
 ## Speaker: oscar garcia
 ## Title: Build a Modern Data Warehouse from disparate sources with Apache Spark and Power BI
@@ -609,7 +610,7 @@ Data analysis and visualization with Power BI
 #  
 #### SessionID: 95286
 # SQL Server is not an excuse to avoid DevOps
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: Developer
 ## Speaker: Santosh Hari
 ## Title: SQL Server is not an excuse to avoid DevOps
@@ -619,7 +620,7 @@ Handcrafted database deployments take days and are extremely fragile. This often
 #  
 #### SessionID: 95630
 # Performance Tuning Magic
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Valentin Iamandi
 ## Title: Performance Tuning Magic
@@ -636,7 +637,7 @@ You asks yourself: I wish I knew what and how to do it.
 #  
 #### SessionID: 95719
 # That's So Metadata: Discover Your Database From The Inside
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: TSQL
 ## Speaker: Rob Volk
 ## Title: That's So Metadata: Discover Your Database From The Inside
@@ -654,7 +655,7 @@ We will also cover the official Microsoft documentation on these features and ot
 #  
 #### SessionID: 96024
 # Getting started with Azure Data Factory Data Flows
-#### [Back to calendar](#SQLSaturday-#911-Orlando-2019)
+#### [Back to calendar](#nr-911)
 Event Date: 09-10-2021 - Session time: 14:45:00 - Track: ETL
 ## Speaker: Jose Chinchilla
 ## Title: Getting started with Azure Data Factory Data Flows

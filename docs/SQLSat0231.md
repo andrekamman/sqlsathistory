@@ -1,3 +1,4 @@
+#### Nr: 231
 #### [Back to Main list](index.md)
 # SQLSaturday #231 - Cocoa Beach 2013
 Start Time (24h)|Speaker|Track|Title
@@ -22,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10517
 # Real World Lessons from Starting a Software Company
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Brian Knight
 ## Title: Real World Lessons from Starting a Software Company
@@ -31,7 +32,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 11905
 # MDS in Practice: An Integrated Approach
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Christopher Price
 ## Title: MDS in Practice: An Integrated Approach
@@ -40,7 +41,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 12952
 # Dealing With Errors in SSIS 2012
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SQL Suite
 ## Speaker: David Dye
 ## Title: Dealing With Errors in SSIS 2012
@@ -49,7 +50,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SQL Suite
 #  
 #### SessionID: 13377
 # Exploring The Microsoft Reporting Technologies
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: David Ortiz
 ## Title: Exploring The Microsoft Reporting Technologies
@@ -58,7 +59,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13408
 # Leveraging PAL for SQL Server Perfmon Analysis
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: David Pless
 ## Title: Leveraging PAL for SQL Server Perfmon Analysis
@@ -67,7 +68,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13700
 # Backup Strategies are for Losers!
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SQL Suite
 ## Speaker: Ed Watson
 ## Title: Backup Strategies are for Losers!
@@ -76,7 +77,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SQL Suite
 #  
 #### SessionID: 17368
 # SQL Automation Using SSIS
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SQL Suite
 ## Speaker: Jorge Novo
 ## Title: SQL Automation Using SSIS
@@ -85,7 +86,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SQL Suite
 #  
 #### SessionID: 17435
 # The T-SQL Features in SQL Server 2012 You Can't Ignore
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Richie Rump
 ## Title: The T-SQL Features in SQL Server 2012 You Can't Ignore
@@ -94,7 +95,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17525
 # SSRS: On Premises or Azure? What's the difference?
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SQL Suite
 ## Speaker: Josh Luedeman
 ## Title: SSRS: On Premises or Azure? What's the difference?
@@ -103,7 +104,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SQL Suite
 #  
 #### SessionID: 17888
 # Model-Driven Database Design
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Karen Lopez
 ## Title: Model-Driven Database Design
@@ -112,7 +113,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 18646
 # Excel 2013: BI for the Masses
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Devin Knight
 ## Title: Excel 2013: BI for the Masses
@@ -121,7 +122,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20373
 # DBA Task Automation: Unleash the PowerShell Hero in You!
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Michael Wells
 ## Title: DBA Task Automation: Unleash the PowerShell Hero in You!
@@ -130,7 +131,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 22331
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SQL Suite
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports
@@ -140,7 +141,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SQL Suite
 #  
 #### SessionID: 24925
 # Introduction to SQL Server Replication
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SQL Suite
 ## Speaker: Chad Churchwell
 ## Title: Introduction to SQL Server Replication
@@ -149,7 +150,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SQL Suite
 #  
 #### SessionID: 26719
 # You Inherited a Database, Now What?
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Tim Radney
 ## Title: You Inherited a Database, Now What?
@@ -158,7 +159,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 9582
 # PCI For The SQLDBA
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Andy Warren
 ## Title: PCI For The SQLDBA
@@ -167,7 +168,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 9899
 # A Balanced BI Approach (Self-Service  Corporate)
-#### [Back to calendar](#SQLSaturday-#231-Cocoa-Beach-2013)
+#### [Back to calendar](#nr-231)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Anthony Sammartino
 ## Title: A Balanced BI Approach (Self-Service  Corporate)

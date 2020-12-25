@@ -1,3 +1,4 @@
+#### Nr: 558
 #### [Back to Main list](index.md)
 # SQLSaturday #558 - Costa Rica - BI Edition 2016
 Start Time (24h)|Speaker|Track|Title
@@ -32,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 50622
 # Introduction to SQL Server Microsoft Mobile Reporting
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to SQL Server Microsoft Mobile Reporting
@@ -41,7 +42,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Information Delivery
 #  
 #### SessionID: 53912
 # SQL Server R Services en SQL 2016
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eduardo Castro
 ## Title: SQL Server R Services en SQL 2016
@@ -50,7 +51,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 54041
 # Novedades en SQL Server 2016 Integration Services
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Novedades en SQL Server 2016 Integration Services
@@ -59,7 +60,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 54310
 # Diseñando mi datawarehouse "Disaster recovery ready"
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Kenneth Urena
 ## Title: Diseñando mi datawarehouse "Disaster recovery ready"
@@ -68,7 +69,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architec
 #  
 #### SessionID: 53180
 # Data Visualization:  How to truly tell a great story!
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization:  How to truly tell a great story!
@@ -77,7 +78,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Information Delivery
 #  
 #### SessionID: 53891
 # Construyendo Apps inteligentes con Microsoft Cognitive Services
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Sánchez Aguilar
 ## Title: Construyendo Apps inteligentes con Microsoft Cognitive Services
@@ -86,7 +87,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 54017
 # Increase of Efficiency in Product Classification Process through Machine Learning
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Diego Alfaro
 ## Title: Increase of Efficiency in Product Classification Process through Machine Learning
@@ -99,7 +100,7 @@ Accuracy expectations for the process are above 98%, so the automated classifica
 #  
 #### SessionID: 50577
 # Comparing ETL Options for the Modern Data Warehouse
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: Comparing ETL Options for the Modern Data Warehouse
@@ -114,7 +115,7 @@ This session will provide a quick reference for the different ETL options that w
 #  
 #### SessionID: 54057
 # La web y R como fuente de Datos para SQL Server
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Ricardo Estrada
 ## Title: La web y R como fuente de Datos para SQL Server
@@ -123,7 +124,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architec
 #  
 #### SessionID: 54187
 # The SSIS catalog and Management Views: Simplifying reporting, logging and notifications.
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Fernando Sibaja Araya
 ## Title: The SSIS catalog and Management Views: Simplifying reporting, logging and notifications.
@@ -132,7 +133,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architec
 #  
 #### SessionID: 54663
 # Primeros Experimentos en Azure MLIntroducción a la Ciencia de Datos  con Cortana Analytics
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Big Data / Internet of Things
 ## Speaker: Javier Loria
 ## Title: Primeros Experimentos en Azure MLIntroducción a la Ciencia de Datos  con Cortana Analytics
@@ -141,7 +142,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Big Data / Internet of 
 #  
 #### SessionID: 50688
 # Creaci#243;n de Dashboards con DataZen
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Víctor Zúñiga
 ## Title: Creaci#243;n de Dashboards con DataZen
@@ -150,7 +151,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 53983
 # AWS RedShift and SQL Server BI
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Alejandro Cordero
 ## Title: AWS RedShift and SQL Server BI
@@ -159,7 +160,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architec
 #  
 #### SessionID: 54308
 # Power BI... !algo mas que información!
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Yanitza Campos
 ## Title: Power BI... !algo mas que información!
@@ -168,7 +169,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 50243
 # Potencial de las R#233;plicas RO de AlwaysOn para cargas en el Datawarehouse
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Carlos Rojas Vargas
 ## Title: Potencial de las R#233;plicas RO de AlwaysOn para cargas en el Datawarehouse
@@ -177,7 +178,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architec
 #  
 #### SessionID: 50624
 # Power BI:  Data Refresh and SSAS On-Premises Connectivity
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Patrick LeBlanc
 ## Title: Power BI:  Data Refresh and SSAS On-Premises Connectivity
@@ -186,7 +187,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Information Delivery
 #  
 #### SessionID: 53911
 # Lenguaje R para Inteligencia de Negocios
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Lenguaje R para Inteligencia de Negocios
@@ -195,7 +196,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 56968
 # Soy un DBA y ahora debo de hacer BI Mitos, leyendas y realidad!!!
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Jesus Gil
 ## Title: Soy un DBA y ahora debo de hacer BI Mitos, leyendas y realidad!!!
@@ -205,7 +206,7 @@ Pero cual es la realidad cuando tu como DBA solo haz hecho sistemas relacionales
 #  
 #### SessionID: 50115
 # An introduction to the magical world of BIML!
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
@@ -214,7 +215,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 54517
 # Infografia Gerencial utilizando Tableau con Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Rafael Garita Molina
 ## Title: Infografia Gerencial utilizando Tableau con Microsoft SQL Server
@@ -232,7 +233,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 54661
 # La liga de las dimensiones extraordinarias
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: La liga de las dimensiones extraordinarias
@@ -242,7 +243,7 @@ Revisaremos dimensiones copo de nieve, dimensiones degeneradas, dimensiones chat
 #  
 #### SessionID: 52500
 # SQL Data Warehouse, gu#237;a para un Desarrollador
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Adrian Miranda
 ## Title: SQL Data Warehouse, gu#237;a para un Desarrollador
@@ -251,7 +252,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architec
 #  
 #### SessionID: 53777
 # Inteligencia de Negocios desde datos no estructurados
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Big Data / Internet of Things
 ## Speaker: Walter Montes
 ## Title: Inteligencia de Negocios desde datos no estructurados
@@ -261,7 +262,7 @@ Conozca IBM Watson y como puede apoyar su inteligencia de negocios.
 #  
 #### SessionID: 55022
 # Como trabajar con MDS
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Allen Quiros
 ## Title: Como trabajar con MDS
@@ -270,7 +271,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Data Warehouse Architec
 #  
 #### SessionID: 56256
 # Agile Methods for Data Warehouse / Business Intelligence
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose Mayorga
 ## Title: Agile Methods for Data Warehouse / Business Intelligence
@@ -279,7 +280,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 56748
 # Azure Analysis Services ¿Que es?
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Big Data / Internet of Things
 ## Speaker: Jesus Gil
 ## Title: Azure Analysis Services ¿Que es?
@@ -288,7 +289,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Big Data / Internet of 
 #  
 #### SessionID: 56785
 # Trabajando en Múltiples Plataformas
-#### [Back to calendar](#SQLSaturday-#558-Costa-Rica-BI-Edition-2016)
+#### [Back to calendar](#nr-558)
 Event Date: 19-11-2016 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jorge Alfaro
 ## Title: Trabajando en Múltiples Plataformas

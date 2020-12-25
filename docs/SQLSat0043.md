@@ -1,3 +1,4 @@
+#### Nr: 43
 #### [Back to Main list](index.md)
 # SQLSaturday #43 - Redmond 2010
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 29353
 # SQL Server for the Oracle DBA
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2003
 ## Speaker: Buck Woody
 ## Title: SQL Server for the Oracle DBA
@@ -32,7 +33,7 @@ Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2003
 #  
 #### SessionID: 29425
 # Utility Control Point in SQL 2008 R2
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2003
 ## Speaker: CLIFFORD DIBBLE
 ## Title: Utility Control Point in SQL 2008 R2
@@ -41,7 +42,7 @@ Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2003
 #  
 #### SessionID: 29619
 # Accelerating SQL with Solid State (w/ iPod Raffle)
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2015
 ## Speaker: Sumeet  Bansal
 ## Title: Accelerating SQL with Solid State (w/ iPod Raffle)
@@ -50,7 +51,7 @@ Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2015
 #  
 #### SessionID: 29872
 # Tuna Helper for DBAs and Developers
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2003
 ## Speaker: Dean Richards
 ## Title: Tuna Helper for DBAs and Developers
@@ -59,7 +60,7 @@ Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2003
 #  
 #### SessionID: 29913
 # Auditing your SQL Server
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2011
 ## Speaker: David Lydston
 ## Title: Auditing your SQL Server
@@ -68,7 +69,7 @@ Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2011
 #  
 #### SessionID: 29954
 # SQL Server and PowerShell
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2007
 ## Speaker: Donabel Santos
 ## Title: SQL Server and PowerShell
@@ -77,7 +78,7 @@ Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2007
 #  
 #### SessionID: 29955
 # SQL Server 2008 Reporting from the Ground Up
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2007
 ## Speaker: Donabel Santos
 ## Title: SQL Server 2008 Reporting from the Ground Up
@@ -86,7 +87,7 @@ Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2007
 #  
 #### SessionID: 29963
 # Heterogeneous Data Integration with SSIS  CDC
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2011
 ## Speaker: Doug Wheaton
 ## Title: Heterogeneous Data Integration with SSIS  CDC
@@ -95,7 +96,7 @@ Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2011
 #  
 #### SessionID: 30282
 # Exploring SQL Server System Information with DMVs
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2015
 ## Speaker: Greg Larsen
 ## Title: Exploring SQL Server System Information with DMVs
@@ -104,7 +105,7 @@ Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2015
 #  
 #### SessionID: 31170
 # The Compression Session
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2015
 ## Speaker: Kalen Delaney
 ## Title: The Compression Session
@@ -113,7 +114,7 @@ Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2015
 #  
 #### SessionID: 31607
 # SSIS Performance Design Patterns
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2011
 ## Speaker: Matt Masson
 ## Title: SSIS Performance Design Patterns
@@ -122,7 +123,7 @@ Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2011
 #  
 #### SessionID: 32487
 # High Volume Real Time Contiguous ETL and Audit
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2015
 ## Speaker: Remus Rusanu
 ## Title: High Volume Real Time Contiguous ETL and Audit
@@ -132,7 +133,7 @@ This presentation goes through a solution collects and aggregates security audit
 #  
 #### SessionID: 32515
 # Explicit Transaction Management
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2003
 ## Speaker: Rick  Morelan
 ## Title: Explicit Transaction Management
@@ -141,7 +142,7 @@ Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2003
 #  
 #### SessionID: 32610
 # Using SQL Trace/Profiler Effectively
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2007
 ## Speaker: Robert Davis
 ## Title: Using SQL Trace/Profiler Effectively
@@ -150,7 +151,7 @@ Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2007
 #  
 #### SessionID: 32611
 # Adventures in SQL Server Masters Certification
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2007
 ## Speaker: Robert Davis
 ## Title: Adventures in SQL Server Masters Certification
@@ -161,7 +162,7 @@ Come find out what the MCM:SQL is all about. Speaker is going through the March 
 #  
 #### SessionID: 32813
 # SSIS for the faint of heart
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2011
 ## Speaker: Scott Stauffer
 ## Title: SSIS for the faint of heart
@@ -170,7 +171,7 @@ Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2011
 #  
 #### SessionID: 33042
 # Replication Performance Tuning and Troubleshooting
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2015
 ## Speaker: Chuck Lathrope
 ## Title: Replication Performance Tuning and Troubleshooting
@@ -179,7 +180,7 @@ Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2015
 #  
 #### SessionID: 33761
 # Data Warehouse Dimension Processing with SSIS
-#### [Back to calendar](#SQLSaturday-#43-Redmond-2010)
+#### [Back to calendar](#nr-43)
 Event Date: 12-06-2010 - Session time: 00:00:00 - Track: Room 2011
 ## Speaker: Todd McDermid
 ## Title: Data Warehouse Dimension Processing with SSIS

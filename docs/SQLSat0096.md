@@ -1,3 +1,4 @@
+#### Nr: 96
 #### [Back to Main list](index.md)
 # SQLSaturday #96 - Washington, DC 2011
 Start Time (24h)|Speaker|Track|Title
@@ -41,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28385
 # PowerShell for SQL and New Denali Features
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: SAN/Virtualization/Denali
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for SQL and New Denali Features
@@ -50,7 +51,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: SAN/Virtualization/Dena
 #  
 #### SessionID: 28593
 # SQL Server XML 101
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Alex Grinberg
 ## Title: SQL Server XML 101
@@ -59,7 +60,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 28598
 # Windows Failover Clustering Basics for the DBA
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Allan Hirt
 ## Title: Windows Failover Clustering Basics for the DBA
@@ -68,7 +69,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 28694
 # Designing an SSIS Framework 
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Andy Leonard
 ## Title: Designing an SSIS Framework 
@@ -77,7 +78,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 28877
 # Understanding Indexes
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA/Dev
 ## Speaker: Ashton Hobbs
 ## Title: Understanding Indexes
@@ -86,7 +87,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA/Dev
 #  
 #### SessionID: 28878
 # Understanding (B)locking
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA/Dev
 ## Speaker: Ashton Hobbs
 ## Title: Understanding (B)locking
@@ -95,7 +96,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA/Dev
 #  
 #### SessionID: 29271
 # Leadership Coaching: A repeatable methodology...
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Prof. Dev.
 ## Speaker: Brian Moran
 ## Title: Leadership Coaching: A repeatable methodology...
@@ -104,7 +105,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Prof. Dev.
 #  
 #### SessionID: 29515
 # How to get Hired in the first 10 minutes  
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Prof. Dev.
 ## Speaker: Chris Skorlinski
 ## Title: How to get Hired in the first 10 minutes  
@@ -113,7 +114,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Prof. Dev.
 #  
 #### SessionID: 29516
 # Transactional Replication – Follow the Data
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Chris Skorlinski
 ## Title: Transactional Replication – Follow the Data
@@ -122,7 +123,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 29824
 # Getting Spatial with SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA/Dev
 ## Speaker: Dan Clark
 ## Title: Getting Spatial with SQL Server 2008
@@ -131,7 +132,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA/Dev
 #  
 #### SessionID: 29899
 # Thwarting Database Defects
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Prof. Dev.
 ## Speaker: Dennis Lloyd Jr
 ## Title: Thwarting Database Defects
@@ -140,7 +141,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Prof. Dev.
 #  
 #### SessionID: 30218
 # Intro to Ranking and Aggregate Window Functions
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Geoff Johnson
 ## Title: Intro to Ranking and Aggregate Window Functions
@@ -149,7 +150,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 30219
 # Intro to Common Table Expressions
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Geoff Johnson
 ## Title: Intro to Common Table Expressions
@@ -158,7 +159,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 30392
 # (SSIS, TSQL and MDS) - Record Linkage Fuzzy Match
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Ira Warren
 ## Title: (SSIS, TSQL and MDS) - Record Linkage Fuzzy Match
@@ -167,7 +168,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 30415
 # Automating Database Source Control 
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA/Dev
 ## Speaker: James Gaines
 ## Title: Automating Database Source Control 
@@ -176,7 +177,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA/Dev
 #  
 #### SessionID: 30416
 # An intro to Oracle Databases for SQL Server DBAs
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Prof. Dev.
 ## Speaker: James Gaines
 ## Title: An intro to Oracle Databases for SQL Server DBAs
@@ -185,7 +186,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Prof. Dev.
 #  
 #### SessionID: 30642
 # SAN Basics for DBAs
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: SAN/Virtualization/Denali
 ## Speaker: Joseph D'Antoni
 ## Title: SAN Basics for DBAs
@@ -194,7 +195,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: SAN/Virtualization/Dena
 #  
 #### SessionID: 30644
 # Virtualization  for SQL DBAs
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: SAN/Virtualization/Denali
 ## Speaker: Joseph D'Antoni
 ## Title: Virtualization  for SQL DBAs
@@ -203,7 +204,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: SAN/Virtualization/Dena
 #  
 #### SessionID: 30772
 # Build Your SQL Server Career
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Prof. Dev.
 ## Speaker: Jeremy Kadlec
 ## Title: Build Your SQL Server Career
@@ -212,7 +213,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Prof. Dev.
 #  
 #### SessionID: 30791
 # How to Increase Development Productivity in SSRS
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jessica Moss
 ## Title: How to Increase Development Productivity in SSRS
@@ -221,7 +222,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 31199
 # Model-Driven Database Design
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Karen Lopez
 ## Title: Model-Driven Database Design
@@ -230,7 +231,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 31366
 # Change Data Capture in SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA/Dev
 ## Speaker: Kevin Goff
 ## Title: Change Data Capture in SQL Server 2008
@@ -241,7 +242,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA/Dev
 #  
 #### SessionID: 31372
 # What's new in Denali - a whirlwind tour
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: SAN/Virtualization/Denali
 ## Speaker: Kevin Goff
 ## Title: What's new in Denali - a whirlwind tour
@@ -250,7 +251,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: SAN/Virtualization/Dena
 #  
 #### SessionID: 31763
 # Making Predictions with Microsoft Data Mining Tool
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Mark Hudson
 ## Title: Making Predictions with Microsoft Data Mining Tool
@@ -259,7 +260,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 31764
 # Introduction to Analysis Services
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mark Hudson
 ## Title: Introduction to Analysis Services
@@ -268,7 +269,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 32108
 # PowerShell: A Tale of Two Checklists
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: SAN/Virtualization/Denali
 ## Speaker: Brian Garraty
 ## Title: PowerShell: A Tale of Two Checklists
@@ -277,7 +278,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: SAN/Virtualization/Dena
 #  
 #### SessionID: 32142
 # Mining XML Query Plans
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sebastian Meine
 ## Title: Mining XML Query Plans
@@ -286,7 +287,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32774
 # Developing Date and Role-Playing Dimensions
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Sandra Mueller
 ## Title: Developing Date and Role-Playing Dimensions
@@ -295,7 +296,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 32775
 # Data Files and Transaction Logs – Beyond the GUIs 
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sandra Mueller
 ## Title: Data Files and Transaction Logs – Beyond the GUIs 
@@ -304,7 +305,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32878
 # Join operations - Explaining Merge,Hash and Loop 
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Luke Jian
 ## Title: Join operations - Explaining Merge,Hash and Loop 
@@ -313,7 +314,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 32879
 # Optimizing SQL Server I/O with Solid State Drives
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Luke Jian
 ## Title: Optimizing SQL Server I/O with Solid State Drives
@@ -322,7 +323,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 33054
 # Monitoring Databases in a Virtual Environment
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: SAN/Virtualization/Denali
 ## Speaker: Thomas LaRock
 ## Title: Monitoring Databases in a Virtual Environment
@@ -331,7 +332,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: SAN/Virtualization/Dena
 #  
 #### SessionID: 33869
 # Banish RBAR!
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Wayne Sheffield
 ## Title: Banish RBAR!
@@ -340,7 +341,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 33870
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA/Dev
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -349,7 +350,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: DBA/Dev
 #  
 #### SessionID: 34024
 # An Overview of PowerPivot 
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: William E Pearson III
 ## Title: An Overview of PowerPivot 
@@ -358,7 +359,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 34031
 # Entity Strategies: Structuring Your Consultancy 
-#### [Back to calendar](#SQLSaturday-#96-Washington,-DC-2011)
+#### [Back to calendar](#nr-96)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Prof. Dev.
 ## Speaker: William E Pearson III
 ## Title: Entity Strategies: Structuring Your Consultancy 

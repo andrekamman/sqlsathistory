@@ -1,3 +1,4 @@
+#### Nr: 676
 #### [Back to Main list](index.md)
 # SQLSaturday #676 - São Paulo 2017
 Start Time (24h)|Speaker|Track|Title
@@ -42,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 66357
 # Powershell para DBAs SQL Server
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Rodrigo Crespi
 ## Title: Powershell para DBAs SQL Server
@@ -51,7 +52,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 66795
 # Graph Database no SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Dennes Torres
 ## Title: Graph Database no SQL Server 2017
@@ -60,7 +61,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 67643
 # Azure CosmosDB: O banco de dados globalmente distribuído e multi modelo da Microsoft
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Cloud Computing
 ## Speaker: Igor Santos de Paula
 ## Title: Azure CosmosDB: O banco de dados globalmente distribuído e multi modelo da Microsoft
@@ -69,7 +70,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Cloud Computing
 #  
 #### SessionID: 67861
 # Dicas para obter sua certificação Microsoft
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Carreira e Certificação
 ## Speaker: Caio Amante
 ## Title: Dicas para obter sua certificação Microsoft
@@ -78,7 +79,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Carreira e Certificaç�
 #  
 #### SessionID: 68684
 # Analytics e BI no SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Thiago Zavaschi
 ## Title: Analytics e BI no SQL Server 2017
@@ -87,7 +88,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 66980
 # Alta Disponibilidade para Pequenos, Medios e Grandes Ambientes
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Nilton Pinheiro
 ## Title: Alta Disponibilidade para Pequenos, Medios e Grandes Ambientes
@@ -96,7 +97,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 67577
 # Estratégias de BCDR no Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Flávio Farias
 ## Title: Estratégias de BCDR no Azure SQL Database
@@ -105,7 +106,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 68336
 # DBA, DA ou Engenheiro de Dados?
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Carreira e Certificação
 ## Speaker: Advaldo Mesquita
 ## Title: DBA, DA ou Engenheiro de Dados?
@@ -114,7 +115,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Carreira e Certificaç�
 #  
 #### SessionID: 68624
 # Azure SQL Database - Scaling In e Scaling Out através do elastic pool
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Cloud Computing
 ## Speaker: Vitor Fava
 ## Title: Azure SQL Database - Scaling In e Scaling Out através do elastic pool
@@ -123,7 +124,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Cloud Computing
 #  
 #### SessionID: 68795
 # Pensando além do arrastar e soltar: Integrando o R ao Power BI
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Orlando Mariano
 ## Title: Pensando além do arrastar e soltar: Integrando o R ao Power BI
@@ -132,7 +133,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 66358
 # SQL Server on Linux - Como pode?
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Rodrigo Crespi
 ## Title: SQL Server on Linux - Como pode?
@@ -142,7 +143,7 @@ Então você não pode perder esta palestra que irá apresentar como o SQL Serve
 #  
 #### SessionID: 67399
 # Wait types: o que são e para que servem?
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Ignez Mello
 ## Title: Wait types: o que são e para que servem?
@@ -151,7 +152,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 67545
 # Análise de dados com Linguagem R + Visual Studio 2015 + Power BI
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Big Data e Data Science
 ## Speaker: Rodrigo Dornel
 ## Title: Análise de dados com Linguagem R + Visual Studio 2015 + Power BI
@@ -160,7 +161,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Big Data e Data Science
 #  
 #### SessionID: 68193
 # Tecnologias de bancos de dados no Azure: conhecendo as opções relacionais e NoSQL disponíveis
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Cloud Computing
 ## Speaker: Renato Groffe
 ## Title: Tecnologias de bancos de dados no Azure: conhecendo as opções relacionais e NoSQL disponíveis
@@ -169,7 +170,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Cloud Computing
 #  
 #### SessionID: 68816
 # HA e DR em SQL Server IAAS no Azure
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Cloud Computing
 ## Speaker: Felipe de Assis
 ## Title: HA e DR em SQL Server IAAS no Azure
@@ -178,7 +179,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Cloud Computing
 #  
 #### SessionID: 68989
 # Tabular ou Multidimensional? Qual Modelo Devo Usar?
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Arthur Luz
 ## Title: Tabular ou Multidimensional? Qual Modelo Devo Usar?
@@ -187,7 +188,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 66364
 # SQL Server 2017 - Homem VS Máquina, estamos perdendo a guerra!
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Fabiano Amorim
 ## Title: SQL Server 2017 - Homem VS Máquina, estamos perdendo a guerra!
@@ -196,7 +197,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 67538
 # Criando mais de 10 ALERTAS diferentes para monitorar o SQL Server
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Fabrício Lima
 ## Title: Criando mais de 10 ALERTAS diferentes para monitorar o SQL Server
@@ -207,7 +208,7 @@ CPU, Disco, Log Full, Lock, Alertas graves, Corrupção, Falha de Jobs, Base sem
 #  
 #### SessionID: 67778
 # Obtenha maior produtividade: desenvolvimento e administracao do seu SQL Server
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Gustavo Carneiro
 ## Title: Obtenha maior produtividade: desenvolvimento e administracao do seu SQL Server
@@ -220,7 +221,7 @@ Analysis services: managing connections MDX and other info
 #  
 #### SessionID: 68660
 # Linux Administration for SQL SERVER DBAs
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Marcelo Adade
 ## Title: Linux Administration for SQL SERVER DBAs
@@ -229,7 +230,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 68709
 # Analisando e tomando decisões a partir de dados em tempo real
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Big Data e Data Science
 ## Speaker: Alexandre Soteras
 ## Title: Analisando e tomando decisões a partir de dados em tempo real
@@ -238,7 +239,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Big Data e Data Science
 #  
 #### SessionID: 78665
 # Adaptive Query Processing
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Roberto Fonseca
 ## Title: Adaptive Query Processing
@@ -247,7 +248,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 66355
 # O que acontece quando eu executo minha query? - Conhecendo o Query Optimizer
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Suellen Moraes
 ## Title: O que acontece quando eu executo minha query? - Conhecendo o Query Optimizer
@@ -256,7 +257,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 66645
 # Analisando query performance com e sem o Query Store.
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Marcel Inowe
 ## Title: Analisando query performance com e sem o Query Store.
@@ -266,7 +267,7 @@ Nessa sessão mostraremos o que é o Query Store, como analisar e resolver algun
 #  
 #### SessionID: 67205
 # Backup - Isso Salva empregos e empresas...
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Tiago Neves
 ## Title: Backup - Isso Salva empregos e empresas...
@@ -275,7 +276,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 67262
 # Importando e controlando relatórios do Power BI na sua própria aplicação
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Lutti Coelho
 ## Title: Importando e controlando relatórios do Power BI na sua própria aplicação
@@ -284,7 +285,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 68654
 # Analisando e tomando decisões a partir de dados em tempo real
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Big Data e Data Science
 ## Speaker: Diego Nogare
 ## Title: Analisando e tomando decisões a partir de dados em tempo real
@@ -294,7 +295,7 @@ Nota só pra chamar atenção: Vai ter Inteligencia Artificial :D
 #  
 #### SessionID: 66387
 # Azure SQL Database - Troubleshooting Performance  e Otimização!
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Cloud Computing
 ## Speaker: Thiago Carlos de Alencar
 ## Title: Azure SQL Database - Troubleshooting Performance  e Otimização!
@@ -303,7 +304,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Cloud Computing
 #  
 #### SessionID: 67474
 # 5 dicas de performance tuning para desenvolvedores
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Reginaldo Silva
 ## Title: 5 dicas de performance tuning para desenvolvedores
@@ -312,7 +313,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 67880
 # Hacking SQL Server
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server
@@ -324,7 +325,7 @@ Simularemos uma invasão ao SQL Server explorando alguns conceitos mal interpret
 #  
 #### SessionID: 68266
 # Monitorando o SQL Server através do SQLdiag
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Andre Rodrigues
 ## Title: Monitorando o SQL Server através do SQLdiag
@@ -333,7 +334,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 69032
 # Monitorando os recursos e processos do Servidor através do Power BI
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Sulamita Dantas
 ## Title: Monitorando os recursos e processos do Servidor através do Power BI
@@ -342,7 +343,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 66363
 # Improve your Datawarehouse performance with Columnstore Indexes
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Wasley Portes
 ## Title: Improve your Datawarehouse performance with Columnstore Indexes
@@ -351,7 +352,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 66772
 # SQL Server 2017 AlwaysOn Cross Platform
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: William Lino Oliveira
 ## Title: SQL Server 2017 AlwaysOn Cross Platform
@@ -360,7 +361,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 66778
 # SQL Server DBA ready to go to the war!
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Carreira e Certificação
 ## Speaker: Cibelle Castro
 ## Title: SQL Server DBA ready to go to the war!
@@ -369,7 +370,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Carreira e Certificaç�
 #  
 #### SessionID: 67788
 # Particionamento -  Estrat#233;gias e Performance
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Lucas Souza
 ## Title: Particionamento -  Estrat#233;gias e Performance
@@ -378,7 +379,7 @@ Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 69142
 # Monitorando o seu ambiente SQL Server com o Zabbix
-#### [Back to calendar](#SQLSaturday-#676-São-Paulo-2017)
+#### [Back to calendar](#nr-676)
 Event Date: 30-09-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Fabio Cotrim
 ## Title: Monitorando o seu ambiente SQL Server com o Zabbix

@@ -1,3 +1,4 @@
+#### Nr: 539
 #### [Back to Main list](index.md)
 # SQLSaturday #539 - Sioux Falls 2016
 Start Time (24h)|Speaker|Track|Title
@@ -22,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 48311
 # My Top 10 Favorite Replication Tricks
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcus Hopfinger
 ## Title: My Top 10 Favorite Replication Tricks
@@ -31,7 +32,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48583
 # Mastering queries into XML data.
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database Development
 ## Speaker: Rick Bielawski
 ## Title: Mastering queries into XML data.
@@ -40,7 +41,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database D
 #  
 #### SessionID: 50700
 # Build on-the-fly reporting with Dynamic SQL
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dorothy Ling
 ## Title: Build on-the-fly reporting with Dynamic SQL
@@ -49,7 +50,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49228
 # Getting Started with Extended Events
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Galbraith
 ## Title: Getting Started with Extended Events
@@ -62,7 +63,7 @@ Come learn how to get started - the basics of sessions, events, actions, targets
 #  
 #### SessionID: 50046
 # SSIS Performance Tuning with Biml
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: SSIS Performance Tuning with Biml
@@ -72,7 +73,7 @@ The only way to be sure that your SSIS packages are performing optimally is to t
 #  
 #### SessionID: 50093
 # Tips and Tricks for Performance Troubleshooting
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database Development
 ## Speaker: Phillip Podhradsky
 ## Title: Tips and Tricks for Performance Troubleshooting
@@ -81,7 +82,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database D
 #  
 #### SessionID: 48582
 # Implementing security inside SQL Server
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Bielawski
 ## Title: Implementing security inside SQL Server
@@ -90,7 +91,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50293
 # SQL Server Foreign Keys – De-mystifying the Rest of the Story
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SQL Server Foreign Keys – De-mystifying the Rest of the Story
@@ -99,7 +100,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database D
 #  
 #### SessionID: 50045
 # Agile Data Warehouse and ETL Design with Biml
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: Agile Data Warehouse and ETL Design with Biml
@@ -109,7 +110,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 51023
 # One approach to make SQL deployments repeatable, scalable  semi-automated
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database Development
 ## Speaker: Matthew Dobson
 ## Title: One approach to make SQL deployments repeatable, scalable  semi-automated
@@ -118,7 +119,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database D
 #  
 #### SessionID: 51159
 # Availability Groups:  Monitoring and Alerting
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Availability Groups:  Monitoring and Alerting
@@ -130,7 +131,7 @@ We will look at the DMVs, extended event sessions, perfmon counters, SQL agent j
 #  
 #### SessionID: 50094
 # Building Stronger Relationships Between Us... "Data People" and Them... "End Users"
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Professional Development
 ## Speaker: Joshua Warne
 ## Title: Building Stronger Relationships Between Us... "Data People" and Them... "End Users"
@@ -139,7 +140,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Professional Developmen
 #  
 #### SessionID: 50548
 # Free SQL Server Tools
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Cecil Spivey
 ## Title: Free SQL Server Tools
@@ -148,7 +149,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50656
 # MSSQL is coming to Linux - Are You Ready?
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database Development
 ## Speaker: Nem Schlecht
 ## Title: MSSQL is coming to Linux - Are You Ready?
@@ -157,7 +158,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database D
 #  
 #### SessionID: 48268
 # Tackling Technical Blogging
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Professional Development
 ## Speaker: Mike Hays
 ## Title: Tackling Technical Blogging
@@ -166,7 +167,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Professional Developmen
 #  
 #### SessionID: 50186
 # Get Your Optimizer to Give up All Its Secrets
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
@@ -175,7 +176,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50294
 # SS2014/2016 In-Memory Tables:  Formula 1 Performance Unleashed?
-#### [Back to calendar](#SQLSaturday-#539-Sioux-Falls-2016)
+#### [Back to calendar](#nr-539)
 Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SS2014/2016 In-Memory Tables:  Formula 1 Performance Unleashed?

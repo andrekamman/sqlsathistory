@@ -1,3 +1,4 @@
+#### Nr: 128
 #### [Back to Main list](index.md)
 # SQLSaturday #128 - Istanbul 2012
 Start Time (24h)|Speaker|Track|Title
@@ -11,7 +12,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13956
 # HP Enterprise Database Consolidation Appliance
-#### [Back to calendar](#SQLSaturday-#128-Istanbul-2012)
+#### [Back to calendar](#nr-128)
 Event Date: 31-03-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Erkan Sezgin
 ## Title: HP Enterprise Database Consolidation Appliance
@@ -20,7 +21,7 @@ Event Date: 31-03-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17827
 # Replication Solutions For Mission Critical Systems
-#### [Back to calendar](#SQLSaturday-#128-Istanbul-2012)
+#### [Back to calendar](#nr-128)
 Event Date: 31-03-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kadir Evciler
 ## Title: Replication Solutions For Mission Critical Systems
@@ -29,7 +30,7 @@ Event Date: 31-03-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21226
 # Data Mining with SQL Server Analysis Services and 
-#### [Back to calendar](#SQLSaturday-#128-Istanbul-2012)
+#### [Back to calendar](#nr-128)
 Event Date: 31-03-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mustafa Acungil
 ## Title: Data Mining with SQL Server Analysis Services and 
@@ -41,7 +42,7 @@ The theorotical side of data mining will be also touched.
 #  
 #### SessionID: 21596
 # A road story : OLTP 2 DW 2 OLAP
-#### [Back to calendar](#SQLSaturday-#128-Istanbul-2012)
+#### [Back to calendar](#nr-128)
 Event Date: 31-03-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Osman Cokakoglu Emrah Uslu
 ## Title: A road story : OLTP 2 DW 2 OLAP
@@ -50,7 +51,7 @@ Event Date: 31-03-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27119
 # What's Really Going On Your Servers?
-#### [Back to calendar](#SQLSaturday-#128-Istanbul-2012)
+#### [Back to calendar](#nr-128)
 Event Date: 31-03-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Turgay Sahtiyan
 ## Title: What's Really Going On Your Servers?
@@ -59,7 +60,7 @@ Event Date: 31-03-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28278
 # Inside the Full-Text Search
-#### [Back to calendar](#SQLSaturday-#128-Istanbul-2012)
+#### [Back to calendar](#nr-128)
 Event Date: 31-03-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Yigit Aktan
 ## Title: Inside the Full-Text Search

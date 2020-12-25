@@ -1,3 +1,4 @@
+#### Nr: 163
 #### [Back to Main list](index.md)
 # SQLSaturday #163 - Dallas - BI Edition 2012
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11061
 # An Introduction to Big Data for BI
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Beginner 1
 ## Speaker: Bryan Smith
 ## Title: An Introduction to Big Data for BI
@@ -39,7 +40,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Beginner 1
 #  
 #### SessionID: 11063
 # Building a Business Intelligence Competency Center
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Advanced
 ## Speaker: Bryan Smith
 ## Title: Building a Business Intelligence Competency Center
@@ -48,7 +49,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Advanced
 #  
 #### SessionID: 11395
 # Data cleansing and Data Quality
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Advanced
 ## Speaker: Chaitanya Khaladkar
 ## Title: Data cleansing and Data Quality
@@ -57,7 +58,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Advanced
 #  
 #### SessionID: 12440
 # Dimensions, It's All Meaningless Without Them 
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 1
 ## Speaker: David Stein
 ## Title: Dimensions, It's All Meaningless Without Them 
@@ -69,7 +70,7 @@ Load SCDs using several accepted methods including T-SQL Merge, the SCD Wizard, 
 #  
 #### SessionID: 12751
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Beginner 1
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -78,7 +79,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Beginner 1
 #  
 #### SessionID: 13749
 # Partitioning Performance in the Data Warehouse
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 2
 ## Speaker: Ef Romero
 ## Title: Partitioning Performance in the Data Warehouse
@@ -87,7 +88,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 2
 #  
 #### SessionID: 14408
 # Scaling SQL Server to HUNDREDS of Terabytes!
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 2
 ## Speaker: Garrett Edmondson
 ## Title: Scaling SQL Server to HUNDREDS of Terabytes!
@@ -96,7 +97,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 2
 #  
 #### SessionID: 15496
 # Creating a Metadata Mart w/ SSIS - Data Governance
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Beginner 2
 ## Speaker: Ira Warren
 ## Title: Creating a Metadata Mart w/ SSIS - Data Governance
@@ -105,7 +106,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Beginner 2
 #  
 #### SessionID: 15844
 #  PoSh Eye for the BI Guy
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Beginner 2
 ## Speaker: Jason Horner
 ## Title:  PoSh Eye for the BI Guy
@@ -120,7 +121,7 @@ PowerShell or .Net programming is assumed.
 #  
 #### SessionID: 15845
 # Dimensional Modeling: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Beginner 1
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling: Beyond the Basics
@@ -133,7 +134,7 @@ be very interactive--bring your toughest dimensional modeling quandaries!
 #  
 #### SessionID: 16868
 # Analytical MDM with Master Data Services 2012
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 1
 ## Speaker: Jeff Johnston
 ## Title: Analytical MDM with Master Data Services 2012
@@ -142,7 +143,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 1
 #  
 #### SessionID: 17638
 # Introducing StreamInsight 2.1
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 2
 ## Speaker: J Sawyer
 ## Title: Introducing StreamInsight 2.1
@@ -151,7 +152,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 2
 #  
 #### SessionID: 19389
 # Data Visualizations with Microsoft BI Stack
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 1
 ## Speaker: Mahesh Pujari
 ## Title: Data Visualizations with Microsoft BI Stack
@@ -161,7 +162,7 @@ This session will cover the end user experience of Data Visualization. We will l
 #  
 #### SessionID: 21757
 # GeoBI, Interactive Geospatial Analytics
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Advanced
 ## Speaker: Patrick Gallucci
 ## Title: GeoBI, Interactive Geospatial Analytics
@@ -170,7 +171,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Advanced
 #  
 #### SessionID: 21767
 # Monitoring SQL Server Analysis Services with DMVs
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 2
 ## Speaker: Patrick Brady
 ## Title: Monitoring SQL Server Analysis Services with DMVs
@@ -179,7 +180,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 2
 #  
 #### SessionID: 21819
 # Automating SSIS Development with Biml
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Beginner 2
 ## Speaker: Paul Waters
 ## Title: Automating SSIS Development with Biml
@@ -189,7 +190,7 @@ In this session we will start by showing the power of Biml.  We will then step b
 #  
 #### SessionID: 21843
 # Power View and PowerPivot: High-Octane Self-Svc BI
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 1
 ## Speaker: Paul Turley
 ## Title: Power View and PowerPivot: High-Octane Self-Svc BI
@@ -198,7 +199,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 1
 #  
 #### SessionID: 21844
 # Use a custom assembly to extend reports  queries
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Advanced
 ## Speaker: Paul Turley
 ## Title: Use a custom assembly to extend reports  queries
@@ -207,7 +208,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Advanced
 #  
 #### SessionID: 23069
 # 100x query performance improvement with xVelocity
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 2
 ## Speaker: Rob Kerr
 ## Title: 100x query performance improvement with xVelocity
@@ -217,7 +218,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 2
 #  
 #### SessionID: 23725
 # How Active Directory affects SQL Server BI
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Beginner 2
 ## Speaker: Ryan Adams
 ## Title: How Active Directory affects SQL Server BI
@@ -226,7 +227,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Beginner 2
 #  
 #### SessionID: 25179
 # PDW - What is it ? Is it right for me ?
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 1
 ## Speaker: Sri Sridharan
 ## Title: PDW - What is it ? Is it right for me ?
@@ -235,7 +236,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Intermediate 1
 #  
 #### SessionID: 26613
 # Getting Started with SSIS 2012
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Beginner 1
 ## Speaker: Tim Mitchell
 ## Title: Getting Started with SSIS 2012
@@ -246,7 +247,7 @@ This session will be most useful for database professionals with some experience
 #  
 #### SessionID: 27469
 # SSIS Project Deployment Model
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Beginner 1
 ## Speaker: visakh murukesan
 ## Title: SSIS Project Deployment Model
@@ -255,7 +256,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Beginner 1
 #  
 #### SessionID: 9914
 # What is Claims - A look at RS 2012 with SP 2010
-#### [Back to calendar](#SQLSaturday-#163-Dallas-BI-Edition-2012)
+#### [Back to calendar](#nr-163)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Advanced
 ## Speaker: Adam Saxton
 ## Title: What is Claims - A look at RS 2012 with SP 2010

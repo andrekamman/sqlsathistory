@@ -1,3 +1,4 @@
+#### Nr: 656
 #### [Back to Main list](index.md)
 # SQLSaturday #656 - Denmark 2017
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 64824
 # SSIS Custom Pipeline Component
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Arne Bartels
 ## Title: SSIS Custom Pipeline Component
@@ -44,7 +45,7 @@ Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 65794
 # Reaching the Clouds on the BI Rocket
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Marek Matuszewski
 ## Title: Reaching the Clouds on the BI Rocket
@@ -53,7 +54,7 @@ Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 68375
 # Challenges in HA\DR scenarios in SQL Server 2017 vNext on Linux
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andre Batista
 ## Title: Challenges in HA\DR scenarios in SQL Server 2017 vNext on Linux
@@ -62,7 +63,7 @@ Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68470
 # Biml: Your 3D Printer for SSIS
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ben Weissman
 ## Title: Biml: Your 3D Printer for SSIS
@@ -75,7 +76,7 @@ Have you ever spent hours fixing your SSIS due to a schema change on the source?
 #  
 #### SessionID: 68805
 # DataOps - DevOps for analytics
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Strategy and Architecture
 ## Speaker: Stephanie Locke
 ## Title: DataOps - DevOps for analytics
@@ -88,7 +89,7 @@ Taking you through the principles, the tools, and the journey to DataOps, this s
 #  
 #### SessionID: 64806
 # Hacking SQL Server
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server
@@ -102,7 +103,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #  
 #### SessionID: 64834
 # Always On Multi-Site Patterns
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Strategy and Architecture
 ## Speaker: John Martin
 ## Title: Always On Multi-Site Patterns
@@ -115,7 +116,7 @@ All of these elements mean that it is more than just simple wizards to follow in
 #  
 #### SessionID: 68612
 # Dealing with CosmosDB
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Dealing with CosmosDB
@@ -130,7 +131,7 @@ In this presentation, you will learn:
 #  
 #### SessionID: 68778
 # U-SQL in great depth
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Damian Widera
 ## Title: U-SQL in great depth
@@ -139,7 +140,7 @@ Event Date: 07-10-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 69452
 # Delivering BI Continuously
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jens Vestergaard
 ## Title: Delivering BI Continuously
@@ -160,7 +161,7 @@ Release
 #  
 #### SessionID: 64807
 # If a machine can learn, why can't YOU learn Azure Machine Learning?
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: André Melancia
 ## Title: If a machine can learn, why can't YOU learn Azure Machine Learning?
@@ -171,7 +172,7 @@ Disclaimer: Sadly, AzureML still can't predict what's on your girlfriend's mind.
 #  
 #### SessionID: 65070
 # Microsoft Azure for the DBA
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Postlethwaite
 ## Title: Microsoft Azure for the DBA
@@ -181,7 +182,7 @@ We will then go onto look in depth at   SQL Azure Database; creating, configurin
 #  
 #### SessionID: 67560
 # €20M+ fines and prison: General Data Protection Regulation (GDPR) is coming, are you compliant? w/ Pete Moore
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Strategy and Architecture
 ## Speaker: Alex Yates
 ## Title: €20M+ fines and prison: General Data Protection Regulation (GDPR) is coming, are you compliant? w/ Pete Moore
@@ -204,7 +205,7 @@ I will focus on technical problems that we need to address. You can (and should)
 #  
 #### SessionID: 67683
 # ETL meets Azure
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alexander Klein
 ## Title: ETL meets Azure
@@ -213,7 +214,7 @@ Event Date: 07-10-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 69541
 # From SSAS to Azure Analysis Services - Lessons learned
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Niels Skytte
 ## Title: From SSAS to Azure Analysis Services - Lessons learned
@@ -225,7 +226,7 @@ Without having all the answers I’ll share our experience in terms of benefits,
 #  
 #### SessionID: 66811
 # SQL Server  Containers
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Pruski
 ## Title: SQL Server  Containers
@@ -245,7 +246,7 @@ A real world implementation of containers
 #  
 #### SessionID: 66914
 # Reporting the reporting services database
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Just Blindbaek
 ## Title: Reporting the reporting services database
@@ -256,7 +257,7 @@ The session will walk-through the creation and all the attendees will get all th
 #  
 #### SessionID: 67528
 # A Look Inside SQL Server Distribution Statistics
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kalen Delaney
 ## Title: A Look Inside SQL Server Distribution Statistics
@@ -271,7 +272,7 @@ Goals:
 #  
 #### SessionID: 68779
 # SQL Server 2016. Meet the Row Level Security. Practical notes
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Damian Widera
 ## Title: SQL Server 2016. Meet the Row Level Security. Practical notes
@@ -280,7 +281,7 @@ Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 68804
 # Build your first bot – no code required!
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Stephanie Locke
 ## Title: Build your first bot – no code required!
@@ -293,7 +294,7 @@ You can follow along as I build the bot live, or just soak it all in. Either way
 #  
 #### SessionID: 66296
 # Power BI behind the scene: security and user management
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andrea Martorana Tusa
 ## Title: Power BI behind the scene: security and user management
@@ -308,7 +309,7 @@ Come to this session to discover what’s behind the scenes in Power BI and how 
 #  
 #### SessionID: 66804
 # Database version control and deployment: model or migration scripts?
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Alex Yates
 ## Title: Database version control and deployment: model or migration scripts?
@@ -323,7 +324,7 @@ I’ll illustrate the limitations of each approach with a simple scenario. I’l
 #  
 #### SessionID: 67066
 # Power BI Infrastructure
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bent Pedersen
 ## Title: Power BI Infrastructure
@@ -339,7 +340,7 @@ During this ession you will be provided with a complete and comprehensive overvi
 #  
 #### SessionID: 67288
 # Boosting SSAS productivity with Tabular Editor
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Otykier
 ## Title: Boosting SSAS productivity with Tabular Editor
@@ -348,7 +349,7 @@ Event Date: 07-10-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68764
 # Azure Analysis Services - An important step for BI in the cloud?
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gabi Münster
 ## Title: Azure Analysis Services - An important step for BI in the cloud?
@@ -359,7 +360,7 @@ This session offers answers to your questions and provides insight to support th
 #  
 #### SessionID: 65621
 # Automate your SSIS deployment process
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bartosz Ratajczyk
 ## Title: Automate your SSIS deployment process
@@ -372,7 +373,7 @@ You will see what to look at when designing your own solution, what resources to
 #  
 #### SessionID: 66678
 # Management Studio level-up
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Daniel Hutmacher
 ## Title: Management Studio level-up
@@ -390,7 +391,7 @@ But I’m not going to sugarcoat it. Your code may still run slow, and you’ll 
 #  
 #### SessionID: 66832
 # Monitoring  Troubleshooting Availability Groups
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andreas Wolter
 ## Title: Monitoring  Troubleshooting Availability Groups
@@ -399,7 +400,7 @@ Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67685
 # Let the Cognitive Services to help you to find your favourite cocktail.
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Alexander Klein
 ## Title: Let the Cognitive Services to help you to find your favourite cocktail.
@@ -409,7 +410,7 @@ The Cogntive services offer here with face, emotion and recommendation three API
 #  
 #### SessionID: 69451
 # Maintenance of a DB project and Continuous Delivery using SSDT
-#### [Back to calendar](#SQLSaturday-#656-Denmark-2017)
+#### [Back to calendar](#nr-656)
 Event Date: 07-10-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Kamil Nowinski
 ## Title: Maintenance of a DB project and Continuous Delivery using SSDT

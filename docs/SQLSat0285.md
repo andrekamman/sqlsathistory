@@ -1,3 +1,4 @@
+#### Nr: 285
 #### [Back to Main list](index.md)
 # SQLSaturday #285 - Atlanta 2014
 Start Time (24h)|Speaker|Track|Title
@@ -71,7 +72,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10687
 # Wrangling performance with Resource Governor
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 10 DBA Radar Detectors
 ## Speaker: Brandon Leach
 ## Title: Wrangling performance with Resource Governor
@@ -80,7 +81,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 10 DBA Radar Detectors
 #  
 #### SessionID: 10849
 # SQL 2012 Table Compression
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 03 Admin Highway
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Table Compression
@@ -89,7 +90,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 03 Admin Highway
 #  
 #### SessionID: 11105
 # BIML--Step by Step
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 01 BI Roadshow
 ## Speaker: Julie Smith
 ## Title: BIML--Step by Step
@@ -98,7 +99,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 01 BI Roadshow
 #  
 #### SessionID: 11106
 # Power Power Query Query With Julie Smith and Rob Volk.
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 02 BI HorsePower
 ## Speaker: Julie Smith
 ## Title: Power Power Query Query With Julie Smith and Rob Volk.
@@ -108,7 +109,7 @@ Power Query finishes the Microsoft Self Service (read: inside Excel) BI Stack by
 #  
 #### SessionID: 11194
 # Judge, Jury,  and Executioner--A First Look At Execution Plans
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 07 High Performance
 ## Speaker: Carlos L Chacon
 ## Title: Judge, Jury,  and Executioner--A First Look At Execution Plans
@@ -117,7 +118,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 07 High Performance
 #  
 #### SessionID: 11261
 # The Spy Who Loathed Me - An Intro to SQL Security
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 03 Admin Highway
 ## Speaker: Chris Bell
 ## Title: The Spy Who Loathed Me - An Intro to SQL Security
@@ -126,7 +127,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 03 Admin Highway
 #  
 #### SessionID: 11571
 # Best Interview Ever
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 06 Pro Racing
 ## Speaker: Chris Skorlinski
 ## Title: Best Interview Ever
@@ -135,7 +136,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 06 Pro Racing
 #  
 #### SessionID: 12397
 # High Availability with Windows Server 2012 R2 and SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 05 Availability Horsepower
 ## Speaker: David Bermingham
 ## Title: High Availability with Windows Server 2012 R2 and SQL Server 2014
@@ -144,7 +145,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 05 Availability Horsepo
 #  
 #### SessionID: 12502
 # Squeezing Top Performance from Your Virtualized SQL Server
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 03 Admin Highway
 ## Speaker: David Klee
 ## Title: Squeezing Top Performance from Your Virtualized SQL Server
@@ -153,7 +154,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 03 Admin Highway
 #  
 #### SessionID: 13032
 # Implementing Auditing in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 03 Admin Highway
 ## Speaker: David Dye
 ## Title: Implementing Auditing in SQL Server 2012
@@ -163,7 +164,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 03 Admin Highway
 #  
 #### SessionID: 13033
 # Column Level Encryption
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 03 Admin Highway
 ## Speaker: David Dye
 ## Title: Column Level Encryption
@@ -172,7 +173,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 03 Admin Highway
 #  
 #### SessionID: 13348
 # GIS Data and Solving the Shortest Path
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 09 Spaghetti Junction
 ## Speaker: Dan Holmes
 ## Title: GIS Data and Solving the Shortest Path
@@ -181,7 +182,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 09 Spaghetti Junction
 #  
 #### SessionID: 13472
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 06 Pro Racing
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -191,7 +192,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 06 Pro Racing
 #  
 #### SessionID: 13689
 # "So you have a performance issue.  What now?"
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 07 High Performance
 ## Speaker: Ed Watson
 ## Title: "So you have a performance issue.  What now?"
@@ -200,7 +201,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 07 High Performance
 #  
 #### SessionID: 13899
 # SQL Server 2012 Always On - The Good, the Bad and the Ugly
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 05 Availability Horsepower
 ## Speaker: Eric Peterson
 ## Title: SQL Server 2012 Always On - The Good, the Bad and the Ugly
@@ -209,7 +210,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 05 Availability Horsepo
 #  
 #### SessionID: 14782
 # Statistics and Query Optimization
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 07 High Performance
 ## Speaker: Grant Fritchey
 ## Title: Statistics and Query Optimization
@@ -218,7 +219,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 07 High Performance
 #  
 #### SessionID: 15726
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 07 High Performance
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
@@ -227,7 +228,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 07 High Performance
 #  
 #### SessionID: 15793
 # Maintenance and Backups:  Intro to Ola Hallengren
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 03 Admin Highway
 ## Speaker: Jason Carter
 ## Title: Maintenance and Backups:  Intro to Ola Hallengren
@@ -236,7 +237,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 03 Admin Highway
 #  
 #### SessionID: 15908
 # DataViz You Thought You Couldn't Do with SSRS
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 02 BI HorsePower
 ## Speaker: Jason Thomas
 ## Title: DataViz You Thought You Couldn't Do with SSRS
@@ -245,7 +246,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 02 BI HorsePower
 #  
 #### SessionID: 16092
 # Automating Execution Plan Analysis
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 07 High Performance
 ## Speaker: Joe Chang
 ## Title: Automating Execution Plan Analysis
@@ -254,7 +255,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 07 High Performance
 #  
 #### SessionID: 16334
 # Bad, less Bad, not Bad; rewriting bad SQL Code
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 04 Code Paths
 ## Speaker: Jeffrey Garbus
 ## Title: Bad, less Bad, not Bad; rewriting bad SQL Code
@@ -263,7 +264,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 04 Code Paths
 #  
 #### SessionID: 17317
 # T-SQL: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 04 Code Paths
 ## Speaker: Jon Boulineau
 ## Title: T-SQL: Beyond the Basics
@@ -272,7 +273,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 04 Code Paths
 #  
 #### SessionID: 17424
 # Entity Framework: Or How I Learned to Stop Worrying and Learned to Love Developers
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 04 Code Paths
 ## Speaker: Richie Rump
 ## Title: Entity Framework: Or How I Learned to Stop Worrying and Learned to Love Developers
@@ -284,7 +285,7 @@ Entity Framework (EF) and other object relational mapping technologies have been
 #  
 #### SessionID: 17786
 # Data Visualization Using Excel
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 02 BI HorsePower
 ## Speaker: Justin Stephens
 ## Title: Data Visualization Using Excel
@@ -293,7 +294,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 02 BI HorsePower
 #  
 #### SessionID: 17849
 # What’s Simple About SIMPLE Recovery?
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 10 DBA Radar Detectors
 ## Speaker: Kalen Delaney
 ## Title: What’s Simple About SIMPLE Recovery?
@@ -302,7 +303,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 10 DBA Radar Detectors
 #  
 #### SessionID: 18037
 # Using recursive Common Table Expressions (CTE)
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 04 Code Paths
 ## Speaker: Ken Colson
 ## Title: Using recursive Common Table Expressions (CTE)
@@ -311,7 +312,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 04 Code Paths
 #  
 #### SessionID: 18430
 # T-SQL Window Function Performance
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 09 Spaghetti Junction
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Performance
@@ -320,7 +321,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 09 Spaghetti Junction
 #  
 #### SessionID: 18941
 # Fundamentals of MDX
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 08 BI Traffic Analysis
 ## Speaker: Lance England
 ## Title: Fundamentals of MDX
@@ -329,7 +330,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 08 BI Traffic Analysis
 #  
 #### SessionID: 20244
 # Independent Contracting 101
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 06 Pro Racing
 ## Speaker: Michael French
 ## Title: Independent Contracting 101
@@ -338,7 +339,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 06 Pro Racing
 #  
 #### SessionID: 20414
 # Database Development Comes out of the Dark Ages
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 04 Code Paths
 ## Speaker: miguel Cebollero
 ## Title: Database Development Comes out of the Dark Ages
@@ -347,7 +348,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 04 Code Paths
 #  
 #### SessionID: 21028
 # SQL Server's In Memory Database Objects
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 09 Spaghetti Junction
 ## Speaker: Denny Cherry
 ## Title: SQL Server's In Memory Database Objects
@@ -356,7 +357,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 09 Spaghetti Junction
 #  
 #### SessionID: 21411
 # Merging Excel files from SharePoint for Analysis in Tableau with the BI Stack
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 08 BI Traffic Analysis
 ## Speaker: Nelson Davis
 ## Title: Merging Excel files from SharePoint for Analysis in Tableau with the BI Stack
@@ -365,7 +366,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 08 BI Traffic Analysis
 #  
 #### SessionID: 21860
 # BI Expert Panel - Part 1
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 01 BI Roadshow
 ## Speaker: Paul Turley
 ## Title: BI Expert Panel - Part 1
@@ -374,7 +375,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 01 BI Roadshow
 #  
 #### SessionID: 21861
 # BI Expert Panel - Part 2
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 01 BI Roadshow
 ## Speaker: Paul Turley
 ## Title: BI Expert Panel - Part 2
@@ -383,7 +384,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 01 BI Roadshow
 #  
 #### SessionID: 22194
 # Introduction to Power BI
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 02 BI HorsePower
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to Power BI
@@ -392,7 +393,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 02 BI HorsePower
 #  
 #### SessionID: 22360
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 01 BI Roadshow
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports
@@ -402,7 +403,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 01 BI Roadshow
 #  
 #### SessionID: 22743
 # Microsoft Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 09 Spaghetti Junction
 ## Speaker: Ryan Duclos
 ## Title: Microsoft Azure SQL Database
@@ -413,7 +414,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 09 Spaghetti Junction
 #  
 #### SessionID: 22941
 # ETL Architecture Chekup: Avoiding Costly Mistakes
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 11 Express Toll Lane ETL
 ## Speaker: Rafael Salas
 ## Title: ETL Architecture Chekup: Avoiding Costly Mistakes
@@ -423,7 +424,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 11 Express Toll Lane ET
 #  
 #### SessionID: 23245
 # READY FOR PROD
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 10 DBA Radar Detectors
 ## Speaker: Robert Verell
 ## Title: READY FOR PROD
@@ -434,7 +435,7 @@ In READY FOR PROD (caps for emphasis), we will explore how I believe pushing T-S
 #  
 #### SessionID: 23257
 # Ask The Experts!
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Ask The Experts!
 ## Speaker: Rob Volk
 ## Title: Ask The Experts!
@@ -443,7 +444,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Ask The Experts!
 #  
 #### SessionID: 23258
 # Lightning Talks!
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 06 Pro Racing
 ## Speaker: Rob Volk
 ## Title: Lightning Talks!
@@ -452,7 +453,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 06 Pro Racing
 #  
 #### SessionID: 23259
 # Quiz Bowl! - Room 223
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Ask The Experts!
 ## Speaker: Rob Volk
 ## Title: Quiz Bowl! - Room 223
@@ -461,7 +462,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: Ask The Experts!
 #  
 #### SessionID: 23390
 # Data Analytics and the DBA – Using PowerView to Uncover Interesting Facts About Your SQL Servers
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 01 BI Roadshow
 ## Speaker: Rodney Landrum
 ## Title: Data Analytics and the DBA – Using PowerView to Uncover Interesting Facts About Your SQL Servers
@@ -470,7 +471,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 01 BI Roadshow
 #  
 #### SessionID: 23736
 # SQL 2012 AlwaysOn Quickstart
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 05 Availability Horsepower
 ## Speaker: Ryan Adams
 ## Title: SQL 2012 AlwaysOn Quickstart
@@ -484,7 +485,7 @@ capabilities it gives us.
 #  
 #### SessionID: 24050
 # Create and Load a Staging Environment from Scratch in an Hour with Biml
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 11 Express Toll Lane ETL
 ## Speaker: Scott Currie
 ## Title: Create and Load a Staging Environment from Scratch in an Hour with Biml
@@ -493,7 +494,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 11 Express Toll Lane ET
 #  
 #### SessionID: 24328
 # Using SSDT (SQL Server Data Tools) to Manage Database Lifecycle
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 04 Code Paths
 ## Speaker: Sergey Barskiy
 ## Title: Using SSDT (SQL Server Data Tools) to Manage Database Lifecycle
@@ -508,7 +509,7 @@ Learning objectives
 #  
 #### SessionID: 24937
 # Administering  Managing the Power BI Environment
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 02 BI HorsePower
 ## Speaker: Melissa Coates
 ## Title: Administering  Managing the Power BI Environment
@@ -517,7 +518,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 02 BI HorsePower
 #  
 #### SessionID: 25704
 # SSIS 2012: More Than Just a Pretty UI
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 11 Express Toll Lane ETL
 ## Speaker: Steve Wake
 ## Title: SSIS 2012: More Than Just a Pretty UI
@@ -526,7 +527,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 11 Express Toll Lane ET
 #  
 #### SessionID: 25840
 # Managing a Technical Team: Lessons Learned
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 06 Pro Racing
 ## Speaker: Stuart Ainsworth
 ## Title: Managing a Technical Team: Lessons Learned
@@ -535,7 +536,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 06 Pro Racing
 #  
 #### SessionID: 25917
 # Windows Server 2012 R2 High Availability for SQL Server
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 05 Availability Horsepower
 ## Speaker: Sven Aelterman
 ## Title: Windows Server 2012 R2 High Availability for SQL Server
@@ -544,7 +545,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 05 Availability Horsepo
 #  
 #### SessionID: 26006
 # 45 min to build your first SSRS report
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 01 BI Roadshow
 ## Speaker: Tamera Clark
 ## Title: 45 min to build your first SSRS report
@@ -553,7 +554,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 01 BI Roadshow
 #  
 #### SessionID: 26394
 # SQL Server 2014 New Features
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 09 Spaghetti Junction
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2014 New Features
@@ -562,7 +563,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 09 Spaghetti Junction
 #  
 #### SessionID: 26620
 # 15 Quick Tips for SSIS Performance
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 11 Express Toll Lane ETL
 ## Speaker: Tim Mitchell
 ## Title: 15 Quick Tips for SSIS Performance
@@ -573,7 +574,7 @@ In this session, we’ll focus on SSIS package performance, quickly reviewing 15
 #  
 #### SessionID: 26674
 # It is TEMPDB, Why Should You Care?
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 10 DBA Radar Detectors
 ## Speaker: Tim Radney
 ## Title: It is TEMPDB, Why Should You Care?
@@ -582,7 +583,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 10 DBA Radar Detectors
 #  
 #### SessionID: 26940
 # Predictive Analytics for the Data Scientist and BI Pro
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 08 BI Traffic Analysis
 ## Speaker: Teo Lachev
 ## Title: Predictive Analytics for the Data Scientist and BI Pro
@@ -591,7 +592,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 08 BI Traffic Analysis
 #  
 #### SessionID: 27157
 # AlwaysOn Availability Groups Troubleshooting and Common Issues
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 05 Availability Horsepower
 ## Speaker: Thomas Stringer
 ## Title: AlwaysOn Availability Groups Troubleshooting and Common Issues
@@ -600,7 +601,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 05 Availability Horsepo
 #  
 #### SessionID: 27191
 # Indexing strategies and good physical designs for performance tuning
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 07 High Performance
 ## Speaker: Kenneth Urena
 ## Title: Indexing strategies and good physical designs for performance tuning
@@ -614,7 +615,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 07 High Performance
 #  
 #### SessionID: 27349
 # DAX 101
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 08 BI Traffic Analysis
 ## Speaker: Damu Venkatesan
 ## Title: DAX 101
@@ -623,7 +624,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 08 BI Traffic Analysis
 #  
 #### SessionID: 27728
 # Crazy Things That Developers Do
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 10 DBA Radar Detectors
 ## Speaker: Wayne Sheffield
 ## Title: Crazy Things That Developers Do
@@ -632,7 +633,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 10 DBA Radar Detectors
 #  
 #### SessionID: 27814
 # Navigating the Options for Data Redundancy
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 05 Availability Horsepower
 ## Speaker: Wendy Pastrick
 ## Title: Navigating the Options for Data Redundancy
@@ -641,7 +642,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 05 Availability Horsepo
 #  
 #### SessionID: 28175
 # The 20-Minute Tabular Model
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 02 BI HorsePower
 ## Speaker: Bill Anton
 ## Title: The 20-Minute Tabular Model
@@ -650,7 +651,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 02 BI HorsePower
 #  
 #### SessionID: 9082
 # Manageable SSAS Deployment Strategies
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 08 BI Traffic Analysis
 ## Speaker: Kerry Tyler
 ## Title: Manageable SSAS Deployment Strategies
@@ -661,7 +662,7 @@ If you've answered "yes" to any of these questions, and are in search of a bette
 #  
 #### SessionID: 9727
 # Everything You Ever Knew About SSIS Is Null and Void
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 11 Express Toll Lane ETL
 ## Speaker: Robert Cain
 ## Title: Everything You Ever Knew About SSIS Is Null and Void
@@ -675,7 +676,7 @@ In this session we'll look at how the new project based deployment model simplif
 #  
 #### SessionID: 9755
 # Peace of Mind: Making DBCC CHECKDB Go Faster
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 10 DBA Radar Detectors
 ## Speaker: Argenis Fernandez
 ## Title: Peace of Mind: Making DBCC CHECKDB Go Faster
@@ -684,7 +685,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 10 DBA Radar Detectors
 #  
 #### SessionID: 9757
 # Troubleshooting SQL Server with SysInternals Tools
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 09 Spaghetti Junction
 ## Speaker: Argenis Fernandez
 ## Title: Troubleshooting SQL Server with SysInternals Tools
@@ -693,7 +694,7 @@ Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 09 Spaghetti Junction
 #  
 #### SessionID: 9989
 # Automate Your ETL Infrastructure with SSIS and PowerShell
-#### [Back to calendar](#SQLSaturday-#285-Atlanta-2014)
+#### [Back to calendar](#nr-285)
 Event Date: 03-05-2014 - Session time: 00:00:00 - Track: 11 Express Toll Lane ETL
 ## Speaker: Allen White
 ## Title: Automate Your ETL Infrastructure with SSIS and PowerShell

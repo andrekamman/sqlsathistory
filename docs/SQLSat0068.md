@@ -1,3 +1,4 @@
+#### Nr: 68
 #### [Back to Main list](index.md)
 # SQLSaturday #68 - Olympia 2011
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28841
 # Managing Sparse Resources with Resource Governor
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 151
 ## Speaker: Arie Jones
 ## Title: Managing Sparse Resources with Resource Governor
@@ -32,7 +33,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 151
 #  
 #### SessionID: 28842
 # Monitoring Data Changes with Change Data Capture 
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 252
 ## Speaker: Arie Jones
 ## Title: Monitoring Data Changes with Change Data Capture 
@@ -41,7 +42,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 252
 #  
 #### SessionID: 29354
 # Cloud computing for the Data Professional
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 252
 ## Speaker: Buck Woody
 ## Title: Cloud computing for the Data Professional
@@ -50,7 +51,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 252
 #  
 #### SessionID: 29463
 # Strategies for Working with VLDBs
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 352
 ## Speaker: Robert Davis
 ## Title: Strategies for Working with VLDBs
@@ -59,7 +60,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 352
 #  
 #### SessionID: 29983
 # Get the most out of SQL Server Standard Edition
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 351
 ## Speaker: Diane Robey
 ## Title: Get the most out of SQL Server Standard Edition
@@ -68,7 +69,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 351
 #  
 #### SessionID: 30194
 # Solving Real Life Production Issues
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 351
 ## Speaker: Dale Cunningham
 ## Title: Solving Real Life Production Issues
@@ -77,7 +78,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 351
 #  
 #### SessionID: 30287
 # Through the Looking-Glass 
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 252
 ## Speaker: Greg Larsen
 ## Title: Through the Looking-Glass 
@@ -89,7 +90,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 252
 #  
 #### SessionID: 30326
 # Self Service BI in SQL Server 2008 R2 (PowerPivot)
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 151
 ## Speaker: Hope Foley
 ## Title: Self Service BI in SQL Server 2008 R2 (PowerPivot)
@@ -98,7 +99,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 151
 #  
 #### SessionID: 30367
 # Basic Performance Tips and Gotchas
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 352
 ## Speaker: Rick Morelan
 ## Title: Basic Performance Tips and Gotchas
@@ -107,7 +108,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 352
 #  
 #### SessionID: 30920
 # Load-balancing architectures for Online Reporting 
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 252
 ## Speaker: John Halunen  Aubra Moore
 ## Title: Load-balancing architectures for Online Reporting 
@@ -116,7 +117,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 252
 #  
 #### SessionID: 32072
 # Powershell: Are you checking out my profile?
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 351
 ## Speaker: Nicholas Cain
 ## Title: Powershell: Are you checking out my profile?
@@ -126,7 +127,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 351
 #  
 #### SessionID: 32172
 # Visual Report Design: Bringing Sexy Back
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 151
 ## Speaker: Paul Turley
 ## Title: Visual Report Design: Bringing Sexy Back
@@ -135,7 +136,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 151
 #  
 #### SessionID: 32681
 # A DBA Looks at Relational Data Warehouses
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 352
 ## Speaker: Ron Talmage
 ## Title: A DBA Looks at Relational Data Warehouses
@@ -146,7 +147,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 352
 #  
 #### SessionID: 32812
 # SSIS for the faint of heart
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 352
 ## Speaker: Scott Stauffer
 ## Title: SSIS for the faint of heart
@@ -155,7 +156,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 352
 #  
 #### SessionID: 32973
 # Women in Technology
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 351
 ## Speaker: Sopheap Suy
 ## Title: Women in Technology
@@ -164,7 +165,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 351
 #  
 #### SessionID: 33041
 # Inside and out of Transactional Replication
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 252
 ## Speaker: Chuck Lathrope
 ## Title: Inside and out of Transactional Replication
@@ -173,7 +174,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 252
 #  
 #### SessionID: 33775
 # Row Level Security and SQL-CLR integration
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 151
 ## Speaker: Toshi Watanabe
 ## Title: Row Level Security and SQL-CLR integration
@@ -182,7 +183,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 151
 #  
 #### SessionID: 34682
 # Query Plans
-#### [Back to calendar](#SQLSaturday-#68-Olympia-2011)
+#### [Back to calendar](#nr-68)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: 352
 ## Speaker: John Huang
 ## Title: Query Plans

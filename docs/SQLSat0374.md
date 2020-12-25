@@ -1,3 +1,4 @@
+#### Nr: 374
 #### [Back to Main list](index.md)
 # SQLSaturday #374 - Vienna 2015
 Start Time (24h)|Speaker|Track|Title
@@ -26,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10939
 # Top 5 T-SQL Improvements in SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Boris Hristov
 ## Title: Top 5 T-SQL Improvements in SQL Server 2014
@@ -35,7 +36,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 12478
 # Putting Your head in the Cloud– A Beginner’s Guide to Cloud Computing and SQL Azure
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: David Postlethwaite
 ## Title: Putting Your head in the Cloud– A Beginner’s Guide to Cloud Computing and SQL Azure
@@ -45,7 +46,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 13553
 # Identity Mapping and De-Duplicating 
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Dejan Sarka
 ## Title: Identity Mapping and De-Duplicating 
@@ -54,7 +55,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14370
 # Dos and don’ts of database corruption
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Gail Shaw
 ## Title: Dos and don’ts of database corruption
@@ -69,7 +70,7 @@ In this session we’ll look at
 #  
 #### SessionID: 18602
 # Azure Big Data Solution – automation of deployment
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kenneth Nielsen
 ## Title: Azure Big Data Solution – automation of deployment
@@ -88,7 +89,7 @@ Show how to make creation and deletion of AZURE elements automatically as part o
 #  
 #### SessionID: 19014
 # A journey to Power BI
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Leila Etaati
 ## Title: A journey to Power BI
@@ -103,7 +104,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19381
 # Top 10 configuration mistakes that affect your SQL Server performance
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Margarita Naumova
 ## Title: Top 10 configuration mistakes that affect your SQL Server performance
@@ -112,7 +113,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19698
 # Azure Hands-On Workshop #1. (Bring your own Laptop!)
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Azure Hands-On Workshop #1. (Bring your own Laptop!)
@@ -121,7 +122,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 19715
 # Volkskrankheit „Stiefmütterliche Indizierung“
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Markus Winand
 ## Title: Volkskrankheit „Stiefmütterliche Indizierung“
@@ -130,7 +131,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 20761
 # SQL Server 2014 and Ascending Key Problem in Large Tables
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Miloš Radivojević
 ## Title: SQL Server 2014 and Ascending Key Problem in Large Tables
@@ -140,7 +141,7 @@ In this session we’ll show how to identify columns with ascending keys and als
 #  
 #### SessionID: 20820
 # Extended events in action
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Miroslav Dimitrov
 ## Title: Extended events in action
@@ -149,7 +150,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22023
 # Introduction to Time Series Forecasting
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Peter Myers
 ## Title: Introduction to Time Series Forecasting
@@ -162,7 +163,7 @@ Topics will include Analysis Services forecasting by using the Microsoft Time Se
 #  
 #### SessionID: 23392
 # Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Rodney Landrum
 ## Title: Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
@@ -171,7 +172,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24226
 # Top 5 SQL Server 2014 Hybrid Cloud Features
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Scott Klein
 ## Title: Top 5 SQL Server 2014 Hybrid Cloud Features
@@ -180,7 +181,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 27170
 # Mathematical modeling and Azure Machine Learning - drag, drop, predict
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Tanja Vukov
 ## Title: Mathematical modeling and Azure Machine Learning - drag, drop, predict
@@ -189,7 +190,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27263
 # CDC - Change Data Capture in Detail
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Uwe Ricken
 ## Title: CDC - Change Data Capture in Detail
@@ -201,7 +202,7 @@ The demo is based on a real scenario which has been implemented that way!
 #  
 #### SessionID: 27358
 # How to recover deleted data with no backups?
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Vedran Kesegic
 ## Title: How to recover deleted data with no backups?
@@ -211,7 +212,7 @@ It is nearly impossible to recover the lost data from that situation. But I will
 #  
 #### SessionID: 28263
 # Professionelles Recycling – SSIS Custom Control Flow Komponenten und Visual Studio Community
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Wolfgang Strasser
 ## Title: Professionelles Recycling – SSIS Custom Control Flow Komponenten und Visual Studio Community
@@ -222,7 +223,7 @@ In dieser Session werden die notwendigen Entwicklungsschritte, das Zusammenspiel
 #  
 #### SessionID: 34912
 # So you are a BI Developer by Accident
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Zoltán Horváth
 ## Title: So you are a BI Developer by Accident
@@ -232,7 +233,7 @@ The session also helps those who are planning to introduce the BI-related servic
 #  
 #### SessionID: 8787
 # ETL on Cloud? Azure Data Factory 
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Reza Rad
 ## Title: ETL on Cloud? Azure Data Factory 
@@ -241,7 +242,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9451
 # Azure Hands-On Workshop #2 (re-run). (Bring your own Laptop!)
-#### [Back to calendar](#SQLSaturday-#374-Vienna-2015)
+#### [Back to calendar](#nr-374)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Andreas Schabus
 ## Title: Azure Hands-On Workshop #2 (re-run). (Bring your own Laptop!)

@@ -1,3 +1,4 @@
+#### Nr: 357
 #### [Back to Main list](index.md)
 # SQLSaturday #357 - Cleveland 2015
 Start Time (24h)|Speaker|Track|Title
@@ -41,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10270
 # PoShDBA: Practical PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 4
 ## Speaker: Ben Miller
 ## Title: PoShDBA: Practical PowerShell for the DBA
@@ -50,7 +51,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 4
 #  
 #### SessionID: 11129
 # Swimming in the Deep End with SSIS
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 1
 ## Speaker: Julie Smith
 ## Title: Swimming in the Deep End with SSIS
@@ -59,7 +60,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 1
 #  
 #### SessionID: 11677
 # SSAS, MD.: Tuning your cubes for fast processing and faster queries
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 5
 ## Speaker: Chris Schmidt
 ## Title: SSAS, MD.: Tuning your cubes for fast processing and faster queries
@@ -68,7 +69,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 5
 #  
 #### SessionID: 11782
 # Enterprise-level auditing on a Standard Edition budget
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 4
 ## Speaker: Colleen Morrow
 ## Title: Enterprise-level auditing on a Standard Edition budget
@@ -77,7 +78,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 4
 #  
 #### SessionID: 12041
 # Hardening SQL Server
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 4
 ## Speaker: Craig Purnell
 ## Title: Hardening SQL Server
@@ -86,7 +87,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 4
 #  
 #### SessionID: 13340
 # The usual SUSPECTs: When good databases go bad.
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 4
 ## Speaker: David Maxwell
 ## Title: The usual SUSPECTs: When good databases go bad.
@@ -98,7 +99,7 @@ learn the proper techniques to bring your data safely back online.
 #  
 #### SessionID: 14199
 # APPLY Yourself
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Auditorium
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
@@ -107,7 +108,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Auditorium
 #  
 #### SessionID: 15002
 # Spatial Data - Looking Outside the Map
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 5
 ## Speaker: Hope Foley
 ## Title: Spatial Data - Looking Outside the Map
@@ -116,7 +117,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 5
 #  
 #### SessionID: 15744
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 2
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
@@ -125,7 +126,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 2
 #  
 #### SessionID: 15774
 # Troubleshooting SQL Server Performance Using Wait Stats
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 3
 ## Speaker: Jim Arko
 ## Title: Troubleshooting SQL Server Performance Using Wait Stats
@@ -134,7 +135,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 3
 #  
 #### SessionID: 16065
 # Partitioning System for "WORM" Tables - Part 1 - The Theory and the Problems
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 2
 ## Speaker: Jeff Moden
 ## Title: Partitioning System for "WORM" Tables - Part 1 - The Theory and the Problems
@@ -143,7 +144,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 2
 #  
 #### SessionID: 16066
 # Partitioning System for "WORM" Tables - Part 2 - Deep Dive on the Code
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 2
 ## Speaker: Jeff Moden
 ## Title: Partitioning System for "WORM" Tables - Part 2 - Deep Dive on the Code
@@ -152,7 +153,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 2
 #  
 #### SessionID: 16234
 # Who Moved My Tuple--Columnstore Indexes in SQL Server 2014.
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 2
 ## Speaker: Joseph D'Antoni
 ## Title: Who Moved My Tuple--Columnstore Indexes in SQL Server 2014.
@@ -163,7 +164,7 @@ Data Warehouse workloads can be very large and taxing on your database server. W
 #  
 #### SessionID: 16279
 # Working with BimlScript to ease and automate your SSIS development
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 1
 ## Speaker: Jeff Mlakar
 ## Title: Working with BimlScript to ease and automate your SSIS development
@@ -172,7 +173,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 1
 #  
 #### SessionID: 17238
 # Working with Data Types
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 5
 ## Speaker: John Deardurff
 ## Title: Working with Data Types
@@ -181,7 +182,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 5
 #  
 #### SessionID: 18080
 # Transactional Replication: Tuning and Troubleshooting
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 4
 ## Speaker: Kendal Van Dyke
 ## Title: Transactional Replication: Tuning and Troubleshooting
@@ -194,7 +195,7 @@ Session Goals:
 #  
 #### SessionID: 18580
 # Turbo Boost Performance: In Memory Tables index optimizations
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 2
 ## Speaker: Konstantin Melamud
 ## Title: Turbo Boost Performance: In Memory Tables index optimizations
@@ -203,7 +204,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 2
 #  
 #### SessionID: 18875
 # Think like SSIS and Build a package
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 1
 ## Speaker: Ravi Kumar
 ## Title: Think like SSIS and Build a package
@@ -212,7 +213,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 1
 #  
 #### SessionID: 19849
 # Building dynamic SSIS packages for more flexibility
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 1
 ## Speaker: Matt Nelson
 ## Title: Building dynamic SSIS packages for more flexibility
@@ -221,7 +222,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 1
 #  
 #### SessionID: 20047
 # Before You Optimize: Understanding Execution Plans
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 3
 ## Speaker: Tim Corey
 ## Title: Before You Optimize: Understanding Execution Plans
@@ -230,7 +231,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 3
 #  
 #### SessionID: 20236
 # Database Virtualization and Drinking out of the Fire Hose
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 3
 ## Speaker: Michael Corey
 ## Title: Database Virtualization and Drinking out of the Fire Hose
@@ -239,7 +240,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 3
 #  
 #### SessionID: 20779
 # The Ins and Outs of SQL Indexes
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 3
 ## Speaker: Mindy Curnutt
 ## Title: The Ins and Outs of SQL Indexes
@@ -248,7 +249,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 3
 #  
 #### SessionID: 20841
 # Drawing Conclusions
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 5
 ## Speaker: Michael Swart
 ## Title: Drawing Conclusions
@@ -258,7 +259,7 @@ I often blog about my DB Developer life in a very visual way. I explore a subset
 #  
 #### SessionID: 20966
 # Handling catch all or sometimes queries
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Auditorium
 ## Speaker: Michael John
 ## Title: Handling catch all or sometimes queries
@@ -271,7 +272,7 @@ Michael John is a Senior DBA with almost 20 years experience working and solving
 #  
 #### SessionID: 21145
 # What Every DBA Needs To Know About Storage For SQL Server
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 3
 ## Speaker: Matt Slocum
 ## Title: What Every DBA Needs To Know About Storage For SQL Server
@@ -282,7 +283,7 @@ In this session we will discuss RAID types, Local/Direct Attached Storage vs SAN
 #  
 #### SessionID: 22082
 # Common Coding Mistakes and how to Mitigate them
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Auditorium
 ## Speaker: William Wolf
 ## Title: Common Coding Mistakes and how to Mitigate them
@@ -291,7 +292,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Auditorium
 #  
 #### SessionID: 22122
 # Interactive Data Visualizations in Power View 
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 5
 ## Speaker: Phillip Labry
 ## Title: Interactive Data Visualizations in Power View 
@@ -300,7 +301,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 5
 #  
 #### SessionID: 25727
 # Fixing Page Life Expectancy
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 2
 ## Speaker: Steve Hood
 ## Title: Fixing Page Life Expectancy
@@ -309,7 +310,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 2
 #  
 #### SessionID: 27566
 # DBA Monitoring and Maintenance Fundamentals
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 3
 ## Speaker: Warren Sifre
 ## Title: DBA Monitoring and Maintenance Fundamentals
@@ -318,7 +319,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 3
 #  
 #### SessionID: 27740
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Auditorium
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -327,7 +328,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Auditorium
 #  
 #### SessionID: 27826
 # SQL Server in Azure
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 4
 ## Speaker: Wendy Pastrick
 ## Title: SQL Server in Azure
@@ -336,7 +337,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 4
 #  
 #### SessionID: 8833
 # Database Deployment with Release Management for Visual Studio
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 1
 ## Speaker: Aaron King
 ## Title: Database Deployment with Release Management for Visual Studio
@@ -345,7 +346,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 1
 #  
 #### SessionID: 8927
 # Top 5 Ways to Improve Your triggers
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Auditorium
 ## Speaker: Aaron Bertrand
 ## Title: Top 5 Ways to Improve Your triggers
@@ -354,7 +355,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Auditorium
 #  
 #### SessionID: 8950
 # T-SQL Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Auditorium
 ## Speaker: Aaron Cutshall
 ## Title: T-SQL Tips  Tricks
@@ -363,7 +364,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Auditorium
 #  
 #### SessionID: 9003
 # XML Without Xanax: How to Handle XML in SQL Server
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 5
 ## Speaker: Adam Belebczuk
 ## Title: XML Without Xanax: How to Handle XML in SQL Server
@@ -376,7 +377,7 @@ If you survive this session, you'll have faced your fears about XML in SQL Serve
 #  
 #### SessionID: 9968
 # The Data Warehouse is Dead! Long Live the Data Warehouse! 
-#### [Back to calendar](#SQLSaturday-#357-Cleveland-2015)
+#### [Back to calendar](#nr-357)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Training 1
 ## Speaker: Audrey Hammonds
 ## Title: The Data Warehouse is Dead! Long Live the Data Warehouse! 

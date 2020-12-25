@@ -1,3 +1,4 @@
+#### Nr: 71
 #### [Back to Main list](index.md)
 # SQLSaturday #71 - Boston 2011
 Start Time (24h)|Speaker|Track|Title
@@ -39,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28436
 # T-SQL : Bad Habits to Kick
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Performance/Monitoring
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits to Kick
@@ -48,7 +49,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Performance/Monitoring
 #  
 #### SessionID: 28475
 # High Performance SSIS Dimensional Datamart ETL
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: SSIS/ETL
 ## Speaker: Michael Coles
 ## Title: High Performance SSIS Dimensional Datamart ETL
@@ -57,7 +58,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: SSIS/ETL
 #  
 #### SessionID: 28551
 # Understanding Indexes in SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Data Development
 ## Speaker: Andrew Kelly
 ## Title: Understanding Indexes in SQL Server 2008
@@ -66,7 +67,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Data Development
 #  
 #### SessionID: 28552
 # Maximizing Plan Re-use in SQL 2008
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Data Development
 ## Speaker: Andrew Kelly
 ## Title: Maximizing Plan Re-use in SQL 2008
@@ -75,7 +76,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Data Development
 #  
 #### SessionID: 28607
 # So Many High Availability Options, So Little Time
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Infrastructure
 ## Speaker: Allan Hirt
 ## Title: So Many High Availability Options, So Little Time
@@ -84,7 +85,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Infrastructure
 #  
 #### SessionID: 28637
 # 15 Powerful SQL Server Dynamic Management Objects
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Performance/Monitoring
 ## Speaker: Adam Machanic
 ## Title: 15 Powerful SQL Server Dynamic Management Objects
@@ -93,7 +94,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Performance/Monitoring
 #  
 #### SessionID: 28680
 # SSIS - The New Stuff
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: SSIS/ETL
 ## Speaker: Andy Leonard
 ## Title: SSIS - The New Stuff
@@ -106,7 +107,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: SSIS/ETL
 #  
 #### SessionID: 28682
 # “I See a Control Flow Tab. Now What?” 
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: SSIS/ETL
 ## Speaker: Andy Leonard
 ## Title: “I See a Control Flow Tab. Now What?” 
@@ -115,7 +116,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: SSIS/ETL
 #  
 #### SessionID: 28939
 # Gather SQL Server Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Performance/Monitoring
 ## Speaker: Allen White
 ## Title: Gather SQL Server Performance Data with PowerShell
@@ -124,7 +125,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Performance/Monitoring
 #  
 #### SessionID: 28940
 # Let Service Broker Help You Scale Your Application
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Future Directions
 ## Speaker: Allen White
 ## Title: Let Service Broker Help You Scale Your Application
@@ -133,7 +134,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Future Directions
 #  
 #### SessionID: 28956
 # SQL Server 2008 Auditing
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Infrastructure
 ## Speaker: Ayad Shammout
 ## Title: SQL Server 2008 Auditing
@@ -143,7 +144,7 @@ If you’d like to know the answers, this session is for you, I will cover the t
 #  
 #### SessionID: 28990
 # PowerPivot, Idea to Solution in 60 Minutes
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Barry Ralston
 ## Title: PowerPivot, Idea to Solution in 60 Minutes
@@ -152,7 +153,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 29511
 # "Extra Eyes" for Monitoring SQL Server
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Performance/Monitoring
 ## Speaker: Chris Skorlinski
 ## Title: "Extra Eyes" for Monitoring SQL Server
@@ -161,7 +162,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Performance/Monitoring
 #  
 #### SessionID: 29577
 # Storing Data in the Cloud: Beyond SQL Azure
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Future Directions
 ## Speaker: Bill Wilder
 ## Title: Storing Data in the Cloud: Beyond SQL Azure
@@ -170,7 +171,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Future Directions
 #  
 #### SessionID: 29610
 # Inroduction to Triggers
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Future Directions
 ## Speaker: Jack Corbett
 ## Title: Inroduction to Triggers
@@ -179,7 +180,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Future Directions
 #  
 #### SessionID: 29643
 # Database Mirroring in the Real World
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Infrastructure
 ## Speaker: Craig Purnell
 ## Title: Database Mirroring in the Real World
@@ -188,7 +189,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Infrastructure
 #  
 #### SessionID: 30378
 # Axis Technology: Data Masking
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Data Development
 ## Speaker: 
 ## Title: Axis Technology: Data Masking
@@ -197,7 +198,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Data Development
 #  
 #### SessionID: 30379
 # Creating a Metadata Mart wi/SSIS - Data Governance
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: SSIS/ETL
 ## Speaker: Ira Warren
 ## Title: Creating a Metadata Mart wi/SSIS - Data Governance
@@ -206,7 +207,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: SSIS/ETL
 #  
 #### SessionID: 30410
 # Career Development for Local SQL Professionals
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Future Directions
 ## Speaker: Jason Alexander
 ## Title: Career Development for Local SQL Professionals
@@ -215,7 +216,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Future Directions
 #  
 #### SessionID: 30638
 # Building your first SQL Cluster
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Infrastructure
 ## Speaker: Joseph D'Antoni
 ## Title: Building your first SQL Cluster
@@ -224,7 +225,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Infrastructure
 #  
 #### SessionID: 30657
 # Introduction to Developing with SQL Azure 
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Future Directions
 ## Speaker: Jeff Mlakar
 ## Title: Introduction to Developing with SQL Azure 
@@ -233,7 +234,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Future Directions
 #  
 #### SessionID: 30822
 # Encryption in SQL 2008 R2 - Column and TDE
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Data Development
 ## Speaker: John Flannery
 ## Title: Encryption in SQL 2008 R2 - Column and TDE
@@ -243,7 +244,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Data Development
 #  
 #### SessionID: 31196
 # Women in Technology
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: SSIS/ETL
 ## Speaker: Karen Lopez
 ## Title: Women in Technology
@@ -258,7 +259,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: SSIS/ETL
 #  
 #### SessionID: 31197
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Data Development
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -267,7 +268,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Data Development
 #  
 #### SessionID: 31535
 # Self Service BI on a Budget
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Rob MacNaughton
 ## Title: Self Service BI on a Budget
@@ -276,7 +277,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 31608
 # SSIS Performance Design Patterns
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: SSIS/ETL
 ## Speaker: Matt Masson
 ## Title: SSIS Performance Design Patterns
@@ -285,7 +286,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: SSIS/ETL
 #  
 #### SessionID: 31833
 # Consolidation and Virtualization: A Success Story
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Infrastructure
 ## Speaker: Mike Hillwig
 ## Title: Consolidation and Virtualization: A Success Story
@@ -296,7 +297,7 @@ When Mike Hillwig inherited his SQL environment, he had 14 SQL Server instances,
 #  
 #### SessionID: 32041
 # As A DBA, Where Do I Start?!
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mike Walsh
 ## Title: As A DBA, Where Do I Start?!
@@ -305,7 +306,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 32192
 # SQL Query Optimization - It's Not Rocket Science!
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Performance/Monitoring
 ## Speaker: Paul White
 ## Title: SQL Query Optimization - It's Not Rocket Science!
@@ -314,7 +315,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Performance/Monitoring
 #  
 #### SessionID: 32972
 # Vendor Session - Red Gate
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Performance/Monitoring
 ## Speaker: 
 ## Title: Vendor Session - Red Gate
@@ -323,7 +324,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Performance/Monitoring
 #  
 #### SessionID: 33153
 # Database Design for mere developers
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Data Development
 ## Speaker: Steve Simon
 ## Title: Database Design for mere developers
@@ -333,7 +334,7 @@ In this session, (aimed at software developers) we shall be touching upon severa
 #  
 #### SessionID: 33194
 # WhereScape: Data Integration and Transformation
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: SSIS/ETL
 ## Speaker: Douglas Barrett
 ## Title: WhereScape: Data Integration and Transformation
@@ -342,7 +343,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: SSIS/ETL
 #  
 #### SessionID: 33265
 # Interactive Dashboards with PerformancePoint 2010
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Sunil Kadimdiwan
 ## Title: Interactive Dashboards with PerformancePoint 2010
@@ -351,7 +352,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 33847
 # Introduction to MDX
-#### [Back to calendar](#SQLSaturday-#71-Boston-2011)
+#### [Back to calendar](#nr-71)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Slava Kokaev
 ## Title: Introduction to MDX

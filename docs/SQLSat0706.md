@@ -1,3 +1,4 @@
+#### Nr: 706
 #### [Back to Main list](index.md)
 # SQLSaturday #706 - Wellington 2018
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 69944
 # Kick Start! SQL Server 2016/2017 Performance Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration  Deployment
 ## Speaker: Pinal Dave
 ## Title: Kick Start! SQL Server 2016/2017 Performance Tips and Tricks
@@ -51,7 +52,7 @@ This 75 minutes will be the most productive time for any DBA and Developer, who 
 #  
 #### SessionID: 69986
 # Azure Analysis Services rocks!
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Alzamendi
 ## Title: Azure Analysis Services rocks!
@@ -64,7 +65,7 @@ I will also explain why we should take it into account for our solutions and how
 #  
 #### SessionID: 71183
 # When Things go Wrong - Error Handling in SQL Server
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Cloud/Enterprise Application Development  Deployment
 ## Speaker: Erland Sommarskog
 ## Title: When Things go Wrong - Error Handling in SQL Server
@@ -75,7 +76,7 @@ This presentation starts with a horror show of the many different actions SQL Se
 #  
 #### SessionID: 71979
 # SQL Server 2017 with Python  R: On-premises Machine Learning
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Advanced Analytics and Information Delivery
 ## Speaker: Leila Etaati
 ## Title: SQL Server 2017 with Python  R: On-premises Machine Learning
@@ -84,7 +85,7 @@ Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Advanced Analytics and 
 #  
 #### SessionID: 70414
 # A Beginners Guide to HA/DR
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: A Beginners Guide to HA/DR
@@ -93,7 +94,7 @@ Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 71621
 # What do you mean there are no maintenance Windows?
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration  Deployment
 ## Speaker: Dave Dustin
 ## Title: What do you mean there are no maintenance Windows?
@@ -105,7 +106,7 @@ In this session we’re going to look at real world problems faced by many organ
 #  
 #### SessionID: 71977
 # Introduction to DAX
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Advanced Analytics and Information Delivery
 ## Speaker: Reza Rad
 ## Title: Introduction to DAX
@@ -114,7 +115,7 @@ Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Advanced Analytics and 
 #  
 #### SessionID: 74446
 # The Smart Way to Troubleshoot SQL Server Always On Cluster and Av
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration  Deployment
 ## Speaker: Edwin M Sarmiento
 ## Title: The Smart Way to Troubleshoot SQL Server Always On Cluster and Av
@@ -125,7 +126,7 @@ This session will look at understanding how the underlying WSFC platform works t
 #  
 #### SessionID: 69975
 # DevOPs and the DBA
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration  Deployment
 ## Speaker: Hamish Watson
 ## Title: DevOPs and the DBA
@@ -144,7 +145,7 @@ Through the use of a comprehensive live demo to a running database hosted in Azu
 #  
 #### SessionID: 70137
 # Flex your data muscles from DBA Workbench
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Satya Jayanty
 ## Title: Flex your data muscles from DBA Workbench
@@ -158,7 +159,7 @@ This session focus is upon what-to-do and what-not-to-do in your data platform u
 #  
 #### SessionID: 70333
 # Advanced DAX for the SQL Professional
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Seamark
 ## Title: Advanced DAX for the SQL Professional
@@ -169,7 +170,7 @@ We will create data from thin air and show how you can shape your data model usi
 #  
 #### SessionID: 71015
 # SQL Server on Linux? Yes, Linux!
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration  Deployment
 ## Speaker: Mohamed Mawla
 ## Title: SQL Server on Linux? Yes, Linux!
@@ -180,7 +181,7 @@ The session will explore the essential skills needed to manage SQL server on Lin
 #  
 #### SessionID: 71914
 # Using SQL as the basis for analysis in Python - Walking through an example on Kiwisaver in NZ
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Advanced Analytics and Information Delivery
 ## Speaker: Emma Vitz
 ## Title: Using SQL as the basis for analysis in Python - Walking through an example on Kiwisaver in NZ
@@ -195,7 +196,7 @@ Once this is done, we can calculate new summary statistics using SQL within Pyth
 #  
 #### SessionID: 70780
 # Machine Learning Services in SQL Server, Featuring Dinosaurs!
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Carryer
 ## Title: Machine Learning Services in SQL Server, Featuring Dinosaurs!
@@ -208,7 +209,7 @@ In this session, I'll give a brief overview of the results of my investigation, 
 #  
 #### SessionID: 70086
 # Split, Merge and Eliminate - An Introduction to Partitioning
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration  Deployment
 ## Speaker: Martin Cairney
 ## Title: Split, Merge and Eliminate - An Introduction to Partitioning
@@ -218,7 +219,7 @@ In this session we'll cover the basics of partitioning - from getting started wi
 #  
 #### SessionID: 70092
 # Azure Machine Learning and its real world use cases
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Advanced Analytics and Information Delivery
 ## Speaker: Ram Katepally
 ## Title: Azure Machine Learning and its real world use cases
@@ -229,7 +230,7 @@ This should also get you accustomed to ML concepts like regression, classificati
 #  
 #### SessionID: 71563
 # Zero to Pi to 10 on Cloud,Intro to Windows 10 IoT Core on a Raspberry Pi and BI using Azure IoT Hub
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arohan Naidoo
 ## Title: Zero to Pi to 10 on Cloud,Intro to Windows 10 IoT Core on a Raspberry Pi and BI using Azure IoT Hub
@@ -238,7 +239,7 @@ Event Date: 17-02-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 71634
 # GDPR - What is it? Why should I care?
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Cloud/Enterprise Application Development  Deployment
 ## Speaker: Julie Woolner
 ## Title: GDPR - What is it? Why should I care?
@@ -253,7 +254,7 @@ For specific guidance for your company, please seek specialised legal advice. I 
 #  
 #### SessionID: 73966
 # What SQL Server DBAs Need To Know About Distributed Availability
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration  Deployment
 ## Speaker: Edwin M Sarmiento
 ## Title: What SQL Server DBAs Need To Know About Distributed Availability
@@ -262,7 +263,7 @@ Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 70473
 # DBATools! The reason to finally start learning and using Powershell
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: DBATools! The reason to finally start learning and using Powershell
@@ -278,7 +279,7 @@ No prior experience with Powershell required!
 #  
 #### SessionID: 71695
 # Data Privacy and the Data Professional.
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration  Deployment
 ## Speaker: Martin Catherall
 ## Title: Data Privacy and the Data Professional.
@@ -292,7 +293,7 @@ Come along to this session and hear how you and your team can lessen your chance
 #  
 #### SessionID: 71975
 # Ultimate Security and Sharing in Power BI
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: Ultimate Security and Sharing in Power BI
@@ -301,7 +302,7 @@ Event Date: 17-02-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 72013
 # Power BI Report Server Demystified
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Advanced Analytics and Information Delivery
 ## Speaker: Indira Bandari
 ## Title: Power BI Report Server Demystified
@@ -315,7 +316,7 @@ This session will cover
 #  
 #### SessionID: 71992
 # Migrating SQL Server to AWS Cloud
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration  Deployment
 ## Speaker: Steven Ensslen
 ## Title: Migrating SQL Server to AWS Cloud
@@ -324,7 +325,7 @@ Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 74272
 # Networking with Women
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Women in Technology
 ## Speaker: Anupama Natarajan
 ## Title: Networking with Women
@@ -333,7 +334,7 @@ Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Women in Technology
 #  
 #### SessionID: 69958
 # Hidden "Gems" in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration  Deployment
 ## Speaker: Victor Isakov
 ## Title: Hidden "Gems" in SQL Server 2017
@@ -342,7 +343,7 @@ Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 70384
 # Troubleshooting Issues with Extended Events in real time
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Database Administration  Deployment
 ## Speaker: Dharmendra Keshari
 ## Title: Troubleshooting Issues with Extended Events in real time
@@ -352,7 +353,7 @@ Extended Events were introduced in SQL Server 2008 but by SQL Server 2016, it ha
 #  
 #### SessionID: 71967
 # Real-Time Data Processing - How do I choose the Right Solution
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Advanced Analytics and Information Delivery
 ## Speaker: Anupama Natarajan
 ## Title: Real-Time Data Processing - How do I choose the Right Solution
@@ -367,7 +368,7 @@ In this session you will learn about different Real-Time Data Processing solutio
 #  
 #### SessionID: 74291
 # Introduction to Data Vault
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Bradley
 ## Title: Introduction to Data Vault
@@ -388,7 +389,7 @@ Where to go for more information.
 #  
 #### SessionID: 74445
 # MDX Cubes and Azure
-#### [Back to calendar](#SQLSaturday-#706-Wellington-2018)
+#### [Back to calendar](#nr-706)
 Event Date: 17-02-2018 - Session time: 16:00:00 - Track: Advanced Analytics and Information Delivery
 ## Speaker: Phillip Seamark
 ## Title: MDX Cubes and Azure

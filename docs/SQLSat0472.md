@@ -1,3 +1,4 @@
+#### Nr: 472
 #### [Back to Main list](index.md)
 # SQLSaturday #472 - Santiago 2015
 Start Time (24h)|Speaker|Track|Title
@@ -16,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 42609
 # Simplificando Big Data a trav#233;s de Azure Data Lake
-#### [Back to calendar](#SQLSaturday-#472-Santiago-2015)
+#### [Back to calendar](#nr-472)
 Event Date: 12-12-2015 - Session time: 15:15:00 - Track: BI / Analytics
 ## Speaker: Wilson Chiesa
 ## Title: Simplificando Big Data a trav#233;s de Azure Data Lake
@@ -25,7 +26,7 @@ Event Date: 12-12-2015 - Session time: 15:15:00 - Track: BI / Analytics
 #  
 #### SessionID: 41808
 # Power BI, Sharepoint y SQL Servver, una gran conversaci#243;n
-#### [Back to calendar](#SQLSaturday-#472-Santiago-2015)
+#### [Back to calendar](#nr-472)
 Event Date: 12-12-2015 - Session time: 15:15:00 - Track: BI / Analytics
 ## Speaker: Rolando Escobar
 ## Title: Power BI, Sharepoint y SQL Servver, una gran conversaci#243;n
@@ -36,7 +37,7 @@ Event Date: 12-12-2015 - Session time: 15:15:00 - Track: BI / Analytics
 #  
 #### SessionID: 41954
 # SQL Server para Aplicaciones, Cloud y On-Premise
-#### [Back to calendar](#SQLSaturday-#472-Santiago-2015)
+#### [Back to calendar](#nr-472)
 Event Date: 12-12-2015 - Session time: 15:15:00 - Track: DBA / Cloud
 ## Speaker: Luis A. Hereira Aguilera
 ## Title: SQL Server para Aplicaciones, Cloud y On-Premise
@@ -45,7 +46,7 @@ Event Date: 12-12-2015 - Session time: 15:15:00 - Track: DBA / Cloud
 #  
 #### SessionID: 41656
 # Migraci#243;n de BD SQL Server hacia Azure SQLDB
-#### [Back to calendar](#SQLSaturday-#472-Santiago-2015)
+#### [Back to calendar](#nr-472)
 Event Date: 12-12-2015 - Session time: 15:15:00 - Track: DBA / Cloud
 ## Speaker: Tomas Stevanovic
 ## Title: Migraci#243;n de BD SQL Server hacia Azure SQLDB
@@ -56,7 +57,7 @@ En esta sesi#243;n vamos a aprender las mejores pr#225;cticas para que a partir 
 #  
 #### SessionID: 41783
 # Caso Pr#225;ctico: Procesamiento BD columnar en Cloud
-#### [Back to calendar](#SQLSaturday-#472-Santiago-2015)
+#### [Back to calendar](#nr-472)
 Event Date: 12-12-2015 - Session time: 15:15:00 - Track: BI / Analytics
 ## Speaker: Cristian Lopez
 ## Title: Caso Pr#225;ctico: Procesamiento BD columnar en Cloud
@@ -67,7 +68,7 @@ Casos de uso
 #  
 #### SessionID: 41632
 # Tips para optimizar nuestros ETL con SSIS
-#### [Back to calendar](#SQLSaturday-#472-Santiago-2015)
+#### [Back to calendar](#nr-472)
 Event Date: 12-12-2015 - Session time: 15:15:00 - Track: BI / Analytics
 ## Speaker: Marco Ramirez
 ## Title: Tips para optimizar nuestros ETL con SSIS
@@ -76,7 +77,7 @@ Event Date: 12-12-2015 - Session time: 15:15:00 - Track: BI / Analytics
 #  
 #### SessionID: 41647
 # Nuevas caracter#237;sticas en SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#472-Santiago-2015)
+#### [Back to calendar](#nr-472)
 Event Date: 12-12-2015 - Session time: 15:15:00 - Track: DBA / Cloud
 ## Speaker: Kamal Valero
 ## Title: Nuevas caracter#237;sticas en SQL Server 2016
@@ -85,7 +86,7 @@ Event Date: 12-12-2015 - Session time: 15:15:00 - Track: DBA / Cloud
 #  
 #### SessionID: 41802
 # Optimizando el desempe#241;o de SQL Server
-#### [Back to calendar](#SQLSaturday-#472-Santiago-2015)
+#### [Back to calendar](#nr-472)
 Event Date: 12-12-2015 - Session time: 15:15:00 - Track: DBA / Cloud
 ## Speaker: Isabel de la Barra
 ## Title: Optimizando el desempe#241;o de SQL Server
@@ -96,7 +97,7 @@ Conoce las herramientas que tienes disponibles tales como performance monitor, p
 #  
 #### SessionID: 41962
 # #191;Porque es importante la Seguridad en SQL Server ?
-#### [Back to calendar](#SQLSaturday-#472-Santiago-2015)
+#### [Back to calendar](#nr-472)
 Event Date: 12-12-2015 - Session time: 15:15:00 - Track: DBA / Cloud
 ## Speaker: Felipe Zuniga
 ## Title: #191;Porque es importante la Seguridad en SQL Server ?
@@ -105,7 +106,7 @@ Event Date: 12-12-2015 - Session time: 15:15:00 - Track: DBA / Cloud
 #  
 #### SessionID: 41149
 # Creaci#243;n de un Modelo de An#225;lisis Predictivo en la Nube
-#### [Back to calendar](#SQLSaturday-#472-Santiago-2015)
+#### [Back to calendar](#nr-472)
 Event Date: 12-12-2015 - Session time: 15:15:00 - Track: BI / Analytics
 ## Speaker: Patricio Cofre
 ## Title: Creaci#243;n de un Modelo de An#225;lisis Predictivo en la Nube
@@ -116,7 +117,7 @@ En esta sesi#243;n aprenderemos  a generar un modelo predictivo en la nube, opti
 #  
 #### SessionID: 41370
 # 10 Tips para SQL Server sea #191;Todos para uno y uno para todos....?
-#### [Back to calendar](#SQLSaturday-#472-Santiago-2015)
+#### [Back to calendar](#nr-472)
 Event Date: 12-12-2015 - Session time: 15:15:00 - Track: DBA / Cloud
 ## Speaker: Carlos Farias
 ## Title: 10 Tips para SQL Server sea #191;Todos para uno y uno para todos....?

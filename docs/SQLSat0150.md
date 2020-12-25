@@ -1,3 +1,4 @@
+#### Nr: 150
 #### [Back to Main list](index.md)
 # SQLSaturday #150 - Baton Rouge 2012
 Start Time (24h)|Speaker|Track|Title
@@ -60,7 +61,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10175
 # ASP.NET Web API
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Windows Phone Dev Track 
 ## Speaker: Brandon Cornett
 ## Title: ASP.NET Web API
@@ -69,7 +70,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Windows Phone Dev Track
 #  
 #### SessionID: 10470
 # WP7 - Simple texting app using MPNS and Azure
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Windows Phone Dev Track 
 ## Speaker: Billy Chism
 ## Title: WP7 - Simple texting app using MPNS and Azure
@@ -78,7 +79,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Windows Phone Dev Track
 #  
 #### SessionID: 10533
 # MicroORMs:Data Access That Won't Make Your DBA Cry
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 2
 ## Speaker: Brian Sullivan
 ## Title: MicroORMs:Data Access That Won't Make Your DBA Cry
@@ -87,7 +88,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 2
 #  
 #### SessionID: 11057
 # The New T-SQL Analytic Functions
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL Dev
 ## Speaker: Bryan Smith
 ## Title: The New T-SQL Analytic Functions
@@ -97,7 +98,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL Dev
 #  
 #### SessionID: 11058
 # Building Writeback Applications in SSAS
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 2
 ## Speaker: Bryan Smith
 ## Title: Building Writeback Applications in SSAS
@@ -107,7 +108,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 2
 #  
 #### SessionID: 11373
 # SAS and SQL -- Introduction
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL Dev
 ## Speaker: Cassius Dsouza
 ## Title: SAS and SQL -- Introduction
@@ -116,7 +117,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL Dev
 #  
 #### SessionID: 11737
 # SQL Server Best Practices for SharePoint 2010
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: Cody Gros
 ## Title: SQL Server Best Practices for SharePoint 2010
@@ -130,7 +131,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SharePoint
 #  
 #### SessionID: 11743
 # The Power of SharePoint Search
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: IT Pro
 ## Speaker: Cody Gros
 ## Title: The Power of SharePoint Search
@@ -145,7 +146,7 @@ SharePoint 2010 brings to the table an enterprise level search solution that all
 #  
 #### SessionID: 12128
 # Toastmasters. Where Leaders Are Made
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Career
 ## Speaker: Kimberly Boyd, DTM
 ## Title: Toastmasters. Where Leaders Are Made
@@ -154,7 +155,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Career
 #  
 #### SessionID: 12319
 # How to Ace The Technical Interview
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Career
 ## Speaker: David Reid
 ## Title: How to Ace The Technical Interview
@@ -163,7 +164,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Career
 #  
 #### SessionID: 13999
 # SharePoint Development for ASP.NET Developers
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: Eric Trivette
 ## Title: SharePoint Development for ASP.NET Developers
@@ -172,7 +173,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SharePoint
 #  
 #### SessionID: 14304
 # Tools, Tips and Nuget for ASP.NET Developers
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 1
 ## Speaker: Forest Marie
 ## Title: Tools, Tips and Nuget for ASP.NET Developers
@@ -182,7 +183,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 1
 #  
 #### SessionID: 15027
 # Interviewing Tips for Managers
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Career
 ## Speaker: Christine Assaf
 ## Title: Interviewing Tips for Managers
@@ -191,7 +192,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Career
 #  
 #### SessionID: 15535
 # Windows Phone Development - Visual Studio Approach
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Windows Phone Dev Track 
 ## Speaker: James Sampson
 ## Title: Windows Phone Development - Visual Studio Approach
@@ -200,7 +201,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Windows Phone Dev Track
 #  
 #### SessionID: 15536
 # Windows Phone 7 Development – Code Garage
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Windows Phone Dev Track 
 ## Speaker: James Sampson
 ## Title: Windows Phone 7 Development – Code Garage
@@ -209,7 +210,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Windows Phone Dev Track
 #  
 #### SessionID: 16035
 # ASP.Net MVC and Workflow Foundation
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 2
 ## Speaker: Jeremy Beckham
 ## Title: ASP.Net MVC and Workflow Foundation
@@ -220,7 +221,7 @@ This presentation focuses on using Workflow Foundation inside of an ASP.Net MVC 
 #  
 #### SessionID: 16482
 # T-SQL Brush-up:The Best Things You Forgot You Knew
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL Dev
 ## Speaker: Jennifer McCown
 ## Title: T-SQL Brush-up:The Best Things You Forgot You Knew
@@ -229,7 +230,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL Dev
 #  
 #### SessionID: 16483
 # Beginning T-SQL
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL Dev
 ## Speaker: Jennifer McCown
 ## Title: Beginning T-SQL
@@ -238,7 +239,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL Dev
 #  
 #### SessionID: 16620
 # 10 Things I Wish Developers Learned In College
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Career
 ## Speaker: Wayne Odom
 ## Title: 10 Things I Wish Developers Learned In College
@@ -247,7 +248,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Career
 #  
 #### SessionID: 16807
 # AlwaysOn - Finally, A usable 'mirror'!
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 1
 ## Speaker: Jim Murphy
 ## Title: AlwaysOn - Finally, A usable 'mirror'!
@@ -256,7 +257,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 1
 #  
 #### SessionID: 17327
 # Adventures in Project Management
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Career
 ## Speaker: Jonathan Gardner
 ## Title: Adventures in Project Management
@@ -270,7 +271,7 @@ At the end of the session attendees will be armed with the knowledge necessary t
 #  
 #### SessionID: 17637
 # Introducing StreamInsight 2.1
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL Dev
 ## Speaker: J Sawyer
 ## Title: Introducing StreamInsight 2.1
@@ -279,7 +280,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL Dev
 #  
 #### SessionID: 17965
 # Data Visualizations: From Zero to Hero
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 2
 ## Speaker: Kate  Treadwell
 ## Title: Data Visualizations: From Zero to Hero
@@ -288,7 +289,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 2
 #  
 #### SessionID: 18662
 # The Legend of Lambda
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 1
 ## Speaker: Chris Eargle
 ## Title: The Legend of Lambda
@@ -297,7 +298,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 1
 #  
 #### SessionID: 19622
 # Introduction to Data Quality Services
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 2
 ## Speaker: Mark Verret
 ## Title: Introduction to Data Quality Services
@@ -306,7 +307,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 2
 #  
 #### SessionID: 19623
 # Moving to a data warehouse
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 1
 ## Speaker: Mark Verret
 ## Title: Moving to a data warehouse
@@ -315,7 +316,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 1
 #  
 #### SessionID: 19630
 # Developer vs DBA: Can They Coexist?
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 2
 ## Speaker: Mark Holmes
 ## Title: Developer vs DBA: Can They Coexist?
@@ -325,7 +326,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 2
 #  
 #### SessionID: 19943
 # Nuts and Bolts of Table Compression
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 1
 ## Speaker: Mike Byrd
 ## Title: Nuts and Bolts of Table Compression
@@ -334,7 +335,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 1
 #  
 #### SessionID: 20431
 # Automated Deployment with TFS 2010 and MSDeploy
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 2
 ## Speaker: Mike Carter
 ## Title: Automated Deployment with TFS 2010 and MSDeploy
@@ -343,7 +344,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 2
 #  
 #### SessionID: 21292
 # Managing SQL Server in the Enterprise with TLAs
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 2
 ## Speaker: Nancy Hidy Wilson
 ## Title: Managing SQL Server in the Enterprise with TLAs
@@ -352,7 +353,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 2
 #  
 #### SessionID: 21294
 # SQL Server 2012 Database Engine – Why Upgrade?
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 2
 ## Speaker: Nancy Hidy Wilson
 ## Title: SQL Server 2012 Database Engine – Why Upgrade?
@@ -361,7 +362,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 2
 #  
 #### SessionID: 21777
 # SSIS for ETL in the Enterprise Environment
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 1
 ## Speaker: Paul Kennedy
 ## Title: SSIS for ETL in the Enterprise Environment
@@ -370,7 +371,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 1
 #  
 #### SessionID: 22168
 # Design Windows Phone Apps with Expression Blend
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Windows Phone Dev Track 
 ## Speaker: Paul Johnson
 ## Title: Design Windows Phone Apps with Expression Blend
@@ -379,7 +380,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Windows Phone Dev Track
 #  
 #### SessionID: 22741
 # Lap Around SQL Azure
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 2
 ## Speaker: Ryan Duclos
 ## Title: Lap Around SQL Azure
@@ -390,7 +391,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 2
 #  
 #### SessionID: 22742
 # SQL Azure Reporting
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 1
 ## Speaker: Ryan Duclos
 ## Title: SQL Azure Reporting
@@ -401,7 +402,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 1
 #  
 #### SessionID: 23707
 # Code First with Entity Framework
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 2
 ## Speaker: Ryan Richard
 ## Title: Code First with Entity Framework
@@ -410,7 +411,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 2
 #  
 #### SessionID: 23712
 # How Active Directory affects SQL Server
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 1
 ## Speaker: Ryan Adams
 ## Title: How Active Directory affects SQL Server
@@ -419,7 +420,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 1
 #  
 #### SessionID: 23886
 # System Center 2012 Configuration Manager Overview
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: IT Pro
 ## Speaker: Santos Martinez and Elias Mereb
 ## Title: System Center 2012 Configuration Manager Overview
@@ -428,7 +429,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: IT Pro
 #  
 #### SessionID: 23887
 # Windows 8 Demo and QA
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: IT Pro
 ## Speaker: Santos Martinez and Elias Mereb
 ## Title: Windows 8 Demo and QA
@@ -437,7 +438,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: IT Pro
 #  
 #### SessionID: 23888
 # Windows Server 2012 Demo and QA
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: IT Pro
 ## Speaker: Santos Martinez and Elias Mereb
 ## Title: Windows Server 2012 Demo and QA
@@ -446,7 +447,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: IT Pro
 #  
 #### SessionID: 23971
 # ConfigMgr 2012: Plan, Deploy, and Migrate from 2k7
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: IT Pro
 ## Speaker: Santos Martinez
 ## Title: ConfigMgr 2012: Plan, Deploy, and Migrate from 2k7
@@ -455,7 +456,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: IT Pro
 #  
 #### SessionID: 24267
 # Beginning Powershell for DBAs 1.0
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 2
 ## Speaker: Sean McCown
 ## Title: Beginning Powershell for DBAs 1.0
@@ -464,7 +465,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 2
 #  
 #### SessionID: 24269
 # The Backup Tune-up
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 1
 ## Speaker: Sean McCown
 ## Title: The Backup Tune-up
@@ -473,7 +474,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 1
 #  
 #### SessionID: 24299
 # The .Net Ninja's Toolbelt
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 1
 ## Speaker: Latish Sehgal
 ## Title: The .Net Ninja's Toolbelt
@@ -482,7 +483,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 1
 #  
 #### SessionID: 25307
 # Unit Testing - Solving some Tough Issues
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 1
 ## Speaker: Steve Schaneville
 ## Title: Unit Testing - Solving some Tough Issues
@@ -494,7 +495,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 1
 #  
 #### SessionID: 26513
 # Using SSIS 2012 for ETL in a Data Warehouse
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 1
 ## Speaker: Thomas LeBlanc
 ## Title: Using SSIS 2012 for ETL in a Data Warehouse
@@ -503,7 +504,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 1
 #  
 #### SessionID: 26782
 # Pro Tips:  Performance Tuning SSIS
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 2
 ## Speaker: Tim Costello
 ## Title: Pro Tips:  Performance Tuning SSIS
@@ -512,7 +513,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 2
 #  
 #### SessionID: 26783
 # Dimensional Design primer:  What you need to know
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 1
 ## Speaker: Tim Costello
 ## Title: Dimensional Design primer:  What you need to know
@@ -521,7 +522,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 1
 #  
 #### SessionID: 26989
 # Mapping Mashups with SharePoint Designer
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: Tom Resing
 ## Title: Mapping Mashups with SharePoint Designer
@@ -530,7 +531,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SharePoint
 #  
 #### SessionID: 26990
 # Integrate with Business Connectivity Services
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: Tom Resing
 ## Title: Integrate with Business Connectivity Services
@@ -539,7 +540,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SharePoint
 #  
 #### SessionID: 27111
 # Windows Azure and Smooth Streaming
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 1
 ## Speaker: Trey Cook
 ## Title: Windows Azure and Smooth Streaming
@@ -548,7 +549,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 1
 #  
 #### SessionID: 27672
 # Adding Metro Style Navigation to a SharePoint Site
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: Bill Watters
 ## Title: Adding Metro Style Navigation to a SharePoint Site
@@ -557,7 +558,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SharePoint
 #  
 #### SessionID: 34635
 # What you don't know underscore.js yet?
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 2
 ## Speaker: George Mauer
 ## Title: What you don't know underscore.js yet?
@@ -566,7 +567,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: .net 2
 #  
 #### SessionID: 34710
 # Why Data Warehousing?
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 2
 ## Speaker: Kristen Reeves
 ## Title: Why Data Warehousing?
@@ -575,7 +576,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL BI 2
 #  
 #### SessionID: 9028
 # Benchmarking, Baselines and Monitoring Storage
-#### [Back to calendar](#SQLSaturday-#150-Baton-Rouge-2012)
+#### [Back to calendar](#nr-150)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: SQL DBA 1
 ## Speaker: Wesley Brown
 ## Title: Benchmarking, Baselines and Monitoring Storage

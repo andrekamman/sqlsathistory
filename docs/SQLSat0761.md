@@ -1,3 +1,4 @@
+#### Nr: 761
 #### [Back to Main list](index.md)
 # SQLSaturday #761 - Perth 2018
 Start Time (24h)|Speaker|Track|Title
@@ -21,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 78550
 # M and Power Query Beyond Limits
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Business Intelligence
 ## Speaker: Reza Rad
 ## Title: M and Power Query Beyond Limits
@@ -30,7 +31,7 @@ Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 82403
 # Building a Modern Analytics Solution in the Cloud
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Analytics  Big Data
 ## Speaker: Sergio Reginaldo Zenatti Filho
 ## Title: Building a Modern Analytics Solution in the Cloud
@@ -39,7 +40,7 @@ Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Analytics  Big Data
 #  
 #### SessionID: 82405
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: DBA/DevOps
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -48,7 +49,7 @@ Event Date: 25-08-2018 - Session time: 15:45:00 - Track: DBA/DevOps
 #  
 #### SessionID: 85442
 # Advanced Indexing for Beginners
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: DBA/DevOps
 ## Speaker: Rob Farley
 ## Title: Advanced Indexing for Beginners
@@ -57,7 +58,7 @@ Event Date: 25-08-2018 - Session time: 15:45:00 - Track: DBA/DevOps
 #  
 #### SessionID: 77034
 # Real-Time Analytics with Power BI
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Analytics  Big Data
 ## Speaker: Manohar Punna
 ## Title: Real-Time Analytics with Power BI
@@ -72,7 +73,7 @@ In this session
 #  
 #### SessionID: 80345
 # Machine Learning Revolution with Azure Databricks
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Analytics  Big Data
 ## Speaker: Leila Etaati
 ## Title: Machine Learning Revolution with Azure Databricks
@@ -81,7 +82,7 @@ Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Analytics  Big Data
 #  
 #### SessionID: 80894
 # Data Privacy and the Data Professional.
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Martin Catherall
 ## Title: Data Privacy and the Data Professional.
@@ -95,7 +96,7 @@ Come along to this session and hear how you and your team can lessen your chance
 #  
 #### SessionID: 77452
 # Power BI Writeback with Power Apps
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Business Intelligence
 ## Speaker: Gilbert Quevauvilliers
 ## Title: Power BI Writeback with Power Apps
@@ -108,7 +109,7 @@ The session will be almost entirely demo based, in which I will demonstrate how 
 #  
 #### SessionID: 78488
 # Building a Database DevOps Pipeline in the Cloud under 49 minutes
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: DBA/DevOps
 ## Speaker: Hamish Watson
 ## Title: Building a Database DevOps Pipeline in the Cloud under 49 minutes
@@ -126,7 +127,7 @@ The finished result will be an automated and reliable deployment pipeline that w
 #  
 #### SessionID: 82443
 # Creating Custom Visualisations with Power BI
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Business Intelligence
 ## Speaker: Jim McLeod
 ## Title: Creating Custom Visualisations with Power BI
@@ -137,7 +138,7 @@ This session introduces you to writing your own fully interactive custom visuali
 #  
 #### SessionID: 78188
 # SQLOpsStudio Vs SSMS - There can be only one
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: DBA/DevOps
 ## Speaker: Warwick Rudd
 ## Title: SQLOpsStudio Vs SSMS - There can be only one
@@ -147,7 +148,7 @@ In this session we will take you on a journey of comparing SSMS and SQLOpsStudio
 #  
 #### SessionID: 78652
 # Azure PaaS Databases - The Choice is Yours
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: DBA/DevOps
 ## Speaker: Martin Cairney
 ## Title: Azure PaaS Databases - The Choice is Yours
@@ -158,7 +159,7 @@ This session will explore the features available to each option to help guide yo
 #  
 #### SessionID: 80874
 # Power BI and Excel. Better Together.
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Business Intelligence
 ## Speaker: Wyn Hopkins
 ## Title: Power BI and Excel. Better Together.
@@ -170,7 +171,7 @@ We'll even explore some of the latest data analysis innovations to hit the Excel
 #  
 #### SessionID: 75754
 # GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: DBA/DevOps
 ## Speaker: Patrick Flynn
 ## Title: GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects
@@ -185,7 +186,7 @@ Based around personal experience of learning not to hate Source control, this se
 #  
 #### SessionID: 82316
 # Tell me a story with Power BI
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Business Intelligence
 ## Speaker: Kelly Broekstra
 ## Title: Tell me a story with Power BI
@@ -197,7 +198,7 @@ In this session you will see demos of custom visuals, bookmarking, visual displa
 #  
 #### SessionID: 82438
 # Azure Machine Learning  Power BI - Perfect Combo for Predictive Analytics
-#### [Back to calendar](#SQLSaturday-#761-Perth-2018)
+#### [Back to calendar](#nr-761)
 Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Analytics  Big Data
 ## Speaker: Ram Katepally
 ## Title: Azure Machine Learning  Power BI - Perfect Combo for Predictive Analytics

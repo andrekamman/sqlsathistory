@@ -1,3 +1,4 @@
+#### Nr: 870
 #### [Back to Main list](index.md)
 # SQLSaturday #870 - Memphis 2019
 Start Time (24h)|Speaker|Track|Title
@@ -22,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 91028
 # Azure Data Factory V2
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kevin Wilkie
 ## Title: Azure Data Factory V2
@@ -35,7 +36,7 @@ We'll look at moving data around from On-Prem to Azure, moving files to Azure, a
 #  
 #### SessionID: 95659
 # Get Your Optimizer to Give up All Its Secrets
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
@@ -44,7 +45,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 98172
 # Managing Your Schema with Database Projects in Visual Studio
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Kerry Tyler
 ## Title: Managing Your Schema with Database Projects in Visual Studio
@@ -53,7 +54,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 91920
 # SQL DevOps Simplified with Production Databases
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Paul Stanton
 ## Title: SQL DevOps Simplified with Production Databases
@@ -62,7 +63,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 94697
 # Exploring the latest T-SQL enhancements
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Dustin Dorsey
 ## Title: Exploring the latest T-SQL enhancements
@@ -73,7 +74,7 @@ In this demo heavy session, we will go over several of the new features, provide
 #  
 #### SessionID: 95648
 # The Modern Power BI approach
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan Evans
 ## Title: The Modern Power BI approach
@@ -82,7 +83,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 91009
 # Goin' Fishin' on the Azure Data Lake
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Spencer Swindell
 ## Title: Goin' Fishin' on the Azure Data Lake
@@ -91,7 +92,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 96921
 # The Community Speaks: WIT, LGBTQ, diversity and inclusion.
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Tamera Clark
 ## Title: The Community Speaks: WIT, LGBTQ, diversity and inclusion.
@@ -100,7 +101,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 97955
 # D.R.E.A.M. (Data Rules Everything Around Me) - Creating a data-driven business culture
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: Lena Winfree
 ## Title: D.R.E.A.M. (Data Rules Everything Around Me) - Creating a data-driven business culture
@@ -109,7 +110,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 91496
 # Intro to Graph Databases
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Pete Brown
 ## Title: Intro to Graph Databases
@@ -126,7 +127,7 @@ One of the latest entrants on the scene is the graph database.  In this session 
 #  
 #### SessionID: 93792
 # User Experience Brilliance in Power BI Dashboards
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Hilary Wilkie
 ## Title: User Experience Brilliance in Power BI Dashboards
@@ -137,7 +138,7 @@ In this session we will explore in a hands-on exercise what UX and Design thinki
 #  
 #### SessionID: 95093
 # Get your Git on with Source Control
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: Elizabeth Noble
 ## Title: Get your Git on with Source Control
@@ -152,7 +153,7 @@ Attendees should be familiar with general concepts about source control and be c
 #  
 #### SessionID: 96814
 # That's So Metadata: Discover Your Database From The Inside
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: That's So Metadata: Discover Your Database From The Inside
@@ -170,7 +171,7 @@ We will also cover the official Microsoft documentation on these features and ot
 #  
 #### SessionID: 93659
 # Become a T-SQL Pivoting Ninja in 59.5 Minutes Or Less
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Peter Doyle
 ## Title: Become a T-SQL Pivoting Ninja in 59.5 Minutes Or Less
@@ -184,7 +185,7 @@ Come join me, and by the end of this session, you will have the knowledge to lev
 #  
 #### SessionID: 95716
 # The Future of Database Development with Containers
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: The Future of Database Development with Containers
@@ -193,7 +194,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 95887
 # Relational Design Critique
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Relational Design Critique
@@ -202,7 +203,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 96800
 # Inside the Database Engine
-#### [Back to calendar](#SQLSaturday-#870-Memphis-2019)
+#### [Back to calendar](#nr-870)
 Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: Inside the Database Engine

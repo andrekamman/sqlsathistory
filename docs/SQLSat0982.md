@@ -1,3 +1,4 @@
+#### Nr: 982
 #### [Back to Main list](index.md)
 # SQLSaturday #982 – Auckland – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -55,7 +56,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 105246
 # SQL Titbits for the Inexperienced
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: SQL Titbits for the Inexperienced
@@ -64,7 +65,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database D
 #  
 #### SessionID: 105277
 # Introduction to Numeric Calculations in DAX
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Power BI
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Introduction to Numeric Calculations in DAX
@@ -73,7 +74,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Power BI
 #  
 #### SessionID: 105287
 # What's Going On in My Power BI Environment?
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Power BI
 ## Speaker: Asgeir Gunnarsson
 ## Title: What's Going On in My Power BI Environment?
@@ -86,7 +87,7 @@ Lastly we will show how you can automate the data collection via Azure and Power
 #  
 #### SessionID: 105290
 # Jupyter Notebooks for DBAs
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Learning Path for Data professional Job
 ## Speaker: Rob Sewell
 ## Title: Jupyter Notebooks for DBAs
@@ -105,7 +106,7 @@ We will have fun as well.
 #  
 #### SessionID: 105432
 # Text Mining with T-SQL
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Machine Learning  Advanced Analytics
 ## Speaker: Dejan Sarka
 ## Title: Text Mining with T-SQL
@@ -114,7 +115,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Machine Learning  Advan
 #  
 #### SessionID: 105262
 # Applying Forensic Accounting Techniques Using SQL And R
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Machine Learning  Advanced Analytics
 ## Speaker: Kevin Feasel
 ## Title: Applying Forensic Accounting Techniques Using SQL And R
@@ -123,7 +124,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Machine Learning  Advan
 #  
 #### SessionID: 105302
 # How does Azure Cosmos DB work under the hood?
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Hasan Savran
 ## Title: How does Azure Cosmos DB work under the hood?
@@ -133,7 +134,7 @@ Learning new technologies make you a better leader and collaborator. Join me to 
 #  
 #### SessionID: 105304
 # Azure SQL Database A to Z: More Than Meets The Eye
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Matt Gordon
 ## Title: Azure SQL Database A to Z: More Than Meets The Eye
@@ -142,7 +143,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 105310
 # Step by Step – Building (a Real Use Case for the) Power Platform Solution
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Power BI
 ## Speaker: Belinda Allen
 ## Title: Step by Step – Building (a Real Use Case for the) Power Platform Solution
@@ -155,7 +156,7 @@ Who should attend this session?
 #  
 #### SessionID: 105426
 # 5 Availability Groups Issues That May Ruin Your Day
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Dmitri Korotkevitch
 ## Title: 5 Availability Groups Issues That May Ruin Your Day
@@ -166,7 +167,7 @@ While Availability Groups help to achieve required High Availability, they may a
 #  
 #### SessionID: 105251
 # Power BI Report Server for the enterprise
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Power BI
 ## Speaker: Christian Cote
 ## Title: Power BI Report Server for the enterprise
@@ -175,7 +176,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Power BI
 #  
 #### SessionID: 105254
 # A Walk Around SQL PowerShell
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Learning Path for Data professional Job
 ## Speaker: Ben Miller
 ## Title: A Walk Around SQL PowerShell
@@ -184,7 +185,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Learning Path for Data 
 #  
 #### SessionID: 105282
 # Intelligent Query Processing in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: Intelligent Query Processing in SQL Server 2019
@@ -196,7 +197,7 @@ After the session, you’ll understand how much improvements you should expect i
 #  
 #### SessionID: 105334
 # Processing Tabular Models
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Gaston Cruz
 ## Title: Processing Tabular Models
@@ -205,7 +206,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 105335
 # Using Your On-prem Data in a Cloud World
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Daniel Glenn
 ## Title: Using Your On-prem Data in a Cloud World
@@ -216,7 +217,7 @@ In this session, we will discover the benefits of using the cloud tools, how tho
 #  
 #### SessionID: 103574
 # Intro to Azure Data Catalog
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Angela Henry
 ## Title: Intro to Azure Data Catalog
@@ -225,7 +226,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database D
 #  
 #### SessionID: 105248
 # New Features in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Javier Villegas
 ## Title: New Features in SQL Server 2019
@@ -234,7 +235,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database D
 #  
 #### SessionID: 105317
 # Management of multiple instances using Data Collector and PBM
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Vitor Fava
 ## Title: Management of multiple instances using Data Collector and PBM
@@ -243,7 +244,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database D
 #  
 #### SessionID: 105321
 # Azure 101
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Denny Cherry
 ## Title: Azure 101
@@ -252,7 +253,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 105407
 # Certification Exams Inside Out
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Learning Path for Data professional Job
 ## Speaker: William Assaf
 ## Title: Certification Exams Inside Out
@@ -261,7 +262,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Learning Path for Data 
 #  
 #### SessionID: 103535
 # ETL2.0: Data Engineering with Azure Databricks
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Machine Learning  Advanced Analytics
 ## Speaker: Asanka Padmakumara
 ## Title: ETL2.0: Data Engineering with Azure Databricks
@@ -270,7 +271,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Machine Learning  Advan
 #  
 #### SessionID: 105222
 # Database Reliability Engineer - the new DBA?
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Hamish Watson
 ## Title: Database Reliability Engineer - the new DBA?
@@ -287,7 +288,7 @@ This session will introduce the Database Reliability Engineer which is the new D
 #  
 #### SessionID: 105359
 # Exploring the World of Azure Data Explorer
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Martin Cairney
 ## Title: Exploring the World of Azure Data Explorer
@@ -298,7 +299,7 @@ This introductory session will give you a taste of the power and flexibility of 
 #  
 #### SessionID: 105477
 # Learn how to digitalize your business using Azure Form Recognizer
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Machine Learning  Advanced Analytics
 ## Speaker: Raju RH
 ## Title: Learn how to digitalize your business using Azure Form Recognizer
@@ -307,7 +308,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Machine Learning  Advan
 #  
 #### SessionID: 105484
 # Starting with Azure Synapse Analytics (workspace experience)
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: David Alzamendi
 ## Title: Starting with Azure Synapse Analytics (workspace experience)
@@ -322,7 +323,7 @@ This session includes some demos using a selection of the available features.
 #  
 #### SessionID: 103694
 # Can you trust the intelligence of Application tracking systems with your CV?
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Learning Path for Data professional Job
 ## Speaker: Ondrej Aubrecht
 ## Title: Can you trust the intelligence of Application tracking systems with your CV?
@@ -338,7 +339,7 @@ Come along to this session and find out more about REAL DATA analysis and scanni
 #  
 #### SessionID: 105259
 # The Lowdown on Character Data Types in SQL Server
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Greg Low
 ## Title: The Lowdown on Character Data Types in SQL Server
@@ -347,7 +348,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database D
 #  
 #### SessionID: 105410
 # Scaling databases to Enterprise scale - Vertical vs Horizontal
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Dave Dustin
 ## Title: Scaling databases to Enterprise scale - Vertical vs Horizontal
@@ -361,7 +362,7 @@ It's not just a case of throwing more CPU and memory at the problem.  We'll talk
 #  
 #### SessionID: 105442
 # Dataflow vs Dataset: the Building Blocks of Power BI Architecture
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Power BI
 ## Speaker: Reza Rad
 ## Title: Dataflow vs Dataset: the Building Blocks of Power BI Architecture
@@ -370,7 +371,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Power BI
 #  
 #### SessionID: 105482
 # MLOps using Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Machine Learning  Advanced Analytics
 ## Speaker: Anupama Natarajan
 ## Title: MLOps using Azure Machine Learning
@@ -381,7 +382,7 @@ In this session, you will learn how to create a end-to-end ML lifecycle using Az
 #  
 #### SessionID: 104360
 # Migration path from SQL Server Instance on Azure VM (IaaS) towards Azure SQL Managed Instance (PaaS)
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Zoran Barac
 ## Title: Migration path from SQL Server Instance on Azure VM (IaaS) towards Azure SQL Managed Instance (PaaS)
@@ -401,7 +402,7 @@ Use Azure DMS as end-to-end solution for migrating source SQL Server databases t
 #  
 #### SessionID: 105258
 # How to store your Power BI Audit logs indefinitely
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Power BI
 ## Speaker: Gilbert Quevauvilliers
 ## Title: How to store your Power BI Audit logs indefinitely
@@ -416,7 +417,7 @@ Finally I will give a quick overview of what a Power BI Audit Log usage report l
 #  
 #### SessionID: 105362
 # Azure SQL: (IaaS) OR (PaaS) What to use When?
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Tariq Younas
 ## Title: Azure SQL: (IaaS) OR (PaaS) What to use When?
@@ -425,7 +426,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database D
 #  
 #### SessionID: 105429
 # SQL Server on the Edge (Is it time for Pie?)
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Patrick Flynn
 ## Title: SQL Server on the Edge (Is it time for Pie?)
@@ -440,7 +441,7 @@ This session will be almost Demo's and will provide a clear guide on how to inst
 #  
 #### SessionID: 105485
 # SARGability
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Rob Farley
 ## Title: SARGability
@@ -449,7 +450,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database D
 #  
 #### SessionID: 103536
 # Introduction to Graph Databases in Azure Cosmos DB
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Will Velida
 ## Title: Introduction to Graph Databases in Azure Cosmos DB
@@ -462,7 +463,7 @@ By the end of this session, you'll leave with an understanding of what Graph dat
 #  
 #### SessionID: 103549
 # The Battle of DBAAS – RDS vs Cloud SQL vs SQL Azure
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sandeep Arora
 ## Title: The Battle of DBAAS – RDS vs Cloud SQL vs SQL Azure
@@ -471,7 +472,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 105445
 # Calculation Group in SSAS 2019
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Ali Sharifi
 ## Title: Calculation Group in SSAS 2019
@@ -480,7 +481,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database D
 #  
 #### SessionID: 105448
 # Writeback and Refresh Power BI dataset using PowerApps
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Power BI
 ## Speaker: Indira Bandari
 ## Title: Writeback and Refresh Power BI dataset using PowerApps
@@ -495,7 +496,7 @@ The same data can be instantly shown in Power BI Report
 #  
 #### SessionID: 105458
 # Getting the most out of DAX Studio
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Power BI
 ## Speaker: Darren Gosbell
 ## Title: Getting the most out of DAX Studio
@@ -504,7 +505,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Power BI
 #  
 #### SessionID: 105221
 # Exploring Window Functions
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Martin Catherall
 ## Title: Exploring Window Functions
@@ -517,7 +518,7 @@ Come along to this session and see a deep dive into window functions and learn h
 #  
 #### SessionID: 105331
 # Azure Data Studio - Next Gen 2
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Warwick Rudd
 ## Title: Azure Data Studio - Next Gen 2
@@ -528,7 +529,7 @@ This demo heavy introductory session will take you on a journey from first time 
 #  
 #### SessionID: 105353
 # Cloud IaC (Infrastructure as Code) with Terraform
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Manohar Punna
 ## Title: Cloud IaC (Infrastructure as Code) with Terraform
@@ -538,7 +539,7 @@ Infrastructure as code is a necessity than luxury. Terraform offer great IaC sol
 #  
 #### SessionID: 105480
 # Bringing Source Control to BI world!
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Heidi Hasting
 ## Title: Bringing Source Control to BI world!
@@ -563,7 +564,7 @@ Let's bring order to your chaos!!
 #  
 #### SessionID: 105745
 # Anomaly Detection and Entity Extraction from Text in Power BI
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Machine Learning  Advanced Analytics
 ## Speaker: Leila Etaati
 ## Title: Anomaly Detection and Entity Extraction from Text in Power BI
@@ -572,7 +573,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Machine Learning  Advan
 #  
 #### SessionID: 103545
 # My Power BI Report is Slow: What Should I Do?
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Power BI
 ## Speaker: Marco Russo
 ## Title: My Power BI Report is Slow: What Should I Do?
@@ -585,7 +586,7 @@ At the end of this session, you will understand how to locate a performance bott
 #  
 #### SessionID: 105285
 # Extracting information from your unstructured data with Azure Cognitive Search
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Machine Learning  Advanced Analytics
 ## Speaker: Luis Beltran
 ## Title: Extracting information from your unstructured data with Azure Cognitive Search
@@ -598,7 +599,7 @@ In this session, the Azure Cognitive Search service will be explored and describ
 #  
 #### SessionID: 105365
 # Developer Best Practices in SQL Server
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Amit R S Bansal
 ## Title: Developer Best Practices in SQL Server
@@ -607,7 +608,7 @@ Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database D
 #  
 #### SessionID: 105438
 # How to Design Modern IoT Solutions with CosmosDB and PowerBI
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Power BI
 ## Speaker: Mihail Mateev
 ## Title: How to Design Modern IoT Solutions with CosmosDB and PowerBI
@@ -622,7 +623,7 @@ During the presentation you will see:
 #  
 #### SessionID: 105472
 # Taking the first steps down the path to security
-#### [Back to calendar](#SQLSaturday-#982-–-Auckland-–-Virtual-2020)
+#### [Back to calendar](#nr-982)
 Event Date: 08-08-2020 - Session time: 16:50:00 - Track: Application  Database Development
 ## Speaker: Rob Douglas
 ## Title: Taking the first steps down the path to security

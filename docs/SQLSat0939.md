@@ -1,3 +1,4 @@
+#### Nr: 939
 #### [Back to Main list](index.md)
 # SQLSaturday #939 - Austin - BI Edition 2020
 Start Time (24h)|Speaker|Track|Title
@@ -27,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 99438
 # Networking 102: Getting Ready for a SQL Event
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Professional Development
 ## Speaker: Matt Cushing
 ## Title: Networking 102: Getting Ready for a SQL Event
@@ -38,7 +39,7 @@ In this session, we'll go over steps you can take before, during and after the e
 #  
 #### SessionID: 100046
 # Getting Started with Data Science and Databricks
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Analysis / Cleaning Method and Tools / Data Demographics
 ## Speaker: Ginger Grant
 ## Title: Getting Started with Data Science and Databricks
@@ -51,7 +52,7 @@ Agenda
 #  
 #### SessionID: 101996
 # DAX Optimization Examples
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Modeling Techniques, Tools (ex Star vs Snowflake, Tabluar, Fact vs Dimmension)
 ## Speaker: Alberto Ferrari
 ## Title: DAX Optimization Examples
@@ -61,7 +62,7 @@ As you will see, most optimizations are the direct application of best practices
 #  
 #### SessionID: 99228
 # Ethics in Data
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Analysis / Cleaning Method and Tools / Data Demographics
 ## Speaker: William Assaf
 ## Title: Ethics in Data
@@ -70,7 +71,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Analysis / Cleanin
 #  
 #### SessionID: 99454
 # Building a Strong Foundation for Data Analysis
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Other
 ## Speaker: Leslie Andrews
 ## Title: Building a Strong Foundation for Data Analysis
@@ -79,7 +80,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Other
 #  
 #### SessionID: 100237
 # Power BI Time Intelligence using a custom calendar
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Presentation / Reports / Dashboards
 ## Speaker: Matthew Floyd
 ## Title: Power BI Time Intelligence using a custom calendar
@@ -88,7 +89,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Presentation / Rep
 #  
 #### SessionID: 101140
 # Make Your Company Conversational using Azure Cognitive Services
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Other
 ## Speaker: Matt Gordon
 ## Title: Make Your Company Conversational using Azure Cognitive Services
@@ -97,7 +98,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Other
 #  
 #### SessionID: 101344
 # A metadata approach to fixed width files
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Importing Techniques and Tools (ex SSIS)
 ## Speaker: Russel Loski
 ## Title: A metadata approach to fixed width files
@@ -107,7 +108,7 @@ To demonstrate such an approach, I build an Excel file describing US census data
 #  
 #### SessionID: 99684
 # Change Tracking: A Near Bullet-Proof ETL Synchronization Control
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Importing Techniques and Tools (ex SSIS)
 ## Speaker: Mike Byrd
 ## Title: Change Tracking: A Near Bullet-Proof ETL Synchronization Control
@@ -116,7 +117,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Importing Techniqu
 #  
 #### SessionID: 99749
 # Code Like a Snake Charmer - Introduction to Python!
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Modeling Techniques, Tools (ex Star vs Snowflake, Tabluar, Fact vs Dimmension)
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Snake Charmer - Introduction to Python!
@@ -135,7 +136,7 @@ Attend this session to learn how Python can take your data analytics to the next
 #  
 #### SessionID: 101582
 # Basics of Data Modeling for BI Reporting
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Modeling Techniques, Tools (ex Star vs Snowflake, Tabluar, Fact vs Dimmension)
 ## Speaker: Michael McKinley
 ## Title: Basics of Data Modeling for BI Reporting
@@ -148,7 +149,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Modeling Technique
 #  
 #### SessionID: 101584
 # Mastering your Resume  Interview: Tips to Get Hired
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Mastering your Resume  Interview: Tips to Get Hired
@@ -157,7 +158,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Professional Developmen
 #  
 #### SessionID: 99470
 # Getting Started with Apache Spark
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Analysis / Cleaning Method and Tools / Data Demographics
 ## Speaker: Kevin Feasel
 ## Title: Getting Started with Apache Spark
@@ -166,7 +167,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Analysis / Cleanin
 #  
 #### SessionID: 99533
 # Data Vault on SQL Server Tabular Model and Power BI
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Modeling Techniques, Tools (ex Star vs Snowflake, Tabluar, Fact vs Dimmension)
 ## Speaker: Derek Wilson
 ## Title: Data Vault on SQL Server Tabular Model and Power BI
@@ -175,7 +176,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Modeling Technique
 #  
 #### SessionID: 101588
 # AI For Good: Cognitive Services Vision
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Other
 ## Speaker: Alicia Moniz
 ## Title: AI For Good: Cognitive Services Vision
@@ -192,7 +193,7 @@ Prerequisites: Attendees should have an Azure account, as well as an account on 
 #  
 #### SessionID: 101997
 # Using calculation groups in DAX
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Modeling Techniques, Tools (ex Star vs Snowflake, Tabluar, Fact vs Dimmension)
 ## Speaker: Alberto Ferrari
 ## Title: Using calculation groups in DAX
@@ -202,7 +203,7 @@ This session introduces the syntax of calculation groups, when they should be us
 #  
 #### SessionID: 99433
 # More Common Than You Think: Mental Illness in Tech
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Professional Development
 ## Speaker: Tracy Boggiano
 ## Title: More Common Than You Think: Mental Illness in Tech
@@ -213,7 +214,7 @@ In this session, we will talk about what mental illness is and what it is not.  
 #  
 #### SessionID: 99436
 # Do I Need To M?
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Analysis / Cleaning Method and Tools / Data Demographics
 ## Speaker: Bob Phillips
 ## Title: Do I Need To M?
@@ -228,7 +229,7 @@ The session will be using Power Query in Excel as Excel is still the most used B
 #  
 #### SessionID: 100848
 # ETL Using Python, Pandas, and Jupyter Notebook
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Analysis / Cleaning Method and Tools / Data Demographics
 ## Speaker: Wenbin Zhao
 ## Title: ETL Using Python, Pandas, and Jupyter Notebook
@@ -238,7 +239,7 @@ In this 60 minute session, I will show you how to set up and get it running on y
 #  
 #### SessionID: 101592
 # Power BI Ecosystem and Use Models Overview
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Presentation / Reports / Dashboards
 ## Speaker: Brian Lee
 ## Title: Power BI Ecosystem and Use Models Overview
@@ -249,7 +250,7 @@ This session will provide an overview of the Power BI ecosystem, look at various
 #  
 #### SessionID: 99514
 # Creating Accessible Power BI Reports
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Presentation / Reports / Dashboards
 ## Speaker: Meagan Longoria
 ## Title: Creating Accessible Power BI Reports
@@ -258,7 +259,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Presentation / Rep
 #  
 #### SessionID: 99606
 # Building your Microsoft Business Intelligence (MSBI) Career
-#### [Back to calendar](#SQLSaturday-#939-Austin-BI-Edition-2020)
+#### [Back to calendar](#nr-939)
 Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Professional Development
 ## Speaker: Ganesh Lohani
 ## Title: Building your Microsoft Business Intelligence (MSBI) Career

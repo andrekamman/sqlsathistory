@@ -1,3 +1,4 @@
+#### Nr: 442
 #### [Back to Main list](index.md)
 # SQLSaturday #442 - Orlando 2015
 Start Time (24h)|Speaker|Track|Title
@@ -66,7 +67,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 37110
 # Scripting out SQL Server for Documentation and Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Scripting out SQL Server for Documentation and Disaster Recovery
@@ -78,7 +79,7 @@ Objects exported include: SQL Agent Jobs/Alerts/Schedules, NT Service Credential
 #  
 #### SessionID: 38633
 # SQL Server 2014 In-Memory Programming
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: miguel Cebollero
 ## Title: SQL Server 2014 In-Memory Programming
@@ -87,7 +88,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 38653
 # Data Factory: Data Integration in the Cloud
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Josh Luedeman
 ## Title: Data Factory: Data Integration in the Cloud
@@ -96,7 +97,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 38744
 # The Encryption Primer
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: The Encryption Primer
@@ -105,7 +106,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 38750
 # Microsoft Technologies for Data Science
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Mark Tabladillo
 ## Title: Microsoft Technologies for Data Science
@@ -114,7 +115,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 38809
 # SSIS Performance Tuning Techniques
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mitchell Pearson
 ## Title: SSIS Performance Tuning Techniques
@@ -123,7 +124,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 38858
 # Changing Data Is Easy, Managing Data Change is Hard!
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: James McAuliffe
 ## Title: Changing Data Is Easy, Managing Data Change is Hard!
@@ -132,7 +133,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38870
 # What's New for High Availability in SQL Server 2016 and Windows Server 2016
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allan Hirt
 ## Title: What's New for High Availability in SQL Server 2016 and Windows Server 2016
@@ -141,7 +142,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38914
 # Transactional Replication: Architecture, Setup, and Monitoring
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kendal Van Dyke
 ## Title: Transactional Replication: Architecture, Setup, and Monitoring
@@ -151,7 +152,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40380
 # DataTypes - What's the Big Deal?
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Susan Rickman
 ## Title: DataTypes - What's the Big Deal?
@@ -160,7 +161,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 40806
 # Looking for the Power BI on-prem alternative?
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Mark Scott
 ## Title: Looking for the Power BI on-prem alternative?
@@ -171,7 +172,7 @@ Do you want to allow your business users to build Tabular models on the fly, or 
 #  
 #### SessionID: 36837
 # Top 10 Wait Types Everyone Should Know
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Top 10 Wait Types Everyone Should Know
@@ -180,7 +181,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37012
 # Analyze your query plan like a Microsoft Engineer!
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Janik
 ## Title: Analyze your query plan like a Microsoft Engineer!
@@ -189,7 +190,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 37734
 # Encryption 101: A look at SQL Encryption Options
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Carter
 ## Title: Encryption 101: A look at SQL Encryption Options
@@ -198,7 +199,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37989
 # SQL 2016 Changes and Enhancements for BI and Beyond
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Charles Hyman
 ## Title: SQL 2016 Changes and Enhancements for BI and Beyond
@@ -226,7 +227,7 @@ projec
 #  
 #### SessionID: 38176
 # Interview Puzzles and how to handle them
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Mike Davis
 ## Title: Interview Puzzles and how to handle them
@@ -235,7 +236,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 38395
 # Designing a Data Warehouse from the Ground Up
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dustin Ryan
 ## Title: Designing a Data Warehouse from the Ground Up
@@ -244,7 +245,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 38773
 # An Introductory Look at Execution Plans
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Eric Wisdahl
 ## Title: An Introductory Look at Execution Plans
@@ -253,7 +254,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 38824
 # A practical guide to Windows Azure SQL Database for the DBA
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Gareth Swanepoel
 ## Title: A practical guide to Windows Azure SQL Database for the DBA
@@ -263,7 +264,7 @@ If you are a production DBA and have contemplated one or more of these questions
 #  
 #### SessionID: 38836
 # Self-Service ETL with Microsoft Power Query
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: Damu Venkatesan
 ## Title: Self-Service ETL with Microsoft Power Query
@@ -272,7 +273,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 38855
 # Entity Framework: Or How I Learned to Stop Worrying and Learned to Love Developers
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Richie Rump
 ## Title: Entity Framework: Or How I Learned to Stop Worrying and Learned to Love Developers
@@ -284,7 +285,7 @@ Entity Framework (EF) and other object relational mapping technologies have been
 #  
 #### SessionID: 40685
 # Building a Better Mousetrap: Using Cisco UCS for SQL Server Deplo
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allan Hirt
 ## Title: Building a Better Mousetrap: Using Cisco UCS for SQL Server Deplo
@@ -293,7 +294,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41241
 # Be the SQL Server Dev/Ops Hero, brought to you by Actifio
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Jeff Abbott
 ## Title: Be the SQL Server Dev/Ops Hero, brought to you by Actifio
@@ -302,7 +303,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 41245
 # Object Level Recovery Made Easy brought to you by Dell Software
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Todd Phillippe
 ## Title: Object Level Recovery Made Easy brought to you by Dell Software
@@ -315,7 +316,7 @@ Then I will show how NetVault LiteSpeed for SQL Server's Object Level Recovery (
 #  
 #### SessionID: 41257
 # Advanced Performance Tuning Tips with Database Performance Analyz
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Janis Griffin
 ## Title: Advanced Performance Tuning Tips with Database Performance Analyz
@@ -324,7 +325,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 41305
 # Flash Storage Drill Down: Know Your Storage Infrastructure
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Pinchera
 ## Title: Flash Storage Drill Down: Know Your Storage Infrastructure
@@ -333,7 +334,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41477
 # Implementing a SANLess Cluster in Under an Hour, brought to you b
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kendal Van Dyke
 ## Title: Implementing a SANLess Cluster in Under an Hour, brought to you b
@@ -342,7 +343,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 36813
 # Achievement Unlocked: How to Get Promoted
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Dave Mattingly
 ## Title: Achievement Unlocked: How to Get Promoted
@@ -353,7 +354,7 @@ In this session, you'll learn how to promote yourself, how to speak confidently,
 #  
 #### SessionID: 37169
 # Detect Worst Performing SQL Queries During Peak Hour
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: Detect Worst Performing SQL Queries During Peak Hour
@@ -366,7 +367,7 @@ In this session, Prakash walks you through with scenario  demos to find which ex
 #  
 #### SessionID: 38094
 # AlwaysOn Availability Groups Kickoff
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Reinhard
 ## Title: AlwaysOn Availability Groups Kickoff
@@ -375,7 +376,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38113
 # PowerShell and Python - The Clash - Part Deux
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Jorge Besada
 ## Title: PowerShell and Python - The Clash - Part Deux
@@ -384,7 +385,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 38496
 # Beginners SQL Server Security the Low Hanging Fruit
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lindsay Clark
 ## Title: Beginners SQL Server Security the Low Hanging Fruit
@@ -393,7 +394,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38640
 # Loading Complex Data Structures using SSIS Programming
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Jorge Novo
 ## Title: Loading Complex Data Structures using SSIS Programming
@@ -403,7 +404,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 38847
 # How To Become a SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Andy Warren
 ## Title: How To Become a SQL Server DBA
@@ -412,7 +413,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 38850
 # How In-Memory Database Objects Affect Database Design
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Strategy and Architecture
 ## Speaker: Louis Davidson
 ## Title: How In-Memory Database Objects Affect Database Design
@@ -421,7 +422,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 38857
 # SQL Server 2016 Always Encrypted
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Sebastian Meine
 ## Title: SQL Server 2016 Always Encrypted
@@ -438,7 +439,7 @@ To benefit from this 200 level session, you should feel comfortable writing stor
 #  
 #### SessionID: 38874
 # An intro to Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Pankaj Satyaketu
 ## Title: An intro to Azure SQL Data Warehouse
@@ -447,7 +448,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 38876
 # Taking the Scary out of Monster Reports
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: Pam Shaw
 ## Title: Taking the Scary out of Monster Reports
@@ -457,7 +458,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 40871
 # What's New in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Bradley Ball
 ## Title: What's New in SQL Server 2016
@@ -466,7 +467,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 41262
 # Cortana Analytics Demystified
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Buck Woody
 ## Title: Cortana Analytics Demystified
@@ -475,7 +476,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 36793
 # Table Vars and Temp Tables – What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars and Temp Tables – What you NEED to Know!
@@ -484,7 +485,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 36856
 # Real World SQL Server Administration with just a bit of sysadmin
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ronald Dameron
 ## Title: Real World SQL Server Administration with just a bit of sysadmin
@@ -499,7 +500,7 @@ Attendees will leave this session with the realization that DBAs don’t need to
 #  
 #### SessionID: 36863
 # Indexing for Join Optimization
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Information Delivery
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for Join Optimization
@@ -509,7 +510,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Information Delivery
 #  
 #### SessionID: 37540
 # How to build your first Power BI Dashboard in 60 Min.
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Wes Springob
 ## Title: How to build your first Power BI Dashboard in 60 Min.
@@ -518,7 +519,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 38178
 # Eating The Elephant; A DBA's Guide to Hadoop  Big Data
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Strategy and Architecture
 ## Speaker: Stuart Ainsworth
 ## Title: Eating The Elephant; A DBA's Guide to Hadoop  Big Data
@@ -531,7 +532,7 @@ Examples and demos will highlight basic query tools, including transferring data
 #  
 #### SessionID: 38346
 # PowerShell with Visual Studio SQL Data Tools
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Maximo Trinidad
 ## Title: PowerShell with Visual Studio SQL Data Tools
@@ -543,7 +544,7 @@ technologies in a SSIS package: C#, VB.NET, XML, and PowerShell.
 #  
 #### SessionID: 38446
 # Thinking Outside of the In-Memory Box
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Dmitri Korotkevitch
 ## Title: Thinking Outside of the In-Memory Box
@@ -555,7 +556,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 38730
 # Balancing Work and Home to Create a Better You
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Balancing Work and Home to Create a Better You
@@ -564,7 +565,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 38732
 # Introduction to DataZen
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to DataZen
@@ -573,7 +574,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 38816
 # Management Data Warehouse and Data Collector
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ian Lanham
 ## Title: Management Data Warehouse and Data Collector
@@ -584,7 +585,7 @@ This session will cover installing and configuring the Management Data Warehouse
 #  
 #### SessionID: 38830
 # SQL SERVER 2016 PERFORMANCE FEATURES
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Pless
 ## Title: SQL SERVER 2016 PERFORMANCE FEATURES
@@ -597,7 +598,7 @@ Live Query Statistics is a feature added into SQL Management Studio that provide
 #  
 #### SessionID: 36811
 # SQL Injection – are you ready for defense?
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Andrey Korshikov
 ## Title: SQL Injection – are you ready for defense?
@@ -606,7 +607,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 37687
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -615,7 +616,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 37870
 # Don't Be Trigger Happy: Safe Use of Triggers
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Jack Corbett
 ## Title: Don't Be Trigger Happy: Safe Use of Triggers
@@ -624,7 +625,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 38137
 # Indexing your Data Warehouse
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Troy Gallant
 ## Title: Indexing your Data Warehouse
@@ -633,7 +634,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38410
 # Roadmap: What's Coming Next for SQL Server BI and Power BI 
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: Jen Underwood
 ## Title: Roadmap: What's Coming Next for SQL Server BI and Power BI 
@@ -642,7 +643,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 38510
 # Introduction To R
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Robert Biddle
 ## Title: Introduction To R
@@ -653,7 +654,7 @@ In this session we'll explore the basics of the R language and review some examp
 #  
 #### SessionID: 38658
 # Execution Plans for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
@@ -665,7 +666,7 @@ Reading execution plans becomes much less intimidating as we walk through the fl
 #  
 #### SessionID: 38734
 # Enterprise Auditing with SQL Server Audit
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Colleen Morrow
 ## Title: Enterprise Auditing with SQL Server Audit
@@ -678,7 +679,7 @@ Whether it's through the SQL Server Management Studio (SSMS) interface, via T-SQ
 #  
 #### SessionID: 38859
 # Why I won't hire you and what you can do about it!
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Leigh Freijo
 ## Title: Why I won't hire you and what you can do about it!
@@ -687,7 +688,7 @@ Event Date: 10-10-2015 - Session time: 16:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 38911
 # DQ What? DQ Who? DQ How?
-#### [Back to calendar](#SQLSaturday-#442-Orlando-2015)
+#### [Back to calendar](#nr-442)
 Event Date: 10-10-2015 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Davis
 ## Title: DQ What? DQ Who? DQ How?

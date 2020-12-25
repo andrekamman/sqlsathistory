@@ -1,3 +1,4 @@
+#### Nr: 348
 #### [Back to Main list](index.md)
 # SQLSaturday #348 - Ica, Peru 2014
 Start Time (24h)|Speaker|Track|Title
@@ -14,7 +15,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 12123
 # SQ. Server 2014 en Windows Server 2012
-#### [Back to calendar](#SQLSaturday-#348-Ica,-Peru-2014)
+#### [Back to calendar](#nr-348)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jesus Enrique Azcarate
 ## Title: SQ. Server 2014 en Windows Server 2012
@@ -23,7 +24,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13235
 # Overview SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#348-Ica,-Peru-2014)
+#### [Back to calendar](#nr-348)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Deyvi Leonidas Pacheco Carrasco
 ## Title: Overview SQL Server 2014
@@ -32,7 +33,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14403
 # Backup y Restore SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#348-Ica,-Peru-2014)
+#### [Back to calendar](#nr-348)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: German Cayo
 ## Title: Backup y Restore SQL Server 2014
@@ -41,7 +42,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16682
 # SQL Server Data Tools 2014 en BI
-#### [Back to calendar](#SQLSaturday-#348-Ica,-Peru-2014)
+#### [Back to calendar](#nr-348)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jesus Angulo Gasco
 ## Title: SQL Server Data Tools 2014 en BI
@@ -50,7 +51,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17353
 # PowerBI para Office365
-#### [Back to calendar](#SQLSaturday-#348-Ica,-Peru-2014)
+#### [Back to calendar](#nr-348)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jorge Castañeda Cano
 ## Title: PowerBI para Office365
@@ -59,7 +60,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21928
 # SQL Server 2014 AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#348-Ica,-Peru-2014)
+#### [Back to calendar](#nr-348)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Percy Reyes
 ## Title: SQL Server 2014 AlwaysOn Availability Groups
@@ -68,7 +69,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22626
 # Tabuleando 2014
-#### [Back to calendar](#SQLSaturday-#348-Ica,-Peru-2014)
+#### [Back to calendar](#nr-348)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: raul Balbuena
 ## Title: Tabuleando 2014
@@ -77,7 +78,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 34545
 # High Availability and Disaster Recovery with SQL Server 2014 hybrid cloud
-#### [Back to calendar](#SQLSaturday-#348-Ica,-Peru-2014)
+#### [Back to calendar](#nr-348)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Alberto De Rossi
 ## Title: High Availability and Disaster Recovery with SQL Server 2014 hybrid cloud
@@ -86,7 +87,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9230
 # XML con SQL SEVER
-#### [Back to calendar](#SQLSaturday-#348-Ica,-Peru-2014)
+#### [Back to calendar](#nr-348)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: PEDRO ALEX TAYA YACTAYO
 ## Title: XML con SQL SEVER

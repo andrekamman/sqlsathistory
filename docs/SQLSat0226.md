@@ -1,3 +1,4 @@
+#### Nr: 226
 #### [Back to Main list](index.md)
 # SQLSaturday #226 - South Florida 2013
 Start Time (24h)|Speaker|Track|Title
@@ -54,7 +55,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10663
 # Wrangling performance with Resource Governor
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Performance (1054)
 ## Speaker: Brandon Leach
 ## Title: Wrangling performance with Resource Governor
@@ -63,7 +64,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Performance (1054)
 #  
 #### SessionID: 10664
 # Implementing a HIPAA Compliance Strategy with SQL Server
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Auditing (1053)
 ## Speaker: Brandon Leach
 ## Title: Implementing a HIPAA Compliance Strategy with SQL Server
@@ -74,7 +75,7 @@ In this hour long session We'll delve into the Health Insurance Portability and 
 #  
 #### SessionID: 11917
 # Into the Wild,Taming Unstructured Data
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Performance (1054)
 ## Speaker: Christopher Price
 ## Title: Into the Wild,Taming Unstructured Data
@@ -83,7 +84,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Performance (1054)
 #  
 #### SessionID: 11919
 # MDS in Practice: An Integrated Approach
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Business Analytics (3033)
 ## Speaker: Christopher Price
 ## Title: MDS in Practice: An Integrated Approach
@@ -92,7 +93,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Business Analytics (303
 #  
 #### SessionID: 12394
 # SQL Server 2012 AlwaysOn Step-by-Step
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track SQL2012 (1047)
 ## Speaker: David Bermingham
 ## Title: SQL Server 2012 AlwaysOn Step-by-Step
@@ -101,7 +102,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track SQL2012 (1047
 #  
 #### SessionID: 12415
 # High Performance SANLess Clustering
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Auditorium (1124)
 ## Speaker: Sios Technology and Allan Hirt
 ## Title: High Performance SANLess Clustering
@@ -110,7 +111,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Auditorium (1124)
 #  
 #### SessionID: 12944
 # Dealing With Errors in SSIS 2012
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI Track (3030)
 ## Speaker: David Dye
 ## Title: Dealing With Errors in SSIS 2012
@@ -119,7 +120,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI Track (3030)
 #  
 #### SessionID: 12945
 # Whats New in T-SQL With SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track SQL2012 (1047)
 ## Speaker: David Dye
 ## Title: Whats New in T-SQL With SQL Server 2012
@@ -128,7 +129,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track SQL2012 (1047
 #  
 #### SessionID: 12947
 # Column Level Encryption
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Auditing (1053)
 ## Speaker: David Dye
 ## Title: Column Level Encryption
@@ -137,7 +138,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Auditing (1053)
 #  
 #### SessionID: 13248
 # Keynote - Women in Technology Panel 
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Auditorium (1124)
 ## Speaker: Diana Betancourt
 ## Title: Keynote - Women in Technology Panel 
@@ -147,7 +148,7 @@ Diana Betancourt will be moderating this discussion with a guided Q/A format wit
 #  
 #### SessionID: 13380
 # Exploring The Microsoft Reporting Technologies
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI  Reporting (3031)
 ## Speaker: David Ortiz
 ## Title: Exploring The Microsoft Reporting Technologies
@@ -156,7 +157,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI  Reporting (3031)
 #  
 #### SessionID: 14312
 # Code Paradigms in BIDS
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DEV  Programming (1052)
 ## Speaker: Frank Quintana
 ## Title: Code Paradigms in BIDS
@@ -167,7 +168,7 @@ It is impossible to explain even one aspect of one of the tools that comprise BI
 #  
 #### SessionID: 15022
 # SQL Server 2012 IaaS and SQL Database In Depth
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Database Developers (1049)
 ## Speaker: Herve Roggero
 ## Title: SQL Server 2012 IaaS and SQL Database In Depth
@@ -176,7 +177,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Database Developers (10
 #  
 #### SessionID: 16317
 # How to be a GREAT DBA
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Auditorium (1124)
 ## Speaker: Jeffrey Garbus
 ## Title: How to be a GREAT DBA
@@ -188,7 +189,7 @@ Great for beginner to intermediate DBAs, as well as Developers who think this is
 #  
 #### SessionID: 16319
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Performance (1054)
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
@@ -197,7 +198,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Performance (1054)
 #  
 #### SessionID: 16513
 # Best Practice Data Visualization
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI Track (3030)
 ## Speaker: Jen Underwood
 ## Title: Best Practice Data Visualization
@@ -207,7 +208,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI Track (3030)
 #  
 #### SessionID: 16804
 # AlwaysOn - Finally, A usable 'mirror'!
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track (1048)
 ## Speaker: Jim Murphy
 ## Title: AlwaysOn - Finally, A usable 'mirror'!
@@ -216,7 +217,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track (1048)
 #  
 #### SessionID: 16974
 # Changing Data Is Easy, Managing Data Change is Hard!
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Business Analytics (3033)
 ## Speaker: James McAuliffe
 ## Title: Changing Data Is Easy, Managing Data Change is Hard!
@@ -225,7 +226,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Business Analytics (303
 #  
 #### SessionID: 17196
 # Moving Big Data - SSIS, Pig, and Sqoop
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DEV  Programming (1052)
 ## Speaker: John Welch
 ## Title: Moving Big Data - SSIS, Pig, and Sqoop
@@ -234,7 +235,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DEV  Programming (1052)
 #  
 #### SessionID: 17197
 # Unit Testing SSIS Packages
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DEV  Programming (1052)
 ## Speaker: John Welch
 ## Title: Unit Testing SSIS Packages
@@ -243,7 +244,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DEV  Programming (1052)
 #  
 #### SessionID: 17198
 # Tuning Analysis Services Processing Performance
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Performance (1054)
 ## Speaker: John Welch
 ## Title: Tuning Analysis Services Processing Performance
@@ -252,7 +253,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Performance (1054)
 #  
 #### SessionID: 17359
 # SSIS Programming using .Net
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Database Developers (1049)
 ## Speaker: Jorge Novo
 ## Title: SSIS Programming using .Net
@@ -261,7 +262,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Database Developers (10
 #  
 #### SessionID: 17363
 # ETL  Automation Using SSIS
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI Track (3030)
 ## Speaker: Jorge Novo
 ## Title: ETL  Automation Using SSIS
@@ -270,7 +271,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI Track (3030)
 #  
 #### SessionID: 17438
 # The T-SQL Features in SQL Server 2012 You Can't Ignore
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Database Developers (1049)
 ## Speaker: Richie Rump
 ## Title: The T-SQL Features in SQL Server 2012 You Can't Ignore
@@ -279,7 +280,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Database Developers (10
 #  
 #### SessionID: 17439
 # Database Design Disasters: Common Mistakes Found in the Wild
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Database Developers (1049)
 ## Speaker: Richie Rump
 ## Title: Database Design Disasters: Common Mistakes Found in the Wild
@@ -288,7 +289,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Database Developers (10
 #  
 #### SessionID: 18060
 # Discover, Document,  Diagnose Your Servers on Your Coffee Break
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Auditing (1053)
 ## Speaker: Kendal Van Dyke
 ## Title: Discover, Document,  Diagnose Your Servers on Your Coffee Break
@@ -302,7 +303,7 @@ Attend this session and walk away with everything you need to generate documenta
 #  
 #### SessionID: 18061
 # Building Your Own SQL Server Virtual Playground
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Auditing (1053)
 ## Speaker: Kendal Van Dyke
 ## Title: Building Your Own SQL Server Virtual Playground
@@ -311,7 +312,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Auditing (1053)
 #  
 #### SessionID: 18988
 # Getting started with Master Data Services 2012
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI  Reporting (3031)
 ## Speaker: Luis Figueroa
 ## Title: Getting started with Master Data Services 2012
@@ -320,7 +321,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI  Reporting (3031)
 #  
 #### SessionID: 19892
 # PowerShell Working with XML and SMO
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track (1048)
 ## Speaker: Maximo Trinidad
 ## Title: PowerShell Working with XML and SMO
@@ -329,7 +330,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track (1048)
 #  
 #### SessionID: 19893
 # SSIS - Integrating PowerShell in a ScriptTask component
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI Track (3030)
 ## Speaker: Maximo Trinidad
 ## Title: SSIS - Integrating PowerShell in a ScriptTask component
@@ -338,7 +339,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI Track (3030)
 #  
 #### SessionID: 20016
 # Agile BI with SQL Server 2012 and TFS 2012
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI  Reporting (3031)
 ## Speaker: Mohamed Kabiruddin
 ## Title: Agile BI with SQL Server 2012 and TFS 2012
@@ -347,7 +348,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI  Reporting (3031)
 #  
 #### SessionID: 20032
 # SQL Server 2012 ColumnStore Indexes
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track (1048)
 ## Speaker: Gareth Swanepoel
 ## Title: SQL Server 2012 ColumnStore Indexes
@@ -358,7 +359,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track (1048)
 #  
 #### SessionID: 20033
 # Building a SQL Server for Optimal Performance
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Performance (1054)
 ## Speaker: Gareth Swanepoel
 ## Title: Building a SQL Server for Optimal Performance
@@ -368,7 +369,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Performance (1054)
 #  
 #### SessionID: 20486
 # Introducing Cube World To Users From Flat Table Land
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Business Dev (3032)
 ## Speaker: Michael Antonovich
 ## Title: Introducing Cube World To Users From Flat Table Land
@@ -377,7 +378,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Business Dev (3032)
 #  
 #### SessionID: 20487
 # Putting Quality Back Into Your Data Analysis
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Business Dev (3032)
 ## Speaker: Michael Antonovich
 ## Title: Putting Quality Back Into Your Data Analysis
@@ -386,7 +387,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Business Dev (3032)
 #  
 #### SessionID: 22958
 # HDInsight: What’s all the Hadoopla about Big Data?
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Self Service BI (3034)
 ## Speaker: Rafael Salas
 ## Title: HDInsight: What’s all the Hadoopla about Big Data?
@@ -395,7 +396,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Self Service BI (3034)
 #  
 #### SessionID: 23891
 # TempDB under the hood
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track (1048)
 ## Speaker: Sam Mesel
 ## Title: TempDB under the hood
@@ -404,7 +405,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track (1048)
 #  
 #### SessionID: 24690
 # A Big Data Primer
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Self Service BI (3034)
 ## Speaker: Stacia Varga
 ## Title: A Big Data Primer
@@ -413,7 +414,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Self Service BI (3034)
 #  
 #### SessionID: 24691
 # Dashboard Do's and Don'ts
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Business Analytics (3033)
 ## Speaker: Stacia Varga
 ## Title: Dashboard Do's and Don'ts
@@ -422,7 +423,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Business Analytics (303
 #  
 #### SessionID: 24920
 # SQL Server 2012 AlwaysOn for HA and DR
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track SQL2012 (1047)
 ## Speaker: Chad Churchwell
 ## Title: SQL Server 2012 AlwaysOn for HA and DR
@@ -431,7 +432,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track SQL2012 (1047
 #  
 #### SessionID: 24921
 # Introduction to SQL Server Replication
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Auditing (1053)
 ## Speaker: Chad Churchwell
 ## Title: Introduction to SQL Server Replication
@@ -440,7 +441,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA  Auditing (1053)
 #  
 #### SessionID: 26155
 # SQL Server 2012 Column Store Index
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track SQL2012 (1047)
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2012 Column Store Index
@@ -449,7 +450,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DBA Track SQL2012 (1047
 #  
 #### SessionID: 26156
 # Fundamentals of Join Operations
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DEV  Programming (1052)
 ## Speaker: Kevin Boles
 ## Title: Fundamentals of Join Operations
@@ -458,7 +459,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: DEV  Programming (1052)
 #  
 #### SessionID: 34714
 # Social Marketing 2013 for Microsoft Professionals
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Business Dev (3032)
 ## Speaker: Mark Tabladillo
 ## Title: Social Marketing 2013 for Microsoft Professionals
@@ -467,7 +468,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Business Dev (3032)
 #  
 #### SessionID: 34715
 # Applied Enterprise Semantic Mining
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI  Reporting (3031)
 ## Speaker: Mark Tabladillo
 ## Title: Applied Enterprise Semantic Mining
@@ -476,7 +477,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI  Reporting (3031)
 #  
 #### SessionID: 34717
 # Data Mining Innovation with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI Track (3030)
 ## Speaker: Mark Tabladillo
 ## Title: Data Mining Innovation with SQL Server 2012
@@ -485,7 +486,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: BI Track (3030)
 #  
 #### SessionID: 9903
 # SSAS Tabular and PowerPivot - Choose Your Own Adve
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Business Analytics (3033)
 ## Speaker: Anthony Sammartino
 ## Title: SSAS Tabular and PowerPivot - Choose Your Own Adve
@@ -495,7 +496,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Business Analytics (303
 #  
 #### SessionID: 9904
 # Self-Service Visualization with Power View
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Self Service BI (3034)
 ## Speaker: Anthony Sammartino
 ## Title: Self-Service Visualization with Power View
@@ -505,7 +506,7 @@ Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Self Service BI (3034)
 #  
 #### SessionID: 9905
 # A Balanced BI Approach (Self-Service  Corporate)
-#### [Back to calendar](#SQLSaturday-#226-South-Florida-2013)
+#### [Back to calendar](#nr-226)
 Event Date: 29-06-2013 - Session time: 00:00:00 - Track: Self Service BI (3034)
 ## Speaker: Anthony Sammartino
 ## Title: A Balanced BI Approach (Self-Service  Corporate)

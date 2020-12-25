@@ -1,3 +1,4 @@
+#### Nr: 224
 #### [Back to Main list](index.md)
 # SQLSaturday #224 - Sydney 2013
 Start Time (24h)|Speaker|Track|Title
@@ -13,7 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11987
 # Introducing Microsoft Data Explorer for Excel
-#### [Back to calendar](#SQLSaturday-#224-Sydney-2013)
+#### [Back to calendar](#nr-224)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Craig Bryden
 ## Title: Introducing Microsoft Data Explorer for Excel
@@ -22,7 +23,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14470
 # Integration Services (SSIS) back to basics
-#### [Back to calendar](#SQLSaturday-#224-Sydney-2013)
+#### [Back to calendar](#nr-224)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Geoff Orr
 ## Title: Integration Services (SSIS) back to basics
@@ -31,7 +32,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 14723
 # he godlike power of Excel 2013 with its disciples PowerPivot, PowerView and Geoflow
-#### [Back to calendar](#SQLSaturday-#224-Sydney-2013)
+#### [Back to calendar](#nr-224)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Grant Paisley
 ## Title: he godlike power of Excel 2013 with its disciples PowerPivot, PowerView and Geoflow
@@ -40,7 +41,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 20014
 # Agile BI with SQL Server 2012 and TFS 2012
-#### [Back to calendar](#SQLSaturday-#224-Sydney-2013)
+#### [Back to calendar](#nr-224)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mohamed Kabiruddin
 ## Title: Agile BI with SQL Server 2012 and TFS 2012
@@ -49,7 +50,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21954
 # Big Data Analytics with PowerPivot and Power View
-#### [Back to calendar](#SQLSaturday-#224-Sydney-2013)
+#### [Back to calendar](#nr-224)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Peter Myers
 ## Title: Big Data Analytics with PowerPivot and Power View
@@ -58,7 +59,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21956
 # Mastering the CUBE functions in Excel 2013
-#### [Back to calendar](#SQLSaturday-#224-Sydney-2013)
+#### [Back to calendar](#nr-224)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Peter Myers
 ## Title: Mastering the CUBE functions in Excel 2013
@@ -71,7 +72,7 @@ This session is a must for those looking to drive more from Excel when reporting
 #  
 #### SessionID: 27414
 # Maximizing SQL Server Performance: Tuning the Processor, RAM, Disk and Network Subsystems
-#### [Back to calendar](#SQLSaturday-#224-Sydney-2013)
+#### [Back to calendar](#nr-224)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Victor Isakov
 ## Title: Maximizing SQL Server Performance: Tuning the Processor, RAM, Disk and Network Subsystems
@@ -80,7 +81,7 @@ Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 27665
 # Pimp my Availability Groups
-#### [Back to calendar](#SQLSaturday-#224-Sydney-2013)
+#### [Back to calendar](#nr-224)
 Event Date: 25-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Warwick Rudd
 ## Title: Pimp my Availability Groups

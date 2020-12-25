@@ -1,3 +1,4 @@
+#### Nr: 770
 #### [Back to Main list](index.md)
 # SQLSaturday #770 - Pittsburgh 2018
 Start Time (24h)|Speaker|Track|Title
@@ -50,7 +51,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 77708
 # SQL Server with Docker Containers
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: SQL Server with Docker Containers
@@ -59,7 +60,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 80590
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -68,7 +69,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 82757
 # Take the changes under control
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alex Grinberg
 ## Title: Take the changes under control
@@ -77,7 +78,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83754
 # Cloudy with a Chance of Data
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rick Heiges
 ## Title: Cloudy with a Chance of Data
@@ -86,7 +87,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 84026
 # SQL Server Databaseology: A Deep Dive Into Database Internals
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology: A Deep Dive Into Database Internals
@@ -95,7 +96,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85425
 # Introduction to Azure Machine learning
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Ravi Kumar
 ## Title: Introduction to Azure Machine learning
@@ -107,7 +108,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 85459
 # Power BI Internals: a Deep Dive
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Meidinger
 ## Title: Power BI Internals: a Deep Dive
@@ -116,7 +117,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 83878
 # Managing Enterprise Data Quality with Data Quality Services 2016
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Beswick
 ## Title: Managing Enterprise Data Quality with Data Quality Services 2016
@@ -125,7 +126,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 78084
 # Intro to Query Store
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Intro to Query Store
@@ -138,7 +139,7 @@ In this session, we will walk through the features of Query Store, so you can un
 #  
 #### SessionID: 81981
 # Azure IoT, Windows 10 Core  Raspberry PI (DIY)
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jens Vestergaard
 ## Title: Azure IoT, Windows 10 Core  Raspberry PI (DIY)
@@ -148,7 +149,7 @@ This session is not for the Enterprise rather has a more DIY approach.
 #  
 #### SessionID: 82087
 # Deep Dive: RedGate's SQL Change Automation tool for database delivery
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Steve Grier
 ## Title: Deep Dive: RedGate's SQL Change Automation tool for database delivery
@@ -157,7 +158,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 82495
 # Automate the Pain Away with Adaptive Query Processing and Automatic Tuning
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: Automate the Pain Away with Adaptive Query Processing and Automatic Tuning
@@ -166,7 +167,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82583
 # I'm It - Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
@@ -175,7 +176,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82840
 # Power BI with Maps: Choose Your Destination
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Rayis Imayev
 ## Title: Power BI with Maps: Choose Your Destination
@@ -186,7 +187,7 @@ Power BI itself a great tool that could feed your appetite for an adventure usin
 #  
 #### SessionID: 84946
 # “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
@@ -199,7 +200,7 @@ In this first of two back-to-back sessions on the subject, we’ll explore what 
 #  
 #### SessionID: 84949
 # Working Smarter by Using Window Functions
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Michael Schulte
 ## Title: Working Smarter by Using Window Functions
@@ -209,7 +210,7 @@ In this session, you will learn how to use window functions in your queries. You
 #  
 #### SessionID: 77137
 # Build a White/Blacklist Bouncer. Who Gets into Your SQL Club?
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: Build a White/Blacklist Bouncer. Who Gets into Your SQL Club?
@@ -225,7 +226,7 @@ In this session, we will go through the process to create and test your own SQL 
 #  
 #### SessionID: 80804
 # Cleaning Is Half The Battle: Launching A Data Science Project
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Cleaning Is Half The Battle: Launching A Data Science Project
@@ -234,7 +235,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 81960
 # I Want To Go Faster! A Beginner's Guide To Indexing
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Bert Wagner
 ## Title: I Want To Go Faster! A Beginner's Guide To Indexing
@@ -245,7 +246,7 @@ In this session you will learn the basics of how to create performance improving
 #  
 #### SessionID: 84024
 # Temporal Tables – The New Hotness in Data Auditing
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: John Morehouse
 ## Title: Temporal Tables – The New Hotness in Data Auditing
@@ -254,7 +255,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 84947
 # “Black Arts” Index Maintenance #2: Better Methods that Can Actually Prevent Fragmentation for Weeks.
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #2: Better Methods that Can Actually Prevent Fragmentation for Weeks.
@@ -269,7 +270,7 @@ We’ll also learn that no simple method is a panacea, what to do about the horr
 #  
 #### SessionID: 85993
 # T-SQL Tips  Tricks to Make Your Life Easier!
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: T-SQL Tips  Tricks to Make Your Life Easier!
@@ -282,7 +283,7 @@ This session targets both developers and DBAs; the only prerequisites are the de
 #  
 #### SessionID: 77707
 # Mom Rules for Managing Enterprise Database Environments
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: Mom Rules for Managing Enterprise Database Environments
@@ -291,7 +292,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 77808
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -304,7 +305,7 @@ Instead of focusing on syntax, the session will plunge straight into examples an
 #  
 #### SessionID: 77809
 # SQL Server Transactional Replication: A Deeper Dive
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server Transactional Replication: A Deeper Dive
@@ -317,7 +318,7 @@ Finally, you'll see examples on how to configure transactional replication in hi
 #  
 #### SessionID: 80591
 # Adopting A DevOps Process for Your Database
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steve Jones
 ## Title: Adopting A DevOps Process for Your Database
@@ -326,7 +327,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82581
 # Always Encrypted for Beginners
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: Always Encrypted for Beginners
@@ -335,7 +336,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82758
 # XML and JSON, does the DBA need it?
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Alex Grinberg
 ## Title: XML and JSON, does the DBA need it?
@@ -344,7 +345,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 83971
 # DBA - What's Most Important
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Other
 ## Speaker: Ed Wagner
 ## Title: DBA - What's Most Important
@@ -353,7 +354,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Other
 #  
 #### SessionID: 85439
 # Relationship Goals:  The SQL Server Graph Database
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Jonathan Stewart
 ## Title: Relationship Goals:  The SQL Server Graph Database
@@ -364,7 +365,7 @@ One of the best new features of SQL Server 2017 is the Graph Database!  It bring
 #  
 #### SessionID: 85547
 # HiHo! HiHo! SQL Server on Linux, We Go!
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Janis Griffin
 ## Title: HiHo! HiHo! SQL Server on Linux, We Go!
@@ -378,7 +379,7 @@ The participant will learn:
 #  
 #### SessionID: 77119
 # Data Profiling or Statistics 201
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Slava Murygin
 ## Title: Data Profiling or Statistics 201
@@ -389,7 +390,7 @@ In order to make the process faster, we will use a hidden gem of SQL Server:  St
 #  
 #### SessionID: 80681
 # Emergency! Are You Ready for Disaster to Strike?
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Emergency! Are You Ready for Disaster to Strike?
@@ -398,7 +399,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 80807
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Strategy and Architecture
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
@@ -407,7 +408,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 81962
 # High Performance SSRS: Techniques for Faster Reporting
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bert Wagner
 ## Title: High Performance SSRS: Techniques for Faster Reporting
@@ -418,7 +419,7 @@ This rapid-fire session looks at T-SQL and SSRS specific techniques that can be 
 #  
 #### SessionID: 81984
 # Power BI Basics - On Coke
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Jens Vestergaard
 ## Title: Power BI Basics - On Coke
@@ -440,7 +441,7 @@ Additionally I will demonstrate how to deploy your home grown model into Azure A
 #  
 #### SessionID: 82201
 # I have to support what!?  SQL, Oracle, and Mongo -  A side by side “how to”
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kimberly StJacques
 ## Title: I have to support what!?  SQL, Oracle, and Mongo -  A side by side “how to”
@@ -449,7 +450,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84714
 # Introduction to Spatial Data with the help of SQL Server 2016/17
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Hasan Savran
 ## Title: Introduction to Spatial Data with the help of SQL Server 2016/17
@@ -460,7 +461,7 @@ I will introduce you to Spatial Data in the SQL server and show how to import da
 #  
 #### SessionID: 84891
 # The Vocabulary of Performance Tuning
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: The Vocabulary of Performance Tuning
@@ -469,7 +470,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 77136
 # 5 Minute No Sweat SQL Security Audits
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: 5 Minute No Sweat SQL Security Audits
@@ -479,7 +480,7 @@ In this session, you will get scripts that I use for compliance audits that help
 #  
 #### SessionID: 78086
 # Tips on Managing Lots of SQL Servers
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Tips on Managing Lots of SQL Servers
@@ -490,7 +491,7 @@ In this talk we will answer these questions and more as we discuss technologies 
 #  
 #### SessionID: 80684
 # Troubleshooting and Tuning Query Performance
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Allen White
 ## Title: Troubleshooting and Tuning Query Performance
@@ -499,7 +500,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 82168
 # "Schadenfreude" - Let's enjoy the mistakes other people made...
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Other
 ## Speaker: Thomas Grohser
 ## Title: "Schadenfreude" - Let's enjoy the mistakes other people made...
@@ -510,7 +511,7 @@ After a log day, come in and have some fun before the evening event starts
 #  
 #### SessionID: 82333
 # Successfully Running SQL Server in AWS
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Carrig
 ## Title: Successfully Running SQL Server in AWS
@@ -519,7 +520,7 @@ Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84705
 # 14 T-SQL Functions You May Not Know
-#### [Back to calendar](#SQLSaturday-#770-Pittsburgh-2018)
+#### [Back to calendar](#nr-770)
 Event Date: 29-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: 14 T-SQL Functions You May Not Know

@@ -1,3 +1,4 @@
+#### Nr: 439
 #### [Back to Main list](index.md)
 # SQLSaturday #439 - Columbus 2015
 Start Time (24h)|Speaker|Track|Title
@@ -40,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 36649
 # SQL Server 2014 In-Memory Programming
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: miguel Cebollero
 ## Title: SQL Server 2014 In-Memory Programming
@@ -49,7 +50,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 36661
 # Revenge: The SQL! - Director's Cut
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL! - Director's Cut
@@ -64,7 +65,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 36942
 # Performance Tuning for Mere Mortals Part I
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Watson
 ## Title: Performance Tuning for Mere Mortals Part I
@@ -73,7 +74,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37558
 # Tone Analysis with HDInsight and Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Paco Gonzalez
 ## Title: Tone Analysis with HDInsight and Azure Machine Learning
@@ -82,7 +83,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 38494
 # Introducing the SSAS Tabular Data Model
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Robert Cain
 ## Title: Introducing the SSAS Tabular Data Model
@@ -91,7 +92,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 38539
 # Self-Service ETL with Microsoft Power Query
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Damu Venkatesan
 ## Title: Self-Service ETL with Microsoft Power Query
@@ -100,7 +101,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 39828
 # Smart Rats Leave First
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Geoff Hiten
 ## Title: Smart Rats Leave First
@@ -110,7 +111,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 36663
 # Table Partitioning Intro and make that a sliding window too!
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Reinhard
 ## Title: Table Partitioning Intro and make that a sliding window too!
@@ -120,7 +121,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 36748
 # SQL Server Optimization for SharePoint
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sven Aelterman
 ## Title: SQL Server Optimization for SharePoint
@@ -129,7 +130,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38491
 # Zero to Hero with PowerShell
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Other
 ## Speaker: Robert Cain
 ## Title: Zero to Hero with PowerShell
@@ -140,7 +141,7 @@ In this session we'll start with the basics, like cmdlets, variables, and the ID
 #  
 #### SessionID: 38506
 # Self-Service Analysis with Power BI
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Dan Evans
 ## Title: Self-Service Analysis with Power BI
@@ -149,7 +150,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 38514
 # Performance Tuning for Mere Mortals Part II
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Lawell
 ## Title: Performance Tuning for Mere Mortals Part II
@@ -162,7 +163,7 @@ There will be homework!
 #  
 #### SessionID: 40887
 # Azure Data Factory: My Data Wandered Lonely as a CLOUD.
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Julie Smith
 ## Title: Azure Data Factory: My Data Wandered Lonely as a CLOUD.
@@ -171,7 +172,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 41014
 # Sparkhound Top Dog Challenge
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: William Assaf
 ## Title: Sparkhound Top Dog Challenge
@@ -180,7 +181,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 36656
 # Introducing Forensic Analytics with PowerPivot for Excel
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: William E Pearson III
 ## Title: Introducing Forensic Analytics with PowerPivot for Excel
@@ -190,7 +191,7 @@ In this session, we explore Forensic Analytics: a set of techniques we can use t
 #  
 #### SessionID: 36662
 # AlwaysOn Availability Groups Kickoff
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Reinhard
 ## Title: AlwaysOn Availability Groups Kickoff
@@ -199,7 +200,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37499
 # How do I Get-Started with PowerShell?
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Robbins
 ## Title: How do I Get-Started with PowerShell?
@@ -208,7 +209,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38065
 # Awesome PowerShell for SQL 2014
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Aaron Nelson
 ## Title: Awesome PowerShell for SQL 2014
@@ -217,7 +218,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38490
 # So you think MDX is hard?
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Robert Cain
 ## Title: So you think MDX is hard?
@@ -227,7 +228,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 38754
 # Continuous Integration with SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Jon Boulineau
 ## Title: Continuous Integration with SQL Server Data Tools
@@ -236,7 +237,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 39397
 # Balancing Work and Home to Create a Better You
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Balancing Work and Home to Create a Better You
@@ -245,7 +246,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 40086
 # SQL + SharePoint: Friends Forever
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: William Assaf
 ## Title: SQL + SharePoint: Friends Forever
@@ -254,7 +255,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 36657
 # Getting Started with Analysis Services 2012 Tabular
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: William E Pearson III
 ## Title: Getting Started with Analysis Services 2012 Tabular
@@ -263,7 +264,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 36750
 # Windows Server 2012 R2 High Availability for SQL Server
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sven Aelterman
 ## Title: Windows Server 2012 R2 High Availability for SQL Server
@@ -272,7 +273,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 36940
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Ed Watson
 ## Title: Introduction to SQL Server Integration Services
@@ -281,7 +282,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 37500
 # PS C:\gt; Get-Started -With 'PowerShell Desired State Configuration
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Robbins
 ## Title: PS C:\gt; Get-Started -With 'PowerShell Desired State Configuration
@@ -290,7 +291,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38745
 # Primer on Power BI
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Mark Tabladillo
 ## Title: Primer on Power BI
@@ -308,7 +309,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 41209
 # Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Rodney Landrum
 ## Title: Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
@@ -317,7 +318,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 38512
 # Execution Plans for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
@@ -328,7 +329,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 38755
 # How Queries Work
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Jon Boulineau
 ## Title: How Queries Work
@@ -337,7 +338,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 39047
 # Introduction to the Power BI Desktop
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to the Power BI Desktop
@@ -346,7 +347,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 39826
 # Room for a SQL VIEW
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Wilkie
 ## Title: Room for a SQL VIEW
@@ -355,7 +356,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 40041
 # Self-Service Business Intelligence in Excel
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Theresa Eller
 ## Title: Self-Service Business Intelligence in Excel
@@ -364,7 +365,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 40049
 # SQL Admin Best Practices with DMVs
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: William Assaf
 ## Title: SQL Admin Best Practices with DMVs
@@ -373,7 +374,7 @@ Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41092
 # Windowing Functions with SQL Server 2016 (Preview)
-#### [Back to calendar](#SQLSaturday-#439-Columbus-2015)
+#### [Back to calendar](#nr-439)
 Event Date: 03-10-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Mark Tabladillo
 ## Title: Windowing Functions with SQL Server 2016 (Preview)

@@ -1,3 +1,4 @@
+#### Nr: 889
 #### [Back to Main list](index.md)
 # SQLSaturday #889 - Prague 2019
 Start Time (24h)|Speaker|Track|Title
@@ -27,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 93775
 # Anomaly Detection in Predictive Maintenance for Sql Server
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Database Administration
 ## Speaker: Janusz Rokicki
 ## Title: Anomaly Detection in Predictive Maintenance for Sql Server
@@ -36,7 +37,7 @@ Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Database Administration
 #  
 #### SessionID: 96718
 # Profiling Your Data
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Database Development
 ## Speaker: Angela Henry
 ## Title: Profiling Your Data
@@ -45,7 +46,7 @@ Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Database Development
 #  
 #### SessionID: 98311
 # Maps in Power BI
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Business Intelligence
 ## Speaker: Karel Rejthar
 ## Title: Maps in Power BI
@@ -54,7 +55,7 @@ Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Business Intelligence
 #  
 #### SessionID: 94158
 # Build your next BI solution in Azure
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Business Intelligence
 ## Speaker: Alexander Klein
 ## Title: Build your next BI solution in Azure
@@ -63,7 +64,7 @@ Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Business Intelligence
 #  
 #### SessionID: 95870
 # Performance Troubleshooting Using DMVs
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Database Administration
 ## Speaker: Neil Hambly
 ## Title: Performance Troubleshooting Using DMVs
@@ -74,7 +75,7 @@ We’ll be demonstrating using practical examples, including code that can be ta
 #  
 #### SessionID: 98328
 # CI, CD, CDE and DevOps Explained
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Data  DevOps
 ## Speaker: Tomas Tucek
 ## Title: CI, CD, CDE and DevOps Explained
@@ -87,7 +88,7 @@ CD (continuous delivery), CDE (continuous deployment) and DevOps in our data pla
 #  
 #### SessionID: 93235
 # Comparing Predictive Models from R, Python, SSAS, and Azure ML
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Data Science  Machine Learning
 ## Speaker: Dejan Sarka
 ## Title: Comparing Predictive Models from R, Python, SSAS, and Azure ML
@@ -97,7 +98,7 @@ In data mining, you typically create multiple predictive models for the same tas
 #  
 #### SessionID: 93298
 # My 10 favorite PowerShell commands
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Database Administration
 ## Speaker: Marcos Freccia
 ## Title: My 10 favorite PowerShell commands
@@ -107,7 +108,7 @@ I promise that at least one new thing you will learn it
 #  
 #### SessionID: 95462
 # Power BI Row Level Security Deep Dive
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Business Intelligence
 ## Speaker: Jiří Neoral
 ## Title: Power BI Row Level Security Deep Dive
@@ -116,7 +117,7 @@ Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Business Intelligence
 #  
 #### SessionID: 96844
 # Successfully Virtualizing SQL Server on VMware vSphere: Straight from the Source
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Database Administration
 ## Speaker: Oleg Ulyanov
 ## Title: Successfully Virtualizing SQL Server on VMware vSphere: Straight from the Source
@@ -131,7 +132,7 @@ It all that you want to know about virtual platform configuration but hesitated 
 #  
 #### SessionID: 98556
 # .
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Data  DevOps
 ## Speaker: Tasty Lunch
 ## Title: .
@@ -140,7 +141,7 @@ Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Data  DevOps
 #  
 #### SessionID: 94086
 # Clever data: Building a chatbot from your database
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Data Science  Machine Learning
 ## Speaker: Luis Beltran
 ## Title: Clever data: Building a chatbot from your database
@@ -155,7 +156,7 @@ This session will be focused on explaining the actors involved when building a b
 #  
 #### SessionID: 95320
 # Power BI as a universal analytic tool
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Business Intelligence
 ## Speaker: Michal Chmelár
 ## Title: Power BI as a universal analytic tool
@@ -164,7 +165,7 @@ Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Business Intelligence
 #  
 #### SessionID: 96274
 # Intelligent Query Processing in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Database Development
 ## Speaker: Dmitry Pilugin
 ## Title: Intelligent Query Processing in SQL Server 2019
@@ -183,7 +184,7 @@ In this session we will see how do these features work and in what cases they mi
 #  
 #### SessionID: 94559
 # Analytics on Azure: What to Use When
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Business Intelligence
 ## Speaker: Christina Leo
 ## Title: Analytics on Azure: What to Use When
@@ -192,7 +193,7 @@ Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Business Intelligence
 #  
 #### SessionID: 95298
 # Designing your tabular/PowerBI model for performance and scalability
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Business Intelligence
 ## Speaker: Ivan Donev
 ## Title: Designing your tabular/PowerBI model for performance and scalability
@@ -201,7 +202,7 @@ Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Business Intelligence
 #  
 #### SessionID: 96529
 # Data scientists have left ... How will I deploy their work?
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Data Science  Machine Learning
 ## Speaker: Cédric Charlier
 ## Title: Data scientists have left ... How will I deploy their work?
@@ -211,7 +212,7 @@ That's it, data scientists have left the house! Behind them, some scripts writte
 #  
 #### SessionID: 93957
 # Azure Machine Learning with Power BI
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Data Science  Machine Learning
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Azure Machine Learning with Power BI
@@ -220,7 +221,7 @@ Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Data Science  Machine L
 #  
 #### SessionID: 96201
 # Transaction Isolation Levels - that could be funny
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Database Administration
 ## Speaker: Damian Widera
 ## Title: Transaction Isolation Levels - that could be funny
@@ -229,7 +230,7 @@ Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Database Administration
 #  
 #### SessionID: 95242
 # Practical Real-World Performance Tuning for Accidental DBAs
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Database Administration
 ## Speaker: Pinal Dave
 ## Title: Practical Real-World Performance Tuning for Accidental DBAs
@@ -245,7 +246,7 @@ e) Secret Performance Tuning Scripts
 #  
 #### SessionID: 95369
 # Power BI (Premium) Implementation at a Financial Institute
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Business Intelligence
 ## Speaker: Nicky van Vroenhoven
 ## Title: Power BI (Premium) Implementation at a Financial Institute
@@ -258,7 +259,7 @@ Throughout this session we take you along on our Power BI journey, with tips, tr
 #  
 #### SessionID: 95682
 # Common Data Science Mistakes
-#### [Back to calendar](#SQLSaturday-#889-Prague-2019)
+#### [Back to calendar](#nr-889)
 Event Date: 21-09-2019 - Session time: 17:15:00 - Track: Data Science  Machine Learning
 ## Speaker: Tomaž Kaštrun
 ## Title: Common Data Science Mistakes

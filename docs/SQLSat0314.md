@@ -1,3 +1,4 @@
+#### Nr: 314
 #### [Back to Main list](index.md)
 # SQLSaturday #314 - Providence 2014
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10879
 # Murder They Wrote
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 3 (PERF)
 ## Speaker: Jason Brimhall
 ## Title: Murder They Wrote
@@ -36,7 +37,7 @@ This is the Solo version of the Joint version normally done as an all-day precon
 #  
 #### SessionID: 11032
 # PowerShell for Database Developers
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 2 (DEV)
 ## Speaker: Bryan Cafferky
 ## Title: PowerShell for Database Developers
@@ -45,7 +46,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 2 (DEV)
 #  
 #### SessionID: 11033
 # Breaking Down BI Barriers with PowerShell
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 2 (DEV)
 ## Speaker: Bryan Cafferky
 ## Title: Breaking Down BI Barriers with PowerShell
@@ -54,7 +55,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 2 (DEV)
 #  
 #### SessionID: 11279
 # Prevent Recovery Amnesia – Forget the Backups
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 4 (ADM)
 ## Speaker: Chris Bell
 ## Title: Prevent Recovery Amnesia – Forget the Backups
@@ -67,7 +68,7 @@ Through this introductory session we will review the various aspects  myths of b
 #  
 #### SessionID: 11467
 # Scratching the surface: An overview of SSRS and building your first BI Report
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 1 (BI)
 ## Speaker: Christopher Seferlis
 ## Title: Scratching the surface: An overview of SSRS and building your first BI Report
@@ -76,7 +77,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 1 (BI)
 #  
 #### SessionID: 11567
 # Check Engine Lights
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 3 (PERF)
 ## Speaker: Chris Skorlinski
 ## Title: Check Engine Lights
@@ -85,7 +86,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 3 (PERF)
 #  
 #### SessionID: 13174
 # The Quest for the Golden Record:MDM Best Practices
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 1 (BI)
 ## Speaker: Dennis Messina
 ## Title: The Quest for the Golden Record:MDM Best Practices
@@ -95,7 +96,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 1 (BI)
 #  
 #### SessionID: 13857
 # Diving Into Query Execution Plans
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 3 (PERF)
 ## Speaker: Edward Pollack
 ## Title: Diving Into Query Execution Plans
@@ -104,7 +105,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 3 (PERF)
 #  
 #### SessionID: 14558
 # SQL Server 2012/2014 AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 4 (ADM)
 ## Speaker: George Walters
 ## Title: SQL Server 2012/2014 AlwaysOn Availability Groups
@@ -113,7 +114,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 4 (ADM)
 #  
 #### SessionID: 14559
 # SQL Server 2012/2014 Failover Clustering
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 4 (ADM)
 ## Speaker: George Walters
 ## Title: SQL Server 2012/2014 Failover Clustering
@@ -122,7 +123,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 4 (ADM)
 #  
 #### SessionID: 16747
 # SQL Server Data Tools Dev Life Cycle
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 2 (DEV)
 ## Speaker: John Flannery
 ## Title: SQL Server Data Tools Dev Life Cycle
@@ -131,7 +132,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 2 (DEV)
 #  
 #### SessionID: 20993
 # Data Partitioning - for performance, scalability and sanity!
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 2 (DEV)
 ## Speaker: Michael Nowill
 ## Title: Data Partitioning - for performance, scalability and sanity!
@@ -140,7 +141,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 2 (DEV)
 #  
 #### SessionID: 21669
 # Network or Perish
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 4 (ADM)
 ## Speaker: Paresh Motiwala
 ## Title: Network or Perish
@@ -151,7 +152,7 @@ http://wcompute.org/2012/05/19/review-of-sqlsaturday-142-network-or-perish/
 #  
 #### SessionID: 22592
 # Understanding Transaction Isolation Levels
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 3 (PERF)
 ## Speaker: Randy Knight
 ## Title: Understanding Transaction Isolation Levels
@@ -161,7 +162,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 3 (PERF)
 #  
 #### SessionID: 22593
 # Locks, Blocks, and Deadlocks Oh My!
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 3 (PERF)
 ## Speaker: Randy Knight
 ## Title: Locks, Blocks, and Deadlocks Oh My!
@@ -170,7 +171,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 3 (PERF)
 #  
 #### SessionID: 25548
 # A dive into Data Quality Services
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 1 (BI)
 ## Speaker: Steve Simon
 ## Title: A dive into Data Quality Services
@@ -179,7 +180,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 1 (BI)
 #  
 #### SessionID: 25881
 # Develop Impressive Dashboards using SSRS 2014
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 1 (BI)
 ## Speaker: Sunil Kadimdiwan
 ## Title: Develop Impressive Dashboards using SSRS 2014
@@ -188,7 +189,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 1 (BI)
 #  
 #### SessionID: 26975
 # Power BI Components in Microsoft's Self-Service BI Suite
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 1 (BI)
 ## Speaker: Todd Chittenden
 ## Title: Power BI Components in Microsoft's Self-Service BI Suite
@@ -198,7 +199,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 1 (BI)
 #  
 #### SessionID: 8922
 # T-SQL : Bad Habits  Best Practices
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 2 (DEV)
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits  Best Practices
@@ -207,7 +208,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 2 (DEV)
 #  
 #### SessionID: 9648
 # Storing Data in Windows Azure
-#### [Back to calendar](#SQLSaturday-#314-Providence-2014)
+#### [Back to calendar](#nr-314)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Track 4 (ADM)
 ## Speaker: Andy Roberts
 ## Title: Storing Data in Windows Azure

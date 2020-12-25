@@ -1,3 +1,4 @@
+#### Nr: 418
 #### [Back to Main list](index.md)
 # SQLSaturday #418 - Manchester 2015
 Start Time (24h)|Speaker|Track|Title
@@ -40,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 38678
 # Machine Learning without a PhD in statistics
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 ## Speaker: Andrew Fryer
 ## Title: Machine Learning without a PhD in statistics
@@ -51,7 +52,7 @@ Traditional BI has been all about creating consistent data sets fronted with eas
 #  
 #### SessionID: 38679
 # Session Details not available
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: n/a n/a
 ## Title: Session Details not available
@@ -60,7 +61,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 38694
 # Building Big Data Solutions with Microsoft Azure HDInsight 
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 ## Speaker: Graeme Malcolm
 ## Title: Building Big Data Solutions with Microsoft Azure HDInsight 
@@ -71,7 +72,7 @@ Need to work with big data? Attend this session to learn how to use Microsoft Az
 #  
 #### SessionID: 38695
 # Practical R: A hands-on training day
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Analytics
 ## Speaker: Stephanie Locke
 ## Title: Practical R: A hands-on training day
@@ -90,7 +91,7 @@ Bring your own laptop!
 #  
 #### SessionID: 38699
 # SQL Server 2014 In-memory technologies - Columnstore, In-Memory O
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Tony Rogerson
 ## Title: SQL Server 2014 In-memory technologies - Columnstore, In-Memory O
@@ -110,7 +111,7 @@ OLTP - In-memory OLAP •Tables
 #  
 #### SessionID: 39035
 # Database source control workshop
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Data Practices
 ## Speaker: Alex Yates
 ## Title: Database source control workshop
@@ -137,7 +138,7 @@ To get the most out of this workshop, you should be:
 #  
 #### SessionID: 36456
 # What do I need to know about SQL Server platform upgrade? 
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Satya Jayanty
 ## Title: What do I need to know about SQL Server platform upgrade? 
@@ -151,7 +152,7 @@ We will cover the complete upgrade cycle, including the preparation tasks, upgra
 #  
 #### SessionID: 36713
 # Approaches to database Unit Testing
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Data Practices
 ## Speaker: Gavin Campbell
 ## Title: Approaches to database Unit Testing
@@ -164,7 +165,7 @@ Over the years, a number of tools and approaches have been developed to address 
 #  
 #### SessionID: 37021
 # Creating Mobile Dashboards with DataZen
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Bob Duffy
 ## Title: Creating Mobile Dashboards with DataZen
@@ -176,7 +177,7 @@ We will be showing an end to end demo of creating and publishing dashboards for 
 #  
 #### SessionID: 37201
 # BI Application Lifecycle Management with TFS and Octopus Deploy
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Dmytro Andriychenko
 ## Title: BI Application Lifecycle Management with TFS and Octopus Deploy
@@ -185,7 +186,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 38677
 # Session Details not available
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 ## Speaker: n/a n/a
 ## Title: Session Details not available
@@ -194,7 +195,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 #  
 #### SessionID: 17297
 # Building your first Microsoft Azure IaaS infrastructure
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 ## Speaker: John Martin
 ## Title: Building your first Microsoft Azure IaaS infrastructure
@@ -203,7 +204,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 #  
 #### SessionID: 25280
 # Agile BI
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Data Practices
 ## Speaker: Stephanie Locke
 ## Title: Agile BI
@@ -213,7 +214,7 @@ Covering the technology and process sides of enabling agile BI, this session is 
 #  
 #### SessionID: 36672
 # Data modeling for data analysis and cubes
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Alex Whittles
 ## Title: Data modeling for data analysis and cubes
@@ -223,7 +224,7 @@ In this session we’ll look at a number of different data scenarios that we enc
 #  
 #### SessionID: 38203
 # Everything’s bigger these days – even data!
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 ## Speaker: Graeme Malcolm
 ## Title: Everything’s bigger these days – even data!
@@ -232,7 +233,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 #  
 #### SessionID: 38698
 # Deep Dive into In-Memory OLTP (Hekaton)
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Tony Rogerson
 ## Title: Deep Dive into In-Memory OLTP (Hekaton)
@@ -241,7 +242,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 37231
 # The first step towards continuous integration for SQL Server
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Sponsor
 ## Speaker: Alex Yates
 ## Title: The first step towards continuous integration for SQL Server
@@ -259,7 +260,7 @@ In this session, I will show you:
 #  
 #### SessionID: 38362
 # Data Quality Improvement through Master Data Driven Business Inte
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Sponsor
 ## Speaker: Ben Cooper
 ## Title: Data Quality Improvement through Master Data Driven Business Inte
@@ -268,7 +269,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Sponsor
 #  
 #### SessionID: 38705
 # SanDisk – Delivering the Application Accelerated Data Centre
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Sponsor
 ## Speaker: Steve Wharton
 ## Title: SanDisk – Delivering the Application Accelerated Data Centre
@@ -280,7 +281,7 @@ Principal Solutions Architect  Phil Clarke, will discuss these challenges, enabl
 #  
 #### SessionID: 39085
 # One BI Platform to Rule Them All
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Sponsor
 ## Speaker: Ian Macdonald
 ## Title: One BI Platform to Rule Them All
@@ -289,7 +290,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Sponsor
 #  
 #### SessionID: 18262
 # Tempdb - a database developer's perspective
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Kevan Riley
 ## Title: Tempdb - a database developer's perspective
@@ -298,7 +299,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 35639
 # Introduction to Replication from concepts to a running system!
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: David Williams
 ## Title: Introduction to Replication from concepts to a running system!
@@ -307,7 +308,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 35765
 # AD 2015. 2 AM. A Disaster just began...
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Data Practices
 ## Speaker: Tobias Koprowski
 ## Title: AD 2015. 2 AM. A Disaster just began...
@@ -316,7 +317,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Data Practices
 #  
 #### SessionID: 37143
 # Advanced SSIS Techniques
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: David Dye
 ## Title: Advanced SSIS Techniques
@@ -337,7 +338,7 @@ Upon completion of this workshop attendees will be able to:
 #  
 #### SessionID: 38202
 # Machine Learning without a PhD in statisitcs
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 ## Speaker: Andrew Fryer
 ## Title: Machine Learning without a PhD in statisitcs
@@ -346,7 +347,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 #  
 #### SessionID: 26105
 # SSRS Inception: Reporting on Reporting services.
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Terry McCann
 ## Title: SSRS Inception: Reporting on Reporting services.
@@ -357,7 +358,7 @@ Wouldn't it be great if you could see who is viewing a report, in what format an
 #  
 #### SessionID: 27310
 # INSERT / UPDATE / DELETE - deep dive
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Uwe Ricken
 ## Title: INSERT / UPDATE / DELETE - deep dive
@@ -368,7 +369,7 @@ SEE, what a workload will be caused by a "forwarded record". What tremendous wor
 #  
 #### SessionID: 37212
 # Exploring the Microsoft Data Platform  the Changing Role of the DBA
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 ## Speaker: John Martin
 ## Title: Exploring the Microsoft Data Platform  the Changing Role of the DBA
@@ -379,7 +380,7 @@ In this session we will look at Microsoft SQL Server, Azure SQL DB, DocumentDB a
 #  
 #### SessionID: 37232
 # The elephant in the room: Continuous Delivery for Databases
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Alex Yates
 ## Title: The elephant in the room: Continuous Delivery for Databases
@@ -400,7 +401,7 @@ By the end of the session, delegates will have learned not only that this elepha
 #  
 #### SessionID: 38667
 # Introducing Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 ## Speaker: James Rowland-Jones
 ## Title: Introducing Azure SQL Data Warehouse
@@ -409,7 +410,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 #  
 #### SessionID: 11504
 # SQL Server Batch Mode and CPU Architectures
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Christopher Adkin
 ## Title: SQL Server Batch Mode and CPU Architectures
@@ -418,7 +419,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 14145
 # Implementing and Maintaining an Azure SQL Database project
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 ## Speaker: Emanuele Zanchettin
 ## Title: Implementing and Maintaining an Azure SQL Database project
@@ -427,7 +428,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 #  
 #### SessionID: 34543
 # The 30 minute data warehouse
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Adam Aspin
 ## Title: The 30 minute data warehouse
@@ -436,7 +437,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 35803
 # DBA Guide to Extended Events
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Neil Hambly
 ## Title: DBA Guide to Extended Events
@@ -447,7 +448,7 @@ This session is focused to make you Effective with Extended Events, find out how
 #  
 #### SessionID: 36673
 # Beginners Guide to MDX
-#### [Back to calendar](#SQLSaturday-#418-Manchester-2015)
+#### [Back to calendar](#nr-418)
 Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Alex Whittles
 ## Title: Beginners Guide to MDX

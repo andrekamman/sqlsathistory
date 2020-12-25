@@ -1,3 +1,4 @@
+#### Nr: 137
 #### [Back to Main list](index.md)
 # SQLSaturday #137 - Canberra 2012
 Start Time (24h)|Speaker|Track|Title
@@ -11,7 +12,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 14722
 # Killer Real-World PowerPivot Examples
-#### [Back to calendar](#SQLSaturday-#137-Canberra-2012)
+#### [Back to calendar](#nr-137)
 Event Date: 19-04-2012 - Session time: 00:00:00 - Track: Everything SQL
 ## Speaker: Grant Paisley
 ## Title: Killer Real-World PowerPivot Examples
@@ -20,7 +21,7 @@ Event Date: 19-04-2012 - Session time: 00:00:00 - Track: Everything SQL
 #  
 #### SessionID: 14827
 # Better Together: Merge, Partitioning, ColumnStore 
-#### [Back to calendar](#SQLSaturday-#137-Canberra-2012)
+#### [Back to calendar](#nr-137)
 Event Date: 19-04-2012 - Session time: 00:00:00 - Track: Everything SQL
 ## Speaker: Greg Low
 ## Title: Better Together: Merge, Partitioning, ColumnStore 
@@ -29,7 +30,7 @@ Event Date: 19-04-2012 - Session time: 00:00:00 - Track: Everything SQL
 #  
 #### SessionID: 19725
 # SQL to the Core
-#### [Back to calendar](#SQLSaturday-#137-Canberra-2012)
+#### [Back to calendar](#nr-137)
 Event Date: 19-04-2012 - Session time: 00:00:00 - Track: Everything SQL
 ## Speaker: Martin Cairney
 ## Title: SQL to the Core
@@ -38,7 +39,7 @@ Event Date: 19-04-2012 - Session time: 00:00:00 - Track: Everything SQL
 #  
 #### SessionID: 21517
 # Database Consolidation with HP’s DBCA
-#### [Back to calendar](#SQLSaturday-#137-Canberra-2012)
+#### [Back to calendar](#nr-137)
 Event Date: 19-04-2012 - Session time: 00:00:00 - Track: Everything SQL
 ## Speaker: Raja N
 ## Title: Database Consolidation with HP’s DBCA
@@ -47,7 +48,7 @@ Event Date: 19-04-2012 - Session time: 00:00:00 - Track: Everything SQL
 #  
 #### SessionID: 23415
 # Visualising  your data with PivotViewer
-#### [Back to calendar](#SQLSaturday-#137-Canberra-2012)
+#### [Back to calendar](#nr-137)
 Event Date: 19-04-2012 - Session time: 00:00:00 - Track: Everything SQL
 ## Speaker: Roger Noble
 ## Title: Visualising  your data with PivotViewer
@@ -56,7 +57,7 @@ Event Date: 19-04-2012 - Session time: 00:00:00 - Track: Everything SQL
 #  
 #### SessionID: 27661
 # Keeping the light's on with SQL 2012 Always On
-#### [Back to calendar](#SQLSaturday-#137-Canberra-2012)
+#### [Back to calendar](#nr-137)
 Event Date: 19-04-2012 - Session time: 00:00:00 - Track: Everything SQL
 ## Speaker: Warwick Rudd
 ## Title: Keeping the light's on with SQL 2012 Always On

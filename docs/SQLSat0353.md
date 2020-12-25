@@ -1,3 +1,4 @@
+#### Nr: 353
 #### [Back to Main list](index.md)
 # SQLSaturday #353 - London - BA Edition 2014
 Start Time (24h)|Speaker|Track|Title
@@ -20,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10536
 # VBA: More than Macros
-#### [Back to calendar](#SQLSaturday-#353-London-BA-Edition-2014)
+#### [Back to calendar](#nr-353)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bob Phillips
 ## Title: VBA: More than Macros
@@ -29,7 +30,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 11477
 # Power Query: Beyond The Basics
-#### [Back to calendar](#SQLSaturday-#353-London-BA-Edition-2014)
+#### [Back to calendar](#nr-353)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Chris Webb
 ## Title: Power Query: Beyond The Basics
@@ -38,7 +39,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 12227
 # Improve Data Quality, Drive BI Value through Master Data Management 
-#### [Back to calendar](#SQLSaturday-#353-London-BA-Edition-2014)
+#### [Back to calendar](#nr-353)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dave Lawrence
 ## Title: Improve Data Quality, Drive BI Value through Master Data Management 
@@ -47,7 +48,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16430
 # Migration to the All Silicon Data Center
-#### [Back to calendar](#SQLSaturday-#353-London-BA-Edition-2014)
+#### [Back to calendar](#nr-353)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jen Stirrup
 ## Title: Migration to the All Silicon Data Center
@@ -56,7 +57,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16431
 # Introduction to Power BI
-#### [Back to calendar](#SQLSaturday-#353-London-BA-Edition-2014)
+#### [Back to calendar](#nr-353)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jen Stirrup
 ## Title: Introduction to Power BI
@@ -65,7 +66,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 16433
 # Microsoft Finance - Delivering Business Impact
-#### [Back to calendar](#SQLSaturday-#353-London-BA-Edition-2014)
+#### [Back to calendar](#nr-353)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jen Stirrup
 ## Title: Microsoft Finance - Delivering Business Impact
@@ -74,7 +75,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17325
 # Analytics and Big Data at the speed of light.
-#### [Back to calendar](#SQLSaturday-#353-London-BA-Edition-2014)
+#### [Back to calendar](#nr-353)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jonas Holmgren
 ## Title: Analytics and Big Data at the speed of light.
@@ -83,7 +84,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17332
 # Keynote: Data Culture : From BI  Analytics to Big Data and Data Science
-#### [Back to calendar](#SQLSaturday-#353-London-BA-Edition-2014)
+#### [Back to calendar](#nr-353)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jon Woodward
 ## Title: Keynote: Data Culture : From BI  Analytics to Big Data and Data Science
@@ -92,7 +93,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18984
 # Predictive Analytics- it's not just for scientists
-#### [Back to calendar](#SQLSaturday-#353-London-BA-Edition-2014)
+#### [Back to calendar](#nr-353)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Lee Hawthorn
 ## Title: Predictive Analytics- it's not just for scientists
@@ -101,7 +102,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19582
 # Using R, Cubes And Data Visualisation To Answer “What If” Questions
-#### [Back to calendar](#SQLSaturday-#353-London-BA-Edition-2014)
+#### [Back to calendar](#nr-353)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mark Wilcock
 ## Title: Using R, Cubes And Data Visualisation To Answer “What If” Questions
@@ -110,7 +111,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 22624
 # One BI Platform to Rule Them All
-#### [Back to calendar](#SQLSaturday-#353-London-BA-Edition-2014)
+#### [Back to calendar](#nr-353)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Avi Perez
 ## Title: One BI Platform to Rule Them All
@@ -125,7 +126,7 @@ Ian Macdonald (Boromir)
 #  
 #### SessionID: 23239
 # Charts beyond Excel’s Chart Wizard
-#### [Back to calendar](#SQLSaturday-#353-London-BA-Edition-2014)
+#### [Back to calendar](#nr-353)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Robert Mundigl
 ## Title: Charts beyond Excel’s Chart Wizard
@@ -134,7 +135,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23417
 # Using Slicers in Excel 2013
-#### [Back to calendar](#SQLSaturday-#353-London-BA-Edition-2014)
+#### [Back to calendar](#nr-353)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Roger Govier
 ## Title: Using Slicers in Excel 2013
@@ -143,7 +144,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 34657
 # Hurdles between modeling Excel power pivot models towards SQL Power pivot models
-#### [Back to calendar](#SQLSaturday-#353-London-BA-Edition-2014)
+#### [Back to calendar](#nr-353)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Henk Vlootman
 ## Title: Hurdles between modeling Excel power pivot models towards SQL Power pivot models
@@ -152,7 +153,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9280
 # Azure Data Services Half Day - Ticketed delegates only
-#### [Back to calendar](#SQLSaturday-#353-London-BA-Edition-2014)
+#### [Back to calendar](#nr-353)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Allan Mitchell
 ## Title: Azure Data Services Half Day - Ticketed delegates only

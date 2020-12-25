@@ -1,3 +1,4 @@
+#### Nr: 810
 #### [Back to Main list](index.md)
 # SQLSaturday #810 - Linz 2019
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 85165
 # Shard Attack - Horizontal Scaling in Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: David Postlethwaite
 ## Title: Shard Attack - Horizontal Scaling in Azure SQL Database
@@ -44,7 +45,7 @@ We will be using t-sql, PowerShell and c# so come prepared for some serious codi
 #  
 #### SessionID: 85185
 # Lightning Talk
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Lightning Talk
@@ -57,7 +58,7 @@ Roman Lansky - "How much memory you need for your SSAS Tabular solution?"
 #  
 #### SessionID: 85190
 # Start testing your SSIS packages with ssisUnit
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Development
 ## Speaker: Bartosz Ratajczyk
 ## Title: Start testing your SSIS packages with ssisUnit
@@ -68,7 +69,7 @@ On this session, I will show you how to start with automated testing of the pack
 #  
 #### SessionID: 86208
 # Power BI Data Modeling
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
 ## Speaker: Thomas Martens
 ## Title: Power BI Data Modeling
@@ -78,7 +79,7 @@ New data modeling features like many-to-many relationships and aggregations have
 #  
 #### SessionID: 85307
 # Query Store without SQL 2016 = Open Query Store
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platform, Architecture)
 ## Speaker: William Durkin
 ## Title: Query Store without SQL 2016 = Open Query Store
@@ -89,7 +90,7 @@ This session will give a short introduction to the Query Store feature in SQL 20
 #  
 #### SessionID: 85587
 # Woodworks on Azure ML Workbench
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
 ## Speaker: Mario Schnalzenberger
 ## Title: Woodworks on Azure ML Workbench
@@ -100,7 +101,7 @@ We will go through two experiments to classify raw data and image data using PYT
 #  
 #### SessionID: 86189
 # A Masters view on Query plans and indexing
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Development
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Query plans and indexing
@@ -112,7 +113,7 @@ selecting appropriate indexing for your query load.
 #  
 #### SessionID: 86218
 # Don't Cross the Streams! A Closer Look at Azure Stream Analytics
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: Johan Ludvig Brattås
 ## Title: Don't Cross the Streams! A Closer Look at Azure Stream Analytics
@@ -121,7 +122,7 @@ Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Cloud (Application Deve
 #  
 #### SessionID: 85181
 # Azure SQL Containers
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: Andrew Pruski
 ## Title: Azure SQL Containers
@@ -139,7 +140,7 @@ Each topic will be backed up with demos which will show how simple it is to get 
 #  
 #### SessionID: 85892
 # Azure Data Studio - The new kid in town
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Development
 ## Speaker: Frank Geisler
 ## Title: Azure Data Studio - The new kid in town
@@ -148,7 +149,7 @@ Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Development
 #  
 #### SessionID: 86133
 # Data Quality matters! Go for a quality roundtrip in the MS data platform
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
 ## Speaker: Oliver Engels
 ## Title: Data Quality matters! Go for a quality roundtrip in the MS data platform
@@ -158,7 +159,7 @@ We dive into the requirements of modern curation and show in examples, what the 
 #  
 #### SessionID: 86768
 # Anomalien Monitoring und SQL Abfragen-Analyse
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Michael Roedeske
 ## Title: Anomalien Monitoring und SQL Abfragen-Analyse
@@ -167,7 +168,7 @@ Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platfor
 #  
 #### SessionID: 86127
 # FROM DATA LAKE TO DAX QUERY
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: Gabi Münster
 ## Title: FROM DATA LAKE TO DAX QUERY
@@ -184,7 +185,7 @@ We will present you one approach to accomplish this.
 #  
 #### SessionID: 86161
 # Let's build an end-to-end IoT solution - from Edge to Cloud
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Development
 ## Speaker: Martin Pöckl
 ## Title: Let's build an end-to-end IoT solution - from Edge to Cloud
@@ -195,7 +196,7 @@ This demo-heavy session is for the cast and crew of developers that make any IoT
 #  
 #### SessionID: 86646
 # Big Data und Data Science
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Suha Güngören
 ## Title: Big Data und Data Science
@@ -212,7 +213,7 @@ Q  A
 #  
 #### SessionID: 87322
 # SQL Server 2019 Big Data Clusters – a game changer?
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
 ## Speaker: Ben Weissman
 ## Title: SQL Server 2019 Big Data Clusters – a game changer?
@@ -221,7 +222,7 @@ Event Date: 18-01-2019 - Session time: 15:45:00 - Track: BI (Architecture, Advan
 #  
 #### SessionID: 85151
 # SQL Server 2017: Data Science with Python or R?
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
 ## Speaker: Dejan Sarka
 ## Title: SQL Server 2017: Data Science with Python or R?
@@ -230,7 +231,7 @@ Event Date: 18-01-2019 - Session time: 15:45:00 - Track: BI (Architecture, Advan
 #  
 #### SessionID: 85975
 # Persistence is Futile - Implementing Delayed Durability in SQL Server
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Development
 ## Speaker: Mark Broadbent
 ## Title: Persistence is Futile - Implementing Delayed Durability in SQL Server
@@ -243,7 +244,7 @@ Attend this session and you will be assimilated!
 #  
 #### SessionID: 86037
 # How to Get Started with Azure Managed Instance
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: Björn Peters
 ## Title: How to Get Started with Azure Managed Instance
@@ -257,7 +258,7 @@ After this session, you'll understand this great database a bit better and know 
 #  
 #### SessionID: 86099
 # Der moderne DBA in einer heterogenen Datenbankwelt: Performance- und Verfügbarkeitsüberwachung
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Markus Schröder
 ## Title: Der moderne DBA in einer heterogenen Datenbankwelt: Performance- und Verfügbarkeitsüberwachung
@@ -266,7 +267,7 @@ Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platfor
 #  
 #### SessionID: 85246
 # U-SQL in great depth
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: Damian Widera
 ## Title: U-SQL in great depth
@@ -275,7 +276,7 @@ Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Cloud (Application Deve
 #  
 #### SessionID: 85356
 # Headless chicken - calming the sysadmin that turned DBA
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Alexander Arvidsson
 ## Title: Headless chicken - calming the sysadmin that turned DBA
@@ -284,7 +285,7 @@ Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platfor
 #  
 #### SessionID: 86052
 # Enterprise Power BI – Development Lifecycle
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
 ## Speaker: Asgeir Gunnarsson
 ## Title: Enterprise Power BI – Development Lifecycle
@@ -299,7 +300,7 @@ For all these topics we will look at the capabilities Power BI offers and how we
 #  
 #### SessionID: 86211
 # My 10 favorite PowerShell commands
-#### [Back to calendar](#SQLSaturday-#810-Linz-2019)
+#### [Back to calendar](#nr-810)
 Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Marcos Freccia
 ## Title: My 10 favorite PowerShell commands

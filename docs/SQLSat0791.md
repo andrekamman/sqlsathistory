@@ -1,3 +1,4 @@
+#### Nr: 791
 #### [Back to Main list](index.md)
 # SQLSaturday #791 - Banja Luka 2018
 Start Time (24h)|Speaker|Track|Title
@@ -24,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 82620
 # Data Overview and Manipulation – T-SQL, R, Python
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Dejan Sarka
 ## Title: Data Overview and Manipulation – T-SQL, R, Python
@@ -33,7 +34,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 83137
 # Maintenance Plans: A Daily Task
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tobias Koprowski
 ## Title: Maintenance Plans: A Daily Task
@@ -42,7 +43,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83778
 # Beyond image classification - object detection  with multi-task deep models
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: Beyond image classification - object detection  with multi-task deep models
@@ -54,7 +55,7 @@ Finally, we will move to multiple objects detection, discus latest architectures
 #  
 #### SessionID: 83780
 # Continuous Integration Pipelines With Jenkins, Docker and SQL Server
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Christopher Adkin
 ## Title: Continuous Integration Pipelines With Jenkins, Docker and SQL Server
@@ -63,7 +64,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 82622
 # Staatistical Analysis with T-SQL
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dejan Sarka
 ## Title: Staatistical Analysis with T-SQL
@@ -72,7 +73,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 82989
 # Најчешће грешке и заблуде на релацији програмер – SQL Server
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: Најчешће грешке и заблуде на релацији програмер – SQL Server
@@ -83,7 +84,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 85667
 # Minimizing consequences of data breach using SQL Server
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jasmin Azemović
 ## Title: Minimizing consequences of data breach using SQL Server
@@ -94,7 +95,7 @@ This session is about how to implement state of the art cryptographic features t
 #  
 #### SessionID: 82847
 # How to downgrade a database
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Dejan Dular
 ## Title: How to downgrade a database
@@ -105,7 +106,7 @@ In this session we'll discuss why would you need to downgrade a database and the
 #  
 #### SessionID: 83136
 # SQL Security in the Cloud
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tobias Koprowski
 ## Title: SQL Security in the Cloud
@@ -114,7 +115,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83287
 # Data Science for beginners
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Tomaž Kaštrun
 ## Title: Data Science for beginners
@@ -132,7 +133,7 @@ Session we will look into technologies that can be tackled using SQL Server 2016
 #  
 #### SessionID: 83180
 # Getting To Know SQL Server Encryption Capabilities
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mladen Prajdić
 ## Title: Getting To Know SQL Server Encryption Capabilities
@@ -146,7 +147,7 @@ In this session we'll look at what SQL Server offers in this area:
 #  
 #### SessionID: 83288
 # Most common mistakes data scientists make
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Tomaž Kaštrun
 ## Title: Most common mistakes data scientists make
@@ -162,7 +163,7 @@ Some statistical knowledge or background is a plus!
 #  
 #### SessionID: 85662
 # “SQL-like” or query languages in Azure IoT
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: “SQL-like” or query languages in Azure IoT
@@ -174,7 +175,7 @@ So, we will leave no SQL query unturned  in Azure IoT Hub, Stream Analytics, Pow
 #  
 #### SessionID: 83181
 # Optimizing Database Access And Diving Into .Net SqlClient
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Mladen Prajdić
 ## Title: Optimizing Database Access And Diving Into .Net SqlClient
@@ -183,7 +184,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 84137
 # Bulk Load and Minimal Logging
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dean Savović
 ## Title: Bulk Load and Minimal Logging
@@ -192,7 +193,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85243
 # CI/CD Database deployment
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Ratomir Vukadin
 ## Title: CI/CD Database deployment
@@ -202,7 +203,7 @@ In this lecture we'll see how to set up CI/CD process for database pipeline, dep
 #  
 #### SessionID: 82993
 # Transact SQL Performance Tips
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: Transact SQL Performance Tips
@@ -211,7 +212,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 84553
 # Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tomasz Libera
 ## Title: Azure SQL Data Warehouse
@@ -220,7 +221,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 85566
 # Building production-ready APIs with ASP.NET Core 2.x
-#### [Back to calendar](#SQLSaturday-#791-Banja-Luka-2018)
+#### [Back to calendar](#nr-791)
 Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Miroslav Popovic
 ## Title: Building production-ready APIs with ASP.NET Core 2.x

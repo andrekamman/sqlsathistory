@@ -1,3 +1,4 @@
+#### Nr: 798
 #### [Back to Main list](index.md)
 # SQLSaturday #798 - Madrid 2018
 Start Time (24h)|Speaker|Track|Title
@@ -40,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 83822
 # Power BI Hacks
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Business Intelligence
 ## Speaker: Rui Romano
 ## Title: Power BI Hacks
@@ -51,7 +52,7 @@ Come to my session to find out....
 #  
 #### SessionID: 83913
 # Modernize your database environment with SQL Database Managed Instance
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Pieter Vanhove
 ## Title: Modernize your database environment with SQL Database Managed Instance
@@ -60,7 +61,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: DBA / Enterprise / Rela
 #  
 #### SessionID: 84139
 # Implementando aplicaciones multi-región en Azure con CosmosDB
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Big Data  Analytics
 ## Speaker: Robert Bermejo Blasco
 ## Title: Implementando aplicaciones multi-región en Azure con CosmosDB
@@ -72,7 +73,7 @@ En esta sesión vamos a ver como CosmosDB nos permite tener nuestros datos en di
 #  
 #### SessionID: 85403
 # SQL Server, linux y contenedores
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Enrique Bañuls
 ## Title: SQL Server, linux y contenedores
@@ -83,7 +84,7 @@ Aprenderemos a configurar y administrar SQL Server sobre linux y a realizar ento
 #  
 #### SessionID: 86391
 # SQLSatMadrid Kaggle ML Competition. De 0 a 100
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Artificial Intelligence
 ## Speaker: Pau Sempere
 ## Title: SQLSatMadrid Kaggle ML Competition. De 0 a 100
@@ -94,7 +95,7 @@ Se daran pequeñas charlas y tutoriales durante el día que ayuden a saltar pues
 #  
 #### SessionID: 86393
 # Sponsor Session TBD
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Sponsor Session
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Sponsor Session TBD
@@ -103,7 +104,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Sponsor Session
 #  
 #### SessionID: 86621
 # Retos de los servicios gestionados de BBDD. SPONSOR ALESON ITC
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Sponsor Session
 ## Speaker: Francisco Racionero
 ## Title: Retos de los servicios gestionados de BBDD. SPONSOR ALESON ITC
@@ -112,7 +113,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Sponsor Session
 #  
 #### SessionID: 86624
 # E-commerce a gran escala. CHANNELADVISOR
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Sponsor Session
 ## Speaker: Ruben Pertusa Lopez
 ## Title: E-commerce a gran escala. CHANNELADVISOR
@@ -122,7 +123,7 @@ Ponente "DIEGO ANGEL LOPEZ GUERRERO" , Engineer Director @ CHANNELADVISOR
 #  
 #### SessionID: 86627
 # Query Analytics: enfócate en mejorar el rendimiento. SolidQ
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Sponsor Session
 ## Speaker: Salvador Ramos
 ## Title: Query Analytics: enfócate en mejorar el rendimiento. SolidQ
@@ -139,7 +140,7 @@ En esta sesión, te vamos a presentar la solución con la que hemos optimizado m
 #  
 #### SessionID: 83788
 # Azure SQL Database - Lessons learned from the trenches
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Azure SQL Database - Lessons learned from the trenches
@@ -148,7 +149,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: DBA / Enterprise / Rela
 #  
 #### SessionID: 83924
 # El tiempo es oro y lo medimos con Power BI
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Business Intelligence
 ## Speaker: Ana Maria Bisbé York
 ## Title: El tiempo es oro y lo medimos con Power BI
@@ -157,7 +158,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 84009
 # Ciclo de vida, test y devops en BI. Retos y soluciones
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Business Intelligence
 ## Speaker: Miguel Egea
 ## Title: Ciclo de vida, test y devops en BI. Retos y soluciones
@@ -166,7 +167,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 85415
 # Columnstore Clustered vs Nonclustered, when to choose what
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Niko Neugebauer
 ## Title: Columnstore Clustered vs Nonclustered, when to choose what
@@ -176,7 +177,7 @@ This session will light up your path on when to use what functionality to use an
 #  
 #### SessionID: 85522
 # Azure Databricks para DataScientists desde la visión de un ingeniero
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Big Data  Analytics
 ## Speaker: Alberto Diaz Martin
 ## Title: Azure Databricks para DataScientists desde la visión de un ingeniero
@@ -185,7 +186,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 84447
 # Using In-Memory OLTP in Production workloads!
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Mark Broadbent
 ## Title: Using In-Memory OLTP in Production workloads!
@@ -196,7 +197,7 @@ In this session, we will explain and demonstrate when, how, and where you should
 #  
 #### SessionID: 85413
 # CDS, CDM, Dataflows, Power BI, PowerApps... Pongamos orden en esta casa
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Business Intelligence
 ## Speaker: Carlos Sacristán
 ## Title: CDS, CDM, Dataflows, Power BI, PowerApps... Pongamos orden en esta casa
@@ -205,7 +206,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 85455
 # Escalado horizontal ilimitado ¿en SQL Server?
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Alberto López Grande
 ## Title: Escalado horizontal ilimitado ¿en SQL Server?
@@ -214,7 +215,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: DBA / Enterprise / Rela
 #  
 #### SessionID: 85728
 # Desplegando modelos de Machine Learning en producción (y no morir
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Artificial Intelligence
 ## Speaker: Pablo Doval
 ## Title: Desplegando modelos de Machine Learning en producción (y no morir
@@ -233,7 +234,7 @@ Demo
 #  
 #### SessionID: 86392
 # Data Clinic. ¡Ven y pregunta a los expertos!
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Ask the Experts
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Data Clinic. ¡Ven y pregunta a los expertos!
@@ -252,7 +253,7 @@ Ingenieros Microsoft en:
 #  
 #### SessionID: 86619
 # Plain Concepts Challenge ¿Cuánto sabes de IA, ML y Data?
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Sponsor Session
 ## Speaker: Pablo Doval
 ## Title: Plain Concepts Challenge ¿Cuánto sabes de IA, ML y Data?
@@ -261,7 +262,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Sponsor Session
 #  
 #### SessionID: 86620
 # ¡Traduce a código HTML cualquier diseño hecho a mano mediante IA! KABEL
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Sponsor Session
 ## Speaker: Ruben Pertusa Lopez
 ## Title: ¡Traduce a código HTML cualquier diseño hecho a mano mediante IA! KABEL
@@ -271,7 +272,7 @@ Os presentamos Sketch2Code, una aplicación que hemos desarrollado para Microsof
 #  
 #### SessionID: 86622
 # ¡Triunfa como la Coca Cola siendo un geek! SPONSOR ENCAMINA
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Sponsor Session
 ## Speaker: Alberto Diaz Martin
 ## Title: ¡Triunfa como la Coca Cola siendo un geek! SPONSOR ENCAMINA
@@ -280,7 +281,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Sponsor Session
 #  
 #### SessionID: 86625
 # ¿Y ahora cómo aprendo todo esto? Sponsor IMF BUSINESS SCHOOL
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Sponsor Session
 ## Speaker: Ruben Pertusa Lopez
 ## Title: ¿Y ahora cómo aprendo todo esto? Sponsor IMF BUSINESS SCHOOL
@@ -289,7 +290,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Sponsor Session
 #  
 #### SessionID: 83980
 # Aplicaciones inteligentes con Data Lake y Azure Cognitive Service
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Big Data  Analytics
 ## Speaker: Sergio Hernandez Mancebo
 ## Title: Aplicaciones inteligentes con Data Lake y Azure Cognitive Service
@@ -298,7 +299,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 84004
 # SQL Server docker containers from the development to the production
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: David Barbarin
 ## Title: SQL Server docker containers from the development to the production
@@ -310,7 +311,7 @@ In this session, I propose you a feedback about the first steps and challenges w
 #  
 #### SessionID: 84204
 # An admin’s look at Power BI
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Business Intelligence
 ## Speaker: Adam Saxton
 ## Title: An admin’s look at Power BI
@@ -319,7 +320,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 85047
 # Aprendizaje por Refuerzo: Deja que tu agente aprenda por ti
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Artificial Intelligence
 ## Speaker: Rodrigo Cabello
 ## Title: Aprendizaje por Refuerzo: Deja que tu agente aprenda por ti
@@ -334,7 +335,7 @@ Posteriormente veremos uno de los principales tipos de aprendizaje por refuerzo 
 #  
 #### SessionID: 83906
 # Partitioning 101
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Andrew Pruski
 ## Title: Partitioning 101
@@ -353,7 +354,7 @@ Partitioned tables and filegroup restores.
 #  
 #### SessionID: 84370
 # Jugando a ser rico: Machine Learning para predecir la Bolsa
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Artificial Intelligence
 ## Speaker: Pau Sempere
 ## Title: Jugando a ser rico: Machine Learning para predecir la Bolsa
@@ -362,7 +363,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 85214
 # Processing Real-Time Racing Telemetry with Azure Stream Analytics
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Big Data  Analytics
 ## Speaker: Murilo Miranda
 ## Title: Processing Real-Time Racing Telemetry with Azure Stream Analytics
@@ -371,7 +372,7 @@ Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 85399
 # Storytelling con Power BI
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Business Intelligence
 ## Speaker: Salvador Ramos
 ## Title: Storytelling con Power BI
@@ -383,7 +384,7 @@ Y, por supuesto, te contaremos historias basadas en datos
 #  
 #### SessionID: 85381
 # La moda del DeepLearning. Un ejemplo: DeepLearning for Cancer Inmunotherapy
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Artificial Intelligence
 ## Speaker: Carlos Ortega
 ## Title: La moda del DeepLearning. Un ejemplo: DeepLearning for Cancer Inmunotherapy
@@ -396,7 +397,7 @@ En esta ponencia se presentará un ejemplo de este tipo. Se analizará un conjun
 #  
 #### SessionID: 85435
 # Stranger IoThing: behind remote monitoring
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Big Data  Analytics
 ## Speaker: Francesco Sparacio
 ## Title: Stranger IoThing: behind remote monitoring
@@ -407,7 +408,7 @@ Veremos todo a través de una demo real con un dispositivo compatible Arduino y 
 #  
 #### SessionID: 85462
 # SSAS Tabular: 4.000 Millones de filas y una historia de amor
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: Business Intelligence
 ## Speaker: Ruben Pertusa Lopez
 ## Title: SSAS Tabular: 4.000 Millones de filas y una historia de amor
@@ -420,7 +421,7 @@ Tabular, DAX, PowerBI, Profiler y mucho más os esperan.
 #  
 #### SessionID: 85731
 # SQL Server  GDPR
-#### [Back to calendar](#SQLSaturday-#798-Madrid-2018)
+#### [Back to calendar](#nr-798)
 Event Date: 20-10-2018 - Session time: 16:45:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Francisco Racionero
 ## Title: SQL Server  GDPR

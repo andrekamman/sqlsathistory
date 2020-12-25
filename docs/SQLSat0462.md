@@ -1,3 +1,4 @@
+#### Nr: 462
 #### [Back to Main list](index.md)
 # SQLSaturday #462 - Parma 2015
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 38685
 # Sql server 2016 What's new ?
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: SQL Server 2016
 ## Speaker: Luca Ferrari
 ## Title: Sql server 2016 What's new ?
@@ -34,7 +35,7 @@ A quick look to Queries Store, enhanced security, temporal database and many mor
 #  
 #### SessionID: 40188
 # Power BI for the Developer
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: Cloud  Dev
 ## Speaker: Peter Myers
 ## Title: Power BI for the Developer
@@ -47,7 +48,7 @@ This session will be of interest to architects, developers and IT implementers l
 #  
 #### SessionID: 40461
 # Choosing the right Mobile BI tool: SSRS vs Power BI vs Datazen
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: Analytics  Reporting
 ## Speaker: Andrea Martorana Tusa
 ## Title: Choosing the right Mobile BI tool: SSRS vs Power BI vs Datazen
@@ -60,7 +61,7 @@ Based on some real examples we will set out a comparison matrix to find the best
 #  
 #### SessionID: 38692
 # SQL Server 2016 JSON support
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: SQL Server 2016
 ## Speaker: Alessandro Alpi
 ## Title: SQL Server 2016 JSON support
@@ -69,7 +70,7 @@ Event Date: 28-11-2015 - Session time: 16:30:00 - Track: SQL Server 2016
 #  
 #### SessionID: 40241
 # Stream Analytics on premise and on the Cloud with SQL
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: Cloud  Dev
 ## Speaker: Marco Parenzan
 ## Title: Stream Analytics on premise and on the Cloud with SQL
@@ -78,7 +79,7 @@ Event Date: 28-11-2015 - Session time: 16:30:00 - Track: Cloud  Dev
 #  
 #### SessionID: 40796
 # Choosing the right Mobile BI tool (seconda parte)
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: Analytics  Reporting
 ## Speaker: Andrea Martorana Tusa
 ## Title: Choosing the right Mobile BI tool (seconda parte)
@@ -91,7 +92,7 @@ Based on some real examples we will set out a comparison matrix to find the best
 #  
 #### SessionID: 38701
 # The most prominent wait types of your SQL Server 2016 (IT)
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: SQL Server 2016
 ## Speaker: Sergio Govoni
 ## Title: The most prominent wait types of your SQL Server 2016 (IT)
@@ -100,7 +101,7 @@ Event Date: 28-11-2015 - Session time: 16:30:00 - Track: SQL Server 2016
 #  
 #### SessionID: 40534
 # SSRS - Charts like you've never seen before
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: Analytics  Reporting
 ## Speaker: Nicola Pressi
 ## Title: SSRS - Charts like you've never seen before
@@ -111,7 +112,7 @@ In questa sessione verranno presentate prima delle linee guida generali per crea
 #  
 #### SessionID: 40823
 # Entity Framework e SQL Server - Better Together
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: Cloud  Dev
 ## Speaker: Alberto Dallagiacoma
 ## Title: Entity Framework e SQL Server - Better Together
@@ -121,7 +122,7 @@ In questa sessione parleremo di quali accorgimenti prendere per far s#236; che i
 #  
 #### SessionID: 38663
 # SQL Server 2016: Maturazione dell'In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: SQL Server 2016
 ## Speaker: Gilberto Zampatti
 ## Title: SQL Server 2016: Maturazione dell'In-Memory OLTP
@@ -130,7 +131,7 @@ Event Date: 28-11-2015 - Session time: 16:30:00 - Track: SQL Server 2016
 #  
 #### SessionID: 40183
 # Azure Machine Learning: From Design to Integration
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: Cloud  Dev
 ## Speaker: Peter Myers
 ## Title: Azure Machine Learning: From Design to Integration
@@ -141,7 +142,7 @@ This session has been specifically designed to describe machine learning fundame
 #  
 #### SessionID: 40916
 # Datazen - On-premise mobile bi
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: Analytics  Reporting
 ## Speaker: Bent Pedersen
 ## Title: Datazen - On-premise mobile bi
@@ -153,7 +154,7 @@ I want to show you how simply and easy it is to gets started and display insight
 #  
 #### SessionID: 38668
 # Power Query
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: Analytics  Reporting
 ## Speaker: Marco Pozzan
 ## Title: Power Query
@@ -162,7 +163,7 @@ Event Date: 28-11-2015 - Session time: 16:30:00 - Track: Analytics  Reporting
 #  
 #### SessionID: 40544
 # Implementing and Maintaining an Azure SQL Database project
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: Cloud  Dev
 ## Speaker: Emanuele Zanchettin
 ## Title: Implementing and Maintaining an Azure SQL Database project
@@ -171,7 +172,7 @@ Event Date: 28-11-2015 - Session time: 16:30:00 - Track: Cloud  Dev
 #  
 #### SessionID: 40978
 # SQL Server 2016 Query Store: un nuovo modo di ottimizzare le query
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: SQL Server 2016
 ## Speaker: Saverio Lorenzini
 ## Title: SQL Server 2016 Query Store: un nuovo modo di ottimizzare le query
@@ -183,7 +184,7 @@ La sessione entra nel dettaglio della funzionalit#224; e ne illustra l’utilizz
 #  
 #### SessionID: 39591
 # SQL Server 2016 Temporal tables: Viaggiare nel tempo con SQL Server
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: SQL Server 2016
 ## Speaker: Pasquale Ceglie
 ## Title: SQL Server 2016 Temporal tables: Viaggiare nel tempo con SQL Server
@@ -192,7 +193,7 @@ Event Date: 28-11-2015 - Session time: 16:30:00 - Track: SQL Server 2016
 #  
 #### SessionID: 40282
 # Many to Many in SSAS Multidimensional: How To Implement It
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: Analytics  Reporting
 ## Speaker: Elvis Talic
 ## Title: Many to Many in SSAS Multidimensional: How To Implement It
@@ -205,7 +206,7 @@ After this session, you will have better understanding of many to many in SSAS, 
 #  
 #### SessionID: 40483
 # DocumentDB Jumpstart, NoSQL adventures in Azure
-#### [Back to calendar](#SQLSaturday-#462-Parma-2015)
+#### [Back to calendar](#nr-462)
 Event Date: 28-11-2015 - Session time: 16:30:00 - Track: Cloud  Dev
 ## Speaker: Marco De Nittis
 ## Title: DocumentDB Jumpstart, NoSQL adventures in Azure

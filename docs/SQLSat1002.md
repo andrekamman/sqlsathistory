@@ -1,3 +1,4 @@
+#### Nr: 1002
 #### [Back to Main list](index.md)
 # SQLSaturday #1002  – Lima – BI Edition – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -24,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 106005
 # IA   SQL Server 2019 Machine Learning Service
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Ai and Machine Learning
 ## Speaker: Miguel Arturo Valle Pelaez
 ## Title: IA   SQL Server 2019 Machine Learning Service
@@ -34,7 +35,7 @@ SQL SERVER Machine Learning Services es una característica que brinda la capaci
 #  
 #### SessionID: 107352
 # Azure Synapse Analytics - Power BI Integration  Performance
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Data Warehousing
 ## Speaker: Gian Carlo Poggi Escobar
 ## Title: Azure Synapse Analytics - Power BI Integration  Performance
@@ -43,7 +44,7 @@ Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Data Warehousing
 #  
 #### SessionID: 107397
 # Consultando Millones de Registros con Power BI
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Power BI 
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Consultando Millones de Registros con Power BI
@@ -52,7 +53,7 @@ Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Power BI
 #  
 #### SessionID: 105980
 # AI Power - Cognitive Services and Power BI
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Ai and Machine Learning
 ## Speaker: Alex Rostan
 ## Title: AI Power - Cognitive Services and Power BI
@@ -61,7 +62,7 @@ Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Ai and Machine Learning
 #  
 #### SessionID: 107351
 # Working with Data Factory
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Data Warehousing
 ## Speaker: Martha Chávez
 ## Title: Working with Data Factory
@@ -70,7 +71,7 @@ Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Data Warehousing
 #  
 #### SessionID: 107561
 # 3 formas de monitorear datos en tiempo real con Power BI
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Power BI 
 ## Speaker: Miguel Martinez
 ## Title: 3 formas de monitorear datos en tiempo real con Power BI
@@ -79,7 +80,7 @@ Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Power BI
 #  
 #### SessionID: 105958
 # Detección de anomalias en Azure Stream Analytics usando Machine Learning
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Ai and Machine Learning
 ## Speaker: Kamal Valero
 ## Title: Detección de anomalias en Azure Stream Analytics usando Machine Learning
@@ -88,7 +89,7 @@ Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Ai and Machine Learning
 #  
 #### SessionID: 105968
 # Escenarios de modelado en DAX, el súper lenguaje de Power BI.
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Power BI 
 ## Speaker: Ana Maria Bisbé York
 ## Title: Escenarios de modelado en DAX, el súper lenguaje de Power BI.
@@ -98,7 +99,7 @@ En la sesión se analizan y solucionan un grupo de escenarios de modelado con DA
 #  
 #### SessionID: 107085
 # Técnicas de consultas avanzadas para Datawarehouse
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Data Warehousing
 ## Speaker: Ahias Portillo
 ## Title: Técnicas de consultas avanzadas para Datawarehouse
@@ -112,7 +113,7 @@ Aprenderás:
 #  
 #### SessionID: 105997
 # SQL Server Machine Learning y Big Data cluster
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Data Warehousing
 ## Speaker: Maximiliano Damian Accotto
 ## Title: SQL Server Machine Learning y Big Data cluster
@@ -122,7 +123,7 @@ También haremos una introducción a la arquitectura de SQL Server 2019 Big Data
 #  
 #### SessionID: 107348
 # AI Video Insights with Azure
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Ai and Machine Learning
 ## Speaker: Cristobal Ibarra
 ## Title: AI Video Insights with Azure
@@ -131,7 +132,7 @@ Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Ai and Machine Learning
 #  
 #### SessionID: 107557
 # Power BI Intelligence - All Types Calendars
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Power BI 
 ## Speaker: Alejandro Humberto Sánchez Núñez
 ## Title: Power BI Intelligence - All Types Calendars
@@ -140,7 +141,7 @@ Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Power BI
 #  
 #### SessionID: 105963
 # Ventajas en Enterprise BI con XMLA Endpoints
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Power BI 
 ## Speaker: Gaston Cruz
 ## Title: Ventajas en Enterprise BI con XMLA Endpoints
@@ -149,7 +150,7 @@ Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Power BI
 #  
 #### SessionID: 107241
 # Patrones avanzados con SSIS
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Data Warehousing
 ## Speaker: Ricardo Estrada
 ## Title: Patrones avanzados con SSIS
@@ -158,7 +159,7 @@ Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Data Warehousing
 #  
 #### SessionID: 107347
 # Computer Vision con Azure Cognitive Services
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Ai and Machine Learning
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Computer Vision con Azure Cognitive Services
@@ -167,7 +168,7 @@ Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Ai and Machine Learning
 #  
 #### SessionID: 105954
 # Casos de uso de Power BI y Analysis Services
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Power BI 
 ## Speaker: Javier Villegas
 ## Title: Casos de uso de Power BI y Analysis Services
@@ -176,7 +177,7 @@ Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Power BI
 #  
 #### SessionID: 106003
 # Building an EDSS with Delta Lake in Databricks
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Mariano Irvin Lopez Jaramillo
 ## Title: Building an EDSS with Delta Lake in Databricks
@@ -193,7 +194,7 @@ Data lakehouses are enabled by
 #  
 #### SessionID: 107034
 # PowerBI con Dynamics 365 for Sales.
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Power BI 
 ## Speaker: Juan Rafael
 ## Title: PowerBI con Dynamics 365 for Sales.
@@ -202,7 +203,7 @@ Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Power BI
 #  
 #### SessionID: 107088
 # Integración y entrega continua (CI/CD) para procesos de analítica de datos sobre Azure Databricks
-#### [Back to calendar](#SQLSaturday-#1002--–-Lima-–-BI-Edition-–-Virtual-2020)
+#### [Back to calendar](#nr-1002)
 Event Date: 22-08-2020 - Session time: 15:00:00 - Track: Data Warehousing
 ## Speaker: Sonia Bravo
 ## Title: Integración y entrega continua (CI/CD) para procesos de analítica de datos sobre Azure Databricks

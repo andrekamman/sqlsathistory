@@ -1,3 +1,4 @@
+#### Nr: 262
 #### [Back to Main list](index.md)
 # SQLSaturday #262 - Boston 2014
 Start Time (24h)|Speaker|Track|Title
@@ -40,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10070
 # Building BI Semantic Model Tabular in 60 minutes
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Constitution
 ## Speaker: Ayad Shammout
 ## Title: Building BI Semantic Model Tabular in 60 minutes
@@ -49,7 +50,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Constitution
 #  
 #### SessionID: 10149
 # Trimming Indexes Getting Your Database In Shape
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Bunker Hill
 ## Speaker: Bradley Ball
 ## Title: Trimming Indexes Getting Your Database In Shape
@@ -58,7 +59,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Bunker Hill
 #  
 #### SessionID: 10526
 # SQL Server cell level and transparent data encryption a case study
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Lexington
 ## Speaker: Brian McCaig
 ## Title: SQL Server cell level and transparent data encryption a case study
@@ -75,7 +76,7 @@ Technical Level: 200
 #  
 #### SessionID: 10591
 # Whatcha Doin'? Passive Security for Hostile Environments
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Longfellow
 ## Speaker: Bob Pusateri
 ## Title: Whatcha Doin'? Passive Security for Hostile Environments
@@ -84,7 +85,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Longfellow
 #  
 #### SessionID: 10670
 # Treating Tables Like Legos, Partitioning Basics
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Lexington
 ## Speaker: Brandon Leach
 ## Title: Treating Tables Like Legos, Partitioning Basics
@@ -93,7 +94,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Lexington
 #  
 #### SessionID: 10672
 # Implementing a HIPAA Compliance Strategy with SQL Server
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Constitution
 ## Speaker: Brandon Leach
 ## Title: Implementing a HIPAA Compliance Strategy with SQL Server
@@ -104,7 +105,7 @@ In this hour long session We'll delve into the Health Insurance Portability and 
 #  
 #### SessionID: 11024
 # So you think you know SSIS? What about Scripting? 
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Constitution
 ## Speaker: Bryan Cafferky
 ## Title: So you think you know SSIS? What about Scripting? 
@@ -113,7 +114,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Constitution
 #  
 #### SessionID: 11025
 # Dimensional Modeling:  The Heart of the Data Warehouse
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Concord
 ## Speaker: Bryan Cafferky
 ## Title: Dimensional Modeling:  The Heart of the Data Warehouse
@@ -122,7 +123,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Concord
 #  
 #### SessionID: 11258
 # Optimizing Protected Indexes
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Thoreau
 ## Speaker: Chris Bell
 ## Title: Optimizing Protected Indexes
@@ -131,7 +132,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Thoreau
 #  
 #### SessionID: 11851
 # Inroduction to Triggers
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Concord
 ## Speaker: Jack Corbett
 ## Title: Inroduction to Triggers
@@ -140,7 +141,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Concord
 #  
 #### SessionID: 12378
 # High Availability with Windows Server 2012 R2 and SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Concord
 ## Speaker: David Bermingham
 ## Title: High Availability with Windows Server 2012 R2 and SQL Server 2014
@@ -149,7 +150,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Concord
 #  
 #### SessionID: 13831
 # Dynamic SQL: Writing Efficient Queries on the Fly
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Concord
 ## Speaker: Edward Pollack
 ## Title: Dynamic SQL: Writing Efficient Queries on the Fly
@@ -160,7 +161,7 @@ Explore the many uses for dynamic SQL as well as best practices for writing, tes
 #  
 #### SessionID: 13832
 # Diving Into Query Execution Plans
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Thoreau
 ## Speaker: Edward Pollack
 ## Title: Diving Into Query Execution Plans
@@ -169,7 +170,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Thoreau
 #  
 #### SessionID: 14520
 # SQL Server 2012 AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Longfellow
 ## Speaker: George Walters
 ## Title: SQL Server 2012 AlwaysOn Availability Groups
@@ -178,7 +179,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Longfellow
 #  
 #### SessionID: 14731
 # Statistics and Query Optimization
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Hawthorne
 ## Speaker: Grant Fritchey
 ## Title: Statistics and Query Optimization
@@ -187,7 +188,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Hawthorne
 #  
 #### SessionID: 16205
 # In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Concord
 ## Speaker: Joseph D'Antoni
 ## Title: In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
@@ -196,7 +197,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Concord
 #  
 #### SessionID: 16731
 # What the Hekaton
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Lexington
 ## Speaker: John Flannery
 ## Title: What the Hekaton
@@ -205,7 +206,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Lexington
 #  
 #### SessionID: 17044
 # Effective use of temporary tables
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Lexington
 ## Speaker: John Miner
 ## Title: Effective use of temporary tables
@@ -227,7 +228,7 @@ Coverage:
 #  
 #### SessionID: 18197
 # SQL Server Internals and Architecture
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Hawthorne
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals and Architecture
@@ -244,7 +245,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Hawthorne
 #  
 #### SessionID: 20242
 # Virtualizing SQL Server: Doing It Right – The SeQueL
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Thoreau
 ## Speaker: Michael Corey
 ## Title: Virtualizing SQL Server: Doing It Right – The SeQueL
@@ -253,7 +254,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Thoreau
 #  
 #### SessionID: 20540
 # Recovery and Backup for Beginners
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Lexington
 ## Speaker: Mike Hillwig
 ## Title: Recovery and Backup for Beginners
@@ -264,7 +265,7 @@ In this session, veteran DBA Mike Hillwig will start with understanding the reco
 #  
 #### SessionID: 20621
 # What I Wish I Knew Before Becoming a DBA
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Thoreau
 ## Speaker: Mike Walsh
 ## Title: What I Wish I Knew Before Becoming a DBA
@@ -277,7 +278,7 @@ He'll look through his 13 years of DBA experience and share some of the lessons 
 #  
 #### SessionID: 21643
 # Database Forensics - Part 1
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Hawthorne
 ## Speaker: Paresh Motiwala
 ## Title: Database Forensics - Part 1
@@ -296,7 +297,7 @@ In this the first of the two part session, we will explore the following:
 #  
 #### SessionID: 23794
 # An Introduction to Database Design And Management
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Longfellow
 ## Speaker: Mohammad Yusuf
 ## Title: An Introduction to Database Design And Management
@@ -305,7 +306,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Longfellow
 #  
 #### SessionID: 24658
 # (Way Too Much) Fun with Reporting Services 
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Hawthorne
 ## Speaker: Stacia Varga
 ## Title: (Way Too Much) Fun with Reporting Services 
@@ -314,7 +315,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Hawthorne
 #  
 #### SessionID: 25370
 # Mind your language!!   Cursors are a dirty word
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Bunker Hill
 ## Speaker: Steve Simon
 ## Title: Mind your language!!   Cursors are a dirty word
@@ -325,7 +326,7 @@ In this hands-on presentation, we shall be looking at practical cases where the 
 #  
 #### SessionID: 25874
 # Develop Impressive Dashboards using SSRS 2012
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Bunker Hill
 ## Speaker: Sunil Kadimdiwan
 ## Title: Develop Impressive Dashboards using SSRS 2012
@@ -334,7 +335,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Bunker Hill
 #  
 #### SessionID: 26709
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Bunker Hill
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -343,7 +344,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Bunker Hill
 #  
 #### SessionID: 26710
 # You Inherited a Database, Now What?
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Bunker Hill
 ## Speaker: Tim Radney
 ## Title: You Inherited a Database, Now What?
@@ -352,7 +353,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Bunker Hill
 #  
 #### SessionID: 26822
 # Floating on a Hybrid Cloud: SQL Server 2014  Windows Azure 
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Constitution
 ## Speaker: Timothy McAliley
 ## Title: Floating on a Hybrid Cloud: SQL Server 2014  Windows Azure 
@@ -361,7 +362,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Constitution
 #  
 #### SessionID: 27546
 # Yes, you can do it in SSMS: tips and tricks.
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Constitution
 ## Speaker: Varsham Papikian
 ## Title: Yes, you can do it in SSMS: tips and tricks.
@@ -371,7 +372,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Constitution
 #  
 #### SessionID: 8909
 # T-SQL : Bad Habits  Best Practices
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Hawthorne
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits  Best Practices
@@ -380,7 +381,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Hawthorne
 #  
 #### SessionID: 9242
 # Patch Management Strategies for SQL Server
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Thoreau
 ## Speaker: Allan Hirt
 ## Title: Patch Management Strategies for SQL Server
@@ -389,7 +390,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Thoreau
 #  
 #### SessionID: 9364
 # Query Tuning Mastery: Clash of the Row Goals
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Longfellow
 ## Speaker: Adam Machanic
 ## Title: Query Tuning Mastery: Clash of the Row Goals
@@ -398,7 +399,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Longfellow
 #  
 #### SessionID: 9511
 # Designing an SSIS Framework 
-#### [Back to calendar](#SQLSaturday-#262-Boston-2014)
+#### [Back to calendar](#nr-262)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Longfellow
 ## Speaker: Andy Leonard
 ## Title: Designing an SSIS Framework 

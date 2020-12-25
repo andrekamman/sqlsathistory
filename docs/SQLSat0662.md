@@ -1,3 +1,4 @@
+#### Nr: 662
 #### [Back to Main list](index.md)
 # SQLSaturday #662 - Sioux Falls 2017
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 64933
 # JSON for the Data Mortals
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Jim Dorame
 ## Title: JSON for the Data Mortals
@@ -38,7 +39,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database D
 #  
 #### SessionID: 66816
 # Set Me Up: How to Think in Sets
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Brian Hansen
 ## Title: Set Me Up: How to Think in Sets
@@ -49,7 +50,7 @@ We will look at T-SQL features that can break set-based processing -- generally 
 #  
 #### SessionID: 68793
 # Building Stronger Relationships Between Us... "Data People" and T
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Professional Development
 ## Speaker: Joshua Warne
 ## Title: Building Stronger Relationships Between Us... "Data People" and T
@@ -58,7 +59,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Professional Developmen
 #  
 #### SessionID: 68848
 # Business Intelligence with R and Python
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jasmine Miller
 ## Title: Business Intelligence with R and Python
@@ -67,7 +68,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64556
 # HELP! HELP! My System Databases Are Gone!
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcus Hopfinger
 ## Title: HELP! HELP! My System Databases Are Gone!
@@ -76,7 +77,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65045
 # Does Your Performance Tuning Need a 12-step Program?
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Does Your Performance Tuning Need a 12-step Program?
@@ -90,7 +91,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65096
 # Statistics and New Cardinality Estimator Model
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Susantha Bathige
 ## Title: Statistics and New Cardinality Estimator Model
@@ -99,7 +100,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66941
 # Even I Can Power BI!
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julia Renz
 ## Title: Even I Can Power BI!
@@ -108,7 +109,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64564
 # Intro to PowerApps  Flow - Creating mobile business apps without writing code
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Andy Tabisz
 ## Title: Intro to PowerApps  Flow - Creating mobile business apps without writing code
@@ -117,7 +118,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database D
 #  
 #### SessionID: 65107
 # Remote SQL Server Troubleshooting and Monitoring Using SSIS
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Don St. Cyr
 ## Title: Remote SQL Server Troubleshooting and Monitoring Using SSIS
@@ -129,7 +130,7 @@ In this session I'll use Glenn Berry's diagnostic queries and SSIS to show how w
 #  
 #### SessionID: 66431
 # Difficult Queries
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Rick Bielawski
 ## Title: Difficult Queries
@@ -138,7 +139,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database D
 #  
 #### SessionID: 66814
 # Visualize Your Transaction Log
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Visualize Your Transaction Log
@@ -147,7 +148,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64565
 # Isolation Levels – Understanding Transaction Temper Tantrums
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adam Koehler
 ## Title: Isolation Levels – Understanding Transaction Temper Tantrums
@@ -156,7 +157,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65196
 # Where Does R Fit Into Your SQL Server Stack?
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stacia Varga
 ## Title: Where Does R Fit Into Your SQL Server Stack?
@@ -171,7 +172,7 @@ Then we explore options for using R to prepare data for analytics using SSIS or 
 #  
 #### SessionID: 65312
 # Amazon Web Services RDS with SQL Server
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christopher Wolff
 ## Title: Amazon Web Services RDS with SQL Server
@@ -180,7 +181,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 66974
 # SQL Server DBA Quiz Show
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Professional Development
 ## Speaker: Eric Zierdt
 ## Title: SQL Server DBA Quiz Show
@@ -191,7 +192,7 @@ This session promises to be fast paced and fun and hopefully you will even learn
 #  
 #### SessionID: 65044
 # Welcome To the 2016 Query Store!
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Welcome To the 2016 Query Store!
@@ -200,7 +201,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65199
 # Reduce, Reuse, Recycle: Automating Your BI Framework
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stacia Varga
 ## Title: Reduce, Reuse, Recycle: Automating Your BI Framework
@@ -209,7 +210,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 66815
 # Remember Back When?  Temporal Tables in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Remember Back When?  Temporal Tables in SQL Server 2016
@@ -218,7 +219,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66848
 # How to Fix Cardinality Estimation Anomalies
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Susantha Bathige
 ## Title: How to Fix Cardinality Estimation Anomalies
@@ -228,7 +229,7 @@ In this presentation, I will demo the use of filtered statistics to fix some car
 #  
 #### SessionID: 65197
 # Getting Your Story Straight with Data Visualizations
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stacia Varga
 ## Title: Getting Your Story Straight with Data Visualizations
@@ -237,7 +238,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 66302
 # Maximizing SQL Server Management Studio for Developers and DBAs
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Nem Schlecht
 ## Title: Maximizing SQL Server Management Studio for Developers and DBAs
@@ -246,7 +247,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database D
 #  
 #### SessionID: 66430
 # Mastering queries into XML data.
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Rick Bielawski
 ## Title: Mastering queries into XML data.
@@ -255,7 +256,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database D
 #  
 #### SessionID: 68323
 # Navigating Modern BI Infrastructure – Power BI Report Server (On-
-#### [Back to calendar](#SQLSaturday-#662-Sioux-Falls-2017)
+#### [Back to calendar](#nr-662)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: George Bryant
 ## Title: Navigating Modern BI Infrastructure – Power BI Report Server (On-

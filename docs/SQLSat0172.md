@@ -1,3 +1,4 @@
+#### Nr: 172
 #### [Back to Main list](index.md)
 # SQLSaturday #172 - Oregon 2012
 Start Time (24h)|Speaker|Track|Title
@@ -47,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10438
 # 2012 TSQL Sweets
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 2 -SQL Dev
 ## Speaker: Bill Fellows
 ## Title: 2012 TSQL Sweets
@@ -56,7 +57,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 2 -SQL Dev
 #  
 #### SessionID: 10593
 # The Skinny on Data Compression
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 1 -Indexes
 ## Speaker: Bob Pusateri
 ## Title: The Skinny on Data Compression
@@ -65,7 +66,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 1 -Indexes
 #  
 #### SessionID: 10728
 # Building Faster SQL Servers
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 5 -On/Off Prem 
 ## Speaker: Brent Ozar
 ## Title: Building Faster SQL Servers
@@ -74,7 +75,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 5 -On/Off Prem
 #  
 #### SessionID: 11099
 # The Cloud is Coming for Your Career - Buwahahahaha
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Buck Woody
 ## Title: The Cloud is Coming for Your Career - Buwahahahaha
@@ -83,7 +84,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 11173
 # Authorization  Access Rights w/ SharePoint  SQL
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 
 ## Speaker: Carl Rabeler
 ## Title: Authorization  Access Rights w/ SharePoint  SQL
@@ -92,7 +93,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 11444
 # Recovering from Corruption
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 6 -Performance 
 ## Speaker: Robert Davis
 ## Title: Recovering from Corruption
@@ -103,7 +104,7 @@ In this session, we will discuss the protections within SQL Server to help ident
 #  
 #### SessionID: 12730
 # Overview of PowerPivot
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 3 -BI Treats 
 ## Speaker: David Eichner
 ## Title: Overview of PowerPivot
@@ -112,7 +113,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 3 -BI Treats
 #  
 #### SessionID: 13397
 # Agile Data Warehousing with WhereScape
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 2 -SQL Dev
 ## Speaker: Douglas Barrett
 ## Title: Agile Data Warehousing with WhereScape
@@ -121,7 +122,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 2 -SQL Dev
 #  
 #### SessionID: 13965
 # Powershell Smoke for SQL Server Mirrors
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 4 -Powershell
 ## Speaker: Ed Snajder
 ## Title: Powershell Smoke for SQL Server Mirrors
@@ -131,7 +132,7 @@ I’ll show how I leveraged some of the SMO mirroring objects, so that I could n
 #  
 #### SessionID: 14082
 # TempDB Performance Troubleshooting and Optimizing
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 6 -Performance 
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Performance Troubleshooting and Optimizing
@@ -140,7 +141,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 6 -Performance
 #  
 #### SessionID: 15052
 # Understanding Indexes
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 1 -Indexes
 ## Speaker: Hugo Kornelis
 ## Title: Understanding Indexes
@@ -151,7 +152,7 @@ In this presentation, Hugo explains (with animated visualization) how heaps, clu
 #  
 #### SessionID: 15053
 # Advanced Indexing
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 1 -Indexes
 ## Speaker: Hugo Kornelis
 ## Title: Advanced Indexing
@@ -161,7 +162,7 @@ Hugo will explore advanced features such as included columns, indexed views, and
 #  
 #### SessionID: 15669
 # Extend Your Knowledge with Extended Events!
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 7 -Getting it Right 
 ## Speaker: Janis Griffin
 ## Title: Extend Your Knowledge with Extended Events!
@@ -172,7 +173,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 7 -Getting it Right
 #  
 #### SessionID: 15837
 #  Isn't that Spatial! (BI Edition)
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 3 -BI Treats 
 ## Speaker: Jason Horner
 ## Title:  Isn't that Spatial! (BI Edition)
@@ -186,7 +187,7 @@ basic concepts of working with spatial data in SQL Server.
 #  
 #### SessionID: 16584
 # Killer Techniques for Database Performance
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 6 -Performance 
 ## Speaker: Jeremiah Peschka
 ## Title: Killer Techniques for Database Performance
@@ -197,7 +198,7 @@ The database the most critical piece of any environment; performance problems in
 #  
 #### SessionID: 16722
 # Looking to the future - Tabular Mode SSAS
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 8 -ETL  Analysis
 ## Speaker: Josh Fennessy
 ## Title: Looking to the future - Tabular Mode SSAS
@@ -206,7 +207,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 8 -ETL  Analysis
 #  
 #### SessionID: 16885
 # The Accidental Programmer
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 2 -SQL Dev
 ## Speaker: Jason Kassay
 ## Title: The Accidental Programmer
@@ -215,7 +216,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 2 -SQL Dev
 #  
 #### SessionID: 16906
 # Power View for Geographical Analysis 
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 3 -BI Treats 
 ## Speaker: Julie Koesmarno
 ## Title: Power View for Geographical Analysis 
@@ -224,7 +225,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 3 -BI Treats
 #  
 #### SessionID: 17106
 # SSIS Patterns and Practices: Loading Fact Tables
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 8 -ETL  Analysis
 ## Speaker: Joe Salvatore
 ## Title: SSIS Patterns and Practices: Loading Fact Tables
@@ -233,7 +234,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 8 -ETL  Analysis
 #  
 #### SessionID: 18919
 # Troubleshooting SQL Server with PowerShell
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 4 -Powershell
 ## Speaker: Laerte Junior
 ## Title: Troubleshooting SQL Server with PowerShell
@@ -242,7 +243,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 4 -Powershell
 #  
 #### SessionID: 19169
 # Index Psychiatry: The Top 5 Disorders
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 1 -Indexes
 ## Speaker: Kendra Little
 ## Title: Index Psychiatry: The Top 5 Disorders
@@ -251,7 +252,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 1 -Indexes
 #  
 #### SessionID: 19546
 # READPAST  Furious-Transactions,LockingIsolation
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 6 -Performance 
 ## Speaker: Mark Broadbent
 ## Title: READPAST  Furious-Transactions,LockingIsolation
@@ -267,7 +268,7 @@ I look forward to you joining me in this very revealing and thought provoking se
 #  
 #### SessionID: 19792
 # SQLCAT - Building scalable  cloud applications
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 5 -On/Off Prem 
 ## Speaker: Mark Simms
 ## Title: SQLCAT - Building scalable  cloud applications
@@ -276,7 +277,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 5 -On/Off Prem
 #  
 #### SessionID: 19833
 # Efficient On-Premise to Cloud Data Transfer
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 5 -On/Off Prem 
 ## Speaker: Matt Masson
 ## Title: Efficient On-Premise to Cloud Data Transfer
@@ -285,7 +286,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 5 -On/Off Prem
 #  
 #### SessionID: 20365
 # The Most Ignored Best Practices
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 7 -Getting it Right 
 ## Speaker: Michael Swinarski
 ## Title: The Most Ignored Best Practices
@@ -294,7 +295,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 7 -Getting it Right
 #  
 #### SessionID: 20377
 # Rapidly Deploying SQL Server with PowerShell
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 4 -Powershell
 ## Speaker: Michael Wells
 ## Title: Rapidly Deploying SQL Server with PowerShell
@@ -303,7 +304,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 4 -Powershell
 #  
 #### SessionID: 20378
 # Running SQL Server 2012 on Server Core: Why  How
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 5 -On/Off Prem 
 ## Speaker: Michael Wells
 ## Title: Running SQL Server 2012 on Server Core: Why  How
@@ -312,7 +313,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 5 -On/Off Prem
 #  
 #### SessionID: 21737
 # New Data Management Capabilities with SQL Server 2
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 7 -Getting it Right 
 ## Speaker: Pat Sinthusan
 ## Title: New Data Management Capabilities with SQL Server 2
@@ -321,7 +322,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 7 -Getting it Right
 #  
 #### SessionID: 21834
 # Power View and PowerPivot: High-Octane Self-svc BI
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 3 -BI Treats 
 ## Speaker: Paul Turley
 ## Title: Power View and PowerPivot: High-Octane Self-svc BI
@@ -330,7 +331,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 3 -BI Treats
 #  
 #### SessionID: 21978
 # What's New for Self-Service BI in Excel 2013
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 3 -BI Treats 
 ## Speaker: Peter Myers
 ## Title: What's New for Self-Service BI in Excel 2013
@@ -339,7 +340,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 3 -BI Treats
 #  
 #### SessionID: 21979
 # Introduction to SQL Server 2012 MDS and DQS
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 8 -ETL  Analysis
 ## Speaker: Peter Myers
 ## Title: Introduction to SQL Server 2012 MDS and DQS
@@ -352,7 +353,7 @@ DQS is a new knowledge-driven data cleansing solution, and it supports building 
 #  
 #### SessionID: 23001
 # Introducing SQL Server Data Tools. (Project Juneau
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 2 -SQL Dev
 ## Speaker: Rick  Morelan
 ## Title: Introducing SQL Server Data Tools. (Project Juneau
@@ -361,7 +362,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 2 -SQL Dev
 #  
 #### SessionID: 23235
 # Schema Design: Advanced Data Validation Techniques
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 7 -Getting it Right 
 ## Speaker: Rob Garrison
 ## Title: Schema Design: Advanced Data Validation Techniques
@@ -372,7 +373,7 @@ The beginner-level techniques here are very important and useful: primary key, a
 #  
 #### SessionID: 23627
 # SSRS data driven subscription using SSIS
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 8 -ETL  Analysis
 ## Speaker: Russel Loski
 ## Title: SSRS data driven subscription using SSIS
@@ -381,7 +382,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 8 -ETL  Analysis
 #  
 #### SessionID: 23998
 # A Tour in The Indexing World!
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 1 -Indexes
 ## Speaker: Hossam Alfraih
 ## Title: A Tour in The Indexing World!
@@ -390,7 +391,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 1 -Indexes
 #  
 #### SessionID: 24133
 # SQL Azure - What is it and why do you need it?
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 5 -On/Off Prem 
 ## Speaker: Scott Klein
 ## Title: SQL Azure - What is it and why do you need it?
@@ -399,7 +400,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 5 -On/Off Prem
 #  
 #### SessionID: 25737
 # Unleashing Common Table Expressions in SQL Server
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 2 -SQL Dev
 ## Speaker: Steve Stedman
 ## Title: Unleashing Common Table Expressions in SQL Server
@@ -408,7 +409,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 2 -SQL Dev
 #  
 #### SessionID: 26612
 # SSIS Incremental Load Design Patterns
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 8 -ETL  Analysis
 ## Speaker: Tim Mitchell
 ## Title: SSIS Incremental Load Design Patterns
@@ -422,7 +423,7 @@ In this session, we will review the common decision points surrounding increment
 #  
 #### SessionID: 26845
 # Performance Enhancing Laziness
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 6 -Performance 
 ## Speaker: Tim Ford
 ## Title: Performance Enhancing Laziness
@@ -431,7 +432,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 6 -Performance
 #  
 #### SessionID: 27374
 # The Significance of Choosing and Using Data Types
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 7 -Getting it Right 
 ## Speaker: Vern Rabe
 ## Title: The Significance of Choosing and Using Data Types
@@ -440,7 +441,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 7 -Getting it Right
 #  
 #### SessionID: 27442
 # What DBAs Should Know About Windows Server 2012
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 2 -SQL Dev
 ## Speaker: Victor Isakov
 ## Title: What DBAs Should Know About Windows Server 2012
@@ -449,7 +450,7 @@ Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 2 -SQL Dev
 #  
 #### SessionID: 8852
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#172-Oregon-2012)
+#### [Back to calendar](#nr-172)
 Event Date: 03-11-2012 - Session time: 00:00:00 - Track: 4 -Powershell
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals

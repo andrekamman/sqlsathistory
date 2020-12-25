@@ -1,3 +1,4 @@
+#### Nr: 892
 #### [Back to Main list](index.md)
 # SQLSaturday #892 - Providence 2019
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 91843
 # The Modern Data Warehouse and Azure
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform - Architecture, Development, Deployment or Administration
 ## Speaker: Chris Seferlis
 ## Title: The Modern Data Warehouse and Azure
@@ -44,7 +45,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform - Architect
 #  
 #### SessionID: 92603
 # New features in Management Studio  -- Performance Troubleshooting made easier!
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Taiob Ali
 ## Title: New features in Management Studio  -- Performance Troubleshooting made easier!
@@ -57,7 +58,7 @@ In this demo intensive session, I will show you how to find and use new features
 #  
 #### SessionID: 93485
 # Python in SQL Server 2017 and 2019
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics, Database or ML Development
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017 and 2019
@@ -68,7 +69,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 94519
 # Monitor Your Azure Resources Effectively
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Cloud Platform - Architecture, Development, Deployment or Administration
 ## Speaker: Todd Chittenden
 ## Title: Monitor Your Azure Resources Effectively
@@ -77,7 +78,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Cloud Platform - Archit
 #  
 #### SessionID: 95506
 # Let's Dive Into SQL Server I/O To Improve T-SQL Performance
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics, Database or ML Development
 ## Speaker: Andy Yun
 ## Title: Let's Dive Into SQL Server I/O To Improve T-SQL Performance
@@ -90,7 +91,7 @@ When you leave, you'll be able to optimize your T-SQL reduce I/O and improve per
 #  
 #### SessionID: 91820
 # Blogging for Success: Advancing your career by blogging
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Professional Development or Other
 ## Speaker: Ray Kim
 ## Title: Blogging for Success: Advancing your career by blogging
@@ -101,7 +102,7 @@ In this presentation, I'll tell you how I got started with 'blogging, where it's
 #  
 #### SessionID: 91955
 # Finding Islands, Gaps, and Clusters in Complex Data
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform - Architecture, Development, Deployment or Administration
 ## Speaker: Edward Pollack
 ## Title: Finding Islands, Gaps, and Clusters in Complex Data
@@ -118,7 +119,7 @@ This is a fast-paced session that delves into methods that can be applied to any
 #  
 #### SessionID: 92343
 # Documenting your SQL Server environment with PowerShell
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Matthew Anderson
 ## Title: Documenting your SQL Server environment with PowerShell
@@ -129,7 +130,7 @@ Finding a free and simple method to gather information about my SQL Server envir
 #  
 #### SessionID: 94998
 # Possiblities and Limitations of System-Versioned Temporal Tables beyond the Basics
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics, Database or ML Development
 ## Speaker: Reinhard Flügel
 ## Title: Possiblities and Limitations of System-Versioned Temporal Tables beyond the Basics
@@ -138,7 +139,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics,
 #  
 #### SessionID: 95304
 # Shortcuts from an Impatient DBA
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Andy Mallon
 ## Title: Shortcuts from an Impatient DBA
@@ -153,7 +154,7 @@ Slides and handouts available on GitHub: http://am2.co/shortcuts-ppt
 #  
 #### SessionID: 93198
 # Feeding the modern data warehouse (Power BI, Azure Data Factory and Databricks)
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform - Architecture, Development, Deployment or Administration
 ## Speaker: Christian Cote
 ## Title: Feeding the modern data warehouse (Power BI, Azure Data Factory and Databricks)
@@ -162,7 +163,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform - Architect
 #  
 #### SessionID: 93552
 # We Need To Talk Security
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Joe Gavin
 ## Title: We Need To Talk Security
@@ -175,7 +176,7 @@ We'll take a high level look at security starting with physical security, see th
 #  
 #### SessionID: 95441
 # Data Science at Warp Speed with Azure Machine Learning service
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics, Database or ML Development
 ## Speaker: Bryan Cafferky
 ## Title: Data Science at Warp Speed with Azure Machine Learning service
@@ -184,7 +185,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics,
 #  
 #### SessionID: 95445
 # Modernise your data migration with Azure Data Migration Service
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Modernise your data migration with Azure Data Migration Service
@@ -197,7 +198,7 @@ Let us jump into Database Migration Service, and how you can utilize and moderni
 #  
 #### SessionID: 95505
 # A Beginner's Guide to Seven Practices that Kill Performance
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Andy Yun
 ## Title: A Beginner's Guide to Seven Practices that Kill Performance
@@ -210,7 +211,7 @@ When you leave, you'll be armed with knowledge and tools to tackle your current 
 #  
 #### SessionID: 94855
 # Looking "Normal" and Seeing "Stars": Table Designs Working Together
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics, Database or ML Development
 ## Speaker: Deborah Melkin
 ## Title: Looking "Normal" and Seeing "Stars": Table Designs Working Together
@@ -223,7 +224,7 @@ By the end of the session, you will better understand how using the two designs 
 #  
 #### SessionID: 95303
 # Demystifying Data Compression
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Andy Mallon
 ## Title: Demystifying Data Compression
@@ -238,7 +239,7 @@ Slides  materials available at: https://github.com/amtwo/Presentations/tree/mast
 #  
 #### SessionID: 95323
 # Painlessly Upgrade to SQL 2017 or SQL 2019
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Paresh Motiwala
 ## Title: Painlessly Upgrade to SQL 2017 or SQL 2019
@@ -260,7 +261,7 @@ We will end the sessions with QA. If there is enough demand we can have a separa
 #  
 #### SessionID: 95571
 # Will Query Store fix all my Performance Issues?
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Surbhi Pokharna
 ## Title: Will Query Store fix all my Performance Issues?
@@ -269,7 +270,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - A
 #  
 #### SessionID: 98146
 # Basic Database Design
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics, Database or ML Development
 ## Speaker: John Miner
 ## Title: Basic Database Design
@@ -296,7 +297,7 @@ Coverage:
 #  
 #### SessionID: 92598
 # SQL Injection: What Is It, Prevent It, Monitor For It!
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Grant Fritchey
 ## Title: SQL Injection: What Is It, Prevent It, Monitor For It!
@@ -305,7 +306,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - A
 #  
 #### SessionID: 93202
 # Power BI Report Server for the enterprise
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform - Architecture, Development, Deployment or Administration
 ## Speaker: Christian Cote
 ## Title: Power BI Report Server for the enterprise
@@ -314,7 +315,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform - Architect
 #  
 #### SessionID: 93801
 # “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
@@ -329,7 +330,7 @@ This 1st session is also a recommended segue into the second sessio
 #  
 #### SessionID: 94700
 # Continuous integration and delivery (CI/CD) in Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Cloud Platform - Architecture, Development, Deployment or Administration
 ## Speaker: Rayis Imayev
 ## Title: Continuous integration and delivery (CI/CD) in Azure Data Factory
@@ -340,7 +341,7 @@ Let's explore how we can use Microsoft DevOps and GitHub to build and release ou
 #  
 #### SessionID: 95172
 # Organizational Security  Compliance with SQL 2012 through 2016/2017/2019
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: George Walters
 ## Title: Organizational Security  Compliance with SQL 2012 through 2016/2017/2019
@@ -349,7 +350,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - A
 #  
 #### SessionID: 92597
 # Extending DevOps To SQL Server
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Grant Fritchey
 ## Title: Extending DevOps To SQL Server
@@ -358,7 +359,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - A
 #  
 #### SessionID: 93482
 # "Schadenfreude" - Let's enjoy the mistakes other people made...
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Professional Development or Other
 ## Speaker: Thomas Grohser
 ## Title: "Schadenfreude" - Let's enjoy the mistakes other people made...
@@ -369,7 +370,7 @@ After a log day, come in and have some fun before the evening event starts
 #  
 #### SessionID: 93802
 # “Black Arts” Index Maintenance #2: Better Methods that Can Actual
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #2: Better Methods that Can Actual
@@ -386,7 +387,7 @@ Session #1 is a strongly recommend prerequisite for this session.
 #  
 #### SessionID: 95442
 # Breaking the Social Code: How to be Socially Intelligent at Work
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Professional Development or Other
 ## Speaker: Linda Groszyk
 ## Title: Breaking the Social Code: How to be Socially Intelligent at Work
@@ -397,7 +398,7 @@ If you answered yes to any of these questions, then this session is for you! For
 #  
 #### SessionID: 98110
 # Learn or Churn ~ Navigating your Career in 2020 and Beyond
-#### [Back to calendar](#SQLSaturday-#892-Providence-2019)
+#### [Back to calendar](#nr-892)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Professional Development or Other
 ## Speaker: Bryan Cafferky
 ## Title: Learn or Churn ~ Navigating your Career in 2020 and Beyond

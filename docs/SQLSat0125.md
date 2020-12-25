@@ -1,3 +1,4 @@
+#### Nr: 125
 #### [Back to Main list](index.md)
 # SQLSaturday #125 - Oklahoma City 2012
 Start Time (24h)|Speaker|Track|Title
@@ -32,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11053
 # Building Writeback Applications in SSAS
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Bryan Smith
 ## Title: Building Writeback Applications in SSAS
@@ -41,7 +42,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 11315
 # Real-time Data Warehouse and Reporting Solutions
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Carlos Bossy
 ## Title: Real-time Data Warehouse and Reporting Solutions
@@ -50,7 +51,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 11866
 # Instant Scale, High Avail.  Performance for SQL
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Corey Brune
 ## Title: Instant Scale, High Avail.  Performance for SQL
@@ -59,7 +60,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 14758
 # Top Tips for Writing Better T-SQL Queries
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Grant Fritchey
 ## Title: Top Tips for Writing Better T-SQL Queries
@@ -68,7 +69,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 16475
 # T-SQL Brush-up:The Best Things You Forgot You Knew
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Jennifer McCown
 ## Title: T-SQL Brush-up:The Best Things You Forgot You Knew
@@ -77,7 +78,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 16869
 # Analytical MDM with Master Data Services 2012
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Jeff Johnston
 ## Title: Analytical MDM with Master Data Services 2012
@@ -87,7 +88,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 17689
 # Performance Tuning for Pirates
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: John Sterrett
 ## Title: Performance Tuning for Pirates
@@ -96,7 +97,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17969
 # Best Practices for Monitoring Databases on VMware
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Kathy  Gibbs
 ## Title: Best Practices for Monitoring Databases on VMware
@@ -106,7 +107,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 18836
 # Cross Platform Database Monitoring
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Kristofer Hutchinson
 ## Title: Cross Platform Database Monitoring
@@ -115,7 +116,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 19674
 # Building a Better Database Security Strategy
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Mark Mastrangeli
 ## Title: Building a Better Database Security Strategy
@@ -124,7 +125,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 23170
 # SQL Server in the Cloud
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Rob Sullivan
 ## Title: SQL Server in the Cloud
@@ -133,7 +134,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 23716
 # SQL 2012 AlwaysOn Quickstart
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Ryan Adams
 ## Title: SQL 2012 AlwaysOn Quickstart
@@ -147,7 +148,7 @@ capabilities it gives us.
 #  
 #### SessionID: 24265
 # Mouth Wide Shut: Coherent Interviewing
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Sean McCown
 ## Title: Mouth Wide Shut: Coherent Interviewing
@@ -156,7 +157,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 24266
 # Understanding Backups
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sean McCown
 ## Title: Understanding Backups
@@ -165,7 +166,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 26301
 # Transaction Log Deep Dive
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kevin Boles
 ## Title: Transaction Log Deep Dive
@@ -174,7 +175,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 26303
 # SQL Injection
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Kevin Boles
 ## Title: SQL Injection
@@ -183,7 +184,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 26308
 # SQL Server 2012 TSQL Enhancements and Additions
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2012 TSQL Enhancements and Additions
@@ -192,7 +193,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 26619
 # Top 10 New Features of SSIS in 2012
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Tim Mitchell
 ## Title: Top 10 New Features of SSIS in 2012
@@ -205,7 +206,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 26755
 # Pro Tips:  Performance Tuning SSIS
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Tim Costello
 ## Title: Pro Tips:  Performance Tuning SSIS
@@ -214,7 +215,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 27852
 # SSAS 2012 Tabular vs. Multidimensional            
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: William E Pearson III
 ## Title: SSAS 2012 Tabular vs. Multidimensional            
@@ -223,7 +224,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 30588
 # Declarative versus Procedural Programming
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Joe Celko
 ## Title: Declarative versus Procedural Programming
@@ -232,7 +233,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 31731
 # Performance Analysis – Finding What Needs Tuning
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Mike Hotek
 ## Title: Performance Analysis – Finding What Needs Tuning
@@ -241,7 +242,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 31733
 # Fixing SQL Server–Complete Mess 2 Smooth Operation
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mike Hotek
 ## Title: Fixing SQL Server–Complete Mess 2 Smooth Operation
@@ -250,7 +251,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 34475
 # Entity Strategies: Structuring Your Consultancy
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: William E Pearson III
 ## Title: Entity Strategies: Structuring Your Consultancy
@@ -259,7 +260,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 9023
 # Benchmarking, Baselines and Monitoring Storage
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Wesley Brown
 ## Title: Benchmarking, Baselines and Monitoring Storage
@@ -277,7 +278,7 @@ With these tools you can plan, deploy and manage your storage for years to come!
 #  
 #### SessionID: 9117
 # Without A SQLTrace-Getting To Know Extended Events
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: AJ Mendo
 ## Title: Without A SQLTrace-Getting To Know Extended Events
@@ -286,7 +287,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 9924
 # Beyond Basics in SSRS
-#### [Back to calendar](#SQLSaturday-#125-Oklahoma-City-2012)
+#### [Back to calendar](#nr-125)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Allen Smith
 ## Title: Beyond Basics in SSRS

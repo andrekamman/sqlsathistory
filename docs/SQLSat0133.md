@@ -1,3 +1,4 @@
+#### Nr: 133
 #### [Back to Main list](index.md)
 # SQLSaturday #133 - Costa Rica 2012
 Start Time (24h)|Speaker|Track|Title
@@ -21,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 12050
 # PowerPivot in SQL-Server 2012
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Carlos Rojas Vargas
 ## Title: PowerPivot in SQL-Server 2012
@@ -30,7 +31,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13617
 # Indices Columnares en SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Eduardo Castro
 ## Title: Indices Columnares en SQL Server 2012
@@ -39,7 +40,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 16694
 # “No soy una base de datos más – UBICATE!”
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jesus Gil Velasco
 ## Title: “No soy una base de datos más – UBICATE!”
@@ -49,7 +50,7 @@ Además se harán ejemplos prácticos para demostrar la utilidad de los datos Ge
 #  
 #### SessionID: 16696
 # Y el rendimiento... ¿Dónde ha quedado?
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jesus Gil Velasco
 ## Title: Y el rendimiento... ¿Dónde ha quedado?
@@ -60,7 +61,7 @@ Esta charla les siver a desarrolladores y DBAs que trabajen con versiones SQL Se
 #  
 #### SessionID: 16786
 # Intro to Windows Phone Dev [en ingles]
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Joe Healy
 ## Title: Intro to Windows Phone Dev [en ingles]
@@ -69,7 +70,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 16787
 # Windows Phone Dev Internationalization [en ingles]
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Joe Healy
 ## Title: Windows Phone Dev Internationalization [en ingles]
@@ -78,7 +79,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 16788
 # Introduction to Kinect SDK - [en ingles]
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Joe Healy
 ## Title: Introduction to Kinect SDK - [en ingles]
@@ -87,7 +88,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 16942
 # Patrones de Arquitectura en BI
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Javier Loria
 ## Title: Patrones de Arquitectura en BI
@@ -96,7 +97,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17758
 # Base de Datos Tabulares
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Juan Alvarado
 ## Title: Base de Datos Tabulares
@@ -105,7 +106,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17759
 # Data Quality Services: calidad de datos de SQL
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Juan Alvarado
 ## Title: Data Quality Services: calidad de datos de SQL
@@ -114,7 +115,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18393
 # Microsoft Lync Voice, IM and Video Dev [en ingles]
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Keith Kabza
 ## Title: Microsoft Lync Voice, IM and Video Dev [en ingles]
@@ -123,7 +124,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 22306
 # ¡Contravía!  Alimente el DW con SSRS usando SSIS
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ricardo Estrada
 ## Title: ¡Contravía!  Alimente el DW con SSRS usando SSIS
@@ -132,7 +133,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 22623
 # Nuevas Características de Reporting Services 
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Raul Oviedo
 ## Title: Nuevas Características de Reporting Services 
@@ -141,7 +142,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27189
 # Partitioning and Partial Databases for HA for VLDB
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kenneth Urena
 ## Title: Partitioning and Partial Databases for HA for VLDB
@@ -150,7 +151,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28289
 # SQL Azure
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Yuri Porras
 ## Title: SQL Azure
@@ -159,7 +160,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 34629
 # SQL Server AlwaysOn
-#### [Back to calendar](#SQLSaturday-#133-Costa-Rica-2012)
+#### [Back to calendar](#nr-133)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Eduardo Castro
 ## Title: SQL Server AlwaysOn

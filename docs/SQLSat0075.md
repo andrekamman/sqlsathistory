@@ -1,3 +1,4 @@
+#### Nr: 75
 #### [Back to Main list](index.md)
 # SQLSaturday #75 - Columbus 2011
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28931
 # Let Service Broker Help You Scale Your Application
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Allen White
 ## Title: Let Service Broker Help You Scale Your Application
@@ -34,7 +35,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28933
 # Gather SQL Server Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Allen White
 ## Title: Gather SQL Server Performance Data with PowerShell
@@ -43,7 +44,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 28961
 # Business SQL: Real World Analytics
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Cross
 ## Title: Business SQL: Real World Analytics
@@ -52,7 +53,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29647
 # Integrating SQL Server with Active Directory
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Craig Purnell
 ## Title: Integrating SQL Server with Active Directory
@@ -64,7 +65,7 @@ sides.
 #  
 #### SessionID: 29988
 # Backyard Grilling with Analysis Services
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dave Rodabaugh
 ## Title: Backyard Grilling with Analysis Services
@@ -73,7 +74,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30012
 # Characteristics of a Great Relational Database
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Louis Davidson
 ## Title: Characteristics of a Great Relational Database
@@ -82,7 +83,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30081
 # Baseline Basics: Where to Start, What You Need
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Erin Stellato
 ## Title: Baseline Basics: Where to Start, What You Need
@@ -91,7 +92,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30147
 # Find Performance Problems by Reading the Waits
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Eddie Wuerch
 ## Title: Find Performance Problems by Reading the Waits
@@ -100,7 +101,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30148
 # TempDB Performance Troubleshooting and Optimizing
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Performance Troubleshooting and Optimizing
@@ -109,7 +110,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30778
 # Reporting Services 201: From Basic To WOW! 
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jes Schultz
 ## Title: Reporting Services 201: From Basic To WOW! 
@@ -124,7 +125,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32207
 # Take Your Automation Scripts to the Next Level!
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Paul Hiles
 ## Title: Take Your Automation Scripts to the Next Level!
@@ -133,7 +134,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32208
 # DMVs- What are they and why should a DBA care? 
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Paul Hiles
 ## Title: DMVs- What are they and why should a DBA care? 
@@ -142,7 +143,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32552
 # PowerPivot: BI  Massive Data Analysis for Humans
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rob Collie
 ## Title: PowerPivot: BI  Massive Data Analysis for Humans
@@ -152,7 +153,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32781
 # The 4-hour DBA: Automate, Audit and Relax
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Sarah Barela
 ## Title: The 4-hour DBA: Automate, Audit and Relax
@@ -161,7 +162,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 32783
 # Build your own SQL Server Cloud
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Sarah Barela
 ## Title: Build your own SQL Server Cloud
@@ -170,7 +171,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 32784
 # Oh, no!  Disaster Strikes
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Sarah Barela
 ## Title: Oh, no!  Disaster Strikes
@@ -179,7 +180,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33452
 # SQL Server Partitioning from A to Z
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Boles
 ## Title: SQL Server Partitioning from A to Z
@@ -189,7 +190,7 @@ We will cover most of the bases in this broad and deep coverage of table/index p
 #  
 #### SessionID: 33454
 # SANs and SQL Server
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Boles
 ## Title: SANs and SQL Server
@@ -198,7 +199,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 34220
 # Beyond Plateaux: Optimize SSAS via Best Practices
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: William E Pearson III
 ## Title: Beyond Plateaux: Optimize SSAS via Best Practices
@@ -207,7 +208,7 @@ Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 34225
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#75-Columbus-2011)
+#### [Back to calendar](#nr-75)
 Event Date: 11-06-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX

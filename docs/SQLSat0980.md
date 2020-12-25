@@ -1,3 +1,4 @@
+#### Nr: 980
 #### [Back to Main list](index.md)
 # SQLSaturday #980 – Plovdiv – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 102414
 # Implement a disaster recovery solution for your on-prem SQL with Azure? Easy!
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Strategy and Architecture
 ## Speaker: Marco Obinu
 ## Title: Implement a disaster recovery solution for your on-prem SQL with Azure? Easy!
@@ -36,7 +37,7 @@ Let's see together what choices we have, with a particular focus on Availability
 #  
 #### SessionID: 107681
 # Understanding SQL Server Views - The Right Way
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Ramesh Satya
 ## Title: Understanding SQL Server Views - The Right Way
@@ -45,7 +46,7 @@ Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Application  Database D
 #  
 #### SessionID: 109224
 # Creating Custom Visuals in Power BI with TypeScript and D3.j
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Mihail Mateev
 ## Title: Creating Custom Visuals in Power BI with TypeScript and D3.j
@@ -67,7 +68,7 @@ In this talk you will learn how to:
 #  
 #### SessionID: 109302
 # Azure DevOps between reality and the fantasy :"Build DevOps CI/CD Pipelines"
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ehab Abdelmonem
 ## Title: Azure DevOps between reality and the fantasy :"Build DevOps CI/CD Pipelines"
@@ -79,7 +80,7 @@ then we are going to create a DevOps Pipeline and test it.
 #  
 #### SessionID: 108233
 # MS SQL New functions, syntaxes, tips  tricks
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Damir Matesic
 ## Title: MS SQL New functions, syntaxes, tips  tricks
@@ -89,7 +90,7 @@ Accompanied with multiple examples, this session will show you many interesting 
 #  
 #### SessionID: 108235
 # SQL Server Intelligent Query Processing
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Dean Savović
 ## Title: SQL Server Intelligent Query Processing
@@ -98,7 +99,7 @@ Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Application  Database D
 #  
 #### SessionID: 109301
 # External Tools for Power BI
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Georgi Petkov
 ## Title: External Tools for Power BI
@@ -112,7 +113,7 @@ Event Date: 12-12-2020 - Session time: 15:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 109315
 # Azure Logic Apps – how to integrate different systems with zero coding?
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: Azure Logic Apps – how to integrate different systems with zero coding?
@@ -121,7 +122,7 @@ Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 102516
 # Self-Service ETL: The PowerBI Data Flows
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dennes Torres
 ## Title: Self-Service ETL: The PowerBI Data Flows
@@ -132,7 +133,7 @@ In this session you will understand better what Data Flows can bring to our alre
 #  
 #### SessionID: 103908
 # Azure SQL Database EDGE, put your SQL wherever you want!
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Marco Dal Pino
 ## Title: Azure SQL Database EDGE, put your SQL wherever you want!
@@ -143,7 +144,7 @@ Expand device architecture coverage to include ARM-based devices on top of x64-b
 #  
 #### SessionID: 107749
 # Row Level Security Deep Dive
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: André Melancia
 ## Title: Row Level Security Deep Dive
@@ -154,7 +155,7 @@ Disclaimer: No rowing or swimming will take place. You can leave your live vest 
 #  
 #### SessionID: 109357
 # Why my query is slow and how to make it fast
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Denis Reznik
 ## Title: Why my query is slow and how to make it fast
@@ -163,7 +164,7 @@ Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Application  Database D
 #  
 #### SessionID: 102961
 # Known T-SQL but not to everybody  (especially beginners) Insights and samples for T-SQL
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Reinhard Flügel
 ## Title: Known T-SQL but not to everybody  (especially beginners) Insights and samples for T-SQL
@@ -172,7 +173,7 @@ Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Application  Database D
 #  
 #### SessionID: 107807
 # Azure Sql DB Managed instance, a different sql server?
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gonzalo Bissio
 ## Title: Azure Sql DB Managed instance, a different sql server?
@@ -181,7 +182,7 @@ Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 109306
 # Quantum computing explained with demos!
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Information Delivery
 ## Speaker: Damian Widera
 ## Title: Quantum computing explained with demos!
@@ -200,7 +201,7 @@ I do not assume any special knowledge, but if you know basic linear algebra (mat
 #  
 #### SessionID: 109332
 # End-to-End Business Intelligence Architecture in Azure
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Aleksandar Vetsev
 ## Title: End-to-End Business Intelligence Architecture in Azure
@@ -209,7 +210,7 @@ Event Date: 12-12-2020 - Session time: 15:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 102412
 # Working with parameters in Power Query
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Boriana Petrova
 ## Title: Working with parameters in Power Query
@@ -218,7 +219,7 @@ Event Date: 12-12-2020 - Session time: 15:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 102426
 # Machine Learning - Best Practices and Vulnerabilities
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Sebastiano Galazzo
 ## Title: Machine Learning - Best Practices and Vulnerabilities
@@ -230,7 +231,7 @@ The second part will cover vulnerabilities of ML discovering how easy could be t
 #  
 #### SessionID: 104168
 # Machine Learning is full of stars: An Azure Story
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: André Melancia
 ## Title: Machine Learning is full of stars: An Azure Story
@@ -241,7 +242,7 @@ Disclaimer: All these worlds are yours except Cognitive Service, that's for a di
 #  
 #### SessionID: 109356
 # Big Brother your Power BI deployment
-#### [Back to calendar](#SQLSaturday-#980-–-Plovdiv-–-Virtual-2020)
+#### [Back to calendar](#nr-980)
 Event Date: 12-12-2020 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rui Romano
 ## Title: Big Brother your Power BI deployment

@@ -1,3 +1,4 @@
+#### Nr: 294
 #### [Back to Main list](index.md)
 # SQLSaturday #294 - Philadelphia 2014
 Start Time (24h)|Speaker|Track|Title
@@ -47,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10088
 # SQL Server Backup and Recovery Fundamentals
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Ayman El-Ghazali
 ## Title: SQL Server Backup and Recovery Fundamentals
@@ -56,7 +57,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 10681
 # Treating Tables Like Legos, Partitioning Basics
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Brandon Leach
 ## Title: Treating Tables Like Legos, Partitioning Basics
@@ -65,7 +66,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 10853
 # SQL 2012 Table Compression
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Table Compression
@@ -74,7 +75,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 11197
 # Your SQL Server Environment--Fair or Foul?
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Carlos L Chacon
 ## Title: Your SQL Server Environment--Fair or Foul?
@@ -85,7 +86,7 @@ This presentation will focus on steps you can take to determine the performance 
 #  
 #### SessionID: 11271
 # 	The Spy Who Loathed Me - An Intro to SQL Security
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Chris Bell
 ## Title: 	The Spy Who Loathed Me - An Intro to SQL Security
@@ -94,7 +95,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 11675
 # The Business Intelligence Management Data Mart
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Chris Schmidt
 ## Title: The Business Intelligence Management Data Mart
@@ -103,7 +104,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 12402
 # High Availability with Windows Server 2012 R2 and SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 ## Speaker: David Bermingham
 ## Title: High Availability with Windows Server 2012 R2 and SQL Server 2014
@@ -112,7 +113,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 #  
 #### SessionID: 12899
 # Using Hive to Query and Process Big Data
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI I
 ## Speaker: Dan Clark
 ## Title: Using Hive to Query and Process Big Data
@@ -121,7 +122,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI I
 #  
 #### SessionID: 13239
 # Parsing T-SQL using the TransactSql.ScriptDom library (C#)
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Dominic Falso
 ## Title: Parsing T-SQL using the TransactSql.ScriptDom library (C#)
@@ -131,7 +132,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 13854
 # (a Few of) My Favorite DMVs
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Edward Pollack
 ## Title: (a Few of) My Favorite DMVs
@@ -141,7 +142,7 @@ We will dig into some of the most useful DMVs available and review some real-wor
 #  
 #### SessionID: 14778
 # Common Problems in Backup and Recovery and How to Handle Them
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Grant Fritchey
 ## Title: Common Problems in Backup and Recovery and How to Handle Them
@@ -150,7 +151,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 16161
 # Beyond Stereotypes: Equality, Gender Neutrality, and Valuing Team Diversity
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Joseph D'Antoni
 ## Title: Beyond Stereotypes: Equality, Gender Neutrality, and Valuing Team Diversity
@@ -160,7 +161,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 16162
 # In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 ## Speaker: Joseph D'Antoni
 ## Title: In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
@@ -169,7 +170,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 #  
 #### SessionID: 16249
 # Bulk Insert, Temp Tables  Computed Columns, T-SQL Techniques
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI II
 ## Speaker: Joshua Lynn
 ## Title: Bulk Insert, Temp Tables  Computed Columns, T-SQL Techniques
@@ -178,7 +179,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI II
 #  
 #### SessionID: 16377
 # Analysis Services Relational Querying – Why Bother?
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Jeff Burke
 ## Title: Analysis Services Relational Querying – Why Bother?
@@ -191,7 +192,7 @@ This session will review the case for relational querying as well as the behavio
 #  
 #### SessionID: 17008
 # Effective Data Warehouse Storage Patterns
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI I
 ## Speaker: John Miner
 ## Title: Effective Data Warehouse Storage Patterns
@@ -220,7 +221,7 @@ Coverage:
 #  
 #### SessionID: 17510
 # Visual Analytics with HDInsight and Power View
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI II
 ## Speaker: Josh Fennessy
 ## Title: Visual Analytics with HDInsight and Power View
@@ -236,7 +237,7 @@ Finally, integration with SSAS and Power View (using Excel 2013) will be shown, 
 #  
 #### SessionID: 17871
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -245,7 +246,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 18550
 # Performance Tuning - Index Optimization
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Konstantin Melamud
 ## Title: Performance Tuning - Index Optimization
@@ -254,7 +255,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 18870
 # Think like SSIS and Build a package
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI II
 ## Speaker: Ravi Kumar
 ## Title: Think like SSIS and Build a package
@@ -263,7 +264,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI II
 #  
 #### SessionID: 19047
 # Database Development with SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI I
 ## Speaker: Leonard Lobel
 ## Title: Database Development with SQL Server Data Tools
@@ -272,7 +273,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI I
 #  
 #### SessionID: 19586
 # Optimizing Bulk Insert Operations
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI I
 ## Speaker: Mark Wojciechowicz
 ## Title: Optimizing Bulk Insert Operations
@@ -281,7 +282,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI I
 #  
 #### SessionID: 19646
 # Analysis Services Terms and Concepts for the DBA
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI II
 ## Speaker: Mark Vaillancourt
 ## Title: Analysis Services Terms and Concepts for the DBA
@@ -302,7 +303,7 @@ Come take a few steps into the exciting world of Business Intelligence with SQL 
 #  
 #### SessionID: 20042
 # Practical SQL Azure: Moving into the Cloud
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 ## Speaker: Tim Corey
 ## Title: Practical SQL Azure: Moving into the Cloud
@@ -311,7 +312,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 #  
 #### SessionID: 20209
 # Put Your Data on the Map
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI II
 ## Speaker: Mark Hudson
 ## Title: Put Your Data on the Map
@@ -320,7 +321,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI II
 #  
 #### SessionID: 21719
 # Securing a Multi-Database Application
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Sebastian Meine
 ## Title: Securing a Multi-Database Application
@@ -332,7 +333,7 @@ In this session, we will do a quick review of access security best practices and
 #  
 #### SessionID: 21805
 # ETL not ELT!  Common mistakes and misconceptions about SSIS
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI II
 ## Speaker: Paul Rizza
 ## Title: ETL not ELT!  Common mistakes and misconceptions about SSIS
@@ -342,7 +343,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI II
 #  
 #### SessionID: 22640
 # Getting Started with Hekaton (In-Memory OLTP)
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 ## Speaker: Brian Davis
 ## Title: Getting Started with Hekaton (In-Memory OLTP)
@@ -351,7 +352,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 #  
 #### SessionID: 23551
 # DBA for Dummies
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Robert Pearl
 ## Title: DBA for Dummies
@@ -361,7 +362,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 24420
 # Indexing Fundamentals
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Steve Hood
 ## Title: Indexing Fundamentals
@@ -370,7 +371,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 24644
 # Introducing Power BI
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI I
 ## Speaker: Stacia Varga
 ## Title: Introducing Power BI
@@ -379,7 +380,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI I
 #  
 #### SessionID: 25440
 # SQL Server Reporting Services Best Practices
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services Best Practices
@@ -391,7 +392,7 @@ We shall be discussing the pros and cons of utilizing shared datasets, the pluse
 #  
 #### SessionID: 26013
 # Designing  Formatting Reports
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI I
 ## Speaker: Tamera Clark
 ## Title: Designing  Formatting Reports
@@ -400,7 +401,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: BI I
 #  
 #### SessionID: 26816
 # Backup to the Cloud: Integrating On-Premises SQL Server Backup and Recovery with Window Azure
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 ## Speaker: Timothy McAliley
 ## Title: Backup to the Cloud: Integrating On-Premises SQL Server Backup and Recovery with Window Azure
@@ -409,7 +410,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 #  
 #### SessionID: 27520
 # Extended Properties and how to automate DB Documenting process. 
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Slava Murygin
 ## Title: Extended Properties and how to automate DB Documenting process. 
@@ -421,7 +422,7 @@ If any of your answers is "NO" then you have to attend this session.
 #  
 #### SessionID: 27630
 # The Super Trace: Introduction to Extended Events 
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Warner Chaves
 ## Title: The Super Trace: Introduction to Extended Events 
@@ -430,7 +431,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 27721
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -439,7 +440,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 28341
 # An Introduction to SQLCLR
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Justin Dearing
 ## Title: An Introduction to SQLCLR
@@ -455,7 +456,7 @@ We will also discuss the administrative and security concerns of SQLCLR, and how
 #  
 #### SessionID: 9086
 # 45 Minutes to Your First SSAS Tabular Model
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First SSAS Tabular Model
@@ -465,7 +466,7 @@ SSAS Tabular is a new form of business intelligence model released with SQL Serv
 #  
 #### SessionID: 9202
 # ApexSQL Tools
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Saska Cvetkovic
 ## Title: ApexSQL Tools
@@ -474,7 +475,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 9266
 # Hybrid Solutions: The Future of SQL Server Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 ## Speaker: Allan Hirt
 ## Title: Hybrid Solutions: The Future of SQL Server Disaster Recovery
@@ -483,7 +484,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 #  
 #### SessionID: 9920
 # Using Apache Solr with SQL for Text Searching
-#### [Back to calendar](#SQLSaturday-#294-Philadelphia-2014)
+#### [Back to calendar](#nr-294)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Ashton Hobbs
 ## Title: Using Apache Solr with SQL for Text Searching

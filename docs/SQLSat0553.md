@@ -1,3 +1,4 @@
+#### Nr: 553
 #### [Back to Main list](index.md)
 # SQLSaturday #553 - Oklahoma City 2016
 Start Time (24h)|Speaker|Track|Title
@@ -34,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 49765
 # Scale out SQL Server PaaS in Azure Elastically
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Shawn Weisfeld
 ## Title: Scale out SQL Server PaaS in Azure Elastically
@@ -43,7 +44,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 51042
 # SQL Server 2016: It Just Runs Faster
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: SQL Server 2016: It Just Runs Faster
@@ -52,7 +53,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 51146
 # Deploy SQL Server with Microsoft Azure Virtual Machine
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bala Shankar
 ## Title: Deploy SQL Server with Microsoft Azure Virtual Machine
@@ -61,7 +62,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 52998
 # Introduction to BIML and BimlScript
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Marx
 ## Title: Introduction to BIML and BimlScript
@@ -76,7 +77,7 @@ Jeremy will demonstrate how to build a simple, single-table SSIS package using B
 #  
 #### SessionID: 53049
 # T-SQL's Hidden Support Feature
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: T-SQL's Hidden Support Feature
@@ -88,7 +89,7 @@ In this session, Microsoft Certified Master Jennifer McCown will demonstrate the
 #  
 #### SessionID: 50343
 # PoShDBA: Practical PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: PoShDBA: Practical PowerShell for the DBA
@@ -97,7 +98,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 51041
 # Inside the SQL Server Query Store
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: Inside the SQL Server Query Store
@@ -106,7 +107,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 52364
 # Get Your Optimizer to Give up All Its Secrets
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
@@ -115,7 +116,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 52452
 # Build ETL efficiently (10x) with Minimal Logging
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Cho
 ## Title: Build ETL efficiently (10x) with Minimal Logging
@@ -126,7 +127,7 @@ We will first analyze how data gets accessed from the source and how data gets u
 #  
 #### SessionID: 52641
 # Accidental DBA Dev Edition
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Kenneth Fisher
 ## Title: Accidental DBA Dev Edition
@@ -135,7 +136,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 53963
 # Lunch
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Other
 ## Speaker: William Barnes
 ## Title: Lunch
@@ -144,7 +145,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Other
 #  
 #### SessionID: 53964
 # EMC - Maximizing Microsoft SQL Server Storage Investments
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Other
 ## Speaker: William Barnes
 ## Title: EMC - Maximizing Microsoft SQL Server Storage Investments
@@ -157,7 +158,7 @@ Beyond just production database performance, EMC provides robust database repurp
 #  
 #### SessionID: 53965
 # Microsoft
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Other
 ## Speaker: William Barnes
 ## Title: Microsoft
@@ -166,7 +167,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Other
 #  
 #### SessionID: 53966
 # Techlahoma
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Other
 ## Speaker: William Barnes
 ## Title: Techlahoma
@@ -175,7 +176,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Other
 #  
 #### SessionID: 49759
 # Create a Data Loading Strategy
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Casey
 ## Title: Create a Data Loading Strategy
@@ -193,7 +194,7 @@ This session uses a Virtual Sandbox to demonstrate “real” data loads using t
 #  
 #### SessionID: 49837
 # Testing SSIS Packages
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Testing SSIS Packages
@@ -211,7 +212,7 @@ This session walks through design patterns for testing SSIS packages during and 
 #  
 #### SessionID: 50410
 # Unit Testing SQL Server
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Unit Testing SQL Server
@@ -220,7 +221,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 50683
 # Unraveling Tangled Code:A Spellbinding Tale of Victory Over Chaos
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Unraveling Tangled Code:A Spellbinding Tale of Victory Over Chaos
@@ -229,7 +230,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 51101
 # TARDIS:  Time And Relative Dimensions in SQL!
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Costello
 ## Title: TARDIS:  Time And Relative Dimensions in SQL!
@@ -238,7 +239,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49832
 # Are There Time Bombs in your SSIS Packages?
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Are There Time Bombs in your SSIS Packages?
@@ -249,7 +250,7 @@ In this session, we will explore some of the most common SSIS design patterns th
 #  
 #### SessionID: 50408
 # Know What Your Code is Doing to SQL Server!
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Know What Your Code is Doing to SQL Server!
@@ -258,7 +259,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 50651
 # Administering SQL Server on Server Core with PowerShell
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: Administering SQL Server on Server Core with PowerShell
@@ -267,7 +268,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 51161
 # Analyze your query plan like a Microsoft Engineer! (SQL 2016 Edition)
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Janik
 ## Title: Analyze your query plan like a Microsoft Engineer! (SQL 2016 Edition)
@@ -276,7 +277,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 52690
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -285,7 +286,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 50668
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
@@ -295,7 +296,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 51046
 # Intro Data Warehousing for the DBA\Dev: From “Stupid Data" to Star Schema
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Matthew Brimer
 ## Title: Intro Data Warehousing for the DBA\Dev: From “Stupid Data" to Star Schema
@@ -304,7 +305,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 52694
 # SQL Server Reporting Services - Zero to Automated Reports Today!
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: BI Information Delivery
 ## Speaker: Rudy Rodarte
 ## Title: SQL Server Reporting Services - Zero to Automated Reports Today!
@@ -313,7 +314,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 52771
 # Loading SQL Server Data with Powershell
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Loading SQL Server Data with Powershell
@@ -322,7 +323,7 @@ Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 52775
 # SSIS Performance Tuning with Biml
-#### [Back to calendar](#SQLSaturday-#553-Oklahoma-City-2016)
+#### [Back to calendar](#nr-553)
 Event Date: 27-08-2016 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: SSIS Performance Tuning with Biml

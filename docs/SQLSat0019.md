@@ -1,3 +1,4 @@
+#### Nr: 19
 #### [Back to Main list](index.md)
 # SQLSaturday #19 - East Iowa 2009
 Start Time (24h)|Speaker|Track|Title
@@ -27,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 29007
 # An Introduction to ASP.NET MVC
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev II
 ## Speaker: Chris Sutton
 ## Title: An Introduction to ASP.NET MVC
@@ -38,7 +39,7 @@ In this presentation we'll explain the MVC terminology and then we'll explore ho
 #  
 #### SessionID: 29457
 # SQL Server 2008 R2 - Moving to the Next Level
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev II
 ## Speaker: Chuck Heinzelman
 ## Title: SQL Server 2008 R2 - Moving to the Next Level
@@ -47,7 +48,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev II
 #  
 #### SessionID: 29458
 # SQL Server 2008 - Practical Uses for New Features
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev II
 ## Speaker: Chuck Heinzelman
 ## Title: SQL Server 2008 - Practical Uses for New Features
@@ -56,7 +57,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev II
 #  
 #### SessionID: 29691
 # Introduction to PowerShell
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev I
 ## Speaker: Keith Dahlby
 ## Title: Introduction to PowerShell
@@ -66,7 +67,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev I
 #  
 #### SessionID: 29998
 # Database Design Patterns
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: BI / Relational Theory
 ## Speaker: Louis Davidson
 ## Title: Database Design Patterns
@@ -75,7 +76,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: BI / Relational Theory
 #  
 #### SessionID: 30441
 # Tuna Helper - A Proven Process for Tuning SQL
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev I
 ## Speaker: Janis Griffin
 ## Title: Tuna Helper - A Proven Process for Tuning SQL
@@ -84,7 +85,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev I
 #  
 #### SessionID: 30885
 # Building Reports in SQL Server Reporting Services 
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: BI / Relational Theory
 ## Speaker: Jessica Moss
 ## Title: Building Reports in SQL Server Reporting Services 
@@ -93,7 +94,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: BI / Relational Theory
 #  
 #### SessionID: 30886
 # Extract, Transform, and Load your Data Warehouse
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: BI / Relational Theory
 ## Speaker: Jessica Moss
 ## Title: Extract, Transform, and Load your Data Warehouse
@@ -102,7 +103,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: BI / Relational Theory
 #  
 #### SessionID: 30887
 # Introduction to SSAS Dimensions
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: BI / Relational Theory
 ## Speaker: Jessica Moss
 ## Title: Introduction to SSAS Dimensions
@@ -111,7 +112,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: BI / Relational Theory
 #  
 #### SessionID: 32482
 # 2 Years of Database Unit Testing: Lessons Learned
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev II
 ## Speaker: Alex Kuznetsov
 ## Title: 2 Years of Database Unit Testing: Lessons Learned
@@ -122,7 +123,7 @@ Duration: 45 minutes
 #  
 #### SessionID: 33577
 # High-Availability Options for Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administrative / Platform
 ## Speaker: Tim Plas
 ## Title: High-Availability Options for Microsoft SQL Server
@@ -131,7 +132,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administrative / Platfo
 #  
 #### SessionID: 34526
 # Introduction to Database Mirroring
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administrative / Platform
 ## Speaker: Zakir Durumeric
 ## Title: Introduction to Database Mirroring
@@ -140,7 +141,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administrative / Platfo
 #  
 #### SessionID: 34527
 # SQL Server 2008: The New and Cool...
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev II
 ## Speaker: Zakir Durumeric
 ## Title: SQL Server 2008: The New and Cool...
@@ -149,7 +150,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev II
 #  
 #### SessionID: 34528
 # Service Broker: A Brief Introduction
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administrative / Platform
 ## Speaker: Zakir Durumeric
 ## Title: Service Broker: A Brief Introduction
@@ -158,7 +159,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administrative / Platfo
 #  
 #### SessionID: 34916
 # The Benefits of SQL Azure
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administrative / Platform
 ## Speaker: Aaron King
 ## Title: The Benefits of SQL Azure
@@ -167,7 +168,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administrative / Platfo
 #  
 #### SessionID: 34924
 # Defensive database programming
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev II
 ## Speaker: Alex Kuznetsov
 ## Title: Defensive database programming
@@ -176,7 +177,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev II
 #  
 #### SessionID: 35108
 # Database Design
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: BI / Relational Theory
 ## Speaker: Louis Davidson
 ## Title: Database Design
@@ -185,7 +186,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: BI / Relational Theory
 #  
 #### SessionID: 35241
 # Drive Your Way to the DMV
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev I
 ## Speaker: Jason Strate
 ## Title: Drive Your Way to the DMV
@@ -201,7 +202,7 @@ Goals:
 #  
 #### SessionID: 35242
 # Improving Daily Imports with Partitioned Tables
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev I
 ## Speaker: Jason Strate
 ## Title: Improving Daily Imports with Partitioned Tables
@@ -220,7 +221,7 @@ Goals:
 #  
 #### SessionID: 35243
 # ABCs of CTEs
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev I
 ## Speaker: Jason Strate
 ## Title: ABCs of CTEs
@@ -238,7 +239,7 @@ Demonstrate real-world examples detailing methods for using CTEs to solve coding
 #  
 #### SessionID: 35244
 # Extended Events, Work Smarter Not Harder
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: App Dev I
 ## Speaker: Jason Strate
 ## Title: Extended Events, Work Smarter Not Harder
@@ -256,7 +257,7 @@ Goals:
 #  
 #### SessionID: 35444
 # Tips Tricks For Administering SQL Server
-#### [Back to calendar](#SQLSaturday-#19-East-Iowa-2009)
+#### [Back to calendar](#nr-19)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administrative / Platform
 ## Speaker: Tim Ford
 ## Title: Tips Tricks For Administering SQL Server

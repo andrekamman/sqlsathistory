@@ -1,3 +1,4 @@
+#### Nr: 124
 #### [Back to Main list](index.md)
 # SQLSaturday #124 - Colombia 2012
 Start Time (24h)|Speaker|Track|Title
@@ -14,7 +15,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13774
 # PowerShell para SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#124-Colombia-2012)
+#### [Back to calendar](#nr-124)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DEV
 ## Speaker: Emerson Perdomo
 ## Title: PowerShell para SQL Server 2012
@@ -23,7 +24,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DEV
 #  
 #### SessionID: 14330
 # Master Data Services en SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#124-Colombia-2012)
+#### [Back to calendar](#nr-124)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DBA
 ## Speaker: Francisco Suavita
 ## Title: Master Data Services en SQL Server 2012
@@ -32,7 +33,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DBA
 #  
 #### SessionID: 14334
 # Lo nuevo en inteligencia de Negocios de Sql Server
-#### [Back to calendar](#SQLSaturday-#124-Colombia-2012)
+#### [Back to calendar](#nr-124)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DEV
 ## Speaker: Freddy Angarita
 ## Title: Lo nuevo en inteligencia de Negocios de Sql Server
@@ -41,7 +42,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DEV
 #  
 #### SessionID: 14860
 # Troubleshooting Essentials en SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#124-Colombia-2012)
+#### [Back to calendar](#nr-124)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DBA
 ## Speaker: Guillermo Taylor
 ## Title: Troubleshooting Essentials en SQL Server 2012
@@ -50,7 +51,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DBA
 #  
 #### SessionID: 16069
 # Estrategias de indexación y análisis de índices
-#### [Back to calendar](#SQLSaturday-#124-Colombia-2012)
+#### [Back to calendar](#nr-124)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DBA
 ## Speaker: John Bocachica
 ## Title: Estrategias de indexación y análisis de índices
@@ -59,7 +60,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DBA
 #  
 #### SessionID: 17271
 # Integración de datos con Data Explorer
-#### [Back to calendar](#SQLSaturday-#124-Colombia-2012)
+#### [Back to calendar](#nr-124)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DEV
 ## Speaker: John Alexander Bulla Torres
 ## Title: Integración de datos con Data Explorer
@@ -68,7 +69,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DEV
 #  
 #### SessionID: 17773
 # Características de Seguridad en SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#124-Colombia-2012)
+#### [Back to calendar](#nr-124)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DBA
 ## Speaker: Julián Alberto Castiblanco Palacios
 ## Title: Características de Seguridad en SQL Server 2012
@@ -77,7 +78,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DBA
 #  
 #### SessionID: 22441
 # Novedades en T-SQL de SQL 2012
-#### [Back to calendar](#SQLSaturday-#124-Colombia-2012)
+#### [Back to calendar](#nr-124)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DEV
 ## Speaker: Roberto Alvarado
 ## Title: Novedades en T-SQL de SQL 2012
@@ -86,7 +87,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DEV
 #  
 #### SessionID: 9192
 # PowerView, el camino a información interactiva
-#### [Back to calendar](#SQLSaturday-#124-Colombia-2012)
+#### [Back to calendar](#nr-124)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SQL Server 2012 - DBA
 ## Speaker: Alberto Rivera
 ## Title: PowerView, el camino a información interactiva

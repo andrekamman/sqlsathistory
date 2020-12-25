@@ -1,3 +1,4 @@
+#### Nr: 622
 #### [Back to Main list](index.md)
 # SQLSaturday #622 - Albany 2017
 Start Time (24h)|Speaker|Track|Title
@@ -36,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 59502
 # Architecting Availability Groups
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Derik Hammer
 ## Title: Architecting Availability Groups
@@ -45,7 +46,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 #  
 #### SessionID: 59770
 # Learn On-premises BI: SSRS 2016 and Power BI
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Enterprise BI
 ## Speaker: Sunil Kadimdiwan
 ## Title: Learn On-premises BI: SSRS 2016 and Power BI
@@ -58,7 +59,7 @@ I will also show you the newly introduced Power BI Report Server, that allows yo
 #  
 #### SessionID: 60944
 # Public Preview of SQL Server on Linux
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: John Miner
 ## Title: Public Preview of SQL Server on Linux
@@ -102,7 +103,7 @@ Coverage:
 #  
 #### SessionID: 62971
 # Advanced SQL Server execution plans
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Optimization/Tuning
 ## Speaker: Fabiano Amorim
 ## Title: Advanced SQL Server execution plans
@@ -111,7 +112,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Optimization/Tuning
 #  
 #### SessionID: 64755
 # Painting with PowerShell: SQL Server Administration
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Chris Sommer
 ## Title: Painting with PowerShell: SQL Server Administration
@@ -122,7 +123,7 @@ Join me to learn how to paint your own SQL Server canvas with PowerShell.
 #  
 #### SessionID: 65250
 # Leaving the Past Behind: Rewriting Your Checklist for SQL 2016
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Mike Hillwig
 ## Title: Leaving the Past Behind: Rewriting Your Checklist for SQL 2016
@@ -135,7 +136,7 @@ Join veteran DBA Mike Hillwig and his list of server administration best practic
 #  
 #### SessionID: 59553
 # Organizational Security  Compliance with SQL 2012 through 2016
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: George Walters
 ## Title: Organizational Security  Compliance with SQL 2012 through 2016
@@ -144,7 +145,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 #  
 #### SessionID: 61662
 # Think like the Cardinality Estimator
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Taiob Ali
 ## Title: Think like the Cardinality Estimator
@@ -153,7 +154,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 #  
 #### SessionID: 64300
 # Managing Azure Resources with PowerShell
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bryan Cafferky
 ## Title: Managing Azure Resources with PowerShell
@@ -162,7 +163,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 64385
 # PS > .\Install-SqlServer.ps1  "Automating your SQL Server Install"
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Andy Mallon
 ## Title: PS > .\Install-SqlServer.ps1  "Automating your SQL Server Install"
@@ -175,7 +176,7 @@ I will share my automation script, and show you different methods to add automat
 #  
 #### SessionID: 66231
 # Whoa! Backup, what happened?
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Greg Moore
 ## Title: Whoa! Backup, what happened?
@@ -186,7 +187,7 @@ Many DBAs still setup their backups via a GUI and “fire and forget” and don�
 #  
 #### SessionID: 66352
 # Network your Way to Success!
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: Lisa Margerum
 ## Title: Network your Way to Success!
@@ -199,7 +200,7 @@ Join us for an interactive session to strategize the best actions to increase yo
 #  
 #### SessionID: 66779
 # SANLess clustering for physical, virtual and cloud environments
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: David Bermingham
 ## Title: SANLess clustering for physical, virtual and cloud environments
@@ -210,7 +211,7 @@ This is the SIOS sponsored lunch time session.
 #  
 #### SessionID: 59755
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Big Data
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
@@ -219,7 +220,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Big Data
 #  
 #### SessionID: 63019
 # SQL Server - R Services
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Enterprise BI
 ## Speaker: Azhagappan Arunachalam
 ## Title: SQL Server - R Services
@@ -228,7 +229,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Enterprise BI
 #  
 #### SessionID: 65694
 # Dissecting the Data Flow: Exploring SSIS Transformations, Memory and the Pipeline
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Matt Batalon
 ## Title: Dissecting the Data Flow: Exploring SSIS Transformations, Memory and the Pipeline
@@ -237,7 +238,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 66360
 # Top 10 Features of a Great Business Intelligence Solution
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Enterprise BI
 ## Speaker: Rachel Blum
 ## Title: Top 10 Features of a Great Business Intelligence Solution
@@ -246,7 +247,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Enterprise BI
 #  
 #### SessionID: 66372
 # Back to the Basics: T-SQL 101
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Deborah Melkin
 ## Title: Back to the Basics: T-SQL 101
@@ -257,7 +258,7 @@ This session is designed for the junior DBA or developer who is looking for a be
 #  
 #### SessionID: 66420
 # Man vs Machine: Adaptive query processing and auto tune on SQL2017
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Fabiano Amorim
 ## Title: Man vs Machine: Adaptive query processing and auto tune on SQL2017
@@ -266,7 +267,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 #  
 #### SessionID: 59537
 # SQL Server 2016 Migration:A Technical/Project Management Approach
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: Paresh Motiwala
 ## Title: SQL Server 2016 Migration:A Technical/Project Management Approach
@@ -281,7 +282,7 @@ Finally we shall discuss a relatively new concept of a ‘Go Live’ environment
 #  
 #### SessionID: 62500
 # Utilizing Docker to create developer instances for SQL Server.
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Application Development
 ## Speaker: Justin Dearing
 ## Title: Utilizing Docker to create developer instances for SQL Server.
@@ -292,7 +293,7 @@ In this session we will go over the basics of docker, as well as the SQL Server 
 #  
 #### SessionID: 62809
 # # vs @ - it's not about Social Media it's about temporary tables and data
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Thomas Grohser
 ## Title: # vs @ - it's not about Social Media it's about temporary tables and data
@@ -301,7 +302,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 #  
 #### SessionID: 62818
 # Learn How to do Predictive Modeling with R
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Big Data
 ## Speaker: Bryan Cafferky
 ## Title: Learn How to do Predictive Modeling with R
@@ -310,7 +311,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Big Data
 #  
 #### SessionID: 64719
 # Master Your Data using DQS and MDS
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Beth Wolfset
 ## Title: Master Your Data using DQS and MDS
@@ -319,7 +320,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 66228
 # Power BI: Architecture and demo
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Self-Service BI
 ## Speaker: George Walters
 ## Title: Power BI: Architecture and demo
@@ -328,7 +329,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Self-Service BI
 #  
 #### SessionID: 59504
 # Tech Writing for Techies: A Primer
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: Ray Kim
 ## Title: Tech Writing for Techies: A Primer
@@ -337,7 +338,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Professional/Personal D
 #  
 #### SessionID: 59521
 # Surviving parsing XML with T-SQL
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Application Development
 ## Speaker: Steve Simon
 ## Title: Surviving parsing XML with T-SQL
@@ -347,7 +348,7 @@ In this hands on presentation we shall be looking at varied techniques to materi
 #  
 #### SessionID: 61042
 # Outsourcing database administration to your users.
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Stephen Mokszycki
 ## Title: Outsourcing database administration to your users.
@@ -358,7 +359,7 @@ There will be a demo!
 #  
 #### SessionID: 66376
 # Introduction to Unit-Testing in SQL Server
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Sebastian Meine
 ## Title: Introduction to Unit-Testing in SQL Server
@@ -371,7 +372,7 @@ You will leave this session ready to write unit tests for your own environment t
 #  
 #### SessionID: 66425
 # SQL Server High Availability in Azure IaaS
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: David Bermingham
 ## Title: SQL Server High Availability in Azure IaaS
@@ -384,7 +385,7 @@ In this session attendees will learn how to leverage ARM to deploy SQL AlwaysOn 
 #  
 #### SessionID: 66501
 # Lightning Talks
-#### [Back to calendar](#SQLSaturday-#622-Albany-2017)
+#### [Back to calendar](#nr-622)
 Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Lightning Talks
 ## Speaker: Edward Pollack
 ## Title: Lightning Talks

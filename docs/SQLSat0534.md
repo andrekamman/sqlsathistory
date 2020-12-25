@@ -1,3 +1,4 @@
+#### Nr: 534
 #### [Back to Main list](index.md)
 # SQLSaturday #534 - Krakow 2016
 Start Time (24h)|Speaker|Track|Title
@@ -24,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 53900
 # (PL) Think Mobile! Mobile Reporting with Microsoft Data Platform
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Pawel Potasinski
 ## Title: (PL) Think Mobile! Mobile Reporting with Microsoft Data Platform
@@ -33,7 +34,7 @@ Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 47718
 # (EN) Demystifying clustered indexes
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Uwe Ricken
 ## Title: (EN) Demystifying clustered indexes
@@ -46,7 +47,7 @@ The session goal is to make decisions easier for you to use a clustered index or
 #  
 #### SessionID: 52912
 # (PL) Rozwiązywanie problemów i optym. SQL Server przy użyciu Data Collect
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Agnieszka Cieplak
 ## Title: (PL) Rozwiązywanie problemów i optym. SQL Server przy użyciu Data Collect
@@ -55,7 +56,7 @@ Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53109
 # (EN) NSA Secrets - Hacking SQL Server
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: (EN) NSA Secrets - Hacking SQL Server
@@ -69,7 +70,7 @@ Disclaimer: No actual state secrets will be revealed. Please do not send agents 
 #  
 #### SessionID: 47604
 # (EN) Automating the testing of your BI solutions with NBi
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cédric Charlier
 ## Title: (EN) Automating the testing of your BI solutions with NBi
@@ -78,7 +79,7 @@ Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 50377
 # (EN) Natural Born Killers, Performance Issues to Avoid
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lord Richard Douglas
 ## Title: (EN) Natural Born Killers, Performance Issues to Avoid
@@ -91,7 +92,7 @@ You will leave this session with a list of things that you can check for in your
 #  
 #### SessionID: 53569
 # (PL) Optymalizacja zapytań opartych o linked servery
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michał Janiec
 ## Title: (PL) Optymalizacja zapytań opartych o linked servery
@@ -104,7 +105,7 @@ Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48864
 # (EN)Upgrade, upgrade  more upgrade -know about SQL Server platform upgrade
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: (EN)Upgrade, upgrade  more upgrade -know about SQL Server platform upgrade
@@ -121,7 +122,7 @@ We will cover the complete upgrade cycle, including the preparation tasks, upgra
 #  
 #### SessionID: 53324
 # (EN) Microsoft R Server
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: (EN) Microsoft R Server
@@ -132,7 +133,7 @@ Don’t miss the opportunity to see how MSR addresses open source R scalability 
 #  
 #### SessionID: 53327
 # (EN) Effective Index Partitioning, Compression Strategy
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Neil Hambly
 ## Title: (EN) Effective Index Partitioning, Compression Strategy
@@ -146,7 +147,7 @@ Using Demos to illustrate the performance gains with real-world examples, Take a
 #  
 #### SessionID: 53467
 # (PL) How minimal logging can help me?
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Application  Database Development
 ## Speaker: Bartosz Ratajczyk
 ## Title: (PL) How minimal logging can help me?
@@ -157,7 +158,7 @@ If you want to speed up data loading you should get familiar with minimal loggin
 #  
 #### SessionID: 51153
 # (EN) Continuous Integration with SSDT and Team Foundation Server
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Regis Baccaro
 ## Title: (EN) Continuous Integration with SSDT and Team Foundation Server
@@ -166,7 +167,7 @@ Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 52268
 # (EN) Azure SQL Data Warehouse: Deep Dive
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: (EN) Azure SQL Data Warehouse: Deep Dive
@@ -175,7 +176,7 @@ Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 53291
 # (EN) Hidden gems of SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Application  Database Development
 ## Speaker: Denis Reznik
 ## Title: (EN) Hidden gems of SQL Server 2014
@@ -188,7 +189,7 @@ As a small bonus, we will talk a bit how these features are improved in SQL Serv
 #  
 #### SessionID: 48103
 # (PL) Refresh a 1TB+ database in under 10 seconds
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrzej Pilacik
 ## Title: (PL) Refresh a 1TB+ database in under 10 seconds
@@ -198,7 +199,7 @@ Finally, the presentation will focus on an architecture based on SAN technologie
 #  
 #### SessionID: 52390
 # (PL) Diving into hyperspace - how to make better OLAP calculation
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Grzegorz Stolecki
 ## Title: (PL) Diving into hyperspace - how to make better OLAP calculation
@@ -207,7 +208,7 @@ Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 53200
 # (PL) Travelling in time with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Application  Database Development
 ## Speaker: Damian Widera
 ## Title: (PL) Travelling in time with SQL Server 2016
@@ -216,7 +217,7 @@ Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Application  Database D
 #  
 #### SessionID: 53525
 # (EN) When good pages go bad / The rise and fall of db corruption.
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mikael Wedham
 ## Title: (EN) When good pages go bad / The rise and fall of db corruption.
@@ -228,7 +229,7 @@ Finally you#39;ll learn to estimate how much data loss you can expect. We#39;ll 
 #  
 #### SessionID: 53625
 # (PL) SQL Server talks Hadoop
-#### [Back to calendar](#SQLSaturday-#534-Krakow-2016)
+#### [Back to calendar](#nr-534)
 Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Information Delivery
 ## Speaker: Hubert Kobierzewski
 ## Title: (PL) SQL Server talks Hadoop

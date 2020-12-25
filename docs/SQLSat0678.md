@@ -1,3 +1,4 @@
+#### Nr: 678
 #### [Back to Main list](index.md)
 # SQLSaturday #678 - Orlando 2017
 Start Time (24h)|Speaker|Track|Title
@@ -41,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 66455
 # Supercharge Your Maintenance Plans!
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Troy Gallant
 ## Title: Supercharge Your Maintenance Plans!
@@ -52,7 +53,7 @@ In this session, not only will we introduce these scripts to those unfamiliar wi
 #  
 #### SessionID: 66489
 # SQL Audit - Evidence Never Lies
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Keisler
 ## Title: SQL Audit - Evidence Never Lies
@@ -61,7 +62,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66718
 # What’s new for SQL Server Analysis Services?
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Thomas LeBlanc
 ## Title: What’s new for SQL Server Analysis Services?
@@ -72,7 +73,7 @@ So, let us examine the pros and cons together and get a consensus of the path fo
 #  
 #### SessionID: 67074
 # Monitoring and Alerting of Availability Groups
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Monitoring and Alerting of Availability Groups
@@ -88,7 +89,7 @@ Demonstrate alerts and notifications when failures or delays occur in your envir
 #  
 #### SessionID: 67449
 # Winning with Columnstore - A Customer Story
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Heiges
 ## Title: Winning with Columnstore - A Customer Story
@@ -97,7 +98,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68198
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
@@ -106,7 +107,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68367
 # ARMed for Azure
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Geoff Hiten
 ## Title: ARMed for Azure
@@ -115,7 +116,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 68479
 # Logging Messages in SQL Server
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Logging Messages in SQL Server
@@ -126,7 +127,7 @@ We'll examine user-defined events, linked servers and the new SESSION_CONTEXT() 
 #  
 #### SessionID: 66450
 # Database Creation Process
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Arvin Meyer
 ## Title: Database Creation Process
@@ -135,7 +136,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Application  Database D
 #  
 #### SessionID: 66456
 # Getting graphy with CosmosDB Graph API with Gremlin
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christopher Sims
 ## Title: Getting graphy with CosmosDB Graph API with Gremlin
@@ -144,7 +145,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 66841
 # Query Store Primer
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
@@ -153,7 +154,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67343
 # Uptight Database Security
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ronald Dameron
 ## Title: Uptight Database Security
@@ -166,7 +167,7 @@ Come to this session to learn how to deploy a configurable permission model that
 #  
 #### SessionID: 67597
 # Creating Reports and Dashboards with Power BI
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Michael Antonovich
 ## Title: Creating Reports and Dashboards with Power BI
@@ -175,7 +176,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 68406
 # Replicating data from SharePoint Online to SQL Server
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Strategy and Architecture
 ## Speaker: Herve Roggero
 ## Title: Replicating data from SharePoint Online to SQL Server
@@ -184,7 +185,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 68516
 # Cautionary Tale of Recompilations, Excessive CPU Load and Plan Caching
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dmitri Korotkevitch
 ## Title: Cautionary Tale of Recompilations, Excessive CPU Load and Plan Caching
@@ -195,7 +196,7 @@ In this session, Dmitri will explain how plan caching works internally and demon
 #  
 #### SessionID: 67075
 # vNUMA, pNUMA, save your SQL Servers from certain DoomA
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: vNUMA, pNUMA, save your SQL Servers from certain DoomA
@@ -207,7 +208,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67095
 # Excel and SSIS: Better Together
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: Excel and SSIS: Better Together
@@ -216,7 +217,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67446
 # Getting Noticed: Strategies for Your Resume and LinkedIn
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: Rick Heiges
 ## Title: Getting Noticed: Strategies for Your Resume and LinkedIn
@@ -225,7 +226,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 69670
 # Database Continuous Delivery
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Warren
 ## Title: Database Continuous Delivery
@@ -234,7 +235,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69894
 # The Path to #GetModern by Dell EMC
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Andy Warren
 ## Title: The Path to #GetModern by Dell EMC
@@ -243,7 +244,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 66460
 # How To Tune A Multi-Terabyte Database For Optimum Performance.
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Taylor
 ## Title: How To Tune A Multi-Terabyte Database For Optimum Performance.
@@ -252,7 +253,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66470
 # Monster VM's (Database Virtualization) with vSphere 6.5 Doing IT Right
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Michael Corey
 ## Title: Monster VM's (Database Virtualization) with vSphere 6.5 Doing IT Right
@@ -261,7 +262,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 66680
 # Data Security with Power BI, SSAS, SQL Server and Active Directory
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Hector Villafuerte
 ## Title: Data Security with Power BI, SSAS, SQL Server and Active Directory
@@ -271,7 +272,7 @@ In this session, BI Architect and Microsoft Certified Professional, Hector Villa
 #  
 #### SessionID: 66719
 # Execution Plan Basics - Beginners
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Thomas LeBlanc
 ## Title: Execution Plan Basics - Beginners
@@ -280,7 +281,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Application  Database D
 #  
 #### SessionID: 66807
 # Master Data Management with SQL Server 2016 MDS
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Neal Waterstreet
 ## Title: Master Data Management with SQL Server 2016 MDS
@@ -289,7 +290,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67599
 # Introduction to unit and integration testing with tSQLt
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Elizabeth Noble
 ## Title: Introduction to unit and integration testing with tSQLt
@@ -298,7 +299,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Application  Database D
 #  
 #### SessionID: 69468
 # Azure Sql PAAS: Lessons from the Real World
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Strategy and Architecture
 ## Speaker: Jonathon Moorman
 ## Title: Azure Sql PAAS: Lessons from the Real World
@@ -307,7 +308,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 69847
 # Baseball Analytics: SQL Server 2016 In-Database R
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Bradley Ball
 ## Title: Baseball Analytics: SQL Server 2016 In-Database R
@@ -316,7 +317,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 66517
 # A DBA's guide to whole stack performance troubleshooting
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Janik
 ## Title: A DBA's guide to whole stack performance troubleshooting
@@ -329,7 +330,7 @@ Join me as I guide you through troubleshooting SQL Server performance from tip t
 #  
 #### SessionID: 66664
 # Data Cleansing With SQL And R
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Data Cleansing With SQL And R
@@ -338,7 +339,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 66679
 # Working with SQL Server for Linux Cross-Platform
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Maximo Trinidad
 ## Title: Working with SQL Server for Linux Cross-Platform
@@ -347,7 +348,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Application  Database D
 #  
 #### SessionID: 66721
 # InMemory Improvements on SQL 2016
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Other
 ## Speaker: Sam Mesel
 ## Title: InMemory Improvements on SQL 2016
@@ -357,7 +358,7 @@ This session will cover how to implement InMemory objects, new capabilities (Def
 #  
 #### SessionID: 66844
 # Tips on Managing Lots of SQL Servers
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Tips on Managing Lots of SQL Servers
@@ -368,7 +369,7 @@ In this talk we will answer these questions and more as we discuss technologies 
 #  
 #### SessionID: 67052
 # SQL Server Data Partitioning
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tom Hanley
 ## Title: SQL Server Data Partitioning
@@ -377,7 +378,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67397
 # Processing Big Data with Azure Data Lake Analytics
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sean Forgatch
 ## Title: Processing Big Data with Azure Data Lake Analytics
@@ -386,7 +387,7 @@ Event Date: 07-10-2017 - Session time: 14:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 69206
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#678-Orlando-2017)
+#### [Back to calendar](#nr-678)
 Event Date: 07-10-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance

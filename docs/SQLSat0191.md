@@ -1,3 +1,4 @@
+#### Nr: 191
 #### [Back to Main list](index.md)
 # SQLSaturday #191 - Kansas City 2013
 Start Time (24h)|Speaker|Track|Title
@@ -41,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10402
 # Pivoting Performance Data  Pinpointing Problems
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Mixed use
 ## Speaker: Brian Flynn
 ## Title: Pivoting Performance Data  Pinpointing Problems
@@ -50,7 +51,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Mixed use
 #  
 #### SessionID: 10428
 # Type More, Click Less:  Programmatically build SSI
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 2
 ## Speaker: Bill Fellows
 ## Title: Type More, Click Less:  Programmatically build SSI
@@ -59,7 +60,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 2
 #  
 #### SessionID: 10466
 # Designing for Concurrency and Asynchronous Processing
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 2
 ## Speaker: Bill Graziano
 ## Title: Designing for Concurrency and Asynchronous Processing
@@ -68,7 +69,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 2
 #  
 #### SessionID: 12364
 # T-SQL: Simple Changes That Go a Long Way
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 2
 ## Speaker: David Valentine
 ## Title: T-SQL: Simple Changes That Go a Long Way
@@ -77,7 +78,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 2
 #  
 #### SessionID: 12588
 # Squeezing Performance from Virtualized SQL Server
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: David Klee
 ## Title: Squeezing Performance from Virtualized SQL Server
@@ -86,7 +87,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 13389
 # From Minutes to Milliseconds: High-Performance SSRS Tuning
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Doug Lane
 ## Title: From Minutes to Milliseconds: High-Performance SSRS Tuning
@@ -97,7 +98,7 @@ In this session, you'll learn how design and configuration choices put pressure 
 #  
 #### SessionID: 14950
 # Introduction to Execution Plans
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Nathan  Heaivilin
 ## Title: Introduction to Execution Plans
@@ -106,7 +107,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 15490
 # (SQL,SSIS,MDS) Adv Fuzzy Matching Roll Your Own
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 1
 ## Speaker: Ira Warren
 ## Title: (SQL,SSIS,MDS) Adv Fuzzy Matching Roll Your Own
@@ -115,7 +116,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 1
 #  
 #### SessionID: 15662
 # Extend Your Knowledge with Extended Events!
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Janis Griffin
 ## Title: Extend Your Knowledge with Extended Events!
@@ -126,7 +127,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 15849
 # Dimension Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Jason Horner
 ## Title: Dimension Modeling Design Patterns: Beyond Basics
@@ -135,7 +136,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 15921
 # What Are You Waiting For?
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Jason Strate
 ## Title: What Are You Waiting For?
@@ -144,7 +145,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 15923
 # XQuery Basics for the DBA
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Jason Strate
 ## Title: XQuery Basics for the DBA
@@ -153,7 +154,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 16146
 # What SQL DBAs need to know about SharePoint
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Mixed use
 ## Speaker: JD Wade
 ## Title: What SQL DBAs need to know about SharePoint
@@ -162,7 +163,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Mixed use
 #  
 #### SessionID: 16888
 # Getting Started with Execution Plans
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Jason Kassay
 ## Title: Getting Started with Execution Plans
@@ -171,7 +172,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 17902
 # $#*! Your Database Says About Me
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Mixed use
 ## Speaker: Karen Lopez
 ## Title: $#*! Your Database Says About Me
@@ -180,7 +181,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Mixed use
 #  
 #### SessionID: 18400
 # Women in Tech Panel
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Kathi Kellenberger
 ## Title: Women in Tech Panel
@@ -189,7 +190,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 18402
 # T-SQL 2012 Analytic Functions
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 2
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL 2012 Analytic Functions
@@ -198,7 +199,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 2
 #  
 #### SessionID: 18960
 # Yesterday I Couldn’t Even Spell ‘DBA’.
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Mixed use
 ## Speaker: Larry Toothman
 ## Title: Yesterday I Couldn’t Even Spell ‘DBA’.
@@ -207,7 +208,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Mixed use
 #  
 #### SessionID: 19197
 # Don’t Miss Out on Excel Cube Functions
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Meagan Longoria
 ## Title: Don’t Miss Out on Excel Cube Functions
@@ -216,7 +217,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 19246
 # Something Fishy With Power Query
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Levi Syck
 ## Title: Something Fishy With Power Query
@@ -226,7 +227,7 @@ and explore how it can help solve a problem common to many organizations.
 #  
 #### SessionID: 19313
 # Pyramid Analytics - making your cube look good
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Leslie Weed
 ## Title: Pyramid Analytics - making your cube look good
@@ -235,7 +236,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 19428
 # New T-SQL features in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 1
 ## Speaker: Marc Beacom
 ## Title: New T-SQL features in SQL Server 2012
@@ -244,7 +245,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 1
 #  
 #### SessionID: 19677
 # Proactively+Automagically Manage your SQL footprin
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Mark Marinovic
 ## Title: Proactively+Automagically Manage your SQL footprin
@@ -261,7 +262,7 @@ In
 #  
 #### SessionID: 21161
 # What secrets does your database schema hold?
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 2
 ## Speaker: Andre DuBois
 ## Title: What secrets does your database schema hold?
@@ -270,7 +271,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 2
 #  
 #### SessionID: 22892
 # Data Vault Data Warehouse Architecture
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Jeff Renz
 ## Title: Data Vault Data Warehouse Architecture
@@ -279,7 +280,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 23630
 # Introduction to BIML and BIMLScript
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 1
 ## Speaker: Russel Loski
 ## Title: Introduction to BIML and BIMLScript
@@ -288,7 +289,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 1
 #  
 #### SessionID: 24252
 # Beginning Powershell for DBAs 1.0
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Sean McCown
 ## Title: Beginning Powershell for DBAs 1.0
@@ -297,7 +298,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 25193
 # Dimensional Modeling for the Everyday DBA
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Scott Shaw
 ## Title: Dimensional Modeling for the Everyday DBA
@@ -306,7 +307,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 25685
 # Capture Change and Apply it With Change Data Capture  SSIS
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 1
 ## Speaker: Steve Wake
 ## Title: Capture Change and Apply it With Change Data Capture  SSIS
@@ -315,7 +316,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 1
 #  
 #### SessionID: 27115
 # Sql Server: Now 25% Faster
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Tristan Wilson
 ## Title: Sql Server: Now 25% Faster
@@ -324,7 +325,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 27171
 # SSRS Development and Administration Basics
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Mixed use
 ## Speaker: Travis Whitley
 ## Title: SSRS Development and Administration Basics
@@ -333,7 +334,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Mixed use
 #  
 #### SessionID: 27805
 # Navigating the Options for Data Redundancy
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Wendy Pastrick
 ## Title: Navigating the Options for Data Redundancy
@@ -342,7 +343,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 34800
 # The Hierarchy of Monitoring Needs: A Methodology
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Michael Fal
 ## Title: The Hierarchy of Monitoring Needs: A Methodology
@@ -351,7 +352,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 9927
 # SSIS Configurations Vs. Parameters
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 1
 ## Speaker: Allen Smith
 ## Title: SSIS Configurations Vs. Parameters
@@ -360,7 +361,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 1
 #  
 #### SessionID: 9928
 # Sharing SQL Data in SharePoint
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 2
 ## Speaker: Allen Smith
 ## Title: Sharing SQL Data in SharePoint
@@ -369,7 +370,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 2
 #  
 #### SessionID: 9954
 # Loading the Windows Azure Cloud 
-#### [Back to calendar](#SQLSaturday-#191-Kansas-City-2013)
+#### [Back to calendar](#nr-191)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Developer 1
 ## Speaker: Andy Thiru
 ## Title: Loading the Windows Azure Cloud 

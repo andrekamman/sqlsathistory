@@ -1,3 +1,4 @@
+#### Nr: 731
 #### [Back to Main list](index.md)
 # SQLSaturday #731 - Athens 2018
 Start Time (24h)|Speaker|Track|Title
@@ -16,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 71728
 # Administrate SSRS/PBIRS with PowerShell
-#### [Back to calendar](#SQLSaturday-#731-Athens-2018)
+#### [Back to calendar](#nr-731)
 Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Cláudio Silva
 ## Title: Administrate SSRS/PBIRS with PowerShell
@@ -30,7 +31,7 @@ We will see examples for both Reporting Services and PowerBI Report Server.
 #  
 #### SessionID: 72318
 # SQL Server 2017 Graph Database
-#### [Back to calendar](#SQLSaturday-#731-Athens-2018)
+#### [Back to calendar](#nr-731)
 Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Professional Development
 ## Speaker: Sergio Govoni
 ## Title: SQL Server 2017 Graph Database
@@ -39,7 +40,7 @@ Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Professional Developmen
 #  
 #### SessionID: 73734
 # A Masters view on Query plans and indexing
-#### [Back to calendar](#SQLSaturday-#731-Athens-2018)
+#### [Back to calendar](#nr-731)
 Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Query plans and indexing
@@ -51,7 +52,7 @@ selecting appropriate indexing for your query load.
 #  
 #### SessionID: 73868
 # Choosing the Right Database for Microservices Solutions
-#### [Back to calendar](#SQLSaturday-#731-Athens-2018)
+#### [Back to calendar](#nr-731)
 Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Strategy and Architecture
 ## Speaker: Mihail Mateev
 ## Title: Choosing the Right Database for Microservices Solutions
@@ -62,7 +63,7 @@ In this talk we will discuss how we can go about choosing the right database mod
 #  
 #### SessionID: 71476
 # SQL Curiosities: η περιέργεια σκότωσε τη γάτα
-#### [Back to calendar](#SQLSaturday-#731-Athens-2018)
+#### [Back to calendar](#nr-731)
 Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: SQL Curiosities: η περιέργεια σκότωσε τη γάτα
@@ -72,7 +73,7 @@ Disclaimer: No feline was harmed in the making of this session. Please do not re
 #  
 #### SessionID: 82434
 # The modern data warehouse
-#### [Back to calendar](#SQLSaturday-#731-Athens-2018)
+#### [Back to calendar](#nr-731)
 Event Date: 16-06-2018 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christian Cote
 ## Title: The modern data warehouse
@@ -81,7 +82,7 @@ Event Date: 16-06-2018 - Session time: 16:05:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 74711
 # Boost your Tabular Productivity
-#### [Back to calendar](#SQLSaturday-#731-Athens-2018)
+#### [Back to calendar](#nr-731)
 Event Date: 16-06-2018 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bent Pedersen
 ## Title: Boost your Tabular Productivity
@@ -96,7 +97,7 @@ Demoing the capabilities of the tool is what is in focus for this session and th
 #  
 #### SessionID: 77166
 # Magical Memory Moments
-#### [Back to calendar](#SQLSaturday-#731-Athens-2018)
+#### [Back to calendar](#nr-731)
 Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Arnie Rowland
 ## Title: Magical Memory Moments
@@ -111,7 +112,7 @@ In this demo packed session, we will discuss the pros and cons of using memory-o
 #  
 #### SessionID: 71412
 # What can you do with SQL Server on Linux?
-#### [Back to calendar](#SQLSaturday-#731-Athens-2018)
+#### [Back to calendar](#nr-731)
 Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rudi Bruchez
 ## Title: What can you do with SQL Server on Linux?
@@ -120,7 +121,7 @@ Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73559
 # Azure Data Factory V2 /SSIS in Azure
-#### [Back to calendar](#SQLSaturday-#731-Athens-2018)
+#### [Back to calendar](#nr-731)
 Event Date: 16-06-2018 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christian Cote
 ## Title: Azure Data Factory V2 /SSIS in Azure
@@ -129,7 +130,7 @@ Event Date: 16-06-2018 - Session time: 16:05:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 72325
 # Know What Your Code is Doing to SQL Server!
-#### [Back to calendar](#SQLSaturday-#731-Athens-2018)
+#### [Back to calendar](#nr-731)
 Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Know What Your Code is Doing to SQL Server!

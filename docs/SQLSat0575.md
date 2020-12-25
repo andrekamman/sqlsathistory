@@ -1,3 +1,4 @@
+#### Nr: 575
 #### [Back to Main list](index.md)
 # SQLSaturday #575 - Providence 2016
 Start Time (24h)|Speaker|Track|Title
@@ -34,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 53398
 # SQL Server 2016: A dive into Data Quality Services
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Simon
 ## Title: SQL Server 2016: A dive into Data Quality Services
@@ -43,7 +44,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 53456
 # Microsoft and Big Data - An Overview of the Power Tools and more!
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Patrick
 ## Title: Microsoft and Big Data - An Overview of the Power Tools and more!
@@ -52,7 +53,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 53523
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
@@ -61,7 +62,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53596
 # Digging Deeper: BI Methodologies and Best Practices
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Seferlis
 ## Title: Digging Deeper: BI Methodologies and Best Practices
@@ -70,7 +71,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 54281
 # Real world In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ned Otter
 ## Title: Real world In-Memory OLTP
@@ -83,7 +84,7 @@ All of these questions and more are answered as we discuss real-world usage of I
 #  
 #### SessionID: 54555
 # Natively Compiled T-SQL: The Fastest T-SQL Ever
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Andrew Novick
 ## Title: Natively Compiled T-SQL: The Fastest T-SQL Ever
@@ -103,7 +104,7 @@ If you want your application to be more than just fast, consider using Natively 
 #  
 #### SessionID: 53382
 # SQL Server 2016 and 2014 New Features!
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walters
 ## Title: SQL Server 2016 and 2014 New Features!
@@ -112,7 +113,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53392
 # Query Optimization Techniques
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Edward Pollack
 ## Title: Query Optimization Techniques
@@ -127,7 +128,7 @@ Demos of poor-performing queries will be provided to illustrate key optimization
 #  
 #### SessionID: 53538
 # Optimizing the SQL Server and Databases for large Fact Tables
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: Optimizing the SQL Server and Databases for large Fact Tables
@@ -138,7 +139,7 @@ We will also as a side effect explore the Mary Go Round query feature and find w
 #  
 #### SessionID: 53641
 # Help! My Replication Has Fallen and We Can#39;t Get it Replicating again.
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Lane
 ## Title: Help! My Replication Has Fallen and We Can#39;t Get it Replicating again.
@@ -147,7 +148,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53767
 # Should I move my database to the cloud?
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: James Serra
 ## Title: Should I move my database to the cloud?
@@ -156,7 +157,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 54724
 # T-SQL : Bad Habits and Best Practices
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits and Best Practices
@@ -165,7 +166,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 53381
 # Organizational Security  Compliance with SQL 2012 through 2016
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walters
 ## Title: Organizational Security  Compliance with SQL 2012 through 2016
@@ -174,7 +175,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53539
 # Size Maters Not
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: Size Maters Not
@@ -188,7 +189,7 @@ The goal of the session is to show that SQL Server can scale and that when used 
 #  
 #### SessionID: 53769
 # Big data architectures and the data lake
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: James Serra
 ## Title: Big data architectures and the data lake
@@ -197,7 +198,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54176
 # Take Me to your Data - why Data Stewardship is needed NOW!
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Beth Wolfset
 ## Title: Take Me to your Data - why Data Stewardship is needed NOW!
@@ -206,7 +207,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 54725
 # New T-SQL Capabilities in SQL Server 2016 and Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Aaron Bertrand
 ## Title: New T-SQL Capabilities in SQL Server 2016 and Azure SQL Database
@@ -215,7 +216,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 54878
 # SQL Server 2016: Security Features we have been asking for...
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Roberts
 ## Title: SQL Server 2016: Security Features we have been asking for...
@@ -224,7 +225,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53394
 # Dynamic SQL: Writing Efficient Queries on the Fly
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Edward Pollack
 ## Title: Dynamic SQL: Writing Efficient Queries on the Fly
@@ -235,7 +236,7 @@ Explore the many uses for dynamic SQL as well as best practices for writing, tes
 #  
 #### SessionID: 53427
 # R For the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
@@ -244,7 +245,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 54175
 # Data Modeling for Predictive Analytics
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Beth Wolfset
 ## Title: Data Modeling for Predictive Analytics
@@ -253,7 +254,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 54283
 # SSAS Tabular 2016: Not the Little Brother Anymore!
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brett Powell
 ## Title: SSAS Tabular 2016: Not the Little Brother Anymore!
@@ -264,7 +265,7 @@ Come to this session to learn about the new features, walk through the essential
 #  
 #### SessionID: 54490
 # Big Data 101
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paresh Motiwala
 ## Title: Big Data 101
@@ -281,7 +282,7 @@ Time permitting, We will then conclude with introduction to data exploration and
 #  
 #### SessionID: 53385
 # Taking the pain out of database migrations
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Lumnah
 ## Title: Taking the pain out of database migrations
@@ -292,7 +293,7 @@ This session will discuss what you need to take into account to ensure a success
 #  
 #### SessionID: 53428
 # Peanut Butter amp; Chocolate:  Integrating Hadoop with SQL Server
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Peanut Butter amp; Chocolate:  Integrating Hadoop with SQL Server
@@ -301,7 +302,7 @@ Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 54494
 # Leaving the Past Behind: Rewriting Your Checklist for SQL 2016
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Hillwig
 ## Title: Leaving the Past Behind: Rewriting Your Checklist for SQL 2016
@@ -314,7 +315,7 @@ Join veteran DBA Mike Hillwig and his list of server administration best practic
 #  
 #### SessionID: 54612
 # Effective Data Warehouse Storage Patterns
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: John Miner
 ## Title: Effective Data Warehouse Storage Patterns
@@ -343,7 +344,7 @@ Coverage:
 #  
 #### SessionID: 54899
 # Inside the Management Studio
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Andy Mallon
 ## Title: Inside the Management Studio
@@ -354,7 +355,7 @@ The interviewees talk about their childhood, how they got started in the busines
 #  
 #### SessionID: 56525
 # Learn On-premises BI: SSRS 2016 and Power BI
-#### [Back to calendar](#SQLSaturday-#575-Providence-2016)
+#### [Back to calendar](#nr-575)
 Event Date: 10-12-2016 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Sunil Kadimdiwan
 ## Title: Learn On-premises BI: SSRS 2016 and Power BI

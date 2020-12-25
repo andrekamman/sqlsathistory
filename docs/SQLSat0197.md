@@ -1,3 +1,4 @@
+#### Nr: 197
 #### [Back to Main list](index.md)
 # SQLSaturday #197 - Omaha 2013
 Start Time (24h)|Speaker|Track|Title
@@ -34,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10432
 # 2012 TSQL Sweets
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Bill Fellows
 ## Title: 2012 TSQL Sweets
@@ -43,7 +44,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 11067
 # Designing a Data Recovery Solution
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: General
 ## Speaker: Brandie Tarvin
 ## Title: Designing a Data Recovery Solution
@@ -52,7 +53,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: General
 #  
 #### SessionID: 12583
 # SQL Server vs. Oracle: The Throwdown!
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: David Klee
 ## Title: SQL Server vs. Oracle: The Throwdown!
@@ -61,7 +62,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13040
 # Minimum Database Indexing
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Dean Nicholson
 ## Title: Minimum Database Indexing
@@ -70,7 +71,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 14679
 # Hardware 201: Selecting Database Hardware
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Glenn Berry
 ## Title: Hardware 201: Selecting Database Hardware
@@ -79,7 +80,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 14680
 # Dr. DMV: How to Use Dynamic Management Views
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Glenn Berry
 ## Title: Dr. DMV: How to Use Dynamic Management Views
@@ -89,7 +90,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 15851
 # Dimension Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Jason Horner
 ## Title: Dimension Modeling Design Patterns: Beyond Basics
@@ -98,7 +99,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 16793
 # Getting Started with PowerShell's Job Infrastructure
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: General
 ## Speaker: Jeff Hicks
 ## Title: Getting Started with PowerShell's Job Infrastructure
@@ -107,7 +108,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: General
 #  
 #### SessionID: 16794
 # Getting Started with PowerShell Workflow
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: General
 ## Speaker: Jeff Hicks
 ## Title: Getting Started with PowerShell Workflow
@@ -116,7 +117,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: General
 #  
 #### SessionID: 17123
 # Troubleshooting Query Plan Quality Issues
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Joe Sack
 ## Title: Troubleshooting Query Plan Quality Issues
@@ -125,7 +126,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 17977
 # Extend your Knowledge with Extended Events
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kathy  Gibbs
 ## Title: Extend your Knowledge with Extended Events
@@ -136,7 +137,7 @@ new Event and I will show you how you can use the data collected to report commo
 #  
 #### SessionID: 19141
 # Windows Azure SQL Reporting Services
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Leslie Weed
 ## Title: Windows Azure SQL Reporting Services
@@ -145,7 +146,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 19196
 # Building Dashboards in PerformancePoint
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Meagan Longoria
 ## Title: Building Dashboards in PerformancePoint
@@ -154,7 +155,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 19863
 # Database Security  Shrinking Your Attack Surface
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Matthew Brimer
 ## Title: Database Security  Shrinking Your Attack Surface
@@ -167,7 +168,7 @@ to shrink your attack surface.
 #  
 #### SessionID: 22109
 # SSIS 2012: A Deep Dive into the SSIS Catalog
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Phil Brammer
 ## Title: SSIS 2012: A Deep Dive into the SSIS Catalog
@@ -176,7 +177,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 22772
 # Master Data Services – 101
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Reeves Smith
 ## Title: Master Data Services – 101
@@ -185,7 +186,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 22774
 # DAX – Get Context
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Reeves Smith
 ## Title: DAX – Get Context
@@ -194,7 +195,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 22885
 # Tabular Models
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Jeff Renz
 ## Title: Tabular Models
@@ -203,7 +204,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 23787
 # Tips and Tricks for Auditing in SQL Server
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: General
 ## Speaker: Ronald Yenko
 ## Title: Tips and Tricks for Auditing in SQL Server
@@ -212,7 +213,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: General
 #  
 #### SessionID: 24472
 # Searching Binary Data in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Steve Jones
 ## Title: Searching Binary Data in SQL Server 2012
@@ -221,7 +222,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 24474
 # The Encryption Primer
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Steve Jones
 ## Title: The Encryption Primer
@@ -230,7 +231,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 24625
 # Performance baseline your new SQL instance 
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Shawn Meyers
 ## Title: Performance baseline your new SQL instance 
@@ -239,7 +240,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 25194
 # Dimensional Modelling for the DBA
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Scott Shaw
 ## Title: Dimensional Modelling for the DBA
@@ -251,7 +252,7 @@ differences between OLTP and OLAP and provide a method to the maddness.
 #  
 #### SessionID: 25779
 # Building BI Solutions with Excel 2013
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Steve Hughes
 ## Title: Building BI Solutions with Excel 2013
@@ -260,7 +261,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 25864
 # SQL Server 2012 HA and DR
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sudhir Gajre
 ## Title: SQL Server 2012 HA and DR
@@ -269,7 +270,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 26233
 # Windowing Functions: THE Reason to Upgrade to 2012
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012
@@ -278,7 +279,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 26576
 # Amazon RDS and SQL Azure - DB in the cloud
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Tim Plas
 ## Title: Amazon RDS and SQL Azure - DB in the cloud
@@ -287,7 +288,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 28077
 # Beyond Plateaux: Optimize SSAS via Best Practices
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: William E Pearson III
 ## Title: Beyond Plateaux: Optimize SSAS via Best Practices
@@ -296,7 +297,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 34795
 # Exposing the Core: SQL 2012 on Server Core
-#### [Back to calendar](#SQLSaturday-#197-Omaha-2013)
+#### [Back to calendar](#nr-197)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Michael Fal
 ## Title: Exposing the Core: SQL 2012 on Server Core

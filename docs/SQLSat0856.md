@@ -1,3 +1,4 @@
+#### Nr: 856
 #### [Back to Main list](index.md)
 # SQLSaturday #856 - Rheinland 2019
 Start Time (24h)|Speaker|Track|Title
@@ -40,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 88989
 # SQL Server High availability on Standard Edition: from Database Mirroring to Always On
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: DBA
 ## Speaker: Johan Bijnens
 ## Title: SQL Server High availability on Standard Edition: from Database Mirroring to Always On
@@ -51,7 +52,7 @@ No more time to postpone your testing and options choice for High Availability w
 #  
 #### SessionID: 89102
 # Azure Governance einfach gemacht mit Azure Blueprints
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Cloud
 ## Speaker: Gregor Reimling
 ## Title: Azure Governance einfach gemacht mit Azure Blueprints
@@ -60,7 +61,7 @@ Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Cloud
 #  
 #### SessionID: 90257
 # Governance in PowerBI - Enjoy your Power Responsibly
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: BI
 ## Speaker: Yana Berkovich
 ## Title: Governance in PowerBI - Enjoy your Power Responsibly
@@ -78,7 +79,7 @@ Will include the latest and greatest updates in PowerBI, as presented in PASS 20
 #  
 #### SessionID: 90322
 # Reasons to use in-memory OLTP
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: DEV
 ## Speaker: Torsten Strauss
 ## Title: Reasons to use in-memory OLTP
@@ -87,7 +88,7 @@ Event Date: 25-05-2019 - Session time: 17:00:00 - Track: DEV
 #  
 #### SessionID: 90522
 # Wie kann die KI helfen die Servicequalität zu bewerten am Beispiel des SQLKellners
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Analytics
 ## Speaker: Alexander Klein
 ## Title: Wie kann die KI helfen die Servicequalität zu bewerten am Beispiel des SQLKellners
@@ -99,7 +100,7 @@ Auf der Zutatenliste finden wir unteranderem die Cognitive Services (AI), Power 
 #  
 #### SessionID: 91580
 # How Flow Can You Go
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Mixed
 ## Speaker: Sandra Geisler
 ## Title: How Flow Can You Go
@@ -108,7 +109,7 @@ Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Mixed
 #  
 #### SessionID: 88944
 # SQL Server Big Data Clusters
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Analytics
 ## Speaker: Ben Weissman
 ## Title: SQL Server Big Data Clusters
@@ -119,7 +120,7 @@ Was bedeutet das konkret? Wir schauen uns an, wie man die neuen Features install
 #  
 #### SessionID: 88947
 # More Than a Query Language: SQL in the 21st Century
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: DEV
 ## Speaker: Markus Winand
 ## Title: More Than a Query Language: SQL in the 21st Century
@@ -132,7 +133,7 @@ This talk provides the big picture on the evolution of the SQL standard and intr
 #  
 #### SessionID: 90829
 # Ist ja kinderleicht: Das Internet der Klötzchen (mit Pia Kettner als Gast)
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Cloud
 ## Speaker: Benjamin Kettner
 ## Title: Ist ja kinderleicht: Das Internet der Klötzchen (mit Pia Kettner als Gast)
@@ -141,7 +142,7 @@ Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Cloud
 #  
 #### SessionID: 91330
 # Modern Data Warehouse - Part 1
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: BI
 ## Speaker: Tillmann Eitelberg
 ## Title: Modern Data Warehouse - Part 1
@@ -152,7 +153,7 @@ Wir beginnen mit dem Ingest Part mit Azure Data Factory, Stream Analytics und an
 #  
 #### SessionID: 91368
 # Datenschutz mit SQL Server
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: DBA
 ## Speaker: Bernd Jungbluth
 ## Title: Datenschutz mit SQL Server
@@ -165,7 +166,7 @@ Das ist aber noch nicht alles. Auch zur Umsetzung von Löschkonzepten, Datenübe
 #  
 #### SessionID: 91494
 # Google's Go trifft Microsoft's SQL Server
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Mixed
 ## Speaker: Burak Bagci
 ## Title: Google's Go trifft Microsoft's SQL Server
@@ -178,7 +179,7 @@ Der Vortrag führt in die grundlegende Entwicklung mit Go ein. Praktische Beispi
 #  
 #### SessionID: 89011
 # The language of graph databases and SQL Server
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: DEV
 ## Speaker: Andrea Martorana Tusa
 ## Title: The language of graph databases and SQL Server
@@ -190,7 +191,7 @@ Then we compare the semantic model with SQL Server to discover how to apply it t
 #  
 #### SessionID: 90655
 # Azure SQL Managed Instance - Just another DBaaS?
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: DBA
 ## Speaker: Sascha Götz
 ## Title: Azure SQL Managed Instance - Just another DBaaS?
@@ -209,7 +210,7 @@ Topics at a glance:
 #  
 #### SessionID: 90764
 # Connecting SQL and Blockchain: The Azure Blockchain Workbench [EN]
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Mixed
 ## Speaker: Christoph Seck
 ## Title: Connecting SQL and Blockchain: The Azure Blockchain Workbench [EN]
@@ -227,7 +228,7 @@ Last but not least, we can look at some real world projects.
 #  
 #### SessionID: 91129
 # Machine Learning in Azure
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Analytics
 ## Speaker: Marcel Franke
 ## Title: Machine Learning in Azure
@@ -236,7 +237,7 @@ Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Analytics
 #  
 #### SessionID: 91575
 # On the edge: AI und intelligente Datenverarbeitung mit Azure IoT
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Cloud
 ## Speaker: Constantin Klein
 ## Title: On the edge: AI und intelligente Datenverarbeitung mit Azure IoT
@@ -249,7 +250,7 @@ Diese Session bietet einen Einstieg in die Azure IoT Edge Plattform und die von 
 #  
 #### SessionID: 93085
 # Modern Data Warehouse - Part 2
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: BI
 ## Speaker: Tillmann Eitelberg
 ## Title: Modern Data Warehouse - Part 2
@@ -258,7 +259,7 @@ Event Date: 25-05-2019 - Session time: 17:00:00 - Track: BI
 #  
 #### SessionID: 88931
 # Use Case for SQL Server Service Broker: Historization of customer data
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: DBA
 ## Speaker: Uwe Ricken
 ## Title: Use Case for SQL Server Service Broker: Historization of customer data
@@ -277,7 +278,7 @@ Topics
 #  
 #### SessionID: 89445
 # Fun with window functions – komplexe Abfragen einfach erstellt
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: DEV
 ## Speaker: Stefan Grigat
 ## Title: Fun with window functions – komplexe Abfragen einfach erstellt
@@ -287,7 +288,7 @@ Schließlich bieten die Functions viel mehr Möglichkeiten als ein einfaches Gro
 #  
 #### SessionID: 90526
 # Power BI und Paginated Reports? Die Berichtsplattform in der Cloud im Überblick
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: BI
 ## Speaker: Philipp Lenz
 ## Title: Power BI und Paginated Reports? Die Berichtsplattform in der Cloud im Überblick
@@ -296,7 +297,7 @@ Event Date: 25-05-2019 - Session time: 17:00:00 - Track: BI
 #  
 #### SessionID: 91582
 # Creating an Enterprise Datalake without an Enterprise budget
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Analytics
 ## Speaker: André Kamman
 ## Title: Creating an Enterprise Datalake without an Enterprise budget
@@ -307,7 +308,7 @@ You get to decide how far you want to go, from cost-effective to penny pinching.
 #  
 #### SessionID: 93084
 # The New Machine Age: Sensor Data, Machine Learning, Inferred Data
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Mixed
 ## Speaker: Raphael Köllner
 ## Title: The New Machine Age: Sensor Data, Machine Learning, Inferred Data
@@ -316,7 +317,7 @@ Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Mixed
 #  
 #### SessionID: 94590
 # Verarbeiten von Datenströmen mit Azure
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Cloud
 ## Speaker: Sascha Dittmann
 ## Title: Verarbeiten von Datenströmen mit Azure
@@ -327,7 +328,7 @@ In dieser Session stellt Sascha Dittmann eine typische Architektur zur Verarbeit
 #  
 #### SessionID: 90541
 # Von 0 auf 100 mit der Kusto Query Language (KQL)
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Analytics
 ## Speaker: Sascha Dittmann
 ## Title: Von 0 auf 100 mit der Kusto Query Language (KQL)
@@ -337,7 +338,7 @@ In dieser Session gibt Sascha Dittmann eine Einführung in die Abfragesprache. D
 #  
 #### SessionID: 90882
 # A small step for man a giant step for mankind - Productive SQL Servers in Docker
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: DBA
 ## Speaker: Frank Geisler
 ## Title: A small step for man a giant step for mankind - Productive SQL Servers in Docker
@@ -346,7 +347,7 @@ Event Date: 25-05-2019 - Session time: 17:00:00 - Track: DBA
 #  
 #### SessionID: 91447
 # SQL database on IoT devices, could you? should you? would you?
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Mixed
 ## Speaker: Catalin Gheorghiu
 ## Title: SQL database on IoT devices, could you? should you? would you?
@@ -357,7 +358,7 @@ How does all fit with the field gateway concept?  During the presentation, we wi
 #  
 #### SessionID: 93249
 # Aggregations in Power BI
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: BI
 ## Speaker: Thomas Martens
 ## Title: Aggregations in Power BI
@@ -366,7 +367,7 @@ Event Date: 25-05-2019 - Session time: 17:00:00 - Track: BI
 #  
 #### SessionID: 94408
 # Databricks for the SQL Developer
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Cloud
 ## Speaker: Gerhard Brueckl
 ## Title: Databricks for the SQL Developer
@@ -375,7 +376,7 @@ Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Cloud
 #  
 #### SessionID: 88831
 # A refresher on geospatial data in SQL Server
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: DEV
 ## Speaker: Thomas Hütter
 ## Title: A refresher on geospatial data in SQL Server
@@ -388,7 +389,7 @@ Darauf folgen die eingebauten Funktionen, mit denen Beziehungen zwischen Geo-Obj
 #  
 #### SessionID: 89024
 # Data flows in Azure Data Factory - endlich auch hier Transformationen!
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Cloud
 ## Speaker: Stefan Kirner
 ## Title: Data flows in Azure Data Factory - endlich auch hier Transformationen!
@@ -398,7 +399,7 @@ Der Vortrag zeigt nach einem allgemeinen Überblick zur ADF, die Data Flows und 
 #  
 #### SessionID: 89027
 # Driving Power BI automation through monitoring
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: BI
 ## Speaker: Jan Mulkens
 ## Title: Driving Power BI automation through monitoring
@@ -419,7 +420,7 @@ In this session you'll learn everything you'd ever want to know about monitoring
 #  
 #### SessionID: 89596
 # Setup and Configure a SQL Server with Powershell DSC
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: DBA
 ## Speaker: Björn Peters
 ## Title: Setup and Configure a SQL Server with Powershell DSC
@@ -430,7 +431,7 @@ Why you might need this and why to think about such a scenario... I'll tell you 
 #  
 #### SessionID: 91343
 # SQL Server Projekte mit Azure DevOps
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Mixed
 ## Speaker: Markus Delhofen
 ## Title: SQL Server Projekte mit Azure DevOps
@@ -440,7 +441,7 @@ In dem Vortrag werden SQL Server Projekte in Visual Studio vorgestellt und gezei
 #  
 #### SessionID: 91449
 # Predictive Analytics - an Azure Machine Learning-Studio Use-Case
-#### [Back to calendar](#SQLSaturday-#856-Rheinland-2019)
+#### [Back to calendar](#nr-856)
 Event Date: 25-05-2019 - Session time: 17:00:00 - Track: Analytics
 ## Speaker: Martin Gudel
 ## Title: Predictive Analytics - an Azure Machine Learning-Studio Use-Case

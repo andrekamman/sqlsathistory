@@ -1,3 +1,4 @@
+#### Nr: 203
 #### [Back to Main list](index.md)
 # SQLSaturday #203 - Boston 2013
 Start Time (24h)|Speaker|Track|Title
@@ -36,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10073
 # Building BI Semantic Model Tabular in 60 minutes
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Ayad Shammout
 ## Title: Building BI Semantic Model Tabular in 60 minutes
@@ -45,7 +46,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 10142
 # SQL Internals , Recovery Models,  Backups! OH MY
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bradley Ball
 ## Title: SQL Internals , Recovery Models,  Backups! OH MY
@@ -54,7 +55,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10321
 # Top Query Optimizer Topics for Better Performance
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Benjamin Nevarez
 ## Title: Top Query Optimizer Topics for Better Performance
@@ -63,7 +64,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 10322
 # Dive into the Query Optimizer-Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer-Undocumented Insight
@@ -72,7 +73,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 10659
 # A DBAs Guide to HIPAA
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Brandon Leach
 ## Title: A DBAs Guide to HIPAA
@@ -82,7 +83,7 @@ We'll also dive into several features in SQL Server that can help in this endeav
 #  
 #### SessionID: 11627
 # Why APPLY?
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Christina Leo
 ## Title: Why APPLY?
@@ -91,7 +92,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 12906
 # Building Your First Tabular Model
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dan Clark
 ## Title: Building Your First Tabular Model
@@ -100,7 +101,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 14747
 # Tune Queries By Fixing Bad Parameter Sniffing 
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Grant Fritchey
 ## Title: Tune Queries By Fixing Bad Parameter Sniffing 
@@ -109,7 +110,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 14748
 # What to Look for in Execution Plans
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Grant Fritchey
 ## Title: What to Look for in Execution Plans
@@ -118,7 +119,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 16220
 # Using PowerView and Hadoop to Unlock Hidden Market
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Joseph D'Antoni
 ## Title: Using PowerView and Hadoop to Unlock Hidden Market
@@ -128,7 +129,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 16221
 # SQL 2012 -- All About HA and DR
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Joseph D'Antoni
 ## Title: SQL 2012 -- All About HA and DR
@@ -137,7 +138,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 17031
 # How to audit and prevent unwanted user actions.
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: John Miner
 ## Title: How to audit and prevent unwanted user actions.
@@ -146,7 +147,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 20234
 # Virtualizing SQL Server 2012: Doing IT Right
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Michael Corey
 ## Title: Virtualizing SQL Server 2012: Doing IT Right
@@ -155,7 +156,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20519
 # Ask the Experts: Database Administration
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mike Hillwig
 ## Title: Ask the Experts: Database Administration
@@ -164,7 +165,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21654
 # Network or Perish
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Paresh Motiwala
 ## Title: Network or Perish
@@ -175,7 +176,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 21964
 # What's New for Self-Service BI in Excel 2013
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Peter Myers
 ## Title: What's New for Self-Service BI in Excel 2013
@@ -184,7 +185,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21965
 # Introduction to SQL Server 2012 MDS and DQS
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Peter Myers
 ## Title: Introduction to SQL Server 2012 MDS and DQS
@@ -197,7 +198,7 @@ DQS is a new knowledge-driven data cleansing solution, and it supports building 
 #  
 #### SessionID: 24025
 # Get-PowerShell | Get-SQLServer
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: SB Chatterjee
 ## Title: Get-PowerShell | Get-SQLServer
@@ -208,7 +209,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24071
 # Kung Fu Migration to Windows Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Scott Klein
 ## Title: Kung Fu Migration to Windows Azure SQL Database
@@ -217,7 +218,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24681
 # A Big Data Primer
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Stacia Varga
 ## Title: A Big Data Primer
@@ -226,7 +227,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24682
 # Taking BI to the Next Level: Collaboration
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Stacia Varga
 ## Title: Taking BI to the Next Level: Collaboration
@@ -235,7 +236,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 24919
 # Designing An Efficient Replication Topology
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Chad Churchwell
 ## Title: Designing An Efficient Replication Topology
@@ -244,7 +245,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 25131
 # Database Design: Size DOES Matter
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Thomas LaRock
 ## Title: Database Design: Size DOES Matter
@@ -253,7 +254,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 25346
 # Database design for mere developers
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Steve Simon
 ## Title: Database design for mere developers
@@ -262,7 +263,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 25347
 # Get your Mining Model Predictions out to all
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Steve Simon
 ## Title: Get your Mining Model Predictions out to all
@@ -271,7 +272,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 25872
 # Self Service BI: Office 2013 and SQL 2012
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Sunil Kadimdiwan
 ## Title: Self Service BI: Office 2013 and SQL 2012
@@ -280,7 +281,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 26592
 # Matching and Survivorship
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Tim Sidor
 ## Title: Matching and Survivorship
@@ -289,7 +290,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 27544
 # Secrets of SQL Server Management Studio (SSMS)
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Varsham Papikian
 ## Title: Secrets of SQL Server Management Studio (SSMS)
@@ -298,7 +299,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 9249
 # Demystifying Clustering for the DBA
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Allan Hirt
 ## Title: Demystifying Clustering for the DBA
@@ -307,7 +308,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9250
 # Business Continuity: The Real Reason for HA and DR
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Allan Hirt
 ## Title: Business Continuity: The Real Reason for HA and DR
@@ -316,7 +317,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9629
 # Database Dev ALM with SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#203-Boston-2013)
+#### [Back to calendar](#nr-203)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andy Roberts
 ## Title: Database Dev ALM with SQL Server Data Tools

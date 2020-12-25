@@ -1,3 +1,4 @@
+#### Nr: 81
 #### [Back to Main list](index.md)
 # SQLSaturday #81 - Birmingham 2011
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28381
 # Quickly Gather Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 400
 ## Speaker: Aaron Nelson
 ## Title: Quickly Gather Performance Data with PowerShell
@@ -44,7 +45,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 400
 #  
 #### SessionID: 28383
 # New PowerShell features in SQL Denali
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 400
 ## Speaker: Aaron Nelson
 ## Title: New PowerShell features in SQL Denali
@@ -53,7 +54,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 400
 #  
 #### SessionID: 28577
 # .NET in SQL for the DBA
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 200
 ## Speaker: Alex Tocitu
 ## Title: .NET in SQL for the DBA
@@ -62,7 +63,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 200
 #  
 #### SessionID: 28578
 # PowerShell and SQL for the DBA
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 300
 ## Speaker: Alex Tocitu
 ## Title: PowerShell and SQL for the DBA
@@ -72,7 +73,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 300
 #  
 #### SessionID: 28705
 # Building a Professinal Development Plan
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 100
 ## Speaker: Andy Warren
 ## Title: Building a Professinal Development Plan
@@ -81,7 +82,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 100
 #  
 #### SessionID: 28706
 # Introduction to SQL Server Statisics
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 100
 ## Speaker: Andy Warren
 ## Title: Introduction to SQL Server Statisics
@@ -90,7 +91,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 100
 #  
 #### SessionID: 30014
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 200
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -99,7 +100,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 200
 #  
 #### SessionID: 30015
 # Characteristics of a Great Relational Database
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 200
 ## Speaker: Louis Davidson
 ## Title: Characteristics of a Great Relational Database
@@ -108,7 +109,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 200
 #  
 #### SessionID: 30238
 # SQL “Denali” AlwaysOn High Availability Solutions
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 500
 ## Speaker: Geoff Hiten
 ## Title: SQL “Denali” AlwaysOn High Availability Solutions
@@ -117,7 +118,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 500
 #  
 #### SessionID: 30456
 # SQL Server on VMware
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 400
 ## Speaker: Janis Griffin
 ## Title: SQL Server on VMware
@@ -126,7 +127,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 400
 #  
 #### SessionID: 30463
 # Looney Tuner?  No, there IS a method to my madness
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 200
 ## Speaker: Janis Griffin
 ## Title: Looney Tuner?  No, there IS a method to my madness
@@ -138,7 +139,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 200
 #  
 #### SessionID: 30465
 # Performance Management – 2008 MDW - How  Why
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 400
 ## Speaker: Janis Griffin
 ## Title: Performance Management – 2008 MDW - How  Why
@@ -147,7 +148,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 400
 #  
 #### SessionID: 30488
 # Entity Framework 4.1 Code First
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 300
 ## Speaker: Jarrett Vance
 ## Title: Entity Framework 4.1 Code First
@@ -156,7 +157,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 300
 #  
 #### SessionID: 30973
 # Do More (ETL) with Less (Effort) - Automating SSIS
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 200
 ## Speaker: John Welch
 ## Title: Do More (ETL) with Less (Effort) - Automating SSIS
@@ -165,7 +166,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 200
 #  
 #### SessionID: 30975
 # Handling Advanced Data Warehouse Scenarios in SSIS
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 500
 ## Speaker: John Welch
 ## Title: Handling Advanced Data Warehouse Scenarios in SSIS
@@ -174,7 +175,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 500
 #  
 #### SessionID: 31292
 # Enforcing Compliance With Policy-Based Management 
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 200
 ## Speaker: Ken Simmons
 ## Title: Enforcing Compliance With Policy-Based Management 
@@ -183,7 +184,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 200
 #  
 #### SessionID: 31468
 # Fundamental OOP with C#
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 100
 ## Speaker: Chris Eargle
 ## Title: Fundamental OOP with C#
@@ -192,7 +193,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 100
 #  
 #### SessionID: 32092
 # SQL Developer's Intro to SSAS
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 100
 ## Speaker: Nathan Mourfield
 ## Title: SQL Developer's Intro to SSAS
@@ -201,7 +202,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 100
 #  
 #### SessionID: 32590
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 400
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -210,7 +211,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 400
 #  
 #### SessionID: 32675
 # Olap Security using AS Stored Procedures
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 500
 ## Speaker: Rob Schoenborn
 ## Title: Olap Security using AS Stored Procedures
@@ -219,7 +220,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 500
 #  
 #### SessionID: 33285
 # What's New in SQL Server "Denali" - For Developers
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 300
 ## Speaker: Sven Aelterman
 ## Title: What's New in SQL Server "Denali" - For Developers
@@ -228,7 +229,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 300
 #  
 #### SessionID: 33288
 # Entity Framework v4.1: What's New in 2011
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 300
 ## Speaker: Sven Aelterman
 ## Title: Entity Framework v4.1: What's New in 2011
@@ -237,7 +238,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 300
 #  
 #### SessionID: 33289
 # Storing BLOBs in SQL Server using FILESTREAM
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 500
 ## Speaker: Sven Aelterman
 ## Title: Storing BLOBs in SQL Server using FILESTREAM
@@ -246,7 +247,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 500
 #  
 #### SessionID: 33459
 # SQL Server Partitioning from A to Z
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 300
 ## Speaker: Kevin Boles
 ## Title: SQL Server Partitioning from A to Z
@@ -255,7 +256,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 300
 #  
 #### SessionID: 33460
 # Transaction Log Deep Dive
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 500
 ## Speaker: Kevin Boles
 ## Title: Transaction Log Deep Dive
@@ -264,7 +265,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 500
 #  
 #### SessionID: 33461
 # File IO Stalls and Wait Stats:  Tune Like a Guru!!
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 500
 ## Speaker: Kevin Boles
 ## Title: File IO Stalls and Wait Stats:  Tune Like a Guru!!
@@ -273,7 +274,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 500
 #  
 #### SessionID: 33609
 # It's TEMPDB Why Should You Care
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 300
 ## Speaker: Tim Radney
 ## Title: It's TEMPDB Why Should You Care
@@ -282,7 +283,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 300
 #  
 #### SessionID: 33610
 # You inherited a database, now what?
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 100
 ## Speaker: Tim Radney
 ## Title: You inherited a database, now what?
@@ -291,7 +292,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 100
 #  
 #### SessionID: 34158
 # Design and Implement BI Like Edison! 
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 400
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI Like Edison! 
@@ -300,7 +301,7 @@ Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 400
 #  
 #### SessionID: 34161
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#81-Birmingham-2011)
+#### [Back to calendar](#nr-81)
 Event Date: 30-07-2011 - Session time: 00:00:00 - Track: Level 100
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX

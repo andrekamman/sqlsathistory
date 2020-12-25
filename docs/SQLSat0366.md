@@ -1,3 +1,4 @@
+#### Nr: 366
 #### [Back to Main list](index.md)
 # SQLSaturday #366 - Ottawa 2015
 Start Time (24h)|Speaker|Track|Title
@@ -15,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 14865
 # Discover the performance hidden secrets with the Microsoft Performance Analysis of Logs (PAL) Tool
-#### [Back to calendar](#SQLSaturday-#366-Ottawa-2015)
+#### [Back to calendar](#nr-366)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 1 (DBA)
 ## Speaker: Michelle Kamrat Gutzait
 ## Title: Discover the performance hidden secrets with the Microsoft Performance Analysis of Logs (PAL) Tool
@@ -25,7 +26,7 @@ This session covers the Microsoft  PAL tool report and how to easily find perfor
 #  
 #### SessionID: 22124
 # Interactive Data Visualizations in Power View 
-#### [Back to calendar](#SQLSaturday-#366-Ottawa-2015)
+#### [Back to calendar](#nr-366)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 2 (BI)
 ## Speaker: Phillip Labry
 ## Title: Interactive Data Visualizations in Power View 
@@ -34,7 +35,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 2 (BI)
 #  
 #### SessionID: 11578
 # Azure Data Factory concepts
-#### [Back to calendar](#SQLSaturday-#366-Ottawa-2015)
+#### [Back to calendar](#nr-366)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 2 (BI)
 ## Speaker: Christian Cote
 ## Title: Azure Data Factory concepts
@@ -43,7 +44,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 2 (BI)
 #  
 #### SessionID: 19997
 # Query Plans and Indexes in SQL Server
-#### [Back to calendar](#SQLSaturday-#366-Ottawa-2015)
+#### [Back to calendar](#nr-366)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 1 (DBA)
 ## Speaker: Michael DeFehr
 ## Title: Query Plans and Indexes in SQL Server
@@ -52,7 +53,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 1 (DBA)
 #  
 #### SessionID: 12146
 # Best Practices for Fabric Configuration of SQL Server Workloads in Private Cloud Environments
-#### [Back to calendar](#SQLSaturday-#366-Ottawa-2015)
+#### [Back to calendar](#nr-366)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 1 (DBA)
 ## Speaker: Damir Bersinic
 ## Title: Best Practices for Fabric Configuration of SQL Server Workloads in Private Cloud Environments
@@ -63,7 +64,7 @@ In this session you will learn how to configure the four key fabric resources (C
 #  
 #### SessionID: 25590
 # DAX and the tabular model
-#### [Back to calendar](#SQLSaturday-#366-Ottawa-2015)
+#### [Back to calendar](#nr-366)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 2 (BI)
 ## Speaker: Steve Simon
 ## Title: DAX and the tabular model
@@ -73,7 +74,7 @@ We shall discuss many of the often used functions, discuss their 'overloads' (ut
 #  
 #### SessionID: 21200
 # 	What a DBA need to know about In-Memory OLTP?
-#### [Back to calendar](#SQLSaturday-#366-Ottawa-2015)
+#### [Back to calendar](#nr-366)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 1 (DBA)
 ## Speaker: Murilo Miranda
 ## Title: 	What a DBA need to know about In-Memory OLTP?
@@ -82,7 +83,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 1 (DBA)
 #  
 #### SessionID: 21686
 # Setting up your BI Infrastructure
-#### [Back to calendar](#SQLSaturday-#366-Ottawa-2015)
+#### [Back to calendar](#nr-366)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 2 (BI)
 ## Speaker: Paresh Motiwala
 ## Title: Setting up your BI Infrastructure
@@ -93,7 +94,7 @@ What are the best practices involved in creating a BI infrastructure. We can dis
 #  
 #### SessionID: 13741
 # Configuring SharePoint 2013 as a BI Platform
-#### [Back to calendar](#SQLSaturday-#366-Ottawa-2015)
+#### [Back to calendar](#nr-366)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 2 (BI)
 ## Speaker: Edwin M Sarmiento
 ## Title: Configuring SharePoint 2013 as a BI Platform
@@ -104,7 +105,7 @@ In this session, you will learn what it takes to successfully architect and desi
 #  
 #### SessionID: 27638
 # The Restore Cookbook
-#### [Back to calendar](#SQLSaturday-#366-Ottawa-2015)
+#### [Back to calendar](#nr-366)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 1 (DBA)
 ## Speaker: Warner Chaves
 ## Title: The Restore Cookbook

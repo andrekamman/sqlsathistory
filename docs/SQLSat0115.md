@@ -1,3 +1,4 @@
+#### Nr: 115
 #### [Back to Main list](index.md)
 # SQLSaturday #115 - Portugal 2012
 Start Time (24h)|Speaker|Track|Title
@@ -28,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13975
 # Security enhancements in SQL Server 2012 (Denali):
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 4. SQL Azure + Extras
 ## Speaker: Etienne Lopes
 ## Title: Security enhancements in SQL Server 2012 (Denali):
@@ -50,7 +51,7 @@ anf if time permits:
 #  
 #### SessionID: 18488
 # The Turbo-Booster in SQL 2012: Columnstore Indexes
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 2. DBA
 ## Speaker: Klaus Aschenbrenner
 ## Title: The Turbo-Booster in SQL 2012: Columnstore Indexes
@@ -59,7 +60,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 2. DBA
 #  
 #### SessionID: 22621
 # SQL Server vs. SQL Azure - FIGHT!
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 4. SQL Azure + Extras
 ## Speaker: Virgílio Esteves
 ## Title: SQL Server vs. SQL Azure - FIGHT!
@@ -68,7 +69,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 4. SQL Azure + Extras
 #  
 #### SessionID: 23575
 # More Agile Business Intelligence with Microsoft BI
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 3. BI
 ## Speaker: Rui Quintino
 ## Title: More Agile Business Intelligence with Microsoft BI
@@ -77,7 +78,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 3. BI
 #  
 #### SessionID: 28591
 # Exceed your business with SharePoint Server 2010
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 4. SQL Azure + Extras
 ## Speaker: Alexandre Mendeiros
 ## Title: Exceed your business with SharePoint Server 2010
@@ -86,7 +87,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 4. SQL Azure + Extras
 #  
 #### SessionID: 28631
 # Making Data Fit for Business using DQS
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 3. BI
 ## Speaker: Allan Mitchell
 ## Title: Making Data Fit for Business using DQS
@@ -100,7 +101,7 @@ Pretty much everyone suffers from these problems so come to this session to lear
 #  
 #### SessionID: 29298
 # SQL Internal Storage
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 2. DBA
 ## Speaker: Bruno Basto
 ## Title: SQL Internal Storage
@@ -112,7 +113,7 @@ This session explores the basic of metadata that keeps track of data and index s
 #  
 #### SessionID: 30090
 # New TSQL features in SQL12 with OVER clause and ..
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 1. Dev
 ## Speaker: Eladio Rincon
 ## Title: New TSQL features in SQL12 with OVER clause and ..
@@ -123,7 +124,7 @@ SQL Server 2012 is closer than ever to fully implement the ANSI Windowing functi
 #  
 #### SessionID: 30343
 # Advanced indexing
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 1. Dev
 ## Speaker: Hugo Kornelis
 ## Title: Advanced indexing
@@ -132,7 +133,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 1. Dev
 #  
 #### SessionID: 30346
 # All about MERGE
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 1. Dev
 ## Speaker: Hugo Kornelis
 ## Title: All about MERGE
@@ -143,7 +144,7 @@ In this demo-rich session, Hugo Kornelis will present the full syntax of the MER
 #  
 #### SessionID: 30375
 # T-SQL Enhancements in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 1. Dev
 ## Speaker: Niko Neugebauer
 ## Title: T-SQL Enhancements in SQL Server 2012
@@ -154,7 +155,7 @@ This session will focus on some of the new programability features that will be 
 #  
 #### SessionID: 30718
 # Business Intelligence in Azure: SSIS  SSRS focus
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 4. SQL Azure + Extras
 ## Speaker: Jen Stirrup
 ## Title: Business Intelligence in Azure: SSIS  SSRS focus
@@ -169,7 +170,7 @@ Come and see the similarities and differences in using Azure SQL Business Intell
 #  
 #### SessionID: 30719
 # Power View from the Data Visualisation Perspective
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 3. BI
 ## Speaker: Jen Stirrup
 ## Title: Power View from the Data Visualisation Perspective
@@ -184,7 +185,7 @@ Come to this session if you really want to think about the best ways of presenti
 #  
 #### SessionID: 30889
 # Mission-Critical Solutions Using AlwaysOn
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 2. DBA
 ## Speaker: João  Loureiro
 ## Title: Mission-Critical Solutions Using AlwaysOn
@@ -193,7 +194,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 2. DBA
 #  
 #### SessionID: 31524
 # SQL Server 2012 Extended Events
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 2. DBA
 ## Speaker: Luís Canastreiro
 ## Title: SQL Server 2012 Extended Events
@@ -205,7 +206,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 2. DBA
 #  
 #### SessionID: 31571
 # Enter the Dragon: SQL 2012 on Server Core
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 2. DBA
 ## Speaker: Mark Broadbent
 ## Title: Enter the Dragon: SQL 2012 on Server Core
@@ -216,7 +217,7 @@ We will demonstrate OS configuration through Cmd line utils and PowerShell, SQL 
 #  
 #### SessionID: 31912
 # Parameter Sniffing Problem with Stored Procedures
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 1. Dev
 ## Speaker: Miloš Radivojević
 ## Title: Parameter Sniffing Problem with Stored Procedures
@@ -225,7 +226,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 1. Dev
 #  
 #### SessionID: 32055
 # Effective Data Management using Data Compression
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 2. DBA
 ## Speaker: Neil Hambly
 ## Title: Effective Data Management using Data Compression
@@ -236,7 +237,7 @@ I present this session @ Red Gate SQL-in-the-City Conference (London - July 2011
 #  
 #### SessionID: 32195
 # SQL Server 2012 SHOWPLAN - What's new?
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 1. Dev
 ## Speaker: Pedro Lopes
 ## Title: SQL Server 2012 SHOWPLAN - What's new?
@@ -245,7 +246,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 1. Dev
 #  
 #### SessionID: 32319
 # First look to SSIS 2012
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 3. BI
 ## Speaker: Pedro Perfeito
 ## Title: First look to SSIS 2012
@@ -254,7 +255,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 3. BI
 #  
 #### SessionID: 9197
 # Hidden gems in BISM Tabular models for Power View
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 3. BI
 ## Speaker: Alejandro Leguizamo
 ## Title: Hidden gems in BISM Tabular models for Power View
@@ -263,7 +264,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 3. BI
 #  
 #### SessionID: 9199
 # The H Hour:Hadoop, the awakening of the BigData I
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 4. SQL Azure + Extras
 ## Speaker: Alejandro Leguizamo
 ## Title: The H Hour:Hadoop, the awakening of the BigData I
@@ -274,7 +275,7 @@ We are calling for a secret meeting to everyone: DBAs, Network admins, developer
 #  
 #### SessionID: 9400
 # SSAS 2012: Tabular and Multidimensional
-#### [Back to calendar](#SQLSaturday-#115-Portugal-2012)
+#### [Back to calendar](#nr-115)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: 3. BI
 ## Speaker: Andro Moreira
 ## Title: SSAS 2012: Tabular and Multidimensional

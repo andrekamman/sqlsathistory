@@ -1,3 +1,4 @@
+#### Nr: 907
 #### [Back to Main list](index.md)
 # SQLSaturday #907 - Pittsburgh 2019
 Start Time (24h)|Speaker|Track|Title
@@ -55,7 +56,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 94095
 # Faster SSIS
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Faster SSIS
@@ -68,7 +69,7 @@ Finally, we'll demonstrate a design pattern that uses a Script Component in a Da
 #  
 #### SessionID: 96368
 # Infrastructure for the DBA: An Introduction
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: Infrastructure for the DBA: An Introduction
@@ -77,7 +78,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 96525
 # Azure Databricks: A Beginner's Journey
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Katie Novotny
 ## Title: Azure Databricks: A Beginner's Journey
@@ -88,7 +89,7 @@ By the end of this session, you will have a better understanding of Azure Databr
 #  
 #### SessionID: 96653
 # Power BI Suite: What services make up Power BI?
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Ravi Kumar
 ## Title: Power BI Suite: What services make up Power BI?
@@ -104,7 +105,7 @@ There will be brief demonstration of each product.
 #  
 #### SessionID: 96733
 # Scalable Application Design with Service Broker
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Allen White
 ## Title: Scalable Application Design with Service Broker
@@ -118,7 +119,7 @@ Session Goal 3    Demonstrate how the non-critical updates are best handled asyn
 #  
 #### SessionID: 98512
 # Columnstore Indexes for Everyone
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mike Burek
 ## Title: Columnstore Indexes for Everyone
@@ -127,7 +128,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 99068
 # Dimension Management for Power BI
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tyler Graham
 ## Title: Dimension Management for Power BI
@@ -139,7 +140,7 @@ analytics.
 #  
 #### SessionID: 99112
 # Stop Doing That! Common T-SQL Anti-Patterns
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Stop Doing That! Common T-SQL Anti-Patterns
@@ -152,7 +153,7 @@ By the end of the session, you will be able to quickly identify these common ant
 #  
 #### SessionID: 99116
 # Virtualizing SQL  - An overview of what you need to do to virtual
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: Virtualizing SQL  - An overview of what you need to do to virtual
@@ -161,7 +162,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 94361
 # Performance Tuning for SQL Developer through Execution Plans
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Performance Tuning for SQL Developer through Execution Plans
@@ -170,7 +171,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 95948
 # Encrypting Data within SQL Server
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within SQL Server
@@ -183,7 +184,7 @@ You will leave this session with a deeper understanding about SQL Server encrypt
 #  
 #### SessionID: 96312
 # Managing ETL Change Using BIMLScript
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Russel Loski
 ## Title: Managing ETL Change Using BIMLScript
@@ -194,7 +195,7 @@ To demonstrate such an approach, I import some US census data. I create the SSIS
 #  
 #### SessionID: 96412
 # Azure SQL DB Managed Instance: Today
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Heiges
 ## Title: Azure SQL DB Managed Instance: Today
@@ -203,7 +204,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 96439
 # DBA - What's Most Important
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Wagner
 ## Title: DBA - What's Most Important
@@ -212,7 +213,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 98221
 # How to use Execution Plans to find Performance Issues
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: How to use Execution Plans to find Performance Issues
@@ -221,7 +222,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 98538
 # Avoiding angry calls: Power BI model optimization
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stephanie Bruno
 ## Title: Avoiding angry calls: Power BI model optimization
@@ -230,7 +231,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 98946
 # Ethics, Morals, and Laws for the DBA 101
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Pat Phelan
 ## Title: Ethics, Morals, and Laws for the DBA 101
@@ -243,7 +244,7 @@ This session presents basic definitions, ideas, and discussion points. It is int
 #  
 #### SessionID: 95127
 # Become the Most Valuable Player: Soft Skills for the Hard Market
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Angela Tidwell
 ## Title: Become the Most Valuable Player: Soft Skills for the Hard Market
@@ -252,7 +253,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 95995
 # When to use Indexing ProTools
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Mallon
 ## Title: When to use Indexing ProTools
@@ -265,7 +266,7 @@ We won't only talk about what these options are, we'll also cover how and when t
 #  
 #### SessionID: 96254
 # Power BI: From Zero to 101
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Slava Murygin
 ## Title: Power BI: From Zero to 101
@@ -274,7 +275,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 96651
 # Azure Analysis Service or SSAS Tabular: How they work
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ravi Kumar
 ## Title: Azure Analysis Service or SSAS Tabular: How they work
@@ -284,7 +285,7 @@ Come to this session to learn: 1-Strengths and weaknesses for each. 2-How to lev
 #  
 #### SessionID: 96731
 # Emergency! Are You Ready for Disaster to Strike?
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Emergency! Are You Ready for Disaster to Strike?
@@ -295,7 +296,7 @@ This session will focus on the kinds of situations that can dramatically affect 
 #  
 #### SessionID: 96782
 # Drinking From the Firehose: a Guide to Keeping Up with Technology
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Eugene Meidinger
 ## Title: Drinking From the Firehose: a Guide to Keeping Up with Technology
@@ -304,7 +305,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 96874
 # SQL Server 2019 - New Features and Enhancements
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: SQL Server 2019 - New Features and Enhancements
@@ -314,7 +315,7 @@ This is an introductory session to introduce you to these new features. There wi
 #  
 #### SessionID: 99085
 # Getting started with Azure SQL Database: What You Need To Know!
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Getting started with Azure SQL Database: What You Need To Know!
@@ -324,7 +325,7 @@ Prerequisites: Have some understanding of Azure, and PowerShell. Familiar with H
 #  
 #### SessionID: 94228
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
@@ -333,7 +334,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 98595
 # Quest - Lunchtime chat
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Matt Nelson
 ## Title: Quest - Lunchtime chat
@@ -342,7 +343,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 98596
 # Pure Storage lunchtime chat
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: Pure Storage lunchtime chat
@@ -351,7 +352,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 98774
 # Profisee - Lunchtime chat
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Matt Nelson
 ## Title: Profisee - Lunchtime chat
@@ -360,7 +361,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 99054
 # Snowflake - Lunchtime chat
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Information Delivery
 ## Speaker: Matt Nelson
 ## Title: Snowflake - Lunchtime chat
@@ -369,7 +370,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Information Delivery
 #  
 #### SessionID: 94703
 # Using Azure Data Factory Mapping Data Flows to load Data Vault
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rayis Imayev
 ## Title: Using Azure Data Factory Mapping Data Flows to load Data Vault
@@ -382,7 +383,7 @@ In this session, I will share my experience of populating a Data Vault repositor
 #  
 #### SessionID: 95128
 # Data Collection and Usage: Illegal or Unethical?
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Angela Tidwell
 ## Title: Data Collection and Usage: Illegal or Unethical?
@@ -391,7 +392,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 96256
 # What treasures are hidden in the Plan Cache?
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Slava Murygin
 ## Title: What treasures are hidden in the Plan Cache?
@@ -402,7 +403,7 @@ In this session, we’ll look at Plan Cache, what it is and what it contains,  h
 #  
 #### SessionID: 96353
 # Inside the Query Store. What Knowledge can You Gain?
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Inside the Query Store. What Knowledge can You Gain?
@@ -417,7 +418,7 @@ About the new adaptive query processing features and SQL Operation Studio
 #  
 #### SessionID: 96369
 # Learn Like Your Life Depends On It
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Peter Shore
 ## Title: Learn Like Your Life Depends On It
@@ -428,7 +429,7 @@ This session is designed to help with just that. In addition to talking about a 
 #  
 #### SessionID: 96770
 # Install  Configure SQL Server with PowerShell DSC
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jess Pomfret
 ## Title: Install  Configure SQL Server with PowerShell DSC
@@ -442,7 +443,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 98220
 # An Introduction to Azure Data Studio
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: An Introduction to Azure Data Studio
@@ -451,7 +452,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 98226
 # Opening SQL Window Functions
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: James Loesch
 ## Title: Opening SQL Window Functions
@@ -460,7 +461,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 94093
 # Moving Data with Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Andy Leonard
 ## Title: Moving Data with Azure Data Factory
@@ -474,7 +475,7 @@ Attend this session to learn:
 #  
 #### SessionID: 94722
 # SQL DevOps Simplified with Production Databases
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Paul Stanton
 ## Title: SQL DevOps Simplified with Production Databases
@@ -483,7 +484,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 95994
 # How to get your Dream Job: Resume  job hunting tips
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Andy Mallon
 ## Title: How to get your Dream Job: Resume  job hunting tips
@@ -498,7 +499,7 @@ Slides  handouts available on GitHub: http://am2.co/dream-job-ppt
 #  
 #### SessionID: 96253
 # Power BI - A guide to each product and licensing
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: George Woods
 ## Title: Power BI - A guide to each product and licensing
@@ -507,7 +508,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 96445
 # “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
@@ -522,7 +523,7 @@ This 1st session is also a recommended segue into the second session.
 #  
 #### SessionID: 96769
 # Life Hacks: dbatools edition
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jess Pomfret
 ## Title: Life Hacks: dbatools edition
@@ -541,7 +542,7 @@ This session’s life hacks will include, among others:
 #  
 #### SessionID: 96783
 # Introduction to M (a.k.a Power Query)
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Eugene Meidinger
 ## Title: Introduction to M (a.k.a Power Query)
@@ -552,7 +553,7 @@ In this session, we'll demonstrate how M is a linear series of transformations, 
 #  
 #### SessionID: 94070
 # Using Open Source Software to Collect Performance Metrics
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Using Open Source Software to Collect Performance Metrics
@@ -565,7 +566,7 @@ Attendees will see how easy it is to get good performance data and visualize it 
 #  
 #### SessionID: 94288
 # Data Time Travel with SQL Server Temporal Tables
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: Data Time Travel with SQL Server Temporal Tables
@@ -574,7 +575,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 96370
 # Hello My Friends, Welcome to CosmosDB
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Peter Shore
 ## Title: Hello My Friends, Welcome to CosmosDB
@@ -583,7 +584,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 96446
 # “Black Arts” Index Maintenance #2: Better Methods that Can Actually Prevent Fragmentation for Weeks.
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #2: Better Methods that Can Actually Prevent Fragmentation for Weeks.
@@ -600,7 +601,7 @@ Session #1 is a strongly recommend prerequisite for this session.
 #  
 #### SessionID: 98223
 # How to do a Complete SQL Server Assessment
-#### [Back to calendar](#SQLSaturday-#907-Pittsburgh-2019)
+#### [Back to calendar](#nr-907)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: How to do a Complete SQL Server Assessment

@@ -1,3 +1,4 @@
+#### Nr: 50
 #### [Back to Main list](index.md)
 # SQLSaturday #50 - East Iowa 2010
 Start Time (24h)|Speaker|Track|Title
@@ -27,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28812
 # Monitoring Data Changes the Microsoft Way with CDC
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Arie Jones
 ## Title: Monitoring Data Changes the Microsoft Way with CDC
@@ -36,7 +37,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28814
 # Take Control with Resource Governor and PBM
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Arie Jones
 ## Title: Take Control with Resource Governor and PBM
@@ -45,7 +46,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29124
 # Application Coding Sins
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bob Pusateri
 ## Title: Application Coding Sins
@@ -54,7 +55,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29481
 # Query hints: The Jekyll and Hyde of T-SQL Coding
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Chris Leonard
 ## Title: Query hints: The Jekyll and Hyde of T-SQL Coding
@@ -63,7 +64,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29688
 # SQL Performance Planning Tips for Developers
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Dagong Wang
 ## Title: SQL Performance Planning Tips for Developers
@@ -73,7 +74,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29690
 # Developer AMA (Ask Me Anything)
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Keith Dahlby
 ## Title: Developer AMA (Ask Me Anything)
@@ -82,7 +83,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30005
 # Applying Database Design
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Louis Davidson
 ## Title: Applying Database Design
@@ -91,7 +92,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30007
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -100,7 +101,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30515
 # Using XML to Query Execution Plans 
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jason Strate
 ## Title: Using XML to Query Execution Plans 
@@ -109,7 +110,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30517
 # Getting To Know Your Indexes
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jason Strate
 ## Title: Getting To Know Your Indexes
@@ -118,7 +119,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30519
 # Are You Following Your Own Best Practices?
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jason Strate
 ## Title: Are You Following Your Own Best Practices?
@@ -127,7 +128,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31278
 # Take the Awesomeness Home: the Data Collector
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kendra Little
 ## Title: Take the Awesomeness Home: the Data Collector
@@ -136,7 +137,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 31281
 # Stay Agile, Stay Sane
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kendra Little
 ## Title: Stay Agile, Stay Sane
@@ -145,7 +146,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32480
 # Developing T-SQL that survives concurrency
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Alex Kuznetsov
 ## Title: Developing T-SQL that survives concurrency
@@ -154,7 +155,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32481
 # Develop T-SQL code Defensively
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Alex Kuznetsov
 ## Title: Develop T-SQL code Defensively
@@ -163,7 +164,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33331
 # SSIS 2008 Basics - Get Up to Speed in 60 minutes!
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ted Krueger
 ## Title: SSIS 2008 Basics - Get Up to Speed in 60 minutes!
@@ -172,7 +173,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33783
 # If You Build It, They Will Try to Break It
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Trenton  Ivey
 ## Title: If You Build It, They Will Try to Break It
@@ -181,7 +182,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33894
 # Transactional Replication 101
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Wendy Pastrick
 ## Title: Transactional Replication 101
@@ -190,7 +191,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 34666
 # Closing
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Breakout
 ## Speaker: 
 ## Title: Closing
@@ -199,7 +200,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Breakout
 #  
 #### SessionID: 34667
 # Women in Technology Lunch Panel
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Breakout
 ## Speaker: 
 ## Title: Women in Technology Lunch Panel
@@ -208,7 +209,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Breakout
 #  
 #### SessionID: 34706
 # Designing a Data Mart 101
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kathi Kellenberger
 ## Title: Designing a Data Mart 101
@@ -217,7 +218,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 34708
 # What's New with Reporting Services
-#### [Back to calendar](#SQLSaturday-#50-East-Iowa-2010)
+#### [Back to calendar](#nr-50)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kathi Kellenberger
 ## Title: What's New with Reporting Services

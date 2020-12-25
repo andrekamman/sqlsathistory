@@ -1,3 +1,4 @@
+#### Nr: 333
 #### [Back to Main list](index.md)
 # SQLSaturday #333 - St. Louis 2014
 Start Time (24h)|Speaker|Track|Title
@@ -26,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10408
 # Data-ing Advice: Profiles are Important
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Britton Gray
 ## Title: Data-ing Advice: Profiles are Important
@@ -35,7 +36,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 10454
 # SSIS Project Deployment Model: Deployment and maintenance
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Bill Fellows
 ## Title: SSIS Project Deployment Model: Deployment and maintenance
@@ -44,7 +45,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 12325
 # Change Data Capture - What is it and Why I should use it 
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Dave Bland
 ## Title: Change Data Capture - What is it and Why I should use it 
@@ -53,7 +54,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13171
 # Reporting for SQL Server Health
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Dennis Graham
 ## Title: Reporting for SQL Server Health
@@ -62,7 +63,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13172
 # Violin Memory - Presentation
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Dennis Graham
 ## Title: Violin Memory - Presentation
@@ -71,7 +72,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14919
 # Partition Management
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dan Guzman
 ## Title: Partition Management
@@ -80,7 +81,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 16757
 # Transforming Data using the T-SQL PIVOT / UNPIVOT operators
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jeff Foushee
 ## Title: Transforming Data using the T-SQL PIVOT / UNPIVOT operators
@@ -89,7 +90,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18442
 # WIT Panel
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Kathi Kellenberger
 ## Title: WIT Panel
@@ -98,7 +99,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 18444
 # T-SQL Window Function Performance
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Performance
@@ -107,7 +108,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18946
 # Tabular vs Multidimensional.  Lets build it together!
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Lance Kolie
 ## Title: Tabular vs Multidimensional.  Lets build it together!
@@ -116,7 +117,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18968
 # Bridging The Gap
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Larry Toothman
 ## Title: Bridging The Gap
@@ -125,7 +126,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22557
 # Understanding SQL Server XML Features 
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Randy Knight
 ## Title: Understanding SQL Server XML Features 
@@ -134,7 +135,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 22559
 # Locks, Blocks, and Deadlocks Oh My!
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Randy Knight
 ## Title: Locks, Blocks, and Deadlocks Oh My!
@@ -143,7 +144,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23138
 # Designing a Better Database
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Rickey Nunn
 ## Title: Designing a Better Database
@@ -158,7 +159,7 @@ In this session, we will review some of the common challenges we face and some p
 #  
 #### SessionID: 24571
 # SQL Server 2014 Cardinality Estimator changes  
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Sreeni Julakanti
 ## Title: SQL Server 2014 Cardinality Estimator changes  
@@ -173,7 +174,7 @@ Note : Presentation based on recent white paper released from Microsoft.
 #  
 #### SessionID: 25170
 # NULL: A Love Story
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: JK Wood
 ## Title: NULL: A Love Story
@@ -182,7 +183,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 25186
 # Big Data Market Overview
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Scott Shaw
 ## Title: Big Data Market Overview
@@ -191,7 +192,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 25187
 # Hive - Interactive SQL Querying for Hadoop
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Scott Shaw
 ## Title: Hive - Interactive SQL Querying for Hadoop
@@ -200,7 +201,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 25849
 # The Elephant in the Room; A DBA's Guide to Hadoop  Big Data
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Stuart Ainsworth
 ## Title: The Elephant in the Room; A DBA's Guide to Hadoop  Big Data
@@ -209,7 +210,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 27571
 # Introduction to FileTables in SQL 2012
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Warren Sifre
 ## Title: Introduction to FileTables in SQL 2012
@@ -218,7 +219,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 8830
 # Agile Database Development
-#### [Back to calendar](#SQLSaturday-#333-St.-Louis-2014)
+#### [Back to calendar](#nr-333)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Aaron King
 ## Title: Agile Database Development

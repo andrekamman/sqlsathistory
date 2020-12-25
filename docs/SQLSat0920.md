@@ -1,3 +1,4 @@
+#### Nr: 920
 #### [Back to Main list](index.md)
 # SQLSaturday #920 - Oregon 2019
 Start Time (24h)|Speaker|Track|Title
@@ -59,7 +60,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 96168
 # Using Clustered Column Store Indexes at Scale
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBDev: Development, Tools, Scalability, Query Tuning and Indexing
 ## Speaker: Thomas Grohser
 ## Title: Using Clustered Column Store Indexes at Scale
@@ -70,7 +71,7 @@ Clustered Column Store Indexes are a great tool when used correctly. This sessio
 #  
 #### SessionID: 96183
 # Power BI Premium: Just the Facts
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, ETL, SSIS, EDW
 ## Speaker: Steve Wake
 ## Title: Power BI Premium: Just the Facts
@@ -79,7 +80,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, 
 #  
 #### SessionID: 96273
 # Windowing Functions: Shedding some light
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBDev: Development, Tools, Scalability, Query Tuning and Indexing
 ## Speaker: James McGillivray
 ## Title: Windowing Functions: Shedding some light
@@ -92,7 +93,7 @@ So whether it's tracking a value against the previous row, creating running tota
 #  
 #### SessionID: 96323
 # Defining What's Normal -- The Basics of Database Normalization
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Essentials: SQL Basics: Object/Data types, Best Practices, Query Plans, Indexing, Maintenance, SSMS/SQLOps/SSDT tips
 ## Speaker: Aaron Cutshall
 ## Title: Defining What's Normal -- The Basics of Database Normalization
@@ -101,7 +102,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Essentials: SQL Basics:
 #  
 #### SessionID: 96706
 # Data Science 101: An Introduction to Data Science Using Python
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Data Science: Analytics; Machine Learning, Python,  R, R Server, R Services, etc.
 ## Speaker: Ganesh Lohani
 ## Title: Data Science 101: An Introduction to Data Science Using Python
@@ -110,7 +111,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Data Science: Analytics
 #  
 #### SessionID: 96863
 # Certificates and EXECUTE AS - Putting Permissions Inside Stored Procedures
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBAdmin: Administration, Deploy, Manage, Repair, Server and Database Configuration, HA/DR
 ## Speaker: Erland Sommarskog
 ## Title: Certificates and EXECUTE AS - Putting Permissions Inside Stored Procedures
@@ -123,7 +124,7 @@ This session is directed towards both developers and DBAs, as this session deals
 #  
 #### SessionID: 98181
 # Data Privacy and Data Security in a Data-Driven world
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Professional Development: Career, Skills, Interviewing, Managing, WIT
 ## Speaker: Martin Catherall
 ## Title: Data Privacy and Data Security in a Data-Driven world
@@ -135,7 +136,7 @@ This session will take a close look at some of these challenges and the tools th
 #  
 #### SessionID: 98189
 # Common Data Model - Our new buddy for Data Governance
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, ETL, SSIS, EDW
 ## Speaker: Oliver Engels
 ## Title: Common Data Model - Our new buddy for Data Governance
@@ -144,7 +145,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, 
 #  
 #### SessionID: 99584
 # Lightning Talks Session 1
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Essentials: SQL Basics: Object/Data types, Best Practices, Query Plans, Indexing, Maintenance, SSMS/SQLOps/SSDT tips
 ## Speaker: Michael Wall
 ## Title: Lightning Talks Session 1
@@ -155,7 +156,7 @@ Slava Murygin: SSMS Shortcuts
 #  
 #### SessionID: 96216
 # Be Part of the Solution with Automation
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Cloud Data: Architecture, Platform, Managed vs. VM, CosmosDb, Azure, AWS, etc.
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Be Part of the Solution with Automation
@@ -165,7 +166,7 @@ The session will demonstrate the reasons to automate, along with the steps requi
 #  
 #### SessionID: 96330
 # PowerBI Model Designs  Techniques
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Design: Delivery: Power BI, SSRS, Visualization
 ## Speaker: Neil Hambly
 ## Title: PowerBI Model Designs  Techniques
@@ -177,7 +178,7 @@ Along the way we will show the DevOps approach to building the design model .
 #  
 #### SessionID: 96502
 # Tips and Tricks for the PowerShell DBA [VIDEO]
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBAdmin: Administration, Deploy, Manage, Repair, Server and Database Configuration, HA/DR
 ## Speaker: Ben Miller
 ## Title: Tips and Tricks for the PowerShell DBA [VIDEO]
@@ -186,7 +187,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBAdmin: Administration
 #  
 #### SessionID: 96521
 # SQL for Product Mangers and Business Line Managers
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Essentials: SQL Basics: Object/Data types, Best Practices, Query Plans, Indexing, Maintenance, SSMS/SQLOps/SSDT tips
 ## Speaker: Brian Ziff-Levine
 ## Title: SQL for Product Mangers and Business Line Managers
@@ -197,7 +198,7 @@ This session will focus on basic SQL queries that are common for product manager
 #  
 #### SessionID: 97958
 # Grabbing the brass ring: tools for better self-advocacy in the tech workplace
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Professional Development: Career, Skills, Interviewing, Managing, WIT
 ## Speaker: Padmashree Koneti
 ## Title: Grabbing the brass ring: tools for better self-advocacy in the tech workplace
@@ -209,7 +210,7 @@ Audience (all are welcome) will be able to learn new ways to approach self-advoc
 #  
 #### SessionID: 98176
 # The SQL Server Performance Tasting Menu
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBDev: Development, Tools, Scalability, Query Tuning and Indexing
 ## Speaker: Erik Darling
 ## Title: The SQL Server Performance Tasting Menu
@@ -228,7 +229,7 @@ You’ll have the secret recipe for gourmet queries.
 #  
 #### SessionID: 98183
 # The Jupyterian Snake Invasion: Intro to Jupyter Notebooks, Python, Azure and Beyond [VIDEO]
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Data Science: Analytics; Machine Learning, Python,  R, R Server, R Services, etc.
 ## Speaker: Robby Boney
 ## Title: The Jupyterian Snake Invasion: Intro to Jupyter Notebooks, Python, Azure and Beyond [VIDEO]
@@ -240,7 +241,7 @@ https://notebooks.azure.com
 #  
 #### SessionID: 98199
 # BI in Modern Excel: The value is in the Refresh
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, ETL, SSIS, EDW
 ## Speaker: Ken Puls
 ## Title: BI in Modern Excel: The value is in the Refresh
@@ -250,7 +251,7 @@ Come and see how Excel 2016 gives us the ability to not only rapidly create busi
 #  
 #### SessionID: 99585
 # Lightning Talks Session 2
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Essentials: SQL Basics: Object/Data types, Best Practices, Query Plans, Indexing, Maintenance, SSMS/SQLOps/SSDT tips
 ## Speaker: Michael Wall
 ## Title: Lightning Talks Session 2
@@ -263,7 +264,7 @@ Janice Gerbrandt: Automate Tests in your Database with tSQLt.
 #  
 #### SessionID: 96181
 # KingswaySoft - Supercharge your ETL Dev with Advanced SSIS Components
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, ETL, SSIS, EDW
 ## Speaker: Daniel Cai
 ## Title: KingswaySoft - Supercharge your ETL Dev with Advanced SSIS Components
@@ -276,7 +277,7 @@ In additional to performing advanced transformations you will also find codeless
 #  
 #### SessionID: 99179
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, ETL, SSIS, EDW
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
@@ -285,7 +286,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, 
 #  
 #### SessionID: 99208
 # OH22 - Data Quality in Action
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, ETL, SSIS, EDW
 ## Speaker: Tillmann Eitelberg
 ## Title: OH22 - Data Quality in Action
@@ -294,7 +295,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, 
 #  
 #### SessionID: 99224
 # VMWare - Virtualizing SQL Server on vSphere
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBAdmin: Administration, Deploy, Manage, Repair, Server and Database Configuration, HA/DR
 ## Speaker: Brandon Leach
 ## Title: VMWare - Virtualizing SQL Server on vSphere
@@ -303,7 +304,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBAdmin: Administration
 #  
 #### SessionID: 99265
 # Marquam - How to Make Beautiful Dashboards in Power BI
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Design: Delivery: Power BI, SSRS, Visualization
 ## Speaker: Jackie Wilushewski
 ## Title: Marquam - How to Make Beautiful Dashboards in Power BI
@@ -312,7 +313,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Design: Delivery: Po
 #  
 #### SessionID: 99278
 # Becoming Data-Driven with Snowflake
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, ETL, SSIS, EDW
 ## Speaker: Brian Whittington
 ## Title: Becoming Data-Driven with Snowflake
@@ -330,7 +331,7 @@ You will also learn:
 #  
 #### SessionID: 99496
 # Power BI - Ask Microsoft Anything
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Design: Delivery: Power BI, SSRS, Visualization
 ## Speaker: Chris Finlan
 ## Title: Power BI - Ask Microsoft Anything
@@ -339,7 +340,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Design: Delivery: Po
 #  
 #### SessionID: 99549
 # Interject - Are you prepping for the Data Apocalypse?
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Data Science: Analytics; Machine Learning, Python,  R, R Server, R Services, etc.
 ## Speaker: Elliott Whitling
 ## Title: Interject - Are you prepping for the Data Apocalypse?
@@ -348,7 +349,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Data Science: Analytics
 #  
 #### SessionID: 99550
 # Talend - Delivering Trusted Data at Speed
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, ETL, SSIS, EDW
 ## Speaker: Karan Kumar
 ## Title: Talend - Delivering Trusted Data at Speed
@@ -366,7 +367,7 @@ Talend Data Fabric enables customers to deliver trusted data at speed, providing
 #  
 #### SessionID: 96155
 # Back to the Future with Temporal Tables
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBDev: Development, Tools, Scalability, Query Tuning and Indexing
 ## Speaker: Randolph West
 ## Title: Back to the Future with Temporal Tables
@@ -375,7 +376,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBDev: Development, Too
 #  
 #### SessionID: 96187
 # Introduction to AI
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Data Science: Analytics; Machine Learning, Python,  R, R Server, R Services, etc.
 ## Speaker: Melody Zacharias
 ## Title: Introduction to AI
@@ -384,7 +385,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Data Science: Analytics
 #  
 #### SessionID: 96219
 # Introduction to GitHub
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBDev: Development, Tools, Scalability, Query Tuning and Indexing
 ## Speaker: Joshua Higginbotham
 ## Title: Introduction to GitHub
@@ -397,7 +398,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBDev: Development, Too
 #  
 #### SessionID: 96320
 # What is Power BI?
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Design: Delivery: Power BI, SSRS, Visualization
 ## Speaker: Angela Henry
 ## Title: What is Power BI?
@@ -406,7 +407,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Design: Delivery: Po
 #  
 #### SessionID: 96336
 # SQL Server Management Studio - Beyond the basics
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Essentials: SQL Basics: Object/Data types, Best Practices, Query Plans, Indexing, Maintenance, SSMS/SQLOps/SSDT tips
 ## Speaker: Adrian Mee
 ## Title: SQL Server Management Studio - Beyond the basics
@@ -417,7 +418,7 @@ In this session, I will take a fresh install of SSMS and step through customizin
 #  
 #### SessionID: 96830
 # Get Faster Queries with Better Statistics Management
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBAdmin: Administration, Deploy, Manage, Repair, Server and Database Configuration, HA/DR
 ## Speaker: Vern Rabe
 ## Title: Get Faster Queries with Better Statistics Management
@@ -427,7 +428,7 @@ In this session we’ll look into why statistics, and specifically the histogram
 #  
 #### SessionID: 98192
 # Continuous Intelligence... Is it all about automation?
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DevOps: Agile Processes between Dev and Ops
 ## Speaker: Gabi Münster
 ## Title: Continuous Intelligence... Is it all about automation?
@@ -438,7 +439,7 @@ BI offers some special challenges for CI processes that we want to discuss durin
 #  
 #### SessionID: 99551
 # Code Your Report Environment
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, ETL, SSIS, EDW
 ## Speaker: Frank Geisler
 ## Title: Code Your Report Environment
@@ -447,7 +448,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, 
 #  
 #### SessionID: 99586
 # Lightning Talks Session 3
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Cloud Data: Architecture, Platform, Managed vs. VM, CosmosDb, Azure, AWS, etc.
 ## Speaker: Michael Wall
 ## Title: Lightning Talks Session 3
@@ -459,7 +460,7 @@ Josh Smith: What Use is Data Catalog?
 #  
 #### SessionID: 96158
 # That's So Metadata: Discover Your Database From The Inside
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBDev: Development, Tools, Scalability, Query Tuning and Indexing
 ## Speaker: Rob Volk
 ## Title: That's So Metadata: Discover Your Database From The Inside
@@ -477,7 +478,7 @@ We will also cover the official Microsoft documentation on these features and ot
 #  
 #### SessionID: 96174
 # Reporting Services Tips, Tricks, Templates and Considerations
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, ETL, SSIS, EDW
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services Tips, Tricks, Templates and Considerations
@@ -489,7 +490,7 @@ Experience managing SSRS and ideally an understanding of the ReportServer databa
 #  
 #### SessionID: 96309
 # SQL on Docker 101
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBAdmin: Administration, Deploy, Manage, Repair, Server and Database Configuration, HA/DR
 ## Speaker: Frank Geisler
 ## Title: SQL on Docker 101
@@ -498,7 +499,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBAdmin: Administration
 #  
 #### SessionID: 96315
 # Protect your Data by Design: Creating a Data Masking Strategy
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DevOps: Agile Processes between Dev and Ops
 ## Speaker: Christopher Unwin
 ## Title: Protect your Data by Design: Creating a Data Masking Strategy
@@ -507,7 +508,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DevOps: Agile Processes
 #  
 #### SessionID: 96385
 # Enterprise Power BI - Development Lifecycle [VIDEO]
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Design: Delivery: Power BI, SSRS, Visualization
 ## Speaker: Asgeir Gunnarsson
 ## Title: Enterprise Power BI - Development Lifecycle [VIDEO]
@@ -520,7 +521,7 @@ In this session we will look at what Power BI has to offer when it comes to deve
 #  
 #### SessionID: 96556
 # Locks?  We don't need no stinkin' locks!
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Essentials: SQL Basics: Object/Data types, Best Practices, Query Plans, Indexing, Maintenance, SSMS/SQLOps/SSDT tips
 ## Speaker: Randy Knight
 ## Title: Locks?  We don't need no stinkin' locks!
@@ -531,7 +532,7 @@ In this session targeted at the accidental or new DBA, we will walk through each
 #  
 #### SessionID: 98169
 # Intro to Azure Data Studio
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Essentials: SQL Basics: Object/Data types, Best Practices, Query Plans, Indexing, Maintenance, SSMS/SQLOps/SSDT tips
 ## Speaker: Heidi Hasting
 ## Title: Intro to Azure Data Studio
@@ -546,7 +547,7 @@ Level: Beginner Level 100
 #  
 #### SessionID: 98228
 # Theory Driven Data Science: Cyber-security Improvement using SQL, R and machine learning [Video]
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Data Science: Analytics; Machine Learning, Python,  R, R Server, R Services, etc.
 ## Speaker: Michael Curry
 ## Title: Theory Driven Data Science: Cyber-security Improvement using SQL, R and machine learning [Video]
@@ -555,7 +556,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Data Science: Analytics
 #  
 #### SessionID: 99587
 # Lightning Talks - Session 4
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Professional Development: Career, Skills, Interviewing, Managing, WIT
 ## Speaker: Michael Wall
 ## Title: Lightning Talks - Session 4
@@ -567,7 +568,7 @@ Jessica Aguilar: The Art of Documentation
 #  
 #### SessionID: 96159
 # Encrypting Data Within SQL Server
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBDev: Development, Tools, Scalability, Query Tuning and Indexing
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data Within SQL Server
@@ -580,7 +581,7 @@ You will leave this session with a deeper understanding about SQL Server encrypt
 #  
 #### SessionID: 96259
 # Power BI: From Zero to 101
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Design: Delivery: Power BI, SSRS, Visualization
 ## Speaker: Slava Murygin
 ## Title: Power BI: From Zero to 101
@@ -596,7 +597,7 @@ After this session you will be really able to work with Power BI on your own.
 #  
 #### SessionID: 96284
 # Mastering your Resume  Interview: Tips to Get Hired
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Professional Development: Career, Skills, Interviewing, Managing, WIT
 ## Speaker: Christine Assaf
 ## Title: Mastering your Resume  Interview: Tips to Get Hired
@@ -605,7 +606,7 @@ Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 96339
 # Azure SQL Database Edge - Tiny but mighty
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: Cloud Data: Architecture, Platform, Managed vs. VM, CosmosDb, Azure, AWS, etc.
 ## Speaker: Julie Koesmarno
 ## Title: Azure SQL Database Edge - Tiny but mighty
@@ -616,7 +617,7 @@ Running on Arm and x64 architecture with a reduced footprint, the proven perform
 #  
 #### SessionID: 96344
 # What is DevOps and Why Should DBAs Care? [VIDEO]
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DevOps: Agile Processes between Dev and Ops
 ## Speaker: Kathi Kellenberger
 ## Title: What is DevOps and Why Should DBAs Care? [VIDEO]
@@ -626,7 +627,7 @@ Attend this session to learn how DevOps is changing the DBAs world for the bette
 #  
 #### SessionID: 96347
 # Inside the Query Store. What Knowledge can You Gain?
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBDev: Development, Tools, Scalability, Query Tuning and Indexing
 ## Speaker: Janis Griffin
 ## Title: Inside the Query Store. What Knowledge can You Gain?
@@ -641,7 +642,7 @@ About the new adaptive query processing features and SQL Operation Studio
 #  
 #### SessionID: 96683
 # Enterprise Row Level Security in SQL Server and Power BI  [VIDEO]
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Design: Delivery: Power BI, SSRS, Visualization
 ## Speaker: Jamey Johnston
 ## Title: Enterprise Row Level Security in SQL Server and Power BI  [VIDEO]
@@ -652,7 +653,7 @@ Attendees will leave with a complete working demo they can take to their work an
 #  
 #### SessionID: 96873
 # Essential Linux skills for SQL Server DBAs
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: DBAdmin: Administration, Deploy, Manage, Repair, Server and Database Configuration, HA/DR
 ## Speaker: Hamish Watson
 ## Title: Essential Linux skills for SQL Server DBAs
@@ -667,7 +668,7 @@ This session will help you understand the basics and will present the exciting f
 #  
 #### SessionID: 99588
 # Lightning Talks - Session 5
-#### [Back to calendar](#SQLSaturday-#920-Oregon-2019)
+#### [Back to calendar](#nr-920)
 Event Date: 02-11-2019 - Session time: 16:15:00 - Track: BI Arch/Admin: Design, ETL, SSIS, EDW
 ## Speaker: Michael Wall
 ## Title: Lightning Talks - Session 5

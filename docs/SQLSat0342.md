@@ -1,3 +1,4 @@
+#### Nr: 342
 #### [Back to Main list](index.md)
 # SQLSaturday #342 - Mobile 2014
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10788
 # The Binary Language of Music
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Brian Rigsby
 ## Title: The Binary Language of Music
@@ -34,7 +35,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 12183
 # Aspect Oriented Programming
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Daniel Rosales
 ## Title: Aspect Oriented Programming
@@ -43,7 +44,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14577
 # Data Warehouse Indexes
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Glenda Gable
 ## Title: Data Warehouse Indexes
@@ -52,7 +53,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19839
 # SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Matthew Roberts
 ## Title: SQL Server Internals
@@ -61,7 +62,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20707
 # Learn PowerShell or Die! for the DBA
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mike Robbins
 ## Title: Learn PowerShell or Die! for the DBA
@@ -70,7 +71,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20708
 # What’s New in PowerShell Version 5?
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mike Robbins
 ## Title: What’s New in PowerShell Version 5?
@@ -79,7 +80,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21249
 # Fundamentals of Disaster Planning  Recovery
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Michael Viron
 ## Title: Fundamentals of Disaster Planning  Recovery
@@ -88,7 +89,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21250
 # Lessons Learned from Starting Software Development Projects
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Michael Viron
 ## Title: Lessons Learned from Starting Software Development Projects
@@ -97,7 +98,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 22745
 # Microsoft Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ryan Duclos
 ## Title: Microsoft Azure SQL Database
@@ -108,7 +109,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22747
 # *** Reporting Services Support /Tips/Tricks ***
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ryan Duclos
 ## Title: *** Reporting Services Support /Tips/Tricks ***
@@ -119,7 +120,7 @@ If you don't have any reporting issues, I'll have a few reports to show you. The
 #  
 #### SessionID: 23424
 # Managing Access Control with PowerShell
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Rohn Edwards
 ## Title: Managing Access Control with PowerShell
@@ -128,7 +129,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 25850
 # The Elephant in the Room; A DBA's Guide to Hadoop 
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Stuart Ainsworth
 ## Title: The Elephant in the Room; A DBA's Guide to Hadoop 
@@ -143,7 +144,7 @@ https://twitter.com/codegumbo
 #  
 #### SessionID: 25851
 # Managing a Technical Team: Lessons Learned
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Stuart Ainsworth
 ## Title: Managing a Technical Team: Lessons Learned
@@ -152,7 +153,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 25852
 # What's in your toolbelt?
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Stuart Ainsworth
 ## Title: What's in your toolbelt?
@@ -161,7 +162,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 25924
 # Windows Server 2012 R2 High Availability for SQL Server
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Sven Aelterman
 ## Title: Windows Server 2012 R2 High Availability for SQL Server
@@ -170,7 +171,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 28162
 # Design and Implement BI like Edison! 
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI like Edison! 
@@ -179,7 +180,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28164
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -188,7 +189,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 9730
 # Zero to Hero with PowerShell and SQL Server in 1 Session
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Robert Cain
 ## Title: Zero to Hero with PowerShell and SQL Server in 1 Session
@@ -202,7 +203,7 @@ Don't be left behind, learn how to leverage the power of PowerShell in your SQL 
 #  
 #### SessionID: 9732
 # Introducing the SSAS 2012 BI Semantic Model, aka Tabular
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Robert Cain
 ## Title: Introducing the SSAS 2012 BI Semantic Model, aka Tabular
@@ -211,7 +212,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9733
 # Everything You Ever Knew About SSIS Is Null and Void
-#### [Back to calendar](#SQLSaturday-#342-Mobile-2014)
+#### [Back to calendar](#nr-342)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Robert Cain
 ## Title: Everything You Ever Knew About SSIS Is Null and Void

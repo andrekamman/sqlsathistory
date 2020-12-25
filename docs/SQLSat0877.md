@@ -1,3 +1,4 @@
+#### Nr: 877
 #### [Back to Main list](index.md)
 # SQLSaturday #877 - Boston 2019
 Start Time (24h)|Speaker|Track|Title
@@ -48,7 +49,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 98392
 # VMware Technologies and Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 ## Speaker: Andrew Nielsen
 ## Title: VMware Technologies and Microsoft SQL Server
@@ -57,7 +58,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 #  
 #### SessionID: 91605
 # All About Temporary Objects
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Edward Pollack
 ## Title: All About Temporary Objects
@@ -68,7 +69,7 @@ In this session, we will delve into temporary tables, table variables, and memor
 #  
 #### SessionID: 91850
 # Azure SQL Managed Instances - A *mostly* full-featured SQL Server in the Cloud
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Chris Seferlis
 ## Title: Azure SQL Managed Instances - A *mostly* full-featured SQL Server in the Cloud
@@ -77,7 +78,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 #  
 #### SessionID: 94857
 # Back to the Basics: T-SQL 101
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Deborah Melkin
 ## Title: Back to the Basics: T-SQL 101
@@ -88,7 +89,7 @@ This session is designed for the junior DBA or developer who is looking for a be
 #  
 #### SessionID: 95522
 # Introduction To SQL Server In Containers
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Grant Fritchey
 ## Title: Introduction To SQL Server In Containers
@@ -97,7 +98,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 95669
 # Demystifying Always On Availability Groups
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Allan Hirt
 ## Title: Demystifying Always On Availability Groups
@@ -106,7 +107,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 #  
 #### SessionID: 96139
 # Will Query Store fix all my Performance Issues?
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Surbhi Pokharna
 ## Title: Will Query Store fix all my Performance Issues?
@@ -115,7 +116,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 #  
 #### SessionID: 96144
 # SQL Server Take Over:  Establishing a Baseline
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Lowry Kozlowski
 ## Title: SQL Server Take Over:  Establishing a Baseline
@@ -130,7 +131,7 @@ The server is running slowly... or is it? Slow compared to what?  Before you be
 #  
 #### SessionID: 91608
 # Advanced T-SQL Development with latest features.
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Alex Grinberg
 ## Title: Advanced T-SQL Development with latest features.
@@ -139,7 +140,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 93215
 # SSIS and Containers
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Andy Leonard
 ## Title: SSIS and Containers
@@ -148,7 +149,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 #  
 #### SessionID: 95569
 # Journey from Software Developer to AI Developer
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Rahat Yasir
 ## Title: Journey from Software Developer to AI Developer
@@ -157,7 +158,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 95925
 # Keys to a Healthy Relationship with SQL Server
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Andy Levy
 ## Title: Keys to a Healthy Relationship with SQL Server
@@ -168,7 +169,7 @@ In this talk designed for application and database developers, we’ll talk abou
 #  
 #### SessionID: 96080
 # Running Azure SQL Database Securely
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Bill Wilder
 ## Title: Running Azure SQL Database Securely
@@ -183,7 +184,7 @@ This talk assumes you are already familiar with SQL Server or another enterprise
 #  
 #### SessionID: 96092
 # Add Time Intelligence to Power BI
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Analytics/BI
 ## Speaker: Sunil Kadimdiwan
 ## Title: Add Time Intelligence to Power BI
@@ -196,7 +197,7 @@ questions.
 #  
 #### SessionID: 96140
 # Should This Be Normalized? When Database Normalization Seems Abnormal
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Chris Voss
 ## Title: Should This Be Normalized? When Database Normalization Seems Abnormal
@@ -205,7 +206,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 96764
 # Supercharge your ETL Development with Advanced SSIS Components
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 ## Speaker: Daniel Cai
 ## Title: Supercharge your ETL Development with Advanced SSIS Components
@@ -218,7 +219,7 @@ In additional to performing advanced transformations you will also find codeless
 #  
 #### SessionID: 97993
 # Running Windows and SQL Workloads on Google Cloud Platform
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 ## Speaker: Jay Rajendran
 ## Title: Running Windows and SQL Workloads on Google Cloud Platform
@@ -227,7 +228,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 #  
 #### SessionID: 97997
 # Women-In-Technology (Models and Mentors)
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 ## Speaker: Deborah Melkin
 ## Title: Women-In-Technology (Models and Mentors)
@@ -236,7 +237,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 #  
 #### SessionID: 98356
 # Going Beyond Monitoring With SentryOne
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 ## Speaker: Andy Yun
 ## Title: Going Beyond Monitoring With SentryOne
@@ -245,7 +246,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 #  
 #### SessionID: 98382
 # Successfully Virtualizing SQL Server on vSphere: Doing It Right
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 ## Speaker: Oleg Ulyanov
 ## Title: Successfully Virtualizing SQL Server on vSphere: Doing It Right
@@ -260,7 +261,7 @@ It all that you want to know about virtual platform configuration but hesitated 
 #  
 #### SessionID: 98500
 # SQL 2019 new features
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 ## Speaker: George Walters
 ## Title: SQL 2019 new features
@@ -269,7 +270,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 #  
 #### SessionID: 98548
 # Increasing SQL Server Availability Options Using SIOS DataKeeper
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 ## Speaker: Allan Hirt
 ## Title: Increasing SQL Server Availability Options Using SIOS DataKeeper
@@ -278,7 +279,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 #  
 #### SessionID: 93553
 # We Need To Talk Security
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Joe Gavin
 ## Title: We Need To Talk Security
@@ -291,7 +292,7 @@ We'll take a high level look at security starting with physical security, see th
 #  
 #### SessionID: 93751
 # Unexplored Features of SQL Server
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Hasan Savran
 ## Title: Unexplored Features of SQL Server
@@ -301,7 +302,7 @@ We will start with exploring the hierarchyid, geometry and geography data types 
 #  
 #### SessionID: 94843
 # Data Science 101: An Introduction to Data Science Using Python
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Analytics/BI
 ## Speaker: Ganesh Lohani
 ## Title: Data Science 101: An Introduction to Data Science Using Python
@@ -310,7 +311,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Analytics/BI
 #  
 #### SessionID: 95500
 # Let's Dive Into SQL Server I/O To Improve T-SQL Performance
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Andy Yun
 ## Title: Let's Dive Into SQL Server I/O To Improve T-SQL Performance
@@ -323,7 +324,7 @@ When you leave, you'll be able to optimize your T-SQL reduce I/O and improve per
 #  
 #### SessionID: 96102
 # Why should I care about ... the plan cache?
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
@@ -334,7 +335,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #  
 #### SessionID: 96425
 # dbatools - A PowerShell Toolkit for the DBA
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Jack Corbett
 ## Title: dbatools - A PowerShell Toolkit for the DBA
@@ -344,7 +345,7 @@ Prerequisites: Basic PowerShell knowledge. Some SQL Server Administration experi
 #  
 #### SessionID: 98023
 # Design for Flexibility and performance - ETL Patterns with SSIS and Beyond
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Daniel Cai
 ## Title: Design for Flexibility and performance - ETL Patterns with SSIS and Beyond
@@ -353,7 +354,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 #  
 #### SessionID: 91659
 # What's New in SQL Server 2019: 100% Demos
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Brent Ozar
 ## Title: What's New in SQL Server 2019: 100% Demos
@@ -366,7 +367,7 @@ No slides here - not even an about-me slide. Let's dive into some queries!
 #  
 #### SessionID: 93279
 # Approaching Zero:  Minimizing Downtime During Deployments
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Kevin Feasel
 ## Title: Approaching Zero:  Minimizing Downtime During Deployments
@@ -375,7 +376,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 93658
 # Become a T-SQL Pivoting Ninja in 59.5 Minutes Or Less
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Analytics/BI
 ## Speaker: Peter Doyle
 ## Title: Become a T-SQL Pivoting Ninja in 59.5 Minutes Or Less
@@ -389,7 +390,7 @@ Come join me, and by the end of this session, you will have the knowledge to lev
 #  
 #### SessionID: 93684
 # Become the Most Valuable Player: Soft Skills for the Hard Market
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Angela Tidwell
 ## Title: Become the Most Valuable Player: Soft Skills for the Hard Market
@@ -398,7 +399,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 94526
 # Organizational Security  Compliance with SQL 2012 through 2016/2017
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 ## Speaker: George Walters
 ## Title: Organizational Security  Compliance with SQL 2012 through 2016/2017
@@ -407,7 +408,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 #  
 #### SessionID: 94565
 # Introduction to GitHub
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Joshua Higginbotham
 ## Title: Introduction to GitHub
@@ -420,7 +421,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 96004
 # Cosmic DBA - Cosmos DB for SQL Server Admins and Developers
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: MIKE DONNELLY
 ## Title: Cosmic DBA - Cosmos DB for SQL Server Admins and Developers
@@ -431,7 +432,7 @@ This session will include a quick outline of Cosmos DB. Then it will move on to 
 #  
 #### SessionID: 91736
 # Upgrading SQL Server - Prepare for Success!
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Mike Walsh
 ## Title: Upgrading SQL Server - Prepare for Success!
@@ -446,7 +447,7 @@ Come on! Ditch those SQL Server 2008, 2012, and 2014 instances! Also, yes, we'll
 #  
 #### SessionID: 92341
 # CYA for the DBA
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Matthew Anderson
 ## Title: CYA for the DBA
@@ -457,7 +458,7 @@ I have not always trusted others to be able to restore a machine. This talk walk
 #  
 #### SessionID: 93476
 # Persistent Memory and Hybrid Buffer Pool - The good, bad and ugly
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Thomas Grohser
 ## Title: Persistent Memory and Hybrid Buffer Pool - The good, bad and ugly
@@ -466,7 +467,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 #  
 #### SessionID: 95547
 # Introduction into SQL Server 2019 Big Data Cluster
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Analytics/BI
 ## Speaker: Sergiy Lunyakin
 ## Title: Introduction into SQL Server 2019 Big Data Cluster
@@ -476,7 +477,7 @@ Join me in this session and I show you how it is easy to deploy this cluster and
 #  
 #### SessionID: 95570
 # What Is Clogging Your Database Performance?
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 ## Speaker: Eddy Djaja
 ## Title: What Is Clogging Your Database Performance?
@@ -485,7 +486,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 #  
 #### SessionID: 95698
 # How to audit and prevent unwanted user actions.
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: John Miner
 ## Title: How to audit and prevent unwanted user actions.
@@ -508,7 +509,7 @@ Coverage:
 #  
 #### SessionID: 96721
 # Data Pipeline Best Practices for an Increasingly Cloudy World
-#### [Back to calendar](#SQLSaturday-#877-Boston-2019)
+#### [Back to calendar](#nr-877)
 Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Adam Machanic
 ## Title: Data Pipeline Best Practices for an Increasingly Cloudy World

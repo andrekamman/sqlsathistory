@@ -1,3 +1,4 @@
+#### Nr: 736
 #### [Back to Main list](index.md)
 # SQLSaturday #736 - Columbus 2018
 Start Time (24h)|Speaker|Track|Title
@@ -49,7 +50,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 72151
 # Learn History from Temporal Tables
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: Learn History from Temporal Tables
@@ -58,7 +59,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 72264
 # Applying Forensic Accounting Techniques Using SQL And R
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Applying Forensic Accounting Techniques Using SQL And R
@@ -67,7 +68,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 77113
 # Extended Events: What are they and How do I use them
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
@@ -76,7 +77,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 77323
 # Little and Large - Cubes to Scale
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: George Bryant
 ## Title: Little and Large - Cubes to Scale
@@ -85,7 +86,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 80526
 # Moving Past Imposter Syndrome
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Wendy Pastrick
 ## Title: Moving Past Imposter Syndrome
@@ -94,7 +95,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 80675
 # Maintain SQL Server Performance Baseline with PowerShell
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Maintain SQL Server Performance Baseline with PowerShell
@@ -103,7 +104,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83830
 # Temporal Tables in SQL Server 2016 and 2017
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Brian Carrig
 ## Title: Temporal Tables in SQL Server 2016 and 2017
@@ -112,7 +113,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 71925
 # Getting started with SQL Azure Database: What you need to know
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Getting started with SQL Azure Database: What you need to know
@@ -123,7 +124,7 @@ By the end of this presentation, you’ll understand if Azure SQL Database is th
 #  
 #### SessionID: 71944
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -136,7 +137,7 @@ Instead of focusing on syntax, the session will plunge straight into examples an
 #  
 #### SessionID: 74000
 # Populating a Data Warehouse with SSIS and Biml Patterns
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jim Miller
 ## Title: Populating a Data Warehouse with SSIS and Biml Patterns
@@ -154,7 +155,7 @@ Attend to see how Biml can revolutionize your SSIS development!
 #  
 #### SessionID: 81958
 # SQL Injection Attacks: Are Your Queries Secure?
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Bert Wagner
 ## Title: SQL Injection Attacks: Are Your Queries Secure?
@@ -167,7 +168,7 @@ If you ever write or maintain dynamic SQL queries, or work with developers who d
 #  
 #### SessionID: 83106
 # Analyzing Your Workload with Query Store
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Erin Stellato
 ## Title: Analyzing Your Workload with Query Store
@@ -178,7 +179,7 @@ Lastly, we'll mine the data in Query Store, and mining is more than just finding
 #  
 #### SessionID: 83831
 # The Case for Change: Identifying and Remedying Bad Code
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Amy Herold
 ## Title: The Case for Change: Identifying and Remedying Bad Code
@@ -189,7 +190,7 @@ How do you capture those bad queries? When you have this data what do you look a
 #  
 #### SessionID: 82614
 # Is My Application Bias Showing?
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Rie Irish
 ## Title: Is My Application Bias Showing?
@@ -200,7 +201,7 @@ Learn how to identify bias when it seeps in, how to code to be inclusive instead
 #  
 #### SessionID: 82712
 # (Not So) Accidental Personal Branding
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Cassandra Faris
 ## Title: (Not So) Accidental Personal Branding
@@ -209,7 +210,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 83086
 # Data Compression: Squeeze Out Some Free Gains
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jess Pomfret
 ## Title: Data Compression: Squeeze Out Some Free Gains
@@ -218,7 +219,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83139
 # Data Science in Reverse: Creating Credible Fake Data Sets
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Britton Gray
 ## Title: Data Science in Reverse: Creating Credible Fake Data Sets
@@ -227,7 +228,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 83143
 # Azure Managed Instance: Reducing Maintenance Costs While Making Migration Simple
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Frank Gill
 ## Title: Azure Managed Instance: Reducing Maintenance Costs While Making Migration Simple
@@ -236,7 +237,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 83832
 # Detecting and Capturing Change for Data Warehousing
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Hyde
 ## Title: Detecting and Capturing Change for Data Warehousing
@@ -247,7 +248,7 @@ Attendees will gain a full understanding of the pros and cons of each of these s
 #  
 #### SessionID: 84805
 # Rubrik - Sponsor Session
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Other
 ## Speaker: David Maxwell
 ## Title: Rubrik - Sponsor Session
@@ -256,7 +257,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 84806
 # Product Demonstration by Quest Software
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Other
 ## Speaker: David Maxwell
 ## Title: Product Demonstration by Quest Software
@@ -265,7 +266,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 84828
 # Cardinal Solutions Sponsor Session
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Other
 ## Speaker: David Maxwell
 ## Title: Cardinal Solutions Sponsor Session
@@ -274,7 +275,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 71957
 # Execution Plans 101
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Eugene Meidinger
 ## Title: Execution Plans 101
@@ -283,7 +284,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 74122
 # Data To Impress Those That Sign The Checks - Azure Logic Apps, Social Media, and Sentiment Analysis
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Matt Gordon
 ## Title: Data To Impress Those That Sign The Checks - Azure Logic Apps, Social Media, and Sentiment Analysis
@@ -292,7 +293,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 74356
 # SQL on Linux and Docker 101
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Popovich Jr
 ## Title: SQL on Linux and Docker 101
@@ -301,7 +302,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 77250
 # Common SQL Server Mistakes and How to Avoid Them
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Radney
 ## Title: Common SQL Server Mistakes and How to Avoid Them
@@ -310,7 +311,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 80575
 # Implementing Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Ginger Grant
 ## Title: Implementing Python in SQL Server 2017
@@ -320,7 +321,7 @@ If you have not had a chance to review SQL Server 2017 yet, please attend to see
 #  
 #### SessionID: 80646
 # How to get your Dream Job: Resume  job hunting tips
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Andy Mallon
 ## Title: How to get your Dream Job: Resume  job hunting tips
@@ -335,7 +336,7 @@ Slides  handouts available on GitHub: http://am2.co/dream-job-ppt
 #  
 #### SessionID: 80916
 # Getting Started with Azure Data Lake Analytics (ADLA)
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Akhil Mahajan
 ## Title: Getting Started with Azure Data Lake Analytics (ADLA)
@@ -345,7 +346,7 @@ We will take a look at U-SQL, the big data language, which will empower you to l
 #  
 #### SessionID: 71923
 # The Vocabulary of Performance Tuning
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: The Vocabulary of Performance Tuning
@@ -354,7 +355,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 72265
 # Grokking the Grammar of Graphics
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Grokking the Grammar of Graphics
@@ -363,7 +364,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 75849
 # A Tour of R in the Microsoft Ecosystem
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Ryan Wade
 ## Title: A Tour of R in the Microsoft Ecosystem
@@ -374,7 +375,7 @@ In this session we will take a tour of R in the Microsoft ecosystem. We will sho
 #  
 #### SessionID: 76880
 # Screw DevOps, Let's Talk DataOps
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Screw DevOps, Let's Talk DataOps
@@ -389,7 +390,7 @@ Takeaways from this session:
 #  
 #### SessionID: 80762
 # T-SQL Window Function Performance
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Performance
@@ -398,7 +399,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 82894
 # How to win Dev and influence QA
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Elizabeth Noble
 ## Title: How to win Dev and influence QA
@@ -409,7 +410,7 @@ In this session, I will go over steps I took to improve relationships with other
 #  
 #### SessionID: 83157
 # A Deep Dive into Locking, Blocking  Latches
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gareth Swanepoel
 ## Title: A Deep Dive into Locking, Blocking  Latches
@@ -418,7 +419,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84870
 # Introduction to System Catalog Views and System Dynamic Management Views
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Luis Gonzalez
 ## Title: Introduction to System Catalog Views and System Dynamic Management Views
@@ -427,7 +428,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71970
 # Monitoring Availability Groups
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Monitoring Availability Groups
@@ -438,7 +439,7 @@ You will walk away from this session with tools you need to monitor your environ
 #  
 #### SessionID: 72011
 # Building REST API using SQL Server JSON functions
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: Building REST API using SQL Server JSON functions
@@ -447,7 +448,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 73717
 # Know different AWS Database Products - their benefits and key features
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sourav Mukherjee
 ## Title: Know different AWS Database Products - their benefits and key features
@@ -456,7 +457,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 74123
 # Where Should My Data Live (and Why)?
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Matt Gordon
 ## Title: Where Should My Data Live (and Why)?
@@ -465,7 +466,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 77489
 # That's So Metadata: Discover Your Database From the Inside
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: That's So Metadata: Discover Your Database From the Inside
@@ -483,7 +484,7 @@ We'll also demonstrate the new SQL Data Discovery/Classification and Vulnerabili
 #  
 #### SessionID: 83089
 # Getting Started with Git/GitHub
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Michael Fal
 ## Title: Getting Started with Git/GitHub
@@ -492,7 +493,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 84866
 # Improving your PowerPoint Skills
-#### [Back to calendar](#SQLSaturday-#736-Columbus-2018)
+#### [Back to calendar](#nr-736)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Evelyn Maxwell
 ## Title: Improving your PowerPoint Skills

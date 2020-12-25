@@ -1,3 +1,4 @@
+#### Nr: 891
 #### [Back to Main list](index.md)
 # SQLSaturday #891 - Los Angeles 2019
 Start Time (24h)|Speaker|Track|Title
@@ -71,7 +72,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 91847
 # Setting up a test lab with Hyper-V
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Cloud Architecture and Infrastructure
 ## Speaker: Jay Falck
 ## Title: Setting up a test lab with Hyper-V
@@ -80,7 +81,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Clou
 #  
 #### SessionID: 91882
 # Big Data - The Biggest Fad of the Decade
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Cloud Architecture and Infrastructure
 ## Speaker: Ami Levin
 ## Title: Big Data - The Biggest Fad of the Decade
@@ -100,7 +101,7 @@ In this session I will plea to your reasoning, critical thinking, and plain comm
 #  
 #### SessionID: 91944
 # Fundamentals That Will Improve Your Query Performance!
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: John Wells
 ## Title: Fundamentals That Will Improve Your Query Performance!
@@ -109,7 +110,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 92028
 # Open Source vs SQL Database Maintenance Plans
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Cloud Architecture and Infrastructure
 ## Speaker: David Lundell
 ## Title: Open Source vs SQL Database Maintenance Plans
@@ -118,7 +119,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Clou
 #  
 #### SessionID: 92954
 # Applying Forensic Accounting Techniques Using SQL and R
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: Kevin Feasel
 ## Title: Applying Forensic Accounting Techniques Using SQL and R
@@ -127,7 +128,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visu
 #  
 #### SessionID: 93080
 # Running SQL Server on AWS
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Cloud Architecture and Infrastructure
 ## Speaker: Vlad Vlasceanu
 ## Title: Running SQL Server on AWS
@@ -136,7 +137,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Clou
 #  
 #### SessionID: 93255
 # Mastering Master Data Services
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: Jeff Prom
 ## Title: Mastering Master Data Services
@@ -147,7 +148,7 @@ In this presentation we will cover MDS from start to finish including installati
 #  
 #### SessionID: 93691
 # SQL Query Foundations
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Amod Singhal
 ## Title: SQL Query Foundations
@@ -157,7 +158,7 @@ This tutorial will focus on crucial foundational knowledge needed to retrieve da
 #  
 #### SessionID: 94010
 # SSIS Basics
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Brodie Brickey
 ## Title: SSIS Basics
@@ -166,7 +167,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 91916
 # SQL DevOps Simplified with Production Databases
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Paul Stanton
 ## Title: SQL DevOps Simplified with Production Databases
@@ -175,7 +176,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 91972
 # Power BI Administration Solutions
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Brett Powell
 ## Title: Power BI Administration Solutions
@@ -184,7 +185,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 92044
 # Migrate Your Database to PostgreSQL
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Igal Sapir
 ## Title: Migrate Your Database to PostgreSQL
@@ -195,7 +196,7 @@ In this session I will cover a brief overview of Postgres, cover the benefits of
 #  
 #### SessionID: 93074
 # Why is Python in SQL Server?
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Mike Burek
 ## Title: Why is Python in SQL Server?
@@ -208,7 +209,7 @@ Come see how to use Python to import, profile, and manipulate data. We can also 
 #  
 #### SessionID: 93205
 # Designing Accessible Power BI Reports
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: Liz Amador
 ## Title: Designing Accessible Power BI Reports
@@ -217,7 +218,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visu
 #  
 #### SessionID: 93305
 # SELECT Start FROM Here: Querying for T-SQL Beginners
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Jeff Iannucci
 ## Title: SELECT Start FROM Here: Querying for T-SQL Beginners
@@ -226,7 +227,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 93331
 # Maximizing Big Data ROI via Best of Breed Technology Patterns  Practices
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Cloud Architecture and Infrastructure
 ## Speaker: Jeff Bertman
 ## Title: Maximizing Big Data ROI via Best of Breed Technology Patterns  Practices
@@ -237,7 +238,7 @@ This presentation triangulates in a holistic manner on the modern business dilem
 #  
 #### SessionID: 93645
 # Getting Started with Azure Databricks Delta
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Cloud Architecture and Infrastructure
 ## Speaker: Andrew Karcher
 ## Title: Getting Started with Azure Databricks Delta
@@ -246,7 +247,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Clou
 #  
 #### SessionID: 93878
 # Reporting Services Introduction
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services Introduction
@@ -257,7 +258,7 @@ Do you wish you could quickly and easily get some or your data into the hands of
 #  
 #### SessionID: 93893
 # SSRS - Thinking Outside the Report
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: Elaena Bakman
 ## Title: SSRS - Thinking Outside the Report
@@ -266,7 +267,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visu
 #  
 #### SessionID: 91879
 # DBA vNext
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Armando Lacerda
 ## Title: DBA vNext
@@ -279,7 +280,7 @@ In this session full of demos, we will discuss what it takes to be an all-rounde
 #  
 #### SessionID: 91880
 # Power BI Dataset Tuning
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: Armando Lacerda
 ## Title: Power BI Dataset Tuning
@@ -288,7 +289,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visu
 #  
 #### SessionID: 91968
 # Power BI Free vs. Pro vs. Premium - Understanding What Works for You!
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: DeNisha Malone
 ## Title: Power BI Free vs. Pro vs. Premium - Understanding What Works for You!
@@ -297,7 +298,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visu
 #  
 #### SessionID: 91981
 # Wacky DAX
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: Phillip Seamark
 ## Title: Wacky DAX
@@ -310,7 +311,7 @@ The session will hopefully inspire you to add some creative and exciting techniq
 #  
 #### SessionID: 91982
 # Top features of Power BI you should know
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: Suresh Datla
 ## Title: Top features of Power BI you should know
@@ -319,7 +320,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visu
 #  
 #### SessionID: 91986
 # The Mobile DBA, using Docker and Azure Data Studio to work on the go!
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Charles Embry Jr
 ## Title: The Mobile DBA, using Docker and Azure Data Studio to work on the go!
@@ -328,7 +329,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 91995
 # Encryption:  Not just for the NSA anymore
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Eric Blinn
 ## Title: Encryption:  Not just for the NSA anymore
@@ -337,7 +338,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 93647
 # Add some Spark to your Data Processing Pipeline
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Andrew Karcher
 ## Title: Add some Spark to your Data Processing Pipeline
@@ -346,7 +347,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 93849
 # [StepByStep] SQL Server on Container? What is Kubernetes?
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Cloud Architecture and Infrastructure
 ## Speaker: Simon Cho
 ## Title: [StepByStep] SQL Server on Container? What is Kubernetes?
@@ -367,7 +368,7 @@ Within this session will cover what the market demand is and what SQL server can
 #  
 #### SessionID: 93888
 # Dive into the Query Optimizer - Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer - Undocumented Insight
@@ -376,7 +377,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 94011
 # Getting Data out of Active Directory with SQL Server
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Brodie Brickey
 ## Title: Getting Data out of Active Directory with SQL Server
@@ -385,7 +386,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 94945
 # From Zero to Hero: Start Machine Learning using Azure ML studio
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Cloud Architecture and Infrastructure
 ## Speaker: Mohamed Mawla
 ## Title: From Zero to Hero: Start Machine Learning using Azure ML studio
@@ -398,7 +399,7 @@ Lots of hands-on
 #  
 #### SessionID: 95275
 # Introduction to MongoDB
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Cloud Architecture and Infrastructure
 ## Speaker: Nuri Halperin
 ## Title: Introduction to MongoDB
@@ -409,7 +410,7 @@ Along the way, we'll  cuts through some myths and misunderstandings surrounding 
 #  
 #### SessionID: 95276
 # Metadata Management and Data Governance in the World of CCPA
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: SQL Saturday in LA
 ## Title: Metadata Management and Data Governance in the World of CCPA
@@ -418,7 +419,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visu
 #  
 #### SessionID: 91877
 # CosmosDB - Understanding the main factors for successfull deployment
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Armando Lacerda
 ## Title: CosmosDB - Understanding the main factors for successfull deployment
@@ -428,7 +429,7 @@ In this session packed with demos you will see how to cross the bridge between S
 #  
 #### SessionID: 93207
 # Women in Technology (multiple speakers)
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Professional Development and Personal Branding
 ## Speaker: SQL Saturday in LA
 ## Title: Women in Technology (multiple speakers)
@@ -449,7 +450,7 @@ Stacey Broadwell
 #  
 #### SessionID: 93286
 # Don't just code it—Generate It
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Kevin Mackey
 ## Title: Don't just code it—Generate It
@@ -464,7 +465,7 @@ Generated code has systematic errors. Fix the errors at the generator. All the c
 #  
 #### SessionID: 93754
 # Why Cloud Databases like Amazon Aurora are more Scalable and Reliable
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Cloud Architecture and Infrastructure
 ## Speaker: Vlad Vlasceanu
 ## Title: Why Cloud Databases like Amazon Aurora are more Scalable and Reliable
@@ -473,7 +474,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Clou
 #  
 #### SessionID: 94044
 # Address the Elephant in Your Business
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: SQL Saturday in LA
 ## Title: Address the Elephant in Your Business
@@ -486,7 +487,7 @@ Join our lunch presentation to learn how to effectively address your elephant. W
 #  
 #### SessionID: 94047
 # Dynamic data flows in SSIS without programming
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: Steve Rezhener
 ## Title: Dynamic data flows in SSIS without programming
@@ -495,7 +496,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visu
 #  
 #### SessionID: 94469
 # SQL on Linux
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: JP Chen
 ## Title: SQL on Linux
@@ -504,7 +505,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 94493
 # A dive into Dimensional Modeling
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Soumya Banerjee
 ## Title: A dive into Dimensional Modeling
@@ -513,7 +514,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 94539
 # Virtualizing SQL Server on vSphere. Doing it Right!
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Cloud Architecture and Infrastructure
 ## Speaker: SQL Saturday in LA
 ## Title: Virtualizing SQL Server on vSphere. Doing it Right!
@@ -522,7 +523,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Clou
 #  
 #### SessionID: 94889
 # Doing Much More With Much Less: The Case for Data Warehouse Automation
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Satish Jayanthi
 ## Title: Doing Much More With Much Less: The Case for Data Warehouse Automation
@@ -533,7 +534,7 @@ Join data warehouse automation pioneer WhereScape for this presentation to learn
 #  
 #### SessionID: 94947
 # Dynamic data flows in SSIS without programming
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: SQL Saturday in LA
 ## Title: Dynamic data flows in SSIS without programming
@@ -542,7 +543,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visu
 #  
 #### SessionID: 91967
 # Tell a Story with Data in Power BI
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: DeNisha Malone
 ## Title: Tell a Story with Data in Power BI
@@ -553,7 +554,7 @@ This session will give you the steps to get the most insightful story from you d
 #  
 #### SessionID: 91980
 # The Art of Data Modelling with Analysis Services
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Phillip Seamark
 ## Title: The Art of Data Modelling with Analysis Services
@@ -564,7 +565,7 @@ This session will not only focus on the critical elements required to ensure you
 #  
 #### SessionID: 92005
 # What just happened? Creating your own real-time dashboard with Grafana, Influx, and Telegraf
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: Patrick Partin
 ## Title: What just happened? Creating your own real-time dashboard with Grafana, Influx, and Telegraf
@@ -579,7 +580,7 @@ All of these tools are completely free, and if you don't have the right monitori
 #  
 #### SessionID: 92026
 # How to Be an MVP (in Life and a Microsoft MVP)
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Professional Development and Personal Branding
 ## Speaker: David Lundell
 ## Title: How to Be an MVP (in Life and a Microsoft MVP)
@@ -588,7 +589,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 92955
 # SQL Server  Machine Learning Services in Production
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Cloud Architecture and Infrastructure
 ## Speaker: Kevin Feasel
 ## Title: SQL Server  Machine Learning Services in Production
@@ -597,7 +598,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Clou
 #  
 #### SessionID: 93013
 # ElasticSearch - A look at the ELK stack and visualizing data with Canvas
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Cloud Architecture and Infrastructure
 ## Speaker: Christopher Dobler
 ## Title: ElasticSearch - A look at the ELK stack and visualizing data with Canvas
@@ -608,7 +609,7 @@ In this talk we will cover a variety of out of the box features you get with Ela
 #  
 #### SessionID: 93285
 # Service Broker for near-real time message processing
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Kevin Mackey
 ## Title: Service Broker for near-real time message processing
@@ -619,7 +620,7 @@ In this case, see a system designed to handle 5 million varied messages an hour 
 #  
 #### SessionID: 93304
 # It's Not Your Fault, It's the SQL Server Default
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Jeff Iannucci
 ## Title: It's Not Your Fault, It's the SQL Server Default
@@ -628,7 +629,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 93879
 # Reporting Services: A Smart Migration Strategy
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services: A Smart Migration Strategy
@@ -637,7 +638,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visu
 #  
 #### SessionID: 95082
 # Job Seeker BootCamp: Resumes, Interviews  Salary Negotiation
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Professional Development and Personal Branding
 ## Speaker: Stacey Broadwell
 ## Title: Job Seeker BootCamp: Resumes, Interviews  Salary Negotiation
@@ -646,7 +647,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 91881
 # Where did I put my (primary) keys?
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Ami Levin
 ## Title: Where did I put my (primary) keys?
@@ -656,7 +657,7 @@ We will consider the benefits and challenges of using different types of keys - 
 #  
 #### SessionID: 91946
 # Simplify your Daily Tasks with DBATools!
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: John Wells
 ## Title: Simplify your Daily Tasks with DBATools!
@@ -667,7 +668,7 @@ Don’t have any experience with PowerShell? Don’t worry because you don’t h
 #  
 #### SessionID: 91985
 # Imposter Syndrome   How to work through it
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Professional Development and Personal Branding
 ## Speaker: Charles Embry Jr
 ## Title: Imposter Syndrome   How to work through it
@@ -676,7 +677,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 91993
 # I have indexes, but do I have the right indexes?
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Eric Blinn
 ## Title: I have indexes, but do I have the right indexes?
@@ -689,7 +690,7 @@ Are you using a version and edition of SQL Server is able to use these features?
 #  
 #### SessionID: 91996
 # Azure Database, Azure Virtual Machine or Azure Managed Instance? Why, when, what?
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Michelle Gutzait
 ## Title: Azure Database, Azure Virtual Machine or Azure Managed Instance? Why, when, what?
@@ -698,7 +699,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 93071
 # Columnstore Indexes for Everyone
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Mike Burek
 ## Title: Columnstore Indexes for Everyone
@@ -707,7 +708,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 93143
 # What you need to know to be Power BI Certified
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: Liz Amador
 ## Title: What you need to know to be Power BI Certified
@@ -716,7 +717,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visu
 #  
 #### SessionID: 93679
 # Make sense of real-time data using Elasticsearch
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: Arthur Gimpel
 ## Title: Make sense of real-time data using Elasticsearch
@@ -725,7 +726,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visu
 #  
 #### SessionID: 93707
 # How to screw up a Power BI implementation
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: Ben Oastler
 ## Title: How to screw up a Power BI implementation
@@ -734,7 +735,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visu
 #  
 #### SessionID: 94077
 # Data Preparation with Power BI Desktop  M – Strategy, Tactics and Tips
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Data Presentation, Visualization, and Analytics
 ## Speaker: Phil Robinson
 ## Title: Data Preparation with Power BI Desktop  M – Strategy, Tactics and Tips
@@ -744,7 +745,7 @@ In this presentation we will review traditional strategies for data cleanup, exp
 #  
 #### SessionID: 94187
 # Columnstore Index Primer
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration and Development
 ## Speaker: Sepand Gojgini
 ## Title: Columnstore Index Primer
@@ -753,7 +754,7 @@ Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 94890
 # Google Cloud Platform: Introduction
-#### [Back to calendar](#SQLSaturday-#891-Los-Angeles-2019)
+#### [Back to calendar](#nr-891)
 Event Date: 15-06-2019 - Session time: 16:00:00 - Track: Private and Public Cloud Architecture and Infrastructure
 ## Speaker: Mark Mucchetti
 ## Title: Google Cloud Platform: Introduction

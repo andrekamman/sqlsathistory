@@ -1,3 +1,4 @@
+#### Nr: 1017
 #### [Back to Main list](index.md)
 # SQLSaturday #1017 – Minnesota – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 108680
 # Big Data Clusters for the Absolute Beginner
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mohammad Darab
 ## Title: Big Data Clusters for the Absolute Beginner
@@ -51,7 +52,7 @@ Topics include:
 #  
 #### SessionID: 108695
 # Modern T-SQL for Better Performance
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: Modern T-SQL for Better Performance
@@ -62,7 +63,7 @@ Join this session to learn how this “new” T-SQL functionality can save you t
 #  
 #### SessionID: 108748
 # How to do a Complete SQL Server Assessment
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: How to do a Complete SQL Server Assessment
@@ -71,7 +72,7 @@ Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 108773
 # Intro to Power BI
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: David Patrick
 ## Title: Intro to Power BI
@@ -80,7 +81,7 @@ Event Date: 12-12-2020 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 108782
 # Achievement Unlocked: How to Get Promoted
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Dave Mattingly
 ## Title: Achievement Unlocked: How to Get Promoted
@@ -91,7 +92,7 @@ In this session, you'll learn how to promote yourself, how to speak confidently,
 #  
 #### SessionID: 108994
 # Surviving the work from home burnout
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Gilda Alvarez
 ## Title: Surviving the work from home burnout
@@ -100,7 +101,7 @@ Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 110419
 # Quest Gold Sponsor
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Other
 ## Speaker: Bo Ros
 ## Title: Quest Gold Sponsor
@@ -109,7 +110,7 @@ Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Other
 #  
 #### SessionID: 108662
 # Getting Started as a Conference Speaker
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Mark Runyon
 ## Title: Getting Started as a Conference Speaker
@@ -125,7 +126,7 @@ I'll teach you how to construct a successful talk and point out things you need 
 #  
 #### SessionID: 108676
 # Life Cycle of a Query in SQL Server
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Deepthi Goguri
 ## Title: Life Cycle of a Query in SQL Server
@@ -135,7 +136,7 @@ Deepthi will show you how the SQL engine thinks – enabling you to think like i
 #  
 #### SessionID: 108787
 # Dynamic SQL: Writing Efficient Queries on the Fly
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Edward Pollack
 ## Title: Dynamic SQL: Writing Efficient Queries on the Fly
@@ -148,7 +149,7 @@ Applications that will be demonstrated include: mapping database relationships, 
 #  
 #### SessionID: 108810
 # Eyes on the Prize:  Simple and Effective Dashboard Visualization Techniques
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Eyes on the Prize:  Simple and Effective Dashboard Visualization Techniques
@@ -157,7 +158,7 @@ Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 108875
 # Power BI Desktop and AI or “There's AI in in the Power BI Desktop?”
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Belinda Allen
 ## Title: Power BI Desktop and AI or “There's AI in in the Power BI Desktop?”
@@ -178,7 +179,7 @@ Decomposition Tree Visual
 #  
 #### SessionID: 108682
 # Magnificent 7 - Simple tricks to boost your Power BI development
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Nikola Ilic
 ## Title: Magnificent 7 - Simple tricks to boost your Power BI development
@@ -187,7 +188,7 @@ Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 108697
 # SQL Server on Containers
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christopher Wolff
 ## Title: SQL Server on Containers
@@ -196,7 +197,7 @@ Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 108722
 # I lost my job!  Now what?!?  A survival guide for the unemployed
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: I lost my job!  Now what?!?  A survival guide for the unemployed
@@ -209,7 +210,7 @@ Fortunately, unemployment is survivable.  In this session, I'll share my own exp
 #  
 #### SessionID: 108824
 # Quantum computing explained with demos!
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Information Delivery
 ## Speaker: Damian Widera
 ## Title: Quantum computing explained with demos!
@@ -228,7 +229,7 @@ I do not assume any special knowledge, but if you know basic linear algebra (mat
 #  
 #### SessionID: 109099
 # Data Engineering Brick-by-Brick: An Introduction To Azure Databricks
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Hyde
 ## Title: Data Engineering Brick-by-Brick: An Introduction To Azure Databricks
@@ -239,7 +240,7 @@ Azure Databricks provides a cloud-based Apache Spark environment that can be sca
 #  
 #### SessionID: 109105
 # SQL Development in a Developer's World
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Drew Skwiers-Koballa
 ## Title: SQL Development in a Developer's World
@@ -249,7 +250,7 @@ Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 108688
 # SQL Server Configuration with dbatools and dbachecks
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: SQL Server Configuration with dbatools and dbachecks
@@ -262,7 +263,7 @@ Attendees will see how easy it is to use PowerShell via dbatools to configure th
 #  
 #### SessionID: 108691
 # Performance Improvements in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Frank Gill
 ## Title: Performance Improvements in SQL Server 2019
@@ -271,7 +272,7 @@ Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 108715
 # Functional ETL using Python
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Joshua Higginbotham
 ## Title: Functional ETL using Python
@@ -280,7 +281,7 @@ Event Date: 12-12-2020 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 108800
 # Launch a Cost-Effective Mentoring Program
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Andrew Brobston
 ## Title: Launch a Cost-Effective Mentoring Program
@@ -301,7 +302,7 @@ Conducting this mentoring program is the most rewarding thing I have done in my 
 #  
 #### SessionID: 108847
 # What SQL Server DBAs Need to Know About Docker Containers
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Edwin M Sarmiento
 ## Title: What SQL Server DBAs Need to Know About Docker Containers
@@ -311,7 +312,7 @@ In this session, get introduced to SQL Server on containers and what you need to
 #  
 #### SessionID: 108910
 # Effective Data Warehouse Storage Patterns
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: John Miner
 ## Title: Effective Data Warehouse Storage Patterns
@@ -335,7 +336,7 @@ Techniques:
 #  
 #### SessionID: 108673
 # How Intelligent Query Processing Improves T-SQL Performance
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: How Intelligent Query Processing Improves T-SQL Performance
@@ -344,7 +345,7 @@ Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 108709
 # Optimizing Model and Dashboards using DAX Studio
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Dennes Torres
 ## Title: Optimizing Model and Dashboards using DAX Studio
@@ -355,7 +356,7 @@ Power BI has some tools to help us analyse the performance of the solution and w
 #  
 #### SessionID: 108732
 # SQL Server Database Administration for the non-DBA
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Denny Cherry
 ## Title: SQL Server Database Administration for the non-DBA
@@ -366,7 +367,7 @@ While this session won't teach you everything you need to know, it will give you
 #  
 #### SessionID: 108741
 # How to build your career
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: James Serra
 ## Title: How to build your career
@@ -379,7 +380,7 @@ Your first step to enhancing your career will be to attend this session!  Let me
 #  
 #### SessionID: 108767
 # SQL Server Security Features
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: SQL Server Security Features
@@ -388,7 +389,7 @@ Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 109113
 # Building a Security Dashboard for SQL Server
-#### [Back to calendar](#SQLSaturday-#1017-–-Minnesota-–-Virtual-2020)
+#### [Back to calendar](#nr-1017)
 Event Date: 12-12-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: Building a Security Dashboard for SQL Server

@@ -1,3 +1,4 @@
+#### Nr: 341
 #### [Back to Main list](index.md)
 # SQLSaturday #341 - Porto 2014
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11020
 # Because the world is not just relational - Intro to RavenDB
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Bruno Lopes
 ## Title: Because the world is not just relational - Intro to RavenDB
@@ -34,7 +35,7 @@ In this session we'll see the very basics of using RavenDB from a web applicatio
 #  
 #### SessionID: 11228
 # Generate SSIS packages automatically with Biml and BimlScript
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Generate SSIS packages automatically with Biml and BimlScript
@@ -43,7 +44,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 13160
 # Deadlocks. Everything that developer needs to know
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Administration/Development
 ## Speaker: Denis Reznik
 ## Title: Deadlocks. Everything that developer needs to know
@@ -52,7 +53,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Administration/Developm
 #  
 #### SessionID: 13977
 # Optimizing implementation techniques 
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Administration/Development
 ## Speaker: Etienne Lopes
 ## Title: Optimizing implementation techniques 
@@ -61,7 +62,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Administration/Developm
 #  
 #### SessionID: 14165
 # SQL Server 2014 - Novidades no Query Optimizer
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Administration/Development
 ## Speaker: Fabiano Amorim
 ## Title: SQL Server 2014 - Novidades no Query Optimizer
@@ -70,7 +71,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Administration/Developm
 #  
 #### SessionID: 15422
 # ETL Patterns with Clustered Columnstore Indexes
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Niko Neugebauer
 ## Title: ETL Patterns with Clustered Columnstore Indexes
@@ -81,7 +82,7 @@ Loading data first and then creating a Clustered Columnstore or creating Cluster
 #  
 #### SessionID: 17083
 # Modern Business Intelligence Architecture 
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: João Lopes
 ## Title: Modern Business Intelligence Architecture 
@@ -90,7 +91,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 17475
 # 10 tips everyone should know about powershell
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: José António Silva
 ## Title: 10 tips everyone should know about powershell
@@ -99,7 +100,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 19558
 # Enter the Dragon: Running SQL 2014 on Windows Server Core
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Administration/Development
 ## Speaker: Mark Broadbent
 ## Title: Enter the Dragon: Running SQL 2014 on Windows Server Core
@@ -108,7 +109,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Administration/Developm
 #  
 #### SessionID: 20041
 # Build mobile applications with Xamarin Forms
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Rui Marinho
 ## Title: Build mobile applications with Xamarin Forms
@@ -117,7 +118,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 21179
 # In-Memory OLTP for DBAs
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Administration/Development
 ## Speaker: Murilo Miranda
 ## Title: In-Memory OLTP for DBAs
@@ -127,7 +128,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Administration/Developm
 #  
 #### SessionID: 22253
 # SSISDB Catalog – Don’t be afraid
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Administration/Development
 ## Speaker: Pedro Perfeito
 ## Title: SSISDB Catalog – Don’t be afraid
@@ -136,7 +137,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Administration/Developm
 #  
 #### SessionID: 22863
 # A Tale of four wizards
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Regis Baccaro
 ## Title: A Tale of four wizards
@@ -146,7 +147,7 @@ Come and here a tale of good vs evil fought with data mash up, Power View, Power
 #  
 #### SessionID: 23494
 # Azure Machine Learning: Welcome to the future of predictive analytics
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Azure Machine Learning: Welcome to the future of predictive analytics
@@ -157,7 +158,7 @@ Come to the session and take a look of the new cloud-based machine learning plat
 #  
 #### SessionID: 23935
 # Introduction to Microsoft Azure BizTalk Services
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Sandro Pereira
 ## Title: Introduction to Microsoft Azure BizTalk Services
@@ -166,7 +167,7 @@ Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 25983
 # Web Analytics with Microsoft BI
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Tillmann Eitelberg
 ## Title: Web Analytics with Microsoft BI
@@ -177,7 +178,7 @@ You will see how to load Google Analytics data using SQL Server Integration Serv
 #  
 #### SessionID: 27248
 # Building abstract layers for data protection and business logic
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Uwe Ricken
 ## Title: Building abstract layers for data protection and business logic
@@ -188,7 +189,7 @@ This session demonstrates the protection of data by using schemata for data prot
 #  
 #### SessionID: 27481
 # Introduction to Microsoft Azure SQL Databases
-#### [Back to calendar](#SQLSaturday-#341-Porto-2014)
+#### [Back to calendar](#nr-341)
 Event Date: 18-10-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Vitor Faria Tomaz
 ## Title: Introduction to Microsoft Azure SQL Databases

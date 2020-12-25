@@ -1,3 +1,4 @@
+#### Nr: 189
 #### [Back to Main list](index.md)
 # SQLSaturday #189 - Costa Rica 2013
 Start Time (24h)|Speaker|Track|Title
@@ -28,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11176
 # SQL Server--En juego or Fuera de juego?
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Carlos L Chacon
 ## Title: SQL Server--En juego or Fuera de juego?
@@ -37,7 +38,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 11379
 # SQL Server 2012 - Data Mining
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: César Oviedo
 ## Title: SQL Server 2012 - Data Mining
@@ -46,7 +47,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 11380
 # Data Visualization: PowerView
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: César Oviedo
 ## Title: Data Visualization: PowerView
@@ -55,7 +56,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12047
 # Security in Contained Databases in SQL-Server 2012
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Carlos Rojas Vargas
 ## Title: Security in Contained Databases in SQL-Server 2012
@@ -64,7 +65,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 12851
 # SharePoint Access Services 2013 y SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Sánchez Aguilar
 ## Title: SharePoint Access Services 2013 y SQL Server 2012
@@ -73,7 +74,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12922
 # Dealing With Errors in SSIS 2012
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: David Dye
 ## Title: Dealing With Errors in SSIS 2012
@@ -82,7 +83,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 12923
 # Whats New in T-SQL With SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: David Dye
 ## Title: Whats New in T-SQL With SQL Server 2012
@@ -91,7 +92,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13618
 # Modelos de BI Tabulares
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Eduardo Castro
 ## Title: Modelos de BI Tabulares
@@ -100,7 +101,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14313
 # OLTP, OLAP, las Lenguas y paradigmas en BIDS
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Frank Quintana
 ## Title: OLTP, OLAP, las Lenguas y paradigmas en BIDS
@@ -111,7 +112,7 @@ Es prácticamente imposible explicar cada aspecto de cada una de las herramienta
 #  
 #### SessionID: 15532
 # Excel 2013 como herramienta de BI
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Juan Alvarado
 ## Title: Excel 2013 como herramienta de BI
@@ -120,7 +121,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 15533
 # Conociendo lo nuevo del Stack de BI de Microsoft
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Juan Alvarado
 ## Title: Conociendo lo nuevo del Stack de BI de Microsoft
@@ -129,7 +130,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 16360
 # Master Data Services
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jeff Prom
 ## Title: Master Data Services
@@ -141,7 +142,7 @@ add-in, security, hierarchies, views, versions, and business rules. After this s
 #  
 #### SessionID: 16361
 # Data Quality Services
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jeff Prom
 ## Title: Data Quality Services
@@ -152,7 +153,7 @@ In this session we will cover creating a knowledge base, data cleansing, data ma
 #  
 #### SessionID: 16697
 # BI en dipositivos moviles
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jesus Gil Velasco
 ## Title: BI en dipositivos moviles
@@ -162,7 +163,7 @@ Ven y aprende sobre como mostrar y como se ve tu BI en dispositivos móviles
 #  
 #### SessionID: 16759
 # Mil maneras de morir
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jesus Gil
 ## Title: Mil maneras de morir
@@ -175,7 +176,7 @@ No te pierdas esta oportunidad de saber ¿cómo puedes evitarlo?
 #  
 #### SessionID: 16944
 # Es TEMPDB, por qué es tan importante?
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Javier Loria
 ## Title: Es TEMPDB, por qué es tan importante?
@@ -184,7 +185,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22304
 # *Las mejoras + importantes en Código de SQL 2012
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ricardo Estrada
 ## Title: *Las mejoras + importantes en Código de SQL 2012
@@ -193,7 +194,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23607
 # Building a Windows 8 app from scratch (English)
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Russell Fustino
 ## Title: Building a Windows 8 app from scratch (English)
@@ -206,7 +207,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 23811
 # SQL Azure para principiantes
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Salomon Henriquez
 ## Title: SQL Azure para principiantes
@@ -215,7 +216,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 26243
 # Windowing Functions: THE Reason to Upgrade to 2012
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012
@@ -224,7 +225,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 26244
 # Transaction Log Deep Dive
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Boles
 ## Title: Transaction Log Deep Dive
@@ -233,7 +234,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27184
 # Particionamiento y BD Parciales HA para VLDB
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kenneth Urena
 ## Title: Particionamiento y BD Parciales HA para VLDB
@@ -242,7 +243,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9519
 # Creating a Custom SSIS 2012 Task
-#### [Back to calendar](#SQLSaturday-#189-Costa-Rica-2013)
+#### [Back to calendar](#nr-189)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andy Leonard
 ## Title: Creating a Custom SSIS 2012 Task

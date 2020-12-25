@@ -1,3 +1,4 @@
+#### Nr: 487
 #### [Back to Main list](index.md)
 # SQLSaturday #487 - Ottawa 2016
 Start Time (24h)|Speaker|Track|Title
@@ -15,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 41441
 # SQL Server Integration Services 2016 (SSIS) novelties and Azure Integration
-#### [Back to calendar](#SQLSaturday-#487-Ottawa-2016)
+#### [Back to calendar](#nr-487)
 Event Date: 16-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Christian Cote
 ## Title: SQL Server Integration Services 2016 (SSIS) novelties and Azure Integration
@@ -24,7 +25,7 @@ Event Date: 16-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 46185
 # SQL Server 2016 Automation with PowerShell
-#### [Back to calendar](#SQLSaturday-#487-Ottawa-2016)
+#### [Back to calendar](#nr-487)
 Event Date: 16-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Sommer
 ## Title: SQL Server 2016 Automation with PowerShell
@@ -35,7 +36,7 @@ Initially released in 2006, PowerShell has grown to become Microsoft's premier s
 #  
 #### SessionID: 42249
 # SQL Server as a Cloud Service
-#### [Back to calendar](#SQLSaturday-#487-Ottawa-2016)
+#### [Back to calendar](#nr-487)
 Event Date: 16-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warner Chaves
 ## Title: SQL Server as a Cloud Service
@@ -46,7 +47,7 @@ In this session we will do a comparison of the two most popular platforms for SQ
 #  
 #### SessionID: 44731
 # TSQL Bullet-Dodging and Spoon-bending
-#### [Back to calendar](#SQLSaturday-#487-Ottawa-2016)
+#### [Back to calendar](#nr-487)
 Event Date: 16-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Michael DeFehr
 ## Title: TSQL Bullet-Dodging and Spoon-bending
@@ -56,7 +57,7 @@ Event Date: 16-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 41419
 # DBA to Project Manager in 60 minutes flat
-#### [Back to calendar](#SQLSaturday-#487-Ottawa-2016)
+#### [Back to calendar](#nr-487)
 Event Date: 16-04-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Paresh Motiwala
 ## Title: DBA to Project Manager in 60 minutes flat
@@ -67,7 +68,7 @@ In this session we wil actually take an arbitrary application and its affiliated
 #  
 #### SessionID: 42252
 # Time to Stretch: Scaling out and in with Azure DB Elastic Scale
-#### [Back to calendar](#SQLSaturday-#487-Ottawa-2016)
+#### [Back to calendar](#nr-487)
 Event Date: 16-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warner Chaves
 ## Title: Time to Stretch: Scaling out and in with Azure DB Elastic Scale
@@ -80,7 +81,7 @@ In this session we will demo the elastic scale API, elastic db pools, elastic qu
 #  
 #### SessionID: 46476
 # Excel Power Map vs. Power BI Globe Map visualization
-#### [Back to calendar](#SQLSaturday-#487-Ottawa-2016)
+#### [Back to calendar](#nr-487)
 Event Date: 16-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Rayis Imayev
 ## Title: Excel Power Map vs. Power BI Globe Map visualization
@@ -89,7 +90,7 @@ Event Date: 16-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 47205
 # SQL Server 2016 New Features
-#### [Back to calendar](#SQLSaturday-#487-Ottawa-2016)
+#### [Back to calendar](#nr-487)
 Event Date: 16-04-2016 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Edwin M Sarmiento
 ## Title: SQL Server 2016 New Features
@@ -98,7 +99,7 @@ Event Date: 16-04-2016 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 42508
 # UFC #1433 In-Memory tables 2014 vs. 2016
-#### [Back to calendar](#SQLSaturday-#487-Ottawa-2016)
+#### [Back to calendar](#nr-487)
 Event Date: 16-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Alejandro Cordero
 ## Title: UFC #1433 In-Memory tables 2014 vs. 2016
@@ -107,7 +108,7 @@ Event Date: 16-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 44265
 # Analysis Services 2016 - Tabular Jumpstart
-#### [Back to calendar](#SQLSaturday-#487-Ottawa-2016)
+#### [Back to calendar](#nr-487)
 Event Date: 16-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Labry
 ## Title: Analysis Services 2016 - Tabular Jumpstart

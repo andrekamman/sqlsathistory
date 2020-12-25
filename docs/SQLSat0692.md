@@ -1,3 +1,4 @@
+#### Nr: 692
 #### [Back to Main list](index.md)
 # SQLSaturday #692 - Nepal 2017
 Start Time (24h)|Speaker|Track|Title
@@ -11,7 +12,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 69840
 # BI for Everyone: Why, What and How of Power BI
-#### [Back to calendar](#SQLSaturday-#692-Nepal-2017)
+#### [Back to calendar](#nr-692)
 Event Date: 23-12-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gogula Aryalingam
 ## Title: BI for Everyone: Why, What and How of Power BI
@@ -20,7 +21,7 @@ Event Date: 23-12-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 70376
 # Understanding SQL Server's transaction log and how to manage it.
-#### [Back to calendar](#SQLSaturday-#692-Nepal-2017)
+#### [Back to calendar](#nr-692)
 Event Date: 23-12-2017 - Session time: 15:45:00 - Track: Database Administration
 ## Speaker: Virendra Yaduvanshi
 ## Title: Understanding SQL Server's transaction log and how to manage it.
@@ -29,7 +30,7 @@ Event Date: 23-12-2017 - Session time: 15:45:00 - Track: Database Administration
 #  
 #### SessionID: 71121
 # Performance Tuning for the BI Professional
-#### [Back to calendar](#SQLSaturday-#692-Nepal-2017)
+#### [Back to calendar](#nr-692)
 Event Date: 23-12-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: Performance Tuning for the BI Professional
@@ -38,7 +39,7 @@ Event Date: 23-12-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 69753
 # How to Use Parameters Like a Pro and Boost Performance
-#### [Back to calendar](#SQLSaturday-#692-Nepal-2017)
+#### [Back to calendar](#nr-692)
 Event Date: 23-12-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Guy Glantser
 ## Title: How to Use Parameters Like a Pro and Boost Performance
@@ -48,7 +49,7 @@ In this session we will learn about plan caching and how the query optimizer han
 #  
 #### SessionID: 69982
 # PowerBI : Data Visualization SQL Saturday with R
-#### [Back to calendar](#SQLSaturday-#692-Nepal-2017)
+#### [Back to calendar](#nr-692)
 Event Date: 23-12-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Anil Maharjan
 ## Title: PowerBI : Data Visualization SQL Saturday with R
@@ -59,7 +60,7 @@ Overall, by using Power BI Visualization how one can find out which SQL Saturday
 #  
 #### SessionID: 71990
 # SQL Server 2016 Advanced Security
-#### [Back to calendar](#SQLSaturday-#692-Nepal-2017)
+#### [Back to calendar](#nr-692)
 Event Date: 23-12-2017 - Session time: 15:45:00 - Track: Database Administration
 ## Speaker: Shree Khanal
 ## Title: SQL Server 2016 Advanced Security

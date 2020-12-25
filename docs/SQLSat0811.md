@@ -1,3 +1,4 @@
+#### Nr: 811
 #### [Back to Main list](index.md)
 # SQLSaturday #811 - Rio de Janeiro 2018
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 85628
 # Analise de Dados com Azure Machine Learning, R e Power BI
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Orlando Gomes
 ## Title: Analise de Dados com Azure Machine Learning, R e Power BI
@@ -32,7 +33,7 @@ Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 86055
 # O que acontece por detrás dos panos quando executo minha query?
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Reginaldo Silva
 ## Title: O que acontece por detrás dos panos quando executo minha query?
@@ -41,7 +42,7 @@ Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 86094
 # Processing Real-Time Racing Telemetry with Azure Stream Analytics
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Murilo Miranda
 ## Title: Processing Real-Time Racing Telemetry with Azure Stream Analytics
@@ -50,7 +51,7 @@ Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 85574
 # SQL e Power BI. Performance no tratamento de dados
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: RUY LACERDA
 ## Title: SQL e Power BI. Performance no tratamento de dados
@@ -59,7 +60,7 @@ Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 86265
 # Implementando soluções de IA utilizando os serviços cognitvos no Azure
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Vitor Fava
 ## Title: Implementando soluções de IA utilizando os serviços cognitvos no Azure
@@ -70,7 +71,7 @@ Nesta sessão discutiremos os conceitos básicos da IA e como podemos aplicá-la
 #  
 #### SessionID: 86272
 # Arquitetura de Processo e Threads no SQL Server
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rodrigo Ribeiro Gomes
 ## Title: Arquitetura de Processo e Threads no SQL Server
@@ -79,7 +80,7 @@ Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85916
 # The Dark Side of Data
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Fernando Andreazi
 ## Title: The Dark Side of Data
@@ -92,7 +93,7 @@ Veremos nessa sessão como obter segurança no armazenamento de dados e como nov
 #  
 #### SessionID: 86304
 # Workspace memory grant deep dive!
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Fabiano Amorim
 ## Title: Workspace memory grant deep dive!
@@ -102,7 +103,7 @@ Nesta sessão, iremos analisar e entender esta área de memória com objetivo de
 #  
 #### SessionID: 86582
 # Vivendo de consultoria: Entregando muito mais com muito menos
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Caio Amante
 ## Title: Vivendo de consultoria: Entregando muito mais com muito menos
@@ -113,7 +114,7 @@ Iremos também mostrar como fazer muito mais com menos tempo. Como um profission
 #  
 #### SessionID: 85273
 # MongoDB para DBAs Relacionais - Tudo o que você sempre quis saber
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Leandro Domingues
 ## Title: MongoDB para DBAs Relacionais - Tudo o que você sempre quis saber
@@ -122,7 +123,7 @@ Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 86318
 # Internals Transaction Log using AlwaysOn
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thiago Cruz
 ## Title: Internals Transaction Log using AlwaysOn
@@ -133,7 +134,7 @@ Vamos também entender o comportamento do AG em momentos de reverting e recoveri
 #  
 #### SessionID: 86584
 # Big Data e Arquitetura Lambda
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Arthur Luz
 ## Title: Big Data e Arquitetura Lambda
@@ -142,7 +143,7 @@ Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 86266
 # Migrando seus pacotes SSIS para a nuvem com o Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Wiluey Sousa
 ## Title: Migrando seus pacotes SSIS para a nuvem com o Azure Data Factory
@@ -153,7 +154,7 @@ Também conheceremos o uso de Triggers, Pipelines e Linked Services na criação
 #  
 #### SessionID: 86270
 # Passo a passo de como fiz um Tuning em 7 queries reais de um cliente
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Fabrício Lima
 ## Title: Passo a passo de como fiz um Tuning em 7 queries reais de um cliente
@@ -162,7 +163,7 @@ Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 86581
 # Desmistificando o Big Data com Azure HDInsight + Power BI
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Paulo Ricardo Santos
 ## Title: Desmistificando o Big Data com Azure HDInsight + Power BI
@@ -171,7 +172,7 @@ Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 85549
 # Mind Map e Canvas: Elicitação e Indicadores implementando Estudo de Caso no SSIS, SSAS e Power BI
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Aislan Honorato
 ## Title: Mind Map e Canvas: Elicitação e Indicadores implementando Estudo de Caso no SSIS, SSAS e Power BI
@@ -181,7 +182,7 @@ Nest seção abordaremos os conceitos do framework de BI e apresentando na prát
 #  
 #### SessionID: 86275
 # In-Memory Deep Dive
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lucas Souza
 ## Title: In-Memory Deep Dive
@@ -190,7 +191,7 @@ Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 86276
 # 10 motivos para se preocupar com a Lei Geral de Proteção de Dados
-#### [Back to calendar](#SQLSaturday-#811-Rio-de-Janeiro-2018)
+#### [Back to calendar](#nr-811)
 Event Date: 24-11-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Danielle Monteiro
 ## Title: 10 motivos para se preocupar com a Lei Geral de Proteção de Dados

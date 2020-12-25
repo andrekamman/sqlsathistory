@@ -1,3 +1,4 @@
+#### Nr: 321
 #### [Back to Main list](index.md)
 # SQLSaturday #321 - Cairo 2014
 Start Time (24h)|Speaker|Track|Title
@@ -13,7 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 14993
 # New Hybrid Cloud Scenarios with SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#321-Cairo-2014)
+#### [Back to calendar](#nr-321)
 Event Date: 17-06-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Hisham Mortada
 ## Title: New Hybrid Cloud Scenarios with SQL Server 2014
@@ -23,7 +24,7 @@ Event Date: 17-06-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 15262
 # T-SQL Performance Guidelines for better DB stress powers
-#### [Back to calendar](#SQLSaturday-#321-Cairo-2014)
+#### [Back to calendar](#nr-321)
 Event Date: 17-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for better DB stress powers
@@ -32,7 +33,7 @@ Event Date: 17-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 #  
 #### SessionID: 15263
 # Performance dreams  wait for you at SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#321-Cairo-2014)
+#### [Back to calendar](#nr-321)
 Event Date: 17-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 ## Speaker: Shehab El-Najjar
 ## Title: Performance dreams  wait for you at SQL Server 2014
@@ -41,7 +42,7 @@ Event Date: 17-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 #  
 #### SessionID: 15439
 # BI on the cloud: Office 365 Power BI
-#### [Back to calendar](#SQLSaturday-#321-Cairo-2014)
+#### [Back to calendar](#nr-321)
 Event Date: 17-06-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Islam Elshafie
 ## Title: BI on the cloud: Office 365 Power BI
@@ -54,7 +55,7 @@ I'll be showing a live demo for a Power BI deployment on Office 365.
 #  
 #### SessionID: 21158
 # Develop your data Standards with SQL Data Quality Services
-#### [Back to calendar](#SQLSaturday-#321-Cairo-2014)
+#### [Back to calendar](#nr-321)
 Event Date: 17-06-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mohamad Tantawy, MBA, PMP, MCT
 ## Title: Develop your data Standards with SQL Data Quality Services
@@ -63,7 +64,7 @@ Event Date: 17-06-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 24414
 # Automating SQL Server with Windows PowerShell
-#### [Back to calendar](#SQLSaturday-#321-Cairo-2014)
+#### [Back to calendar](#nr-321)
 Event Date: 17-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 ## Speaker: Sherif Talaat
 ## Title: Automating SQL Server with Windows PowerShell
@@ -72,7 +73,7 @@ Event Date: 17-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 #  
 #### SessionID: 27610
 # From 0 to 100 Big data Solution End-To-End
-#### [Back to calendar](#SQLSaturday-#321-Cairo-2014)
+#### [Back to calendar](#nr-321)
 Event Date: 17-06-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Wagdy Ishac
 ## Title: From 0 to 100 Big data Solution End-To-End
@@ -81,7 +82,7 @@ Event Date: 17-06-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 9912
 # A Promise of better performance for your database
-#### [Back to calendar](#SQLSaturday-#321-Cairo-2014)
+#### [Back to calendar](#nr-321)
 Event Date: 17-06-2014 - Session time: 00:00:00 - Track: SQL 2014
 ## Speaker: Ahmed ElSangary
 ## Title: A Promise of better performance for your database

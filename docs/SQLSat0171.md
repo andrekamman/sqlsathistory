@@ -1,3 +1,4 @@
+#### Nr: 171
 #### [Back to Main list](index.md)
 # SQLSaturday #171 - Pittsburgh 2012
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11771
 # So I started this blog... now what?
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB310
 ## Speaker: Colleen Morrow
 ## Title: So I started this blog... now what?
@@ -44,7 +45,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB310
 #  
 #### SessionID: 11772
 # Searching for the Holy Grail of DDL Auditing
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB314
 ## Speaker: Colleen Morrow
 ## Title: Searching for the Holy Grail of DDL Auditing
@@ -53,7 +54,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB314
 #  
 #### SessionID: 11877
 # Getting Started with Report Services: The Setup 
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB316
 ## Speaker: Cory Stevenson
 ## Title: Getting Started with Report Services: The Setup 
@@ -65,7 +66,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB316
 #  
 #### SessionID: 12035
 # Upgrade Roadmap: Let’s delve into SQL Server 2012 
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB310
 ## Speaker: Craig Purnell
 ## Title: Upgrade Roadmap: Let’s delve into SQL Server 2012 
@@ -74,7 +75,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB310
 #  
 #### SessionID: 12902
 # Building Your First Tabular Model
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB308
 ## Speaker: Dan Clark
 ## Title: Building Your First Tabular Model
@@ -84,7 +85,7 @@ This session is designed to introduce you to the process of building a tabular m
 #  
 #### SessionID: 13046
 # Don’t Panic DBAs! Databases on VMware Made Easy
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB308
 ## Speaker: Dean Richards
 ## Title: Don’t Panic DBAs! Databases on VMware Made Easy
@@ -93,7 +94,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB308
 #  
 #### SessionID: 13229
 # Code Tuning- Introduction to Execution Plans 
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB309
 ## Speaker: Konstatin Melamud
 ## Title: Code Tuning- Introduction to Execution Plans 
@@ -102,7 +103,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB309
 #  
 #### SessionID: 13370
 # SharePoint COOP Using 2008R2 Log Shipping
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB310
 ## Speaker: Donald Scott
 ## Title: SharePoint COOP Using 2008R2 Log Shipping
@@ -111,7 +112,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB310
 #  
 #### SessionID: 13650
 # An Introduction to Master Data
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB308
 ## Speaker: Carlton Ramsey
 ## Title: An Introduction to Master Data
@@ -120,7 +121,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB308
 #  
 #### SessionID: 13651
 # How PowerShell helps me as a DBA
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB314
 ## Speaker: Carlton Ramsey
 ## Title: How PowerShell helps me as a DBA
@@ -129,7 +130,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB314
 #  
 #### SessionID: 13752
 # MicroORMs – Keeping Your DBA Happy
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB310
 ## Speaker: Eric Kepes
 ## Title: MicroORMs – Keeping Your DBA Happy
@@ -138,7 +139,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB310
 #  
 #### SessionID: 15503
 # Creating a Metadata Mart w/ SSIS - Data Governance
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB308
 ## Speaker: Ira Warren
 ## Title: Creating a Metadata Mart w/ SSIS - Data Governance
@@ -147,7 +148,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB308
 #  
 #### SessionID: 16031
 # Full-Text Search, it's not just for documents
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB309
 ## Speaker: Jay Holliday
 ## Title: Full-Text Search, it's not just for documents
@@ -156,7 +157,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB309
 #  
 #### SessionID: 16174
 # SQL 2012 -- All About HA and DR
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB314
 ## Speaker: Joseph D'Antoni
 ## Title: SQL 2012 -- All About HA and DR
@@ -165,7 +166,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB314
 #  
 #### SessionID: 17699
 # Performance Tuning for Pirates
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB314
 ## Speaker: John Sterrett
 ## Title: Performance Tuning for Pirates
@@ -175,7 +176,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB314
 #  
 #### SessionID: 19875
 # Communicate for Great Good!
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB309
 ## Speaker: Matt Velic
 ## Title: Communicate for Great Good!
@@ -184,7 +185,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB309
 #  
 #### SessionID: 20043
 # Before You Optimize: Understanding Execution Plans
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB309
 ## Speaker: Tim Corey
 ## Title: Before You Optimize: Understanding Execution Plans
@@ -193,7 +194,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB309
 #  
 #### SessionID: 20561
 # Defy the Defaults!
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB314
 ## Speaker: Mike Hillwig
 ## Title: Defy the Defaults!
@@ -202,7 +203,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB314
 #  
 #### SessionID: 20562
 # Seven SQL Agent Jobs You Should be Running
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB314
 ## Speaker: Mike Hillwig
 ## Title: Seven SQL Agent Jobs You Should be Running
@@ -215,7 +216,7 @@ You'll learn how to implement seven simple scripts that perk their ears up and s
 #  
 #### SessionID: 20563
 # How Not to Be a Cranky DBA
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB316
 ## Speaker: Mike Hillwig
 ## Title: How Not to Be a Cranky DBA
@@ -224,7 +225,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB316
 #  
 #### SessionID: 20951
 # Top Development and Design Mistakes
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB316
 ## Speaker: Michael John
 ## Title: Top Development and Design Mistakes
@@ -234,7 +235,7 @@ This session will point these issues out, and help you prevent and identify thes
 #  
 #### SessionID: 21697
 # Spatial Data in SQL Server Reporting Services
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB308
 ## Speaker: Nate Locklin
 ## Title: Spatial Data in SQL Server Reporting Services
@@ -243,7 +244,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB308
 #  
 #### SessionID: 22973
 # Basic Monitoring with Perfmon
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB316
 ## Speaker: Rick Heiges
 ## Title: Basic Monitoring with Perfmon
@@ -252,7 +253,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB316
 #  
 #### SessionID: 23117
 # Introduction to Data Quality Services
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB316
 ## Speaker: Rushabh Mehta
 ## Title: Introduction to Data Quality Services
@@ -261,7 +262,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB316
 #  
 #### SessionID: 23828
 # 14 New T-SQL Functions
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB310
 ## Speaker: Sam Nasr
 ## Title: 14 New T-SQL Functions
@@ -270,7 +271,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB310
 #  
 #### SessionID: 23829
 # Using Filetables
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB309
 ## Speaker: Sam Nasr
 ## Title: Using Filetables
@@ -279,7 +280,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB309
 #  
 #### SessionID: 27043
 # Data center migration, data centric point of view
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB310
 ## Speaker: Tony Scotto di Carlo
 ## Title: Data center migration, data centric point of view
@@ -288,7 +289,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB310
 #  
 #### SessionID: 28337
 # MongoDB for the Relational DBA
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB309
 ## Speaker: Justin Dearing
 ## Title: MongoDB for the Relational DBA
@@ -301,7 +302,7 @@ On the non-technical side, this talk will focus on when you would want to use Mo
 #  
 #### SessionID: 8980
 # Introduction to SQL Server Service Broker
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB308
 ## Speaker: Adam Belebczuk
 ## Title: Introduction to SQL Server Service Broker
@@ -310,7 +311,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB308
 #  
 #### SessionID: 9106
 # SQL Server 2012's Net-New BI Capabilities 
-#### [Back to calendar](#SQLSaturday-#171-Pittsburgh-2012)
+#### [Back to calendar](#nr-171)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Room AB316
 ## Speaker: A.J. Mee
 ## Title: SQL Server 2012's Net-New BI Capabilities 

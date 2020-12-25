@@ -1,3 +1,4 @@
+#### Nr: 869
 #### [Back to Main list](index.md)
 # SQLSaturday #869 - Phoenix 2019
 Start Time (24h)|Speaker|Track|Title
@@ -54,7 +55,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 93687
 # Outdoor Courtyard Welcome Message for SQL Saturday Phoenix
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 ## Speaker: Ginger Grant
 ## Title: Outdoor Courtyard Welcome Message for SQL Saturday Phoenix
@@ -63,7 +64,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 #  
 #### SessionID: 89910
 # A Perfect Ten: The Data Model
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: A Perfect Ten: The Data Model
@@ -72,7 +73,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, De
 #  
 #### SessionID: 90003
 # Power BI Security -  End to End
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and Reporting
 ## Speaker: Suresh Datla
 ## Title: Power BI Security -  End to End
@@ -81,7 +82,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and 
 #  
 #### SessionID: 90278
 # Azure Basics for the DBA
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Morehouse
 ## Title: Azure Basics for the DBA
@@ -90,7 +91,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 90896
 # Containers: Crash course for SQL Server DBAs
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: Mark DeNeve
 ## Title: Containers: Crash course for SQL Server DBAs
@@ -99,7 +100,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Dev
 #  
 #### SessionID: 91428
 # Statewide Geography and Spatial Computing in SQL Server.
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance And Performance Tuning
 ## Speaker: Kevin Karns
 ## Title: Statewide Geography and Spatial Computing in SQL Server.
@@ -108,7 +109,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance An
 #  
 #### SessionID: 91560
 # SQL Server Management Studio - Beyond the basics
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Adrian Mee
 ## Title: SQL Server Management Studio - Beyond the basics
@@ -119,7 +120,7 @@ In this session, I will demonstrate these features and help you become more effi
 #  
 #### SessionID: 91651
 # Open Source vs SQL Database Maintenance Plans
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance And Performance Tuning
 ## Speaker: David Lundell
 ## Title: Open Source vs SQL Database Maintenance Plans
@@ -128,7 +129,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance An
 #  
 #### SessionID: 92383
 # Website Analysis Using PowerBI and App Insights:  Easier than you think
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and Reporting
 ## Speaker: Steve Williams
 ## Title: Website Analysis Using PowerBI and App Insights:  Easier than you think
@@ -142,7 +143,7 @@ Level: 200 - 300
 #  
 #### SessionID: 93406
 # Accelerating Insights with Azure Databricks
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 ## Speaker: Eddie Edgeworth
 ## Title: Accelerating Insights with Azure Databricks
@@ -151,7 +152,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 #  
 #### SessionID: 89913
 # Performance Tuning, Getting the Biggest Bang for Your Buck
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance And Performance Tuning
 ## Speaker: Monica Rathbun
 ## Title: Performance Tuning, Getting the Biggest Bang for Your Buck
@@ -160,7 +161,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance An
 #  
 #### SessionID: 90022
 # Real-World AI in Azure
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 ## Speaker: Amie Mason
 ## Title: Real-World AI in Azure
@@ -169,7 +170,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 #  
 #### SessionID: 90274
 # Faster Transactions: Query Tuning for Data Manipulation
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance And Performance Tuning
 ## Speaker: Jeff Iannucci
 ## Title: Faster Transactions: Query Tuning for Data Manipulation
@@ -178,7 +179,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance An
 #  
 #### SessionID: 91280
 # SQL vs NoSQL: a Comparison of SQL vs MongoDB
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: Eric Peterson
 ## Title: SQL vs NoSQL: a Comparison of SQL vs MongoDB
@@ -193,7 +194,7 @@ We'll discuss the factors that drive your choice of database along with the trad
 #  
 #### SessionID: 91470
 # Advanced Power BI Modeling Techniques
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and Reporting
 ## Speaker: Martin Schoombee
 ## Title: Advanced Power BI Modeling Techniques
@@ -204,7 +205,7 @@ In this session we'll take your modeling skills to the next level as we explore 
 #  
 #### SessionID: 93332
 # SSAS Tabular Models 101: Make a big difference in a small space
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Delora Bradish
 ## Title: SSAS Tabular Models 101: Make a big difference in a small space
@@ -213,7 +214,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topic
 #  
 #### SessionID: 93464
 # Devops for Data Science
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 ## Speaker: David Bess
 ## Title: Devops for Data Science
@@ -222,7 +223,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 #  
 #### SessionID: 89909
 # The Power of Data: The Complete Beginners Data Warehouse Kit
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data: The Complete Beginners Data Warehouse Kit
@@ -231,7 +232,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, De
 #  
 #### SessionID: 90260
 # Practical Power BI Report Design Tips for the Non-Artist
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and Reporting
 ## Speaker: Meagan Longoria
 ## Title: Practical Power BI Report Design Tips for the Non-Artist
@@ -240,7 +241,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and 
 #  
 #### SessionID: 90619
 # Azure Data Factory Version 2 - Templates and new features
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Joseph Barth
 ## Title: Azure Data Factory Version 2 - Templates and new features
@@ -249,7 +250,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 90663
 # I have to support what!?  SQL, Oracle, and Mongo -  A side by side “how to”
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: Kimberly StJacques
 ## Title: I have to support what!?  SQL, Oracle, and Mongo -  A side by side “how to”
@@ -258,7 +259,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Dev
 #  
 #### SessionID: 90785
 # Introduction to Execution Plans
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: Sean Brown
 ## Title: Introduction to Execution Plans
@@ -272,7 +273,7 @@ Session content assumes an ability to do basic queries against a database.
 #  
 #### SessionID: 91566
 # From Zero to Hero: Start Machine Learning using Azure ML studio
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mohamed Mawla
 ## Title: From Zero to Hero: Start Machine Learning using Azure ML studio
@@ -285,7 +286,7 @@ Lots of hands-on
 #  
 #### SessionID: 91648
 # No Pane, No Gain: A Beginner's Guide to Window Functions
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 ## Speaker: Phil Guevara
 ## Title: No Pane, No Gain: A Beginner's Guide to Window Functions
@@ -294,7 +295,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 #  
 #### SessionID: 93731
 # Professional Development Lunch Session with Paychex
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Kimberly StJacques
 ## Title: Professional Development Lunch Session with Paychex
@@ -303,7 +304,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topic
 #  
 #### SessionID: 93774
 # Introduction to Snowflake, the data warehouse build for the cloud
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 ## Speaker: Ginger Grant
 ## Title: Introduction to Snowflake, the data warehouse build for the cloud
@@ -312,7 +313,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 #  
 #### SessionID: 90258
 # Do Your Data Visualizations Need A Makeover?
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and Reporting
 ## Speaker: Meagan Longoria
 ## Title: Do Your Data Visualizations Need A Makeover?
@@ -321,7 +322,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and 
 #  
 #### SessionID: 90277
 # Temporal Tables – The New Hotness in Data Auditing
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: Temporal Tables – The New Hotness in Data Auditing
@@ -330,7 +331,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Dev
 #  
 #### SessionID: 90327
 # T-SQL Habits and Practices That Can Kill Performance
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance And Performance Tuning
 ## Speaker: Vern Rabe
 ## Title: T-SQL Habits and Practices That Can Kill Performance
@@ -341,7 +342,7 @@ Armed with this knowledge, you will definitely impress your boss with your abili
 #  
 #### SessionID: 90713
 # Real-World PowerShell for SQL Administration
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Real-World PowerShell for SQL Administration
@@ -354,7 +355,7 @@ And then we'll spend the bulk of our time looking at real-world, practical scrip
 #  
 #### SessionID: 91331
 # Azure Data Factory V2: SSIS in the Cloud or not?
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, Development  Administration
 ## Speaker: Andrea Letourneau
 ## Title: Azure Data Factory V2: SSIS in the Cloud or not?
@@ -363,7 +364,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, De
 #  
 #### SessionID: 93307
 # SELECT Start FROM Here: Querying for T-SQL Beginners
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Jeff Iannucci
 ## Title: SELECT Start FROM Here: Querying for T-SQL Beginners
@@ -372,7 +373,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topic
 #  
 #### SessionID: 93407
 # Data Virtualization unlocking data and enabling analytics using Denodo, Azure and Microsoft BI Stack
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 ## Speaker: Cristian Vasconez
 ## Title: Data Virtualization unlocking data and enabling analytics using Denodo, Azure and Microsoft BI Stack
@@ -381,7 +382,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 #  
 #### SessionID: 89914
 # I'm It - Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
@@ -390,7 +391,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topic
 #  
 #### SessionID: 90013
 # Managing ETL Change using BIMLScript
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, Development  Administration
 ## Speaker: Russel Loski
 ## Title: Managing ETL Change using BIMLScript
@@ -405,7 +406,7 @@ Finally, I will use BIMLScript to handle changes from one version of SSIS to the
 #  
 #### SessionID: 90648
 # Power BI Desktop Tips and Best Practices for Projects and Data Preparation
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Phil Robinson
 ## Title: Power BI Desktop Tips and Best Practices for Projects and Data Preparation
@@ -414,7 +415,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topic
 #  
 #### SessionID: 90707
 # Get Your Optimizer to Give up All Its Secrets
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance And Performance Tuning
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
@@ -423,7 +424,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance An
 #  
 #### SessionID: 90930
 # SQL DevOps Simplified with Production Databases
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Paul Stanton
 ## Title: SQL DevOps Simplified with Production Databases
@@ -432,7 +433,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 91332
 # Put More Power into Power BI
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and Reporting
 ## Speaker: Andrea Letourneau
 ## Title: Put More Power into Power BI
@@ -441,7 +442,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and 
 #  
 #### SessionID: 93322
 # SQL Antipatterns
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: JT Moree
 ## Title: SQL Antipatterns
@@ -452,7 +453,7 @@ Speaker: JT Moree, System Architect, DBA, PMP
 #  
 #### SessionID: 93417
 # Databricks and End-to-End Processes
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Alexander Brown
 ## Title: Databricks and End-to-End Processes
@@ -461,7 +462,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topic
 #  
 #### SessionID: 90021
 # Keys to Successfully Governing Power BI for your Organization
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, Development  Administration
 ## Speaker: Amie Mason
 ## Title: Keys to Successfully Governing Power BI for your Organization
@@ -470,7 +471,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, De
 #  
 #### SessionID: 90568
 # 3 Keys to Successful Consulting
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Mohammad Darab
 ## Title: 3 Keys to Successful Consulting
@@ -485,7 +486,7 @@ Whether you are interested in starting your own business, or a consultant wantin
 #  
 #### SessionID: 90647
 # Data Wrangling for Reporting  Analytics using Power BI
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Phil Robinson
 ## Title: Data Wrangling for Reporting  Analytics using Power BI
@@ -498,7 +499,7 @@ In this presentation we will review tools to examine/repair schema issues and ex
 #  
 #### SessionID: 90680
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
@@ -507,7 +508,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Dev
 #  
 #### SessionID: 91157
 # Environmental SQL Server Troubleshooting
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: Jeff Mlakar
 ## Title: Environmental SQL Server Troubleshooting
@@ -518,7 +519,7 @@ In this session we will discuss both performance pitfalls and optimizations that
 #  
 #### SessionID: 91507
 # Creating Real Solutions with Power Tools Power BI, Apps and Flow
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Yaseen Jamaludeen
 ## Title: Creating Real Solutions with Power Tools Power BI, Apps and Flow
@@ -531,7 +532,7 @@ We will go over the implementation of a typical case management system which rec
 #  
 #### SessionID: 91654
 # Azure AD authentication methods for SQL Azure
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: David Lundell
 ## Title: Azure AD authentication methods for SQL Azure
@@ -540,7 +541,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 93408
 # Deploying ML Models w/ Tableau
-#### [Back to calendar](#SQLSaturday-#869-Phoenix-2019)
+#### [Back to calendar](#nr-869)
 Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 ## Speaker: Yueying Li
 ## Title: Deploying ML Models w/ Tableau

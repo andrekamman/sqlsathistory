@@ -1,3 +1,4 @@
+#### Nr: 768
 #### [Back to Main list](index.md)
 # SQLSaturday #768 - Wausau 2018
 Start Time (24h)|Speaker|Track|Title
@@ -24,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 77209
 # Azure Data Factory V2: The cloud SSIS we have been waiting for?
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Joshuha Owen
 ## Title: Azure Data Factory V2: The cloud SSIS we have been waiting for?
@@ -33,7 +34,7 @@ Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 82252
 # JSON for the Data Mortals
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Jim Dorame
 ## Title: JSON for the Data Mortals
@@ -42,7 +43,7 @@ Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Application  Database D
 #  
 #### SessionID: 84522
 # How to Perform a Health Check
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Edward Roepe
 ## Title: How to Perform a Health Check
@@ -55,7 +56,7 @@ At the end of the session you will be able to: (1) Perform a Health Check on a s
 #  
 #### SessionID: 84685
 # Columnstore 101: The Five Ws of Columnstore Indexes
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: John Eisbrener
 ## Title: Columnstore 101: The Five Ws of Columnstore Indexes
@@ -64,7 +65,7 @@ Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Application  Database D
 #  
 #### SessionID: 77210
 # Let's build a data app with Azure Functions!
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Joshuha Owen
 ## Title: Let's build a data app with Azure Functions!
@@ -75,7 +76,7 @@ In this session, we will walk through the architecture and components of creatin
 #  
 #### SessionID: 77257
 # Decoding the Cardinality Estimator to Speed Up Queries
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Joe Obbish
 ## Title: Decoding the Cardinality Estimator to Speed Up Queries
@@ -84,7 +85,7 @@ Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Application  Database D
 #  
 #### SessionID: 77258
 # Four Rules For Columnstore Query Performance
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Joe Obbish
 ## Title: Four Rules For Columnstore Query Performance
@@ -93,7 +94,7 @@ Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Application  Database D
 #  
 #### SessionID: 80564
 # SQL Server Defaults SUCK!!
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Boles
 ## Title: SQL Server Defaults SUCK!!
@@ -102,7 +103,7 @@ Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84523
 # The Ultimate Maintenance Plan
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Edward Roepe
 ## Title: The Ultimate Maintenance Plan
@@ -115,7 +116,7 @@ At the end of this session you will be able to: (1) Choose a maintenance program
 #  
 #### SessionID: 77103
 # How to use Execution Plans to find Performance Issues
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: How to use Execution Plans to find Performance Issues
@@ -124,7 +125,7 @@ Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83982
 # Locking and its effects on queries and maintenance tasks
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Jake Manske
 ## Title: Locking and its effects on queries and maintenance tasks
@@ -137,7 +138,7 @@ After this session, you will have the understanding you need to start writing ap
 #  
 #### SessionID: 84234
 # Data Vault 2.0 An Agile BI DB Design Method
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Thomas Lane
 ## Title: Data Vault 2.0 An Agile BI DB Design Method
@@ -146,7 +147,7 @@ Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Application  Database D
 #  
 #### SessionID: 77102
 # Extended Events: What are they and How do I use them
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
@@ -155,7 +156,7 @@ Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 80563
 # Know What Your Code is Doing to SQL Server!
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Know What Your Code is Doing to SQL Server!
@@ -164,7 +165,7 @@ Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Application  Database D
 #  
 #### SessionID: 82884
 # Azure Managed Instance: Reducing Maintenance Costs While Making Migration Simple
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Frank Gill
 ## Title: Azure Managed Instance: Reducing Maintenance Costs While Making Migration Simple
@@ -173,7 +174,7 @@ Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 77104
 # Statistics - Why are they there and what do I do with them
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Statistics - Why are they there and what do I do with them
@@ -182,7 +183,7 @@ Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 80562
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -191,7 +192,7 @@ Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Application  Database D
 #  
 #### SessionID: 85314
 # Recent SSMS Performance Tuning Enhancements
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Boles
 ## Title: Recent SSMS Performance Tuning Enhancements
@@ -200,7 +201,7 @@ Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85514
 # Laying Down the Law with SQL Server Resource Governor
-#### [Back to calendar](#SQLSaturday-#768-Wausau-2018)
+#### [Back to calendar](#nr-768)
 Event Date: 08-09-2018 - Session time: 14:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Lonny Niederstadt
 ## Title: Laying Down the Law with SQL Server Resource Governor

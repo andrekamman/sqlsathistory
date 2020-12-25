@@ -1,3 +1,4 @@
+#### Nr: 829
 #### [Back to Main list](index.md)
 # SQLSaturday #829 - Pordenone 2019
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 86956
 # Market Basket Analysis in SQL Server Machine Learning Services
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: Luca Zavarella
 ## Title: Market Basket Analysis in SQL Server Machine Learning Services
@@ -45,7 +46,7 @@ In questa sessione vedremo come i nuovi Machine Learning Services ci permettono 
 #  
 #### SessionID: 86959
 # Custom maps in Power BI
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Visualization
 ## Speaker: Andrea Martorana Tusa
 ## Title: Custom maps in Power BI
@@ -59,7 +60,7 @@ Last but not least, learn how to use Synoptic Panel, an awesome component that c
 #  
 #### SessionID: 88158
 # 8 Steps to Securing Azure Sql PaaS
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Janusz Rokicki
 ## Title: 8 Steps to Securing Azure Sql PaaS
@@ -68,7 +69,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 88159
 # SQL Server 2019 CTP 2.2 (IT)
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Strategy and Architecture
 ## Speaker: Gianluca Hotz
 ## Title: SQL Server 2019 CTP 2.2 (IT)
@@ -77,7 +78,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 88414
 # From Zero to Cube in forty minutes (within a web browser)
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Francesco Milano
 ## Title: From Zero to Cube in forty minutes (within a web browser)
@@ -86,7 +87,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 86953
 # PowerBI: From Zero to Hero
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Analytics and Visualization
 ## Speaker: Dennes Torres
 ## Title: PowerBI: From Zero to Hero
@@ -95,7 +96,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 87438
 # Azure Data Integration:Choosing between SSIS, Azure Data Factory, Azure Databricks
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Cloud Data Platform
 ## Speaker: andrea benedetti
 ## Title: Azure Data Integration:Choosing between SSIS, Azure Data Factory, Azure Databricks
@@ -104,7 +105,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Cloud Data Platform
 #  
 #### SessionID: 87768
 # Data Overview and Manipulation – T-SQL, R, Python
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dejan Sarka
 ## Title: Data Overview and Manipulation – T-SQL, R, Python
@@ -113,7 +114,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 88169
 # Powershell, DBATools e i "ferri del mestiere" del DBA
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Danilo Dominici
 ## Title: Powershell, DBATools e i "ferri del mestiere" del DBA
@@ -122,7 +123,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88232
 # Graph Databases in the Microsoft ecosystem
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: DevOps/ Developer
 ## Speaker: Marco Parenzan
 ## Title: Graph Databases in the Microsoft ecosystem
@@ -133,7 +134,7 @@ So let's make a walkaround of graphs in the MIcrosoft ecosystem.
 #  
 #### SessionID: 86972
 # SQL Server and Continuous Integration
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Application  Database Development
 ## Speaker: James Anderson
 ## Title: SQL Server and Continuous Integration
@@ -159,7 +160,7 @@ You will see how a CI approach to database development can increase team efficie
 #  
 #### SessionID: 87059
 # From on-prem SQL instance to SQL Azure Database Managed Instances in 60 minutes!
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marco Obinu
 ## Title: From on-prem SQL instance to SQL Azure Database Managed Instances in 60 minutes!
@@ -169,7 +170,7 @@ Vediamo che cosa sono, e come possiamo agilmente spostarci sopra i nostri dati c
 #  
 #### SessionID: 88148
 # I metadati di SQL Server
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gilberto Zampatti
 ## Title: I metadati di SQL Server
@@ -178,7 +179,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88164
 # Il mio grosso grasso modello di Power BI
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Francesco De Chirico
 ## Title: Il mio grosso grasso modello di Power BI
@@ -189,7 +190,7 @@ In questa sessione, dopo una breve introduzione teorica sul funzionamento di Ver
 #  
 #### SessionID: 88280
 # Event Processing with Spark
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Other
 ## Speaker: Alessio Biasiutti
 ## Title: Event Processing with Spark
@@ -199,7 +200,7 @@ Durante la sessione vedremo un'overview delle funzionalità e un esempio di di c
 #  
 #### SessionID: 87834
 # Applied data analytics with Azure Databricks
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: Tomaž Kaštrun
 ## Title: Applied data analytics with Azure Databricks
@@ -211,7 +212,7 @@ Data engineers and business analysts (data scientists) can now work on RDD struc
 #  
 #### SessionID: 88106
 # Data management for disconnected or almost disconnected devices
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Application  Database Development
 ## Speaker: Marco Dal Pino
 ## Title: Data management for disconnected or almost disconnected devices
@@ -220,7 +221,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Application  Database D
 #  
 #### SessionID: 88120
 # Il Decalogo del progetto Power BI
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Analytics and Visualization
 ## Speaker: Lorenzo Vercellati
 ## Title: Il Decalogo del progetto Power BI
@@ -229,7 +230,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 88183
 # SQL Server Query Optimizer end-to-end
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sergio Govoni
 ## Title: SQL Server Query Optimizer end-to-end
@@ -238,7 +239,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88194
 # Benchmarking in the Cloud
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gianluca Sartori
 ## Title: Benchmarking in the Cloud
@@ -248,7 +249,7 @@ Join me in this session and learn how to capture a production workload, replay i
 #  
 #### SessionID: 86960
 # Failure prediction for manufacturing industry with SQL Server  R
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Analytics and Visualization
 ## Speaker: Andrea Martorana Tusa
 ## Title: Failure prediction for manufacturing industry with SQL Server  R
@@ -260,7 +261,7 @@ Binary or multi-class classification problem. Some reports are also created to d
 #  
 #### SessionID: 88162
 # SQL Server Modernization (IT)
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gianluca Hotz
 ## Title: SQL Server Modernization (IT)
@@ -269,7 +270,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88174
 # Accesso ai dati in applicazioni client/server con .NET Core 3.0
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Application  Database Development
 ## Speaker: Marco Minerva
 ## Title: Accesso ai dati in applicazioni client/server con .NET Core 3.0
@@ -278,7 +279,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Application  Database D
 #  
 #### SessionID: 88193
 # What is in reality a DAX filter context
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marco Pozzan
 ## Title: What is in reality a DAX filter context
@@ -287,7 +288,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 88992
 # Common Data Model, nice to meet you
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: 
 ## Speaker: Elisa Piccin
 ## Title: Common Data Model, nice to meet you
@@ -298,7 +299,7 @@ Here is where the Common Data Model (CDM) comes in: we will understand CDM under
 #  
 #### SessionID: 87066
 # Azure Data Factory v2 with Data Flows capabilities
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kamil Nowinski
 ## Title: Azure Data Factory v2 with Data Flows capabilities
@@ -310,7 +311,7 @@ We will review this new feature of ADFv2, do deep dive to understand the mention
 #  
 #### SessionID: 87072
 # What I have seen so far in my performance tuning audits
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rudi Bruchez
 ## Title: What I have seen so far in my performance tuning audits
@@ -319,7 +320,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 87836
 # Near Real-time data visualizations
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Analytics and Visualization
 ## Speaker: Tomaž Kaštrun
 ## Title: Near Real-time data visualizations
@@ -330,7 +331,7 @@ Session will cover several capabilities to use open source products to deliver r
 #  
 #### SessionID: 88214
 # Multitenancy – from zero to it works!
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Emanuele Zanchettin
 ## Title: Multitenancy – from zero to it works!
@@ -339,7 +340,7 @@ Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 90371
 # Cosmos DB - La nuova frontiera del BigData e NoSql
-#### [Back to calendar](#SQLSaturday-#829-Pordenone-2019)
+#### [Back to calendar](#nr-829)
 Event Date: 23-02-2019 - Session time: 16:40:00 - Track: Other
 ## Speaker: Marco Minerva
 ## Title: Cosmos DB - La nuova frontiera del BigData e NoSql

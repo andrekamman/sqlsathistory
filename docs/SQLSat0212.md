@@ -1,3 +1,4 @@
+#### Nr: 212
 #### [Back to Main list](index.md)
 # SQLSaturday #212 - Redmond 2013
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10724
 # Lean BI Solutions w PowerPivot, Tabular  a Mullet
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Capitol Hill
 ## Speaker: Brent Greenwood
 ## Title: Lean BI Solutions w PowerPivot, Tabular  a Mullet
@@ -32,7 +33,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Capitol Hill
 #  
 #### SessionID: 10725
 # Measuring BI Adoption: Dog Food Is Good For You
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Capitol Hill
 ## Speaker: Brent Greenwood
 ## Title: Measuring BI Adoption: Dog Food Is Good For You
@@ -43,7 +44,7 @@ This session will focus on how to eat our own dog food  measure the performance 
 #  
 #### SessionID: 11389
 # SQLCAT: Big Data – All Abuzz About Hive
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Pioneer Square
 ## Speaker: Dipti Sangani
 ## Title: SQLCAT: Big Data – All Abuzz About Hive
@@ -52,7 +53,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Pioneer Square
 #  
 #### SessionID: 12769
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Capitol Hill
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -61,7 +62,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Capitol Hill
 #  
 #### SessionID: 14812
 # Data Profiling Using SSIS Data Profiling Task
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Capitol Hill
 ## Speaker: Greg Larsen
 ## Title: Data Profiling Using SSIS Data Profiling Task
@@ -73,7 +74,7 @@ I will also be showing you how to use the Data Profiling task output to control 
 #  
 #### SessionID: 16796
 # AlwaysOn - Finally, A usable 'mirror'!
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Pioneer Square
 ## Speaker: Jim Murphy
 ## Title: AlwaysOn - Finally, A usable 'mirror'!
@@ -82,7 +83,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Pioneer Square
 #  
 #### SessionID: 17490
 # Data Quality Services Approach to Cleansing
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Pioneer Square
 ## Speaker: Joseph Verftido
 ## Title: Data Quality Services Approach to Cleansing
@@ -91,7 +92,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Pioneer Square
 #  
 #### SessionID: 21421
 # Why I Won't Be Hiring You
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Queen Anne
 ## Speaker: Nicholas Cain
 ## Title: Why I Won't Be Hiring You
@@ -105,7 +106,7 @@ In this session I will go over some critical mistakes that will prevent you from
 #  
 #### SessionID: 21747
 # Store This! Why storage matters when virtualizing SQL Server
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Queen Anne
 ## Speaker: Pat Sinthusan
 ## Title: Store This! Why storage matters when virtualizing SQL Server
@@ -114,7 +115,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Queen Anne
 #  
 #### SessionID: 22458
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Montlake
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -124,7 +125,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Montlake
 #  
 #### SessionID: 22995
 # SQL 2012 Error Handling. Pick your Destiny
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Montlake
 ## Speaker: Rick  Morelan
 ## Title: SQL 2012 Error Handling. Pick your Destiny
@@ -133,7 +134,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Montlake
 #  
 #### SessionID: 23233
 # Deconstructing SQL Server’s Change Data Capture
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Queen Anne
 ## Speaker: Rob Garrison
 ## Title: Deconstructing SQL Server’s Change Data Capture
@@ -144,7 +145,7 @@ From this session, you will learn about the basics of CDC, how Microsoft impleme
 #  
 #### SessionID: 23566
 # Adventures in Table Partitioning
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Montlake
 ## Speaker: Ron Talmage
 ## Title: Adventures in Table Partitioning
@@ -153,7 +154,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Montlake
 #  
 #### SessionID: 24070
 # Windows Azure SQL Database - your cloud database
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Pioneer Square
 ## Speaker: Scott Klein
 ## Title: Windows Azure SQL Database - your cloud database
@@ -162,7 +163,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Pioneer Square
 #  
 #### SessionID: 24871
 # Machine Learning for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Montlake
 ## Speaker: Dev Nambi
 ## Title: Machine Learning for Mere Mortals
@@ -175,7 +176,7 @@ This will be a gentle introduction into the world of machine learning. We will c
 #  
 #### SessionID: 25746
 # Unleashing Common Table Expressions in SQL Server
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Montlake
 ## Speaker: Steve Stedman
 ## Title: Unleashing Common Table Expressions in SQL Server
@@ -184,7 +185,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Montlake
 #  
 #### SessionID: 9670
 # Executing SSIS Packages using SQL Server Agent
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Capitol Hill
 ## Speaker: Carla Sabotta
 ## Title: Executing SSIS Packages using SQL Server Agent
@@ -193,7 +194,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Capitol Hill
 #  
 #### SessionID: 9766
 # Lean and Mean: Running SQL on Windows Server Core
-#### [Back to calendar](#SQLSaturday-#212-Redmond-2013)
+#### [Back to calendar](#nr-212)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Pioneer Square
 ## Speaker: Argenis Fernandez
 ## Title: Lean and Mean: Running SQL on Windows Server Core

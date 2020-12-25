@@ -1,3 +1,4 @@
+#### Nr: 512
 #### [Back to Main list](index.md)
 # SQLSaturday #512 - Rio de Janeiro 2016
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 48423
 # Oportunidades com a plataforma de dados da Microsoft
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Carreiras de Sucesso
 ## Speaker: Rodrigo Crespi
 ## Title: Oportunidades com a plataforma de dados da Microsoft
@@ -34,7 +35,7 @@ Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Carreiras de Sucesso
 #  
 #### SessionID: 49569
 # SQL Server 2016 - It Just Runs Faster
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Novidades do SQL Server 2016
 ## Speaker: Frederico Santos
 ## Title: SQL Server 2016 - It Just Runs Faster
@@ -43,7 +44,7 @@ Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Novidades do SQL Server
 #  
 #### SessionID: 49916
 # Corrup#231;#227;o de dados e perda acidental - O que fazer ?
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Administração e T-SQL
 ## Speaker: Gustavo Maia Aguiar
 ## Title: Corrup#231;#227;o de dados e perda acidental - O que fazer ?
@@ -54,7 +55,7 @@ Se alguma vez voc#234; j#225; teve de lidar com corrup#231;#227;o de dados ou pe
 #  
 #### SessionID: 49972
 # Cortana Intelligence + Spark + PowerBI
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Bussiness Intelligence
 ## Speaker: Viviane Ribeiro
 ## Title: Cortana Intelligence + Spark + PowerBI
@@ -64,7 +65,7 @@ Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Bussiness Intelligence
 #  
 #### SessionID: 44509
 # A nova arma do DBA: otimizando com o Query Store
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Novidades do SQL Server 2016
 ## Speaker: Luiz Mercante
 ## Title: A nova arma do DBA: otimizando com o Query Store
@@ -73,7 +74,7 @@ Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Novidades do SQL Server
 #  
 #### SessionID: 48139
 # Entendendo a Distribui#231;#227;o de Dados entre V#225;rios Arquivos do Database
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Administração e T-SQL
 ## Speaker: Nilton Pinheiro
 ## Title: Entendendo a Distribui#231;#227;o de Dados entre V#225;rios Arquivos do Database
@@ -82,7 +83,7 @@ Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Administração e T-SQL
 #  
 #### SessionID: 49121
 # SQL Server 2016 - Novidades em Business Intelligence
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Bussiness Intelligence
 ## Speaker: André Castro
 ## Title: SQL Server 2016 - Novidades em Business Intelligence
@@ -91,7 +92,7 @@ Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Bussiness Intelligence
 #  
 #### SessionID: 49947
 # O dia a dia de um Administrador de Banco de Dados
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Carreiras de Sucesso
 ## Speaker: Thiago Cruz
 ## Title: O dia a dia de um Administrador de Banco de Dados
@@ -100,7 +101,7 @@ Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Carreiras de Sucesso
 #  
 #### SessionID: 44878
 # SQL SERVER e ORACLE: Semelhan#231;as e Diferen#231;as para o DBA
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Administração e T-SQL
 ## Speaker: Marcelo Adade
 ## Title: SQL SERVER e ORACLE: Semelhan#231;as e Diferen#231;as para o DBA
@@ -110,7 +111,7 @@ A ideia #233; mostrar como os recursos do SQL SERVER equivalem aos de Oracle e v
 #  
 #### SessionID: 47009
 # Salvando hist#243;rico dos dados com as Temporal Tables do SQL 2016
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Novidades do SQL Server 2016
 ## Speaker: Felipe de Assis
 ## Title: Salvando hist#243;rico dos dados com as Temporal Tables do SQL 2016
@@ -119,7 +120,7 @@ Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Novidades do SQL Server
 #  
 #### SessionID: 48508
 # Seguran#231;a no SQL Server
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Carreiras de Sucesso
 ## Speaker: Sulamita Dantas
 ## Title: Seguran#231;a no SQL Server
@@ -128,7 +129,7 @@ Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Carreiras de Sucesso
 #  
 #### SessionID: 49590
 # Novidades do SSRS 2016 - O poder da an#225;lise de dados
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Bussiness Intelligence
 ## Speaker: Marcos Vinicius Oliveira Schardong
 ## Title: Novidades do SSRS 2016 - O poder da an#225;lise de dados
@@ -137,7 +138,7 @@ Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Bussiness Intelligence
 #  
 #### SessionID: 44349
 # O Dia a Dia do Cientista de Dados
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Carreiras de Sucesso
 ## Speaker: Diego Nogare
 ## Title: O Dia a Dia do Cientista de Dados
@@ -146,7 +147,7 @@ Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Carreiras de Sucesso
 #  
 #### SessionID: 44375
 # Availability Groups 2016: Quais s#227;o as novidades?
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Novidades do SQL Server 2016
 ## Speaker: Murilo Miranda
 ## Title: Availability Groups 2016: Quais s#227;o as novidades?
@@ -155,7 +156,7 @@ Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Novidades do SQL Server
 #  
 #### SessionID: 44378
 # Escrevendo c#243;digo T-SQL "like a boss"
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Administração e T-SQL
 ## Speaker: Fabiano Amorim
 ## Title: Escrevendo c#243;digo T-SQL "like a boss"
@@ -164,7 +165,7 @@ Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Administração e T-SQL
 #  
 #### SessionID: 49973
 # Super ETL's com as novidades do SSIS 2016
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Bussiness Intelligence
 ## Speaker: Dennes Torres
 ## Title: Super ETL's com as novidades do SSIS 2016
@@ -175,7 +176,7 @@ Conex#227;o com Azure Storage, integra#231;#227;o com HDInsight para constru#231
 #  
 #### SessionID: 44852
 # Stretch Database - Armazenamento de dados hist#243;ricos no SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Novidades do SQL Server 2016
 ## Speaker: Vitor Fava
 ## Title: Stretch Database - Armazenamento de dados hist#243;ricos no SQL Server 2016
@@ -184,7 +185,7 @@ Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Novidades do SQL Server
 #  
 #### SessionID: 48586
 # Passo a Passo para realizar uma Consultoria de Tuning em um Cliente
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Carreiras de Sucesso
 ## Speaker: Fabrício Lima
 ## Title: Passo a Passo para realizar uma Consultoria de Tuning em um Cliente
@@ -199,7 +200,7 @@ N#227;o perca!!!
 #  
 #### SessionID: 49802
 # Performance Tuning of Tabular Models in SQL Server
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Bussiness Intelligence
 ## Speaker: Alexandre Soteras
 ## Title: Performance Tuning of Tabular Models in SQL Server
@@ -208,7 +209,7 @@ Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Bussiness Intelligence
 #  
 #### SessionID: 49915
 # Criando ambientes hibridos de alta disponibilidade (On Premises e Cloud)
-#### [Back to calendar](#SQLSaturday-#512-Rio-de-Janeiro-2016)
+#### [Back to calendar](#nr-512)
 Event Date: 18-06-2016 - Session time: 15:30:00 - Track: Administração e T-SQL
 ## Speaker: Marcelo Fernandes
 ## Title: Criando ambientes hibridos de alta disponibilidade (On Premises e Cloud)

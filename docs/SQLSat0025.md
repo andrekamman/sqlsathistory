@@ -1,3 +1,4 @@
+#### Nr: 25
 #### [Back to Main list](index.md)
 # SQLSaturday #25 (Sat) - Gainesville 2009
 Start Time (24h)|Speaker|Track|Title
@@ -20,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28368
 # Student Showcase Session 1
-#### [Back to calendar](#SQLSaturday-#25-(Sat)-Gainesville-2009)
+#### [Back to calendar](#nr-25)
 Event Date: 10-10-2009 - Session time: 00:00:00 - Track: GIS/BI/Special
 ## Speaker: More College Students
 ## Title: Student Showcase Session 1
@@ -29,7 +30,7 @@ Event Date: 10-10-2009 - Session time: 00:00:00 - Track: GIS/BI/Special
 #  
 #### SessionID: 28756
 # Introduction to SQL Server Integration Services	
-#### [Back to calendar](#SQLSaturday-#25-(Sat)-Gainesville-2009)
+#### [Back to calendar](#nr-25)
 Event Date: 10-10-2009 - Session time: 00:00:00 - Track: Development
 ## Speaker: Robert Cain
 ## Title: Introduction to SQL Server Integration Services	
@@ -39,7 +40,7 @@ Event Date: 10-10-2009 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 28757
 # SQL Server Full Text Searching - An Introduction. 
-#### [Back to calendar](#SQLSaturday-#25-(Sat)-Gainesville-2009)
+#### [Back to calendar](#nr-25)
 Event Date: 10-10-2009 - Session time: 00:00:00 - Track: Development
 ## Speaker: Robert Cain
 ## Title: SQL Server Full Text Searching - An Introduction. 
@@ -48,7 +49,7 @@ Event Date: 10-10-2009 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 29361
 # Cool Tricks to Pull from your SSIS Hat—
-#### [Back to calendar](#SQLSaturday-#25-(Sat)-Gainesville-2009)
+#### [Back to calendar](#nr-25)
 Event Date: 10-10-2009 - Session time: 00:00:00 - Track: Development
 ## Speaker: Julie Smith
 ## Title: Cool Tricks to Pull from your SSIS Hat—
@@ -59,7 +60,7 @@ This presentation will cover in-depth how to dynamically control files being sen
 #  
 #### SessionID: 29557
 # DBA vs ORM: Strategies for Data in a Code Focused 
-#### [Back to calendar](#SQLSaturday-#25-(Sat)-Gainesville-2009)
+#### [Back to calendar](#nr-25)
 Event Date: 10-10-2009 - Session time: 00:00:00 - Track: GIS/BI/Special
 ## Speaker: Cliff Jacobson
 ## Title: DBA vs ORM: Strategies for Data in a Code Focused 
@@ -68,7 +69,7 @@ Event Date: 10-10-2009 - Session time: 00:00:00 - Track: GIS/BI/Special
 #  
 #### SessionID: 29665
 # GIS Certificate Program at IESA
-#### [Back to calendar](#SQLSaturday-#25-(Sat)-Gainesville-2009)
+#### [Back to calendar](#nr-25)
 Event Date: 10-10-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Chris Semerjian  Allison Ainsworth 
 ## Title: GIS Certificate Program at IESA
@@ -77,7 +78,7 @@ Event Date: 10-10-2009 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 29693
 # Data Visualization and High Value Low Cost BI
-#### [Back to calendar](#SQLSaturday-#25-(Sat)-Gainesville-2009)
+#### [Back to calendar](#nr-25)
 Event Date: 10-10-2009 - Session time: 00:00:00 - Track: GIS/BI/Special
 ## Speaker: Dan Murray
 ## Title: Data Visualization and High Value Low Cost BI
@@ -88,7 +89,7 @@ The advanced database professional will gain insight into the value of appropria
 #  
 #### SessionID: 30293
 # The T-SQL Trifecta:  Enhancements for Everyone
-#### [Back to calendar](#SQLSaturday-#25-(Sat)-Gainesville-2009)
+#### [Back to calendar](#nr-25)
 Event Date: 10-10-2009 - Session time: 00:00:00 - Track: Development
 ## Speaker: Audrey Hammonds
 ## Title: The T-SQL Trifecta:  Enhancements for Everyone
@@ -97,7 +98,7 @@ Event Date: 10-10-2009 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 30672
 # Data Persistence in a Web Hosted World
-#### [Back to calendar](#SQLSaturday-#25-(Sat)-Gainesville-2009)
+#### [Back to calendar](#nr-25)
 Event Date: 10-10-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jeff Ammons
 ## Title: Data Persistence in a Web Hosted World
@@ -106,7 +107,7 @@ Event Date: 10-10-2009 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32118
 # SQL Server Backups
-#### [Back to calendar](#SQLSaturday-#25-(Sat)-Gainesville-2009)
+#### [Back to calendar](#nr-25)
 Event Date: 10-10-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Neal Waterstreet
 ## Title: SQL Server Backups
@@ -115,7 +116,7 @@ Event Date: 10-10-2009 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32883
 # CLR integration
-#### [Back to calendar](#SQLSaturday-#25-(Sat)-Gainesville-2009)
+#### [Back to calendar](#nr-25)
 Event Date: 10-10-2009 - Session time: 00:00:00 - Track: Development
 ## Speaker: Sergey Barskiy
 ## Title: CLR integration
@@ -124,7 +125,7 @@ Event Date: 10-10-2009 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 32975
 # SQL Application in Geographic Information Systems
-#### [Back to calendar](#SQLSaturday-#25-(Sat)-Gainesville-2009)
+#### [Back to calendar](#nr-25)
 Event Date: 10-10-2009 - Session time: 00:00:00 - Track: GIS/BI/Special
 ## Speaker: Sudhanshu Panda
 ## Title: SQL Application in Geographic Information Systems
@@ -133,7 +134,7 @@ Event Date: 10-10-2009 - Session time: 00:00:00 - Track: GIS/BI/Special
 #  
 #### SessionID: 33728
 # Deadlock Detection, Troubleshooting,  Prevention
-#### [Back to calendar](#SQLSaturday-#25-(Sat)-Gainesville-2009)
+#### [Back to calendar](#nr-25)
 Event Date: 10-10-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Trevor Barkhouse
 ## Title: Deadlock Detection, Troubleshooting,  Prevention
@@ -142,7 +143,7 @@ Event Date: 10-10-2009 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 33729
 # Leveraging SQLDiag for Efficient Troubleshooting
-#### [Back to calendar](#SQLSaturday-#25-(Sat)-Gainesville-2009)
+#### [Back to calendar](#nr-25)
 Event Date: 10-10-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Trevor Barkhouse
 ## Title: Leveraging SQLDiag for Efficient Troubleshooting
@@ -151,7 +152,7 @@ Event Date: 10-10-2009 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 35452
 # The Social DBA: Resources for Career Building
-#### [Back to calendar](#SQLSaturday-#25-(Sat)-Gainesville-2009)
+#### [Back to calendar](#nr-25)
 Event Date: 10-10-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Stuart Ainsworth
 ## Title: The Social DBA: Resources for Career Building

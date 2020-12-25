@@ -1,3 +1,4 @@
+#### Nr: 179
 #### [Back to Main list](index.md)
 # SQLSaturday #179 - Kharkov, Ukraine 2012
 Start Time (24h)|Speaker|Track|Title
@@ -17,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13051
 # Администрирование SQL Server для начинающих
-#### [Back to calendar](#SQLSaturday-#179-Kharkov,-Ukraine-2012)
+#### [Back to calendar](#nr-179)
 Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Administration
 ## Speaker: Dmitriy Kostylev
 ## Title: Администрирование SQL Server для начинающих
@@ -26,7 +27,7 @@ Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 15390
 # ETL Frameworks with Dynamic SSIS Packages
-#### [Back to calendar](#SQLSaturday-#179-Kharkov,-Ukraine-2012)
+#### [Back to calendar](#nr-179)
 Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Niko Neugebauer
 ## Title: ETL Frameworks with Dynamic SSIS Packages
@@ -41,7 +42,7 @@ The only existing constant in the nature is the change, so we better be ready to
 #  
 #### SessionID: 18664
 # Private cloud and SQL 2012
-#### [Back to calendar](#SQLSaturday-#179-Kharkov,-Ukraine-2012)
+#### [Back to calendar](#nr-179)
 Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Administration
 ## Speaker: Mikhail Komarov
 ## Title: Private cloud and SQL 2012
@@ -50,7 +51,7 @@ Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 18669
 # DQS - первые шаги использования Data Mining
-#### [Back to calendar](#SQLSaturday-#179-Kharkov,-Ukraine-2012)
+#### [Back to calendar](#nr-179)
 Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Konstantin Khomyakov
 ## Title: DQS - первые шаги использования Data Mining
@@ -59,7 +60,7 @@ Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 18815
 # Reporting Services - от простого к сложному
-#### [Back to calendar](#SQLSaturday-#179-Kharkov,-Ukraine-2012)
+#### [Back to calendar](#nr-179)
 Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Andrey Korshikov
 ## Title: Reporting Services - от простого к сложному
@@ -68,7 +69,7 @@ Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 19182
 # Типовые ошибки при написании T-SQL кода
-#### [Back to calendar](#SQLSaturday-#179-Kharkov,-Ukraine-2012)
+#### [Back to calendar](#nr-179)
 Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Development
 ## Speaker: Oleksii Kovalov
 ## Title: Типовые ошибки при написании T-SQL кода
@@ -77,7 +78,7 @@ Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 20267
 # Spatial Data and Windows Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#179-Kharkov,-Ukraine-2012)
+#### [Back to calendar](#nr-179)
 Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Development
 ## Speaker: Mihail Mateev
 ## Title: Spatial Data and Windows Azure SQL Database
@@ -88,7 +89,7 @@ from Windows Azure SQL Database Spatial, optimizing Windows Azure applications a
 #  
 #### SessionID: 20269
 # Windows Azure SQL Reporting for App developers
-#### [Back to calendar](#SQLSaturday-#179-Kharkov,-Ukraine-2012)
+#### [Back to calendar](#nr-179)
 Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Mihail Mateev
 ## Title: Windows Azure SQL Reporting for App developers
@@ -97,7 +98,7 @@ Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 24363
 # AlwaysOn - HA\DR технология №2012 на практике
-#### [Back to calendar](#SQLSaturday-#179-Kharkov,-Ukraine-2012)
+#### [Back to calendar](#nr-179)
 Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Administration
 ## Speaker: Sergey Olontsev
 ## Title: AlwaysOn - HA\DR технология №2012 на практике
@@ -106,7 +107,7 @@ Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 25230
 # Подход доктора Хауса в оптимизации запросов
-#### [Back to calendar](#SQLSaturday-#179-Kharkov,-Ukraine-2012)
+#### [Back to calendar](#nr-179)
 Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Development
 ## Speaker: Sergey Mikhalev
 ## Title: Подход доктора Хауса в оптимизации запросов
@@ -115,7 +116,7 @@ Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 27506
 # Keynote. Ukrainian Comunity History.
-#### [Back to calendar](#SQLSaturday-#179-Kharkov,-Ukraine-2012)
+#### [Back to calendar](#nr-179)
 Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Vladimir Leshchinsky
 ## Title: Keynote. Ukrainian Comunity History.
@@ -124,7 +125,7 @@ Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 9435
 # No Guts, NoSQL, No Glory
-#### [Back to calendar](#SQLSaturday-#179-Kharkov,-Ukraine-2012)
+#### [Back to calendar](#nr-179)
 Event Date: 24-11-2012 - Session time: 00:00:00 - Track: Development
 ## Speaker: Anatoliy Kolesnick
 ## Title: No Guts, NoSQL, No Glory

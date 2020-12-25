@@ -1,3 +1,4 @@
+#### Nr: 271
 #### [Back to Main list](index.md)
 # SQLSaturday #271 - Albuquerque 2014
 Start Time (24h)|Speaker|Track|Title
@@ -30,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10442
 # Kama Sutra of SSIS: A guide to loving ETL
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bill Fellows
 ## Title: Kama Sutra of SSIS: A guide to loving ETL
@@ -40,7 +41,7 @@ After attending this session, you will come out with an understanding of how Con
 #  
 #### SessionID: 10443
 # 2012 TSQL Sweets
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bill Fellows
 ## Title: 2012 TSQL Sweets
@@ -49,7 +50,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 11486
 # Interview Tips
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Chris Shaw
 ## Title: Interview Tips
@@ -68,7 +69,7 @@ information you need to make a good decision.
 #  
 #### SessionID: 14121
 # "What’s this ‘Scaffolding a CRUD’ all about? Build a Website from your SQL Database"
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Gabriel Villa
 ## Title: "What’s this ‘Scaffolding a CRUD’ all about? Build a Website from your SQL Database"
@@ -77,7 +78,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14656
 # Power BI –  Cloud Self-Service BI
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ginger Grant
 ## Title: Power BI –  Cloud Self-Service BI
@@ -86,7 +87,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 15825
 # Dimensional Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
@@ -95,7 +96,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 16879
 # Getting Started with Execution Plans
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jason Kassay
 ## Title: Getting Started with Execution Plans
@@ -104,7 +105,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18982
 # SQL Server Statistics – What Are The Chances?
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Lori Edwards
 ## Title: SQL Server Statistics – What Are The Chances?
@@ -113,7 +114,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 19140
 # Windows Azure SQL Reporting Services
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Leslie Weed
 ## Title: Windows Azure SQL Reporting Services
@@ -122,7 +123,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 19202
 # The Accidental Report Designer: Data Visualization Best Practices in SSRS
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Meagan Longoria
 ## Title: The Accidental Report Designer: Data Visualization Best Practices in SSRS
@@ -131,7 +132,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 19423
 # Data Visualizations: It’s not all colorful lines o
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Marc Beacom
 ## Title: Data Visualizations: It’s not all colorful lines o
@@ -140,7 +141,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19930
 # Master of All I Survey - track code changes and more across your environment
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Michael Bourgon
 ## Title: Master of All I Survey - track code changes and more across your environment
@@ -149,7 +150,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 22766
 # SQL Server AlwaysOn Availably Groups
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Reeves Smith
 ## Title: SQL Server AlwaysOn Availably Groups
@@ -160,7 +161,7 @@ This session will demo a high availability environment with failovers with some 
 #  
 #### SessionID: 22874
 # Battle of the Finch Bots
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Jeff Renz
 ## Title: Battle of the Finch Bots
@@ -169,7 +170,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 23583
 # XPath - XQuery; I guess if I HAVE to
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Russ Thomas
 ## Title: XPath - XQuery; I guess if I HAVE to
@@ -178,7 +179,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24506
 # The Encryption Primer
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Steve Jones
 ## Title: The Encryption Primer
@@ -187,7 +188,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24872
 # Building a Scalable Cost Effective Reporting System 
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Pat Wright
 ## Title: Building a Scalable Cost Effective Reporting System 
@@ -196,7 +197,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 25675
 # Master the Date Dimension Like a Time Lord
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Steve Wake
 ## Title: Master the Date Dimension Like a Time Lord
@@ -205,7 +206,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 25933
 # Extended Events In Real Life
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Seth Washeck
 ## Title: Extended Events In Real Life
@@ -214,7 +215,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 26607
 # Scripting in SSIS
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Tim Mitchell
 ## Title: Scripting in SSIS
@@ -225,7 +226,7 @@ In this session, we will explore both the Script Task and Script Component tools
 #  
 #### SessionID: 26960
 # The Life Cycle of a Query
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Todd Kleinhans
 ## Title: The Life Cycle of a Query
@@ -234,7 +235,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28102
 # Possible Musics:  Choosing between Analysis Services 2012 Multidimensional and Tabular
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: William E Pearson III
 ## Title: Possible Musics:  Choosing between Analysis Services 2012 Multidimensional and Tabular
@@ -243,7 +244,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 34793
 # The Hierarchy of Monitoring Needs: A Methodology
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Michael Fal
 ## Title: The Hierarchy of Monitoring Needs: A Methodology
@@ -252,7 +253,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 34849
 # SQL Server Databaseology 201
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology 201
@@ -261,7 +262,7 @@ Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9840
 # Converting Unreliable Deployments Into Consistent Releases
-#### [Back to calendar](#SQLSaturday-#271-Albuquerque-2014)
+#### [Back to calendar](#nr-271)
 Event Date: 25-01-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Thomas Norman
 ## Title: Converting Unreliable Deployments Into Consistent Releases

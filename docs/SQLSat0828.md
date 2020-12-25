@@ -1,3 +1,4 @@
+#### Nr: 828
 #### [Back to Main list](index.md)
 # SQLSaturday #828 - Guatemala 2019
 Start Time (24h)|Speaker|Track|Title
@@ -46,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 86994
 # Machine Learning and Microsoft Cognitive Services
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Keneth Murillo
 ## Title: Machine Learning and Microsoft Cognitive Services
@@ -55,7 +56,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 87925
 # SQL Power Shell
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Yanitza Campos
 ## Title: SQL Power Shell
@@ -64,7 +65,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88310
 # La nueva era Azure Data Factory v2
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: La nueva era Azure Data Factory v2
@@ -79,7 +80,7 @@ En esta charla pretendemos compartir las usabilidad de este servicio y orientarl
 #  
 #### SessionID: 88391
 # Integracion de Power BI con R
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Raul Sao
 ## Title: Integracion de Power BI con R
@@ -88,7 +89,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 88747
 # Piérdele el miedo a los Indices
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Mynor Bolanos
 ## Title: Piérdele el miedo a los Indices
@@ -97,7 +98,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 88842
 # Azure Data Analytics: El poder de la información
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: Azure Data Analytics: El poder de la información
@@ -106,7 +107,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 86927
 # Performance Tuning for the BI Professional
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: Performance Tuning for the BI Professional
@@ -115,7 +116,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 88781
 # Aspectos para Crear un Plan de Recuperacion de Desastres
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Carlos Lopez
 ## Title: Aspectos para Crear un Plan de Recuperacion de Desastres
@@ -124,7 +125,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 88843
 # Azure SQL Datawarehouse: Mis primeros pasos
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: Azure SQL Datawarehouse: Mis primeros pasos
@@ -133,7 +134,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 88846
 # Extracción de datos de RDBMS hacia ambientes de Big Data como Azure Data Lake, Cassandra y Kafka
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Other
 ## Speaker: Joseph Arriola
 ## Title: Extracción de datos de RDBMS hacia ambientes de Big Data como Azure Data Lake, Cassandra y Kafka
@@ -142,7 +143,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Other
 #  
 #### SessionID: 88851
 # BI para una Farmacia de Pueblo
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Ricardo Estrada
 ## Title: BI para una Farmacia de Pueblo
@@ -151,7 +152,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 89433
 # Accidental DBA 101, El inicio!!!
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Accidental DBA 101, El inicio!!!
@@ -160,7 +161,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 89592
 # Manteniendo vivo al muerto - Taller de Migración de BD a SQL Database Managed Instances
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Carlos Lone
 ## Title: Manteniendo vivo al muerto - Taller de Migración de BD a SQL Database Managed Instances
@@ -171,7 +172,7 @@ En esta sesión explicaremos brevemente Qué es SQL Database Managed Instances, 
 #  
 #### SessionID: 87087
 # Introduction to Query Store
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christian Araujo
 ## Title: Introduction to Query Store
@@ -180,7 +181,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 87202
 # SQL Server 2019 new features!
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alejandro Cordero
 ## Title: SQL Server 2019 new features!
@@ -191,7 +192,7 @@ Una sesión apta para DBAs, desarrolladores y estudiantes de TI.
 #  
 #### SessionID: 87863
 # SQL Server Graph Databases
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Other
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: SQL Server Graph Databases
@@ -200,7 +201,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Other
 #  
 #### SessionID: 88824
 # Gestionando los datos como su activo más valioso
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: byron maldonado
 ## Title: Gestionando los datos como su activo más valioso
@@ -209,7 +210,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 89424
 # ENCONTRANDO EL ORIGEN DEL PROBLEMA
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: PABLO JAVIER FERNANDEZ
 ## Title: ENCONTRANDO EL ORIGEN DEL PROBLEMA
@@ -222,7 +223,7 @@ Además...olvídate completamente de reiniciar el servidor para "solucionar" el 
 #  
 #### SessionID: 89451
 # Ciencia de datos, implementado modelos de clasificación con Python
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ahias Portillo
 ## Title: Ciencia de datos, implementado modelos de clasificación con Python
@@ -235,7 +236,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 87927
 # El ABC de los Reportes
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Yanitza Campos
 ## Title: El ABC de los Reportes
@@ -244,7 +245,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 88269
 # EL ARTE DE DOMINAR SQL SERVER DESDE LA PERSPECTIVA DEL DESARROLLO Y LA ADMINISTRACION
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: PABLO JAVIER FERNANDEZ
 ## Title: EL ARTE DE DOMINAR SQL SERVER DESDE LA PERSPECTIVA DEL DESARROLLO Y LA ADMINISTRACION
@@ -257,7 +258,7 @@ En esta sesión, ganarás conocimiento para una implementación de SQL Server 20
 #  
 #### SessionID: 88309
 # SQL en la nube o en tierra??...pensemos en SQL infraestructura hibrida
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Vladimir Guzman
 ## Title: SQL en la nube o en tierra??...pensemos en SQL infraestructura hibrida
@@ -270,7 +271,7 @@ En esta sesión veremos como pueden trabajar en forma coordinada SQL On Premises
 #  
 #### SessionID: 88335
 # Azure Fundaments for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Carlos Robles
 ## Title: Azure Fundaments for the SQL Server DBA
@@ -284,7 +285,7 @@ During this session I will show you the basics about Azure, what it is, how it w
 #  
 #### SessionID: 88400
 # Introduccion a Machine Learning
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Raul Sao
 ## Title: Introduccion a Machine Learning
@@ -293,7 +294,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 88780
 # Necesito implementar Power BI en mi empresa ¿por donde empiezo?
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Necesito implementar Power BI en mi empresa ¿por donde empiezo?
@@ -302,7 +303,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 88848
 # Dr Rudo SQL presenta: Mejores practicas de un DBA para aprovechar SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Dr Rudo SQL presenta: Mejores practicas de un DBA para aprovechar SQL Server 2019
@@ -311,7 +312,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 86925
 # Data Visualization: How to truly tell a great story!
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization: How to truly tell a great story!
@@ -320,7 +321,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 87089
 # Introduction to azure cosmos DB
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christian Araujo
 ## Title: Introduction to azure cosmos DB
@@ -329,7 +330,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88121
 # SQL Server containers on Docker, Kubernetes and more
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carlos Robles
 ## Title: SQL Server containers on Docker, Kubernetes and more
@@ -342,7 +343,7 @@ Join me to discuss further about this interesting topic that is called by some e
 #  
 #### SessionID: 88308
 # Analisis en tiempo real con Power BI
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Vladimir Guzman
 ## Title: Analisis en tiempo real con Power BI
@@ -354,7 +355,7 @@ En esta sesión se mostrara como:
 #  
 #### SessionID: 88844
 # Big Data en la Nube - Ecosistema Hadoop con HDInsight
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joseph Arriola
 ## Title: Big Data en la Nube - Ecosistema Hadoop con HDInsight
@@ -364,7 +365,7 @@ Una forma de implementar de forma rápida un proyecto de Big Data es a través d
 #  
 #### SessionID: 88847
 # Dr Rudo SQL presenta: Fin del soporte de SQL 2008-2008R2 ¿cómo migrar mi base de datos a Azure?
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Dr Rudo SQL presenta: Fin del soporte de SQL 2008-2008R2 ¿cómo migrar mi base de datos a Azure?
@@ -373,7 +374,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88849
 # Introducción a R y Visual Studio
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ricardo Estrada
 ## Title: Introducción a R y Visual Studio
@@ -382,7 +383,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 86950
 # Usando la ciencia de datos para impulsar un cambio más allá de lo digital
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Fabricio Quintanilla
 ## Title: Usando la ciencia de datos para impulsar un cambio más allá de lo digital
@@ -394,7 +395,7 @@ En cuanto a la experiencia, se trata, por ejemplo, de utilizar los datos de los 
 #  
 #### SessionID: 86993
 # Design an Evolutionary Database
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Keneth Murillo
 ## Title: Design an Evolutionary Database
@@ -403,7 +404,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 87092
 # Designing Hybrid environments with Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christian Araujo
 ## Title: Designing Hybrid environments with Microsoft Azure
@@ -412,7 +413,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 87912
 # T-SQL Basics: Coding for performance
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Eduardo Pivaral
 ## Title: T-SQL Basics: Coding for performance
@@ -423,7 +424,7 @@ In this session, we will learn some basic tips to improve our code and improve d
 #  
 #### SessionID: 88777
 # The Art and Science of SQL Server Indexes (Learn when to create or drop an index)
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Mynor Bolanos
 ## Title: The Art and Science of SQL Server Indexes (Learn when to create or drop an index)
@@ -434,7 +435,7 @@ This will be a practical session. We will explore in more details the missing, u
 #  
 #### SessionID: 88779
 # Self-service data preparation con Power BI Dataflows
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Self-service data preparation con Power BI Dataflows
@@ -443,7 +444,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89053
 # De cero a 100 con Excel como fuente de datos principal y Power BI
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Juan Alvarado
 ## Title: De cero a 100 con Excel como fuente de datos principal y Power BI
@@ -452,7 +453,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 89452
 # Estadísticas para ciencia de datos, amasando los datos con R
-#### [Back to calendar](#SQLSaturday-#828-Guatemala-2019)
+#### [Back to calendar](#nr-828)
 Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ahias Portillo
 ## Title: Estadísticas para ciencia de datos, amasando los datos con R

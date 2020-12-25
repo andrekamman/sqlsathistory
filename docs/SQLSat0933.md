@@ -1,3 +1,4 @@
+#### Nr: 933
 #### [Back to Main list](index.md)
 # SQLSaturday #933 - Nashville 2020
 Start Time (24h)|Speaker|Track|Title
@@ -58,7 +59,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 100563
 # On-Site Registration  non-printed SPEEDPASS
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Other
 ## Speaker: SQLSaturday Nashville
 ## Title: On-Site Registration  non-printed SPEEDPASS
@@ -67,7 +68,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Other
 #  
 #### SessionID: 98888
 # Performance Tuning, Getting the Biggest Bang for Your Buck
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 ## Speaker: Monica Rathbun
 ## Title: Performance Tuning, Getting the Biggest Bang for Your Buck
@@ -76,7 +77,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 #  
 #### SessionID: 99178
 # User Experience Brilliance in Power BI Dashboards
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Professional Development
 ## Speaker: Hilary Wilkie
 ## Title: User Experience Brilliance in Power BI Dashboards
@@ -87,7 +88,7 @@ In this session, we will explore how to start using UX and the psychology behind
 #  
 #### SessionID: 99258
 # SQL Server Database Security: Do Your Part, Be Security Smart!
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 ## Speaker: Julie McLain-Harper
 ## Title: SQL Server Database Security: Do Your Part, Be Security Smart!
@@ -96,7 +97,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 #  
 #### SessionID: 99381
 # Keeping up with change in Office 365
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Other
 ## Speaker: Daniel Glenn
 ## Title: Keeping up with change in Office 365
@@ -108,7 +109,7 @@ During this session, we will discuss how IT Pros and collaboration enablers can 
 #  
 #### SessionID: 99654
 # T-SQL Window Function Performance in 2019
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database   Application Development
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Performance in 2019
@@ -117,7 +118,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database   Application 
 #  
 #### SessionID: 99692
 # Data Bricks, Spark, Machine Learning and Azure Synapse Analytics
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: Simon Kingaby
 ## Title: Data Bricks, Spark, Machine Learning and Azure Synapse Analytics
@@ -126,7 +127,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 99794
 # Intro to Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: Olivia Albertson
 ## Title: Intro to Azure Data Factory
@@ -135,7 +136,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 99796
 # Introduction to the hybrid cloud
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Architecture  Management
 ## Speaker: Gilda Alvarez
 ## Title: Introduction to the hybrid cloud
@@ -144,7 +145,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 99809
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database   Application Development
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -153,7 +154,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database   Application 
 #  
 #### SessionID: 100120
 # Data Visualization Tools for Entrepreneurs
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Analytics and Visualization
 ## Speaker: Sekou Tyler
 ## Title: Data Visualization Tools for Entrepreneurs
@@ -162,7 +163,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #  
 #### SessionID: 101830
 # The Future of Azure Data Services: What are Azure Synapse Analyti
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: Josh Luedeman
 ## Title: The Future of Azure Data Services: What are Azure Synapse Analyti
@@ -171,7 +172,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 98856
 # Azure 101
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: Denny Cherry
 ## Title: Azure 101
@@ -180,7 +181,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 99020
 # Using Open Source Software to Collect Performance Metrics
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 ## Speaker: Tracy Boggiano
 ## Title: Using Open Source Software to Collect Performance Metrics
@@ -191,7 +192,7 @@ In this session, we will discuss sp_whoisactive and Query Store to track what qu
 #  
 #### SessionID: 99095
 # Introduction to GitHub
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database   Application Development
 ## Speaker: Joshua Higginbotham
 ## Title: Introduction to GitHub
@@ -204,7 +205,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database   Application 
 #  
 #### SessionID: 99252
 # Let's Dive Into SQL Server I/O To Improve T-SQL Performance
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database   Application Development
 ## Speaker: Andy Yun
 ## Title: Let's Dive Into SQL Server I/O To Improve T-SQL Performance
@@ -217,7 +218,7 @@ When you leave, you'll be able to optimize your T-SQL reduce I/O and improve per
 #  
 #### SessionID: 99526
 # What You'll Love in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 ## Speaker: John Morehouse
 ## Title: What You'll Love in SQL Server 2019
@@ -226,7 +227,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 #  
 #### SessionID: 99769
 # Determining the Cost to Move to Azure
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: Dustin Dorsey
 ## Title: Determining the Cost to Move to Azure
@@ -237,7 +238,7 @@ In this session, I will walk you through steps that show you how to estimate the
 #  
 #### SessionID: 99780
 # Building a Strong Foundation for Data Analysis
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Architecture  Management
 ## Speaker: Leslie Andrews
 ## Title: Building a Strong Foundation for Data Analysis
@@ -246,7 +247,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 98810
 # Inside the Database Engine
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 ## Speaker: John Deardurff
 ## Title: Inside the Database Engine
@@ -255,7 +256,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 #  
 #### SessionID: 98858
 # Lessons Learned from a Successful Enterprise Power BI Deployment
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Architecture  Management
 ## Speaker: Steve Wake
 ## Title: Lessons Learned from a Successful Enterprise Power BI Deployment
@@ -264,7 +265,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 99307
 # A DBAs Guide to the Proper Handling of Corruption
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 ## Speaker: Brandon Leach
 ## Title: A DBAs Guide to the Proper Handling of Corruption
@@ -277,7 +278,7 @@ Then we will move onto how to properly manage an incident and discuss some commo
 #  
 #### SessionID: 99456
 # Data Virtualization with PolyBase
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database   Application Development
 ## Speaker: Kevin Feasel
 ## Title: Data Virtualization with PolyBase
@@ -286,7 +287,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database   Application 
 #  
 #### SessionID: 99638
 # CosmosDB is the missing piece to your Data puzzle!
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: Hasan Savran
 ## Title: CosmosDB is the missing piece to your Data puzzle!
@@ -306,7 +307,7 @@ CosmosDB Limitations
 #  
 #### SessionID: 99664
 # How To Be The DBA When You Don't Have A DBA
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 ## Speaker: Eric Cobb
 ## Title: How To Be The DBA When You Don't Have A DBA
@@ -317,7 +318,7 @@ Tailored to the "Non-DBA", this session will cover these topics and more to ensu
 #  
 #### SessionID: 99777
 # Checking in on Tabular Models: Making Them Work Better
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Architecture  Management
 ## Speaker: Kevin Wilkie
 ## Title: Checking in on Tabular Models: Making Them Work Better
@@ -326,7 +327,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 99787
 # The Future Is Here for Containers!
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: Marsha Pierce
 ## Title: The Future Is Here for Containers!
@@ -335,7 +336,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 100540
 # What is DevOps and Why Should DBAs Care?
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 ## Speaker: Kathi Kellenberger
 ## Title: What is DevOps and Why Should DBAs Care?
@@ -344,7 +345,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 #  
 #### SessionID: 100566
 # Pure Storage - Lunch Session
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Other
 ## Speaker: SQLSaturday Nashville
 ## Title: Pure Storage - Lunch Session
@@ -353,7 +354,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Other
 #  
 #### SessionID: 101353
 # Look Smart  Save Money - Database Optimization, Consolidation,  Capacity Planning w/ SQL Governor
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 ## Speaker: Matt Gordon
 ## Title: Look Smart  Save Money - Database Optimization, Consolidation,  Capacity Planning w/ SQL Governor
@@ -362,7 +363,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 #  
 #### SessionID: 101556
 # Going Beyond Monitoring With SentryOne
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Other
 ## Speaker: Andy Yun
 ## Title: Going Beyond Monitoring With SentryOne
@@ -371,7 +372,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Other
 #  
 #### SessionID: 101749
 # SQL Server in "The Cloud": High Availability and Disaster Recover
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 ## Speaker: David Bermingham
 ## Title: SQL Server in "The Cloud": High Availability and Disaster Recover
@@ -380,7 +381,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 #  
 #### SessionID: 101794
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Architecture  Management
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
@@ -389,7 +390,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 102101
 # Python in SQL Server 2017 and 2019
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Architecture  Management
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017 and 2019
@@ -398,7 +399,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 98804
 # An Introduction to Azure Data Studio
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 ## Speaker: Dave Bland
 ## Title: An Introduction to Azure Data Studio
@@ -407,7 +408,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 #  
 #### SessionID: 98821
 # Applying Visual Design Best Practices in Power BI
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Analytics and Visualization
 ## Speaker: Michael Hewitt
 ## Title: Applying Visual Design Best Practices in Power BI
@@ -416,7 +417,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #  
 #### SessionID: 98882
 # The Psychology of Better Power BI Reporting
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Analytics and Visualization
 ## Speaker: Ed Watson
 ## Title: The Psychology of Better Power BI Reporting
@@ -425,7 +426,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #  
 #### SessionID: 99050
 # Azure Data Services and Data Estate Modernization
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: Nikki Conley
 ## Title: Azure Data Services and Data Estate Modernization
@@ -434,7 +435,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 99296
 # Moving Past Imposter Syndrome
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Professional Development
 ## Speaker: Wendy Pastrick
 ## Title: Moving Past Imposter Syndrome
@@ -443,7 +444,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 99695
 # Streamline Database Deployments
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database   Application Development
 ## Speaker: Elizabeth Noble
 ## Title: Streamline Database Deployments
@@ -458,7 +459,7 @@ Attendees should be familiar with general concepts about source control and be c
 #  
 #### SessionID: 99773
 # Looking "Normal" and Seeing "Stars": Table Designs Working Together
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database   Application Development
 ## Speaker: Deborah Melkin
 ## Title: Looking "Normal" and Seeing "Stars": Table Designs Working Together
@@ -471,7 +472,7 @@ By the end of the session, you will better understand how using the two designs 
 #  
 #### SessionID: 99790
 # Database People and DevOps: The Fundamentals
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database   Application Development
 ## Speaker: Stuart Ainsworth
 ## Title: Database People and DevOps: The Fundamentals
@@ -485,7 +486,7 @@ Topics covered include:
 #  
 #### SessionID: 99813
 # Learn How to Master DATETIME Functions Like a Boss in 59.5 Minutes or Less
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database   Application Development
 ## Speaker: Peter Doyle
 ## Title: Learn How to Master DATETIME Functions Like a Boss in 59.5 Minutes or Less
@@ -506,7 +507,7 @@ So stop wasting time and get on board because it's about time for the plane to d
 #  
 #### SessionID: 100569
 # Azure Data  SQL Server: What to Use When
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: Rie Irish
 ## Title: Azure Data  SQL Server: What to Use When
@@ -515,7 +516,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 98816
 # D.R.E.A.M (Data Rules Everything Around Me) - creating a data-driven business culture
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Professional Development
 ## Speaker: Holly Rachel
 ## Title: D.R.E.A.M (Data Rules Everything Around Me) - creating a data-driven business culture
@@ -528,7 +529,7 @@ Attendees will learn:
 #  
 #### SessionID: 98977
 # Introduction to Azure Streaming Analytics
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Analytics and Visualization
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Streaming Analytics
@@ -537,7 +538,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #  
 #### SessionID: 99077
 # Performance Tuning Azure SQL Databases
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: David Maxwell
 ## Title: Performance Tuning Azure SQL Databases
@@ -548,7 +549,7 @@ In this session, we’ll cover three key performance tuning features; Automatic 
 #  
 #### SessionID: 99129
 # Secrets of the Plan Cache
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 ## Speaker: Peter Shore
 ## Title: Secrets of the Plan Cache
@@ -557,7 +558,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 #  
 #### SessionID: 99172
 # Goin' Fishin' on the Azure Data Lake
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Architecture  Management
 ## Speaker: Spencer Swindell
 ## Title: Goin' Fishin' on the Azure Data Lake
@@ -566,7 +567,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 99297
 # Turn Runbooks into Notebooks: Handling Maintenance and Emergencies with Azure Data Studio
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 ## Speaker: Matt Gordon
 ## Title: Turn Runbooks into Notebooks: Handling Maintenance and Emergencies with Azure Data Studio
@@ -575,7 +576,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 #  
 #### SessionID: 99574
 # The Submission of Power BI, albeit Kicking and Screaming.
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Analytics and Visualization
 ## Speaker: Sarah Whitworth
 ## Title: The Submission of Power BI, albeit Kicking and Screaming.
@@ -584,7 +585,7 @@ Event Date: 18-01-2020 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #  
 #### SessionID: 99771
 # Improve Your SSIS Deployments from 10 Minutes to 30 Seconds
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Powershell
 ## Speaker: Michael McKinley
 ## Title: Improve Your SSIS Deployments from 10 Minutes to 30 Seconds
@@ -598,7 +599,7 @@ Best practices include:
 #  
 #### SessionID: 99812
 # PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#933-Nashville-2020)
+#### [Back to calendar](#nr-933)
 Event Date: 18-01-2020 - Session time: 14:50:00 - Track: Database Adminstration
 ## Speaker: Amy Herold
 ## Title: PowerShell for the DBA

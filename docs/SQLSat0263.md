@@ -1,3 +1,4 @@
+#### Nr: 263
 #### [Back to Main list](index.md)
 # SQLSaturday #263 - Manila 2013
 Start Time (24h)|Speaker|Track|Title
@@ -10,7 +11,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13784
 # Practical SQL CLR
-#### [Back to calendar](#SQLSaturday-#263-Manila-2013)
+#### [Back to calendar](#nr-263)
 Event Date: 23-11-2013 - Session time: 00:00:00 - Track: SQL Professional and Developers
 ## Speaker: Timothy Mislos
 ## Title: Practical SQL CLR
@@ -19,7 +20,7 @@ Event Date: 23-11-2013 - Session time: 00:00:00 - Track: SQL Professional and De
 #  
 #### SessionID: 14583
 # Commodity Server Provisioning for Database Servers
-#### [Back to calendar](#SQLSaturday-#263-Manila-2013)
+#### [Back to calendar](#nr-263)
 Event Date: 23-11-2013 - Session time: 00:00:00 - Track: SQL Professional and Developers
 ## Speaker: Toto Gamboa
 ## Title: Commodity Server Provisioning for Database Servers
@@ -28,7 +29,7 @@ Event Date: 23-11-2013 - Session time: 00:00:00 - Track: SQL Professional and De
 #  
 #### SessionID: 16523
 # Developing and Deploying SSIS Solutions
-#### [Back to calendar](#SQLSaturday-#263-Manila-2013)
+#### [Back to calendar](#nr-263)
 Event Date: 23-11-2013 - Session time: 00:00:00 - Track: SQL Professional and Developers
 ## Speaker: Jennifer Osorio
 ## Title: Developing and Deploying SSIS Solutions
@@ -37,7 +38,7 @@ Event Date: 23-11-2013 - Session time: 00:00:00 - Track: SQL Professional and De
 #  
 #### SessionID: 19964
 # SQL Server 2012 HA Options
-#### [Back to calendar](#SQLSaturday-#263-Manila-2013)
+#### [Back to calendar](#nr-263)
 Event Date: 23-11-2013 - Session time: 00:00:00 - Track: SQL Professional and Developers
 ## Speaker: Michael Corpuz
 ## Title: SQL Server 2012 HA Options
@@ -46,7 +47,7 @@ Event Date: 23-11-2013 - Session time: 00:00:00 - Track: SQL Professional and De
 #  
 #### SessionID: 23434
 # Alternative ETL development with Kettle
-#### [Back to calendar](#SQLSaturday-#263-Manila-2013)
+#### [Back to calendar](#nr-263)
 Event Date: 23-11-2013 - Session time: 00:00:00 - Track: SQL Professional and Developers
 ## Speaker: Romeliz Valenciano
 ## Title: Alternative ETL development with Kettle

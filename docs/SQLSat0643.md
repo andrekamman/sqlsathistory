@@ -1,3 +1,4 @@
+#### Nr: 643
 #### [Back to Main list](index.md)
 # SQLSaturday #643 - Louisville 2017
 Start Time (24h)|Speaker|Track|Title
@@ -39,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 62697
 # Data Cleansing With SQL And R
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Data Cleansing With SQL And R
@@ -48,7 +49,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 62713
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -57,7 +58,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 63943
 # Query Store Primer
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
@@ -66,7 +67,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64231
 # Everyday Extended Events
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jes Schultz
 ## Title: Everyday Extended Events
@@ -75,7 +76,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64342
 # Parameter Sniffing the Good, the Bad, and the Ugly
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lance Tidwell
 ## Title: Parameter Sniffing the Good, the Bad, and the Ugly
@@ -84,7 +85,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65483
 # Using Your On-prem Data in a Cloud World
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Daniel Glenn
 ## Title: Using Your On-prem Data in a Cloud World
@@ -95,7 +96,7 @@ In this session, we will discover the benefits of using the cloud tools, how tho
 #  
 #### SessionID: 63147
 # Show me whatcha workin' with: Big Data Edition
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Josh Luedeman
 ## Title: Show me whatcha workin' with: Big Data Edition
@@ -104,7 +105,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 63157
 # Let Her Finish: Supporting Women's Voices from meetings to the board room
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Let Her Finish: Supporting Women's Voices from meetings to the board room
@@ -114,7 +115,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 64286
 # Choose Your Own Adventure:  Troubleshooting
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Chapman
 ## Title: Choose Your Own Adventure:  Troubleshooting
@@ -123,7 +124,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65962
 # Transitioning from Integration Services to Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Meagan Longoria
 ## Title: Transitioning from Integration Services to Azure Data Factory
@@ -132,7 +133,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 66211
 # Bare Naked Skinny on SQL Server
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Bare Naked Skinny on SQL Server
@@ -145,7 +146,7 @@ In this session I will disrobe misunderstandings related to the aforementioned t
 #  
 #### SessionID: 66518
 # Emergency! Are You Ready for Disaster to Strike?
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Emergency! Are You Ready for Disaster to Strike?
@@ -154,7 +155,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63879
 # Demystifying Data Compression
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Andy Mallon
 ## Title: Demystifying Data Compression
@@ -167,7 +168,7 @@ By the end of this session, you'll have a better idea of how the different compr
 #  
 #### SessionID: 63952
 # Let Me Finish... Isolating Write Operations
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Let Me Finish... Isolating Write Operations
@@ -176,7 +177,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 64124
 # Extending DevOps To SQL Server
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Extending DevOps To SQL Server
@@ -185,7 +186,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 64248
 # Data Visualization:  How to truly tell a great story!
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization:  How to truly tell a great story!
@@ -194,7 +195,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 65103
 # Sorcerer's Apprentice Guide to SQL Server Configuration Options
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Justin Randall
 ## Title: Sorcerer's Apprentice Guide to SQL Server Configuration Options
@@ -203,7 +204,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68482
 # Measure Twice, cut once: Intro to unit testing with tSQLt
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Elizabeth Noble
 ## Title: Measure Twice, cut once: Intro to unit testing with tSQLt
@@ -212,7 +213,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 63204
 # Making your existing hardware work for you
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: Making your existing hardware work for you
@@ -221,7 +222,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63286
 # Introduction to Azure Streaming Analytics
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Streaming Analytics
@@ -230,7 +231,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 64233
 # New Instance, Now what?
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Donahoe
 ## Title: New Instance, Now what?
@@ -243,7 +244,7 @@ By the end of this session, you will have developed a pallet of tools to help yo
 #  
 #### SessionID: 64298
 # Wait Statistics - The Top 5 Waits You Should Know
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Other
 ## Speaker: David Maxwell
 ## Title: Wait Statistics - The Top 5 Waits You Should Know
@@ -252,7 +253,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Other
 #  
 #### SessionID: 66212
 # The Anatomy of Select
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Jason Brimhall
 ## Title: The Anatomy of Select
@@ -265,7 +266,7 @@ This session will help the attendee better understand the Select statement. With
 #  
 #### SessionID: 62652
 # The Basics of Manipulating Data
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: The Basics of Manipulating Data
@@ -274,7 +275,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 62726
 # Stretch Database and Managed Backups: Cloud Services for your SQL Servers
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Loree
 ## Title: Stretch Database and Managed Backups: Cloud Services for your SQL Servers
@@ -283,7 +284,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63320
 # Battle Scars: Porting a SQL Server app to an MPP system
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Aaron Cutshall
 ## Title: Battle Scars: Porting a SQL Server app to an MPP system
@@ -292,7 +293,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 63718
 # DBA 101 – Let’s Get It Started
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lori Edwards
 ## Title: DBA 101 – Let’s Get It Started
@@ -301,7 +302,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64887
 # Oracle vs. SQL Server Indexing-  The Good, the Bad and the Ugly
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Oracle vs. SQL Server Indexing-  The Good, the Bad and the Ugly
@@ -316,7 +317,7 @@ Takeaways are:
 #  
 #### SessionID: 65933
 # Managing Very Large Databases with SQL Server
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Carrig
 ## Title: Managing Very Large Databases with SQL Server
@@ -325,7 +326,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63367
 # Learn History from Temporal Tables
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: Learn History from Temporal Tables
@@ -334,7 +335,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64011
 # Crash Course on Better SQL Development
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
@@ -343,7 +344,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 65423
 # How to Keep Your Database Servers Out of the News
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: How to Keep Your Database Servers Out of the News
@@ -352,7 +353,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65427
 # Tame Your Unruly Data With Constraints
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data With Constraints
@@ -361,7 +362,7 @@ Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 66526
 # Medicating Tempdb Headaches
-#### [Back to calendar](#SQLSaturday-#643-Louisville-2017)
+#### [Back to calendar](#nr-643)
 Event Date: 05-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kat Edrington
 ## Title: Medicating Tempdb Headaches

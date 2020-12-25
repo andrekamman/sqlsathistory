@@ -1,3 +1,4 @@
+#### Nr: 49
 #### [Back to Main list](index.md)
 # SQLSaturday #49 - Orlando 2010
 Start Time (24h)|Speaker|Track|Title
@@ -66,7 +67,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28407
 # The Dirty Dozen: PowerShell Scripts for Busy DBAs
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Aaron Nelson
 ## Title: The Dirty Dozen: PowerShell Scripts for Busy DBAs
@@ -75,7 +76,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 28408
 # PowerShell 2.0 Beyond the Dirty Dozen
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Aaron Nelson
 ## Title: PowerShell 2.0 Beyond the Dirty Dozen
@@ -84,7 +85,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 28525
 # Zero to Dashboard in 60 minutes
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Adam Jorgensen
 ## Title: Zero to Dashboard in 60 minutes
@@ -93,7 +94,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 28719
 # Introduction to SQL Server Statistics
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Andy Warren
 ## Title: Introduction to SQL Server Statistics
@@ -102,7 +103,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 28803
 # Multi-Server Management with SQL Server 2008+
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Argenis Fernandez
 ## Title: Multi-Server Management with SQL Server 2008+
@@ -112,7 +113,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 29102
 # SQL Backups  Recovery
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Brandie Tarvin
 ## Title: SQL Backups  Recovery
@@ -121,7 +122,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 29278
 # Reporting Services Delivery Mechanisms (mini)
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Brian McDonald
 ## Title: Reporting Services Delivery Mechanisms (mini)
@@ -130,7 +131,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 29279
 # Documenting BI (mini)
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Brian McDonald
 ## Title: Documenting BI (mini)
@@ -139,7 +140,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 29344
 # Troubleshooting Tips (MINI)
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: TSQL
 ## Speaker: Brandie Tarvin
 ## Title: Troubleshooting Tips (MINI)
@@ -148,7 +149,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: TSQL
 #  
 #### SessionID: 29575
 # ETL with PowerShell
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Chad Miller
 ## Title: ETL with PowerShell
@@ -157,7 +158,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 29605
 # Profiling:  It's Okay in SQL Server
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Jack Corbett
 ## Title: Profiling:  It's Okay in SQL Server
@@ -166,7 +167,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 29807
 # Response Time Analysis of SQL Server Performance
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Sponsor Demo
 ## Speaker: David Waugh
 ## Title: Response Time Analysis of SQL Server Performance
@@ -175,7 +176,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Sponsor Demo
 #  
 #### SessionID: 29924
 # Locking and Blocking for Developers
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Dmitri Korotkevitch
 ## Title: Locking and Blocking for Developers
@@ -184,7 +185,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 30008
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: TSQL
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -193,7 +194,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: TSQL
 #  
 #### SessionID: 30037
 # Windows PowerShell Best Practices for SQL DBA’s
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Ed Wilson
 ## Title: Windows PowerShell Best Practices for SQL DBA’s
@@ -202,7 +203,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 30130
 # SSIS Configurations, Expressions and Constraints
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Eric Wisdahl
 ## Title: SSIS Configurations, Expressions and Constraints
@@ -211,7 +212,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 30132
 # SSIS - Data Flow Buffer Breakdown
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Eric Wisdahl
 ## Title: SSIS - Data Flow Buffer Breakdown
@@ -220,7 +221,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 30302
 # Introduction to Execution Plans
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Nathan Heaivilin
 ## Title: Introduction to Execution Plans
@@ -229,7 +230,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 30607
 # Learning SSIS under 1 hour
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Jose Chinchilla
 ## Title: Learning SSIS under 1 hour
@@ -238,7 +239,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 30665
 # Choosing Indexes For Performance
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Jeffrey Garbus
 ## Title: Choosing Indexes For Performance
@@ -248,7 +249,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 30680
 # Everything you wanted to know about IDENTITY colum
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: TSQL
 ## Speaker: Jonathon Moorman
 ## Title: Everything you wanted to know about IDENTITY colum
@@ -258,7 +259,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: TSQL
 #  
 #### SessionID: 30938
 # Moving Data with SQL Azure and SSIS
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: John Welch
 ## Title: Moving Data with SQL Azure and SSIS
@@ -267,7 +268,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 31028
 # Policy-Based Management in a Nutshell
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Jorge Segarra
 ## Title: Policy-Based Management in a Nutshell
@@ -276,7 +277,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 31270
 # Transactional Replication: Beyond The Basics
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Kendal Van Dyke
 ## Title: Transactional Replication: Beyond The Basics
@@ -285,7 +286,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 31286
 # Configuration Domination: Taking Control of SQL (M
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Ken Simmons
 ## Title: Configuration Domination: Taking Control of SQL (M
@@ -294,7 +295,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 31288
 # Automating Routine Maintenance
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Ken Simmons
 ## Title: Automating Routine Maintenance
@@ -303,7 +304,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 31407
 # Introduction to Analysis Services
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Devin Knight
 ## Title: Introduction to Analysis Services
@@ -312,7 +313,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 31643
 # Working with SQL Server - SQLPS
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Maximo Trinidad
 ## Title: Working with SQL Server - SQLPS
@@ -321,7 +322,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 31685
 # R2 Reporting Services, The New Stuff
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mike Davis
 ## Title: R2 Reporting Services, The New Stuff
@@ -330,7 +331,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 31771
 # Spatial Queries in SQL 2008
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: TSQL
 ## Speaker: Michael Stark
 ## Title: Spatial Queries in SQL 2008
@@ -339,7 +340,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: TSQL
 #  
 #### SessionID: 31796
 # XML 101 for the SQL Developer 
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: TSQL
 ## Speaker: Michael Antonovich
 ## Title: XML 101 for the SQL Developer 
@@ -348,7 +349,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: TSQL
 #  
 #### SessionID: 31798
 # BI Pivot Tables  Charts, Not a 1 Tool Exercise
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Michael Antonovich
 ## Title: BI Pivot Tables  Charts, Not a 1 Tool Exercise
@@ -357,7 +358,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 31888
 # As a DBA, Where Do I Start?!
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Mike Walsh
 ## Title: As a DBA, Where Do I Start?!
@@ -366,7 +367,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 31961
 # Securing your Data Warehouse
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Michael Mollenhour
 ## Title: Securing your Data Warehouse
@@ -375,7 +376,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 32129
 # Log Shipping vs. Replication; the Great Debate
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Troy Gallant
 ## Title: Log Shipping vs. Replication; the Great Debate
@@ -384,7 +385,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 32152
 # Parts of Facebook: Cassandra and MapReduce
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: patrick thompson
 ## Title: Parts of Facebook: Cassandra and MapReduce
@@ -393,7 +394,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 32153
 # Cassandra, Mongo and Mapreduce (MINI)
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: patrick thompson
 ## Title: Cassandra, Mongo and Mapreduce (MINI)
@@ -402,7 +403,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 32257
 # How to Make a Killer Presentation (MINI)
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Plamen Ratchev
 ## Title: How to Make a Killer Presentation (MINI)
@@ -411,7 +412,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 32260
 # Zen and the Art of Writing SQL Query - Part 1
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: TSQL
 ## Speaker: Plamen Ratchev
 ## Title: Zen and the Art of Writing SQL Query - Part 1
@@ -420,7 +421,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: TSQL
 #  
 #### SessionID: 32261
 # Zen and the Art of Writing SQL Query - Part 2
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: TSQL
 ## Speaker: Plamen Ratchev
 ## Title: Zen and the Art of Writing SQL Query - Part 2
@@ -429,7 +430,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: TSQL
 #  
 #### SessionID: 32262
 # CDC + SSIS = SCD 
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Patrick LeBlanc
 ## Title: CDC + SSIS = SCD 
@@ -439,7 +440,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 32263
 # Speaking, Should I? (MINI)
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Patrick LeBlanc
 ## Title: Speaking, Should I? (MINI)
@@ -448,7 +449,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 32344
 # SQL and SEO - Making Money with SQL Server
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Jared  Nielsen
 ## Title: SQL and SEO - Making Money with SQL Server
@@ -457,7 +458,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 32346
 # Tips  Tricks for Dynamic SSRS Reports 
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for Dynamic SSRS Reports 
@@ -467,7 +468,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32501
 # Planning your ETL architecture with SSIS
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Rafael Salas
 ## Title: Planning your ETL architecture with SSIS
@@ -477,7 +478,7 @@ In this session, we will use ETL best practices to make a requirements checklist
 #  
 #### SessionID: 32623
 # DBA Script Thumb 2010
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Rodney Landrum
 ## Title: DBA Script Thumb 2010
@@ -486,7 +487,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32641
 # Why a DBA Should Learn PowerShell (MINI)
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Ronald Dameron
 ## Title: Why a DBA Should Learn PowerShell (MINI)
@@ -495,7 +496,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 32642
 # Automate Login Administration  Compliance Reports
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Ronald Dameron
 ## Title: Automate Login Administration  Compliance Reports
@@ -504,7 +505,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 32797
 # expressor data integration software product demons
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Sponsor Demo
 ## Speaker: Andrew Szalaji
 ## Title: expressor data integration software product demons
@@ -513,7 +514,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Sponsor Demo
 #  
 #### SessionID: 32820
 # Information Builders
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Sponsor Demo
 ## Speaker: Scott Schledwitz
 ## Title: Information Builders
@@ -522,7 +523,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Sponsor Demo
 #  
 #### SessionID: 32826
 # Developing Applications with SQL Azure
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Scott Klein
 ## Title: Developing Applications with SQL Azure
@@ -531,7 +532,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 32913
 # Red Gate Software - Ingeniously simple tools
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Sponsor Demo
 ## Speaker: Shawn McGehee
 ## Title: Red Gate Software - Ingeniously simple tools
@@ -540,7 +541,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Sponsor Demo
 #  
 #### SessionID: 33068
 # What Are You Waiting For?
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Thomas LaRock
 ## Title: What Are You Waiting For?
@@ -549,7 +550,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 33536
 # SQL Server Memory Deep Dive
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Kevin Boles
 ## Title: SQL Server Memory Deep Dive
@@ -558,7 +559,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 33537
 # SQL Server Partitioning from A to Z
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Kevin Boles
 ## Title: SQL Server Partitioning from A to Z
@@ -567,7 +568,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 33649
 # Data Encryption and Key Management in SQL 
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Said Salomon
 ## Title: Data Encryption and Key Management in SQL 
@@ -576,7 +577,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 33653
 # Designing a highly available SQL Environment
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Tim  Beamer
 ## Title: Designing a highly available SQL Environment
@@ -585,7 +586,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 33664
 # ITIL V3 for the Database Administrator 
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Timothy McAliley
 ## Title: ITIL V3 for the Database Administrator 
@@ -594,7 +595,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 34485
 # Data Warehousing with SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Wes Dumey
 ## Title: Data Warehousing with SQL Server 2008
@@ -603,7 +604,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 34703
 # Optimize Resources with MAP 
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kathi Kellenberger
 ## Title: Optimize Resources with MAP 
@@ -613,7 +614,7 @@ Event Date: 16-10-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 34705
 # Women in Technology (WIT)
-#### [Back to calendar](#SQLSaturday-#49-Orlando-2010)
+#### [Back to calendar](#nr-49)
 Event Date: 16-10-2010 - Session time: 00:00:00 - Track: Sponsor Demo
 ## Speaker: Kathi Kellenberger
 ## Title: Women in Technology (WIT)

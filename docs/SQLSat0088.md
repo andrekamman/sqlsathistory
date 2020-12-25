@@ -1,3 +1,4 @@
+#### Nr: 88
 #### [Back to Main list](index.md)
 # SQLSaturday #88 - Western Cape 2011
 Start Time (24h)|Speaker|Track|Title
@@ -19,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28595
 # SharePoint 2010 Insights – For the DBA
-#### [Back to calendar](#SQLSaturday-#88-Western-Cape-2011)
+#### [Back to calendar](#nr-88)
 Event Date: 03-09-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Alistair Pugin
 ## Title: SharePoint 2010 Insights – For the DBA
@@ -28,7 +29,7 @@ Event Date: 03-09-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 30512
 # Coffee, Sex and BI
-#### [Back to calendar](#SQLSaturday-#88-Western-Cape-2011)
+#### [Back to calendar](#nr-88)
 Event Date: 03-09-2011 - Session time: 00:00:00 - Track: BI/DEV
 ## Speaker: Jason Haddock
 ## Title: Coffee, Sex and BI
@@ -37,7 +38,7 @@ Event Date: 03-09-2011 - Session time: 00:00:00 - Track: BI/DEV
 #  
 #### SessionID: 30892
 # The Hangover 
-#### [Back to calendar](#SQLSaturday-#88-Western-Cape-2011)
+#### [Back to calendar](#nr-88)
 Event Date: 03-09-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jody Roberts
 ## Title: The Hangover 
@@ -46,7 +47,7 @@ Event Date: 03-09-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 31968
 # SSIS for DBA's
-#### [Back to calendar](#SQLSaturday-#88-Western-Cape-2011)
+#### [Back to calendar](#nr-88)
 Event Date: 03-09-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Monty Swanepoel
 ## Title: SSIS for DBA's
@@ -55,7 +56,7 @@ Event Date: 03-09-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32024
 # Using Excel  PowerPivot 
-#### [Back to calendar](#SQLSaturday-#88-Western-Cape-2011)
+#### [Back to calendar](#nr-88)
 Event Date: 03-09-2011 - Session time: 00:00:00 - Track: BI/DEV
 ## Speaker: Mark Stacey
 ## Title: Using Excel  PowerPivot 
@@ -65,7 +66,7 @@ Event Date: 03-09-2011 - Session time: 00:00:00 - Track: BI/DEV
 #  
 #### SessionID: 32025
 # Introduction to Analysis Services for the DBA
-#### [Back to calendar](#SQLSaturday-#88-Western-Cape-2011)
+#### [Back to calendar](#nr-88)
 Event Date: 03-09-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mark Stacey
 ## Title: Introduction to Analysis Services for the DBA
@@ -75,7 +76,7 @@ Event Date: 03-09-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32359
 # Things that DBAs need to know about ORM 
-#### [Back to calendar](#SQLSaturday-#88-Western-Cape-2011)
+#### [Back to calendar](#nr-88)
 Event Date: 03-09-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Peter Willmot
 ## Title: Things that DBAs need to know about ORM 
@@ -84,7 +85,7 @@ Event Date: 03-09-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32540
 # SharePoint as your business-focussed BI front-end
-#### [Back to calendar](#SQLSaturday-#88-Western-Cape-2011)
+#### [Back to calendar](#nr-88)
 Event Date: 03-09-2011 - Session time: 00:00:00 - Track: BI/DEV
 ## Speaker: Rupert Nicolay
 ## Title: SharePoint as your business-focussed BI front-end
@@ -93,7 +94,7 @@ Event Date: 03-09-2011 - Session time: 00:00:00 - Track: BI/DEV
 #  
 #### SessionID: 32923
 # SQL Server Integration Services (SSIS) for a Busin
-#### [Back to calendar](#SQLSaturday-#88-Western-Cape-2011)
+#### [Back to calendar](#nr-88)
 Event Date: 03-09-2011 - Session time: 00:00:00 - Track: BI/DEV
 ## Speaker: Siqhamo Mashologu
 ## Title: SQL Server Integration Services (SSIS) for a Busin
@@ -102,7 +103,7 @@ Event Date: 03-09-2011 - Session time: 00:00:00 - Track: BI/DEV
 #  
 #### SessionID: 33147
 # MDX
-#### [Back to calendar](#SQLSaturday-#88-Western-Cape-2011)
+#### [Back to calendar](#nr-88)
 Event Date: 03-09-2011 - Session time: 00:00:00 - Track: BI/DEV
 ## Speaker: Steve Simon
 ## Title: MDX
@@ -111,7 +112,7 @@ Event Date: 03-09-2011 - Session time: 00:00:00 - Track: BI/DEV
 #  
 #### SessionID: 33198
 # SQL Server - Transaction Log Optimization
-#### [Back to calendar](#SQLSaturday-#88-Western-Cape-2011)
+#### [Back to calendar](#nr-88)
 Event Date: 03-09-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Stephan Lawson
 ## Title: SQL Server - Transaction Log Optimization
@@ -120,7 +121,7 @@ Event Date: 03-09-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 33199
 # The SQL Stack – Configuring For High Availability
-#### [Back to calendar](#SQLSaturday-#88-Western-Cape-2011)
+#### [Back to calendar](#nr-88)
 Event Date: 03-09-2011 - Session time: 00:00:00 - Track: BI/DEV
 ## Speaker: Stephan Lawson
 ## Title: The SQL Stack – Configuring For High Availability
@@ -129,7 +130,7 @@ Event Date: 03-09-2011 - Session time: 00:00:00 - Track: BI/DEV
 #  
 #### SessionID: 33376
 # SQL CLR – SQL 1, CLR 0: Now for round 2
-#### [Back to calendar](#SQLSaturday-#88-Western-Cape-2011)
+#### [Back to calendar](#nr-88)
 Event Date: 03-09-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Theo Potgieter
 ## Title: SQL CLR – SQL 1, CLR 0: Now for round 2
@@ -141,7 +142,7 @@ So what can we us this SQL CLR thing for? Well! Let us put it to work and make i
 #  
 #### SessionID: 34887
 # Kimball lifecycle and Methodology
-#### [Back to calendar](#SQLSaturday-#88-Western-Cape-2011)
+#### [Back to calendar](#nr-88)
 Event Date: 03-09-2011 - Session time: 00:00:00 - Track: BI/DEV
 ## Speaker: Toufiq Abrahams
 ## Title: Kimball lifecycle and Methodology

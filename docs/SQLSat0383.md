@@ -1,3 +1,4 @@
+#### Nr: 383
 #### [Back to Main list](index.md)
 # SQLSaturday #383 - Rochester 2015
 Start Time (24h)|Speaker|Track|Title
@@ -48,7 +49,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 35927
 # Possible Musics:  SSAS Multidimensional vs Tabular
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: William E Pearson III
 ## Title: Possible Musics:  SSAS Multidimensional vs Tabular
@@ -57,7 +58,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 #  
 #### SessionID: 11784
 # So you want to be a Database Administrator...
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
 ## Speaker: Colleen Morrow
 ## Title: So you want to be a Database Administrator...
@@ -66,7 +67,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
 #  
 #### SessionID: 15736
 # Query Tuning - Get it Right the First Time 
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
 ## Speaker: Janis Griffin
 ## Title: Query Tuning - Get it Right the First Time 
@@ -77,7 +78,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
 #  
 #### SessionID: 25728
 # Fixing Page Life Expectancy
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4 
 ## Speaker: Steve Hood
 ## Title: Fixing Page Life Expectancy
@@ -86,7 +87,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4
 #  
 #### SessionID: 27648
 # The Use Cases for In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: Warner Chaves
 ## Title: The Use Cases for In-Memory OLTP
@@ -95,7 +96,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 3
 #  
 #### SessionID: 9009
 # Availability Groups 101: An Introduction
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
 ## Speaker: Adam Belebczuk
 ## Title: Availability Groups 101: An Introduction
@@ -104,7 +105,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
 #  
 #### SessionID: 9560
 # Easing Into Scripting with Windows PowerShell
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Andy Levy
 ## Title: Easing Into Scripting with Windows PowerShell
@@ -113,7 +114,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 #  
 #### SessionID: 11288
 # The Spy Who Loathed Me - An Intro to SQL Security 
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Chris Bell
 ## Title: The Spy Who Loathed Me - An Intro to SQL Security 
@@ -122,7 +123,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 1
 #  
 #### SessionID: 11783
 # Enterprise-level auditing on a Standard Edition budget
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
 ## Speaker: Colleen Morrow
 ## Title: Enterprise-level auditing on a Standard Edition budget
@@ -131,7 +132,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
 #  
 #### SessionID: 15735
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
@@ -140,7 +141,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
 #  
 #### SessionID: 20663
 # Advanced Troubleshooting Your SQL Connections
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4 
 ## Speaker: Mike Hays
 ## Title: Advanced Troubleshooting Your SQL Connections
@@ -149,7 +150,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4
 #  
 #### SessionID: 26129
 # SQL Server Storage Engine under the hood 
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Thomas Grohser
 ## Title: SQL Server Storage Engine under the hood 
@@ -164,7 +165,7 @@ Which I/O Subsystems (including SSD) are best for which type of data and what's 
 #  
 #### SessionID: 27647
 # Level Up: Understanding Azure's SQL Database Service Tiers
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: Warner Chaves
 ## Title: Level Up: Understanding Azure's SQL Database Service Tiers
@@ -179,7 +180,7 @@ Come learn the differences between the tiers, measuring performance and how to o
 #  
 #### SessionID: 9010
 # XML Without Xanax: How to Handle XML in SQL Server
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
 ## Speaker: Adam Belebczuk
 ## Title: XML Without Xanax: How to Handle XML in SQL Server
@@ -192,7 +193,7 @@ If you survive this session, you'll have faced your fears about XML in SQL Serve
 #  
 #### SessionID: 11286
 # Hacking Exposé - Using SSL to Protect SQL Connections
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: Chris Bell
 ## Title: Hacking Exposé - Using SSL to Protect SQL Connections
@@ -205,7 +206,7 @@ Using a simple hacking technique we will dig into some packets on our network an
 #  
 #### SessionID: 13745
 # SQL Server and Networking High Availability/Disaster Recovery Best Practices
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
 ## Speaker: Edwin M Sarmiento
 ## Title: SQL Server and Networking High Availability/Disaster Recovery Best Practices
@@ -214,7 +215,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
 #  
 #### SessionID: 14202
 # APPLY Yourself
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
@@ -223,7 +224,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
 #  
 #### SessionID: 14545
 # SQL Server 2014 New Features
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: George Walters
 ## Title: SQL Server 2014 New Features
@@ -232,7 +233,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 1
 #  
 #### SessionID: 16999
 # Software as a service
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4 
 ## Speaker: John Miner
 ## Title: Software as a service
@@ -262,7 +263,7 @@ Coverage:
 #  
 #### SessionID: 19692
 # The BI Power Hour
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: The BI Power Hour
@@ -271,7 +272,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 #  
 #### SessionID: 26128
 # Developing and deploying reusable TSQL code with Visual Studio and SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Thomas Grohser
 ## Title: Developing and deploying reusable TSQL code with Visual Studio and SQL Server Data Tools
@@ -281,7 +282,7 @@ He will also share Tips and Tricks for using Visual Studio more effective.
 #  
 #### SessionID: 35926
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -290,7 +291,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
 #  
 #### SessionID: 13746
 # Troubleshoot SQL Server Performance Issues using Wait Statistics
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
 ## Speaker: Edwin M Sarmiento
 ## Title: Troubleshoot SQL Server Performance Issues using Wait Statistics
@@ -299,7 +300,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
 #  
 #### SessionID: 13861
 # (a Few of) My Favorite DMVs
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
 ## Speaker: Edward Pollack
 ## Title: (a Few of) My Favorite DMVs
@@ -309,7 +310,7 @@ We will dig into some of the most useful DMVs available and review some real-wor
 #  
 #### SessionID: 14203
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
@@ -318,7 +319,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
 #  
 #### SessionID: 14547
 # SQL Server AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: George Walters
 ## Title: SQL Server AlwaysOn Availability Groups
@@ -327,7 +328,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 #  
 #### SessionID: 17014
 # Basic Database Design  
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: John Miner
 ## Title: Basic Database Design  
@@ -354,7 +355,7 @@ Coverage:
 #  
 #### SessionID: 19690
 # Boosting DWH-Performance with SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Boosting DWH-Performance with SQL Server 2014
@@ -363,7 +364,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 #  
 #### SessionID: 35625
 # The Quest for the Golden Record: MDM Best Practices 
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4 
 ## Speaker: Brian Benzel
 ## Title: The Quest for the Golden Record: MDM Best Practices 
@@ -372,7 +373,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4
 #  
 #### SessionID: 11681
 # Rethink Your ETL with BIML
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4 
 ## Speaker: Chris Schmidt
 ## Title: Rethink Your ETL with BIML
@@ -382,7 +383,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4
 #  
 #### SessionID: 12603
 # Right-Sizing Your SQL Server Virtual Machine
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
 ## Speaker: David Klee
 ## Title: Right-Sizing Your SQL Server Virtual Machine
@@ -393,7 +394,7 @@ The methods for understanding the performance of your mission-critical SQL Serve
 #  
 #### SessionID: 13334
 # The usual SUSPECTs: When good databases go bad.
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: David Maxwell
 ## Title: The usual SUSPECTs: When good databases go bad.
@@ -405,7 +406,7 @@ learn the proper techniques to bring your data safely back online.
 #  
 #### SessionID: 15621
 # What exactly is big data and why should I care?
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
 ## Speaker: James Serra
 ## Title: What exactly is big data and why should I care?
@@ -414,7 +415,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
 #  
 #### SessionID: 18081
 # Transactional Replication: Architecture, Setup, and Monitoring
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
 ## Speaker: Kendal Van Dyke
 ## Title: Transactional Replication: Architecture, Setup, and Monitoring
@@ -427,7 +428,7 @@ Session Goals:
 #  
 #### SessionID: 18448
 # Introduction to Window Functions
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Kathi Kellenberger
 ## Title: Introduction to Window Functions
@@ -438,7 +439,7 @@ This session will teach you how to avoid cursor solutions, and create simpler co
 #  
 #### SessionID: 19846
 # Getting started with SSIS
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Matt Nelson
 ## Title: Getting started with SSIS
@@ -447,7 +448,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 1
 #  
 #### SessionID: 12604
 # The Many Paths of Consulting
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
 ## Speaker: David Klee
 ## Title: The Many Paths of Consulting
@@ -459,7 +460,7 @@ This session will help you ask the right questions to better chose and prepare f
 #  
 #### SessionID: 13333
 # DBA 911 - Database Corruption
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: David Maxwell
 ## Title: DBA 911 - Database Corruption
@@ -469,7 +470,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 3
 #  
 #### SessionID: 13864
 # Query Optimization Crash Course
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Edward Pollack
 ## Title: Query Optimization Crash Course
@@ -479,7 +480,7 @@ This is a fun, fast-paced walkthrough of the most effective strategies for query
 #  
 #### SessionID: 15620
 # How does Microsoft solve Big Data?
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
 ## Speaker: James Serra
 ## Title: How does Microsoft solve Big Data?
@@ -488,7 +489,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
 #  
 #### SessionID: 18082
 # Transactional Replication: Tuning and Troubleshooting
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
 ## Speaker: Kendal Van Dyke
 ## Title: Transactional Replication: Tuning and Troubleshooting
@@ -501,7 +502,7 @@ Session Goals:
 #  
 #### SessionID: 18449
 # T-SQL Window Function Performance
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Performance
@@ -510,7 +511,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 #  
 #### SessionID: 19847
 # Building dynamic SSIS packages for more flexibility
-#### [Back to calendar](#SQLSaturday-#383-Rochester-2015)
+#### [Back to calendar](#nr-383)
 Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4 
 ## Speaker: Matt Nelson
 ## Title: Building dynamic SSIS packages for more flexibility

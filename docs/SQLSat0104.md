@@ -1,3 +1,4 @@
+#### Nr: 104
 #### [Back to Main list](index.md)
 # SQLSaturday #104 - Colorado Springs 2012
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 29005
 # Your own Private Cloud for SQL
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 ## Speaker: Ben DeBow
 ## Title: Your own Private Cloud for SQL
@@ -44,7 +45,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 #  
 #### SessionID: 29044
 # Kama Sutra of SSIS: A guide to loving ETL
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Bill Fellows
 ## Title: Kama Sutra of SSIS: A guide to loving ETL
@@ -54,7 +55,7 @@ After attending this session, you will come out with an understanding of how Con
 #  
 #### SessionID: 29421
 # Using Columnstore Indexes in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Carlos Bossy
 ## Title: Using Columnstore Indexes in SQL Server 2012
@@ -63,7 +64,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 29585
 # Backup Basics - Know your options
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 ## Speaker: Meredith Ryan-Smith
 ## Title: Backup Basics - Know your options
@@ -72,7 +73,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 #  
 #### SessionID: 29657
 # SQL Azure: Future-Proofing Your SQL Career
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 ## Speaker: Chris Randall
 ## Title: SQL Azure: Future-Proofing Your SQL Career
@@ -83,7 +84,7 @@ We'll look at what kind of usage scenarios work best for SQL Azure. We'll look a
 #  
 #### SessionID: 29794
 # SQL Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: David Eichner
 ## Title: SQL Report Builder for Business Intelligence
@@ -92,7 +93,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 29975
 # Devs are from Mars, Report Servers are from Venus
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Doug Lane
 ## Title: Devs are from Mars, Report Servers are from Venus
@@ -105,7 +106,7 @@ In this session, Doug will re-ignite your passion for RS by reminding you how re
 #  
 #### SessionID: 30273
 # 7 Ways to Fix Bad Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Grant Fritchey
 ## Title: 7 Ways to Fix Bad Parameter Sniffing
@@ -114,7 +115,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 30499
 # PowerShell for the Reluctant DBA / Developer
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 ## Speaker: Jason Horner
 ## Title: PowerShell for the Reluctant DBA / Developer
@@ -124,7 +125,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 #  
 #### SessionID: 30820
 # *GASP* Real-time user defined sets in SSAS
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Josh Fennessy
 ## Title: *GASP* Real-time user defined sets in SSAS
@@ -135,7 +136,7 @@ This session will highlight some of the power of SharePoint lists, third party S
 #  
 #### SessionID: 30839
 # AlwaysOn - Finally, A usable 'mirror'!
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jim Murphy
 ## Title: AlwaysOn - Finally, A usable 'mirror'!
@@ -144,7 +145,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 30900
 # Performance Issue Archetypes
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Joe Sack
 ## Title: Performance Issue Archetypes
@@ -153,7 +154,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 30993
 # Reporting DBs behind Virtual IP's
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: John Halunen  Aubra Moore
 ## Title: Reporting DBs behind Virtual IP's
@@ -162,7 +163,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 31136
 # Discovering the Plan Cache
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jason Strate
 ## Title: Discovering the Plan Cache
@@ -171,7 +172,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 31184
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -180,7 +181,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 31560
 # Introduction to Data Warehousing
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Marc Beacom
 ## Title: Introduction to Data Warehousing
@@ -189,7 +190,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 31723
 # PowerShell and VBScript for the DBA
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 ## Speaker: Mark Halstead
 ## Title: PowerShell and VBScript for the DBA
@@ -198,7 +199,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 #  
 #### SessionID: 31826
 # Eating the Elephant: SQL Server Table Partitioning
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Michael Fal
 ## Title: Eating the Elephant: SQL Server Table Partitioning
@@ -207,7 +208,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 31862
 # ETL as MDM
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Michael Sexton
 ## Title: ETL as MDM
@@ -216,7 +217,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 32432
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -226,7 +227,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 #  
 #### SessionID: 33075
 # Choose Your Own Adventure: Performance Tuning
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 ## Speaker: Thomas LaRock
 ## Title: Choose Your Own Adventure: Performance Tuning
@@ -235,7 +236,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 #  
 #### SessionID: 33316
 # Development Mise en Place
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 ## Speaker: Keith Tate
 ## Title: Development Mise en Place
@@ -246,7 +247,7 @@ In this session I will show how developers and DBAs can use this method to bette
 #  
 #### SessionID: 33326
 # To the Cloud and Back Again!
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 ## Speaker: Ted Malone
 ## Title: To the Cloud and Back Again!
@@ -255,7 +256,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 #  
 #### SessionID: 33572
 # Dimenional Modeling 101
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Thomas LeBlanc
 ## Title: Dimenional Modeling 101
@@ -264,7 +265,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 33674
 # The Periodic Table of Dynamic Management Objects
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Tim Ford
 ## Title: The Periodic Table of Dynamic Management Objects
@@ -273,7 +274,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 33700
 # PBM and you!
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 ## Speaker: Thomas Norman
 ## Title: PBM and you!
@@ -282,7 +283,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 #  
 #### SessionID: 33799
 # Predictive Analytics - You Can, Too!
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Troy Ketsdever
 ## Title: Predictive Analytics - You Can, Too!
@@ -291,7 +292,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 33821
 # Edge Case Testing for the Database Professional
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 ## Speaker: Vicky Harp
 ## Title: Edge Case Testing for the Database Professional
@@ -300,7 +301,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 #  
 #### SessionID: 34358
 # PowerPivot for Excel
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: William E Pearson III
 ## Title: PowerPivot for Excel
@@ -309,7 +310,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 34818
 # 10 Things That Every DBA Should Know!
-#### [Back to calendar](#SQLSaturday-#104-Colorado-Springs-2012)
+#### [Back to calendar](#nr-104)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: DBA / DEV
 ## Speaker: John Morehouse
 ## Title: 10 Things That Every DBA Should Know!

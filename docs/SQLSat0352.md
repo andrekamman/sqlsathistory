@@ -1,3 +1,4 @@
+#### Nr: 352
 #### [Back to Main list](index.md)
 # SQLSaturday #352 - Sydney 2014
 Start Time (24h)|Speaker|Track|Title
@@ -20,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11994
 # Automate your Data Profiling insights using Power BI
-#### [Back to calendar](#SQLSaturday-#352-Sydney-2014)
+#### [Back to calendar](#nr-352)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 024
 ## Speaker: Craig Bryden
 ## Title: Automate your Data Profiling insights using Power BI
@@ -32,7 +33,7 @@ This data model can then be used to analyse table structures, data quality and i
 #  
 #### SessionID: 14469
 # Mash it up with Power Query
-#### [Back to calendar](#SQLSaturday-#352-Sydney-2014)
+#### [Back to calendar](#nr-352)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 104
 ## Speaker: Geoff Black
 ## Title: Mash it up with Power Query
@@ -41,7 +42,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 104
 #  
 #### SessionID: 14725
 # Kick-ass Ad-hoc Cube Browser build in SSRS 2014
-#### [Back to calendar](#SQLSaturday-#352-Sydney-2014)
+#### [Back to calendar](#nr-352)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 104
 ## Speaker: Grant Paisley
 ## Title: Kick-ass Ad-hoc Cube Browser build in SSRS 2014
@@ -54,7 +55,7 @@ The techniques we will discuss are based on concepts in the books “Advanced Re
 #  
 #### SessionID: 15257
 # Performance dreams  wait for you at SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#352-Sydney-2014)
+#### [Back to calendar](#nr-352)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 106
 ## Speaker: Shehab El-Najjar
 ## Title: Performance dreams  wait for you at SQL Server 2014
@@ -63,7 +64,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 106
 #  
 #### SessionID: 15290
 # 365 days with Power BI  
-#### [Back to calendar](#SQLSaturday-#352-Sydney-2014)
+#### [Back to calendar](#nr-352)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 104
 ## Speaker: Iman Eftekhari
 ## Title: 365 days with Power BI  
@@ -75,7 +76,7 @@ He will also demonstrate scenarios which include the end-to-end build of a repor
 #  
 #### SessionID: 16930
 # Interactive  Actionable Data Visualisation With Power View
-#### [Back to calendar](#SQLSaturday-#352-Sydney-2014)
+#### [Back to calendar](#nr-352)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 104
 ## Speaker: Julie Koesmarno
 ## Title: Interactive  Actionable Data Visualisation With Power View
@@ -86,7 +87,7 @@ This session will discuss how to design the appropriate data model to enable sel
 #  
 #### SessionID: 18671
 # Everything you would like to know about Power BI - QA
-#### [Back to calendar](#SQLSaturday-#352-Sydney-2014)
+#### [Back to calendar](#nr-352)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 104
 ## Speaker: Konstantin Khomyakov
 ## Title: Everything you would like to know about Power BI - QA
@@ -95,7 +96,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 104
 #  
 #### SessionID: 19011
 # “Show Me Potential Customers “ : Data Mining Approach
-#### [Back to calendar](#SQLSaturday-#352-Sydney-2014)
+#### [Back to calendar](#nr-352)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 024
 ## Speaker: Leila Etaati
 ## Title: “Show Me Potential Customers “ : Data Mining Approach
@@ -105,7 +106,7 @@ This demonstration based session will show how to use previous customer purchase
 #  
 #### SessionID: 19731
 # Thinking Out of the Box: Manage SQL Server Using Built-in Tools
-#### [Back to calendar](#SQLSaturday-#352-Sydney-2014)
+#### [Back to calendar](#nr-352)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 106
 ## Speaker: Martin Cairney
 ## Title: Thinking Out of the Box: Manage SQL Server Using Built-in Tools
@@ -118,7 +119,7 @@ After this session you’ll be able to build out an effective management and mon
 #  
 #### SessionID: 20017
 # Crack open the AMO for SSAS Tabular
-#### [Back to calendar](#SQLSaturday-#352-Sydney-2014)
+#### [Back to calendar](#nr-352)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 024
 ## Speaker: Mohamed Kabiruddin
 ## Title: Crack open the AMO for SSAS Tabular
@@ -127,7 +128,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 024
 #  
 #### SessionID: 21937
 # A New Approach to Unit Testing and Integration Testing in SSIS 
-#### [Back to calendar](#SQLSaturday-#352-Sydney-2014)
+#### [Back to calendar](#nr-352)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 024
 ## Speaker: Peter Avenant
 ## Title: A New Approach to Unit Testing and Integration Testing in SSIS 
@@ -136,7 +137,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 024
 #  
 #### SessionID: 25245
 # Indexing for performance 
-#### [Back to calendar](#SQLSaturday-#352-Sydney-2014)
+#### [Back to calendar](#nr-352)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 106
 ## Speaker: Stanley Roos
 ## Title: Indexing for performance 
@@ -145,7 +146,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 106
 #  
 #### SessionID: 27439
 # Understanding the High-Availability Options in SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#352-Sydney-2014)
+#### [Back to calendar](#nr-352)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 106
 ## Speaker: Victor Isakov
 ## Title: Understanding the High-Availability Options in SQL Server 2014
@@ -154,7 +155,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 106
 #  
 #### SessionID: 27667
 # Performance Eye for the SQL Guy
-#### [Back to calendar](#SQLSaturday-#352-Sydney-2014)
+#### [Back to calendar](#nr-352)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 106
 ## Speaker: Warwick Rudd
 ## Title: Performance Eye for the SQL Guy
@@ -163,7 +164,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 106
 #  
 #### SessionID: 8782
 # ETL Architecture for Solving Data Warehouse Challenges
-#### [Back to calendar](#SQLSaturday-#352-Sydney-2014)
+#### [Back to calendar](#nr-352)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 024
 ## Speaker: Reza Rad
 ## Title: ETL Architecture for Solving Data Warehouse Challenges

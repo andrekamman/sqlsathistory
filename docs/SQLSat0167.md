@@ -1,3 +1,4 @@
+#### Nr: 167
 #### [Back to Main list](index.md)
 # SQLSaturday #167 - Columbus GA 2012
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10529
 # Reporting Services Deep Dive
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Brian K McDonald
 ## Title: Reporting Services Deep Dive
@@ -38,7 +39,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11109
 # Data Quality Services--Finally!
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Julie Smith
 ## Title: Data Quality Services--Finally!
@@ -47,7 +48,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11940
 # Integrating DQS, MDS and Your Data Warehouse 
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Christopher Price
 ## Title: Integrating DQS, MDS and Your Data Warehouse 
@@ -56,7 +57,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 11941
 # Introduction to Master Data Services 2012 
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Christopher Price
 ## Title: Introduction to Master Data Services 2012 
@@ -65,7 +66,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 13924
 # End users have a short attention span
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Erik Monchen
 ## Title: End users have a short attention span
@@ -74,7 +75,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 14484
 # Bad SQL
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Geoff Hiten
 ## Title: Bad SQL
@@ -83,7 +84,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 14485
 # SQL 2012 AlwaysOn
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Geoff Hiten
 ## Title: SQL 2012 AlwaysOn
@@ -92,7 +93,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16081
 # T-SQL: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jon Boulineau
 ## Title: T-SQL: Beyond the Basics
@@ -101,7 +102,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 16863
 # Managing Schema Changes - Visual Studio and SSDT
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jim Wooley
 ## Title: Managing Schema Changes - Visual Studio and SSDT
@@ -111,7 +112,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18635
 # Adapting your ETL Solutions to use SSIS 2012
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Devin Knight
 ## Title: Adapting your ETL Solutions to use SSIS 2012
@@ -120,7 +121,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18636
 # Designing Your First Power View Report
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Devin Knight
 ## Title: Designing Your First Power View Report
@@ -129,7 +130,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19613
 # I Shoulda Taken That Left Turn at Albuquerque...
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mark Swofford
 ## Title: I Shoulda Taken That Left Turn at Albuquerque...
@@ -141,7 +142,7 @@ Organization, planning, and having a roadmap to where you are going will be cruc
 #  
 #### SessionID: 20243
 # Independent Contracting 101
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Michael French
 ## Title: Independent Contracting 101
@@ -150,7 +151,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22355
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports
@@ -159,7 +160,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 24911
 # Designing An Efficient Replication Topology
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Chad Churchwell
 ## Title: Designing An Efficient Replication Topology
@@ -168,7 +169,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 25831
 # The Agile DBA: Managing your To-Do List
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Stuart Ainsworth
 ## Title: The Agile DBA: Managing your To-Do List
@@ -177,7 +178,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 26248
 # SQL Server 2012 Column Store Index
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2012 Column Store Index
@@ -186,7 +187,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 26702
 # Reducing Your Storage Footprint
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Tim Radney
 ## Title: Reducing Your Storage Footprint
@@ -195,7 +196,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 26926
 # Production is all Virtualized, Is Yours?
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Thomas Norman
 ## Title: Production is all Virtualized, Is Yours?
@@ -204,7 +205,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 26927
 # PBM and You!
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Thomas Norman
 ## Title: PBM and You!
@@ -213,7 +214,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27333
 # Windows Azure  SQL Database Intro and what’s New
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andy Thiru
 ## Title: Windows Azure  SQL Database Intro and what’s New
@@ -222,7 +223,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28034
 # Getting Started with MDX: The (Very) Basics
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX: The (Very) Basics
@@ -231,7 +232,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 8849
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals
@@ -241,7 +242,7 @@ Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9712
 # The Decoder Ring for Data Warehousing / BI
-#### [Back to calendar](#SQLSaturday-#167-Columbus-GA-2012)
+#### [Back to calendar](#nr-167)
 Event Date: 08-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Robert Cain
 ## Title: The Decoder Ring for Data Warehousing / BI

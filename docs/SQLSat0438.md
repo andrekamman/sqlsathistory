@@ -1,3 +1,4 @@
+#### Nr: 438
 #### [Back to Main list](index.md)
 # SQLSaturday #438 - Malaysia 2015
 Start Time (24h)|Speaker|Track|Title
@@ -15,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 38254
 # Big Data Technology Matrix on Microsoft
-#### [Back to calendar](#SQLSaturday-#438-Malaysia-2015)
+#### [Back to calendar](#nr-438)
 Event Date: 18-08-2015 - Session time: 15:45:00 - Track: Business Intelligence
 ## Speaker: Ian Choy
 ## Title: Big Data Technology Matrix on Microsoft
@@ -26,7 +27,7 @@ Understand the technologies in use today that can bring business value out of Bi
 #  
 #### SessionID: 38307
 # In-Memory OLTP Vol1 – XTP Fundamentals  Future Development
-#### [Back to calendar](#SQLSaturday-#438-Malaysia-2015)
+#### [Back to calendar](#nr-438)
 Event Date: 18-08-2015 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Andreas Wolter
 ## Title: In-Memory OLTP Vol1 – XTP Fundamentals  Future Development
@@ -35,7 +36,7 @@ Event Date: 18-08-2015 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 37667
 # Advanced Reporting Techniques  Managing Reports
-#### [Back to calendar](#SQLSaturday-#438-Malaysia-2015)
+#### [Back to calendar](#nr-438)
 Event Date: 18-08-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Advanced Reporting Techniques  Managing Reports
@@ -55,7 +56,7 @@ This session also helps you identify the performance bottleneck in poor performi
 #  
 #### SessionID: 37755
 # Unleash SQL Server 2016 Database Engine
-#### [Back to calendar](#SQLSaturday-#438-Malaysia-2015)
+#### [Back to calendar](#nr-438)
 Event Date: 18-08-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamid J. Fard
 ## Title: Unleash SQL Server 2016 Database Engine
@@ -69,7 +70,7 @@ Event Date: 18-08-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38306
 # “SQL Attack…ed” – SQL Server under attack via SQL Injection
-#### [Back to calendar](#SQLSaturday-#438-Malaysia-2015)
+#### [Back to calendar](#nr-438)
 Event Date: 18-08-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andreas Wolter
 ## Title: “SQL Attack…ed” – SQL Server under attack via SQL Injection
@@ -80,7 +81,7 @@ If you have a database-server which is accessible by processes beyond your direc
 #  
 #### SessionID: 39029
 # Visual Analytics and Data Science
-#### [Back to calendar](#SQLSaturday-#438-Malaysia-2015)
+#### [Back to calendar](#nr-438)
 Event Date: 18-08-2015 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Dr. J. Joshua Thomas
 ## Title: Visual Analytics and Data Science
@@ -89,7 +90,7 @@ Event Date: 18-08-2015 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 37342
 # Inside Transactional Replication
-#### [Back to calendar](#SQLSaturday-#438-Malaysia-2015)
+#### [Back to calendar](#nr-438)
 Event Date: 18-08-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prabhakaran Bhaskaran
 ## Title: Inside Transactional Replication
@@ -100,7 +101,7 @@ This session will answers questions like; How does the log reader know where to 
 #  
 #### SessionID: 38270
 # Predictive Analytics with Microsoft Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#438-Malaysia-2015)
+#### [Back to calendar](#nr-438)
 Event Date: 18-08-2015 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Danaraj Ram Kumar
 ## Title: Predictive Analytics with Microsoft Azure Machine Learning
@@ -109,7 +110,7 @@ Event Date: 18-08-2015 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 38253
 # Migration and Consolidation from non Microsoft DBMS to SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#438-Malaysia-2015)
+#### [Back to calendar](#nr-438)
 Event Date: 18-08-2015 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Renganathan Palanisamy
 ## Title: Migration and Consolidation from non Microsoft DBMS to SQL Server 2014
@@ -118,7 +119,7 @@ Event Date: 18-08-2015 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 40157
 # Data Insights with Power BI
-#### [Back to calendar](#SQLSaturday-#438-Malaysia-2015)
+#### [Back to calendar](#nr-438)
 Event Date: 18-08-2015 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Chiu Kiang Phua
 ## Title: Data Insights with Power BI

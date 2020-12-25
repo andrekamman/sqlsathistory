@@ -1,3 +1,4 @@
+#### Nr: 260
 #### [Back to Main list](index.md)
 # SQLSaturday #260 - Milan 2013
 Start Time (24h)|Speaker|Track|Title
@@ -13,7 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11813
 # Useful everyday tips and tricks for Reporting Services (IT)
-#### [Back to calendar](#SQLSaturday-#260-Milan-2013)
+#### [Back to calendar](#nr-260)
 Event Date: 08-10-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Francesco Milano
 ## Title: Useful everyday tips and tricks for Reporting Services (IT)
@@ -22,7 +23,7 @@ Event Date: 08-10-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 15318
 # Hardware Planning  Sizing for SQL Server (IT)
-#### [Back to calendar](#SQLSaturday-#260-Milan-2013)
+#### [Back to calendar](#nr-260)
 Event Date: 08-10-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Davide Mauri
 ## Title: Hardware Planning  Sizing for SQL Server (IT)
@@ -31,7 +32,7 @@ Event Date: 08-10-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18464
 # Let's learn Greek - Hekaton (EN)
-#### [Back to calendar](#SQLSaturday-#260-Milan-2013)
+#### [Back to calendar](#nr-260)
 Event Date: 08-10-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Klaus Aschenbrenner
 ## Title: Let's learn Greek - Hekaton (EN)
@@ -40,7 +41,7 @@ Event Date: 08-10-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19283
 # SQL Server Profiling with Extended Events (IT)
-#### [Back to calendar](#SQLSaturday-#260-Milan-2013)
+#### [Back to calendar](#nr-260)
 Event Date: 08-10-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Luca Ferrari
 ## Title: SQL Server Profiling with Extended Events (IT)
@@ -49,7 +50,7 @@ Event Date: 08-10-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19466
 # Power BI in Action (IT)
-#### [Back to calendar](#SQLSaturday-#260-Milan-2013)
+#### [Back to calendar](#nr-260)
 Event Date: 08-10-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Marco Russo
 ## Title: Power BI in Action (IT)
@@ -58,7 +59,7 @@ Event Date: 08-10-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21572
 # Denormalization for Performance: A Costly Illusion (EN)
-#### [Back to calendar](#SQLSaturday-#260-Milan-2013)
+#### [Back to calendar](#nr-260)
 Event Date: 08-10-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Fabian Pascal
 ## Title: Denormalization for Performance: A Costly Illusion (EN)
@@ -67,7 +68,7 @@ Event Date: 08-10-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 24439
 # CAT: Azure SQL DB Premium – Deep Dive and Mythbuster (IT)
-#### [Back to calendar](#SQLSaturday-#260-Milan-2013)
+#### [Back to calendar](#nr-260)
 Event Date: 08-10-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Silvano Coriani
 ## Title: CAT: Azure SQL DB Premium – Deep Dive and Mythbuster (IT)
@@ -76,7 +77,7 @@ Event Date: 08-10-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9454
 # Introduzione a Power BI (IT)
-#### [Back to calendar](#SQLSaturday-#260-Milan-2013)
+#### [Back to calendar](#nr-260)
 Event Date: 08-10-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andrea Uggetti
 ## Title: Introduzione a Power BI (IT)

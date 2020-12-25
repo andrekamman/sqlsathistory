@@ -1,3 +1,4 @@
+#### Nr: 447
 #### [Back to Main list](index.md)
 # SQLSaturday #447 - Dallas 2015
 Start Time (24h)|Speaker|Track|Title
@@ -47,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 37228
 # Managing SQL Server in the Enterprise with TLAs
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Nancy Hidy Wilson
 ## Title: Managing SQL Server in the Enterprise with TLAs
@@ -56,7 +57,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37957
 # (Near) Zero-Downtime Upgrades!
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Argenis Fernandez
 ## Title: (Near) Zero-Downtime Upgrades!
@@ -73,7 +74,7 @@ This is a demo-intensive session, so you can see rolling upgrades live and up cl
 #  
 #### SessionID: 39419
 # Tips for SQL Server Performance and Resiliency
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Shaw
 ## Title: Tips for SQL Server Performance and Resiliency
@@ -85,7 +86,7 @@ These patterns are so clear in fact that I many SQL Servers will benefit from th
 #  
 #### SessionID: 39429
 # Finding root cause for unexplained Availability Group failover
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Trayce Jordan
 ## Title: Finding root cause for unexplained Availability Group failover
@@ -94,7 +95,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39752
 # Incorporating Azure Machine Learning to SQL Server Environments
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ginger Grant
 ## Title: Incorporating Azure Machine Learning to SQL Server Environments
@@ -106,7 +107,7 @@ This presentation will demo how to extend the flexibility of Azure ML by impleme
 #  
 #### SessionID: 40128
 # Spark SQL and Hadoop - When to leverage in-memory SQL
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Paul Hargis
 ## Title: Spark SQL and Hadoop - When to leverage in-memory SQL
@@ -115,7 +116,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 40150
 # Develop SQL Server Databases from Visual Studio: SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Patrick Bewley
 ## Title: Develop SQL Server Databases from Visual Studio: SQL Server Data Tools
@@ -124,7 +125,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 40166
 # PowerBI / DataZen and Microsoft BI Roadmap
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Brennan Bice
 ## Title: PowerBI / DataZen and Microsoft BI Roadmap
@@ -133,7 +134,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 37222
 # Translating SANanese to English: How to manipulate your storage admin!
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Daniel Janik
 ## Title: Translating SANanese to English: How to manipulate your storage admin!
@@ -142,7 +143,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37223
 # Practical Design Pitfalls in designing Enterprise Data Warehouse
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dr. Suresh Rajappa
 ## Title: Practical Design Pitfalls in designing Enterprise Data Warehouse
@@ -151,7 +152,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 37621
 # Big Data and the Data Lake from the Analyst Perspective
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Scott Shaw
 ## Title: Big Data and the Data Lake from the Analyst Perspective
@@ -163,7 +164,7 @@ Come and join me for this practical session which will build on your existing SQ
 #  
 #### SessionID: 37750
 # Predicting Customer Churn with Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Bryan Smith
 ## Title: Predicting Customer Churn with Azure Machine Learning
@@ -172,7 +173,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 38458
 # Configuring SQL Server for Mission Critical and Scalable Deployments
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Suresh Kandoth
 ## Title: Configuring SQL Server for Mission Critical and Scalable Deployments
@@ -182,7 +183,7 @@ The goal of this session to help you and guide you to perform successful deploym
 #  
 #### SessionID: 39834
 # Avoiding the Pitfalls of Database Change Automation
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Cindy Bean
 ## Title: Avoiding the Pitfalls of Database Change Automation
@@ -191,7 +192,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40140
 # SSIS Performance Tuning with BimlScript
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: SSIS Performance Tuning with BimlScript
@@ -205,7 +206,7 @@ The only way to be sure that your SSIS packages are performing optimally is to t
 #  
 #### SessionID: 37218
 # Configuration Manager and the SQL Broker Service - DRS under the covers
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Other
 ## Speaker: Steven Rachui
 ## Title: Configuration Manager and the SQL Broker Service - DRS under the covers
@@ -214,7 +215,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 37243
 # Cash in on the data dividend: how Power BI can realize the untapped value of your data
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Mike Diehl
 ## Title: Cash in on the data dividend: how Power BI can realize the untapped value of your data
@@ -224,7 +225,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 37290
 # Your DB in the cloud?
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Shawn Weisfeld
 ## Title: Your DB in the cloud?
@@ -233,7 +234,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 37619
 # Navigating the Hadoop Stack
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Scott Shaw
 ## Title: Navigating the Hadoop Stack
@@ -242,7 +243,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 37744
 # So what does it really take to get to four nines
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: George Govantes
 ## Title: So what does it really take to get to four nines
@@ -251,7 +252,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 39408
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -261,7 +262,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 39778
 # Third-Party Application Deployment: Dispatches from the Trenches
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Harp
 ## Title: Third-Party Application Deployment: Dispatches from the Trenches
@@ -270,7 +271,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40047
 # SQL Server 2016  Scale and diagnostics improvements in core database engine
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Denzil Ribeiro
 ## Title: SQL Server 2016  Scale and diagnostics improvements in core database engine
@@ -279,7 +280,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37220
 # Analyze your query plan like a Microsoft Engineer!
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Janik
 ## Title: Analyze your query plan like a Microsoft Engineer!
@@ -288,7 +289,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 37225
 # SQL Server Agent: The life preserver for the drowning DBA
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lance Tidwell
 ## Title: SQL Server Agent: The life preserver for the drowning DBA
@@ -297,7 +298,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38231
 # What is the SSIS Catalog? and Why do I care?
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stan Geiger
 ## Title: What is the SSIS Catalog? and Why do I care?
@@ -306,7 +307,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 39256
 # ColumnStore Index: Microsoft SQL Server 2014 and Beyond
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jayaprakash Jothiraman
 ## Title: ColumnStore Index: Microsoft SQL Server 2014 and Beyond
@@ -325,7 +326,7 @@ You will also learn what is available in SQL Server 2012, SQL Server 2014 and SQ
 #  
 #### SessionID: 39744
 # Are You Optimistic About Concurrency?
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kalen Delaney
 ## Title: Are You Optimistic About Concurrency?
@@ -337,7 +338,7 @@ In this session, we'll look at what guarantees the various isolation levels prov
 #  
 #### SessionID: 40110
 # Wait Watchers: No Pain, All Gain Exercises to Increase Database Performance
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick O'Keeffe
 ## Title: Wait Watchers: No Pain, All Gain Exercises to Increase Database Performance
@@ -349,7 +350,7 @@ In this session, you will learn all about SQL Server’s wait statistics; statis
 #  
 #### SessionID: 40144
 # Incremental Load Design Patterns
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Tim Mitchell
 ## Title: Incremental Load Design Patterns
@@ -364,7 +365,7 @@ In this session, we will review the common decision points surrounding increment
 #  
 #### SessionID: 38064
 # SQL Server Security Basics
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Fisher
 ## Title: SQL Server Security Basics
@@ -373,7 +374,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38733
 # Everything you Want to know about Power BI Dependency on O365
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Adam Saxton
 ## Title: Everything you Want to know about Power BI Dependency on O365
@@ -382,7 +383,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 39707
 # How Active Directory affects SQL Server
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ryan Adams
 ## Title: How Active Directory affects SQL Server
@@ -391,7 +392,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40154
 # Beginning Automation with Powershell
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Beginning Automation with Powershell
@@ -400,7 +401,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40486
 # Modern Data Strategy
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Sri Sridharan
 ## Title: Modern Data Strategy
@@ -409,7 +410,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 41121
 # What’s that up in the cloud?! It’s the Azure SQL DB in all its new glory!
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kal Yella
 ## Title: What’s that up in the cloud?! It’s the Azure SQL DB in all its new glory!
@@ -421,7 +422,7 @@ The topics include new features in Azure V12 database; Elastic Database Pools, E
 #  
 #### SessionID: 37241
 # SS2014 In-Memory Tables:  Formula 1 Performance Unleashed!
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Byrd
 ## Title: SS2014 In-Memory Tables:  Formula 1 Performance Unleashed!
@@ -436,7 +437,7 @@ After this session you will
 #  
 #### SessionID: 39075
 # Is AlwaysOn really as powerful? Tips and Tricks from the field
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Reinaldo Kibel
 ## Title: Is AlwaysOn really as powerful? Tips and Tricks from the field
@@ -446,7 +447,7 @@ With the introduction of AlwaysOn and the deprecation of Database Mirroring, Win
 #  
 #### SessionID: 39833
 # The "Data Loading Performance Guide" Presentation
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Ryan Casey
 ## Title: The "Data Loading Performance Guide" Presentation
@@ -461,7 +462,7 @@ We will talk about solutions to achieve High Performance Data Loading, Minimal L
 #  
 #### SessionID: 40352
 # Fast and Furious: Discovering Windowing Function
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Ahias Portillo
 ## Title: Fast and Furious: Discovering Windowing Function
@@ -470,7 +471,7 @@ Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 41123
 # High Availability Solutions with Enhanced SQL Server 2016 Always ON
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andre Hass
 ## Title: High Availability Solutions with Enhanced SQL Server 2016 Always ON
@@ -481,7 +482,7 @@ SQL Server 2016 Always ON Availability Group newest features will provide even H
 #  
 #### SessionID: 41125
 # SSIS Monitoring Framework
-#### [Back to calendar](#SQLSaturday-#447-Dallas-2015)
+#### [Back to calendar](#nr-447)
 Event Date: 03-10-2015 - Session time: 15:45:00 - Track: Other
 ## Speaker: mahesh pujari
 ## Title: SSIS Monitoring Framework

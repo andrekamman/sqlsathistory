@@ -1,3 +1,4 @@
+#### Nr: 326
 #### [Back to Main list](index.md)
 # SQLSaturday #326 - Tampa - BA Edition 2014
 Start Time (24h)|Speaker|Track|Title
@@ -19,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13204
 # Location Location Location Preparing and Presenting Geographic Data 
-#### [Back to calendar](#SQLSaturday-#326-Tampa-BA-Edition-2014)
+#### [Back to calendar](#nr-326)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Dye
 ## Title: Location Location Location Preparing and Presenting Geographic Data 
@@ -32,7 +33,7 @@ Events that occurred at a specific address, zip code, and even block range and e
 #  
 #### SessionID: 13298
 # Clustered Columnstore Indexes: Internals and Design Considerations
-#### [Back to calendar](#SQLSaturday-#326-Tampa-BA-Edition-2014)
+#### [Back to calendar](#nr-326)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dmitri Korotkevitch
 ## Title: Clustered Columnstore Indexes: Internals and Design Considerations
@@ -41,7 +42,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 14315
 # An introduction to Business Intelligence and Big Data
-#### [Back to calendar](#SQLSaturday-#326-Tampa-BA-Edition-2014)
+#### [Back to calendar](#nr-326)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Frank Quintana
 ## Title: An introduction to Business Intelligence and Big Data
@@ -52,7 +53,7 @@ In this presentation I will introduce BI and Big Data, explain advantages and di
 #  
 #### SessionID: 16455
 # Advanced Analytics with Excel and Power BI
-#### [Back to calendar](#SQLSaturday-#326-Tampa-BA-Edition-2014)
+#### [Back to calendar](#nr-326)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jen Underwood
 ## Title: Advanced Analytics with Excel and Power BI
@@ -61,7 +62,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17610
 # Hadoop - Past, Present and Future
-#### [Back to calendar](#SQLSaturday-#326-Tampa-BA-Edition-2014)
+#### [Back to calendar](#nr-326)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Joe Rossi
 ## Title: Hadoop - Past, Present and Future
@@ -70,7 +71,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18823
 # Dozen tips and tricks you should know when working with SSRS
-#### [Back to calendar](#SQLSaturday-#326-Tampa-BA-Edition-2014)
+#### [Back to calendar](#nr-326)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andrey Korshikov
 ## Title: Dozen tips and tricks you should know when working with SSRS
@@ -80,7 +81,7 @@ Come to this session and you will learn 12 useful tips and tricks, which will he
 #  
 #### SessionID: 19008
 # Why I won't hire you and what you can do about it!
-#### [Back to calendar](#SQLSaturday-#326-Tampa-BA-Edition-2014)
+#### [Back to calendar](#nr-326)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Leigh Freijo
 ## Title: Why I won't hire you and what you can do about it!
@@ -89,7 +90,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19917
 # SSIS - Integrating PowerShell in a ScriptTask comp
-#### [Back to calendar](#SQLSaturday-#326-Tampa-BA-Edition-2014)
+#### [Back to calendar](#nr-326)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Maximo Trinidad
 ## Title: SSIS - Integrating PowerShell in a ScriptTask comp
@@ -98,7 +99,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19977
 # Mastering the Technology Interview
-#### [Back to calendar](#SQLSaturday-#326-Tampa-BA-Edition-2014)
+#### [Back to calendar](#nr-326)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mike Davis
 ## Title: Mastering the Technology Interview
@@ -107,7 +108,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 20636
 # Affecting Change with Automation
-#### [Back to calendar](#SQLSaturday-#326-Tampa-BA-Edition-2014)
+#### [Back to calendar](#nr-326)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mikey Nelson
 ## Title: Affecting Change with Automation
@@ -125,7 +126,7 @@ Mike has spent years successfully helping companies start or restart their path 
 #  
 #### SessionID: 21011
 # Introduction to PowerPivot
-#### [Back to calendar](#SQLSaturday-#326-Tampa-BA-Edition-2014)
+#### [Back to calendar](#nr-326)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mitchell Pearson
 ## Title: Introduction to PowerPivot
@@ -134,7 +135,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21104
 # Big Data- Part 1 of 3- Let’s Get Started
-#### [Back to calendar](#SQLSaturday-#326-Tampa-BA-Edition-2014)
+#### [Back to calendar](#nr-326)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Michael Reed
 ## Title: Big Data- Part 1 of 3- Let’s Get Started
@@ -143,7 +144,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21105
 # Big Data- Part 2 of 3- Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#326-Tampa-BA-Edition-2014)
+#### [Back to calendar](#nr-326)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Michael Reed
 ## Title: Big Data- Part 2 of 3- Beyond the Basics
@@ -152,7 +153,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22366
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#326-Tampa-BA-Edition-2014)
+#### [Back to calendar](#nr-326)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports

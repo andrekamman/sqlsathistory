@@ -1,3 +1,4 @@
+#### Nr: 26
 #### [Back to Main list](index.md)
 # SQLSaturday #26 - Redmond 2009
 Start Time (24h)|Speaker|Track|Title
@@ -22,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28613
 # Failover Clustering with Windows Server 2008
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track:  Track 1
 ## Speaker: Allan Hirt
 ## Title: Failover Clustering with Windows Server 2008
@@ -31,7 +32,7 @@ Event Date: 03-10-2009 - Session time: 00:00:00 - Track:  Track 1
 #  
 #### SessionID: 28758
 # SQL Server Full Text Searching - An Introduction
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Robert Cain
 ## Title: SQL Server Full Text Searching - An Introduction
@@ -41,7 +42,7 @@ Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 28759
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 3 
 ## Speaker: Robert Cain
 ## Title: Introduction to SQL Server Integration Services
@@ -51,7 +52,7 @@ Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28760
 # Introduction to Data Warehousing / BI
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 3 
 ## Speaker: Robert Cain
 ## Title: Introduction to Data Warehousing / BI
@@ -60,7 +61,7 @@ Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28863
 # Simple Solutions for Vexing T-SQL Problems
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 3 
 ## Speaker: Arnie Rowland
 ## Title: Simple Solutions for Vexing T-SQL Problems
@@ -71,7 +72,7 @@ Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29962
 # PowerShell for the Data Professional
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track:  Track 1
 ## Speaker: Don Watters
 ## Title: PowerShell for the Data Professional
@@ -80,7 +81,7 @@ Event Date: 03-10-2009 - Session time: 00:00:00 - Track:  Track 1
 #  
 #### SessionID: 31169
 # DBA Basic Checklist 
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track:  Track 1
 ## Speaker: Kalen Delaney
 ## Title: DBA Basic Checklist 
@@ -89,7 +90,7 @@ Event Date: 03-10-2009 - Session time: 00:00:00 - Track:  Track 1
 #  
 #### SessionID: 32486
 # Asynchronous T-SQL processing
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Remus Rusanu
 ## Title: Asynchronous T-SQL processing
@@ -98,7 +99,7 @@ Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32557
 # Exploring SQL 2008’s Transparent Data Encryption
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track:  Track 1
 ## Speaker: Rob Garrison
 ## Title: Exploring SQL 2008’s Transparent Data Encryption
@@ -109,7 +110,7 @@ This session will explain the basics of TDE and show detailed performance test r
 #  
 #### SessionID: 32558
 # Exploring SQL Server Column-Level Encryption
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track:  Track 1
 ## Speaker: Rob Garrison
 ## Title: Exploring SQL Server Column-Level Encryption
@@ -120,7 +121,7 @@ This session will include significant information that is not available in Books
 #  
 #### SessionID: 32608
 # Database Mirroring: Maximizing Availability Throug
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Robert Davis
 ## Title: Database Mirroring: Maximizing Availability Throug
@@ -132,7 +133,7 @@ This session will cover setting up processes to detect problems with database mi
 #  
 #### SessionID: 32609
 # Using SQL Trace/Profiler Effectively:
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 3 
 ## Speaker: Robert Davis
 ## Title: Using SQL Trace/Profiler Effectively:
@@ -141,7 +142,7 @@ Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32902
 # BI Dashboards in Sql Reporting Services
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 3 
 ## Speaker: Shalu  Goel
 ## Title: BI Dashboards in Sql Reporting Services
@@ -150,7 +151,7 @@ Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 34975
 # Hacking SQL / SQL Injection
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Arnie Rowland
 ## Title: Hacking SQL / SQL Injection
@@ -161,7 +162,7 @@ Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 35049
 # The SQL Server Resource Governor
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track:  Track 1
 ## Speaker: Buck Woody
 ## Title: The SQL Server Resource Governor
@@ -170,7 +171,7 @@ Event Date: 03-10-2009 - Session time: 00:00:00 - Track:  Track 1
 #  
 #### SessionID: 35131
 # T-SQL Best Practices
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Greg Larsen
 ## Title: T-SQL Best Practices
@@ -179,7 +180,7 @@ Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 35410
 # Table Partitioning Scenarios
-#### [Back to calendar](#SQLSaturday-#26-Redmond-2009)
+#### [Back to calendar](#nr-26)
 Event Date: 03-10-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ron Talmage
 ## Title: Table Partitioning Scenarios

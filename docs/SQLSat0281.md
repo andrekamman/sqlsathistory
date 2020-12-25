@@ -1,3 +1,4 @@
+#### Nr: 281
 #### [Back to Main list](index.md)
 # SQLSaturday #281 - Edinburgh - BI Edition 2014
 Start Time (24h)|Speaker|Track|Title
@@ -26,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10773
 # Dynamic Partitioning Cubes
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence - Business Track
 ## Speaker: Brian Boenk
 ## Title: Dynamic Partitioning Cubes
@@ -39,7 +40,7 @@ The answer is simple: No!
 #  
 #### SessionID: 12058
 # Session Details not available
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence – Technical Track
 ## Speaker: n/a n/a
 ## Title: Session Details not available
@@ -48,7 +49,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence �
 #  
 #### SessionID: 15146
 # Basket Analysis using BI Office and Analysis Services Tabular Edition 
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Microsoft SQL Server 2014 Applied
 ## Speaker: Ian Macdonald
 ## Title: Basket Analysis using BI Office and Analysis Services Tabular Edition 
@@ -57,7 +58,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Microsoft SQL Server 20
 #  
 #### SessionID: 15410
 # Clustered Columnstore Deep Dive
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Microsoft SQL Server 2014 Applied
 ## Speaker: Niko Neugebauer
 ## Title: Clustered Columnstore Deep Dive
@@ -66,7 +67,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Microsoft SQL Server 20
 #  
 #### SessionID: 16399
 # Fusion-io: Unleashing the full performance of SQL
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence - Business Track
 ## Speaker: Jen Stirrup
 ## Title: Fusion-io: Unleashing the full performance of SQL
@@ -75,7 +76,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence -
 #  
 #### SessionID: 16400
 # Fusion-io: A whole new level of performance
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence - Business Track
 ## Speaker: Jen Stirrup
 ## Title: Fusion-io: A whole new level of performance
@@ -84,7 +85,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence -
 #  
 #### SessionID: 16401
 # PDW Q  A
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence – Technical Track
 ## Speaker: Jen Stirrup
 ## Title: PDW Q  A
@@ -93,7 +94,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence �
 #  
 #### SessionID: 16402
 # Keynote and Introduction: SQL Server 2014 and BI overview
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Microsoft SQL Server 2014 Applied
 ## Speaker: Jen Stirrup
 ## Title: Keynote and Introduction: SQL Server 2014 and BI overview
@@ -104,7 +105,7 @@ This session will help to orient you for the rest of SQLSaturday Edinburgh, and 
 #  
 #### SessionID: 16403
 # A One Hour Data Analysts Toolkit: using R and Power View
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence – Technical Track
 ## Speaker: Jen Stirrup
 ## Title: A One Hour Data Analysts Toolkit: using R and Power View
@@ -113,7 +114,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence �
 #  
 #### SessionID: 17331
 # Big data. Small data. All Data.
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Microsoft SQL Server 2014 Applied
 ## Speaker: Jon Woodward
 ## Title: Big data. Small data. All Data.
@@ -125,7 +126,7 @@ How will the latest developments and future thinking, from Hadoop to Machine Lea
 #  
 #### SessionID: 17600
 # Migrating to PDW? Lessons from the Field 
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Microsoft SQL Server 2014 Applied
 ## Speaker: James Rowland Jones
 ## Title: Migrating to PDW? Lessons from the Field 
@@ -136,7 +137,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Microsoft SQL Server 20
 #  
 #### SessionID: 18118
 # Autogenerating a process data warehouse
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence – Technical Track
 ## Speaker: Kennie Pontoppidan
 ## Title: Autogenerating a process data warehouse
@@ -147,7 +148,7 @@ In this talk I will show you how Rehfeld has overcome this difficult problem usi
 #  
 #### SessionID: 18119
 # Partitioning as a design pattern
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence - Business Track
 ## Speaker: Kennie Pontoppidan
 ## Title: Partitioning as a design pattern
@@ -158,7 +159,7 @@ The talk is relevant for DBA's, (BI) developers and BI architects.
 #  
 #### SessionID: 20313
 # The Good, Bad and Ugly of Cloud Reporting
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence - Business Track
 ## Speaker: Mihail Mateev
 ## Title: The Good, Bad and Ugly of Cloud Reporting
@@ -168,7 +169,7 @@ VM SSRS provides SQL Reporting service under IaaS model which will be consumed b
 #  
 #### SessionID: 21311
 # MDS and DQS - Beyond the TLAs to Data Quality
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence – Technical Track
 ## Speaker: Neil Hambly
 ## Title: MDS and DQS - Beyond the TLAs to Data Quality
@@ -179,7 +180,7 @@ High data quality is fundamental to any business analytics system. In this sessi
 #  
 #### SessionID: 21878
 # Case Study: Self Service BI within Manufacturing
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Microsoft SQL Server 2014 Applied
 ## Speaker: Paul Bunting
 ## Title: Case Study: Self Service BI within Manufacturing
@@ -188,7 +189,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Microsoft SQL Server 20
 #  
 #### SessionID: 22832
 # Power View and the Cube
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence - Business Track
 ## Speaker: Regis Baccaro
 ## Title: Power View and the Cube
@@ -203,7 +204,7 @@ The session we'll present
 #  
 #### SessionID: 23506
 # Optimizing BI with SQL2014 In-Memory tables
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence – Technical Track
 ## Speaker: Rasmus Reinholdt
 ## Title: Optimizing BI with SQL2014 In-Memory tables
@@ -214,7 +215,7 @@ This demo intensiv session is build around a number of hypothesis that are teste
 #  
 #### SessionID: 25973
 # Web Analytics with Microsoft BI
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence - Business Track
 ## Speaker: Tillmann Eitelberg
 ## Title: Web Analytics with Microsoft BI
@@ -225,7 +226,7 @@ You will see how to load Google Analytics data using SQL Server Integration Serv
 #  
 #### SessionID: 34556
 # Automate your SSIS development with BIML
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence – Technical Track
 ## Speaker: André Kamman
 ## Title: Automate your SSIS development with BIML
@@ -242,7 +243,7 @@ This is not just for BI developers, DBA's or SQL dev's who need to import or exp
 #  
 #### SessionID: 9281
 # SQOOP - Taking relational data to Hadoop and back again
-#### [Back to calendar](#SQLSaturday-#281-Edinburgh-BI-Edition-2014)
+#### [Back to calendar](#nr-281)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Microsoft SQL Server 2014 Applied
 ## Speaker: Allan Mitchell
 ## Title: SQOOP - Taking relational data to Hadoop and back again

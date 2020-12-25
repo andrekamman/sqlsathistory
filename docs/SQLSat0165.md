@@ -1,3 +1,4 @@
+#### Nr: 165
 #### [Back to Main list](index.md)
 # SQLSaturday #165 - Lincoln 2012
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10436
 # Kama Sutra of SSIS: A guide to loving ETL
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Bill Fellows
 ## Title: Kama Sutra of SSIS: A guide to loving ETL
@@ -45,7 +46,7 @@ After attending this session, you will come out with an understanding of how Con
 #  
 #### SessionID: 10437
 # Type more, click less: using EzAPI to build SSIS
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Bill Fellows
 ## Title: Type more, click less: using EzAPI to build SSIS
@@ -54,7 +55,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 11308
 # Data Modeling Best Practices for Tabular Models
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Carlos Bossy
 ## Title: Data Modeling Best Practices for Tabular Models
@@ -63,7 +64,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11309
 # Real-time Data Warehouse and Reporting Solutions
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Carlos Bossy
 ## Title: Real-time Data Warehouse and Reporting Solutions
@@ -72,7 +73,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 11591
 # SQL Server Internals:  It's What's for Dinner!
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Christina Leo
 ## Title: SQL Server Internals:  It's What's for Dinner!
@@ -81,7 +82,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 11592
 # What's Buried in the Plan Cache?
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Christina Leo
 ## Title: What's Buried in the Plan Cache?
@@ -93,7 +94,7 @@ In this session, we’ll look at how the plan cache is organized, what plans are
 #  
 #### SessionID: 12570
 # Database Health and Performance
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Klee
 ## Title: Database Health and Performance
@@ -102,7 +103,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12571
 # Virtualizing Business Critical SQL Servers
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: David Klee
 ## Title: Virtualizing Business Critical SQL Servers
@@ -111,7 +112,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 12893
 # Take Control with SQL Server PowerShell
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: David Brockelsby
 ## Title: Take Control with SQL Server PowerShell
@@ -120,7 +121,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 13042
 # Case study - Compression and Partitioning (BCBSNE)
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dean Nicholson
 ## Title: Case study - Compression and Partitioning (BCBSNE)
@@ -129,7 +130,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13401
 # Heart to Heart with Business Users
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Dave Pettengill
 ## Title: Heart to Heart with Business Users
@@ -138,7 +139,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 13402
 # A Database Perspective
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Dave Pettengill
 ## Title: A Database Perspective
@@ -147,7 +148,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 16882
 # The Accidental Programmer
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jason Kassay
 ## Title: The Accidental Programmer
@@ -156,7 +157,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18155
 # Top 10 Admin Mistakes on SQL Server
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Kline
 ## Title: Top 10 Admin Mistakes on SQL Server
@@ -172,7 +173,7 @@ fact, wouldn’t you like to learn about those mistakes before they ever happen?
 #  
 #### SessionID: 18157
 # Disk IO Tuning for Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Kline
 ## Title: Disk IO Tuning for Microsoft SQL Server
@@ -192,7 +193,7 @@ Configuring hardware can be very intimidating, especially when the application n
 #  
 #### SessionID: 19149
 # Securing the Cube; SSAS security framework
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Daniel Lewandowski
 ## Title: Securing the Cube; SSAS security framework
@@ -201,7 +202,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19199
 # Reporting Services tips for the Stephen Few fan
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Meagan Longoria
 ## Title: Reporting Services tips for the Stephen Few fan
@@ -210,7 +211,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 20096
 # PowerPivot with NASA data
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mark Stacey
 ## Title: PowerPivot with NASA data
@@ -221,7 +222,7 @@ As an added bonus, you will see how to pull the model into Visual Studio, decora
 #  
 #### SessionID: 20097
 # Analysis Services for the DBA
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mark Stacey
 ## Title: Analysis Services for the DBA
@@ -232,7 +233,7 @@ This session will be practical for SQL 2005 through 2008 R2, but he will also ta
 #  
 #### SessionID: 22108
 # SSIS 2012: A Deep Dive into the SSIS Catalog
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Phil Brammer
 ## Title: SSIS 2012: A Deep Dive into the SSIS Catalog
@@ -241,7 +242,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 25861
 # SQL Server 2012 High Availability and DR
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Sudhir Gajre
 ## Title: SQL Server 2012 High Availability and DR
@@ -250,7 +251,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 25863
 # How to be a DBA and retire Rich
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Sudhir Gajre
 ## Title: How to be a DBA and retire Rich
@@ -259,7 +260,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 26577
 # Amazon RDS and SQL Azure - DB in the cloud
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Tim Plas
 ## Title: Amazon RDS and SQL Azure - DB in the cloud
@@ -268,7 +269,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 28053
 # Serene Velocity: Reporting Services and SSAS Data
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: William E Pearson III
 ## Title: Serene Velocity: Reporting Services and SSAS Data
@@ -277,7 +278,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28054
 # SSAS 2012 Tabular vs. Multidimensional
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: William E Pearson III
 ## Title: SSAS 2012 Tabular vs. Multidimensional
@@ -286,7 +287,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 34804
 # SQL Server Monitoring Crash Course
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Michael Fal
 ## Title: SQL Server Monitoring Crash Course
@@ -295,7 +296,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 34805
 # Exposing the Core: SQL 2012 on Server Core
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Michael Fal
 ## Title: Exposing the Core: SQL 2012 on Server Core
@@ -304,7 +305,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 34833
 # Social Networking Is Alive!
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: John Morehouse
 ## Title: Social Networking Is Alive!
@@ -313,7 +314,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 34834
 # Backups  Restores: You’re Not In Kansas Anymore!
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: John Morehouse
 ## Title: Backups  Restores: You’re Not In Kansas Anymore!
@@ -322,7 +323,7 @@ Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9608
 # Maintain Your DBs with Help from Ola Hallengren
-#### [Back to calendar](#SQLSaturday-#165-Lincoln-2012)
+#### [Back to calendar](#nr-165)
 Event Date: 06-10-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Andy Galbraith
 ## Title: Maintain Your DBs with Help from Ola Hallengren

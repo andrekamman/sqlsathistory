@@ -1,3 +1,4 @@
+#### Nr: 528
 #### [Back to Main list](index.md)
 # SQLSaturday #528 - Curacao 2016
 Start Time (24h)|Speaker|Track|Title
@@ -17,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 46630
 # Analyze your query plan like a Microsoft Engineer!
-#### [Back to calendar](#SQLSaturday-#528-Curacao-2016)
+#### [Back to calendar](#nr-528)
 Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Janik
 ## Title: Analyze your query plan like a Microsoft Engineer!
@@ -26,7 +27,7 @@ Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 50556
 # 7 things you need to know about TempDB
-#### [Back to calendar](#SQLSaturday-#528-Curacao-2016)
+#### [Back to calendar](#nr-528)
 Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ignacio Salom Rangel
 ## Title: 7 things you need to know about TempDB
@@ -35,7 +36,7 @@ Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49315
 # SQL Server: Indexing Fundamentals
-#### [Back to calendar](#SQLSaturday-#528-Curacao-2016)
+#### [Back to calendar](#nr-528)
 Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Nigel Sammy
 ## Title: SQL Server: Indexing Fundamentals
@@ -44,7 +45,7 @@ Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 49463
 # SQL Server OLTP - Monitoring and Troubleshooting
-#### [Back to calendar](#SQLSaturday-#528-Curacao-2016)
+#### [Back to calendar](#nr-528)
 Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rohan Joackhim
 ## Title: SQL Server OLTP - Monitoring and Troubleshooting
@@ -53,7 +54,7 @@ Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 47925
 # DBaaS on Azure - SQL Database Best Practices
-#### [Back to calendar](#SQLSaturday-#528-Curacao-2016)
+#### [Back to calendar](#nr-528)
 Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: DBaaS on Azure - SQL Database Best Practices
@@ -65,7 +66,7 @@ This new technology is being adopted for a lot of customers around the world and
 #  
 #### SessionID: 49604
 # Contained Database
-#### [Back to calendar](#SQLSaturday-#528-Curacao-2016)
+#### [Back to calendar](#nr-528)
 Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Roy Ernest
 ## Title: Contained Database
@@ -74,7 +75,7 @@ Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 47736
 # DBA Vs. Hacker: Protecting SQL Server
-#### [Back to calendar](#SQLSaturday-#528-Curacao-2016)
+#### [Back to calendar](#nr-528)
 Event Date: 11-06-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: DBA Vs. Hacker: Protecting SQL Server
@@ -86,7 +87,7 @@ A Hacker's goal is to find vulnerabilities in a system and a DBA's goal is to ma
 #  
 #### SessionID: 49317
 # Understanding and Controlling Transaction Logs
-#### [Back to calendar](#SQLSaturday-#528-Curacao-2016)
+#### [Back to calendar](#nr-528)
 Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Nigel Sammy
 ## Title: Understanding and Controlling Transaction Logs
@@ -96,7 +97,7 @@ Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46721
 # Understanding SQL Server Backup and Restore
-#### [Back to calendar](#SQLSaturday-#528-Curacao-2016)
+#### [Back to calendar](#nr-528)
 Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Radney
 ## Title: Understanding SQL Server Backup and Restore
@@ -105,7 +106,7 @@ Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48485
 # Locking, blocking, and troubleshooting - Trial by FIRE!
-#### [Back to calendar](#SQLSaturday-#528-Curacao-2016)
+#### [Back to calendar](#nr-528)
 Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Daniel Janik
 ## Title: Locking, blocking, and troubleshooting - Trial by FIRE!
@@ -118,7 +119,7 @@ This is an interactive session, so please come prepared to help the class troubl
 #  
 #### SessionID: 46720
 # Common SQL Server Mistakes and How to Avoid Them
-#### [Back to calendar](#SQLSaturday-#528-Curacao-2016)
+#### [Back to calendar](#nr-528)
 Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Radney
 ## Title: Common SQL Server Mistakes and How to Avoid Them
@@ -127,7 +128,7 @@ Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49316
 # T-SQL: Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#528-Curacao-2016)
+#### [Back to calendar](#nr-528)
 Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Nigel Sammy
 ## Title: T-SQL: Tips and Tricks

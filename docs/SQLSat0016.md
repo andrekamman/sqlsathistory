@@ -1,3 +1,4 @@
+#### Nr: 16
 #### [Back to Main list](index.md)
 # SQLSaturday #16 - South Florida 2009
 Start Time (24h)|Speaker|Track|Title
@@ -40,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 34921
 # Performance Optimization Techniques
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Adam Jorgensen
 ## Title: Performance Optimization Techniques
@@ -49,7 +50,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 34922
 # Dive into Querying Analysis Services with MDX
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: BI
 ## Speaker: Adam Jorgensen
 ## Title: Dive into Querying Analysis Services with MDX
@@ -58,7 +59,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 34933
 # Introduction to SQL Statistics
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Andy Warren
 ## Title: Introduction to SQL Statistics
@@ -67,7 +68,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 34934
 # Social and Not so Social Networking for the DBA
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Andy Warren
 ## Title: Social and Not so Social Networking for the DBA
@@ -76,7 +77,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 35002
 # Loading a Data Warehouse in SSIS
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: BI
 ## Speaker: Brian Knight
 ## Title: Loading a Data Warehouse in SSIS
@@ -85,7 +86,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 35003
 # Introduction to SQL Server Analysis Services(SSAS)
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: BI
 ## Speaker: Brian Knight
 ## Title: Introduction to SQL Server Analysis Services(SSAS)
@@ -94,7 +95,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 35056
 # Powershell and SQL Server Administration
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Chad Miller
 ## Title: Powershell and SQL Server Administration
@@ -103,7 +104,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 35058
 # RESTful Data
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA3
 ## Speaker: Chris  Eargle
 ## Title: RESTful Data
@@ -120,7 +121,7 @@ directly.
 #  
 #### SessionID: 35082
 # Planning and Deploying Performance Point Server
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA4
 ## Speaker: David Lapides
 ## Title: Planning and Deploying Performance Point Server
@@ -129,7 +130,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA4
 #  
 #### SessionID: 35083
 # A tour of SQL Server and SharePoint Integration
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: BI
 ## Speaker: David Lapides
 ## Title: A tour of SQL Server and SharePoint Integration
@@ -138,7 +139,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 35094
 # Tuna Helper - Proven Process for Tuning SQL
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Dean Richards
 ## Title: Tuna Helper - Proven Process for Tuning SQL
@@ -147,7 +148,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 35156
 # DW Prescriptive Architecture Fast Track 
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA3
 ## Speaker: Jean-Claude Armand
 ## Title: DW Prescriptive Architecture Fast Track 
@@ -156,7 +157,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA3
 #  
 #### SessionID: 35174
 # Choosing Indexes for Performance
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Jeffrey Garbus
 ## Title: Choosing Indexes for Performance
@@ -165,7 +166,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 35175
 # Indexing for Join Optimization
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for Join Optimization
@@ -174,7 +175,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 35176
 # High Availability options in SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Jeffrey Garbus
 ## Title: High Availability options in SQL Server 2008
@@ -183,7 +184,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 35233
 # Policy Based Management 101
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jorge Segarra
 ## Title: Policy Based Management 101
@@ -192,7 +193,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 35262
 # Transactional Replication: Beyond The Basics
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA3
 ## Speaker: Kendal Van Dyke
 ## Title: Transactional Replication: Beyond The Basics
@@ -205,7 +206,7 @@ Session Goals:
 #  
 #### SessionID: 35263
 # Configuring SQL Access for the Web Developer\Admin
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Kendal Van Dyke
 ## Title: Configuring SQL Access for the Web Developer\Admin
@@ -221,7 +222,7 @@ Session Goals:
 #  
 #### SessionID: 35265
 # Working With XML in SQL Server
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kendal Van Dyke
 ## Title: Working With XML in SQL Server
@@ -235,7 +236,7 @@ Session Goals:
 #  
 #### SessionID: 35285
 # Best Practices and Performance Tuning SSIS
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: BI
 ## Speaker: Devin Knight
 ## Title: Best Practices and Performance Tuning SSIS
@@ -244,7 +245,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 35296
 # SQL Server 2008 Spacial Data Type
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Martin Pichardo
 ## Title: SQL Server 2008 Spacial Data Type
@@ -253,7 +254,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 35297
 # Wait-Time Based SQL Server Performance Management
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Matt Larson
 ## Title: Wait-Time Based SQL Server Performance Management
@@ -262,7 +263,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 35298
 # PowerShell and SQL Server
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Maximo Trinidad
 ## Title: PowerShell and SQL Server
@@ -271,7 +272,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 35322
 # Save Time by Merging It
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA4
 ## Speaker: Michael Antonovich
 ## Title: Save Time by Merging It
@@ -280,7 +281,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA4
 #  
 #### SessionID: 35323
 # Identifying and Removing Duplicate Records 
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Michael Antonovich
 ## Title: Identifying and Removing Duplicate Records 
@@ -289,7 +290,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 35329
 # SQL Smoking Mirrors
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA4
 ## Speaker: Michael Mollenhour
 ## Title: SQL Smoking Mirrors
@@ -298,7 +299,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA4
 #  
 #### SessionID: 35330
 # SQL 2008 Data Mining
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: BI
 ## Speaker: Michael Mollenhour
 ## Title: SQL 2008 Data Mining
@@ -307,7 +308,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 35372
 # On Demand Report Subscriptions
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Pam Shaw
 ## Title: On Demand Report Subscriptions
@@ -316,7 +317,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 35373
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports
@@ -325,7 +326,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 35434
 # Intro to SSIS
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA4
 ## Speaker: Shervin Shakibi
 ## Title: Intro to SSIS
@@ -334,7 +335,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA4
 #  
 #### SessionID: 35436
 # Advanced SSIS
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA4
 ## Speaker: Shervin Shakibi
 ## Title: Advanced SSIS
@@ -343,7 +344,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA4
 #  
 #### SessionID: 35462
 # SQL Server Beyond Relational
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA3
 ## Speaker: Telmo Sampaio
 ## Title: SQL Server Beyond Relational
@@ -352,7 +353,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA3
 #  
 #### SessionID: 35503
 # ADO .Net Sync Services
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA3
 ## Speaker: Vishal Shukla
 ## Title: ADO .Net Sync Services
@@ -361,7 +362,7 @@ Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA3
 #  
 #### SessionID: 35510
 #  Building a Data Warehouse using SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Wes Dumey
 ## Title:  Building a Data Warehouse using SQL Server 2008
@@ -372,7 +373,7 @@ A general overview and code presentation will be provided.
 #  
 #### SessionID: 35511
 # Transitions: From Employee to Free-lance
-#### [Back to calendar](#SQLSaturday-#16-South-Florida-2009)
+#### [Back to calendar](#nr-16)
 Event Date: 08-08-2009 - Session time: 00:00:00 - Track: DBA4
 ## Speaker: Wes Dumey
 ## Title: Transitions: From Employee to Free-lance

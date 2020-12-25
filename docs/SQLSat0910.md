@@ -1,3 +1,4 @@
+#### Nr: 910
 #### [Back to Main list](index.md)
 # SQLSaturday #910 - Slovenia 2019
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 100308
 # Demystifying Query Store Plan Forcing
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:  DBA
 ## Speaker: Miloš Radivojević
 ## Title: Demystifying Query Store Plan Forcing
@@ -46,7 +47,7 @@ We’ll also cover in detail the automatic tuning. You will understand benefits 
 #  
 #### SessionID: 94303
 # An Introduction to Terraform, Infrastructure as Code
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:   DEV/DBA
 ## Speaker: John Martin
 ## Title: An Introduction to Terraform, Infrastructure as Code
@@ -59,7 +60,7 @@ This session will take an introductory look at how infrastructure can be defined
 #  
 #### SessionID: 98528
 # What's new in MS SQL for developers?
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
 ## Speaker: Damir Matesic
 ## Title: What's new in MS SQL for developers?
@@ -68,7 +69,7 @@ Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
 #  
 #### SessionID: 98547
 # An Introduction to Data Visualizations and Design Best Practices
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:       BI
 ## Speaker: Prathy Kamasani
 ## Title: An Introduction to Data Visualizations and Design Best Practices
@@ -79,7 +80,7 @@ In this session, we will discuss how different types of visuals are perceived an
 #  
 #### SessionID: 98665
 # Implementing a new database platform for your modern data warehouse – Snowflake on Azure
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:     BI/DEV
 ## Speaker: Grega Jerkič
 ## Title: Implementing a new database platform for your modern data warehouse – Snowflake on Azure
@@ -88,7 +89,7 @@ Event Date: 14-12-2019 - Session time: 16:00:00 - Track:     BI/DEV
 #  
 #### SessionID: 100504
 # Intelligent Query Processing in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:  DBA
 ## Speaker: Miloš Radivojević
 ## Title: Intelligent Query Processing in SQL Server 2019
@@ -100,7 +101,7 @@ After the session, you’ll understand how much improvements you should expect i
 #  
 #### SessionID: 94190
 # It's broken, now what? (Approaches to Practical Problem Solving)
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:   DEV/DBA
 ## Speaker: William Durkin
 ## Title: It's broken, now what? (Approaches to Practical Problem Solving)
@@ -113,7 +114,7 @@ You will leave the session with a better understanding on how to approach solvin
 #  
 #### SessionID: 94195
 # Bringing AI to the edge - Azure Cognitive Services in docker containers
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:     BI/DEV
 ## Speaker: Alexander Klein
 ## Title: Bringing AI to the edge - Azure Cognitive Services in docker containers
@@ -124,7 +125,7 @@ How can you use these API's if you don't want to send your data to an Azure Data
 #  
 #### SessionID: 94286
 # Missing T-SQL querying features for handling NULLs and for data analysis
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
 ## Speaker: Itzik Ben-Gan
 ## Title: Missing T-SQL querying features for handling NULLs and for data analysis
@@ -133,7 +134,7 @@ Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
 #  
 #### SessionID: 96431
 # How will we use Excel tomorrow?
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:       BI
 ## Speaker: Gašper Kamenšek
 ## Title: How will we use Excel tomorrow?
@@ -145,7 +146,7 @@ We will breeze past the early staples like Power Query and Power Pivot to submer
 #  
 #### SessionID: 94353
 # Advanced analytics in the cloud: AzureML
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:     BI/DEV
 ## Speaker: Enrico van de Laar
 ## Title: Advanced analytics in the cloud: AzureML
@@ -156,7 +157,7 @@ In this session we are going to take a close look at AzureML, from how you can b
 #  
 #### SessionID: 94547
 # Mastering DML Operations like a master
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:   DEV/DBA
 ## Speaker: Uwe Ricken
 ## Title: Mastering DML Operations like a master
@@ -173,7 +174,7 @@ What performance drawbacks will Page Splits and Forwarded Records have for my ap
 #  
 #### SessionID: 94607
 # Troubleshooting Power BI Report Performance
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:       BI
 ## Speaker: Benni De Jagere
 ## Title: Troubleshooting Power BI Report Performance
@@ -191,7 +192,7 @@ Every report can be tuned to handle like a dream, and you can do it too!
 #  
 #### SessionID: 95264
 # T-SQL advanced: Grouping and Windowing
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
 ## Speaker: Andrea Martorana Tusa
 ## Title: T-SQL advanced: Grouping and Windowing
@@ -204,7 +205,7 @@ The session is mainly based on a copious array of demos, to make explicit every 
 #  
 #### SessionID: 96146
 # Containers, Pods, and Databases- The Future of Infrastructure
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:  DBA
 ## Speaker: Joseph D'Antoni
 ## Title: Containers, Pods, and Databases- The Future of Infrastructure
@@ -213,7 +214,7 @@ Event Date: 14-12-2019 - Session time: 16:00:00 - Track:  DBA
 #  
 #### SessionID: 94490
 # "Kubernetify" your SQL Server Containers
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:  DBA
 ## Speaker: Chris Taylor
 ## Title: "Kubernetify" your SQL Server Containers
@@ -231,7 +232,7 @@ We will be talking about what Kubernetes is and how it works and through the use
 #  
 #### SessionID: 94887
 # Debugging your premium capacity
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:     BI/DEV
 ## Speaker: Kasper de Jonge
 ## Title: Debugging your premium capacity
@@ -240,7 +241,7 @@ Event Date: 14-12-2019 - Session time: 16:00:00 - Track:     BI/DEV
 #  
 #### SessionID: 95173
 # Retail Point-of-sale scenario using Azure Cosmos DB
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
 ## Speaker: Aleksandar Talev
 ## Title: Retail Point-of-sale scenario using Azure Cosmos DB
@@ -253,7 +254,7 @@ This scenario takes an event sourcing approach, using a functional programming m
 #  
 #### SessionID: 98314
 # Hitchhiker's Guide to the SSAS Tabular
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:       BI
 ## Speaker: Roman Lansky
 ## Title: Hitchhiker's Guide to the SSAS Tabular
@@ -262,7 +263,7 @@ Event Date: 14-12-2019 - Session time: 16:00:00 - Track:       BI
 #  
 #### SessionID: 98703
 # IoT Round Table
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:   DEV/DBA
 ## Speaker: Constantin Klein
 ## Title: IoT Round Table
@@ -271,7 +272,7 @@ Event Date: 14-12-2019 - Session time: 16:00:00 - Track:   DEV/DBA
 #  
 #### SessionID: 94206
 # SQL Notebooks in Azure Data Studio for the DBA
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:  DBA
 ## Speaker: Rob Sewell
 ## Title: SQL Notebooks in Azure Data Studio for the DBA
@@ -286,7 +287,7 @@ and some gifs ;-)
 #  
 #### SessionID: 94345
 # Creating an Enterprise Datalake without an Enterprise budget
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:     BI/DEV
 ## Speaker: André Kamman
 ## Title: Creating an Enterprise Datalake without an Enterprise budget
@@ -297,7 +298,7 @@ You get to decide how far you want to go, from cost-effective to penny pinching.
 #  
 #### SessionID: 98471
 # Don't Bite Off More Than You Can Chew - Take It in Chunks
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
 ## Speaker: Erland Sommarskog
 ## Title: Don't Bite Off More Than You Can Chew - Take It in Chunks
@@ -310,7 +311,7 @@ I will also look at how you can use chunking for error handling: You want proces
 #  
 #### SessionID: 98680
 # Move part of your body to Azure Data Warehouse
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:       BI
 ## Speaker: Kamil Nowinski
 ## Title: Move part of your body to Azure Data Warehouse
@@ -322,7 +323,7 @@ Finally, I will present one tool that can help you in preparation and also we wi
 #  
 #### SessionID: 98728
 # Strategies for solving compliance challenges
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:   DEV/DBA
 ## Speaker: Steve Jones
 ## Title: Strategies for solving compliance challenges
@@ -333,7 +334,7 @@ In this session, you’ll learn about the challenges that we, as technology prof
 #  
 #### SessionID: 98385
 # Monitoring SQL Server without breaking the bank
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:  DBA
 ## Speaker: Gianluca Sartori
 ## Title: Monitoring SQL Server without breaking the bank
@@ -343,7 +344,7 @@ In this session we will combine multiple open source tools (InfluxDB, Telegraf ,
 #  
 #### SessionID: 98654
 # Docker  ASP.NET Core
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
 ## Speaker: Miroslav Popovic
 ## Title: Docker  ASP.NET Core
@@ -352,7 +353,7 @@ Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
 #  
 #### SessionID: 98662
 # End-to-end Business Intelligence solution in Azure
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:       BI
 ## Speaker: Just Blindbaek
 ## Title: End-to-end Business Intelligence solution in Azure
@@ -365,7 +366,7 @@ A look into the overall architecture and the different components and how they w
 #  
 #### SessionID: 98726
 # Python Pipeline Primer: Data Engineering with Azure DataBricks
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:     BI/DEV
 ## Speaker: Simon Whiteley
 ## Title: Python Pipeline Primer: Data Engineering with Azure DataBricks
@@ -386,7 +387,7 @@ The session is aimed at Data Engineers seeking to put the Azure DataBricks techn
 #  
 #### SessionID: 98729
 # Adopting a Compliant Database DevOps Process
-#### [Back to calendar](#SQLSaturday-#910-Slovenia-2019)
+#### [Back to calendar](#nr-910)
 Event Date: 14-12-2019 - Session time: 16:00:00 - Track:   DEV/DBA
 ## Speaker: Steve Jones
 ## Title: Adopting a Compliant Database DevOps Process

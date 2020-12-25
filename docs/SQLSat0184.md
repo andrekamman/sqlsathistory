@@ -1,3 +1,4 @@
+#### Nr: 184
 #### [Back to Main list](index.md)
 # SQLSaturday #184 - North Haven 2013
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11847
 # An Introduction to Extended Events
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: SQL 2012
 ## Speaker: Jack Corbett
 ## Title: An Introduction to Extended Events
@@ -47,7 +48,7 @@ What you should know coming in:
 #  
 #### SessionID: 12711
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -56,7 +57,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 12880
 # Using templates for professional looking reports
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Daniel Bowlin
 ## Title: Using templates for professional looking reports
@@ -65,7 +66,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 14766
 # Query Tuning in the Clouds
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Data Base Administration
 ## Speaker: Grant Fritchey
 ## Title: Query Tuning in the Clouds
@@ -74,7 +75,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Data Base Administratio
 #  
 #### SessionID: 14767
 # Database Backups for the Accidental DBA
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Data Base Administration
 ## Speaker: Grant Fritchey
 ## Title: Database Backups for the Accidental DBA
@@ -83,7 +84,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Data Base Administratio
 #  
 #### SessionID: 17029
 # How to audit and prevent unwanted user actions.
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: SQL 2012
 ## Speaker: John Miner
 ## Title: How to audit and prevent unwanted user actions.
@@ -92,7 +93,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: SQL 2012
 #  
 #### SessionID: 17975
 # Best Practices for Monitoring Databases on VMware
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Data Base Administration
 ## Speaker: Kathy  Gibbs
 ## Title: Best Practices for Monitoring Databases on VMware
@@ -101,7 +102,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Data Base Administratio
 #  
 #### SessionID: 19746
 # Temporal Fact Tables: The Road Less Traveled
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Martin Schoombee
 ## Title: Temporal Fact Tables: The Road Less Traveled
@@ -112,7 +113,7 @@ In this session we will walk through a practical example of when and how to impl
 #  
 #### SessionID: 19872
 # Build your own Virtual Lab
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Matt Velic
 ## Title: Build your own Virtual Lab
@@ -123,7 +124,7 @@ This session will focus on setting up a basic network environment using VirtualB
 #  
 #### SessionID: 20559
 # Building Your Own Monitors with the SQL Agent
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: SQL 2012
 ## Speaker: Mike Hillwig
 ## Title: Building Your Own Monitors with the SQL Agent
@@ -136,7 +137,7 @@ You'll learn how to implement simple scripts that perk their ears up and start b
 #  
 #### SessionID: 20560
 # How Not to Be a Cranky DBA
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Mike Hillwig
 ## Title: How Not to Be a Cranky DBA
@@ -145,7 +146,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 21661
 # Network or Perish
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Paresh Motiwala
 ## Title: Network or Perish
@@ -156,7 +157,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 21663
 # Best Practices Document
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Paresh Motiwala
 ## Title: Best Practices Document
@@ -165,7 +166,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 23542
 # Much Ado About Indexes - Tips, Tricks and TSQL
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Data Base Administration
 ## Speaker: Robert Pearl
 ## Title: Much Ado About Indexes - Tips, Tricks and TSQL
@@ -174,7 +175,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Data Base Administratio
 #  
 #### SessionID: 24017
 # Get-PowerShell | Get-SQLServer
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: SB Chatterjee
 ## Title: Get-PowerShell | Get-SQLServer
@@ -185,7 +186,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 25128
 # Database Design: Size DOES Matter
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Data Base Administration
 ## Speaker: Thomas LaRock
 ## Title: Database Design: Size DOES Matter
@@ -194,7 +195,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Data Base Administratio
 #  
 #### SessionID: 25308
 # Database design for mere developers 
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Steve Simon
 ## Title: Database design for mere developers 
@@ -204,7 +205,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 25318
 # I 'wanna' learn SQL Server
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Steve Simon
 ## Title: I 'wanna' learn SQL Server
@@ -213,7 +214,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 25875
 # Self Service BI: Office 2013 and SQL 2012
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Sunil Kadimdiwan
 ## Title: Self Service BI: Office 2013 and SQL 2012
@@ -222,7 +223,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 26117
 # SQL Server Storage Engine under the hood 
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: SQL 2012
 ## Speaker: Thomas Grohser
 ## Title: SQL Server Storage Engine under the hood 
@@ -237,7 +238,7 @@ Which I/O Subsystems (including SSD) are best for which type of data and what's 
 #  
 #### SessionID: 26118
 # Establishing a SLA
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: SQL 2012
 ## Speaker: Thomas Grohser
 ## Title: Establishing a SLA
@@ -249,7 +250,7 @@ This Session will teach you how to ask the right questions, analyze your databas
 #  
 #### SessionID: 26973
 # Building Tabular Analysis Models in Excel 2013
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Todd Chittenden
 ## Title: Building Tabular Analysis Models in Excel 2013
@@ -260,7 +261,7 @@ Learn how to build SSAS Tabular Models in Excel and Visual Studio. Skirt around 
 #  
 #### SessionID: 35782
 # Data Career Paths and Decision Making Strategies
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Melissa Demsak
 ## Title: Data Career Paths and Decision Making Strategies
@@ -269,7 +270,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 8918
 # T-SQL : Bad Habits and Best Practices
-#### [Back to calendar](#SQLSaturday-#184-North-Haven-2013)
+#### [Back to calendar](#nr-184)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits and Best Practices

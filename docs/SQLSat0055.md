@@ -1,3 +1,4 @@
+#### Nr: 55
 #### [Back to Main list](index.md)
 # SQLSaturday #55 - San Diego 2010
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 29618
 # SQL at the Speed of Flash 
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Sumeet  Bansal
 ## Title: SQL at the Speed of Flash 
@@ -32,7 +33,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29883
 # Query Tuning - Get it Right the First Time
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dean Richards
 ## Title: Query Tuning - Get it Right the First Time
@@ -44,7 +45,7 @@ tuning path with no guessing.  If you are a beginner or expert, this approach wi
 #  
 #### SessionID: 29936
 # Database "Insecurity"
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: David Moutray
 ## Title: Database "Insecurity"
@@ -53,7 +54,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29937
 # Database  Antipatterns
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: David Moutray
 ## Title: Database  Antipatterns
@@ -62,7 +63,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30307
 # Ace the Interview
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Steve Hendricks
 ## Title: Ace the Interview
@@ -71,7 +72,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30308
 # Replication ABCs
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Steve Hendricks
 ## Title: Replication ABCs
@@ -80,7 +81,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30849
 # SQL Design Patterns
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jim Bears
 ## Title: SQL Design Patterns
@@ -89,7 +90,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31529
 # SQL Azure Deep Dive
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Lynn Langit
 ## Title: SQL Azure Deep Dive
@@ -100,7 +101,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31597
 # Implementing Fine-grained Data Security
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mark Stewart
 ## Title: Implementing Fine-grained Data Security
@@ -109,7 +110,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31614
 # XML Data Type
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Matt Galaviz
 ## Title: XML Data Type
@@ -118,7 +119,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 31996
 # Reading the SQL Server Execution Plan
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Denny Cherry
 ## Title: Reading the SQL Server Execution Plan
@@ -127,7 +128,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31997
 # Getting SQL Service Broker Up and Running
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Denny Cherry
 ## Title: Getting SQL Service Broker Up and Running
@@ -138,7 +139,7 @@ In this session we’ll dig into how to configure the service broker for not onl
 #  
 #### SessionID: 32367
 # Reducing the impact of database changes on an app
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Rajmund Rzepecki
 ## Title: Reducing the impact of database changes on an app
@@ -149,7 +150,7 @@ My approach let me save days or weeks of otherwise wasted development hours when
 #  
 #### SessionID: 33313
 # Performance Tuning with Traces
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Tara Kizer
 ## Title: Performance Tuning with Traces
@@ -158,7 +159,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33786
 # Caching your data with Microsoft AppFabric
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Troy Gatchell
 ## Title: Caching your data with Microsoft AppFabric
@@ -167,7 +168,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 34512
 # Looking at LINQ
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Bill Sheldon
 ## Title: Looking at LINQ
@@ -176,7 +177,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 34625
 # Building nTier Apps with Entity Framework - Part 1
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David McCarter
 ## Title: Building nTier Apps with Entity Framework - Part 1
@@ -185,7 +186,7 @@ Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 34626
 # Building nTier Apps with Entity Framework - Part 2
-#### [Back to calendar](#SQLSaturday-#55-San-Diego-2010)
+#### [Back to calendar](#nr-55)
 Event Date: 18-09-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David McCarter
 ## Title: Building nTier Apps with Entity Framework - Part 2

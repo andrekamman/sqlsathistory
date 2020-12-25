@@ -1,3 +1,4 @@
+#### Nr: 175
 #### [Back to Main list](index.md)
 # SQLSaturday #175 - Fargo 2013
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 12594
 # Database Health and Performance
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: David Klee
 ## Title: Database Health and Performance
@@ -34,7 +35,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 13909
 # Data Mining Deep Dive: Clustering
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Eric Ness
 ## Title: Data Mining Deep Dive: Clustering
@@ -43,7 +44,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 13916
 # Table Partitions for Archiving and Performance
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Eric Zierdt
 ## Title: Table Partitions for Archiving and Performance
@@ -52,7 +53,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 15847
 # Dimension Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jason Horner
 ## Title: Dimension Modeling Design Patterns: Beyond Basics
@@ -61,7 +62,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15918
 # Discovering the Plan Cache
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jason Strate
 ## Title: Discovering the Plan Cache
@@ -71,7 +72,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 16253
 # PowerShell and SQLPSX the Dynamic Duo for the DBA
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jim Dorame
 ## Title: PowerShell and SQLPSX the Dynamic Duo for the DBA
@@ -83,7 +84,7 @@ Come learn when and how the addition of PowerShell and SQLPSX can benefit you.
 #  
 #### SessionID: 16364
 # Data Quality Services
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jeff Prom
 ## Title: Data Quality Services
@@ -95,7 +96,7 @@ In this session we will cover creating a knowledge base, data cleansing, data ma
 #  
 #### SessionID: 16628
 # Index Options You're Not Using
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jes Schultz
 ## Title: Index Options You're Not Using
@@ -105,7 +106,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 16630
 # The What, Why, and How of Filegroups 
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jes Schultz
 ## Title: The What, Why, and How of Filegroups 
@@ -114,7 +115,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18403
 # T-SQL Analytic Functions
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Analytic Functions
@@ -123,7 +124,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 18404
 # SQL Server 2012 T-SQL
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kathi Kellenberger
 ## Title: SQL Server 2012 T-SQL
@@ -132,7 +133,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 20460
 # Deadlocks: What to do about the dreaded 1205
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Michael DeFehr
 ## Title: Deadlocks: What to do about the dreaded 1205
@@ -141,7 +142,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 22393
 # An Optimistic Approach: Snapshot Isolation in SQL 
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Paul Timmerman
 ## Title: An Optimistic Approach: Snapshot Isolation in SQL 
@@ -154,7 +155,7 @@ Come learn how to put one of the more powerful, but least understood, aspects of
 #  
 #### SessionID: 23461
 # F# for Data Analysis
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Ross McNeely
 ## Title: F# for Data Analysis
@@ -163,7 +164,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24460
 # The Encryption Primer
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Steve Jones
 ## Title: The Encryption Primer
@@ -172,7 +173,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24965
 # Flipping Through the SSIS Catalag
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: MIKE DONNELLY
 ## Title: Flipping Through the SSIS Catalag
@@ -182,7 +183,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 25192
 # The Future of the DBA
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Scott Shaw
 ## Title: The Future of the DBA
@@ -191,7 +192,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 25782
 # Building BI Solutions with Excel 2013
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Steve Hughes
 ## Title: Building BI Solutions with Excel 2013
@@ -200,7 +201,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 26035
 # How to install and configure SSRS 2012/Sharepoint
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Terry Bunio
 ## Title: How to install and configure SSRS 2012/Sharepoint
@@ -210,7 +211,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9165
 # A Complete BI Solution in About an Hour! 
-#### [Back to calendar](#SQLSaturday-#175-Fargo-2013)
+#### [Back to calendar](#nr-175)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Aaron King
 ## Title: A Complete BI Solution in About an Hour! 

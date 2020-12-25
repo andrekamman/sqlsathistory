@@ -1,3 +1,4 @@
+#### Nr: 363
 #### [Back to Main list](index.md)
 # SQLSaturday #363 - Nashville 2015
 Start Time (24h)|Speaker|Track|Title
@@ -56,7 +57,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10166
 # Inside the Query Optimizer
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: SIOS Sound Stage
 ## Speaker: Bradley Ball
 ## Title: Inside the Query Optimizer
@@ -65,7 +66,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: SIOS Sound Stage
 #  
 #### SessionID: 10702
 # Treating Tables Like Legos, Partitioning Basics
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: SIOS Sound Stage
 ## Speaker: Brandon Leach
 ## Title: Treating Tables Like Legos, Partitioning Basics
@@ -74,7 +75,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: SIOS Sound Stage
 #  
 #### SessionID: 11716
 # The Science of Data Forensics
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Dell Hall of Fame
 ## Speaker: Cherie Sheriff
 ## Title: The Science of Data Forensics
@@ -85,7 +86,7 @@ This session will go over auditing concerns and how to develop your Business Int
 #  
 #### SessionID: 12176
 # Tuning SQL Server for SharePoint
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Profisee Experience
 ## Speaker: Daniel Glenn
 ## Title: Tuning SQL Server for SharePoint
@@ -95,7 +96,7 @@ Some of the topics covered will include: the configuration steps and settings ne
 #  
 #### SessionID: 12251
 # Database: The Motion Picture
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Dell Hall of Fame
 ## Speaker: Dave Mattingly
 ## Title: Database: The Motion Picture
@@ -104,7 +105,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Dell Hall of Fame
 #  
 #### SessionID: 13336
 # DBA 911 - Database Corruption
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Amazon Arena
 ## Speaker: David Maxwell
 ## Title: DBA 911 - Database Corruption
@@ -114,7 +115,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Amazon Arena
 #  
 #### SessionID: 13436
 # Self-Service BI with Big Data
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Microsoft Music Magic
 ## Speaker: Dan Evans
 ## Title: Self-Service BI with Big Data
@@ -123,7 +124,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Microsoft Music Magic
 #  
 #### SessionID: 13714
 # Backup Strategies are for Losers!
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Cisco Solid Gold
 ## Speaker: Ed Watson
 ## Title: Backup Strategies are for Losers!
@@ -132,7 +133,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Cisco Solid Gold
 #  
 #### SessionID: 13787
 # Data Warehouse Architectures
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Microsoft Music Magic
 ## Speaker: Eric Nichols
 ## Title: Data Warehouse Architectures
@@ -141,7 +142,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Microsoft Music Magic
 #  
 #### SessionID: 14119
 # What is a Latch, and Why Should I Care?
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Microsoft Music Magic
 ## Speaker: Eddie Wuerch
 ## Title: What is a Latch, and Why Should I Care?
@@ -150,7 +151,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Microsoft Music Magic
 #  
 #### SessionID: 14188
 # What Happens When SQL Server 2014 Meets Cisco UCS? Better Business Intelligence.
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Cisco Solid Gold
 ## Speaker: Frank Cicalese
 ## Title: What Happens When SQL Server 2014 Meets Cisco UCS? Better Business Intelligence.
@@ -159,7 +160,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Cisco Solid Gold
 #  
 #### SessionID: 14435
 # Learn How To Build A Golden Record for Any Subject Over Lunch!
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Profisee Experience
 ## Speaker: Gene Webb
 ## Title: Learn How To Build A Golden Record for Any Subject Over Lunch!
@@ -173,7 +174,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Profisee Experience
 #  
 #### SessionID: 14505
 # Cloudy with a Chance of Data
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Profisee Experience
 ## Speaker: Geoff Hiten
 ## Title: Cloudy with a Chance of Data
@@ -182,7 +183,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Profisee Experience
 #  
 #### SessionID: 15001
 # Spatial Data - Looking Outside the Map
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Profisee Experience
 ## Speaker: Hope Foley
 ## Title: Spatial Data - Looking Outside the Map
@@ -191,7 +192,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Profisee Experience
 #  
 #### SessionID: 15741
 # Introduction to Wait Types and Response Time Analysis
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Ryman
 ## Speaker: Janis Griffin
 ## Title: Introduction to Wait Types and Response Time Analysis
@@ -201,7 +202,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Ryman
 #  
 #### SessionID: 16149
 # What SQL DBAs need to know about SharePoint
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Ryman
 ## Speaker: JD Wade
 ## Title: What SQL DBAs need to know about SharePoint
@@ -210,7 +211,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Ryman
 #  
 #### SessionID: 16229
 # Building Perfect SQL Servers, Every Time
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Dell Hall of Fame
 ## Speaker: Joseph D'Antoni
 ## Title: Building Perfect SQL Servers, Every Time
@@ -223,7 +224,7 @@ You will also learn how use these same methods to ensure your own server build c
 #  
 #### SessionID: 16230
 # Who Moved My Tuple--Columnstore Indexes in SQL Server 2014.
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Ryman
 ## Speaker: Joseph D'Antoni
 ## Title: Who Moved My Tuple--Columnstore Indexes in SQL Server 2014.
@@ -234,7 +235,7 @@ Data Warehouse workloads can be very large and taxing on your database server. W
 #  
 #### SessionID: 16273
 # Oracle Tools in a SQL Server World?
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Amazon Arena
 ## Speaker: Jeff Smith
 ## Title: Oracle Tools in a SQL Server World?
@@ -249,7 +250,7 @@ By the way, all of this stuff is free. This may be your only chance to see a ses
 #  
 #### SessionID: 17134
 # The Top Ten Mistakes that New Leaders Make
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Ryman
 ## Speaker: Joe Webb
 ## Title: The Top Ten Mistakes that New Leaders Make
@@ -258,7 +259,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Ryman
 #  
 #### SessionID: 17322
 # Continuous Integration with SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Amazon Arena
 ## Speaker: Jon Boulineau
 ## Title: Continuous Integration with SQL Server Data Tools
@@ -267,7 +268,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Amazon Arena
 #  
 #### SessionID: 17459
 # The Quest to Find Bad Data With Data Profiling
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Amazon Arena
 ## Speaker: Richie Rump
 ## Title: The Quest to Find Bad Data With Data Profiling
@@ -280,7 +281,7 @@ Data profiling is a way that you can identify bad data, measure inaccurate data,
 #  
 #### SessionID: 17536
 # GET UP AND GO: BIG DATA AUTOMATION USING HDINSIGHT
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Pyramid Cafe
 ## Speaker: Josh Luedeman
 ## Title: GET UP AND GO: BIG DATA AUTOMATION USING HDINSIGHT
@@ -289,7 +290,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Pyramid Cafe
 #  
 #### SessionID: 18228
 # Convince Me – Persuasion Techniques That Get Things Done
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Ryman
 ## Speaker: Kevin Kline
 ## Title: Convince Me – Persuasion Techniques That Get Things Done
@@ -305,7 +306,7 @@ Ever wanted to convince the boss try something new, but didn't know where to sta
 #  
 #### SessionID: 18447
 # T-SQL Window Function Performance
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Dell Hall of Fame
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Performance
@@ -314,7 +315,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Dell Hall of Fame
 #  
 #### SessionID: 18461
 # Ten Things Every SQL Developer Should Know
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Microsoft Music Magic
 ## Speaker: Kevin Kline
 ## Title: Ten Things Every SQL Developer Should Know
@@ -325,7 +326,7 @@ There are a short list of mistakes that, if you know of them in advance, will ma
 #  
 #### SessionID: 20038
 # A practical guide to Windows Azure SQL Database for the DBA
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Profisee Experience
 ## Speaker: Gareth Swanepoel
 ## Title: A practical guide to Windows Azure SQL Database for the DBA
@@ -335,7 +336,7 @@ If you are a production DBA and have contemplated one or more of these questions
 #  
 #### SessionID: 20419
 # SQL Server 2014 In-Memory Programming
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Amazon Arena
 ## Speaker: miguel Cebollero
 ## Title: SQL Server 2014 In-Memory Programming
@@ -344,7 +345,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Amazon Arena
 #  
 #### SessionID: 20611
 # Execution Plans for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Cisco Solid Gold
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
@@ -355,7 +356,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Cisco Solid Gold
 #  
 #### SessionID: 21087
 # Table Indexing for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: SIOS Sound Stage
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
@@ -364,7 +365,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: SIOS Sound Stage
 #  
 #### SessionID: 21110
 # Data Mining with Excel 2013
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Cisco Solid Gold
 ## Speaker: Michael Reed
 ## Title: Data Mining with Excel 2013
@@ -373,7 +374,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Cisco Solid Gold
 #  
 #### SessionID: 21303
 # How to Write Awful SQL Queries (And Drive Your DBA Insane)
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Profisee Experience
 ## Speaker: Dr. Arisoa Randrianasolo and Dr. Eddy Borera
 ## Title: How to Write Awful SQL Queries (And Drive Your DBA Insane)
@@ -382,7 +383,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Profisee Experience
 #  
 #### SessionID: 21615
 # Big Data Mining with SSAS, Azure Machine Learning  Mahout
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Pyramid Cafe
 ## Speaker: Paco Gonzalez
 ## Title: Big Data Mining with SSAS, Azure Machine Learning  Mahout
@@ -394,7 +395,7 @@ This session will cover the full data mining cycle: ETL,building, testing, and t
 #  
 #### SessionID: 22598
 # Understanding the SQL Server Transaction Log
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Cisco Solid Gold
 ## Speaker: Randy Knight
 ## Title: Understanding the SQL Server Transaction Log
@@ -403,7 +404,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Cisco Solid Gold
 #  
 #### SessionID: 22669
 # Getting Started with Hekaton (In-Memory OLTP)
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: SIOS Sound Stage
 ## Speaker: Brian Davis
 ## Title: Getting Started with Hekaton (In-Memory OLTP)
@@ -412,7 +413,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: SIOS Sound Stage
 #  
 #### SessionID: 23251
 # Getting Started With SQL Server Replication
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Microsoft Music Magic
 ## Speaker: Robert Verell
 ## Title: Getting Started With SQL Server Replication
@@ -421,7 +422,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Microsoft Music Magic
 #  
 #### SessionID: 23334
 # Revenge: The SQL! - Director's Cut
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Dell Hall of Fame
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL! - Director's Cut
@@ -436,7 +437,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 23699
 # Introduction to BIML and BIMLScript
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Cisco Solid Gold
 ## Speaker: Russel Loski
 ## Title: Introduction to BIML and BIMLScript
@@ -445,7 +446,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Cisco Solid Gold
 #  
 #### SessionID: 24240
 # Running SQL Server in the AWS Cloud
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Amazon Arena
 ## Speaker: Bonnie Donovan
 ## Title: Running SQL Server in the AWS Cloud
@@ -454,7 +455,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Amazon Arena
 #  
 #### SessionID: 24733
 # Building a BI Solution in the Cloud 
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Microsoft Music Magic
 ## Speaker: Stacia Varga
 ## Title: Building a BI Solution in the Cloud 
@@ -465,7 +466,7 @@ In this session, you will learn about the available Microsoft Azure components a
 #  
 #### SessionID: 24734
 # Understanding BI Security Best Practices 
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: SIOS Sound Stage
 ## Speaker: Stacia Varga
 ## Title: Understanding BI Security Best Practices 
@@ -476,7 +477,7 @@ In this session, you'll also learn about the relationship across the security se
 #  
 #### SessionID: 24884
 # Every Byte Counts: Why Your Data Type Choices Matter
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Cisco Solid Gold
 ## Speaker: Andy Yun
 ## Title: Every Byte Counts: Why Your Data Type Choices Matter
@@ -489,7 +490,7 @@ When you leave, you will be able to explain to your colleagues why data type cho
 #  
 #### SessionID: 25845
 # The Agile DBA: Managing your To-Do List
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Ryman
 ## Speaker: Stuart Ainsworth
 ## Title: The Agile DBA: Managing your To-Do List
@@ -498,7 +499,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Ryman
 #  
 #### SessionID: 26731
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Amazon Arena
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -507,7 +508,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Amazon Arena
 #  
 #### SessionID: 27828
 # Women of Tech talk Trends, Passions, and Goals
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: the Ryman
 ## Speaker: Wendy Pastrick
 ## Title: Women of Tech talk Trends, Passions, and Goals
@@ -518,7 +519,7 @@ You will hear from SQL and local WIT heroes Hope Foley, Eliza, Britni Larchinese
 #  
 #### SessionID: 27830
 # SQL Server in Azure
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Pyramid Cafe
 ## Speaker: Wendy Pastrick
 ## Title: SQL Server in Azure
@@ -527,7 +528,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Pyramid Cafe
 #  
 #### SessionID: 28229
 # SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Pyramid Cafe
 ## Speaker: Naomi Williams
 ## Title: SQL Server Internals
@@ -536,7 +537,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Pyramid Cafe
 #  
 #### SessionID: 34740
 # Primer on Power BI
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Pyramid Cafe
 ## Speaker: Mark Tabladillo
 ## Title: Primer on Power BI
@@ -554,7 +555,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Pyramid Cafe
 #  
 #### SessionID: 9005
 # Introduction to AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: SIOS Sound Stage
 ## Speaker: Adam Belebczuk
 ## Title: Introduction to AlwaysOn Availability Groups
@@ -563,7 +564,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: SIOS Sound Stage
 #  
 #### SessionID: 9735
 # So you think MDX is hard?
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Pyramid Cafe
 ## Speaker: Robert Cain
 ## Title: So you think MDX is hard?
@@ -573,7 +574,7 @@ Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Pyramid Cafe
 #  
 #### SessionID: 9970
 # The Data Warehouse is Dead! Long Live the Data Warehouse!
-#### [Back to calendar](#SQLSaturday-#363-Nashville-2015)
+#### [Back to calendar](#nr-363)
 Event Date: 17-01-2015 - Session time: 00:00:00 - Track: Microsoft Music Magic
 ## Speaker: Audrey Hammonds
 ## Title: The Data Warehouse is Dead! Long Live the Data Warehouse!

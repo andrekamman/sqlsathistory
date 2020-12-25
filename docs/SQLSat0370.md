@@ -1,3 +1,4 @@
+#### Nr: 370
 #### [Back to Main list](index.md)
 # SQLSaturday #370 - Phoenix 2015
 Start Time (24h)|Speaker|Track|Title
@@ -66,7 +67,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10164
 # BI DBA Performance Tuning
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS/DBA/Misc
 ## Speaker: Bradley Ball
 ## Title: BI DBA Performance Tuning
@@ -75,7 +76,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS/DBA/Misc
 #  
 #### SessionID: 10281
 # SMO Internals for High Performance Automation
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA/Prof Dev
 ## Speaker: Ben Miller
 ## Title: SMO Internals for High Performance Automation
@@ -84,7 +85,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA/Prof Dev
 #  
 #### SessionID: 10378
 # Understanding Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
@@ -93,7 +94,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 10892
 # Using Extended Events in SQL Server
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jason Brimhall
 ## Title: Using Extended Events in SQL Server
@@ -102,7 +103,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 11170
 # Standalone to High-Availability Clusters over Lunch—with Time to Spare
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Carl Berglund
 ## Title: Standalone to High-Availability Clusters over Lunch—with Time to Spare
@@ -111,7 +112,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 11364
 # Getting started with Big Data and BI
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Carlos Bossy
 ## Title: Getting started with Big Data and BI
@@ -120,7 +121,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 11366
 # Tune a star schema for High Performance Data Warehouse Reporting 
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Carlos Bossy
 ## Title: Tune a star schema for High Performance Data Warehouse Reporting 
@@ -129,7 +130,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 11529
 # Ten T-SQL Techniques with Tally Tables
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Chris Hyde
 ## Title: Ten T-SQL Techniques with Tally Tables
@@ -138,7 +139,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 #  
 #### SessionID: 11725
 # Database Replication Strategies for Improved Productivity
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA/Prof Dev
 ## Speaker: Clay Jackson
 ## Title: Database Replication Strategies for Improved Productivity
@@ -147,7 +148,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA/Prof Dev
 #  
 #### SessionID: 12601
 # Achieving Peak Performance from your Virtual SQL Servers
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: David Klee
 ## Title: Achieving Peak Performance from your Virtual SQL Servers
@@ -156,7 +157,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13678
 # Extending Your Availability Group for Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Ed Leighton-Dick
 ## Title: Extending Your Availability Group for Disaster Recovery
@@ -165,7 +166,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13679
 # Protecting Your Data with Encryption
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS/DBA/Misc
 ## Speaker: Ed Leighton-Dick
 ## Title: Protecting Your Data with Encryption
@@ -174,7 +175,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS/DBA/Misc
 #  
 #### SessionID: 13898
 # Make Your DBA Happy: 5 Habits Developers Can Implement Today
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Eric Oszakiewski
 ## Title: Make Your DBA Happy: 5 Habits Developers Can Implement Today
@@ -183,7 +184,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 #  
 #### SessionID: 14670
 # Predicting the future with Machine Learning  
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Ginger Grant
 ## Title: Predicting the future with Machine Learning  
@@ -192,7 +193,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 15508
 # Guerilla MDM via MDS/SSIS Implementation
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Ira Warren
 ## Title: Guerilla MDM via MDS/SSIS Implementation
@@ -208,7 +209,7 @@ SSIS/MDS application architecture is highly reusable and can easily be used to Q
 #  
 #### SessionID: 15737
 # Introduction to Wait Types and Response Time Analysis
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Janis Griffin
 ## Title: Introduction to Wait Types and Response Time Analysis
@@ -218,7 +219,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 15868
 # Dimensional Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
@@ -227,7 +228,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 17159
 # Enterprise-grade MDM On SQL Server - the Keys to Success 
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: John McAllister
 ## Title: Enterprise-grade MDM On SQL Server - the Keys to Success 
@@ -236,7 +237,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17496
 # Creating Dashboards in SSRS
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Joshua Buttles
 ## Title: Creating Dashboards in SSRS
@@ -245,7 +246,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 17508
 # Introduction to Microsoft Power Query
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Josh Sivey
 ## Title: Introduction to Microsoft Power Query
@@ -254,7 +255,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 17532
 # Data Factory: Data Integration in the Cloud
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Josh Luedeman
 ## Title: Data Factory: Data Integration in the Cloud
@@ -263,7 +264,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 17812
 # Diary of a Wimpy SSIS Developer
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Joseph Barth
 ## Title: Diary of a Wimpy SSIS Developer
@@ -280,7 +281,7 @@ Prelude to devine intervention of SSIS supremacy(With the rest of the time, show
 #  
 #### SessionID: 17817
 # Optimize Your SQL Server 2014 Workloads with Cisco UCS
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Gary Serda
 ## Title: Optimize Your SQL Server 2014 Workloads with Cisco UCS
@@ -289,7 +290,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 18253
 # Microsoft Keynote - Advancing the Cloud  Data Platform
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kevin Cox
 ## Title: Microsoft Keynote - Advancing the Cloud  Data Platform
@@ -305,7 +306,7 @@ Keynote Themes:
 #  
 #### SessionID: 18453
 # WIT Panel
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kathi Kellenberger
 ## Title: WIT Panel
@@ -314,7 +315,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 18454
 # Writing Better T-SQL Queries with Window Functions
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Kathi Kellenberger
 ## Title: Writing Better T-SQL Queries with Window Functions
@@ -325,7 +326,7 @@ This session will teach you how to get great performance, avoid cursor solutions
 #  
 #### SessionID: 18858
 # SQL Server Backups and Restores A to Z
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Keith Tate
 ## Title: SQL Server Backups and Restores A to Z
@@ -336,7 +337,7 @@ The session will begin with the reasons why databases must be backed up (hint: t
 #  
 #### SessionID: 19092
 # Geospatial Data Types in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Leonard Lobel
 ## Title: Geospatial Data Types in SQL Server 2012
@@ -345,7 +346,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 #  
 #### SessionID: 19236
 # SQL Server Statistics – What Are The Chances?
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Lori Edwards
 ## Title: SQL Server Statistics – What Are The Chances?
@@ -354,7 +355,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 19341
 # Data wizardry with the next generation of Power BI!
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Matt Smith
 ## Title: Data wizardry with the next generation of Power BI!
@@ -364,7 +365,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 19757
 # How "quirky" is your update?
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Martin Schoombee
 ## Title: How "quirky" is your update?
@@ -375,7 +376,7 @@ Our main focus however, will be a method coined by Jeff Moden as the "quirky upd
 #  
 #### SessionID: 20004
 # TSQL Bullet-Dodging and Spoon-bending
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Michael DeFehr
 ## Title: TSQL Bullet-Dodging and Spoon-bending
@@ -385,7 +386,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 #  
 #### SessionID: 20250
 # Introduction to Tableau
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Michael Perillo
 ## Title: Introduction to Tableau
@@ -399,7 +400,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 20775
 # The Ins and Outs of SQL Indexes
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Mindy Curnutt
 ## Title: The Ins and Outs of SQL Indexes
@@ -408,7 +409,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 #  
 #### SessionID: 21115
 # Setting up an Azure Test Lab
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Marie Roqueni
 ## Title: Setting up an Azure Test Lab
@@ -417,7 +418,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 21167
 # Tools in Your Toolbox You’re Not using!  Why Not?
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mike Tutor
 ## Title: Tools in Your Toolbox You’re Not using!  Why Not?
@@ -426,7 +427,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 21594
 # Application of Hadoop on-demand for BI Integration and ETL Automation Using Azure HDInsight
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Orion Gebremedhin
 ## Title: Application of Hadoop on-demand for BI Integration and ETL Automation Using Azure HDInsight
@@ -435,7 +436,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 21822
 # Fun with the File System Task
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Paul Graham
 ## Title: Fun with the File System Task
@@ -444,7 +445,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 21862
 # Power BI Hands-On Micro-Workshop
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Paul Turley
 ## Title: Power BI Hands-On Micro-Workshop
@@ -455,7 +456,7 @@ Power Query add-in: http://www.microsoft.com/en-us/download/details.aspx?id=3937
 #  
 #### SessionID: 21879
 # In Memory OLTP: One programmer's experience 
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Paul Combellick
 ## Title: In Memory OLTP: One programmer's experience 
@@ -464,7 +465,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 #  
 #### SessionID: 22605
 # Understanding the SQL Server Transaction Log
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Randy Knight
 ## Title: Understanding the SQL Server Transaction Log
@@ -473,7 +474,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 22793
 # Dynamically Increase your Data Awareness
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Reeves Smith
 ## Title: Dynamically Increase your Data Awareness
@@ -483,7 +484,7 @@ In this session we will walk through a framework that dynamically develops a gro
 #  
 #### SessionID: 22930
 # Introduction to Microsoft Azure DocumentDB
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Jeff Renz
 ## Title: Introduction to Microsoft Azure DocumentDB
@@ -494,7 +495,7 @@ In this session I will demonstrate how to create a DocumentDB instance in Azure,
 #  
 #### SessionID: 22981
 # Powershell - Automating build and deployment in a datawarehouse environment   
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Richard Kemp
 ## Title: Powershell - Automating build and deployment in a datawarehouse environment   
@@ -503,7 +504,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 23093
 # Event Notification in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Robert Miller
 ## Title: Event Notification in SQL Server 2012
@@ -512,7 +513,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 23367
 # Virtualizing our Environment
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Rob Mandeville
 ## Title: Virtualizing our Environment
@@ -521,7 +522,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 23703
 # SQL Server Filesystem
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS/DBA/Misc
 ## Speaker: Roger Wolter
 ## Title: SQL Server Filesystem
@@ -539,7 +540,7 @@ All this and more!
 #  
 #### SessionID: 23706
 # Introduction to Excel pivot tables
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Ryan McCauley
 ## Title: Introduction to Excel pivot tables
@@ -548,7 +549,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 25710
 # Change Data Capture (CDC) with SSIS
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS/DBA/Misc
 ## Speaker: Steve Wake
 ## Title: Change Data Capture (CDC) with SSIS
@@ -557,7 +558,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS/DBA/Misc
 #  
 #### SessionID: 26468
 # SQL Server 2014 Column Store Index vNEXT
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2014 Column Store Index vNEXT
@@ -566,7 +567,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 26572
 # Setting the stage...
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Tim Hidalgo
 ## Title: Setting the stage...
@@ -577,7 +578,7 @@ In this session we will discuss the need for, the design of, and the way to get 
 #  
 #### SessionID: 26967
 # The Life Cycle of a Query in 3D
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA/Prof Dev
 ## Speaker: Todd Kleinhans
 ## Title: The Life Cycle of a Query in 3D
@@ -586,7 +587,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA/Prof Dev
 #  
 #### SessionID: 27386
 # The Significance of Choosing the Right Data Types
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Vern Rabe
 ## Title: The Significance of Choosing the Right Data Types
@@ -596,7 +597,7 @@ In addition, we will cover several data type related functions, and the caveats 
 #  
 #### SessionID: 34778
 # Powershell Tips and Tricks for SQL Server Administration
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA/Prof Dev
 ## Speaker: Michael Fal
 ## Title: Powershell Tips and Tricks for SQL Server Administration
@@ -605,7 +606,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA/Prof Dev
 #  
 #### SessionID: 34815
 # Pyramid Ananytics Govern Data Discovery
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Mike Teel
 ## Title: Pyramid Ananytics Govern Data Discovery
@@ -614,7 +615,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 9068
 # SSAS Multidimensional vs. SSAS Tabular – Which one do I use?
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Alan Faulkner
 ## Title: SSAS Multidimensional vs. SSAS Tabular – Which one do I use?
@@ -626,7 +627,7 @@ Determining whether multidimensional or tabular is the optimum solution for your
 #  
 #### SessionID: 9141
 # On-Demand Compute and Analytics with Powershell, Hadoop and Azure
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Adam Jorgensen
 ## Title: On-Demand Compute and Analytics with Powershell, Hadoop and Azure
@@ -635,7 +636,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 9417
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
@@ -645,7 +646,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 9420
 # Making the Leap from Developer to DBA
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA/Prof Dev
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
@@ -654,7 +655,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA/Prof Dev
 #  
 #### SessionID: 9450
 # The Leader in Server-Side Storage Intelligence 
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA/Prof Dev
 ## Speaker: Jared Lutgen
 ## Title: The Leader in Server-Side Storage Intelligence 
@@ -663,7 +664,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA/Prof Dev
 #  
 #### SessionID: 9867
 # RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works
-#### [Back to calendar](#SQLSaturday-#370-Phoenix-2015)
+#### [Back to calendar](#nr-370)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS/DBA/Misc
 ## Speaker: Arnie Rowland
 ## Title: RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works

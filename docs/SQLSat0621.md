@@ -1,3 +1,4 @@
+#### Nr: 621
 #### [Back to Main list](index.md)
 # SQLSaturday #621 - Silicon Valley 2017
 Start Time (24h)|Speaker|Track|Title
@@ -41,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 64417
 # Fireside Chat Keynote - Deep Learning Concepts and Experiences
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Keynote
 ## Speaker: Vijay Narayanan
 ## Title: Fireside Chat Keynote - Deep Learning Concepts and Experiences
@@ -52,7 +53,7 @@ Data and Artificial Intelligence are the deeply woven into the fabric of our Mic
 #  
 #### SessionID: 59412
 # Unleashing Stretched Databases
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Armando Lacerda
 ## Title: Unleashing Stretched Databases
@@ -61,7 +62,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 59419
 # Bringing DevOps to the Database
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Strategy and Architecture
 ## Speaker: Steve Jones
 ## Title: Bringing DevOps to the Database
@@ -70,7 +71,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 61674
 # Modeling and Analytics Features Coming in Analysis Services vNext
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christian Wade
 ## Title: Modeling and Analytics Features Coming in Analysis Services vNext
@@ -79,7 +80,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 62485
 # SQL Server 2016 Always On Availability Groups Perf  Internals
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Strategy and Architecture
 ## Speaker: J May
 ## Title: SQL Server 2016 Always On Availability Groups Perf  Internals
@@ -90,7 +91,7 @@ Our work shows enhancements of 7x – 10x, allowing over 1/2GB/s (4Gb/s) across 
 #  
 #### SessionID: 63437
 # Survey of the Azure Data Landscape
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ike Ellis
 ## Title: Survey of the Azure Data Landscape
@@ -99,7 +100,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 63810
 # R in Power BI
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Analytics and Visualization
 ## Speaker: Eric Bragas
 ## Title: R in Power BI
@@ -108,7 +109,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 64424
 # Microsoft Data Management Hands-on Labs
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Other
 ## Speaker: Mark Ginnebaugh
 ## Title: Microsoft Data Management Hands-on Labs
@@ -119,7 +120,7 @@ Get hands-on and learn how you can simplify your data management approach with M
 #  
 #### SessionID: 64075
 # It Isn't Magic: Make It Happen. Resume Writing and Interviewing Tips
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Professional Development
 ## Speaker: Harriet Farmer
 ## Title: It Isn't Magic: Make It Happen. Resume Writing and Interviewing Tips
@@ -136,7 +137,7 @@ Chart your current Career Path.
 #  
 #### SessionID: 64208
 # Using Dell EMC to Empower Microsoft SQL Server DBAs and Test/Dev Engineers
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bryan Walsh
 ## Title: Using Dell EMC to Empower Microsoft SQL Server DBAs and Test/Dev Engineers
@@ -145,7 +146,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64302
 # Spotlight on SQL Server
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Other
 ## Speaker: Trent Mera
 ## Title: Spotlight on SQL Server
@@ -154,7 +155,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Other
 #  
 #### SessionID: 59421
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -163,7 +164,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 61013
 # An introduction to the magical world of BIML!
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
@@ -172,7 +173,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 61105
 # The New Revolution in Data Science, R integrated into SQL Server
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Information Delivery
 ## Speaker: Reeves Smith
 ## Title: The New Revolution in Data Science, R integrated into SQL Server
@@ -187,7 +188,7 @@ This presentation is ideally suited for Business Intelligence professionals that
 #  
 #### SessionID: 63248
 # Where did I put my (primary) keys?
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Ami Levin
 ## Title: Where did I put my (primary) keys?
@@ -197,7 +198,7 @@ We will consider the benefits and challenges of using different types of keys - 
 #  
 #### SessionID: 63455
 # Power BI SSRS On Premise
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alisha Harold
 ## Title: Power BI SSRS On Premise
@@ -210,7 +211,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64206
 # What’s new in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Strategy and Architecture
 ## Speaker: Jarek Kazmierczak
 ## Title: What’s new in SQL Server 2017
@@ -225,7 +226,7 @@ New SQL Server 2017  Azure Data Estate capabilities provide better flexibility, 
 #  
 #### SessionID: 61104
 # SQL Server Integration Services for Data Science
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Information Delivery
 ## Speaker: Reeves Smith
 ## Title: SQL Server Integration Services for Data Science
@@ -246,7 +247,7 @@ Some of the topics that will be covered in this session include:
 #  
 #### SessionID: 61111
 # Data Wrangling for Reporting  Analytics
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Analytics and Visualization
 ## Speaker: Phil Robinson
 ## Title: Data Wrangling for Reporting  Analytics
@@ -255,7 +256,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 62518
 # The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
@@ -268,7 +269,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63704
 # Intro to Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Big Data
 ## Speaker: Angel Abundez
 ## Title: Intro to Azure Data Factory
@@ -277,7 +278,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Big Data
 #  
 #### SessionID: 64148
 # Scalable Deep Learning with Microsoft Cognitive Toolkit
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jarek Kazmierczak
 ## Title: Scalable Deep Learning with Microsoft Cognitive Toolkit
@@ -287,7 +288,7 @@ The Microsoft Cognitive Toolkit—previously known as CNTK—empowers you to har
 #  
 #### SessionID: 64160
 # Power BI: Best Practices from the Field
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Analytics and Visualization
 ## Speaker: Joshua Vickery
 ## Title: Power BI: Best Practices from the Field
@@ -296,7 +297,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 63249
 # Physical Join Operators
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Ami Levin
 ## Title: Physical Join Operators
@@ -305,7 +306,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 63408
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -314,7 +315,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 63476
 # Consolidated Essential Performance Health Check using PowerShell
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: Consolidated Essential Performance Health Check using PowerShell
@@ -325,7 +326,7 @@ First part of the email shares some key observations about SQL Server performanc
 #  
 #### SessionID: 63520
 # Programming in Power Query: An Introduction to M
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Information Delivery
 ## Speaker: Andy Parkerson
 ## Title: Programming in Power Query: An Introduction to M
@@ -338,7 +339,7 @@ Our examination will conclude with a discussion of best practices, centering on 
 #  
 #### SessionID: 63712
 # Master Data Management - Getting Started with SQL Server MDS
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: John McAllister
 ## Title: Master Data Management - Getting Started with SQL Server MDS
@@ -347,7 +348,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64195
 # Big Data  Analytics Apps
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Big Data
 ## Speaker: Rajya Bhaiya
 ## Title: Big Data  Analytics Apps
@@ -359,7 +360,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Big Data
 #  
 #### SessionID: 64331
 # Indexing Guidelines
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Greg Larsen
 ## Title: Indexing Guidelines
@@ -368,7 +369,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 59404
 # Why are you still taking backups?
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Armando Lacerda
 ## Title: Why are you still taking backups?
@@ -377,7 +378,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 59741
 # DBA 101 – Let’s Get Started
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lori Edwards
 ## Title: DBA 101 – Let’s Get Started
@@ -386,7 +387,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63283
 # Execution Plans for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
@@ -397,7 +398,7 @@ Reading execution plans becomes much less intimidating as we walk through the fl
 #  
 #### SessionID: 63477
 # Smart Re-Indexing - The quest of ultimate automation
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: Smart Re-Indexing - The quest of ultimate automation
@@ -406,7 +407,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64143
 # Hybrid Cloud and On-Premise Environment for Model Development and Deployment
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Milan Lee
 ## Title: Hybrid Cloud and On-Premise Environment for Model Development and Deployment
@@ -415,7 +416,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 64164
 # Power BI: The Streaming Story
-#### [Back to calendar](#SQLSaturday-#621-Silicon-Valley-2017)
+#### [Back to calendar](#nr-621)
 Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Analytics and Visualization
 ## Speaker: Joshua Vickery
 ## Title: Power BI: The Streaming Story

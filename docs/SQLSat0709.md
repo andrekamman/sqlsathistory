@@ -1,3 +1,4 @@
+#### Nr: 709
 #### [Back to Main list](index.md)
 # SQLSaturday #709 - Belgium 2018
 Start Time (24h)|Speaker|Track|Title
@@ -13,7 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 70296
 # Graphs ... graphs everywhere!
-#### [Back to calendar](#SQLSaturday-#709-Belgium-2018)
+#### [Back to calendar](#nr-709)
 Event Date: 17-03-2018 - Session time: 14:40:00 - Track: BI DEV
 ## Speaker: Cédric Charlier
 ## Title: Graphs ... graphs everywhere!
@@ -22,7 +23,7 @@ Event Date: 17-03-2018 - Session time: 14:40:00 - Track: BI DEV
 #  
 #### SessionID: 71859
 # Continuous Integration Pipelines With Jenkins, Docker and SQL Server
-#### [Back to calendar](#SQLSaturday-#709-Belgium-2018)
+#### [Back to calendar](#nr-709)
 Event Date: 17-03-2018 - Session time: 14:40:00 - Track: BI DEV
 ## Speaker: Christopher Adkin
 ## Title: Continuous Integration Pipelines With Jenkins, Docker and SQL Server
@@ -31,7 +32,7 @@ Event Date: 17-03-2018 - Session time: 14:40:00 - Track: BI DEV
 #  
 #### SessionID: 70305
 # Partitioning 101
-#### [Back to calendar](#SQLSaturday-#709-Belgium-2018)
+#### [Back to calendar](#nr-709)
 Event Date: 17-03-2018 - Session time: 14:40:00 - Track: Application  Database Development
 ## Speaker: Andrew Pruski
 ## Title: Partitioning 101
@@ -50,7 +51,7 @@ Implementing sliding windows
 #  
 #### SessionID: 72086
 # PowerShell - Grow Your Script From Simple to Module
-#### [Back to calendar](#SQLSaturday-#709-Belgium-2018)
+#### [Back to calendar](#nr-709)
 Event Date: 17-03-2018 - Session time: 14:40:00 - Track: BI DEV
 ## Speaker: Sander Stad
 ## Title: PowerShell - Grow Your Script From Simple to Module
@@ -65,7 +66,7 @@ Have you written a couple of scripts but want to get them to the next level. Tha
 #  
 #### SessionID: 70421
 # SQL Server under Pressure: Can I Fix it?
-#### [Back to calendar](#SQLSaturday-#709-Belgium-2018)
+#### [Back to calendar](#nr-709)
 Event Date: 17-03-2018 - Session time: 14:40:00 - Track: DBA
 ## Speaker: Sander van der hoeff
 ## Title: SQL Server under Pressure: Can I Fix it?
@@ -80,7 +81,7 @@ And in a lot of cases these tools will tell you that you yourself can fix the pr
 #  
 #### SessionID: 73187
 # Embedding PowerApps into a Power BI Dashboard
-#### [Back to calendar](#SQLSaturday-#709-Belgium-2018)
+#### [Back to calendar](#nr-709)
 Event Date: 17-03-2018 - Session time: 14:40:00 - Track: BI DEV
 ## Speaker: Callum Green
 ## Title: Embedding PowerApps into a Power BI Dashboard
@@ -93,7 +94,7 @@ The 1-hour session includes other technologies such as Azure SQL Database, Commo
 #  
 #### SessionID: 70313
 # Modern Data Warehousing - The Lambda Approach to Azure BI
-#### [Back to calendar](#SQLSaturday-#709-Belgium-2018)
+#### [Back to calendar](#nr-709)
 Event Date: 17-03-2018 - Session time: 14:40:00 - Track: BI DEV
 ## Speaker: Simon Whiteley
 ## Title: Modern Data Warehousing - The Lambda Approach to Azure BI
@@ -106,7 +107,7 @@ We will follow the movement of data through batch and speed layers via Azure Dat
 #  
 #### SessionID: 70336
 # When the ‘bug’ turns out to be a feature
-#### [Back to calendar](#SQLSaturday-#709-Belgium-2018)
+#### [Back to calendar](#nr-709)
 Event Date: 17-03-2018 - Session time: 14:40:00 - Track: BI DEV
 ## Speaker: Nico Jacobs
 ## Title: When the ‘bug’ turns out to be a feature

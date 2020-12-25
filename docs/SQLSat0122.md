@@ -1,3 +1,4 @@
+#### Nr: 122
 #### [Back to Main list](index.md)
 # SQLSaturday #122 - Louisville 2012
 Start Time (24h)|Speaker|Track|Title
@@ -40,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10002
 # PowerShell 101 for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Allen White
 ## Title: PowerShell 101 for the SQL Server DBA
@@ -49,7 +50,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 11770
 # So I started this blog... now what?
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Prof. Growth
 ## Speaker: Colleen Morrow
 ## Title: So I started this blog... now what?
@@ -58,7 +59,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Prof. Growth
 #  
 #### SessionID: 11841
 # Transitioning from SQL Trace to Extended Events
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jack Corbett
 ## Title: Transitioning from SQL Trace to Extended Events
@@ -67,7 +68,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 11843
 # Getting Start with SQL Server Profiler
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Jack Corbett
 ## Title: Getting Start with SQL Server Profiler
@@ -76,7 +77,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 12030
 # Professional Networking for IT Pros
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Prof. Growth
 ## Speaker: Craig Purnell
 ## Title: Professional Networking for IT Pros
@@ -85,7 +86,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Prof. Growth
 #  
 #### SessionID: 12105
 # Why Data Warehousing Projects Fail
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Craig Utley
 ## Title: Why Data Warehousing Projects Fail
@@ -94,7 +95,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 12343
 # My Favorite SSIS Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Dave Fackler
 ## Title: My Favorite SSIS Tips and Tricks
@@ -103,7 +104,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 13187
 # Change Data Capture the foundation of BI
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jim Deppen
 ## Title: Change Data Capture the foundation of BI
@@ -112,7 +113,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 13449
 # What Counts For a DBA
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Prof. Growth
 ## Speaker: Louis Davidson
 ## Title: What Counts For a DBA
@@ -122,7 +123,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Prof. Growth
 #  
 #### SessionID: 13450
 # What Sequence objects are (and are not)
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Design/Architecture
 ## Speaker: Louis Davidson
 ## Title: What Sequence objects are (and are not)
@@ -132,7 +133,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Design/Architecture
 #  
 #### SessionID: 14040
 # Partitioning for Perf  Management of Large Tables
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Eddie Wuerch
 ## Title: Partitioning for Perf  Management of Large Tables
@@ -141,7 +142,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 15687
 # Don't Panic, DBAs!  Databases on VMware made easy.
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Janis Griffin
 ## Title: Don't Panic, DBAs!  Databases on VMware made easy.
@@ -150,7 +151,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 15896
 # Advanced Charting Techniques in SSRS
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jason Thomas
 ## Title: Advanced Charting Techniques in SSRS
@@ -160,7 +161,7 @@ This session will talk about the basic functionalities of all the charts as well
 #  
 #### SessionID: 18168
 # SQL Server Internals  Architecture
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals  Architecture
@@ -169,7 +170,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 18172
 # Communicating Upward
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Prof. Growth
 ## Speaker: Kevin Kline
 ## Title: Communicating Upward
@@ -183,7 +184,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Prof. Growth
 #  
 #### SessionID: 18394
 # SQL Server 2012 T-SQL
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Kathi Kellenberger
 ## Title: SQL Server 2012 T-SQL
@@ -192,7 +193,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 18395
 # 2012 Blitz
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kathi Kellenberger
 ## Title: 2012 Blitz
@@ -201,7 +202,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 18890
 # Throwing T-SQL 2012 Enhancements Against the Wall
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Kyle Neier
 ## Title: Throwing T-SQL 2012 Enhancements Against the Wall
@@ -210,7 +211,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 19568
 # Optimizing Stored Procedures
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Mark Rosenberg
 ## Title: Optimizing Stored Procedures
@@ -219,7 +220,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 22748
 # Designing data frameworks for SQL Server
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Azure/Big Data
 ## Speaker: Rameshdurai Palnisami
 ## Title: Designing data frameworks for SQL Server
@@ -228,7 +229,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Azure/Big Data
 #  
 #### SessionID: 23955
 # Understanding Parameter sniffing and making it wor
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Sanil Mhatre
 ## Title: Understanding Parameter sniffing and making it wor
@@ -239,7 +240,7 @@ In this session we will discuss the workings of Parameter Sniffing and demonstra
 #  
 #### SessionID: 23976
 # Private Clouds with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Azure/Big Data
 ## Speaker: Sarah Barela
 ## Title: Private Clouds with SQL Server 2012
@@ -248,7 +249,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Azure/Big Data
 #  
 #### SessionID: 23977
 # Bulletproof: Hardening your SQL Server from Attack
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Design/Architecture
 ## Speaker: Sarah Barela
 ## Title: Bulletproof: Hardening your SQL Server from Attack
@@ -257,7 +258,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Design/Architecture
 #  
 #### SessionID: 23978
 # Women in Technology Session
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Prof. Growth
 ## Speaker: Sarah Barela
 ## Title: Women in Technology Session
@@ -266,7 +267,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Prof. Growth
 #  
 #### SessionID: 26313
 # Death by UDF
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Kevin Boles
 ## Title: Death by UDF
@@ -275,7 +276,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 26317
 # Parallel Query Execution Deep Dive
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Kevin Boles
 ## Title: Parallel Query Execution Deep Dive
@@ -284,7 +285,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 26752
 # Transaction Log Internals
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Tim Chapman
 ## Title: Transaction Log Internals
@@ -294,7 +295,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 27327
 # SQL Azure Data Sync and What's New
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Azure/Big Data
 ## Speaker: Andy Thiru
 ## Title: SQL Azure Data Sync and What's New
@@ -311,7 +312,7 @@ What you will learn:
 #  
 #### SessionID: 27329
 # SQL Azure  Intro and What's New
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Azure/Big Data
 ## Speaker: Andy Thiru
 ## Title: SQL Azure  Intro and What's New
@@ -320,7 +321,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Azure/Big Data
 #  
 #### SessionID: 27710
 # Windowing Functions in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Wayne Sheffield
 ## Title: Windowing Functions in SQL Server 2012
@@ -329,7 +330,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 32583
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Design/Architecture
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -338,7 +339,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Design/Architecture
 #  
 #### SessionID: 32586
 # Revenge: The SQL Part 2: The Sequel!
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Design/Architecture
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL Part 2: The Sequel!
@@ -347,7 +348,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Design/Architecture
 #  
 #### SessionID: 34438
 # Bridging the Chasm: BI Theory vs. Practice 
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: William E Pearson III
 ## Title: Bridging the Chasm: BI Theory vs. Practice 
@@ -356,7 +357,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 9804
 # Strategies for Sharding with SQL Azure Federations
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Azure/Big Data
 ## Speaker: Arie Jones
 ## Title: Strategies for Sharding with SQL Azure Federations
@@ -365,7 +366,7 @@ Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Azure/Big Data
 #  
 #### SessionID: 9805
 # PWNED! Security, SQL Server, and You!
-#### [Back to calendar](#SQLSaturday-#122-Louisville-2012)
+#### [Back to calendar](#nr-122)
 Event Date: 21-07-2012 - Session time: 00:00:00 - Track: Design/Architecture
 ## Speaker: Arie Jones
 ## Title: PWNED! Security, SQL Server, and You!

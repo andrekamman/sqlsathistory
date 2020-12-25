@@ -1,3 +1,4 @@
+#### Nr: 609
 #### [Back to Main list](index.md)
 # SQLSaturday #609 - Caxias do Sul 2017
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 63901
 # Criando modelos preditivos com Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: BI  Big Data
 ## Speaker: Diego Nogare
 ## Title: Criando modelos preditivos com Azure Machine Learning
@@ -32,7 +33,7 @@ Event Date: 24-06-2017 - Session time: 16:30:00 - Track: BI  Big Data
 #  
 #### SessionID: 64268
 # Indices para Iniciantes - Clustered, Nonclustered,  Scan, Seek, Lookup e Muito Mais
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Development
 ## Speaker: Fabrício Lima
 ## Title: Indices para Iniciantes - Clustered, Nonclustered,  Scan, Seek, Lookup e Muito Mais
@@ -43,7 +44,7 @@ Veja isso e muito mais nessa palestra.
 #  
 #### SessionID: 64818
 # Azure SQL Databases
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Administration
 ## Speaker: Flávio Farias
 ## Title: Azure SQL Databases
@@ -53,7 +54,7 @@ Foque mais no desenvolvimento da sua aplicação e menos na administração dos 
 #  
 #### SessionID: 57503
 # Analisando o Plano de Execução através da Query Store
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Development
 ## Speaker: Sulamita Dantas
 ## Title: Analisando o Plano de Execução através da Query Store
@@ -62,7 +63,7 @@ Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Development
 #  
 #### SessionID: 62436
 # Remote Desktop Services no Windows Azure - Deep Dive
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Administration
 ## Speaker: Rafael Felipe
 ## Title: Remote Desktop Services no Windows Azure - Deep Dive
@@ -71,7 +72,7 @@ Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 65331
 # Planejamento Estratégico com BI  BIG Data
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: BI  Big Data
 ## Speaker: Viviane Ribeiro
 ## Title: Planejamento Estratégico com BI  BIG Data
@@ -80,7 +81,7 @@ Event Date: 24-06-2017 - Session time: 16:30:00 - Track: BI  Big Data
 #  
 #### SessionID: 59914
 # High Availability and Disaster Recovery Salvando Vidas
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Administration
 ## Speaker: Luiz Henrique Garetti
 ## Title: High Availability and Disaster Recovery Salvando Vidas
@@ -91,7 +92,7 @@ Também será abordados exemplos reais de aplicabilidade de HA e DR com o SQL Se
 #  
 #### SessionID: 65280
 # Columnstore Indexes - Como ele pode melhorar meu data warehouse?
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: BI  Big Data
 ## Speaker: Bruno Feldman
 ## Title: Columnstore Indexes - Como ele pode melhorar meu data warehouse?
@@ -100,7 +101,7 @@ Event Date: 24-06-2017 - Session time: 16:30:00 - Track: BI  Big Data
 #  
 #### SessionID: 66984
 # 5 dicas de performance tuning para desenvolvedores
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Development
 ## Speaker: Reginaldo Silva
 ## Title: 5 dicas de performance tuning para desenvolvedores
@@ -109,7 +110,7 @@ Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Development
 #  
 #### SessionID: 60935
 # Introdução do Azure SQL DataWarehouse
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: BI  Big Data
 ## Speaker: Vitor Fava
 ## Title: Introdução do Azure SQL DataWarehouse
@@ -118,7 +119,7 @@ Event Date: 24-06-2017 - Session time: 16:30:00 - Track: BI  Big Data
 #  
 #### SessionID: 61611
 # High Availability on SQL SERVER and ORACLE
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Administration
 ## Speaker: Marcelo Adade
 ## Title: High Availability on SQL SERVER and ORACLE
@@ -128,7 +129,7 @@ Esta é a seção para você! Em uma hora demonstraremos as principais soluçõe
 #  
 #### SessionID: 62529
 # Temporal table e Query Store - Extraindo o maximo de vantagem do SQL Server
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Development
 ## Speaker: Marcelo Fernandes
 ## Title: Temporal table e Query Store - Extraindo o maximo de vantagem do SQL Server
@@ -137,7 +138,7 @@ Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Development
 #  
 #### SessionID: 64155
 # Obtenha maior produtividade: desenvolvimento e administracao do seu SQL Server
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Administration
 ## Speaker: Gustavo Carneiro
 ## Title: Obtenha maior produtividade: desenvolvimento e administracao do seu SQL Server
@@ -150,7 +151,7 @@ Analysis services: managing connections MDX and other info
 #  
 #### SessionID: 64753
 # Iniciando com Entity Framework
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Development
 ## Speaker: Aline Favretto
 ## Title: Iniciando com Entity Framework
@@ -159,7 +160,7 @@ Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Development
 #  
 #### SessionID: 65332
 # Por Detrás dos Relatórios
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: BI  Big Data
 ## Speaker: Arthur Luz
 ## Title: Por Detrás dos Relatórios
@@ -168,7 +169,7 @@ Event Date: 24-06-2017 - Session time: 16:30:00 - Track: BI  Big Data
 #  
 #### SessionID: 57540
 # Data Driven Marketing - TI como suporte a tomada de decisões.
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: BI  Big Data
 ## Speaker: Diego Ribeiro
 ## Title: Data Driven Marketing - TI como suporte a tomada de decisões.
@@ -181,7 +182,7 @@ Mission Control – Construção de Dashboards em real time.
 #  
 #### SessionID: 65317
 # SQL In-Memory aka Hekaton 101
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Development
 ## Speaker: Felipe de Assis
 ## Title: SQL In-Memory aka Hekaton 101
@@ -190,7 +191,7 @@ Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Development
 #  
 #### SessionID: 67062
 # SQL Server vNext
-#### [Back to calendar](#SQLSaturday-#609-Caxias-do-Sul-2017)
+#### [Back to calendar](#nr-609)
 Event Date: 24-06-2017 - Session time: 16:30:00 - Track: Database Administration
 ## Speaker: Gustavo Moura Fé
 ## Title: SQL Server vNext

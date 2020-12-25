@@ -1,3 +1,4 @@
+#### Nr: 30
 #### [Back to Main list](index.md)
 # SQLSaturday #30 - Richmond 2010
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28396
 # Virtualize This!
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Aaron Nelson
 ## Title: Virtualize This!
@@ -38,7 +39,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 28882
 # Compression in SQL 2008
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ashton Hobbs
 ## Title: Compression in SQL 2008
@@ -47,7 +48,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28903
 # Automate SQL Server Administration with PowerShell
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Allen White
 ## Title: Automate SQL Server Administration with PowerShell
@@ -56,7 +57,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28904
 # Gather SQL Server Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Allen White
 ## Title: Gather SQL Server Performance Data with PowerShell
@@ -65,7 +66,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29111
 # Normalize Metadata for Data Integration Analysis
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Bob Lambert
 ## Title: Normalize Metadata for Data Integration Analysis
@@ -76,7 +77,7 @@ This presentation shows how normalized metadata can help coordinate team efforts
 #  
 #### SessionID: 29112
 # The Business End of Data Modeling
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Bob Lambert
 ## Title: The Business End of Data Modeling
@@ -85,7 +86,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29250
 # Introduction to SSRS 2008
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brett Tomson
 ## Title: Introduction to SSRS 2008
@@ -94,7 +95,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29251
 # Growing Pains - A Cautionary Tale
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Brett Tomson
 ## Title: Growing Pains - A Cautionary Tale
@@ -103,7 +104,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29292
 # SQL 2008 Change Data Capture Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brock Beatty
 ## Title: SQL 2008 Change Data Capture Tips and Tricks
@@ -112,7 +113,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29847
 # SQL Service Brokers
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Dan Crawford
 ## Title: SQL Service Brokers
@@ -121,7 +122,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29848
 # SQL Server Spatial Data
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Dan Crawford
 ## Title: SQL Server Spatial Data
@@ -131,7 +132,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30001
 # Database Design
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Louis Davidson
 ## Title: Database Design
@@ -141,7 +142,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30002
 # Database Design Patterns
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Louis Davidson
 ## Title: Database Design Patterns
@@ -150,7 +151,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30444
 # Tuner Helper - A Proven Process In Tuning For DBAs
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Janis Griffin
 ## Title: Tuner Helper - A Proven Process In Tuning For DBAs
@@ -162,7 +163,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30760
 # A Dynamic World Demands Dynamic SQL
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jeremiah Peschka
 ## Title: A Dynamic World Demands Dynamic SQL
@@ -171,7 +172,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30762
 # Fundamentals of SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jeremiah Peschka
 ## Title: Fundamentals of SQL Server Internals
@@ -180,7 +181,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30825
 # Things Your Mom Never Told You About SSMS
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jason Hall
 ## Title: Things Your Mom Never Told You About SSMS
@@ -189,7 +190,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31896
 # Loading Data In Real Time
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Michael Femenella
 ## Title: Loading Data In Real Time
@@ -204,7 +205,7 @@ and system tables for viewing partition information
 #  
 #### SessionID: 31897
 # Introduction to Performance Tuning
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Michael Femenella
 ## Title: Introduction to Performance Tuning
@@ -213,7 +214,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33275
 # Using SSRS to report on IIS Web Logs
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Susan Lennon
 ## Title: Using SSRS to report on IIS Web Logs
@@ -222,7 +223,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33306
 # Memory Management in SQL Server Analysis Services
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Steven Wright
 ## Title: Memory Management in SQL Server Analysis Services
@@ -231,7 +232,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 33374
 # Integration Services in the Real World
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brian Garraty
 ## Title: Integration Services in the Real World
@@ -240,7 +241,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 33784
 # Building SSRS Reports from SSAS Cubes
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Tom Robinson
 ## Title: Building SSRS Reports from SSAS Cubes
@@ -249,7 +250,7 @@ Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 33785
 # SSAS Basic Cube and dimension design
-#### [Back to calendar](#SQLSaturday-#30-Richmond-2010)
+#### [Back to calendar](#nr-30)
 Event Date: 10-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Tom Robinson
 ## Title: SSAS Basic Cube and dimension design

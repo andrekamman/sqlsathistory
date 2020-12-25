@@ -1,3 +1,4 @@
+#### Nr: 375
 #### [Back to Main list](index.md)
 # SQLSaturday #375 - Silicon Valley 2015
 Start Time (24h)|Speaker|Track|Title
@@ -39,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10380
 # Query Processing in In-Memory OLTP (Hekaton)
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 4- Development
 ## Speaker: Benjamin Nevarez
 ## Title: Query Processing in In-Memory OLTP (Hekaton)
@@ -48,7 +49,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 4- Development
 #  
 #### SessionID: 11104
 # Getting your message across?  A practical guide to using charts  graphs!
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 3- Business Intelligence
 ## Speaker: Dan Bulos
 ## Title: Getting your message across?  A practical guide to using charts  graphs!
@@ -60,7 +61,7 @@ This session will take a practical approach not theoretical one.  How to give yo
 #  
 #### SessionID: 12599
 # Achieving Peak Performance from your Virtual SQL Servers
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 2- Cloud  Big Data
 ## Speaker: David Klee
 ## Title: Achieving Peak Performance from your Virtual SQL Servers
@@ -69,7 +70,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 2- Cloud  Big Data
 #  
 #### SessionID: 12875
 # MEANINGLESS, BUT CONSISTENT: DATABASE TRUTH VS. CORRECTNESS
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 6- Bonus Track
 ## Speaker: Fabian Pascal
 ## Title: MEANINGLESS, BUT CONSISTENT: DATABASE TRUTH VS. CORRECTNESS
@@ -88,7 +89,7 @@ This presentation fills this gap. It covers the following:
 #  
 #### SessionID: 14004
 # Clusters Your Way Discussion Panel — A real-world take on flexibly protecting SQL Server and beyond
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 4- Development
 ## Speaker: SIOS Technology
 ## Title: Clusters Your Way Discussion Panel — A real-world take on flexibly protecting SQL Server and beyond
@@ -97,7 +98,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 4- Development
 #  
 #### SessionID: 14508
 # What's your Imperative doing in my Declarative?
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 4- Development
 ## Speaker: Geoff Hiten
 ## Title: What's your Imperative doing in my Declarative?
@@ -106,7 +107,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 4- Development
 #  
 #### SessionID: 14786
 # Automating Your Database Deployments
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 5- Database Administration
 ## Speaker: Grant Fritchey
 ## Title: Automating Your Database Deployments
@@ -118,7 +119,7 @@ In this session, we'll explore the concepts of continuous integration and contin
 #  
 #### SessionID: 15289
 # Introduction to Azure DocumentDB
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 2- Cloud  Big Data
 ## Speaker: Ike Ellis
 ## Title: Introduction to Azure DocumentDB
@@ -127,7 +128,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 2- Cloud  Big Data
 #  
 #### SessionID: 15528
 # Practical Machine Learning with Azure ML and Revolution R
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 1- The Big Stage
 ## Speaker: Jarek Kazmierczak
 ## Title: Practical Machine Learning with Azure ML and Revolution R
@@ -140,7 +141,7 @@ We will look at machine learning experiment design, data exploration and prepara
 #  
 #### SessionID: 16236
 # Becoming a Top DBA--Learning Automation in SQL Server
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 5- Database Administration
 ## Speaker: Joseph D'Antoni
 ## Title: Becoming a Top DBA--Learning Automation in SQL Server
@@ -156,7 +157,7 @@ This session will benefit both new and Senior DBAs, as well as anyone who wants 
 #  
 #### SessionID: 16843
 # Flash  SQL Server— Re-Thinking Best Practices
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 6- Bonus Track
 ## Speaker: J May
 ## Title: Flash  SQL Server— Re-Thinking Best Practices
@@ -165,7 +166,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 6- Bonus Track
 #  
 #### SessionID: 16845
 # Columnstore Indexes in SQL Server 2014: Flipping the DW /Faster Bit
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 1- The Big Stage
 ## Speaker: Jimmy May
 ## Title: Columnstore Indexes in SQL Server 2014: Flipping the DW /Faster Bit
@@ -174,7 +175,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 1- The Big Stage
 #  
 #### SessionID: 17161
 # Enterprise-grade MDM On SQL Server - the Keys to Success 
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 3- Business Intelligence
 ## Speaker: John McAllister
 ## Title: Enterprise-grade MDM On SQL Server - the Keys to Success 
@@ -183,7 +184,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 3- Business Intelligenc
 #  
 #### SessionID: 17162
 # Accelerate SQL Server Master Data Services with Profisee Maestro
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 3- Business Intelligence
 ## Speaker: John McAllister
 ## Title: Accelerate SQL Server Master Data Services with Profisee Maestro
@@ -195,7 +196,7 @@ Come see how Profisee Maestro can take your MDS implementation from the departme
 #  
 #### SessionID: 20773
 # The Ins and Outs of SQL Indexes
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 4- Development
 ## Speaker: Mindy Curnutt
 ## Title: The Ins and Outs of SQL Indexes
@@ -204,7 +205,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 4- Development
 #  
 #### SessionID: 21085
 # Storage For the DBA
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 1- The Big Stage
 ## Speaker: Denny Cherry
 ## Title: Storage For the DBA
@@ -213,7 +214,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 1- The Big Stage
 #  
 #### SessionID: 21624
 # High performance storage designs for SQL Server virtualization
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 2- Cloud  Big Data
 ## Speaker: Patrick Jean
 ## Title: High performance storage designs for SQL Server virtualization
@@ -222,7 +223,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 2- Cloud  Big Data
 #  
 #### SessionID: 21679
 # Setting up your BI Infrastructure
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 3- Business Intelligence
 ## Speaker: Paresh Motiwala
 ## Title: Setting up your BI Infrastructure
@@ -233,7 +234,7 @@ What are the best practices involved in creating a BI infrastructure. We can dis
 #  
 #### SessionID: 22018
 # Introduction to Time Series Forecasting
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 1- The Big Stage
 ## Speaker: Peter Myers
 ## Title: Introduction to Time Series Forecasting
@@ -246,7 +247,7 @@ Topics will include Analysis Services forecasting by using the Microsoft Time Se
 #  
 #### SessionID: 22115
 # Disaster Recovery for SQL Server Applications using Azure Site Recovery
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 6- Bonus Track
 ## Speaker: Phil Hummel
 ## Title: Disaster Recovery for SQL Server Applications using Azure Site Recovery
@@ -255,7 +256,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 6- Bonus Track
 #  
 #### SessionID: 22290
 # Streamlining SQL Server Implementations Across Organization
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 6- Bonus Track
 ## Speaker: Prakash Heda
 ## Title: Streamlining SQL Server Implementations Across Organization
@@ -264,7 +265,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 6- Bonus Track
 #  
 #### SessionID: 22372
 # Microsoft Cloud Data Platform
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 1- The Big Stage
 ## Speaker: Pat Sheehan
 ## Title: Microsoft Cloud Data Platform
@@ -275,7 +276,7 @@ In this session we will cover the breadth of the Microsoft Cloud Data Platform, 
 #  
 #### SessionID: 24858
 # Data Quality:  Boosting Software Performance and Business Profit
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 4- Development
 ## Speaker: David Moutray
 ## Title: Data Quality:  Boosting Software Performance and Business Profit
@@ -284,7 +285,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 4- Development
 #  
 #### SessionID: 24953
 # Lightning talks - SacSQLUG 
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 6- Bonus Track
 ## Speaker: Dan Hess
 ## Title: Lightning talks - SacSQLUG 
@@ -300,7 +301,7 @@ Joe Simmons - public relations;
 #  
 #### SessionID: 26733
 # Common SQL Server Mistakes and How to Avoid Them
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 4- Development
 ## Speaker: Tim Radney
 ## Title: Common SQL Server Mistakes and How to Avoid Them
@@ -309,7 +310,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 4- Development
 #  
 #### SessionID: 27105
 # Dell SQL Server Performance Management Tools
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 5- Database Administration
 ## Speaker: Trent Mera
 ## Title: Dell SQL Server Performance Management Tools
@@ -322,7 +323,7 @@ Performance Analysis for SQL Server exposes the best tuning opportunities in you
 #  
 #### SessionID: 27404
 # Care and Feeding of Your System Databases
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 5- Database Administration
 ## Speaker: Vicky Harp
 ## Title: Care and Feeding of Your System Databases
@@ -331,7 +332,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 5- Database Administrat
 #  
 #### SessionID: 27450
 # Optimize Your SQL Server 2014 Workloads with Cisco UCS
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 1- The Big Stage
 ## Speaker: Vince Hill
 ## Title: Optimize Your SQL Server 2014 Workloads with Cisco UCS
@@ -340,7 +341,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 1- The Big Stage
 #  
 #### SessionID: 27460
 # Advanced SSIS Techniques
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 3- Business Intelligence
 ## Speaker: Virginia Mushkatbat
 ## Title: Advanced SSIS Techniques
@@ -349,7 +350,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 3- Business Intelligenc
 #  
 #### SessionID: 9491
 # Big Data  Data Science, How to Get Past the Hype and Into a Team
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 2- Cloud  Big Data
 ## Speaker: Andrew Eichenbaum
 ## Title: Big Data  Data Science, How to Get Past the Hype and Into a Team
@@ -358,7 +359,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 2- Cloud  Big Data
 #  
 #### SessionID: 9664
 # Automating Power BI Creations
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 3- Business Intelligence
 ## Speaker: Angel Abundez
 ## Title: Automating Power BI Creations
@@ -367,7 +368,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 3- Business Intelligenc
 #  
 #### SessionID: 9789
 # Stored Procedures vs. Ad-Hoc SQL: Performance Showdown!
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 5- Database Administration
 ## Speaker: Argenis Fernandez
 ## Title: Stored Procedures vs. Ad-Hoc SQL: Performance Showdown!
@@ -377,7 +378,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 5- Database Administrat
 #  
 #### SessionID: 9866
 # RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works.
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 5- Database Administration
 ## Speaker: Arnie Rowland
 ## Title: RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works.
@@ -386,7 +387,7 @@ Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 5- Database Administrat
 #  
 #### SessionID: 9957
 # True tales of “small-shop” web analytics data with SQL and SSAS
-#### [Back to calendar](#SQLSaturday-#375-Silicon-Valley-2015)
+#### [Back to calendar](#nr-375)
 Event Date: 28-03-2015 - Session time: 00:00:00 - Track: 2- Cloud  Big Data
 ## Speaker: Audrey Carstensen
 ## Title: True tales of “small-shop” web analytics data with SQL and SSAS

@@ -1,3 +1,4 @@
+#### Nr: 832
 #### [Back to Main list](index.md)
 # SQLSaturday #832 - Croatia 2019
 Start Time (24h)|Speaker|Track|Title
@@ -16,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 87837
 # Common Data Science Mistakes
-#### [Back to calendar](#SQLSaturday-#832-Croatia-2019)
+#### [Back to calendar](#nr-832)
 Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Tomaž Kaštrun
 ## Title: Common Data Science Mistakes
@@ -25,7 +26,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 89836
 # SQL Server - automatska optimizacija upita
-#### [Back to calendar](#SQLSaturday-#832-Croatia-2019)
+#### [Back to calendar](#nr-832)
 Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Slaven Šola
 ## Title: SQL Server - automatska optimizacija upita
@@ -37,7 +38,7 @@ Kroz primjere ćemo pokušati odgovoriti i na pitanje koliko je realno očekivat
 #  
 #### SessionID: 88337
 # Getting To Know SQL Server Encryption Capabilities
-#### [Back to calendar](#SQLSaturday-#832-Croatia-2019)
+#### [Back to calendar](#nr-832)
 Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mladen Prajdić
 ## Title: Getting To Know SQL Server Encryption Capabilities
@@ -51,7 +52,7 @@ In this session we'll look at what SQL Server offers in this area:
 #  
 #### SessionID: 87682
 # Mastering DML Operations like a master
-#### [Back to calendar](#SQLSaturday-#832-Croatia-2019)
+#### [Back to calendar](#nr-832)
 Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Uwe Ricken
 ## Title: Mastering DML Operations like a master
@@ -68,7 +69,7 @@ What performance drawbacks will Page Splits and Forwarded Records have for my ap
 #  
 #### SessionID: 88454
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#832-Croatia-2019)
+#### [Back to calendar](#nr-832)
 Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -77,7 +78,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 88274
 # Execution plans ... where do I start?
-#### [Back to calendar](#SQLSaturday-#832-Croatia-2019)
+#### [Back to calendar](#nr-832)
 Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Execution plans ... where do I start?
@@ -92,7 +93,7 @@ In this session you will learn how to obtain execution plans. and how to start r
 #  
 #### SessionID: 89778
 # Architecting SQL Server environments for Mission Critical and High Performance
-#### [Back to calendar](#SQLSaturday-#832-Croatia-2019)
+#### [Back to calendar](#nr-832)
 Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Marcelo Fernandes
 ## Title: Architecting SQL Server environments for Mission Critical and High Performance
@@ -101,7 +102,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 87683
 # Temporal Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#832-Croatia-2019)
+#### [Back to calendar](#nr-832)
 Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Dejan Sarka
 ## Title: Temporal Data in SQL Server
@@ -115,7 +116,7 @@ This session introduces the temporal problems, deals with solutions that go beyo
 #  
 #### SessionID: 88420
 # SQL Server Infernals - A Beginner’s Guide to Worst Practices
-#### [Back to calendar](#SQLSaturday-#832-Croatia-2019)
+#### [Back to calendar](#nr-832)
 Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Gianluca Sartori
 ## Title: SQL Server Infernals - A Beginner’s Guide to Worst Practices
@@ -126,7 +127,7 @@ You are probably thinking: “Hey, wait, what about Best Practices?”. Sometime
 #  
 #### SessionID: 87662
 # Cardinality Estimation Issues with Large Tables
-#### [Back to calendar](#SQLSaturday-#832-Croatia-2019)
+#### [Back to calendar](#nr-832)
 Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Miloš Radivojević
 ## Title: Cardinality Estimation Issues with Large Tables
@@ -141,7 +142,7 @@ Attendees should be familiar with the process and components involved in the gen
 #  
 #### SessionID: 87666
 # How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?
-#### [Back to calendar](#SQLSaturday-#832-Croatia-2019)
+#### [Back to calendar](#nr-832)
 Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Aleksandar Talev
 ## Title: How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?

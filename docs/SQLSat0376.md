@@ -1,3 +1,4 @@
+#### Nr: 376
 #### [Back to Main list](index.md)
 # SQLSaturday #376 - Budapest 2015
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10934
 # Top 5 T-SQL Improvements in SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for developers
 ## Speaker: Boris Hristov
 ## Title: Top 5 T-SQL Improvements in SQL Server 2014
@@ -32,7 +33,7 @@ Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for develop
 #  
 #### SessionID: 14935
 # Kis hazugság, nagy hazugság, statisztika, avagy hogyan működik a Query Optimizer?
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Magyar nyelvű előadások
 ## Speaker: Zoltán Hangyál
 ## Title: Kis hazugság, nagy hazugság, statisztika, avagy hogyan működik a Query Optimizer?
@@ -43,7 +44,7 @@ Az előadásban azt fogjuk megnézni, hogy milyen szerepük van az indexeknek é
 #  
 #### SessionID: 9470
 # Build your own Monitoring Environment with Powershell
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for DBAs
 ## Speaker: André Kamman
 ## Title: Build your own Monitoring Environment with Powershell
@@ -53,7 +54,7 @@ Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for DBAs
 #  
 #### SessionID: 20765
 # Parameter Sniffing Problem with Stored Procedures
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for developers
 ## Speaker: Miloš Radivojević
 ## Title: Parameter Sniffing Problem with Stored Procedures
@@ -62,7 +63,7 @@ Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for develop
 #  
 #### SessionID: 20818
 # Tips and Tricks for Maintenance Optimization
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for DBAs
 ## Speaker: Miroslav Dimitrov
 ## Title: Tips and Tricks for Maintenance Optimization
@@ -72,7 +73,7 @@ Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for DBAs
 #  
 #### SessionID: 23521
 # Building a meta-driven near realtime ETL solution with BIML and SSIS
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for BI professionals
 ## Speaker: Rasmus Reinholdt
 ## Title: Building a meta-driven near realtime ETL solution with BIML and SSIS
@@ -86,7 +87,7 @@ Topics covered in the session
 #  
 #### SessionID: 34913
 # Önkiszolgáló BI az üzleti felhasználók szemével
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Magyar nyelvű előadások
 ## Speaker: Zoltán Horváth
 ## Title: Önkiszolgáló BI az üzleti felhasználók szemével
@@ -95,7 +96,7 @@ Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Magyar nyelvű előadá
 #  
 #### SessionID: 23360
 # Adatbázis baseline adatok gyűjtése
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Magyar nyelvű előadások
 ## Speaker: Robert Virag
 ## Title: Adatbázis baseline adatok gyűjtése
@@ -105,7 +106,7 @@ Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Magyar nyelvű előadá
 #  
 #### SessionID: 24797
 # SQL Server and Application Security for Developers
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for developers
 ## Speaker: Mladen Prajdić
 ## Title: SQL Server and Application Security for Developers
@@ -115,7 +116,7 @@ In this session we'll look at a few attack vectors that can be used against your
 #  
 #### SessionID: 27361
 # How to recover deleted data with no backups?
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for DBAs
 ## Speaker: Vedran Kesegic
 ## Title: How to recover deleted data with no backups?
@@ -125,7 +126,7 @@ It is nearly impossible to recover the lost data from that situation. But I will
 #  
 #### SessionID: 15765
 # Bevezet#233;s az SQL Server HA megold#225;saiba
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Magyar nyelvű előadások
 ## Speaker: Janos Berke
 ## Title: Bevezet#233;s az SQL Server HA megold#225;saiba
@@ -146,7 +147,7 @@ Demos:
 #  
 #### SessionID: 19696
 # My Favorite Pie (Chart)
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for BI professionals
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: My Favorite Pie (Chart)
@@ -155,7 +156,7 @@ Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for BI prof
 #  
 #### SessionID: 20802
 # Azure SQL DB Resource Management
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for DBAs
 ## Speaker: Mine Tokus
 ## Title: Azure SQL DB Resource Management
@@ -165,7 +166,7 @@ I will overview the architectural layers and internals of Azure SQL Database and
 #  
 #### SessionID: 26461
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for developers
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -174,7 +175,7 @@ Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for develop
 #  
 #### SessionID: 13543
 # High Performance Statistical Queries
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for developers
 ## Speaker: Dejan Sarka
 ## Title: High Performance Statistical Queries
@@ -183,7 +184,7 @@ Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for develop
 #  
 #### SessionID: 13796
 # No more waiting – an introduction to SQL Server wait statistics
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for DBAs
 ## Speaker: Enrico van de Laar
 ## Title: No more waiting – an introduction to SQL Server wait statistics
@@ -192,7 +193,7 @@ Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for DBAs
 #  
 #### SessionID: 34858
 # Rocket Fast ETL!  Tips, Tricks, and Traps Moving Massive amounts of Data with SQL Server
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Recommended for BI professionals
 ## Speaker: Paul Wehland
 ## Title: Rocket Fast ETL!  Tips, Tricks, and Traps Moving Massive amounts of Data with SQL Server
@@ -202,7 +203,7 @@ Demos will be done on SQL Server 2014, and we will learn what is coming in SQL v
 #  
 #### SessionID: 9671
 # Microsoft SQL licenszelés a gyakorlatban, avagy hogyan lehet legálisan használni az SQL Servert
-#### [Back to calendar](#SQLSaturday-#376-Budapest-2015)
+#### [Back to calendar](#nr-376)
 Event Date: 18-04-2015 - Session time: 15:45:00 - Track: Magyar nyelvű előadások
 ## Speaker: Nóra Kovács
 ## Title: Microsoft SQL licenszelés a gyakorlatban, avagy hogyan lehet legálisan használni az SQL Servert

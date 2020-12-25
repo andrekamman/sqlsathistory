@@ -1,3 +1,4 @@
+#### Nr: 53
 #### [Back to Main list](index.md)
 # SQLSaturday #53 - Kansas City 2010
 Start Time (24h)|Speaker|Track|Title
@@ -42,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28371
 # Integrate LOB SQL Data into my portal
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Special Topic
 ## Speaker: Ameet Phadnis
 ## Title: Integrate LOB SQL Data into my portal
@@ -51,7 +52,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Special Topic
 #  
 #### SessionID: 28822
 # Going Spatial!
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Arie Jones
 ## Title: Going Spatial!
@@ -60,7 +61,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 28823
 # Take Control with Resource Governor
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA Beyond 101
 ## Speaker: Arie Jones
 ## Title: Take Control with Resource Governor
@@ -69,7 +70,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA Beyond 101
 #  
 #### SessionID: 29040
 # Open Networking
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Bill Fellows
 ## Title: Open Networking
@@ -78,7 +79,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 29041
 # Open Networking
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Bill Fellows
 ## Title: Open Networking
@@ -87,7 +88,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 29042
 # Open Networking
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Bill Fellows
 ## Title: Open Networking
@@ -96,7 +97,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 29043
 # CLR in SQL Server:  A love story in 5 parts
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Bill Fellows
 ## Title: CLR in SQL Server:  A love story in 5 parts
@@ -105,7 +106,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 29059
 # SQL Server Administration for new DBAs and non-DBA
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA 101
 ## Speaker: Bill Graziano
 ## Title: SQL Server Administration for new DBAs and non-DBA
@@ -114,7 +115,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA 101
 #  
 #### SessionID: 29245
 # Incremental ETL Processes with SSIS
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Brett Flippin
 ## Title: Incremental ETL Processes with SSIS
@@ -123,7 +124,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 29267
 # SQL Server 2008 R2 Parallel Data Warehouse 
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Special Topic
 ## Speaker: Brian Mitchell
 ## Title: SQL Server 2008 R2 Parallel Data Warehouse 
@@ -132,7 +133,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Special Topic
 #  
 #### SessionID: 29396
 # Data Mining with Analysis Services 
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Carlos Bossy
 ## Title: Data Mining with Analysis Services 
@@ -141,7 +142,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 29397
 # Essentials of a Business Intelligence Architecture
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Carlos Bossy
 ## Title: Essentials of a Business Intelligence Architecture
@@ -150,7 +151,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 29483
 # Managing a 0 Downtime Shop
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA Beyond 101
 ## Speaker: Chris Shaw
 ## Title: Managing a 0 Downtime Shop
@@ -159,7 +160,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA Beyond 101
 #  
 #### SessionID: 29896
 # Advanced topics in SSRS: 
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Dennis Graham
 ## Title: Advanced topics in SSRS: 
@@ -168,7 +169,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 29898
 # Reporting against data other than databases
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Dennis Graham
 ## Title: Reporting against data other than databases
@@ -177,7 +178,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 30210
 # Partition management in Analysis Services
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Frank Kearney
 ## Title: Partition management in Analysis Services
@@ -186,7 +187,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 30673
 # Database Mirroring
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA Beyond 101
 ## Speaker: Jeff Hattendorf
 ## Title: Database Mirroring
@@ -198,7 +199,7 @@ You will become an expert in no time.
 #  
 #### SessionID: 30917
 # Start Using MDX with SSAS 2008
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Joe Ferry
 ## Title: Start Using MDX with SSAS 2008
@@ -207,7 +208,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 31192
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Special Topic
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -225,7 +226,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Special Topic
 #  
 #### SessionID: 31379
 # Report Model a solution for ad-hoc reporting
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Kushal Lal
 ## Title: Report Model a solution for ad-hoc reporting
@@ -234,7 +235,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 31495
 # Unleashing PowerShell to you SQL Environment. 
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA Beyond 101
 ## Speaker: Leonard Mwangi
 ## Title: Unleashing PowerShell to you SQL Environment. 
@@ -243,7 +244,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA Beyond 101
 #  
 #### SessionID: 31547
 # Introduction to Analysis Services
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Marc Beacom
 ## Title: Introduction to Analysis Services
@@ -252,7 +253,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 32202
 # Be in control - Policy Based Management
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA 101
 ## Speaker: Peter Trast
 ## Title: Be in control - Policy Based Management
@@ -261,7 +262,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA 101
 #  
 #### SessionID: 32554
 # SQL Server Security - All Things Considered
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA 101
 ## Speaker: Rob Kraft
 ## Title: SQL Server Security - All Things Considered
@@ -271,7 +272,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA 101
 #  
 #### SessionID: 32722
 # Stored procedure tracing using the xml datatype 
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Russel Loski
 ## Title: Stored procedure tracing using the xml datatype 
@@ -280,7 +281,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 32802
 # SQL Server in Healthcare - Healthy Relationship?
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Special Topic
 ## Speaker: Scott Shaw
 ## Title: SQL Server in Healthcare - Healthy Relationship?
@@ -289,7 +290,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Special Topic
 #  
 #### SessionID: 32949
 # The Modern Resume: Building Your Brand
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: The Modern Resume: Building Your Brand
@@ -298,7 +299,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 32951
 # SharePoint   SQL Server - Marriage made in heaven
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA 101
 ## Speaker: Sandeep Khandelwal
 ## Title: SharePoint   SQL Server - Marriage made in heaven
@@ -307,7 +308,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA 101
 #  
 #### SessionID: 33063
 # What Are You Waiting For?
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA Beyond 101
 ## Speaker: Thomas LaRock
 ## Title: What Are You Waiting For?
@@ -316,7 +317,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA Beyond 101
 #  
 #### SessionID: 33262
 # Strategies for Maximum Concurrency and Performance
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA Beyond 101
 ## Speaker: Sudhir Gajre
 ## Title: Strategies for Maximum Concurrency and Performance
@@ -325,7 +326,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA Beyond 101
 #  
 #### SessionID: 33548
 # Common TSQL Programming Mistakes
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Programming Mistakes
@@ -334,7 +335,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 33549
 # Advanced TSQL Solutions
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Kevin Boles
 ## Title: Advanced TSQL Solutions
@@ -343,7 +344,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 33552
 # SQL Server and SANs
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Kevin Boles
 ## Title: SQL Server and SANs
@@ -352,7 +353,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 33780
 # The Benefits of SQL Azure
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Special Topic
 ## Speaker: Aaron King
 ## Title: The Benefits of SQL Azure
@@ -361,7 +362,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Special Topic
 #  
 #### SessionID: 33893
 # Transactional Replication 101
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: DBA 101
 ## Speaker: Wendy Pastrick
 ## Title: Transactional Replication 101
@@ -372,7 +373,7 @@ We will cover the players in the game: Pubishers, Subscribers and Distributors, 
 #  
 #### SessionID: 34699
 # What's New with Reporting Services?
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Kathi Kellenberger
 ## Title: What's New with Reporting Services?
@@ -381,7 +382,7 @@ Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 34701
 # Women in Technology Panel Discussion
-#### [Back to calendar](#SQLSaturday-#53-Kansas-City-2010)
+#### [Back to calendar](#nr-53)
 Event Date: 02-10-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Kathi Kellenberger
 ## Title: Women in Technology Panel Discussion

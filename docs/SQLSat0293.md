@@ -1,3 +1,4 @@
+#### Nr: 293
 #### [Back to Main list](index.md)
 # SQLSaturday #293 - Maine 2014
 Start Time (24h)|Speaker|Track|Title
@@ -30,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10225
 # SMO Internals for High Performance Automation
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track IV
 ## Speaker: Ben Miller
 ## Title: SMO Internals for High Performance Automation
@@ -39,7 +40,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track IV
 #  
 #### SessionID: 10226
 # SQL Server TDE
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track III
 ## Speaker: Ben Miller
 ## Title: SQL Server TDE
@@ -48,7 +49,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track III
 #  
 #### SessionID: 10680
 # Wrangling performance with Resource Governor
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track I
 ## Speaker: Brandon Leach
 ## Title: Wrangling performance with Resource Governor
@@ -57,7 +58,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track I
 #  
 #### SessionID: 12518
 # Easy SQL Server Benchmarking
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track V
 ## Speaker: David Klee
 ## Title: Easy SQL Server Benchmarking
@@ -66,7 +67,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track V
 #  
 #### SessionID: 12520
 # Squeezing Top Performance from Your Virtualized SQL Server
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track I
 ## Speaker: David Klee
 ## Title: Squeezing Top Performance from Your Virtualized SQL Server
@@ -75,7 +76,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track I
 #  
 #### SessionID: 12895
 # Using Hive to Query and Process Big Data
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track III
 ## Speaker: Dan Clark
 ## Title: Using Hive to Query and Process Big Data
@@ -84,7 +85,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track III
 #  
 #### SessionID: 12896
 # Mastering Date-Time Based Analysis in DAX
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track III
 ## Speaker: Dan Clark
 ## Title: Mastering Date-Time Based Analysis in DAX
@@ -94,7 +95,7 @@ This session is designed to guide you through the various time intelligence func
 #  
 #### SessionID: 13850
 # Dynamic SQL: Writing Efficient Queries on the Fly
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track II
 ## Speaker: Edward Pollack
 ## Title: Dynamic SQL: Writing Efficient Queries on the Fly
@@ -105,7 +106,7 @@ Explore the many uses for dynamic SQL as well as best practices for writing, tes
 #  
 #### SessionID: 14775
 # Statistics and Query Optimization
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track II
 ## Speaker: Grant Fritchey
 ## Title: Statistics and Query Optimization
@@ -114,7 +115,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track II
 #  
 #### SessionID: 14776
 # Best Practices for Database Deployment
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track II
 ## Speaker: Grant Fritchey
 ## Title: Best Practices for Database Deployment
@@ -124,7 +125,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track II
 #  
 #### SessionID: 16163
 # SQL Server--All About HA and DR
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track II
 ## Speaker: Joseph D'Antoni
 ## Title: SQL Server--All About HA and DR
@@ -133,7 +134,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track II
 #  
 #### SessionID: 16164
 # Building Perfect SQL Servers, Every Time
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track I
 ## Speaker: Joseph D'Antoni
 ## Title: Building Perfect SQL Servers, Every Time
@@ -143,7 +144,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track I
 #  
 #### SessionID: 16739
 # What the Hekaton
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track III
 ## Speaker: John Flannery
 ## Title: What the Hekaton
@@ -152,7 +153,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track III
 #  
 #### SessionID: 16768
 # 5 Common SQL Server Performance Issues
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track V
 ## Speaker: Jason Hall
 ## Title: 5 Common SQL Server Performance Issues
@@ -163,7 +164,7 @@ I intend to share the whys and hows of these issues with anyone who would like t
 #  
 #### SessionID: 17003
 # Basic Database Programming
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track V
 ## Speaker: John Miner
 ## Title: Basic Database Programming
@@ -191,7 +192,7 @@ Coverage:
 #  
 #### SessionID: 20504
 # From Mess to Mastery: Managing Large Environments 
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track I
 ## Speaker: Mike Hillwig
 ## Title: From Mess to Mastery: Managing Large Environments 
@@ -204,7 +205,7 @@ By leveraging what you already have in SQL Server, you'll certainly be able to d
 #  
 #### SessionID: 21639
 # DBA to Project Manager in 70 minutes flat
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track IV
 ## Speaker: Paresh Motiwala
 ## Title: DBA to Project Manager in 70 minutes flat
@@ -213,7 +214,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track IV
 #  
 #### SessionID: 25424
 # DAX and the tabular model
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track III
 ## Speaker: Steve Simon
 ## Title: DAX and the tabular model
@@ -223,7 +224,7 @@ We shall discuss many of the often used functions, discuss their 'overloads' (ut
 #  
 #### SessionID: 25879
 # Develop Impressive Dashboards using SSRS 2014
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track IV
 ## Speaker: Sunil Kadimdiwan
 ## Title: Develop Impressive Dashboards using SSRS 2014
@@ -232,7 +233,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track IV
 #  
 #### SessionID: 27717
 # Crazy Things That Developers Do
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track II
 ## Speaker: Wayne Sheffield
 ## Title: Crazy Things That Developers Do
@@ -241,7 +242,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track II
 #  
 #### SessionID: 9160
 # Squeezing the Most out of Row  Page Compression
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track IV
 ## Speaker: Andrew Kelly
 ## Title: Squeezing the Most out of Row  Page Compression
@@ -250,7 +251,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track IV
 #  
 #### SessionID: 9161
 # TempDB 101
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track IV
 ## Speaker: Andrew Kelly
 ## Title: TempDB 101
@@ -259,7 +260,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track IV
 #  
 #### SessionID: 9366
 # T-SQL Power! SQL Server Windows That Open Doors
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track V
 ## Speaker: Adam Machanic
 ## Title: T-SQL Power! SQL Server Windows That Open Doors
@@ -268,7 +269,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track V
 #  
 #### SessionID: 9640
 # It's not just a pivot on the data...
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track V
 ## Speaker: Andy Roberts
 ## Title: It's not just a pivot on the data...
@@ -277,7 +278,7 @@ Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track V
 #  
 #### SessionID: 9641
 # Introducing SQL Server 2014 (Lunch Session Room 102)
-#### [Back to calendar](#SQLSaturday-#293-Maine-2014)
+#### [Back to calendar](#nr-293)
 Event Date: 28-06-2014 - Session time: 00:00:00 - Track: Track V
 ## Speaker: Andy Roberts
 ## Title: Introducing SQL Server 2014 (Lunch Session Room 102)

@@ -1,3 +1,4 @@
+#### Nr: 69
 #### [Back to Main list](index.md)
 # SQLSaturday #69 - Philadelphia 2011
 Start Time (24h)|Speaker|Track|Title
@@ -42,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28476
 # High-Speed Dimensional Data Loads With SSIS
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #2  (106)
 ## Speaker: Michael Coles
 ## Title: High-Speed Dimensional Data Loads With SSIS
@@ -51,7 +52,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #2  (106)
 #  
 #### SessionID: 28477
 # Sell Yourself!
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Prof Devel / Dev (113)
 ## Speaker: Michael Coles
 ## Title: Sell Yourself!
@@ -60,7 +61,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Prof Devel / Dev (113)
 #  
 #### SessionID: 28592
 # Advance T-SQL technique  to optimize a code.
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #2 (111)
 ## Speaker: Alex Grinberg
 ## Title: Advance T-SQL technique  to optimize a code.
@@ -71,7 +72,7 @@ SQL Server 2005 and up, such as CTE (Common Table Expression), OUTPUT clause, Ra
 #  
 #### SessionID: 29031
 # Knowing Tempdb
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #2 (109)
 ## Speaker: Bharat Kenjale
 ## Title: Knowing Tempdb
@@ -84,7 +85,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #2 (109)
 #  
 #### SessionID: 29055
 # Accessing SQL Server Data with .NET
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #1 (110)
 ## Speaker: Bill Wolff
 ## Title: Accessing SQL Server Data with .NET
@@ -93,7 +94,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #1 (110)
 #  
 #### SessionID: 30195
 # Using Confio Ignite 8 for Production Failures
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #2 (109)
 ## Speaker: Dale Cunningham
 ## Title: Using Confio Ignite 8 for Production Failures
@@ -102,7 +103,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #2 (109)
 #  
 #### SessionID: 30289
 # Rolling upgrade 2008 R2 Cluster /SQL 2008 R2
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #1  (108)
 ## Speaker: Greg Seidel
 ## Title: Rolling upgrade 2008 R2 Cluster /SQL 2008 R2
@@ -111,7 +112,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #1  (108)
 #  
 #### SessionID: 30316
 # Slinging data with SQL Server Replication
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #1  (108)
 ## Speaker: Hilary Cotter
 ## Title: Slinging data with SQL Server Replication
@@ -124,7 +125,7 @@ SQL Server replication is a native SQL Server component used to move data from o
 #  
 #### SessionID: 30472
 # SQL Server Service Broker – An Overview
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #2 (111)
 ## Speaker: Janis Griffin
 ## Title: SQL Server Service Broker – An Overview
@@ -133,7 +134,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #2 (111)
 #  
 #### SessionID: 30473
 # Query Tuning - Getting it Right the First Time!
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #2 (111)
 ## Speaker: Janis Griffin
 ## Title: Query Tuning - Getting it Right the First Time!
@@ -142,7 +143,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #2 (111)
 #  
 #### SessionID: 30635
 # Building your first SQL Cluster
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Misc / Vendor (121)
 ## Speaker: Joseph D'Antoni
 ## Title: Building your first SQL Cluster
@@ -153,7 +154,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Misc / Vendor (121)
 #  
 #### SessionID: 30636
 # Deploying Data Tier Applications with SQL 2008 R2
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #1 (110)
 ## Speaker: Joseph D'Antoni
 ## Title: Deploying Data Tier Applications with SQL 2008 R2
@@ -162,7 +163,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #1 (110)
 #  
 #### SessionID: 30904
 # Table Partitioning:  Implementing a sliding window
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #1 (110)
 ## Speaker: Joe Toscano
 ## Title: Table Partitioning:  Implementing a sliding window
@@ -172,7 +173,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #1 (110)
 #  
 #### SessionID: 31359
 # SSRS 2008R2 Reporting Gallery
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #1 (105)
 ## Speaker: Kevin Goff
 ## Title: SSRS 2008R2 Reporting Gallery
@@ -181,7 +182,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #1 (105)
 #  
 #### SessionID: 31361
 # Business Intelligence with SharePoint 2010
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #1 (105)
 ## Speaker: Kevin Goff
 ## Title: Business Intelligence with SharePoint 2010
@@ -190,7 +191,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #1 (105)
 #  
 #### SessionID: 31770
 # Spatial Data and Windows Azure 
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #1 (110)
 ## Speaker: Mihail Mateev
 ## Title: Spatial Data and Windows Azure 
@@ -199,7 +200,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #1 (110)
 #  
 #### SessionID: 31941
 # Building your first cube in SQL Server
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #2  (106)
 ## Speaker: Mark Kromer
 ## Title: Building your first cube in SQL Server
@@ -208,7 +209,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #2  (106)
 #  
 #### SessionID: 31942
 # Migrate SQL Server Apps to SQL Azure Cloud DB
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #1 (110)
 ## Speaker: Mark Kromer
 ## Title: Migrate SQL Server Apps to SQL Azure Cloud DB
@@ -217,7 +218,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #1 (110)
 #  
 #### SessionID: 31943
 # Light-up BI Dashboards with Cool Visualizations
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #2  (106)
 ## Speaker: Mark Kromer
 ## Title: Light-up BI Dashboards with Cool Visualizations
@@ -226,7 +227,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #2  (106)
 #  
 #### SessionID: 32037
 # Troubleshooting SQL performance
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #1  (108)
 ## Speaker: Muthu Ramanathan
 ## Title: Troubleshooting SQL performance
@@ -235,7 +236,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #1  (108)
 #  
 #### SessionID: 32038
 # Parallel Data Warehousing
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #1 (105)
 ## Speaker: Muthu Ramanathan
 ## Title: Parallel Data Warehousing
@@ -247,7 +248,7 @@ Demos
 #  
 #### SessionID: 32140
 # Intro to SSIS
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Misc / Vendor (121)
 ## Speaker: Vince Napoli
 ## Title: Intro to SSIS
@@ -257,7 +258,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Misc / Vendor (121)
 #  
 #### SessionID: 32158
 # Modeling Hierarchies in SQL
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Prof Devel / Dev (113)
 ## Speaker: Patty Pickup
 ## Title: Modeling Hierarchies in SQL
@@ -266,7 +267,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Prof Devel / Dev (113)
 #  
 #### SessionID: 32331
 # TDD – Thwarting Database Defects
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Prof Devel / Dev (113)
 ## Speaker: Dennis Lloyd and Sebastian Meine .
 ## Title: TDD – Thwarting Database Defects
@@ -278,7 +279,7 @@ This presentation introduces tSQLt, a framework for automated database unit test
 #  
 #### SessionID: 32365
 # Database design tips and tricks
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #2 (109)
 ## Speaker: Raj More
 ## Title: Database design tips and tricks
@@ -293,7 +294,7 @@ We will wrap up with an Interactive design session.
 #  
 #### SessionID: 32399
 # Become Bilingual! Oracle for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #1  (108)
 ## Speaker: Randy Knight
 ## Title: Become Bilingual! Oracle for the SQL Server DBA
@@ -305,7 +306,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #1  (108)
 #  
 #### SessionID: 32400
 # Visual Studio 2010 Database Projects
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #2 (111)
 ## Speaker: Randy Knight
 ## Title: Visual Studio 2010 Database Projects
@@ -317,7 +318,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #2 (111)
 #  
 #### SessionID: 32678
 # I/O, I/O It's Why my Server's Slow - Waits  Queue
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #2 (109)
 ## Speaker: Robert Pearl
 ## Title: I/O, I/O It's Why my Server's Slow - Waits  Queue
@@ -326,7 +327,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #2 (109)
 #  
 #### SessionID: 32868
 # Concurrency Control
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #2 (109)
 ## Speaker: Sebastian Meine
 ## Title: Concurrency Control
@@ -335,7 +336,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #2 (109)
 #  
 #### SessionID: 32904
 # Women In Technology Panel Discussion
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Prof Devel / Dev (113)
 ## Speaker: Sharon Dooley
 ## Title: Women In Technology Panel Discussion
@@ -344,7 +345,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Prof Devel / Dev (113)
 #  
 #### SessionID: 33650
 # Data Encryption and Key Management in SQL
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #1  (108)
 ## Speaker: Said Salomon
 ## Title: Data Encryption and Key Management in SQL
@@ -353,7 +354,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: DBA Track #1  (108)
 #  
 #### SessionID: 33864
 # Table Vars and Temp Tables-What you NEED to know!
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #2 (111)
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars and Temp Tables-What you NEED to know!
@@ -362,7 +363,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Dev Track #2 (111)
 #  
 #### SessionID: 34249
 # Beyond Plateaux: Optimize SSAS via Best Practices
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #2  (106)
 ## Speaker: William E Pearson III
 ## Title: Beyond Plateaux: Optimize SSAS via Best Practices
@@ -371,7 +372,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #2  (106)
 #  
 #### SessionID: 34252
 # Entity Strategies: Structuring Your Consultancy
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Prof Devel / Dev (113)
 ## Speaker: William E Pearson III
 ## Title: Entity Strategies: Structuring Your Consultancy
@@ -380,7 +381,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: Prof Devel / Dev (113)
 #  
 #### SessionID: 34253
 # Many-to-Many: Multiple Calendars in a Single Cube 
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #2  (106)
 ## Speaker: William E Pearson III
 ## Title: Many-to-Many: Multiple Calendars in a Single Cube 
@@ -389,7 +390,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #2  (106)
 #  
 #### SessionID: 34515
 # Intro to SQL Reporting Services
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #1 (105)
 ## Speaker: Matt Van Horn
 ## Title: Intro to SQL Reporting Services
@@ -398,7 +399,7 @@ Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #1 (105)
 #  
 #### SessionID: 34516
 # SSRS Interactive Reports
-#### [Back to calendar](#SQLSaturday-#69-Philadelphia-2011)
+#### [Back to calendar](#nr-69)
 Event Date: 05-03-2011 - Session time: 00:00:00 - Track: BI Track #1 (105)
 ## Speaker: Matt Van Horn
 ## Title: SSRS Interactive Reports

@@ -1,3 +1,4 @@
+#### Nr: 204
 #### [Back to Main list](index.md)
 # SQLSaturday #204 - Detroit 2013
 Start Time (24h)|Speaker|Track|Title
@@ -30,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10033
 # Manage SQLServer Efficiently w/PowerShell Remoting
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Wild Card
 ## Speaker: Allen White
 ## Title: Manage SQLServer Efficiently w/PowerShell Remoting
@@ -39,7 +40,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Wild Card
 #  
 #### SessionID: 11510
 # Becoming Certified In Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Prof Dev
 ## Speaker: Chris Hyde
 ## Title: Becoming Certified In Microsoft SQL Server
@@ -48,7 +49,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Prof Dev
 #  
 #### SessionID: 11761
 # So I started this blog... now what?
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Prof Dev
 ## Speaker: Colleen Morrow
 ## Title: So I started this blog... now what?
@@ -57,7 +58,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Prof Dev
 #  
 #### SessionID: 11763
 # SQL Audit - auditing doesn't have to be boring
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Wild Card
 ## Speaker: Colleen Morrow
 ## Title: SQL Audit - auditing doesn't have to be boring
@@ -66,7 +67,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Wild Card
 #  
 #### SessionID: 12004
 # Upgrade Roadmap: Let’s delve into SQL Server 2012 
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Craig Purnell
 ## Title: Upgrade Roadmap: Let’s delve into SQL Server 2012 
@@ -75,7 +76,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 12005
 # LinkedIn for SQL Server Professionals
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Prof Dev
 ## Speaker: Craig Purnell
 ## Title: LinkedIn for SQL Server Professionals
@@ -85,7 +86,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Prof Dev
 #  
 #### SessionID: 12557
 # Database Health and Performance
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: David Klee
 ## Title: Database Health and Performance
@@ -94,7 +95,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13312
 # DBA Basics: The Four Tasks Every DBA Should Know.
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: David Maxwell
 ## Title: DBA Basics: The Four Tasks Every DBA Should Know.
@@ -103,7 +104,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13653
 # How PowerShell helps me as a DBA (2013 Edition)
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Wild Card
 ## Speaker: Carlton Ramsey
 ## Title: How PowerShell helps me as a DBA (2013 Edition)
@@ -112,7 +113,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Wild Card
 #  
 #### SessionID: 14102
 # Join Us! Getting Started as a Technical Speaker
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Prof Dev
 ## Speaker: Eddie Wuerch
 ## Title: Join Us! Getting Started as a Technical Speaker
@@ -121,7 +122,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Prof Dev
 #  
 #### SessionID: 14103
 # Partitioning for Perf and Management of Large Tabl
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Eddie Wuerch
 ## Title: Partitioning for Perf and Management of Large Tabl
@@ -130,7 +131,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 14302
 # I'm Spatial
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Frank Murphy
 ## Title: I'm Spatial
@@ -141,7 +142,7 @@ Demo using SQL Server 2008 R2.
 #  
 #### SessionID: 14468
 # Making SSIS 2008 Packages More Dynamic
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: George Squillace
 ## Title: Making SSIS 2008 Packages More Dynamic
@@ -150,7 +151,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 16045
 # Hierarchies... on Steroids the No RBAR Way
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Jeff Moden
 ## Title: Hierarchies... on Steroids the No RBAR Way
@@ -159,7 +160,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 17352
 #  Data Modeling for Large Scale Cube systems 
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jordan Martz
 ## Title:  Data Modeling for Large Scale Cube systems 
@@ -170,7 +171,7 @@ This is just the start because I'll be interjecting how to Model Data Warehouses
 #  
 #### SessionID: 17516
 # Demystifying BISM and Tabular Mode SSAS
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Josh Fennessy
 ## Title: Demystifying BISM and Tabular Mode SSAS
@@ -181,7 +182,7 @@ In this session, attendees will gain understanding of what Multidimensional and 
 #  
 #### SessionID: 17882
 # $*! Your Database Says About Me
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Wild Card
 ## Speaker: Karen Lopez
 ## Title: $*! Your Database Says About Me
@@ -190,7 +191,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Wild Card
 #  
 #### SessionID: 22297
 # Hacking SQL Server
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Wild Card
 ## Speaker: Dustin Prescott
 ## Title: Hacking SQL Server
@@ -199,7 +200,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Wild Card
 #  
 #### SessionID: 22662
 # Goodbye Next Next Next, Hello Automated Installs
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Brian Davis
 ## Title: Goodbye Next Next Next, Hello Automated Installs
@@ -208,7 +209,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 23083
 # Incorporating Hadoop into your DW/BI Strategy
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Rob Kerr
 ## Title: Incorporating Hadoop into your DW/BI Strategy
@@ -217,7 +218,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 23843
 # Using Filetables
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Sam Nasr
 ## Title: Using Filetables
@@ -226,7 +227,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 25094
 # Free SQL Tools for Your Toolbox
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Prof Dev
 ## Speaker: Kevin Bullen
 ## Title: Free SQL Tools for Your Toolbox
@@ -235,7 +236,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Prof Dev
 #  
 #### SessionID: 26169
 # Windowing Functions: THE Reason to Upgrade to 2012
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012
@@ -244,7 +245,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 26170
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -253,7 +254,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 26984
 # Writting DML Triggers
-#### [Back to calendar](#SQLSaturday-#204-Detroit-2013)
+#### [Back to calendar](#nr-204)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Tom Groszko
 ## Title: Writting DML Triggers

@@ -1,3 +1,4 @@
+#### Nr: 421
 #### [Back to Main list](index.md)
 # SQLSaturday #421 - Columbus 2015
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 12802
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -44,7 +45,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 17230
 # How to get Microsoft Certified
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: John Deardurff
 ## Title: How to get Microsoft Certified
@@ -53,7 +54,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 36038
 # Get Near Realtime ETL with Service Broker
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 ## Speaker: Allen White
 ## Title: Get Near Realtime ETL with Service Broker
@@ -63,7 +64,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 #  
 #### SessionID: 36890
 # What changed?  Auditing options in SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 ## Speaker: Colleen Morrow
 ## Title: What changed?  Auditing options in SQL Server 2014
@@ -76,7 +77,7 @@ By the end of this session, you'll have the knowledge you need to select and imp
 #  
 #### SessionID: 37239
 # Updating Statistics Affects Query Performance More Than You Think
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Erin Stellato
 ## Title: Updating Statistics Affects Query Performance More Than You Think
@@ -85,7 +86,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 12264
 # Database: The Motion Picture
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Dave Mattingly
 ## Title: Database: The Motion Picture
@@ -94,7 +95,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 36404
 # SSRS 101 to 301: Learn how to build Simple and Intermediate level
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Ravi Kumar
 ## Title: SSRS 101 to 301: Learn how to build Simple and Intermediate level
@@ -103,7 +104,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 36943
 # Full-Text Search with Custom Proximity
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Sam Nasr
 ## Title: Full-Text Search with Custom Proximity
@@ -112,7 +113,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 37279
 # Primer on Power BI
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 2
 ## Speaker: Mark Tabladillo
 ## Title: Primer on Power BI
@@ -130,7 +131,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 2
 #  
 #### SessionID: 37306
 # DQ What? DQ Who? DQ How?
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Brian Davis
 ## Title: DQ What? DQ Who? DQ How?
@@ -139,7 +140,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 36048
 # A Day in the Life of a Row: Internals Deep Dive
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 ## Speaker: Eddie Wuerch
 ## Title: A Day in the Life of a Row: Internals Deep Dive
@@ -150,7 +151,7 @@ Attend this advanced session and you will be able to: * View and interpret raw d
 #  
 #### SessionID: 36532
 # Right-Sizing Your SQL Server Virtual Machine
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 ## Speaker: David Klee
 ## Title: Right-Sizing Your SQL Server Virtual Machine
@@ -161,7 +162,7 @@ The methods for understanding the performance of your mission-critical SQL Serve
 #  
 #### SessionID: 36578
 # The Spy Who Loathed Me - An Overview of SQL's Security Features
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 ## Speaker: Chris Bell
 ## Title: The Spy Who Loathed Me - An Overview of SQL's Security Features
@@ -176,7 +177,7 @@ This session will quickly go through a majority of the security features in SQL 
 #  
 #### SessionID: 37214
 # Turbo Boost Performance: In Memory Tables index optimizations
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Konstantin Melamud
 ## Title: Turbo Boost Performance: In Memory Tables index optimizations
@@ -185,7 +186,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 37312
 # SSIS Grab Bag of Best Practices
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 ## Speaker: Adam Belebczuk
 ## Title: SSIS Grab Bag of Best Practices
@@ -194,7 +195,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 #  
 #### SessionID: 14232
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
@@ -203,7 +204,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 22128
 # Getting Started with Analysis Services Tabular mode
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Phillip Labry
 ## Title: Getting Started with Analysis Services Tabular mode
@@ -212,7 +213,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 35976
 # Execution Plans 101
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Eugene Meidinger
 ## Title: Execution Plans 101
@@ -221,7 +222,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 36678
 # Backup and Restore Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 ## Speaker: Ryan Adams
 ## Title: Backup and Restore Tips and Tricks
@@ -230,7 +231,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 #  
 #### SessionID: 37305
 # Goodbye Next Next Next, Hello Automated Installs
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Brian Davis
 ## Title: Goodbye Next Next Next, Hello Automated Installs
@@ -239,7 +240,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 14638
 # Partition Switching - Moving a Lot of Data Very Quickly
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Gill Rowley
 ## Title: Partition Switching - Moving a Lot of Data Very Quickly
@@ -248,7 +249,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 36322
 # Scripting out SQL Server for Documentation and Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 ## Speaker: George Walkey
 ## Title: Scripting out SQL Server for Documentation and Disaster Recovery
@@ -260,7 +261,7 @@ Objects exported include: SQL Agent Jobs/Alerts/Schedules, NT Service Credential
 #  
 #### SessionID: 36579
 # Hacking Expos#233; - Using SSL to Secure SQL Server Connections
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 ## Speaker: Chris Bell
 ## Title: Hacking Expos#233; - Using SSL to Secure SQL Server Connections
@@ -274,7 +275,7 @@ Once secured, we will resume the role of the hacker and look inside the packets 
 #  
 #### SessionID: 36905
 # Introduction to Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Machine Learning
@@ -283,7 +284,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 37313
 # Join Us! Getting Started as a Technical Speaker
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Eddie Wuerch
 ## Title: Join Us! Getting Started as a Technical Speaker
@@ -292,7 +293,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 21880
 # Clusters! From the ground up, don't double your storage, let's build one together.
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Paul Popovich Jr
 ## Title: Clusters! From the ground up, don't double your storage, let's build one together.
@@ -301,7 +302,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 27608
 # Introduction to APS
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Warren Sifre
 ## Title: Introduction to APS
@@ -310,7 +311,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #  
 #### SessionID: 36534
 # My Brain Has Blue Screened - Let's Laugh
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 ## Speaker: David Klee
 ## Title: My Brain Has Blue Screened - Let's Laugh
@@ -319,7 +320,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 #  
 #### SessionID: 36653
 # Playing in Traffic: Lessons from High-Speed, High-Volume Applications
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 ## Speaker: Jay Robinson
 ## Title: Playing in Traffic: Lessons from High-Speed, High-Volume Applications
@@ -328,7 +329,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 #  
 #### SessionID: 8992
 # XML Without Xanax: How to Handle XML in SQL Server
-#### [Back to calendar](#SQLSaturday-#421-Columbus-2015)
+#### [Back to calendar](#nr-421)
 Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 ## Speaker: Adam Belebczuk
 ## Title: XML Without Xanax: How to Handle XML in SQL Server

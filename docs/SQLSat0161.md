@@ -1,3 +1,4 @@
+#### Nr: 161
 #### [Back to Main list](index.md)
 # SQLSaturday #161 - East Iowa 2012
 Start Time (24h)|Speaker|Track|Title
@@ -26,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 12572
 # Virtualizing Business Critical SQL Servers
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: David Klee
 ## Title: Virtualizing Business Critical SQL Servers
@@ -35,7 +36,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 2
 #  
 #### SessionID: 12573
 # Database Health and Performance
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 4
 ## Speaker: David Klee
 ## Title: Database Health and Performance
@@ -44,7 +45,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 4
 #  
 #### SessionID: 13263
 # Freaky Fast Database Development Tips 
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Dave Valentine
 ## Title: Freaky Fast Database Development Tips 
@@ -53,7 +54,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 2
 #  
 #### SessionID: 13718
 # Practically Normal
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 4
 ## Speaker: Ed Leighton-Dick
 ## Title: Practically Normal
@@ -62,7 +63,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 4
 #  
 #### SessionID: 13903
 # SSMS for Developers
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: Eric Selje
 ## Title: SSMS for Developers
@@ -73,7 +74,7 @@ This session is good for anyone who spends some time in SSMS and wants to pick u
 #  
 #### SessionID: 13911
 # Dimensional Data Model Prototyping With PowerPivot
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 4
 ## Speaker: Eric Ness
 ## Title: Dimensional Data Model Prototyping With PowerPivot
@@ -82,7 +83,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 4
 #  
 #### SessionID: 13948
 # DBCC Commands: The Quick and the Dangerous
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Erin Stellato
 ## Title: DBCC Commands: The Quick and the Dangerous
@@ -91,7 +92,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 1
 #  
 #### SessionID: 13949
 # You’re My Density: Making Sense of Statistics
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Erin Stellato
 ## Title: You’re My Density: Making Sense of Statistics
@@ -100,7 +101,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 1
 #  
 #### SessionID: 17981
 # Best Practices for Monitoring Databases on VMware
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Kathy  Gibbs
 ## Title: Best Practices for Monitoring Databases on VMware
@@ -109,7 +110,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 2
 #  
 #### SessionID: 18961
 # Yesterday I Couldn’t Even Spell ‘DBA’.
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: Larry Toothman
 ## Title: Yesterday I Couldn’t Even Spell ‘DBA’.
@@ -118,7 +119,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 3
 #  
 #### SessionID: 21464
 # SQL Azure Federations
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: Nitin Salgar
 ## Title: SQL Azure Federations
@@ -131,7 +132,7 @@ This topic requires rudimentary SQL Azure understanding
 #  
 #### SessionID: 23024
 # SSRS: Reporting on Reports
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Rick Krueger
 ## Title: SSRS: Reporting on Reports
@@ -142,7 +143,7 @@ Co-Presenter: Dave Valentine (@IngeniousSQL)
 #  
 #### SessionID: 23463
 # GeoGRAPHY Spatial Analysis
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 4
 ## Speaker: Ross McNeely
 ## Title: GeoGRAPHY Spatial Analysis
@@ -152,7 +153,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 4
 #  
 #### SessionID: 23608
 # Silverlight Reporting and Windows Phone Dev
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Russell Fustino
 ## Title: Silverlight Reporting and Windows Phone Dev
@@ -161,7 +162,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 2
 #  
 #### SessionID: 23615
 # Automating SQL Server Administration
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Russ Allen
 ## Title: Automating SQL Server Administration
@@ -170,7 +171,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 2
 #  
 #### SessionID: 23944
 # Unit Testing made easy for Database Development  
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 4
 ## Speaker: Sanil Mhatre
 ## Title: Unit Testing made easy for Database Development  
@@ -181,7 +182,7 @@ In this session, we will not only cover the basis of unit testing concepts and t
 #  
 #### SessionID: 24320
 # Anatomy of a Join
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: Luke Jian
 ## Title: Anatomy of a Join
@@ -190,7 +191,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 3
 #  
 #### SessionID: 27337
 # SQL Azure Intro and what’s New
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: Andy Thiru
 ## Title: SQL Azure Intro and what’s New
@@ -199,7 +200,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 3
 #  
 #### SessionID: 28062
 # PowerPivot for Excel: For Those Unacquainted ...
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: William E Pearson III
 ## Title: PowerPivot for Excel: For Those Unacquainted ...
@@ -208,7 +209,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 1
 #  
 #### SessionID: 9825
 # PWNED! Security, SQL Server, and You!
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Arie Jones
 ## Title: PWNED! Security, SQL Server, and You!
@@ -217,7 +218,7 @@ Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 1
 #  
 #### SessionID: 9826
 # Master Data Services in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#161-East-Iowa-2012)
+#### [Back to calendar](#nr-161)
 Event Date: 11-08-2012 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Arie Jones
 ## Title: Master Data Services in SQL Server 2012

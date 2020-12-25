@@ -1,3 +1,4 @@
+#### Nr: 625
 #### [Back to Main list](index.md)
 # SQLSaturday #625 - El Salvador 2017
 Start Time (24h)|Speaker|Track|Title
@@ -32,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 59682
 # The SSIS catalog and Management Views: Simplifying reporting, logging and notifications.
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Fernando Sibaja Araya
 ## Title: The SSIS catalog and Management Views: Simplifying reporting, logging and notifications.
@@ -41,7 +42,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64434
 # Monitoreo y diagnóstico de bases de datos SQL Server
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jose Eduardo Valle
 ## Title: Monitoreo y diagnóstico de bases de datos SQL Server
@@ -50,7 +51,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66495
 # Data Analytics: Clustering, Regression and Machine Learning
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: BI Information Delivery
 ## Speaker: Eduardo Castro
 ## Title: Data Analytics: Clustering, Regression and Machine Learning
@@ -59,7 +60,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: BI Information Delivery
 #  
 #### SessionID: 66506
 # Modelos Mentales en BI: Implementación práctica en Finanzas
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Other
 ## Speaker: Javier Loria
 ## Title: Modelos Mentales en BI: Implementación práctica en Finanzas
@@ -68,7 +69,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Other
 #  
 #### SessionID: 64803
 # 3 lecciones aprendidas de aplicar Scrum a proyectos de BI
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Strategy and Architecture
 ## Speaker: Javier Loria
 ## Title: 3 lecciones aprendidas de aplicar Scrum a proyectos de BI
@@ -77,7 +78,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 64686
 # Querying JSON data in Sql Server 2016
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Application  Database Development
 ## Speaker: Mario Guzman
 ## Title: Querying JSON data in Sql Server 2016
@@ -86,7 +87,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Application  Database D
 #  
 #### SessionID: 64860
 # ¡Rompiendo la barrera del sonido en SSIS con Balanced Data Distributor!
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Professional Development
 ## Speaker: Ricardo Estrada
 ## Title: ¡Rompiendo la barrera del sonido en SSIS con Balanced Data Distributor!
@@ -95,7 +96,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Professional Developmen
 #  
 #### SessionID: 64900
 # De la Tierra al Cielo con Power BI
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: BI Information Delivery
 ## Speaker: Vladimir Guzman
 ## Title: De la Tierra al Cielo con Power BI
@@ -106,7 +107,7 @@ Configuración de Gateways y DataSources en la nube
 #  
 #### SessionID: 66350
 # Un día en la vida de un científico de datos
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Strategy and Architecture
 ## Speaker: Fabricio Quintanilla
 ## Title: Un día en la vida de un científico de datos
@@ -115,7 +116,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 61342
 # Introducción a Mobile Reports
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: BI Information Delivery
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Introducción a Mobile Reports
@@ -124,7 +125,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: BI Information Delivery
 #  
 #### SessionID: 65818
 # Manejo de Planes de Contingencia y Recuperación ante Desastres
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Strategy and Architecture
 ## Speaker: Walter Navarrete
 ## Title: Manejo de Planes de Contingencia y Recuperación ante Desastres
@@ -133,7 +134,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 66396
 # Conceptos de inteligencia de negocios - BI
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: BI Information Delivery
 ## Speaker: Ahias Portillo
 ## Title: Conceptos de inteligencia de negocios - BI
@@ -142,7 +143,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: BI Information Delivery
 #  
 #### SessionID: 66465
 # La Transformación del Análisis de Datos
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Analytics and Visualization
 ## Speaker: Edgar Alvarado
 ## Title: La Transformación del Análisis de Datos
@@ -151,7 +152,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 66597
 # Reference Architectures for High Performance Computing and Hadoop explained.
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Advanced Analysis Techniques
 ## Speaker: LUIS ROBERTO O
 ## Title: Reference Architectures for High Performance Computing and Hadoop explained.
@@ -160,7 +161,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 63010
 # Querying SQL Server through the Entity Framework and LINQ
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Application  Database Development
 ## Speaker: Fernando Sibaja Araya
 ## Title: Querying SQL Server through the Entity Framework and LINQ
@@ -170,7 +171,7 @@ In this session we will briefly explore how linq queries are translated to sql a
 #  
 #### SessionID: 64956
 # Introducción a SQL Graph
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Analytics and Visualization
 ## Speaker: Ricardo Estrada
 ## Title: Introducción a SQL Graph
@@ -179,7 +180,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 65734
 # El poder de SQL en AZURE
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Emerson Reyna
 ## Title: El poder de SQL en AZURE
@@ -188,7 +189,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 66474
 # Analisys Services Tabular
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: Analisys Services Tabular
@@ -203,7 +204,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64695
 # MSSQL 2017 con Docker para agilizar el desarrollo de software
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christian Melendez
 ## Title: MSSQL 2017 con Docker para agilizar el desarrollo de software
@@ -212,7 +213,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 66349
 # Como los modelos predictivos estan cambiando la forma de hacer negocios
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Advanced Analysis Techniques
 ## Speaker: Fabricio Quintanilla
 ## Title: Como los modelos predictivos estan cambiando la forma de hacer negocios
@@ -221,7 +222,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 66394
 # Optimize your Datawarehouse with Column Store Index
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Application  Database Development
 ## Speaker: Ahias Portillo
 ## Title: Optimize your Datawarehouse with Column Store Index
@@ -230,7 +231,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Application  Database D
 #  
 #### SessionID: 66609
 # Redgate Data Tools in Visual Studio 2017
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Professional Development
 ## Speaker: Roberto Pena
 ## Title: Redgate Data Tools in Visual Studio 2017
@@ -239,7 +240,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Professional Developmen
 #  
 #### SessionID: 64858
 # La web y R como fuente de Datos para SQL Server
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Application  Database Development
 ## Speaker: Ricardo Estrada
 ## Title: La web y R como fuente de Datos para SQL Server
@@ -248,7 +249,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Application  Database D
 #  
 #### SessionID: 64343
 # Ahora me ves... Ahora no me ves... Seguridad dinámica SSAS
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jorge García
 ## Title: Ahora me ves... Ahora no me ves... Seguridad dinámica SSAS
@@ -257,7 +258,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64800
 # Trucos de T-SQL que deberias estar usando en tu Datawarehouse
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: Trucos de T-SQL que deberias estar usando en tu Datawarehouse
@@ -267,7 +268,7 @@ Más específicamente cubriremos temas variados que incluyen desde configuració
 #  
 #### SessionID: 66494
 # SQL Server R Services en SQL 2016
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Other
 ## Speaker: Eduardo Castro
 ## Title: SQL Server R Services en SQL 2016
@@ -276,7 +277,7 @@ Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Other
 #  
 #### SessionID: 66599
 # Pariticionamiento y Compresion de Datos en SQL Server 206
-#### [Back to calendar](#SQLSaturday-#625-El-Salvador-2017)
+#### [Back to calendar](#nr-625)
 Event Date: 24-06-2017 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vladimir Guzman
 ## Title: Pariticionamiento y Compresion de Datos en SQL Server 206

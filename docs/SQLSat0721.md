@@ -1,3 +1,4 @@
+#### Nr: 721
 #### [Back to Main list](index.md)
 # SQLSaturday #721 - Raleigh 2018
 Start Time (24h)|Speaker|Track|Title
@@ -48,7 +49,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 77751
 # Linux Power Pre-Con For The DBA (Paid Pre-Con)
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Design
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Linux Power Pre-Con For The DBA (Paid Pre-Con)
@@ -64,7 +65,7 @@ https://www.eventbrite.com/e/linux-power-pre-con-for-the-dba-kellyn-potvin-gorma
 #  
 #### SessionID: 77753
 # Architecting a Data Lake (Paid Pre-Con)
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Design
 ## Speaker: Melissa Coates
 ## Title: Architecting a Data Lake (Paid Pre-Con)
@@ -76,7 +77,7 @@ https://www.eventbrite.com/e/architecting-a-data-lake-with-melissa-coates-raleig
 #  
 #### SessionID: 70984
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Innovate
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -89,7 +90,7 @@ Instead of focusing on syntax, the session will plunge straight into examples an
 #  
 #### SessionID: 70988
 # SQL Server Basic Backups for Beginners
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Support
 ## Speaker: Mark Gordon
 ## Title: SQL Server Basic Backups for Beginners
@@ -98,7 +99,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Support
 #  
 #### SessionID: 72861
 # How can containers for my database help me?
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Design
 ## Speaker: Carlos L Chacon
 ## Title: How can containers for my database help me?
@@ -107,7 +108,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Design
 #  
 #### SessionID: 73775
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Perform
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
@@ -116,7 +117,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Perform
 #  
 #### SessionID: 74292
 # Create SQL Server Test Premise Environment in Azure Cloud
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 ## Speaker: Michael Wharton
 ## Title: Create SQL Server Test Premise Environment in Azure Cloud
@@ -125,7 +126,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 #  
 #### SessionID: 74341
 # The Amazing Utility of ROW_NUMBER()
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 ## Speaker: Brian Hansen
 ## Title: The Amazing Utility of ROW_NUMBER()
@@ -134,7 +135,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 #  
 #### SessionID: 80656
 # Alexa – Skills Development, Data, and Continuous Improvement
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 ## Speaker: Shannon Lowder
 ## Title: Alexa – Skills Development, Data, and Continuous Improvement
@@ -143,7 +144,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 #  
 #### SessionID: 70993
 # Applying Row Level Security In Power BI
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Analyze
 ## Speaker: Wes Springob
 ## Title: Applying Row Level Security In Power BI
@@ -152,7 +153,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Analyze
 #  
 #### SessionID: 71039
 # The Right HA/DR Solution
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Design
 ## Speaker: Doug Purnell
 ## Title: The Right HA/DR Solution
@@ -161,7 +162,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Design
 #  
 #### SessionID: 71311
 # SSRS – Clean while you migrate
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Support
 ## Speaker: George Maxson
 ## Title: SSRS – Clean while you migrate
@@ -170,7 +171,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Support
 #  
 #### SessionID: 71382
 # Tips for Getting Started with the Azure Data Platform
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 ## Speaker: Melissa Coates
 ## Title: Tips for Getting Started with the Azure Data Platform
@@ -179,7 +180,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 #  
 #### SessionID: 72970
 # I/O Tuning 101
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Perform
 ## Speaker: Anders Pedersen
 ## Title: I/O Tuning 101
@@ -196,7 +197,7 @@ All of this can be done without the need for any 3rd party tools, all within the
 #  
 #### SessionID: 73379
 # The function of Windowing Functions
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 ## Speaker: Kevin Wilkie
 ## Title: The function of Windowing Functions
@@ -214,7 +215,7 @@ Learn more about the class of functions that are known as "windowing functions" 
 #  
 #### SessionID: 73608
 # SQL Server and Docker
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 ## Speaker: Azhagappan Arunachalam
 ## Title: SQL Server and Docker
@@ -223,7 +224,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 #  
 #### SessionID: 70979
 # Using the New SSRS PowerBI Server
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Innovate
 ## Speaker: George Walkey
 ## Title: Using the New SSRS PowerBI Server
@@ -232,7 +233,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Innovate
 #  
 #### SessionID: 72047
 # Faster SSIS
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Scale
 ## Speaker: Andy Leonard
 ## Title: Faster SSIS
@@ -245,7 +246,7 @@ Finally, we'll demonstrate a design pattern that uses a Script Component in a Da
 #  
 #### SessionID: 72490
 # Cloudy with a Chance of Data
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Evolve
 ## Speaker: Rick Heiges
 ## Title: Cloudy with a Chance of Data
@@ -254,7 +255,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Evolve
 #  
 #### SessionID: 72971
 # Applications of Hashbytes and Compress Functions
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Scale
 ## Speaker: Jeff Nowiski
 ## Title: Applications of Hashbytes and Compress Functions
@@ -263,7 +264,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Scale
 #  
 #### SessionID: 73657
 # Monitoring with sp_WhoIsActive, PowerShell and PowerBI
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Support
 ## Speaker: Jana Sattainathan
 ## Title: Monitoring with sp_WhoIsActive, PowerShell and PowerBI
@@ -272,7 +273,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Support
 #  
 #### SessionID: 74352
 # Clusters! From the ground up, let us build one together
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 ## Speaker: Paul Popovich Jr
 ## Title: Clusters! From the ground up, let us build one together
@@ -281,7 +282,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 #  
 #### SessionID: 80103
 # REST Easy - Instant APIs for Your Database
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Vendor Session
 ## Speaker: Jerod Johnson
 ## Title: REST Easy - Instant APIs for Your Database
@@ -292,7 +293,7 @@ With the CData API Server, users can rapidly create RESTful APIs for SQL Server 
 #  
 #### SessionID: 71331
 # SQL Server Then and Now: Changing the State of Long-held Beliefs
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Design
 ## Speaker: Maxwell Myrick
 ## Title: SQL Server Then and Now: Changing the State of Long-held Beliefs
@@ -301,7 +302,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Design
 #  
 #### SessionID: 72056
 # Locks, Blocks, and Deadlocks; Tame the Sibling Rivalry
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Perform
 ## Speaker: William Wolf
 ## Title: Locks, Blocks, and Deadlocks; Tame the Sibling Rivalry
@@ -314,7 +315,7 @@ By the end of this session you will walk away with the knowledge of how the lock
 #  
 #### SessionID: 72630
 # Linux for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Support
 ## Speaker: Dave Walden
 ## Title: Linux for the SQL Server DBA
@@ -324,7 +325,7 @@ We'll arm you with the information you'll need to start supporting Linux, even i
 #  
 #### SessionID: 74375
 # Using DMVs for Performance Root Cause
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Perform
 ## Speaker: Jared Poché
 ## Title: Using DMVs for Performance Root Cause
@@ -333,7 +334,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Perform
 #  
 #### SessionID: 77549
 # DAX 101
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Analyze
 ## Speaker: Belinda Allen
 ## Title: DAX 101
@@ -342,7 +343,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Analyze
 #  
 #### SessionID: 78697
 # Getting Started with Power Query
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 ## Speaker: Shawn Dorward
 ## Title: Getting Started with Power Query
@@ -351,7 +352,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 #  
 #### SessionID: 80420
 # #GetModern With Dell EMC
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Vendor Session
 ## Speaker: Michael Wells
 ## Title: #GetModern With Dell EMC
@@ -360,7 +361,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Vendor Session
 #  
 #### SessionID: 71027
 # Screw DevOps, Let's Talk DataOps
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Evolve
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Screw DevOps, Let's Talk DataOps
@@ -375,7 +376,7 @@ Takeaways from this session:
 #  
 #### SessionID: 71138
 # Laying the Foundations for GDPR Compliance.
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Design
 ## Speaker: John Martin
 ## Title: Laying the Foundations for GDPR Compliance.
@@ -388,7 +389,7 @@ By the end of this session you will be able to start the groundwork on getting y
 #  
 #### SessionID: 71919
 # SQL Server  Containers
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Innovate
 ## Speaker: Andrew Pruski
 ## Title: SQL Server  Containers
@@ -409,7 +410,7 @@ A real world implementation of containers
 #  
 #### SessionID: 72422
 # A Beginner's Guide To Plan Guides
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Perform
 ## Speaker: Brian Carrig
 ## Title: A Beginner's Guide To Plan Guides
@@ -420,7 +421,7 @@ In this session we will cover what plan guides are, how they work and demonstrat
 #  
 #### SessionID: 72766
 # HDInsight > Hadoop
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Innovate
 ## Speaker: Mark Hudson
 ## Title: HDInsight > Hadoop
@@ -429,7 +430,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Innovate
 #  
 #### SessionID: 74072
 # Build Your Extract Packages Automatically!
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 ## Speaker: Shannon Lowder
 ## Title: Build Your Extract Packages Automatically!
@@ -440,7 +441,7 @@ With that schema, automatically generating your extract package is a matter of s
 #  
 #### SessionID: 71062
 # Environmental SQL Server Troubleshooting
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Perform
 ## Speaker: Jeff Mlakar
 ## Title: Environmental SQL Server Troubleshooting
@@ -451,7 +452,7 @@ In this session we will discuss both performance pitfalls and optimizations that
 #  
 #### SessionID: 71243
 # Automated SQL Server installation and configuration using PowerShell
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 ## Speaker: Jamie Wick
 ## Title: Automated SQL Server installation and configuration using PowerShell
@@ -460,7 +461,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Build
 #  
 #### SessionID: 71846
 # Getting the Skinny on Minimally Logged Operations
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Perform
 ## Speaker: Andrew Kelly
 ## Title: Getting the Skinny on Minimally Logged Operations
@@ -469,7 +470,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Perform
 #  
 #### SessionID: 72193
 # Controlling Competing Workloads with SQL Server Resource Governor
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Perform
 ## Speaker: Brian Carrig
 ## Title: Controlling Competing Workloads with SQL Server Resource Governor
@@ -478,7 +479,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Perform
 #  
 #### SessionID: 74208
 # Lost in Translation:  ༂རཱི⿻�〄ポשׁ�ꬤﾫ◬Ꮡ�☠o̐̈́̈́̈́͢ㅴ
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Design
 ## Speaker: Solomon Rutzky
 ## Title: Lost in Translation:  ༂རཱི⿻�〄ポשׁ�ꬤﾫ◬Ꮡ�☠o̐̈́̈́̈́͢ㅴ
@@ -489,7 +490,7 @@ In this presentation we will cover: the actual differences between VARCHAR and N
 #  
 #### SessionID: 74350
 # Query Store Primer
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Analyze
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
@@ -498,7 +499,7 @@ Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Analyze
 #  
 #### SessionID: 80498
 # Building the HASSP: Putting SQL Server In Space
-#### [Back to calendar](#SQLSaturday-#721-Raleigh-2018)
+#### [Back to calendar](#nr-721)
 Event Date: 14-04-2018 - Session time: 15:45:00 - Track: Design
 ## Speaker: Drew Furgiuele
 ## Title: Building the HASSP: Putting SQL Server In Space

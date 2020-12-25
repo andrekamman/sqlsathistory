@@ -1,3 +1,4 @@
+#### Nr: 880
 #### [Back to Main list](index.md)
 # SQLSaturday #880 - Munich 2019
 Start Time (24h)|Speaker|Track|Title
@@ -34,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 95213
 # From Power BI to AI – Enrich your BI with Artificial Intelligence
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Analytics
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: From Power BI to AI – Enrich your BI with Artificial Intelligence
@@ -45,7 +46,7 @@ Sounds like a lot of content? I omitted most of the slides in favour to spend th
 #  
 #### SessionID: 95528
 # Der Klotz zeigt Dir den Weg - ins Internet of Legos
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Other
 ## Speaker: Benjamin Kettner
 ## Title: Der Klotz zeigt Dir den Weg - ins Internet of Legos
@@ -55,7 +56,7 @@ Unser Vortrag enthält Lego, LabView, Azure und künstliche Intelligenz. Wie das
 #  
 #### SessionID: 96377
 # SQL in Azure: What to use When and How to Migrate
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Administration
 ## Speaker: Anna Hoffman
 ## Title: SQL in Azure: What to use When and How to Migrate
@@ -70,7 +71,7 @@ After this session, you should be able to:
 #  
 #### SessionID: 96453
 # ETL with Azure Databricks, The Complete Introduction
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: André Kamman
 ## Title: ETL with Azure Databricks, The Complete Introduction
@@ -79,7 +80,7 @@ Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 93399
 # How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Administration
 ## Speaker: Aleksandar Talev
 ## Title: How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?
@@ -88,7 +89,7 @@ Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Administration
 #  
 #### SessionID: 94451
 # Von 0 auf 100 mit der Kusto Query Language (KQL)
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Analytics
 ## Speaker: Sascha Dittmann
 ## Title: Von 0 auf 100 mit der Kusto Query Language (KQL)
@@ -98,7 +99,7 @@ In dieser Session gibt Sascha Dittmann eine Einführung in die Abfragesprache. D
 #  
 #### SessionID: 94610
 # Power BI Dataflows? Why you need to implement it!
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Benni De Jagere
 ## Title: Power BI Dataflows? Why you need to implement it!
@@ -113,7 +114,7 @@ Expect to walk out of this session with a decent grasp on the underlying archite
 #  
 #### SessionID: 96359
 # Presentation Skills for the Technical Professional
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Other
 ## Speaker: Buck Woody
 ## Title: Presentation Skills for the Technical Professional
@@ -122,7 +123,7 @@ Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Other
 #  
 #### SessionID: 91119
 # SQL Server Big Data Clusters
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Other
 ## Speaker: Ben Weissman
 ## Title: SQL Server Big Data Clusters
@@ -133,7 +134,7 @@ Was bedeutet das konkret? Wir schauen uns an, wie man die neuen Features install
 #  
 #### SessionID: 92902
 # Fast like a Roadrunner - Get the M(eep) M(eep) into your M(eep)-Queries?
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Frank Geisler
 ## Title: Fast like a Roadrunner - Get the M(eep) M(eep) into your M(eep)-Queries?
@@ -142,7 +143,7 @@ Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 93380
 # How to Get Started with Azure Managed Instance
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Administration
 ## Speaker: Björn Peters
 ## Title: How to Get Started with Azure Managed Instance
@@ -156,7 +157,7 @@ After this session, you'll understand this great database a bit better and know 
 #  
 #### SessionID: 94184
 # Four questions machine learning can answer
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Analytics
 ## Speaker: Nico Jacobs
 ## Title: Four questions machine learning can answer
@@ -170,7 +171,7 @@ The next step will be to find answers to these questions. Azure provides many di
 #  
 #### SessionID: 98781
 # Das super nerdige Solisyon Quiz
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Sponsor/Lunch Session
 ## Speaker: Ben Weissman
 ## Title: Das super nerdige Solisyon Quiz
@@ -179,7 +180,7 @@ Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Sponsor/Lunch Session
 #  
 #### SessionID: 98965
 # VMWare Sponsor Session: Virtualizing SQL Server on vSphere
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Sponsor/Lunch Session
 ## Speaker: Oleg Ulyanov
 ## Title: VMWare Sponsor Session: Virtualizing SQL Server on vSphere
@@ -195,7 +196,7 @@ BIO: Oleg Ulyanov is a Sr. Solutions Architect focused on Microsoft SQL Server w
 #  
 #### SessionID: 99168
 # SQL Server high availability in cloud and hybrid environments
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Sponsor/Lunch Session
 ## Speaker: Thomas Jorczik
 ## Title: SQL Server high availability in cloud and hybrid environments
@@ -206,7 +207,7 @@ This session, presented by SIOS Technology, will highlight important information
 #  
 #### SessionID: 99223
 # DYMATRIX: Die Data-Plattform im Kampagnenmgt und Marketing-Umfeld
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Sponsor/Lunch Session
 ## Speaker: Erik Monchen
 ## Title: DYMATRIX: Die Data-Plattform im Kampagnenmgt und Marketing-Umfeld
@@ -220,7 +221,7 @@ Wo kann die Data-Plattform unterstützen? (Real-Life-Beispiele)
 #  
 #### SessionID: 92900
 # Data flows in Azure Data Factory - endlich auch hier Transformationen!
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Stefan Kirner
 ## Title: Data flows in Azure Data Factory - endlich auch hier Transformationen!
@@ -230,7 +231,7 @@ Der Vortrag zeigt nach einem allgemeinen Überblick zur ADF, die Data Flows und 
 #  
 #### SessionID: 94883
 # Inside SQL Server Containers
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Administration
 ## Speaker: Bob Ward
 ## Title: Inside SQL Server Containers
@@ -239,7 +240,7 @@ Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Administration
 #  
 #### SessionID: 95010
 # Using Charticulator - How to create No-Code Power BI custom visuals
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Analytics
 ## Speaker: Thomas Martens
 ## Title: Using Charticulator - How to create No-Code Power BI custom visuals
@@ -248,7 +249,7 @@ Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Analytics
 #  
 #### SessionID: 96719
 # Hybrid Power BI - What is possible? What do you need?
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Wolfgang Strasser
 ## Title: Hybrid Power BI - What is possible? What do you need?
@@ -258,7 +259,7 @@ Besides the on-premises data gateway, there are additional options how a hybrid 
 #  
 #### SessionID: 92051
 # Administrating SQL Server with PowerShell dbatools
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Administration
 ## Speaker: Rob Sewell
 ## Title: Administrating SQL Server with PowerShell dbatools
@@ -279,7 +280,7 @@ All this in a fast paced, fun session
 #  
 #### SessionID: 92912
 # Data Visualization: How to truly tell a great story!
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization: How to truly tell a great story!
@@ -288,7 +289,7 @@ Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 92941
 # From Datawarehouse, across BI, to modern data analysis and artificial intelligence, Azure Databricks
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Analytics
 ## Speaker: Andre Essing
 ## Title: From Datawarehouse, across BI, to modern data analysis and artificial intelligence, Azure Databricks
@@ -301,7 +302,7 @@ However, as always, the first steps are the hardest to take. Because of that, in
 #  
 #### SessionID: 93722
 # Agile Data Warehousing
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Other
 ## Speaker: Christoph Seck
 ## Title: Agile Data Warehousing
@@ -314,7 +315,7 @@ We close with discussing how to adapt this to your specific projects and the old
 #  
 #### SessionID: 99226
 # Power BI Embedded with RLS Access to the on-prem Data Source
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Georg Gamsjäger
 ## Title: Power BI Embedded with RLS Access to the on-prem Data Source
@@ -327,7 +328,7 @@ This is a 1-hour session that is a compact version of the Precon that was schedu
 #  
 #### SessionID: 92840
 # CI/CD for your Cloud Data Platform from Data Lake to Power BI
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Felix Möller
 ## Title: CI/CD for your Cloud Data Platform from Data Lake to Power BI
@@ -344,7 +345,7 @@ The presentation will demonstrate how to integrate all above technologies based 
 #  
 #### SessionID: 94420
 # Statistical Analysis with T-SQL
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Analytics
 ## Speaker: Dejan Sarka
 ## Title: Statistical Analysis with T-SQL
@@ -353,7 +354,7 @@ Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Analytics
 #  
 #### SessionID: 96162
 # SQL Server  Kubernetes
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Administration
 ## Speaker: Andrew Pruski
 ## Title: SQL Server  Kubernetes
@@ -374,7 +375,7 @@ This session is aimed at SQL Server DBAs and Developers who want to learn the wh
 #  
 #### SessionID: 96461
 # Data Quality Round-trip in the MS Dataplatform 2019
-#### [Back to calendar](#SQLSaturday-#880-Munich-2019)
+#### [Back to calendar](#nr-880)
 Event Date: 19-10-2019 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Oliver Engels
 ## Title: Data Quality Round-trip in the MS Dataplatform 2019

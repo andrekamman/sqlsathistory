@@ -1,3 +1,4 @@
+#### Nr: 391
 #### [Back to Main list](index.md)
 # SQLSaturday #391 - Jacksonville 2015
 Start Time (24h)|Speaker|Track|Title
@@ -50,7 +51,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 14450
 # Learn How To Build A Golden Record for Any Subject Over Lunch!
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Gene Webb
 ## Title: Learn How To Build A Golden Record for Any Subject Over Lunch!
@@ -64,7 +65,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 17153
 # Data Compression – Why and How
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting and Performance Tuning
 ## Speaker: John Kauffman
 ## Title: Data Compression – Why and How
@@ -73,7 +74,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting
 #  
 #### SessionID: 19168
 # PowerShell for SQL Server Administrators
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Development
 ## Speaker: Lisa Jackson-Neblett
 ## Title: PowerShell for SQL Server Administrators
@@ -82,7 +83,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Develo
 #  
 #### SessionID: 19979
 # Interview Puzzles and how to handle them
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Personal Development
 ## Speaker: Mike Davis
 ## Title: Interview Puzzles and how to handle them
@@ -91,7 +92,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Personal Development
 #  
 #### SessionID: 21014
 # Process SSAS Cubes with SSIS
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 ## Speaker: Mitchell Pearson
 ## Title: Process SSAS Cubes with SSIS
@@ -100,7 +101,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #  
 #### SessionID: 21112
 # Data Mining with Excel 2013
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
 ## Speaker: Michael Reed
 ## Title: Data Mining with Excel 2013
@@ -109,7 +110,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
 #  
 #### SessionID: 24407
 # SSIS Performance Tuning
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 ## Speaker: Shawn Harrison
 ## Title: SSIS Performance Tuning
@@ -118,7 +119,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #  
 #### SessionID: 24636
 # HA in an about an Hour
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting and Performance Tuning
 ## Speaker: Shawn Meyers
 ## Title: HA in an about an Hour
@@ -127,7 +128,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting
 #  
 #### SessionID: 36027
 # Kids Camp
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Devin Knight
 ## Title: Kids Camp
@@ -143,7 +144,7 @@ An Adult must remain on campus at SQL Saturday during the day.
 #  
 #### SessionID: 13300
 # Size does matter: 10 ways to reduce the database size and improve performance
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting and Performance Tuning
 ## Speaker: Dmitri Korotkevitch
 ## Title: Size does matter: 10 ways to reduce the database size and improve performance
@@ -154,7 +155,7 @@ In this session, Dmitri will show you the set of techniques that help to reduce 
 #  
 #### SessionID: 13502
 # Welcome to SSAS Tabular Models
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 ## Speaker: Dustin Ryan
 ## Title: Welcome to SSAS Tabular Models
@@ -163,7 +164,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #  
 #### SessionID: 16341
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
@@ -172,7 +173,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 17858
 # Power BI 101
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
 ## Speaker: Kurt Amundson
 ## Title: Power BI 101
@@ -181,7 +182,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
 #  
 #### SessionID: 25303
 # Government Transparency Powered by SharePoint 2013 and Sql 2012
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 ## Speaker: Steve Schneider
 ## Title: Government Transparency Powered by SharePoint 2013 and Sql 2012
@@ -190,7 +191,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #  
 #### SessionID: 27468
 # Azure Data Services – Real-time Analytics
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Azure
 ## Speaker: Jason Virtue
 ## Title: Azure Data Services – Real-time Analytics
@@ -199,7 +200,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Azure
 #  
 #### SessionID: 9880
 # Access As A Front-end to SQL-Server
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Development
 ## Speaker: Arvin Meyer
 ## Title: Access As A Front-end to SQL-Server
@@ -208,7 +209,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Develo
 #  
 #### SessionID: 14217
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Big Data
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
@@ -217,7 +218,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Big Data
 #  
 #### SessionID: 15909
 # DataViz You Thought You Couldn't Do with SSRS
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 ## Speaker: Jason Thomas
 ## Title: DataViz You Thought You Couldn't Do with SSRS
@@ -226,7 +227,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #  
 #### SessionID: 16390
 # Database Projects: Development and Deploying
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Development
 ## Speaker: Jonathon Moorman
 ## Title: Database Projects: Development and Deploying
@@ -235,7 +236,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Develo
 #  
 #### SessionID: 20039
 # A practical guide to Windows Azure SQL Database for the DBA
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Azure
 ## Speaker: Gareth Swanepoel
 ## Title: A practical guide to Windows Azure SQL Database for the DBA
@@ -245,7 +246,7 @@ If you are a production DBA and have contemplated one or more of these questions
 #  
 #### SessionID: 21588
 # Indexing your Data Warehouse
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting and Performance Tuning
 ## Speaker: Troy Gallant
 ## Title: Indexing your Data Warehouse
@@ -254,7 +255,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting
 #  
 #### SessionID: 9594
 # Turbocharge Your Career With a Learning Plan
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Personal Development
 ## Speaker: Andy Warren
 ## Title: Turbocharge Your Career With a Learning Plan
@@ -265,7 +266,7 @@ Once you’ve picked a topic, how do you learn more about it? Do you read blogs,
 #  
 #### SessionID: 9746
 # So you think MDX is hard?
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 ## Speaker: Robert Cain
 ## Title: So you think MDX is hard?
@@ -275,7 +276,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #  
 #### SessionID: 19007
 # Why I won't hire you and what you can do about it!
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Personal Development
 ## Speaker: Leigh Freijo
 ## Title: Why I won't hire you and what you can do about it!
@@ -284,7 +285,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Personal Development
 #  
 #### SessionID: 20500
 # Calculated Columns, Measures, and KPIs, Oh My!
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
 ## Speaker: Michael Antonovich
 ## Title: Calculated Columns, Measures, and KPIs, Oh My!
@@ -293,7 +294,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
 #  
 #### SessionID: 23158
 # Introduction To R
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Robert Biddle
 ## Title: Introduction To R
@@ -304,7 +305,7 @@ In this session we'll explore the basics of the R language and review some examp
 #  
 #### SessionID: 23397
 # Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Development
 ## Speaker: Rodney Landrum
 ## Title: Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
@@ -313,7 +314,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Develo
 #  
 #### SessionID: 24926
 # Introduction to SQL Server Clustering
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting and Performance Tuning
 ## Speaker: Chad Churchwell
 ## Title: Introduction to SQL Server Clustering
@@ -322,7 +323,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting
 #  
 #### SessionID: 27112
 # Smooth Data Moves
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 ## Speaker: Tricia Reynolds
 ## Title: Smooth Data Moves
@@ -331,7 +332,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #  
 #### SessionID: 28178
 # Analysis Services: Show Me Where It Hurts
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 ## Speaker: Bill Anton
 ## Title: Analysis Services: Show Me Where It Hurts
@@ -342,7 +343,7 @@ Join me in this "something-everyone-should-be-doing-but-isn't" session where we 
 #  
 #### SessionID: 14353
 # Poor Man's GIS using Tabular and Power View
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
 ## Speaker: Fred Stimler
 ## Title: Poor Man's GIS using Tabular and Power View
@@ -351,7 +352,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
 #  
 #### SessionID: 14511
 # Cloudy with a Chance of Data
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Azure
 ## Speaker: Geoff Hiten
 ## Title: Cloudy with a Chance of Data
@@ -360,7 +361,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Azure
 #  
 #### SessionID: 15750
 # Query Tuning - Get it Right the First Time 
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting and Performance Tuning
 ## Speaker: Janis Griffin
 ## Title: Query Tuning - Get it Right the First Time 
@@ -371,7 +372,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting
 #  
 #### SessionID: 16781
 # Launching your career in data management
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Personal Development
 ## Speaker: Jason Hall
 ## Title: Launching your career in data management
@@ -388,7 +389,7 @@ We'll cover some real world basics to help get your foot in the door:
 #  
 #### SessionID: 17212
 # Continuous Delivery for Data Warehouses and Marts
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 ## Speaker: John Welch
 ## Title: Continuous Delivery for Data Warehouses and Marts
@@ -399,7 +400,7 @@ Most data warehouses are in a constant state of flux. There are new requirements
 #  
 #### SessionID: 20425
 # SQL Server 2014 In-Memory Programming
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Development
 ## Speaker: miguel Cebollero
 ## Title: SQL Server 2014 In-Memory Programming
@@ -408,7 +409,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Develo
 #  
 #### SessionID: 24009
 # Tracking Usage of Analysis Services with SharePoint
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 ## Speaker: Sukhmani Bains
 ## Title: Tracking Usage of Analysis Services with SharePoint
@@ -417,7 +418,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #  
 #### SessionID: 11071
 # Troubleshooting Tips 101
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting and Performance Tuning
 ## Speaker: Brandie Tarvin
 ## Title: Troubleshooting Tips 101
@@ -426,7 +427,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting
 #  
 #### SessionID: 14570
 # Using mindmaps - Lightweight documentation for testing
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Florin Ursu
 ## Title: Using mindmaps - Lightweight documentation for testing
@@ -435,7 +436,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 17537
 # Data Factory: Data Integration in the Cloud
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Azure
 ## Speaker: Josh Luedeman
 ## Title: Data Factory: Data Integration in the Cloud
@@ -444,7 +445,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Azure
 #  
 #### SessionID: 17643
 # Monetizing Your Data with Predictive Analytics  
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 ## Speaker: Jason Schuh
 ## Title: Monetizing Your Data with Predictive Analytics  
@@ -453,7 +454,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #  
 #### SessionID: 18655
 # Dashboard Creation with the new Power BI
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
 ## Speaker: Devin Knight
 ## Title: Dashboard Creation with the new Power BI
@@ -462,7 +463,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
 #  
 #### SessionID: 20986
 # SSIS Destination Fast
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 ## Speaker: Michael Mollenhour
 ## Title: SSIS Destination Fast
@@ -471,7 +472,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #  
 #### SessionID: 24825
 # Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 ## Speaker: Wes Springob
 ## Title: Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
@@ -481,7 +482,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #  
 #### SessionID: 36045
 # Inside the Query Optimizer
-#### [Back to calendar](#SQLSaturday-#391-Jacksonville-2015)
+#### [Back to calendar](#nr-391)
 Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting and Performance Tuning
 ## Speaker: Bradley Ball
 ## Title: Inside the Query Optimizer

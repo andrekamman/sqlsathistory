@@ -1,3 +1,4 @@
+#### Nr: 661
 #### [Back to Main list](index.md)
 # SQLSaturday #661 - San Diego 2017
 Start Time (24h)|Speaker|Track|Title
@@ -47,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 64957
 # SQL Injections and How to Stop Them
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Jeff Prom
 ## Title: SQL Injections and How to Stop Them
@@ -60,7 +61,7 @@ Attend this session to learn how SQL injections work, identify if you are being 
 #  
 #### SessionID: 65246
 # JSON and the Astronauts
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Peter Kral
 ## Title: JSON and the Astronauts
@@ -72,7 +73,7 @@ You should have experience writing queries in T-SQL. No previous knowledge of JS
 #  
 #### SessionID: 66580
 # The Ins and Outs of SQL Indexes
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: The Ins and Outs of SQL Indexes
@@ -81,7 +82,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 67365
 # Processing Big Data with Azure Data Lake Analytics
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sean Forgatch
 ## Title: Processing Big Data with Azure Data Lake Analytics
@@ -90,7 +91,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68430
 # Why should I care about ... the plan cache?
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
@@ -101,7 +102,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #  
 #### SessionID: 68743
 # How to Maintain the Same Level of Utilities in Cloud Deployments - Securability, Reliability and Sca
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Denny Cherry
 ## Title: How to Maintain the Same Level of Utilities in Cloud Deployments - Securability, Reliability and Sca
@@ -110,7 +111,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69242
 # Cloud 9 on AWS
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kim Schmidt
 ## Title: Cloud 9 on AWS
@@ -128,7 +129,7 @@ Learn how to benefit!
 #  
 #### SessionID: 69296
 # AlwaysOn from the Front Lines
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sitotpal Sarkar
 ## Title: AlwaysOn from the Front Lines
@@ -139,7 +140,7 @@ Beginners as well as experts will learn from my experience with AlwaysOn. Don't 
 #  
 #### SessionID: 64880
 # The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
@@ -152,7 +153,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65247
 # SSIS Project Deployment: The T-SQL Way
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Kral
 ## Title: SSIS Project Deployment: The T-SQL Way
@@ -165,7 +166,7 @@ You should have previous experience with SQL Server Integration Services (SSIS) 
 #  
 #### SessionID: 66216
 # A Masters Passport to Extended Events
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: A Masters Passport to Extended Events
@@ -179,7 +180,7 @@ You will be exposed to advanced troubleshooting techniques as we work through co
 #  
 #### SessionID: 66576
 # Fun with SQL Server Spatial Data
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: Fun with SQL Server Spatial Data
@@ -188,7 +189,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 66637
 # SQL Server Containers and Clones
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Stanton
 ## Title: SQL Server Containers and Clones
@@ -199,7 +200,7 @@ Microsoft is emphasizing the use of containers for development and test on SQL S
 #  
 #### SessionID: 68826
 # Tuning SQL Server Transactional Replication
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Ou Yang
 ## Title: Tuning SQL Server Transactional Replication
@@ -208,7 +209,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68956
 # 45 Minutes to Your First SSAS Tabular Model
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First SSAS Tabular Model
@@ -218,7 +219,7 @@ SSAS Tabular is a new-ish form of business intelligence model released with SQL 
 #  
 #### SessionID: 68973
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -227,7 +228,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 69243
 # Self-driving Solutions on AWS
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kim Schmidt
 ## Title: Self-driving Solutions on AWS
@@ -239,7 +240,7 @@ Botmetric is an intelligent cloud management solution for AWS to simplify the wo
 #  
 #### SessionID: 64648
 # From Zero to Hero:  The New Powershell DBA
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Nakamura
 ## Title: From Zero to Hero:  The New Powershell DBA
@@ -252,7 +253,7 @@ Come and join me for a momentous session of PowerShell and SQL, full of demos an
 #  
 #### SessionID: 64975
 # Do More Than Just Talk
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Lori Edwards
 ## Title: Do More Than Just Talk
@@ -261,7 +262,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 65288
 # Outsourcing database administration to your users.
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stephen Mokszycki
 ## Title: Outsourcing database administration to your users.
@@ -272,7 +273,7 @@ There will be a demo!
 #  
 #### SessionID: 66217
 # Bare Naked Skinny on SQL Server
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Bare Naked Skinny on SQL Server
@@ -285,7 +286,7 @@ In this session I will disrobe misunderstandings related to the aforementioned t
 #  
 #### SessionID: 67265
 # Dive into the Query Optimizer - Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer - Undocumented Insight
@@ -294,7 +295,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 68433
 # Weird stuff I saw ... while supporting a Java team
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Weird stuff I saw ... while supporting a Java team
@@ -303,7 +304,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 68957
 # Managing Your Schema with Database Projects in Visual Studio
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Kerry Tyler
 ## Title: Managing Your Schema with Database Projects in Visual Studio
@@ -312,7 +313,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 69533
 # Diagnosing SQL Amnesia: Where is Your Memory Going?
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jonathan Kehayias
 ## Title: Diagnosing SQL Amnesia: Where is Your Memory Going?
@@ -328,7 +329,7 @@ tackle even the most challenging memory problems.
 #  
 #### SessionID: 64973
 # DBA 101 – Let’s Get It Started
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lori Edwards
 ## Title: DBA 101 – Let’s Get It Started
@@ -337,7 +338,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65016
 # End-to-End Troubleshooting Checklist for SQL Server
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Kline
 ## Title: End-to-End Troubleshooting Checklist for SQL Server
@@ -355,7 +356,7 @@ Every DBA needs to know how to keep their SQL Server in tip-top condition, and y
 #  
 #### SessionID: 66476
 # SQL server on containers – Part 1
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: SQL server on containers – Part 1
@@ -368,7 +369,7 @@ This introductory session will help seasoned SQL Server DBA/Developers understan
 #  
 #### SessionID: 67267
 # Understanding Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
@@ -377,7 +378,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 68655
 # More than introduction to SQL Server Reporting Services aka SSRS
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Rezhener
 ## Title: More than introduction to SQL Server Reporting Services aka SSRS
@@ -386,7 +387,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68692
 # Changing Your Habits to Improve the Performance of Your T-SQL
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mickey Stuewe
 ## Title: Changing Your Habits to Improve the Performance of Your T-SQL
@@ -395,7 +396,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 68976
 # Understanding the SQL Server Transaction Log
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Randy Knight
 ## Title: Understanding the SQL Server Transaction Log
@@ -404,7 +405,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69294
 # SQL Server 2016 and R Service introduction
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Peixin Wang
 ## Title: SQL Server 2016 and R Service introduction
@@ -414,7 +415,7 @@ One of the biggest changes in SQL Server 2016 on the analytics front is the incl
 #  
 #### SessionID: 69495
 # Building Your Way to Better Database Testing
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Phil Helmer
 ## Title: Building Your Way to Better Database Testing
@@ -423,7 +424,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 64980
 # SQL Server in Azure, One Year In
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sergio Pacheco
 ## Title: SQL Server in Azure, One Year In
@@ -432,7 +433,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65018
 # How to be the Most Important IT Person in the Room: Why Data Experts Own the Future
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Kevin Kline
 ## Title: How to be the Most Important IT Person in the Room: Why Data Experts Own the Future
@@ -441,7 +442,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 66477
 # SQL server on containers – Part 2
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: SQL server on containers – Part 2
@@ -456,7 +457,7 @@ This session is designed for seasoned SQL Server DBA  Developers
 #  
 #### SessionID: 66710
 # Building a Dashboard in an Hour using Power BI
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Vazi Okhandiar
 ## Title: Building a Dashboard in an Hour using Power BI
@@ -465,7 +466,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 68656
 # New features of SSIS 2016
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Rezhener
 ## Title: New features of SSIS 2016
@@ -474,7 +475,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68681
 # Better Report Management and Development Techniques
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ted Stathakis
 ## Title: Better Report Management and Development Techniques
@@ -485,7 +486,7 @@ The session will conclude with a look at how you can have a custom report footer
 #  
 #### SessionID: 68994
 # How I Met Your SQL Server
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ben Aminnia
 ## Title: How I Met Your SQL Server
@@ -497,7 +498,7 @@ Have you always upgraded to every new version of SQL Server?
 #  
 #### SessionID: 69295
 # Concurrency in SQL Server - a.k.a. What to do when your database has more than 1 user
-#### [Back to calendar](#SQLSaturday-#661-San-Diego-2017)
+#### [Back to calendar](#nr-661)
 Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Thomas Hull
 ## Title: Concurrency in SQL Server - a.k.a. What to do when your database has more than 1 user

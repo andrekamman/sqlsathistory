@@ -1,3 +1,4 @@
+#### Nr: 93
 #### [Back to Main list](index.md)
 # SQLSaturday #93 - Toronto 2011
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28984
 # Build a Scale-Out Reporting Services 2008 R2 Farm
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Edwin Sarmiento
 ## Title: Build a Scale-Out Reporting Services 2008 R2 Farm
@@ -38,7 +39,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 28986
 # Database Recovery Techniques To Keep Handy
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Edwin Sarmiento
 ## Title: Database Recovery Techniques To Keep Handy
@@ -47,7 +48,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 28988
 # Gone Clustering in 60 Minutes
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Edwin Sarmiento
 ## Title: Gone Clustering in 60 Minutes
@@ -56,7 +57,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 29517
 # CAMP Geekalot for DBAs
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Expanded Horizons
 ## Speaker: Chris Skorlinski
 ## Title: CAMP Geekalot for DBAs
@@ -65,7 +66,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Expanded Horizons
 #  
 #### SessionID: 29518
 # Transactional Replication – Follow the Data
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Chris Skorlinski
 ## Title: Transactional Replication – Follow the Data
@@ -74,7 +75,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 29519
 # How to get Hired in the first 10 minutes  
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Expanded Horizons
 ## Speaker: Chris Skorlinski
 ## Title: How to get Hired in the first 10 minutes  
@@ -83,7 +84,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Expanded Horizons
 #  
 #### SessionID: 29531
 # Implement data validation strategies with SSIS
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Christian Cote
 ## Title: Implement data validation strategies with SSIS
@@ -92,7 +93,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 29532
 # Manage your database with VS2010 Db Dev tools
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Christian Cote
 ## Title: Manage your database with VS2010 Db Dev tools
@@ -101,7 +102,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 30377
 # There Is a Better Way to Back Up Your SQL Servers 
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Islam Gomaa
 ## Title: There Is a Better Way to Back Up Your SQL Servers 
@@ -114,7 +115,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 30445
 # Don't Panic, DBAs! Databases on VMware made easy.
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Expanded Horizons
 ## Speaker: Janis Griffin
 ## Title: Don't Panic, DBAs! Databases on VMware made easy.
@@ -123,7 +124,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Expanded Horizons
 #  
 #### SessionID: 30446
 # Looney Tuner? No, there IS a method to my madness!
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Janis Griffin
 ## Title: Looney Tuner? No, there IS a method to my madness!
@@ -132,7 +133,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 31065
 # XML in SQL Server.  Why bother? 
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Expanded Horizons
 ## Speaker: Jean Rene Roy
 ## Title: XML in SQL Server.  Why bother? 
@@ -142,7 +143,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Expanded Horizons
 #  
 #### SessionID: 31069
 # What is MS  Sync. Framework
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Expanded Horizons
 ## Speaker: Jean Rene Roy
 ## Title: What is MS  Sync. Framework
@@ -152,7 +153,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Expanded Horizons
 #  
 #### SessionID: 31765
 # Architecting Microsoft SQL Server Availability in 
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Michael Lato
 ## Title: Architecting Microsoft SQL Server Availability in 
@@ -161,7 +162,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 31766
 # Discovering the Delta: SQL Server to SQL Azure
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Michael Lato
 ## Title: Discovering the Delta: SQL Server to SQL Azure
@@ -170,7 +171,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 31935
 # Obliterate Excessive Blocking and Deadlocking
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Michael Swart
 ## Title: Obliterate Excessive Blocking and Deadlocking
@@ -179,7 +180,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 32673
 # Streamline development with VS build contributors
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Robert Schoedel
 ## Title: Streamline development with VS build contributors
@@ -188,7 +189,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 32674
 # Seven solutions for highly expensive queries
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Robert Schoedel
 ## Title: Seven solutions for highly expensive queries
@@ -197,7 +198,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 32806
 # SSIS for the faint of heart 
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Scott Stauffer
 ## Title: SSIS for the faint of heart 
@@ -206,7 +207,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 32867
 # Manage Your Legacy Applications with Windows Power
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Expanded Horizons
 ## Speaker: Sean Kearney
 ## Title: Manage Your Legacy Applications with Windows Power
@@ -216,7 +217,7 @@ This session is intended shatter the myth that using Poweshell means trashing th
 #  
 #### SessionID: 33833
 # Exploring SSAS data folder 
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Vidas Matelis
 ## Title: Exploring SSAS data folder 
@@ -225,7 +226,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 34678
 # Query Plans
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: John Huang
 ## Title: Query Plans
@@ -234,7 +235,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 34680
 # Multi-threading TSQL
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: John Huang
 ## Title: Multi-threading TSQL
@@ -243,7 +244,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 34681
 # Indexes and Data Access
-#### [Back to calendar](#SQLSaturday-#93-Toronto-2011)
+#### [Back to calendar](#nr-93)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: John Huang
 ## Title: Indexes and Data Access

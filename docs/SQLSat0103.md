@@ -1,3 +1,4 @@
+#### Nr: 103
 #### [Back to Main list](index.md)
 # SQLSaturday #103 - Curacao 2012
 Start Time (24h)|Speaker|Track|Title
@@ -17,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 23482
 # What, When and Who - Auditing 101
-#### [Back to calendar](#SQLSaturday-#103-Curacao-2012)
+#### [Back to calendar](#nr-103)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: DBA Tracks
 ## Speaker: Roy Ernest
 ## Title: What, When and Who - Auditing 101
@@ -26,7 +27,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: DBA Tracks
 #  
 #### SessionID: 26676
 # Getting involved and Getting ahead
-#### [Back to calendar](#SQLSaturday-#103-Curacao-2012)
+#### [Back to calendar](#nr-103)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: DBA Tracks
 ## Speaker: Tim Radney
 ## Title: Getting involved and Getting ahead
@@ -35,7 +36,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: DBA Tracks
 #  
 #### SessionID: 27843
 # Serene Velocity:  Reporting Services and SSAS 2008
-#### [Back to calendar](#SQLSaturday-#103-Curacao-2012)
+#### [Back to calendar](#nr-103)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: BI and T-SQL tracks
 ## Speaker: William E Pearson III
 ## Title: Serene Velocity:  Reporting Services and SSAS 2008
@@ -44,7 +45,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: BI and T-SQL tracks
 #  
 #### SessionID: 32522
 # SQL Server 2008 Policy-Based Management (PBM)
-#### [Back to calendar](#SQLSaturday-#103-Curacao-2012)
+#### [Back to calendar](#nr-103)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: DBA Tracks
 ## Speaker: Rohan Joackhim
 ## Title: SQL Server 2008 Policy-Based Management (PBM)
@@ -53,7 +54,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: DBA Tracks
 #  
 #### SessionID: 32564
 # Revenge: The SQL Part 2: The Sequel!
-#### [Back to calendar](#SQLSaturday-#103-Curacao-2012)
+#### [Back to calendar](#nr-103)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: BI and T-SQL tracks
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL Part 2: The Sequel!
@@ -62,7 +63,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: BI and T-SQL tracks
 #  
 #### SessionID: 32565
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#103-Curacao-2012)
+#### [Back to calendar](#nr-103)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: BI and T-SQL tracks
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -71,7 +72,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: BI and T-SQL tracks
 #  
 #### SessionID: 32567
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#103-Curacao-2012)
+#### [Back to calendar](#nr-103)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: BI and T-SQL tracks
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -80,7 +81,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: BI and T-SQL tracks
 #  
 #### SessionID: 32668
 # What when and why - Resource Governor
-#### [Back to calendar](#SQLSaturday-#103-Curacao-2012)
+#### [Back to calendar](#nr-103)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: DBA Tracks
 ## Speaker: Roy Ernest
 ## Title: What when and why - Resource Governor
@@ -90,7 +91,7 @@ We will look in depth the three basic fundamentals to the resource governor: Res
 #  
 #### SessionID: 33614
 # You Inherited a Database, Now What?
-#### [Back to calendar](#SQLSaturday-#103-Curacao-2012)
+#### [Back to calendar](#nr-103)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: DBA Tracks
 ## Speaker: Tim Radney
 ## Title: You Inherited a Database, Now What?
@@ -99,7 +100,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: DBA Tracks
 #  
 #### SessionID: 33615
 # It is TEMPDB, Why Should You Care?
-#### [Back to calendar](#SQLSaturday-#103-Curacao-2012)
+#### [Back to calendar](#nr-103)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: DBA Tracks
 ## Speaker: Tim Radney
 ## Title: It is TEMPDB, Why Should You Care?
@@ -108,7 +109,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: DBA Tracks
 #  
 #### SessionID: 34368
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#103-Curacao-2012)
+#### [Back to calendar](#nr-103)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: BI and T-SQL tracks
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -118,7 +119,7 @@ Event Date: 25-02-2012 - Session time: 00:00:00 - Track: BI and T-SQL tracks
 #  
 #### SessionID: 34370
 # PowerPivot for Excel 2010
-#### [Back to calendar](#SQLSaturday-#103-Curacao-2012)
+#### [Back to calendar](#nr-103)
 Event Date: 25-02-2012 - Session time: 00:00:00 - Track: BI and T-SQL tracks
 ## Speaker: William E Pearson III
 ## Title: PowerPivot for Excel 2010

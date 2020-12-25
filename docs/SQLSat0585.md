@@ -1,3 +1,4 @@
+#### Nr: 585
 #### [Back to Main list](index.md)
 # SQLSaturday #585 - Boston 2017
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 54723
 # SQL Server Reporting Services 2016 on Steroids!!
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2016 on Steroids!!
@@ -40,7 +41,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #  
 #### SessionID: 54733
 # How to rearchitect for Azure SQL database from on-premises SQL Server - Case Study
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: George Walters
 ## Title: How to rearchitect for Azure SQL database from on-premises SQL Server - Case Study
@@ -49,7 +50,7 @@ Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 56273
 # Optimizing the SQL Server and Databases for large Fact Tables
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: Optimizing the SQL Server and Databases for large Fact Tables
@@ -60,7 +61,7 @@ We will also as a side effect explore the Mary Go Round query feature.
 #  
 #### SessionID: 57002
 # An Introduction to Jupyter Notebooks:  The Hottest New Analytics
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: Bryan Cafferky
 ## Title: An Introduction to Jupyter Notebooks:  The Hottest New Analytics
@@ -69,7 +70,7 @@ Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 55115
 # Architecting Availability Groups
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Derik Hammer
 ## Title: Architecting Availability Groups
@@ -78,7 +79,7 @@ Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 57030
 # Learn On-premises BI: SSRS 2016 and Power BI
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: Sunil Kadimdiwan
 ## Title: Learn On-premises BI: SSRS 2016 and Power BI
@@ -89,7 +90,7 @@ In this session I will give you a tour of enhancements in SSRS 2016 including KP
 #  
 #### SessionID: 57129
 # Intro to Azure SQL Databases
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Michael Fal
 ## Title: Intro to Azure SQL Databases
@@ -98,7 +99,7 @@ Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 58137
 # T-SQL : Bad Habits and Best Practices
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits and Best Practices
@@ -111,7 +112,7 @@ By changing your techniques and ditching some of these bad habits for best pract
 #  
 #### SessionID: 54812
 # Dynamic SQL: Writing Efficient Queries on the Fly
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Edward Pollack
 ## Title: Dynamic SQL: Writing Efficient Queries on the Fly
@@ -122,7 +123,7 @@ Explore the many uses for dynamic SQL as well as best practices for writing, tes
 #  
 #### SessionID: 56490
 # A Good DBA Works Smarter not Harder
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Walsh
 ## Title: A Good DBA Works Smarter not Harder
@@ -135,7 +136,7 @@ In this session we are going to be interactive, we are going to talk about point
 #  
 #### SessionID: 58116
 # Who Am I? Identity Management in Azure
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Joseph D'Antoni
 ## Title: Who Am I? Identity Management in Azure
@@ -144,7 +145,7 @@ Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 58156
 # Designing an SSIS Framework
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Designing an SSIS Framework
@@ -158,7 +159,7 @@ In this session, you will learn:
 #  
 #### SessionID: 55016
 # WIT: Identifying, Understanding and Combating Gender Bias  Inequality
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: WIT: Identifying, Understanding and Combating Gender Bias  Inequality
@@ -167,7 +168,7 @@ Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Professional Developmen
 #  
 #### SessionID: 56633
 # No Schema, No Problem! – Introduction to Azure DocumentDB
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Leonard Lobel
 ## Title: No Schema, No Problem! – Introduction to Azure DocumentDB
@@ -178,7 +179,7 @@ We begin by explaining NoSQL and document databases, and how they compare with t
 #  
 #### SessionID: 56987
 # Dealing with Data Quality Issues in an SSIS Data Flow
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jack Corbett
 ## Title: Dealing with Data Quality Issues in an SSIS Data Flow
@@ -187,7 +188,7 @@ Event Date: 25-02-2017 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 58111
 # The SQL Server v.Next Availability Story on Linux
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allan Hirt
 ## Title: The SQL Server v.Next Availability Story on Linux
@@ -196,7 +197,7 @@ Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54794
 # Should I move my database to the cloud?
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: James Serra
 ## Title: Should I move my database to the cloud?
@@ -205,7 +206,7 @@ Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 57136
 # Get-Session "Powershell 101"
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Warren Estes
 ## Title: Get-Session "Powershell 101"
@@ -214,7 +215,7 @@ Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 57739
 # SQLCmd Mode - The T-SQL Easy Button
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Robert Davis
 ## Title: SQLCmd Mode - The T-SQL Easy Button
@@ -227,7 +228,7 @@ This demo-heavy session will teach you how to leverage new capabilities that hav
 #  
 #### SessionID: 57777
 # SQL Server Infrastructure – Cloud and On-Prem Options
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: SQL Server Infrastructure – Cloud and On-Prem Options
@@ -238,7 +239,7 @@ Physical servers, enterprise virtualization, and cloud servers all provide solid
 #  
 #### SessionID: 55100
 # Big Data 101
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paresh Motiwala
 ## Title: Big Data 101
@@ -255,7 +256,7 @@ Time permitting, We will then conclude with introduction to data exploration and
 #  
 #### SessionID: 56966
 # SQL Server High Availability in Azure IaaS
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Bermingham
 ## Title: SQL Server High Availability in Azure IaaS
@@ -268,7 +269,7 @@ In this session attendees will learn how to leverage ARM to deploy SQL AlwaysOn 
 #  
 #### SessionID: 57452
 # Read Dirty to Me - Isolation Levels/User Impact
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Wendy Pastrick
 ## Title: Read Dirty to Me - Isolation Levels/User Impact
@@ -277,7 +278,7 @@ Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 57806
 # Execution Plans: What Can You Do With Them?
-#### [Back to calendar](#SQLSaturday-#585-Boston-2017)
+#### [Back to calendar](#nr-585)
 Event Date: 25-02-2017 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Execution Plans: What Can You Do With Them?

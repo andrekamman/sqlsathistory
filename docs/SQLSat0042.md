@@ -1,3 +1,4 @@
+#### Nr: 42
 #### [Back to Main list](index.md)
 # SQLSaturday #42 - Columbus 2010
 Start Time (24h)|Speaker|Track|Title
@@ -26,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28367
 # Comparing Clustering Methods for SQL Server 
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Alexander Prusakov
 ## Title: Comparing Clustering Methods for SQL Server 
@@ -35,7 +36,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 28894
 # Gather SQL Server Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Allen White
 ## Title: Gather SQL Server Performance Data with PowerShell
@@ -44,7 +45,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 28895
 # XQuery Basics
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Allen White
 ## Title: XQuery Basics
@@ -53,7 +54,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29220
 # Hey Ma, Watch This: Useless and Dangerous Tricks
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Brent Ozar
 ## Title: Hey Ma, Watch This: Useless and Dangerous Tricks
@@ -62,7 +63,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29221
 # Performance Tuning for Race Car Drivers
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Brent Ozar
 ## Title: Performance Tuning for Race Car Drivers
@@ -73,7 +74,7 @@ In this session, Brent will show you why Colin Chapman and Enzo Ferrari would ha
 #  
 #### SessionID: 29990
 # Factors for Successful Business Intelligence
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dave Rodabaugh
 ## Title: Factors for Successful Business Intelligence
@@ -82,7 +83,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29991
 # Star Schema Modeling Keys for Successful SSAS
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dave Rodabaugh
 ## Title: Star Schema Modeling Keys for Successful SSAS
@@ -91,7 +92,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29992
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -100,7 +101,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29993
 # Database Design Patterns 
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Louis Davidson
 ## Title: Database Design Patterns 
@@ -109,7 +110,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30749
 # A Dynamic World Demands Dynamic SQL
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jeremiah Peschka
 ## Title: A Dynamic World Demands Dynamic SQL
@@ -118,7 +119,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30750
 # Indexes and Other Free Performance Boosts
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jeremiah Peschka
 ## Title: Indexes and Other Free Performance Boosts
@@ -127,7 +128,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30809
 # Building a functional Data Mart with SSIS
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Josh Fennessy
 ## Title: Building a functional Data Mart with SSIS
@@ -136,7 +137,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31726
 # Keynote
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Matt Hester
 ## Title: Keynote
@@ -145,7 +146,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32204
 # DMVs- What are they and why should a DBA care? 
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Paul Hiles
 ## Title: DMVs- What are they and why should a DBA care? 
@@ -154,7 +155,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32756
 # Programming with FileStream Object
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Sam Nasr
 ## Title: Programming with FileStream Object
@@ -163,7 +164,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32994
 # Avoid Slow SSAS Queries: MDX Query Troubleshooting
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Craig Utley
 ## Title: Avoid Slow SSAS Queries: MDX Query Troubleshooting
@@ -172,7 +173,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32996
 # Do It Right: Best Practices for Analysis Services
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Craig Utley
 ## Title: Do It Right: Best Practices for Analysis Services
@@ -181,7 +182,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32997
 # PowerPivot: Delivering Self-Serve BI
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Craig Utley
 ## Title: PowerPivot: Delivering Self-Serve BI
@@ -190,7 +191,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 33513
 # Advanced TSQL Solutions 
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Boles
 ## Title: Advanced TSQL Solutions 
@@ -199,7 +200,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33514
 # Common TSQL Programming Mistakes 
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Programming Mistakes 
@@ -208,7 +209,7 @@ Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33657
 # Disaster Recovery for your SQL Environment
-#### [Back to calendar](#SQLSaturday-#42-Columbus-2010)
+#### [Back to calendar](#nr-42)
 Event Date: 26-06-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Tim  Beamer
 ## Title: Disaster Recovery for your SQL Environment

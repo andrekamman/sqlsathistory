@@ -1,3 +1,4 @@
+#### Nr: 145
 #### [Back to Main list](index.md)
 # SQLSaturday #145 - Nashville 2012
 Start Time (24h)|Speaker|Track|Title
@@ -41,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10477
 # BI in the Cloud
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions 2
 ## Speaker: David Liebman
 ## Title: BI in the Cloud
@@ -50,7 +51,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions 2
 #  
 #### SessionID: 12113
 # Why BI Projects Fail--And What You Can Do About It
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Craig Utley
 ## Title: Why BI Projects Fail--And What You Can Do About It
@@ -59,7 +60,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 12124
 # What's new in BI for SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Daniel Evans
 ## Title: What's new in BI for SQL Server 2012
@@ -68,7 +69,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 12567
 # Virtualizing Business Critical SQL Servers
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: David Klee
 ## Title: Virtualizing Business Critical SQL Servers
@@ -77,7 +78,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 13456
 # Quiz Bowl
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions 2
 ## Speaker: Louis Davidson
 ## Title: Quiz Bowl
@@ -86,7 +87,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions 2
 #  
 #### SessionID: 14064
 # TempDB Performance Troubleshooting and Optimizing
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Performance Troubleshooting and Optimizing
@@ -95,7 +96,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 14491
 # Bad SQL
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions
 ## Speaker: Geoff Hiten
 ## Title: Bad SQL
@@ -104,7 +105,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions
 #  
 #### SessionID: 14675
 # Hardware 301: Diving Deeper into Database Hardware
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions
 ## Speaker: Glenn Berry
 ## Title: Hardware 301: Diving Deeper into Database Hardware
@@ -113,7 +114,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions
 #  
 #### SessionID: 15513
 # Custom SQL Server Transaction Log Shipping
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: J.D. Pellerin
 ## Title: Custom SQL Server Transaction Log Shipping
@@ -128,7 +129,7 @@ c)  Using custom database transaction log shipping also allows more control over
 #  
 #### SessionID: 15949
 # Extended Events, Work Smarter Not Harder
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions
 ## Speaker: Jason Strate
 ## Title: Extended Events, Work Smarter Not Harder
@@ -137,7 +138,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions
 #  
 #### SessionID: 16078
 # T-SQL: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Application Development
 ## Speaker: Jon Boulineau
 ## Title: T-SQL: Beyond the Basics
@@ -146,7 +147,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Application Development
 #  
 #### SessionID: 16188
 # You Wouldn't Let HR Manage Your DBs...
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Professional Development And More
 ## Speaker: Joseph D'Antoni
 ## Title: You Wouldn't Let HR Manage Your DBs...
@@ -155,7 +156,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 16295
 # Rewriting bad T-SQL Code
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Application Development
 ## Speaker: Jeffrey Garbus
 ## Title: Rewriting bad T-SQL Code
@@ -164,7 +165,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Application Development
 #  
 #### SessionID: 16712
 # New Models!  An Introduction to Tabular Mode SSAS
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Professional Development And More
 ## Speaker: Josh Fennessy
 ## Title: New Models!  An Introduction to Tabular Mode SSAS
@@ -173,7 +174,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 17133
 # Professional Development
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Professional Development And More
 ## Speaker: Joe Webb
 ## Title: Professional Development
@@ -184,7 +185,7 @@ In this session, you'll learn how to provide effective feedback to your peers an
 #  
 #### SessionID: 17326
 # Adventures in Project Management
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Professional Development And More
 ## Speaker: Jonathan Gardner
 ## Title: Adventures in Project Management
@@ -198,7 +199,7 @@ At the end of the session attendees will be armed with the knowledge necessary t
 #  
 #### SessionID: 17822
 # Beginners guide to Table Expressions
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Professional Development And More
 ## Speaker: Joe Murphree
 ## Title: Beginners guide to Table Expressions
@@ -214,7 +215,7 @@ What you will learn:
 #  
 #### SessionID: 17908
 # Database Design Throwdown
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions
 ## Speaker: Karen Lopez
 ## Title: Database Design Throwdown
@@ -229,7 +230,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions
 #  
 #### SessionID: 18397
 # SQL Server 2012 T-SQL
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions
 ## Speaker: Kathi Kellenberger
 ## Title: SQL Server 2012 T-SQL
@@ -239,7 +240,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions
 #  
 #### SessionID: 18535
 # Virtualizing SQL Server with Windows Server 2012 a
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions 2
 ## Speaker: Keith Mayer
 ## Title: Virtualizing SQL Server with Windows Server 2012 a
@@ -248,7 +249,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions 2
 #  
 #### SessionID: 19619
 # I Shoulda Taken That Left Turn at Albuquerque...
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Professional Development And More
 ## Speaker: Mark Swofford
 ## Title: I Shoulda Taken That Left Turn at Albuquerque...
@@ -260,7 +261,7 @@ Organization, planning, and having a roadmap to where you are going will be cruc
 #  
 #### SessionID: 20024
 # The Fangorn Forest - ColumnStore Indexes
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Gareth Swanepoel
 ## Title: The Fangorn Forest - ColumnStore Indexes
@@ -269,7 +270,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 20111
 # Slowly changing dimensions- an integrated approach
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions 2
 ## Speaker: Mark Stacey
 ## Title: Slowly changing dimensions- an integrated approach
@@ -279,7 +280,7 @@ In this session, Mark will review the types of slowly changing dimensions, descr
 #  
 #### SessionID: 21048
 # TBA - Introductory SQL Session
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Application Development
 ## Speaker: Denny Cherry
 ## Title: TBA - Introductory SQL Session
@@ -288,7 +289,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Application Development
 #  
 #### SessionID: 22351
 # Taking the Scary out of Monster Reports
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Pam Shaw
 ## Title: Taking the Scary out of Monster Reports
@@ -298,7 +299,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 23017
 # Do SQL XML queries have to scare me?
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Application Development
 ## Speaker: Rick  Morelan
 ## Title: Do SQL XML queries have to scare me?
@@ -307,7 +308,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Application Development
 #  
 #### SessionID: 23314
 # Revenge: The SQL Part 2: The Sequel!
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Application Development
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL Part 2: The Sequel!
@@ -316,7 +317,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Application Development
 #  
 #### SessionID: 23949
 # Parameter sniffing - make it work for you !
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Application Development
 ## Speaker: Sanil Mhatre
 ## Title: Parameter sniffing - make it work for you !
@@ -327,7 +328,7 @@ In this session we will discuss the workings of Parameter Sniffing and demonstra
 #  
 #### SessionID: 23975
 # Bulletproof: Hardening your SQL Server from Attack
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Sarah Barela
 ## Title: Bulletproof: Hardening your SQL Server from Attack
@@ -336,7 +337,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 26279
 # Indexing Deep Dive
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Kevin Boles
 ## Title: Indexing Deep Dive
@@ -345,7 +346,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 26854
 # The Periodic Table of Dynamic Management Objects
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions 2
 ## Speaker: Tim Ford
 ## Title: The Periodic Table of Dynamic Management Objects
@@ -354,7 +355,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions 2
 #  
 #### SessionID: 27673
 # Deeper into Tabular Models - M-to-M and the "W"
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions 2
 ## Speaker: Wayne Snyder
 ## Title: Deeper into Tabular Models - M-to-M and the "W"
@@ -363,7 +364,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions 2
 #  
 #### SessionID: 27901
 # Bridging the Chasm: BI Theory vs. Practice
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: William E Pearson III
 ## Title: Bridging the Chasm: BI Theory vs. Practice
@@ -372,7 +373,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 8984
 # SQL Server 2012 AlwaysOn Readable Secondaries
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Adam Belebczuk
 ## Title: SQL Server 2012 AlwaysOn Readable Secondaries
@@ -381,7 +382,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 9698
 # The Decoder Ring for Data Warehousing / BI
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Robert Cain
 ## Title: The Decoder Ring for Data Warehousing / BI
@@ -390,7 +391,7 @@ Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 9997
 # Gather SQL Server Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#145-Nashville-2012)
+#### [Back to calendar](#nr-145)
 Event Date: 13-10-2012 - Session time: 00:00:00 - Track: Mixed Sessions
 ## Speaker: Allen White
 ## Title: Gather SQL Server Performance Data with PowerShell

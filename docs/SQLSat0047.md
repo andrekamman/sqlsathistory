@@ -1,3 +1,4 @@
+#### Nr: 47
 #### [Back to Main list](index.md)
 # SQLSaturday #47 - Phoenix 2011
 Start Time (24h)|Speaker|Track|Title
@@ -34,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28645
 # First Flight: Taking off with Analysis Services
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Amy Lewis
 ## Title: First Flight: Taking off with Analysis Services
@@ -48,7 +49,7 @@ to create some ad-hoc reports.
 #  
 #### SessionID: 28646
 # First Flight: Earn your ETL wings with SSIS
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Amy Lewis
 ## Title: First Flight: Earn your ETL wings with SSIS
@@ -59,7 +60,7 @@ loading, package configurations, package variables, error and event handling, an
 #  
 #### SessionID: 29048
 # SQL Server Data Collection Strategies
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Bill Ramos
 ## Title: SQL Server Data Collection Strategies
@@ -68,7 +69,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29049
 # The Making of the SQL Server Denali Always On Dash
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bill Ramos
 ## Title: The Making of the SQL Server Denali Always On Dash
@@ -77,7 +78,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29583
 # Backup Basics  - Knowing your Options and When to 
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Meredith Ryan-Smith
 ## Title: Backup Basics  - Knowing your Options and When to 
@@ -86,7 +87,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29586
 # Powershell for the DBA
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Colin Smith
 ## Title: Powershell for the DBA
@@ -95,7 +96,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29893
 # DBA as Protector of the Data: Notes from the Field
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Denise McInerney
 ## Title: DBA as Protector of the Data: Notes from the Field
@@ -104,7 +105,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30191
 # Using Confio Ignite 8 for Production Failures
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dale Cunningham
 ## Title: Using Confio Ignite 8 for Production Failures
@@ -113,7 +114,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30395
 # (SSIS, TSQL and MDS) - Record Linkage(Fuzzy Matchi
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Ira Warren
 ## Title: (SSIS, TSQL and MDS) - Record Linkage(Fuzzy Matchi
@@ -122,7 +123,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 30396
 # Creating a Metadata Mart w/ SSIS - Data Governance
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ira Warren
 ## Title: Creating a Metadata Mart w/ SSIS - Data Governance
@@ -131,7 +132,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30423
 # Tuna Helper - Proven Process for Tuning SQL
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Janis Griffin
 ## Title: Tuna Helper - Proven Process for Tuning SQL
@@ -140,7 +141,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30425
 # Performance Management – 2008 MDW - How  Why
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Janis Griffin
 ## Title: Performance Management – 2008 MDW - How  Why
@@ -149,7 +150,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31007
 # TSQL Fun - Avoiding cursors
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jonathan Atkins
 ## Title: TSQL Fun - Avoiding cursors
@@ -162,7 +163,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31061
 # Empowering End Users with Report Models
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: John Racer
 ## Title: Empowering End Users with Report Models
@@ -173,7 +174,7 @@ In this session we will discuss concepts of the Report Model including Entities,
 #  
 #### SessionID: 31062
 # Where Are My Reports? Managing Reporting Services
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: John Racer
 ## Title: Where Are My Reports? Managing Reporting Services
@@ -185,7 +186,7 @@ In this session we will cover common scenarios for monitoring reporting services
 #  
 #### SessionID: 31768
 # Database Development using Visual Studio
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Michael Collins
 ## Title: Database Development using Visual Studio
@@ -194,7 +195,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31769
 # Introduction to Microsoft SQL Azure
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Michael Collins
 ## Title: Introduction to Microsoft SQL Azure
@@ -203,7 +204,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 31983
 # Back To Basics; Getting Back To The Basics of SQL 
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Denny Cherry
 ## Title: Back To Basics; Getting Back To The Basics of SQL 
@@ -214,7 +215,7 @@ All to often people focus on the advanced high end parts of SQL Server without g
 #  
 #### SessionID: 31984
 # Where should I be encrypting my data?
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Denny Cherry
 ## Title: Where should I be encrypting my data?
@@ -223,7 +224,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31985
 # SQL Server Clustering 101
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Denny Cherry
 ## Title: SQL Server Clustering 101
@@ -232,7 +233,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32021
 # Work/Life Balance?  Just A Myth?
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Meredith Ryan-Smith
 ## Title: Work/Life Balance?  Just A Myth?
@@ -241,7 +242,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 32137
 # SSRS-Subscriptions  Render Device Settings
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: ORION GEBREMEDHIN
 ## Title: SSRS-Subscriptions  Render Device Settings
@@ -250,7 +251,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32138
 # SSAS Partitioning and Usage Based Optimization
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: ORION GEBREMEDHIN
 ## Title: SSAS Partitioning and Usage Based Optimization
@@ -259,7 +260,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32529
 # MIrroring 101
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Robert Miller
 ## Title: MIrroring 101
@@ -268,7 +269,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 32591
 # Manage and Monitor Your Mirror
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Robert Miller
 ## Title: Manage and Monitor Your Mirror
@@ -277,7 +278,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 33312
 # Performance Tuning with Traces
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Tara Kizer
 ## Title: Performance Tuning with Traces
@@ -286,7 +287,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 33906
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -295,7 +296,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 33914
 # Entity Strategies: Structuring Your Consultancy
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: William E Pearson III
 ## Title: Entity Strategies: Structuring Your Consultancy
@@ -304,7 +305,7 @@ Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 34522
 # Powershell Eye for the Monitoring Guy
-#### [Back to calendar](#SQLSaturday-#47-Phoenix-2011)
+#### [Back to calendar](#nr-47)
 Event Date: 19-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Zach Mattson
 ## Title: Powershell Eye for the Monitoring Guy

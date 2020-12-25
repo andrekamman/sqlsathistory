@@ -1,3 +1,4 @@
+#### Nr: 501
 #### [Back to Main list](index.md)
 # SQLSaturday #501 - Dublin 2016
 Start Time (24h)|Speaker|Track|Title
@@ -32,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 42721
 # IoT - Comparing Azure with AWS
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Cloud  SQL2016
 ## Speaker: Allan Mitchell
 ## Title: IoT - Comparing Azure with AWS
@@ -43,7 +44,7 @@ Demo heavy this session will show you some of the components on offer to help yo
 #  
 #### SessionID: 42756
 # Effective Index Partitioning, Compression Strategy
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Dev
 ## Speaker: Neil Hambly
 ## Title: Effective Index Partitioning, Compression Strategy
@@ -57,7 +58,7 @@ Using Demos to illustrate the performance gains with real-world examples, Take a
 #  
 #### SessionID: 45167
 # Managing Very Large Databases with SQL Server
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: DBA
 ## Speaker: Brian Carrig
 ## Title: Managing Very Large Databases with SQL Server
@@ -68,7 +69,7 @@ In this session, I will provide some practical advice on managing VLDBs with SQL
 #  
 #### SessionID: 45684
 # How far can MS SQL Server Master Data Services 2016 take your business?
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Cloud  SQL2016
 ## Speaker: Dan Galavan
 ## Title: How far can MS SQL Server Master Data Services 2016 take your business?
@@ -81,7 +82,7 @@ All this will be covered using a mix of presentation and demonstrations illustra
 #  
 #### SessionID: 48841
 # SQL Server Integration Services (SSIS) in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: BI And Analytics
 ## Speaker: Matt Masson
 ## Title: SQL Server Integration Services (SSIS) in SQL Server 2016
@@ -92,7 +93,7 @@ The 2016 release has a number of new extensions for creating Hybrid, Cloud, and 
 #  
 #### SessionID: 51064
 # SQL Azure – DTUs and Delta (with on-prem)
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Cloud  SQL2016
 ## Speaker: Vikas Sahni
 ## Title: SQL Azure – DTUs and Delta (with on-prem)
@@ -106,7 +107,7 @@ The other topic is the difference in features between SQL Azure and SQL Server. 
 #  
 #### SessionID: 42750
 # The What, Why and How of Unit Testing SQL Server
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Dev
 ## Speaker: Annette Allen
 ## Title: The What, Why and How of Unit Testing SQL Server
@@ -115,7 +116,7 @@ Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Dev
 #  
 #### SessionID: 44812
 # Introducing Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Cloud  SQL2016
 ## Speaker: James Rowland-Jones
 ## Title: Introducing Azure SQL Data Warehouse
@@ -130,7 +131,7 @@ Topics covered include:
 #  
 #### SessionID: 45108
 # Availability Group Maintenance Operations
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: DBA
 ## Speaker: John Martin
 ## Title: Availability Group Maintenance Operations
@@ -139,7 +140,7 @@ Event Date: 18-06-2016 - Session time: 15:15:00 - Track: DBA
 #  
 #### SessionID: 45141
 # A Day in the Life of the Data Scientist
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: BI And Analytics
 ## Speaker: Buck Woody
 ## Title: A Day in the Life of the Data Scientist
@@ -148,7 +149,7 @@ Event Date: 18-06-2016 - Session time: 15:15:00 - Track: BI And Analytics
 #  
 #### SessionID: 43054
 # Super Scaling Clustered Index Inserts
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: DBA
 ## Speaker: Christopher Adkin
 ## Title: Super Scaling Clustered Index Inserts
@@ -157,7 +158,7 @@ Event Date: 18-06-2016 - Session time: 15:15:00 - Track: DBA
 #  
 #### SessionID: 44760
 # Data Driven Organisation: Machine Learning as part of an organisation's DNA
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: BI And Analytics
 ## Speaker: Jen Stirrup
 ## Title: Data Driven Organisation: Machine Learning as part of an organisation's DNA
@@ -177,7 +178,7 @@ This session will help you to:
 #  
 #### SessionID: 44899
 # Unraveling Tangled Code:A Spellbinding Tale of Victory Over Chaos
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Dev
 ## Speaker: Jennifer McCown
 ## Title: Unraveling Tangled Code:A Spellbinding Tale of Victory Over Chaos
@@ -186,7 +187,7 @@ Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Dev
 #  
 #### SessionID: 45850
 # Polybase in SQL Server – Big Data Queried with T-SQL
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Cloud  SQL2016
 ## Speaker: Hubert Kobierzewski
 ## Title: Polybase in SQL Server – Big Data Queried with T-SQL
@@ -195,7 +196,7 @@ Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Cloud  SQL2016
 #  
 #### SessionID: 48843
 # SQL Lightning Talks
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Other
 ## Speaker: SqlSat Dublin
 ## Title: SQL Lightning Talks
@@ -209,7 +210,7 @@ Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Other
 #  
 #### SessionID: 52432
 # How to improve database productivity and agility with Redgate SQL Toolbelt
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: DBA
 ## Speaker: Tom Austin
 ## Title: How to improve database productivity and agility with Redgate SQL Toolbelt
@@ -222,7 +223,7 @@ By the time you leave, you’ll have seen dozens of ways you and your team can g
 #  
 #### SessionID: 52434
 # BI Office from Pyramid Analytics Delivering Better Decision for Everyone
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: BI And Analytics
 ## Speaker: Nick Barth
 ## Title: BI Office from Pyramid Analytics Delivering Better Decision for Everyone
@@ -236,7 +237,7 @@ For years now Business Intelligence products have forced organisations to make a
 #  
 #### SessionID: 42707
 # Session Details not available
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Cloud  SQL2016
 ## Speaker: n/a n/a
 ## Title: Session Details not available
@@ -245,7 +246,7 @@ Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Cloud  SQL2016
 #  
 #### SessionID: 42796
 # Making PowerShell useful for your team
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Dev
 ## Speaker: Rob Sewell
 ## Title: Making PowerShell useful for your team
@@ -256,7 +257,7 @@ A fast-paced session with ideas and discussion points for you to take back to wo
 #  
 #### SessionID: 48845
 # The Expert Panel
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Other
 ## Speaker: SqlSat Dublin
 ## Title: The Expert Panel
@@ -272,7 +273,7 @@ Submit your questions live on twitter via #AskTheExperts or #SqlSatDublin
 #  
 #### SessionID: 49375
 # Azure Machine Learning: From Design to Integration
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: BI And Analytics
 ## Speaker: Peter Myers
 ## Title: Azure Machine Learning: From Design to Integration
@@ -285,7 +286,7 @@ This session has been specifically designed to describe Machine Learning fundame
 #  
 #### SessionID: 50892
 # Power BI Mobile - Answering Your Business Questions
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: BI And Analytics
 ## Speaker: Romi Koifman
 ## Title: Power BI Mobile - Answering Your Business Questions
@@ -294,7 +295,7 @@ Event Date: 18-06-2016 - Session time: 15:15:00 - Track: BI And Analytics
 #  
 #### SessionID: 44222
 # WTF with SQL
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Dev
 ## Speaker: Kennie Pontoppidan
 ## Title: WTF with SQL
@@ -305,7 +306,7 @@ Come and have fun when we explore scenarios of simple SQL statements, where I gu
 #  
 #### SessionID: 44423
 # Revolutionary R integration in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Cloud  SQL2016
 ## Speaker: Marcin Szeliga
 ## Title: Revolutionary R integration in SQL Server 2016
@@ -320,7 +321,7 @@ As if this was not enough, you can use familiar user interface and SQL Server En
 #  
 #### SessionID: 48842
 # The Most Important IT Person in the Room: Why Data Experts Own th
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Other
 ## Speaker: Kevin Kline
 ## Title: The Most Important IT Person in the Room: Why Data Experts Own th
@@ -329,7 +330,7 @@ Event Date: 18-06-2016 - Session time: 15:15:00 - Track: Other
 #  
 #### SessionID: 51117
 # Beyond storing vast amounts of data: Data Lake Analytics
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: BI And Analytics
 ## Speaker: Miguel de Luna Gomez
 ## Title: Beyond storing vast amounts of data: Data Lake Analytics
@@ -340,7 +341,7 @@ This means that massive amounts of data are being stored in Data Lakes, but the 
 #  
 #### SessionID: 52400
 # SQL Server BI – 2016 and Beyond
-#### [Back to calendar](#SQLSaturday-#501-Dublin-2016)
+#### [Back to calendar](#nr-501)
 Event Date: 18-06-2016 - Session time: 15:15:00 - Track: BI And Analytics
 ## Speaker: Matt Masson
 ## Title: SQL Server BI – 2016 and Beyond

@@ -1,3 +1,4 @@
+#### Nr: 698
 #### [Back to Main list](index.md)
 # SQLSaturday #698 - Nashville 2018
 Start Time (24h)|Speaker|Track|Title
@@ -66,7 +67,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 69379
 # Networking Internals for the SQL Server Professional
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Anthony Nocentino
 ## Title: Networking Internals for the SQL Server Professional
@@ -75,7 +76,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 69976
 # Using Your On-prem Data in a Cloud World
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Architecture  Management 
 ## Speaker: Daniel Glenn
 ## Title: Using Your On-prem Data in a Cloud World
@@ -86,7 +87,7 @@ In this session, we will discover the benefits of using the cloud tools, how tho
 #  
 #### SessionID: 70107
 # Reading Execution Plans Successfully
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: Arthur Daniels III
 ## Title: Reading Execution Plans Successfully
@@ -99,7 +100,7 @@ Learning to read an execution plan is a great way to begin troubleshooting perfo
 #  
 #### SessionID: 70196
 # PowerShell for BI Professionals: Automating SSIS, SSRS  SSAS
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Analytics and Visualization 	
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for BI Professionals: Automating SSIS, SSRS  SSAS
@@ -112,7 +113,7 @@ By the end of the session, you'll be able to accomplish in minutes what would no
 #  
 #### SessionID: 70487
 # SQL Sprawl - How to get a handle on your Infrastructure
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Phil Ekins
 ## Title: SQL Sprawl - How to get a handle on your Infrastructure
@@ -125,7 +126,7 @@ This will provide a road-map to make a case for virtualization (if you’re not 
 #  
 #### SessionID: 70604
 # ARMed for Azure
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Geoff Hiten
 ## Title: ARMed for Azure
@@ -134,7 +135,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 70654
 # Performance Tuning for Salary Negotiations
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Professional Development
 ## Speaker: Je'Anna Lanza-Abbott
 ## Title: Performance Tuning for Salary Negotiations
@@ -150,7 +151,7 @@ Participants will:
 #  
 #### SessionID: 70656
 # How to Build Your Disaster Recovery Plan
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Rie Irish
 ## Title: How to Build Your Disaster Recovery Plan
@@ -159,7 +160,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 70672
 # Automate your SQL Server installs and configurations using Powershell Desired State Configuration
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: PowerShell 
 ## Speaker: Luke Campbell
 ## Title: Automate your SQL Server installs and configurations using Powershell Desired State Configuration
@@ -170,7 +171,7 @@ Some powershell experience is recommended.
 #  
 #### SessionID: 71795
 # On-Site Registration  non-printed SPEEDPASS
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Other
 ## Speaker: SQLSaturday Nashville
 ## Title: On-Site Registration  non-printed SPEEDPASS
@@ -179,7 +180,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Other
 #  
 #### SessionID: 71796
 # Cloudy with a Chance of Data
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: John Deardurff
 ## Title: Cloudy with a Chance of Data
@@ -188,7 +189,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 72038
 # Azure Machine Learning 101
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Analytics and Visualization 	
 ## Speaker: Kathi Kellenberger
 ## Title: Azure Machine Learning 101
@@ -197,7 +198,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #  
 #### SessionID: 69357
 # Code Like a Snake Charmer - Intro to Python!
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Analytics and Visualization 	
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Snake Charmer - Intro to Python!
@@ -219,7 +220,7 @@ No prior statistics knowledge needed.
 #  
 #### SessionID: 69360
 # Where Should My Data Live (and Why)?
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Matt Gordon
 ## Title: Where Should My Data Live (and Why)?
@@ -228,7 +229,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 69386
 # DevOps for the DBA
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: DevOps for the DBA
@@ -243,7 +244,7 @@ The take-aways from this session are to embrace DevOps basics with a “DBA twis
 #  
 #### SessionID: 69881
 # Successfully Migrating Existing Databases to Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: John Sterrett
 ## Title: Successfully Migrating Existing Databases to Azure SQL Database
@@ -252,7 +253,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 69909
 # HiHo! HiHo! SQL Server on Linux, We Go!
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Janis Griffin
 ## Title: HiHo! HiHo! SQL Server on Linux, We Go!
@@ -266,7 +267,7 @@ The participant will learn:
 #  
 #### SessionID: 70240
 # ETL Architecture for Real-Time BI
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Architecture  Management 
 ## Speaker: Jon Boulineau
 ## Title: ETL Architecture for Real-Time BI
@@ -275,7 +276,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 70755
 # Dimensional Modeling Design Patterns: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Architecture  Management 
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond the Basics
@@ -286,7 +287,7 @@ In this session, we will dive deeper into the art of dimensional modeling. We wi
 #  
 #### SessionID: 70758
 # Cosmos DB: Planet Earth Scale
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Mike Lawell
 ## Title: Cosmos DB: Planet Earth Scale
@@ -298,7 +299,7 @@ Most important, who is going to be using it and why?
 #  
 #### SessionID: 71794
 # Everyone Has a Story to Tell: Developing Your First Presentation
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Professional Development
 ## Speaker: Andy Yun
 ## Title: Everyone Has a Story to Tell: Developing Your First Presentation
@@ -311,7 +312,7 @@ You will leave armed with a wealth of resources (and hopefully some inspiration)
 #  
 #### SessionID: 71921
 # SQL Server Meets Big Data in the Cloud: Weather Edition
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Rowland Gosling
 ## Title: SQL Server Meets Big Data in the Cloud: Weather Edition
@@ -320,7 +321,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 72651
 # Only You Can Prevent Database Fires!
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: John Morehouse
 ## Title: Only You Can Prevent Database Fires!
@@ -329,7 +330,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 69678
 # How to Implement a Hierarchy in SQL Server
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: Louis Davidson
 ## Title: How to Implement a Hierarchy in SQL Server
@@ -338,7 +339,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database  Application D
 #  
 #### SessionID: 69960
 # Why am I able to master several technology languages but I struggle in my own business language?
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Professional Development
 ## Speaker: Karen Nelson
 ## Title: Why am I able to master several technology languages but I struggle in my own business language?
@@ -349,7 +350,7 @@ The problems will inevitably arise during human interaction; what we can do is t
 #  
 #### SessionID: 70102
 # Writing award winning PowerShell functions and script modules
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: PowerShell 
 ## Speaker: Mike Robbins
 ## Title: Writing award winning PowerShell functions and script modules
@@ -358,7 +359,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: PowerShell
 #  
 #### SessionID: 70175
 # Getting started with SQL Azure Database: What you need to know
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Jim Donahoe
 ## Title: Getting started with SQL Azure Database: What you need to know
@@ -369,7 +370,7 @@ By the end of this presentation, you’ll understand if Azure SQL Database is th
 #  
 #### SessionID: 70220
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Analytics and Visualization 	
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -380,7 +381,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 70429
 # End-to-End Troubleshooting Checklist for SQL Server
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Kevin Kline
 ## Title: End-to-End Troubleshooting Checklist for SQL Server
@@ -398,7 +399,7 @@ Every DBA needs to know how to keep their SQL Server in tip-top condition, and y
 #  
 #### SessionID: 70689
 # Reducing The Surface Area Of Risk in Data Security
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Tim Gorman
 ## Title: Reducing The Surface Area Of Risk in Data Security
@@ -411,7 +412,7 @@ Come learn about the right way to mask non-production data in order to allow the
 #  
 #### SessionID: 70732
 # Parameter Sniffing the Good, the Bad and the Ugly
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Lance Tidwell
 ## Title: Parameter Sniffing the Good, the Bad and the Ugly
@@ -420,7 +421,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 71512
 # Power BI administration made easy(ier)
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Architecture  Management 
 ## Speaker: Dan Evans
 ## Title: Power BI administration made easy(ier)
@@ -429,7 +430,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 71791
 # SQL Server Encryption
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
@@ -438,7 +439,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 71892
 # Azure SQL DW Performance Common Issues
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Gareth Swanepoel
 ## Title: Azure SQL DW Performance Common Issues
@@ -447,7 +448,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 69707
 # Alexa, Talk to Me
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Dave Mattingly
 ## Title: Alexa, Talk to Me
@@ -457,7 +458,7 @@ In this session, we'll create a simple skill from scratch, and show how to get i
 #  
 #### SessionID: 71885
 # Cloud Panel
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Josh Luedeman
 ## Title: Cloud Panel
@@ -466,7 +467,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 72655
 # Optimizing SQL Server Instances You Don't Control
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Rodrigo Medeiros
 ## Title: Optimizing SQL Server Instances You Don't Control
@@ -476,7 +477,7 @@ Learn what could well be the root cause for the problems you are experiencing, w
 #  
 #### SessionID: 72783
 # SQL Server Remote Management Best Practices
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: SQLSaturday Nashville
 ## Title: SQL Server Remote Management Best Practices
@@ -494,7 +495,7 @@ Brought to you by System Frontier
 #  
 #### SessionID: 72864
 # Top Tools for Tuning SQL: Focus on Plan Explorer
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: Kevin Kline
 ## Title: Top Tools for Tuning SQL: Focus on Plan Explorer
@@ -508,7 +509,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database  Application D
 #  
 #### SessionID: 69432
 # Data Cleansing With SQL And R
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Analytics and Visualization 	
 ## Speaker: Kevin Feasel
 ## Title: Data Cleansing With SQL And R
@@ -517,7 +518,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #  
 #### SessionID: 69580
 # Working with Temporal Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: David Maxwell
 ## Title: Working with Temporal Data in SQL Server
@@ -526,7 +527,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database  Application D
 #  
 #### SessionID: 70058
 # SaaS/IaaS Compromise - Learning Azure SQL Database Managed Instance
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Tim Warner
 ## Title: SaaS/IaaS Compromise - Learning Azure SQL Database Managed Instance
@@ -535,7 +536,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 70499
 # Query Store Primer
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
@@ -544,7 +545,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 70524
 # Why NULL is not a value (and other SQL gotchas)
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: Wendy Pastrick
 ## Title: Why NULL is not a value (and other SQL gotchas)
@@ -553,7 +554,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database  Application D
 #  
 #### SessionID: 70711
 # Hi, my name is Powershell, let's be friends! An Intro to PoSH
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: PowerShell 
 ## Speaker: Amy Herold
 ## Title: Hi, my name is Powershell, let's be friends! An Intro to PoSH
@@ -562,7 +563,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: PowerShell
 #  
 #### SessionID: 70729
 # Becoming the MVP: Soft Skills for the Hard Market
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Professional Development
 ## Speaker: Angela Tidwell
 ## Title: Becoming the MVP: Soft Skills for the Hard Market
@@ -571,7 +572,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 70743
 # Tame Your Unruly Data With Constraints
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data With Constraints
@@ -580,7 +581,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database  Application D
 #  
 #### SessionID: 70751
 # Why Third Party Vendors Do The Things They Do
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Henry Treftz
 ## Title: Why Third Party Vendors Do The Things They Do
@@ -596,7 +597,7 @@ This presentation has three main objectives:
 #  
 #### SessionID: 71886
 # Migrating your BI Platform to Azure
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Josh Luedeman
 ## Title: Migrating your BI Platform to Azure
@@ -605,7 +606,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 72597
 # Data Visualization: How to truly tell a great story!
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Analytics and Visualization 	
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization: How to truly tell a great story!
@@ -614,7 +615,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #  
 #### SessionID: 69539
 # What could be better than football and R!
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Analytics and Visualization 	
 ## Speaker: Kevin Wilkie
 ## Title: What could be better than football and R!
@@ -629,7 +630,7 @@ We'll go over the basics of R and how to do things with it, plus items such as:
 #  
 #### SessionID: 70193
 # Applying Data Warehousing Principles: Going from Descriptive to Predictive
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Architecture  Management 
 ## Speaker: Spencer Swindell
 ## Title: Applying Data Warehousing Principles: Going from Descriptive to Predictive
@@ -638,7 +639,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 70480
 # A Beginner's Guide to Power BI
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Analytics and Visualization 	
 ## Speaker: Ed Watson
 ## Title: A Beginner's Guide to Power BI
@@ -647,7 +648,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #  
 #### SessionID: 70593
 # Making Your List and Checking It Twice: Introduction to unit testing with tSQLt
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: Elizabeth Noble
 ## Title: Making Your List and Checking It Twice: Introduction to unit testing with tSQLt
@@ -656,7 +657,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database  Application D
 #  
 #### SessionID: 70601
 # Ethics, Morals, and Laws for the DBA 101
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Professional Development
 ## Speaker: Pat Phelan
 ## Title: Ethics, Morals, and Laws for the DBA 101
@@ -669,7 +670,7 @@ This session presents basic definitions, ideas, and discussion points. It is int
 #  
 #### SessionID: 70698
 # Minimizing User Impact with Advanced Restore Methods
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Bob Pusateri
 ## Title: Minimizing User Impact with Advanced Restore Methods
@@ -678,7 +679,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 70706
 # SQL Server Take Over:  Establishing a Baseline
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Lowry Kozlowski
 ## Title: SQL Server Take Over:  Establishing a Baseline
@@ -693,7 +694,7 @@ The server is running slowly... or is it? Slow compared to what?  Before you be
 #  
 #### SessionID: 70707
 # AI to the Masses! But How? Pixie Dust?
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Hope Foley
 ## Title: AI to the Masses! But How? Pixie Dust?
@@ -702,7 +703,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 70721
 # Biml for Beginners: Speed Up Your SSIS Development
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: BI Architecture  Management 
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Speed Up Your SSIS Development
@@ -717,7 +718,7 @@ Stop wasting your valuable time on doing the same things over and over and over 
 #  
 #### SessionID: 70727
 # Exploring the new SqlServer PowerShell module
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: PowerShell 
 ## Speaker: Michael Fal
 ## Title: Exploring the new SqlServer PowerShell module
@@ -726,7 +727,7 @@ Event Date: 13-01-2018 - Session time: 14:50:00 - Track: PowerShell
 #  
 #### SessionID: 72367
 # Twitter Data  Sentiment Analysis: Staring Logic Apps, Azure ML, Twitter Data, Power BI, and Python
-#### [Back to calendar](#SQLSaturday-#698-Nashville-2018)
+#### [Back to calendar](#nr-698)
 Event Date: 13-01-2018 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Bradley Ball
 ## Title: Twitter Data  Sentiment Analysis: Staring Logic Apps, Azure ML, Twitter Data, Power BI, and Python

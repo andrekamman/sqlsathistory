@@ -1,3 +1,4 @@
+#### Nr: 389
 #### [Back to Main list](index.md)
 # SQLSaturday #389 - Huntington Beach 2015
 Start Time (24h)|Speaker|Track|Title
@@ -61,7 +62,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 17328
 # Introduction to Wait Types and Response Time Analysis
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
 ## Speaker: Jonathan Shaulis
 ## Title: Introduction to Wait Types and Response Time Analysis
@@ -70,7 +71,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
 #  
 #### SessionID: 24757
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
@@ -79,7 +80,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 #  
 #### SessionID: 10704
 # Treating Tables Like Legos, Partitioning Basics
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
 ## Speaker: Brandon Leach
 ## Title: Treating Tables Like Legos, Partitioning Basics
@@ -88,7 +89,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
 #  
 #### SessionID: 18239
 # Top 10 Admininistrator Mistakes on SQL Server
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Kevin Kline
 ## Title: Top 10 Admininistrator Mistakes on SQL Server
@@ -97,7 +98,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
 #  
 #### SessionID: 18868
 # How to Automate SSIS and SQL Agent Job Deployments
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 8
 ## Speaker: Yong Ji
 ## Title: How to Automate SSIS and SQL Agent Job Deployments
@@ -109,7 +110,7 @@ There are many blog postings and articles about this but it is not easy to find 
 #  
 #### SessionID: 19328
 # Using Premium Data for Analysts
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: Lynn Langit
 ## Title: Using Premium Data for Analysts
@@ -119,7 +120,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
 #  
 #### SessionID: 23168
 # Thinking in SQL
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
 ## Speaker: Robert Hatton
 ## Title: Thinking in SQL
@@ -128,7 +129,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
 #  
 #### SessionID: 24548
 # Get Testing with tSQLt
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Steve Jones
 ## Title: Get Testing with tSQLt
@@ -137,7 +138,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
 #  
 #### SessionID: 26573
 # The Ritual of Restoration
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 ## Speaker: Tim Hidalgo
 ## Title: The Ritual of Restoration
@@ -146,7 +147,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 #  
 #### SessionID: 9064
 # SSAS Design and Performance Best Practices
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
 ## Speaker: Alan Faulkner
 ## Title: SSAS Design and Performance Best Practices
@@ -155,7 +156,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
 #  
 #### SessionID: 13421
 # Merge Replication 101
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 8
 ## Speaker: Diana Dee
 ## Title: Merge Replication 101
@@ -167,7 +168,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 8
 #  
 #### SessionID: 14266
 # Getting Started with Reporting Services
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
 ## Speaker: Ted Stathakis
 ## Title: Getting Started with Reporting Services
@@ -176,7 +177,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
 #  
 #### SessionID: 15878
 # PowerShell for the Reluctant DBA / Developer
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Jason Horner
 ## Title: PowerShell for the Reluctant DBA / Developer
@@ -186,7 +187,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
 #  
 #### SessionID: 21079
 # Table Indexing for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
@@ -195,7 +196,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
 #  
 #### SessionID: 21171
 # Tools in Your Toolbox You’re Not using!  Why Not?
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Mike Tutor
 ## Title: Tools in Your Toolbox You’re Not using!  Why Not?
@@ -204,7 +205,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 21876
 # Visualization Choices: What, When, and How?
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 ## Speaker: Paul Turley
 ## Title: Visualization Choices: What, When, and How?
@@ -213,7 +214,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 #  
 #### SessionID: 25763
 # Building a Modern Data Warehouse and Analytics Solution in Azure
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
 ## Speaker: Steve Hughes
 ## Title: Building a Modern Data Warehouse and Analytics Solution in Azure
@@ -222,7 +223,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
 #  
 #### SessionID: 9089
 # 45 Minutes to Your First SSAS Tabular Model
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First SSAS Tabular Model
@@ -232,7 +233,7 @@ SSAS Tabular is a new form of business intelligence model released with SQL Serv
 #  
 #### SessionID: 9784
 # Stored Procedures vs. Ad-Hoc SQL: Performance Showdown!
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: Argenis Fernandez
 ## Title: Stored Procedures vs. Ad-Hoc SQL: Performance Showdown!
@@ -242,7 +243,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
 #  
 #### SessionID: 10362
 # Query Processing in In-Memory OLTP (Hekaton)
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
 ## Speaker: Benjamin Nevarez
 ## Title: Query Processing in In-Memory OLTP (Hekaton)
@@ -251,7 +252,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
 #  
 #### SessionID: 14673
 # Predicting the future with Machine Learning  
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
 ## Speaker: Ginger Grant
 ## Title: Predicting the future with Machine Learning  
@@ -260,7 +261,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
 #  
 #### SessionID: 16228
 # You Wouldn't Let HR Manage Your DBs...
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Joseph D'Antoni
 ## Title: You Wouldn't Let HR Manage Your DBs...
@@ -269,7 +270,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
 #  
 #### SessionID: 16918
 # 10 Handy Tips On SQL Server Dates
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: Julie Koesmarno
 ## Title: 10 Handy Tips On SQL Server Dates
@@ -280,7 +281,7 @@ With time being the one thing that constantly changes, date and time calculation
 #  
 #### SessionID: 20404
 # Changing Your Habits to Improve the Performance of Your T-SQL
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 ## Speaker: Mickey Stuewe
 ## Title: Changing Your Habits to Improve the Performance of Your T-SQL
@@ -289,7 +290,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 #  
 #### SessionID: 23126
 # SSIS 2012 Management Considerations and Best Practices
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
 ## Speaker: Rushabh Mehta
 ## Title: SSIS 2012 Management Considerations and Best Practices
@@ -298,7 +299,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
 #  
 #### SessionID: 24441
 # Transaction
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 8
 ## Speaker: Simon Cho
 ## Title: Transaction
@@ -312,7 +313,7 @@ A little bit of minimal logging information.
 #  
 #### SessionID: 24729
 # Multidimensional vs Tabular - May the Best Model Win
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Stacia Varga
 ## Title: Multidimensional vs Tabular - May the Best Model Win
@@ -321,7 +322,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
 #  
 #### SessionID: 36008
 # [Sponsor] - SQL Server Monitoring with Spotlight for SQL Server Enterprise
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Andrew Karcher
 ## Title: [Sponsor] - SQL Server Monitoring with Spotlight for SQL Server Enterprise
@@ -334,7 +335,7 @@ David Swanson is a graduate of the University of Arizona. He has worked in the s
 #  
 #### SessionID: 36043
 # [Sponsor] The Red Gate Database Lifecycle Management Story w/ Ste
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Andrew Karcher
 ## Title: [Sponsor] The Red Gate Database Lifecycle Management Story w/ Ste
@@ -343,7 +344,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 36044
 # [Sponsor] Light Up Your SQL Investments with Pyramid Analytics w/
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Andrew Karcher
 ## Title: [Sponsor] Light Up Your SQL Investments with Pyramid Analytics w/
@@ -352,7 +353,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 12810
 # Turbo Charged SQL Development With SQL#
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 ## Speaker: David Sumlin
 ## Title: Turbo Charged SQL Development With SQL#
@@ -361,7 +362,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 #  
 #### SessionID: 18241
 # Convince Me – Persuasion Techniques That Get Things Done
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Kevin Kline
 ## Title: Convince Me – Persuasion Techniques That Get Things Done
@@ -377,7 +378,7 @@ Ever wanted to convince the boss try something new, but didn't know where to sta
 #  
 #### SessionID: 18558
 # Turbo Boost Performance: In Memory Tables index optimizations
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 8
 ## Speaker: Konstantin Melamud
 ## Title: Turbo Boost Performance: In Memory Tables index optimizations
@@ -386,7 +387,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 8
 #  
 #### SessionID: 21170
 # Simple things you can do to make  the Query Optimizer more efficient!
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
 ## Speaker: Mike Tutor
 ## Title: Simple things you can do to make  the Query Optimizer more efficient!
@@ -395,7 +396,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
 #  
 #### SessionID: 24550
 # Continuous Integration for Databases
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Steve Jones
 ## Title: Continuous Integration for Databases
@@ -404,7 +405,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
 #  
 #### SessionID: 25724
 # Date Dimension: Past  Future in One Script
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: Steve Wake
 ## Title: Date Dimension: Past  Future in One Script
@@ -413,7 +414,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
 #  
 #### SessionID: 26426
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -422,7 +423,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
 #  
 #### SessionID: 35932
 # Rock Your Technical Interview (Part 1)
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
 ## Speaker: David McCarter
 ## Title: Rock Your Technical Interview (Part 1)
@@ -431,7 +432,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
 #  
 #### SessionID: 16919
 # Interactive  Actionable Data Visualisation With Power View
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: Julie Koesmarno
 ## Title: Interactive  Actionable Data Visualisation With Power View
@@ -442,7 +443,7 @@ This session will discuss how to design the appropriate data model to enable sel
 #  
 #### SessionID: 17911
 # $#*! Your Database Says About Me
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Karen Lopez
 ## Title: $#*! Your Database Says About Me
@@ -451,7 +452,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
 #  
 #### SessionID: 21080
 # Database Administration for the non-DBA
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Denny Cherry
 ## Title: Database Administration for the non-DBA
@@ -462,7 +463,7 @@ While this session won't teach you everything you need to know, it will give you
 #  
 #### SessionID: 22802
 # Increase your SSIS productivity with Biml
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 8
 ## Speaker: Reeves Smith
 ## Title: Increase your SSIS productivity with Biml
@@ -474,7 +475,7 @@ This session will be a demo based session that will inspire you to make Biml you
 #  
 #### SessionID: 24731
 # (Way Too Much) Fun with Reporting Services 
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Stacia Varga
 ## Title: (Way Too Much) Fun with Reporting Services 
@@ -483,7 +484,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 26427
 # SQL Server Defaults SUCK!!
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
 ## Speaker: Kevin Boles
 ## Title: SQL Server Defaults SUCK!!
@@ -492,7 +493,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
 #  
 #### SessionID: 34604
 # Overview Hadoop for Windows (HDP2.2)
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 ## Speaker: Anoop Sunke
 ## Title: Overview Hadoop for Windows (HDP2.2)
@@ -504,7 +505,7 @@ Key components of Hadoop on Windows and their functions within an Enterprise Had
 #  
 #### SessionID: 35933
 # Rock Your Technical Interview (Part 2)
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
 ## Speaker: David McCarter
 ## Title: Rock Your Technical Interview (Part 2)
@@ -513,7 +514,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
 #  
 #### SessionID: 10363
 # Understanding Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
@@ -522,7 +523,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
 #  
 #### SessionID: 13062
 # SSIS Design Patterns
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 8
 ## Speaker: Demian Quinonez
 ## Title: SSIS Design Patterns
@@ -533,7 +534,7 @@ Learn about some common SSIS (SQL Server Integration Services) design patterns f
 #  
 #### SessionID: 14672
 # Top 10 SSIS Tuning Tricks
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: Ginger Grant
 ## Title: Top 10 SSIS Tuning Tricks
@@ -542,7 +543,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
 #  
 #### SessionID: 14947
 # Poor Man's AlwaysOn - Readable Secondary w/ Automatic Failover Capabilites on SQL 2008 R2
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
 ## Speaker: Harry Chandra
 ## Title: Poor Man's AlwaysOn - Readable Secondary w/ Automatic Failover Capabilites on SQL 2008 R2
@@ -551,7 +552,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
 #  
 #### SessionID: 16226
 # Building Perfect SQL Servers, Every Time
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Joseph D'Antoni
 ## Title: Building Perfect SQL Servers, Every Time
@@ -561,7 +562,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 21877
 # Power BI Hands-On Micro-Workshop
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
 ## Speaker: Paul Turley
 ## Title: Power BI Hands-On Micro-Workshop
@@ -572,7 +573,7 @@ Power Query add-in: http://www.microsoft.com/en-us/download/details.aspx?id=3937
 #  
 #### SessionID: 22554
 # Locks, Blocks, and Deadlocks Oh My!
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Randy Knight
 ## Title: Locks, Blocks, and Deadlocks Oh My!
@@ -581,7 +582,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
 #  
 #### SessionID: 25725
 # Near Real-Time Data Warehouse Updates with CDC  SSIS
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Steve Wake
 ## Title: Near Real-Time Data Warehouse Updates with CDC  SSIS
@@ -590,7 +591,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 9484
 # Azure 101 - Where Do I Start?
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 ## Speaker: Andrew Nakamura
 ## Title: Azure 101 - Where Do I Start?
@@ -599,7 +600,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 #  
 #### SessionID: 9785
 # (Near) Zero-Downtime Upgrades!
-#### [Back to calendar](#SQLSaturday-#389-Huntington-Beach-2015)
+#### [Back to calendar](#nr-389)
 Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Argenis Fernandez
 ## Title: (Near) Zero-Downtime Upgrades!

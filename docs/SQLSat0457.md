@@ -1,3 +1,4 @@
+#### Nr: 457
 #### [Back to Main list](index.md)
 # SQLSaturday #457 - Mexico City 2015
 Start Time (24h)|Speaker|Track|Title
@@ -41,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 41845
 # Registro
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Organizadores
 ## Speaker: Jesus Gil
 ## Title: Registro
@@ -50,7 +51,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Organizadores
 #  
 #### SessionID: 41846
 # Keynote
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Organizadores
 ## Speaker: Jesus Gil
 ## Title: Keynote
@@ -59,7 +60,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Organizadores
 #  
 #### SessionID: 37995
 # SQL Server 2016 Un vistazo a todo lo nuevo!
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: DBA
 ## Speaker: Eduardo Castro
 ## Title: SQL Server 2016 Un vistazo a todo lo nuevo!
@@ -68,7 +69,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: DBA
 #  
 #### SessionID: 38321
 # Estrategias de indexaci#243;n y buenos dise#241;os f#237;sicos para mejoras del desempe#241;o
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: DBA
 ## Speaker: Kenneth Urena
 ## Title: Estrategias de indexaci#243;n y buenos dise#241;os f#237;sicos para mejoras del desempe#241;o
@@ -82,7 +83,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: DBA
 #  
 #### SessionID: 38463
 # Introducci#243;n a SSIS, lo que necesitas saber para iniciar a trabajar con SSIS
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Introducci#243;n a SSIS, lo que necesitas saber para iniciar a trabajar con SSIS
@@ -92,7 +93,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 39934
 # Microsoft BI Stack: Entendiendo como armar los legos de SQL en BI
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Juan Alvarado
 ## Title: Microsoft BI Stack: Entendiendo como armar los legos de SQL en BI
@@ -101,7 +102,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 41690
 # Office 365 y Microsoft Azure, la nube hace la fuerza
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Office365
 ## Speaker: David Sánchez Aguilar
 ## Title: Office 365 y Microsoft Azure, la nube hace la fuerza
@@ -110,7 +111,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Office365
 #  
 #### SessionID: 42556
 # Entendiendo el Business Intelligence en 10 palabras
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Jesus Gil
 ## Title: Entendiendo el Business Intelligence en 10 palabras
@@ -119,7 +120,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 37967
 # SharePoint 2016 + SQL 2016 qu#233; hay de nuevo?
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: SharePoint
 ## Speaker: Vladimir Medina
 ## Title: SharePoint 2016 + SQL 2016 qu#233; hay de nuevo?
@@ -128,7 +129,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: SharePoint
 #  
 #### SessionID: 39746
 # Introducci#243;n a Data Science
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Data Science
 ## Speaker: Jose L. Rivera
 ## Title: Introducci#243;n a Data Science
@@ -137,7 +138,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Data Science
 #  
 #### SessionID: 40300
 # 10 Cosas que debes y No debes hacer en una base de datos SQL Server
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: DBA
 ## Speaker: Adrian Miranda
 ## Title: 10 Cosas que debes y No debes hacer en una base de datos SQL Server
@@ -146,7 +147,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: DBA
 #  
 #### SessionID: 40693
 # Primeros pasos en modelos Multidimensionales con Analysis Services
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Primeros pasos en modelos Multidimensionales con Analysis Services
@@ -155,7 +156,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 40888
 # Usando Performance Dashboard Reports y Reportes en performance
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: DBA
 ## Speaker: Enrique Argüelles
 ## Title: Usando Performance Dashboard Reports y Reportes en performance
@@ -164,7 +165,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: DBA
 #  
 #### SessionID: 38318
 # Hered#233; una base de datos, y ahora que hago?
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: DBA
 ## Speaker: Kenneth Urena
 ## Title: Hered#233; una base de datos, y ahora que hago?
@@ -173,7 +174,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: DBA
 #  
 #### SessionID: 38464
 # Procesando XML de estruturas complejas con SSIS
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Procesando XML de estruturas complejas con SSIS
@@ -182,7 +183,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 40298
 # Inside SQL Azure Database. Gu#237;a para un buen desempe#241;o.
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Azure
 ## Speaker: Adrian Miranda
 ## Title: Inside SQL Azure Database. Gu#237;a para un buen desempe#241;o.
@@ -194,7 +195,7 @@ Todo lo que necesitas saber para el mejor desempe#241;o de las aplicaciones. Eje
 #  
 #### SessionID: 41134
 # La licencia importa?
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Licenciamiento
 ## Speaker: Carmen Aguila
 ## Title: La licencia importa?
@@ -203,7 +204,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Licenciamiento
 #  
 #### SessionID: 41738
 # #191;Y c#243;mo visualizo mi informaci#243;n?
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Analytics
 ## Speaker: Andrei Garzon
 ## Title: #191;Y c#243;mo visualizo mi informaci#243;n?
@@ -212,7 +213,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Analytics
 #  
 #### SessionID: 41852
 # Comida
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Organizadores
 ## Speaker: Jesus Gil
 ## Title: Comida
@@ -221,7 +222,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Organizadores
 #  
 #### SessionID: 37968
 # SharePoint for SQL DBAs
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: SharePoint
 ## Speaker: Vladimir Medina
 ## Title: SharePoint for SQL DBAs
@@ -230,7 +231,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: SharePoint
 #  
 #### SessionID: 40602
 # Armando una soluci#243;n de Business Intelligence en 60 minutos
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Mario Rodriguez
 ## Title: Armando una soluci#243;n de Business Intelligence en 60 minutos
@@ -239,7 +240,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 40692
 # Optimizacion de modelos multidimensionales en SSAS
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Optimizacion de modelos multidimensionales en SSAS
@@ -248,7 +249,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 41689
 # No recargues tus bases de datos con b#250;squedas. Ven a conocer Azure Search
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Azure
 ## Speaker: David Sánchez Aguilar
 ## Title: No recargues tus bases de datos con b#250;squedas. Ven a conocer Azure Search
@@ -257,7 +258,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Azure
 #  
 #### SessionID: 41714
 # SSIS 2016: Nuevo y mejorado
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 ## Speaker: Jose L. Rivera
 ## Title: SSIS 2016: Nuevo y mejorado
@@ -266,7 +267,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 38319
 # Particionamiento y BD Parciales HA para VLDB
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: DBA
 ## Speaker: Kenneth Urena
 ## Title: Particionamiento y BD Parciales HA para VLDB
@@ -275,7 +276,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: DBA
 #  
 #### SessionID: 39165
 # Aplicaciones de BI m#243;vil para Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Analytics
 ## Speaker: John Alexander Bulla Torres
 ## Title: Aplicaciones de BI m#243;vil para Microsoft SQL Server
@@ -284,7 +285,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Analytics
 #  
 #### SessionID: 39933
 # Power BI 2.0 : La proxima generacion de BI en la nube de Microsof
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Analytics
 ## Speaker: Juan Alvarado
 ## Title: Power BI 2.0 : La proxima generacion de BI en la nube de Microsof
@@ -293,7 +294,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Analytics
 #  
 #### SessionID: 41189
 # SQL Server AlwaysON para ambientes de Reporting Services y respaldos
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: DBA
 ## Speaker: Eduardo Castro
 ## Title: SQL Server AlwaysON para ambientes de Reporting Services y respaldos
@@ -302,7 +303,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: DBA
 #  
 #### SessionID: 41377
 # Cross Platform Apps con Azure Mobile Services
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Developer
 ## Speaker: Vicente G. Guzman Lucio
 ## Title: Cross Platform Apps con Azure Mobile Services
@@ -313,7 +314,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Developer
 #  
 #### SessionID: 41751
 # Miner#237;a de datos / Machine Learning
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Data Science
 ## Speaker: Andrei Garzon
 ## Title: Miner#237;a de datos / Machine Learning
@@ -322,7 +323,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Data Science
 #  
 #### SessionID: 37966
 # Migrando a SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: DBA
 ## Speaker: Jesus Gil
 ## Title: Migrando a SQL Server 2016
@@ -332,7 +333,7 @@ Acomp#225;#241;ame a esta sesi#243;n para decirte, el porque?, el c#243;mo? y el
 #  
 #### SessionID: 39378
 # SQL Server aqui, alli y en todas partes
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Licenciamiento
 ## Speaker: Miguel Angel Granados
 ## Title: SQL Server aqui, alli y en todas partes
@@ -341,7 +342,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Licenciamiento
 #  
 #### SessionID: 41688
 # Inteligencia de Negocios aplicado para Proyectos de Desarrollo
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Analytics
 ## Speaker: David Sánchez Aguilar
 ## Title: Inteligencia de Negocios aplicado para Proyectos de Desarrollo
@@ -350,7 +351,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Business Analytics
 #  
 #### SessionID: 42550
 # How to Load Balance Virtualized Mission-Critical Applications
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Azure
 ## Speaker: Dave Rendon
 ## Title: How to Load Balance Virtualized Mission-Critical Applications
@@ -359,7 +360,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Azure
 #  
 #### SessionID: 42611
 # Introducci#243;n a base de datos en Azure
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Azure
 ## Speaker: John Alexander Bulla Torres
 ## Title: Introducci#243;n a base de datos en Azure
@@ -368,7 +369,7 @@ Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Azure
 #  
 #### SessionID: 41853
 # Cierre y Rifas
-#### [Back to calendar](#SQLSaturday-#457-Mexico-City-2015)
+#### [Back to calendar](#nr-457)
 Event Date: 28-11-2015 - Session time: 17:00:00 - Track: Organizadores
 ## Speaker: Jesus Gil
 ## Title: Cierre y Rifas

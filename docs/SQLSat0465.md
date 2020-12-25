@@ -1,3 +1,4 @@
+#### Nr: 465
 #### [Back to Main list](index.md)
 # SQLSaturday #465 - Providence 2015
 Start Time (24h)|Speaker|Track|Title
@@ -33,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 38973
 # Building a Big Data Solution
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: James Serra
 ## Title: Building a Big Data Solution
@@ -42,7 +43,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 38997
 # Creating Access 2013 Web Apps in SharePoint with SQL Azure
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Andy Tabisz
 ## Title: Creating Access 2013 Web Apps in SharePoint with SQL Azure
@@ -52,7 +53,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 40676
 # Shortcuts from an Impatient DBA
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Andy Mallon
 ## Title: Shortcuts from an Impatient DBA
@@ -65,7 +66,7 @@ We spend a lot of time thinking about how to write efficient code, but we don't 
 #  
 #### SessionID: 41083
 # SSIS 2012/2014:  The Quiet Revolution
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Bryan Cafferky
 ## Title: SSIS 2012/2014:  The Quiet Revolution
@@ -74,7 +75,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 41258
 # Accelerating DevOps Using Data Virtualization
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Accelerating DevOps Using Data Virtualization
@@ -87,7 +88,7 @@ Data virtualization is the solution. Virtual databases and file-systems only con
 #  
 #### SessionID: 38987
 # What about the Data Dude? SSDT Database Projects
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Jack Corbett
 ## Title: What about the Data Dude? SSDT Database Projects
@@ -96,7 +97,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 39428
 # Stunning Dashboards using Datazen
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sunil Kadimdiwan
 ## Title: Stunning Dashboards using Datazen
@@ -107,7 +108,7 @@ In this session I will demonstrate the power and ease of using this technology
 #  
 #### SessionID: 39711
 # Scratching the Surface: Designing your first Power View Report
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Seferlis
 ## Title: Scratching the Surface: Designing your first Power View Report
@@ -116,7 +117,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 40203
 # Whacha just say? Talking technology to non-technical people
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Whacha just say? Talking technology to non-technical people
@@ -125,7 +126,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 40464
 # Cardinality Estimates in Microsoft SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas LaRock
 ## Title: Cardinality Estimates in Microsoft SQL Server 2014
@@ -134,7 +135,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41525
 # Index-fu - getting the most out of your indexes
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Michael DeFehr
 ## Title: Index-fu - getting the most out of your indexes
@@ -144,7 +145,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 38949
 # Hybrid Cloud Scenarios with SQL Server 2014 and 2016
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: George Walters
 ## Title: Hybrid Cloud Scenarios with SQL Server 2014 and 2016
@@ -153,7 +154,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 39128
 # Data Partitioning - Doing the splits…in the name of performance, scalability and sanity!
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael Nowill
 ## Title: Data Partitioning - Doing the splits…in the name of performance, scalability and sanity!
@@ -162,7 +163,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 40864
 # What the Hekaton
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: John Flannery
 ## Title: What the Hekaton
@@ -171,7 +172,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 41082
 # Advanced Programming in PowerShell
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Bryan Cafferky
 ## Title: Advanced Programming in PowerShell
@@ -180,7 +181,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 41833
 # Power BI Desktop Designer
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: John Miner
 ## Title: Power BI Desktop Designer
@@ -189,7 +190,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 38881
 # Diving Into Query Execution Plans
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Edward Pollack
 ## Title: Diving Into Query Execution Plans
@@ -198,7 +199,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39271
 # Automated Installing and Configuration of SQL2014/SQL2012 AlwaysOn Across Multiple Datacenters
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: Automated Installing and Configuration of SQL2014/SQL2012 AlwaysOn Across Multiple Datacenters
@@ -209,7 +210,7 @@ The whole process is presented as a life demo
 #  
 #### SessionID: 39317
 # Create a Power BI Dashboard in 90 Minutes or LESS
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Todd Chittenden
 ## Title: Create a Power BI Dashboard in 90 Minutes or LESS
@@ -218,7 +219,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 40313
 # Right-Sizing Your SQL Server Virtual Machine
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Right-Sizing Your SQL Server Virtual Machine
@@ -229,7 +230,7 @@ The methods for understanding the performance of your mission-critical SQL Serve
 #  
 #### SessionID: 41016
 # Batches, Transactions, and Errors
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: Batches, Transactions, and Errors
@@ -238,7 +239,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 41680
 # 100 Times Faster: Experiences making SQL Server go fast
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Andrew Novick
 ## Title: 100 Times Faster: Experiences making SQL Server go fast
@@ -251,7 +252,7 @@ This presentation is illustrated with examples from my work and we'll look for c
 #  
 #### SessionID: 38897
 # Getting the most from your SAN - File and Filegroup design patterns
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stephen Archbold
 ## Title: Getting the most from your SAN - File and Filegroup design patterns
@@ -273,7 +274,7 @@ Topics covered include:
 #  
 #### SessionID: 41086
 # Managing Copy Data for BI
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paresh Motiwala
 ## Title: Managing Copy Data for BI
@@ -294,7 +295,7 @@ In this session we will study the issues above and see how we can avoid these is
 #  
 #### SessionID: 41337
 # Data Pages, Allocation Units, IAM chains... Oh My!
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Leach
 ## Title: Data Pages, Allocation Units, IAM chains... Oh My!
@@ -305,7 +306,7 @@ We’ll start off by looking at the structure of a row and then move on the conc
 #  
 #### SessionID: 41740
 # Dissecting the Data Flow: SSIS Transformations, Memory  the Pipeline
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matt Batalon
 ## Title: Dissecting the Data Flow: SSIS Transformations, Memory  the Pipeline
@@ -314,7 +315,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 42300
 # Can the IT Job Market get any Hotter?  Navigating Your Career Sea
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Other
 ## Speaker: Tom Anderson
 ## Title: Can the IT Job Market get any Hotter?  Navigating Your Career Sea
@@ -326,7 +327,7 @@ After this session, you will understand the mindset you need to make a change an
 #  
 #### SessionID: 42842
 # SSRS Troubleshooting Tips
-#### [Back to calendar](#SQLSaturday-#465-Providence-2015)
+#### [Back to calendar](#nr-465)
 Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Greg Celentano
 ## Title: SSRS Troubleshooting Tips

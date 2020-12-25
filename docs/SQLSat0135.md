@@ -1,3 +1,4 @@
+#### Nr: 135
 #### [Back to Main list](index.md)
 # SQLSaturday #135 - Brisbane 2012
 Start Time (24h)|Speaker|Track|Title
@@ -19,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 14826
 # Better Together: Merge, Partitioning, ColumnStore 
-#### [Back to calendar](#SQLSaturday-#135-Brisbane-2012)
+#### [Back to calendar](#nr-135)
 Event Date: 12-04-2012 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: Greg Low
 ## Title: Better Together: Merge, Partitioning, ColumnStore 
@@ -28,7 +29,7 @@ Event Date: 12-04-2012 - Session time: 00:00:00 - Track: SQL Server
 #  
 #### SessionID: 22056
 # If you had $10K what would you spend it on?
-#### [Back to calendar](#SQLSaturday-#135-Brisbane-2012)
+#### [Back to calendar](#nr-135)
 Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Mixed
 ## Speaker: Peter Ward
 ## Title: If you had $10K what would you spend it on?
@@ -38,7 +39,7 @@ Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Mixed
 #  
 #### SessionID: 22057
 # The Dark Art of Performance Tuning
-#### [Back to calendar](#SQLSaturday-#135-Brisbane-2012)
+#### [Back to calendar](#nr-135)
 Event Date: 12-04-2012 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: Peter Ward
 ## Title: The Dark Art of Performance Tuning
@@ -47,7 +48,7 @@ Event Date: 12-04-2012 - Session time: 00:00:00 - Track: SQL Server
 #  
 #### SessionID: 22376
 # Tabular Modelling and Design Concepts
-#### [Back to calendar](#SQLSaturday-#135-Brisbane-2012)
+#### [Back to calendar](#nr-135)
 Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Business Intelligence 
 ## Speaker: Paul te Braak
 ## Title: Tabular Modelling and Design Concepts
@@ -56,7 +57,7 @@ Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 23208
 # Query Tuning Using Lessons Learned from SSIS
-#### [Back to calendar](#SQLSaturday-#135-Brisbane-2012)
+#### [Back to calendar](#nr-135)
 Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Mixed
 ## Speaker: Rob Farley
 ## Title: Query Tuning Using Lessons Learned from SSIS
@@ -65,7 +66,7 @@ Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Mixed
 #  
 #### SessionID: 23209
 # Analytic T-SQL Functions in 2012
-#### [Back to calendar](#SQLSaturday-#135-Brisbane-2012)
+#### [Back to calendar](#nr-135)
 Event Date: 12-04-2012 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: Rob Farley
 ## Title: Analytic T-SQL Functions in 2012
@@ -74,7 +75,7 @@ Event Date: 12-04-2012 - Session time: 00:00:00 - Track: SQL Server
 #  
 #### SessionID: 23210
 # The MERGE Statement - T-SQL's Swiss Army Knife
-#### [Back to calendar](#SQLSaturday-#135-Brisbane-2012)
+#### [Back to calendar](#nr-135)
 Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Business Intelligence 
 ## Speaker: Rob Farley
 ## Title: The MERGE Statement - T-SQL's Swiss Army Knife
@@ -83,7 +84,7 @@ Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 23236
 # Troubleshooting SQL Issues using Ring Buffers
-#### [Back to calendar](#SQLSaturday-#135-Brisbane-2012)
+#### [Back to calendar](#nr-135)
 Event Date: 12-04-2012 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: Rob Risetto
 ## Title: Troubleshooting SQL Issues using Ring Buffers
@@ -92,7 +93,7 @@ Event Date: 12-04-2012 - Session time: 00:00:00 - Track: SQL Server
 #  
 #### SessionID: 23382
 # A Lap Around SQL Azure
-#### [Back to calendar](#SQLSaturday-#135-Brisbane-2012)
+#### [Back to calendar](#nr-135)
 Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Business Intelligence 
 ## Speaker: Rod Colledge
 ## Title: A Lap Around SQL Azure
@@ -101,7 +102,7 @@ Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 23383
 #  BI Architecture with SQL 2012  SharePoint 2010
-#### [Back to calendar](#SQLSaturday-#135-Brisbane-2012)
+#### [Back to calendar](#nr-135)
 Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Business Intelligence 
 ## Speaker: Rod Colledge
 ## Title:  BI Architecture with SQL 2012  SharePoint 2010
@@ -110,7 +111,7 @@ Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 23413
 # Visualising  your data with PivotViewer
-#### [Back to calendar](#SQLSaturday-#135-Brisbane-2012)
+#### [Back to calendar](#nr-135)
 Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Business Intelligence 
 ## Speaker: Roger Noble
 ## Title: Visualising  your data with PivotViewer
@@ -119,7 +120,7 @@ Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 27660
 # Keeping the light's on with SQL 2012 Always On
-#### [Back to calendar](#SQLSaturday-#135-Brisbane-2012)
+#### [Back to calendar](#nr-135)
 Event Date: 12-04-2012 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: Warwick Rudd
 ## Title: Keeping the light's on with SQL 2012 Always On
@@ -128,7 +129,7 @@ Event Date: 12-04-2012 - Session time: 00:00:00 - Track: SQL Server
 #  
 #### SessionID: 34649
 # Introducing Contained Databases in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#135-Brisbane-2012)
+#### [Back to calendar](#nr-135)
 Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Mixed
 ## Speaker: Heidi Wilson
 ## Title: Introducing Contained Databases in SQL Server 2012
@@ -137,7 +138,7 @@ Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Mixed
 #  
 #### SessionID: 9061
 # 3D Glasses for SQL Server Error Logs
-#### [Back to calendar](#SQLSaturday-#135-Brisbane-2012)
+#### [Back to calendar](#nr-135)
 Event Date: 12-04-2012 - Session time: 00:00:00 - Track: Mixed
 ## Speaker: Peter O'Gorman
 ## Title: 3D Glasses for SQL Server Error Logs

@@ -1,3 +1,4 @@
+#### Nr: 510
 #### [Back to Main list](index.md)
 # SQLSaturday #510 - Paris 2016
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 45753
 # Handling Relationships in DAX
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Eau - Plongez dans la BI
 ## Speaker: Marco Russo
 ## Title: Handling Relationships in DAX
@@ -34,7 +35,7 @@ Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Eau - Plongez dans la B
 #  
 #### SessionID: 47723
 # Et si ... nous connections SSAS Tabular sur Datalake ?
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Air - la puissance du Cloud
 ## Speaker: Charles-Henri Sauget
 ## Title: Et si ... nous connections SSAS Tabular sur Datalake ?
@@ -52,7 +53,7 @@ Pensez-vous qu'une telle architecture peut donner quelque chose de viable ? Vene
 #  
 #### SessionID: 47880
 # The Backup Tune-up
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Feu - des performances brulantes
 ## Speaker: Sean McCown
 ## Title: The Backup Tune-up
@@ -61,7 +62,7 @@ Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Feu - des performances 
 #  
 #### SessionID: 48519
 # Why and how to Implement PowerShell DSC for SQL Server
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Metal - la robustesse de SQL Server
 ## Speaker: Ryan Yates
 ## Title: Why and how to Implement PowerShell DSC for SQL Server
@@ -74,7 +75,7 @@ This session will also briefly cover the other core necessities that will be req
 #  
 #### SessionID: 44498
 # Demystifying clustered indexes
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Metal - la robustesse de SQL Server
 ## Speaker: Uwe Ricken
 ## Title: Demystifying clustered indexes
@@ -87,7 +88,7 @@ The session goal is to make decisions easier for you to use a clustered index or
 #  
 #### SessionID: 44732
 # My Favorite Pie (Chart): Simple Rules for Clear Visualizations
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Eau - Plongez dans la BI
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: My Favorite Pie (Chart): Simple Rules for Clear Visualizations
@@ -96,7 +97,7 @@ Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Eau - Plongez dans la B
 #  
 #### SessionID: 48322
 # SQL Server Scale-Out  Performance
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Feu - des performances brulantes
 ## Speaker: Christophe Laporte
 ## Title: SQL Server Scale-Out  Performance
@@ -105,7 +106,7 @@ Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Feu - des performances 
 #  
 #### SessionID: 48520
 # From StreamInsight to Azure Stream Analytics, or moving CEP to the Cloud
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Air - la puissance du Cloud
 ## Speaker: Marius Zaharia
 ## Title: From StreamInsight to Azure Stream Analytics, or moving CEP to the Cloud
@@ -114,7 +115,7 @@ Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Air - la puissance du C
 #  
 #### SessionID: 45090
 # Simplifying SQL Server Migrations using PowerShell
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Metal - la robustesse de SQL Server
 ## Speaker: Chrissy LeMaire
 ## Title: Simplifying SQL Server Migrations using PowerShell
@@ -128,7 +129,7 @@ Then I'll show you how to use the PowerShell dbatools module to simplify your SQ
 #  
 #### SessionID: 48469
 # Query Store ou comment donner de la m#233;moire #224; sa base de donn#233;es
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Feu - des performances brulantes
 ## Speaker: Philippe Geiger
 ## Title: Query Store ou comment donner de la m#233;moire #224; sa base de donn#233;es
@@ -138,7 +139,7 @@ Pendant une heure, nous allons regarder en d#233;tail ce qui fait tourner ce mot
 #  
 #### SessionID: 48717
 # Que choisir ? SharePoint 2016 BI ou PowerBI v2 ?
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Eau - Plongez dans la BI
 ## Speaker: serge Luca
 ## Title: Que choisir ? SharePoint 2016 BI ou PowerBI v2 ?
@@ -150,7 +151,7 @@ On premises nous avons SharePoint 2013 ainsi que de nouvelles fonctionnalit#233;
 #  
 #### SessionID: 48725
 # Cortana Analytics, de nouvelles patterns pour vos plateformes de donn#233;es
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Air - la puissance du Cloud
 ## Speaker: Jean-Pierre Riehl
 ## Title: Cortana Analytics, de nouvelles patterns pour vos plateformes de donn#233;es
@@ -161,7 +162,7 @@ Que font ces briques ? Lesquelles choisir ? Comment s'interconnectent-elles ? Qu
 #  
 #### SessionID: 47185
 # Mise #224; niveau du moteur de base de donn#233;es
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Metal - la robustesse de SQL Server
 ## Speaker: Sarah Bessard
 ## Title: Mise #224; niveau du moteur de base de donn#233;es
@@ -176,7 +177,7 @@ Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Metal - la robustesse d
 #  
 #### SessionID: 48471
 # Velib  Cortana (Event Hubs, ASA, ADF, AML, SQL DB, Power BI, ...)
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Air - la puissance du Cloud
 ## Speaker: Romain Casteres
 ## Title: Velib  Cortana (Event Hubs, ASA, ADF, AML, SQL DB, Power BI, ...)
@@ -195,7 +196,7 @@ Dans la pr#233;sentation nous montrerons comment nous avons mis en place la solu
 #  
 #### SessionID: 49669
 # End-to-End Troubleshooting for SQL Server 
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Feu - des performances brulantes
 ## Speaker: Kevin Kline
 ## Title: End-to-End Troubleshooting for SQL Server 
@@ -213,7 +214,7 @@ Every DBA needs to know how to keep their SQL Server in tip-top condition, and y
 #  
 #### SessionID: 49670
 # Dashboards dynamiques et percutants avec Power BI
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Eau - Plongez dans la BI
 ## Speaker: jean-pierre Girardot
 ## Title: Dashboards dynamiques et percutants avec Power BI
@@ -227,7 +228,7 @@ Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Eau - Plongez dans la B
 #  
 #### SessionID: 44354
 # Identity Mapping and De-Duplicating 
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Eau - Plongez dans la BI
 ## Speaker: Dejan Sarka
 ## Title: Identity Mapping and De-Duplicating 
@@ -236,7 +237,7 @@ Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Eau - Plongez dans la B
 #  
 #### SessionID: 44481
 # Locks, latches and spinlocks
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Feu - des performances brulantes
 ## Speaker: David Barbarin
 ## Title: Locks, latches and spinlocks
@@ -245,7 +246,7 @@ Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Feu - des performances 
 #  
 #### SessionID: 44755
 # Hi there, I’m Cortana: Cortana Analytics Data Visualisations with Power BI
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Air - la puissance du Cloud
 ## Speaker: Jen Stirrup
 ## Title: Hi there, I’m Cortana: Cortana Analytics Data Visualisations with Power BI
@@ -256,7 +257,7 @@ Having spent time studying Artificial Intelligence at universities in the UK and
 #  
 #### SessionID: 46735
 # New Security Features in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#510-Paris-2016)
+#### [Back to calendar](#nr-510)
 Event Date: 25-06-2016 - Session time: 16:30:00 - Track: Metal - la robustesse de SQL Server
 ## Speaker: Gianluca Sartori
 ## Title: New Security Features in SQL Server 2016

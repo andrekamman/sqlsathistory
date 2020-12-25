@@ -1,3 +1,4 @@
+#### Nr: 627
 #### [Back to Main list](index.md)
 # SQLSaturday #627 - South Florida 2017
 Start Time (24h)|Speaker|Track|Title
@@ -56,7 +57,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 59903
 # Create lightning fast Dashboard with Power BI and its Components
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Power BI and more
 ## Speaker: Vishal Pawar
 ## Title: Create lightning fast Dashboard with Power BI and its Components
@@ -65,7 +66,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Power BI and more
 #  
 #### SessionID: 61635
 # I'm a DBA. Now what?
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Fabiano Amorim
 ## Title: I'm a DBA. Now what?
@@ -74,7 +75,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 63682
 # Artificial Intelligence:Canned  Ready to Consume in MS Cognitive Services
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Data Science
 ## Speaker: Joe Homnick
 ## Title: Artificial Intelligence:Canned  Ready to Consume in MS Cognitive Services
@@ -83,7 +84,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Data Science
 #  
 #### SessionID: 63764
 # The DBA Career Path - An Open Discussion
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Andy Warren
 ## Title: The DBA Career Path - An Open Discussion
@@ -92,7 +93,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 63974
 # T-SQL Performance Guidelines for better DB stress powers
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for better DB stress powers
@@ -101,7 +102,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 63991
 # Using PowerQuery to track progress in tuning a stored procedure or complex view
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Ernest Ostrander
 ## Title: Using PowerQuery to track progress in tuning a stored procedure or complex view
@@ -111,7 +112,7 @@ The focus of this session is PowerQuery, not stored procedures , views or the tu
 #  
 #### SessionID: 64055
 # Query Store
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Sam Mesel
 ## Title: Query Store
@@ -122,7 +123,7 @@ This session will show you how to enable and use Query Store features, like: obt
 #  
 #### SessionID: 64101
 # Data Security with Power BI, SSAS, SQL Server and Active Directory
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Hector Villafuerte
 ## Title: Data Security with Power BI, SSAS, SQL Server and Active Directory
@@ -132,7 +133,7 @@ In this session, BI Architect and Microsoft Certified Professional, Hector Villa
 #  
 #### SessionID: 64102
 # What's new with SQL Server vNext
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Pankaj Satyaketu
 ## Title: What's new with SQL Server vNext
@@ -141,7 +142,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 64441
 # How to Manage Many Instances of SQL
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Tracy Boggiano
 ## Title: How to Manage Many Instances of SQL
@@ -150,7 +151,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 61657
 # PowerShell working with Python and SQL Server
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Development
 ## Speaker: Maximo Trinidad
 ## Title: PowerShell working with Python and SQL Server
@@ -159,7 +160,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Development
 #  
 #### SessionID: 63467
 # But I Want it in Excel...
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Data Science
 ## Speaker: Perry Patterson
 ## Title: But I Want it in Excel...
@@ -170,7 +171,7 @@ Instead of fighting your users, make them your partners!  Save time running repo
 #  
 #### SessionID: 63911
 # Real World DBA Toolkit: Focus Databases
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Lowell Izaguirre
 ## Title: Real World DBA Toolkit: Focus Databases
@@ -183,7 +184,7 @@ Lowell's codebase introduces a unified strategy for a huge list of Database Leve
 #  
 #### SessionID: 63973
 # Performance Dreams started at SQL Server 2014 and come true now at SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Shehab El-Najjar
 ## Title: Performance Dreams started at SQL Server 2014 and come true now at SQL Server 2016
@@ -192,7 +193,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 64080
 # Becoming a Trusted Advisor
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Jay Alexander
 ## Title: Becoming a Trusted Advisor
@@ -201,7 +202,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 64103
 # Applied Machine Learning with R Programming and Power BI Dashboard
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Data Science
 ## Speaker: Adriano da Silva
 ## Title: Applied Machine Learning with R Programming and Power BI Dashboard
@@ -210,7 +211,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Data Science
 #  
 #### SessionID: 64154
 # Enabling EDW and BI workloads on Hadoop with Hive / LLAP
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Luis Figueroa
 ## Title: Enabling EDW and BI workloads on Hadoop with Hive / LLAP
@@ -220,7 +221,7 @@ In this session, Luis Figueroa (Solutions Engineer @ Hortonworks) will walk you 
 #  
 #### SessionID: 64485
 # Know What Your Code is Doing to SQL Server!
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Development
 ## Speaker: Kevin Boles
 ## Title: Know What Your Code is Doing to SQL Server!
@@ -229,7 +230,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Development
 #  
 #### SessionID: 64904
 # Who's Afraid of Entity Framework?
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Development
 ## Speaker: Richie Rump
 ## Title: Who's Afraid of Entity Framework?
@@ -240,7 +241,7 @@ EF and other object relational mapping technologies have been a boon for develop
 #  
 #### SessionID: 65194
 # 5 Things To Consider: Stretching Failover Clustered Instances  Availability Groups to Azure
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Edwin M Sarmiento
 ## Title: 5 Things To Consider: Stretching Failover Clustered Instances  Availability Groups to Azure
@@ -249,7 +250,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 66410
 # 2,4,8  16 - Upgrade your journey with SQL Server
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration
 ## Speaker: Satya Jayanty
 ## Title: 2,4,8  16 - Upgrade your journey with SQL Server
@@ -268,7 +269,7 @@ We will cover the complete upgrade cycle, including the preparation tasks, upgra
 #  
 #### SessionID: 64324
 # Concurrency Controls and Isolation Levels in SQL Server
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Carlos Colon
 ## Title: Concurrency Controls and Isolation Levels in SQL Server
@@ -277,7 +278,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 65396
 # Transform SQL Server (by Pureshare)
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: SQL Server
 ## Speaker: Robert Torres
 ## Title: Transform SQL Server (by Pureshare)
@@ -286,7 +287,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: SQL Server
 #  
 #### SessionID: 66513
 # Transform SQL Server Agility with XtremIO
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Rodney Rubio
 ## Title: Transform SQL Server Agility with XtremIO
@@ -295,7 +296,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 66639
 # Monitor and maintain your SQL Server environment anytime, anywher
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: DevOps
 ## Speaker: Gordon Cornelius
 ## Title: Monitor and maintain your SQL Server environment anytime, anywher
@@ -304,7 +305,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: DevOps
 #  
 #### SessionID: 62624
 # Supercharge Your Maintenance Plans!
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Troy Gallant
 ## Title: Supercharge Your Maintenance Plans!
@@ -315,7 +316,7 @@ In this session, not only will we introduce these scripts to those unfamiliar wi
 #  
 #### SessionID: 63736
 # For Love or Money, Your Tech Career
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Alex Funkhouser
 ## Title: For Love or Money, Your Tech Career
@@ -328,7 +329,7 @@ In this highly interactive group session, you will learn multiple career strateg
 #  
 #### SessionID: 63765
 # Devops  Continuous Release for the DBA
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: DevOps
 ## Speaker: Andy Warren
 ## Title: Devops  Continuous Release for the DBA
@@ -337,7 +338,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: DevOps
 #  
 #### SessionID: 63802
 # SQL to NoSQL: Querying Azure DocumentDb
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Development
 ## Speaker: Jason Brugger
 ## Title: SQL to NoSQL: Querying Azure DocumentDb
@@ -346,7 +347,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Development
 #  
 #### SessionID: 64032
 # Virtual HA: Running FCI and AGs in a Virtual Environment
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Shawn Meyers
 ## Title: Virtual HA: Running FCI and AGs in a Virtual Environment
@@ -359,7 +360,7 @@ Review key settings and configurations for the virtual platform, the virtual mac
 #  
 #### SessionID: 64089
 # Heckin Sweet Reports with Power BI
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Power BI and more
 ## Speaker: Julie Smith
 ## Title: Heckin Sweet Reports with Power BI
@@ -368,7 +369,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Power BI and more
 #  
 #### SessionID: 64330
 # Data Science: From theory to practice
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Data Science
 ## Speaker: Josh Kodi
 ## Title: Data Science: From theory to practice
@@ -381,7 +382,7 @@ Finally, the session will give you tidbits to explore advanced concepts on your 
 #  
 #### SessionID: 66408
 # Big Data with Azure: where to begin? Concepts and best practices
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Data Science
 ## Speaker: Satya Jayanty
 ## Title: Big Data with Azure: where to begin? Concepts and best practices
@@ -392,7 +393,7 @@ Microsoft Azure has the ability to move, store and analyze data within the cloud
 #  
 #### SessionID: 61430
 # R Integration in Microsoft Solutions
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Data Science
 ## Speaker: Ryan Fonnett
 ## Title: R Integration in Microsoft Solutions
@@ -401,7 +402,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Data Science
 #  
 #### SessionID: 61633
 # Advanced SQL Server execution plans
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Fabiano Amorim
 ## Title: Advanced SQL Server execution plans
@@ -410,7 +411,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 62511
 # Introducing the Limitless DBA-  Copy Data Management, DBA Style
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Introducing the Limitless DBA-  Copy Data Management, DBA Style
@@ -431,7 +432,7 @@ Join Kellyn Pot’Vin-Gorman as she demonstrates why virtualization is key to em
 #  
 #### SessionID: 62512
 # The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
@@ -444,7 +445,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 63906
 # SQL Server Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Nadeem Akhter
 ## Title: SQL Server Tips  Tricks
@@ -453,7 +454,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 63910
 # Real World DBA Toolkit: Focus Server
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Lowell Izaguirre
 ## Title: Real World DBA Toolkit: Focus Server
@@ -466,7 +467,7 @@ Lowell's codebase introduces a unified strategy for a huge list of Server Level 
 #  
 #### SessionID: 64056
 # InMemory Improvements on SQL 2016
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: SQL Server
 ## Speaker: Sam Mesel
 ## Title: InMemory Improvements on SQL 2016
@@ -476,7 +477,7 @@ This session will cover how to implement InMemory objects, new capabilities (Def
 #  
 #### SessionID: 64079
 # Azure Data Lake Store  Data Lake Analytics - Let's Go Swimming!
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Data Science
 ## Speaker: Audrey Hammonds
 ## Title: Azure Data Lake Store  Data Lake Analytics - Let's Go Swimming!
@@ -485,7 +486,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Data Science
 #  
 #### SessionID: 64325
 # Practical Uses for SQL Server 2016 Dynamic Data Masking
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Carlos Colon
 ## Title: Practical Uses for SQL Server 2016 Dynamic Data Masking
@@ -494,7 +495,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 64344
 # Lightweight geo-replication for SQL Server using the Azure Service Bus
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Herve Roggero
 ## Title: Lightweight geo-replication for SQL Server using the Azure Service Bus
@@ -503,7 +504,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 64856
 # Brand yourself like a pro
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Patricia Monica Ojeda
 ## Title: Brand yourself like a pro
@@ -514,7 +515,7 @@ In this interactive session you will learn how to use Social Media to create you
 #  
 #### SessionID: 65193
 # Architecting a SQL Server AlwaysOn Availability Groups Topology Without Losing Your Sanity
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Edwin M Sarmiento
 ## Title: Architecting a SQL Server AlwaysOn Availability Groups Topology Without Losing Your Sanity
@@ -530,7 +531,7 @@ You will learn:
 #  
 #### SessionID: 62772
 # Working with SQL Server for Linux Cross-Platform
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Maximo Trinidad
 ## Title: Working with SQL Server for Linux Cross-Platform
@@ -539,7 +540,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 64440
 # Query Store Primer
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
@@ -548,7 +549,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 64483
 # On-Demand Creation of Dev/Test/Reporting Databases with SQL Clone
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: DevOps
 ## Speaker: Kevin Boles
 ## Title: On-Demand Creation of Dev/Test/Reporting Databases with SQL Clone
@@ -561,7 +562,7 @@ In this session we will examine how SQL Clone uses disk virtualization to enable
 #  
 #### SessionID: 64698
 # So You think You can Speak?
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Diana Betancourt
 ## Title: So You think You can Speak?
@@ -572,7 +573,7 @@ If you have an interest in SQL or any of the Microsoft Data platform technologie
 #  
 #### SessionID: 65557
 # Introduction to Visualizations with R
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Data Science
 ## Speaker: Stephen Ippolito
 ## Title: Introduction to Visualizations with R
@@ -581,7 +582,7 @@ Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Data Science
 #  
 #### SessionID: 66200
 # How the Grinch Stole SQL Server Performance
-#### [Back to calendar](#SQLSaturday-#627-South-Florida-2017)
+#### [Back to calendar](#nr-627)
 Event Date: 10-06-2017 - Session time: 16:00:00 - Track: Database Development
 ## Speaker: Dmitri Korotkevitch
 ## Title: How the Grinch Stole SQL Server Performance

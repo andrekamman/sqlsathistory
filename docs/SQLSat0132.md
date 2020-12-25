@@ -1,3 +1,4 @@
+#### Nr: 132
 #### [Back to Main list](index.md)
 # SQLSaturday #132 - Pensacola 2012
 Start Time (24h)|Speaker|Track|Title
@@ -44,7 +45,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11023
 # SQL Azure For Developers
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Bryan Soltis
 ## Title: SQL Azure For Developers
@@ -53,7 +54,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 11445
 # Replication Magic: Initializing From Backups
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Robert Davis
 ## Title: Replication Magic: Initializing From Backups
@@ -64,7 +65,7 @@ Demos will include initializing a subscriber from a transaction log backup and p
 #  
 #### SessionID: 11466
 # The Legend of Lambda
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: MISC
 ## Speaker: Chris Eargle
 ## Title: The Legend of Lambda
@@ -73,7 +74,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: MISC
 #  
 #### SessionID: 11967
 # A Lap Around Data Quality Services 2012 
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Performance/Security
 ## Speaker: Christopher Price
 ## Title: A Lap Around Data Quality Services 2012 
@@ -82,7 +83,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Performance/Security
 #  
 #### SessionID: 13730
 # Windows PowerShell best practices for the busy DBA
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Ed Wilson
 ## Title: Windows PowerShell best practices for the busy DBA
@@ -91,7 +92,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 14031
 # Data Quality Made Simple
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Eric Wisdahl
 ## Title: Data Quality Made Simple
@@ -100,7 +101,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 16984
 # It’s In There Somewhere!
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: New in 2012
 ## Speaker: James McAuliffe
 ## Title: It’s In There Somewhere!
@@ -111,7 +112,7 @@ It’s like having the biggest junk drawer EVER.  That’s often what our “Doc
 #  
 #### SessionID: 17386
 # Do More With Less: Consolidate and Virtualize
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jorge Segarra
 ## Title: Do More With Less: Consolidate and Virtualize
@@ -120,7 +121,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17387
 # Policy-Based Management in a Nutshell
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: MISC
 ## Speaker: Jorge Segarra
 ## Title: Policy-Based Management in a Nutshell
@@ -129,7 +130,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: MISC
 #  
 #### SessionID: 17961
 # 5 Minute Speed Rounds by Various Speakers
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: MISC
 ## Speaker: Karla Landrum
 ## Title: 5 Minute Speed Rounds by Various Speakers
@@ -138,7 +139,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: MISC
 #  
 #### SessionID: 17962
 # Prepare for When Disaster Strikes by Steve Jones
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Karla Landrum
 ## Title: Prepare for When Disaster Strikes by Steve Jones
@@ -147,7 +148,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 18005
 # Building an Infrastructure for Secure SQL Servers
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Performance/Security
 ## Speaker: Brian Kelley
 ## Title: Building an Infrastructure for Secure SQL Servers
@@ -156,7 +157,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Performance/Security
 #  
 #### SessionID: 18007
 # The Dirty Business of Auditing
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: MISC
 ## Speaker: Brian Kelley
 ## Title: The Dirty Business of Auditing
@@ -165,7 +166,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: MISC
 #  
 #### SessionID: 18181
 # Microsoft's BI Tools Overview
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Kevin Grohoske
 ## Title: Microsoft's BI Tools Overview
@@ -174,7 +175,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 18627
 # Creating Dashboards with PerformancePoint Services
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Devin Knight
 ## Title: Creating Dashboards with PerformancePoint Services
@@ -183,7 +184,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 18629
 # Adapting your ETL Solutions to use SSIS 2012
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Devin Knight
 ## Title: Adapting your ETL Solutions to use SSIS 2012
@@ -192,7 +193,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20025
 # SQL 2012 DMV's  Extended Events
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: New in 2012
 ## Speaker: Gareth Swanepoel
 ## Title: SQL 2012 DMV's  Extended Events
@@ -201,7 +202,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: New in 2012
 #  
 #### SessionID: 20719
 # Service your Applications with WCF
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Mike Huguet
 ## Title: Service your Applications with WCF
@@ -210,7 +211,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 20724
 # SharePoint Primer for .NET Developers
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Mike Huguet
 ## Title: SharePoint Primer for .NET Developers
@@ -219,7 +220,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 22740
 # SQL Azure Reporting
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: MISC
 ## Speaker: Ryan Duclos
 ## Title: SQL Azure Reporting
@@ -230,7 +231,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: MISC
 #  
 #### SessionID: 22948
 # SSIS 2012: Project Deployment Model End To End
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: New in 2012
 ## Speaker: Rafael Salas
 ## Title: SSIS 2012: Project Deployment Model End To End
@@ -240,7 +241,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: New in 2012
 #  
 #### SessionID: 23321
 # Lego Sets: Relational Building Blocks
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Rob Volk
 ## Title: Lego Sets: Relational Building Blocks
@@ -249,7 +250,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 23323
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: MISC
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -258,7 +259,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: MISC
 #  
 #### SessionID: 23610
 # Bring Data to Life! by Russ Fustino
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Performance/Security
 ## Speaker: Russell Fustino
 ## Title: Bring Data to Life! by Russ Fustino
@@ -267,7 +268,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Performance/Security
 #  
 #### SessionID: 24454
 # Encryption in SQL Server
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Performance/Security
 ## Speaker: Steve Jones
 ## Title: Encryption in SQL Server
@@ -276,7 +277,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Performance/Security
 #  
 #### SessionID: 24455
 # Unstructured Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Steve Jones
 ## Title: Unstructured Data in SQL Server
@@ -285,7 +286,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 24909
 # SQL Server 2012 AlwaysOn for HA and DR
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: New in 2012
 ## Speaker: Chad Churchwell
 ## Title: SQL Server 2012 AlwaysOn for HA and DR
@@ -294,7 +295,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: New in 2012
 #  
 #### SessionID: 25910
 # Upgrading SSIS Packages to SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: New in 2012
 ## Speaker: Sven Aelterman
 ## Title: Upgrading SSIS Packages to SQL Server 2012
@@ -303,7 +304,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: New in 2012
 #  
 #### SessionID: 25911
 # What's New for Developers in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Sven Aelterman
 ## Title: What's New for Developers in SQL Server 2012
@@ -312,7 +313,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 26337
 # Windowing Functions: THE Reason to Upgrade to 2012
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012
@@ -321,7 +322,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 26339
 # SQL Server 2012 TSQL Enhancements and Additions
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: New in 2012
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2012 TSQL Enhancements and Additions
@@ -330,7 +331,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: New in 2012
 #  
 #### SessionID: 26511
 # Using SSIS 2012 for ETL in a Data Warehouse
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Thomas LeBlanc
 ## Title: Using SSIS 2012 for ETL in a Data Warehouse
@@ -339,7 +340,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 26512
 # Execution Plan Beyond Basics
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Performance/Security
 ## Speaker: Thomas LeBlanc
 ## Title: Execution Plan Beyond Basics
@@ -348,7 +349,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Performance/Security
 #  
 #### SessionID: 26675
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: MISC
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -359,7 +360,7 @@ In this session Tim Radney will cover several methods for performing much needed
 #  
 #### SessionID: 26765
 #  Pro Tips:  Performance Tuning SSIS
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Performance/Security
 ## Speaker: Tim Costello
 ## Title:  Pro Tips:  Performance Tuning SSIS
@@ -368,7 +369,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Performance/Security
 #  
 #### SessionID: 27870
 # Beyond Plateaux: Optimize SSAS with Best Practices
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: William E Pearson III
 ## Title: Beyond Plateaux: Optimize SSAS with Best Practices
@@ -377,7 +378,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 27875
 # Getting Started with MDX: The (Very) Basics
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX: The (Very) Basics
@@ -387,7 +388,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 28185
 # SQL Server Permissions and Security Principals
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Performance/Security
 ## Speaker: William Assaf
 ## Title: SQL Server Permissions and Security Principals
@@ -396,7 +397,7 @@ Event Date: 09-06-2012 - Session time: 00:00:00 - Track: Performance/Security
 #  
 #### SessionID: 9779
 # Troubleshooting SQL Server with SysInternals Tools
-#### [Back to calendar](#SQLSaturday-#132-Pensacola-2012)
+#### [Back to calendar](#nr-132)
 Event Date: 09-06-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Argenis Fernandez
 ## Title: Troubleshooting SQL Server with SysInternals Tools

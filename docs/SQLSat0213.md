@@ -1,3 +1,4 @@
+#### Nr: 213
 #### [Back to Main list](index.md)
 # SQLSaturday #213 - Providence 2013
 Start Time (24h)|Speaker|Track|Title
@@ -33,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10820
 # Reporting Services for Mere DBAs
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jason Brimhall
 ## Title: Reporting Services for Mere DBAs
@@ -42,7 +43,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 10822
 # SQL 2012 Table Compression
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Table Compression
@@ -51,7 +52,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 11026
 # Power Programming in SSIS 2008 R2 and 2012
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Bryan Cafferky
 ## Title: Power Programming in SSIS 2008 R2 and 2012
@@ -60,7 +61,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11855
 # An Introduction to Extended Events
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jack Corbett
 ## Title: An Introduction to Extended Events
@@ -78,7 +79,7 @@ What you should know coming in:
 #  
 #### SessionID: 12903
 # Building Your First Tabular Model
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dan Clark
 ## Title: Building Your First Tabular Model
@@ -87,7 +88,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 12904
 # Mastering Date-Time Based Analysis in DAX
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Dan Clark
 ## Title: Mastering Date-Time Based Analysis in DAX
@@ -96,7 +97,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 13840
 # Query Optimization Crash Course
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Edward Pollack
 ## Title: Query Optimization Crash Course
@@ -106,7 +107,7 @@ This is a fun, fast-paced walkthrough of the most effective strategies for query
 #  
 #### SessionID: 14525
 # SQL Server 2012 AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: George Walters
 ## Title: SQL Server 2012 AlwaysOn Availability Groups
@@ -115,7 +116,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 14526
 # SQL Server 2012 Failover Clustering
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: George Walters
 ## Title: SQL Server 2012 Failover Clustering
@@ -124,7 +125,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 16730
 # Development Lifecycle with SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: John Flannery
 ## Title: Development Lifecycle with SQL Server Data Tools
@@ -133,7 +134,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17034
 # Effective Data Warehouse Storage Patterns
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: John Miner
 ## Title: Effective Data Warehouse Storage Patterns
@@ -158,7 +159,7 @@ Coverage:
 #  
 #### SessionID: 17036
 # Full Text Indexing Basics
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: John Miner
 ## Title: Full Text Indexing Basics
@@ -183,7 +184,7 @@ Coverage:
 #  
 #### SessionID: 17561
 # Creating an SSIS Framework
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: James Phillips
 ## Title: Creating an SSIS Framework
@@ -192,7 +193,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19334
 # Sharepoint 2013 performance point Dashboard On SSAS Cube
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: atif yasin
 ## Title: Sharepoint 2013 performance point Dashboard On SSAS Cube
@@ -206,7 +207,7 @@ In this hands-on presentation, we shall be creating a performance point dashboar
 #  
 #### SessionID: 19396
 # Building Tabular Analysis Models in Excel 2013
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Akesh Gupta
 ## Title: Building Tabular Analysis Models in Excel 2013
@@ -215,7 +216,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 20525
 # What the VLF? 
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mike Hillwig
 ## Title: What the VLF? 
@@ -229,7 +230,7 @@ In this more advanced session, veteran DBA Mike Hillwig will show you what VLFs 
 #  
 #### SessionID: 20528
 # DBA's Rules for Dummies... And Developers
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Mike Hillwig
 ## Title: DBA's Rules for Dummies... And Developers
@@ -240,7 +241,7 @@ In this session for developers, veteran production DBA Mike Hillwig will help yo
 #  
 #### SessionID: 20618
 # What I Wish I Knew Before Becoming a DBA
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mike Walsh
 ## Title: What I Wish I Knew Before Becoming a DBA
@@ -253,7 +254,7 @@ He'll look through his 13 years of DBA experience and share some of the lessons 
 #  
 #### SessionID: 21659
 # Database Forensics - Part 1
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Paresh Motiwala
 ## Title: Database Forensics - Part 1
@@ -272,7 +273,7 @@ In this the first of the two part session, we will explore the following:
 #  
 #### SessionID: 21660
 # Database Forensics - Part 2
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Paresh Motiwala
 ## Title: Database Forensics - Part 2
@@ -286,7 +287,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21701
 # 5 Key Points for Effective T-SQL Unit Testing
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Sebastian Meine
 ## Title: 5 Key Points for Effective T-SQL Unit Testing
@@ -295,7 +296,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 21702
 # 15 aspects of SQL Server indexes that you might not know
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Sebastian Meine
 ## Title: 15 aspects of SQL Server indexes that you might not know
@@ -310,7 +311,7 @@ After attending this demo rich session you will be able to
 #  
 #### SessionID: 25196
 # Adding Strategic Value By Leveraging Business Intelligence
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Steve Simon
 ## Title: Adding Strategic Value By Leveraging Business Intelligence
@@ -319,7 +320,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 25330
 # I 'wanna' learn SQL Server
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Steve Simon
 ## Title: I 'wanna' learn SQL Server
@@ -328,7 +329,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 25871
 # Self Service BI: Office 2013 and SQL 2012
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Sunil Kadimdiwan
 ## Title: Self Service BI: Office 2013 and SQL 2012
@@ -338,7 +339,7 @@ In this session I will focus on how you can use the new features of Office 2013 
 #  
 #### SessionID: 26971
 # Master Data Management Using MDS on SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Todd Chittenden
 ## Title: Master Data Management Using MDS on SQL Server 2012
@@ -349,7 +350,7 @@ In this session we'll discuss the philosophy of "Master Data Management" and how
 #  
 #### SessionID: 27693
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -358,7 +359,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 27695
 # Windowing Functions in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#213-Providence-2013)
+#### [Back to calendar](#nr-213)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Wayne Sheffield
 ## Title: Windowing Functions in SQL Server 2012

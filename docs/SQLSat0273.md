@@ -1,3 +1,4 @@
+#### Nr: 273
 #### [Back to Main list](index.md)
 # SQLSaturday #273 - Tampa 2014
 Start Time (24h)|Speaker|Track|Title
@@ -45,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10041
 # Manage SQLServer Efficiently w/PowerShell Remoting
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Allen White
 ## Title: Manage SQLServer Efficiently w/PowerShell Remoting
@@ -54,7 +55,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 10148
 # Trimming Indexes Getting Your Database In Shape
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Bradley Ball
 ## Title: Trimming Indexes Getting Your Database In Shape
@@ -63,7 +64,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 10674
 # Treating Tables Like Legos, Partitioning Basics
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Brandon Leach
 ## Title: Treating Tables Like Legos, Partitioning Basics
@@ -72,7 +73,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 10758
 # The Modern Data Warehouse
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Brian Mitchell
 ## Title: The Modern Data Warehouse
@@ -81,7 +82,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 11114
 # BIML--Step by Step
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Julie Smith
 ## Title: BIML--Step by Step
@@ -90,7 +91,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 11560
 # Check Engine Lights
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Chris Skorlinski
 ## Title: Check Engine Lights
@@ -99,7 +100,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 11561
 # Your Best Interview Ever
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Chris Skorlinski
 ## Title: Your Best Interview Ever
@@ -109,7 +110,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 12535
 # Squeezing Top Performance from Your Virtualized SQL Server
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: David Klee
 ## Title: Squeezing Top Performance from Your Virtualized SQL Server
@@ -118,7 +119,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 13279
 # Eternal story on temporal objects
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Dmitri Korotkevitch
 ## Title: Eternal story on temporal objects
@@ -130,7 +131,7 @@ This session focuses on the temporary objects available in SQL Server. It talks 
 #  
 #### SessionID: 13984
 # Dynamic File Loading Using SSIS Programming 
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Jorge Novo
 ## Title: Dynamic File Loading Using SSIS Programming 
@@ -139,7 +140,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 14019
 # Free tools from the SQL Server Community
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Eric Wisdahl
 ## Title: Free tools from the SQL Server Community
@@ -149,7 +150,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 14310
 # An introduction to Business Intelligence and Big Data
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Frank Quintana
 ## Title: An introduction to Business Intelligence and Big Data
@@ -159,7 +160,7 @@ Anybody interested in BI and Big Data. Some knowledge of database and/or exposur
 #  
 #### SessionID: 14732
 # Statistics and Query Optimization
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Grant Fritchey
 ## Title: Statistics and Query Optimization
@@ -168,7 +169,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 15690
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
@@ -177,7 +178,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 15790
 # Maintenance and Backups:  How Ola makes your life 
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Jason Carter
 ## Title: Maintenance and Backups:  How Ola makes your life 
@@ -186,7 +187,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 16116
 # Designing and Optimizing SSAS Hierarchies
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Jose Chinchilla
 ## Title: Designing and Optimizing SSAS Hierarchies
@@ -195,7 +196,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 16308
 # How to be a GREAT DBA
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Jeffrey Garbus
 ## Title: How to be a GREAT DBA
@@ -207,7 +208,7 @@ Great for beginner to intermediate DBAs, as well as Developers who think this is
 #  
 #### SessionID: 16514
 # Combining SQL Server, SSRS and SSAS with Tableau Dashboards 
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Jen Underwood
 ## Title: Combining SQL Server, SSRS and SSAS with Tableau Dashboards 
@@ -223,7 +224,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 17051
 # SQL Server Amnesia: Diagnosing Memory Problems
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Jonathan Kehayias
 ## Title: SQL Server Amnesia: Diagnosing Memory Problems
@@ -232,7 +233,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 17208
 # Unit Testing SSIS Packages
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: John Welch
 ## Title: Unit Testing SSIS Packages
@@ -241,7 +242,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 17400
 # What is a BI DBA?
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Jorge Segarra
 ## Title: What is a BI DBA?
@@ -250,7 +251,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 18068
 # Discover, Document,  Diagnose Your Servers on Your Coffee Break
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Kendal Van Dyke
 ## Title: Discover, Document,  Diagnose Your Servers on Your Coffee Break
@@ -264,7 +265,7 @@ Attend this session and walk away with everything you need to generate documenta
 #  
 #### SessionID: 19967
 # Complex DAX Functions
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Mike Davis
 ## Title: Complex DAX Functions
@@ -273,7 +274,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 20416
 # Database Development Comes out of the Dark Ages
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: miguel Cebollero
 ## Title: Database Development Comes out of the Dark Ages
@@ -282,7 +283,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 20478
 # Introducing Cube World To Users From Flat Table Land
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Michael Antonovich
 ## Title: Introducing Cube World To Users From Flat Table Land
@@ -291,7 +292,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 22247
 # Big Data - HdInsight and Parallel Data Warehousing (PDW) 
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Philip Pees
 ## Title: Big Data - HdInsight and Parallel Data Warehousing (PDW) 
@@ -300,7 +301,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 22960
 # ETL: Avoiding Costly Mistakes
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Rafael Salas
 ## Title: ETL: Avoiding Costly Mistakes
@@ -310,7 +311,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 23147
 # Loading a Data Warehouse with SSIS
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Robert Biddle
 ## Title: Loading a Data Warehouse with SSIS
@@ -319,7 +320,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 23266
 # Harvesting Web Data Using Data Explorer and XML
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Rob Volk
 ## Title: Harvesting Web Data Using Data Explorer and XML
@@ -328,7 +329,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 23438
 # SQL Server Security Easy Button
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Ronald Dameron
 ## Title: SQL Server Security Easy Button
@@ -340,7 +341,7 @@ In addition, I’ll talk about our DBA’s real world experience with reduced pe
 #  
 #### SessionID: 24629
 # Translate SQL server performance issues into business costs
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Shawn Meyers
 ## Title: Translate SQL server performance issues into business costs
@@ -349,7 +350,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 24917
 # Introduction to SQL Server Replication
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Chad Churchwell
 ## Title: Introduction to SQL Server Replication
@@ -358,7 +359,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 25137
 # Database Design: Size DOES Matter
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Thomas LaRock
 ## Title: Database Design: Size DOES Matter
@@ -367,7 +368,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 25887
 # Can't we all just get along?
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Susan Rickman
 ## Title: Can't we all just get along?
@@ -378,7 +379,7 @@ How do you speak to your leadership team?  Your peers?  People who depend on you
 #  
 #### SessionID: 26015
 # Introduction to SSRS for DBAs 
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Jon Bloom
 ## Title: Introduction to SSRS for DBAs 
@@ -387,7 +388,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 26706
 # You Inherited a Database, Now What?
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Tim Radney
 ## Title: You Inherited a Database, Now What?
@@ -396,7 +397,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 26708
 # Getting involved and Getting ahead
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Tim Radney
 ## Title: Getting involved and Getting ahead
@@ -405,7 +406,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 27561
 # Introduction to FileTables in SQL 2012
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Warren Sifre
 ## Title: Introduction to FileTables in SQL 2012
@@ -414,7 +415,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 27683
 # Windowing Functions in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Wayne Sheffield
 ## Title: Windowing Functions in SQL Server 2012
@@ -423,7 +424,7 @@ Event Date: 22-02-2014 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 9574
 # PCI For The SQLDBA
-#### [Back to calendar](#SQLSaturday-#273-Tampa-2014)
+#### [Back to calendar](#nr-273)
 Event Date: 22-02-2014 - Session time: 00:00:00 - Track: 
 ## Speaker: Andy Warren
 ## Title: PCI For The SQLDBA

@@ -1,3 +1,4 @@
+#### Nr: 835
 #### [Back to Main list](index.md)
 # SQLSaturday #835 - Philadelphia 2019
 Start Time (24h)|Speaker|Track|Title
@@ -70,7 +71,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 87004
 # Power BI In a day Hands-On
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: PreCon (Friday)
 ## Speaker: Ravi Kumar
 ## Title: Power BI In a day Hands-On
@@ -104,7 +105,7 @@ Pre-requisite: Please have Pow
 #  
 #### SessionID: 87753
 # An Introduction to Data Science with Python for Data Professional
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: PreCon (Friday)
 ## Speaker: Chris Hyde
 ## Title: An Introduction to Data Science with Python for Data Professional
@@ -119,7 +120,7 @@ More Details and Sign-Up: https://sqlsat835precon2.eventbrite.com
 #  
 #### SessionID: 89509
 # Black Belt for DBA with Advanced Technologies.
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: PreCon (Friday)
 ## Speaker: Alex Grinberg
 ## Title: Black Belt for DBA with Advanced Technologies.
@@ -132,7 +133,7 @@ More Details and Sign-Up: https://sqlsat835precon1.eventbrite.com
 #  
 #### SessionID: 92532
 # Murder They Wrote
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: PreCon (Friday)
 ## Speaker: Wayne Sheffield
 ## Title: Murder They Wrote
@@ -144,7 +145,7 @@ More Information and Sign-Up: https://sqlsat835precon3.eventbrite.com
 #  
 #### SessionID: 87752
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -155,7 +156,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 88908
 # Effective Data Warehouse Storage Patterns
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: John Miner
 ## Title: Effective Data Warehouse Storage Patterns
@@ -179,7 +180,7 @@ Techniques:
 #  
 #### SessionID: 91373
 # The Anatomy of Select
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Jason Brimhall
 ## Title: The Anatomy of Select
@@ -192,7 +193,7 @@ This session will help the attendee better understand the Select statement. With
 #  
 #### SessionID: 87573
 # Networking 101: Getting Ready for a SQL Event
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Matt Cushing
 ## Title: Networking 101: Getting Ready for a SQL Event
@@ -203,7 +204,7 @@ In this session, we'll go over steps you can take before, during and after the e
 #  
 #### SessionID: 89182
 # What is DevOps and Why Should DBAs Care?
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kathi Kellenberger
 ## Title: What is DevOps and Why Should DBAs Care?
@@ -213,7 +214,7 @@ Attend this session to learn how DevOps is changing the DBAs world for the bette
 #  
 #### SessionID: 93560
 # MC3 TechDay Escape Room for All!
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Strategy and Architecture
 ## Speaker: Bill Rosenbaum
 ## Title: MC3 TechDay Escape Room for All!
@@ -224,7 +225,7 @@ What a great way to start your day in a fun way and pick up some IT security ins
 #  
 #### SessionID: 86991
 # Make Your Maintenance Plans Better and Faster
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paresh Motiwala
 ## Title: Make Your Maintenance Plans Better and Faster
@@ -236,7 +237,7 @@ I will also show you how third party tools like Copy Data Virtualization or Snap
 #  
 #### SessionID: 88963
 # Data Profiling or Statistics 201
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Slava Murygin
 ## Title: Data Profiling or Statistics 201
@@ -247,7 +248,7 @@ In order to make the process faster, we will use a hidden gem of SQL Server:  St
 #  
 #### SessionID: 89795
 # Entrepreneurship - Are you ready to make it on your own?
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Joe Wehr
 ## Title: Entrepreneurship - Are you ready to make it on your own?
@@ -270,7 +271,7 @@ If you have been thinking about “it” but aren't sure if you're ready, you ne
 #  
 #### SessionID: 91376
 # Intelligent Query Processing
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Wayne Sheffield
 ## Title: Intelligent Query Processing
@@ -287,7 +288,7 @@ Coming away from this session, you will have plenty of reasons to want to upgrad
 #  
 #### SessionID: 87005
 # Power BI for Developers
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: Bill Wolff
 ## Title: Power BI for Developers
@@ -296,7 +297,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 87430
 # SQL Development, Source Control, and Deployment with SSDT
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Tim Corey
 ## Title: SQL Development, Source Control, and Deployment with SSDT
@@ -305,7 +306,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 88440
 # SQL Graph
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Azhagappan Arunachalam
 ## Title: SQL Graph
@@ -314,7 +315,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 88569
 # Introduction to the R Programming Language for BI Professionals
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: Jeff Renz
 ## Title: Introduction to the R Programming Language for BI Professionals
@@ -325,7 +326,7 @@ In this session I will demonstrate how to use R Studio to generate and test R sc
 #  
 #### SessionID: 89184
 # T-SQL Window Function Performance
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Performance
@@ -334,7 +335,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 90234
 # Constructive Conversations Getting Unstuck by Being Supportively Outspoken
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Je'Anna Lanza-Abbott
 ## Title: Constructive Conversations Getting Unstuck by Being Supportively Outspoken
@@ -343,7 +344,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Professional Developmen
 #  
 #### SessionID: 90311
 # Making Peace with SQL Server Integration Services - Part I Getting Started A Reluctant User's Guide
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Joshua Lynn
 ## Title: Making Peace with SQL Server Integration Services - Part I Getting Started A Reluctant User's Guide
@@ -352,7 +353,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 86990
 # BI Infrastructure in Azure: Points to Consider
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paresh Motiwala
 ## Title: BI Infrastructure in Azure: Points to Consider
@@ -368,7 +369,7 @@ We will also learn about setting up teams and ways to train them(and yourself) i
 #  
 #### SessionID: 89107
 # Self-Service ETL with Power Query
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan Clark
 ## Title: Self-Service ETL with Power Query
@@ -377,7 +378,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89427
 # Practical Monitoring of TempDB
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Kelly
 ## Title: Practical Monitoring of TempDB
@@ -386,7 +387,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88867
 # Introduction to Azure Cosmos DB
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Leonard Lobel
 ## Title: Introduction to Azure Cosmos DB
@@ -397,7 +398,7 @@ We tour many features of Cosmos DB, including its multi-model capabilities which
 #  
 #### SessionID: 88909
 # Staging data for Azure SQL services
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: John Miner
 ## Title: Staging data for Azure SQL services
@@ -421,7 +422,7 @@ Today, we will learn how to stage data using Azure blob storage which can be ing
 #  
 #### SessionID: 89513
 # Possiblities and Limitations of System-Versioned Temporal Tables beyond the Basics
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Reinhard Flügel
 ## Title: Possiblities and Limitations of System-Versioned Temporal Tables beyond the Basics
@@ -430,7 +431,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 93486
 # T-SQL Tips  Tricks to Make Your Life Easier!
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: T-SQL Tips  Tricks to Make Your Life Easier!
@@ -441,7 +442,7 @@ Prerequisites: Basic T-SQL development knowledge.
 #  
 #### SessionID: 90312
 # Making Peace with SQL Server Integration Services - Part II Useful Sophistication A Reluctant User's
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Joshua Lynn
 ## Title: Making Peace with SQL Server Integration Services - Part II Useful Sophistication A Reluctant User's
@@ -450,7 +451,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 93455
 # Intro to CosmosDB
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bill Wolff
 ## Title: Intro to CosmosDB
@@ -459,7 +460,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93461
 # Design like an ETL Master - SSIS Patterns and Advanced Techniques
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Cai
 ## Title: Design like an ETL Master - SSIS Patterns and Advanced Techniques
@@ -468,7 +469,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89442
 # Securing and Managing access to your DW data
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vince Napoli
 ## Title: Securing and Managing access to your DW data
@@ -477,7 +478,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89906
 # Build a White/Blacklist Bouncer. Who Gets into Your SQL Club?
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: Build a White/Blacklist Bouncer. Who Gets into Your SQL Club?
@@ -493,7 +494,7 @@ In this session, we will go through the process to create and test your own SQL 
 #  
 #### SessionID: 91371
 # Extended Events - Better than Profiler
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Extended Events - Better than Profiler
@@ -502,7 +503,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91375
 # SSMS Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Wayne Sheffield
 ## Title: SSMS Tips and Tricks
@@ -511,7 +512,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 93442
 # DELL - Sponsor Session
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Other
 ## Speaker: Philadelphia SQL Server Users Group
 ## Title: DELL - Sponsor Session
@@ -520,7 +521,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Other
 #  
 #### SessionID: 93443
 # Profisee - Sponsor Session
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Other
 ## Speaker: Philadelphia SQL Server Users Group
 ## Title: Profisee - Sponsor Session
@@ -529,7 +530,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Other
 #  
 #### SessionID: 93444
 # Aspect Consulting - Sponsor Session
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Other
 ## Speaker: Philadelphia SQL Server Users Group
 ## Title: Aspect Consulting - Sponsor Session
@@ -538,7 +539,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Other
 #  
 #### SessionID: 93446
 # Anexinet - Sponsor Session
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Other
 ## Speaker: Philadelphia SQL Server Users Group
 ## Title: Anexinet - Sponsor Session
@@ -549,7 +550,7 @@ Learn the best ways to use advanced analytics techniques like machine learning a
 #  
 #### SessionID: 93447
 # Varigence - Sponsor Session
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Other
 ## Speaker: Philadelphia SQL Server Users Group
 ## Title: Varigence - Sponsor Session
@@ -558,7 +559,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Other
 #  
 #### SessionID: 93448
 # RevGen Partners - Sponsor Session
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Other
 ## Speaker: Philadelphia SQL Server Users Group
 ## Title: RevGen Partners - Sponsor Session
@@ -567,7 +568,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Other
 #  
 #### SessionID: 93449
 # Sios - Sponsor Session
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Other
 ## Speaker: Philadelphia SQL Server Users Group
 ## Title: Sios - Sponsor Session
@@ -576,7 +577,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Other
 #  
 #### SessionID: 93459
 # Supercharge your ETL Development with Advanced SSIS Components
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Vendor Lunch Session
 ## Speaker: Daniel Cai
 ## Title: Supercharge your ETL Development with Advanced SSIS Components
@@ -589,7 +590,7 @@ In additional to performing advanced transformations you will also find codeless
 #  
 #### SessionID: 93487
 # Going Beyond Monitoring With SentryOne
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Vendor Lunch Session
 ## Speaker: Andy Yun
 ## Title: Going Beyond Monitoring With SentryOne
@@ -600,7 +601,7 @@ Join me and I'll show you how SentryOne provides environment-wide visibility and
 #  
 #### SessionID: 90267
 # In-Memory Capabilities in SQL Server
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Kevin Goff
 ## Title: In-Memory Capabilities in SQL Server
@@ -609,7 +610,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 90429
 # Innovative Data Modeling: Make Data Warehousing Cool Again Part 1
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Weed
 ## Title: Innovative Data Modeling: Make Data Warehousing Cool Again Part 1
@@ -618,7 +619,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 90583
 # Advanced Indexing for Accidental DBAs
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Sebastian Meine
 ## Title: Advanced Indexing for Accidental DBAs
@@ -636,7 +637,7 @@ After attending, you’ll have a set of new tools and techniques in your SQL Ser
 #  
 #### SessionID: 93559
 # Beginner's Guide for Creating Maintenance Plans
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracey Nelson
 ## Title: Beginner's Guide for Creating Maintenance Plans
@@ -645,7 +646,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 87157
 # Intro to Azure for SQL Geeks
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: David Patrick
 ## Title: Intro to Azure for SQL Geeks
@@ -654,7 +655,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 90231
 # Code Like a Snake Charmer - Intro to Python and Data Science Tools in MS
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Snake Charmer - Intro to Python and Data Science Tools in MS
@@ -676,7 +677,7 @@ No prior statistics knowledge needed.
 #  
 #### SessionID: 90330
 # Dive into Amazon Web Services Databases
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Gabriel Villa
 ## Title: Dive into Amazon Web Services Databases
@@ -685,7 +686,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 87810
 # 42 TSQL Functions
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Thomas Grohser
 ## Title: 42 TSQL Functions
@@ -694,7 +695,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 89888
 # Dynamic SQL at Design-time
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Strategy and Architecture
 ## Speaker: Dominic Falso
 ## Title: Dynamic SQL at Design-time
@@ -703,7 +704,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 93465
 # Why Clustering for SQL Server High Availability?
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Bermingham
 ## Title: Why Clustering for SQL Server High Availability?
@@ -712,7 +713,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90023
 # Building your First SQL Server Container Lab in Docker
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: Building your First SQL Server Container Lab in Docker
@@ -721,7 +722,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90430
 # Cool Data Warehousing -- PART 2
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Weed
 ## Title: Cool Data Warehousing -- PART 2
@@ -730,7 +731,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93488
 # In-Memory Capabilities -- PART 2
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Kevin Goff
 ## Title: In-Memory Capabilities -- PART 2
@@ -739,7 +740,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 93562
 # to be announced
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Other
 ## Speaker: Philadelphia SQL Server Users Group
 ## Title: to be announced
@@ -748,7 +749,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Other
 #  
 #### SessionID: 87409
 # Case Study: How I used SharePoint, Flow, PowerApps, and Forms to build a Speaker Database
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Sarah Patrick
 ## Title: Case Study: How I used SharePoint, Flow, PowerApps, and Forms to build a Speaker Database
@@ -757,7 +758,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 89321
 # Master Data Management: BI and Data Science’s Best Friend
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tyler Graham
 ## Title: Master Data Management: BI and Data Science’s Best Friend
@@ -766,7 +767,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90189
 # Different Azure SQL PaaS options
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Linda Zhang
 ## Title: Different Azure SQL PaaS options
@@ -775,7 +776,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 86997
 # Tech Writing for Techies: A Primer
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Tech Writing for Techies: A Primer
@@ -784,7 +785,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Professional Developmen
 #  
 #### SessionID: 87510
 # High Availability and Disaster Recovery for SQL Server in Azure IaaS
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Bermingham
 ## Title: High Availability and Disaster Recovery for SQL Server in Azure IaaS
@@ -797,7 +798,7 @@ Cloud  Datacenter MVP David Bermingham takes explains all this and more in the s
 #  
 #### SessionID: 89510
 # Advanced T-SQL Development with latest features.
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Alex Grinberg
 ## Title: Advanced T-SQL Development with latest features.
@@ -806,7 +807,7 @@ Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 93489
 # 42 TSQL Functions -- PART 2
-#### [Back to calendar](#SQLSaturday-#835-Philadelphia-2019)
+#### [Back to calendar](#nr-835)
 Event Date: 04-05-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Thomas Grohser
 ## Title: 42 TSQL Functions -- PART 2

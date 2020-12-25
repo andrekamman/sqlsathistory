@@ -1,3 +1,4 @@
+#### Nr: 915
 #### [Back to Main list](index.md)
 # SQLSaturday #915 - Bucuresti 2019
 Start Time (24h)|Speaker|Track|Title
@@ -17,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 96869
 # Running Microsoft SQL Server on Amazon Web Services
-#### [Back to calendar](#SQLSaturday-#915-Bucuresti-2019)
+#### [Back to calendar](#nr-915)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dragos Madarasan
 ## Title: Running Microsoft SQL Server on Amazon Web Services
@@ -26,7 +27,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 98967
 # Dataism
-#### [Back to calendar](#SQLSaturday-#915-Bucuresti-2019)
+#### [Back to calendar](#nr-915)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Cristian Lefter
 ## Title: Dataism
@@ -36,7 +37,7 @@ What is the impact of Dataism in our life? Let's discover that together!
 #  
 #### SessionID: 95167
 # Azure Data Explorer - Fast and highly scalable interactive analytics
-#### [Back to calendar](#SQLSaturday-#915-Bucuresti-2019)
+#### [Back to calendar](#nr-915)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Liviu Ieran
 ## Title: Azure Data Explorer - Fast and highly scalable interactive analytics
@@ -46,7 +47,7 @@ I am going to provide an overview of Azure Data Explorer, an interactive analyti
 #  
 #### SessionID: 96886
 # SQL Managed Instance - From the ground to the cloud
-#### [Back to calendar](#SQLSaturday-#915-Bucuresti-2019)
+#### [Back to calendar](#nr-915)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alexandra Ciortea
 ## Title: SQL Managed Instance - From the ground to the cloud
@@ -55,7 +56,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 96741
 # ML on the Edge
-#### [Back to calendar](#SQLSaturday-#915-Bucuresti-2019)
+#### [Back to calendar](#nr-915)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Catalin Gheorghiu
 ## Title: ML on the Edge
@@ -64,7 +65,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 96752
 # What I have seen so far in my performance tuning audits
-#### [Back to calendar](#SQLSaturday-#915-Bucuresti-2019)
+#### [Back to calendar](#nr-915)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Rudi Bruchez
 ## Title: What I have seen so far in my performance tuning audits
@@ -73,7 +74,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 94550
 # T-SQL Performance Guidelines for the optimal DB stress powers
-#### [Back to calendar](#SQLSaturday-#915-Bucuresti-2019)
+#### [Back to calendar](#nr-915)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for the optimal DB stress powers
@@ -82,7 +83,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 96748
 # Big Data Clusters: SQL Server 2019 Meets Big Data
-#### [Back to calendar](#SQLSaturday-#915-Bucuresti-2019)
+#### [Back to calendar](#nr-915)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Sorin Peste
 ## Title: Big Data Clusters: SQL Server 2019 Meets Big Data
@@ -91,7 +92,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 96773
 # SQL Server 2019 on Linux - What's new?
-#### [Back to calendar](#SQLSaturday-#915-Bucuresti-2019)
+#### [Back to calendar](#nr-915)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Gabriel Petrescu
 ## Title: SQL Server 2019 on Linux - What's new?
@@ -102,7 +103,7 @@ Advanced security features, Big data clusters, Data virtualization - the opening
 #  
 #### SessionID: 96816
 # BI Powers - The A.I. Who Tagged Me
-#### [Back to calendar](#SQLSaturday-#915-Bucuresti-2019)
+#### [Back to calendar](#nr-915)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: André Melancia
 ## Title: BI Powers - The A.I. Who Tagged Me
@@ -112,7 +113,7 @@ Disclaimer: A.I. will eventually take over the world. Unlike Doctor Evil, it won
 #  
 #### SessionID: 94561
 # Embedding Power BI in your application
-#### [Back to calendar](#SQLSaturday-#915-Bucuresti-2019)
+#### [Back to calendar](#nr-915)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Andrey Nikolov
 ## Title: Embedding Power BI in your application
@@ -121,7 +122,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 95109
 # Handling JSONs in SQL Server
-#### [Back to calendar](#SQLSaturday-#915-Bucuresti-2019)
+#### [Back to calendar](#nr-915)
 Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: ILIE Mugurel
 ## Title: Handling JSONs in SQL Server

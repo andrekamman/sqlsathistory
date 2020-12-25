@@ -1,3 +1,4 @@
+#### Nr: 549
 #### [Back to Main list](index.md)
 # SQLSaturday #549 - Singapore 2016
 Start Time (24h)|Speaker|Track|Title
@@ -20,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 49069
 # Secrets of SQL Server - Database Worst Practices
-#### [Back to calendar](#SQLSaturday-#549-Singapore-2016)
+#### [Back to calendar](#nr-549)
 Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Administration
 ## Speaker: Pinal Dave
 ## Title: Secrets of SQL Server - Database Worst Practices
@@ -29,7 +30,7 @@ Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Administration
 #  
 #### SessionID: 50102
 # Data Storage and Analytics with Azure Data Lake
-#### [Back to calendar](#SQLSaturday-#549-Singapore-2016)
+#### [Back to calendar](#nr-549)
 Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Analytics, Azure and Big Data
 ## Speaker: Glenn Morris
 ## Title: Data Storage and Analytics with Azure Data Lake
@@ -40,7 +41,7 @@ A demo rich session we will see how we can use Azure Data Lake to solve many of 
 #  
 #### SessionID: 50717
 # Know What Your Code is Doing to SQL Server!
-#### [Back to calendar](#SQLSaturday-#549-Singapore-2016)
+#### [Back to calendar](#nr-549)
 Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Development
 ## Speaker: Kevin Boles
 ## Title: Know What Your Code is Doing to SQL Server!
@@ -49,7 +50,7 @@ Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Development
 #  
 #### SessionID: 49066
 # Think  work like a Data Scientist with SQL 2016 R
-#### [Back to calendar](#SQLSaturday-#549-Singapore-2016)
+#### [Back to calendar](#nr-549)
 Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Analytics, Azure and Big Data
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Think  work like a Data Scientist with SQL 2016 R
@@ -62,7 +63,7 @@ In this session, you will definitely take away a breakthrough concept of Advance
 #  
 #### SessionID: 49270
 # SQL Server 2016 – The Evolution of In-Memory Technologies
-#### [Back to calendar](#SQLSaturday-#549-Singapore-2016)
+#### [Back to calendar](#nr-549)
 Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Development
 ## Speaker: Andreas Wolter
 ## Title: SQL Server 2016 – The Evolution of In-Memory Technologies
@@ -73,7 +74,7 @@ In this session, Microsoft Certified Master Andreas Wolter, will provide an over
 #  
 #### SessionID: 50191
 # SQL Server 2016 Stretch Database: top to bottom
-#### [Back to calendar](#SQLSaturday-#549-Singapore-2016)
+#### [Back to calendar](#nr-549)
 Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Administration
 ## Speaker: Joe Yong
 ## Title: SQL Server 2016 Stretch Database: top to bottom
@@ -84,7 +85,7 @@ Find out how StretchDB can help solve some of these problems by leveraging Azure
 #  
 #### SessionID: 49645
 # Creating High Performance Tabular Models
-#### [Back to calendar](#SQLSaturday-#549-Singapore-2016)
+#### [Back to calendar](#nr-549)
 Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Analytics, Azure and Big Data
 ## Speaker: James Beresford
 ## Title: Creating High Performance Tabular Models
@@ -93,7 +94,7 @@ Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Analytics, Azure and Bi
 #  
 #### SessionID: 50109
 # Bleed Blue for the clouds – SQL Azure
-#### [Back to calendar](#SQLSaturday-#549-Singapore-2016)
+#### [Back to calendar](#nr-549)
 Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Administration
 ## Speaker: Krishna Deepak Chamana
 ## Title: Bleed Blue for the clouds – SQL Azure
@@ -102,7 +103,7 @@ Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Administration
 #  
 #### SessionID: 53155
 # Index Internals
-#### [Back to calendar](#SQLSaturday-#549-Singapore-2016)
+#### [Back to calendar](#nr-549)
 Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Development
 ## Speaker: Denny Cherry
 ## Title: Index Internals
@@ -111,7 +112,7 @@ Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Development
 #  
 #### SessionID: 49058
 # Security with SQL Server - Things you never knew
-#### [Back to calendar](#SQLSaturday-#549-Singapore-2016)
+#### [Back to calendar](#nr-549)
 Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Administration
 ## Speaker: Vinod Kumar M
 ## Title: Security with SQL Server - Things you never knew
@@ -120,7 +121,7 @@ Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Administration
 #  
 #### SessionID: 50855
 # Automated and Repeatable Test Cases for SQL Server Development.
-#### [Back to calendar](#SQLSaturday-#549-Singapore-2016)
+#### [Back to calendar](#nr-549)
 Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Development
 ## Speaker: Stefan Riedel
 ## Title: Automated and Repeatable Test Cases for SQL Server Development.
@@ -129,7 +130,7 @@ Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Development
 #  
 #### SessionID: 53892
 # Power BI - Bring your data to life
-#### [Back to calendar](#SQLSaturday-#549-Singapore-2016)
+#### [Back to calendar](#nr-549)
 Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Analytics, Azure and Big Data
 ## Speaker: Harminder Sethi
 ## Title: Power BI - Bring your data to life
@@ -156,7 +157,7 @@ Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Analytics, Azure and Bi
 #  
 #### SessionID: 50716
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#549-Singapore-2016)
+#### [Back to calendar](#nr-549)
 Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -165,7 +166,7 @@ Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Development
 #  
 #### SessionID: 53224
 # Rock Your Reports with SSRS 2016
-#### [Back to calendar](#SQLSaturday-#549-Singapore-2016)
+#### [Back to calendar](#nr-549)
 Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Analytics, Azure and Big Data
 ## Speaker: Khilitchandra Prajapati
 ## Title: Rock Your Reports with SSRS 2016
@@ -175,7 +176,7 @@ SQL Server Reporting Services has really come a long way with great changes and 
 #  
 #### SessionID: 53325
 # SQL Server Performance Tuning - Parallelism 
-#### [Back to calendar](#SQLSaturday-#549-Singapore-2016)
+#### [Back to calendar](#nr-549)
 Event Date: 20-08-2016 - Session time: 16:55:00 - Track: Database Administration
 ## Speaker: Dharmendra Keshari
 ## Title: SQL Server Performance Tuning - Parallelism 

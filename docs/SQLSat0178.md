@@ -1,3 +1,4 @@
+#### Nr: 178
 #### [Back to Main list](index.md)
 # SQLSaturday #178 - Moscow 2012
 Start Time (24h)|Speaker|Track|Title
@@ -17,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13049
 # Администрирование SQL Server для начинающих (1/2)
-#### [Back to calendar](#SQLSaturday-#178-Moscow-2012)
+#### [Back to calendar](#nr-178)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Dmitriy Kostylev
 ## Title: Администрирование SQL Server для начинающих (1/2)
@@ -26,7 +27,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13050
 # Администрирование SQL Server для начинающих (2/2)
-#### [Back to calendar](#SQLSaturday-#178-Moscow-2012)
+#### [Back to calendar](#nr-178)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Dmitriy Kostylev
 ## Title: Администрирование SQL Server для начинающих (2/2)
@@ -35,7 +36,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13266
 # "Это Моё" или вечная сага о блокировках и дедлоках
-#### [Back to calendar](#SQLSaturday-#178-Moscow-2012)
+#### [Back to calendar](#nr-178)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: DBD
 ## Speaker: Dmitri Korotkevitch
 ## Title: "Это Моё" или вечная сага о блокировках и дедлоках
@@ -44,7 +45,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: DBD
 #  
 #### SessionID: 13267
 # Дизайн для Производительности
-#### [Back to calendar](#SQLSaturday-#178-Moscow-2012)
+#### [Back to calendar](#nr-178)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: DBD
 ## Speaker: Dmitri Korotkevitch
 ## Title: Дизайн для Производительности
@@ -56,7 +57,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: DBD
 #  
 #### SessionID: 14636
 # Методика поиска проблем в 1С через SQL Server
-#### [Back to calendar](#SQLSaturday-#178-Moscow-2012)
+#### [Back to calendar](#nr-178)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Вячеслав Гилев
 ## Title: Методика поиска проблем в 1С через SQL Server
@@ -65,7 +66,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 15453
 # Бизнес-аналитикав SharePoint 2013
-#### [Back to calendar](#SQLSaturday-#178-Moscow-2012)
+#### [Back to calendar](#nr-178)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Ivan Kosyakov
 ## Title: Бизнес-аналитикав SharePoint 2013
@@ -74,7 +75,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 18665
 # Private cloud and SQL 2012
-#### [Back to calendar](#SQLSaturday-#178-Moscow-2012)
+#### [Back to calendar](#nr-178)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mikhail Komarov
 ## Title: Private cloud and SQL 2012
@@ -83,7 +84,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 18814
 # Reporting Services - от простого к сложному
-#### [Back to calendar](#SQLSaturday-#178-Moscow-2012)
+#### [Back to calendar](#nr-178)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Andrey Korshikov
 ## Title: Reporting Services - от простого к сложному
@@ -92,7 +93,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20270
 # Spatial Data and Windows Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#178-Moscow-2012)
+#### [Back to calendar](#nr-178)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: DBD
 ## Speaker: Mihail Mateev
 ## Title: Spatial Data and Windows Azure SQL Database
@@ -103,7 +104,7 @@ from Windows Azure SQL Database Spatial, optimizing Windows Azure applications a
 #  
 #### SessionID: 20271
 # Windows Azure SQL Reporting for App developers
-#### [Back to calendar](#SQLSaturday-#178-Moscow-2012)
+#### [Back to calendar](#nr-178)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mihail Mateev
 ## Title: Windows Azure SQL Reporting for App developers
@@ -112,7 +113,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 22164
 # Внутри оптимизатора запросов
-#### [Back to calendar](#SQLSaturday-#178-Moscow-2012)
+#### [Back to calendar](#nr-178)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: DBD
 ## Speaker: Dmitry Pilugin
 ## Title: Внутри оптимизатора запросов
@@ -121,7 +122,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: DBD
 #  
 #### SessionID: 24364
 # Change Data Capture, Change Tracking и SSIS 2012
-#### [Back to calendar](#SQLSaturday-#178-Moscow-2012)
+#### [Back to calendar](#nr-178)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Sergey Olontsev
 ## Title: Change Data Capture, Change Tracking и SSIS 2012

@@ -1,3 +1,4 @@
+#### Nr: 559
 #### [Back to Main list](index.md)
 # SQLSaturday #559 - Cape Town 2016
 Start Time (24h)|Speaker|Track|Title
@@ -26,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 53239
 # Infographics using PowerBI and BI Office
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Jason Basterfield
 ## Title: Infographics using PowerBI and BI Office
@@ -35,7 +36,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 53295
 # On Transactions and Atomic Operations
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Gail Shaw
 ## Title: On Transactions and Atomic Operations
@@ -49,7 +50,7 @@ In this session, we'll look at what transactions are and why we should use them.
 #  
 #### SessionID: 53365
 # Real-Time Operational Analytics
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Niels Berglund
 ## Title: Real-Time Operational Analytics
@@ -58,7 +59,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 54077
 # From Me BI to We BI, take your BI solution beyond the clouds
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Michael Raam
 ## Title: From Me BI to We BI, take your BI solution beyond the clouds
@@ -77,7 +78,7 @@ Pyramid Analytics revolutionary platform provides a single platform that deliver
 #  
 #### SessionID: 50036
 # Using the SQL 2016 Query Store to optimise Performance and Scalability
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Other
 ## Speaker: Peter Willmot
 ## Title: Using the SQL 2016 Query Store to optimise Performance and Scalability
@@ -87,7 +88,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 50267
 # The language informally known as M
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Matt Horn
 ## Title: The language informally known as M
@@ -100,7 +101,7 @@ In this session I will introduce you to the basics of the M language and demonst
 #  
 #### SessionID: 52928
 # Your code is not just...your code
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Gordon Beeming
 ## Title: Your code is not just...your code
@@ -111,7 +112,7 @@ We'll take a look at how SQL code traditionally (or at least most commonly) gets
 #  
 #### SessionID: 53364
 # What R You Analyzing
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Niels Berglund
 ## Title: What R You Analyzing
@@ -122,7 +123,7 @@ In this session we will look at how R works in SQL Server, and also talk about s
 #  
 #### SessionID: 53191
 # SQL Server 2016: A dive into Data Quality Services
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server 2016: A dive into Data Quality Services
@@ -131,7 +132,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 53297
 # Introduction to Indexes
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Gail Shaw
 ## Title: Introduction to Indexes
@@ -142,7 +143,7 @@ This session is aimed at people who are relatively new to indexing.
 #  
 #### SessionID: 53501
 # Dive into the Query Optimizer - Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer - Undocumented Insight
@@ -151,7 +152,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 54072
 # BI Office Analytic Platforms and the Value of Shared Context
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Sandesh Nagaraj
 ## Title: BI Office Analytic Platforms and the Value of Shared Context
@@ -160,7 +161,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 50026
 # So, when you say database what do you mean?
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Clinton van Blommestein
 ## Title: So, when you say database what do you mean?
@@ -175,7 +176,7 @@ This session will cover some of the more popular types of data stores that are a
 #  
 #### SessionID: 53192
 # SQL Server 2016: Master Data Services and Rapid Application Development
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server 2016: Master Data Services and Rapid Application Development
@@ -184,7 +185,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 53376
 # Query Performance Tuning on a budget (Free)
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Martin Phelps
 ## Title: Query Performance Tuning on a budget (Free)
@@ -193,7 +194,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 53884
 # Detecting ETL Duration Anomalies with Simple Linear Regression
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeanne Combrinck
 ## Title: Detecting ETL Duration Anomalies with Simple Linear Regression
@@ -202,7 +203,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 54152
 # Data Driven: finding value in the digital maze
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Toufiq Abrahams
 ## Title: Data Driven: finding value in the digital maze
@@ -213,7 +214,7 @@ This is a non-technical session that will give an overview of how your data land
 #  
 #### SessionID: 53256
 # Windows on Data
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Desmond Norton
 ## Title: Windows on Data
@@ -223,7 +224,7 @@ Also ideas/samples of potential use cases.
 #  
 #### SessionID: 53502
 # Query Processing in In-Memory OLTP (Hekaton)
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Query Processing in In-Memory OLTP (Hekaton)
@@ -232,7 +233,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 53977
 # Getting started with Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael Johnson
 ## Title: Getting started with Azure SQL Data Warehouse
@@ -242,7 +243,7 @@ In this session we will look at how the Azure SQL Data Warehouse works behind th
 #  
 #### SessionID: 54073
 # Introduction to Business Intelligence Markup Language (BIML)
-#### [Back to calendar](#SQLSaturday-#559-Cape-Town-2016)
+#### [Back to calendar](#nr-559)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Ziyaad Mohamed
 ## Title: Introduction to Business Intelligence Markup Language (BIML)

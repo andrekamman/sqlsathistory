@@ -1,3 +1,4 @@
+#### Nr: 568
 #### [Back to Main list](index.md)
 # SQLSaturday #568 - Madrid 2016
 Start Time (24h)|Speaker|Track|Title
@@ -32,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 52502
 # A beginner's guide to Power BI Custom Visuals
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Regis Baccaro
 ## Title: A beginner's guide to Power BI Custom Visuals
@@ -45,7 +46,7 @@ At the end of this session you will have a complete understanding of all the ele
 #  
 #### SessionID: 52503
 # Big Data con Hadoop en SQL Server SSIS 2016
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Data  Cloud
 ## Speaker: Angel Rayo
 ## Title: Big Data con Hadoop en SQL Server SSIS 2016
@@ -54,7 +55,7 @@ Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Data  Cloud
 #  
 #### SessionID: 53243
 # Tu lado oscuro.Conviértete en un DEV poderoso dominando los datos
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: DBA
 ## Speaker: Alberto López Grande
 ## Title: Tu lado oscuro.Conviértete en un DEV poderoso dominando los datos
@@ -67,7 +68,7 @@ No est#225;s tan lejos, s#243;lo tienes que venir al lado oscuro...
 #  
 #### SessionID: 53463
 # Ingesta masiva y analisis de datos: De Event Hub hasta HDInsight
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Big Data  Analytics
 ## Speaker: Roberto Gonzalez
 ## Title: Ingesta masiva y analisis de datos: De Event Hub hasta HDInsight
@@ -76,7 +77,7 @@ Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 52404
 # Azure Data Lake Store / Analytics 101
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Data  Cloud
 ## Speaker: Kenneth Nielsen
 ## Title: Azure Data Lake Store / Analytics 101
@@ -87,7 +88,7 @@ Azure Data Lake Store, our new repository for data of various origins – we can
 #  
 #### SessionID: 52825
 # Paso de TI, tengo Power BI
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Big Data  Analytics
 ## Speaker: Salvador Ramos
 ## Title: Paso de TI, tengo Power BI
@@ -100,7 +101,7 @@ Somos un equipo, TI y Negocio estamos en el mismo barco y debemos aunar esfuerzo
 #  
 #### SessionID: 53442
 # SuperSSIS, tu nuevo superh#233;roe
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Pau Sempere
 ## Title: SuperSSIS, tu nuevo superh#233;roe
@@ -110,7 +111,7 @@ En esta sesi#243;n veremos t#233;cnicas de optimizaci#243;n en entornos modernos
 #  
 #### SessionID: 54419
 # Cuadros de mandos y mandos cuadrados.Una visión diferente(TSD C.)
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Sponsor
 ## Speaker: SQLSaturday Madrid
 ## Title: Cuadros de mandos y mandos cuadrados.Una visión diferente(TSD C.)
@@ -121,7 +122,7 @@ Abel González Durán (Director TSD Consulting)
 #  
 #### SessionID: 54420
 # Formando equipo con nuestros clientes.Contamos contigo(SolidQ)
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Sponsor
 ## Speaker: SQLSaturday Madrid
 ## Title: Formando equipo con nuestros clientes.Contamos contigo(SolidQ)
@@ -135,7 +136,7 @@ Jose Ramon Sanchez  (Account Manager SolidQ)
 #  
 #### SessionID: 54421
 # Días del Futuro Pasado con PowerBI (KABEL)
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Sponsor
 ## Speaker: SQLSaturday Madrid
 ## Title: Días del Futuro Pasado con PowerBI (KABEL)
@@ -147,7 +148,7 @@ Carlos Sacristán (Data Architect, KABEL)
 #  
 #### SessionID: 54422
 # Libera el poder de tu aplicativo con Microsoft SQL Server y HPE
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Sponsor
 ## Speaker: SQLSaturday Madrid
 ## Title: Libera el poder de tu aplicativo con Microsoft SQL Server y HPE
@@ -163,7 +164,7 @@ Juan A. Zapatero (Enterprise Solutions Architect, HPE)
 #  
 #### SessionID: 52435
 # Sex, BigData PowerApps  RocknRoll
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Data  Cloud
 ## Speaker: Javier Menendez Pallo
 ## Title: Sex, BigData PowerApps  RocknRoll
@@ -172,7 +173,7 @@ Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Data  Cloud
 #  
 #### SessionID: 53583
 # Para crear modelos anal#237;ticos #191;Power Query o Power Pivot? #191;M o DAX?
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Ana Maria Bisbé York
 ## Title: Para crear modelos anal#237;ticos #191;Power Query o Power Pivot? #191;M o DAX?
@@ -182,7 +183,7 @@ En esta sesi#243;n daremos soluci#243;n a problemas de modelado, escogiendo en c
 #  
 #### SessionID: 53661
 # Planes de ejecuci#243;n 2016
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: DBA
 ## Speaker: Enrique Bañuls
 ## Title: Planes de ejecuci#243;n 2016
@@ -191,7 +192,7 @@ Event Date: 24-09-2016 - Session time: 16:30:00 - Track: DBA
 #  
 #### SessionID: 54022
 # Paris Velib by Cortana Analytics
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Big Data  Analytics
 ## Speaker: Romain Casteres
 ## Title: Paris Velib by Cortana Analytics
@@ -206,7 +207,7 @@ In the presentation we will show how we have implemented the solution in Azure u
 #  
 #### SessionID: 53660
 # QueryStore SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: DBA
 ## Speaker: Enrique Bañuls
 ## Title: QueryStore SQL Server 2016
@@ -215,7 +216,7 @@ Event Date: 24-09-2016 - Session time: 16:30:00 - Track: DBA
 #  
 #### SessionID: 53692
 # Gateways to Power BI: connect PowerBI.com to your on-prem data
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Data  Cloud
 ## Speaker: Jean-Pierre Riehl
 ## Title: Gateways to Power BI: connect PowerBI.com to your on-prem data
@@ -226,7 +227,7 @@ At the end, we'll also have a look to alternative way to push data to your dashb
 #  
 #### SessionID: 53710
 # Resolviendo Misterios de la Humanidad con Machine Learning
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Big Data  Analytics
 ## Speaker: Pablo Doval
 ## Title: Resolviendo Misterios de la Humanidad con Machine Learning
@@ -237,7 +238,7 @@ En esta sesión no nos vamos a subir a ninguna nave del misterio para tratar est
 #  
 #### SessionID: 54062
 # Soluciones menos obvias en la carga del Data Warehouse Enterprise
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Miguel Egea
 ## Title: Soluciones menos obvias en la carga del Data Warehouse Enterprise
@@ -247,7 +248,7 @@ Hablaremos de los conceptos de hechos cambiantes, y veremos cómo implementar re
 #  
 #### SessionID: 52484
 # Modernizando las f#225;bricas con Azure IoT hacia el concepto de
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Big Data  Analytics
 ## Speaker: Alberto Diaz Martin
 ## Title: Modernizando las f#225;bricas con Azure IoT hacia el concepto de
@@ -256,7 +257,7 @@ Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 52983
 # SQL Server Scale-Out  Performance
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: DBA
 ## Speaker: Christophe Laporte
 ## Title: SQL Server Scale-Out  Performance
@@ -268,7 +269,7 @@ Let's have a look to the different features offered by SQL Server to scale your 
 #  
 #### SessionID: 53247
 # Deployment Power BI Embedded
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Data  Cloud
 ## Speaker: Rafael ansino lara
 ## Title: Deployment Power BI Embedded
@@ -292,7 +293,7 @@ o	Rafael Ansino Lara
 #  
 #### SessionID: 53320
 # Nuestro BI, a prueba
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Nuestro BI, a prueba
@@ -308,7 +309,7 @@ Todo ello mediante una demostraci#243;n de principio a fin, llen
 #  
 #### SessionID: 52521
 # Extracci#243;n autom#224;tica de datos mediante BIML
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Jordi Isidro Llobet
 ## Title: Extracci#243;n autom#224;tica de datos mediante BIML
@@ -322,7 +323,7 @@ En esta sesi#243;n nos centraremos en la parte de extracci#243;n de datos. Verem
 #  
 #### SessionID: 52562
 # SQL Server, Next station Azure
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: DBA
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: SQL Server, Next station Azure
@@ -338,7 +339,7 @@ Hablaremos de:
 #  
 #### SessionID: 53246
 # Machine LeaRning for Data Competitions and the future of the Data Scientist
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Big Data  Analytics
 ## Speaker: Carlos Ortega
 ## Title: Machine LeaRning for Data Competitions and the future of the Data Scientist
@@ -349,7 +350,7 @@ Based on this exploration and the broad knowledge generated in other competition
 #  
 #### SessionID: 53498
 # Query and store temporal series
-#### [Back to calendar](#SQLSaturday-#568-Madrid-2016)
+#### [Back to calendar](#nr-568)
 Event Date: 24-09-2016 - Session time: 16:30:00 - Track: Data  Cloud
 ## Speaker: Unai Zorrilla Castro
 ## Title: Query and store temporal series

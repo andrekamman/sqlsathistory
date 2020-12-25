@@ -1,3 +1,4 @@
+#### Nr: 653
 #### [Back to Main list](index.md)
 # SQLSaturday #653 - Columbus 2017
 Start Time (24h)|Speaker|Track|Title
@@ -34,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 63770
 # Polybase In Action
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Polybase In Action
@@ -43,7 +44,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 64051
 # Crash Course on Better SQL Development
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
@@ -52,7 +53,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 64452
 # Emergency! Are You Ready for Disaster to Strike?
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Emergency! Are You Ready for Disaster to Strike?
@@ -66,7 +67,7 @@ Learning objectives:
 #  
 #### SessionID: 65614
 # Health: The Most Important Tech Tool
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Cassandra Faris
 ## Title: Health: The Most Important Tech Tool
@@ -75,7 +76,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 64168
 # How To Give a Technical Presentation
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Aaron Cutshall
 ## Title: How To Give a Technical Presentation
@@ -84,7 +85,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 65273
 # Data Visualization:  How to truly tell a great story!
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Development  Analytics
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization:  How to truly tell a great story!
@@ -93,7 +94,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Deve
 #  
 #### SessionID: 65365
 # Collecting Baseline Metrics
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Collecting Baseline Metrics
@@ -102,7 +103,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65391
 # The DBA's Role With N-tier Applications
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Dan Andrews
 ## Title: The DBA's Role With N-tier Applications
@@ -111,7 +112,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 65775
 # SQL Server Databaseology: A Deep Dive Into Database Internals
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology: A Deep Dive Into Database Internals
@@ -120,7 +121,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 63814
 # Power BI and Azure ML - Better Together!
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Development  Analytics
 ## Speaker: Greg Deckler
 ## Title: Power BI and Azure ML - Better Together!
@@ -129,7 +130,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Deve
 #  
 #### SessionID: 64069
 # Distributed Replay 101
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Popovich Jr
 ## Title: Distributed Replay 101
@@ -138,7 +139,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64666
 # Introduction to Azure Streaming Analytics
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Streaming Analytics
@@ -147,7 +148,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 65754
 # 45 Minutes to Your First SSAS Tabular Model
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Development  Analytics
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First SSAS Tabular Model
@@ -157,7 +158,7 @@ SSAS Tabular is a new-ish form of business intelligence model released with SQL 
 #  
 #### SessionID: 66529
 # Why NULL is not a value (and other SQL gotchas)
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Wendy Pastrick
 ## Title: Why NULL is not a value (and other SQL gotchas)
@@ -166,7 +167,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 63754
 # SQL Server - R Services
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Development  Analytics
 ## Speaker: Azhagappan Arunachalam
 ## Title: SQL Server - R Services
@@ -175,7 +176,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Deve
 #  
 #### SessionID: 64138
 # Securing SQL Server Processes with Certificates
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Robert Davis
 ## Title: Securing SQL Server Processes with Certificates
@@ -192,7 +193,7 @@ Note: this session does not cover securing SQL Server connections with SSL or se
 #  
 #### SessionID: 64437
 # I’m It – Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I’m It – Survival Techniques for the Lone DBA
@@ -201,7 +202,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 65424
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -216,7 +217,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 65719
 # Ethics, Morals, and Laws for the DBA 101
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Pat Phelan
 ## Title: Ethics, Morals, and Laws for the DBA 101
@@ -229,7 +230,7 @@ This session presents basic definitions, ideas, and discussion points. It is int
 #  
 #### SessionID: 63758
 # Power BI Internals: a Deep Dive
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Development  Analytics
 ## Speaker: Eugene Meidinger
 ## Title: Power BI Internals: a Deep Dive
@@ -238,7 +239,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Deve
 #  
 #### SessionID: 64009
 # SQL Server Transactional Replication: A Deep Dive
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server Transactional Replication: A Deep Dive
@@ -247,7 +248,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65707
 # Introduction to Temporal Tables
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: Introduction to Temporal Tables
@@ -256,7 +257,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 65746
 # Are You There, DBA? It’s Me, The App Developer
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Jacquelyn Keeper
 ## Title: Are You There, DBA? It’s Me, The App Developer
@@ -267,7 +268,7 @@ Beginner/Intermediate software developers and DBAs will learn: when you need the
 #  
 #### SessionID: 66553
 # Answering the question, "What happened?" with Query Store
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Erin Stellato
 ## Title: Answering the question, "What happened?" with Query Store
@@ -278,7 +279,7 @@ In this session, we'll step through how Query Store works - you’ll understand 
 #  
 #### SessionID: 64277
 # Where Does R Fit Into Your SQL Server Stack?
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Development  Analytics
 ## Speaker: Stacia Varga
 ## Title: Where Does R Fit Into Your SQL Server Stack?
@@ -293,7 +294,7 @@ Then we explore options for using R to prepare data for analytics using SSIS or 
 #  
 #### SessionID: 65039
 # DBAs vs Developers: JSON in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Bert Wagner
 ## Title: DBAs vs Developers: JSON in SQL Server 2016
@@ -308,7 +309,7 @@ By the end of this session DBAs and developers will know how to efficiently work
 #  
 #### SessionID: 65081
 # Intro to Azure SQL Databases
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Michael Fal
 ## Title: Intro to Azure SQL Databases
@@ -317,7 +318,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 65670
 # Making Your List and Checking It Twice: Introduction to unit testing with tSQLt
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Elizabeth Noble
 ## Title: Making Your List and Checking It Twice: Introduction to unit testing with tSQLt
@@ -326,7 +327,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 65763
 # Reduce your DBA ( DEV) task list by using Microsoft BI tools
-#### [Back to calendar](#SQLSaturday-#653-Columbus-2017)
+#### [Back to calendar](#nr-653)
 Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tamera Clark
 ## Title: Reduce your DBA ( DEV) task list by using Microsoft BI tools

@@ -1,3 +1,4 @@
+#### Nr: 561
 #### [Back to Main list](index.md)
 # SQLSaturday #561 - Durban 2016
 Start Time (24h)|Speaker|Track|Title
@@ -20,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 52890
 # Windows on Data
-#### [Back to calendar](#SQLSaturday-#561-Durban-2016)
+#### [Back to calendar](#nr-561)
 Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 3
 ## Speaker: Desmond Norton
 ## Title: Windows on Data
@@ -30,7 +31,7 @@ Also ideas/samples of potential use cases.
 #  
 #### SessionID: 53688
 # What R You Analyzing
-#### [Back to calendar](#SQLSaturday-#561-Durban-2016)
+#### [Back to calendar](#nr-561)
 Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 1
 ## Speaker: Niels Berglund
 ## Title: What R You Analyzing
@@ -41,7 +42,7 @@ However, in order for R to do its magic it needs data so historically we have im
 #  
 #### SessionID: 54291
 # Simple tips for better data warehouse design
-#### [Back to calendar](#SQLSaturday-#561-Durban-2016)
+#### [Back to calendar](#nr-561)
 Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 2
 ## Speaker: Michael Johnson
 ## Title: Simple tips for better data warehouse design
@@ -51,7 +52,7 @@ In this session we will discuss a key approaches that you can use to design simp
 #  
 #### SessionID: 53193
 # SQL Server 2016: A dive into Data Quality Services
-#### [Back to calendar](#SQLSaturday-#561-Durban-2016)
+#### [Back to calendar](#nr-561)
 Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 1
 ## Speaker: Steve Simon
 ## Title: SQL Server 2016: A dive into Data Quality Services
@@ -60,7 +61,7 @@ Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 1
 #  
 #### SessionID: 53798
 # Go, go, QueryStore!
-#### [Back to calendar](#SQLSaturday-#561-Durban-2016)
+#### [Back to calendar](#nr-561)
 Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 2
 ## Speaker: Gail Shaw
 ## Title: Go, go, QueryStore!
@@ -71,7 +72,7 @@ In this session we’ll take a look at what the QueryStore is and how it works, 
 #  
 #### SessionID: 54074
 # Introduction to Database Design
-#### [Back to calendar](#SQLSaturday-#561-Durban-2016)
+#### [Back to calendar](#nr-561)
 Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 3
 ## Speaker: Sean Cremer
 ## Title: Introduction to Database Design
@@ -84,7 +85,7 @@ This session will go through the fundamentals of database design. Topics such as
 #  
 #### SessionID: 53689
 # Beyond Relational with SQL 2016
-#### [Back to calendar](#SQLSaturday-#561-Durban-2016)
+#### [Back to calendar](#nr-561)
 Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 3
 ## Speaker: Niels Berglund
 ## Title: Beyond Relational with SQL 2016
@@ -95,7 +96,7 @@ In your organization you have data stored all over the place, and your data may 
 #  
 #### SessionID: 54174
 # SQL Always On  - Overcoming some administration nightmares
-#### [Back to calendar](#SQLSaturday-#561-Durban-2016)
+#### [Back to calendar](#nr-561)
 Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 2
 ## Speaker: André Pelser
 ## Title: SQL Always On  - Overcoming some administration nightmares
@@ -104,7 +105,7 @@ Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 2
 #  
 #### SessionID: 54270
 # Building a Lambda Architecture using Azure Warehouse and Stream A
-#### [Back to calendar](#SQLSaturday-#561-Durban-2016)
+#### [Back to calendar](#nr-561)
 Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 1
 ## Speaker: Gary Hope
 ## Title: Building a Lambda Architecture using Azure Warehouse and Stream A
@@ -115,7 +116,7 @@ The principals described in this approach have been applied and refined, especia
 #  
 #### SessionID: 53194
 # SQL Server 2016: Master Data Services and Rapid Application Development
-#### [Back to calendar](#SQLSaturday-#561-Durban-2016)
+#### [Back to calendar](#nr-561)
 Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 1
 ## Speaker: Steve Simon
 ## Title: SQL Server 2016: Master Data Services and Rapid Application Development
@@ -124,7 +125,7 @@ Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 1
 #  
 #### SessionID: 53799
 # On Transactions and Atomic Operations
-#### [Back to calendar](#SQLSaturday-#561-Durban-2016)
+#### [Back to calendar](#nr-561)
 Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 3
 ## Speaker: Gail Shaw
 ## Title: On Transactions and Atomic Operations
@@ -137,7 +138,7 @@ In this session, we’ll look at what transactions are and why we should use the
 #  
 #### SessionID: 54031
 # SSIS Tips, Tricks and Design Patterns
-#### [Back to calendar](#SQLSaturday-#561-Durban-2016)
+#### [Back to calendar](#nr-561)
 Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 2
 ## Speaker: Marius Erasmus
 ## Title: SSIS Tips, Tricks and Design Patterns
@@ -150,7 +151,7 @@ This presentation is just a highlight of some of the Tips, Tricks and Design Pat
 #  
 #### SessionID: 50227
 # So, when you say database what do you mean?
-#### [Back to calendar](#SQLSaturday-#561-Durban-2016)
+#### [Back to calendar](#nr-561)
 Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 3
 ## Speaker: Clinton van Blommestein
 ## Title: So, when you say database what do you mean?
@@ -165,7 +166,7 @@ This session will cover some of the more popular types of data stores that are a
 #  
 #### SessionID: 53185
 # Basics of Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#561-Durban-2016)
+#### [Back to calendar](#nr-561)
 Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 1
 ## Speaker: Chris Olivier
 ## Title: Basics of Azure Machine Learning
@@ -174,7 +175,7 @@ Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 1
 #  
 #### SessionID: 53788
 # Top Tips for C# developers deploying Database code
-#### [Back to calendar](#SQLSaturday-#561-Durban-2016)
+#### [Back to calendar](#nr-561)
 Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 2
 ## Speaker: Rory Bolle
 ## Title: Top Tips for C# developers deploying Database code

@@ -1,3 +1,4 @@
+#### Nr: 379
 #### [Back to Main list](index.md)
 # SQLSaturday #379 - South Florida 2015
 Start Time (24h)|Speaker|Track|Title
@@ -65,7 +66,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 16349
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
@@ -74,7 +75,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 16352
 # How to be a GREAT DBA
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Jeffrey Garbus
 ## Title: How to be a GREAT DBA
@@ -86,7 +87,7 @@ Great for beginner to intermediate DBAs, as well as Developers who think this is
 #  
 #### SessionID: 18450
 # PRECON - SQL Server High Availability
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Kathi Kellenberger
 ## Title: PRECON - SQL Server High Availability
@@ -95,7 +96,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 18660
 # Building Solutions for Power BI QA
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Devin Knight
 ## Title: Building Solutions for Power BI QA
@@ -104,7 +105,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 #  
 #### SessionID: 19921
 # Powershell Working with Windows Azure SQL Database Server
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Azure
 ## Speaker: Maximo Trinidad
 ## Title: Powershell Working with Windows Azure SQL Database Server
@@ -113,7 +114,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Azure
 #  
 #### SessionID: 20497
 # Once Upon a DateTime
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Michael Antonovich
 ## Title: Once Upon a DateTime
@@ -122,7 +123,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 #  
 #### SessionID: 27205
 # Indexing strategies and good physical designs for performance tuning
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Kenneth Urena
 ## Title: Indexing strategies and good physical designs for performance tuning
@@ -136,7 +137,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 13991
 # Dynamic SSIS Frameworks for complex file Structures
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Jorge Novo
 ## Title: Dynamic SSIS Frameworks for complex file Structures
@@ -145,7 +146,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 #  
 #### SessionID: 16351
 # Bad, less Bad, not Bad; rewriting bad SQL Code
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DEV track
 ## Speaker: Jeffrey Garbus
 ## Title: Bad, less Bad, not Bad; rewriting bad SQL Code
@@ -154,7 +155,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DEV track
 #  
 #### SessionID: 18451
 # Writing Better T-SQL Queries with Window Functions
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DEV track
 ## Speaker: Kathi Kellenberger
 ## Title: Writing Better T-SQL Queries with Window Functions
@@ -165,7 +166,7 @@ This session will teach you how to get great performance, avoid cursor solutions
 #  
 #### SessionID: 18661
 # Creating an End to End Power View Reporting Solution
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Devin Knight
 ## Title: Creating an End to End Power View Reporting Solution
@@ -174,7 +175,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 #  
 #### SessionID: 30893
 # SQL Server and Windows 10: Data Security and Compliance
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: SQL Security
 ## Speaker: Joe Homnick
 ## Title: SQL Server and Windows 10: Data Security and Compliance
@@ -183,7 +184,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: SQL Security
 #  
 #### SessionID: 35728
 # The Quest to Find Bad Data With Data Profiling
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DEV track
 ## Speaker: Richie Rump
 ## Title: The Quest to Find Bad Data With Data Profiling
@@ -195,7 +196,7 @@ Data profiling is a way that you can identify bad data, measure inaccurate data,
 #  
 #### SessionID: 35730
 # Entity Framework: Or How I Learned to Stop Worrying and Learned to Love Developers
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Richie Rump
 ## Title: Entity Framework: Or How I Learned to Stop Worrying and Learned to Love Developers
@@ -207,7 +208,7 @@ Entity Framework (EF) and other object relational mapping technologies have been
 #  
 #### SessionID: 36283
 # Taking the Scary out of Monster Reports
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Pam Shaw
 ## Title: Taking the Scary out of Monster Reports
@@ -216,7 +217,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 #  
 #### SessionID: 36754
 # An Introduction to Big Data, Hadoop and Microsoft Azure HDInsight.
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Azure
 ## Speaker: Adriano da Silva
 ## Title: An Introduction to Big Data, Hadoop and Microsoft Azure HDInsight.
@@ -225,7 +226,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Azure
 #  
 #### SessionID: 36851
 # SQL Design and Retrieval for Analysts and Testers using SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DEV track
 ## Speaker: Alex Roque
 ## Title: SQL Design and Retrieval for Analysts and Testers using SQL Server 2014
@@ -245,7 +246,7 @@ Come have some fun and learn how to work with SQL Server and it's relational dat
 #  
 #### SessionID: 38059
 # SQL Azure + Azure Machine Learning to predict Home Values - HOL
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Azure
 ## Speaker: David Crook
 ## Title: SQL Azure + Azure Machine Learning to predict Home Values - HOL
@@ -256,7 +257,7 @@ The data is data from Zillow using F# and Azure Cloud Services, we will be predi
 #  
 #### SessionID: 13504
 # Reporting on Your Cube with SSRS
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Dustin Ryan
 ## Title: Reporting on Your Cube with SSRS
@@ -265,7 +266,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 #  
 #### SessionID: 15025
 # NO-SQL For the DBA
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Big Data
 ## Speaker: Herve Roggero
 ## Title: NO-SQL For the DBA
@@ -274,7 +275,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Big Data
 #  
 #### SessionID: 16350
 # Indexing for Join Optimization
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for Join Optimization
@@ -284,7 +285,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 16996
 # Changing Data Is Easy, Managing Data Change is Hard!
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: James McAuliffe
 ## Title: Changing Data Is Easy, Managing Data Change is Hard!
@@ -293,7 +294,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 27207
 # Partitioning and Partial Databases for HA for VLDB
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Kenneth Urena
 ## Title: Partitioning and Partial Databases for HA for VLDB
@@ -302,7 +303,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 35989
 # Encryption 101: A look at SQL Encryption Options
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Jason Carter
 ## Title: Encryption 101: A look at SQL Encryption Options
@@ -311,7 +312,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 36236
 # Tone Analysis with HDInsight and Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Azure
 ## Speaker: Paco Gonzalez
 ## Title: Tone Analysis with HDInsight and Azure Machine Learning
@@ -320,7 +321,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Azure
 #  
 #### SessionID: 36501
 # Easier schema migrations, data migrations  more w/ Redgate tools
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Eric Soto
 ## Title: Easier schema migrations, data migrations  more w/ Redgate tools
@@ -329,7 +330,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 36761
 # But I Want it in Excel...
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Perry Patterson
 ## Title: But I Want it in Excel...
@@ -340,7 +341,7 @@ Don't do the export-import thing!  Learn some basic techniques to interact direc
 #  
 #### SessionID: 37177
 # R intro for the SQL Server Pro
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Luis Figueroa
 ## Title: R intro for the SQL Server Pro
@@ -349,7 +350,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 #  
 #### SessionID: 37860
 # What's new in SQL 2016?
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: David Cobb
 ## Title: What's new in SQL 2016?
@@ -369,7 +370,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 37998
 # SELECT * FROM CorpDB1 WHERE (value_data lt;gt; 0)
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Lunch Session
 ## Speaker: Russ Reinbold
 ## Title: SELECT * FROM CorpDB1 WHERE (value_data lt;gt; 0)
@@ -381,7 +382,7 @@ Attendees will get free copy of Single Table Restore software and have opportuni
 #  
 #### SessionID: 38024
 # Learn about Governed Data Discovery with Pyramid Analytics
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Lunch Session
 ## Speaker: Mark Scott
 ## Title: Learn about Governed Data Discovery with Pyramid Analytics
@@ -392,7 +393,7 @@ Attendees will learn about "Governed Data Discovery" and what that really means.
 #  
 #### SessionID: 38046
 # SQL Server and Microsoft Business Solutions - Tegile
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Lunch Session
 ## Speaker: Brett Johnson
 ## Title: SQL Server and Microsoft Business Solutions - Tegile
@@ -401,7 +402,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Lunch Session
 #  
 #### SessionID: 16037
 # PowerShell and Python - The Clash - Part Deux
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Jorge Besada
 ## Title: PowerShell and Python - The Clash - Part Deux
@@ -410,7 +411,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 16576
 # Introducing the Reimagined Power BI Platform 
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Jen Underwood
 ## Title: Introducing the Reimagined Power BI Platform 
@@ -420,7 +421,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 #  
 #### SessionID: 18659
 # Getting Started with Power Query
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Devin Knight
 ## Title: Getting Started with Power Query
@@ -429,7 +430,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 #  
 #### SessionID: 20498
 # Calculated Columns, Measures, and KPIs, Oh My!
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Michael Antonovich
 ## Title: Calculated Columns, Measures, and KPIs, Oh My!
@@ -438,7 +439,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 #  
 #### SessionID: 21012
 # Process SSAS Cubes with SSIS
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Mitchell Pearson
 ## Title: Process SSAS Cubes with SSIS
@@ -447,7 +448,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 #  
 #### SessionID: 24811
 # Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Wes Springob
 ## Title: Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
@@ -457,7 +458,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 #  
 #### SessionID: 27208
 # Configuring AlwaysON availability groups with Readable Secundaries
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Kenneth Urena
 ## Title: Configuring AlwaysON availability groups with Readable Secundaries
@@ -466,7 +467,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 27467
 # Azure Data Services – Real-time Analytics
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Azure
 ## Speaker: Jason Virtue
 ## Title: Azure Data Services – Real-time Analytics
@@ -475,7 +476,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Azure
 #  
 #### SessionID: 36755
 # Introduction to Hive with Microsoft Azure HDInsight
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Azure
 ## Speaker: Adriano da Silva
 ## Title: Introduction to Hive with Microsoft Azure HDInsight
@@ -484,7 +485,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Azure
 #  
 #### SessionID: 36854
 # Mastering Plan Guides: Tell The Query Optimizer You're The Boss
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Kendal Van Dyke
 ## Title: Mastering Plan Guides: Tell The Query Optimizer You're The Boss
@@ -493,7 +494,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 36855
 # Do You Have A Case Of Mistaken IDENTITY?
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DEV track
 ## Speaker: Kendal Van Dyke
 ## Title: Do You Have A Case Of Mistaken IDENTITY?
@@ -502,7 +503,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DEV track
 #  
 #### SessionID: 13994
 # Reusable ssis development using Parent - Child methodology 
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Jorge Novo
 ## Title: Reusable ssis development using Parent - Child methodology 
@@ -512,7 +513,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 #  
 #### SessionID: 19922
 # PowerShell with Visual Studio SQL Data Tools
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DEV track
 ## Speaker: Maximo Trinidad
 ## Title: PowerShell with Visual Studio SQL Data Tools
@@ -524,7 +525,7 @@ technologies in a SSIS package: C#, VB.NET, XML, and PowerShell.
 #  
 #### SessionID: 35990
 # SSMS: The Untold Secrets
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DEV track
 ## Speaker: Jason Carter
 ## Title: SSMS: The Untold Secrets
@@ -533,7 +534,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DEV track
 #  
 #### SessionID: 36052
 # Turbocharge Your Career With a Learning Plan
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Andy Warren
 ## Title: Turbocharge Your Career With a Learning Plan
@@ -546,7 +547,7 @@ Once you’ve picked a topic, how do you learn more about it? Do you read blogs,
 #  
 #### SessionID: 36235
 # Big Data Mining with SSAS, Azure Machine Learning  Mahout
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: Azure
 ## Speaker: Paco Gonzalez
 ## Title: Big Data Mining with SSAS, Azure Machine Learning  Mahout
@@ -558,7 +559,7 @@ This session will cover the full data mining cycle: ETL,building, testing, and t
 #  
 #### SessionID: 36284
 # Tips and Tricks for Dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Pam Shaw
 ## Title: Tips and Tricks for Dynamic SSRS Reports
@@ -573,7 +574,7 @@ All of this together will empower you to have more control over the reports you 
 #  
 #### SessionID: 36852
 # Transactional Replication: Architecture, Setup, and Monitoring
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Kendal Van Dyke
 ## Title: Transactional Replication: Architecture, Setup, and Monitoring
@@ -583,7 +584,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 37806
 # SQL Server solutions in Azure
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Pankaj Satyaketu
 ## Title: SQL Server solutions in Azure
@@ -592,7 +593,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 13505
 # Welcome to SSAS Tabular Models
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: Dustin Ryan
 ## Title: Welcome to SSAS Tabular Models
@@ -601,7 +602,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 #  
 #### SessionID: 18452
 # T-SQL Window Function Performance
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DEV track
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Performance
@@ -610,7 +611,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DEV track
 #  
 #### SessionID: 20239
 # Database Virtualization and Drinking out of the Fire Hose
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Michael Corey
 ## Title: Database Virtualization and Drinking out of the Fire Hose
@@ -619,7 +620,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 20421
 # SQL Server 2014 In-Memory Programming
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 ## Speaker: miguel Cebollero
 ## Title: SQL Server 2014 In-Memory Programming
@@ -628,7 +629,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: BI track
 #  
 #### SessionID: 27206
 # SQL Server 2014 In-Memory from evey angle
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2014 In-Memory from evey angle
@@ -640,7 +641,7 @@ From the point of view of Architect occasions where I can be helpful in improvin
 #  
 #### SessionID: 28170
 # An Entity Framework Crash Course for the Busy DBA.
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Sam Abraham
 ## Title: An Entity Framework Crash Course for the Busy DBA.
@@ -651,7 +652,7 @@ This talk aims to empower the DBA with an understanding of the architecture behi
 #  
 #### SessionID: 35729
 # We Don't Need Roads: A Look Into SQL Server Indexes
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DEV track
 ## Speaker: Richie Rump
 ## Title: We Don't Need Roads: A Look Into SQL Server Indexes
@@ -661,7 +662,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DEV track
 #  
 #### SessionID: 36496
 # Rolling Database Snapshots
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: David Cobb
 ## Title: Rolling Database Snapshots
@@ -670,7 +671,7 @@ Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 #  
 #### SessionID: 36636
 # SQL Server 2014 for the DBA 
-#### [Back to calendar](#SQLSaturday-#379-South-Florida-2015)
+#### [Back to calendar](#nr-379)
 Event Date: 13-06-2015 - Session time: 16:30:00 - Track: DBA track
 ## Speaker: Gareth Swanepoel
 ## Title: SQL Server 2014 for the DBA 

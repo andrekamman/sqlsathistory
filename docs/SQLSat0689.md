@@ -1,3 +1,4 @@
+#### Nr: 689
 #### [Back to Main list](index.md)
 # SQLSaturday #689 - Prague 2017
 Start Time (24h)|Speaker|Track|Title
@@ -24,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 69007
 # From SQL to R – Leverage Your T-SQL Knowledge to Learn R
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: From SQL to R – Leverage Your T-SQL Knowledge to Learn R
@@ -34,7 +35,7 @@ This session will kick you off to the new language by using analogies from T-SQL
 #  
 #### SessionID: 69015
 # Scripting Tabular models
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Business Intelligence  Analytics
 ## Speaker: Bent Pedersen
 ## Title: Scripting Tabular models
@@ -47,7 +48,7 @@ The last thing i will show is how you speed up your development free up up to 50
 #  
 #### SessionID: 69027
 # APPLY operator in action
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Andrea Martorana Tusa
 ## Title: APPLY operator in action
@@ -60,7 +61,7 @@ and we will show how performances can be improved by using this operator the rig
 #  
 #### SessionID: 69031
 # Real world DevOps - challenges, tools and solutions
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Ivan Donev
 ## Title: Real world DevOps - challenges, tools and solutions
@@ -69,7 +70,7 @@ Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 68506
 # Query Processor Enhancements in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Dmitry Pilugin
 ## Title: Query Processor Enhancements in SQL Server 2017
@@ -81,7 +82,7 @@ Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 68798
 # Shopping basket analysis with Analysis Services and Power BI
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Business Intelligence  Analytics
 ## Speaker: Jiří Neoral
 ## Title: Shopping basket analysis with Analysis Services and Power BI
@@ -90,7 +91,7 @@ Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Business Intelligence  
 #  
 #### SessionID: 69048
 # Introduction to U-SQL and Data Lake
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Business Intelligence  Analytics
 ## Speaker: Alex Whittles
 ## Title: Introduction to U-SQL and Data Lake
@@ -99,7 +100,7 @@ Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Business Intelligence  
 #  
 #### SessionID: 68570
 # Azure Machine Learning in Action
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Business Intelligence  Analytics
 ## Speaker: Marek Chmel
 ## Title: Azure Machine Learning in Action
@@ -108,7 +109,7 @@ Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Business Intelligence  
 #  
 #### SessionID: 68885
 # SQL Server Myths and Misconceptions
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Miroslav Dimitrov
 ## Title: SQL Server Myths and Misconceptions
@@ -117,7 +118,7 @@ Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 69055
 # Scale-Out your SSIS Package Executions
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Business Intelligence  Analytics
 ## Speaker: Wolfgang Strasser
 ## Title: Scale-Out your SSIS Package Executions
@@ -127,7 +128,7 @@ After the definition of scalability-types, the SSIS scale-out architecture and t
 #  
 #### SessionID: 68784
 # Travelling in time with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Damian Widera
 ## Title: Travelling in time with SQL Server 2016
@@ -136,7 +137,7 @@ Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 68878
 # Data Science with SQL Server 2016 and R
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Business Intelligence  Analytics
 ## Speaker: Oliver Frost
 ## Title: Data Science with SQL Server 2016 and R
@@ -147,7 +148,7 @@ Oliver Frost, a Data Science Engineer at Direct Line Group, demonstrates what to
 #  
 #### SessionID: 69005
 # A Game of Hierarchies: Introduction to Graph Processing with SQL
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: A Game of Hierarchies: Introduction to Graph Processing with SQL
@@ -162,7 +163,7 @@ Join this session for a journey through best practices to transform your hierarc
 #  
 #### SessionID: 67749
 # Hello SQL! I'm Python! What can I do for you?
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Grzegorz Stolecki
 ## Title: Hello SQL! I'm Python! What can I do for you?
@@ -172,7 +173,7 @@ During the session you will learn how to set up the integration, run simple scri
 #  
 #### SessionID: 68863
 # Enabling Citizen Data Science with Microsoft
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Business Intelligence  Analytics
 ## Speaker: Jan Mulkens
 ## Title: Enabling Citizen Data Science with Microsoft
@@ -184,7 +185,7 @@ In this demo heavy session we explore Microsoft’s solutions to ensure democrat
 #  
 #### SessionID: 69239
 # Data Warehouse Testing and Why You Should Care!
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Business Intelligence  Analytics
 ## Speaker: Tomas Tucek
 ## Title: Data Warehouse Testing and Why You Should Care!
@@ -194,7 +195,7 @@ So let's start with fundamentals of (not only data warehouse) testing, why you s
 #  
 #### SessionID: 67704
 # JSON in SQL Server
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Jakub Müller
 ## Title: JSON in SQL Server
@@ -203,7 +204,7 @@ Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 67807
 # Database corruption
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: Database corruption
@@ -212,7 +213,7 @@ Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Database Administration
 #  
 #### SessionID: 67828
 # Stop everything! Top T-SQL tricks to a Developer
-#### [Back to calendar](#SQLSaturday-#689-Prague-2017)
+#### [Back to calendar](#nr-689)
 Event Date: 21-10-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Marcos Freccia
 ## Title: Stop everything! Top T-SQL tricks to a Developer

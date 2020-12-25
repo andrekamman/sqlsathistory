@@ -1,3 +1,4 @@
+#### Nr: 846
 #### [Back to Main list](index.md)
 # SQLSaturday #846 - Richmond 2019
 Start Time (24h)|Speaker|Track|Title
@@ -43,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 88345
 # Beginning Admin: The Care and Feeding of SQL Server
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: Jennifer McCown
 ## Title: Beginning Admin: The Care and Feeding of SQL Server
@@ -60,7 +61,7 @@ Being a database administrator is a big job, but we can cover the basics in one 
 #  
 #### SessionID: 88431
 # SQL Graph
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Azhagappan Arunachalam
 ## Title: SQL Graph
@@ -69,7 +70,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Application  Database D
 #  
 #### SessionID: 88679
 # An (Advanced) Introduction to DAX
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Eugene Meidinger
 ## Title: An (Advanced) Introduction to DAX
@@ -78,7 +79,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 88757
 # Intro to Query Store
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: Tracy Boggiano
 ## Title: Intro to Query Store
@@ -91,7 +92,7 @@ In this session, we will walk through the features of Query Store, so you can un
 #  
 #### SessionID: 89197
 # Cloudy with a Chance of Data
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Azure / Cloud / Big Data
 ## Speaker: Rick Heiges
 ## Title: Cloudy with a Chance of Data
@@ -100,7 +101,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Azure / Cloud / Big Dat
 #  
 #### SessionID: 89443
 # Everything's working - now what? DBA growth: Advanced Basics
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: Allen Shepard
 ## Title: Everything's working - now what? DBA growth: Advanced Basics
@@ -109,7 +110,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 89580
 # Power BI Deployed
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Carlos L Chacon
 ## Title: Power BI Deployed
@@ -118,7 +119,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 88018
 # Characteristics of a Great Relational Database
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Characteristics of a Great Relational Database
@@ -127,7 +128,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Application  Database D
 #  
 #### SessionID: 88188
 # Automated SQL Server installation and configuration using PowerShell  JSON
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: Jamie Wick
 ## Title: Automated SQL Server installation and configuration using PowerShell  JSON
@@ -136,7 +137,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88738
 # Getting Started with PowerShell Basics for SQL Server Administration
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Beginners Level
 ## Speaker: Michael Wharton
 ## Title: Getting Started with PowerShell Basics for SQL Server Administration
@@ -145,7 +146,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Beginners Level
 #  
 #### SessionID: 88765
 # The Art of War with Bad Code
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Internals  Performance
 ## Speaker: Andrew Kelly
 ## Title: The Art of War with Bad Code
@@ -157,7 +158,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Internals  Performance
 #  
 #### SessionID: 89044
 # Azure Data Engineering
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Azure / Cloud / Big Data
 ## Speaker: Cameron Snapp
 ## Title: Azure Data Engineering
@@ -166,7 +167,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Azure / Cloud / Big Dat
 #  
 #### SessionID: 89408
 # SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rick Lowe
 ## Title: SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
@@ -175,7 +176,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 89494
 # SQL Server with Docker Containers
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Virtualization
 ## Speaker: Marsha Pierce
 ## Title: SQL Server with Docker Containers
@@ -184,7 +185,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Virtualization
 #  
 #### SessionID: 88184
 # Improve Performance and Save Space with SQL Server Data Compression
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Justin Randall
 ## Title: Improve Performance and Save Space with SQL Server Data Compression
@@ -194,7 +195,7 @@ In this presentation you will learn how data compression works, how to determine
 #  
 #### SessionID: 88346
 # Beginning T-SQL
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Beginning T-SQL
@@ -203,7 +204,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Application  Database D
 #  
 #### SessionID: 88759
 # Using Open Source Products to Collect Performance Metrics
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: Tracy Boggiano
 ## Title: Using Open Source Products to Collect Performance Metrics
@@ -216,7 +217,7 @@ Attendees will see how easy it is to get good performance data and visualize in 
 #  
 #### SessionID: 89198
 # An Examination of Today's Certifications
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: Rick Heiges
 ## Title: An Examination of Today's Certifications
@@ -225,7 +226,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 89298
 # Monitoring with Extended Events
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Internals  Performance
 ## Speaker: Jason Brimhall
 ## Title: Monitoring with Extended Events
@@ -238,7 +239,7 @@ You will be exposed to advanced troubleshooting techniques as we work through co
 #  
 #### SessionID: 89541
 # Using Modular Scripts to Perform SQL Compliance Audits in Seconds
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: Chris Bell
 ## Title: Using Modular Scripts to Perform SQL Compliance Audits in Seconds
@@ -248,7 +249,7 @@ In this session, we will go over some scripts that are used for compliance audit
 #  
 #### SessionID: 89582
 # Professional Networking
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: Bill Lund
 ## Title: Professional Networking
@@ -258,7 +259,7 @@ The session would cover tips and recommendations of how to network effectively, 
 #  
 #### SessionID: 91947
 # Break Through Your Data Performance Barriers with SentryOne
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Beginners Level
 ## Speaker: Justin Randall
 ## Title: Break Through Your Data Performance Barriers with SentryOne
@@ -267,7 +268,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Beginners Level
 #  
 #### SessionID: 91992
 # Implementing Power BI
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Beginners Level
 ## Speaker: Carlos L Chacon
 ## Title: Implementing Power BI
@@ -276,7 +277,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Beginners Level
 #  
 #### SessionID: 92020
 # CIO Panel Discussion
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Beginners Level
 ## Speaker: Greg Samuels
 ## Title: CIO Panel Discussion
@@ -285,7 +286,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Beginners Level
 #  
 #### SessionID: 88019
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -294,7 +295,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Application  Database D
 #  
 #### SessionID: 88189
 # SQL Restore: Optimizing Your Data Recovery
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: Jamie Wick
 ## Title: SQL Restore: Optimizing Your Data Recovery
@@ -308,7 +309,7 @@ In this session, we’ll answer these questions by looking at the Disaster Recov
 #  
 #### SessionID: 88636
 # Encrypting Data within Sql Server
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within Sql Server
@@ -321,7 +322,7 @@ You will leave the session with a deeper understanding about SQL Server encrypti
 #  
 #### SessionID: 88677
 # What's New with SQL Server 2019?
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: Eugene Meidinger
 ## Title: What's New with SQL Server 2019?
@@ -330,7 +331,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88764
 # Practical Monitoring of TempDB
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: Andrew Kelly
 ## Title: Practical Monitoring of TempDB
@@ -339,7 +340,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 89538
 # Build a White/Blacklist Bouncer. Who Gets into Your SQL Club?
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: Chris Bell
 ## Title: Build a White/Blacklist Bouncer. Who Gets into Your SQL Club?
@@ -355,7 +356,7 @@ In this session, we will go through the process to create and test your own SQL 
 #  
 #### SessionID: 90261
 # The Master Stored Procedure Workshop: Part 1
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Sean McCown
 ## Title: The Master Stored Procedure Workshop: Part 1
@@ -372,7 +373,7 @@ The session will be packed with tons of code examples, with plenty of labs to re
 #  
 #### SessionID: 88017
 # Using Powershell to Document SQL Server
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: George Walkey
 ## Title: Using Powershell to Document SQL Server
@@ -381,7 +382,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88187
 # SQL Server Performance Fundamentals: Building and Maintaining a Solid Foundation
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Beginners Level
 ## Speaker: Justin Randall
 ## Title: SQL Server Performance Fundamentals: Building and Maintaining a Solid Foundation
@@ -392,7 +393,7 @@ At the end of this session you will know how to configure core server resources 
 #  
 #### SessionID: 88497
 # Profiling Your Data
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Angela Henry
 ## Title: Profiling Your Data
@@ -401,7 +402,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Application  Database D
 #  
 #### SessionID: 89185
 # From R to Machine Learning Services and Beyond
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Mark Hudson
 ## Title: From R to Machine Learning Services and Beyond
@@ -414,7 +415,7 @@ Take with you a better understanding of why analysts, developers, DBAs, PMs, CIO
 #  
 #### SessionID: 89299
 # The Anatomy of Select
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Jason Brimhall
 ## Title: The Anatomy of Select
@@ -427,7 +428,7 @@ This session will help the attendee better understand the Select statement. With
 #  
 #### SessionID: 89854
 # Performance Tuning, Getting the Biggest Bang for Your Buck
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Internals  Performance
 ## Speaker: Monica Rathbun
 ## Title: Performance Tuning, Getting the Biggest Bang for Your Buck
@@ -436,7 +437,7 @@ Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Internals  Performance
 #  
 #### SessionID: 90262
 # The Master Stored Procedure Workshop: Part 2
-#### [Back to calendar](#SQLSaturday-#846-Richmond-2019)
+#### [Back to calendar](#nr-846)
 Event Date: 30-03-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Sean McCown
 ## Title: The Master Stored Procedure Workshop: Part 2

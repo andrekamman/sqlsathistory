@@ -1,3 +1,4 @@
+#### Nr: 147
 #### [Back to Main list](index.md)
 # SQLSaturday #147 - Recife 2012
 Start Time (24h)|Speaker|Track|Title
@@ -20,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11382
 # Replicação Hands On
-#### [Back to calendar](#SQLSaturday-#147-Recife-2012)
+#### [Back to calendar](#nr-147)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Auditorium
 ## Speaker: Cesar Blumm
 ## Title: Replicação Hands On
@@ -29,7 +30,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Auditorium
 #  
 #### SessionID: 13058
 # Uma introdução ao Powershell
-#### [Back to calendar](#SQLSaturday-#147-Recife-2012)
+#### [Back to calendar](#nr-147)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Auditorium
 ## Speaker: Demetrio Silva
 ## Title: Uma introdução ao Powershell
@@ -38,7 +39,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Auditorium
 #  
 #### SessionID: 13252
 # Integração completa do pacote de BI do SQL 2012
-#### [Back to calendar](#SQLSaturday-#147-Recife-2012)
+#### [Back to calendar](#nr-147)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Auditorium
 ## Speaker: Diego Nogare
 ## Title: Integração completa do pacote de BI do SQL 2012
@@ -48,7 +49,7 @@ Será uma sessão que mostrará tecnicamente como você pode agregar valor a sua
 #  
 #### SessionID: 14152
 # 7 maneiras diferentes para matar um DBA do coração
-#### [Back to calendar](#SQLSaturday-#147-Recife-2012)
+#### [Back to calendar](#nr-147)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Auditorium
 ## Speaker: Fabiano Amorim
 ## Title: 7 maneiras diferentes para matar um DBA do coração
@@ -57,7 +58,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Auditorium
 #  
 #### SessionID: 18917
 # Troubleshooting SQL Server com PowerShell
-#### [Back to calendar](#SQLSaturday-#147-Recife-2012)
+#### [Back to calendar](#nr-147)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Lab 2
 ## Speaker: Laerte Junior
 ## Title: Troubleshooting SQL Server com PowerShell
@@ -66,7 +67,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Lab 2
 #  
 #### SessionID: 19493
 # Desenvolvendo para Windows Azure
-#### [Back to calendar](#SQLSaturday-#147-Recife-2012)
+#### [Back to calendar](#nr-147)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Lab 2
 ## Speaker: Marcondes Alexandre
 ## Title: Desenvolvendo para Windows Azure
@@ -75,7 +76,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Lab 2
 #  
 #### SessionID: 19494
 # Administrando sua base de dados no SQL Azure
-#### [Back to calendar](#SQLSaturday-#147-Recife-2012)
+#### [Back to calendar](#nr-147)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Auditorium
 ## Speaker: Marcondes Alexandre
 ## Title: Administrando sua base de dados no SQL Azure
@@ -84,7 +85,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Auditorium
 #  
 #### SessionID: 21049
 # Reading the SQL Server Execution Plan
-#### [Back to calendar](#SQLSaturday-#147-Recife-2012)
+#### [Back to calendar](#nr-147)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Auditorium
 ## Speaker: Denny Cherry
 ## Title: Reading the SQL Server Execution Plan
@@ -93,7 +94,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Auditorium
 #  
 #### SessionID: 21050
 # Table Indexing for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#147-Recife-2012)
+#### [Back to calendar](#nr-147)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Lab 2
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
@@ -102,7 +103,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Lab 2
 #  
 #### SessionID: 21051
 # Where should I be encrypting my data
-#### [Back to calendar](#SQLSaturday-#147-Recife-2012)
+#### [Back to calendar](#nr-147)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Lab 2
 ## Speaker: Denny Cherry
 ## Title: Where should I be encrypting my data
@@ -111,7 +112,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Lab 2
 #  
 #### SessionID: 21235
 # Problemas de fragmentação no Transaction Log
-#### [Back to calendar](#SQLSaturday-#147-Recife-2012)
+#### [Back to calendar](#nr-147)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Lab 2
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Problemas de fragmentação no Transaction Log
@@ -121,7 +122,7 @@ Venha conferir o por que a fragmentação do transaction Log pode se tornar uma 
 #  
 #### SessionID: 23374
 # Usando DQS e SSIS para automatizar carga de dados
-#### [Back to calendar](#SQLSaturday-#147-Recife-2012)
+#### [Back to calendar](#nr-147)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Lab 2
 ## Speaker: Roberval Ranches
 ## Title: Usando DQS e SSIS para automatizar carga de dados
@@ -132,7 +133,7 @@ Para os usuários de BI, é a melhor maneira de garantir a consistência dos dad
 #  
 #### SessionID: 27508
 # Trabalhando com dados geográficos no SSRS 2012
-#### [Back to calendar](#SQLSaturday-#147-Recife-2012)
+#### [Back to calendar](#nr-147)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Lab 2
 ## Speaker: Vladimir Magalhães
 ## Title: Trabalhando com dados geográficos no SSRS 2012
@@ -141,7 +142,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Lab 2
 #  
 #### SessionID: 34853
 # Confio Ignite V8 – Otimização de Desempenho de SQL
-#### [Back to calendar](#SQLSaturday-#147-Recife-2012)
+#### [Back to calendar](#nr-147)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Auditorium
 ## Speaker: Oduvaldo Zeferino
 ## Title: Confio Ignite V8 – Otimização de Desempenho de SQL
@@ -150,7 +151,7 @@ Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Auditorium
 #  
 #### SessionID: 9971
 # Closing Session and Raffle
-#### [Back to calendar](#SQLSaturday-#147-Recife-2012)
+#### [Back to calendar](#nr-147)
 Event Date: 25-08-2012 - Session time: 00:00:00 - Track: Auditorium
 ## Speaker: Fábio Ávila
 ## Title: Closing Session and Raffle

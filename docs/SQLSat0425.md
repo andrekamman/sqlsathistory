@@ -1,3 +1,4 @@
+#### Nr: 425
 #### [Back to Main list](index.md)
 # SQLSaturday #425 - Johannesburg 2015
 Start Time (24h)|Speaker|Track|Title
@@ -32,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 35885
 # I wanna learn SQL Server and I know nothing
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: SQL Dev: Soup to Nuts
 ## Speaker: Steve Simon
 ## Title: I wanna learn SQL Server and I know nothing
@@ -41,7 +42,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: SQL Dev: Soup to Nuts
 #  
 #### SessionID: 37950
 # Microsoft Stream Analytics and Real-Time Data Visualisation
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Data Warehouse  Business Intelligence
 ## Speaker: Gary Hope
 ## Title: Microsoft Stream Analytics and Real-Time Data Visualisation
@@ -50,7 +51,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Data Warehouse  Busines
 #  
 #### SessionID: 38097
 # RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works.
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: Arnie Rowland
 ## Title: RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works.
@@ -59,7 +60,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Development
 #  
 #### SessionID: 39774
 # The Monkey Wrench of data and information
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Strategy And Architecture
 ## Speaker: Howard Diesel
 ## Title: The Monkey Wrench of data and information
@@ -68,7 +69,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Strategy And Architectu
 #  
 #### SessionID: 40011
 # Introduction to Extended Events in SQL Server 2012  2014
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Administration
 ## Speaker: Howard Diesel
 ## Title: Introduction to Extended Events in SQL Server 2012  2014
@@ -77,7 +78,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Administration
 #  
 #### SessionID: 35891
 # What you get out is as good as what you put in
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: SQL Dev: Soup to Nuts
 ## Speaker: Steve Simon
 ## Title: What you get out is as good as what you put in
@@ -86,7 +87,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: SQL Dev: Soup to Nuts
 #  
 #### SessionID: 39105
 # Automating your data-warehouse development with BIML
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Data Warehouse  Business Intelligence
 ## Speaker: Michael Johnson
 ## Title: Automating your data-warehouse development with BIML
@@ -95,7 +96,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Data Warehouse  Busines
 #  
 #### SessionID: 39718
 # Dynamic Management Views and Functions - a Practical Overview
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Administration
 ## Speaker: Sean Cremer
 ## Title: Dynamic Management Views and Functions - a Practical Overview
@@ -107,7 +108,7 @@ This session will cover the more commonly used Dynamic Management Views and intr
 #  
 #### SessionID: 39724
 # tSQLt - Database Unit Testing
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: Clinton van Blommestein
 ## Title: tSQLt - Database Unit Testing
@@ -127,7 +128,7 @@ We will go through setting up the framework, how to write tests and run them - e
 #  
 #### SessionID: 39773
 # SQL Server and the Data Management Practice
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Strategy And Architecture
 ## Speaker: Howard Diesel
 ## Title: SQL Server and the Data Management Practice
@@ -139,7 +140,7 @@ The Data Managemnt Trainline is a set of pat
 #  
 #### SessionID: 35804
 # Load Testing With SQL Server Tools
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: Neil Hambly
 ## Title: Load Testing With SQL Server Tools
@@ -150,7 +151,7 @@ Come learn about the native tools at our disposal for performing these important
 #  
 #### SessionID: 35875
 # Efficient and Effective coding of Stored Procedures
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: SQL Dev: Soup to Nuts
 ## Speaker: Steve Simon
 ## Title: Efficient and Effective coding of Stored Procedures
@@ -160,7 +161,7 @@ In this hands-on presentation, we shall be looking at best practices with regard
 #  
 #### SessionID: 36332
 # Power BI Whirlwind Tour
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Strategy And Architecture
 ## Speaker: Toufiq Abrahams
 ## Title: Power BI Whirlwind Tour
@@ -171,7 +172,7 @@ While Power BI is in preview, many updates and changes are anticipated. These wi
 #  
 #### SessionID: 38128
 # Backups? What backups?
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Administration
 ## Speaker: Gail Shaw
 ## Title: Backups? What backups?
@@ -186,7 +187,7 @@ We’ll look at transaction log backups, at why they are an essential part of th
 #  
 #### SessionID: 39134
 # Analytics Platform System - SQL 2012 Parallel Data Warehouse vs SQL 201x
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Data Warehouse  Business Intelligence
 ## Speaker: Alain Dormehl
 ## Title: Analytics Platform System - SQL 2012 Parallel Data Warehouse vs SQL 201x
@@ -202,7 +203,7 @@ Lastly will cover some of the hybrid hadoop functionality with APS CETAS
 #  
 #### SessionID: 35886
 # Power to the people!!
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: SQL Dev: Soup to Nuts
 ## Speaker: Steve Simon
 ## Title: Power to the people!!
@@ -213,7 +214,7 @@ In this hands on presentation we shall be looking at practical ways and means of
 #  
 #### SessionID: 37949
 # Microsoft Machine Learning Overview
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Administration
 ## Speaker: Gary Hope
 ## Title: Microsoft Machine Learning Overview
@@ -222,7 +223,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Administration
 #  
 #### SessionID: 38127
 # Lies, Damned Lies And Statistics
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Administration
 ## Speaker: Gail Shaw
 ## Title: Lies, Damned Lies And Statistics
@@ -235,7 +236,7 @@ Finally we'll cover some suggestions and options around maintenance of statistic
 #  
 #### SessionID: 39156
 # Data Warehouse Schema Design and Evolution
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: Sandesh Nagaraj
 ## Title: Data Warehouse Schema Design and Evolution
@@ -255,7 +256,7 @@ And lastly discuss around the common schema design roadblocks that people face l
 #  
 #### SessionID: 39452
 # Datazen the new kid on the block
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Data Warehouse  Business Intelligence
 ## Speaker: Bhavesh Lala
 ## Title: Datazen the new kid on the block
@@ -264,7 +265,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Data Warehouse  Busines
 #  
 #### SessionID: 36054
 # Performance Troubleshooting Using DMVs
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Administration
 ## Speaker: Neil Hambly
 ## Title: Performance Troubleshooting Using DMVs
@@ -275,7 +276,7 @@ We’ll be demonstrating using practical examples, including code that can be ta
 #  
 #### SessionID: 36333
 # Dashboard DAX
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Data Warehouse  Business Intelligence
 ## Speaker: Toufiq Abrahams
 ## Title: Dashboard DAX
@@ -284,7 +285,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Data Warehouse  Busines
 #  
 #### SessionID: 36718
 # Data Profiling in SQL Server
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: Sandesh Nagaraj
 ## Title: Data Profiling in SQL Server
@@ -293,7 +294,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Development
 #  
 #### SessionID: 37097
 # SQL licensing aka how to use Microsoft SQL Server legally
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Strategy And Architecture
 ## Speaker: Nóra Kovács
 ## Title: SQL licensing aka how to use Microsoft SQL Server legally
@@ -303,7 +304,7 @@ It  includes basic Microsoft licensing information (internal usage, third party 
 #  
 #### SessionID: 37948
 # SQL Server Always-Encrypted
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: Gary Hope
 ## Title: SQL Server Always-Encrypted
@@ -312,7 +313,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Development
 #  
 #### SessionID: 39772
 # WomenInTech (ZA) - Diversity in the Tech Sector
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: SQL Dev: Soup to Nuts
 ## Speaker: Howard Diesel
 ## Title: WomenInTech (ZA) - Diversity in the Tech Sector
@@ -322,7 +323,7 @@ One year on from WomeninTechZA's launch and much has changed in the tech sector,
 #  
 #### SessionID: 40436
 # Dynamic SQL, not so scary
-#### [Back to calendar](#SQLSaturday-#425-Johannesburg-2015)
+#### [Back to calendar](#nr-425)
 Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: Howard Diesel
 ## Title: Dynamic SQL, not so scary

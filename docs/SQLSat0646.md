@@ -1,3 +1,4 @@
+#### Nr: 646
 #### [Back to Main list](index.md)
 # SQLSaturday #646 - Singapore 2017
 Start Time (24h)|Speaker|Track|Title
@@ -27,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 62915
 # Beginning Data Science-From Novice to Professional
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Beginning Data Science-From Novice to Professional
@@ -40,7 +41,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
 #  
 #### SessionID: 66598
 # Cloud Data Warehousing: Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Dinesh Priyankara
 ## Title: Cloud Data Warehousing: Azure SQL Data Warehouse
@@ -49,7 +50,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 2
 #  
 #### SessionID: 67918
 # Become a SQL Ninja: SQL Server Tools
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: Vinod Kumar M
 ## Title: Become a SQL Ninja: SQL Server Tools
@@ -58,7 +59,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 3
 #  
 #### SessionID: 68525
 # Upgrade to SQL Server 2017: Intelligent Diagnostics Just Built-In
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Parikshit Savjani
 ## Title: Upgrade to SQL Server 2017: Intelligent Diagnostics Just Built-In
@@ -67,7 +68,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
 #  
 #### SessionID: 62999
 # 2,4,8  16 - Upgrade your journey with SQL Server
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Satya Jayanty
 ## Title: 2,4,8  16 - Upgrade your journey with SQL Server
@@ -86,7 +87,7 @@ We will cover the complete upgrade cycle, including the preparation tasks, upgra
 #  
 #### SessionID: 63316
 # Zombie Attack Against Clustered Indexes - Who really need them!
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: Uwe Ricken
 ## Title: Zombie Attack Against Clustered Indexes - Who really need them!
@@ -99,7 +100,7 @@ Watch the demos which show in an impressive way that clustered indexes are not a
 #  
 #### SessionID: 63459
 # Building a Centralised Database Maintenance and Monitoring Solution
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
 ## Speaker: Manohar Punna
 ## Title: Building a Centralised Database Maintenance and Monitoring Solution
@@ -110,7 +111,7 @@ Talk about a easy DBA life, this is a definite simple solution you should build.
 #  
 #### SessionID: 66610
 # Improve data load speed and query performance with Columnstore indexes
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Tejas Shah
 ## Title: Improve data load speed and query performance with Columnstore indexes
@@ -119,7 +120,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
 #  
 #### SessionID: 66620
 # In memory OLTP  - what can it do for me?
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
 ## Speaker: Martin Catherall
 ## Title: In memory OLTP  - what can it do for me?
@@ -132,7 +133,7 @@ Come along to this session and learn about some of features of in memory OLTP  -
 #  
 #### SessionID: 63000
 # Big Data with Azure: where to begin? Concepts and best practices
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Satya Jayanty
 ## Title: Big Data with Azure: where to begin? Concepts and best practices
@@ -143,7 +144,7 @@ Microsoft Azure has the ability to move, store and analyze data within the cloud
 #  
 #### SessionID: 64071
 # Optimizing SQL Server Performance in a Virtual Environment
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: Denny Cherry
 ## Title: Optimizing SQL Server Performance in a Virtual Environment
@@ -152,7 +153,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 3
 #  
 #### SessionID: 64548
 # Using Power Query to Tell Your Story from Your Facebook Data
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Anil Maharjan
 ## Title: Using Power Query to Tell Your Story from Your Facebook Data
@@ -161,7 +162,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 2
 #  
 #### SessionID: 65324
 # 1 Database, Many Data Models: Database Designers and Azure Cosmos DB
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Karen Lopez
 ## Title: 1 Database, Many Data Models: Database Designers and Azure Cosmos DB
@@ -182,7 +183,7 @@ It is the first cloud database to natively support a multitude of data models an
 #  
 #### SessionID: 69062
 # Graph Data processing with SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
 ## Speaker: Prakash Sawant
 ## Title: Graph Data processing with SQL Server 2017
@@ -191,7 +192,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
 #  
 #### SessionID: 64002
 # Data Quality and the BI Life Cycle
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
 ## Speaker: Robert Blaas
 ## Title: Data Quality and the BI Life Cycle
@@ -200,7 +201,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
 #  
 #### SessionID: 64235
 # DevOPs and the DBA
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Hamish Watson
 ## Title: DevOPs and the DBA
@@ -219,7 +220,7 @@ Through the use of a comprehensive live demo to a running production database th
 #  
 #### SessionID: 64334
 # SQL Server on Linux--Linux for the SQL DBA
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Joseph D'Antoni
 ## Title: SQL Server on Linux--Linux for the SQL DBA
@@ -228,7 +229,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
 #  
 #### SessionID: 69134
 # An Introduction to SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: Warwick Rudd
 ## Title: An Introduction to SQL Server 2017
@@ -239,7 +240,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 3
 #  
 #### SessionID: 66649
 # SQL Server 2017: Better HA  DR
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Andreas Wolter
 ## Title: SQL Server 2017: Better HA  DR
@@ -248,7 +249,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
 #  
 #### SessionID: 67972
 # SQL Server 2016 Query Store
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Dharmendra Keshari
 ## Title: SQL Server 2016 Query Store
@@ -258,7 +259,7 @@ During this session we will take a thorough look at the Query Store, its archite
 #  
 #### SessionID: 68526
 # Using Data for Digital Transformation
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: Sarbjit Singh
 ## Title: Using Data for Digital Transformation
@@ -267,7 +268,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 3
 #  
 #### SessionID: 69052
 # SQL Server Unknown Mysteries: The Case of Transparent Data Encryp
-#### [Back to calendar](#SQLSaturday-#646-Singapore-2017)
+#### [Back to calendar](#nr-646)
 Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Mohit Niranwal
 ## Title: SQL Server Unknown Mysteries: The Case of Transparent Data Encryp

@@ -1,3 +1,4 @@
+#### Nr: 664
 #### [Back to Main list](index.md)
 # SQLSaturday #664 - Katowice 2017
 Start Time (24h)|Speaker|Track|Title
@@ -13,7 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 66614
 # SQL Server Performance Tuning Nowadays
-#### [Back to calendar](#SQLSaturday-#664-Katowice-2017)
+#### [Back to calendar](#nr-664)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Denis Reznik
 ## Title: SQL Server Performance Tuning Nowadays
@@ -24,7 +25,7 @@ In this session, we will find answers to all these questions going from collecti
 #  
 #### SessionID: 67377
 # SSIS – Transform Your Data in Parallel
-#### [Back to calendar](#SQLSaturday-#664-Katowice-2017)
+#### [Back to calendar](#nr-664)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Hubert Kobierzewski
 ## Title: SSIS – Transform Your Data in Parallel
@@ -33,7 +34,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 65508
 # Tuning large queries
-#### [Back to calendar](#SQLSaturday-#664-Katowice-2017)
+#### [Back to calendar](#nr-664)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Grzegorz Łyp
 ## Title: Tuning large queries
@@ -42,7 +43,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66351
 # R'em All. Use R in Power BI to Deal with Data
-#### [Back to calendar](#SQLSaturday-#664-Katowice-2017)
+#### [Back to calendar](#nr-664)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Pawel Potasinski
 ## Title: R'em All. Use R in Power BI to Deal with Data
@@ -51,7 +52,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 65599
 # 2,4,8  16 - Upgrade your journey with SQL Server
-#### [Back to calendar](#SQLSaturday-#664-Katowice-2017)
+#### [Back to calendar](#nr-664)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: 2,4,8  16 - Upgrade your journey with SQL Server
@@ -70,7 +71,7 @@ We will cover the complete upgrade cycle, including the preparation tasks, upgra
 #  
 #### SessionID: 67384
 # Reporting Services  Power BI Server
-#### [Back to calendar](#SQLSaturday-#664-Katowice-2017)
+#### [Back to calendar](#nr-664)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Tomasz Libera
 ## Title: Reporting Services  Power BI Server
@@ -80,7 +81,7 @@ During the session I’m going to explain licensing model and show how to use it
 #  
 #### SessionID: 67249
 # A Masters view on Locking and blocking
-#### [Back to calendar](#SQLSaturday-#664-Katowice-2017)
+#### [Back to calendar](#nr-664)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Locking and blocking
@@ -92,7 +93,7 @@ And finally a real-world quick list of suggestions on what you can do to solve s
 #  
 #### SessionID: 66949
 # Build your first bot – no code required!
-#### [Back to calendar](#SQLSaturday-#664-Katowice-2017)
+#### [Back to calendar](#nr-664)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Information Delivery
 ## Speaker: Stephanie Locke
 ## Title: Build your first bot – no code required!

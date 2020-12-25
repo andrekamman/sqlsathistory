@@ -1,3 +1,4 @@
+#### Nr: 864
 #### [Back to Main list](index.md)
 # SQLSaturday #864 - South Florida 2019
 Start Time (24h)|Speaker|Track|Title
@@ -61,7 +62,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 89394
 # Indexing Like a Rocket Scientist
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: Indexing Like a Rocket Scientist
@@ -84,7 +85,7 @@ Some knowledge of T-SQL and Management Studio is recommended.
 #  
 #### SessionID: 89420
 # What to Do When SQL Server is Unusually Slow
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: DBA Beginners
 ## Speaker: Brent Ozar
 ## Title: What to Do When SQL Server is Unusually Slow
@@ -97,7 +98,7 @@ Good news – there is, and you’re about to learn how the pros do it. In one a
 #  
 #### SessionID: 89699
 # Interviewing-Be So Good They Can’t Ignore You
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Leveat Ruse
 ## Title: Interviewing-Be So Good They Can’t Ignore You
@@ -106,7 +107,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 89732
 # Building a Data Warehouse from the Ground Up
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Dustin Ryan
 ## Title: Building a Data Warehouse from the Ground Up
@@ -115,7 +116,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 91615
 # Azure Cosmos DB - What you need to know to build globally distributed apps?
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Azure Cosmos DB - What you need to know to build globally distributed apps?
@@ -124,7 +125,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 92325
 # Power BI: From Ground to the Cloud (Getting started)
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Cecilia Brusatori
 ## Title: Power BI: From Ground to the Cloud (Getting started)
@@ -135,7 +136,7 @@ We will go on a quick tour of the different options offered by the tool, basic c
 #  
 #### SessionID: 93059
 # Is Azure Data Studio Better Than SSMS?
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mike Burek
 ## Title: Is Azure Data Studio Better Than SSMS?
@@ -148,7 +149,7 @@ Updates are coming out every month, making it easier to use, fixing bugs, and ad
 #  
 #### SessionID: 93184
 # How AI Saved My Great-Grandma's Cookbook
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Data Science
 ## Speaker: Audrey Hammonds
 ## Title: How AI Saved My Great-Grandma's Cookbook
@@ -159,7 +160,7 @@ This session demonstrates how you can use both the built-in and custom AI in Cog
 #  
 #### SessionID: 93632
 # AI Application for everyone: Microsoft Power Apps, Cognitive Service, and Flow
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Artificial Intelligence
 ## Speaker: Leila Etaati
 ## Title: AI Application for everyone: Microsoft Power Apps, Cognitive Service, and Flow
@@ -169,7 +170,7 @@ Moreover, the process of how to create a face recognition application  (to detec
 #  
 #### SessionID: 94578
 # My IOT Journey
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: IoT
 ## Speaker: Dave Noderer
 ## Title: My IOT Journey
@@ -178,7 +179,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: IoT
 #  
 #### SessionID: 94581
 # eCommerce Strategies found through usage data
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Ibis Fonte
 ## Title: eCommerce Strategies found through usage data
@@ -187,7 +188,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 89418
 # What's New in SQL Server 2019: 100% Demos
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brent Ozar
 ## Title: What's New in SQL Server 2019: 100% Demos
@@ -200,7 +201,7 @@ No slides here - not even an about-me slide. Let's dive into some queries!
 #  
 #### SessionID: 89612
 # Learn Power BI Report Server Enterprise Architecture, Tools to publish reports and Best Practice
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Vishal Pawar
 ## Title: Learn Power BI Report Server Enterprise Architecture, Tools to publish reports and Best Practice
@@ -210,7 +211,7 @@ In this session Vishal will go over Power BI Ecosystem with Example, PBI RS evol
 #  
 #### SessionID: 90664
 # Vision, Mission, Goals  Strategies
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Vigi Kuruvilla
 ## Title: Vision, Mission, Goals  Strategies
@@ -219,7 +220,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 90877
 # Artificial Intelligence (AI) Democratized with Power BI
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Joe Homnick
 ## Title: Artificial Intelligence (AI) Democratized with Power BI
@@ -228,7 +229,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 91099
 # SQL Server in the Cloud: Microsoft Azure vs Amazon Web Services (AWS)
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Darius Liktorius
 ## Title: SQL Server in the Cloud: Microsoft Azure vs Amazon Web Services (AWS)
@@ -237,7 +238,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 91853
 # Are you Running on Insights?
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Santosh Kanthety
 ## Title: Are you Running on Insights?
@@ -246,7 +247,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 92323
 # Tips of Running a Well-Oiled Database Team
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eddy Djaja
 ## Title: Tips of Running a Well-Oiled Database Team
@@ -255,7 +256,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93019
 # The Power Platform Game Changer
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Hiram Fleitas
 ## Title: The Power Platform Game Changer
@@ -273,7 +274,7 @@ We'll have time for QA. Maybe we'll even ask Cortana a few questions. I look for
 #  
 #### SessionID: 93106
 # Say what now? SQL Server 2019 + Spark + HDFS???
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Pankaj Satyaketu
 ## Title: Say what now? SQL Server 2019 + Spark + HDFS???
@@ -286,7 +287,7 @@ Come join me for and overview and demonstration of the capabilities this platfor
 #  
 #### SessionID: 93344
 # Run Like Google: Server-less Data warehousing and Analytics on Google Cloud Platform
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Jay Rajendran
 ## Title: Run Like Google: Server-less Data warehousing and Analytics on Google Cloud Platform
@@ -296,7 +297,7 @@ This session will provide a walk-through of Google's approach to Server-less Dat
 #  
 #### SessionID: 93630
 # Building AI-powered Solutions with Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Azure Cloud
 ## Speaker: Eumar Assis
 ## Title: Building AI-powered Solutions with Microsoft Azure
@@ -307,7 +308,7 @@ On this session, Eumar Assis, Microsoft Technology Strategist will review and de
 #  
 #### SessionID: 94926
 # Exploring Big data technologies and how unlock everything you thought you knew about your data!
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Azure Cloud
 ## Speaker: Diana Betancourt
 ## Title: Exploring Big data technologies and how unlock everything you thought you knew about your data!
@@ -316,7 +317,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Azure Cloud
 #  
 #### SessionID: 93102
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
@@ -325,7 +326,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 94032
 # DELL Gold Sponsored Session
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: SQL Saturday South Florida
 ## Title: DELL Gold Sponsored Session
@@ -334,7 +335,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 94575
 # Best Practices for SQL Server on AWS
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tom Staab
 ## Title: Best Practices for SQL Server on AWS
@@ -343,7 +344,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 94673
 # Database Performance Monitoring
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Database Performance Monitoring
@@ -352,7 +353,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 89718
 # Constraints are the Key (to Data Integrity)
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Andy Warren
 ## Title: Constraints are the Key (to Data Integrity)
@@ -361,7 +362,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 89731
 # Power BI Governance 101
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Dustin Ryan
 ## Title: Power BI Governance 101
@@ -370,7 +371,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 89974
 # What Is Clogging Your Database Performance?
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eddy Djaja
 ## Title: What Is Clogging Your Database Performance?
@@ -379,7 +380,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90011
 # An Introduction to Power BI for Data Science With Python
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Data Science
 ## Speaker: Adriano da Silva
 ## Title: An Introduction to Power BI for Data Science With Python
@@ -390,7 +391,7 @@ This is an introductory session designed for those with basic Power BI skills; a
 #  
 #### SessionID: 90831
 # Branding and Neuro-Marketing
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Patricia Monica Ojeda
 ## Title: Branding and Neuro-Marketing
@@ -399,7 +400,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 90914
 # Real-time Sentiment Prediction in SQL Server
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Hiram Fleitas
 ## Title: Real-time Sentiment Prediction in SQL Server
@@ -421,7 +422,7 @@ I look forward to seeing you guys there!
 #  
 #### SessionID: 91618
 # DevOPS for DBAs - Where is your magic wand?
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: DevOPS for DBAs - Where is your magic wand?
@@ -435,7 +436,7 @@ Take away best practices associated in DEVOPS and DBA world.
 #  
 #### SessionID: 92267
 # PowerShell Core - Fundamental on How-To Persist Data in a SQL Server Container
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Maximo Trinidad
 ## Title: PowerShell Core - Fundamental on How-To Persist Data in a SQL Server Container
@@ -444,7 +445,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 92464
 # Hadoop, Hive, and Big Data For MSSQL Professionals
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ernest Libertucci
 ## Title: Hadoop, Hive, and Big Data For MSSQL Professionals
@@ -453,7 +454,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 92773
 # Build a Modern Data Warehouse from disparate sources and visualize the data with PowerBI
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: oscar garcia
 ## Title: Build a Modern Data Warehouse from disparate sources and visualize the data with PowerBI
@@ -475,7 +476,7 @@ Data analysis and visualization with Power BI
 #  
 #### SessionID: 93185
 # Into the Deep End with Azure Data Lake Store Generation 2
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Audrey Hammonds
 ## Title: Into the Deep End with Azure Data Lake Store Generation 2
@@ -484,7 +485,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 94369
 # For Love or Money, Your Tech Career
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Alex Funkhouser
 ## Title: For Love or Money, Your Tech Career
@@ -497,7 +498,7 @@ In this highly interactive group session, you will learn multiple career strateg
 #  
 #### SessionID: 89393
 # Climbing the SQL Server Index B-Tree
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: Climbing the SQL Server Index B-Tree
@@ -516,7 +517,7 @@ performance, and the right indexes will give your application a big performance 
 #  
 #### SessionID: 89475
 # Azure SQL DW. Redefining MPP, how it stacks against Snowflake and RedShift
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Oscar Zamora
 ## Title: Azure SQL DW. Redefining MPP, how it stacks against Snowflake and RedShift
@@ -528,7 +529,7 @@ The presentation shows a side by side comparison, with pros and cons of each pla
 #  
 #### SessionID: 90421
 # Containerize your learning - a docker introduction
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Daniel Shrader
 ## Title: Containerize your learning - a docker introduction
@@ -537,7 +538,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 90582
 # Intro Into Index Analysis
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dmitri Korotkevitch
 ## Title: Intro Into Index Analysis
@@ -548,7 +549,7 @@ In this session, Dmitri demonstrates several techniques that help you to perform
 #  
 #### SessionID: 90685
 # Look, over there, your permissions are showing!
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Travis Page
 ## Title: Look, over there, your permissions are showing!
@@ -557,7 +558,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90886
 # Artificial Intelligence (AI) for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Hector Villafuerte
 ## Title: Artificial Intelligence (AI) for Business Intelligence
@@ -566,7 +567,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 91649
 # Why You Should Consider Implementing Indexed Views
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Alexander Fleming
 ## Title: Why You Should Consider Implementing Indexed Views
@@ -575,7 +576,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 91766
 # Locks, Blocks, and Deadlocks; Tame the Sibling Rivalry
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Locks, Blocks, and Deadlocks; Tame the Sibling Rivalry
@@ -588,7 +589,7 @@ By the end of this session you will walk away with the knowledge of how the lock
 #  
 #### SessionID: 91842
 # Changing Data Is Easy, Managing Data Change is Hard!
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: James McAuliffe
 ## Title: Changing Data Is Easy, Managing Data Change is Hard!
@@ -597,7 +598,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 92970
 # Temporal Tables:  Creation, Use, and Optimizing
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Dale Sullenberger
 ## Title: Temporal Tables:  Creation, Use, and Optimizing
@@ -606,7 +607,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 93055
 # Basic Windowing Functions
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mike Burek
 ## Title: Basic Windowing Functions
@@ -615,7 +616,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 93208
 # “Past, Present, and Future of the Data Profession" Part 1- "Relational Databases Vs. NoSQL"
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Frank Quintana
 ## Title: “Past, Present, and Future of the Data Profession" Part 1- "Relational Databases Vs. NoSQL"
@@ -629,7 +630,7 @@ What are the advantages and disadvantages of Big Data Compare to RDBMS? Are Data
 #  
 #### SessionID: 92971
 # Temporal Tables - Managing Large Data Sets and Their Effects on Performance
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dale Sullenberger
 ## Title: Temporal Tables - Managing Large Data Sets and Their Effects on Performance
@@ -638,7 +639,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93016
 # Hack / Protect SQL Server - Come learn both.
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Hiram Fleitas
 ## Title: Hack / Protect SQL Server - Come learn both.
@@ -655,7 +656,7 @@ We'll have plenty of time for QA. I hope to see you there!
 #  
 #### SessionID: 93209
 # “Past, Present, and Future of the Data Profession“ Part 2- "Data Profession in the 21st Century"
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Frank Quintana
 ## Title: “Past, Present, and Future of the Data Profession“ Part 2- "Data Profession in the 21st Century"
@@ -669,7 +670,7 @@ How Universities and Business could reduce the deficit of talents in today marke
 #  
 #### SessionID: 93930
 # 5 Availability Groups Issues That May Ruin Your Day
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dmitri Korotkevitch
 ## Title: 5 Availability Groups Issues That May Ruin Your Day
@@ -680,7 +681,7 @@ While Availability Groups help to achieve required High Availability, they may a
 #  
 #### SessionID: 94036
 # PowerBI Challenge
-#### [Back to calendar](#SQLSaturday-#864-South-Florida-2019)
+#### [Back to calendar](#nr-864)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: SQL Saturday South Florida
 ## Title: PowerBI Challenge

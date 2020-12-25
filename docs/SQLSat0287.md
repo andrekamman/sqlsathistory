@@ -1,3 +1,4 @@
+#### Nr: 287
 #### [Back to Main list](index.md)
 # SQLSaturday #287 - Madison 2014
 Start Time (24h)|Speaker|Track|Title
@@ -48,7 +49,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10221
 # Be Friendly to SQL Server with TSQL Best Practices
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ben Miller
 ## Title: Be Friendly to SQL Server with TSQL Best Practices
@@ -57,7 +58,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 10445
 # SSIS development is done: now what? Deployment, migration, maintenance and troubleshooting
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bill Fellows
 ## Title: SSIS development is done: now what? Deployment, migration, maintenance and troubleshooting
@@ -66,7 +67,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10522
 # Fast and Flexible with Better Database Design
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Bill Lescher
 ## Title: Fast and Flexible with Better Database Design
@@ -75,7 +76,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 10744
 # How to Tune Queries
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Brent Ozar
 ## Title: How to Tune Queries
@@ -84,7 +85,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 10769
 # Database Unit Testing
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Brian Beswick
 ## Title: Database Unit Testing
@@ -93,7 +94,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 11684
 # SQL Server 2014:  Platform for Hybrid Cloud
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Chuck Heinzelman
 ## Title: SQL Server 2014:  Platform for Hybrid Cloud
@@ -102,7 +103,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 12056
 # SQL Server 2014  Buffer Pool Extension 
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Chirag Shah
 ## Title: SQL Server 2014  Buffer Pool Extension 
@@ -119,7 +120,7 @@ c) Demo!
 #  
 #### SessionID: 12505
 # Squeezing Top Performance from Your Virtualized SQL Server
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: David Klee
 ## Title: Squeezing Top Performance from Your Virtualized SQL Server
@@ -128,7 +129,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 13067
 # Delivering Self-Service BI with Power
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Dan English
 ## Title: Delivering Self-Service BI with Power
@@ -137,7 +138,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 13306
 # DBA 911 - Database Corruption
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: David Maxwell
 ## Title: DBA 911 - Database Corruption
@@ -147,7 +148,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 14643
 # You're the DBA.  Now What?
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Gill Rowley
 ## Title: You're the DBA.  Now What?
@@ -156,7 +157,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 15554
 # Contained Databases: What, Why and Where.
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Jim Dorame
 ## Title: Contained Databases: What, Why and Where.
@@ -171,7 +172,7 @@ Come learn how these and other elements of a "contained database", can impact yo
 #  
 #### SessionID: 15724
 # Advanced Performance Tuning Tips with Database Performance Analyzer (formerly Confio Ignite)
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Janis Griffin
 ## Title: Advanced Performance Tuning Tips with Database Performance Analyzer (formerly Confio Ignite)
@@ -180,7 +181,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 15725
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
@@ -189,7 +190,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15795
 # Maintenance and Backups:  Intro to Ola Hallengren
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Jason Carter
 ## Title: Maintenance and Backups:  Intro to Ola Hallengren
@@ -198,7 +199,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 15968
 # Recognizing the Parallel Data Warehouse (PDW) Workload
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jason Strate
 ## Title: Recognizing the Parallel Data Warehouse (PDW) Workload
@@ -207,7 +208,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 16637
 # SSMS: More Than Meets The Eye
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Jes Schultz
 ## Title: SSMS: More Than Meets The Eye
@@ -216,7 +217,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 17069
 # Solving Complex Problems with Extended Events
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Jonathan Kehayias
 ## Title: Solving Complex Problems with Extended Events
@@ -225,7 +226,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 17125
 # Practical SQL Server Cardinality Estimation
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Joe Sack
 ## Title: Practical SQL Server Cardinality Estimation
@@ -235,7 +236,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17256
 # Social Networking Is Alive!!!
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: John Morehouse
 ## Title: Social Networking Is Alive!!!
@@ -244,7 +245,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 17546
 # An Introduction to FileTables
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: John Pertell
 ## Title: An Introduction to FileTables
@@ -253,7 +254,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 17848
 # Hekaton Data: A Whole New World
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Kalen Delaney
 ## Title: Hekaton Data: A Whole New World
@@ -262,7 +263,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 18390
 # Implement a Dynamic Table Partitioning Solution
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kirby Richter
 ## Title: Implement a Dynamic Table Partitioning Solution
@@ -272,7 +273,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18851
 # Performance-Tuning for Extract/Transform/Load (ETL) Operations
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ken Stuber
 ## Title: Performance-Tuning for Extract/Transform/Load (ETL) Operations
@@ -281,7 +282,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18949
 # Building Hadoop Clusters on Azure
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Lara Rubbelke
 ## Title: Building Hadoop Clusters on Azure
@@ -290,7 +291,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 19507
 # Using DAX in SSMS and C#
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Marc Temkin
 ## Title: Using DAX in SSMS and C#
@@ -299,7 +300,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 19652
 # DANGER: The Art and Science of Presenting
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mark Vaillancourt
 ## Title: DANGER: The Art and Science of Presenting
@@ -308,7 +309,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 20071
 # PowerShell 101
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Merrill Aldrich
 ## Title: PowerShell 101
@@ -317,7 +318,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 21132
 # Extending SQL Server with Advanced Analytics and R
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Michael Schulte
 ## Title: Extending SQL Server with Advanced Analytics and R
@@ -326,7 +327,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 21151
 # SQL 2012 and 2014 AlwaysOn Configuration Deep Dive 
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Michael Steineke
 ## Title: SQL 2012 and 2014 AlwaysOn Configuration Deep Dive 
@@ -335,7 +336,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21172
 # Resistance is Futile: What You Need To Know About Big Data
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Michelle Ufford
 ## Title: Resistance is Futile: What You Need To Know About Big Data
@@ -344,7 +345,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22398
 # Database Snapshots - Making Your Job Easier
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Paul Timmerman
 ## Title: Database Snapshots - Making Your Job Easier
@@ -353,7 +354,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22646
 # Getting Started with Hekaton (In-Memory OLTP)
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Brian Davis
 ## Title: Getting Started with Hekaton (In-Memory OLTP)
@@ -362,7 +363,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 24303
 # How to baseline IO performance for your next SQL Server 
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Luke Jian
 ## Title: How to baseline IO performance for your next SQL Server 
@@ -371,7 +372,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24416
 # How Skyline Does Innovative BI
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Scott Hietpas
 ## Title: How Skyline Does Innovative BI
@@ -380,7 +381,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 24539
 # Unstructured Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Steve Jones
 ## Title: Unstructured Data in SQL Server
@@ -389,7 +390,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 24875
 # Integrate SQL Server with hadoop
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Pat Wright
 ## Title: Integrate SQL Server with hadoop
@@ -398,7 +399,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 24882
 # Every Byte Counts: Why Your Datatype Choices Matter
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Andy Yun
 ## Title: Every Byte Counts: Why Your Datatype Choices Matter
@@ -407,7 +408,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24958
 # Forward the Federations
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: MIKE DONNELLY
 ## Title: Forward the Federations
@@ -416,7 +417,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 26042
 # How do I create an automated ETL test suite ??
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Terry Bunio
 ## Title: How do I create an automated ETL test suite ??
@@ -429,7 +430,7 @@ The last half of the session will be a demonstration of the tests to illustrate 
 #  
 #### SessionID: 26064
 # Upgrading and Migrating SQL Server with limited downtime 
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Ted Krueger
 ## Title: Upgrading and Migrating SQL Server with limited downtime 
@@ -438,7 +439,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 26071
 # Keynote
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Ted Krueger
 ## Title: Keynote
@@ -447,7 +448,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 27060
 # 10 Ways To Abuse T-SQL
-#### [Back to calendar](#SQLSaturday-#287-Madison-2014)
+#### [Back to calendar](#nr-287)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Tracy McKibben
 ## Title: 10 Ways To Abuse T-SQL

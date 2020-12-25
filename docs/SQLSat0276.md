@@ -1,3 +1,4 @@
+#### Nr: 276
 #### [Back to Main list](index.md)
 # SQLSaturday #276 - Silicon Valley 2014
 Start Time (24h)|Speaker|Track|Title
@@ -38,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10110
 # Decouple Database Performance from Database Capacity
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Bala Narasimhan
 ## Title: Decouple Database Performance from Database Capacity
@@ -47,7 +48,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 11103
 # Dimensional Modeling: The Basics  Beyond 
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Bonus Track
 ## Speaker: Dan Bulos
 ## Title: Dimensional Modeling: The Basics  Beyond 
@@ -56,7 +57,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Bonus Track
 #  
 #### SessionID: 11348
 # Getting started with Big Data and BI
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Big Data/Azure
 ## Speaker: Carlos Bossy
 ## Title: Getting started with Big Data and BI
@@ -65,7 +66,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Big Data/Azure
 #  
 #### SessionID: 12413
 # Clusters Your Way - #SANLess clusters for physical, virtual and cloud environments
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Sios Technology and Allan Hirt
 ## Title: Clusters Your Way - #SANLess clusters for physical, virtual and cloud environments
@@ -74,7 +75,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 12874
 # The Last NULL in the Coffin: Missing Data, SQL  the Relational Model
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Fabian Pascal
 ## Title: The Last NULL in the Coffin: Missing Data, SQL  the Relational Model
@@ -84,7 +85,7 @@ This presentation outlines a relational (2VL) solution to missing data that is d
 #  
 #### SessionID: 14116
 # What is a Latch, and Why Should I Care?
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Eddie Wuerch
 ## Title: What is a Latch, and Why Should I Care?
@@ -93,7 +94,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 15527
 # Faster Insights From Any Data
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Big Data/Azure
 ## Speaker: Jarek Kazmierczak
 ## Title: Faster Insights From Any Data
@@ -102,7 +103,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Big Data/Azure
 #  
 #### SessionID: 17846
 # Unblock yourself -- Optimistic concurrency in Hekaton
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: SQL Server 2014 Launch Track
 ## Speaker: Kalen Delaney
 ## Title: Unblock yourself -- Optimistic concurrency in Hekaton
@@ -111,7 +112,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: SQL Server 2014 Launch 
 #  
 #### SessionID: 17875
 # $#*! Your Database Says About Me
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Karen Lopez
 ## Title: $#*! Your Database Says About Me
@@ -120,7 +121,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 18216
 # Team Leadership Fundamentals
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Bonus Track
 ## Speaker: Kevin Kline
 ## Title: Team Leadership Fundamentals
@@ -135,7 +136,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Bonus Track
 #  
 #### SessionID: 19071
 # Database Development with SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Leonard Lobel
 ## Title: Database Development with SQL Server Data Tools
@@ -144,7 +145,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 19323
 # Machine Learning Smack Down
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Big Data/Azure
 ## Speaker: Lynn Langit
 ## Title: Machine Learning Smack Down
@@ -153,7 +154,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Big Data/Azure
 #  
 #### SessionID: 20392
 # Best Practices for Efficient SSRS Report Creation
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Mickey Stuewe
 ## Title: Best Practices for Efficient SSRS Report Creation
@@ -163,7 +164,7 @@ Reports don't stop changing once they're released into production, and some repo
 #  
 #### SessionID: 20838
 # Want a promotion? It’s up to you!
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Bonus Track
 ## Speaker: Mitchell Bottel
 ## Title: Want a promotion? It’s up to you!
@@ -172,7 +173,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Bonus Track
 #  
 #### SessionID: 21021
 # SQL Server's In Memory Database Objects
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: SQL Server 2014 Launch Track
 ## Speaker: Denny Cherry
 ## Title: SQL Server's In Memory Database Objects
@@ -181,7 +182,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: SQL Server 2014 Launch 
 #  
 #### SessionID: 21759
 # SQL Server 2014 In-Memory Architecture - Microsoft xVelocity Engine
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: SQL Server 2014 Launch Track
 ## Speaker: Pat Sheehan
 ## Title: SQL Server 2014 In-Memory Architecture - Microsoft xVelocity Engine
@@ -190,7 +191,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: SQL Server 2014 Launch 
 #  
 #### SessionID: 21852
 # BI Expert Panel - Part 1
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Paul Turley
 ## Title: BI Expert Panel - Part 1
@@ -199,7 +200,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 21853
 # BI Expert Panel - Part 2
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Paul Turley
 ## Title: BI Expert Panel - Part 2
@@ -208,7 +209,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 22527
 # Locks, Blocks, and Deadlocks Oh My!
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Randy Knight
 ## Title: Locks, Blocks, and Deadlocks Oh My!
@@ -217,7 +218,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 23370
 # An Analytics Sandbox in A World of Big Data  
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Big Data/Azure
 ## Speaker: Roberto Arnetoli and Andrew Eichenbaum
 ## Title: An Analytics Sandbox in A World of Big Data  
@@ -226,7 +227,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Big Data/Azure
 #  
 #### SessionID: 24302
 # Parallel Data Warehouse
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Big Data/Azure
 ## Speaker: Sean Mikha
 ## Title: Parallel Data Warehouse
@@ -236,7 +237,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Big Data/Azure
 #  
 #### SessionID: 24542
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Bonus Track
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -245,7 +246,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Bonus Track
 #  
 #### SessionID: 24640
 # Reduce, Reuse, Recycle: Automating your BI Framework
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Bonus Track
 ## Speaker: Stacia Varga
 ## Title: Reduce, Reuse, Recycle: Automating your BI Framework
@@ -254,7 +255,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Bonus Track
 #  
 #### SessionID: 24847
 # SSAS 2012 Tips/Tricks with Tabular Schema Compare
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Christian Wade
 ## Title: SSAS 2012 Tips/Tricks with Tabular Schema Compare
@@ -267,7 +268,7 @@ Some demos perform currency conversion; all are relevant to a wide range of busi
 #  
 #### SessionID: 25143
 # Monitoring Databases in a Virtual Environment
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Thomas LaRock
 ## Title: Monitoring Databases in a Virtual Environment
@@ -276,7 +277,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 26406
 # SQL Server 2014 New Features
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2014 New Features
@@ -285,7 +286,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 27402
 # Edge Case Testing for the Database Professional
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Vicky Harp
 ## Title: Edge Case Testing for the Database Professional
@@ -294,7 +295,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 27452
 # Data Flow Architectures in Software Development Life-Cycle
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Virginia Mushkatbat
 ## Title: Data Flow Architectures in Software Development Life-Cycle
@@ -303,7 +304,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 34648
 # What Happens When SQL Server 2014 Meets Cisco UCS? Simplified Cloud Adoption
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: SQL Server 2014 Launch Track
 ## Speaker: Gary Serda
 ## Title: What Happens When SQL Server 2014 Meets Cisco UCS? Simplified Cloud Adoption
@@ -312,7 +313,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: SQL Server 2014 Launch 
 #  
 #### SessionID: 9260
 # Hybrid Solutions: The Future of SQL Server Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: SQL Server 2014 Launch Track
 ## Speaker: Allan Hirt
 ## Title: Hybrid Solutions: The Future of SQL Server Disaster Recovery
@@ -321,7 +322,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: SQL Server 2014 Launch 
 #  
 #### SessionID: 9390
 # Migration considerations for In-memory OLTP - What, Why, How and What not
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: SQL Server 2014 Launch Track
 ## Speaker: Ami Levin
 ## Title: Migration considerations for In-memory OLTP - What, Why, How and What not
@@ -330,7 +331,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: SQL Server 2014 Launch 
 #  
 #### SessionID: 9661
 # Self-Service BI with PowerPivot and Power View
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Angel Abundez
 ## Title: Self-Service BI with PowerPivot and Power View
@@ -339,7 +340,7 @@ Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 9759
 # Peace of Mind: Making DBCC CHECKDB Go Faster
-#### [Back to calendar](#SQLSaturday-#276-Silicon-Valley-2014)
+#### [Back to calendar](#nr-276)
 Event Date: 15-03-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Argenis Fernandez
 ## Title: Peace of Mind: Making DBCC CHECKDB Go Faster

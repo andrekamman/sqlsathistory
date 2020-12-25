@@ -1,3 +1,4 @@
+#### Nr: 272
 #### [Back to Main list](index.md)
 # SQLSaturday #272 - Nashville 2014
 Start Time (24h)|Speaker|Track|Title
@@ -54,7 +55,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10039
 # Automate Your ETL Infrastructure with SSIS and PowerShell
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Spotlight Sessions
 ## Speaker: Allen White
 ## Title: Automate Your ETL Infrastructure with SSIS and PowerShell
@@ -63,7 +64,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Spotlight Sessions
 #  
 #### SessionID: 11078
 # ETL in a Nutshell with SSIS
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Brett Tomson
 ## Title: ETL in a Nutshell with SSIS
@@ -72,7 +73,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 11181
 # Judge, Jury,  and Executioner--A First Look At Execution Plans
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Carlos L Chacon
 ## Title: Judge, Jury,  and Executioner--A First Look At Execution Plans
@@ -81,7 +82,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 11558
 # Check Engine Lights
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Chris Skorlinski
 ## Title: Check Engine Lights
@@ -90,7 +91,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 11559
 # Your Best Interview Ever
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Chris Skorlinski
 ## Title: Your Best Interview Ever
@@ -99,7 +100,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 12243
 # Master Data Management
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Dave Mattingly
 ## Title: Master Data Management
@@ -110,7 +111,7 @@ Attendees will learn: (a) concepts behind MDM, (b) approaches to implementing MD
 #  
 #### SessionID: 12537
 # SQL Server Virtualization 101
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: David Klee
 ## Title: SQL Server Virtualization 101
@@ -119,7 +120,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 12994
 # Column Level Encryption
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV/DBA Misc
 ## Speaker: David Dye
 ## Title: Column Level Encryption
@@ -128,7 +129,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV/DBA Misc
 #  
 #### SessionID: 13314
 # DBA 911 - Database Corruption
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: BONUS Sessions
 ## Speaker: David Maxwell
 ## Title: DBA 911 - Database Corruption
@@ -138,7 +139,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: BONUS Sessions
 #  
 #### SessionID: 13422
 # Self-Service BI with SSAS Multi-Dim
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Spotlight Sessions
 ## Speaker: Dan Evans
 ## Title: Self-Service BI with SSAS Multi-Dim
@@ -147,7 +148,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Spotlight Sessions
 #  
 #### SessionID: 13697
 # Backup Strategies are for Losers!
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV/DBA Misc
 ## Speaker: Ed Watson
 ## Title: Backup Strategies are for Losers!
@@ -156,7 +157,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV/DBA Misc
 #  
 #### SessionID: 14999
 # My SQL Server is Not Slow for Pete's Sake! - Server Side Performance Analysis 
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Spotlight Sessions
 ## Speaker: Hope Foley
 ## Title: My SQL Server is Not Slow for Pete's Sake! - Server Side Performance Analysis 
@@ -165,7 +166,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Spotlight Sessions
 #  
 #### SessionID: 15691
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
@@ -174,7 +175,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 16201
 # Taking Your IT Career to the Next Level
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Joseph D'Antoni
 ## Title: Taking Your IT Career to the Next Level
@@ -183,7 +184,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 16202
 # In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: BONUS Sessions
 ## Speaker: Joseph D'Antoni
 ## Title: In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
@@ -192,7 +193,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: BONUS Sessions
 #  
 #### SessionID: 16203
 # Using Compression to Improve Database Performance
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV/DBA Misc
 ## Speaker: Joseph D'Antoni
 ## Title: Using Compression to Improve Database Performance
@@ -201,7 +202,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV/DBA Misc
 #  
 #### SessionID: 16766
 # 5 Common SQL Server Performance Issues
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: BONUS Sessions
 ## Speaker: Jason Hall
 ## Title: 5 Common SQL Server Performance Issues
@@ -212,7 +213,7 @@ I intend to share the whys and hows of these issues with anyone who would like t
 #  
 #### SessionID: 16795
 # Change Data Capture for Developers and DBAs 
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: BONUS Sessions
 ## Speaker: Joe Settles
 ## Title: Change Data Capture for Developers and DBAs 
@@ -227,7 +228,7 @@ Finally, we will explore approaches to tuning CDC and examine SSIS Controls for 
 #  
 #### SessionID: 17112
 # Scaling Up Through Delegation
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Joe Webb
 ## Title: Scaling Up Through Delegation
@@ -236,7 +237,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 17443
 # Entity Framework: Or How I Learned to Stop Worrying and Learned to Love Developers
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV/DBA Misc
 ## Speaker: Richie Rump
 ## Title: Entity Framework: Or How I Learned to Stop Worrying and Learned to Love Developers
@@ -248,7 +249,7 @@ Entity Framework (EF) and other object relational mapping technologies have been
 #  
 #### SessionID: 17513
 # Visual Analytics with HDInsight and Power View
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Big Data/Azure/BI
 ## Speaker: Josh Fennessy
 ## Title: Visual Analytics with HDInsight and Power View
@@ -264,7 +265,7 @@ Finally, integration with SSAS and Power View (using Excel 2013) will be shown, 
 #  
 #### SessionID: 18196
 # Team Leadership Fundamentals
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Kevin Kline
 ## Title: Team Leadership Fundamentals
@@ -279,7 +280,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 18418
 # Writing Better T-SQL Queries with Window Functions
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Spotlight Sessions
 ## Speaker: Kathi Kellenberger
 ## Title: Writing Better T-SQL Queries with Window Functions
@@ -290,7 +291,7 @@ This session will teach you how to get great performance, avoid cursor solutions
 #  
 #### SessionID: 18419
 # T-SQL Window Function Performance
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Performance
@@ -299,7 +300,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 19044
 # Geospatial Data Types in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Leonard Lobel
 ## Title: Geospatial Data Types in SQL Server 2012
@@ -308,7 +309,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 20417
 # Database Development Comes out of the Dark Ages
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV/DBA Misc
 ## Speaker: miguel Cebollero
 ## Title: Database Development Comes out of the Dark Ages
@@ -317,7 +318,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV/DBA Misc
 #  
 #### SessionID: 20637
 # Trace Flags for Developers
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Mike Hays
 ## Title: Trace Flags for Developers
@@ -326,7 +327,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 21065
 # Index Internals
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Spotlight Sessions
 ## Speaker: Denny Cherry
 ## Title: Index Internals
@@ -335,7 +336,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Spotlight Sessions
 #  
 #### SessionID: 21066
 # SANLess Clustering on the Ground and In the Cloud 
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Denny Cherry
 ## Title: SANLess Clustering on the Ground and In the Cloud 
@@ -344,7 +345,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 22654
 # SSIS Templates Can Make Your Life Easier
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Big Data/Azure/BI
 ## Speaker: Brian Davis
 ## Title: SSIS Templates Can Make Your Life Easier
@@ -353,7 +354,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Big Data/Azure/BI
 #  
 #### SessionID: 23241
 # Know Your Role(s)!
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Robert Verell
 ## Title: Know Your Role(s)!
@@ -362,7 +363,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 23264
 # Harvesting Web Data Using Data Explorer and XML
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV/DBA Misc
 ## Speaker: Rob Volk
 ## Title: Harvesting Web Data Using Data Explorer and XML
@@ -371,7 +372,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV/DBA Misc
 #  
 #### SessionID: 23674
 # Introduction to BIML and BIMLScript
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Big Data/Azure/BI
 ## Speaker: Russel Loski
 ## Title: Introduction to BIML and BIMLScript
@@ -380,7 +381,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Big Data/Azure/BI
 #  
 #### SessionID: 23675
 # SSRS data driven subscription using SSIS
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Big Data/Azure/BI
 ## Speaker: Russel Loski
 ## Title: SSRS data driven subscription using SSIS
@@ -389,7 +390,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Big Data/Azure/BI
 #  
 #### SessionID: 24616
 #  "Flash 101 – An Introduction to Flash Storage for MS SQL Server and Data Centers."
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Stephen LeRoy
 ## Title:  "Flash 101 – An Introduction to Flash Storage for MS SQL Server and Data Centers."
@@ -398,7 +399,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 25833
 # Managing a Technical Team: Lessons Learned
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Stuart Ainsworth
 ## Title: Managing a Technical Team: Lessons Learned
@@ -407,7 +408,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 25834
 # Working with "Biggish Data"
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Big Data/Azure/BI
 ## Speaker: Stuart Ainsworth
 ## Title: Working with "Biggish Data"
@@ -416,7 +417,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Big Data/Azure/BI
 #  
 #### SessionID: 26703
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: BONUS Sessions
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -425,7 +426,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: BONUS Sessions
 #  
 #### SessionID: 26704
 # You Inherited a Database, Now What?
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Spotlight Sessions
 ## Speaker: Tim Radney
 ## Title: You Inherited a Database, Now What?
@@ -434,7 +435,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Spotlight Sessions
 #  
 #### SessionID: 27455
 # Data Flow Architectures in Software Development Life-Cycle
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Virginia Mushkatbat
 ## Title: Data Flow Architectures in Software Development Life-Cycle
@@ -443,7 +444,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 27811
 # Read Dirty to Me - Isolation Levels/User Impact
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Wendy Pastrick
 ## Title: Read Dirty to Me - Isolation Levels/User Impact
@@ -452,7 +453,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 27812
 # Women In Technology Roundtable
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV/DBA Misc
 ## Speaker: Wendy Pastrick
 ## Title: Women In Technology Roundtable
@@ -461,7 +462,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV/DBA Misc
 #  
 #### SessionID: 28172
 # Bus Matrix – The Foundation of your Dimensional DW
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Big Data/Azure/BI
 ## Speaker: Bill Anton
 ## Title: Bus Matrix – The Foundation of your Dimensional DW
@@ -472,7 +473,7 @@ Join me in this session and learn what a Bus Matrix is, why it is the single mos
 #  
 #### SessionID: 28173
 # The 20-Minute Tabular Model
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Bill Anton
 ## Title: The 20-Minute Tabular Model
@@ -481,7 +482,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 34764
 # Supercharge Microsoft BI with Pyramid Analytics
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: BONUS Sessions
 ## Speaker: Mark Scott
 ## Title: Supercharge Microsoft BI with Pyramid Analytics
@@ -490,7 +491,7 @@ Event Date: 18-01-2014 - Session time: 00:00:00 - Track: BONUS Sessions
 #  
 #### SessionID: 8839
 # SQL Server Database Development with SSDT 
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Aaron Nelson
 ## Title: SQL Server Database Development with SSDT 
@@ -502,7 +503,7 @@ Most importantly we’ll show the many benefits of the Publish feature, and why 
 #  
 #### SessionID: 8938
 # BizTalk and SQL Server: EDI Made Simple
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Aaron Crouch
 ## Title: BizTalk and SQL Server: EDI Made Simple
@@ -521,7 +522,7 @@ What is the Business Activity Monitor (BAM)?
 #  
 #### SessionID: 8968
 # XML Without Xanax: How to Handle XML in SQL Server
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Adam Belebczuk
 ## Title: XML Without Xanax: How to Handle XML in SQL Server
@@ -534,7 +535,7 @@ If you survive this session, you'll have faced your fears about XML in SQL Serve
 #  
 #### SessionID: 9081
 # Manageable SSAS Deployment Strategies
-#### [Back to calendar](#SQLSaturday-#272-Nashville-2014)
+#### [Back to calendar](#nr-272)
 Event Date: 18-01-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Kerry Tyler
 ## Title: Manageable SSAS Deployment Strategies

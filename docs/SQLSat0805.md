@@ -1,3 +1,4 @@
+#### Nr: 805
 #### [Back to Main list](index.md)
 # SQLSaturday #805 - Bucuresti 2018
 Start Time (24h)|Speaker|Track|Title
@@ -19,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 84159
 # Working with SQL Managed Data Types
-#### [Back to calendar](#SQLSaturday-#805-Bucuresti-2018)
+#### [Back to calendar](#nr-805)
 Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Peter Willmot
 ## Title: Working with SQL Managed Data Types
@@ -28,7 +29,7 @@ Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 84490
 # Azure SQL Database Managed Instance - Finally, SQL Server with None of the Headaches
-#### [Back to calendar](#SQLSaturday-#805-Bucuresti-2018)
+#### [Back to calendar](#nr-805)
 Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Sorin Peste
 ## Title: Azure SQL Database Managed Instance - Finally, SQL Server with None of the Headaches
@@ -37,7 +38,7 @@ Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 84672
 # SQL Server - Performance Basics
-#### [Back to calendar](#SQLSaturday-#805-Bucuresti-2018)
+#### [Back to calendar](#nr-805)
 Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Liviu Ieran
 ## Title: SQL Server - Performance Basics
@@ -50,7 +51,7 @@ Tips and tricks.
 #  
 #### SessionID: 84157
 # Building low-cost back-end app services with SQL Express and .Net Core on Linux
-#### [Back to calendar](#SQLSaturday-#805-Bucuresti-2018)
+#### [Back to calendar](#nr-805)
 Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Peter Willmot
 ## Title: Building low-cost back-end app services with SQL Express and .Net Core on Linux
@@ -64,7 +65,7 @@ This session will provide an overview of challenges and opportunities, notably i
 #  
 #### SessionID: 84909
 # How to build solution for High Availability/Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#805-Bucuresti-2018)
+#### [Back to calendar](#nr-805)
 Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Marcelo Fernandes
 ## Title: How to build solution for High Availability/Disaster Recovery
@@ -74,7 +75,7 @@ In this session, we will cover all aspects of HA / DR. We will cover all technol
 #  
 #### SessionID: 85231
 # The Road to The Autonomous Databases
-#### [Back to calendar](#SQLSaturday-#805-Bucuresti-2018)
+#### [Back to calendar](#nr-805)
 Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Janusz Rokicki
 ## Title: The Road to The Autonomous Databases
@@ -83,7 +84,7 @@ Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 84621
 # PowerBI: From Zero to Hero
-#### [Back to calendar](#SQLSaturday-#805-Bucuresti-2018)
+#### [Back to calendar](#nr-805)
 Event Date: 06-10-2018 - Session time: 15:15:00 - Track: BI Information Delivery
 ## Speaker: Dennes Torres
 ## Title: PowerBI: From Zero to Hero
@@ -92,7 +93,7 @@ Event Date: 06-10-2018 - Session time: 15:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 84910
 # Thinking out of the Box! - SMB 3.0
-#### [Back to calendar](#SQLSaturday-#805-Bucuresti-2018)
+#### [Back to calendar](#nr-805)
 Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Marcelo Fernandes
 ## Title: Thinking out of the Box! - SMB 3.0
@@ -101,7 +102,7 @@ Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 85111
 # “SQL-like” or query languages in Azure IoT
-#### [Back to calendar](#SQLSaturday-#805-Bucuresti-2018)
+#### [Back to calendar](#nr-805)
 Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: “SQL-like” or query languages in Azure IoT
@@ -113,7 +114,7 @@ So, we will leave no SQL query unturned  in Azure IoT Hub, Stream Analytics, Pow
 #  
 #### SessionID: 84140
 # The hidden power of Power BI or what we can do using Power BI REST API
-#### [Back to calendar](#SQLSaturday-#805-Bucuresti-2018)
+#### [Back to calendar](#nr-805)
 Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Andrey Nikolov
 ## Title: The hidden power of Power BI or what we can do using Power BI REST API
@@ -122,7 +123,7 @@ Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 85048
 # Upgrading to a newer SQL Server version: Tip, Tricks, Issues
-#### [Back to calendar](#SQLSaturday-#805-Bucuresti-2018)
+#### [Back to calendar](#nr-805)
 Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alexandru Dinica
 ## Title: Upgrading to a newer SQL Server version: Tip, Tricks, Issues
@@ -132,7 +133,7 @@ In the session, we will try to present you some best practices regarding the SQL
 #  
 #### SessionID: 85223
 # SQL vNext: What’s next?
-#### [Back to calendar](#SQLSaturday-#805-Bucuresti-2018)
+#### [Back to calendar](#nr-805)
 Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Alexandra Ciortea
 ## Title: SQL vNext: What’s next?
@@ -141,7 +142,7 @@ Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 85266
 # Data Storytelling
-#### [Back to calendar](#SQLSaturday-#805-Bucuresti-2018)
+#### [Back to calendar](#nr-805)
 Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Cristian Lefter
 ## Title: Data Storytelling
@@ -150,7 +151,7 @@ Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 85708
 # S (tudent) QL - SQL Server guide for students
-#### [Back to calendar](#SQLSaturday-#805-Bucuresti-2018)
+#### [Back to calendar](#nr-805)
 Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Ozana Buse
 ## Title: S (tudent) QL - SQL Server guide for students

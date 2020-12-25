@@ -1,3 +1,4 @@
+#### Nr: 318
 #### [Back to Main list](index.md)
 # SQLSaturday #318 - Orlando 2014
 Start Time (24h)|Speaker|Track|Title
@@ -67,7 +68,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10053
 # Get Near Realtime ETL with Service Broker
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Cloud/Security
 ## Speaker: Allen White
 ## Title: Get Near Realtime ETL with Service Broker
@@ -76,7 +77,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Cloud/Security
 #  
 #### SessionID: 10057
 # Manage Both On-Prem and Azure Databases with PowerShell
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Cloud/Security
 ## Speaker: Allen White
 ## Title: Manage Both On-Prem and Azure Databases with PowerShell
@@ -86,7 +87,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Cloud/Security
 #  
 #### SessionID: 10062
 # Maintain SQL Server Performance Baseline with Powe
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Bonus Track
 ## Speaker: Allen White
 ## Title: Maintain SQL Server Performance Baseline with Powe
@@ -95,7 +96,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Bonus Track
 #  
 #### SessionID: 10174
 # Indexing Internals for Developers
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: SSIS/Virtualization Track
 ## Speaker: Bradley Ball
 ## Title: Indexing Internals for Developers
@@ -104,7 +105,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: SSIS/Virtualization Tra
 #  
 #### SessionID: 11095
 # ETL in a Nutshell with SSIS
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: SSIS/Virtualization Track
 ## Speaker: Brett Tomson
 ## Title: ETL in a Nutshell with SSIS
@@ -113,7 +114,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: SSIS/Virtualization Tra
 #  
 #### SessionID: 11167
 # Get Your Nights  Weekends Back from SQL Server Planned Downtime
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin 2 Track
 ## Speaker: Carl Berglund
 ## Title: Get Your Nights  Weekends Back from SQL Server Planned Downtime
@@ -122,7 +123,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin 2 Track
 #  
 #### SessionID: 11860
 # Tired of the CRUD?  Automate it!
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI/Big Data/Misc
 ## Speaker: Jack Corbett
 ## Title: Tired of the CRUD?  Automate it!
@@ -137,7 +138,7 @@ After this session you will:
 #  
 #### SessionID: 12614
 # Easy SQL Server Benchmarking
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin 2 Track
 ## Speaker: David Klee
 ## Title: Easy SQL Server Benchmarking
@@ -146,7 +147,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin 2 Track
 #  
 #### SessionID: 12877
 # A DiBA guide to Database Standards
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin 2 Track
 ## Speaker: Diana Betancourt
 ## Title: A DiBA guide to Database Standards
@@ -155,7 +156,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin 2 Track
 #  
 #### SessionID: 13297
 # How To Kill SQL Server in 60 Minutes
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin 2 Track
 ## Speaker: Dmitri Korotkevitch
 ## Title: How To Kill SQL Server in 60 Minutes
@@ -166,7 +167,7 @@ This Power Point-free session is targeted to developer DBAs and developers. It s
 #  
 #### SessionID: 13483
 # How In-Memory Database Objects Affect Database Design
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: T-SQL/SQL 2014 Track
 ## Speaker: Louis Davidson
 ## Title: How In-Memory Database Objects Affect Database Design
@@ -175,7 +176,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: T-SQL/SQL 2014 Track
 #  
 #### SessionID: 13711
 # Performance Tuning for Mere Mortals Part I
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Performance Track
 ## Speaker: Ed Watson
 ## Title: Performance Tuning for Mere Mortals Part I
@@ -184,7 +185,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Performance Track
 #  
 #### SessionID: 13987
 # Dynamic File Loading Using SSIS Programming 
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: SSIS/Virtualization Track
 ## Speaker: Jorge Novo
 ## Title: Dynamic File Loading Using SSIS Programming 
@@ -193,7 +194,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: SSIS/Virtualization Tra
 #  
 #### SessionID: 14034
 # SQL 2014 In Memory OLTP and Natively Compiled Stored Procedures
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: T-SQL/SQL 2014 Track
 ## Speaker: Eric Wisdahl
 ## Title: SQL 2014 In Memory OLTP and Natively Compiled Stored Procedures
@@ -202,7 +203,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: T-SQL/SQL 2014 Track
 #  
 #### SessionID: 14417
 # Learn How To Build A Golden Record for Any Subject Over Lunch!
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Gene Webb
 ## Title: Learn How To Build A Golden Record for Any Subject Over Lunch!
@@ -211,7 +212,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 14419
 # Building an MDM Center of Excellence with MDS and Maestro 
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Gene Webb
 ## Title: Building an MDM Center of Excellence with MDS and Maestro 
@@ -220,7 +221,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 14501
 # Cloudy with a Chance of Data
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Cloud/Security
 ## Speaker: Geoff Hiten
 ## Title: Cloudy with a Chance of Data
@@ -229,7 +230,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Cloud/Security
 #  
 #### SessionID: 14836
 # T-SQL Best Practices
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: T-SQL/SQL 2014 Track
 ## Speaker: Greg Larsen
 ## Title: T-SQL Best Practices
@@ -238,7 +239,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: T-SQL/SQL 2014 Track
 #  
 #### SessionID: 14857
 # SQL Server 2014 Hybrid Cloud Features
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Cloud/Security
 ## Speaker: Guillermo Caicedo Santiago
 ## Title: SQL Server 2014 Hybrid Cloud Features
@@ -247,7 +248,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Cloud/Security
 #  
 #### SessionID: 15728
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Performance Track
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
@@ -256,7 +257,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Performance Track
 #  
 #### SessionID: 15810
 # Encryption 101: A look at SQL Encryption Options
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Prof Dev/Security
 ## Speaker: Jason Carter
 ## Title: Encryption 101: A look at SQL Encryption Options
@@ -265,7 +266,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Prof Dev/Security
 #  
 #### SessionID: 15852
 # Tricks from the DBA Inbox: Real World Performance Tuning
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Performance Track
 ## Speaker: Jason Horner
 ## Title: Tricks from the DBA Inbox: Real World Performance Tuning
@@ -274,7 +275,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Performance Track
 #  
 #### SessionID: 15912
 # DataViz You Thought You Couldn't Do with SSRS
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Jason Thomas
 ## Title: DataViz You Thought You Couldn't Do with SSRS
@@ -283,7 +284,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 16353
 # How to be a GREAT DBA
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Prof Dev/Security
 ## Speaker: Jeffrey Garbus
 ## Title: How to be a GREAT DBA
@@ -295,7 +296,7 @@ Great for beginner to intermediate DBAs, as well as Developers who think this is
 #  
 #### SessionID: 16389
 # Database Projects
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin Track
 ## Speaker: Jonathon Moorman
 ## Title: Database Projects
@@ -304,7 +305,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin Track
 #  
 #### SessionID: 16779
 # TempDB Parasites!
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin Track
 ## Speaker: Jason Hall
 ## Title: TempDB Parasites!
@@ -313,7 +314,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin Track
 #  
 #### SessionID: 16995
 # Report With Power: New Data Tools, New Insights
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: James McAuliffe
 ## Title: Report With Power: New Data Tools, New Insights
@@ -322,7 +323,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 17462
 # Database Design Disasters: Common Mistakes Found in the Wild
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Performance Track
 ## Speaker: Richie Rump
 ## Title: Database Design Disasters: Common Mistakes Found in the Wild
@@ -331,7 +332,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Performance Track
 #  
 #### SessionID: 17473
 # Mastering T-SQL Window Functions
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: T-SQL/SQL 2014 Track
 ## Speaker: Jose L. Rivera
 ## Title: Mastering T-SQL Window Functions
@@ -340,7 +341,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: T-SQL/SQL 2014 Track
 #  
 #### SessionID: 17531
 # Show me whatcha workin' with: Big Data Edition
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI/Big Data/Misc
 ## Speaker: Josh Luedeman
 ## Title: Show me whatcha workin' with: Big Data Edition
@@ -349,7 +350,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI/Big Data/Misc
 #  
 #### SessionID: 17549
 # An Introduction to FileTables
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin Track
 ## Speaker: John Pertell
 ## Title: An Introduction to FileTables
@@ -358,7 +359,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin Track
 #  
 #### SessionID: 17963
 # Flash 101- An Introduction to Flash Storage for MS SQL Server and Data Centers
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: T-SQL/SQL 2014 Track
 ## Speaker: Karla Landrum
 ## Title: Flash 101- An Introduction to Flash Storage for MS SQL Server and Data Centers
@@ -367,7 +368,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: T-SQL/SQL 2014 Track
 #  
 #### SessionID: 18088
 # Discover, Document,  Diagnose Your Servers on Your Lunch Break
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Bonus Track
 ## Speaker: Kendal Van Dyke
 ## Title: Discover, Document,  Diagnose Your Servers on Your Lunch Break
@@ -381,7 +382,7 @@ Attend this session and walk away with everything you need to generate documenta
 #  
 #### SessionID: 18657
 # Getting Started with Power Query
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Devin Knight
 ## Title: Getting Started with Power Query
@@ -390,7 +391,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 19009
 # Why I won't hire you and what you can do about it!
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Prof Dev/Security
 ## Speaker: Leigh Freijo
 ## Title: Why I won't hire you and what you can do about it!
@@ -399,7 +400,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Prof Dev/Security
 #  
 #### SessionID: 19673
 # Big Data Analytics with SQL Server, Hadoop and MongoDB
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI/Big Data/Misc
 ## Speaker: Mark Kromer
 ## Title: Big Data Analytics with SQL Server, Hadoop and MongoDB
@@ -408,7 +409,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI/Big Data/Misc
 #  
 #### SessionID: 19870
 # SQL Security Best Practices  Shrinking Your Attack Surface
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Prof Dev/Security
 ## Speaker: Matthew Brimer
 ## Title: SQL Security Best Practices  Shrinking Your Attack Surface
@@ -419,7 +420,7 @@ In addition, attending this talk is worth 1.5 Continuing Education credits.
 #  
 #### SessionID: 19919
 # Powershell Working with Windows Azure SQL Database Server
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Cloud/Security
 ## Speaker: Maximo Trinidad
 ## Title: Powershell Working with Windows Azure SQL Database Server
@@ -428,7 +429,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Cloud/Security
 #  
 #### SessionID: 20035
 # A practical guide to Windows Azure SQL Database for the DBA
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin Track
 ## Speaker: Gareth Swanepoel
 ## Title: A practical guide to Windows Azure SQL Database for the DBA
@@ -438,7 +439,7 @@ If you are a production DBA and have contemplated one or more of these questions
 #  
 #### SessionID: 20241
 # Virtualizing SQL Server: Doing IT Right - The SeQueL
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: SSIS/Virtualization Track
 ## Speaker: Michael Corey
 ## Title: Virtualizing SQL Server: Doing IT Right - The SeQueL
@@ -447,7 +448,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: SSIS/Virtualization Tra
 #  
 #### SessionID: 20424
 # Database Development Comes out of the Dark Ages
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin 2 Track
 ## Speaker: miguel Cebollero
 ## Title: Database Development Comes out of the Dark Ages
@@ -456,7 +457,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin 2 Track
 #  
 #### SessionID: 20610
 # Performance Tuning for Mere Mortals Part II
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Performance Track
 ## Speaker: Mike Lawell
 ## Title: Performance Tuning for Mere Mortals Part II
@@ -469,7 +470,7 @@ There will be homework!
 #  
 #### SessionID: 20635
 # Test Automation - Where to Start
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin Track
 ## Speaker: Mikey Nelson
 ## Title: Test Automation - Where to Start
@@ -478,7 +479,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin Track
 #  
 #### SessionID: 21727
 # Permission Management: 12 Pitfalls  Misconceptions
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Cloud/Security
 ## Speaker: Sebastian Meine
 ## Title: Permission Management: 12 Pitfalls  Misconceptions
@@ -489,7 +490,7 @@ This is a two-part session. During the first part, we will go through a review o
 #  
 #### SessionID: 22284
 # Re-Indexing - The quest of ultimate automation
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin 2 Track
 ## Speaker: Prakash Heda
 ## Title: Re-Indexing - The quest of ultimate automation
@@ -500,7 +501,7 @@ In this session, Prakash will walk you through design considerations, accompanie
 #  
 #### SessionID: 22368
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI/Big Data/Misc
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports
@@ -510,7 +511,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI/Big Data/Misc
 #  
 #### SessionID: 22580
 # Understanding the SQL Server Transaction Log
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin Track
 ## Speaker: Randy Knight
 ## Title: Understanding the SQL Server Transaction Log
@@ -519,7 +520,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin Track
 #  
 #### SessionID: 22677
 # Getting Started with Hekaton (In-Memory OLTP)
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: T-SQL/SQL 2014 Track
 ## Speaker: Brian Davis
 ## Title: Getting Started with Hekaton (In-Memory OLTP)
@@ -528,7 +529,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: T-SQL/SQL 2014 Track
 #  
 #### SessionID: 23151
 # Loading a Data Warehouse with SSIS
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: SSIS/Virtualization Track
 ## Speaker: Robert Biddle
 ## Title: Loading a Data Warehouse with SSIS
@@ -537,7 +538,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: SSIS/Virtualization Tra
 #  
 #### SessionID: 23345
 # Revenge: The SQL! - Director's Cut
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: T-SQL/SQL 2014 Track
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL! - Director's Cut
@@ -552,7 +553,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 23395
 # First Day DBA - Installation to Fascination withou
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Beginner
 ## Speaker: Rodney Landrum
 ## Title: First Day DBA - Installation to Fascination withou
@@ -563,7 +564,7 @@ In this session we will step through the very basics of SQL Server for the new D
 #  
 #### SessionID: 23443
 # SQL Server Security Easy Button
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Prof Dev/Security
 ## Speaker: Ronald Dameron
 ## Title: SQL Server Security Easy Button
@@ -575,7 +576,7 @@ In addition, I’ll talk about our DBA’s real world experience with reduced pe
 #  
 #### SessionID: 23480
 # Hadoop + SQL Server: The Emerging Patterns in Big Data
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI/Big Data/Misc
 ## Speaker: Rowland Gosling
 ## Title: Hadoop + SQL Server: The Emerging Patterns in Big Data
@@ -586,7 +587,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI/Big Data/Misc
 #  
 #### SessionID: 24808
 # Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Wes Springob
 ## Title: Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
@@ -596,7 +597,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 26964
 # Object Level Recovery Made Easy
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI/Big Data/Misc
 ## Speaker: Todd Phillippe
 ## Title: Object Level Recovery Made Easy
@@ -605,7 +606,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI/Big Data/Misc
 #  
 #### SessionID: 27156
 # How to Partition Anything!
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin 2 Track
 ## Speaker: Elijah Baker
 ## Title: How to Partition Anything!
@@ -614,7 +615,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Admin 2 Track
 #  
 #### SessionID: 9590
 # From Student to IT Professional - Part 1
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Beginner
 ## Speaker: Andy Warren
 ## Title: From Student to IT Professional - Part 1
@@ -623,7 +624,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Beginner
 #  
 #### SessionID: 9592
 # From Student to IT Professional - Part 3
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Beginner
 ## Speaker: Andy Warren
 ## Title: From Student to IT Professional - Part 3
@@ -632,7 +633,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Beginner
 #  
 #### SessionID: 9593
 # Turbocharge Your Career With a Learning Plan
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Prof Dev/Security
 ## Speaker: Andy Warren
 ## Title: Turbocharge Your Career With a Learning Plan
@@ -645,7 +646,7 @@ Once you’ve picked a topic, how do you learn more about it? Do you read blogs,
 #  
 #### SessionID: 9790
 #  Rolling Upgrades, The Easy Way!
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Bonus Track
 ## Speaker: Argenis Fernandez
 ## Title:  Rolling Upgrades, The Easy Way!
@@ -654,7 +655,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Bonus Track
 #  
 #### SessionID: 9791
 # Making DBCC CHECKDB Go Faster
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Performance Track
 ## Speaker: Argenis Fernandez
 ## Title: Making DBCC CHECKDB Go Faster
@@ -663,7 +664,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: DBA Performance Track
 #  
 #### SessionID: 9882
 # Access As A Front-end to SQL-Server
-#### [Back to calendar](#SQLSaturday-#318-Orlando-2014)
+#### [Back to calendar](#nr-318)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: BI/Big Data/Misc
 ## Speaker: Arvin Meyer
 ## Title: Access As A Front-end to SQL-Server

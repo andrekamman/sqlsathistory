@@ -1,3 +1,4 @@
+#### Nr: 168
 #### [Back to Main list](index.md)
 # SQLSaturday #168 - Tampa BI Edition 2012
 Start Time (24h)|Speaker|Track|Title
@@ -37,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10530
 # Reporting Services Deep Dive
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 ## Speaker: Brian K McDonald
 ## Title: Reporting Services Deep Dive
@@ -46,7 +47,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 #  
 #### SessionID: 10759
 # Monitoring your BI Solution
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 4. Misc
 ## Speaker: Brian Mitchell
 ## Title: Monitoring your BI Solution
@@ -57,7 +58,7 @@ This session will delve into the monitoring of SSRS and SSAS environments and wh
 #  
 #### SessionID: 11945
 # Integrating DQS, MDS and Your Data Warehouse 
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 1. ETL
 ## Speaker: Christopher Price
 ## Title: Integrating DQS, MDS and Your Data Warehouse 
@@ -66,7 +67,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 1. ETL
 #  
 #### SessionID: 12735
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -75,7 +76,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 #  
 #### SessionID: 13501
 # SSIS 2012 In Yo' Face: Introduction to SSIS
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 1. ETL
 ## Speaker: Dustin Ryan
 ## Title: SSIS 2012 In Yo' Face: Introduction to SSIS
@@ -84,7 +85,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 1. ETL
 #  
 #### SessionID: 15500
 # Creating a Metadata Mart w/ SSIS - Data Governance
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 1. ETL
 ## Speaker: Ira Warren
 ## Title: Creating a Metadata Mart w/ SSIS - Data Governance
@@ -93,7 +94,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 1. ETL
 #  
 #### SessionID: 15501
 # SSIS Package Realtime Visualzation  Analytics
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 1. ETL
 ## Speaker: Ira Warren
 ## Title: SSIS Package Realtime Visualzation  Analytics
@@ -102,7 +103,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 1. ETL
 #  
 #### SessionID: 16511
 # What's New for Microsoft Business Intelligence
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 4. Misc
 ## Speaker: Jen Underwood
 ## Title: What's New for Microsoft Business Intelligence
@@ -111,7 +112,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 4. Misc
 #  
 #### SessionID: 16950
 # Pimp my BISM: Enhance Visualizations
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 ## Speaker: Jose L. Rivera
 ## Title: Pimp my BISM: Enhance Visualizations
@@ -120,7 +121,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 #  
 #### SessionID: 16952
 # Predictive Analytics at your fingertips
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 ## Speaker: Jose L. Rivera
 ## Title: Predictive Analytics at your fingertips
@@ -129,7 +130,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 #  
 #### SessionID: 16976
 # Report With Power:Bring All Your Data to the Table
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 ## Speaker: James McAuliffe
 ## Title: Report With Power:Bring All Your Data to the Table
@@ -138,7 +139,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 #  
 #### SessionID: 17379
 # SSIS Complex file structures ETL 
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 1. ETL
 ## Speaker: Jorge Novo
 ## Title: SSIS Complex file structures ETL 
@@ -148,7 +149,7 @@ Learn some of the techniques to Load your data warehouse.
 #  
 #### SessionID: 17455
 # Intro to Project Management for BI Professionals
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 4. Misc
 ## Speaker: Richie Rump
 ## Title: Intro to Project Management for BI Professionals
@@ -157,7 +158,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 4. Misc
 #  
 #### SessionID: 18148
 # Down on the Farm
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 2. Analysis
 ## Speaker: Kevin Goode
 ## Title: Down on the Farm
@@ -166,7 +167,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 2. Analysis
 #  
 #### SessionID: 18149
 # Let’s get parallel
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 1. ETL
 ## Speaker: Kevin Goode
 ## Title: Let’s get parallel
@@ -175,7 +176,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 1. ETL
 #  
 #### SessionID: 18182
 # A Developers Walk through MS BI Reporting Stack
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 ## Speaker: Kevin Grohoske
 ## Title: A Developers Walk through MS BI Reporting Stack
@@ -184,7 +185,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 #  
 #### SessionID: 19003
 # Change Tracking and Change Data Capture Deep Dive
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 1. ETL
 ## Speaker: Luis Figueroa
 ## Title: Change Tracking and Change Data Capture Deep Dive
@@ -194,7 +195,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 1. ETL
 #  
 #### SessionID: 19895
 # PowerShell Working with XML and SMO
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 4. Misc
 ## Speaker: Maximo Trinidad
 ## Title: PowerShell Working with XML and SMO
@@ -203,7 +204,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 4. Misc
 #  
 #### SessionID: 19975
 # New SSIS Features in SQL 2012
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 1. ETL
 ## Speaker: Mike Davis
 ## Title: New SSIS Features in SQL 2012
@@ -212,7 +213,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 1. ETL
 #  
 #### SessionID: 20670
 # Cube World for Flat Table Landers
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 2. Analysis
 ## Speaker: Michael Antonovich
 ## Title: Cube World for Flat Table Landers
@@ -221,7 +222,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 2. Analysis
 #  
 #### SessionID: 20672
 # Hello, My Name Is DAX
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 4. Misc
 ## Speaker: Michael Antonovich
 ## Title: Hello, My Name Is DAX
@@ -230,7 +231,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 4. Misc
 #  
 #### SessionID: 22356
 # Taking the Scary out of Monster Reports
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 ## Speaker: Pam Shaw
 ## Title: Taking the Scary out of Monster Reports
@@ -239,7 +240,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 #  
 #### SessionID: 23078
 # Incorporating Hadoop into your DW/BI Strategy
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 2. Analysis
 ## Speaker: Rob Kerr
 ## Title: Incorporating Hadoop into your DW/BI Strategy
@@ -248,7 +249,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 2. Analysis
 #  
 #### SessionID: 23079
 # Designing a SQL 2012 BI Architecture
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 2. Analysis
 ## Speaker: Rob Kerr
 ## Title: Designing a SQL 2012 BI Architecture
@@ -258,7 +259,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 2. Analysis
 #  
 #### SessionID: 23164
 # The server side of Reporting Services
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 ## Speaker: Robert Hatton
 ## Title: The server side of Reporting Services
@@ -267,7 +268,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 3. Presentation
 #  
 #### SessionID: 23371
 # BI with Big Data
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 2. Analysis
 ## Speaker: Robert Skoglund
 ## Title: BI with Big Data
@@ -276,7 +277,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 2. Analysis
 #  
 #### SessionID: 24913
 # Designing An Efficient Replication Topology
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 4. Misc
 ## Speaker: Chad Churchwell
 ## Title: Designing An Efficient Replication Topology
@@ -285,7 +286,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 4. Misc
 #  
 #### SessionID: 25161
 # Applied Enterprise Semantic Mining
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 2. Analysis
 ## Speaker: Mark Tabladillo
 ## Title: Applied Enterprise Semantic Mining
@@ -294,7 +295,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 2. Analysis
 #  
 #### SessionID: 26540
 # Practical BI: Maximizing Productivity  Value
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 4. Misc
 ## Speaker: Thomas Spetnagel
 ## Title: Practical BI: Maximizing Productivity  Value
@@ -303,7 +304,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 4. Misc
 #  
 #### SessionID: 9136
 # Roping the Elephant - Hadoop and BI Live!
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 2. Analysis
 ## Speaker: Adam Jorgensen
 ## Title: Roping the Elephant - Hadoop and BI Live!
@@ -313,7 +314,7 @@ Have you been wondering how you can sit down at work and use Hadoop to make your
 #  
 #### SessionID: 9568
 # Building Your Professional Development Plan
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 4. Misc
 ## Speaker: Andy Warren
 ## Title: Building Your Professional Development Plan
@@ -322,7 +323,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 4. Misc
 #  
 #### SessionID: 9909
 # SSAS Tabular and Self Service BI - TheDynamDAX Duo
-#### [Back to calendar](#SQLSaturday-#168-Tampa-BI-Edition-2012)
+#### [Back to calendar](#nr-168)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: 2. Analysis
 ## Speaker: Anthony Sammartino
 ## Title: SSAS Tabular and Self Service BI - TheDynamDAX Duo

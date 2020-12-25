@@ -1,3 +1,4 @@
+#### Nr: 422
 #### [Back to Main list](index.md)
 # SQLSaturday #422 - Oklahoma City 2015
 Start Time (24h)|Speaker|Track|Title
@@ -32,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 26656
 # Managing Security in SSIS
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: Tim Mitchell
 ## Title: Managing Security in SSIS
@@ -47,7 +48,7 @@ In this presentation, we’ll discuss the security features in SQL Server Integr
 #  
 #### SessionID: 22098
 # Common Coding Mistakes and how to Mitigate them
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: William Wolf
 ## Title: Common Coding Mistakes and how to Mitigate them
@@ -56,7 +57,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #  
 #### SessionID: 35611
 # SMO Internals for High Performance Automation
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: Ben Miller
 ## Title: SMO Internals for High Performance Automation
@@ -65,7 +66,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #  
 #### SessionID: 36134
 # Back to Basics - The SELECT Statement
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: Andrew Karcher
 ## Title: Back to Basics - The SELECT Statement
@@ -74,7 +75,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #  
 #### SessionID: 36170
 # Monster Text Manipulation: Regular Expressions for the DBA
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Track D
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
@@ -89,7 +90,7 @@ Here you’ll learn:
 #  
 #### SessionID: 36604
 # Automating Your Database Deployments
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
 ## Speaker: Grant Fritchey
 ## Title: Automating Your Database Deployments
@@ -101,7 +102,7 @@ In this session, we'll explore the concepts of continuous integration and contin
 #  
 #### SessionID: 36069
 # Azure SQL Database Elastic Scale
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: Shawn Weisfeld
 ## Title: Azure SQL Database Elastic Scale
@@ -110,7 +111,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #  
 #### SessionID: 36151
 # Designing Stored Procedure Solutions
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
 ## Speaker: Jennifer McCown
 ## Title: Designing Stored Procedure Solutions
@@ -129,7 +130,7 @@ This session is for data professionals who can write T-SQL, but haven't spent a 
 #  
 #### SessionID: 36169
 # Minion Maintenance and Backup Solutions
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Track D
 ## Speaker: Sean McCown
 ## Title: Minion Maintenance and Backup Solutions
@@ -149,7 +150,7 @@ Minion Reindex and Minion Backup scale to the size of your enterprise, from one 
 #  
 #### SessionID: 38299
 # SSIS Project Deployment Model: Deployment and maintenance
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
 ## Speaker: Bill Fellows
 ## Title: SSIS Project Deployment Model: Deployment and maintenance
@@ -158,7 +159,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
 #  
 #### SessionID: 38545
 # Database Development with Visual Studio 101
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: Hakim Ali
 ## Title: Database Development with Visual Studio 101
@@ -167,7 +168,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #  
 #### SessionID: 11064
 # Churn Analytics with Azure ML
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: Bryan Smith
 ## Title: Churn Analytics with Azure ML
@@ -176,7 +177,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #  
 #### SessionID: 36325
 # Scripting out SQL Server for Documentation and Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
 ## Speaker: George Walkey
 ## Title: Scripting out SQL Server for Documentation and Disaster Recovery
@@ -188,7 +189,7 @@ Objects exported include: SQL Agent Jobs/Alerts/Schedules, NT Service Credential
 #  
 #### SessionID: 38488
 # Overview of SSAS Tabular
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: jim hudson
 ## Title: Overview of SSAS Tabular
@@ -208,7 +209,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #  
 #### SessionID: 38671
 # Windowing Functions
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: Tim Costello
 ## Title: Windowing Functions
@@ -217,7 +218,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #  
 #### SessionID: 40080
 # Automate your daily checklist with PBM and CMS
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Dell
 ## Speaker: John Sterrett
 ## Title: Automate your daily checklist with PBM and CMS
@@ -226,7 +227,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Dell
 #  
 #### SessionID: 23774
 # Backup and Restore Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: Ryan Adams
 ## Title: Backup and Restore Tips and Tricks
@@ -235,7 +236,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #  
 #### SessionID: 25240
 # Troubleshooting SQL Server Performance 
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: Stacy Gray
 ## Title: Troubleshooting SQL Server Performance 
@@ -244,7 +245,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #  
 #### SessionID: 25815
 # SQL Server for the Configuration Manager 2012 administrator
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: Steven Rachui
 ## Title: SQL Server for the Configuration Manager 2012 administrator
@@ -253,7 +254,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #  
 #### SessionID: 38660
 # Biml – The Next Step in Agile Data Warehousing
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
 ## Speaker: David Stein
 ## Title: Biml – The Next Step in Agile Data Warehousing
@@ -262,7 +263,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
 #  
 #### SessionID: 38670
 # Things i wish I knew sooner about data loading.
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: Tim Costello
 ## Title: Things i wish I knew sooner about data loading.
@@ -271,7 +272,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #  
 #### SessionID: 26655
 # Incremental Load Design Patterns
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: Tim Mitchell
 ## Title: Incremental Load Design Patterns
@@ -286,7 +287,7 @@ In this session, we will review the common decision points surrounding increment
 #  
 #### SessionID: 35593
 # A NoSQL Primer for the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: Andrew Karcher
 ## Title: A NoSQL Primer for the SQL Server Developer
@@ -299,7 +300,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #  
 #### SessionID: 36331
 # SS2014 In-Memory Tables:  Formula 1 Performance Unleashed!
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
 ## Speaker: Mike Byrd
 ## Title: SS2014 In-Memory Tables:  Formula 1 Performance Unleashed!
@@ -314,7 +315,7 @@ After this session you will
 #  
 #### SessionID: 36464
 # INDEXING 101 - WHAT IS AN INDEX?
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
 ## Speaker: Hakim Ali
 ## Title: INDEXING 101 - WHAT IS AN INDEX?
@@ -325,7 +326,7 @@ This session is designed for those new to database design/development. If you ha
 #  
 #### SessionID: 37832
 # Making the Leap from Developer to DBA
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
@@ -334,7 +335,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #  
 #### SessionID: 40175
 # SQL Security Best Practices  Shrinking Your Attack Surface
-#### [Back to calendar](#SQLSaturday-#422-Oklahoma-City-2015)
+#### [Back to calendar](#nr-422)
 Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
 ## Speaker: Matthew Brimer
 ## Title: SQL Security Best Practices  Shrinking Your Attack Surface

@@ -1,3 +1,4 @@
+#### Nr: 708
 #### [Back to Main list](index.md)
 # SQLSaturday #708 - Cleveland 2018
 Start Time (24h)|Speaker|Track|Title
@@ -41,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 70031
 # An (Advanced) Introduction to Dax
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: BI
 ## Speaker: Eugene Meidinger
 ## Title: An (Advanced) Introduction to Dax
@@ -50,7 +51,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 70037
 # Statistics - Why are they there and what do I do with them
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Statistics - Why are they there and what do I do with them
@@ -59,7 +60,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70108
 # Reading Execution Plans Successfully
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Arthur Daniels III
 ## Title: Reading Execution Plans Successfully
@@ -72,7 +73,7 @@ Learning to read an execution plan is a great way to begin troubleshooting perfo
 #  
 #### SessionID: 70292
 # Alexa, Talk to Me
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dave Mattingly
 ## Title: Alexa, Talk to Me
@@ -82,7 +83,7 @@ In this session, we'll create a simple skill from scratch, and show how to get i
 #  
 #### SessionID: 70628
 # Emergency! Are You Ready for Disaster to Strike?
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Allen White
 ## Title: Emergency! Are You Ready for Disaster to Strike?
@@ -91,7 +92,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 70975
 # T-SQL Basics
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Carlton Ramsey
 ## Title: T-SQL Basics
@@ -102,7 +103,7 @@ This session is geared towards and audience that may have never worked with a SQ
 #  
 #### SessionID: 70068
 # Getting started with SQL Azure Database: What you need to know
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Getting started with SQL Azure Database: What you need to know
@@ -113,7 +114,7 @@ By the end of this presentation, you’ll understand if Azure SQL Database is th
 #  
 #### SessionID: 70369
 # Targeting Wait Statistics with Extended Events and DMVs
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Targeting Wait Statistics with Extended Events and DMVs
@@ -122,7 +123,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70974
 # Decoding the Cardinality Estimator to Speed Up Queries
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Joe Obbish
 ## Title: Decoding the Cardinality Estimator to Speed Up Queries
@@ -131,7 +132,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 71249
 # What is Power BI?
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: BI
 ## Speaker: Angela Henry
 ## Title: What is Power BI?
@@ -140,7 +141,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 71373
 # The Data-Professional’s Junk Drawer
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: The Data-Professional’s Junk Drawer
@@ -149,7 +150,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71440
 # Managing Your Schema with Database Projects in Visual Studio
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Kerry Tyler
 ## Title: Managing Your Schema with Database Projects in Visual Studio
@@ -158,7 +159,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 70070
 # Don't just code it—Generate It
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Mackey
 ## Title: Don't just code it—Generate It
@@ -173,7 +174,7 @@ Generated code has systematic errors. Fix the errors at the generator. All the c
 #  
 #### SessionID: 70744
 # Relationships Matter: Graph DB in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: BI
 ## Speaker: Joseph D'Antoni
 ## Title: Relationships Matter: Graph DB in SQL Server 2017
@@ -190,7 +191,7 @@ which are the right fit for graph databases. You will learn options for bringing
 #  
 #### SessionID: 70884
 # Essential Linux for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Essential Linux for the SQL Server DBA
@@ -209,7 +210,7 @@ You’ll leave feeling more at ease with Linux and have plenty of content and li
 #  
 #### SessionID: 71248
 # Intro to Integration Services (SSIS)
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: BI
 ## Speaker: Angela Henry
 ## Title: Intro to Integration Services (SSIS)
@@ -218,7 +219,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 71437
 # Query Store and Automatic Tuning in SQL Server 2017 and Azure SQL DB
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Erin Stellato
 ## Title: Query Store and Automatic Tuning in SQL Server 2017 and Azure SQL DB
@@ -227,7 +228,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 71461
 # SQL Server Databaseology: A Deep Dive Into Database Internals
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology: A Deep Dive Into Database Internals
@@ -236,7 +237,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70169
 # What's new in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Multi-Purpose (AppDev, DBA, BI)
 ## Speaker: Hasan Savran
 ## Title: What's new in SQL Server 2017
@@ -245,7 +246,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Multi-Purpose (AppDev, 
 #  
 #### SessionID: 70247
 # Applying Forensic Accounting Techniques Using SQL And R
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Feasel
 ## Title: Applying Forensic Accounting Techniques Using SQL And R
@@ -254,7 +255,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70410
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -267,7 +268,7 @@ Instead of focusing on syntax, the session will plunge straight into examples an
 #  
 #### SessionID: 70529
 # Navigating the Options for Data Redundancy
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Wendy Pastrick
 ## Title: Navigating the Options for Data Redundancy
@@ -276,7 +277,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 71064
 # Data Hoarding (Buried Alive):  Better Data Modeling and Management When Using Power BI
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: BI
 ## Speaker: Jeremy Frye
 ## Title: Data Hoarding (Buried Alive):  Better Data Modeling and Management When Using Power BI
@@ -289,7 +290,7 @@ In this session, we will look at potential data management nightmares that inclu
 #  
 #### SessionID: 71492
 # Intro to indexing for SQL writers
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Eric Blinn
 ## Title: Intro to indexing for SQL writers
@@ -300,7 +301,7 @@ This class is designed for beginners and is designed to be very practical.  It w
 #  
 #### SessionID: 70131
 # PaaS Your BISM: Intro to Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Hope Foley
 ## Title: PaaS Your BISM: Intro to Azure Analysis Services
@@ -309,7 +310,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 70865
 # Parameters in SQL Server - Query Performance Makers or Breakers
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: Parameters in SQL Server - Query Performance Makers or Breakers
@@ -324,7 +325,7 @@ If this is a new topic to you, you'll leave this session with takeaways galore.
 #  
 #### SessionID: 71244
 # Shortcuts from an Impatient DBA
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Mallon
 ## Title: Shortcuts from an Impatient DBA
@@ -337,7 +338,7 @@ Even the most seasoned Database Professionals will learn a new trick that makes 
 #  
 #### SessionID: 71389
 # SQL Server 2016 Security Features
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sam Nasr
 ## Title: SQL Server 2016 Security Features
@@ -346,7 +347,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71495
 # Relational Data Architecture 101
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Relational Data Architecture 101
@@ -359,7 +360,7 @@ This presentation is a survey of Data Architecture for the Intermediate DBA, it 
 #  
 #### SessionID: 72369
 # High-Performance SSRS: Techniques For Faster Reports
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: BI
 ## Speaker: Bert Wagner
 ## Title: High-Performance SSRS: Techniques For Faster Reports
@@ -370,7 +371,7 @@ Each rapid-fire topic includes sample data and an SSRS reporting example that us
 #  
 #### SessionID: 70040
 # New Features and New Speed in SQL Server 2016 (and 2017!) Always On Availability Groups
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: New Features and New Speed in SQL Server 2016 (and 2017!) Always On Availability Groups
@@ -379,7 +380,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70132
 # H*ckin Sweet Reports with Power BI
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: BI
 ## Speaker: Julie Smith
 ## Title: H*ckin Sweet Reports with Power BI
@@ -388,7 +389,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 70620
 # Tips on Managing Lots of SQL Servers
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Tips on Managing Lots of SQL Servers
@@ -399,7 +400,7 @@ In this talk we will answer these questions and more as we discuss technologies 
 #  
 #### SessionID: 70709
 # You're Stuck with Crappy Hardware, Now What?
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Monica Rathbun
 ## Title: You're Stuck with Crappy Hardware, Now What?
@@ -408,7 +409,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 70946
 # The Vocabulary of Performance Tuning
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: The Vocabulary of Performance Tuning
@@ -417,7 +418,7 @@ Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 71370
 # Hierarchies on Steroids
-#### [Back to calendar](#SQLSaturday-#708-Cleveland-2018)
+#### [Back to calendar](#nr-708)
 Event Date: 03-02-2018 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Jeff Moden
 ## Title: Hierarchies on Steroids

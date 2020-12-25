@@ -1,3 +1,4 @@
+#### Nr: 778
 #### [Back to Main list](index.md)
 # SQLSaturday #778 - Memphis 2018
 Start Time (24h)|Speaker|Track|Title
@@ -21,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 80240
 # Know What Your Code is Doing to SQL Server!
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Know What Your Code is Doing to SQL Server!
@@ -30,7 +31,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 84499
 # Azure Databricks 101
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jandee Richards
 ## Title: Azure Databricks 101
@@ -39,7 +40,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 85121
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -48,7 +49,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 80136
 # A Beginner's Guide to Power BI
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Watson
 ## Title: A Beginner's Guide to Power BI
@@ -57,7 +58,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 84482
 # Azure Intelligent Services
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Amie Mason
 ## Title: Azure Intelligent Services
@@ -66,7 +67,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 84849
 # Let's Explore SQL Internals
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Let's Explore SQL Internals
@@ -75,7 +76,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84049
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -86,7 +87,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 84220
 # Best Practices for Power BI Desktop
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: DeNisha Malone
 ## Title: Best Practices for Power BI Desktop
@@ -97,7 +98,7 @@ I will include tips and tricks to get the best out of report development.
 #  
 #### SessionID: 84660
 # The Case for Change: Identifying and Remedying Bad Code
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: The Case for Change: Identifying and Remedying Bad Code
@@ -108,7 +109,7 @@ How do you capture those bad queries? When you have this data what do you look a
 #  
 #### SessionID: 80369
 # Power BI administration made easy(ier)
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan Evans
 ## Title: Power BI administration made easy(ier)
@@ -117,7 +118,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 80793
 # Hello My Friends, Welcome to CosmosDB
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Peter Shore
 ## Title: Hello My Friends, Welcome to CosmosDB
@@ -126,7 +127,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 85267
 # Intro to PowerShell for DBAs
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Pete Brown
 ## Title: Intro to PowerShell for DBAs
@@ -135,7 +136,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 80137
 # Using Your On-prem Data in a Cloud World
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Daniel Glenn
 ## Title: Using Your On-prem Data in a Cloud World
@@ -146,7 +147,7 @@ In this session, we will discover the benefits of using the cloud tools, how tho
 #  
 #### SessionID: 80366
 # SQL on Linux and Docker 101
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Popovich Jr
 ## Title: SQL on Linux and Docker 101
@@ -155,7 +156,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82481
 # Introduction to BI Architecture
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Warren Sifre
 ## Title: Introduction to BI Architecture
@@ -164,7 +165,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 86359
 # Columnstore in Real Life
-#### [Back to calendar](#SQLSaturday-#778-Memphis-2018)
+#### [Back to calendar](#nr-778)
 Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Enrique Bañuls
 ## Title: Columnstore in Real Life

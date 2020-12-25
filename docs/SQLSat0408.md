@@ -1,3 +1,4 @@
+#### Nr: 408
 #### [Back to Main list](index.md)
 # SQLSaturday #408 - Houston 2015
 Start Time (24h)|Speaker|Track|Title
@@ -61,7 +62,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10789
 # The Binary Language of Music
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Brian Rigsby
 ## Title: The Binary Language of Music
@@ -70,7 +71,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 11636
 # Giving Feedback: How to Effectively Communicate to your Employees
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Giving Feedback: How to Effectively Communicate to your Employees
@@ -79,7 +80,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 12171
 # Analyze your query plan like a Microsoft Engineer!
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Daniel Janik
 ## Title: Analyze your query plan like a Microsoft Engineer!
@@ -88,7 +89,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 #  
 #### SessionID: 19241
 # Let's Get It Started - SQL Server installation and configuration
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Lori Edwards
 ## Title: Let's Get It Started - SQL Server installation and configuration
@@ -97,7 +98,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 23770
 # Enforce Best Practices with CMS and Policy Based Management
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Ryan Adams
 ## Title: Enforce Best Practices with CMS and Policy Based Management
@@ -106,7 +107,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 26536
 # Getting started with Tabular Analysis Services
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Thomas LeBlanc
 ## Title: Getting started with Tabular Analysis Services
@@ -115,7 +116,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 26651
 # Managing Security in SSIS
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Tim Mitchell
 ## Title: Managing Security in SSIS
@@ -130,7 +131,7 @@ In this presentation, we’ll discuss the security features in SQL Server Integr
 #  
 #### SessionID: 36426
 # AlwaysOn - Finally, A usable 'mirror'!
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Jim Murphy
 ## Title: AlwaysOn - Finally, A usable 'mirror'!
@@ -139,7 +140,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 11635
 # Mastering your Resume  Interview: Tips to Get Hired
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Mastering your Resume  Interview: Tips to Get Hired
@@ -148,7 +149,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 17087
 # Working With Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: John Cook
 ## Title: Working With Azure SQL Database
@@ -157,7 +158,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Cloud
 #  
 #### SessionID: 26148
 # Self-Service Business Intelligence with Power BI
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Theresa Eller
 ## Title: Self-Service Business Intelligence with Power BI
@@ -166,7 +167,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 27407
 # Understanding and Monitoring Tempdb
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Vicky Harp
 ## Title: Understanding and Monitoring Tempdb
@@ -175,7 +176,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 #  
 #### SessionID: 28189
 # SQL Server Permissions and Security Principals
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: William Assaf
 ## Title: SQL Server Permissions and Security Principals
@@ -184,7 +185,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 29909
 # SQL  Microsoft SQL Server for Developers
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Application Development
 ## Speaker: Dane Schilling
 ## Title: SQL  Microsoft SQL Server for Developers
@@ -193,7 +194,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Application Development
 #  
 #### SessionID: 36130
 # Just Enough SSIS Scripting to Be Dangerous
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: David Valentine
 ## Title: Just Enough SSIS Scripting to Be Dangerous
@@ -202,7 +203,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 37307
 # Windows Clustering for the DBA Part 1
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Ryan Adams
 ## Title: Windows Clustering for the DBA Part 1
@@ -211,7 +212,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 10756
 # Easy, Scalable Data Solutions in SQL Azure
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Brian Gogle
 ## Title: Easy, Scalable Data Solutions in SQL Azure
@@ -220,7 +221,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Cloud
 #  
 #### SessionID: 17590
 # Putting the Squeeze on Large Tables: Improve Performance and Save Space with Data Compression
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Justin Randall
 ## Title: Putting the Squeeze on Large Tables: Improve Performance and Save Space with Data Compression
@@ -229,7 +230,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 #  
 #### SessionID: 17747
 # A DBA's pick of differences between SQL Server and Oracle
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Jason Wong
 ## Title: A DBA's pick of differences between SQL Server and Oracle
@@ -246,7 +247,7 @@ I will show Oracle 12C in Oracle SQL Developer. Target audiences should have SQL
 #  
 #### SessionID: 25304
 # Pivots, Cursors and Temp Tables, Oh Boy!!
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Application Development
 ## Speaker: Steve Allison
 ## Title: Pivots, Cursors and Temp Tables, Oh Boy!!
@@ -255,7 +256,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Application Development
 #  
 #### SessionID: 26537
 # Excel 2013 Tips and Tricks for Displaying a Multidimensional Cube
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Thomas LeBlanc
 ## Title: Excel 2013 Tips and Tricks for Displaying a Multidimensional Cube
@@ -266,7 +267,7 @@ You will leave this session with your brain firing on all cylinders to create co
 #  
 #### SessionID: 26652
 # Building Bullet-Resistant SSIS Packages
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Tim Mitchell
 ## Title: Building Bullet-Resistant SSIS Packages
@@ -278,7 +279,7 @@ In this demo-packed session, we will examine the design patterns and logistics o
 #  
 #### SessionID: 36198
 # The DBA Career Roadmap
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Jennifer McCown
 ## Title: The DBA Career Roadmap
@@ -290,7 +291,7 @@ Want to find out how to get to the next great place in your career? Get solid ad
 #  
 #### SessionID: 37308
 # Windows Clustering for the DBA Part 2
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Ryan Adams
 ## Title: Windows Clustering for the DBA Part 2
@@ -299,7 +300,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 14456
 # Learn How To Build A Golden Record for Any Subject Over Lunch!
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Gene Webb
 ## Title: Learn How To Build A Golden Record for Any Subject Over Lunch!
@@ -313,7 +314,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 37293
 # Optimize Your SQL Server 2014 Workloads with Cisco UCS
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Other
 ## Speaker: Bill Shields
 ## Title: Optimize Your SQL Server 2014 Workloads with Cisco UCS
@@ -322,7 +323,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 37314
 # Crash Course on Flash-Based Storage--SQL Server
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Bert Scalzo
 ## Title: Crash Course on Flash-Based Storage--SQL Server
@@ -336,7 +337,7 @@ Two rather special Flash-based offerings from HGST
 #  
 #### SessionID: 37335
 # What's new in SQL 2016
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Mark Moore
 ## Title: What's new in SQL 2016
@@ -345,7 +346,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 37767
 # Quick DB Tuning Tips with Solarwinds Database Performance Analyzer (Ignite)
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: James Barnes
 ## Title: Quick DB Tuning Tips with Solarwinds Database Performance Analyzer (Ignite)
@@ -354,7 +355,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 #  
 #### SessionID: 37782
 # Determining performance bottlenecks and how flash storage helps databases
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Matt Henderson
 ## Title: Determining performance bottlenecks and how flash storage helps databases
@@ -366,7 +367,7 @@ Flash storage is the new wave of technology hitting data centers and database de
 #  
 #### SessionID: 37802
 # Wait Watchers - All Gain No Pain
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Patrick Okeeffe
 ## Title: Wait Watchers - All Gain No Pain
@@ -377,7 +378,7 @@ In this session, you will learn all about SQL Server’s wait statistics; statis
 #  
 #### SessionID: 37919
 # 10 Tips for SQL Server Performance Monitoring
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Umair Khan
 ## Title: 10 Tips for SQL Server Performance Monitoring
@@ -386,7 +387,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 #  
 #### SessionID: 19958
 # SQL Server Foreign Keys – De-mystifying the Rest of the Story
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Mike Byrd
 ## Title: SQL Server Foreign Keys – De-mystifying the Rest of the Story
@@ -395,7 +396,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 #  
 #### SessionID: 20787
 # The Ins and Outs of SQL Indexes
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Mindy Curnutt
 ## Title: The Ins and Outs of SQL Indexes
@@ -404,7 +405,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 #  
 #### SessionID: 27408
 # Care and Feeding of Your System Databases
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Vicky Harp
 ## Title: Care and Feeding of Your System Databases
@@ -413,7 +414,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 35649
 # T-SQL: Simple Changes That Go a Long Way
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Application Development
 ## Speaker: David Valentine
 ## Title: T-SQL: Simple Changes That Go a Long Way
@@ -422,7 +423,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Application Development
 #  
 #### SessionID: 36200
 # Beginning Powershell for DBAs 1.0
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: PowerShell
 ## Speaker: Sean McCown
 ## Title: Beginning Powershell for DBAs 1.0
@@ -431,7 +432,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: PowerShell
 #  
 #### SessionID: 36206
 # The Global Cloud and I
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Anthony {Tex} Moreign
 ## Title: The Global Cloud and I
@@ -448,7 +449,7 @@ NOTE:  The 3 presenters, Tex (20+ year technologist), Valentino  Zane (budding t
 #  
 #### SessionID: 36359
 # Writing Your First BimlScript
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: David Stein
 ## Title: Writing Your First BimlScript
@@ -457,7 +458,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 36430
 # Log SQL Server Activity on a Budget
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Rudy Rodarte
 ## Title: Log SQL Server Activity on a Budget
@@ -466,7 +467,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 10391
 # Flash Disk Alternatives for SQL Server Databases
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Bert Scalzo
 ## Title: Flash Disk Alternatives for SQL Server Databases
@@ -475,7 +476,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 #  
 #### SessionID: 14455
 # Introduction to Master Data Management (MDM) with SQL Server Master Data Services (MDS) for Beginner
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Gene Webb
 ## Title: Introduction to Master Data Management (MDM) with SQL Server Master Data Services (MDS) for Beginner
@@ -491,7 +492,7 @@ How to use MDS with a data warehouse to improve data quality
 #  
 #### SessionID: 16866
 # Row Level Security in Azure SQL Databases using Hierarchies
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Jamey Johnston
 ## Title: Row Level Security in Azure SQL Databases using Hierarchies
@@ -503,7 +504,7 @@ Attendees will leave with a complete working demo they can take to their work an
 #  
 #### SessionID: 19242
 # SQL Server Statistics – What Are The Chances?
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Lori Edwards
 ## Title: SQL Server Statistics – What Are The Chances?
@@ -512,7 +513,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 #  
 #### SessionID: 23096
 # Designing a Data Warehouse in SQL Server
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Robert Stewart
 ## Title: Designing a Data Warehouse in SQL Server
@@ -521,7 +522,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 36201
 # Designing Stored Procedure Solutions
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Application Development
 ## Speaker: Jennifer McCown
 ## Title: Designing Stored Procedure Solutions
@@ -540,7 +541,7 @@ This session is for data professionals who can write T-SQL, but haven't spent a 
 #  
 #### SessionID: 36205
 # So what does it really take to get to four nines
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: George Govantes
 ## Title: So what does it really take to get to four nines
@@ -549,7 +550,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 36423
 # Making the Leap from Developer to DBA
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
@@ -558,7 +559,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 15772
 # SQL Geography DataTypes and Applications
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Application Development
 ## Speaker: Jared Nielsen
 ## Title: SQL Geography DataTypes and Applications
@@ -567,7 +568,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Application Development
 #  
 #### SessionID: 20789
 # Tracing and Extended Events - 3 Methods to End the Madness
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Mindy Curnutt
 ## Title: Tracing and Extended Events - 3 Methods to End the Madness
@@ -587,7 +588,7 @@ Lots of demos and take-away scripts in this session.
 #  
 #### SessionID: 24438
 # Parameter Sniffing the Good and the Bad
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Lance Tidwell
 ## Title: Parameter Sniffing the Good and the Bad
@@ -596,7 +597,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 #  
 #### SessionID: 36078
 # The Life Cycle of a Query in VR
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Application Development
 ## Speaker: Todd Kleinhans
 ## Title: The Life Cycle of a Query in VR
@@ -605,7 +606,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Application Development
 #  
 #### SessionID: 36202
 # Minion Maintenance and Backup Solutions
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Sean McCown
 ## Title: Minion Maintenance and Backup Solutions
@@ -625,7 +626,7 @@ Minion Reindex and Minion Backup scale to the size of your enterprise, from one 
 #  
 #### SessionID: 36360
 # SSIS Performance Tuning with BimlScript
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: David Stein
 ## Title: SSIS Performance Tuning with BimlScript
@@ -639,7 +640,7 @@ The only way to be sure that your SSIS packages are performing optimally is to t
 #  
 #### SessionID: 36427
 # Mission Possible: Interactive Performance Troubleshooting - Index
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 ## Speaker: Jim Murphy
 ## Title: Mission Possible: Interactive Performance Troubleshooting - Index
@@ -648,7 +649,7 @@ Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Performance
 #  
 #### SessionID: 36431
 # SQL Server Reporting Services - Zero to Automated Reports Today!
-#### [Back to calendar](#SQLSaturday-#408-Houston-2015)
+#### [Back to calendar](#nr-408)
 Event Date: 13-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Rudy Rodarte
 ## Title: SQL Server Reporting Services - Zero to Automated Reports Today!

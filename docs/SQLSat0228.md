@@ -1,3 +1,4 @@
+#### Nr: 228
 #### [Back to Main list](index.md)
 # SQLSaturday #228 - Cambridge 2013
 Start Time (24h)|Speaker|Track|Title
@@ -48,7 +49,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11002
 # SQL Internal Storage – P2
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: The Meaning of Life (DBA)
 ## Speaker: Bruno Basto
 ## Title: SQL Internal Storage – P2
@@ -57,7 +58,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: The Meaning of Life (DB
 #  
 #### SessionID: 11802
 # StreamInsight: Complex Event Processing by MS
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: ...and now for something completely different
 ## Speaker: Constantin Klein
 ## Title: StreamInsight: Complex Event Processing by MS
@@ -68,7 +69,7 @@ In this session you will learn what a great addition for your toolbox StreamInsi
 #  
 #### SessionID: 12193
 # TraceFlag Fun
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Ministry of funny walks (DEV)
 ## Speaker: Dave Ballantyne
 ## Title: TraceFlag Fun
@@ -80,7 +81,7 @@ In this session a selection of flags ( both documented and undocumented ) will b
 #  
 #### SessionID: 12422
 # SharePoint HA and DR
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Dead Parrot (SharePoint)
 ## Speaker: David McMahon
 ## Title: SharePoint HA and DR
@@ -89,7 +90,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Dead Parrot (SharePoint
 #  
 #### SessionID: 15063
 # Advanced Indexing
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: The Meaning of Life (DBA)
 ## Speaker: Hugo Kornelis
 ## Title: Advanced Indexing
@@ -99,7 +100,7 @@ Hugo will explore advanced features such as included columns, indexed views, and
 #  
 #### SessionID: 15068
 # Create Your Own Data Type
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Ministry of funny walks (DEV)
 ## Speaker: Hugo Kornelis
 ## Title: Create Your Own Data Type
@@ -110,7 +111,7 @@ This session will show you exactly how to create a CLR user-defined data type, a
 #  
 #### SessionID: 15368
 # DataExplorer - the reason you might not need SQL Server 
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: SPAM (BI)
 ## Speaker: Niko Neugebauer
 ## Title: DataExplorer - the reason you might not need SQL Server 
@@ -121,7 +122,7 @@ Join me for an hour of "DataExploration"! :)
 #  
 #### SessionID: 16391
 # From Big Data to secret sauce: power your organisation with PowerBI
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: ...and now for something completely different
 ## Speaker: Jen Stirrup
 ## Title: From Big Data to secret sauce: power your organisation with PowerBI
@@ -134,7 +135,7 @@ We will also look at evangelising your secret sauce throughout the business, usi
 #  
 #### SessionID: 16547
 # Advanced Data Visualisation with Reporting Services
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: SPAM (BI)
 ## Speaker: Jen Stirrup
 ## Title: Advanced Data Visualisation with Reporting Services
@@ -146,7 +147,7 @@ This session will cover more advanced and less well-known features of reporting 
 #  
 #### SessionID: 17166
 # Data Driven Branding for SSRS
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Ministry of funny walks (DEV)
 ## Speaker: John Martin
 ## Title: Data Driven Branding for SSRS
@@ -157,7 +158,7 @@ This session will show you how to make use of SSRS project templates, and built 
 #  
 #### SessionID: 17805
 # Analysis Services Security - Steel Curtain Cubes
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: SPAM (BI)
 ## Speaker: Jens Vestergaard
 ## Title: Analysis Services Security - Steel Curtain Cubes
@@ -166,7 +167,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: SPAM (BI)
 #  
 #### SessionID: 18034
 # Come and meet my little friend - Using Hyper-V on Windows 8 Pro
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: ...and now for something completely different
 ## Speaker: Kevin Chant
 ## Title: Come and meet my little friend - Using Hyper-V on Windows 8 Pro
@@ -175,7 +176,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: ...and now for somethin
 #  
 #### SessionID: 18113
 # SQL anti patterns
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Ministry of funny walks (DEV)
 ## Speaker: Kennie Pontoppidan
 ## Title: SQL anti patterns
@@ -186,7 +187,7 @@ We will become acquainted with antipatterns on a physical level, a logical level
 #  
 #### SessionID: 19032
 # Database Development with SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Ministry of funny walks (DEV)
 ## Speaker: Leonard Lobel
 ## Title: Database Development with SQL Server Data Tools
@@ -195,7 +196,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Ministry of funny walks
 #  
 #### SessionID: 19517
 # Advanced Performance Tuning Tips with Ignite
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Ministry of funny walks (DEV)
 ## Speaker: Les Reading
 ## Title: Advanced Performance Tuning Tips with Ignite
@@ -204,7 +205,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Ministry of funny walks
 #  
 #### SessionID: 19518
 # High Performance and Highly Available SANLess Clustering for MS SQL Server
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: SPAM (BI)
 ## Speaker: Les Reading
 ## Title: High Performance and Highly Available SANLess Clustering for MS SQL Server
@@ -213,7 +214,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: SPAM (BI)
 #  
 #### SessionID: 19519
 # Automate All The Things! Best Practices for Fast, Painless Database Deployments
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: The Meaning of Life (DBA)
 ## Speaker: Les Reading
 ## Title: Automate All The Things! Best Practices for Fast, Painless Database Deployments
@@ -222,7 +223,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: The Meaning of Life (DB
 #  
 #### SessionID: 19521
 # How to build process based applications on top of your SQL Data
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Just a slither
 ## Speaker: Les Reading
 ## Title: How to build process based applications on top of your SQL Data
@@ -231,7 +232,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Just a slither
 #  
 #### SessionID: 19522
 # Microsoft training and certification for SQL Server and Cloud solutions
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: ...and now for something completely different
 ## Speaker: Les Reading
 ## Title: Microsoft training and certification for SQL Server and Cloud solutions
@@ -240,7 +241,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: ...and now for somethin
 #  
 #### SessionID: 19523
 # Migrating to the Cloud
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: The Meaning of Life (DBA)
 ## Speaker: Les Reading
 ## Title: Migrating to the Cloud
@@ -251,7 +252,7 @@ In one hour we will take a sample ecommerce application and database, show tools
 #  
 #### SessionID: 19524
 # PDW : Introduction to the Data Movement Service
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: SPAM (BI)
 ## Speaker: Les Reading
 ## Title: PDW : Introduction to the Data Movement Service
@@ -262,7 +263,7 @@ Answer: Go to California and acquire some kick-ass technology! Introducing the D
 #  
 #### SessionID: 19525
 # Now that’s what I call the worst dataviz – ever! 
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Dead Parrot (SharePoint)
 ## Speaker: Les Reading
 ## Title: Now that’s what I call the worst dataviz – ever! 
@@ -271,7 +272,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Dead Parrot (SharePoint
 #  
 #### SessionID: 19526
 # Idera SQL Diagnostic Manager
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: The Meaning of Life (DBA)
 ## Speaker: Les Reading
 ## Title: Idera SQL Diagnostic Manager
@@ -280,7 +281,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: The Meaning of Life (DB
 #  
 #### SessionID: 19527
 # Introduction to SQL Server 2014 In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Just a slither
 ## Speaker: Les Reading
 ## Title: Introduction to SQL Server 2014 In-Memory OLTP
@@ -289,7 +290,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Just a slither
 #  
 #### SessionID: 19528
 # SQL Server Estate Rationalisation
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Dead Parrot (SharePoint)
 ## Speaker: Les Reading
 ## Title: SQL Server Estate Rationalisation
@@ -298,7 +299,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Dead Parrot (SharePoint
 #  
 #### SessionID: 19529
 # When to use which installation of SQL Server: On-prem, IaaS in Windows Azure, or Windows Azure SQLDB
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Just a slither
 ## Speaker: Mark Broadbent
 ## Title: When to use which installation of SQL Server: On-prem, IaaS in Windows Azure, or Windows Azure SQLDB
@@ -307,7 +308,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Just a slither
 #  
 #### SessionID: 19530
 # The Irish Economic Crisis, Visualized
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: SPAM (BI)
 ## Speaker: Mark Broadbent
 ## Title: The Irish Economic Crisis, Visualized
@@ -316,7 +317,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: SPAM (BI)
 #  
 #### SessionID: 19675
 # Business Intelligence Options for SharePoint 2013 
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Dead Parrot (SharePoint)
 ## Speaker: Mark Macrae
 ## Title: Business Intelligence Options for SharePoint 2013 
@@ -326,7 +327,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Dead Parrot (SharePoint
 #  
 #### SessionID: 21444
 # SQL 2014 Clustered Columnstore - An Introduction
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: ...and now for something completely different
 ## Speaker: Niko Neugabauer
 ## Title: SQL 2014 Clustered Columnstore - An Introduction
@@ -335,7 +336,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: ...and now for somethin
 #  
 #### SessionID: 21548
 # Access Services are cool! Are you kidding? :)
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: ...and now for something completely different
 ## Speaker: Oliver Engels
 ## Title: Access Services are cool! Are you kidding? :)
@@ -344,7 +345,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: ...and now for somethin
 #  
 #### SessionID: 21899
 # SharePoint what are you doing at my SQL event
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Dead Parrot (SharePoint)
 ## Speaker: Peter Baddeley
 ## Title: SharePoint what are you doing at my SQL event
@@ -353,7 +354,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Dead Parrot (SharePoint
 #  
 #### SessionID: 22689
 # Natural Born Killers, performance issues to avoid
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Ministry of funny walks (DEV)
 ## Speaker: Lord Richard Douglas
 ## Title: Natural Born Killers, performance issues to avoid
@@ -369,7 +370,7 @@ Plus, you’ll learn how to take corrective action when:
 #  
 #### SessionID: 22692
 # The Day After Tomorrow: Why you need to baseline
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Ministry of funny walks (DEV)
 ## Speaker: Lord Richard Douglas
 ## Title: The Day After Tomorrow: Why you need to baseline
@@ -378,7 +379,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Ministry of funny walks
 #  
 #### SessionID: 22827
 # Deep Dive into DQS
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Just a slither
 ## Speaker: Regis Baccaro
 ## Title: Deep Dive into DQS
@@ -387,7 +388,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Just a slither
 #  
 #### SessionID: 24296
 # Leveraging PowerShell for SharePoint Database Operations
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Dead Parrot (SharePoint)
 ## Speaker: Seb Matthews
 ## Title: Leveraging PowerShell for SharePoint Database Operations
@@ -402,7 +403,7 @@ If you want to understand how you can utilise PowerShell in SharePoint database 
 #  
 #### SessionID: 25292
 # Getting the most from your SAN - File and Filegroup design patterns
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: The Meaning of Life (DBA)
 ## Speaker: Stephen Archbold
 ## Title: Getting the most from your SAN - File and Filegroup design patterns
@@ -424,7 +425,7 @@ Topics covered include:
 #  
 #### SessionID: 25823
 # Automating Database Restores and Verification with PowerShell
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: The Meaning of Life (DBA)
 ## Speaker: Stuart Moore
 ## Title: Automating Database Restores and Verification with PowerShell
@@ -436,7 +437,7 @@ This session will introduce you to the basics of restoring simple databases with
 #  
 #### SessionID: 26157
 # Windowing Functions: THE Reason to Upgrade to 2012
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: ...and now for something completely different
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012
@@ -445,7 +446,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: ...and now for somethin
 #  
 #### SessionID: 27047
 # Bitmap and Bloom Filter Indexing in SQL Server
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: The Meaning of Life (DBA)
 ## Speaker: Tony Rogerson
 ## Title: Bitmap and Bloom Filter Indexing in SQL Server
@@ -454,7 +455,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: The Meaning of Life (DB
 #  
 #### SessionID: 9172
 # So you're getting SharePoint - What's a DBA to do?
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Dead Parrot (SharePoint)
 ## Speaker: Al Eardley
 ## Title: So you're getting SharePoint - What's a DBA to do?
@@ -467,7 +468,7 @@ Learn how to manage the SharePoint databases: Maintenance, Disaster Recovery  Hi
 #  
 #### SessionID: 9213
 # MDX 101 - getting started with MDX
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: SPAM (BI)
 ## Speaker: Alex Whittles
 ## Title: MDX 101 - getting started with MDX
@@ -477,7 +478,7 @@ In this session we'll look at the structure and basics of MDX, the Multi-Dimensi
 #  
 #### SessionID: 9289
 # Hadoop for the Microsoft Guy
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: SPAM (BI)
 ## Speaker: Allan Mitchell
 ## Title: Hadoop for the Microsoft Guy
@@ -489,7 +490,7 @@ Keep an open mind and let me show you that Hadoop has lots to offer.
 #  
 #### SessionID: 9692
 # Rapid Data Integration using SharePoint Business Connectivity Services
-#### [Back to calendar](#SQLSaturday-#228-Cambridge-2013)
+#### [Back to calendar](#nr-228)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Dead Parrot (SharePoint)
 ## Speaker: Anthony Obi
 ## Title: Rapid Data Integration using SharePoint Business Connectivity Services

@@ -1,3 +1,4 @@
+#### Nr: 144
 #### [Back to Main list](index.md)
 # SQLSaturday #144 - Sacramento 2012
 Start Time (24h)|Speaker|Track|Title
@@ -30,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10347
 # Top Query Optimizer Topics for Better Performance
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Benjamin Nevarez
 ## Title: Top Query Optimizer Topics for Better Performance
@@ -39,7 +40,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 11327
 # Business Intelligence for Managers/Decision Makers
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Carlos Bossy
 ## Title: Business Intelligence for Managers/Decision Makers
@@ -48,7 +49,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 11330
 # Fast-track to BI Analytics with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Misc Track
 ## Speaker: Carlos Bossy
 ## Title: Fast-track to BI Analytics with SQL Server 2012
@@ -57,7 +58,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Misc Track
 #  
 #### SessionID: 11745
 # Replication Basics
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Meredith Ryan-Smith
 ## Title: Replication Basics
@@ -67,7 +68,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 13089
 # Stop Bad Data in its OLTP Tracks
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: SQL Dev Track
 ## Speaker: Denise McInerney
 ## Title: Stop Bad Data in its OLTP Tracks
@@ -78,7 +79,7 @@ The presentation will draw on the speaker's years of personal experience managin
 #  
 #### SessionID: 14351
 # From T-SQL Turtle to T-SQL Rabbit: Macro Scripting
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: SQL Dev Track
 ## Speaker: Eric Freeman
 ## Title: From T-SQL Turtle to T-SQL Rabbit: Macro Scripting
@@ -87,7 +88,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: SQL Dev Track
 #  
 #### SessionID: 14943
 # Introduction to Log Shipping and Mirroring
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Harry Chandra
 ## Title: Introduction to Log Shipping and Mirroring
@@ -98,7 +99,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 15285
 # Quick  Easy SQL Tips Part 1
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Ike Ellis
 ## Title: Quick  Easy SQL Tips Part 1
@@ -107,7 +108,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 15675
 # Extend Your Knowledge with Extended Events!
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Misc Track
 ## Speaker: Janis Griffin
 ## Title: Extend Your Knowledge with Extended Events!
@@ -118,7 +119,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Misc Track
 #  
 #### SessionID: 15831
 # Isn't that Spatial
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: SQL Dev Track
 ## Speaker: Jason Horner
 ## Title: Isn't that Spatial
@@ -129,7 +130,7 @@ As time permits, we will dive into some best practices for working with spatial 
 #  
 #### SessionID: 17841
 # Seeking SQL Server Secrets
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Kalen Delaney
 ## Title: Seeking SQL Server Secrets
@@ -138,7 +139,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 20134
 # Master Data Services in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Mark Gschwind
 ## Title: Master Data Services in SQL Server 2012
@@ -147,7 +148,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 20834
 # Easily Manage your Servers with Policy Based Mgmt
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Misc Track
 ## Speaker: Mitchell Bottel
 ## Title: Easily Manage your Servers with Policy Based Mgmt
@@ -156,7 +157,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Misc Track
 #  
 #### SessionID: 22264
 # SQL Server 2012 AlwaysON in action
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Prakash Heda
 ## Title: SQL Server 2012 AlwaysON in action
@@ -177,7 +178,7 @@ Taking backups from secondaries
 #  
 #### SessionID: 22492
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: SQL Dev Track
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -187,7 +188,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: SQL Dev Track
 #  
 #### SessionID: 24456
 # Encryption in SQL Server
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Steve Jones
 ## Title: Encryption in SQL Server
@@ -196,7 +197,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 24611
 # Advanced SQL Injection techniques
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: SQL Dev Track
 ## Speaker: Slavik Markovich
 ## Title: Advanced SQL Injection techniques
@@ -205,7 +206,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: SQL Dev Track
 #  
 #### SessionID: 27038
 # Fuzzy-String Searching: UDF and CTE performance
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: SQL Dev Track
 ## Speaker: Tom Keller
 ## Title: Fuzzy-String Searching: UDF and CTE performance
@@ -214,7 +215,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: SQL Dev Track
 #  
 #### SessionID: 27325
 # Instant Scale, High Avail.  Performance for SQL
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Varun Singh
 ## Title: Instant Scale, High Avail.  Performance for SQL
@@ -223,7 +224,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 34655
 # From Geek to Grand Poo-bah
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Misc Track
 ## Speaker: Helen Norris
 ## Title: From Geek to Grand Poo-bah
@@ -232,7 +233,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Misc Track
 #  
 #### SessionID: 34810
 # Managing and Auditing SQL Server Permissions
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Misc Track
 ## Speaker: Michael Fal
 ## Title: Managing and Auditing SQL Server Permissions
@@ -241,7 +242,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Misc Track
 #  
 #### SessionID: 34812
 # Exposing the Core: SQL 2012 on Server Core
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Michael Fal
 ## Title: Exposing the Core: SQL 2012 on Server Core
@@ -250,7 +251,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 34822
 # Social Networking Is Alive!
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Misc Track
 ## Speaker: John Morehouse
 ## Title: Social Networking Is Alive!
@@ -259,7 +260,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: Misc Track
 #  
 #### SessionID: 9370
 # Reporting Services - Practical tips and tricks
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Jonathan Amen
 ## Title: Reporting Services - Practical tips and tricks
@@ -268,7 +269,7 @@ Event Date: 28-07-2012 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 9653
 # Mobile BI with SSRS and SharePoint
-#### [Back to calendar](#SQLSaturday-#144-Sacramento-2012)
+#### [Back to calendar](#nr-144)
 Event Date: 28-07-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Angel Abundez
 ## Title: Mobile BI with SSRS and SharePoint

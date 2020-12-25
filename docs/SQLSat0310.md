@@ -1,3 +1,4 @@
+#### Nr: 310
 #### [Back to Main list](index.md)
 # SQLSaturday #310 - Dublin 2014
 Start Time (24h)|Speaker|Track|Title
@@ -33,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10565
 # The Irish Economic Crisis Visualised with Power BI
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 1. Lady Windermere
 ## Speaker: Bob Duffy
 ## Title: The Irish Economic Crisis Visualised with Power BI
@@ -42,7 +43,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 1. Lady Windermere
 #  
 #### SessionID: 10566
 # Blending SQL Azure with SQL Server to drive Performance Insights
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Ideal Husband
 ## Speaker: Bob Duffy
 ## Title: Blending SQL Azure with SQL Server to drive Performance Insights
@@ -51,7 +52,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Ideal Husband
 #  
 #### SessionID: 10925
 # The nightmare of locking, blocking and isolation levels!
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. Dorian Gray
 ## Speaker: Boris Hristov
 ## Title: The nightmare of locking, blocking and isolation levels!
@@ -60,7 +61,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. Dorian Gray
 #  
 #### SessionID: 11097
 # Big Data, Big Project
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Ideal Husband
 ## Speaker: Buck Woody
 ## Title: Big Data, Big Project
@@ -69,7 +70,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Ideal Husband
 #  
 #### SessionID: 11476
 # Power Query: Beyond The Basics
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Intentions
 ## Speaker: Chris Webb
 ## Title: Power Query: Beyond The Basics
@@ -78,7 +79,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Intentions
 #  
 #### SessionID: 11705
 # First steps in continuous integration for databases with Red Gate’s SQL Automation Pack.
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. Dorian Gray
 ## Speaker: Carmel Gunn
 ## Title: First steps in continuous integration for databases with Red Gate’s SQL Automation Pack.
@@ -92,7 +93,7 @@ One lucky session attendee will also win a license of the SQL Automation Pack du
 #  
 #### SessionID: 11787
 # Inside the SQL Server Query Processor
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 1. Lady Windermere
 ## Speaker: Conor Cunningham
 ## Title: Inside the SQL Server Query Processor
@@ -101,7 +102,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 1. Lady Windermere
 #  
 #### SessionID: 14015
 # Shared technical learnings for building highly scalable and available cloud application
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Ideal Husband
 ## Speaker: Ewan Fairweather
 ## Title: Shared technical learnings for building highly scalable and available cloud application
@@ -110,7 +111,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Ideal Husband
 #  
 #### SessionID: 15123
 # SQL Server PDW (APS)  vs SQL Server, let's see the big differences 
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Ideal Husband
 ## Speaker: Henk van der Valk
 ## Title: SQL Server PDW (APS)  vs SQL Server, let's see the big differences 
@@ -120,7 +121,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Ideal Husband
 #  
 #### SessionID: 16410
 # A One Hour Data Analysts Toolkit: using R and PowerBI
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Intentions
 ## Speaker: Jen Stirrup
 ## Title: A One Hour Data Analysts Toolkit: using R and PowerBI
@@ -129,7 +130,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Intentions
 #  
 #### SessionID: 17601
 # Migrating to APS
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Ideal Husband
 ## Speaker: James Rowland Jones
 ## Title: Migrating to APS
@@ -141,7 +142,7 @@ In this 1-hour session, you will learn how to "embrace the change" and accelerat
 #  
 #### SessionID: 17879
 # Windows Azure SQL Database Design: Concepts and Trade-offs
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Ideal Husband
 ## Speaker: Karen Lopez
 ## Title: Windows Azure SQL Database Design: Concepts and Trade-offs
@@ -152,7 +153,7 @@ You’ll see demonstrations of the database creation and initial design processe
 #  
 #### SessionID: 18121
 # SQL anti patterns
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. Dorian Gray
 ## Speaker: Kennie Pontoppidan
 ## Title: SQL anti patterns
@@ -163,7 +164,7 @@ We will become acquainted with antipatterns on a physical level, a logical level
 #  
 #### SessionID: 18460
 # Convince Me – Persuasion Techniques That Get Things Done
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 1. Lady Windermere
 ## Speaker: Kevin Kline
 ## Title: Convince Me – Persuasion Techniques That Get Things Done
@@ -177,7 +178,7 @@ You’ll learn:
 #  
 #### SessionID: 18494
 # Plan Caching in SQL Server
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. Dorian Gray
 ## Speaker: Klaus Aschenbrenner
 ## Title: Plan Caching in SQL Server
@@ -186,7 +187,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. Dorian Gray
 #  
 #### SessionID: 19083
 # Learning Entity Framework 6
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. Dorian Gray
 ## Speaker: Leonard Lobel
 ## Title: Learning Entity Framework 6
@@ -197,7 +198,7 @@ We’ll begin with a quick introduction to ORM and EF, and then explain many of 
 #  
 #### SessionID: 20125
 # SSIS Patterns-Performance testing, parallel packag
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 5. Lord Arthur Saville
 ## Speaker: Mark Stacey
 ## Title: SSIS Patterns-Performance testing, parallel packag
@@ -208,7 +209,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 5. Lord Arthur Saville
 #  
 #### SessionID: 21017
 # Storage for the DBA
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. Dorian Gray
 ## Speaker: Denny Cherry 
 ## Title: Storage for the DBA
@@ -217,7 +218,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. Dorian Gray
 #  
 #### SessionID: 21475
 # Using ioMemory to leverage Buffer Pool Extension and In-memory OLTP capability with Microsoft
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 5. Lord Arthur Saville
 ## Speaker: Justin Wheeler
 ## Title: Using ioMemory to leverage Buffer Pool Extension and In-memory OLTP capability with Microsoft
@@ -226,7 +227,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 5. Lord Arthur Saville
 #  
 #### SessionID: 22835
 # DBAs are from Mars,  SharePoint admins are from Ve
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 5. Lord Arthur Saville
 ## Speaker: Regis Baccaro
 ## Title: DBAs are from Mars,  SharePoint admins are from Ve
@@ -235,7 +236,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 5. Lord Arthur Saville
 #  
 #### SessionID: 24440
 # Storing of sensitive data in SQL Server - Meeting the PCI Data Security Standards 
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Intentions
 ## Speaker: Simon Sabin
 ## Title: Storing of sensitive data in SQL Server - Meeting the PCI Data Security Standards 
@@ -256,7 +257,7 @@ At the end of the session you will know what you need to do, to be able store ca
 #  
 #### SessionID: 24647
 # Multidimensional vs Tabular - May the Best Model Win
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Intentions
 ## Speaker: Stacia Varga
 ## Title: Multidimensional vs Tabular - May the Best Model Win
@@ -265,7 +266,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Intentions
 #  
 #### SessionID: 24789
 # Digging Into the .Net SqlClient
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. Dorian Gray
 ## Speaker: Mladen Prajdić
 ## Title: Digging Into the .Net SqlClient
@@ -274,7 +275,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. Dorian Gray
 #  
 #### SessionID: 28208
 # Replication Troubleshooting  Monitoring
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 5. Lord Arthur Saville
 ## Speaker: William Durkin
 ## Title: Replication Troubleshooting  Monitoring
@@ -283,7 +284,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 5. Lord Arthur Saville
 #  
 #### SessionID: 34564
 # How to write professional Powershell scripts
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 5. Lord Arthur Saville
 ## Speaker: André Kamman
 ## Title: How to write professional Powershell scripts
@@ -293,7 +294,7 @@ This is a demo rich session and all demos will be covering practical SQL Server 
 #  
 #### SessionID: 9217
 # MDX 101
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Intentions
 ## Speaker: Alex Whittles
 ## Title: MDX 101
@@ -305,7 +306,7 @@ Learn the difference between a member, measure, tuple, set and dimension. Well d
 #  
 #### SessionID: 9286
 # SQOOP - Taking relational data to Hadoop and back again
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Ideal Husband
 ## Speaker: Allan Mitchell
 ## Title: SQOOP - Taking relational data to Hadoop and back again
@@ -317,7 +318,7 @@ This session will look at SQOOP and the plethora of options available to you on 
 #  
 #### SessionID: 9669
 # Using Power BI and SharePoint as a rapid development BI Strategy
-#### [Back to calendar](#SQLSaturday-#310-Dublin-2014)
+#### [Back to calendar](#nr-310)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Intentions
 ## Speaker: Daire Cunningham
 ## Title: Using Power BI and SharePoint as a rapid development BI Strategy

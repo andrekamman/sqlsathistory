@@ -1,3 +1,4 @@
+#### Nr: 948
 #### [Back to Main list](index.md)
 # SQLSaturday #948 – Cincinnati – Virtual 2020
 
@@ -37,8 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 103185
 # Improve your daily productivity levels with SentryOne solutions
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jon Moore
 ## Title: Improve your daily productivity levels with SentryOne solutions
@@ -47,8 +47,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 100961
 # SQL Server By Example
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: SQL Server By Example
@@ -57,8 +56,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 100826
 # Getting started with Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Lucas Feiock
 ## Title: Getting started with Azure Machine Learning
@@ -67,8 +65,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 101002
 # Presentation Skills for the Technical Professional
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Professional Development
 ## Speaker: Buck Woody
 ## Title: Presentation Skills for the Technical Professional
@@ -81,8 +78,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Professional Developmen
 #  
 #### SessionID: 101519
 # Managing Availability Groups with PowerShell, Tips, Techniques, Cool Scripts!
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Julie McLain-Harper
 ## Title: Managing Availability Groups with PowerShell, Tips, Techniques, Cool Scripts!
@@ -91,8 +87,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 99658
 # Getting started with Azure SQL Database: What You Need To Know!
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Getting started with Azure SQL Database: What You Need To Know!
@@ -101,8 +96,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 100965
 # Azure SQL Database: Maximizing Cloud Performance and Availability
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anna Hoffman
 ## Title: Azure SQL Database: Maximizing Cloud Performance and Availability
@@ -111,8 +105,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 102644
 # Charlie and the Data Factory
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vanessa Kesten
 ## Title: Charlie and the Data Factory
@@ -121,8 +114,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 102719
 # Enable Real-time Analytics and Machine Learning with Azure Stream Analytics and Azure IoT
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Sriharsh Adari
 ## Title: Enable Real-time Analytics and Machine Learning with Azure Stream Analytics and Azure IoT
@@ -131,8 +123,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 99579
 # Querying NoSQL with SQL: HAVING Your JSON Cake and SELECTing it too
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Matthew Groves
 ## Title: Querying NoSQL with SQL: HAVING Your JSON Cake and SELECTing it too
@@ -143,8 +134,7 @@ Developers need to deliver apps that readily evolve, perform, and scale, all to 
 #  
 #### SessionID: 100418
 # Achievement Unlocked: How to Get Promoted
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Professional Development
 ## Speaker: Dave Mattingly
 ## Title: Achievement Unlocked: How to Get Promoted
@@ -155,8 +145,7 @@ In this session, you'll learn how to promote yourself, how to speak confidently,
 #  
 #### SessionID: 101240
 # Introduction to M (a.k.a Power Query)
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Analytics and Visualization
 ## Speaker: Eugene Meidinger
 ## Title: Introduction to M (a.k.a Power Query)
@@ -167,8 +156,7 @@ In this session, we'll demonstrate how M is a linear series of transformations, 
 #  
 #### SessionID: 102704
 # Power BI Data Modeling with Less Than Ideal Data Sources
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: BI Information Delivery
 ## Speaker: Mark Beedle
 ## Title: Power BI Data Modeling with Less Than Ideal Data Sources
@@ -179,8 +167,7 @@ This course will provide guidance and tips for building a solid Power BI data mo
 #  
 #### SessionID: 99785
 # Using Open Source Software to Collect Performance Metrics
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Using Open Source Software to Collect Performance Metrics
@@ -191,8 +178,7 @@ In this session, we will discuss sp_whoisactive and Query Store to track what qu
 #  
 #### SessionID: 102187
 # Azure Data Studio – Way Cool for Database Applications
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Jim Miller
 ## Title: Azure Data Studio – Way Cool for Database Applications
@@ -208,8 +194,7 @@ And why Azure Data Studio could be Way Cool for your Database Application
 #  
 #### SessionID: 102219
 # New Features in SSRS 2017
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: BI Information Delivery
 ## Speaker: Sam Nasr
 ## Title: New Features in SSRS 2017
@@ -219,8 +204,7 @@ With intuitive interfaces and rich data visualization, business users and stake 
 #  
 #### SessionID: 102720
 # Making Your Reports Faster – Introduction to Power BI Performance Tuning
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Analytics and Visualization
 ## Speaker: Slava Trofimov
 ## Title: Making Your Reports Faster – Introduction to Power BI Performance Tuning
@@ -229,8 +213,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 105006
 # SQL Server Virtualization and I/O Patterns
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Argenis Fernandez
 ## Title: SQL Server Virtualization and I/O Patterns
@@ -239,8 +222,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 101238
 # An (Advanced) Introduction to DAX
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Analytics and Visualization
 ## Speaker: Eugene Meidinger
 ## Title: An (Advanced) Introduction to DAX
@@ -249,8 +231,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 101945
 # A Better Way to Run MsSql (aka Can You Believe This is Even Possible?!?!)
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Chris Smith
 ## Title: A Better Way to Run MsSql (aka Can You Believe This is Even Possible?!?!)
@@ -264,8 +245,7 @@ In this talk, we'll discuss:
 #  
 #### SessionID: 102130
 # AWS vs. Azure: What's The Difference For A DBA?
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Corey Hambrick
 ## Title: AWS vs. Azure: What's The Difference For A DBA?
@@ -274,8 +254,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 102750
 # AI For Good: Cognitive Services Vision
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Alicia Moniz
 ## Title: AI For Good: Cognitive Services Vision
@@ -292,8 +271,7 @@ Prerequisites: Attendees should have an Azure account, as well as an account on 
 #  
 #### SessionID: 100639
 # Query Plans For Visual Learners
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Forrest McDaniel
 ## Title: Query Plans For Visual Learners
@@ -302,8 +280,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 100720
 # More Common Than You Think: Mental Illness in Tech
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Professional Development
 ## Speaker: Tracy Boggiano
 ## Title: More Common Than You Think: Mental Illness in Tech
@@ -314,8 +291,7 @@ In this session, we will talk about what mental illness is and what it is not.  
 #  
 #### SessionID: 102182
 # Azure Data Studio – Way Cool for Azure and On-Prem SQL
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Jim Miller
 ## Title: Azure Data Studio – Way Cool for Azure and On-Prem SQL
@@ -331,8 +307,7 @@ And demonstrate why Azure Data Studio is in fact Way Cool.
 #  
 #### SessionID: 102217
 # SQL Server Security Features
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: SQL Server Security Features
@@ -341,8 +316,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 105008
 # Navigating Today's Azure SQL Services
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Strategy and Architecture
 ## Speaker: John Miner
 ## Title: Navigating Today's Azure SQL Services
@@ -359,8 +333,7 @@ At the end of the presentation, the attendee will have a broad knowledge of the 
 #  
 #### SessionID: 101003
 # SQL Server 2019 Big Data Clusters Architecture
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Buck Woody
 ## Title: SQL Server 2019 Big Data Clusters Architecture
@@ -369,8 +342,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 102685
 # SARGability: The Case of the Unused Index
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Lisa Bohm
 ## Title: SARGability: The Case of the Unused Index
@@ -380,8 +352,7 @@ We're going to take a look at indexes and how they work, and then do a deeper di
 #  
 #### SessionID: 102824
 # Real World Use Cases Utilizing DbaTools.IO
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Josh Handler
 ## Title: Real World Use Cases Utilizing DbaTools.IO
@@ -390,8 +361,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 105014
 # When to use indexing pro features
-#### [Back to calendar](#SQLSaturday-#948-–-Cincinnati-–-Virtual-2020
-)
+#### [Back to calendar](#nr-948)
 Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Andy Mallon
 ## Title: When to use indexing pro features

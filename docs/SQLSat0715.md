@@ -1,3 +1,4 @@
+#### Nr: 715
 #### [Back to Main list](index.md)
 # SQLSaturday #715 - Belo Horizonte 2018
 Start Time (24h)|Speaker|Track|Title
@@ -26,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 71010
 # Database Console Commands
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Administração de Banco de Dados
 ## Speaker: Rodrigo Crespi
 ## Title: Database Console Commands
@@ -36,7 +37,7 @@ Falaremos (Sem Censura!) sobre o impacto destes comandos e sua utilidade.#160;
 #  
 #### SessionID: 75809
 # 5 dicas de performance tuning para desenvolvedores
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Desenvolvimento de Software e Banco de Dados
 ## Speaker: Caio Amante
 ## Title: 5 dicas de performance tuning para desenvolvedores
@@ -45,7 +46,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Desenvolvimento de Soft
 #  
 #### SessionID: 76980
 # Arquitetura e Processamento de Dados em Tempo Real
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 ## Speaker: Viviane Ribeiro
 ## Title: Arquitetura e Processamento de Dados em Tempo Real
@@ -54,7 +55,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 #  
 #### SessionID: 72524
 # Integrando LogicApp e CosmosDB
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Nuvem e Infraestrutura
 ## Speaker: Flávio Farias
 ## Title: Integrando LogicApp e CosmosDB
@@ -63,7 +64,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Nuvem e Infraestrutura
 #  
 #### SessionID: 72931
 # Hacking SQL Server
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Administração de Banco de Dados
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server
@@ -75,7 +76,7 @@ Simularemos uma invasão ao SQL Server explorando alguns conceitos mal interpret
 #  
 #### SessionID: 82115
 # Power BI não é só um rostinho bonito: Tratando arquivos de log
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 ## Speaker: RUY LACERDA
 ## Title: Power BI não é só um rostinho bonito: Tratando arquivos de log
@@ -84,7 +85,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 #  
 #### SessionID: 71054
 # Indices para Iniciantes - Clustered, Nonclustered,  Scan, Seek, Lookup e Muito Mais
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Desenvolvimento de Software e Banco de Dados
 ## Speaker: Fabrício Lima
 ## Title: Indices para Iniciantes - Clustered, Nonclustered,  Scan, Seek, Lookup e Muito Mais
@@ -95,7 +96,7 @@ Veja isso e muito mais nessa palestra.
 #  
 #### SessionID: 73358
 # Ingerindo, Processando e Analisando Dados com Azure Data Lake Analytics
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Ingerindo, Processando e Analisando Dados com Azure Data Lake Analytics
@@ -106,7 +107,7 @@ Nesta sessão, você aprenderá sobre o Azure Data Lake Store e o Azure Data Lak
 #  
 #### SessionID: 75836
 # Mulheres na TI - Desafios, medos e receios!
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Carreira
 ## Speaker: Suellen Moraes
 ## Title: Mulheres na TI - Desafios, medos e receios!
@@ -115,7 +116,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Carreira
 #  
 #### SessionID: 70843
 # Análise de Dados no Power BI
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 ## Speaker: Karine Lago
 ## Title: Análise de Dados no Power BI
@@ -124,7 +125,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 #  
 #### SessionID: 72336
 # SQL Server 2017 para desenvolvedores de software
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Desenvolvimento de Software e Banco de Dados
 ## Speaker: Renato Groffe
 ## Title: SQL Server 2017 para desenvolvedores de software
@@ -133,7 +134,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Desenvolvimento de Soft
 #  
 #### SessionID: 75838
 # Machine Learning com Analysis Services
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 ## Speaker: Rodrigo Dornel
 ## Title: Machine Learning com Analysis Services
@@ -142,7 +143,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 #  
 #### SessionID: 70959
 # Window function como podemos tirar proveito?
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Desenvolvimento de Software e Banco de Dados
 ## Speaker: Felippe Oliveira
 ## Title: Window function como podemos tirar proveito?
@@ -151,7 +152,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Desenvolvimento de Soft
 #  
 #### SessionID: 71801
 # SQL 2017 não é somente Linux, conheça as outras novidades!
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Administração de Banco de Dados
 ## Speaker: Felipe de Assis
 ## Title: SQL 2017 não é somente Linux, conheça as outras novidades!
@@ -160,7 +161,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Administração de Banc
 #  
 #### SessionID: 72601
 # Introdução ao SQL DataWarehouse
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Nuvem e Infraestrutura
 ## Speaker: Vitor Fava
 ## Title: Introdução ao SQL DataWarehouse
@@ -169,7 +170,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Nuvem e Infraestrutura
 #  
 #### SessionID: 72937
 # Machine Learning de caixinha?
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 ## Speaker: Diego Nogare
 ## Title: Machine Learning de caixinha?
@@ -178,7 +179,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 #  
 #### SessionID: 74435
 # SaaS, IaaS e PaaS, vamos conhecer essa sopa de letrinhas ?
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Nuvem e Infraestrutura
 ## Speaker: Tiago Neves
 ## Title: SaaS, IaaS e PaaS, vamos conhecer essa sopa de letrinhas ?
@@ -187,7 +188,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Nuvem e Infraestrutura
 #  
 #### SessionID: 76878
 # Carreiras - DBA, Cientista de Dados ou Engenheiro de Dados?
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Carreira
 ## Speaker: Advaldo Mesquita
 ## Title: Carreiras - DBA, Cientista de Dados ou Engenheiro de Dados?
@@ -197,7 +198,7 @@ E onde o DBA entra neste meio?
 #  
 #### SessionID: 70806
 # Machine Learning Services: Detecção de anomalias onde um desvio pode custar milhões
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 ## Speaker: Igor Santos de Paula
 ## Title: Machine Learning Services: Detecção de anomalias onde um desvio pode custar milhões
@@ -208,7 +209,7 @@ O objetivo é demonstrar as técnicas, algoritmos e ferramentas das Microsoft ut
 #  
 #### SessionID: 72848
 # Distributed Availability Groups - Quem? Quando? Onde? Por quê?
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Administração de Banco de Dados
 ## Speaker: Ricardo Leka
 ## Title: Distributed Availability Groups - Quem? Quando? Onde? Por quê?
@@ -219,7 +220,7 @@ Robusto, rápido, sem frescuras de fazer parte do mesmo FCI, vamos conhecer mais
 #  
 #### SessionID: 73997
 # Aspnet core + Linux + Sql Server + docker = Liberdade
-#### [Back to calendar](#SQLSaturday-#715-Belo-Horizonte-2018)
+#### [Back to calendar](#nr-715)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Desenvolvimento de Software e Banco de Dados
 ## Speaker: Albert Tanure
 ## Title: Aspnet core + Linux + Sql Server + docker = Liberdade

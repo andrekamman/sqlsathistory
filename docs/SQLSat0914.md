@@ -1,3 +1,4 @@
+#### Nr: 914
 #### [Back to Main list](index.md)
 # SQLSaturday #914 - Torun 2019
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 96246
 # Processing Large Tabular models with Analysis Services Partition Manager
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Łukasz Bielak
 ## Title: Processing Large Tabular models with Analysis Services Partition Manager
@@ -39,7 +40,7 @@ Session in Polish.
 #  
 #### SessionID: 96690
 # Wprowadzenie do SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Marek Maśko
 ## Title: Wprowadzenie do SQL Server Data Tools
@@ -50,7 +51,7 @@ Na tej sesji dowiesz się jakie funkcjonalności dostarcza SSDT, jak stworzyć n
 #  
 #### SessionID: 98113
 # Life on the Edge
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Emil Wasilewski
 ## Title: Life on the Edge
@@ -59,7 +60,7 @@ Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 98666
 # Metody wykrywania anomalii z zastosowaniem sieci LSTM
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Advanced Analysis  Machine Learning
 ## Speaker: Tomasz Cieplak
 ## Title: Metody wykrywania anomalii z zastosowaniem sieci LSTM
@@ -68,7 +69,7 @@ Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Advanced Analysis  Mach
 #  
 #### SessionID: 94727
 # AI and (Power) BI - Better Together
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Pawel Potasinski
 ## Title: AI and (Power) BI - Better Together
@@ -77,7 +78,7 @@ Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 95663
 # Hidden aspects of SQL Server
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Adrian Chodkowski
 ## Title: Hidden aspects of SQL Server
@@ -86,7 +87,7 @@ Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 96332
 # Creating data transformation in minutes with no code using Azure Data Factory with Data Flows
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Adam Marczak
 ## Title: Creating data transformation in minutes with no code using Azure Data Factory with Data Flows
@@ -96,7 +97,7 @@ This is also natural migration path for those working with SSIS.
 #  
 #### SessionID: 96481
 # Uczenie maszynowe – jak zacząć
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Advanced Analysis  Machine Learning
 ## Speaker: Patryk Miziuła
 ## Title: Uczenie maszynowe – jak zacząć
@@ -105,7 +106,7 @@ Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Advanced Analysis  Mach
 #  
 #### SessionID: 95102
 # AutoML at scale
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Advanced Analysis  Machine Learning
 ## Speaker: Marcin Szeliga
 ## Title: AutoML at scale
@@ -115,7 +116,7 @@ Existing automated machine learning (AutoML) techniques have been remarkably suc
 #  
 #### SessionID: 95667
 # Best Practices in SSIS
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tomasz Waloszek
 ## Title: Best Practices in SSIS
@@ -125,7 +126,7 @@ One of the most important features of SSIS is flexibility, which is also one of 
 #  
 #### SessionID: 96071
 # Docker for data amateur
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Sławomir Drzymała
 ## Title: Docker for data amateur
@@ -135,7 +136,7 @@ I will show you my journey, my thoughts and my findings regarding the usage of S
 #  
 #### SessionID: 96543
 # Mój własny wykres w Power BI
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Hubert Kobierzewski
 ## Title: Mój własny wykres w Power BI
@@ -144,7 +145,7 @@ Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 95586
 # Statystyki danych - czy to jest istotne?
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rafał Suchorski
 ## Title: Statystyki danych - czy to jest istotne?
@@ -155,7 +156,7 @@ Sesja pomyślana tak, by ilość slajdów ograniczyć do minimum i jak najwięce
 #  
 #### SessionID: 95622
 # How does the recursive CTE work?
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Bartosz Ratajczyk
 ## Title: How does the recursive CTE work?
@@ -166,7 +167,7 @@ If you want to know how does recursive CTE work internally, want to know more ab
 #  
 #### SessionID: 96727
 # Zaawansowane obchodzenie ograniczneń w Power BI. Komentarze do danych w real-time w bankingu.
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Michał Ćwiok
 ## Title: Zaawansowane obchodzenie ograniczneń w Power BI. Komentarze do danych w real-time w bankingu.
@@ -175,7 +176,7 @@ Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 96760
 # PowerBI Embedded: powerful analytics in your application
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jakub Wawrzyniak
 ## Title: PowerBI Embedded: powerful analytics in your application
@@ -186,7 +187,7 @@ Based on selected case studies, I will show you step by step on how to add data 
 #  
 #### SessionID: 95132
 # How to get the most from Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: How to get the most from Azure SQL Database
@@ -197,7 +198,7 @@ We will also see some ways to lower the costs or increase performance without ha
 #  
 #### SessionID: 95853
 # Database Adventure
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Chant
 ## Title: Database Adventure
@@ -208,7 +209,7 @@ Each selection will have a different outcome, and along the way you will probabl
 #  
 #### SessionID: 96565
 # DAX Filter Context
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Advanced Analysis  Machine Learning
 ## Speaker: Tomasz Gołaszewski
 ## Title: DAX Filter Context
@@ -218,7 +219,7 @@ Basing on queries and visualizations, playing with PowerBI and DAX studio, we wi
 #  
 #### SessionID: 96722
 # Query optimization on steroids with SQL Server 2017/2019
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Damian Widera
 ## Title: Query optimization on steroids with SQL Server 2017/2019
@@ -230,7 +231,7 @@ I would like to present both the AQP and IQP to show what you can expect in the 
 #  
 #### SessionID: 95866
 # Non-relational faces of SQL
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Natalia Świtalska
 ## Title: Non-relational faces of SQL
@@ -239,7 +240,7 @@ Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 96319
 # How to quickly cook a brand new visual for Power BI
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Grzegorz Stolecki
 ## Title: How to quickly cook a brand new visual for Power BI
@@ -248,7 +249,7 @@ Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 96548
 # Czy można nauczyć komputer znajdować budynki na zdjęciach satelitarnych?
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Advanced Analysis  Machine Learning
 ## Speaker: Andrzej Pyskir
 ## Title: Czy można nauczyć komputer znajdować budynki na zdjęciach satelitarnych?
@@ -257,7 +258,7 @@ Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Advanced Analysis  Mach
 #  
 #### SessionID: 98522
 # Availability Groups on Kubernetes in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#914-Torun-2019)
+#### [Back to calendar](#nr-914)
 Event Date: 28-09-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lukasz Kaluzny
 ## Title: Availability Groups on Kubernetes in SQL Server 2019

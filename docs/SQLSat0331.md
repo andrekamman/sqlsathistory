@@ -1,3 +1,4 @@
+#### Nr: 331
 #### [Back to Main list](index.md)
 # SQLSaturday #331 - Denver 2014
 Start Time (24h)|Speaker|Track|Title
@@ -46,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10599
 # VLDBs: Lessons Learned
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 5 - DBA 1
 ## Speaker: Bob Pusateri
 ## Title: VLDBs: Lessons Learned
@@ -55,7 +56,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 5 - DBA 1
 #  
 #### SessionID: 10871
 # SQL 2012 Extended Events
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 5 - DBA 1
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Extended Events
@@ -64,7 +65,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 5 - DBA 1
 #  
 #### SessionID: 11370
 # Get to Know HDInsight and Start Mining Big Data
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 2 - Business Intelligence
 ## Speaker: Carlos Bossy
 ## Title: Get to Know HDInsight and Start Mining Big Data
@@ -75,7 +76,7 @@ In this introductory session, you will learn the fundamentals of HDInsight and H
 #  
 #### SessionID: 11532
 # Ten T-SQL Techniques with Tally Tables
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 3 - T-SQL
 ## Speaker: Chris Hyde
 ## Title: Ten T-SQL Techniques with Tally Tables
@@ -84,7 +85,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 3 - T-SQL
 #  
 #### SessionID: 12612
 # SQL Server Virtualization 201
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 6 - DBA 2
 ## Speaker: David Klee
 ## Title: SQL Server Virtualization 201
@@ -93,7 +94,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 6 - DBA 2
 #  
 #### SessionID: 13184
 # Women in Tech Panel
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 7 - Professional Dev
 ## Speaker: Denver WIT
 ## Title: Women in Tech Panel
@@ -102,7 +103,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 7 - Professional 
 #  
 #### SessionID: 13683
 # Service Broker: The Queue Continuum
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 4 - DB Dev/DBA
 ## Speaker: Ed Leighton-Dick
 ## Title: Service Broker: The Queue Continuum
@@ -111,7 +112,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 4 - DB Dev/DBA
 #  
 #### SessionID: 14665
 # Power BI –  Cloud Self-Service BI
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 2 - Business Intelligence
 ## Speaker: Ginger Grant
 ## Title: Power BI –  Cloud Self-Service BI
@@ -120,7 +121,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 2 - Business Inte
 #  
 #### SessionID: 14696
 # Dr. DMV's Troubleshooting Toolkit
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 5 - DBA 1
 ## Speaker: Glenn Berry
 ## Title: Dr. DMV's Troubleshooting Toolkit
@@ -130,7 +131,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 5 - DBA 1
 #  
 #### SessionID: 15855
 # Cloudy with a Chance of SQL
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 4 - DB Dev/DBA
 ## Speaker: Jason Horner
 ## Title: Cloudy with a Chance of SQL
@@ -140,7 +141,7 @@ Let Microsoft Certified Master of SQL Server Jason Horner show you how to apply 
 #  
 #### SessionID: 16892
 # Introduction to Execution Plans  Query Tuning
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 8 - Half-Day
 ## Speaker: Jason Kassay
 ## Title: Introduction to Execution Plans  Query Tuning
@@ -149,7 +150,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 8 - Half-Day
 #  
 #### SessionID: 18440
 # T-SQL Window Function Performance
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 3 - T-SQL
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Performance
@@ -158,7 +159,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 3 - T-SQL
 #  
 #### SessionID: 18441
 # Writing Better T-SQL Queries with Window Functions
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 3 - T-SQL
 ## Speaker: Kathi Kellenberger
 ## Title: Writing Better T-SQL Queries with Window Functions
@@ -169,7 +170,7 @@ This session will teach you how to get great performance, avoid cursor solutions
 #  
 #### SessionID: 18862
 # SQL Server Backups and Restores A to Z
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 6 - DBA 2
 ## Speaker: Keith Tate
 ## Title: SQL Server Backups and Restores A to Z
@@ -180,7 +181,7 @@ The session will begin with the reasons why databases must be backed up (hint: t
 #  
 #### SessionID: 19144
 # Data Modeling 101
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 1 - Modeling/ETL
 ## Speaker: Leslie Weed
 ## Title: Data Modeling 101
@@ -191,7 +192,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 1 - Modeling/ETL
 #  
 #### SessionID: 19210
 # Choose Your Geospatial/Mapping Adventure
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 2 - Business Intelligence
 ## Speaker: Meagan Longoria
 ## Title: Choose Your Geospatial/Mapping Adventure
@@ -200,7 +201,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 2 - Business Inte
 #  
 #### SessionID: 19431
 # Getting started with Dimensional Modeling
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 1 - Modeling/ETL
 ## Speaker: Marc Beacom
 ## Title: Getting started with Dimensional Modeling
@@ -209,7 +210,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 1 - Modeling/ETL
 #  
 #### SessionID: 20597
 # SSIS Logging Reconsidered
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 1 - Modeling/ETL
 ## Speaker: Michael Sexton
 ## Title: SSIS Logging Reconsidered
@@ -218,7 +219,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 1 - Modeling/ETL
 #  
 #### SessionID: 22784
 # ETL with Microsoft Power Query for Excel
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 1 - Modeling/ETL
 ## Speaker: Reeves Smith
 ## Title: ETL with Microsoft Power Query for Excel
@@ -230,7 +231,7 @@ This session will demo the ease of the data extraction process in Power Query. W
 #  
 #### SessionID: 22932
 # Dashboards - More Than One Way To Visualize Data
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 2 - Business Intelligence
 ## Speaker: Jeff Renz
 ## Title: Dashboards - More Than One Way To Visualize Data
@@ -239,7 +240,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 2 - Business Inte
 #  
 #### SessionID: 23346
 # Revenge: The SQL! - Director's Cut
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 3 - T-SQL
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL! - Director's Cut
@@ -254,7 +255,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 23448
 # How to Pass Microsoft MCSA exams in Three Weeks
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 7 - Professional Dev
 ## Speaker: Rose Zarling
 ## Title: How to Pass Microsoft MCSA exams in Three Weeks
@@ -263,7 +264,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 7 - Professional 
 #  
 #### SessionID: 23760
 # SQL 2012 AlwaysOn Quickstart
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 5 - DBA 1
 ## Speaker: Ryan Adams
 ## Title: SQL 2012 AlwaysOn Quickstart
@@ -272,7 +273,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 5 - DBA 1
 #  
 #### SessionID: 24559
 # Get Testing with tSQLt
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 3 - T-SQL
 ## Speaker: Steve Jones
 ## Title: Get Testing with tSQLt
@@ -281,7 +282,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 3 - T-SQL
 #  
 #### SessionID: 24561
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 7 - Professional Dev
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -290,7 +291,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 7 - Professional 
 #  
 #### SessionID: 24615
 # Reporting Services In An AlwaysOn World
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 2 - Business Intelligence
 ## Speaker: Brandon Tucker
 ## Title: Reporting Services In An AlwaysOn World
@@ -299,7 +300,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 2 - Business Inte
 #  
 #### SessionID: 25152
 # Cardinality Estimates in Microsoft SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 6 - DBA 2
 ## Speaker: Thomas LaRock
 ## Title: Cardinality Estimates in Microsoft SQL Server 2014
@@ -308,7 +309,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 6 - DBA 2
 #  
 #### SessionID: 25937
 # Advanced Statistics Management: Setting Up SQL Server For Success
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 5 - DBA 1
 ## Speaker: Seth Washeck
 ## Title: Advanced Statistics Management: Setting Up SQL Server For Success
@@ -317,7 +318,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 5 - DBA 1
 #  
 #### SessionID: 26478
 # SQL Injection
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 4 - DB Dev/DBA
 ## Speaker: Kevin Boles
 ## Title: SQL Injection
@@ -326,7 +327,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 4 - DB Dev/DBA
 #  
 #### SessionID: 26565
 # Fun with Availability Groups
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 6 - DBA 2
 ## Speaker: Christopher Wolff
 ## Title: Fun with Availability Groups
@@ -335,7 +336,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 6 - DBA 2
 #  
 #### SessionID: 26634
 # Scripting in SSIS
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 1 - Modeling/ETL
 ## Speaker: Tim Mitchell
 ## Title: Scripting in SSIS
@@ -346,7 +347,7 @@ In this session, we will explore both the Script Task and Script Component tools
 #  
 #### SessionID: 26963
 # The Life Cycle of a Query in 3D
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 4 - DB Dev/DBA
 ## Speaker: Todd Kleinhans
 ## Title: The Life Cycle of a Query in 3D
@@ -355,7 +356,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 4 - DB Dev/DBA
 #  
 #### SessionID: 27540
 # Write Once, Build Many - Metadata Driven SSIS with Biml
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 1 - Modeling/ETL
 ## Speaker: Andy Vold
 ## Title: Write Once, Build Many - Metadata Driven SSIS with Biml
@@ -364,7 +365,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 1 - Modeling/ETL
 #  
 #### SessionID: 27764
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 4 - DB Dev/DBA
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -373,7 +374,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 4 - DB Dev/DBA
 #  
 #### SessionID: 27823
 # Read Dirty to Me - Isolation Levels/User Impact
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 6 - DBA 2
 ## Speaker: Wendy Pastrick
 ## Title: Read Dirty to Me - Isolation Levels/User Impact
@@ -382,7 +383,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 6 - DBA 2
 #  
 #### SessionID: 34785
 # Introduction to Powershell for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 8 - Half-Day
 ## Speaker: Michael Fal
 ## Title: Introduction to Powershell for the SQL Server DBA
@@ -398,7 +399,7 @@ This session is intended for database administrators of all levels who have mini
 #  
 #### SessionID: 8947
 # The Lost Science of Set Theory
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 3 - T-SQL
 ## Speaker: Aaron Cutshall
 ## Title: The Lost Science of Set Theory
@@ -407,7 +408,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 3 - T-SQL
 #  
 #### SessionID: 9070
 # SSAS Design and Performance Best Practices
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 2 - Business Intelligence
 ## Speaker: Alan Faulkner
 ## Title: SSAS Design and Performance Best Practices
@@ -416,7 +417,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 2 - Business Inte
 #  
 #### SessionID: 9411
 # Making the Leap from Developer to DBA
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 7 - Professional Dev
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
@@ -425,7 +426,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 7 - Professional 
 #  
 #### SessionID: 9614
 # Are You Maintaining Your SQL Servers?
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 4 - DB Dev/DBA
 ## Speaker: Andy Galbraith
 ## Title: Are You Maintaining Your SQL Servers?
@@ -434,7 +435,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 4 - DB Dev/DBA
 #  
 #### SessionID: 9854
 # I’m New, Select Me!
-#### [Back to calendar](#SQLSaturday-#331-Denver-2014)
+#### [Back to calendar](#nr-331)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track 6 - DBA 2
 ## Speaker: Thomas Norman
 ## Title: I’m New, Select Me!

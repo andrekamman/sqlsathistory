@@ -1,3 +1,4 @@
+#### Nr: 381
 #### [Back to Main list](index.md)
 # SQLSaturday #381 - Richmond 2015
 Start Time (24h)|Speaker|Track|Title
@@ -45,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10097
 # Performance Tuning Pit Stop for DBAs
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Ayman El-Ghazali
 ## Title: Performance Tuning Pit Stop for DBAs
@@ -55,7 +56,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 10105
 # Excel with DAX
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Azhagappan Arunachalam
 ## Title: Excel with DAX
@@ -64,7 +65,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 10893
 # Using Extended Events in SQL Server
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jason Brimhall
 ## Title: Using Extended Events in SQL Server
@@ -73,7 +74,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 11284
 # Hacking Exposé - Using SSL to Protect SQL Connections
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Chris Bell
 ## Title: Hacking Exposé - Using SSL to Protect SQL Connections
@@ -86,7 +87,7 @@ Using a simple hacking technique we will dig into some packets on our network an
 #  
 #### SessionID: 11531
 # Ten T-SQL Techniques with Tally Tables
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Chris Hyde
 ## Title: Ten T-SQL Techniques with Tally Tables
@@ -95,7 +96,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 12142
 # Query Compilation and Plan Caching
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Dale Burnett
 ## Title: Query Compilation and Plan Caching
@@ -104,7 +105,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12229
 # De-Mystifying SQL Server Statistics
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Dave Turpin
 ## Title: De-Mystifying SQL Server Statistics
@@ -115,7 +116,7 @@ This session will demonstrate how to determine if your statistics are current, h
 #  
 #### SessionID: 13413
 # Are Availability Groups a good fit for your database?
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Doug Purnell
 ## Title: Are Availability Groups a good fit for your database?
@@ -124,7 +125,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13479
 # How In-Memory Database Objects Affect Database Design
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Louis Davidson
 ## Title: How In-Memory Database Objects Affect Database Design
@@ -133,7 +134,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 14204
 # APPLY Yourself
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
@@ -142,7 +143,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14415
 # Dealing With Difficult People
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Gigi Bell
 ## Title: Dealing With Difficult People
@@ -151,7 +152,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 14427
 # Learn How To Build A Golden Record for Any Subject Over Lunch!
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Gene Webb
 ## Title: Learn How To Build A Golden Record for Any Subject Over Lunch!
@@ -165,7 +166,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14513
 # Scripting out  SQL Server for Documentation and Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: George Walkey
 ## Title: Scripting out  SQL Server for Documentation and Disaster Recovery
@@ -177,7 +178,7 @@ Objects exported include: SQL Agent Jobs/Alerts/Schedules, NT Service Credential
 #  
 #### SessionID: 14957
 # Basic Monitoring with Perfmon
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Rick Heiges
 ## Title: Basic Monitoring with Perfmon
@@ -186,7 +187,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 15636
 # What exactly is big data and why should I care?
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: James Serra
 ## Title: What exactly is big data and why should I care?
@@ -195,7 +196,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 15734
 # Query Tuning - Get it Right the First Time 
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Janis Griffin
 ## Title: Query Tuning - Get it Right the First Time 
@@ -206,7 +207,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 16671
 # Analysis Services: Multidimensional vs Tabular
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Jessica Moss
 ## Title: Analysis Services: Multidimensional vs Tabular
@@ -215,7 +216,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 16774
 # TempDB Parasites!
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Jason Hall
 ## Title: TempDB Parasites!
@@ -224,7 +225,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 16898
 # XQuery: get FLWORed
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Jennifer Kenney
 ## Title: XQuery: get FLWORed
@@ -233,7 +234,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 17260
 # Social Networking Is Alive!!!
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: John Morehouse
 ## Title: Social Networking Is Alive!!!
@@ -242,7 +243,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17581
 # Essential Policy-Based Management
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Justin Randall
 ## Title: Essential Policy-Based Management
@@ -251,7 +252,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 17813
 # Automated SQL Server installation and configuration using PowerShell
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Jamie Wick
 ## Title: Automated SQL Server installation and configuration using PowerShell
@@ -260,7 +261,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 18179
 # The Real Value of Name-Value Pairs: Using PIVOT and UNPIVOT 
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kevin Wilkie
 ## Title: The Real Value of Name-Value Pairs: Using PIVOT and UNPIVOT 
@@ -269,7 +270,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18234
 # Convince Me – Persuasion Techniques That Get Things Done
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kevin Kline
 ## Title: Convince Me – Persuasion Techniques That Get Things Done
@@ -285,7 +286,7 @@ Ever wanted to convince the boss try something new, but didn't know where to sta
 #  
 #### SessionID: 18579
 # Transactional Replication-10 steps for successful implementation
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Konstantin Melamud
 ## Title: Transactional Replication-10 steps for successful implementation
@@ -294,7 +295,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 18873
 # SSRS 101 to 301: Learn how to build Simple and Intermediate level SSRS Report
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ravi Kumar
 ## Title: SSRS 101 to 301: Learn how to build Simple and Intermediate level SSRS Report
@@ -303,7 +304,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20214
 # Making Predictions with Microsoft Data Mining Tools
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Mark Hudson
 ## Title: Making Predictions with Microsoft Data Mining Tools
@@ -312,7 +313,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 22078
 # Common Coding Mistakes and how to Mitigate them
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: William Wolf
 ## Title: Common Coding Mistakes and how to Mitigate them
@@ -321,7 +322,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 22216
 # ETL Design Topics - Staging
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Philip Noakes
 ## Title: ETL Design Topics - Staging
@@ -330,7 +331,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 22608
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -340,7 +341,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 23253
 # Know Your Role(s)!
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Robert Verell
 ## Title: Know Your Role(s)!
@@ -349,7 +350,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23911
 # From Zero to Loading a Data Warehouse
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Samuel Vanga
 ## Title: From Zero to Loading a Data Warehouse
@@ -358,7 +359,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 26637
 # Dealing with Dirty Data with SQL Server and SSIS
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Tim Mitchell
 ## Title: Dealing with Dirty Data with SQL Server and SSIS
@@ -369,7 +370,7 @@ In this session, we'll discuss some design patterns for addressing different typ
 #  
 #### SessionID: 26832
 # Audit Solutions using SQL Azure Database Audit  the SQL Server Audit Feature
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Timothy McAliley
 ## Title: Audit Solutions using SQL Azure Database Audit  the SQL Server Audit Feature
@@ -378,7 +379,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 27526
 # Charlie and the SQL Server Re-Fill Factory
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Slava Murygin
 ## Title: Charlie and the SQL Server Re-Fill Factory
@@ -388,7 +389,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 27750
 # Wheel of Doom
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Wayne Sheffield
 ## Title: Wheel of Doom
@@ -397,7 +398,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28243
 # Mobile Data Made Easy
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Hazzard
 ## Title: Mobile Data Made Easy
@@ -406,7 +407,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 34861
 # Supporting SharePoint and Project Server databases as SQL Server Database Administrator
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ram Saini
 ## Title: Supporting SharePoint and Project Server databases as SQL Server Database Administrator
@@ -415,7 +416,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9545
 # SSIS 2014 Data Flow Tuning Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Andy Leonard
 ## Title: SSIS 2014 Data Flow Tuning Tips and Tricks
@@ -424,7 +425,7 @@ Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 9851
 # I’m New, Select Me!
-#### [Back to calendar](#SQLSaturday-#381-Richmond-2015)
+#### [Back to calendar](#nr-381)
 Event Date: 21-03-2015 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Thomas Norman
 ## Title: I’m New, Select Me!

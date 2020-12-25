@@ -1,3 +1,4 @@
+#### Nr: 746
 #### [Back to Main list](index.md)
 # SQLSaturday #746 - Oslo 2018
 Start Time (24h)|Speaker|Track|Title
@@ -41,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 73255
 # Let the Cognitive Services to help you to find your favourite cocktail.
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Alexander Klein
 ## Title: Let the Cognitive Services to help you to find your favourite cocktail.
@@ -51,7 +52,7 @@ The Cogntive services offer here with face, emotion and recommendation three API
 #  
 #### SessionID: 73352
 # What are Azure SQL Database Managed Instances?
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Martin
 ## Title: What are Azure SQL Database Managed Instances?
@@ -64,7 +65,7 @@ But, what is the reality, how do we make use of it, and are there any gotcha’s
 #  
 #### SessionID: 73915
 # Create Stunning Visualizations with The Help of R
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Create Stunning Visualizations with The Help of R
@@ -73,7 +74,7 @@ Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 76867
 # T-SQL for dummies
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Dagrun Haugland
 ## Title: T-SQL for dummies
@@ -82,7 +83,7 @@ Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 78671
 # Developing Graph structures with the CosmosDB Gremlin API
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Terry McCann
 ## Title: Developing Graph structures with the CosmosDB Gremlin API
@@ -93,7 +94,7 @@ If you have looked at graph processing in SQL Server then you will know it has l
 #  
 #### SessionID: 80126
 # Getting To Know SQL Server Encryption Capabilities
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mladen Prajdić
 ## Title: Getting To Know SQL Server Encryption Capabilities
@@ -107,7 +108,7 @@ In this session we'll look at what SQL Server offers in this area:
 #  
 #### SessionID: 73901
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -120,7 +121,7 @@ Instead of focusing on syntax, the session will plunge straight into examples an
 #  
 #### SessionID: 74599
 # Data Protection  Privacy in the World of Database DevOps
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Data Protection  Privacy in the World of Database DevOps
@@ -129,7 +130,7 @@ Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 78032
 # Database Internals meets PowerBI
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Database Internals meets PowerBI
@@ -144,7 +145,7 @@ Rather than just talking about Fragmentation, Page Splits or Forwarded records, 
 #  
 #### SessionID: 78585
 # Select Stars: A SQL DBA's Introduction to Azure Cosmos DB
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bob Pusateri
 ## Title: Select Stars: A SQL DBA's Introduction to Azure Cosmos DB
@@ -153,7 +154,7 @@ Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 78637
 # Start testing your SSIS packages with ssisUnit
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Bartosz Ratajczyk
 ## Title: Start testing your SSIS packages with ssisUnit
@@ -164,7 +165,7 @@ On this session, I will show you why you should and how to start with automated 
 #  
 #### SessionID: 78705
 # Storytelling in Power BI with bookmarking, drilltrough, and custom visuals
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Ida Bergum
 ## Title: Storytelling in Power BI with bookmarking, drilltrough, and custom visuals
@@ -173,7 +174,7 @@ Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 73413
 # Azure Machine Learning 101
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kathi Kellenberger
 ## Title: Azure Machine Learning 101
@@ -182,7 +183,7 @@ Event Date: 01-09-2018 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 74601
 # Disaster Recovery and High Availability in Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Grant Fritchey
 ## Title: Disaster Recovery and High Availability in Azure SQL Database
@@ -191,7 +192,7 @@ Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 78640
 # Automate your SSIS Deployments with VSTS
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bob Duffy
 ## Title: Automate your SSIS Deployments with VSTS
@@ -208,7 +209,7 @@ Topics include:
 #  
 #### SessionID: 79985
 # How mature has SSAS Tabular mode become?
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gabi Münster
 ## Title: How mature has SSAS Tabular mode become?
@@ -220,7 +221,7 @@ This session will cover a more strategic point of view to both worlds with only 
 #  
 #### SessionID: 80049
 # Machine Learning and SQL Server - A match made in heaven?
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Martin Keseler Barland
 ## Title: Machine Learning and SQL Server - A match made in heaven?
@@ -229,7 +230,7 @@ Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 80633
 # Bringing DevOps to the Database
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steve Jones
 ## Title: Bringing DevOps to the Database
@@ -238,7 +239,7 @@ Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85485
 # Data Warehouse Automation - End-2-End in 20 min by TimeXtender
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: SQL Saturday Oslo Sponsor
 ## Title: Data Warehouse Automation - End-2-End in 20 min by TimeXtender
@@ -256,7 +257,7 @@ The session will include steps like:
 #  
 #### SessionID: 85490
 # The Importance of Data Lineage and Assurance Testing
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Other
 ## Speaker: John Martin
 ## Title: The Importance of Data Lineage and Assurance Testing
@@ -267,7 +268,7 @@ Join John Martin as he explains what these two concepts are, how they work, and 
 #  
 #### SessionID: 85535
 # Why Microsoft is building datacenters in Norway by MS Norge
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Other
 ## Speaker: SQL Saturday Oslo Sponsor
 ## Title: Why Microsoft is building datacenters in Norway by MS Norge
@@ -276,7 +277,7 @@ Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Other
 #  
 #### SessionID: 85412
 # A focus group: Data Science Readiness by Locke Data
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: SQL Saturday Oslo Sponsor
 ## Title: A focus group: Data Science Readiness by Locke Data
@@ -285,7 +286,7 @@ Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 85432
 # Azure database perfomance by dbWatch AS
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: SQL Saturday Oslo Sponsor
 ## Title: Azure database perfomance by dbWatch AS
@@ -302,7 +303,7 @@ Based on our measurements we have seen:
 #  
 #### SessionID: 85464
 # Fast  easy deploy of SSAS Tabular with Xpert BI by BI Builders
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Other
 ## Speaker: SQL Saturday Oslo Sponsor
 ## Title: Fast  easy deploy of SSAS Tabular with Xpert BI by BI Builders
@@ -313,7 +314,7 @@ This functionality does not require the rest of the DWH solution to be built wit
 #  
 #### SessionID: 76866
 # Python Machine Learning: Would you survive?
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dagrun Haugland
 ## Title: Python Machine Learning: Would you survive?
@@ -329,7 +330,7 @@ We will show how we use data about the passengers on the Titanic to find out wha
 #  
 #### SessionID: 77481
 # That's So Metadata: Discover Your Database From the Inside
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: That's So Metadata: Discover Your Database From the Inside
@@ -347,7 +348,7 @@ We'll also demonstrate the new SQL Data Discovery/Classification and Vulnerabili
 #  
 #### SessionID: 78031
 # GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Patrick Flynn
 ## Title: GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects
@@ -362,7 +363,7 @@ Based around personal experience of learning not to hate Source control, this se
 #  
 #### SessionID: 78828
 # Deep dive into Adaptive Query Processing
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hugo Kornelis
 ## Title: Deep dive into Adaptive Query Processing
@@ -375,7 +376,7 @@ If you are more interested in how all this ACTUALLY works than in shiny marketin
 #  
 #### SessionID: 78901
 # Biml for Beginners: Script and Automate SSIS Development
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Script and Automate SSIS Development
@@ -390,7 +391,7 @@ Stop wasting your valuable time on doing the same things over and over and over 
 #  
 #### SessionID: 82728
 # Data Science Fundamentals
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Stephanie Locke
 ## Title: Data Science Fundamentals
@@ -401,7 +402,7 @@ Let’s go behind the curtains and see the process and the fundamentals employed
 #  
 #### SessionID: 73251
 # dbachecks - The PowerShell Module to validate your SQL Estate
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Sewell
 ## Title: dbachecks - The PowerShell Module to validate your SQL Estate
@@ -423,7 +424,7 @@ Join one of the founders of the module, Rob Sewell MVP. and he will show you how
 #  
 #### SessionID: 77531
 # Modern Data Warehousing - The Lambda Approach to Azure BI
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Whiteley
 ## Title: Modern Data Warehousing - The Lambda Approach to Azure BI
@@ -436,7 +437,7 @@ We will follow the movement of data through batch and speed layers via Azure Dat
 #  
 #### SessionID: 77647
 # Azure Data Warehouse: Why, What and How
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Nico Jacobs
 ## Title: Azure Data Warehouse: Why, What and How
@@ -446,7 +447,7 @@ But to benefit from these performance improvements we need to implement our Azur
 #  
 #### SessionID: 78633
 # Databricks: the new kid in the block
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Antonio Abalos Castillo
 ## Title: Databricks: the new kid in the block
@@ -457,7 +458,7 @@ In this session we will review the current landscape for big data in Azure and h
 #  
 #### SessionID: 78707
 # Power BI - A look into the future with mixed reality
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Ida Bergum
 ## Title: Power BI - A look into the future with mixed reality
@@ -466,7 +467,7 @@ Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 80634
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#746-Oslo-2018)
+#### [Back to calendar](#nr-746)
 Event Date: 01-09-2018 - Session time: 15:50:00 - Track: Other
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job

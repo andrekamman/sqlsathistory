@@ -1,3 +1,4 @@
+#### Nr: 210
 #### [Back to Main list](index.md)
 # SQLSaturday #210 - Brisbane 2013
 Start Time (24h)|Speaker|Track|Title
@@ -17,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11986
 # Introducing Microsoft Data Explorer for Excel
-#### [Back to calendar](#SQLSaturday-#210-Brisbane-2013)
+#### [Back to calendar](#nr-210)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Craig Bryden
 ## Title: Introducing Microsoft Data Explorer for Excel
@@ -26,7 +27,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 14818
 # Windows Azure SQL Databases - Lessons Learned
-#### [Back to calendar](#SQLSaturday-#210-Brisbane-2013)
+#### [Back to calendar](#nr-210)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: SQL Server  Administration
 ## Speaker: Greg Low
 ## Title: Windows Azure SQL Databases - Lessons Learned
@@ -35,7 +36,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: SQL Server  Administrat
 #  
 #### SessionID: 14819
 # Understanding SQL Server Indexing
-#### [Back to calendar](#SQLSaturday-#210-Brisbane-2013)
+#### [Back to calendar](#nr-210)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: SQL Server  Administration
 ## Speaker: Greg Low
 ## Title: Understanding SQL Server Indexing
@@ -44,7 +45,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: SQL Server  Administrat
 #  
 #### SessionID: 20011
 # Agile BI with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#210-Brisbane-2013)
+#### [Back to calendar](#nr-210)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Mohamed Kabiruddin
 ## Title: Agile BI with SQL Server 2012
@@ -53,7 +54,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 21970
 # Big Data Analytics with PowerPivot and Power View
-#### [Back to calendar](#SQLSaturday-#210-Brisbane-2013)
+#### [Back to calendar](#nr-210)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Peter Myers
 ## Title: Big Data Analytics with PowerPivot and Power View
@@ -64,7 +65,7 @@ Demonstrations will include creating a big data solution by using HDInsight Serv
 #  
 #### SessionID: 21971
 # Introduction to SQL Server 2012 MDS and DQS
-#### [Back to calendar](#SQLSaturday-#210-Brisbane-2013)
+#### [Back to calendar](#nr-210)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Peter Myers
 ## Title: Introduction to SQL Server 2012 MDS and DQS
@@ -77,7 +78,7 @@ DQS is a new knowledge-driven data cleansing solution, and it supports building 
 #  
 #### SessionID: 22064
 # Finding the SQL Server Go-Faster Switch
-#### [Back to calendar](#SQLSaturday-#210-Brisbane-2013)
+#### [Back to calendar](#nr-210)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: SQL Server  Administration
 ## Speaker: Peter Ward
 ## Title: Finding the SQL Server Go-Faster Switch
@@ -86,7 +87,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: SQL Server  Administrat
 #  
 #### SessionID: 22065
 # Achieving Infinite Scale with HDInsight
-#### [Back to calendar](#SQLSaturday-#210-Brisbane-2013)
+#### [Back to calendar](#nr-210)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Peter Ward
 ## Title: Achieving Infinite Scale with HDInsight
@@ -95,7 +96,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 23379
 # Self-Service Business Analytics in 2013
-#### [Back to calendar](#SQLSaturday-#210-Brisbane-2013)
+#### [Back to calendar](#nr-210)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Rod Colledge
 ## Title: Self-Service Business Analytics in 2013
@@ -104,7 +105,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 27415
 # Windows Server 2012: How It Changes the "SQL Server Game"
-#### [Back to calendar](#SQLSaturday-#210-Brisbane-2013)
+#### [Back to calendar](#nr-210)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: SQL Server  Administration
 ## Speaker: Victor Isakov
 ## Title: Windows Server 2012: How It Changes the "SQL Server Game"
@@ -115,7 +116,7 @@ In this session Victor Isakov (MCA, MCM, MCT, MVP) will present a session on the
 #  
 #### SessionID: 27417
 # SQL Server Optimization: Tuning the Processor, RAM, Disk and Network Subsystems
-#### [Back to calendar](#SQLSaturday-#210-Brisbane-2013)
+#### [Back to calendar](#nr-210)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: SQL Server  Administration
 ## Speaker: Victor Isakov
 ## Title: SQL Server Optimization: Tuning the Processor, RAM, Disk and Network Subsystems
@@ -125,7 +126,7 @@ In this session Victor Isakov (MCA, MCM, MCT, MVP) will go through the various s
 #  
 #### SessionID: 27664
 # Pimp my Availability Groups
-#### [Back to calendar](#SQLSaturday-#210-Brisbane-2013)
+#### [Back to calendar](#nr-210)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: SQL Server  Administration
 ## Speaker: Warwick Rudd
 ## Title: Pimp my Availability Groups

@@ -1,3 +1,4 @@
+#### Nr: 657
 #### [Back to Main list](index.md)
 # SQLSaturday #657 - Gothenburg 2017
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 64559
 # SQL Server Problem Tombola
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stijn Wynants
 ## Title: SQL Server Problem Tombola
@@ -38,7 +39,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65028
 # Database tuning advisor vs. database management views
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Torsten Strauss
 ## Title: Database tuning advisor vs. database management views
@@ -49,7 +50,7 @@ You will learn the limitations of both approaches in order to avoid applying wro
 #  
 #### SessionID: 66963
 # Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Nico Jacobs
 ## Title: Azure Machine Learning
@@ -60,7 +61,7 @@ In this demo-oriented session you will see demonstrations of these three ways of
 #  
 #### SessionID: 69650
 # Idling for Performance?
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Peter Larsson
 ## Title: Idling for Performance?
@@ -71,7 +72,7 @@ In this presentation I will show you how to spot the performance blockers.
 #  
 #### SessionID: 64352
 # MPP – Master Parallel Productivity in Azure SQL DW
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Britton Gray
 ## Title: MPP – Master Parallel Productivity in Azure SQL DW
@@ -85,7 +86,7 @@ This session will also include some benchmarks and Power BI demos  with differen
 #  
 #### SessionID: 64411
 # Playground of cognitive services - Even big kids play here
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Alexander Klein
 ## Title: Playground of cognitive services - Even big kids play here
@@ -94,7 +95,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 65173
 # Abusing your SQL Server for fun and profit
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Alexander Arvidsson
 ## Title: Abusing your SQL Server for fun and profit
@@ -105,7 +106,7 @@ Join Alexander for a session of examples how developers can and do abuse SQL Ser
 #  
 #### SessionID: 69673
 # SQL DataFactory for heterogenous data source
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Mohamed Mawla
 ## Title: SQL DataFactory for heterogenous data source
@@ -114,7 +115,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 64367
 # Master Data Services: Unknown thus unloved
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Remko de Boer
 ## Title: Master Data Services: Unknown thus unloved
@@ -123,7 +124,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64428
 # Always On Multi-Site Patterns
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Strategy and Architecture
 ## Speaker: John Martin
 ## Title: Always On Multi-Site Patterns
@@ -136,7 +137,7 @@ All of these elements mean that it is more than just simple wizards to follow in
 #  
 #### SessionID: 65030
 # Index Fragmentation
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Torsten Strauss
 ## Title: Index Fragmentation
@@ -154,7 +155,7 @@ You will get a deep understanding of the reasons of fragmentation like
 #  
 #### SessionID: 65340
 # SQL Server on Linux - SQL Server goes cross platform!
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Williams
 ## Title: SQL Server on Linux - SQL Server goes cross platform!
@@ -191,7 +192,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64376
 # Azure SQL DWH: Tips and Tricks for developers
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL DWH: Tips and Tricks for developers
@@ -200,7 +201,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 66676
 # Management Studio level-up
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Daniel Hutmacher
 ## Title: Management Studio level-up
@@ -218,7 +219,7 @@ But I’m not going to sugarcoat it. Your code may still run slow, and you’ll 
 #  
 #### SessionID: 68716
 # Are Temporal Tables a useful feature?
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Uwe Ricken
 ## Title: Are Temporal Tables a useful feature?
@@ -227,7 +228,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 69475
 # GDPR for SQL Server
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Håkan Winther
 ## Title: GDPR for SQL Server
@@ -236,7 +237,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 64355
 # Hacking SQL Server
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server
@@ -250,7 +251,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #  
 #### SessionID: 64825
 # SSIS Custom Pipeline Component
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Arne Bartels
 ## Title: SSIS Custom Pipeline Component
@@ -259,7 +260,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 66256
 # When Things go Wrong - Error Handling in SQL Server
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: When Things go Wrong - Error Handling in SQL Server
@@ -270,7 +271,7 @@ This presentation starts with a horror show of the many different actions SQL Se
 #  
 #### SessionID: 66329
 # Power BI behind the scene: security and user management
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andrea Martorana Tusa
 ## Title: Power BI behind the scene: security and user management
@@ -285,7 +286,7 @@ Come to this session to discover what’s behind the scenes in Power BI and how 
 #  
 #### SessionID: 64375
 # Green is good, Red is bad - Turning your Checklists into Pester Tests
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Sewell
 ## Title: Green is good, Red is bad - Turning your Checklists into Pester Tests
@@ -300,7 +301,7 @@ After this session you will have a basic understanding of how Pester works and t
 #  
 #### SessionID: 64468
 # Discover the new graph features of SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Rudi Bruchez
 ## Title: Discover the new graph features of SQL Server 2017
@@ -309,7 +310,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 64929
 # Change Tracking: A Near Bullet-Proof ETL Synchronization Control
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mike Byrd
 ## Title: Change Tracking: A Near Bullet-Proof ETL Synchronization Control
@@ -318,7 +319,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67173
 # JSON before and after SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#657-Gothenburg-2017)
+#### [Back to calendar](#nr-657)
 Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Emanuele Zanchettin
 ## Title: JSON before and after SQL Server 2016

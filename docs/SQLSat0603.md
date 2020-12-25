@@ -1,3 +1,4 @@
+#### Nr: 603
 #### [Back to Main list](index.md)
 # SQLSaturday #603 - Dallas - BI Edition 2017
 Start Time (24h)|Speaker|Track|Title
@@ -19,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 57098
 # Create a Data Loading Strategy
-#### [Back to calendar](#SQLSaturday-#603-Dallas-BI-Edition-2017)
+#### [Back to calendar](#nr-603)
 Event Date: 04-03-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Casey
 ## Title: Create a Data Loading Strategy
@@ -37,7 +38,7 @@ This session uses a Virtual Sandbox to demonstrate “real” data loads using t
 #  
 #### SessionID: 57162
 # Intro to Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#603-Dallas-BI-Edition-2017)
+#### [Back to calendar](#nr-603)
 Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Shawn Weisfeld
 ## Title: Intro to Azure SQL Data Warehouse
@@ -46,7 +47,7 @@ Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 57273
 # R For the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#603-Dallas-BI-Edition-2017)
+#### [Back to calendar](#nr-603)
 Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
@@ -55,7 +56,7 @@ Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 57095
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#603-Dallas-BI-Edition-2017)
+#### [Back to calendar](#nr-603)
 Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -64,7 +65,7 @@ Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 57517
 # Azure Machine Learning: From Design to Integration
-#### [Back to calendar](#SQLSaturday-#603-Dallas-BI-Edition-2017)
+#### [Back to calendar](#nr-603)
 Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Peter Myers
 ## Title: Azure Machine Learning: From Design to Integration
@@ -77,7 +78,7 @@ This session has been specifically designed to describe Machine Learning fundame
 #  
 #### SessionID: 61233
 # Azure SQL Databases - There's room for Azure in your BI solutions
-#### [Back to calendar](#SQLSaturday-#603-Dallas-BI-Edition-2017)
+#### [Back to calendar](#nr-603)
 Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mike Walsh
 ## Title: Azure SQL Databases - There's room for Azure in your BI solutions
@@ -90,7 +91,7 @@ This session will give you a gentle and guided intro. We'll have a few slides, b
 #  
 #### SessionID: 62914
 # Agile Data Warehouse and ETL Design with Biml
-#### [Back to calendar](#SQLSaturday-#603-Dallas-BI-Edition-2017)
+#### [Back to calendar](#nr-603)
 Event Date: 04-03-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: Agile Data Warehouse and ETL Design with Biml
@@ -99,7 +100,7 @@ Event Date: 04-03-2017 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 62746
 # Dynamic Data Flows in SSIS without Programming
-#### [Back to calendar](#SQLSaturday-#603-Dallas-BI-Edition-2017)
+#### [Back to calendar](#nr-603)
 Event Date: 04-03-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: Dynamic Data Flows in SSIS without Programming
@@ -114,7 +115,7 @@ Furthermore, the initial design time and effort may be greatly reduced when deal
 #  
 #### SessionID: 58290
 # Querying Semistructured Data in Azure Data Lake with USQL
-#### [Back to calendar](#SQLSaturday-#603-Dallas-BI-Edition-2017)
+#### [Back to calendar](#nr-603)
 Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Russel Loski
 ## Title: Querying Semistructured Data in Azure Data Lake with USQL
@@ -123,7 +124,7 @@ Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 61088
 # Rent-a-Cube: Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#603-Dallas-BI-Edition-2017)
+#### [Back to calendar](#nr-603)
 Event Date: 04-03-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Greg Galloway
 ## Title: Rent-a-Cube: Azure Analysis Services
@@ -134,7 +135,7 @@ This demo-heavy session will deep dive into the new cloud version of Analysis Se
 #  
 #### SessionID: 61826
 # Deep Dive into the SSIS Catalog
-#### [Back to calendar](#SQLSaturday-#603-Dallas-BI-Edition-2017)
+#### [Back to calendar](#nr-603)
 Event Date: 04-03-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Deep Dive into the SSIS Catalog
@@ -145,7 +146,7 @@ In this demo-heavy presentation, we will dive into the details of the SSIS catal
 #  
 #### SessionID: 57101
 # Azure SQL Database - Lessons learned from the trenches
-#### [Back to calendar](#SQLSaturday-#603-Dallas-BI-Edition-2017)
+#### [Back to calendar](#nr-603)
 Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Roberto Cavalcanti
 ## Title: Azure SQL Database - Lessons learned from the trenches
@@ -154,7 +155,7 @@ Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 61123
 # From problem to Power BI:  A journey in data visualization
-#### [Back to calendar](#SQLSaturday-#603-Dallas-BI-Edition-2017)
+#### [Back to calendar](#nr-603)
 Event Date: 04-03-2017 - Session time: 15:15:00 - Track: BI Information Delivery
 ## Speaker: Jonathan Stewart
 ## Title: From problem to Power BI:  A journey in data visualization
@@ -163,7 +164,7 @@ Event Date: 04-03-2017 - Session time: 15:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 61812
 # Using a gateway to leverage on-premises data in Power BI
-#### [Back to calendar](#SQLSaturday-#603-Dallas-BI-Edition-2017)
+#### [Back to calendar](#nr-603)
 Event Date: 04-03-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Adam Saxton
 ## Title: Using a gateway to leverage on-premises data in Power BI

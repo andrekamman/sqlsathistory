@@ -1,3 +1,4 @@
+#### Nr: 517
 #### [Back to Main list](index.md)
 # SQLSaturday #517 - Philadelphia 2016
 Start Time (24h)|Speaker|Track|Title
@@ -48,7 +49,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 45115
 # 3 Ways for Getting Data from SharePoint : SSIS, Excel and Access
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Development
 ## Speaker: David Patrick
 ## Title: 3 Ways for Getting Data from SharePoint : SSIS, Excel and Access
@@ -57,7 +58,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 45124
 # Buffer Pool Memory Management
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Steve Hood
 ## Title: Buffer Pool Memory Management
@@ -66,7 +67,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 45135
 # Optimizing SQL Server and Databases for large Fact Tables
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Thomas Grohser
 ## Title: Optimizing SQL Server and Databases for large Fact Tables
@@ -77,7 +78,7 @@ We will also as a side effect explore the Mary Go Round query feature and find w
 #  
 #### SessionID: 45192
 # Tips that have saved my bacon
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Greg Moore
 ## Title: Tips that have saved my bacon
@@ -90,7 +91,7 @@ Everyone knows log-shipping is great for DR recovery, but what about using it fo
 #  
 #### SessionID: 46782
 # Microsoft Business Intelligence 2016 – More Love for Your Data
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: SQL Server 2016
 ## Speaker: Tamera Clark
 ## Title: Microsoft Business Intelligence 2016 – More Love for Your Data
@@ -99,7 +100,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: SQL Server 2016
 #  
 #### SessionID: 48791
 # Social DBA
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Robert Pearl
 ## Title: Social DBA
@@ -108,7 +109,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 50500
 # Security Investments in SQL Server 2016  Azure SQL Database Service
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: SQL Server 2016
 ## Speaker: Bill Emmert
 ## Title: Security Investments in SQL Server 2016  Azure SQL Database Service
@@ -123,7 +124,7 @@ The SQL Platform provides a secure and trusted platform for all database applica
 #  
 #### SessionID: 45393
 # Big data architectures and the data lake
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: James Serra
 ## Title: Big data architectures and the data lake
@@ -132,7 +133,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 46991
 # Who's Pissing in Your Data Lake?
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Development
 ## Speaker: Karen Lopez
 ## Title: Who's Pissing in Your Data Lake?
@@ -141,7 +142,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 48643
 # Crazy Things Developers Do
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Development
 ## Speaker: Wayne Sheffield
 ## Title: Crazy Things Developers Do
@@ -150,7 +151,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 48838
 # Disaster Recovery Options with Azure
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Azure/Misc
 ## Speaker: Carlos L Chacon
 ## Title: Disaster Recovery Options with Azure
@@ -159,7 +160,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Azure/Misc
 #  
 #### SessionID: 49349
 # Deploy Highly Available SQL Server for Virtualization  the Cloud
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Allan Hirt
 ## Title: Deploy Highly Available SQL Server for Virtualization  the Cloud
@@ -168,7 +169,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 49454
 # The Phenomenal IT Consultant
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Sebastian Meine
 ## Title: The Phenomenal IT Consultant
@@ -183,7 +184,7 @@ Join this session and get started on your way to becoming a Phenomenal IT Consul
 #  
 #### SessionID: 45146
 # Successfully Virtualizing SQL Server on vSphere - Straight from t
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from t
@@ -192,7 +193,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 45185
 # Azure Machine Learning – Bringing Advanced Analytics to the Masses
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Azure/Misc
 ## Speaker: Dan Clark
 ## Title: Azure Machine Learning – Bringing Advanced Analytics to the Masses
@@ -201,7 +202,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Azure/Misc
 #  
 #### SessionID: 47453
 # Dealing With Difficult Co-Workers
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Gigi Bell
 ## Title: Dealing With Difficult Co-Workers
@@ -211,7 +212,7 @@ Through case studies and open discussion, we will help you determine how (and if
 #  
 #### SessionID: 48425
 # New Instance, Now what?
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Jim Donahoe
 ## Title: New Instance, Now what?
@@ -225,7 +226,7 @@ By the end of this session, you will have developed a pallet of tools to help yo
 #  
 #### SessionID: 48646
 # Table Vars and Temp Tables – What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Development
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars and Temp Tables – What you NEED to Know!
@@ -234,7 +235,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 49623
 # SQL Server 2016 "Hidden Gems"
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: SQL Server 2016
 ## Speaker: Adam Machanic
 ## Title: SQL Server 2016 "Hidden Gems"
@@ -243,7 +244,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: SQL Server 2016
 #  
 #### SessionID: 49924
 # Extending PowerBI
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Mark Wojciechowicz
 ## Title: Extending PowerBI
@@ -255,7 +256,7 @@ With PowerBI, we can easily create intuitive reports and dashboards.  This highl
 #  
 #### SessionID: 50106
 # Architecting virtual SQL server for performance 
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Niran Even-Chen
 ## Title: Architecting virtual SQL server for performance 
@@ -265,7 +266,7 @@ Still, many IT architects and DBA's are hesitant of virtualizing their SQL workl
 #  
 #### SessionID: 50792
 # Row Level Security in the BI Environment
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Vince Napoli
 ## Title: Row Level Security in the BI Environment
@@ -274,7 +275,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 50931
 # Optimizing SQL Server on VMWare
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Joseph D'Antoni
 ## Title: Optimizing SQL Server on VMWare
@@ -283,7 +284,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 51166
 # MVP Systems Software--Jams Tool
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Azure/Misc
 ## Speaker: Joseph D'Antoni
 ## Title: MVP Systems Software--Jams Tool
@@ -292,7 +293,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Azure/Misc
 #  
 #### SessionID: 45838
 # Common Coding Mistakes and How to Mitigate them
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Development
 ## Speaker: William Wolf
 ## Title: Common Coding Mistakes and How to Mitigate them
@@ -307,7 +308,7 @@ After this session, you can go back to your office Monday morning and be the cod
 #  
 #### SessionID: 47056
 # Always-On Availability Groups: Replicas, Listeners  Quorums, Oh My!
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Kevin Howell
 ## Title: Always-On Availability Groups: Replicas, Listeners  Quorums, Oh My!
@@ -316,7 +317,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 49192
 # The New SQL Server 2016 Query Store
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: SQL Server 2016
 ## Speaker: Sharon Dooley
 ## Title: The New SQL Server 2016 Query Store
@@ -330,7 +331,7 @@ This presentation assumes a knowledge of database performance tuning, query plan
 #  
 #### SessionID: 49354
 # SQL Professional: How to get a new job?
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Slava Murygin
 ## Title: SQL Professional: How to get a new job?
@@ -345,7 +346,7 @@ You have to be always ready for it and I will show you how.
 #  
 #### SessionID: 49380
 # PolyBase: I now pronounce you SQL and Hadoop
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: SQL Server 2016
 ## Speaker: Ayman El-Ghazali
 ## Title: PolyBase: I now pronounce you SQL and Hadoop
@@ -354,7 +355,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: SQL Server 2016
 #  
 #### SessionID: 49627
 # Table Indexing for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
@@ -363,7 +364,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 45678
 # Demystifying Data Compression
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Andy Mallon
 ## Title: Demystifying Data Compression
@@ -372,7 +373,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 46831
 # An Introduction to Always Encrypted
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: SQL Server 2016
 ## Speaker: Justin Dearing
 ## Title: An Introduction to Always Encrypted
@@ -381,7 +382,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: SQL Server 2016
 #  
 #### SessionID: 47351
 # Would You Just Load Already?!  Maximizing Your SSIS Data Load
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Chris Bell
 ## Title: Would You Just Load Already?!  Maximizing Your SSIS Data Load
@@ -393,7 +394,7 @@ In this session you will learn a simple method to load data via SSIS and identif
 #  
 #### SessionID: 48127
 # DevOps Is Coming to an Enterprise near You
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Development
 ## Speaker: Denis McDowell
 ## Title: DevOps Is Coming to an Enterprise near You
@@ -402,7 +403,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 48592
 # Disaster Documents: The role of documentation in disaster recovery
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Disaster Documents: The role of documentation in disaster recovery
@@ -413,7 +414,7 @@ While other disaster recovery presentations talk about strategies, plans, and te
 #  
 #### SessionID: 49023
 # Getting Started with Extended Events
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Andy Galbraith
 ## Title: Getting Started with Extended Events
@@ -426,7 +427,7 @@ Come learn how to get started - the basics of sessions, events, actions, targets
 #  
 #### SessionID: 45556
 # 10 Things Administrators of BI Systems Should Know
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Robert Davis
 ## Title: 10 Things Administrators of BI Systems Should Know
@@ -437,7 +438,7 @@ Fortunately, I've been administering BI systems for several years, and I have le
 #  
 #### SessionID: 46379
 # DMVs and system objects that every DBA should know
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Alex Grinberg
 ## Title: DMVs and system objects that every DBA should know
@@ -446,7 +447,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 49287
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Development
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -456,7 +457,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 49391
 # SSIS Optimization techniques
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Daniel Bowlin
 ## Title: SSIS Optimization techniques
@@ -465,7 +466,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 49432
 # In-Memory Technology in SQL 2016 (Columnstore Indexes and In-Memory Tables)
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: SQL Server 2016
 ## Speaker: Kevin Goff
 ## Title: In-Memory Technology in SQL 2016 (Columnstore Indexes and In-Memory Tables)
@@ -475,7 +476,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: SQL Server 2016
 #  
 #### SessionID: 49628
 # New Engine Features in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: SQL Server 2016
 ## Speaker: Kerry Tyler
 ## Title: New Engine Features in SQL Server 2016
@@ -484,7 +485,7 @@ Event Date: 04-06-2016 - Session time: 16:00:00 - Track: SQL Server 2016
 #  
 #### SessionID: 50930
 # Parsing T-SQL using the TransactSql.ScriptDom library (C#)
-#### [Back to calendar](#SQLSaturday-#517-Philadelphia-2016)
+#### [Back to calendar](#nr-517)
 Event Date: 04-06-2016 - Session time: 16:00:00 - Track: Development
 ## Speaker: Dominic Falso
 ## Title: Parsing T-SQL using the TransactSql.ScriptDom library (C#)

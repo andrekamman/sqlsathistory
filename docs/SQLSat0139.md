@@ -1,3 +1,4 @@
+#### Nr: 139
 #### [Back to Main list](index.md)
 # SQLSaturday #139 - Adelaide 2012
 Start Time (24h)|Speaker|Track|Title
@@ -15,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11135
 # LightSwitch 2011 application development
-#### [Back to calendar](#SQLSaturday-#139-Adelaide-2012)
+#### [Back to calendar](#nr-139)
 Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andrew Butenko
 ## Title: LightSwitch 2011 application development
@@ -24,7 +25,7 @@ Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21518
 # DBCA - Database Consolidation Appliance
-#### [Back to calendar](#SQLSaturday-#139-Adelaide-2012)
+#### [Back to calendar](#nr-139)
 Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Raja N
 ## Title: DBCA - Database Consolidation Appliance
@@ -41,7 +42,7 @@ Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21881
 # Query Optimizer Deep Dive Pt2
-#### [Back to calendar](#SQLSaturday-#139-Adelaide-2012)
+#### [Back to calendar](#nr-139)
 Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Paul White
 ## Title: Query Optimizer Deep Dive Pt2
@@ -50,7 +51,7 @@ Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21882
 # Query Optimizer Deep Dive Pt1
-#### [Back to calendar](#SQLSaturday-#139-Adelaide-2012)
+#### [Back to calendar](#nr-139)
 Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Paul White
 ## Title: Query Optimizer Deep Dive Pt1
@@ -59,7 +60,7 @@ Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22058
 # If you had $10K what would you spend it on?
-#### [Back to calendar](#SQLSaturday-#139-Adelaide-2012)
+#### [Back to calendar](#nr-139)
 Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Peter Ward
 ## Title: If you had $10K what would you spend it on?
@@ -69,7 +70,7 @@ Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 22059
 # The Dark Art of Performance Tuning
-#### [Back to calendar](#SQLSaturday-#139-Adelaide-2012)
+#### [Back to calendar](#nr-139)
 Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Peter Ward
 ## Title: The Dark Art of Performance Tuning
@@ -78,7 +79,7 @@ Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 22382
 # Tabular Modelling and Design Concepts
-#### [Back to calendar](#SQLSaturday-#139-Adelaide-2012)
+#### [Back to calendar](#nr-139)
 Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Paul te Braak
 ## Title: Tabular Modelling and Design Concepts
@@ -87,7 +88,7 @@ Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23181
 # The MERGE Statement - T-SQL's Swiss Army Knife
-#### [Back to calendar](#SQLSaturday-#139-Adelaide-2012)
+#### [Back to calendar](#nr-139)
 Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rob Farley
 ## Title: The MERGE Statement - T-SQL's Swiss Army Knife
@@ -96,7 +97,7 @@ Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23183
 # Analytic T-SQL Functions in 2012
-#### [Back to calendar](#SQLSaturday-#139-Adelaide-2012)
+#### [Back to calendar](#nr-139)
 Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rob Farley
 ## Title: Analytic T-SQL Functions in 2012
@@ -105,7 +106,7 @@ Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23412
 # Visualising  your data with PivotViewer
-#### [Back to calendar](#SQLSaturday-#139-Adelaide-2012)
+#### [Back to calendar](#nr-139)
 Event Date: 24-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Roger Noble
 ## Title: Visualising  your data with PivotViewer

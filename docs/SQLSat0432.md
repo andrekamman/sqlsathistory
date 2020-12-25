@@ -1,3 +1,4 @@
+#### Nr: 432
 #### [Back to Main list](index.md)
 # SQLSaturday #432 - Cape Town 2015
 Start Time (24h)|Speaker|Track|Title
@@ -31,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 36299
 # Designing and Building SQL Database Apps for IoT Scenarios
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Peter Willmot
 ## Title: Designing and Building SQL Database Apps for IoT Scenarios
@@ -40,7 +41,7 @@ Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 39442
 # Complex Event Processing with Azure Stream Analytics
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Mihail Mateev
 ## Title: Complex Event Processing with Azure Stream Analytics
@@ -55,7 +56,7 @@ This talk is about the main concepts and solution architecture when using Azure 
 #  
 #### SessionID: 39717
 # Dynamic Management Views and Functions - a Practical Overview
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Sean Cremer
 ## Title: Dynamic Management Views and Functions - a Practical Overview
@@ -67,7 +68,7 @@ This session will cover the more commonly used Dynamic Management Views and intr
 #  
 #### SessionID: 40630
 # WomeninTechZA One Year On
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Other
 ## Speaker: Samantha Perry
 ## Title: WomeninTechZA One Year On
@@ -78,7 +79,7 @@ One year on from WomeninTechZA's launch and much has changed in the tech sector,
 #  
 #### SessionID: 36256
 # SQL Server Reporting Services 2014 on Steroids!!
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2014 on Steroids!!
@@ -91,7 +92,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #  
 #### SessionID: 36263
 # Business Analytics with SQL Server  Power Map:
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Steve Simon
 ## Title: Business Analytics with SQL Server  Power Map:
@@ -101,7 +102,7 @@ In the hands-on presentation we shall be constructing a few simple analytic repo
 #  
 #### SessionID: 37605
 # Real World Error Handling in SQL Server
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Niels Berglund
 ## Title: Real World Error Handling in SQL Server
@@ -111,7 +112,7 @@ However, in the "real world" it may not be so straight forward as just using thi
 #  
 #### SessionID: 37953
 # Microsoft Machine Learning Overview
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Gary Hope
 ## Title: Microsoft Machine Learning Overview
@@ -120,7 +121,7 @@ Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 38098
 # RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works.
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Arnie Rowland
 ## Title: RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works.
@@ -129,7 +130,7 @@ Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 38960
 # What's New for SQL Developers in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Niels Berglund
 ## Title: What's New for SQL Developers in SQL Server 2016
@@ -140,7 +141,7 @@ Things we will look at is:  improvements to In-Memory OLTP (the "artist" formerl
 #  
 #### SessionID: 38822
 # A practical guide to Windows Azure SQL Database for the DBA
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Gareth Swanepoel
 ## Title: A practical guide to Windows Azure SQL Database for the DBA
@@ -150,7 +151,7 @@ If you are a production DBA and have contemplated one or more of these questions
 #  
 #### SessionID: 36274
 # They said Select * was bad but...
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Other
 ## Speaker: Gordon Beeming
 ## Title: They said Select * was bad but...
@@ -159,7 +160,7 @@ Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 39723
 # tSQLt - Database Unit Testing
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Clinton van Blommestein
 ## Title: tSQLt - Database Unit Testing
@@ -179,7 +180,7 @@ We will go through setting up the framework, how to write tests and run them - e
 #  
 #### SessionID: 40445
 # Automating your data-warehouse development with BIML
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael Johnson
 ## Title: Automating your data-warehouse development with BIML
@@ -188,7 +189,7 @@ Event Date: 12-09-2015 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 40481
 # Dynamic SQL, not so scary?
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Trevor Makoni
 ## Title: Dynamic SQL, not so scary?
@@ -201,7 +202,7 @@ I will also look at how to store the result of a SQL select into a .NET Data Tab
 #  
 #### SessionID: 36302
 # Dashboard DAX
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Toufiq Abrahams
 ## Title: Dashboard DAX
@@ -210,7 +211,7 @@ Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 38132
 # Lies, Damned Lies And Statistics
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gail Shaw
 ## Title: Lies, Damned Lies And Statistics
@@ -223,7 +224,7 @@ Finally we'll cover some suggestions and options around maintenance of statistic
 #  
 #### SessionID: 38133
 # Backups? What backups?
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gail Shaw
 ## Title: Backups? What backups?
@@ -238,7 +239,7 @@ We’ll look at transaction log backups, at why they are an essential part of th
 #  
 #### SessionID: 38714
 # Introduction to DataZen
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Toufiq Abrahams
 ## Title: Introduction to DataZen
@@ -251,7 +252,7 @@ Walk away from this session confident that you can boost your BI presence with D
 #  
 #### SessionID: 38823
 # SQL Server 2014 for the DBA 
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gareth Swanepoel
 ## Title: SQL Server 2014 for the DBA 
@@ -261,7 +262,7 @@ The target of this session is SQL Server DBA’s, developers, architects or IT p
 #  
 #### SessionID: 39439
 # Dealing with Entity Framework 7
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Mihail Mateev
 ## Title: Dealing with Entity Framework 7
@@ -275,7 +276,7 @@ This talk is about new features in Microsoft Entity Framework 7 - access to data
 #  
 #### SessionID: 39487
 # Life saver - Resource Governor for applications  reporting
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Life saver - Resource Governor for applications  reporting
@@ -288,7 +289,7 @@ You can take away working scripts, functions, tools to make a Resource Governor 
 #  
 #### SessionID: 39180
 # Data Warehouse Schema Design and Evolution
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sandesh Nagaraj
 ## Title: Data Warehouse Schema Design and Evolution
@@ -308,7 +309,7 @@ And lastly discuss around the common schema design roadblocks that people face l
 #  
 #### SessionID: 39486
 # What is Power BI capable of in azure?
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: What is Power BI capable of in azure?
@@ -323,7 +324,7 @@ Take away a mind blowing experience on the unbelievable possibilities which will
 #  
 #### SessionID: 39517
 # DBA Guide to Extended Events
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Neil Hambly
 ## Title: DBA Guide to Extended Events
@@ -334,7 +335,7 @@ This session is focused to make you Effective with Extended Events, find out how
 #  
 #### SessionID: 40642
 # R Language Modules in Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#432-Cape-Town-2015)
+#### [Back to calendar](#nr-432)
 Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Stiaan Maree
 ## Title: R Language Modules in Azure Machine Learning

@@ -1,3 +1,4 @@
+#### Nr: 316
 #### [Back to Main list](index.md)
 # SQLSaturday #316 - Christchurch 2014
 Start Time (24h)|Speaker|Track|Title
@@ -15,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10718
 # SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#316-Christchurch-2014)
+#### [Back to calendar](#nr-316)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Enterprise DBA
 ## Speaker: Brent McCracken
 ## Title: SQL Server 2014
@@ -26,7 +27,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Enterprise DBA
 #  
 #### SessionID: 19780
 # Meet The Masters / Ask The Experts(Rob Farley, Brent McCraken , Warwick Rudd, Dave Dustin, Reza Rad)
-#### [Back to calendar](#SQLSaturday-#316-Christchurch-2014)
+#### [Back to calendar](#nr-316)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Martin Catherall
 ## Title: Meet The Masters / Ask The Experts(Rob Farley, Brent McCraken , Warwick Rudd, Dave Dustin, Reza Rad)
@@ -37,7 +38,7 @@ Look forward to seeing you all there.
 #  
 #### SessionID: 19783
 # Metadata Driven SSIS With Biml
-#### [Back to calendar](#SQLSaturday-#316-Christchurch-2014)
+#### [Back to calendar](#nr-316)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BIML
 ## Speaker: Peter Avenant
 ## Title: Metadata Driven SSIS With Biml
@@ -46,7 +47,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BIML
 #  
 #### SessionID: 19784
 # Real-World Biml Framework (Yours For The Taking)
-#### [Back to calendar](#SQLSaturday-#316-Christchurch-2014)
+#### [Back to calendar](#nr-316)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BIML
 ## Speaker: Peter Avenant
 ## Title: Real-World Biml Framework (Yours For The Taking)
@@ -56,7 +57,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BIML
 #  
 #### SessionID: 19785
 # Fast Track Your BI Projects With Biml
-#### [Back to calendar](#SQLSaturday-#316-Christchurch-2014)
+#### [Back to calendar](#nr-316)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BIML
 ## Speaker: Peter Avenant
 ## Title: Fast Track Your BI Projects With Biml
@@ -65,7 +66,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BIML
 #  
 #### SessionID: 23231
 # SARGability
-#### [Back to calendar](#SQLSaturday-#316-Christchurch-2014)
+#### [Back to calendar](#nr-316)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Rob Farley
 ## Title: SARGability
@@ -74,7 +75,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 24446
 # (Unusual) Problem solving with SSIS scripts
-#### [Back to calendar](#SQLSaturday-#316-Christchurch-2014)
+#### [Back to calendar](#nr-316)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Simon Peck
 ## Title: (Unusual) Problem solving with SSIS scripts
@@ -87,7 +88,7 @@ During this session we’ll explore and solve some interesting real life scenari
 #  
 #### SessionID: 27657
 # Performance Eye for the SQL Guy
-#### [Back to calendar](#SQLSaturday-#316-Christchurch-2014)
+#### [Back to calendar](#nr-316)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Enterprise DBA
 ## Speaker: Warwick Rudd
 ## Title: Performance Eye for the SQL Guy
@@ -96,7 +97,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Enterprise DBA
 #  
 #### SessionID: 27658
 # Hitch Hikers Guide to High Availability
-#### [Back to calendar](#SQLSaturday-#316-Christchurch-2014)
+#### [Back to calendar](#nr-316)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Enterprise DBA
 ## Speaker: Warwick Rudd
 ## Title: Hitch Hikers Guide to High Availability
@@ -105,7 +106,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Enterprise DBA
 #  
 #### SessionID: 8774
 # ETL Architecture for Solving Data Warehouse Challenges
-#### [Back to calendar](#SQLSaturday-#316-Christchurch-2014)
+#### [Back to calendar](#nr-316)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Reza Rad
 ## Title: ETL Architecture for Solving Data Warehouse Challenges

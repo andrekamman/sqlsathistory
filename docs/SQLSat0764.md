@@ -1,3 +1,4 @@
+#### Nr: 764
 #### [Back to Main list](index.md)
 # SQLSaturday #764 - Bratislava 2018
 Start Time (24h)|Speaker|Track|Title
@@ -17,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 77386
 # Building an Analytics Platform in Azure
-#### [Back to calendar](#SQLSaturday-#764-Bratislava-2018)
+#### [Back to calendar](#nr-764)
 Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Gerhard Brueckl
 ## Title: Building an Analytics Platform in Azure
@@ -26,7 +27,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 78780
 # The Road to The Autonomous Databases
-#### [Back to calendar](#SQLSaturday-#764-Bratislava-2018)
+#### [Back to calendar](#nr-764)
 Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janusz Rokicki
 ## Title: The Road to The Autonomous Databases
@@ -35,7 +36,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 80855
 # How to build solution for High Availability/Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#764-Bratislava-2018)
+#### [Back to calendar](#nr-764)
 Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Marcelo Fernandes
 ## Title: How to build solution for High Availability/Disaster Recovery
@@ -45,7 +46,7 @@ In this session, we will cover all aspects of HA / DR. We will cover all technol
 #  
 #### SessionID: 82084
 # Performance Tuning with SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#764-Bratislava-2018)
+#### [Back to calendar](#nr-764)
 Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: Performance Tuning with SQL Server 2017
@@ -54,7 +55,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 80835
 # Encryption in SQL Server
-#### [Back to calendar](#SQLSaturday-#764-Bratislava-2018)
+#### [Back to calendar](#nr-764)
 Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: Encryption in SQL Server
@@ -63,7 +64,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82085
 # Common Developer Mistakes with SQL Server
-#### [Back to calendar](#SQLSaturday-#764-Bratislava-2018)
+#### [Back to calendar](#nr-764)
 Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: Common Developer Mistakes with SQL Server
@@ -72,7 +73,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 77216
 # Running SQL Server on Linux
-#### [Back to calendar](#SQLSaturday-#764-Bratislava-2018)
+#### [Back to calendar](#nr-764)
 Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marek Chmel
 ## Title: Running SQL Server on Linux
@@ -81,7 +82,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 77688
 # Score a (row) goal and beat a query optimizer
-#### [Back to calendar](#SQLSaturday-#764-Bratislava-2018)
+#### [Back to calendar](#nr-764)
 Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Pavel Malek
 ## Title: Score a (row) goal and beat a query optimizer
@@ -92,7 +93,7 @@ In this session we will have a deep look on cases where the query optimizer fail
 #  
 #### SessionID: 77236
 # Bulk Load and Minimal Logging
-#### [Back to calendar](#SQLSaturday-#764-Bratislava-2018)
+#### [Back to calendar](#nr-764)
 Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dean Savović
 ## Title: Bulk Load and Minimal Logging
@@ -101,7 +102,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 80853
 # High availability for SQL Server using Azure as DR site
-#### [Back to calendar](#SQLSaturday-#764-Bratislava-2018)
+#### [Back to calendar](#nr-764)
 Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Marcelo Fernandes
 ## Title: High availability for SQL Server using Azure as DR site
@@ -110,7 +111,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 77217
 # Azure Machine Learning in Action
-#### [Back to calendar](#SQLSaturday-#764-Bratislava-2018)
+#### [Back to calendar](#nr-764)
 Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marek Chmel
 ## Title: Azure Machine Learning in Action
@@ -119,7 +120,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 80834
 # How to start working in the multiserver environment?
-#### [Back to calendar](#SQLSaturday-#764-Bratislava-2018)
+#### [Back to calendar](#nr-764)
 Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: How to start working in the multiserver environment?

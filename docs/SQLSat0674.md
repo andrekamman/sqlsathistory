@@ -1,3 +1,4 @@
+#### Nr: 674
 #### [Back to Main list](index.md)
 # SQLSaturday #674 - Phoenix - BI 2017
 Start Time (24h)|Speaker|Track|Title
@@ -18,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 66263
 # Data Modeling for the Modern Enterprise
-#### [Back to calendar](#SQLSaturday-#674-Phoenix-BI-2017)
+#### [Back to calendar](#nr-674)
 Event Date: 23-09-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Casey
 ## Title: Data Modeling for the Modern Enterprise
@@ -40,7 +41,7 @@ Visio
 #  
 #### SessionID: 66315
 # Move You SQLServer Database to "The Cloud" with Almost No Downtime
-#### [Back to calendar](#SQLSaturday-#674-Phoenix-BI-2017)
+#### [Back to calendar](#nr-674)
 Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Clay Jackson
 ## Title: Move You SQLServer Database to "The Cloud" with Almost No Downtime
@@ -49,7 +50,7 @@ Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 66965
 # Implementing R  in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#674-Phoenix-BI-2017)
+#### [Back to calendar](#nr-674)
 Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Ginger Grant
 ## Title: Implementing R  in SQL Server 2016
@@ -58,7 +59,7 @@ Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Application  Database D
 #  
 #### SessionID: 68520
 # Leverage Docker for Hosting SQL Server and Beyond
-#### [Back to calendar](#SQLSaturday-#674-Phoenix-BI-2017)
+#### [Back to calendar](#nr-674)
 Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Chris Myers
 ## Title: Leverage Docker for Hosting SQL Server and Beyond
@@ -67,7 +68,7 @@ Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Application  Database D
 #  
 #### SessionID: 66959
 # Querying Semistructured Data in Azure Data Lake with USQL
-#### [Back to calendar](#SQLSaturday-#674-Phoenix-BI-2017)
+#### [Back to calendar](#nr-674)
 Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Russel Loski
 ## Title: Querying Semistructured Data in Azure Data Lake with USQL
@@ -76,7 +77,7 @@ Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 68386
 # The 10 Commandments of ETL
-#### [Back to calendar](#SQLSaturday-#674-Phoenix-BI-2017)
+#### [Back to calendar](#nr-674)
 Event Date: 23-09-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Martin Schoombee
 ## Title: The 10 Commandments of ETL
@@ -87,7 +88,7 @@ In this session I will share the 10 basic principles I follow when developing ET
 #  
 #### SessionID: 68825
 # Introduction to Python for Data Science
-#### [Back to calendar](#SQLSaturday-#674-Phoenix-BI-2017)
+#### [Back to calendar](#nr-674)
 Event Date: 23-09-2017 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Chris Huie
 ## Title: Introduction to Python for Data Science
@@ -96,7 +97,7 @@ Event Date: 23-09-2017 - Session time: 14:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 68387
 # Rounding The Polybases
-#### [Back to calendar](#SQLSaturday-#674-Phoenix-BI-2017)
+#### [Back to calendar](#nr-674)
 Event Date: 23-09-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Nathan Strack
 ## Title: Rounding The Polybases
@@ -105,7 +106,7 @@ Event Date: 23-09-2017 - Session time: 14:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68429
 # The journey to data viz
-#### [Back to calendar](#SQLSaturday-#674-Phoenix-BI-2017)
+#### [Back to calendar](#nr-674)
 Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Analytics and Visualization
 ## Speaker: Ricardo Mawcinitt
 ## Title: The journey to data viz
@@ -127,7 +128,7 @@ We both are open to answering questions related to this topic.
 #  
 #### SessionID: 68601
 # Advanced Analytics with SQL Server 2017 and Python
-#### [Back to calendar](#SQLSaturday-#674-Phoenix-BI-2017)
+#### [Back to calendar](#nr-674)
 Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ginger Grant
 ## Title: Advanced Analytics with SQL Server 2017 and Python
@@ -138,7 +139,7 @@ If you have not had a chance to review SQL Server 2017 yet, please attend to see
 #  
 #### SessionID: 66958
 # Managing SSRS Reports using PowerShell and SSRS Web Services
-#### [Back to calendar](#SQLSaturday-#674-Phoenix-BI-2017)
+#### [Back to calendar](#nr-674)
 Event Date: 23-09-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Russel Loski
 ## Title: Managing SSRS Reports using PowerShell and SSRS Web Services
@@ -147,7 +148,7 @@ Event Date: 23-09-2017 - Session time: 14:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67170
 # The first ever SQL Server Drone controlled by Server less Architecture in Azure
-#### [Back to calendar](#SQLSaturday-#674-Phoenix-BI-2017)
+#### [Back to calendar](#nr-674)
 Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Analytics and Visualization
 ## Speaker: Joseph Barth
 ## Title: The first ever SQL Server Drone controlled by Server less Architecture in Azure
@@ -168,7 +169,7 @@ The future of fast and the furious IoT development coupled wi
 #  
 #### SessionID: 68385
 # Power BI: What you need to know
-#### [Back to calendar](#SQLSaturday-#674-Phoenix-BI-2017)
+#### [Back to calendar](#nr-674)
 Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Analytics and Visualization
 ## Speaker: Martin Schoombee
 ## Title: Power BI: What you need to know

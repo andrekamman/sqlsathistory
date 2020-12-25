@@ -1,3 +1,4 @@
+#### Nr: 649
 #### [Back to Main list](index.md)
 # SQLSaturday #649 - Jacksonville 2017
 Start Time (24h)|Speaker|Track|Title
@@ -53,7 +54,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 63438
 # Intro to MongoDB for SQL DBAs
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ahmad Drshen
 ## Title: Intro to MongoDB for SQL DBAs
@@ -63,7 +64,7 @@ This presentation will introduce MongoDB, provide a brief overview of the NOSQL 
 #  
 #### SessionID: 64136
 # Enabling EDW and BI workloads on Hadoop with Hive / LLAP
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: Luis Figueroa
 ## Title: Enabling EDW and BI workloads on Hadoop with Hive / LLAP
@@ -73,7 +74,7 @@ In this session, Luis Figueroa (Solutions Engineer @ Hortonworks) will walk you 
 #  
 #### SessionID: 66812
 # Data Driven Digital Transformation
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Strategy and Architecture
 ## Speaker: Adam Jorgensen
 ## Title: Data Driven Digital Transformation
@@ -82,7 +83,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 67177
 # Migrate your enterprise reporting into Power BI: process canvas, pitfalls  best practices
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: Taras Kaduk
 ## Title: Migrate your enterprise reporting into Power BI: process canvas, pitfalls  best practices
@@ -96,7 +97,7 @@ Some of the topics include:
 #  
 #### SessionID: 67299
 # How to be a Great DBA
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Valentin Iamandi
 ## Title: How to be a Great DBA
@@ -110,7 +111,7 @@ Promote = Share your knowledge, create on the side projects
 #  
 #### SessionID: 67349
 # Database Security Permissions ( you don't need to grant SA )
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Scott Gleason
 ## Title: Database Security Permissions ( you don't need to grant SA )
@@ -119,7 +120,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68378
 # Kids Camp
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Other
 ## Speaker: Eric Wisdahl
 ## Title: Kids Camp
@@ -128,7 +129,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Other
 #  
 #### SessionID: 68551
 # Working with SQL Server for Linux Cross-Platform
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Maximo Trinidad
 ## Title: Working with SQL Server for Linux Cross-Platform
@@ -137,7 +138,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63247
 # How To Tune A Multi-Terabyte Database For Optimum Performance.
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Taylor
 ## Title: How To Tune A Multi-Terabyte Database For Optimum Performance.
@@ -146,7 +147,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64152
 # Deploying SQL 2016 with PowerShell DSC
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joshua Corrick
 ## Title: Deploying SQL 2016 with PowerShell DSC
@@ -155,7 +156,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64614
 # 100% Chance of Clouds – Migrating to Azure SQL DB
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bob Rubocki
 ## Title: 100% Chance of Clouds – Migrating to Azure SQL DB
@@ -168,7 +169,7 @@ This session will also provide guidance on determining whether your on-premises 
 #  
 #### SessionID: 64717
 # Data Modeling Student Registration and Student Retention in Higher Education
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Jason Jones
 ## Title: Data Modeling Student Registration and Student Retention in Higher Education
@@ -177,7 +178,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 66432
 # Training by the Twos: Two Sites, Two Tools, Two Tidbits
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Susan Schneider
 ## Title: Training by the Twos: Two Sites, Two Tools, Two Tidbits
@@ -188,7 +189,7 @@ Join Susan as we continue our technical journey and increase our learning pace, 
 #  
 #### SessionID: 67179
 # Are They Hearing What You Said - or Something Completely Different?!
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Brad Raney
 ## Title: Are They Hearing What You Said - or Something Completely Different?!
@@ -200,7 +201,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 67298
 # Cautionary Tale of Recompilations, Excessive CPU Load and Plan Caching
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dmitri Korotkevitch
 ## Title: Cautionary Tale of Recompilations, Excessive CPU Load and Plan Caching
@@ -211,7 +212,7 @@ In this session, Dmitri will explain how plan caching works internally and demon
 #  
 #### SessionID: 67301
 # Handling Late Arriving Dimension Records in a Datawarehouse using SSIS/SQL
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: Felix Asencio
 ## Title: Handling Late Arriving Dimension Records in a Datawarehouse using SSIS/SQL
@@ -222,7 +223,7 @@ In this session, we will give you a brief overview of Facts and Dimensions, and 
 #  
 #### SessionID: 63523
 # Create lightning fast Dashboard with Power BI and its Components
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Vishal Pawar
 ## Title: Create lightning fast Dashboard with Power BI and its Components
@@ -231,7 +232,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 64610
 # Virtualize FCI and  Availability Groups
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Other
 ## Speaker: Shawn Meyers
 ## Title: Virtualize FCI and  Availability Groups
@@ -240,7 +241,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Other
 #  
 #### SessionID: 64679
 # Tracking Change is the Backbone of Your Data Platform
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Doug McClurg
 ## Title: Tracking Change is the Backbone of Your Data Platform
@@ -249,7 +250,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 65054
 # How to Build your Brand and Become a Thought Leader
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Dustin Ryan
 ## Title: How to Build your Brand and Become a Thought Leader
@@ -258,7 +259,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 67306
 # XpressInsight Framework as a Service - Rapid Implementation Data Warehousing Solution
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paul Williams
 ## Title: XpressInsight Framework as a Service - Rapid Implementation Data Warehousing Solution
@@ -267,7 +268,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67312
 # Tell the story with Power BI visualizations embedded in your web site based on Azure Data
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: Steve Schneider
 ## Title: Tell the story with Power BI visualizations embedded in your web site based on Azure Data
@@ -284,7 +285,7 @@ Come along on this trip to see how you can stand up your own database in Azure a
 #  
 #### SessionID: 68160
 # Power BI Administration and Governance
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mitchell Pearson
 ## Title: Power BI Administration and Governance
@@ -293,7 +294,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 66505
 # Training:  Have It Your Way (Lunch time Session)
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Kenneth Wood
 ## Title: Training:  Have It Your Way (Lunch time Session)
@@ -306,7 +307,7 @@ This session will help the attendees better prepare themselves for Learning Deve
 #  
 #### SessionID: 67094
 # Dynamic Data Flows in SSIS without Programming
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: Dynamic Data Flows in SSIS without Programming
@@ -315,7 +316,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68748
 # Women in Technology Luncheon
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Brandi Kiehl
 ## Title: Women in Technology Luncheon
@@ -324,7 +325,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 63278
 # Supercharge Your Maintenance Plans!
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Troy Gallant
 ## Title: Supercharge Your Maintenance Plans!
@@ -335,7 +336,7 @@ In this session, not only will we introduce these scripts to those unfamiliar wi
 #  
 #### SessionID: 63389
 # A Tour of Cloud Data Platforms as a Service
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Richard Weiss
 ## Title: A Tour of Cloud Data Platforms as a Service
@@ -344,7 +345,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 63822
 # How To Fully Automate Database Deployments
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Jeff Taylor
 ## Title: How To Fully Automate Database Deployments
@@ -353,7 +354,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 65498
 # Using R, SQL Server Advanced Analytics, and Baseball to Hit a Home Run
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Bradley Ball
 ## Title: Using R, SQL Server Advanced Analytics, and Baseball to Hit a Home Run
@@ -362,7 +363,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 66714
 # DevOps for the DBA
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: DevOps for the DBA
@@ -377,7 +378,7 @@ The take-aways from this session are to embrace DevOps basics with a “DBA twis
 #  
 #### SessionID: 67044
 # SNI Technology Presents, Creating Your Personal Brand  Behind the Staffing Curtain
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Ben Cusson
 ## Title: SNI Technology Presents, Creating Your Personal Brand  Behind the Staffing Curtain
@@ -387,7 +388,7 @@ I will share my experience over the years in Staffing to provide some tips and t
 #  
 #### SessionID: 67077
 # What's new in Power BI Embedded
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: T.J. Brown
 ## Title: What's new in Power BI Embedded
@@ -396,7 +397,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68813
 # What's new in Reporting Services 2016
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: Chris Albrektson
 ## Title: What's new in Reporting Services 2016
@@ -405,7 +406,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 63260
 # Running SQL Server in AWS
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Brian Carrig
 ## Title: Running SQL Server in AWS
@@ -414,7 +415,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 63302
 # Database Project Makes Deployment Consistent
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
@@ -423,7 +424,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 63798
 # In a Perfect World, Azure is Green… Green as in, all is well
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ronald Dameron
 ## Title: In a Perfect World, Azure is Green… Green as in, all is well
@@ -435,7 +436,7 @@ Coverage will included how to monitor and alert on individual components in the 
 #  
 #### SessionID: 67051
 # Embed analytics into your web apps using Power BI
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: David Liebman
 ## Title: Embed analytics into your web apps using Power BI
@@ -445,7 +446,7 @@ We will be using the Power BI API's to embed the analytics into you company web 
 #  
 #### SessionID: 67222
 # Does your performance tuning need a 12-step program?
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Does your performance tuning need a 12-step program?
@@ -459,7 +460,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68465
 # DataViz 101 -  Creating Effective Visualizations
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Haim Shternshus
 ## Title: DataViz 101 -  Creating Effective Visualizations
@@ -473,7 +474,7 @@ Come learn something new!
 #  
 #### SessionID: 68466
 # Beyond the Stars…Alternative Date Warehouse Structures
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Thomas Banyan McGowen
 ## Title: Beyond the Stars…Alternative Date Warehouse Structures
@@ -491,7 +492,7 @@ Additionally, we will discuss the importance of granularity, naming, object sele
 #  
 #### SessionID: 63250
 # What's New In SQL Server 2012/2014/2016 For The Developer
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Jeff Taylor
 ## Title: What's New In SQL Server 2012/2014/2016 For The Developer
@@ -500,7 +501,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 63495
 # TSQL Tips and Tricks for Developers
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Victor Ivantsov
 ## Title: TSQL Tips and Tricks for Developers
@@ -509,7 +510,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 64756
 # Json document generation using Integration Services
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Jorge Novo
 ## Title: Json document generation using Integration Services
@@ -520,7 +521,7 @@ This session will show you each step of the way to finally deliver that Json doc
 #  
 #### SessionID: 65480
 # Azure Sql PAAS: Lessons from the Real World
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Strategy and Architecture
 ## Speaker: Jonathon Moorman
 ## Title: Azure Sql PAAS: Lessons from the Real World
@@ -529,7 +530,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 67138
 # Master Data Management with SQL Server 2016 MDS
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Neal Waterstreet
 ## Title: Master Data Management with SQL Server 2016 MDS
@@ -538,7 +539,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67309
 # Creating Predictive Models using Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Bogdan Visinescu
 ## Title: Creating Predictive Models using Azure Machine Learning
@@ -548,7 +549,7 @@ You will learn how to read data from your database; how  to create, train, and s
 #  
 #### SessionID: 68467
 # Using Word Clouds to Sneak Past Applicant Tracking System
-#### [Back to calendar](#SQLSaturday-#649-Jacksonville-2017)
+#### [Back to calendar](#nr-649)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Brandi Kiehl
 ## Title: Using Word Clouds to Sneak Past Applicant Tracking System

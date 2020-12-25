@@ -1,3 +1,4 @@
+#### Nr: 367
 #### [Back to Main list](index.md)
 # SQLSaturday #367 - Pordenone 2015
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11817
 # Transaction Log Demystified
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S8
 ## Speaker: Francesco Milano
 ## Title: Transaction Log Demystified
@@ -32,7 +33,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S8
 #  
 #### SessionID: 13265
 # Back to the Roots: SQL Server Indexing
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S7
 ## Speaker: Davide Mauri
 ## Title: Back to the Roots: SQL Server Indexing
@@ -41,7 +42,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S7
 #  
 #### SessionID: 13782
 # Ricerche Full-Text
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S1
 ## Speaker: Emiliano Pinto
 ## Title: Ricerche Full-Text
@@ -51,7 +52,7 @@ Confronto, vantaggi svantaggi, prestazioni dell'utilizzi di Like, configurazione
 #  
 #### SessionID: 14138
 # Implementing and Maintaining an Azure SQL Database project
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S8
 ## Speaker: Emanuele Zanchettin
 ## Title: Implementing and Maintaining an Azure SQL Database project
@@ -60,7 +61,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S8
 #  
 #### SessionID: 14600
 # Extending the Data Collector to Monitor SQL Server effortlessly
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S7
 ## Speaker: Gianluca Sartori
 ## Title: Extending the Data Collector to Monitor SQL Server effortlessly
@@ -69,7 +70,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S7
 #  
 #### SessionID: 14602
 # SQL Server Security In An Insecure World
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S7
 ## Speaker: Gianluca Sartori
 ## Title: SQL Server Security In An Insecure World
@@ -78,7 +79,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S7
 #  
 #### SessionID: 14634
 # Analisi prestazionale (Performance Tuning) in Microsoft SQL Server tramite Dynamic Management Object
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S1
 ## Speaker: Gilberto Zampatti
 ## Title: Analisi prestazionale (Performance Tuning) in Microsoft SQL Server tramite Dynamic Management Object
@@ -87,7 +88,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S1
 #  
 #### SessionID: 14635
 # Risoluzione dei problemi riscontrabili in SQL Server (Troubleshooting)
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S1
 ## Speaker: Gilberto Zampatti
 ## Title: Risoluzione dei problemi riscontrabili in SQL Server (Troubleshooting)
@@ -96,7 +97,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S1
 #  
 #### SessionID: 15342
 # Xvelocity in deep
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S1
 ## Speaker: Marco Pozzan
 ## Title: Xvelocity in deep
@@ -105,7 +106,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S1
 #  
 #### SessionID: 19152
 # Migrare a Sql Server 2014 In-Memory Technology
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S8
 ## Speaker: Luca Ferrari
 ## Title: Migrare a Sql Server 2014 In-Memory Technology
@@ -114,7 +115,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S8
 #  
 #### SessionID: 20225
 # Entity Framework 7, Back To The Future!
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S7
 ## Speaker: Michael Denny
 ## Title: Entity Framework 7, Back To The Future!
@@ -123,7 +124,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S7
 #  
 #### SessionID: 24003
 # Metriche di valutazione per un database performante 
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S8
 ## Speaker: Saverio Lorenzini
 ## Title: Metriche di valutazione per un database performante 
@@ -134,7 +135,7 @@ La sessione mostra quali sono i principi e le metriche fondamentali per misurare
 #  
 #### SessionID: 24394
 # Execution Plans End-to-End in SQL Server (IT)
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S1
 ## Speaker: Sergio Govoni
 ## Title: Execution Plans End-to-End in SQL Server (IT)
@@ -143,7 +144,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S1
 #  
 #### SessionID: 25893
 # Database unit testing
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S7
 ## Speaker: Alessandro Alpi
 ## Title: Database unit testing
@@ -152,7 +153,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S7
 #  
 #### SessionID: 27013
 # Usage of R in SQL Server for better data understanding
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S8
 ## Speaker: Tomaž Kaštrun
 ## Title: Usage of R in SQL Server for better data understanding
@@ -161,7 +162,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S8
 #  
 #### SessionID: 34762
 # Azure Overview for SQL Server Developers
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S8
 ## Speaker: Marco Parenzan
 ## Title: Azure Overview for SQL Server Developers
@@ -170,7 +171,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S8
 #  
 #### SessionID: 9443
 # SQL Server: miti da sfatare 
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S1
 ## Speaker: andrea benedetti
 ## Title: SQL Server: miti da sfatare 
@@ -179,7 +180,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S1
 #  
 #### SessionID: 9446
 # Geocoding with SQL Server and Google Maps API (IT)
-#### [Back to calendar](#SQLSaturday-#367-Pordenone-2015)
+#### [Back to calendar](#nr-367)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Aula S7
 ## Speaker: Andrea Martorana Tusa
 ## Title: Geocoding with SQL Server and Google Maps API (IT)

@@ -1,3 +1,4 @@
+#### Nr: 250
 #### [Back to Main list](index.md)
 # SQLSaturday #250 - Pittsburgh 2013
 Start Time (24h)|Speaker|Track|Title
@@ -42,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11875
 # SSIS Olympics
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Cory Stevenson
 ## Title: SSIS Olympics
@@ -51,7 +52,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 12010
 # SQL Server for the accidental DBA  
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Craig Purnell
 ## Title: SQL Server for the accidental DBA  
@@ -60,7 +61,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 12451
 # Do Some SOLR Searching with .NET
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: David Hoerster
 ## Title: Do Some SOLR Searching with .NET
@@ -69,7 +70,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 12907
 # Mastering Date-Time Based Analysis in DAX
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dan Clark
 ## Title: Mastering Date-Time Based Analysis in DAX
@@ -78,7 +79,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13318
 # DBA 911 - Database Corruption
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: David Maxwell
 ## Title: DBA 911 - Database Corruption
@@ -88,7 +89,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 14654
 # Opening Remarks - Gina Walters  Keynote - Rick Heiges presents Community and Cool Stuff!
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Opening Remarks   Keynote
 ## Title: Opening Remarks - Gina Walters  Keynote - Rick Heiges presents Community and Cool Stuff!
@@ -97,7 +98,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 16198
 # Virtualization  for SQL DBAs
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Joseph D'Antoni
 ## Title: Virtualization  for SQL DBAs
@@ -106,7 +107,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17721
 # Table Partitioning: the Secret Weapon for your Big Data Problems.
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: John Sterrett
 ## Title: Table Partitioning: the Secret Weapon for your Big Data Problems.
@@ -115,7 +116,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 17723
 # Building Your First AlwaysOn Failover Cluster Instance
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: John Sterrett
 ## Title: Building Your First AlwaysOn Failover Cluster Instance
@@ -124,7 +125,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18177
 # Methods of Implementing Performance Tools for SQL Server
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kevin Selinger
 ## Title: Methods of Implementing Performance Tools for SQL Server
@@ -133,7 +134,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18275
 # SSAS Tabular 2012 vs SSAS Multidimensional OLAP
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kevin Goff
 ## Title: SSAS Tabular 2012 vs SSAS Multidimensional OLAP
@@ -142,7 +143,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 18278
 # T-SQL for Application Developers - Attendees chose
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kevin Goff
 ## Title: T-SQL for Application Developers - Attendees chose
@@ -152,7 +153,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18537
 # Powershell for the beginner
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Ken McFerron
 ## Title: Powershell for the beginner
@@ -161,7 +162,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18546
 # Performance Tuning - Index Optimization
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Konstantin Melamud
 ## Title: Performance Tuning - Index Optimization
@@ -170,7 +171,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18882
 # Fundamentals of reporting
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 0 - Wanna be a DBA?
 ## Speaker: Katie Vetter
 ## Title: Fundamentals of reporting
@@ -179,7 +180,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 0 - Wanna be a DB
 #  
 #### SessionID: 19348
 # Putting it all together
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 0 - Wanna be a DBA?
 ## Speaker: Madhu Kudaravalli
 ## Title: Putting it all together
@@ -188,7 +189,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 0 - Wanna be a DB
 #  
 #### SessionID: 19349
 # Becoming a DBA prerequisites 
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 0 - Wanna be a DBA?
 ## Speaker: Madhu Kudaravalli
 ## Title: Becoming a DBA prerequisites 
@@ -197,7 +198,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 0 - Wanna be a DB
 #  
 #### SessionID: 19350
 # Database Design fundamentals
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 0 - Wanna be a DBA?
 ## Speaker: Madhu Kudaravalli
 ## Title: Database Design fundamentals
@@ -206,7 +207,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 0 - Wanna be a DB
 #  
 #### SessionID: 19842
 # Closing Remarks by Gina Walters  and Raffle
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Matt Nelson
 ## Title: Closing Remarks by Gina Walters  and Raffle
@@ -215,7 +216,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 19843
 # Basic Administration
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 0 - Wanna be a DBA?
 ## Speaker: Matt Nelson
 ## Title: Basic Administration
@@ -224,7 +225,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 0 - Wanna be a DB
 #  
 #### SessionID: 19881
 # Automating in the Cloud
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Matt Velic
 ## Title: Automating in the Cloud
@@ -233,7 +234,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 20646
 # Troubleshooting your TCP/IP connections
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Mike Hays
 ## Title: Troubleshooting your TCP/IP connections
@@ -242,7 +243,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 20953
 # Handling catch all or sometimes queries
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Michael John
 ## Title: Handling catch all or sometimes queries
@@ -255,7 +256,7 @@ Michael John is a Senior DBA with almost 20 years experience working and solving
 #  
 #### SessionID: 21698
 # Basic Best Practices for SSIS Development
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Nate Locklin
 ## Title: Basic Best Practices for SSIS Development
@@ -264,7 +265,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22243
 # Surviving a Technical SQL Interview
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Reed Powell
 ## Title: Surviving a Technical SQL Interview
@@ -274,7 +275,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 22649
 # SSIS Templates Can Make Your Life Easier
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brian Davis
 ## Title: SSIS Templates Can Make Your Life Easier
@@ -283,7 +284,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22650
 # Goodbye Next Next Next, Hello Automated Installs
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Brian Davis
 ## Title: Goodbye Next Next Next, Hello Automated Installs
@@ -292,7 +293,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22971
 # Basic Monitoring with Perfmon
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Rick Heiges
 ## Title: Basic Monitoring with Perfmon
@@ -301,7 +302,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24006
 # Faster, Better Decisions with Self Service Business Analytics
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Sayed Saeed
 ## Title: Faster, Better Decisions with Self Service Business Analytics
@@ -311,7 +312,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24617
 # Flash 101 – An Introduction to Flash Storage for SQL Server and Data Centers
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Stephen LeRoy
 ## Title: Flash 101 – An Introduction to Flash Storage for SQL Server and Data Centers
@@ -320,7 +321,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 25800
 # Monitoring and Baselines
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Steve Hood
 ## Title: Monitoring and Baselines
@@ -331,7 +332,7 @@ This will cover OS Perf Counters, Wait Stats, Traces, Blocking, Query Stats, Ind
 #  
 #### SessionID: 26220
 # SQL Injection
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kevin Boles
 ## Title: SQL Injection
@@ -340,7 +341,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 26712
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -349,7 +350,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 26714
 # It is TEMPDB, Why Should You Care?
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Tim Radney
 ## Title: It is TEMPDB, Why Should You Care?
@@ -358,7 +359,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 28193
 # Fundamentals of querying
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 0 - Wanna be a DBA?
 ## Speaker: William Wolf
 ## Title: Fundamentals of querying
@@ -367,7 +368,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 0 - Wanna be a DB
 #  
 #### SessionID: 9101
 # Analysis Services - Multidimensional vs. PowerPivot vs. Tabular/BISM
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: A.J. Mee
 ## Title: Analysis Services - Multidimensional vs. PowerPivot vs. Tabular/BISM
@@ -376,7 +377,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9166
 # Agile Database Development
-#### [Back to calendar](#SQLSaturday-#250-Pittsburgh-2013)
+#### [Back to calendar](#nr-250)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Aaron King
 ## Title: Agile Database Development

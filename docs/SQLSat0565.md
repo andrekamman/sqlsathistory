@@ -1,3 +1,4 @@
+#### Nr: 565
 #### [Back to Main list](index.md)
 # SQLSaturday #565 - Bucuresti 2016
 Start Time (24h)|Speaker|Track|Title
@@ -19,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 50844
 # 2,4,8  16 - Upgrade your journey with SQL Server
-#### [Back to calendar](#SQLSaturday-#565-Bucuresti-2016)
+#### [Back to calendar](#nr-565)
 Event Date: 24-09-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: 2,4,8  16 - Upgrade your journey with SQL Server
@@ -38,7 +39,7 @@ We will cover the complete upgrade cycle, including the preparation tasks, upgra
 #  
 #### SessionID: 50883
 # Think  work like a Data Scientist with SQL 2016 R
-#### [Back to calendar](#SQLSaturday-#565-Bucuresti-2016)
+#### [Back to calendar](#nr-565)
 Event Date: 24-09-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Think  work like a Data Scientist with SQL 2016 R
@@ -51,7 +52,7 @@ In this session, you will definitely take away a breakthrough concept of Advance
 #  
 #### SessionID: 54042
 # Productivity tips for Sql Server Management Studio
-#### [Back to calendar](#SQLSaturday-#565-Bucuresti-2016)
+#### [Back to calendar](#nr-565)
 Event Date: 24-09-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Bogdan Curca
 ## Title: Productivity tips for Sql Server Management Studio
@@ -61,7 +62,7 @@ I would like to share with you some tips  tricks I discovered along my ride with
 #  
 #### SessionID: 50903
 # AlwaysOn Availability Groups for Developers
-#### [Back to calendar](#SQLSaturday-#565-Bucuresti-2016)
+#### [Back to calendar](#nr-565)
 Event Date: 24-09-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Kaloyan Kosev
 ## Title: AlwaysOn Availability Groups for Developers
@@ -71,7 +72,7 @@ Come join me in a session focused on AlwaysOn Availability Groups - how they act
 #  
 #### SessionID: 53066
 # New Security Features in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#565-Bucuresti-2016)
+#### [Back to calendar](#nr-565)
 Event Date: 24-09-2016 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Alexandra Ciortea
 ## Title: New Security Features in SQL Server 2016
@@ -81,7 +82,7 @@ Event Date: 24-09-2016 - Session time: 16:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 53079
 # Troubleshooting Performance in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#565-Bucuresti-2016)
+#### [Back to calendar](#nr-565)
 Event Date: 24-09-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Cristian Lefter
 ## Title: Troubleshooting Performance in SQL Server 2016
@@ -91,7 +92,7 @@ However in this session we will explore not just Query Store but also additional
 #  
 #### SessionID: 52728
 # SQL Server Azure VMs - your databases in the cloud
-#### [Back to calendar](#SQLSaturday-#565-Bucuresti-2016)
+#### [Back to calendar](#nr-565)
 Event Date: 24-09-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Cezar Ionescu
 ## Title: SQL Server Azure VMs - your databases in the cloud
@@ -104,7 +105,7 @@ We will be covering the details of setting up a SQL Server Azure VM, emphasizing
 #  
 #### SessionID: 52754
 # Power BI Desktop – Leveraging the magic of Power BI - ON-PREM
-#### [Back to calendar](#SQLSaturday-#565-Bucuresti-2016)
+#### [Back to calendar](#nr-565)
 Event Date: 24-09-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Sam Lester
 ## Title: Power BI Desktop – Leveraging the magic of Power BI - ON-PREM
@@ -113,7 +114,7 @@ Event Date: 24-09-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 53038
 # How to monitor efficiently your SQL Server instances
-#### [Back to calendar](#SQLSaturday-#565-Bucuresti-2016)
+#### [Back to calendar](#nr-565)
 Event Date: 24-09-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Remus Rusanu
 ## Title: How to monitor efficiently your SQL Server instances
@@ -124,7 +125,7 @@ I have worked with SQL Server as a developer in the Redmond team for more than 1
 #  
 #### SessionID: 52722
 # SQL Server 2016 - Execution Plan Analysis
-#### [Back to calendar](#SQLSaturday-#565-Bucuresti-2016)
+#### [Back to calendar](#nr-565)
 Event Date: 24-09-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Liviu Ieran
 ## Title: SQL Server 2016 - Execution Plan Analysis
@@ -136,7 +137,7 @@ How to takle a bad plan - patterns to look out for.
 #  
 #### SessionID: 52726
 # SQL Server Consolidation
-#### [Back to calendar](#SQLSaturday-#565-Bucuresti-2016)
+#### [Back to calendar](#nr-565)
 Event Date: 24-09-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrada Nastasie
 ## Title: SQL Server Consolidation
@@ -145,7 +146,7 @@ Event Date: 24-09-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53686
 # IoT Duel - Cloud vs. on Premises Solutions
-#### [Back to calendar](#SQLSaturday-#565-Bucuresti-2016)
+#### [Back to calendar](#nr-565)
 Event Date: 24-09-2016 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Catalin Gheorghiu
 ## Title: IoT Duel - Cloud vs. on Premises Solutions
@@ -154,7 +155,7 @@ Event Date: 24-09-2016 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 50834
 # A time travel with temporal tables
-#### [Back to calendar](#SQLSaturday-#565-Bucuresti-2016)
+#### [Back to calendar](#nr-565)
 Event Date: 24-09-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: LEONEL ABREU
 ## Title: A time travel with temporal tables
@@ -168,7 +169,7 @@ In this session will be shown the most useful scenarios:
 #  
 #### SessionID: 52571
 # Query Plan Deep Drive
-#### [Back to calendar](#SQLSaturday-#565-Bucuresti-2016)
+#### [Back to calendar](#nr-565)
 Event Date: 24-09-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Query Plan Deep Drive

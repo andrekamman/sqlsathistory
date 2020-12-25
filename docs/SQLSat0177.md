@@ -1,3 +1,4 @@
+#### Nr: 177
 #### [Back to Main list](index.md)
 # SQLSaturday #177 - Silicon Valley 2013
 Start Time (24h)|Speaker|Track|Title
@@ -43,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11102
 # So Many BI Tools, So Little Time
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 2 - Mercury
 ## Speaker: Dan Bulos
 ## Title: So Many BI Tools, So Little Time
@@ -52,7 +53,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 2 - Mercury
 #  
 #### SessionID: 11305
 # Big Data for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 1 - Galileo
 ## Speaker: Carlos Bossy
 ## Title: Big Data for the SQL Server DBA
@@ -61,7 +62,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 1 - Galileo
 #  
 #### SessionID: 11493
 # What is the Best Disaster Recovery Solution?
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 5 - Computer Training Room
 ## Speaker: Chris Shaw
 ## Title: What is the Best Disaster Recovery Solution?
@@ -70,7 +71,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 5 - Computer Trai
 #  
 #### SessionID: 13086
 # WIT - Encouraging  Enabling Women in Technology
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 1 - Galileo
 ## Speaker: Denise McInerney
 ## Title: WIT - Encouraging  Enabling Women in Technology
@@ -79,7 +80,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 1 - Galileo
 #  
 #### SessionID: 13087
 # Stop Bad Data in its OLTP Tracks
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 3 - Jupiter
 ## Speaker: Denise McInerney
 ## Title: Stop Bad Data in its OLTP Tracks
@@ -90,7 +91,7 @@ The presentation will draw on the speaker's years of personal experience managin
 #  
 #### SessionID: 14066
 # TempDB Performance Troubleshooting and Optimizing
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 6 - ECR
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Performance Troubleshooting and Optimizing
@@ -99,7 +100,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 6 - ECR
 #  
 #### SessionID: 14763
 # Query Tuning in the Clouds
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 4 - Saturn
 ## Speaker: Grant Fritchey
 ## Title: Query Tuning in the Clouds
@@ -108,7 +109,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 4 - Saturn
 #  
 #### SessionID: 15668
 # Don't Panic, DBAs!  Databases on VMware made easy.
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 4 - Saturn
 ## Speaker: Janis Griffin
 ## Title: Don't Panic, DBAs!  Databases on VMware made easy.
@@ -117,7 +118,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 4 - Saturn
 #  
 #### SessionID: 15846
 # Dimensional Modeling: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 3 - Jupiter
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling: Beyond the Basics
@@ -130,7 +131,7 @@ be very interactive--bring your toughest dimensional modeling quandaries!
 #  
 #### SessionID: 16903
 # Analytic Cartography: Master geospatial reporting
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 2 - Mercury
 ## Speaker: Julie Koesmarno
 ## Title: Analytic Cartography: Master geospatial reporting
@@ -141,7 +142,7 @@ In this session, Julie will show you three options for creating and delivering t
 #  
 #### SessionID: 17122
 # Troubleshooting Query Plan Quality Issues
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 6 - ECR
 ## Speaker: Joe Sack
 ## Title: Troubleshooting Query Plan Quality Issues
@@ -150,7 +151,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 6 - ECR
 #  
 #### SessionID: 17482
 # Matching and Survivorship
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 3 - Jupiter
 ## Speaker: Joseph Verftido
 ## Title: Matching and Survivorship
@@ -159,7 +160,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 3 - Jupiter
 #  
 #### SessionID: 17543
 # Dimensional Modeling and OLAP
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 1 - Galileo
 ## Speaker: Joy Mundy
 ## Title: Dimensional Modeling and OLAP
@@ -168,7 +169,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 1 - Galileo
 #  
 #### SessionID: 18189
 # Top 10 Admininistrator Mistakes on SQL Server
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 1 - Galileo
 ## Speaker: Kevin Kline
 ## Title: Top 10 Admininistrator Mistakes on SQL Server
@@ -177,7 +178,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 1 - Galileo
 #  
 #### SessionID: 18940
 # Analytics on Azure
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 3 - Jupiter
 ## Speaker: Lakshmi Randall
 ## Title: Analytics on Azure
@@ -186,7 +187,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 3 - Jupiter
 #  
 #### SessionID: 19588
 # Nimble Storage Vendor Presentation
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 7 - 2036
 ## Speaker: Mark Ginnebaugh
 ## Title: Nimble Storage Vendor Presentation
@@ -195,7 +196,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 7 - 2036
 #  
 #### SessionID: 19589
 # Introductions and Keynote
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 6 - ECR
 ## Speaker: Mark Ginnebaugh
 ## Title: Introductions and Keynote
@@ -204,7 +205,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 6 - ECR
 #  
 #### SessionID: 19590
 # NetApp Vendor Session
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 4 - Saturn
 ## Speaker: Mark Ginnebaugh
 ## Title: NetApp Vendor Session
@@ -213,7 +214,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 4 - Saturn
 #  
 #### SessionID: 19591
 # Nimble Storage Vendor Session
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 5 - Computer Training Room
 ## Speaker: Mark Ginnebaugh
 ## Title: Nimble Storage Vendor Session
@@ -222,7 +223,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 5 - Computer Trai
 #  
 #### SessionID: 19592
 # EMC Vendor Session
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 6 - ECR
 ## Speaker: Mark Ginnebaugh
 ## Title: EMC Vendor Session
@@ -231,7 +232,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 6 - ECR
 #  
 #### SessionID: 19593
 # Parallel Data Warehouse 2.0
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 5 - Computer Training Room
 ## Speaker: Mark Ginnebaugh
 ## Title: Parallel Data Warehouse 2.0
@@ -240,7 +241,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 5 - Computer Trai
 #  
 #### SessionID: 20135
 # Master Data and Data Quality in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 2 - Mercury
 ## Speaker: Mark Gschwind
 ## Title: Master Data and Data Quality in SQL Server 2012
@@ -249,7 +250,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 2 - Mercury
 #  
 #### SessionID: 20391
 # Tablix - The Rubik Cube of Reporting Services
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 7 - 2036
 ## Speaker: Mickey Stuewe
 ## Title: Tablix - The Rubik Cube of Reporting Services
@@ -260,7 +261,7 @@ Learn how to get the most out of the Tablix controls in this demo-heavy session.
 #  
 #### SessionID: 20833
 # Get TurnedOn with AlwaysOn
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 5 - Computer Training Room
 ## Speaker: Mitchell Bottel
 ## Title: Get TurnedOn with AlwaysOn
@@ -270,7 +271,7 @@ SQL Server AlwaysOn provides a high-availability and Disaster-recovery solution 
 #  
 #### SessionID: 21040
 # SQL Server Table Partitioning from the Ground Up
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 1 - Galileo
 ## Speaker: Denny Cherry
 ## Title: SQL Server Table Partitioning from the Ground Up
@@ -281,7 +282,7 @@ Using these techniques we will be able to improve query performance and reduce d
 #  
 #### SessionID: 21741
 # SQL Server 2012 over NAS Storage
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 7 - 2036
 ## Speaker: Pat Sinthusan
 ## Title: SQL Server 2012 over NAS Storage
@@ -290,7 +291,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 7 - 2036
 #  
 #### SessionID: 22110
 # SQL Server, HyperV,  Virtual SAN Switches
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 5 - Computer Training Room
 ## Speaker: Phil Hummel
 ## Title: SQL Server, HyperV,  Virtual SAN Switches
@@ -299,7 +300,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 5 - Computer Trai
 #  
 #### SessionID: 22500
 # Understanding Transaction Isolation Levels
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 6 - ECR
 ## Speaker: Randy Knight
 ## Title: Understanding Transaction Isolation Levels
@@ -309,7 +310,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 6 - ECR
 #  
 #### SessionID: 23081
 # Designing a SQL 2012 BI Architecture
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 2 - Mercury
 ## Speaker: Rob Kerr
 ## Title: Designing a SQL 2012 BI Architecture
@@ -319,7 +320,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 2 - Mercury
 #  
 #### SessionID: 24155
 # SQL Azure- What is it and why do you need it?
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 4 - Saturn
 ## Speaker: Scott Klein
 ## Title: SQL Azure- What is it and why do you need it?
@@ -328,7 +329,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 4 - Saturn
 #  
 #### SessionID: 26229
 # Windowing Functions: THE Reason to Upgrade to 2012
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 6 - ECR
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012
@@ -337,7 +338,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 6 - ECR
 #  
 #### SessionID: 27837
 # Hadoop on WindowsAzure in Action
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 1 - Galileo
 ## Speaker: Wenming Ye
 ## Title: Hadoop on WindowsAzure in Action
@@ -346,7 +347,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 1 - Galileo
 #  
 #### SessionID: 34738
 # Secrets of Enterprise Data Mining
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 3 - Jupiter
 ## Speaker: Mark Tabladillo
 ## Title: Secrets of Enterprise Data Mining
@@ -355,7 +356,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 3 - Jupiter
 #  
 #### SessionID: 8858
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 4 - Saturn
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals
@@ -365,7 +366,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 4 - Saturn
 #  
 #### SessionID: 9237
 # Demystifying Clustering for the DBA
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 5 - Computer Training Room
 ## Speaker: Allan Hirt
 ## Title: Demystifying Clustering for the DBA
@@ -374,7 +375,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 5 - Computer Trai
 #  
 #### SessionID: 9371
 # Where Are My (Primary) Keys?
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 6 - ECR
 ## Speaker: Ami Levin
 ## Title: Where Are My (Primary) Keys?
@@ -383,7 +384,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 6 - ECR
 #  
 #### SessionID: 9652
 # Business Intelligence with SharePoint 2013
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 2 - Mercury
 ## Speaker: Angel Abundez
 ## Title: Business Intelligence with SharePoint 2013
@@ -392,7 +393,7 @@ Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 2 - Mercury
 #  
 #### SessionID: 9778
 # Lean and Mean: Running SQL on Windows Server Core
-#### [Back to calendar](#SQLSaturday-#177-Silicon-Valley-2013)
+#### [Back to calendar](#nr-177)
 Event Date: 23-02-2013 - Session time: 00:00:00 - Track: Track 4 - Saturn
 ## Speaker: Argenis Fernandez
 ## Title: Lean and Mean: Running SQL on Windows Server Core

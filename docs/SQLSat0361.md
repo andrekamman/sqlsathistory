@@ -1,3 +1,4 @@
+#### Nr: 361
 #### [Back to Main list](index.md)
 # SQLSaturday #361 - Joinville 2015
 Start Time (24h)|Speaker|Track|Title
@@ -21,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 19271
 # Troubleshooting SQL Server com Waits, Latches e Spinlocks
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Troubleshooting SQL Server com Waits, Latches e Spinlocks
@@ -30,7 +31,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
 #  
 #### SessionID: 19446
 # SQL SERVER para DBAs ORACLE - quick glance!
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DBA
 ## Speaker: Marcelo Adade
 ## Title: SQL SERVER para DBAs ORACLE - quick glance!
@@ -41,7 +42,7 @@ A ideia não é comparar vantagens e desvantagens dos dois produtos e sim demons
 #  
 #### SessionID: 21495
 # Primeiros passos com BI corporativo dentro do SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Diego Nogare
 ## Title: Primeiros passos com BI corporativo dentro do SQL Server 2014
@@ -50,7 +51,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 23402
 # Estratégias de Backup e Recovery
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DBA
 ## Speaker: Rodrigo Crespi
 ## Title: Estratégias de Backup e Recovery
@@ -60,7 +61,7 @@ Nesta sessão irei falar sobre a estrutura do Backup no SQL Server e as formas d
 #  
 #### SessionID: 23404
 # PowerBI no Office 365
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Rodrigo Dornel
 ## Title: PowerBI no Office 365
@@ -69,7 +70,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 24954
 # Entendendo o Transaction Log
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
 ## Speaker: Luiz Mercante
 ## Title: Entendendo o Transaction Log
@@ -78,7 +79,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
 #  
 #### SessionID: 21459
 # Provendo Alta Disponibilidade para suas Apps em Pequenos, Médios e Grandes Ambientes com SQL2014
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DBA
 ## Speaker: Nilton Pinheiro
 ## Title: Provendo Alta Disponibilidade para suas Apps em Pequenos, Médios e Grandes Ambientes com SQL2014
@@ -87,7 +88,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DBA
 #  
 #### SessionID: 27324
 # Project Deployment Model - Gerenciando e manipulando seus pacotes através do catálogo.
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Alexandre Soteras
 ## Title: Project Deployment Model - Gerenciando e manipulando seus pacotes através do catálogo.
@@ -100,7 +101,7 @@ Configuração e gerenciamento de pacotes através de Environments Variables e T
 #  
 #### SessionID: 9207
 # Bloqueio SQL Server - Quem? Quando? Recurso?
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
 ## Speaker: Thiago Carlos de Alencar
 ## Title: Bloqueio SQL Server - Quem? Quando? Recurso?
@@ -109,7 +110,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
 #  
 #### SessionID: 14173
 # 7 maneiras diferentes para matar um DBA do coração
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
 ## Speaker: Fabiano Amorim
 ## Title: 7 maneiras diferentes para matar um DBA do coração
@@ -118,7 +119,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
 #  
 #### SessionID: 19443
 # Dicas e melhores práticas sobre Protheus com SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DBA
 ## Speaker: Sulamita Dantas
 ## Title: Dicas e melhores práticas sobre Protheus com SQL Server 2014
@@ -127,7 +128,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DBA
 #  
 #### SessionID: 19506
 # Criando um baseline de seu ambiente completo utilizando SSIS e SSRS
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Marcos Freccia
 ## Title: Criando um baseline de seu ambiente completo utilizando SSIS e SSRS
@@ -140,7 +141,7 @@ As informações coletados com esse baseline, podem te ajudar a ganhar aquele au
 #  
 #### SessionID: 14248
 # Conhecendo o SQL Server Express - A edi#231;#227;o gratuita do SQL Server
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Marcelo Fernandes
 ## Title: Conhecendo o SQL Server Express - A edi#231;#227;o gratuita do SQL Server
@@ -149,7 +150,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 15450
 # Introdução à Mineração de Dados com SQL Server 2014 e além
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Ivan Lima
 ## Title: Introdução à Mineração de Dados com SQL Server 2014 e além
@@ -158,7 +159,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 26556
 # Como realizar um Troubleshoot
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DBA
 ## Speaker: Tiago Balabuch
 ## Title: Como realizar um Troubleshoot
@@ -171,7 +172,7 @@ Criaremos situa#231;#245;es vivenciadas no dia-a-dia de um DBA e vamos expor t#2
 #  
 #### SessionID: 27492
 # Encontrando problemas de performance com Extended Events
-#### [Back to calendar](#SQLSaturday-#361-Joinville-2015)
+#### [Back to calendar](#nr-361)
 Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
 ## Speaker: Vitor Fava
 ## Title: Encontrando problemas de performance com Extended Events

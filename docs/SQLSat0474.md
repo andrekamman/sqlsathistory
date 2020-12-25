@@ -1,3 +1,4 @@
+#### Nr: 474
 #### [Back to Main list](index.md)
 # SQLSaturday #474 - Salt Lake City 2015
 Start Time (24h)|Speaker|Track|Title
@@ -29,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 40702
 # How I survived supporting a Java team
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: How I survived supporting a Java team
@@ -38,7 +39,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 40923
 # Hadoop Cluster - Basic OS Setup Insights
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Other
 ## Speaker: Sruthi Kumar Annamnidu
 ## Title: Hadoop Cluster - Basic OS Setup Insights
@@ -47,7 +48,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Other
 #  
 #### SessionID: 40932
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -56,7 +57,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Professional Developmen
 #  
 #### SessionID: 41210
 # Power BI Intro for DBAs Using  Indexing Strategy Analysis as a Data Source
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Ford
 ## Title: Power BI Intro for DBAs Using  Indexing Strategy Analysis as a Data Source
@@ -69,7 +70,7 @@ Tim then goes one step further and introduces you to how Power BI takes this col
 #  
 #### SessionID: 39863
 # Creating Access 2013 Web Apps based on SQL Azure using SharePoint
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Andy Tabisz
 ## Title: Creating Access 2013 Web Apps based on SQL Azure using SharePoint
@@ -79,7 +80,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 40029
 # Splits, Merges and Purges: The How To of Table Partitioning
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Brandon Preece
 ## Title: Splits, Merges and Purges: The How To of Table Partitioning
@@ -88,7 +89,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 40725
 # PoshDBA: Practical PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: PoshDBA: Practical PowerShell for the DBA
@@ -97,7 +98,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40820
 # Don't get your three-tiered environments in a twist!
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steve Peterson
 ## Title: Don't get your three-tiered environments in a twist!
@@ -106,7 +107,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40443
 # SQL Game Show
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Chad Crawford
 ## Title: SQL Game Show
@@ -115,7 +116,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 40701
 # Why should I care about the plan cache?
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about the plan cache?
@@ -124,7 +125,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40968
 # Powershell Jumpstart for SQL Server DBAs
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Powershell Jumpstart for SQL Server DBAs
@@ -133,7 +134,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42048
 # SQL Server Management Studio Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Andrea Allred
 ## Title: SQL Server Management Studio Tips and Tricks
@@ -142,7 +143,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 39982
 # Adding Lightness: Better Performance Through Compression
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Jay Robinson
 ## Title: Adding Lightness: Better Performance Through Compression
@@ -151,7 +152,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 40942
 # Use  Visual Studio to create a solid database from conception to production
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Steve Seeley
 ## Title: Use  Visual Studio to create a solid database from conception to production
@@ -160,7 +161,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 40967
 # Powershell and the Art of SQL Server Deployment
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Powershell and the Art of SQL Server Deployment
@@ -169,7 +170,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42033
 # Intro to Monitoring I/O: The Counters That Count
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: J May
 ## Title: Intro to Monitoring I/O: The Counters That Count
@@ -178,7 +179,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40139
 # Configuring and using PolyBase to interact with Hadoop
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: BI Information Delivery
 ## Speaker: Montrial Harrell
 ## Title: Configuring and using PolyBase to interact with Hadoop
@@ -187,7 +188,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: BI Information Delivery
 #  
 #### SessionID: 40808
 # A Seven Layer Performance Issue
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chad Crawford
 ## Title: A Seven Layer Performance Issue
@@ -196,7 +197,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 40908
 # Hadoop, Hive, JSON, and Data! Oh, my!
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: TJay Belt
 ## Title: Hadoop, Hive, JSON, and Data! Oh, my!
@@ -205,7 +206,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 40989
 # 15  Things to ensure survivability of your database
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andre DuBois
 ## Title: 15  Things to ensure survivability of your database
@@ -214,7 +215,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39883
 # An Introduction to Master Data Services
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Strategy and Architecture
 ## Speaker: Michael Sexton
 ## Title: An Introduction to Master Data Services
@@ -228,7 +229,7 @@ Master Data Services (MDS) provides tools to get all of your databases singing f
 #  
 #### SessionID: 40726
 # The need for Speed : SMO Internals for High Performance Automation
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: The need for Speed : SMO Internals for High Performance Automation
@@ -237,7 +238,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40748
 # Flash and SQL Server—Re-Visiting Best Practices
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: J May
 ## Title: Flash and SQL Server—Re-Visiting Best Practices
@@ -246,7 +247,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42288
 # EXEC and sp_executesql: An ad hoc rally
-#### [Back to calendar](#SQLSaturday-#474-Salt-Lake-City-2015)
+#### [Back to calendar](#nr-474)
 Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Jay Robinson
 ## Title: EXEC and sp_executesql: An ad hoc rally

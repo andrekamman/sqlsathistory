@@ -1,3 +1,4 @@
+#### Nr: 44
 #### [Back to Main list](index.md)
 # SQLSaturday #44 - Huntington Beach 2010
 Start Time (24h)|Speaker|Track|Title
@@ -36,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28541
 # Opening Remarks (All Tracks - Courtyard)
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andrew Karcher
 ## Title: Opening Remarks (All Tracks - Courtyard)
@@ -45,7 +46,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28542
 # Raffle Prizes
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andrew Karcher
 ## Title: Raffle Prizes
@@ -54,7 +55,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28543
 # SoCal SQL Community - Feedback, Ideas, Questions?
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Andrew Karcher
 ## Title: SoCal SQL Community - Feedback, Ideas, Questions?
@@ -63,7 +64,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 29019
 # SQL XML As a Document Repository
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Ben Aminnia
 ## Title: SQL XML As a Document Repository
@@ -72,7 +73,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29104
 # How the Query Optimizer Works
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Benjamin Nevarez
 ## Title: How the Query Optimizer Works
@@ -81,7 +82,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29244
 # Introduction to SQL Server Reporting Services
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bret Stateham
 ## Title: Introduction to SQL Server Reporting Services
@@ -90,7 +91,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29390
 # Data Mining with Analysis Services
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Carlos Bossy
 ## Title: Data Mining with Analysis Services
@@ -99,7 +100,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29620
 # Accelerating SQL with Solid State Technology
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Sumeet  Bansal
 ## Title: Accelerating SQL with Solid State Technology
@@ -119,7 +120,7 @@ c.	Host-based PCI Express devices
 #  
 #### SessionID: 29902
 # Movin Uptown: Migrating from Access to SQLServer
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Darrell Burns
 ## Title: Movin Uptown: Migrating from Access to SQLServer
@@ -128,7 +129,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29964
 # Heterogeneous Data Integration with SSIS  CDC
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Doug Wheaton
 ## Title: Heterogeneous Data Integration with SSIS  CDC
@@ -137,7 +138,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 29978
 # How Indexes Optimize Query Performance
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Diana Dee
 ## Title: How Indexes Optimize Query Performance
@@ -146,7 +147,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30296
 # Windows Server 2008 R2 and Hyper-V
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Harold Wong
 ## Title: Windows Server 2008 R2 and Hyper-V
@@ -155,7 +156,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30309
 # Ace the Interview
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Steve Hendricks
 ## Title: Ace the Interview
@@ -164,7 +165,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 30311
 # SQL Joins: Logical and Physical
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Steve Hendricks
 ## Title: SQL Joins: Logical and Physical
@@ -173,7 +174,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 30370
 # Fixing performance problems - Stuff happens
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Chris Dickey
 ## Title: Fixing performance problems - Stuff happens
@@ -184,7 +185,7 @@ Slow queries are caused by these issues: 1. data might be retrieved from disk or
 #  
 #### SessionID: 30687
 # Business Intelligence w/MOSS 2010 and PowerPivot
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jen Underwood
 ## Title: Business Intelligence w/MOSS 2010 and PowerPivot
@@ -193,7 +194,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30689
 # Building Reporting using Analysis Services Cubes 
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jen Underwood
 ## Title: Building Reporting using Analysis Services Cubes 
@@ -202,7 +203,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30824
 # Data Visualization for the SQL Server Enterprise
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jesse Gebhardt
 ## Title: Data Visualization for the SQL Server Enterprise
@@ -215,7 +216,7 @@ Jesse will demonstrate the importance of visual analysis – including the itera
 #  
 #### SessionID: 30848
 # SQL Design Patterns
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jim Bears
 ## Title: SQL Design Patterns
@@ -228,7 +229,7 @@ Patterns create a foundation for "best practices" for SQL, Database Architecture
 #  
 #### SessionID: 31003
 #  SQL Server 2008 R2 Parallel Data Warehouse
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jon Saltzman
 ## Title:  SQL Server 2008 R2 Parallel Data Warehouse
@@ -246,7 +247,7 @@ more).
 #  
 #### SessionID: 31473
 # Locks, Blocks, Deadlocks and Isolation Levels
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Stephenson
 ## Title: Locks, Blocks, Deadlocks and Isolation Levels
@@ -255,7 +256,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31530
 # SQL Azure
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Lynn Langit
 ## Title: SQL Azure
@@ -264,7 +265,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31576
 # Optimizing Stored Procedures
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mark Rosenberg
 ## Title: Optimizing Stored Procedures
@@ -273,7 +274,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31577
 # Beginning SQL
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mark Rosenberg
 ## Title: Beginning SQL
@@ -282,7 +283,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31976
 # SQL Server Clustering 101
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Denny Cherry
 ## Title: SQL Server Clustering 101
@@ -291,7 +292,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31977
 # Is Virtualization is a good choice for SQL Server?
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Denny Cherry
 ## Title: Is Virtualization is a good choice for SQL Server?
@@ -300,7 +301,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31978
 # Can I really consolidate my SQL Server database
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Denny Cherry
 ## Title: Can I really consolidate my SQL Server database
@@ -309,7 +310,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32952
 # Solving Slowly Changing Dimension Problem /w SSIS
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ravi Bodla
 ## Title: Solving Slowly Changing Dimension Problem /w SSIS
@@ -318,7 +319,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32953
 # Overview of BI with Microsoft SQL Technologies
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ravi Bodla
 ## Title: Overview of BI with Microsoft SQL Technologies
@@ -327,7 +328,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33192
 # Targeting your Job Search
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Stacey Braodwell
 ## Title: Targeting your Job Search
@@ -336,7 +337,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 33719
 # SQL Server resources - Roundtable
-#### [Back to calendar](#SQLSaturday-#44-Huntington-Beach-2010)
+#### [Back to calendar](#nr-44)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Thomas Mueller
 ## Title: SQL Server resources - Roundtable

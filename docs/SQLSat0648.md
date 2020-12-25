@@ -1,3 +1,4 @@
+#### Nr: 648
 #### [Back to Main list](index.md)
 # SQLSaturday #648 - Johannesburg 2017
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 63226
 # SQL Server 2016 Efficient and Effective coding of Stored Procedures
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Steve Simon
 ## Title: SQL Server 2016 Efficient and Effective coding of Stored Procedures
@@ -35,7 +36,7 @@ In this hands-on presentation, we shall be looking at best practices with regard
 #  
 #### SessionID: 63263
 # How to become the most sought after SQL Server professionals in SA
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Professional Development
 ## Speaker: Vanessa Raath
 ## Title: How to become the most sought after SQL Server professionals in SA
@@ -44,7 +45,7 @@ Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Professional Developmen
 #  
 #### SessionID: 63888
 # The NoSQL DBA
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Clinton van Blommestein
 ## Title: The NoSQL DBA
@@ -58,7 +59,7 @@ In this quick session we will look at N1QL (pronounced Nickel) which is the Couc
 #  
 #### SessionID: 64763
 # Introduction to Database Design
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Sean Cremer
 ## Title: Introduction to Database Design
@@ -69,7 +70,7 @@ This session will go through the fundamentals of database design.  Topics such a
 #  
 #### SessionID: 67481
 # Data without technology
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Strategy and Architecture
 ## Speaker: Jody Roberts
 ## Title: Data without technology
@@ -81,7 +82,7 @@ Jody is a Principal Consultant at Northern Data. He is a Microsoft Data Platform
 #  
 #### SessionID: 63240
 # Now Where Did THAT Estimate Come From? - Part 1
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Now Where Did THAT Estimate Come From? - Part 1
@@ -94,7 +95,7 @@ Though the focus of this session is on understanding the cause of bad estimates,
 #  
 #### SessionID: 64217
 # Running and interacting with SQL Server in Docker
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Heinrich Smit
 ## Title: Running and interacting with SQL Server in Docker
@@ -103,7 +104,7 @@ Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66531
 # A Drill Down into R and Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Niels Berglund
 ## Title: A Drill Down into R and Python in SQL Server 2017
@@ -112,7 +113,7 @@ Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 67360
 # Shedding some light on Windowing Functions
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Information Delivery
 ## Speaker: James McGillivray
 ## Title: Shedding some light on Windowing Functions
@@ -125,7 +126,7 @@ In this session, we'll combine these unlikely bedfellows, by using The Beatles' 
 #  
 #### SessionID: 64384
 # The Power of Social Media with PowerBI using Twitter, Facebook and Google Analytics
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Analytics and Visualization
 ## Speaker: Jeanne Combrinck
 ## Title: The Power of Social Media with PowerBI using Twitter, Facebook and Google Analytics
@@ -134,7 +135,7 @@ Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 66498
 # Go, Go, QueryStore!
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gail Shaw
 ## Title: Go, Go, QueryStore!
@@ -145,7 +146,7 @@ In this session we’ll take a look at what the QueryStore is and how it works, 
 #  
 #### SessionID: 68277
 # Now Where Did THAT Estimate Come From? - Part 2
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Now Where Did THAT Estimate Come From? - Part 2
@@ -158,7 +159,7 @@ Though the focus of this session is on understanding the cause of bad estimates,
 #  
 #### SessionID: 63766
 # T-SQL Anti-Patterns
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Professional Development
 ## Speaker: Desmond Norton
 ## Title: T-SQL Anti-Patterns
@@ -168,7 +169,7 @@ This session will cover a few T-SQL anti-patterns, explaining the problem being 
 #  
 #### SessionID: 66440
 # Zero to Pi to 10 on Cloud,Intro to Windows 10 IoT Core on a Raspberry Pi and BI using Azure IoT Hub
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arohan Naidoo
 ## Title: Zero to Pi to 10 on Cloud,Intro to Windows 10 IoT Core on a Raspberry Pi and BI using Azure IoT Hub
@@ -177,7 +178,7 @@ Event Date: 02-09-2017 - Session time: 15:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67273
 # Creating an adaptive party domain model in SQL Master Data Services
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Information Delivery
 ## Speaker: Erwin Bisschops
 ## Title: Creating an adaptive party domain model in SQL Master Data Services
@@ -188,7 +189,7 @@ In this session I will take you through the approach and the various modelling s
 #  
 #### SessionID: 68203
 # SQL Server 2016 Database Administration for the non-DBA
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Database Administration 
 ## Speaker: Denny Cherry
 ## Title: SQL Server 2016 Database Administration for the non-DBA
@@ -201,7 +202,7 @@ During this session Microsoft MVP and Certified Master Denny Cherry will give yo
 #  
 #### SessionID: 67270
 # The hustle and bustle of SQL pages
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Information Delivery
 ## Speaker: Jacques Mostert
 ## Title: The hustle and bustle of SQL pages
@@ -210,7 +211,7 @@ Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Information Delivery
 #  
 #### SessionID: 67690
 # Practical Query Tuning
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Sean Pearce
 ## Title: Practical Query Tuning
@@ -219,7 +220,7 @@ Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Application  Database D
 #  
 #### SessionID: 68175
 # Azure SQL DW vs Azure Cosmos DB vs Azure Data Lake Store
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Minette Steynberg
 ## Title: Azure SQL DW vs Azure Cosmos DB vs Azure Data Lake Store
@@ -228,7 +229,7 @@ Event Date: 02-09-2017 - Session time: 15:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68414
 # SQL Server and Application Security for Developers
-#### [Back to calendar](#SQLSaturday-#648-Johannesburg-2017)
+#### [Back to calendar](#nr-648)
 Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Mladen Prajdić
 ## Title: SQL Server and Application Security for Developers

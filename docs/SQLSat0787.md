@@ -1,3 +1,4 @@
+#### Nr: 787
 #### [Back to Main list](index.md)
 # SQLSaturday #787 - Sioux Falls 2018
 Start Time (24h)|Speaker|Track|Title
@@ -31,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 82586
 # Powering Up with Power BI (Pre-Con)
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: PreCon1
 ## Speaker: Brian Larson
 ## Title: Powering Up with Power BI (Pre-Con)
@@ -51,7 +52,7 @@ https://www.eventbrite.com/e/sqlsaturday-sioux-falls-pre-conference-tickets-4594
 #  
 #### SessionID: 82591
 # SQL Server Tools for Query Tuning (Pre-Con)
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: PreCon3
 ## Speaker: Grant Fritchey
 ## Title: SQL Server Tools for Query Tuning (Pre-Con)
@@ -65,7 +66,7 @@ https://www.eventbrite.com/e/sqlsaturday-sioux-falls-pre-conference-tickets-4594
 #  
 #### SessionID: 82034
 # Getting Started with Power Query
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Advanced Analysis Techniques
 ## Speaker: Shawn Dorward
 ## Title: Getting Started with Power Query
@@ -74,7 +75,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 82075
 # Intro to Powershell for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Galbraith
 ## Title: Intro to Powershell for the SQL Server DBA
@@ -83,7 +84,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82895
 # The Power of Data: The Complete Beginners Data Warehouse Kit
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data: The Complete Beginners Data Warehouse Kit
@@ -92,7 +93,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 83024
 # JSON for the Data Mortals
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Jim Dorame
 ## Title: JSON for the Data Mortals
@@ -101,7 +102,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database D
 #  
 #### SessionID: 82091
 # An (Advanced) Introduction to Dax
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Information Delivery
 ## Speaker: Eugene Meidinger
 ## Title: An (Advanced) Introduction to Dax
@@ -110,7 +111,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Information Delivery
 #  
 #### SessionID: 82170
 # Difficult Queries
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Rick Bielawski
 ## Title: Difficult Queries
@@ -119,7 +120,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database D
 #  
 #### SessionID: 82589
 # Extending DevOps To SQL Server
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Extending DevOps To SQL Server
@@ -128,7 +129,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database D
 #  
 #### SessionID: 83005
 # Learn History from Temporal Tables
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: Learn History from Temporal Tables
@@ -137,7 +138,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82533
 # Mom Rules for Managing Enterprise Database Environments
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: Mom Rules for Managing Enterprise Database Environments
@@ -146,7 +147,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83192
 # Getting Started with Extended Events
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Galbraith
 ## Title: Getting Started with Extended Events
@@ -159,7 +160,7 @@ Come learn how to get started - the basics of sessions, events, actions, targets
 #  
 #### SessionID: 83810
 # The Fast Track to Database Performance
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Eric Swiggum
 ## Title: The Fast Track to Database Performance
@@ -168,7 +169,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database D
 #  
 #### SessionID: 85362
 # Power BI Deployment:Scaling from 5 to 5000
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Meidinger
 ## Title: Power BI Deployment:Scaling from 5 to 5000
@@ -177,7 +178,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 82033
 # Looking through the Windshield: Forward-looking Dashboards  KPIs
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Information Delivery
 ## Speaker: Brian Larson
 ## Title: Looking through the Windshield: Forward-looking Dashboards  KPIs
@@ -186,7 +187,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Information Delivery
 #  
 #### SessionID: 82048
 # A Rocket Scientist Perspective on Indexes
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: A Rocket Scientist Perspective on Indexes
@@ -195,7 +196,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database D
 #  
 #### SessionID: 82619
 # Maximizing SQL Server Management Studio for Developers and DBAs
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Nem Schlecht
 ## Title: Maximizing SQL Server Management Studio for Developers and DBAs
@@ -207,7 +208,7 @@ Operations Studio.
 #  
 #### SessionID: 83883
 # Let's Explore SQL Internals
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Let's Explore SQL Internals
@@ -216,7 +217,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82026
 # DAX 201
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Belinda Allen
 ## Title: DAX 201
@@ -225,7 +226,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 82588
 # Data Protection  Privacy in the World of Database DevOps
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Grant Fritchey
 ## Title: Data Protection  Privacy in the World of Database DevOps
@@ -234,7 +235,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83886
 # SQL Server Databases in the Clouds
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Plas
 ## Title: SQL Server Databases in the Clouds
@@ -243,7 +244,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84123
 # The Case for Change: Identifying and Remedying Bad Code
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: The Case for Change: Identifying and Remedying Bad Code
@@ -254,7 +255,7 @@ How do you capture those bad queries? When you have this data what do you look a
 #  
 #### SessionID: 82086
 # Dynamic SQL: Tables / Parameters  DBA Tools
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables / Parameters  DBA Tools
@@ -263,7 +264,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database D
 #  
 #### SessionID: 82177
 # Data Cleansing With SQL And R
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Data Cleansing With SQL And R
@@ -272,7 +273,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 82337
 # An introduction to the magical world of BIML!
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
@@ -281,7 +282,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 83555
 # Decoder ring not needed
-#### [Back to calendar](#SQLSaturday-#787-Sioux-Falls-2018)
+#### [Back to calendar](#nr-787)
 Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcus Hopfinger
 ## Title: Decoder ring not needed

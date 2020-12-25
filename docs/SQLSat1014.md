@@ -1,3 +1,4 @@
+#### Nr: 1014
 #### [Back to Main list](index.md)
 # SQLSaturday #1014 – Lima – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -34,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 107784
 # Transformaciones que pueden salvar tu ETL
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA1
 ## Speaker: Ana Maria Bisbé York
 ## Title: Transformaciones que pueden salvar tu ETL
@@ -44,7 +45,7 @@ A partir de orígenes de datos diversos se llega a un hermoso modelo tabular con
 #  
 #### SessionID: 108017
 # New Features in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 ## Speaker: Javier Villegas
 ## Title: New Features in SQL Server 2019
@@ -53,7 +54,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 #  
 #### SessionID: 109004
 # Cosmos DB: An Azure Odyssey
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 ## Speaker: André Melancia
 ## Title: Cosmos DB: An Azure Odyssey
@@ -64,7 +65,7 @@ Disclaimer: Mixing SQL electrons with NoSQL positrons may lead to the destructio
 #  
 #### SessionID: 107740
 # How to get the most from Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: How to get the most from Azure SQL Database
@@ -75,7 +76,7 @@ We will also see some ways to lower the costs or increase performance without ha
 #  
 #### SessionID: 107835
 # Sex, Artificial Intelligence  Rock n’ Roll
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 ## Speaker: Javier Menendez Pallo
 ## Title: Sex, Artificial Intelligence  Rock n’ Roll
@@ -84,7 +85,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 #  
 #### SessionID: 108393
 # Quantum computing explained with demos!
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 ## Speaker: Damian Widera
 ## Title: Quantum computing explained with demos!
@@ -103,7 +104,7 @@ I do not assume any special knowledge, but if you know basic linear algebra (mat
 #  
 #### SessionID: 107735
 # ¡Azure DevOps! Versionamiento, Integración y Entrega Continua de Bases de Datos...
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 ## Speaker: Edgardo Gutiérrez
 ## Title: ¡Azure DevOps! Versionamiento, Integración y Entrega Continua de Bases de Datos...
@@ -116,7 +117,7 @@ Este proceso se puede apoyar de una metodología ágil, lo que resulta en un eng
 #  
 #### SessionID: 107797
 # Intro to Power BI
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 ## Speaker: David Patrick
 ## Title: Intro to Power BI
@@ -125,7 +126,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 #  
 #### SessionID: 109326
 # Presentación de Productos IDERA: SQL Diagnostic Manager y SQL Compliance Manager
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 ## Speaker: Jose Castillo
 ## Title: Presentación de Productos IDERA: SQL Diagnostic Manager y SQL Compliance Manager
@@ -136,7 +137,7 @@ SQL Compliance Manager: Monitorea, alerta y registra el acceso a bases de datos 
 #  
 #### SessionID: 107847
 # Dax step by step with Power BI
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 ## Speaker: Martha Chávez
 ## Title: Dax step by step with Power BI
@@ -145,7 +146,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 #  
 #### SessionID: 108070
 # Back to the future - Migrating our SQL Server OnPremise Database to Azure kik
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Back to the future - Migrating our SQL Server OnPremise Database to Azure kik
@@ -161,7 +162,7 @@ This session consists of:
 #  
 #### SessionID: 108950
 # Understanding the Statistics in SQL Server
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 ## Speaker: Deepthi Goguri
 ## Title: Understanding the Statistics in SQL Server
@@ -172,7 +173,7 @@ This session will have awesome demos showcasing practical examples of how the op
 #  
 #### SessionID: 107776
 # Query Store for SQL Server 2019 from zero to an hero  lessons learned from the fields .
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 ## Speaker: Itshak David
 ## Title: Query Store for SQL Server 2019 from zero to an hero  lessons learned from the fields .
@@ -189,7 +190,7 @@ This is  a demo session only with minimum theory  lessons from the fields
 #  
 #### SessionID: 108483
 # Utilizando Spark en Azure
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Utilizando Spark en Azure
@@ -198,7 +199,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 #  
 #### SessionID: 109324
 # Saca el maximo provecho a Dataflows en Power BI Pro o Premium
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA1
 ## Speaker: Alejandro Humberto Sánchez Núñez
 ## Title: Saca el maximo provecho a Dataflows en Power BI Pro o Premium
@@ -207,7 +208,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA1
 #  
 #### SessionID: 108392
 # How to become a Data Scientist with Python and Jupyter notebook
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 ## Speaker: Damian Widera
 ## Title: How to become a Data Scientist with Python and Jupyter notebook
@@ -216,7 +217,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 #  
 #### SessionID: 108786
 # AI Power - Cognitive Services and Power BI
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 ## Speaker: Alex Rostan
 ## Title: AI Power - Cognitive Services and Power BI
@@ -225,7 +226,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 #  
 #### SessionID: 107737
 # Integrating AI Cognitive Services with Power BI and PowerApps
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 ## Speaker: Mahesh Caroicar
 ## Title: Integrating AI Cognitive Services with Power BI and PowerApps
@@ -234,7 +235,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 #  
 #### SessionID: 108004
 # Introducción al Internet de las cosas (IoT)
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 ## Speaker: Vladimir Guzman
 ## Title: Introducción al Internet de las cosas (IoT)
@@ -243,7 +244,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 #  
 #### SessionID: 108937
 # Power BI Composite Models
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 ## Speaker: Jose L. Rivera
 ## Title: Power BI Composite Models
@@ -252,7 +253,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 #  
 #### SessionID: 107806
 # Azure Sql DB Managed instance, a different sql server?
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 ## Speaker: Gonzalo Bissio
 ## Title: Azure Sql DB Managed instance, a different sql server?
@@ -261,7 +262,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 #  
 #### SessionID: 107809
 # Conociendo mas de Power BI dataflows
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA1
 ## Speaker: Gaston Cruz
 ## Title: Conociendo mas de Power BI dataflows
@@ -270,7 +271,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA1
 #  
 #### SessionID: 107811
 # Opciones de alta disponibilidad con Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA1
 ## Speaker: Alberto De Rossi
 ## Title: Opciones de alta disponibilidad con Microsoft SQL Server
@@ -279,7 +280,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA1
 #  
 #### SessionID: 107798
 # Intro to CDS inside of Power Automate (fka Microsoft Flow)
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 ## Speaker: David Patrick
 ## Title: Intro to CDS inside of Power Automate (fka Microsoft Flow)
@@ -290,7 +291,7 @@ Learn how the CDS ties into Power Automate (Flow), what Triggers and actions are
 #  
 #### SessionID: 107850
 # Data Storytelling with Power BI
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 ## Speaker: Jorge Michael Muchaypiña Gutierrez
 ## Title: Data Storytelling with Power BI
@@ -299,7 +300,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 #  
 #### SessionID: 109123
 # Azure Synapse Analytics – Análisis de Datos Ilimitados
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA00
 ## Speaker: Mariano Kovo
 ## Title: Azure Synapse Analytics – Análisis de Datos Ilimitados
@@ -309,7 +310,7 @@ Revisaremos su evolución, arquitectura y componentes de esta pontente solución
 #  
 #### SessionID: 108300
 # Conceptos Básicos para Utilizar Grafos en AZURE SQL DB y POWER BI
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA1
 ## Speaker: Wagner Crivelini
 ## Title: Conceptos Básicos para Utilizar Grafos en AZURE SQL DB y POWER BI
@@ -318,7 +319,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA1
 #  
 #### SessionID: 108877
 # SQL en Docker paso a paso
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 ## Speaker: Maxi Accotto
 ## Title: SQL en Docker paso a paso
@@ -327,7 +328,7 @@ Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 #  
 #### SessionID: 109118
 # Synapse Analytics - Análisis de la nube en la era del autoservicio y la ciencia de datos
-#### [Back to calendar](#SQLSaturday-#1014-–-Lima-–-Virtual-2020)
+#### [Back to calendar](#nr-1014)
 Event Date: 05-12-2020 - Session time: 18:00:00 - Track: EVA2
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: Synapse Analytics - Análisis de la nube en la era del autoservicio y la ciencia de datos

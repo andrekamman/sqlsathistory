@@ -1,3 +1,4 @@
+#### Nr: 120
 #### [Back to Main list](index.md)
 # SQLSaturday #120 - Orange County 2012
 Start Time (24h)|Speaker|Track|Title
@@ -53,7 +54,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10309
 # From Zero to SQL Azure in 10 Cloudy Steps
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Ben Aminnia
 ## Title: From Zero to SQL Azure in 10 Cloudy Steps
@@ -62,7 +63,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 10310
 # A Journey through New Features of SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Ben Aminnia
 ## Title: A Journey through New Features of SQL Server 2012
@@ -71,7 +72,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 11322
 # Preparing Data for Analysis as Tabular Models
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Carlos Bossy
 ## Title: Preparing Data for Analysis as Tabular Models
@@ -80,7 +81,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 11323
 # Real-time Data Warehouse and Reporting
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Carlos Bossy
 ## Title: Real-time Data Warehouse and Reporting
@@ -89,7 +90,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 11468
 # Extended Events in SQL Server 2008 and 2012
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Chris Dickey
 ## Title: Extended Events in SQL Server 2008 and 2012
@@ -98,7 +99,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 11732
 # Optimizing your BI Semantic Model for Power View
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Clint Kunz
 ## Title: Optimizing your BI Semantic Model for Power View
@@ -107,7 +108,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 12870
 # Data Warehouse Best Practices
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Doug Barrett
 ## Title: Data Warehouse Best Practices
@@ -116,7 +117,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13091
 # Women in Technology Un-Panel
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Denise McInerney
 ## Title: Women in Technology Un-Panel
@@ -125,7 +126,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13395
 # Agile Data Warehousing with WhereScape RED
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Douglas Barrett
 ## Title: Agile Data Warehousing with WhereScape RED
@@ -134,7 +135,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 14051
 # TempDB Performance Troubleshooting and Optimizing
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Performance Troubleshooting and Optimizing
@@ -143,7 +144,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 14052
 # Join Us! Getting Started as a Technical Speaker
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Eddie Wuerch
 ## Title: Join Us! Getting Started as a Technical Speaker
@@ -152,7 +153,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 14053
 # Page Latches for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Eddie Wuerch
 ## Title: Page Latches for Mere Mortals
@@ -161,7 +162,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 14945
 # Introduction to Log Shipping and Mirroring
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Harry Chandra
 ## Title: Introduction to Log Shipping and Mirroring
@@ -172,7 +173,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 16578
 # Rules, Rules, and Rules
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jeremiah Peschka
 ## Title: Rules, Rules, and Rules
@@ -183,7 +184,7 @@ Database systems are built according to those rules: memory is faster than disk 
 #  
 #### SessionID: 16581
 # Rewrite your T-SQL for Great Good!
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Jeremiah Peschka
 ## Title: Rewrite your T-SQL for Great Good!
@@ -193,7 +194,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 18091
 # SQL Server First Responder Kit
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kendra Little
 ## Title: SQL Server First Responder Kit
@@ -202,7 +203,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21463
 # SQL Azure Data Sync
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Nitin Salgar
 ## Title: SQL Azure Data Sync
@@ -211,7 +212,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 22112
 # Up Your Game With OUTPUT
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Phil Helmer
 ## Title: Up Your Game With OUTPUT
@@ -220,7 +221,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 23013
 # Basic Performance Tips and Gotchas
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Rick  Morelan
 ## Title: Basic Performance Tips and Gotchas
@@ -229,7 +230,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 23014
 # Avoid Errors on Errors
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Rick  Morelan
 ## Title: Avoid Errors on Errors
@@ -238,7 +239,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 27564
 # AlwaysOn – Way to get your 9’s?
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Warren Sifre
 ## Title: AlwaysOn – Way to get your 9’s?
@@ -247,7 +248,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29024
 # Discussion-Time Analytics: BI for smart meetings
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Benjamin Muller
 ## Title: Discussion-Time Analytics: BI for smart meetings
@@ -256,7 +257,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29025
 # Self-service BI with Power View
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Benjamin Muller
 ## Title: Self-service BI with Power View
@@ -265,7 +266,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29201
 # Dimensional Modeling Fundamentals 
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Brent Greenwood
 ## Title: Dimensional Modeling Fundamentals 
@@ -279,7 +280,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29562
 # SQL Server 2012 EIM (SSIS, DQS, and MDS)
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Matt Hollingsworth
 ## Title: SQL Server 2012 EIM (SSIS, DQS, and MDS)
@@ -289,7 +290,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29980
 # SQL Server Security 101
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Diana Dee
 ## Title: SQL Server Security 101
@@ -308,7 +309,7 @@ Content:
 #  
 #### SessionID: 30269
 # Common Backup Problems and How to Deal With Them
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Grant Fritchey
 ## Title: Common Backup Problems and How to Deal With Them
@@ -317,7 +318,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 30270
 # T-SQL Deployment and CI Best Practices
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Grant Fritchey
 ## Title: T-SQL Deployment and CI Best Practices
@@ -326,7 +327,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 30360
 # SQL Azure Federations
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Ike Ellis
 ## Title: SQL Azure Federations
@@ -335,7 +336,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 30481
 # Don't Panic, DBAs!  Databases on VMware made easy.
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Janis Griffin
 ## Title: Don't Panic, DBAs!  Databases on VMware made easy.
@@ -344,7 +345,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30483
 # Performance Management – 2008 MDW - How  Why
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Janis Griffin
 ## Title: Performance Management – 2008 MDW - How  Why
@@ -353,7 +354,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 31531
 # noSQL - why do I care, when  how should I use it?
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Lynn Langit
 ## Title: noSQL - why do I care, when  how should I use it?
@@ -362,7 +363,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31920
 # Easily Manage your Servers with Policy Based Mgmt
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Mitchell Bottel
 ## Title: Easily Manage your Servers with Policy Based Mgmt
@@ -371,7 +372,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 31921
 # The Art of Networking and Self Promotion
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Mitchell Bottel
 ## Title: The Art of Networking and Self Promotion
@@ -380,7 +381,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 32017
 # SQL Server Table Partitioning from the ground up
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Denny Cherry
 ## Title: SQL Server Table Partitioning from the ground up
@@ -393,7 +394,7 @@ from one partition to another and from one table to another with minimal to no i
 #  
 #### SessionID: 32019
 # Table Indexing for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
@@ -402,7 +403,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32030
 # SQL 2012 HA/DR Enhancements  Overiew
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Michael Steineke
 ## Title: SQL 2012 HA/DR Enhancements  Overiew
@@ -412,7 +413,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32436
 # Understanding SQL Server XML Features 
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Randy Knight
 ## Title: Understanding SQL Server XML Features 
@@ -421,7 +422,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32437
 # Understanding Transaction Isolation Levels
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Randy Knight
 ## Title: Understanding Transaction Isolation Levels
@@ -431,7 +432,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 33855
 # Contained DB?  Did it do something wrong?
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Warren Sifre
 ## Title: Contained DB?  Did it do something wrong?
@@ -440,7 +441,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33856
 # Introduction to FileTables in SQL 2012
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Warren Sifre
 ## Title: Introduction to FileTables in SQL 2012
@@ -449,7 +450,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 8871
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals
@@ -459,7 +460,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 9012
 # Columnstore Indexes and Data Warehouses
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Benjamin Nevarez
 ## Title: Columnstore Indexes and Data Warehouses
@@ -468,7 +469,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 9013
 # Inside the SQL Server Query Optimizer
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Benjamin Nevarez
 ## Title: Inside the SQL Server Query Optimizer
@@ -478,7 +479,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9014
 # Understanding Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
@@ -487,7 +488,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9015
 # Top Query Optimizer Topics for Better Performance
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Benjamin Nevarez
 ## Title: Top Query Optimizer Topics for Better Performance
@@ -496,7 +497,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9958
 # The Performance Impact of Database Design
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Audrey Hammonds
 ## Title: The Performance Impact of Database Design
@@ -506,7 +507,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 9959
 # Shiny New T-SQL for SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#120-Orange-County-2012)
+#### [Back to calendar](#nr-120)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Audrey Hammonds
 ## Title: Shiny New T-SQL for SQL Server 2012

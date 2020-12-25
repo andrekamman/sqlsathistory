@@ -1,3 +1,4 @@
+#### Nr: 254
 #### [Back to Main list](index.md)
 # SQLSaturday #254 - El Salvador 2013
 Start Time (24h)|Speaker|Track|Title
@@ -20,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11183
 # SQL Server--En juego or Fuera de juego?
-#### [Back to calendar](#SQLSaturday-#254-El-Salvador-2013)
+#### [Back to calendar](#nr-254)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Administrator
 ## Speaker: Carlos L Chacon
 ## Title: SQL Server--En juego or Fuera de juego?
@@ -29,7 +30,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Administrator
 #  
 #### SessionID: 11184
 # Variables de Tipo Tabla y Tablas Temporales; ¿iguales o no?
-#### [Back to calendar](#SQLSaturday-#254-El-Salvador-2013)
+#### [Back to calendar](#nr-254)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Developer
 ## Speaker: Carlos L Chacon
 ## Title: Variables de Tipo Tabla y Tablas Temporales; ¿iguales o no?
@@ -42,7 +43,7 @@ contestar la pregunta--¿Cuando debo usarlos y porque?
 #  
 #### SessionID: 11879
 # Inteligencia de Negocios - Step by Step
-#### [Back to calendar](#SQLSaturday-#254-El-Salvador-2013)
+#### [Back to calendar](#nr-254)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: César Oviedo
 ## Title: Inteligencia de Negocios - Step by Step
@@ -51,7 +52,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 13623
 # Mecanismos de Alta Disponibilidad en SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#254-El-Salvador-2013)
+#### [Back to calendar](#nr-254)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Administrator
 ## Speaker: Eduardo Castro
 ## Title: Mecanismos de Alta Disponibilidad en SQL Server 2012
@@ -60,7 +61,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Administrator
 #  
 #### SessionID: 13625
 # Minería de datos con SQL Server 2012 utilizando Excel y PowerPivot
-#### [Back to calendar](#SQLSaturday-#254-El-Salvador-2013)
+#### [Back to calendar](#nr-254)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Eduardo Castro
 ## Title: Minería de datos con SQL Server 2012 utilizando Excel y PowerPivot
@@ -69,7 +70,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 15531
 # Mejores practicas de DBA con SQL SERVER
-#### [Back to calendar](#SQLSaturday-#254-El-Salvador-2013)
+#### [Back to calendar](#nr-254)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Administrator
 ## Speaker: Juan Alvarado
 ## Title: Mejores practicas de DBA con SQL SERVER
@@ -78,7 +79,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Administrator
 #  
 #### SessionID: 17592
 # Inteligencia de Negocio en la nube, una realidad palpable!!!
-#### [Back to calendar](#SQLSaturday-#254-El-Salvador-2013)
+#### [Back to calendar](#nr-254)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Jose Gregorio Redondo Lopez
 ## Title: Inteligencia de Negocio en la nube, una realidad palpable!!!
@@ -87,7 +88,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 17594
 # Entendiendo el Sistema de Almacenamiento de Datos y SQL Server
-#### [Back to calendar](#SQLSaturday-#254-El-Salvador-2013)
+#### [Back to calendar](#nr-254)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Administrator
 ## Speaker: Jose Gregorio Redondo Lopez
 ## Title: Entendiendo el Sistema de Almacenamiento de Datos y SQL Server
@@ -96,7 +97,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Administrator
 #  
 #### SessionID: 17756
 # Overview de tecnologias en memoria de Microsoft SQL SERVER
-#### [Back to calendar](#SQLSaturday-#254-El-Salvador-2013)
+#### [Back to calendar](#nr-254)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Developer
 ## Speaker: Juan Alvarado
 ## Title: Overview de tecnologias en memoria de Microsoft SQL SERVER
@@ -105,7 +106,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Developer
 #  
 #### SessionID: 22226
 # Modelos Tabulares (SSAS Tabular)
-#### [Back to calendar](#SQLSaturday-#254-El-Salvador-2013)
+#### [Back to calendar](#nr-254)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Ahias Portillo
 ## Title: Modelos Tabulares (SSAS Tabular)
@@ -114,7 +115,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 22227
 # Todo Inicia con la Integración de datos (SSIS).
-#### [Back to calendar](#SQLSaturday-#254-El-Salvador-2013)
+#### [Back to calendar](#nr-254)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Ahias Portillo
 ## Title: Todo Inicia con la Integración de datos (SSIS).
@@ -123,7 +124,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 26221
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#254-El-Salvador-2013)
+#### [Back to calendar](#nr-254)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Developer
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -132,7 +133,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Developer
 #  
 #### SessionID: 26223
 # Indexing Deep Dive
-#### [Back to calendar](#SQLSaturday-#254-El-Salvador-2013)
+#### [Back to calendar](#nr-254)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Developer
 ## Speaker: Kevin Boles
 ## Title: Indexing Deep Dive
@@ -141,7 +142,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Developer
 #  
 #### SessionID: 9046
 # Continuidad Operativa con SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#254-El-Salvador-2013)
+#### [Back to calendar](#nr-254)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Administrator
 ## Speaker: Adrian Miranda
 ## Title: Continuidad Operativa con SQL Server 2012
@@ -151,7 +152,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Administrator
 #  
 #### SessionID: 9048
 # 10 Cosas que debes de dejar de hacer en una base de datos
-#### [Back to calendar](#SQLSaturday-#254-El-Salvador-2013)
+#### [Back to calendar](#nr-254)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Database Developer
 ## Speaker: Adrian Miranda
 ## Title: 10 Cosas que debes de dejar de hacer en una base de datos

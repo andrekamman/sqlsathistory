@@ -1,3 +1,4 @@
+#### Nr: 717
 #### [Back to Main list](index.md)
 # SQLSaturday #717 - Wheeling 2018
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 74035
 # Microsoft Machine Learning Services
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Andrew Loree
 ## Title: Microsoft Machine Learning Services
@@ -36,7 +37,7 @@ A beginner level understanding of Machine Learning and process is highly recomme
 #  
 #### SessionID: 74220
 # Eliminating the CRUD with Entity Framework Core
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Jeremy Sinclair
 ## Title: Eliminating the CRUD with Entity Framework Core
@@ -45,7 +46,7 @@ Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 74222
 # Handcrafting Covering Indexes
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Devon Leann Ramirez
 ## Title: Handcrafting Covering Indexes
@@ -54,7 +55,7 @@ Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 74284
 # Stress testing SQL Server
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hilary Cotter
 ## Title: Stress testing SQL Server
@@ -63,7 +64,7 @@ Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71123
 # How to get Microsoft Certified
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: IT Professional or Professional Development
 ## Speaker: John Deardurff
 ## Title: How to get Microsoft Certified
@@ -72,7 +73,7 @@ Event Date: 28-04-2018 - Session time: 15:00:00 - Track: IT Professional or Prof
 #  
 #### SessionID: 71176
 # Execution Plans 101
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Eugene Meidinger
 ## Title: Execution Plans 101
@@ -81,7 +82,7 @@ Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 71715
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -94,7 +95,7 @@ Instead of focusing on syntax, the session will plunge straight into examples an
 #  
 #### SessionID: 73943
 # SSIS Incremental Loading:  The Tortoise and The Hare
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: BI Information Delivery, Architecture, Development  Administration
 ## Speaker: Jeremy Frye
 ## Title: SSIS Incremental Loading:  The Tortoise and The Hare
@@ -105,7 +106,7 @@ In this session, we will cover a variety of incremental design approaches center
 #  
 #### SessionID: 71217
 # Getting started with SQL Azure Database: What you need to know
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Cloud Development  Implementation
 ## Speaker: Jim Donahoe
 ## Title: Getting started with SQL Azure Database: What you need to know
@@ -116,7 +117,7 @@ By the end of this presentation, you’ll understand if Azure SQL Database is th
 #  
 #### SessionID: 71378
 # Infrastructure for the DBA: An Introduction
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: Infrastructure for the DBA: An Introduction
@@ -125,7 +126,7 @@ Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73795
 # Linux for SQL Server
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jay Falck
 ## Title: Linux for SQL Server
@@ -134,7 +135,7 @@ Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 74229
 # Monitoring Availability Groups
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Monitoring Availability Groups
@@ -145,7 +146,7 @@ You will walk away from this session with tools you need to monitor your environ
 #  
 #### SessionID: 71198
 # Working Effectively With Legacy SQL
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Working Effectively With Legacy SQL
@@ -154,7 +155,7 @@ Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 72774
 # What's new in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: IT Professional or Professional Development
 ## Speaker: Hasan Savran
 ## Title: What's new in SQL Server 2017
@@ -163,7 +164,7 @@ Event Date: 28-04-2018 - Session time: 15:00:00 - Track: IT Professional or Prof
 #  
 #### SessionID: 74252
 # Successfully Running SQL Server in AWS
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Carrig
 ## Title: Successfully Running SQL Server in AWS
@@ -172,7 +173,7 @@ Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 74277
 # 45 min to build your first SSRS report
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: BI Information Delivery, Architecture, Development  Administration
 ## Speaker: Tamera Clark
 ## Title: 45 min to build your first SSRS report
@@ -181,7 +182,7 @@ Event Date: 28-04-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 72782
 # What I wish I knew as a beginning DBA.
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael John
 ## Title: What I wish I knew as a beginning DBA.
@@ -190,7 +191,7 @@ Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 72863
 # How can containers for my database help me?
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Carlos L Chacon
 ## Title: How can containers for my database help me?
@@ -199,7 +200,7 @@ Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 73991
 # Know What Your Code is Doing to SQL Server!
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Know What Your Code is Doing to SQL Server!
@@ -208,7 +209,7 @@ Event Date: 28-04-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 74264
 # 45 Minutes to Your First SSAS Tabular Model
-#### [Back to calendar](#SQLSaturday-#717-Wheeling-2018)
+#### [Back to calendar](#nr-717)
 Event Date: 28-04-2018 - Session time: 15:00:00 - Track: BI Information Delivery, Architecture, Development  Administration
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First SSAS Tabular Model

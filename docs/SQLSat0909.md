@@ -1,3 +1,4 @@
+#### Nr: 909
 #### [Back to Main list](index.md)
 # SQLSaturday #909 - San Diego 2019
 Start Time (24h)|Speaker|Track|Title
@@ -49,7 +50,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 96142
 # Not Your Grand Mother's AI
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Data Science, Analytics and Visualization
 ## Speaker: Melody Zacharias
 ## Title: Not Your Grand Mother's AI
@@ -58,7 +59,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Data Science, Analytics
 #  
 #### SessionID: 96149
 # How to Be an MVP (in Life and a Microsoft MVP)
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Professional Development/Other
 ## Speaker: David Lundell
 ## Title: How to Be an MVP (in Life and a Microsoft MVP)
@@ -67,7 +68,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 96285
 # Using Columnstore indexes in Azure DevOps Services. Lessons learned
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Konstantin Kosinsky
 ## Title: Using Columnstore indexes in Azure DevOps Services. Lessons learned
@@ -86,7 +87,7 @@ Working on it, I've learned a lot of DOs and DON'Ts about columnstore indexes. S
 #  
 #### SessionID: 96552
 # How to Get SQL Server to Run Better on Crappy Hardware.
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: How to Get SQL Server to Run Better on Crappy Hardware.
@@ -95,7 +96,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 96861
 # The Master Stored Procedure Workshop: Part 1
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Sean McCown
 ## Title: The Master Stored Procedure Workshop: Part 1
@@ -112,7 +113,7 @@ The session will be packed with tons of code examples, with plenty of labs to re
 #  
 #### SessionID: 96942
 # One key to rule them all - how to effectively destroy data consistency, and ruin query performance
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ami Levin
 ## Title: One key to rule them all - how to effectively destroy data consistency, and ruin query performance
@@ -128,7 +129,7 @@ By the end of this session, you will chant with me:
 #  
 #### SessionID: 98370
 # How to build a T-SQL Framework
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Professional Development/Other
 ## Speaker: Jared Kirkpatrick
 ## Title: How to build a T-SQL Framework
@@ -139,7 +140,7 @@ In this session we will create a framework that we can leverage through a templa
 #  
 #### SessionID: 98626
 # Virtualizing SQL Server
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: Virtualizing SQL Server
@@ -148,7 +149,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 96099
 # Reporting Services: A Smart Migration Strategy
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: PASS Summit Preview
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services: A Smart Migration Strategy
@@ -160,7 +161,7 @@ Learn how to use PowerShell to extract the reports and data sets from the databa
 #  
 #### SessionID: 96143
 # Confidence – The Best Super-Power
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Professional Development/Other
 ## Speaker: Melody Zacharias
 ## Title: Confidence – The Best Super-Power
@@ -170,7 +171,7 @@ Confidence is only 25% genetic.  Let’s improve the other 75%.
 #  
 #### SessionID: 96338
 # Azure SQL Database Edge - Tiny but mighty
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Julie Koesmarno
 ## Title: Azure SQL Database Edge - Tiny but mighty
@@ -181,7 +182,7 @@ Running on Arm and x64 architecture with a reduced footprint, the proven perform
 #  
 #### SessionID: 96554
 # I'm It - Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Professional Development/Other
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
@@ -192,7 +193,7 @@ This session will cover how you can keep your sanity, get stuff done, and still 
 #  
 #### SessionID: 96862
 # The Master Stored Procedure Workshop: Part 2
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: The Master Stored Procedure Workshop: Part 2
@@ -209,7 +210,7 @@ The session will be packed with tons of code examples, with plenty of labs to re
 #  
 #### SessionID: 98115
 # Getting started with Azure Database for PostgreSQL
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Andrew Karcher
 ## Title: Getting started with Azure Database for PostgreSQL
@@ -218,7 +219,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 98205
 # T-SQL Tools: Using JSON as a Data Source
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Martin Perez
 ## Title: T-SQL Tools: Using JSON as a Data Source
@@ -229,7 +230,7 @@ We will look at the benefits of a loosely defined schema and how to transform th
 #  
 #### SessionID: 98459
 # Basic Windowing Functions
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mike Burek
 ## Title: Basic Windowing Functions
@@ -238,7 +239,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 98572
 # Azure Data Lakes and Data Warehouses:
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: PASS Summit Preview
 ## Speaker: Dustin Vannoy
 ## Title: Azure Data Lakes and Data Warehouses:
@@ -247,7 +248,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: PASS Summit Preview
 #  
 #### SessionID: 95946
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
@@ -256,7 +257,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: BI Architecture, Develo
 #  
 #### SessionID: 98627
 # Pure Storage: How Fast Can You Restore Your Database?
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: Pure Storage: How Fast Can You Restore Your Database?
@@ -265,7 +266,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 96695
 # Code Like a Pirate ... Intro to R and Data Science Tools in MS
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Data Science, Analytics and Visualization
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Pirate ... Intro to R and Data Science Tools in MS
@@ -289,7 +290,7 @@ The focus of the session will be primarily on the introduction to the R language
 #  
 #### SessionID: 96870
 # SQL Query Foundations
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Amod Singhal
 ## Title: SQL Query Foundations
@@ -299,7 +300,7 @@ This tutorial will focus on crucial foundational knowledge needed to retrieve da
 #  
 #### SessionID: 96941
 # Big Data, Big Dupe: A little session about a big bunch of nonsense.
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Ami Levin
 ## Title: Big Data, Big Dupe: A little session about a big bunch of nonsense.
@@ -316,7 +317,7 @@ I promise that after this session, you will never look at big data the same way 
 #  
 #### SessionID: 98001
 # Know What Your Code is Doing to SQL Server!
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Know What Your Code is Doing to SQL Server!
@@ -325,7 +326,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 98050
 # ETL, Introduction to SSIS, and third-party tools like MelissaData and CozyRoc
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Steve Rezhener
 ## Title: ETL, Introduction to SSIS, and third-party tools like MelissaData and CozyRoc
@@ -334,7 +335,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: BI Architecture, Develo
 #  
 #### SessionID: 98349
 # Running SQL Server on AWS
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Richard Waymire
 ## Title: Running SQL Server on AWS
@@ -343,7 +344,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 98460
 # Columnstore Indexes for Everyone
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mike Burek
 ## Title: Columnstore Indexes for Everyone
@@ -352,7 +353,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 98543
 # Women in Technology Panel Discussion
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Professional Development/Other
 ## Speaker: Melody Zacharias
 ## Title: Women in Technology Panel Discussion
@@ -361,7 +362,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 98631
 # From the Trenches - Case Study of a Data Warehouse Migration  Upgrade
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Hull
 ## Title: From the Trenches - Case Study of a Data Warehouse Migration  Upgrade
@@ -372,7 +373,7 @@ We'll outline pitfalls to avoid, and walk you through hard-won lessons and strat
 #  
 #### SessionID: 95187
 # Introduction to Linux for SQL Server Professionals
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jay Falck
 ## Title: Introduction to Linux for SQL Server Professionals
@@ -381,7 +382,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 95280
 # A Perfect Ten: The Data Model
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: A Perfect Ten: The Data Model
@@ -390,7 +391,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: BI Architecture, Develo
 #  
 #### SessionID: 96265
 # What just happened? Creating your own real-time dashboard with Grafana, Influx, and Telegraf
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Partin
 ## Title: What just happened? Creating your own real-time dashboard with Grafana, Influx, and Telegraf
@@ -405,7 +406,7 @@ All of these tools are completely free, and if you don't have the right monitori
 #  
 #### SessionID: 96615
 # Utilizing AI to Predict Customer Churn
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Data Science, Analytics and Visualization
 ## Speaker: Zia Khan
 ## Title: Utilizing AI to Predict Customer Churn
@@ -416,7 +417,7 @@ In this session theDevMasters will take you on a journey into AI and machine lea
 #  
 #### SessionID: 96698
 # Power BI Dataflows and How to Leverage for Data Science
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Data Science, Analytics and Visualization
 ## Speaker: Jamey Johnston
 ## Title: Power BI Dataflows and How to Leverage for Data Science
@@ -425,7 +426,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Data Science, Analytics
 #  
 #### SessionID: 96763
 # Dive into the Query Optimizer - Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer - Undocumented Insight
@@ -434,7 +435,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 96857
 # The SQL Career Roadmap for Women (and Men)
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Professional Development/Other
 ## Speaker: Jennifer McCown
 ## Title: The SQL Career Roadmap for Women (and Men)
@@ -446,7 +447,7 @@ How can I get a database job with no experience? What’s the best way to learn 
 #  
 #### SessionID: 98344
 # T-SQL Tools: Change Automation with Change Data Capture
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Martin Perez
 ## Title: T-SQL Tools: Change Automation with Change Data Capture
@@ -459,7 +460,7 @@ In this session we will introduce you to Change Data Capture set up, usage and a
 #  
 #### SessionID: 95186
 # Setting up a test lab with Hyper-V
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Professional Development/Other
 ## Speaker: Jay Falck
 ## Title: Setting up a test lab with Hyper-V
@@ -468,7 +469,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 95492
 # Automate tests in your database with tSQLt
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Janice Gerbrandt
 ## Title: Automate tests in your database with tSQLt
@@ -481,7 +482,7 @@ Even if you aren't able to fully implement Test Driven Development tomorrow, you
 #  
 #### SessionID: 95996
 # Table Diaspora - A Tale from the Trenches
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Thul
 ## Title: Table Diaspora - A Tale from the Trenches
@@ -492,7 +493,7 @@ You'll never believe it - this happened to me! In this session, I'll outline how
 #  
 #### SessionID: 96097
 # Reporting Services Introduction
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services Introduction
@@ -503,7 +504,7 @@ Do you wish you could quickly and easily get some or your data into the hands of
 #  
 #### SessionID: 96444
 # Data Modeling Trends for 2019 And Beyond1
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Data Science, Analytics and Visualization
 ## Speaker: Ike Ellis
 ## Title: Data Modeling Trends for 2019 And Beyond1
@@ -514,7 +515,7 @@ It is true that data modeling has changed, but there is no need to throw out gre
 #  
 #### SessionID: 97954
 # Assessing and Planning SQL Database Migrations to Azure
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Manguirish Sardessai
 ## Title: Assessing and Planning SQL Database Migrations to Azure
@@ -526,7 +527,7 @@ By the end of this presentation , you'll be able to confidently identify your 
 #  
 #### SessionID: 98005
 # Tune Like a Guru - The Big Three!
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Tune Like a Guru - The Big Three!
@@ -535,7 +536,7 @@ Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 98116
 # Getting Started with Azure Databricks Delta
-#### [Back to calendar](#SQLSaturday-#909-San-Diego-2019)
+#### [Back to calendar](#nr-909)
 Event Date: 21-09-2019 - Session time: 16:00:00 - Track: Data Science, Analytics and Visualization
 ## Speaker: Andrew Karcher
 ## Title: Getting Started with Azure Databricks Delta

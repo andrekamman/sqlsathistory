@@ -1,3 +1,4 @@
+#### Nr: 751
 #### [Back to Main list](index.md)
 # SQLSaturday #751 - Santiago 2018
 Start Time (24h)|Speaker|Track|Title
@@ -26,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 77846
 # PreCon - Dashboard in a Day
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Data Science  BI
 ## Speaker: Gaston Cruz
 ## Title: PreCon - Dashboard in a Day
@@ -38,7 +39,7 @@ https://welcu.com/metric-learning/power-bi-day-2018?utm_source=directory
 #  
 #### SessionID: 80688
 # PreCon - Move your database to the Cloud
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 ## Speaker: Roberto Cavalcanti
 ## Title: PreCon - Move your database to the Cloud
@@ -50,7 +51,7 @@ https://welcu.com/metric-learning/mueva-su-base-de-datos-a-la-nube-entienda-dise
 #  
 #### SessionID: 73589
 # Working with Azure Data, BIG Data Services and Azure SQL for your Applications
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 ## Speaker: Adnan Hendricks
 ## Title: Working with Azure Data, BIG Data Services and Azure SQL for your Applications
@@ -60,7 +61,7 @@ Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 #  
 #### SessionID: 73806
 # SQL Server 2017 Adaptive Query Processing and Automatic Tunning
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 ## Speaker: Javier Villegas
 ## Title: SQL Server 2017 Adaptive Query Processing and Automatic Tunning
@@ -69,7 +70,7 @@ Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 #  
 #### SessionID: 77835
 # Azure SQL Database - Lessons learned from the trenches
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Azure SQL Database - Lessons learned from the trenches
@@ -78,7 +79,7 @@ Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 #  
 #### SessionID: 82900
 # Microsoft - Plataforma de Datos e Inteligencia Artificial
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Data Science  BI
 ## Speaker: Adrian Fernandez
 ## Title: Microsoft - Plataforma de Datos e Inteligencia Artificial
@@ -87,7 +88,7 @@ Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Data Science  BI
 #  
 #### SessionID: 78417
 # Text analytics con R y Term extraction Tool
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Data Science  BI
 ## Speaker: Juan Pablo Moraga
 ## Title: Text analytics con R y Term extraction Tool
@@ -98,7 +99,7 @@ Usaremos una herramienta simple llamada Term extraction tool de SQLServer y R pa
 #  
 #### SessionID: 78745
 # Inicia Performance Tuning con Wait Stats
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 ## Speaker: PABLO JAVIER FERNANDEZ
 ## Title: Inicia Performance Tuning con Wait Stats
@@ -111,7 +112,7 @@ En esta sesión nos preguntaremos qué hace que un query no sea más rápido y q
 #  
 #### SessionID: 78753
 # Impementing CD with SQL Server on Linux, Docker  Kubernetes
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 ## Speaker: Sergio Borromei
 ## Title: Impementing CD with SQL Server on Linux, Docker  Kubernetes
@@ -121,7 +122,7 @@ In this session we will show you how can easily take advantage of the new SQL Se
 #  
 #### SessionID: 74025
 # Connecting SQL Server to R
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Data Science  BI
 ## Speaker: Daniel Fischer
 ## Title: Connecting SQL Server to R
@@ -130,7 +131,7 @@ Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Data Science  BI
 #  
 #### SessionID: 74030
 # From SQL to Graph Databases
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 ## Speaker: Patricio Cofre
 ## Title: From SQL to Graph Databases
@@ -143,7 +144,7 @@ Azure Cosmos DB cuenta con una GRAPH API, basada en el Gremlin, lenguaje Open So
 #  
 #### SessionID: 74099
 # TSQL Query Analytics  Dashboard para DBA
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 ## Speaker: Carlos Farias
 ## Title: TSQL Query Analytics  Dashboard para DBA
@@ -152,7 +153,7 @@ Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 #  
 #### SessionID: 73713
 # La evolución de SQL Server - Azure SQL Database Managed Instance
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 ## Speaker: Javier Villegas
 ## Title: La evolución de SQL Server - Azure SQL Database Managed Instance
@@ -162,7 +163,7 @@ Azure SQL Database Managed Instance es un nuevo servicio PaaS que nos permitira 
 #  
 #### SessionID: 74033
 # From Zero to Cosmos
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 ## Speaker: Patricio Cofre
 ## Title: From Zero to Cosmos
@@ -171,7 +172,7 @@ Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 #  
 #### SessionID: 74559
 # Power BI in the New Age !
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Data Science  BI
 ## Speaker: Cristobal Ibarra
 ## Title: Power BI in the New Age !
@@ -180,7 +181,7 @@ Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Data Science  BI
 #  
 #### SessionID: 73958
 # SQL Server in Docker a new defaince Linux
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 ## Speaker: Carlos Aravena
 ## Title: SQL Server in Docker a new defaince Linux
@@ -189,7 +190,7 @@ Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 #  
 #### SessionID: 74638
 # Midiendo el exito en una implementacion Corporate de Power BI
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Data Science  BI
 ## Speaker: Gaston Cruz
 ## Title: Midiendo el exito en una implementacion Corporate de Power BI
@@ -198,7 +199,7 @@ Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Data Science  BI
 #  
 #### SessionID: 77008
 # SQL Server Query Tuning and Optimization
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 ## Speaker: Kamal Valero
 ## Title: SQL Server Query Tuning and Optimization
@@ -215,7 +216,7 @@ Acelerando OLTP con tablas en memoria
 #  
 #### SessionID: 74032
 # AzureML Services, Workbench and Model Management Service.
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Data Science  BI
 ## Speaker: Adrian Fernandez
 ## Title: AzureML Services, Workbench and Model Management Service.
@@ -224,7 +225,7 @@ Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Data Science  BI
 #  
 #### SessionID: 78572
 # SQL Server 2017 Automatic Tuning
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 ## Speaker: Alejandro Cordero
 ## Title: SQL Server 2017 Automatic Tuning
@@ -233,7 +234,7 @@ Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 #  
 #### SessionID: 78636
 # Encontrando el origen del problema
-#### [Back to calendar](#SQLSaturday-#751-Santiago-2018)
+#### [Back to calendar](#nr-751)
 Event Date: 26-05-2018 - Session time: 16:20:00 - Track: Databases
 ## Speaker: PABLO JAVIER FERNANDEZ
 ## Title: Encontrando el origen del problema

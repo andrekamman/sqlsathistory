@@ -1,3 +1,4 @@
+#### Nr: 589
 #### [Back to Main list](index.md)
 # SQLSaturday #589 - Pordenone 2017
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 55059
 # SQL Server deployment journey, da Dev a Ops
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DEV
 ## Speaker: Alessandro Alpi
 ## Title: SQL Server deployment journey, da Dev a Ops
@@ -32,7 +33,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DEV
 #  
 #### SessionID: 55095
 # Think  work like a Data Scientist with SQL 2016 R
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DATA SCIENCE
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Think  work like a Data Scientist with SQL 2016 R
@@ -45,7 +46,7 @@ In this session, you will definitely take away a breakthrough concept of Advance
 #  
 #### SessionID: 56579
 # Cloud BI with Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: BI/CLOUD
 ## Speaker: Sergiy Lunyakin
 ## Title: Cloud BI with Azure Analysis Services
@@ -54,7 +55,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: BI/CLOUD
 #  
 #### SessionID: 57237
 # SQL Server tuning : start to finish
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
 ## Speaker: Danilo Dominici
 ## Title: SQL Server tuning : start to finish
@@ -63,7 +64,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
 #  
 #### SessionID: 55047
 # Data Science for beginners
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DATA SCIENCE
 ## Speaker: Tomaž Kaštrun
 ## Title: Data Science for beginners
@@ -81,7 +82,7 @@ Session we will look into technologies that can be tackled using SQL Server 2016
 #  
 #### SessionID: 57408
 # Exploring SQL Server Plan Cache
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
 ## Speaker: Sergio Govoni
 ## Title: Exploring SQL Server Plan Cache
@@ -90,7 +91,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
 #  
 #### SessionID: 57868
 # What's new on SQL Azure?
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: BI/CLOUD
 ## Speaker: Marco Parenzan
 ## Title: What's new on SQL Azure?
@@ -99,7 +100,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: BI/CLOUD
 #  
 #### SessionID: 59730
 # Columnstore Indexes: what they are, and how to use them
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DEV
 ## Speaker: Francesco Milano
 ## Title: Columnstore Indexes: what they are, and how to use them
@@ -110,7 +111,7 @@ In questa sessione verranno introdotti i Columnstore Indexes, concentrandosi sul
 #  
 #### SessionID: 57247
 # Indici e statistiche: quanto e come incidono sull'efficenza dei nostri databases
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
 ## Speaker: Gilberto Zampatti
 ## Title: Indici e statistiche: quanto e come incidono sull'efficenza dei nostri databases
@@ -119,7 +120,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
 #  
 #### SessionID: 57286
 # SQL Server 2016 Temporal Database Support - Management, Retention and Performance
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DEV
 ## Speaker: Pasquale Ceglie
 ## Title: SQL Server 2016 Temporal Database Support - Management, Retention and Performance
@@ -128,7 +129,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DEV
 #  
 #### SessionID: 57294
 # Big Data with Azure: where to begin? Concepts and best practices
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DATA SCIENCE
 ## Speaker: Satya Jayanty
 ## Title: Big Data with Azure: where to begin? Concepts and best practices
@@ -139,7 +140,7 @@ Microsoft Azure has the ability to move, store and analyze data within the cloud
 #  
 #### SessionID: 57869
 # Optimizing Dax
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: BI/CLOUD
 ## Speaker: Marco Pozzan
 ## Title: Optimizing Dax
@@ -148,7 +149,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: BI/CLOUD
 #  
 #### SessionID: 55045
 # Analyzing Text with SQL Server, R, and Azure ML
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DATA SCIENCE
 ## Speaker: Dejan Sarka
 ## Title: Analyzing Text with SQL Server, R, and Azure ML
@@ -157,7 +158,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DATA SCIENCE
 #  
 #### SessionID: 57287
 # Securing SQL Server 2016 Databases (IT)
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DEV
 ## Speaker: Gianluca Hotz
 ## Title: Securing SQL Server 2016 Databases (IT)
@@ -166,7 +167,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DEV
 #  
 #### SessionID: 57377
 # SQL Server Infernals: Worst Practices in Action
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
 ## Speaker: Gianluca Sartori
 ## Title: SQL Server Infernals: Worst Practices in Action
@@ -177,7 +178,7 @@ Have you ever thought that in dire times avoiding Worst Practices could be a goo
 #  
 #### SessionID: 56198
 # Performance Tuning for the Transaction Log
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
 ## Speaker: Miroslav Dimitrov
 ## Title: Performance Tuning for the Transaction Log
@@ -186,7 +187,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
 #  
 #### SessionID: 56242
 # Data Quality Services: Let's clean our data
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: BI/CLOUD
 ## Speaker: Andrea Martorana Tusa
 ## Title: Data Quality Services: Let's clean our data
@@ -202,7 +203,7 @@ For those who are working with SQL Server versions prior to 2012,  we'll show so
 #  
 #### SessionID: 57355
 # Performance tips for faster SQL queries
-#### [Back to calendar](#SQLSaturday-#589-Pordenone-2017)
+#### [Back to calendar](#nr-589)
 Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DEV
 ## Speaker: Emanuele Zanchettin
 ## Title: Performance tips for faster SQL queries

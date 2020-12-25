@@ -1,3 +1,4 @@
+#### Nr: 198
 #### [Back to Main list](index.md)
 # SQLSaturday #198 - Vancouver, BC 2013
 Start Time (24h)|Speaker|Track|Title
@@ -47,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10115
 # Optimizing SharePoint Performance thru SQL Server
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1205
 ## Speaker: Edwin Sarmiento
 ## Title: Optimizing SharePoint Performance thru SQL Server
@@ -56,7 +57,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1205
 #  
 #### SessionID: 10260
 # SQL Server TDE
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1750
 ## Speaker: Ben Miller
 ## Title: SQL Server TDE
@@ -66,7 +67,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1750
 #  
 #### SessionID: 11245
 # What Excel 2013 really means for BI
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1840
 ## Speaker: Cathy Dumas
 ## Title: What Excel 2013 really means for BI
@@ -77,7 +78,7 @@ Come see some demos of how these new features work. Although you will see some p
 #  
 #### SessionID: 11438
 # Implementing Contained Databases
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1205
 ## Speaker: Robert Davis
 ## Title: Implementing Contained Databases
@@ -87,7 +88,7 @@ what “gotchas” to be aware of.
 #  
 #### SessionID: 11760
 # Doing More With Less-SQL Server Policy Based Mgmt
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1750
 ## Speaker: Colin Stasiuk
 ## Title: Doing More With Less-SQL Server Policy Based Mgmt
@@ -96,7 +97,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1750
 #  
 #### SessionID: 11800
 # StreamInsight: Complex Event Processing by MS
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW9 - Room 110
 ## Speaker: Constantin Klein
 ## Title: StreamInsight: Complex Event Processing by MS
@@ -107,7 +108,7 @@ In this session you will learn what a great addition for your toolbox StreamInsi
 #  
 #### SessionID: 12145
 # Large SQL Workloads on Microsoft's Private Cloud
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW9 - Room 110
 ## Speaker: Damir Bersinic
 ## Title: Large SQL Workloads on Microsoft's Private Cloud
@@ -116,7 +117,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW9 - Room 110
 #  
 #### SessionID: 12781
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1850
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -125,7 +126,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1850
 #  
 #### SessionID: 13363
 # SQL Server Reporting Services 2012 Jumpstart
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1840
 ## Speaker: Donabel Santos
 ## Title: SQL Server Reporting Services 2012 Jumpstart
@@ -134,7 +135,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1840
 #  
 #### SessionID: 14813
 # Data Profiling with SSIS Data Profiling Task
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1850
 ## Speaker: Greg Larsen
 ## Title: Data Profiling with SSIS Data Profiling Task
@@ -144,7 +145,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1850
 #  
 #### SessionID: 14915
 # New Backup and Deployment features in SQL Server 2
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1750
 ## Speaker: Guy Bowerman
 ## Title: New Backup and Deployment features in SQL Server 2
@@ -153,7 +154,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1750
 #  
 #### SessionID: 15077
 # UDFs, or: How to kill performance in one easy step
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1710
 ## Speaker: Hugo Kornelis
 ## Title: UDFs, or: How to kill performance in one easy step
@@ -164,7 +165,7 @@ However, you will also see that there is a way to avoid the problems. With just 
 #  
 #### SessionID: 15379
 # Inheriting a database for Developers, version 2
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW9 - Room 110
 ## Speaker: Niko Neugebauer
 ## Title: Inheriting a database for Developers, version 2
@@ -173,7 +174,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW9 - Room 110
 #  
 #### SessionID: 16913
 # Power View for Geographical Analysis
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1840
 ## Speaker: Julie Koesmarno
 ## Title: Power View for Geographical Analysis
@@ -182,7 +183,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1840
 #  
 #### SessionID: 17492
 # Data Quality Services Approach to Cleansing
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1850
 ## Speaker: Joseph Verftido
 ## Title: Data Quality Services Approach to Cleansing
@@ -191,7 +192,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1850
 #  
 #### SessionID: 17514
 # Demystifying BISM and Tabular Mode SSAS
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1840
 ## Speaker: Josh Fennessy
 ## Title: Demystifying BISM and Tabular Mode SSAS
@@ -202,7 +203,7 @@ In this session, attendees will gain understanding of what Multidimensional and 
 #  
 #### SessionID: 17515
 # The Essential 8: Narrative Reporting Techniques
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1840
 ## Speaker: Josh Fennessy
 ## Title: The Essential 8: Narrative Reporting Techniques
@@ -213,7 +214,7 @@ Learn how to craft narrative style reporting in this unique session.  Join Josh
 #  
 #### SessionID: 17574
 # Configuring SharePoint for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1205
 ## Speaker: John White
 ## Title: Configuring SharePoint for Business Intelligence
@@ -222,7 +223,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1205
 #  
 #### SessionID: 17613
 # SSIS Configurations in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1850
 ## Speaker: Jean Rene Roy
 ## Title: SSIS Configurations in SQL Server 2012
@@ -232,7 +233,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1850
 #  
 #### SessionID: 17884
 # Model-Driven Database Design
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1840
 ## Speaker: Karen Lopez
 ## Title: Model-Driven Database Design
@@ -241,7 +242,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1840
 #  
 #### SessionID: 20048
 # Entity Framework 5
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1205
 ## Speaker: Medhat Elmasry
 ## Title: Entity Framework 5
@@ -250,7 +251,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1205
 #  
 #### SessionID: 20444
 # Query Plans and Indexes in SQL Server
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1750
 ## Speaker: Michael DeFehr
 ## Title: Query Plans and Indexes in SQL Server
@@ -259,7 +260,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1750
 #  
 #### SessionID: 21542
 # Data Quality rulez! Go best practise
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1850
 ## Speaker: Oliver Engels
 ## Title: Data Quality rulez! Go best practise
@@ -274,7 +275,7 @@ have already tested DQS and want to get further with this toolset.
 #  
 #### SessionID: 21744
 # SQL Server 2012 in Virtualization World
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1025
 ## Speaker: Pat Sinthusan
 ## Title: SQL Server 2012 in Virtualization World
@@ -283,7 +284,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1025
 #  
 #### SessionID: 21831
 # Visualization Choices: What, When, and How?
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1025
 ## Speaker: Paul Turley
 ## Title: Visualization Choices: What, When, and How?
@@ -292,7 +293,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1025
 #  
 #### SessionID: 22996
 # Introducing SQL Server Data Tools! (Project Juneau
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW9 - Room 110
 ## Speaker: Rick  Morelan
 ## Title: Introducing SQL Server Data Tools! (Project Juneau
@@ -301,7 +302,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW9 - Room 110
 #  
 #### SessionID: 22997
 # New SQL 2012 Functions
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW9 - Room 110
 ## Speaker: Rick  Morelan
 ## Title: New SQL 2012 Functions
@@ -310,7 +311,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW9 - Room 110
 #  
 #### SessionID: 23032
 # Deep Dive to SQL Server Parallel Query Processing
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1710
 ## Speaker: Rohan Joackhim
 ## Title: Deep Dive to SQL Server Parallel Query Processing
@@ -319,7 +320,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1710
 #  
 #### SessionID: 24079
 # Kung Fu Migration to Windows Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1025
 ## Speaker: Scott Klein
 ## Title: Kung Fu Migration to Windows Azure SQL Database
@@ -328,7 +329,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1025
 #  
 #### SessionID: 24683
 # Taking BI to the Next Level: Collaboration
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1205
 ## Speaker: Stacia Varga
 ## Title: Taking BI to the Next Level: Collaboration
@@ -337,7 +338,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1205
 #  
 #### SessionID: 24684
 # Power View: A Peek Behind the Curtain
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW9 - Room 110
 ## Speaker: Stacia Varga
 ## Title: Power View: A Peek Behind the Curtain
@@ -347,7 +348,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW9 - Room 110
 #  
 #### SessionID: 24759
 # Building apps for SharePoint 2013 and Profiting!
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1205
 ## Speaker: Yaroslav Pentsarskyy
 ## Title: Building apps for SharePoint 2013 and Profiting!
@@ -356,7 +357,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1205
 #  
 #### SessionID: 24766
 # SQL Impossible: Restoring/Undeleting a table 
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1750
 ## Speaker: Mladen Prajdić
 ## Title: SQL Impossible: Restoring/Undeleting a table 
@@ -372,7 +373,7 @@ Want to know more? Come and see!
 #  
 #### SessionID: 25132
 # Database Design Throwdown
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1710
 ## Speaker: Thomas LaRock
 ## Title: Database Design Throwdown
@@ -381,7 +382,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1710
 #  
 #### SessionID: 25133
 # Database Design: Size DOES Matter
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1710
 ## Speaker: Thomas LaRock
 ## Title: Database Design: Size DOES Matter
@@ -390,7 +391,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1710
 #  
 #### SessionID: 25741
 # Exploring the TSQL Enhancements in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1710
 ## Speaker: Steve Stedman
 ## Title: Exploring the TSQL Enhancements in SQL Server 2012
@@ -399,7 +400,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1710
 #  
 #### SessionID: 27113
 # SQL Server 2012: AlwaysOn
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1025
 ## Speaker: Richard Baumet
 ## Title: SQL Server 2012: AlwaysOn
@@ -408,7 +409,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1025
 #  
 #### SessionID: 34676
 # DBCC WritePage and Data Recovery
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1025
 ## Speaker: John Huang
 ## Title: DBCC WritePage and Data Recovery
@@ -419,7 +420,7 @@ In this 500 level session, We will explore some internals, use this command or o
 #  
 #### SessionID: 34719
 # Applied Enterprise Semantic Mining
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1850
 ## Speaker: Mark Tabladillo
 ## Title: Applied Enterprise Semantic Mining
@@ -428,7 +429,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW5 - Room 1850
 #  
 #### SessionID: 8853
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1750
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals
@@ -438,7 +439,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1750
 #  
 #### SessionID: 8911
 # T-SQL : Bad Habits and Best Practices
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1710
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits and Best Practices
@@ -447,7 +448,7 @@ Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW3 - Room 1710
 #  
 #### SessionID: 9251
 # Demystifying Clustering for the DBA
-#### [Back to calendar](#SQLSaturday-#198-Vancouver,-BC-2013)
+#### [Back to calendar](#nr-198)
 Event Date: 16-02-2013 - Session time: 00:00:00 - Track: SW1 - Room 1025
 ## Speaker: Allan Hirt
 ## Title: Demystifying Clustering for the DBA

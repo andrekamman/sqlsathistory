@@ -1,3 +1,4 @@
+#### Nr: 216
 #### [Back to Main list](index.md)
 # SQLSaturday #216 - Krasnodar, Russia 2013
 Start Time (24h)|Speaker|Track|Title
@@ -14,7 +15,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13097
 # Deadlock detected! Всё пропало или ещё рано бить тревогу?
-#### [Back to calendar](#SQLSaturday-#216-Krasnodar,-Russia-2013)
+#### [Back to calendar](#nr-216)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Denis Reznik
 ## Title: Deadlock detected! Всё пропало или ещё рано бить тревогу?
@@ -23,7 +24,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18668
 # SSIS - Import Data (CSV, XML)
-#### [Back to calendar](#SQLSaturday-#216-Krasnodar,-Russia-2013)
+#### [Back to calendar](#nr-216)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Konstantin Khomyakov
 ## Title: SSIS - Import Data (CSV, XML)
@@ -35,7 +36,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18825
 # SQL Injection - вы готовы к защите?
-#### [Back to calendar](#SQLSaturday-#216-Krasnodar,-Russia-2013)
+#### [Back to calendar](#nr-216)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andrey Korshikov
 ## Title: SQL Injection - вы готовы к защите?
@@ -45,7 +46,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19179
 # Не делай так! Немного об ошибках
-#### [Back to calendar](#SQLSaturday-#216-Krasnodar,-Russia-2013)
+#### [Back to calendar](#nr-216)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Oleksii Kovalov
 ## Title: Не делай так! Немного об ошибках
@@ -55,7 +56,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19333
 # SQL Server 2012 – платформа для СЭДД организации
-#### [Back to calendar](#SQLSaturday-#216-Krasnodar,-Russia-2013)
+#### [Back to calendar](#nr-216)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Maksim Lemeshko
 ## Title: SQL Server 2012 – платформа для СЭДД организации
@@ -70,7 +71,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 20285
 # Windows Azure SQL Reporting for App developers
-#### [Back to calendar](#SQLSaturday-#216-Krasnodar,-Russia-2013)
+#### [Back to calendar](#nr-216)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mihail Mateev
 ## Title: Windows Azure SQL Reporting for App developers
@@ -79,7 +80,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20287
 # Spatial Data with SQL Server Reporting Services
-#### [Back to calendar](#SQLSaturday-#216-Krasnodar,-Russia-2013)
+#### [Back to calendar](#nr-216)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mihail Mateev
 ## Title: Spatial Data with SQL Server Reporting Services
@@ -88,7 +89,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 24355
 # Повреждение данных и как с ним бороться
-#### [Back to calendar](#SQLSaturday-#216-Krasnodar,-Russia-2013)
+#### [Back to calendar](#nr-216)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Sergey Olontsev
 ## Title: Повреждение данных и как с ним бороться
@@ -97,7 +98,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24357
 # Как читать план запроса и на что обращать внимание
-#### [Back to calendar](#SQLSaturday-#216-Krasnodar,-Russia-2013)
+#### [Back to calendar](#nr-216)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Sergey Olontsev
 ## Title: Как читать план запроса и на что обращать внимание

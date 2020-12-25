@@ -1,3 +1,4 @@
+#### Nr: 354
 #### [Back to Main list](index.md)
 # SQLSaturday #354 - Charleston 2014
 Start Time (24h)|Speaker|Track|Title
@@ -20,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11201
 # "I Know What You Did Last Query" --SQL Server
-#### [Back to calendar](#SQLSaturday-#354-Charleston-2014)
+#### [Back to calendar](#nr-354)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Carlos L Chacon
 ## Title: "I Know What You Did Last Query" --SQL Server
@@ -29,7 +30,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 11525
 # Becoming Certified In Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#354-Charleston-2014)
+#### [Back to calendar](#nr-354)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Chris Hyde
 ## Title: Becoming Certified In Microsoft SQL Server
@@ -38,7 +39,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 13257
 # SQL Window functions in SQL Server 2008 and later
-#### [Back to calendar](#SQLSaturday-#354-Charleston-2014)
+#### [Back to calendar](#nr-354)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Donald Wert
 ## Title: SQL Window functions in SQL Server 2008 and later
@@ -47,7 +48,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 13995
 # ETL Frameworks Using SSIS Programming
-#### [Back to calendar](#SQLSaturday-#354-Charleston-2014)
+#### [Back to calendar](#nr-354)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jorge Novo
 ## Title: ETL Frameworks Using SSIS Programming
@@ -56,7 +57,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14443
 # Learn How To Build A Golden Record for Any Subject Over Lunch!
-#### [Back to calendar](#SQLSaturday-#354-Charleston-2014)
+#### [Back to calendar](#nr-354)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Gene Webb
 ## Title: Learn How To Build A Golden Record for Any Subject Over Lunch!
@@ -70,7 +71,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15746
 # Don't Panic, DBAs!  Databases on VMware made easy.
-#### [Back to calendar](#SQLSaturday-#354-Charleston-2014)
+#### [Back to calendar](#nr-354)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Janis Griffin
 ## Title: Don't Panic, DBAs!  Databases on VMware made easy.
@@ -79,7 +80,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 16281
 # Sliding Window Table Partition Intro
-#### [Back to calendar](#SQLSaturday-#354-Charleston-2014)
+#### [Back to calendar](#nr-354)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jeff Reinhard
 ## Title: Sliding Window Table Partition Intro
@@ -89,7 +90,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18030
 # What You Absolutely Must Know about SQL Server Security
-#### [Back to calendar](#SQLSaturday-#354-Charleston-2014)
+#### [Back to calendar](#nr-354)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brian Kelley
 ## Title: What You Absolutely Must Know about SQL Server Security
@@ -98,7 +99,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18224
 # Top 10 Admininistrator Mistakes on SQL Server
-#### [Back to calendar](#SQLSaturday-#354-Charleston-2014)
+#### [Back to calendar](#nr-354)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kevin Kline
 ## Title: Top 10 Admininistrator Mistakes on SQL Server
@@ -107,7 +108,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 21262
 # PowerShell Basics for SQLServer
-#### [Back to calendar](#SQLSaturday-#354-Charleston-2014)
+#### [Back to calendar](#nr-354)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Michael Wharton
 ## Title: PowerShell Basics for SQLServer
@@ -116,7 +117,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23339
 # Revenge: The SQL! - Director's Cut
-#### [Back to calendar](#SQLSaturday-#354-Charleston-2014)
+#### [Back to calendar](#nr-354)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL! - Director's Cut
@@ -131,7 +132,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 24942
 # Administering  Managing the Power BI Environment
-#### [Back to calendar](#SQLSaturday-#354-Charleston-2014)
+#### [Back to calendar](#nr-354)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Melissa Coates
 ## Title: Administering  Managing the Power BI Environment
@@ -140,7 +141,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 27044
 # Data center migrations  – a focus on the ‘Data’
-#### [Back to calendar](#SQLSaturday-#354-Charleston-2014)
+#### [Back to calendar](#nr-354)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Tony Scotto di Carlo
 ## Title: Data center migrations  – a focus on the ‘Data’
@@ -149,7 +150,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 27744
 # SSMS Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#354-Charleston-2014)
+#### [Back to calendar](#nr-354)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Wayne Sheffield
 ## Title: SSMS Tips  Tricks
@@ -158,7 +159,7 @@ Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 34770
 # Push your career to new heights: A Panel Discussion on Career Planning and Professional Development
-#### [Back to calendar](#SQLSaturday-#354-Charleston-2014)
+#### [Back to calendar](#nr-354)
 Event Date: 13-12-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kevin Klein, Melissa Coates, Chris Hyde, Ryan McKnight
 ## Title: Push your career to new heights: A Panel Discussion on Career Planning and Professional Development

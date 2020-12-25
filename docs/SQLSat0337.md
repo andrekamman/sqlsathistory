@@ -1,3 +1,4 @@
+#### Nr: 337
 #### [Back to Main list](index.md)
 # SQLSaturday #337 - Oregon 2014
 Start Time (24h)|Speaker|Track|Title
@@ -47,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10286
 # TSQL Best Practices for SQL Engine Kindness
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  9
 ## Speaker: Ben Miller
 ## Title: TSQL Best Practices for SQL Engine Kindness
@@ -56,7 +57,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  9
 #  
 #### SessionID: 10371
 # Query Processing in In-Memory OLTP (Hekaton)
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  7
 ## Speaker: Benjamin Nevarez
 ## Title: Query Processing in In-Memory OLTP (Hekaton)
@@ -65,7 +66,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  7
 #  
 #### SessionID: 10600
 # VLDBs: Lessons Learned
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  4
 ## Speaker: Bob Pusateri
 ## Title: VLDBs: Lessons Learned
@@ -74,7 +75,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  4
 #  
 #### SessionID: 10696
 # Treating Tables Like Legos, Partitioning Basics
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  6
 ## Speaker: Brandon Leach
 ## Title: Treating Tables Like Legos, Partitioning Basics
@@ -83,7 +84,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  6
 #  
 #### SessionID: 11168
 # Get Your Nights  Weekends Back from SQL Server Planned Downtime
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  4
 ## Speaker: Carl Berglund
 ## Title: Get Your Nights  Weekends Back from SQL Server Planned Downtime
@@ -92,7 +93,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  4
 #  
 #### SessionID: 11203
 # Judge, Jury,  and Executioner--A First Look At Execution Plans
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  8
 ## Speaker: Carlos L Chacon
 ## Title: Judge, Jury,  and Executioner--A First Look At Execution Plans
@@ -101,7 +102,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  8
 #  
 #### SessionID: 12804
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  9
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -110,7 +111,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  9
 #  
 #### SessionID: 14008
 # Clusters Your Way - #SANLess clustering
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  2
 ## Speaker: SIOS Technology
 ## Title: Clusters Your Way - #SANLess clustering
@@ -119,7 +120,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  2
 #  
 #### SessionID: 14804
 # Tune Queries By Fixing Bad Parameter Sniffing 
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  1
 ## Speaker: Grant Fritchey
 ## Title: Tune Queries By Fixing Bad Parameter Sniffing 
@@ -128,7 +129,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  1
 #  
 #### SessionID: 15120
 # Powerful T-SQL Improvements that Reduce Query Complexity
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  1
 ## Speaker: Hugo Kornelis
 ## Title: Powerful T-SQL Improvements that Reduce Query Complexity
@@ -139,7 +140,7 @@ Attend this session to boldly take SQL Server where it has never gone before!
 #  
 #### SessionID: 15861
 # Dimensional Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  5
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
@@ -148,7 +149,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  5
 #  
 #### SessionID: 16847
 # Columnstore Indexes in SQL Server 2014: Flipping the DW /Faster Bit
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  8
 ## Speaker: Jimmy May
 ## Title: Columnstore Indexes in SQL Server 2014: Flipping the DW /Faster Bit
@@ -157,7 +158,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  8
 #  
 #### SessionID: 16925
 # 10 Handy Tips On SQL Server Dates
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  6
 ## Speaker: Julie Koesmarno
 ## Title: 10 Handy Tips On SQL Server Dates
@@ -168,7 +169,7 @@ With time being the one thing that constantly changes, date and time calculation
 #  
 #### SessionID: 17158
 # Enterprise-grade MDM On SQL Server - the Keys to Success 
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  3
 ## Speaker: John McAllister
 ## Title: Enterprise-grade MDM On SQL Server - the Keys to Success 
@@ -177,7 +178,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  3
 #  
 #### SessionID: 17304
 # Master Data Management - Getting Started with SQL Server MDS
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  7
 ## Speaker: John McAllister
 ## Title: Master Data Management - Getting Started with SQL Server MDS
@@ -186,7 +187,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  7
 #  
 #### SessionID: 17519
 # Visual Analytics with HDInsight and Power View
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  5
 ## Speaker: Josh Fennessy
 ## Title: Visual Analytics with HDInsight and Power View
@@ -202,7 +203,7 @@ Finally, integration with SSAS and Power View (using Excel 2013) will be shown, 
 #  
 #### SessionID: 18445
 # Writing Better T-SQL Queries with Window Functions
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  3
 ## Speaker: Kathi Kellenberger
 ## Title: Writing Better T-SQL Queries with Window Functions
@@ -213,7 +214,7 @@ This session will teach you how to get great performance, avoid cursor solutions
 #  
 #### SessionID: 19012
 # “Show Me Potential Customers “ : Data Mining Approach
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  5
 ## Speaker: Leila Etaati
 ## Title: “Show Me Potential Customers “ : Data Mining Approach
@@ -224,7 +225,7 @@ This demonstration based session will show how to use previous customer purchase
 #  
 #### SessionID: 19733
 # Automating Deployments with Powershell
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  2
 ## Speaker: Martin Cairney
 ## Title: Automating Deployments with Powershell
@@ -235,7 +236,7 @@ This session will show how Powershell can be used to prep the servers (including
 #  
 #### SessionID: 20406
 # Changing Your Habits to Improve the Performance of Your T-SQL
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  9
 ## Speaker: Mickey Stuewe
 ## Title: Changing Your Habits to Improve the Performance of Your T-SQL
@@ -244,7 +245,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  9
 #  
 #### SessionID: 20617
 # Simple things you can do to make the Query Optimizer more efficient!
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  8
 ## Speaker: Mike Tutor
 ## Title: Simple things you can do to make the Query Optimizer more efficient!
@@ -253,7 +254,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  8
 #  
 #### SessionID: 21154
 # Ignored Best Practices
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  6
 ## Speaker: Michael Swinarski
 ## Title: Ignored Best Practices
@@ -263,7 +264,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  6
 #  
 #### SessionID: 21393
 # Load Testing With SQL Server Tools
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  2
 ## Speaker: Neil Hambly
 ## Title: Load Testing With SQL Server Tools
@@ -274,7 +275,7 @@ Come learn about the native tools at our disposal for performing these important
 #  
 #### SessionID: 21729
 # Permission Management: 12 Pitfalls  Misconceptions
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  2
 ## Speaker: Sebastian Meine
 ## Title: Permission Management: 12 Pitfalls  Misconceptions
@@ -285,7 +286,7 @@ This is a two-part session. During the first part, we will go through a review o
 #  
 #### SessionID: 22246
 # SSIS - manage concurrent processing using SQL Server Broker
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  8
 ## Speaker: Piotr Palka
 ## Title: SSIS - manage concurrent processing using SQL Server Broker
@@ -295,7 +296,7 @@ In this session we will cover how we can use WMI event watchers to monitor for i
 #  
 #### SessionID: 22286
 # Standardize SQL Server Implementations (Dev to Prod)
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  2
 ## Speaker: Prakash Heda
 ## Title: Standardize SQL Server Implementations (Dev to Prod)
@@ -316,7 +317,7 @@ The best practice framework will get us past the complexities and provide us wit
 #  
 #### SessionID: 22564
 # Locks, Blocks, and Deadlocks Oh My!
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  8
 ## Speaker: Randy Knight
 ## Title: Locks, Blocks, and Deadlocks Oh My!
@@ -325,7 +326,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  8
 #  
 #### SessionID: 23350
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  9
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -334,7 +335,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  9
 #  
 #### SessionID: 24381
 # Moving applications to SQL Server 2014 In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  7
 ## Speaker: Sergey Olontsev
 ## Title: Moving applications to SQL Server 2014 In-Memory OLTP
@@ -343,7 +344,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  7
 #  
 #### SessionID: 24859
 # Data Quality:  Boosting Software Performance and Business Profit
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  6
 ## Speaker: David Moutray
 ## Title: Data Quality:  Boosting Software Performance and Business Profit
@@ -352,7 +353,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  6
 #  
 #### SessionID: 24948
 # ”Delivering Reports - Report Manager and Beyond”
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  5
 ## Speaker: Phil Robinson
 ## Title: ”Delivering Reports - Report Manager and Beyond”
@@ -362,7 +363,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  5
 #  
 #### SessionID: 25719
 # Date and Time Dimensions for Every Day and Time in No Time
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  4
 ## Speaker: Steve Wake
 ## Title: Date and Time Dimensions for Every Day and Time in No Time
@@ -371,7 +372,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  4
 #  
 #### SessionID: 26889
 # Not So Basic Backup and Restore
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  2
 ## Speaker: Theresa Iserman
 ## Title: Not So Basic Backup and Restore
@@ -380,7 +381,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  2
 #  
 #### SessionID: 26992
 # Life Lessons in Communication
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  4
 ## Speaker: Tom Roush
 ## Title: Life Lessons in Communication
@@ -395,7 +396,7 @@ After attending, you’ll be on the road to better, more direct communication, w
 #  
 #### SessionID: 27353
 # DAX 101
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  5
 ## Speaker: Damu Venkatesan
 ## Title: DAX 101
@@ -405,7 +406,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  5
 #  
 #### SessionID: 27378
 # The Significance of Choosing the Right Data Types
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  6
 ## Speaker: Vern Rabe
 ## Title: The Significance of Choosing the Right Data Types
@@ -414,7 +415,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  6
 #  
 #### SessionID: 27431
 # Understanding SQL Server 2014's In-Memory OLTP Table Technology
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  7
 ## Speaker: Victor Isakov
 ## Title: Understanding SQL Server 2014's In-Memory OLTP Table Technology
@@ -423,7 +424,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  7
 #  
 #### SessionID: 34744
 # Secrets of Enterprise Data Mining
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  3
 ## Speaker: Mark Tabladillo
 ## Title: Secrets of Enterprise Data Mining
@@ -432,7 +433,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  3
 #  
 #### SessionID: 34788
 # Exposing the Core: SQL 2012 on Server Core
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  7
 ## Speaker: Michael Fal
 ## Title: Exposing the Core: SQL 2012 on Server Core
@@ -441,7 +442,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  7
 #  
 #### SessionID: 8780
 # Enumerators in SSIS Foreach Loop
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  3
 ## Speaker: Reza Rad
 ## Title: Enumerators in SSIS Foreach Loop
@@ -453,7 +454,7 @@ This session is based on the book chapter of SQL Server MVP Deep Dive 2
 #  
 #### SessionID: 9796
 # Secure Your SQL Server Instance Without Changing Any Code
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  3
 ## Speaker: Argenis Fernandez
 ## Title: Secure Your SQL Server Instance Without Changing Any Code
@@ -462,7 +463,7 @@ Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  3
 #  
 #### SessionID: 9856
 # Converting Unreliable Deployments Into Consistent Releases
-#### [Back to calendar](#SQLSaturday-#337-Oregon-2014)
+#### [Back to calendar](#nr-337)
 Event Date: 01-11-2014 - Session time: 00:00:00 - Track:  3
 ## Speaker: Thomas Norman
 ## Title: Converting Unreliable Deployments Into Consistent Releases

@@ -1,3 +1,4 @@
+#### Nr: 335
 #### [Back to Main list](index.md)
 # SQLSaturday #335 - Athens 2014
 Start Time (24h)|Speaker|Track|Title
@@ -11,7 +12,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 20355
 # Node.js and Open Source Software Development on Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#335-Athens-2014)
+#### [Back to calendar](#nr-335)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mihail Mateev
 ## Title: Node.js and Open Source Software Development on Microsoft Azure
@@ -20,7 +21,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 25055
 # SQL Server Data platform upgrade Techniques, best practices  notes from the field
-#### [Back to calendar](#SQLSaturday-#335-Athens-2014)
+#### [Back to calendar](#nr-335)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Satya Jayanty
 ## Title: SQL Server Data platform upgrade Techniques, best practices  notes from the field
@@ -29,7 +30,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 25251
 # AlwaysOn Availability Groups: Offloading reporting workloads to secondary replicas
-#### [Back to calendar](#SQLSaturday-#335-Athens-2014)
+#### [Back to calendar](#nr-335)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Stelios Tzavaras
 ## Title: AlwaysOn Availability Groups: Offloading reporting workloads to secondary replicas
@@ -38,7 +39,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 26471
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#335-Athens-2014)
+#### [Back to calendar](#nr-335)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -47,7 +48,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 26472
 # File IO Stalls and Wait Stats: Tune Like a Guru!
-#### [Back to calendar](#SQLSaturday-#335-Athens-2014)
+#### [Back to calendar](#nr-335)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Boles
 ## Title: File IO Stalls and Wait Stats: Tune Like a Guru!
@@ -56,7 +57,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9689
 # Configuring SQL Server
-#### [Back to calendar](#SQLSaturday-#335-Athens-2014)
+#### [Back to calendar](#nr-335)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Antonios Chatzipavlis
 ## Title: Configuring SQL Server

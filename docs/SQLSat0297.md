@@ -1,3 +1,4 @@
+#### Nr: 297
 #### [Back to Main list](index.md)
 # SQLSaturday #297 - Colorado Springs 2014
 Start Time (24h)|Speaker|Track|Title
@@ -33,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10224
 # SMO Internals for High Performance PowerShell
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ben Miller
 ## Title: SMO Internals for High Performance PowerShell
@@ -42,7 +43,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10452
 # Type More, Click Less:  Programmatically build SSIS packages
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Bill Fellows
 ## Title: Type More, Click Less:  Programmatically build SSIS packages
@@ -51,7 +52,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 10712
 # Faster  Leaner: Optimize DW Solution Delivery with Power Pivot and AS Tabular
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Brent Greenwood
 ## Title: Faster  Leaner: Optimize DW Solution Delivery with Power Pivot and AS Tabular
@@ -62,7 +63,7 @@ We'll touch on Agile  Lean disciplines,  how they can be applied to DW solution 
 #  
 #### SessionID: 11341
 # SQL Server Replication in Practice
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Carlos Bossy
 ## Title: SQL Server Replication in Practice
@@ -71,7 +72,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13393
 # SQL Server Murder Mystery Hour: Dead Reports Don't Talk
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Doug Lane
 ## Title: SQL Server Murder Mystery Hour: Dead Reports Don't Talk
@@ -84,7 +85,7 @@ SQL Server Murder Mystery Hour is part technical presentation, part networking e
 #  
 #### SessionID: 14292
 # I Don't Know Which Queries Are Slow, Just Make All of Them Faster
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Rick Lowe
 ## Title: I Don't Know Which Queries Are Slow, Just Make All of Them Faster
@@ -93,7 +94,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 14694
 # Dr. DMV's Troubleshooting Toolkit
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Glenn Berry
 ## Title: Dr. DMV's Troubleshooting Toolkit
@@ -102,7 +103,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15812
 # Advanced Spatial Analysis: Beyond Bubble Charts
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jason Horner
 ## Title: Advanced Spatial Analysis: Beyond Bubble Charts
@@ -111,7 +112,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 15983
 # Managing SQL Server Performance with Extended Events
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jason Strate
 ## Title: Managing SQL Server Performance with Extended Events
@@ -120,7 +121,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16875
 # Getting Started with Execution Plans
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jason Kassay
 ## Title: Getting Started with Execution Plans
@@ -129,7 +130,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 17244
 # SQL Server Databaseology 201: A Study of Database Internals
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology 201: A Study of Database Internals
@@ -139,7 +140,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17990
 # SQL Server performance management
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kat Long
 ## Title: SQL Server performance management
@@ -148,7 +149,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18854
 # The Curious Case of Isolation Levels
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Keith Tate
 ## Title: The Curious Case of Isolation Levels
@@ -157,7 +158,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19056
 # Native File Streaming with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Leonard Lobel
 ## Title: Native File Streaming with SQL Server 2012
@@ -166,7 +167,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19191
 # The Accidental Report Designer: Data Visualization Best Practices in SSRS
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Meagan Longoria
 ## Title: The Accidental Report Designer: Data Visualization Best Practices in SSRS
@@ -175,7 +176,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 20595
 # SSIS Logging Reconsidered
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Michael Sexton
 ## Title: SSIS Logging Reconsidered
@@ -184,7 +185,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22762
 # Master Data Services – 101
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Reeves Smith
 ## Title: Master Data Services – 101
@@ -193,7 +194,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22920
 # Tabular Models
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jeff Renz
 ## Title: Tabular Models
@@ -202,7 +203,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23361
 # Virtualizing our Environment
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Rob Mandeville
 ## Title: Virtualizing our Environment
@@ -211,7 +212,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23591
 # XPath - XQuery; I guess if I HAVE to
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Russ Thomas
 ## Title: XPath - XQuery; I guess if I HAVE to
@@ -220,7 +221,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24038
 # Tabular Data Modeling and Visualizations
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Rob Schafer
 ## Title: Tabular Data Modeling and Visualizations
@@ -229,7 +230,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24526
 # The Encryption Primer
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Steve Jones
 ## Title: The Encryption Primer
@@ -238,7 +239,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 25150
 # Database Design: Size DOES Matter
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Thomas LaRock
 ## Title: Database Design: Size DOES Matter
@@ -247,7 +248,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 25699
 # Capture Change and Apply it With Change Data Capture  SSIS
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Steve Wake
 ## Title: Capture Change and Apply it With Change Data Capture  SSIS
@@ -256,7 +257,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 25935
 # Back the Truck Up
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Seth Washeck
 ## Title: Back the Truck Up
@@ -265,7 +266,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 26896
 # Documentation – you know you love it
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: TJay Belt
 ## Title: Documentation – you know you love it
@@ -274,7 +275,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 34789
 # Managing Log File Obesity
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Michael Fal
 ## Title: Managing Log File Obesity
@@ -283,7 +284,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9108
 # DBA Survival Guide: Daily Checklist and Server Monitoring
-#### [Back to calendar](#SQLSaturday-#297-Colorado-Springs-2014)
+#### [Back to calendar](#nr-297)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: AJ Mendo
 ## Title: DBA Survival Guide: Daily Checklist and Server Monitoring

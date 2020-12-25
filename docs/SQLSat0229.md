@@ -1,3 +1,4 @@
+#### Nr: 229
 #### [Back to Main list](index.md)
 # SQLSaturday #229 - Dublin 2013
 Start Time (24h)|Speaker|Track|Title
@@ -30,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10555
 # Optimising a dot.net solution on the SQL platform
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 1
 ## Speaker: Bob Duffy
 ## Title: Optimising a dot.net solution on the SQL platform
@@ -39,7 +40,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 1
 #  
 #### SessionID: 11475
 # DAXMD: SSAS Multidimensional meets DAX and Power View
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 3
 ## Speaker: Chris Webb
 ## Title: DAXMD: SSAS Multidimensional meets DAX and Power View
@@ -48,7 +49,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 3
 #  
 #### SessionID: 11624
 # The Secret Life of APPLY: Helping Developers Work Smarter, Not Harder
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 1
 ## Speaker: Christina Leo
 ## Title: The Secret Life of APPLY: Helping Developers Work Smarter, Not Harder
@@ -57,7 +58,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 1
 #  
 #### SessionID: 11896
 # The all-flash datacentre.  Hyperscale acceleration.
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 2
 ## Speaker: Niall McLeod
 ## Title: The all-flash datacentre.  Hyperscale acceleration.
@@ -66,7 +67,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 2
 #  
 #### SessionID: 12081
 # Session Details not available
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 4
 ## Speaker: n/a n/a
 ## Title: Session Details not available
@@ -75,7 +76,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 4
 #  
 #### SessionID: 12834
 # Query Plans Deep Dive
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 1
 ## Speaker: David Morrison
 ## Title: Query Plans Deep Dive
@@ -86,7 +87,7 @@ Attendees of this session will walk away with a greater understanding of query p
 #  
 #### SessionID: 14362
 # Dos and don’ts of database corruption
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 2
 ## Speaker: Gail Shaw
 ## Title: Dos and don’ts of database corruption
@@ -101,7 +102,7 @@ In this session we’ll look at
 #  
 #### SessionID: 15298
 # Dynamic code for efficient searching 
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 1
 ## Speaker: Ian Meade
 ## Title: Dynamic code for efficient searching 
@@ -110,7 +111,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 1
 #  
 #### SessionID: 15371
 # Analyzing Twitter Data for Everyone
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 3
 ## Speaker: Niko Neugebauer
 ## Title: Analyzing Twitter Data for Everyone
@@ -119,7 +120,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 3
 #  
 #### SessionID: 16020
 # Data Architectural Patterns in C#
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 1
 ## Speaker: Javier Caceres
 ## Title: Data Architectural Patterns in C#
@@ -132,7 +133,7 @@ This session is for Software Developers/Designers/Architects and Data Architects
 #  
 #### SessionID: 16551
 # Data Visualisation with Hadoop Mashups, Power View and Excel 2013
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 3
 ## Speaker: Jen Stirrup
 ## Title: Data Visualisation with Hadoop Mashups, Power View and Excel 2013
@@ -142,7 +143,7 @@ Join us at this session in order to see how your Big Data can empower your busin
 #  
 #### SessionID: 17149
 # SharePoint 2013 and SQL Server 2012 as part of a BI Strategy
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 3
 ## Speaker: John Corley
 ## Title: SharePoint 2013 and SQL Server 2012 as part of a BI Strategy
@@ -151,7 +152,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 3
 #  
 #### SessionID: 18203
 # SQL Server Internals  Architecture
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 4
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals  Architecture
@@ -160,7 +161,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 4
 #  
 #### SessionID: 18728
 # SQL Azure from Plan, to Backup, to Cloud 
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 4
 ## Speaker: Tobias Koprowski
 ## Title: SQL Azure from Plan, to Backup, to Cloud 
@@ -170,7 +171,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 4
 #  
 #### SessionID: 19534
 # READPAST  Furious-Transactions,LockingIsolation
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 1
 ## Speaker: Mark Broadbent
 ## Title: READPAST  Furious-Transactions,LockingIsolation
@@ -186,7 +187,7 @@ I look forward to you joining me in this very revealing and thought provoking se
 #  
 #### SessionID: 19837
 # Cats, Facebook, and Online Dating with Microsoft BI
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 3
 ## Speaker: Matt Masson
 ## Title: Cats, Facebook, and Online Dating with Microsoft BI
@@ -195,7 +196,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 3
 #  
 #### SessionID: 20093
 # Analysis Services for the DBA
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 2
 ## Speaker: Mark Stacey
 ## Title: Analysis Services for the DBA
@@ -204,7 +205,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 2
 #  
 #### SessionID: 20249
 # Choosing the right Storage technology for SQL Server (Flash or rotating or both? For OLTP or DW)
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 2
 ## Speaker: Michael Morris
 ## Title: Choosing the right Storage technology for SQL Server (Flash or rotating or both? For OLTP or DW)
@@ -217,7 +218,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 2
 #  
 #### SessionID: 21352
 # SQL Server 2012 Memory Management
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 2
 ## Speaker: Neil Hambly
 ## Title: SQL Server 2012 Memory Management
@@ -227,7 +228,7 @@ This session will dive into questions related to memory primarily for SQL Server
 #  
 #### SessionID: 23445
 # SQL Server in Windows Azure Virtual Machine Scenarios
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 4
 ## Speaker: TBC TBC
 ## Title: SQL Server in Windows Azure Virtual Machine Scenarios
@@ -241,7 +242,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 4
 #  
 #### SessionID: 25001
 # SQL Server Data platform upgrade Techniques, best practices  notes from the field
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 2
 ## Speaker: Satya Jayanty
 ## Title: SQL Server Data platform upgrade Techniques, best practices  notes from the field
@@ -253,7 +254,7 @@ In this session, we will overview end-to-end upgrade process that covers the ess
 #  
 #### SessionID: 25289
 # Getting the most from your SAN - File and Filegroup design patterns
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 2
 ## Speaker: Stephen Archbold
 ## Title: Getting the most from your SAN - File and Filegroup design patterns
@@ -275,7 +276,7 @@ Topics covered include:
 #  
 #### SessionID: 34870
 # SQL SATURDAY LIGHTNING TALKS
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 4
 ## Speaker: Variou Various
 ## Title: SQL SATURDAY LIGHTNING TALKS
@@ -284,7 +285,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 4
 #  
 #### SessionID: 8912
 # T-SQL : Bad Habits  Best Practices
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 3
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits  Best Practices
@@ -293,7 +294,7 @@ Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 3
 #  
 #### SessionID: 9290
 # Hadoop for the Microsoft Guy
-#### [Back to calendar](#SQLSaturday-#229-Dublin-2013)
+#### [Back to calendar](#nr-229)
 Event Date: 22-06-2013 - Session time: 00:00:00 - Track: Charlemont 4
 ## Speaker: Allan Mitchell
 ## Title: Hadoop for the Microsoft Guy

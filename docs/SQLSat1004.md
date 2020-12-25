@@ -1,3 +1,4 @@
+#### Nr: 1004
 #### [Back to Main list](index.md)
 # SQLSaturday #1004 – Bangladesh – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -16,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 105905
 # Monitoring SQL Server using Community solutions (Free)
-#### [Back to calendar](#SQLSaturday-#1004-–-Bangladesh-–-Virtual-2020)
+#### [Back to calendar](#nr-1004)
 Event Date: 28-11-2020 - Session time: 19:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Javier Villegas
 ## Title: Monitoring SQL Server using Community solutions (Free)
@@ -25,7 +26,7 @@ Event Date: 28-11-2020 - Session time: 19:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 108007
 # Azure SQL Database-Business Continuity During Disaster
-#### [Back to calendar](#SQLSaturday-#1004-–-Bangladesh-–-Virtual-2020)
+#### [Back to calendar](#nr-1004)
 Event Date: 28-11-2020 - Session time: 19:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taiob Ali
 ## Title: Azure SQL Database-Business Continuity During Disaster
@@ -38,7 +39,7 @@ In this demo intensive session, I will talk about five specific options and show
 #  
 #### SessionID: 108221
 # SQL Server Security Features
-#### [Back to calendar](#SQLSaturday-#1004-–-Bangladesh-–-Virtual-2020)
+#### [Back to calendar](#nr-1004)
 Event Date: 28-11-2020 - Session time: 19:05:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: SQL Server Security Features
@@ -47,7 +48,7 @@ Event Date: 28-11-2020 - Session time: 19:05:00 - Track: Application  Database D
 #  
 #### SessionID: 108930
 # How to audit and prevent unwanted user actions.
-#### [Back to calendar](#SQLSaturday-#1004-–-Bangladesh-–-Virtual-2020)
+#### [Back to calendar](#nr-1004)
 Event Date: 28-11-2020 - Session time: 19:05:00 - Track: Application  Database Development
 ## Speaker: John Miner
 ## Title: How to audit and prevent unwanted user actions.
@@ -70,7 +71,7 @@ Coverage:
 #  
 #### SessionID: 108361
 # Hacking SQL Server Is Not Enough
-#### [Back to calendar](#SQLSaturday-#1004-–-Bangladesh-–-Virtual-2020)
+#### [Back to calendar](#nr-1004)
 Event Date: 28-11-2020 - Session time: 19:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server Is Not Enough
@@ -81,7 +82,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #  
 #### SessionID: 109042
 # Azure SQL Replication
-#### [Back to calendar](#SQLSaturday-#1004-–-Bangladesh-–-Virtual-2020)
+#### [Back to calendar](#nr-1004)
 Event Date: 28-11-2020 - Session time: 19:05:00 - Track: Cloud Application Development  Deployment
 ## Speaker: M A Nakib
 ## Title: Azure SQL Replication
@@ -90,7 +91,7 @@ Event Date: 28-11-2020 - Session time: 19:05:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 105098
 # Integrate existing apps and publish blockchain ledger data to SQL using Azure Blockchain as Service
-#### [Back to calendar](#SQLSaturday-#1004-–-Bangladesh-–-Virtual-2020)
+#### [Back to calendar](#nr-1004)
 Event Date: 28-11-2020 - Session time: 19:05:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mohammad Asif Waquar
 ## Title: Integrate existing apps and publish blockchain ledger data to SQL using Azure Blockchain as Service
@@ -99,7 +100,7 @@ Event Date: 28-11-2020 - Session time: 19:05:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 107625
 # Life Cycle of a Query in SQL Server
-#### [Back to calendar](#SQLSaturday-#1004-–-Bangladesh-–-Virtual-2020)
+#### [Back to calendar](#nr-1004)
 Event Date: 28-11-2020 - Session time: 19:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Deepthi Goguri
 ## Title: Life Cycle of a Query in SQL Server
@@ -109,7 +110,7 @@ Deepthi will show you how the SQL engine thinks – enabling you to think like i
 #  
 #### SessionID: 108972
 # Multi-server agent jobs administration with happy faces and pigeons
-#### [Back to calendar](#SQLSaturday-#1004-–-Bangladesh-–-Virtual-2020)
+#### [Back to calendar](#nr-1004)
 Event Date: 28-11-2020 - Session time: 19:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mikey Bronowski
 ## Title: Multi-server agent jobs administration with happy faces and pigeons
@@ -123,7 +124,7 @@ In this session you will learn how easy is to setup this hidden and forgotten fe
 #  
 #### SessionID: 109106
 # SQL Server Internals and Tuning
-#### [Back to calendar](#SQLSaturday-#1004-–-Bangladesh-–-Virtual-2020)
+#### [Back to calendar](#nr-1004)
 Event Date: 28-11-2020 - Session time: 19:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ahsan Kabir
 ## Title: SQL Server Internals and Tuning
@@ -133,7 +134,7 @@ The session includes demonstrations that illustrate the details of SQL Server in
 #  
 #### SessionID: 108386
 # Intelligent Query Processing Feature Family
-#### [Back to calendar](#SQLSaturday-#1004-–-Bangladesh-–-Virtual-2020)
+#### [Back to calendar](#nr-1004)
 Event Date: 28-11-2020 - Session time: 19:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pio Balistoy
 ## Title: Intelligent Query Processing Feature Family

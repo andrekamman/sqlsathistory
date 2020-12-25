@@ -1,3 +1,4 @@
+#### Nr: 188
 #### [Back to Main list](index.md)
 # SQLSaturday #188 - Portugal 2013
 Start Time (24h)|Speaker|Track|Title
@@ -36,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10992
 # SQL Internal Storage – P1 
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Bruno Basto
 ## Title: SQL Internal Storage – P1 
@@ -45,7 +46,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 11792
 # StreamInsight: Complex Event Processing by MS
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Constantin Klein
 ## Title: StreamInsight: Complex Event Processing by MS
@@ -56,7 +57,7 @@ In this session you will learn what a great addition for your toolbox StreamInsi
 #  
 #### SessionID: 11826
 # CAST([Transaction Log] as T.SQL) 
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Pedro Correia
 ## Title: CAST([Transaction Log] as T.SQL) 
@@ -65,7 +66,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13644
 # Parallelism in SQL Server
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Enrique Catala
 ## Title: Parallelism in SQL Server
@@ -74,7 +75,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 13952
 # Scale-out scenarios with Transactional Replication
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Eladio Rincon
 ## Title: Scale-out scenarios with Transactional Replication
@@ -86,7 +87,7 @@ of this technology. At the end we will talk about common best practices for tran
 #  
 #### SessionID: 13973
 # Optimizing implementation techniques
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Etienne Lopes
 ## Title: Optimizing implementation techniques
@@ -103,7 +104,7 @@ Using real life based demonstrations, this session will provide answers to these
 #  
 #### SessionID: 14677
 # Hardware 201: Selecting Database Hardware
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Glenn Berry
 ## Title: Hardware 201: Selecting Database Hardware
@@ -112,7 +113,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 14678
 # Dr. DMV: How to Use Dynamic Management Views
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Glenn Berry
 ## Title: Dr. DMV: How to Use Dynamic Management Views
@@ -121,7 +122,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 15055
 # UDFs, or: How to kill performance in one easy step
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Hugo Kornelis
 ## Title: UDFs, or: How to kill performance in one easy step
@@ -132,7 +133,7 @@ However, you will also see that there is a way to avoid the problems. With just 
 #  
 #### SessionID: 15391
 # Project Hekaton
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Niko Neugebauer
 ## Title: Project Hekaton
@@ -142,7 +143,7 @@ Dive with me into review of the some of the already available architectural info
 #  
 #### SessionID: 16565
 # Advanced Data Visualisation with Reporting Service
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jen Stirrup
 ## Title: Advanced Data Visualisation with Reporting Service
@@ -154,7 +155,7 @@ This session will cover more advanced and less well-known features of reporting 
 #  
 #### SessionID: 16567
 # Mobile Business Intelligence - Apprentice Style!
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jen Stirrup
 ## Title: Mobile Business Intelligence - Apprentice Style!
@@ -167,7 +168,7 @@ Using mobile technology, come to this demo-rich session to discover a number of 
 #  
 #### SessionID: 17076
 # Travel from Relational to BI
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: João Lopes
 ## Title: Travel from Relational to BI
@@ -176,7 +177,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 19026
 # Geospatial Data Types in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Leonard Lobel
 ## Title: Geospatial Data Types in SQL Server 2012
@@ -185,7 +186,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19296
 # Availability Groups- Performance e troubleshooting
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Luis Canastreiro
 ## Title: Availability Groups- Performance e troubleshooting
@@ -194,7 +195,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19549
 # READPAST  Furious:Transactions,Locking,Isolation
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mark Broadbent
 ## Title: READPAST  Furious:Transactions,Locking,Isolation
@@ -205,7 +206,7 @@ He has presented at numerous events around the globe such as SQLBits 7/ 8/ 9, X,
 #  
 #### SessionID: 20263
 # Windows Azure SQL Reporting for App developers
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Mihail Mateev
 ## Title: Windows Azure SQL Reporting for App developers
@@ -214,7 +215,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 20746
 # Identifying and Solving Sort Warning Problems
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Miloš Radivojević
 ## Title: Identifying and Solving Sort Warning Problems
@@ -223,7 +224,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 21335
 # Extended Events – Effective Usage
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Neil Hambly
 ## Title: Extended Events – Effective Usage
@@ -234,7 +235,7 @@ This session is specifically focused to make you effective with the Extended Eve
 #  
 #### SessionID: 21528
 # Closed Loop in Enterprise Information Management
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Oliver Engels
 ## Title: Closed Loop in Enterprise Information Management
@@ -243,7 +244,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21531
 # Data Quality rulez! Integration and Performance be
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Oliver Engels
 ## Title: Data Quality rulez! Integration and Performance be
@@ -258,7 +259,7 @@ have already tested DQS and want to get further with this toolset.
 #  
 #### SessionID: 21914
 # Understanting Memory Pressure
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Pedro Lopes
 ## Title: Understanting Memory Pressure
@@ -267,7 +268,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 22412
 # SQL Server Data Compression
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Quilson Antunes
 ## Title: SQL Server Data Compression
@@ -276,7 +277,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 22811
 # Database development with SSDT
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Regis Baccaro
 ## Title: Database development with SSDT
@@ -285,7 +286,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 23488
 # Sentiment analysis using SSAS 2012
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Sentiment analysis using SSAS 2012
@@ -297,7 +298,7 @@ Co-speaker: Javier Torrenteras (SolidQ BI Manager)
 #  
 #### SessionID: 23573
 # "Faster than the speed of light"... with #MSBI
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rui Quintino
 ## Title: "Faster than the speed of light"... with #MSBI
@@ -306,7 +307,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24153
 # SQL Azure - What is it and why do you need it
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Scott Klein
 ## Title: SQL Azure - What is it and why do you need it
@@ -315,7 +316,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24154
 # SQL Azure Scalability with Federations
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Scott Klein
 ## Title: SQL Azure Scalability with Federations
@@ -324,7 +325,7 @@ Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 34574
 # How to outsource yourself with a Powershell script
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: André Kamman
 ## Title: How to outsource yourself with a Powershell script
@@ -337,7 +338,7 @@ I will show you how to use some cool new features of Powershell 3,  like workflo
 #  
 #### SessionID: 9303
 # SQL Server 2012 SSIS Change Data Capture
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Allan Mitchell
 ## Title: SQL Server 2012 SSIS Change Data Capture
@@ -349,7 +350,7 @@ We therefore need to plan our data movement strategy better.  In this session I 
 #  
 #### SessionID: 9873
 # Scripting SQL 2012  SharePoint 2013 Installation 
-#### [Back to calendar](#SQLSaturday-#188-Portugal-2013)
+#### [Back to calendar](#nr-188)
 Event Date: 16-03-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Artur Santos
 ## Title: Scripting SQL 2012  SharePoint 2013 Installation 

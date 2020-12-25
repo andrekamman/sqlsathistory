@@ -1,3 +1,4 @@
+#### Nr: 112
 #### [Back to Main list](index.md)
 # SQLSaturday #112 - Birmingham 2012
 Start Time (24h)|Speaker|Track|Title
@@ -30,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10535
 # SQL Server 2012 - What's New
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129A
 ## Speaker: Bob Cheatham
 ## Title: SQL Server 2012 - What's New
@@ -39,7 +40,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129A
 #  
 #### SessionID: 11972
 # What's new in SSIS 2012?
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129D
 ## Speaker: Christopher Price
 ## Title: What's new in SSIS 2012?
@@ -48,7 +49,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129D
 #  
 #### SessionID: 13452
 # What Sequence objects are (and are not)
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129C
 ## Speaker: Louis Davidson
 ## Title: What Sequence objects are (and are not)
@@ -58,7 +59,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129C
 #  
 #### SessionID: 14487
 # SQL 2012 AlwaysOn
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129B
 ## Speaker: Geoff Hiten
 ## Title: SQL 2012 AlwaysOn
@@ -67,7 +68,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129B
 #  
 #### SessionID: 14488
 # Moving Day - Successful SQL Migrations
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129B
 ## Speaker: Geoff Hiten
 ## Title: Moving Day - Successful SQL Migrations
@@ -76,7 +77,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129B
 #  
 #### SessionID: 16859
 # Building Testable Applications with EF 4
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129B
 ## Speaker: Jim Wooley
 ## Title: Building Testable Applications with EF 4
@@ -86,7 +87,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129B
 #  
 #### SessionID: 16860
 # Managing Database Changes with Visual Studio
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129B
 ## Speaker: Jim Wooley
 ## Title: Managing Database Changes with Visual Studio
@@ -96,7 +97,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129B
 #  
 #### SessionID: 17391
 # STOP! Consolidate and Listen!
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129D
 ## Speaker: Jorge Segarra
 ## Title: STOP! Consolidate and Listen!
@@ -105,7 +106,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129D
 #  
 #### SessionID: 17392
 # Policy-Based Management in a Nutshell
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129C
 ## Speaker: Jorge Segarra
 ## Title: Policy-Based Management in a Nutshell
@@ -114,7 +115,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129C
 #  
 #### SessionID: 17393
 # SQL University: Back That Thang Up!
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129C
 ## Speaker: Jorge Segarra
 ## Title: SQL University: Back That Thang Up!
@@ -123,7 +124,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129C
 #  
 #### SessionID: 17970
 # Lunch Session - Advanced Performance Tuning Tips
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129D
 ## Speaker: Kathy  Gibbs
 ## Title: Lunch Session - Advanced Performance Tuning Tips
@@ -132,7 +133,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129D
 #  
 #### SessionID: 17971
 # Best Practices for Monitoring Databases on VMware
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129C
 ## Speaker: Kathy  Gibbs
 ## Title: Best Practices for Monitoring Databases on VMware
@@ -141,7 +142,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129C
 #  
 #### SessionID: 26365
 # SQL Server 2012 Column Store Index
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129D
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2012 Column Store Index
@@ -150,7 +151,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129D
 #  
 #### SessionID: 26368
 # SQL Server 2012 TSQL Enhancements and Additions
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129D
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2012 TSQL Enhancements and Additions
@@ -159,7 +160,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129D
 #  
 #### SessionID: 26369
 # Windowing Functions: THE Reason to Upgrade to 2012
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129D
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012
@@ -168,7 +169,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129D
 #  
 #### SessionID: 26680
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129B
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -179,7 +180,7 @@ In this session Tim Radney will cover several methods for performing much needed
 #  
 #### SessionID: 26681
 # Getting involved and Getting ahead
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129B
 ## Speaker: Tim Radney
 ## Title: Getting involved and Getting ahead
@@ -188,7 +189,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129B
 #  
 #### SessionID: 29616
 # Introduction to Master Data Services 2012
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129C
 ## Speaker: Christopher Price
 ## Title: Introduction to Master Data Services 2012
@@ -197,7 +198,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129C
 #  
 #### SessionID: 29617
 # Data Quality Services 2012
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129C
 ## Speaker: Christopher Price
 ## Title: Data Quality Services 2012
@@ -206,7 +207,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129C
 #  
 #### SessionID: 33298
 # What's New for Developers in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129A
 ## Speaker: Sven Aelterman
 ## Title: What's New for Developers in SQL Server 2012
@@ -215,7 +216,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129A
 #  
 #### SessionID: 33299
 # Introduction to FileTables
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129A
 ## Speaker: Sven Aelterman
 ## Title: Introduction to FileTables
@@ -225,7 +226,7 @@ It may be valuable to attend the Introduction to FILESTREAM session also.
 #  
 #### SessionID: 33300
 # Upgrading SSIS Packages to SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129A
 ## Speaker: Sven Aelterman
 ## Title: Upgrading SSIS Packages to SQL Server 2012
@@ -234,7 +235,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129A
 #  
 #### SessionID: 8870
 # Time Saving Tips  Tricks for SSMS 2012
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129D
 ## Speaker: Aaron Nelson
 ## Title: Time Saving Tips  Tricks for SSMS 2012
@@ -243,7 +244,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129D
 #  
 #### SessionID: 9708
 # Make SQL Server Pop with PowerShell
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129A
 ## Speaker: Robert Cain
 ## Title: Make SQL Server Pop with PowerShell
@@ -252,7 +253,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129A
 #  
 #### SessionID: 9709
 # Become a PowerShell Pop Star
-#### [Back to calendar](#SQLSaturday-#112-Birmingham-2012)
+#### [Back to calendar](#nr-112)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: HSB 129A
 ## Speaker: Robert Cain
 ## Title: Become a PowerShell Pop Star

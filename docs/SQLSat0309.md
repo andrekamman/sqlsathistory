@@ -1,3 +1,4 @@
+#### Nr: 309
 #### [Back to Main list](index.md)
 # SQLSaturday #309 - Oklahoma City 2014
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10692
 # SQL Server Storage internals: Looking under the hood.
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Brandon Leach
 ## Title: SQL Server Storage internals: Looking under the hood.
@@ -44,7 +45,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 11040
 # Overcoming Complex Data Cleansing Challenges with Excel Power Query
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Bryan Smith
 ## Title: Overcoming Complex Data Cleansing Challenges with Excel Power Query
@@ -53,7 +54,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 11041
 # Finding and Cleansing Data with Excel Power Query
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Bryan Smith
 ## Title: Finding and Cleansing Data with Excel Power Query
@@ -62,7 +63,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 11081
 # Power This, Power That...Making Sense of Power BI
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 1
 ## Speaker: Brett Tomson
 ## Title: Power This, Power That...Making Sense of Power BI
@@ -71,7 +72,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 1
 #  
 #### SessionID: 12137
 # Data Discovery and Insights using Excel 2013 Power BI
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Derek Dai
 ## Title: Data Discovery and Insights using Excel 2013 Power BI
@@ -80,7 +81,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 12493
 # SQL Server Virtualization 101
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: David Klee
 ## Title: SQL Server Virtualization 101
@@ -89,7 +90,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13056
 # BIML: Taking the Pain Out of Integration Services Development
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 2
 ## Speaker: Jeremy Marx
 ## Title: BIML: Taking the Pain Out of Integration Services Development
@@ -98,7 +99,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 2
 #  
 #### SessionID: 14929
 # T-SQL Throwdown
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Hakim Ali
 ## Title: T-SQL Throwdown
@@ -109,7 +110,7 @@ Track: Developer
 #  
 #### SessionID: 14930
 # INDEXING 101 - WHAT IS AN INDEX?
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Hakim Ali
 ## Title: INDEXING 101 - WHAT IS AN INDEX?
@@ -120,7 +121,7 @@ This session is designed for those new to database design/development. If you ha
 #  
 #### SessionID: 16457
 # T-SQL Code Sins 
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 1
 ## Speaker: Jennifer McCown
 ## Title: T-SQL Code Sins 
@@ -129,7 +130,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 1
 #  
 #### SessionID: 16458
 # Introduction to Powershell cmdlets for DBAs
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 1
 ## Speaker: Jennifer McCown
 ## Title: Introduction to Powershell cmdlets for DBAs
@@ -138,7 +139,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 1
 #  
 #### SessionID: 19928
 # SQL Watchdog -  find out instantly when SQL changes in production
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Michael Bourgon
 ## Title: SQL Watchdog -  find out instantly when SQL changes in production
@@ -148,7 +149,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 19954
 # Change Tracking:  A Near Bullet-Proof ETL Synchronization Control
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 2
 ## Speaker: Mike Byrd
 ## Title: Change Tracking:  A Near Bullet-Proof ETL Synchronization Control
@@ -157,7 +158,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 2
 #  
 #### SessionID: 21626
 # Building an MDM Center of Excellence with MDS and Maestro
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Pam Matthews
 ## Title: Building an MDM Center of Excellence with MDS and Maestro
@@ -166,7 +167,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 21754
 # Develop SQL Server Databases from Visual Studio: SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Patrick Bewley
 ## Title: Develop SQL Server Databases from Visual Studio: SQL Server Data Tools
@@ -175,7 +176,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 23744
 # AlwaysOn Live Deployment
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Ryan Adams
 ## Title: AlwaysOn Live Deployment
@@ -184,7 +185,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 24244
 # DIY Performance Reporting
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 1
 ## Speaker: Sean McCown
 ## Title: DIY Performance Reporting
@@ -193,7 +194,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 1
 #  
 #### SessionID: 24400
 # Expand your TSQL: Intersect, Except, and Apply
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Rudy Rodarte
 ## Title: Expand your TSQL: Intersect, Except, and Apply
@@ -202,7 +203,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 25169
 # Temporary Query Items and You
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: JK Wood
 ## Title: Temporary Query Items and You
@@ -211,7 +212,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 26628
 # Parent/Child Structures in SSIS
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Tim Mitchell
 ## Title: Parent/Child Structures in SSIS
@@ -222,7 +223,7 @@ In this session, we'll take a tour through parent/child design architecture with
 #  
 #### SessionID: 26803
 # Windowing Functions
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 2
 ## Speaker: Tim Costello
 ## Title: Windowing Functions
@@ -231,7 +232,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 2
 #  
 #### SessionID: 26804
 # Source Code Control: Revision management for the data dude.
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 2
 ## Speaker: Tim Costello
 ## Title: Source Code Control: Revision management for the data dude.
@@ -240,7 +241,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 2
 #  
 #### SessionID: 28125
 # Design and Implement BI like Edison! 
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 1
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI like Edison! 
@@ -249,7 +250,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 1
 #  
 #### SessionID: 28128
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 1
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -258,7 +259,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 1
 #  
 #### SessionID: 9039
 # Understanding Storage Systems and SQL Server 
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Wesley Brown
 ## Title: Understanding Storage Systems and SQL Server 
@@ -267,7 +268,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 9407
 # Beginning Automation with Powershell
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Amy Herold
 ## Title: Beginning Automation with Powershell
@@ -277,7 +278,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 9848
 # I’m New, Select Me!
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 2
 ## Speaker: Thomas Norman
 ## Title: I’m New, Select Me!
@@ -286,7 +287,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 2
 #  
 #### SessionID: 9849
 # Converting Unreliable Deployments Into Consistent Releases
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Bonus 2
 ## Speaker: Thomas Norman
 ## Title: Converting Unreliable Deployments Into Consistent Releases
@@ -302,7 +303,7 @@ deployment and version control process.
 #  
 #### SessionID: 9936
 # ColumnStore Indexes in SQL 2014
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Allen Smith
 ## Title: ColumnStore Indexes in SQL 2014
@@ -311,7 +312,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 9937
 # BI Basics - Finding Return on Data
-#### [Back to calendar](#SQLSaturday-#309-Oklahoma-City-2014)
+#### [Back to calendar](#nr-309)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Allen Smith
 ## Title: BI Basics - Finding Return on Data

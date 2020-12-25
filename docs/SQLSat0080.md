@@ -1,3 +1,4 @@
+#### Nr: 80
 #### [Back to Main list](index.md)
 # SQLSaturday #80 - Wheeling 2011
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28449
 # High Availability Solutions in SQL Server
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Abi Chapagai
 ## Title: High Availability Solutions in SQL Server
@@ -32,7 +33,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28683
 # Designing an SSIS Framework 
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Andy Leonard
 ## Title: Designing an SSIS Framework 
@@ -41,7 +42,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28684
 # “I See a Control Flow Tab. Now What?” 
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Andy Leonard
 ## Title: “I See a Control Flow Tab. Now What?” 
@@ -50,7 +51,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28935
 # Let Service Broker Help You Scale Your Application
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Allen White
 ## Title: Let Service Broker Help You Scale Your Application
@@ -59,7 +60,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28936
 # Automate Policy-Based Management using PowerShell
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Allen White
 ## Title: Automate Policy-Based Management using PowerShell
@@ -68,7 +69,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29294
 # Wait-Time Based SQL Server Performance Management
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Bronwyn Altizer
 ## Title: Wait-Time Based SQL Server Performance Management
@@ -78,7 +79,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29651
 # Database Mirroring in the Real World
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Craig Purnell
 ## Title: Database Mirroring in the Real World
@@ -87,7 +88,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29652
 # NoSQL- What is it and why do I care? 
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Craig Purnell
 ## Title: NoSQL- What is it and why do I care? 
@@ -96,7 +97,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30040
 # Windows PowerShell Best Practices for DBA's part 2
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ed Wilson
 ## Title: Windows PowerShell Best Practices for DBA's part 2
@@ -106,7 +107,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30042
 # Windows PowerShell Best Practices for DBA's
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ed Wilson
 ## Title: Windows PowerShell Best Practices for DBA's
@@ -116,7 +117,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30414
 # Automating Database Source Control
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: James Gaines
 ## Title: Automating Database Source Control
@@ -125,7 +126,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30639
 # Building Your First SQL Cluster
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Joseph D'Antoni
 ## Title: Building Your First SQL Cluster
@@ -138,7 +139,7 @@ This will include a brief on what is coming down the pipe in Denali.
 #  
 #### SessionID: 31629
 # Hello World (Schema) - Introduction to T-SQL
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Matt Velic
 ## Title: Hello World (Schema) - Introduction to T-SQL
@@ -147,7 +148,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32209
 # DMVs- What are they and why should a DBA care?
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Paul Hiles
 ## Title: DMVs- What are they and why should a DBA care?
@@ -156,7 +157,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32211
 # Take Your Automation Script to the Next Level! 
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Paul Hiles
 ## Title: Take Your Automation Script to the Next Level! 
@@ -165,7 +166,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32956
 # Lessons Learned: Starting your career as a DBA.
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Shannon Lowder
 ## Title: Lessons Learned: Starting your career as a DBA.
@@ -174,7 +175,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 34165
 # An Overview of PowerPivot 
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: William E Pearson III
 ## Title: An Overview of PowerPivot 
@@ -183,7 +184,7 @@ Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 34171
 # Design and Implement BI Like Edison!
-#### [Back to calendar](#SQLSaturday-#80-Wheeling-2011)
+#### [Back to calendar](#nr-80)
 Event Date: 23-07-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI Like Edison!

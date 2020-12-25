@@ -1,3 +1,4 @@
+#### Nr: 899
 #### [Back to Main list](index.md)
 # SQLSaturday #899 - Birmingham 2019
 Start Time (24h)|Speaker|Track|Title
@@ -23,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 93698
 # User Experience Brilliance in Power BI Dashboards
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Hilary Wilkie
 ## Title: User Experience Brilliance in Power BI Dashboards
@@ -34,7 +35,7 @@ In this session we will explore in a hands-on exercise what UX and Design thinki
 #  
 #### SessionID: 93768
 # Azure Data Factory V2
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kevin Wilkie
 ## Title: Azure Data Factory V2
@@ -47,7 +48,7 @@ We'll look at moving data around from On-Prem to Azure, moving files to Azure, a
 #  
 #### SessionID: 94665
 # That's So Metadata: Discover Your Database From The Inside
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: That's So Metadata: Discover Your Database From The Inside
@@ -65,7 +66,7 @@ We will also cover the official Microsoft documentation on these features and ot
 #  
 #### SessionID: 93844
 # Database Project Makes Deployment Consistent
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
@@ -74,7 +75,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 93883
 # PowerShell + SQL Server = Better Together
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Robbins
 ## Title: PowerShell + SQL Server = Better Together
@@ -83,7 +84,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 94346
 # AI on the Edge
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jared Rhodes
 ## Title: AI on the Edge
@@ -92,7 +93,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 94676
 # The Psychology of Better Power BI Reporting
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Watson
 ## Title: The Psychology of Better Power BI Reporting
@@ -101,7 +102,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 94893
 # PowerShell Core for Linux
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Cain
 ## Title: PowerShell Core for Linux
@@ -114,7 +115,7 @@ We'll wrap up the session showing how to install SQL Server in a Docker Containe
 #  
 #### SessionID: 95980
 # How to Build Your Disaster Recovery Plan
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rie Irish
 ## Title: How to Build Your Disaster Recovery Plan
@@ -123,7 +124,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93696
 # The New Tool in Your Kit: Azure Data Studio
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Sven Aelterman
 ## Title: The New Tool in Your Kit: Azure Data Studio
@@ -132,7 +133,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 93970
 # The Art of Data DevOps with SSDT
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ken Muse
 ## Title: The Art of Data DevOps with SSDT
@@ -141,7 +142,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 94586
 # Turbo-charging SSMS for Beginners
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Nathan Boster
 ## Title: Turbo-charging SSMS for Beginners
@@ -150,7 +151,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 94037
 # Certification Exams Inside Out
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: William Assaf
 ## Title: Certification Exams Inside Out
@@ -159,7 +160,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 94689
 # Exploring the latest T-SQL enhancements
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Dustin Dorsey
 ## Title: Exploring the latest T-SQL enhancements
@@ -170,7 +171,7 @@ In this demo heavy session, we will go over several of the new features, provide
 #  
 #### SessionID: 96279
 # Power BI Architecture
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paco Gonzalez
 ## Title: Power BI Architecture
@@ -179,7 +180,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93655
 # Become a T-SQL Pivoting Ninja in 60 Minutes Or Less
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Peter Doyle
 ## Title: Become a T-SQL Pivoting Ninja in 60 Minutes Or Less
@@ -193,7 +194,7 @@ Come join me, and by the end of this session, you will have the knowledge to lev
 #  
 #### SessionID: 94285
 # Recent SSMS Performance Tuning Enhancements
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Recent SSMS Performance Tuning Enhancements
@@ -202,7 +203,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 94379
 # Mastering your Resume  Interview: Tips to Get Hired
-#### [Back to calendar](#SQLSaturday-#899-Birmingham-2019)
+#### [Back to calendar](#nr-899)
 Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Mastering your Resume  Interview: Tips to Get Hired

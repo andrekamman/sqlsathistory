@@ -1,3 +1,4 @@
+#### Nr: 328
 #### [Back to Main list](index.md)
 # SQLSaturday #328 - Birmingham 2014
 Start Time (24h)|Speaker|Track|Title
@@ -46,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10751
 # Tegile IntelliFlash Technology Demo
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 327 - PowerShell
 ## Speaker: Brett Johnson
 ## Title: Tegile IntelliFlash Technology Demo
@@ -55,7 +56,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 327 - PowerShell
 #  
 #### SessionID: 11130
 # BIML--Step by Step
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 325 - DEV \ DBA
 ## Speaker: Julie Smith
 ## Title: BIML--Step by Step
@@ -64,7 +65,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 325 - DEV \ DBA
 #  
 #### SessionID: 11641
 # Mastering your Resume  Interview: Tips to Get Hired
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 227 - Prof Dev \ Misc
 ## Speaker: Christine Assaf
 ## Title: Mastering your Resume  Interview: Tips to Get Hired
@@ -73,7 +74,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 227 - Prof Dev \ M
 #  
 #### SessionID: 11642
 # Giving Feedback: How to Effectively Communicate to your Employees
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 227 - Prof Dev \ Misc
 ## Speaker: Christine Assaf
 ## Title: Giving Feedback: How to Effectively Communicate to your Employees
@@ -82,7 +83,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 227 - Prof Dev \ M
 #  
 #### SessionID: 11740
 # PowerShell Fundamentals for SharePoint 2010/2013
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 327 - PowerShell
 ## Speaker: Cody Gros
 ## Title: PowerShell Fundamentals for SharePoint 2010/2013
@@ -91,7 +92,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 327 - PowerShell
 #  
 #### SessionID: 12147
 # Idera SQL Diagnostic Demo
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 311 - Various Topics
 ## Speaker: Dan Cardno
 ## Title: Idera SQL Diagnostic Demo
@@ -102,7 +103,7 @@ This demo will also cover Admin Toolset. Learn how the 25 essential desktop tool
 #  
 #### SessionID: 13482
 # How In-Memory Database Objects Affect Database Design
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 325 - DEV \ DBA
 ## Speaker: Louis Davidson
 ## Title: How In-Memory Database Objects Affect Database Design
@@ -111,7 +112,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 325 - DEV \ DBA
 #  
 #### SessionID: 13712
 # Performance Tuning for Mere Mortals Part I
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 311 - Various Topics
 ## Speaker: Ed Watson
 ## Title: Performance Tuning for Mere Mortals Part I
@@ -120,7 +121,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 311 - Various Topi
 #  
 #### SessionID: 14420
 # Building an MDM Center of Excellence with MDS and Maestro 
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 307 - BI
 ## Speaker: Gene Webb
 ## Title: Building an MDM Center of Excellence with MDS and Maestro 
@@ -129,7 +130,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 307 - BI
 #  
 #### SessionID: 14421
 # Business Rules, Data Governance, and Workflow with MDS and Maestro 
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 307 - BI
 ## Speaker: Gene Webb
 ## Title: Business Rules, Data Governance, and Workflow with MDS and Maestro 
@@ -138,7 +139,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 307 - BI
 #  
 #### SessionID: 14464
 # Profisee Master Data Services and Maestro Demo
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 307 - BI
 ## Speaker: Gene Webb
 ## Title: Profisee Master Data Services and Maestro Demo
@@ -154,7 +155,7 @@ Tackle data quality, consistency and control by empowering business and subject 
 #  
 #### SessionID: 15661
 # SolarWinds Database Performance Analyzer for SQL Server Demo
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 225 - DBA
 ## Speaker: Janis Griffin
 ## Title: SolarWinds Database Performance Analyzer for SQL Server Demo
@@ -163,7 +164,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 225 - DBA
 #  
 #### SessionID: 15727
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 225 - DBA
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
@@ -172,7 +173,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 225 - DBA
 #  
 #### SessionID: 16674
 # What's in the SQL Server 2014 Business Intelligence Suite?
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 311 - Various Topics
 ## Speaker: Jessica Moss
 ## Title: What's in the SQL Server 2014 Business Intelligence Suite?
@@ -181,7 +182,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 311 - Various Topi
 #  
 #### SessionID: 16839
 # Stupid PowerShell Tricks
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 327 - PowerShell
 ## Speaker: Jim Christopher
 ## Title: Stupid PowerShell Tricks
@@ -192,7 +193,7 @@ Some spend an hour hearing and sharing practical, time-saving PowerShell hacks y
 #  
 #### SessionID: 17318
 # How Queries Work
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 227 - Prof Dev \ Misc
 ## Speaker: Jon Boulineau
 ## Title: How Queries Work
@@ -201,7 +202,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 227 - Prof Dev \ M
 #  
 #### SessionID: 17320
 # Introduction to PowerShell for DBAs
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 327 - PowerShell
 ## Speaker: Jon Boulineau
 ## Title: Introduction to PowerShell for DBAs
@@ -210,7 +211,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 327 - PowerShell
 #  
 #### SessionID: 18178
 # The Real Value of Name-Value Pairs: Using PIVOT and UNPIVOT 
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 325 - DEV \ DBA
 ## Speaker: Kevin Wilkie
 ## Title: The Real Value of Name-Value Pairs: Using PIVOT and UNPIVOT 
@@ -219,7 +220,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 325 - DEV \ DBA
 #  
 #### SessionID: 18942
 # Fundamentals of MDX
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 307 - BI
 ## Speaker: Lance England
 ## Title: Fundamentals of MDX
@@ -228,7 +229,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 307 - BI
 #  
 #### SessionID: 20609
 # Performance Tuning for Mere Mortals Part II
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 311 - Various Topics
 ## Speaker: Mike Lawell
 ## Title: Performance Tuning for Mere Mortals Part II
@@ -242,7 +243,7 @@ This is a very demo intensive session some basic issues and performance analysis
 #  
 #### SessionID: 20705
 # Learn PowerShell or Die! for the DBA
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 327 - PowerShell
 ## Speaker: Mike Robbins
 ## Title: Learn PowerShell or Die! for the DBA
@@ -251,7 +252,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 327 - PowerShell
 #  
 #### SessionID: 20706
 # What’s New in PowerShell Version 5?
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 327 - PowerShell
 ## Speaker: Mike Robbins
 ## Title: What’s New in PowerShell Version 5?
@@ -260,7 +261,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 327 - PowerShell
 #  
 #### SessionID: 23246
 # Know Your Role(s)!
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 325 - DEV \ DBA
 ## Speaker: Robert Verell
 ## Title: Know Your Role(s)!
@@ -269,7 +270,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 325 - DEV \ DBA
 #  
 #### SessionID: 23247
 # READY FOR PROD
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 325 - DEV \ DBA
 ## Speaker: Robert Verell
 ## Title: READY FOR PROD
@@ -280,7 +281,7 @@ In READY FOR PROD (caps for emphasis), we will explore how I believe pushing T-S
 #  
 #### SessionID: 23343
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 325 - DEV \ DBA
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -289,7 +290,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 325 - DEV \ DBA
 #  
 #### SessionID: 25853
 # Managing a Technical Team: Lessons Learned
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 227 - Prof Dev \ Misc
 ## Speaker: Stuart Ainsworth
 ## Title: Managing a Technical Team: Lessons Learned
@@ -305,7 +306,7 @@ https://twitter.com/codegumbo
 #  
 #### SessionID: 25857
 # The Elephant in the Room; A DBA's Guide to Hadoop 
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 227 - Prof Dev \ Misc
 ## Speaker: Stuart Ainsworth
 ## Title: The Elephant in the Room; A DBA's Guide to Hadoop 
@@ -320,7 +321,7 @@ https://twitter.com/codegumbo
 #  
 #### SessionID: 25926
 # Windows Server 2012 R2 High Availability for SQL Server
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 225 - DBA
 ## Speaker: Sven Aelterman
 ## Title: Windows Server 2012 R2 High Availability for SQL Server
@@ -329,7 +330,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 225 - DBA
 #  
 #### SessionID: 25927
 # SQL Server Optimization for SharePoint
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 225 - DBA
 ## Speaker: Sven Aelterman
 ## Title: SQL Server Optimization for SharePoint
@@ -338,7 +339,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 225 - DBA
 #  
 #### SessionID: 26481
 # SQL Server Defaults SUCK!!
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 311 - Various Topics
 ## Speaker: Kevin Boles
 ## Title: SQL Server Defaults SUCK!!
@@ -347,7 +348,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 311 - Various Topi
 #  
 #### SessionID: 26482
 # Indexing Deep Dive
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 311 - Various Topics
 ## Speaker: Kevin Boles
 ## Title: Indexing Deep Dive
@@ -356,7 +357,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 311 - Various Topi
 #  
 #### SessionID: 26507
 # Women in Technology (WIT) Panel Discussion
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 227 - Prof Dev \ Misc
 ## Speaker: Women in Technology Panel
 ## Title: Women in Technology (WIT) Panel Discussion
@@ -365,7 +366,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 227 - Prof Dev \ M
 #  
 #### SessionID: 26734
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 311 - Various Topics
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -374,7 +375,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 311 - Various Topi
 #  
 #### SessionID: 26735
 # You Inherited a Database, Now What?
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 225 - DBA
 ## Speaker: Tim Radney
 ## Title: You Inherited a Database, Now What?
@@ -383,7 +384,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 225 - DBA
 #  
 #### SessionID: 27352
 # DAX 101
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 307 - BI
 ## Speaker: Damu Venkatesan
 ## Title: DAX 101
@@ -393,7 +394,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 307 - BI
 #  
 #### SessionID: 28190
 # Sparkhound Top Dog Challenge
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 325 - DEV \ DBA
 ## Speaker: William Assaf
 ## Title: Sparkhound Top Dog Challenge
@@ -402,7 +403,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 325 - DEV \ DBA
 #  
 #### SessionID: 28191
 # SQL Admin Best Practices with DMV's
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 225 - DBA
 ## Speaker: William Assaf
 ## Title: SQL Admin Best Practices with DMV's
@@ -411,7 +412,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 225 - DBA
 #  
 #### SessionID: 28192
 # SQL Server Permissions and Security Principals
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 225 - DBA
 ## Speaker: William Assaf
 ## Title: SQL Server Permissions and Security Principals
@@ -420,7 +421,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 225 - DBA
 #  
 #### SessionID: 34734
 # Secrets of Enterprise Data Mining
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 307 - BI
 ## Speaker: Mark Tabladillo
 ## Title: Secrets of Enterprise Data Mining
@@ -429,7 +430,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 307 - BI
 #  
 #### SessionID: 34735
 # Data Mining Innovation with SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 307 - BI
 ## Speaker: Mark Tabladillo
 ## Title: Data Mining Innovation with SQL Server 2014
@@ -438,7 +439,7 @@ Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 307 - BI
 #  
 #### SessionID: 9734
 # Zero to Hero with PowerShell and SQL Server in 1 Session
-#### [Back to calendar](#SQLSaturday-#328-Birmingham-2014)
+#### [Back to calendar](#nr-328)
 Event Date: 23-08-2014 - Session time: 00:00:00 - Track: Room 327 - PowerShell
 ## Speaker: Robert Cain
 ## Title: Zero to Hero with PowerShell and SQL Server in 1 Session

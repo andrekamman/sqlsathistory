@@ -1,3 +1,4 @@
+#### Nr: 127
 #### [Back to Main list](index.md)
 # SQLSaturday #127 - Rio de Janeiro 2012
 Start Time (24h)|Speaker|Track|Title
@@ -17,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13905
 # Backup e sua importância na teoria e prática.
-#### [Back to calendar](#SQLSaturday-#127-Rio-de-Janeiro-2012)
+#### [Back to calendar](#nr-127)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Erickson Ricci
 ## Title: Backup e sua importância na teoria e prática.
@@ -27,7 +28,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14238
 # Criptografia para Banco de Dados no SQL 2008
-#### [Back to calendar](#SQLSaturday-#127-Rio-de-Janeiro-2012)
+#### [Back to calendar](#nr-127)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Marcelo Fernandes
 ## Title: Criptografia para Banco de Dados no SQL 2008
@@ -37,7 +38,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14263
 # Melhores práticas para seu Datawarehouse
-#### [Back to calendar](#SQLSaturday-#127-Rio-de-Janeiro-2012)
+#### [Back to calendar](#nr-127)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Felipe Ferreira
 ## Title: Melhores práticas para seu Datawarehouse
@@ -47,7 +48,7 @@ Vamos ver como podemos otimizar nosso ambiente, nossa base de dados e nossas té
 #  
 #### SessionID: 14713
 # Algoritmos e alternativas para cargas incrementais
-#### [Back to calendar](#SQLSaturday-#127-Rio-de-Janeiro-2012)
+#### [Back to calendar](#nr-127)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Gustavo Maia Aguiar
 ## Title: Algoritmos e alternativas para cargas incrementais
@@ -56,7 +57,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21136
 # Dimensionando Hardware e Storage para SQL Server
-#### [Back to calendar](#SQLSaturday-#127-Rio-de-Janeiro-2012)
+#### [Back to calendar](#nr-127)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Marcelo Sincic
 ## Title: Dimensionando Hardware e Storage para SQL Server
@@ -67,7 +68,7 @@ Abordaremos calculo de IOPS, configurações de rede e processamento fisico.
 #  
 #### SessionID: 22134
 # Aplicando processamento paralelo em instruções SQL
-#### [Back to calendar](#SQLSaturday-#127-Rio-de-Janeiro-2012)
+#### [Back to calendar](#nr-127)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mauro Pichiliani
 ## Title: Aplicando processamento paralelo em instruções SQL
@@ -77,7 +78,7 @@ Esta palestra apresentará como obter ganhos de desempenho significativos quando
 #  
 #### SessionID: 24752
 # Testes unitários utilizando T-SQL 
-#### [Back to calendar](#SQLSaturday-#127-Rio-de-Janeiro-2012)
+#### [Back to calendar](#nr-127)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Socorro Vieira
 ## Title: Testes unitários utilizando T-SQL 
@@ -86,7 +87,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29906
 # Pontapé inicial de Business Intelligence na Nuvem
-#### [Back to calendar](#SQLSaturday-#127-Rio-de-Janeiro-2012)
+#### [Back to calendar](#nr-127)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Diego Nogare
 ## Title: Pontapé inicial de Business Intelligence na Nuvem
@@ -96,7 +97,7 @@ Nesta sessão vou demonstrar a integração e o potencial existente para se trab
 #  
 #### SessionID: 30185
 # DBA CheckList o que analisar?
-#### [Back to calendar](#SQLSaturday-#127-Rio-de-Janeiro-2012)
+#### [Back to calendar](#nr-127)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Fabiano Amorim
 ## Title: DBA CheckList o que analisar?
@@ -108,7 +109,7 @@ Checklist, PowerShell, Polices, Alerts, ClearTrace, Perfmon, Excel...
 #  
 #### SessionID: 31566
 # Novas DMV's e DMF's no SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#127-Rio-de-Janeiro-2012)
+#### [Back to calendar](#nr-127)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Marcos Freccia
 ## Title: Novas DMV's e DMF's no SQL Server 2012
@@ -117,7 +118,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32084
 # SQL Server 2012: AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#127-Rio-de-Janeiro-2012)
+#### [Back to calendar](#nr-127)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Nilton Pinheiro
 ## Title: SQL Server 2012: AlwaysOn Availability Groups
@@ -126,7 +127,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 34616
 # SQL Server 2012 : FileTable e Semantic Search
-#### [Back to calendar](#SQLSaturday-#127-Rio-de-Janeiro-2012)
+#### [Back to calendar](#nr-127)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dennes Torres
 ## Title: SQL Server 2012 : FileTable e Semantic Search

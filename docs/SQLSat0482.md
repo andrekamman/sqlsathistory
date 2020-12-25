@@ -1,3 +1,4 @@
+#### Nr: 482
 #### [Back to Main list](index.md)
 # SQLSaturday #482 - Nepal 2016
 Start Time (24h)|Speaker|Track|Title
@@ -16,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 42610
 # Processing unstructured data
-#### [Back to calendar](#SQLSaturday-#482-Nepal-2016)
+#### [Back to calendar](#nr-482)
 Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Business Intelligence 
 ## Speaker: Dinesh Priyankara
 ## Title: Processing unstructured data
@@ -25,7 +26,7 @@ Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Business Intelligence
 #  
 #### SessionID: 45889
 # 5 Ways to Reduce Database Size and Improve Performance
-#### [Back to calendar](#SQLSaturday-#482-Nepal-2016)
+#### [Back to calendar](#nr-482)
 Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Database Administration 
 ## Speaker: Dmitri Korotkevitch
 ## Title: 5 Ways to Reduce Database Size and Improve Performance
@@ -44,7 +45,7 @@ Even though data retention policies are controlled by business requirements, thi
 #  
 #### SessionID: 45731
 # Power BI: The shift to business-led self-service analytics
-#### [Back to calendar](#SQLSaturday-#482-Nepal-2016)
+#### [Back to calendar](#nr-482)
 Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Business Intelligence 
 ## Speaker: Gogula Aryalingam
 ## Title: Power BI: The shift to business-led self-service analytics
@@ -53,7 +54,7 @@ Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Business Intelligence
 #  
 #### SessionID: 46369
 # Cardinality Estimator - Before 2014 and After
-#### [Back to calendar](#SQLSaturday-#482-Nepal-2016)
+#### [Back to calendar](#nr-482)
 Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Database Administration 
 ## Speaker: Nagaraj Venkatesan
 ## Title: Cardinality Estimator - Before 2014 and After
@@ -62,7 +63,7 @@ Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Database Administration
 #  
 #### SessionID: 45888
 # Data Partitioning for Database Architects and Mere Mortals
-#### [Back to calendar](#SQLSaturday-#482-Nepal-2016)
+#### [Back to calendar](#nr-482)
 Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Dmitri Korotkevitch
 ## Title: Data Partitioning for Database Architects and Mere Mortals
@@ -72,7 +73,7 @@ Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 45935
 # Take your IT to the next level
-#### [Back to calendar](#SQLSaturday-#482-Nepal-2016)
+#### [Back to calendar](#nr-482)
 Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Pre-Conference
 ## Speaker: Gurvesh Singh
 ## Title: Take your IT to the next level
@@ -81,7 +82,7 @@ Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Pre-Conference
 #  
 #### SessionID: 45890
 # Thinking Outside the In-Memory Box
-#### [Back to calendar](#SQLSaturday-#482-Nepal-2016)
+#### [Back to calendar](#nr-482)
 Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Dmitri Korotkevitch
 ## Title: Thinking Outside the In-Memory Box
@@ -97,7 +98,7 @@ Finally, this session shows several techniques that help address in-memory OLTP 
 #  
 #### SessionID: 45926
 # Using power query to tell your story form your Facebook data.
-#### [Back to calendar](#SQLSaturday-#482-Nepal-2016)
+#### [Back to calendar](#nr-482)
 Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Business Intelligence 
 ## Speaker: Anil Maharjan
 ## Title: Using power query to tell your story form your Facebook data.
@@ -110,7 +111,7 @@ This session helps you to learn about the Power Query, Power View, and Power BI 
 #  
 #### SessionID: 44431
 # Building a Power BI solution
-#### [Back to calendar](#SQLSaturday-#482-Nepal-2016)
+#### [Back to calendar](#nr-482)
 Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Business Intelligence 
 ## Speaker: Gogula Aryalingam
 ## Title: Building a Power BI solution
@@ -119,7 +120,7 @@ Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Business Intelligence
 #  
 #### SessionID: 48525
 # SQL Server On Windows Cluster
-#### [Back to calendar](#SQLSaturday-#482-Nepal-2016)
+#### [Back to calendar](#nr-482)
 Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Database Administration 
 ## Speaker: Satya Prakash
 ## Title: SQL Server On Windows Cluster
@@ -132,7 +133,7 @@ How to install, configure, perform maintenance and troubleshoot SQL server on Wi
 #  
 #### SessionID: 46597
 # Advanced SQL Server HA and DR Architectures
-#### [Back to calendar](#SQLSaturday-#482-Nepal-2016)
+#### [Back to calendar](#nr-482)
 Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Database Administration 
 ## Speaker: Shree Khanal
 ## Title: Advanced SQL Server HA and DR Architectures

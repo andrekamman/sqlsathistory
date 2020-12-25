@@ -1,3 +1,4 @@
+#### Nr: 989
 #### [Back to Main list](index.md)
 # SQLSaturday #989 – Sofia – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -30,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 104167
 # I'm not sorry, Dave... ML.Net can do that!
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: André Melancia
 ## Title: I'm not sorry, Dave... ML.Net can do that!
@@ -42,7 +43,7 @@ Disclaimer: No monoliths were harmed in the making of this session.
 #  
 #### SessionID: 105564
 # Real-World Query Tuning Examples
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amit R S Bansal
 ## Title: Real-World Query Tuning Examples
@@ -51,7 +52,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 105611
 # Understanding SQL Server Views - The Right Way
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Ramesh Satya
 ## Title: Understanding SQL Server Views - The Right Way
@@ -60,7 +61,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Application  Database D
 #  
 #### SessionID: 107258
 # Double Power - Managing Power BI with PowerShell
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andrey Nikolov
 ## Title: Double Power - Managing Power BI with PowerShell
@@ -69,7 +70,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 108204
 # What’s in the Cloud for my Datawarehouse
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Strategy and Architecture
 ## Speaker: Margarita Naumova
 ## Title: What’s in the Cloud for my Datawarehouse
@@ -78,7 +79,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 102997
 # Notebooks and other wonders in Azure Data Studio
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Dennes Torres
 ## Title: Notebooks and other wonders in Azure Data Studio
@@ -90,7 +91,7 @@ Let's dig these features in details and see what they can provide to us
 #  
 #### SessionID: 103009
 # Azure SQL Database EDGE, put your SQL wherever you want!
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Marco Dal Pino
 ## Title: Azure SQL Database EDGE, put your SQL wherever you want!
@@ -101,7 +102,7 @@ Expand device architecture coverage to include ARM-based devices on top of x64-b
 #  
 #### SessionID: 107081
 # Don't Bite Off More Than You Can Chew - Take It in Chunks
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Don't Bite Off More Than You Can Chew - Take It in Chunks
@@ -114,7 +115,7 @@ I will also look at how you can use chunking for error handling: You want proces
 #  
 #### SessionID: 107273
 # Azure Data Factory - how to implement incremental loads for PARQUET
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ivan Donev
 ## Title: Azure Data Factory - how to implement incremental loads for PARQUET
@@ -123,7 +124,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 108519
 # Working with parameters in Power Query
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Boriana Petrova
 ## Title: Working with parameters in Power Query
@@ -132,7 +133,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 105093
 # Performance Tuning with Optimistic Concurrency
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Torsten Strauss
 ## Title: Performance Tuning with Optimistic Concurrency
@@ -143,7 +144,7 @@ In this session (level 300), you will learn how to increase the reading performa
 #  
 #### SessionID: 107539
 # The NextGen in Time Series Landscape
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Analytics and Visualization
 ## Speaker: Ivelin Andreev
 ## Title: The NextGen in Time Series Landscape
@@ -154,7 +155,7 @@ Already Top 1 by popularity, InfluxDB introduces v.2.0 as a revolutionary change
 #  
 #### SessionID: 108205
 # A database that takes it all
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Margarita Naumova
 ## Title: A database that takes it all
@@ -163,7 +164,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 108520
 # Monitoring SSAS processing performance in Power BI
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Georgi Petkov
 ## Title: Monitoring SSAS processing performance in Power BI
@@ -172,7 +173,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 108563
 # Designing GDPR compliant Identity management
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dimo Roussinov
 ## Title: Designing GDPR compliant Identity management
@@ -181,7 +182,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 103057
 # Machine Learning - Best Practices and Vulnerabilities
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Sebastiano Galazzo
 ## Title: Machine Learning - Best Practices and Vulnerabilities
@@ -193,7 +194,7 @@ The second part will cover vulnerabilities of ML discovering how easy could be t
 #  
 #### SessionID: 107439
 # From Gen1 To Gen2. Recipes for a successful Data Lake migration
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Strategy and Architecture
 ## Speaker: Regis Baccaro
 ## Title: From Gen1 To Gen2. Recipes for a successful Data Lake migration
@@ -211,7 +212,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 107671
 # From XL to S - Reduce your Power BI model size by 90%!
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Analytics and Visualization
 ## Speaker: Nikola Ilic
 ## Title: From XL to S - Reduce your Power BI model size by 90%!
@@ -224,7 +225,7 @@ Finally, you will see a real use-case demo showing how the Power BI data model w
 #  
 #### SessionID: 108408
 # End to end, migrating a database to Azure
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kaloyan Kosev
 ## Title: End to end, migrating a database to Azure
@@ -234,7 +235,7 @@ What tools should we use? How do we choose the best approach? How do we analyse 
 #  
 #### SessionID: 108621
 # Q  A with partners
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Mihail Mateev
 ## Title: Q  A with partners
@@ -243,7 +244,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 102984
 # Creating Custom BI Solutions with Power BI Embedded
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mihail Mateev
 ## Title: Creating Custom BI Solutions with Power BI Embedded
@@ -254,7 +255,7 @@ This talk is a practical session on Microsoft Power BI Embedded concept with man
 #  
 #### SessionID: 103007
 # Advanced data types – JSON
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Damir Matesic
 ## Title: Advanced data types – JSON
@@ -267,7 +268,7 @@ Main topics:
 #  
 #### SessionID: 103631
 # From adaptive to intelligent: query processing in SQL 2019
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: From adaptive to intelligent: query processing in SQL 2019
@@ -278,7 +279,7 @@ In this high-paced session, we will look at all these features and cover some us
 #  
 #### SessionID: 105897
 # Monitoring SQL Server using Community solutions (Free)
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Javier Villegas
 ## Title: Monitoring SQL Server using Community solutions (Free)
@@ -287,7 +288,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 107389
 # Introduction to Computer Vision
-#### [Back to calendar](#SQLSaturday-#989-–-Sofia-–-Virtual-2020)
+#### [Back to calendar](#nr-989)
 Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: Introduction to Computer Vision

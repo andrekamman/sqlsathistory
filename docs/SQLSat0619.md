@@ -1,3 +1,4 @@
+#### Nr: 619
 #### [Back to Main list](index.md)
 # SQLSaturday #619 - Rochester 2017
 Start Time (24h)|Speaker|Track|Title
@@ -33,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 62498
 # Version control with GIT for the DBA Precon
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Justin Dearing
 ## Title: Version control with GIT for the DBA Precon
@@ -46,7 +47,7 @@ Our example application will be an ASP.NET MVC application and SQL Database whos
 #  
 #### SessionID: 57900
 # Big Data, Small Data, and Everything In Between
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Kevin Feasel
 ## Title: Big Data, Small Data, and Everything In Between
@@ -55,7 +56,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 59392
 # Azure SQL Database for the DBA
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Grant Fritchey
 ## Title: Azure SQL Database for the DBA
@@ -64,7 +65,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61558
 # From problem to Power BI:  A journey in data visualization
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Jonathan Stewart
 ## Title: From problem to Power BI:  A journey in data visualization
@@ -73,7 +74,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 61639
 # Painting with PowerShell: SQL Server Administration
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Sommer
 ## Title: Painting with PowerShell: SQL Server Administration
@@ -84,7 +85,7 @@ Join me to learn how to paint your own SQL Server canvas with PowerShell.
 #  
 #### SessionID: 57885
 # Big data architectures and the data lake
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: James Serra
 ## Title: Big data architectures and the data lake
@@ -93,7 +94,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61389
 # How to migrate a SQL database to Microsoft Azure SQL V12
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taiob Ali
 ## Title: How to migrate a SQL database to Microsoft Azure SQL V12
@@ -102,7 +103,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 62495
 # Version control with GIT for the DBA
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Justin Dearing
 ## Title: Version control with GIT for the DBA
@@ -124,7 +125,7 @@ We will be covering using git from both the command line and Visual Studio.
 #  
 #### SessionID: 63836
 # Making the Leap from Developer to DBA
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
@@ -133,7 +134,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 57902
 # R For the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
@@ -142,7 +143,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 61276
 # Stretch Database and Managed Backups: Cloud Services for your SQL Servers
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Loree
 ## Title: Stretch Database and Managed Backups: Cloud Services for your SQL Servers
@@ -151,7 +152,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61556
 # An introduction to the magical world of BIML!
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
@@ -160,7 +161,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 62407
 # Distributed Replay, using  it to plan for the future.
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Popovich Jr
 ## Title: Distributed Replay, using  it to plan for the future.
@@ -169,7 +170,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 62799
 # # vs @ - it's not about Social Media it's about temporary tables and data
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Thomas Grohser
 ## Title: # vs @ - it's not about Social Media it's about temporary tables and data
@@ -178,7 +179,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 64624
 # Tuning Query Performance with SentryOne Plan Explorer
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Other
 ## Speaker: Allen White
 ## Title: Tuning Query Performance with SentryOne Plan Explorer
@@ -187,7 +188,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 57878
 # Finding Islands, Gaps, and Clusters in Complex Data
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Edward Pollack
 ## Title: Finding Islands, Gaps, and Clusters in Complex Data
@@ -200,7 +201,7 @@ Discussion will include performance, CTEs, recursion, set-based vs. iterative an
 #  
 #### SessionID: 57895
 # Architecting Availability Groups
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Derik Hammer
 ## Title: Architecting Availability Groups
@@ -209,7 +210,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 59588
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -218,7 +219,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 61277
 # SQL Server vNext (Linux and Beyond)
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Loree
 ## Title: SQL Server vNext (Linux and Beyond)
@@ -229,7 +230,7 @@ In this session, we will look at the background of SQL Server’s move to non-Wi
 #  
 #### SessionID: 63727
 # WIT: Start 'em Young - Growing Women in IT
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Amy Herold
 ## Title: WIT: Start 'em Young - Growing Women in IT
@@ -238,7 +239,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 57880
 # Building Effective Backups
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Edward Pollack
 ## Title: Building Effective Backups
@@ -251,7 +252,7 @@ This is an opportunity to create a backup solution from scratch that takes into 
 #  
 #### SessionID: 59393
 # The Query Store and Query Tuning in SQL Server
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: The Query Store and Query Tuning in SQL Server
@@ -262,7 +263,7 @@ This session will explore how the Query Store works and how it’s going to chan
 #  
 #### SessionID: 59579
 # Learning to present and becoming good at it
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: James Serra
 ## Title: Learning to present and becoming good at it
@@ -271,7 +272,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 62800
 # Developing and deploying reusable TSQL code with Visual Studio and SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Thomas Grohser
 ## Title: Developing and deploying reusable TSQL code with Visual Studio and SQL Server Data Tools
@@ -281,7 +282,7 @@ He will also share many Tips and Tricks for using Visual Studio more effective f
 #  
 #### SessionID: 63451
 # Scalable Application Design with Service Broker
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Allen White
 ## Title: Scalable Application Design with Service Broker
@@ -295,7 +296,7 @@ Session Goal 3    Demonstrate how the non-critical updates are best handled asyn
 #  
 #### SessionID: 57897
 # Query Tuning without Production Data
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Derik Hammer
 ## Title: Query Tuning without Production Data
@@ -304,7 +305,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 61658
 # Think like the Cardinality Estimator
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taiob Ali
 ## Title: Think like the Cardinality Estimator
@@ -313,7 +314,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63449
 # Emergency! Are You Ready for Disaster to Strike?
-#### [Back to calendar](#SQLSaturday-#619-Rochester-2017)
+#### [Back to calendar](#nr-619)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Emergency! Are You Ready for Disaster to Strike?

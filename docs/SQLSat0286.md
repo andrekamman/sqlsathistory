@@ -1,3 +1,4 @@
+#### Nr: 286
 #### [Back to Main list](index.md)
 # SQLSaturday #286 - Louisville 2014
 Start Time (24h)|Speaker|Track|Title
@@ -37,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10850
 # SQL 2012 Extended Events
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2 - Adv.DBA
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Extended Events
@@ -46,7 +47,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2 - Adv.DBA
 #  
 #### SessionID: 10851
 # SQL 2012 Table Compression
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2 - Adv.DBA
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Table Compression
@@ -55,7 +56,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2 - Adv.DBA
 #  
 #### SessionID: 11224
 # Advanced Performance Tuning Tips with Database Performance Analyzer (formerly Confio Ignite) 
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2 - Adv.DBA
 ## Speaker: Carlos Parra
 ## Title: Advanced Performance Tuning Tips with Database Performance Analyzer (formerly Confio Ignite) 
@@ -64,7 +65,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2 - Adv.DBA
 #  
 #### SessionID: 11262
 # Optimizing Protected Indexes
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2 - Adv.DBA
 ## Speaker: Chris Bell
 ## Title: Optimizing Protected Indexes
@@ -73,7 +74,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2 - Adv.DBA
 #  
 #### SessionID: 11263
 # The Spy Who Loathed Me - An Intro to SQL Security 
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1 - DBA
 ## Speaker: Chris Bell
 ## Title: The Spy Who Loathed Me - An Intro to SQL Security 
@@ -82,7 +83,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1 - DBA
 #  
 #### SessionID: 12248
 # Isn't That Spatial
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3 - BI
 ## Speaker: Dave Mattingly
 ## Title: Isn't That Spatial
@@ -93,7 +94,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3 - BI
 #  
 #### SessionID: 12249
 # Achievement Unlocked: How to Get Promoted
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4 - Dev
 ## Speaker: Dave Mattingly
 ## Title: Achievement Unlocked: How to Get Promoted
@@ -104,7 +105,7 @@ In this session, you'll learn how to promote yourself, how to speak confidently,
 #  
 #### SessionID: 12330
 # Visual Studio Database Tools
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4 - Dev
 ## Speaker: Dave Fackler
 ## Title: Visual Studio Database Tools
@@ -113,7 +114,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4 - Dev
 #  
 #### SessionID: 12332
 # Clustered Columnstore Indexes in SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3 - BI
 ## Speaker: Dave Fackler
 ## Title: Clustered Columnstore Indexes in SQL Server 2014
@@ -122,7 +123,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3 - BI
 #  
 #### SessionID: 13423
 # Self-Service BI with SSAS 
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3 - BI
 ## Speaker: Dan Evans
 ## Title: Self-Service BI with SSAS 
@@ -131,7 +132,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3 - BI
 #  
 #### SessionID: 13475
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4 - Dev
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -141,7 +142,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4 - Dev
 #  
 #### SessionID: 13476
 # How to Write a DML Trigger
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1 - DBA
 ## Speaker: Louis Davidson
 ## Title: How to Write a DML Trigger
@@ -150,7 +151,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1 - DBA
 #  
 #### SessionID: 13688
 # "So you have a performance issue.  What now?"
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1 - DBA
 ## Speaker: Ed Watson
 ## Title: "So you have a performance issue.  What now?"
@@ -159,7 +160,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1 - DBA
 #  
 #### SessionID: 14781
 # Best Practices for Database Deployment
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1 - DBA
 ## Speaker: Grant Fritchey
 ## Title: Best Practices for Database Deployment
@@ -169,7 +170,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1 - DBA
 #  
 #### SessionID: 16755
 # Transforming Data using T-SQL PIVOT / UNPIVOT 
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3 - BI
 ## Speaker: Jeff Foushee
 ## Title: Transforming Data using T-SQL PIVOT / UNPIVOT 
@@ -178,7 +179,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3 - BI
 #  
 #### SessionID: 17115
 # Say Goodbye to Boring Meetings
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5 - Misc.
 ## Speaker: Joe Webb
 ## Title: Say Goodbye to Boring Meetings
@@ -187,7 +188,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5 - Misc.
 #  
 #### SessionID: 19346
 # Data Platform for Hybrid Cloud
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3 - BI
 ## Speaker: Madhu Desarapu
 ## Title: Data Platform for Hybrid Cloud
@@ -196,7 +197,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3 - BI
 #  
 #### SessionID: 19347
 # The Modern Data Warehouse with PDW/Hadoop
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5 - Misc.
 ## Speaker: Madhu Desarapu
 ## Title: The Modern Data Warehouse with PDW/Hadoop
@@ -205,7 +206,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5 - Misc.
 #  
 #### SessionID: 20396
 # Changing Your Habits to Improve the Performance of Your T-SQL
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4 - Dev
 ## Speaker: Mickey Stuewe
 ## Title: Changing Your Habits to Improve the Performance of Your T-SQL
@@ -214,7 +215,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4 - Dev
 #  
 #### SessionID: 20397
 # Best Practices for Efficient SSRS Report Creation
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3 - BI
 ## Speaker: Mickey Stuewe
 ## Title: Best Practices for Efficient SSRS Report Creation
@@ -224,7 +225,7 @@ Reports don't stop changing once they're released into production, and some repo
 #  
 #### SessionID: 23135
 # How SQL DBAs and Developers can speak to business leaders
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3 - BI
 ## Speaker: Ron Reeves
 ## Title: How SQL DBAs and Developers can speak to business leaders
@@ -234,7 +235,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3 - BI
 #  
 #### SessionID: 23256
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4 - Dev
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -243,7 +244,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4 - Dev
 #  
 #### SessionID: 23979
 # SQL Server 2014 Transitioning to the Cloud
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5 - Misc.
 ## Speaker: Sarah Barela
 ## Title: SQL Server 2014 Transitioning to the Cloud
@@ -252,7 +253,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5 - Misc.
 #  
 #### SessionID: 23980
 # SQL Server 2014 - An overview
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1 - DBA
 ## Speaker: Sarah Barela
 ## Title: SQL Server 2014 - An overview
@@ -261,7 +262,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1 - DBA
 #  
 #### SessionID: 24047
 # Exposing SQL data with SharePoint
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4 - Dev
 ## Speaker: Scott Brickey
 ## Title: Exposing SQL data with SharePoint
@@ -270,7 +271,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4 - Dev
 #  
 #### SessionID: 24533
 # The Encryption Primer
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1 - DBA
 ## Speaker: Steve Jones
 ## Title: The Encryption Primer
@@ -279,7 +280,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1 - DBA
 #  
 #### SessionID: 24534
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5 - Misc.
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -288,7 +289,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5 - Misc.
 #  
 #### SessionID: 24595
 # Designing a Restore Strategy
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2 - Adv.DBA
 ## Speaker: Frank Gill
 ## Title: Designing a Restore Strategy
@@ -299,7 +300,7 @@ For the answers to these questions and a whole lot more about database restores,
 #  
 #### SessionID: 24596
 # Interrogating the Transaction Log 
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2 - Adv.DBA
 ## Speaker: Frank Gill
 ## Title: Interrogating the Transaction Log 
@@ -312,7 +313,7 @@ In this session, you will learn how SQL Server uses the transaction log to maint
 #  
 #### SessionID: 27555
 # Introduction to FileTables in SQL 2012
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5 - Misc.
 ## Speaker: Warren Sifre
 ## Title: Introduction to FileTables in SQL 2012
@@ -321,7 +322,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5 - Misc.
 #  
 #### SessionID: 27724
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2 - Adv.DBA
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -330,7 +331,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2 - Adv.DBA
 #  
 #### SessionID: 27725
 # Crazy Things That Developers Do
-#### [Back to calendar](#SQLSaturday-#286-Louisville-2014)
+#### [Back to calendar](#nr-286)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1 - DBA
 ## Speaker: Wayne Sheffield
 ## Title: Crazy Things That Developers Do

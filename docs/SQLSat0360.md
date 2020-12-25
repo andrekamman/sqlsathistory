@@ -1,3 +1,4 @@
+#### Nr: 360
 #### [Back to Main list](index.md)
 # SQLSaturday #360 - Israel 2015
 Start Time (24h)|Speaker|Track|Title
@@ -17,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13751
 # Spatial data type and its implementation
-#### [Back to calendar](#SQLSaturday-#360-Israel-2015)
+#### [Back to calendar](#nr-360)
 Event Date: 19-01-2015 - Session time: 00:00:00 - Track: 1.Enterprise Database Administration  Development
 ## Speaker: Eitan Lipovetskey
 ## Title: Spatial data type and its implementation
@@ -27,7 +28,7 @@ An interesting implementation developed by the speaker combining SSRS and cellul
 #  
 #### SessionID: 14876
 # Advanced Query Tuning Techniques
-#### [Back to calendar](#SQLSaturday-#360-Israel-2015)
+#### [Back to calendar](#nr-360)
 Event Date: 19-01-2015 - Session time: 00:00:00 - Track: 1.Enterprise Database Administration  Development
 ## Speaker: Guy Glantser
 ## Title: Advanced Query Tuning Techniques
@@ -37,7 +38,7 @@ In this session we will analyze common use cases of poorly performing queries, s
 #  
 #### SessionID: 15264
 # Delayed Durability - SQL Server goes wild
-#### [Back to calendar](#SQLSaturday-#360-Israel-2015)
+#### [Back to calendar](#nr-360)
 Event Date: 19-01-2015 - Session time: 00:00:00 - Track: 1.Enterprise Database Administration  Development
 ## Speaker: Ido Friedman
 ## Title: Delayed Durability - SQL Server goes wild
@@ -48,7 +49,7 @@ See why delayed durability is one of the most important features in years and th
 #  
 #### SessionID: 19110
 # Native File Streaming with SQL Server
-#### [Back to calendar](#SQLSaturday-#360-Israel-2015)
+#### [Back to calendar](#nr-360)
 Event Date: 19-01-2015 - Session time: 00:00:00 - Track: 1.Enterprise Database Administration  Development
 ## Speaker: Leonard Lobel
 ## Title: Native File Streaming with SQL Server
@@ -57,7 +58,7 @@ Event Date: 19-01-2015 - Session time: 00:00:00 - Track: 1.Enterprise Database A
 #  
 #### SessionID: 19159
 # Managing a BI Project Successfuly
-#### [Back to calendar](#SQLSaturday-#360-Israel-2015)
+#### [Back to calendar](#nr-360)
 Event Date: 19-01-2015 - Session time: 00:00:00 - Track: 2.BI Platform Architecture
 ## Speaker: Lior Cohen Amikam
 ## Title: Managing a BI Project Successfuly
@@ -66,7 +67,7 @@ Event Date: 19-01-2015 - Session time: 00:00:00 - Track: 2.BI Platform Architect
 #  
 #### SessionID: 19801
 # The Data Loading Performance Presentation
-#### [Back to calendar](#SQLSaturday-#360-Israel-2015)
+#### [Back to calendar](#nr-360)
 Event Date: 19-01-2015 - Session time: 00:00:00 - Track: 2.BI Platform Architecture
 ## Speaker: Matan Yungman
 ## Title: The Data Loading Performance Presentation
@@ -88,7 +89,7 @@ Among other topics, we will talk about:
 #  
 #### SessionID: 21467
 # How to use MS SQL 2014  Pyramid Analytics to Deliver the best Governed Self-service solution
-#### [Back to calendar](#SQLSaturday-#360-Israel-2015)
+#### [Back to calendar](#nr-360)
 Event Date: 19-01-2015 - Session time: 00:00:00 - Track: 2.BI Platform Architecture
 ## Speaker: Niv Feldman
 ## Title: How to use MS SQL 2014  Pyramid Analytics to Deliver the best Governed Self-service solution
@@ -97,7 +98,7 @@ Event Date: 19-01-2015 - Session time: 00:00:00 - Track: 2.BI Platform Architect
 #  
 #### SessionID: 22187
 # Rethink Your Data Model and Make It Super Fast
-#### [Back to calendar](#SQLSaturday-#360-Israel-2015)
+#### [Back to calendar](#nr-360)
 Event Date: 19-01-2015 - Session time: 00:00:00 - Track: 1.Enterprise Database Administration  Development
 ## Speaker: Peter Larsson
 ## Title: Rethink Your Data Model and Make It Super Fast
@@ -110,7 +111,7 @@ There will be real life examples from a recent project. With the techniques disp
 #  
 #### SessionID: 23793
 # Big Data: Become a data engineer or kick the bucket!
-#### [Back to calendar](#SQLSaturday-#360-Israel-2015)
+#### [Back to calendar](#nr-360)
 Event Date: 19-01-2015 - Session time: 00:00:00 - Track: 2.BI Platform Architecture
 ## Speaker: Saggi Neumann
 ## Title: Big Data: Become a data engineer or kick the bucket!
@@ -124,7 +125,7 @@ One outcome of adopting big data technology is that it's not easily accessible t
 #  
 #### SessionID: 25617
 # SQL Server Reporting Services Best Practices
-#### [Back to calendar](#SQLSaturday-#360-Israel-2015)
+#### [Back to calendar](#nr-360)
 Event Date: 19-01-2015 - Session time: 00:00:00 - Track: 2.BI Platform Architecture
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services Best Practices
@@ -136,7 +137,7 @@ We shall be discussing the pros and cons of utilizing shared datasets, the pluse
 #  
 #### SessionID: 9074
 # harnessing the GPU power for Big Data Analytic 
-#### [Back to calendar](#SQLSaturday-#360-Israel-2015)
+#### [Back to calendar](#nr-360)
 Event Date: 19-01-2015 - Session time: 00:00:00 - Track: 2.BI Platform Architecture
 ## Speaker: amihay gonen
 ## Title: harnessing the GPU power for Big Data Analytic 
@@ -147,7 +148,7 @@ I'll presents some interesting benchmarks we've  done on a GPU database vs RDBMS
 #  
 #### SessionID: 9834
 # SQL CLR from 2005 to 20015, Not how, but why and when
-#### [Back to calendar](#SQLSaturday-#360-Israel-2015)
+#### [Back to calendar](#nr-360)
 Event Date: 19-01-2015 - Session time: 00:00:00 - Track: 1.Enterprise Database Administration  Development
 ## Speaker: Ronen Ariely
 ## Title: SQL CLR from 2005 to 20015, Not how, but why and when

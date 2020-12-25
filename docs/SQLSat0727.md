@@ -1,3 +1,4 @@
+#### Nr: 727
 #### [Back to Main list](index.md)
 # SQLSaturday #727 - Mexico 2018
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 71765
 # Data Cleansing With SQL And R
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Data Cleansing With SQL And R
@@ -44,7 +45,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 74507
 # SQL Server on Linux
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: SQL Server on Linux
@@ -53,7 +54,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 80188
 # Data Governance and Self-Service BI
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Yanitza Campos
 ## Title: Data Governance and Self-Service BI
@@ -62,7 +63,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 80884
 # Cosas que tienes que hacer antes de llamar a Microsoft Support
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Adrian Miranda
 ## Title: Cosas que tienes que hacer antes de llamar a Microsoft Support
@@ -71,7 +72,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 82303
 # Azure SQL Datawarehouse: Mis primeros pasos
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: Azure SQL Datawarehouse: Mis primeros pasos
@@ -81,7 +82,7 @@ En esta sesión se abordarán los puntos importantes para la creación de un Dat
 #  
 #### SessionID: 80571
 # Modelando de datos Autoservicio con Power BI
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Modelando de datos Autoservicio con Power BI
@@ -90,7 +91,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 81986
 # Performance Tuning for the BI Professional
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: Performance Tuning for the BI Professional
@@ -99,7 +100,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 82327
 # Big Data en la Nube - Ecosistema Hadoop con HDInsight
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joseph Arriola
 ## Title: Big Data en la Nube - Ecosistema Hadoop con HDInsight
@@ -109,7 +110,7 @@ Una forma de implementar de forma rápida un proyecto de Big Data es a través d
 #  
 #### SessionID: 82348
 # Data modeling with PowerPivot for PowerBI
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Samantha Villarreal Torres
 ## Title: Data modeling with PowerPivot for PowerBI
@@ -118,7 +119,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 82429
 # SQL on Linux Best Practices and Hands On
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Edgar Tellez Gonzalez
 ## Title: SQL on Linux Best Practices and Hands On
@@ -127,7 +128,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 71920
 # Alta disponibilidad para SQL Server en Linux
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Daniel Valero
 ## Title: Alta disponibilidad para SQL Server en Linux
@@ -136,7 +137,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71929
 # Yo quería ser Data Scientist... pero me lastimé la rodilla. Ciencia de datos para mi empresa.
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ismael Medina Muñoz
 ## Title: Yo quería ser Data Scientist... pero me lastimé la rodilla. Ciencia de datos para mi empresa.
@@ -146,7 +147,7 @@ Si, habrá matemáticas... habrá caras de confusión... habrá memes... habrá 
 #  
 #### SessionID: 82182
 # Como Implementar Power BI desde 0 en tu empresa.
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Yanitza Campos
 ## Title: Como Implementar Power BI desde 0 en tu empresa.
@@ -155,7 +156,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 82300
 # Introducción a Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Introducción a Azure Data Factory
@@ -164,7 +165,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 82430
 # New Visualization Techniques
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Edgar Tellez Gonzalez
 ## Title: New Visualization Techniques
@@ -173,7 +174,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 73840
 # SQL Server 2017 Automatic Tuning
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alejandro Cordero
 ## Title: SQL Server 2017 Automatic Tuning
@@ -182,7 +183,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 74506
 # SQL Server 2017 SSIS Scale Out
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: SQL Server 2017 SSIS Scale Out
@@ -191,7 +192,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 76930
 # Configuring AlwaysON availability groups with Readable Secundaries
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Urena
 ## Title: Configuring AlwaysON availability groups with Readable Secundaries
@@ -200,7 +201,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 77220
 # Necesitamos BI, ¡utilicemos la nube! (Azure SQL Database - Azure Analysis Services - Power BI)
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: Necesitamos BI, ¡utilicemos la nube! (Azure SQL Database - Azure Analysis Services - Power BI)
@@ -210,7 +211,7 @@ En este espacio aprovecharemos las bondades de una solución 100% nube, creando 
 #  
 #### SessionID: 82096
 # Administrando múltiples instancias de SQL Server
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Enrique Argüelles
 ## Title: Administrando múltiples instancias de SQL Server
@@ -222,7 +223,7 @@ Para la administración de cientos de instancias de SQL Server
 #  
 #### SessionID: 71922
 # El estimador de cardinalidad, nuestro amigo incomprendido
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Daniel Valero
 ## Title: El estimador de cardinalidad, nuestro amigo incomprendido
@@ -233,7 +234,7 @@ La respuesta a estas y otras interrogantes en esta sesión completamente basada 
 #  
 #### SessionID: 73969
 # Datos con mucha chispa
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Miguel Angel Granados
 ## Title: Datos con mucha chispa
@@ -242,7 +243,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 80189
 # Introducción a Reporting Services 2017
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Yanitza Campos
 ## Title: Introducción a Reporting Services 2017
@@ -252,7 +253,7 @@ En esta sesión exploraremos sus nuevas características; así como sus ventajas
 #  
 #### SessionID: 81987
 # Relationship Goals:  The SQL Server Graph Database
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Jonathan Stewart
 ## Title: Relationship Goals:  The SQL Server Graph Database
@@ -263,7 +264,7 @@ One of the best new features of SQL Server 2017 is the Graph Database!  It bring
 #  
 #### SessionID: 82324
 # Big Data en la Nube - ¿Cómo procesar información en tiempo real a través de Spark con HDInsight?
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joseph Arriola
 ## Title: Big Data en la Nube - ¿Cómo procesar información en tiempo real a través de Spark con HDInsight?
@@ -272,7 +273,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 71766
 # Working Effectively With Legacy SQL
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Working Effectively With Legacy SQL
@@ -281,7 +282,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 76931
 # SQL Server 2016 - Mejorando el desempeño de consultas de análisis sobre sistemas de misión crítica
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2016 - Mejorando el desempeño de consultas de análisis sobre sistemas de misión crítica
@@ -290,7 +291,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 80570
 # Data Analytics: Clustering, Regression and Machine Learning con  Power BI
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Eduardo Castro
 ## Title: Data Analytics: Clustering, Regression and Machine Learning con  Power BI
@@ -299,7 +300,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 80886
 # Troubleshooting Query Store
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adrian Miranda
 ## Title: Troubleshooting Query Store
@@ -308,7 +309,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82301
 # Mejorando la calidad de los datos con SQL Server
-#### [Back to calendar](#SQLSaturday-#727-Mexico-2018)
+#### [Back to calendar](#nr-727)
 Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Mejorando la calidad de los datos con SQL Server

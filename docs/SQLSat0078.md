@@ -1,3 +1,4 @@
+#### Nr: 78
 #### [Back to Main list](index.md)
 # SQLSaturday #78 - Portugal 2011
 Start Time (24h)|Speaker|Track|Title
@@ -12,7 +13,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28871
 # Optimizing SQL Server for Sharepoint 2010
-#### [Back to calendar](#SQLSaturday-#78-Portugal-2011)
+#### [Back to calendar](#nr-78)
 Event Date: 15-04-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Artur Santos
 ## Title: Optimizing SQL Server for Sharepoint 2010
@@ -22,7 +23,7 @@ Event Date: 15-04-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32048
 # SQL Server Denali CTP1 and more
-#### [Back to calendar](#SQLSaturday-#78-Portugal-2011)
+#### [Back to calendar](#nr-78)
 Event Date: 15-04-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Niko Neugebauer
 ## Title: SQL Server Denali CTP1 and more
@@ -31,7 +32,7 @@ Event Date: 15-04-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32114
 # SQL Azure Overview - How to Develop and Manage it
-#### [Back to calendar](#SQLSaturday-#78-Portugal-2011)
+#### [Back to calendar](#nr-78)
 Event Date: 15-04-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Nuno Godinho
 ## Title: SQL Azure Overview - How to Develop and Manage it
@@ -40,7 +41,7 @@ Event Date: 15-04-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32200
 # Introduction to SQL Azure Reporting?
-#### [Back to calendar](#SQLSaturday-#78-Portugal-2011)
+#### [Back to calendar](#nr-78)
 Event Date: 15-04-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Pedro Rosa
 ## Title: Introduction to SQL Azure Reporting?
@@ -50,7 +51,7 @@ With the preview release of new SQL Azure Reporting capabilities, developers can
 #  
 #### SessionID: 32538
 # SQL Server Performance Monitoring and Tuning
-#### [Back to calendar](#SQLSaturday-#78-Portugal-2011)
+#### [Back to calendar](#nr-78)
 Event Date: 15-04-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ramesh Meyyappan
 ## Title: SQL Server Performance Monitoring and Tuning
@@ -59,7 +60,7 @@ Event Date: 15-04-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32539
 # SAP/SQL Server - Software Integration at its best!
-#### [Back to calendar](#SQLSaturday-#78-Portugal-2011)
+#### [Back to calendar](#nr-78)
 Event Date: 15-04-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ramesh Meyyappan
 ## Title: SAP/SQL Server - Software Integration at its best!
@@ -68,7 +69,7 @@ Event Date: 15-04-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32811
 # SSIS: Overcoming Common Challenges
-#### [Back to calendar](#SQLSaturday-#78-Portugal-2011)
+#### [Back to calendar](#nr-78)
 Event Date: 15-04-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Scott Stauffer
 ## Title: SSIS: Overcoming Common Challenges

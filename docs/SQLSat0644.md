@@ -1,3 +1,4 @@
+#### Nr: 644
 #### [Back to Main list](index.md)
 # SQLSaturday #644 - Bratislava 2017
 Start Time (24h)|Speaker|Track|Title
@@ -15,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 62831
 # Forecasting with MS BI Suite
-#### [Back to calendar](#SQLSaturday-#644-Bratislava-2017)
+#### [Back to calendar](#nr-644)
 Event Date: 24-06-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dejan Sarka
 ## Title: Forecasting with MS BI Suite
@@ -24,7 +25,7 @@ Event Date: 24-06-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64261
 # In the name of the resources: Aggregating data
-#### [Back to calendar](#SQLSaturday-#644-Bratislava-2017)
+#### [Back to calendar](#nr-644)
 Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Dejan Dular
 ## Title: In the name of the resources: Aggregating data
@@ -33,7 +34,7 @@ Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 62835
 # Doing Hadoop with Azure HDInsight
-#### [Back to calendar](#SQLSaturday-#644-Bratislava-2017)
+#### [Back to calendar](#nr-644)
 Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mario Meir-Huber
 ## Title: Doing Hadoop with Azure HDInsight
@@ -42,7 +43,7 @@ Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 63169
 # T-SQL User-Defined Functions, or: How to kill performance in one, easy step
-#### [Back to calendar](#SQLSaturday-#644-Bratislava-2017)
+#### [Back to calendar](#nr-644)
 Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: T-SQL User-Defined Functions, or: How to kill performance in one, easy step
@@ -53,7 +54,7 @@ However, you will also see that there is a way to avoid the problems. With just 
 #  
 #### SessionID: 64027
 # Building Disaster Recovery solution with AlwaysOn
-#### [Back to calendar](#SQLSaturday-#644-Bratislava-2017)
+#### [Back to calendar](#nr-644)
 Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Roman Rehak
 ## Title: Building Disaster Recovery solution with AlwaysOn
@@ -62,7 +63,7 @@ Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 62886
 # Running SQL Server as a Container
-#### [Back to calendar](#SQLSaturday-#644-Bratislava-2017)
+#### [Back to calendar](#nr-644)
 Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Marek Chmel
 ## Title: Running SQL Server as a Container
@@ -71,7 +72,7 @@ Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 62877
 # Beginning Data Science-From Novice to Professional
-#### [Back to calendar](#SQLSaturday-#644-Bratislava-2017)
+#### [Back to calendar](#nr-644)
 Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Beginning Data Science-From Novice to Professional
@@ -84,7 +85,7 @@ Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 64491
 # Parameter Sniffing Problem with Stored Procedures
-#### [Back to calendar](#SQLSaturday-#644-Bratislava-2017)
+#### [Back to calendar](#nr-644)
 Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: Parameter Sniffing Problem with Stored Procedures
@@ -93,7 +94,7 @@ Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 62924
 # Mobile BI with Microsoft tools
-#### [Back to calendar](#SQLSaturday-#644-Bratislava-2017)
+#### [Back to calendar](#nr-644)
 Event Date: 24-06-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Andrea Martorana Tusa
 ## Title: Mobile BI with Microsoft tools
@@ -108,7 +109,7 @@ Based on some real examples we will set out a comparison matrix to find the best
 #  
 #### SessionID: 64262
 # Window functions are your friends
-#### [Back to calendar](#SQLSaturday-#644-Bratislava-2017)
+#### [Back to calendar](#nr-644)
 Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Dejan Dular
 ## Title: Window functions are your friends

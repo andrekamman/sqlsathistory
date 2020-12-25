@@ -1,3 +1,4 @@
+#### Nr: 323
 #### [Back to Main list](index.md)
 # SQLSaturday #323 - Paris 2014
 Start Time (24h)|Speaker|Track|Title
@@ -28,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10957
 # The nightmare of locking, blocking and isolation levels!
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 2. English speaking track
 ## Speaker: Boris Hristov
 ## Title: The nightmare of locking, blocking and isolation levels!
@@ -37,7 +38,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 2. English speaking tra
 #  
 #### SessionID: 11647
 # Et hop, ma base migre dans Azure :)
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 1. Parcours SQL Server
 ## Speaker: Christophe Laporte
 ## Title: Et hop, ma base migre dans Azure :)
@@ -46,7 +47,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 1. Parcours SQL Server
 #  
 #### SessionID: 11818
 # Métiers autour de SQL Server
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 5. Chalk-Talk
 ## Speaker: GUSS France
 ## Title: Métiers autour de SQL Server
@@ -55,7 +56,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 5. Chalk-Talk
 #  
 #### SessionID: 11819
 # L'avenir de la BI
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 5. Chalk-Talk
 ## Speaker: GUSS France
 ## Title: L'avenir de la BI
@@ -64,7 +65,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 5. Chalk-Talk
 #  
 #### SessionID: 11820
 # Femmes dans L'IT
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 5. Chalk-Talk
 ## Speaker: GUSS France
 ## Title: Femmes dans L'IT
@@ -73,7 +74,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 5. Chalk-Talk
 #  
 #### SessionID: 11821
 # Cloud vs on Premise
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 5. Chalk-Talk
 ## Speaker: GUSS France
 ## Title: Cloud vs on Premise
@@ -82,7 +83,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 5. Chalk-Talk
 #  
 #### SessionID: 14265
 # XLCubed, le lien manquant entre votre plateforme Microsoft BI et vos utilisateurs sur Excel/Web/Mobi
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 4. Parcours écosytème
 ## Speaker: Francis Incours
 ## Title: XLCubed, le lien manquant entre votre plateforme Microsoft BI et vos utilisateurs sur Excel/Web/Mobi
@@ -91,7 +92,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 4. Parcours écosytème
 #  
 #### SessionID: 14352
 # Azure mobile service and BI Dashboard
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 4. Parcours écosytème
 ## Speaker: Frederic Gisbert
 ## Title: Azure mobile service and BI Dashboard
@@ -100,7 +101,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 4. Parcours écosytème
 #  
 #### SessionID: 14650
 # Construire et déployer une application métier Office 365/ SQL Azure en 60 minutes chrono
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 4. Parcours écosytème
 ## Speaker: Gilles Pommier
 ## Title: Construire et déployer une application métier Office 365/ SQL Azure en 60 minutes chrono
@@ -117,7 +118,7 @@ Du développement au déploiement, de la configuration à la gestion de la mont�
 #  
 #### SessionID: 15456
 # Migrer SQL server: casse-tête ou opportunité.
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 1. Parcours SQL Server
 ## Speaker: Isabelle Van Campenhoudt
 ## Title: Migrer SQL server: casse-tête ou opportunité.
@@ -129,7 +130,7 @@ Session avec outils et démonstration.
 #  
 #### SessionID: 16256
 # Attachez vos ceintures et écoutez le Data-Steward
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 3. Parcours Business Intelligence
 ## Speaker: Jean-Pierre Riehl
 ## Title: Attachez vos ceintures et écoutez le Data-Steward
@@ -138,7 +139,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 3. Parcours Business In
 #  
 #### SessionID: 16429
 # Counting is easy, Measuring is hard: insights using Data Visualisation
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 2. English speaking track
 ## Speaker: Jen Stirrup
 ## Title: Counting is easy, Measuring is hard: insights using Data Visualisation
@@ -147,7 +148,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 2. English speaking tra
 #  
 #### SessionID: 17074
 # Menez l'enquête avec Power BI!
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 3. Parcours Business Intelligence
 ## Speaker: Jordan Mootoosamy
 ## Title: Menez l'enquête avec Power BI!
@@ -156,7 +157,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 3. Parcours Business In
 #  
 #### SessionID: 20685
 # SQL Server AlwaysOn et les groupes de disponibilités en détail
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 1. Parcours SQL Server
 ## Speaker: David Barbarin
 ## Title: SQL Server AlwaysOn et les groupes de disponibilités en détail
@@ -165,7 +166,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 1. Parcours SQL Server
 #  
 #### SessionID: 21603
 # SharePoint - de la méfiance jusqu'à l'acceptation
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 4. Parcours écosytème
 ## Speaker: Gokan Ozcifci
 ## Title: SharePoint - de la méfiance jusqu'à l'acceptation
@@ -178,7 +179,7 @@ Après la session vous aurez les bases fondamentales pour commencer n’importe 
 #  
 #### SessionID: 22074
 # Bien choisir sa plate-forme de données
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 4. Parcours écosytème
 ## Speaker: Philippe Geiger
 ## Title: Bien choisir sa plate-forme de données
@@ -187,7 +188,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 4. Parcours écosytème
 #  
 #### SessionID: 22106
 # Monitoring et configuration SSAS
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 3. Parcours Business Intelligence
 ## Speaker: Patrice Harel
 ## Title: Monitoring et configuration SSAS
@@ -197,7 +198,7 @@ Il faut avoir une relative bonne connaissance des modes de fonctionnement du mot
 #  
 #### SessionID: 22429
 # HDInsight : Cas d'usages, Hive, Sqoop, Pig, ...
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 3. Parcours Business Intelligence
 ## Speaker: Romain Casteres
 ## Title: HDInsight : Cas d'usages, Hive, Sqoop, Pig, ...
@@ -209,7 +210,7 @@ Au programme : présentation de l'offre BigData de Microsoft (HDInsight OnPremis
 #  
 #### SessionID: 23570
 # Le diagnostic avec les événements étendus
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 1. Parcours SQL Server
 ## Speaker: Rudi Bruchez
 ## Title: Le diagnostic avec les événements étendus
@@ -218,7 +219,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 1. Parcours SQL Server
 #  
 #### SessionID: 24321
 # Ce que tout DBA doit savoir sur la configuration et l’optimisation de SQL Serveur pour SharePoint
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 1. Parcours SQL Server
 ## Speaker: serge Luca
 ## Title: Ce que tout DBA doit savoir sur la configuration et l’optimisation de SQL Serveur pour SharePoint
@@ -227,7 +228,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 1. Parcours SQL Server
 #  
 #### SessionID: 25988
 # Data Quality rulez! Integration and Performance best practices
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 2. English speaking track
 ## Speaker: Tillmann Eitelberg
 ## Title: Data Quality rulez! Integration and Performance best practices
@@ -236,7 +237,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 2. English speaking tra
 #  
 #### SessionID: 26502
 # Indexing Deep Dive
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 2. English speaking track
 ## Speaker: Kevin Boles
 ## Title: Indexing Deep Dive
@@ -245,7 +246,7 @@ Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 2. English speaking tra
 #  
 #### SessionID: 9540
 # Using BIML as an SSIS Design Patterns Engine 
-#### [Back to calendar](#SQLSaturday-#323-Paris-2014)
+#### [Back to calendar](#nr-323)
 Event Date: 13-09-2014 - Session time: 00:00:00 - Track: 2. English speaking track
 ## Speaker: Andy Leonard
 ## Title: Using BIML as an SSIS Design Patterns Engine 

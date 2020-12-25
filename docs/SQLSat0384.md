@@ -1,3 +1,4 @@
+#### Nr: 384
 #### [Back to Main list](index.md)
 # SQLSaturday #384 - Varna 2015
 Start Time (24h)|Speaker|Track|Title
@@ -24,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 20325
 # Keynote 
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 ## Speaker: Mihail Mateev
 ## Title: Keynote 
@@ -34,7 +35,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 #  
 #### SessionID: 10612
 # Building Great Business Intelligence Semantic Models for Power View
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 ## Speaker: Boriana Petrova
 ## Title: Building Great Business Intelligence Semantic Models for Power View
@@ -43,7 +44,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 #  
 #### SessionID: 13799
 # Memory-Optimized tables - Querying at the speed of light
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: B
 ## Speaker: Enrico van de Laar
 ## Title: Memory-Optimized tables - Querying at the speed of light
@@ -54,7 +55,7 @@ Transforming your disk-based tables to Memory-Optimized tables takes careful pla
 #  
 #### SessionID: 31541
 # Find and tune those queries!
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 ## Speaker: Margarita Naumova
 ## Title: Find and tune those queries!
@@ -63,7 +64,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 #  
 #### SessionID: 13545
 # SQL Server  Power BI Geographic and Temporal Predictions
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 ## Speaker: Dejan Sarka
 ## Title: SQL Server  Power BI Geographic and Temporal Predictions
@@ -72,7 +73,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 #  
 #### SessionID: 17856
 # Managing 999 MS SQL Servers
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 ## Speaker: Kaloyan Kosev
 ## Title: Managing 999 MS SQL Servers
@@ -81,7 +82,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 #  
 #### SessionID: 36305
 # SQL Server as a Data Warehousing platform
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: B
 ## Speaker: Sylvia Takvorian
 ## Title: SQL Server as a Data Warehousing platform
@@ -90,7 +91,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: B
 #  
 #### SessionID: 15273
 # SQL Server Advanced indexing techniques
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 ## Speaker: Ivan Donev
 ## Title: SQL Server Advanced indexing techniques
@@ -99,7 +100,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 #  
 #### SessionID: 19686
 # Boosting DWH-Performance with SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: B
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Boosting DWH-Performance with SQL Server 2014
@@ -108,7 +109,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: B
 #  
 #### SessionID: 20815
 # Extended events in action
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 ## Speaker: Miroslav Dimitrov
 ## Title: Extended events in action
@@ -117,7 +118,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 #  
 #### SessionID: 13133
 # Deadlocks. Everything that developer needs to know.
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 ## Speaker: Denis Reznik
 ## Title: Deadlocks. Everything that developer needs to know.
@@ -126,7 +127,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 #  
 #### SessionID: 15762
 # Introduction to SQL Server high availability solutions
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: B
 ## Speaker: Janos Berke
 ## Title: Introduction to SQL Server high availability solutions
@@ -149,7 +150,7 @@ Demos:
 #  
 #### SessionID: 23449
 # MS-SQL Basic Features
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 ## Speaker: Rosen Kolev
 ## Title: MS-SQL Basic Features
@@ -158,7 +159,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 #  
 #### SessionID: 17931
 # Data quality with DQS components in Integration Services
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: B
 ## Speaker: Alexander Karl
 ## Title: Data quality with DQS components in Integration Services
@@ -169,7 +170,7 @@ The result of the evaluation is imported via DQS_stagingDB into DQS_Main Databas
 #  
 #### SessionID: 18821
 # BIML – the best friend of SSIS developers
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 ## Speaker: Andrey Korshikov
 ## Title: BIML – the best friend of SSIS developers
@@ -178,7 +179,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 #  
 #### SessionID: 25043
 # Lets cook SQL Server Management practices for the Non-DBA 
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 ## Speaker: Satya Jayanty
 ## Title: Lets cook SQL Server Management practices for the Non-DBA 
@@ -194,7 +195,7 @@ All the examples and demos in this session are originated from real-world work f
 #  
 #### SessionID: 10938
 # The nightmare of locking, blocking and isolation levels!
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 ## Speaker: Boris Hristov
 ## Title: The nightmare of locking, blocking and isolation levels!
@@ -203,7 +204,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 #  
 #### SessionID: 30047
 # Transactional replication. It's not scary.
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 ## Speaker: Evgeny Khabarov
 ## Title: Transactional replication. It's not scary.
@@ -214,7 +215,7 @@ In the presentation I'll tell you about transactional replication, about what is
 #  
 #### SessionID: 36304
 # How to Forecast in C# with ADOMD and TimeSeries 
-#### [Back to calendar](#SQLSaturday-#384-Varna-2015)
+#### [Back to calendar](#nr-384)
 Event Date: 30-05-2015 - Session time: 17:15:00 - Track: B
 ## Speaker: Daniel Joskovski
 ## Title: How to Forecast in C# with ADOMD and TimeSeries 

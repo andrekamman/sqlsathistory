@@ -1,3 +1,4 @@
+#### Nr: 237
 #### [Back to Main list](index.md)
 # SQLSaturday #237 - Charlotte BI Edition 2013
 Start Time (24h)|Speaker|Track|Title
@@ -51,7 +52,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10327
 # Dive into the Query Optimizer-Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer-Undocumented Insight
@@ -60,7 +61,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 10716
 # Faster  Leaner: Optimize DW Solution Delivery with Power Pivot and AS Tabular
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 9
 ## Speaker: Brent Greenwood
 ## Title: Faster  Leaner: Optimize DW Solution Delivery with Power Pivot and AS Tabular
@@ -71,7 +72,7 @@ We'll touch on Agile  Lean disciplines,  how they can be applied to DW solution 
 #  
 #### SessionID: 11226
 # Creating Queries using Microsoft Power Query for Excel
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Cathy  Miller
 ## Title: Creating Queries using Microsoft Power Query for Excel
@@ -80,7 +81,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 11253
 # “Indexing” Encrypted Data
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Chris Bell
 ## Title: “Indexing” Encrypted Data
@@ -89,7 +90,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 12909
 # Self-Service BI using Excel 2013
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Doug Cox
 ## Title: Self-Service BI using Excel 2013
@@ -98,7 +99,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 14494
 # Smart Rats Leave First
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 10
 ## Speaker: Geoff Hiten
 ## Title: Smart Rats Leave First
@@ -108,7 +109,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 10
 #  
 #### SessionID: 14839
 # Hadoop Part II – Hadoop tools for the SQL DBA
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Gregory Suarez
 ## Title: Hadoop Part II – Hadoop tools for the SQL DBA
@@ -117,7 +118,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14849
 # Enrich your applications with SQL Server Reporting Services
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Guillermo Caicedo Santiago
 ## Title: Enrich your applications with SQL Server Reporting Services
@@ -126,7 +127,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 15572
 # Transitioning to a BI role
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 10
 ## Speaker: James Serra
 ## Title: Transitioning to a BI role
@@ -135,7 +136,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 10
 #  
 #### SessionID: 15823
 # Dimensional Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
@@ -144,7 +145,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 16113
 # Change Data Capture tool for BI,Auditing,DR  more
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jose Chinchilla
 ## Title: Change Data Capture tool for BI,Auditing,DR  more
@@ -153,7 +154,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 16542
 # Data Visualisation with Hadoop Mashups, Power View and Excel 2013
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jen Stirrup
 ## Title: Data Visualisation with Hadoop Mashups, Power View and Excel 2013
@@ -163,7 +164,7 @@ Join us at this session in order to see how your Big Data can empower your busin
 #  
 #### SessionID: 16686
 # 1000 ways to die (your SSAS Server)
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Jesus Gil Velasco
 ## Title: 1000 ways to die (your SSAS Server)
@@ -176,7 +177,7 @@ Do not miss this opportunity to learn, how you can avoid!
 #  
 #### SessionID: 16910
 # From Impaired To Insightful Geospatial Reporting
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Julie Koesmarno
 ## Title: From Impaired To Insightful Geospatial Reporting
@@ -185,7 +186,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 16966
 # Tips and Tricks for Dimensional Loading
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jose L. Rivera
 ## Title: Tips and Tricks for Dimensional Loading
@@ -194,7 +195,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 17202
 # Tuning Analysis Services Processing Performance
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: John Welch
 ## Title: Tuning Analysis Services Processing Performance
@@ -203,7 +204,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 17811
 # Understand Evaluation Contexts in DAX
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jeffrey Wang
 ## Title: Understand Evaluation Contexts in DAX
@@ -212,7 +213,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 18639
 # Getting Started with Power Query
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Devin Knight
 ## Title: Getting Started with Power Query
@@ -221,7 +222,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19631
 # DANGER: The Art and Science of Presenting
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mark Vaillancourt
 ## Title: DANGER: The Art and Science of Presenting
@@ -230,7 +231,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19632
 # MDX Trek: First Contact
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Mark Vaillancourt
 ## Title: MDX Trek: First Contact
@@ -239,7 +240,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 20389
 # Improve the Performance of Your T-SQL by Changing Your Habits
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Mickey Stuewe
 ## Title: Improve the Performance of Your T-SQL by Changing Your Habits
@@ -248,7 +249,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 20390
 # Scalable SSRS Reports Achieved Through the Powerful Tablix
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Mickey Stuewe
 ## Title: Scalable SSRS Reports Achieved Through the Powerful Tablix
@@ -260,7 +261,7 @@ In this demo-heavy session, you'll learn how to create a columnar report that gr
 #  
 #### SessionID: 20693
 # Temporary Insanity
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Michael Femenella
 ## Title: Temporary Insanity
@@ -269,7 +270,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 21373
 # MDS and DQS - Beyond the TLAs to Data Quality
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Neil Hambly
 ## Title: MDS and DQS - Beyond the TLAs to Data Quality
@@ -280,7 +281,7 @@ High data quality is fundamental to any business analytics system. In this sessi
 #  
 #### SessionID: 21789
 # ETL not ELT!  Common mistakes and misconceptions about SSIS
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Paul Rizza
 ## Title: ETL not ELT!  Common mistakes and misconceptions about SSIS
@@ -290,7 +291,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 21816
 # Automating SSIS Development with Biml
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 10
 ## Speaker: Paul Waters
 ## Title: Automating SSIS Development with Biml
@@ -300,7 +301,7 @@ In this session we will start by showing the power of Biml.  We will then step b
 #  
 #### SessionID: 21948
 # Mastering the CUBE Functions in Excel 2013
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Peter Myers
 ## Title: Mastering the CUBE Functions in Excel 2013
@@ -313,7 +314,7 @@ This session is a must for those looking to drive more from Excel when reporting
 #  
 #### SessionID: 22341
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports
@@ -323,7 +324,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 23026
 # Hadoop Part I - Launch Hadoop in just 4 clicks!
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 10
 ## Speaker: Rick Hallihan
 ## Title: Hadoop Part I - Launch Hadoop in just 4 clicks!
@@ -332,7 +333,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 10
 #  
 #### SessionID: 23267
 # Harvesting Web Data Using Power Query  Other Tools
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Rob Volk
 ## Title: Harvesting Web Data Using Power Query  Other Tools
@@ -341,7 +342,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 24671
 # A Big Data Primer
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Stacia Varga
 ## Title: A Big Data Primer
@@ -350,7 +351,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24777
 # SQL Impossible: Restoring/Undeleting a table 
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mladen Prajdić
 ## Title: SQL Impossible: Restoring/Undeleting a table 
@@ -366,7 +367,7 @@ Want to know more? Come and see!
 #  
 #### SessionID: 24982
 # SSIS and Azure - ETLing in the Cloud
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 9
 ## Speaker: MIKE DONNELLY
 ## Title: SSIS and Azure - ETLing in the Cloud
@@ -375,7 +376,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 9
 #  
 #### SessionID: 25376
 # Challenges to designing financial warehouses, lessons learnt
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Steve Simon
 ## Title: Challenges to designing financial warehouses, lessons learnt
@@ -385,7 +386,7 @@ In this presentation, we shall look at some of the challenges and design issues 
 #  
 #### SessionID: 25670
 # SSIS 2012: More Than Just a Pretty UI
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Steve Wake
 ## Title: SSIS 2012: More Than Just a Pretty UI
@@ -394,7 +395,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 25770
 # Using PowerPivot to Drive Quality into ETL Processes
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Steve Hughes
 ## Title: Using PowerPivot to Drive Quality into ETL Processes
@@ -403,7 +404,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 26099
 # Best Practices for Implementing an Enterprise BI Solution
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 9
 ## Speaker: Teo Lachev
 ## Title: Best Practices for Implementing an Enterprise BI Solution
@@ -412,7 +413,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 9
 #  
 #### SessionID: 26516
 # Attributes  Hierarchies in Analysis Services 2012
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Thomas LeBlanc
 ## Title: Attributes  Hierarchies in Analysis Services 2012
@@ -422,7 +423,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 26601
 # Handling Errors and Data Anomalies in SSIS
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Tim Mitchell
 ## Title: Handling Errors and Data Anomalies in SSIS
@@ -433,7 +434,7 @@ In this session, we'll talk about some of the things that can go wrong during pa
 #  
 #### SessionID: 27676
 # Understand/Code/Debug Many-to-Many Relationships i
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Wayne Snyder
 ## Title: Understand/Code/Debug Many-to-Many Relationships i
@@ -442,7 +443,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 28171
 # The 20-Minute Tabular Model
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Bill Anton
 ## Title: The 20-Minute Tabular Model
@@ -451,7 +452,7 @@ Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 8763
 # Inferred Dimension Members within MDS and SSIS 
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Reza Rad
 ## Title: Inferred Dimension Members within MDS and SSIS 
@@ -461,7 +462,7 @@ In this session you will learn how we will write back new record's data into MDS
 #  
 #### SessionID: 8842
 # SQL Server Database Development with SSDT 
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Aaron Nelson
 ## Title: SQL Server Database Development with SSDT 
@@ -473,7 +474,7 @@ Most importantly we’ll show the many benefits of the Publish feature, and why 
 #  
 #### SessionID: 9092
 # PDW - Where are the landmines?  Does it truly perform the way marketing says and at what cost?
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Andy Isley
 ## Title: PDW - Where are the landmines?  Does it truly perform the way marketing says and at what cost?
@@ -484,7 +485,7 @@ PDW truly is a great product for a Data Warehouse!!!!!
 #  
 #### SessionID: 9298
 # Hadoop for the Microsoft Guy
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 9
 ## Speaker: Allan Mitchell
 ## Title: Hadoop for the Microsoft Guy
@@ -496,7 +497,7 @@ Keep an open mind and let me show you that Hadoop has lots to offer.
 #  
 #### SessionID: 9506
 # Hacking the SSIS 2012 Catalog
-#### [Back to calendar](#SQLSaturday-#237-Charlotte-BI-Edition-2013)
+#### [Back to calendar](#nr-237)
 Event Date: 19-10-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andy Leonard
 ## Title: Hacking the SSIS 2012 Catalog

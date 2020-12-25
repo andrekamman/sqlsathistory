@@ -1,3 +1,4 @@
+#### Nr: 365
 #### [Back to Main list](index.md)
 # SQLSaturday #365 - Melbourne 2015
 Start Time (24h)|Speaker|Track|Title
@@ -32,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11992
 # Automate your Data Profiling insights using Power BI
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Varigence
 ## Speaker: Craig Bryden
 ## Title: Automate your Data Profiling insights using Power BI
@@ -44,7 +45,7 @@ This data model can then be used to analyse table structures, data quality and i
 #  
 #### SessionID: 13242
 # The Care  Feeding of Analysis Services in Production
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Varigence
 ## Speaker: Darren Gosbell
 ## Title: The Care  Feeding of Analysis Services in Production
@@ -56,7 +57,7 @@ In this session we will look at what it takes to run an Analysis Services server
 #  
 #### SessionID: 14726
 # How to build an Activty based modelling system with SSAS Tabular and Power Pivot
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Varigence
 ## Speaker: Grant Paisley
 ## Title: How to build an Activty based modelling system with SSAS Tabular and Power Pivot
@@ -71,7 +72,7 @@ Having build the model with one of the finance team power users, they now own an
 #  
 #### SessionID: 15144
 # Power BI - Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Varigence
 ## Speaker: Iman Eftekhari
 ## Title: Power BI - Beyond the Basics
@@ -84,7 +85,7 @@ Topics include: Overview, real-life demo, hybrid-cloud scenarios with Data Manag
 #  
 #### SessionID: 16829
 # Are You Safe from Prying Eyes?
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Kroll Ontrack
 ## Speaker: Jim McLeod
 ## Title: Are You Safe from Prying Eyes?
@@ -93,7 +94,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Kroll Ontrack
 #  
 #### SessionID: 16921
 # 10 Handy Tips On SQL Server Dates
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Violin Memory
 ## Speaker: Julie Koesmarno
 ## Title: 10 Handy Tips On SQL Server Dates
@@ -104,7 +105,7 @@ With time being the one thing that constantly changes, date and time calculation
 #  
 #### SessionID: 18845
 # SQL and the cloud
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Dell
 ## Speaker: Kristina Rumpff
 ## Title: SQL and the cloud
@@ -113,7 +114,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Dell
 #  
 #### SessionID: 19737
 # Thinking Out of the Box: Manage SQL Server Using Built-in Tools
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Kroll Ontrack
 ## Speaker: Martin Cairney
 ## Title: Thinking Out of the Box: Manage SQL Server Using Built-in Tools
@@ -126,7 +127,7 @@ After this session you’ll be able to build out an effective management and mon
 #  
 #### SessionID: 19772
 # A Trip Through The Transaction Log All The Way to Delayed Durability.
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Kroll Ontrack
 ## Speaker: Martin Catherall
 ## Title: A Trip Through The Transaction Log All The Way to Delayed Durability.
@@ -135,7 +136,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Kroll Ontrack
 #  
 #### SessionID: 21472
 # TOP GUN SQL SERVER: Why piloting jets and flying SQL Servers requires similar psychology!
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Microsoft
 ## Speaker: Nicholas Loghides
 ## Title: TOP GUN SQL SERVER: Why piloting jets and flying SQL Servers requires similar psychology!
@@ -149,7 +150,7 @@ This training focuses on improving your successful handling of critical situatio
 #  
 #### SessionID: 21582
 # MDS
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Profisee
 ## Speaker: Olof Szymczak
 ## Title: MDS
@@ -169,7 +170,7 @@ let me know I can do a beginner or more advanced demo.
 #  
 #### SessionID: 21897
 # Batch Mode Parallel Query Execution
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Kroll Ontrack
 ## Speaker: Paul White
 ## Title: Batch Mode Parallel Query Execution
@@ -180,7 +181,7 @@ it produces, and how to write queries and design databases to take full advantag
 #  
 #### SessionID: 21942
 # Load a Staging Environment from Scratch in an Hour with Biml
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Varigence
 ## Speaker: Peter Avenant
 ## Title: Load a Staging Environment from Scratch in an Hour with Biml
@@ -189,7 +190,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Varigence
 #  
 #### SessionID: 22384
 # Perception, Heuristics  Visualisation Cues
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Profisee
 ## Speaker: Paul te Braak
 ## Title: Perception, Heuristics  Visualisation Cues
@@ -203,7 +204,7 @@ We look at which visualization techniques work and why less is sometimes more.
 #  
 #### SessionID: 22798
 # Get Into Evaluation Context with DAX, the Language of PowerPivot
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Profisee
 ## Speaker: Reeves Smith
 ## Title: Get Into Evaluation Context with DAX, the Language of PowerPivot
@@ -212,7 +213,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Profisee
 #  
 #### SessionID: 23229
 # A Few Of My Favourite Query Plan Operators
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Violin Memory
 ## Speaker: Rob Farley
 ## Title: A Few Of My Favourite Query Plan Operators
@@ -223,7 +224,7 @@ Query plan operators do all the work when you run a query, and some of them are 
 #  
 #### SessionID: 23378
 # Building Hybrid BI Solutions with Power BI
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Profisee
 ## Speaker: Rod Colledge
 ## Title: Building Hybrid BI Solutions with Power BI
@@ -236,7 +237,7 @@ In addition to answering these questions, we will build a Power BI solution from
 #  
 #### SessionID: 23427
 # Using Azure Machine Learning to Predict Melbourne House Prices
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Dell
 ## Speaker: Rolf Tesmer
 ## Title: Using Azure Machine Learning to Predict Melbourne House Prices
@@ -245,7 +246,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Dell
 #  
 #### SessionID: 24803
 # SQL Injection and Other Forms of Attacks
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Violin Memory
 ## Speaker: Mladen Prajdić
 ## Title: SQL Injection and Other Forms of Attacks
@@ -254,7 +255,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Violin Memory
 #  
 #### SessionID: 25249
 # Agile Development with SQL Server
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Microsoft
 ## Speaker: Stefan Riedel
 ## Title: Agile Development with SQL Server
@@ -263,7 +264,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Microsoft
 #  
 #### SessionID: 27085
 # MDX, it is not that hard!
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Profisee
 ## Speaker: Peter ter Braake
 ## Title: MDX, it is not that hard!
@@ -272,7 +273,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Profisee
 #  
 #### SessionID: 27424
 # SQL Server Internals for the Database Developer
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Violin Memory
 ## Speaker: Victor Isakov
 ## Title: SQL Server Internals for the Database Developer
@@ -283,7 +284,7 @@ In this session Victor Isakov (MCA, MCM, MCT, MVP) will cover the practical inte
 #  
 #### SessionID: 27446
 # Predictive Analytics using Azure Machine Learning 
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Dell
 ## Speaker: Vikas Rajput
 ## Title: Predictive Analytics using Azure Machine Learning 
@@ -292,7 +293,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Dell
 #  
 #### SessionID: 27669
 # Help me Availability Groups, You're the only 1 who can save me
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Kroll Ontrack
 ## Speaker: Warwick Rudd
 ## Title: Help me Availability Groups, You're the only 1 who can save me
@@ -301,7 +302,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Kroll Ontrack
 #  
 #### SessionID: 34653
 # Cloudy with a Chance of SQL
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Dell
 ## Speaker: Heidi Wilson
 ## Title: Cloudy with a Chance of SQL
@@ -310,7 +311,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Dell
 #  
 #### SessionID: 34709
 # SQL Saturday Retro
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Microsoft
 ## Speaker: Kelly Broekstra
 ## Title: SQL Saturday Retro
@@ -319,7 +320,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Microsoft
 #  
 #### SessionID: 9465
 # Visualizing performance tuning data
-#### [Back to calendar](#SQLSaturday-#365-Melbourne-2015)
+#### [Back to calendar](#nr-365)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: Violin Memory
 ## Speaker: André Kamman
 ## Title: Visualizing performance tuning data

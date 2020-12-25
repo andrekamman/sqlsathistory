@@ -1,3 +1,4 @@
+#### Nr: 257
 #### [Back to Main list](index.md)
 # SQLSaturday #257 - Verona 2013
 Start Time (24h)|Speaker|Track|Title
@@ -21,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10908
 # The nightmare of locking, blocking and isolation levels!
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Administration
 ## Speaker: Boris Hristov
 ## Title: The nightmare of locking, blocking and isolation levels!
@@ -30,7 +31,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 11816
 # Useful everyday tips and tricks for Reporting Services
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Francesco Milano
 ## Title: Useful everyday tips and tricks for Reporting Services
@@ -39,7 +40,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 13522
 # Temporal Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Dejan Sarka
 ## Title: Temporal Data in SQL Server
@@ -48,7 +49,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 13772
 # Node.js on SqlServer
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Emanuele DelBono
 ## Title: Node.js on SqlServer
@@ -57,7 +58,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 14189
 # Monitoring MDX Queries in Analysis Services
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Francesco De Chirico
 ## Title: Monitoring MDX Queries in Analysis Services
@@ -71,7 +72,7 @@ The solution presented is currently being used successfully by SolidQ at some cu
 #  
 #### SessionID: 14308
 # SQL Server workloads and Windows Azure platform: better together
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Administration
 ## Speaker: Francesco Diaz
 ## Title: SQL Server workloads and Windows Azure platform: better together
@@ -80,7 +81,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 14599
 # SQL Server Security in an Insecure World
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Administration
 ## Speaker: Gianluca Sartori
 ## Title: SQL Server Security in an Insecure World
@@ -91,7 +92,7 @@ In this session you'll learn how to secure your SQL Server infrastructure and ho
 #  
 #### SessionID: 14617
 # xVelocity Columnstore Indexes in SQL Server 2012 and SQL 2014
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Gilberto Zampatti
 ## Title: xVelocity Columnstore Indexes in SQL Server 2012 and SQL 2014
@@ -100,7 +101,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 14619
 # Exploring In-memory OLTP Engine (Hekaton) in SQL Server 2014 CTP1
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Administration
 ## Speaker: Gilberto Zampatti
 ## Title: Exploring In-memory OLTP Engine (Hekaton) in SQL Server 2014 CTP1
@@ -109,7 +110,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 15316
 # Hardware Planning  Sizing for SQL Server
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Administration
 ## Speaker: Davide Mauri
 ## Title: Hardware Planning  Sizing for SQL Server
@@ -118,7 +119,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 15338
 # DAX Introduction
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Marco Pozzan
 ## Title: DAX Introduction
@@ -127,7 +128,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 19287
 # Gestione degli errori nel codice T-SQL 
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Luca Ferrari
 ## Title: Gestione degli errori nel codice T-SQL 
@@ -143,7 +144,7 @@ scrivere codice T-SQL in grado di gestire le anomalie e fare in modo
 #  
 #### SessionID: 19330
 # Agile SSIS with Biml
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Luca Zavarella
 ## Title: Agile SSIS with Biml
@@ -152,7 +153,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 19467
 # Power BI in Action (IT)
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Marco Russo
 ## Title: Power BI in Action (IT)
@@ -161,7 +162,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 25891
 # Put database under source control
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Administration
 ## Speaker: Alessandro Alpi
 ## Title: Put database under source control
@@ -170,7 +171,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 34752
 # .NET Development for the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#257-Verona-2013)
+#### [Back to calendar](#nr-257)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Marco Parenzan
 ## Title: .NET Development for the SQL Server Developer

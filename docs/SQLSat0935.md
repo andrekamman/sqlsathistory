@@ -1,3 +1,4 @@
+#### Nr: 935
 #### [Back to Main list](index.md)
 # SQLSaturday #935 – Salvador – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
@@ -30,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 104371
 # Alavancando projetos Angular com NGXS
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Developer
 ## Speaker: Michael Oliveira de Deus
 ## Title: Alavancando projetos Angular com NGXS
@@ -39,7 +40,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Developer
 #  
 #### SessionID: 105661
 # SQL Server on Linux - Da Instalação a Configurações
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Developer
 ## Speaker: Anderson Souza
 ## Title: SQL Server on Linux - Da Instalação a Configurações
@@ -48,7 +49,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Developer
 #  
 #### SessionID: 107102
 # SQL Server 2019 IQP - Aumentando a performance sem alterar uma linha de código
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBaaS)
 ## Speaker: Guilherme Torres
 ## Title: SQL Server 2019 IQP - Aumentando a performance sem alterar uma linha de código
@@ -57,7 +58,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBa
 #  
 #### SessionID: 108328
 # Arquitetando Data Lake Multicloud
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Cloud (Infra - AZ - AWS)
 ## Speaker: Luiz Henrique Garetti
 ## Title: Arquitetando Data Lake Multicloud
@@ -66,7 +67,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Cloud (Infra - AZ - AWS
 #  
 #### SessionID: 102490
 # Como implementar uma análise de dados usando o Machine Learning
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBaaS)
 ## Speaker: Vitor Fava
 ## Title: Como implementar uma análise de dados usando o Machine Learning
@@ -75,7 +76,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBa
 #  
 #### SessionID: 104195
 # Azure Data Factory - Transformando dados com Mapping data flows
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBaaS)
 ## Speaker: Rafael Mendonça
 ## Title: Azure Data Factory - Transformando dados com Mapping data flows
@@ -86,7 +87,7 @@ Nessa sessão abordaremos alguns casos de uso do Mapping dataflows que nos ajuda
 #  
 #### SessionID: 107095
 # E agora DBA? Você está pronto para trabalhar na nuvem?
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBaaS)
 ## Speaker: Juarez Cardoso
 ## Title: E agora DBA? Você está pronto para trabalhar na nuvem?
@@ -96,7 +97,7 @@ Bem vindo a nuvem DBA!
 #  
 #### SessionID: 107302
 # Machine Learning is full of stars: An Azure Story
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Cloud (Infra - AZ - AWS)
 ## Speaker: André Melancia
 ## Title: Machine Learning is full of stars: An Azure Story
@@ -107,7 +108,7 @@ Disclaimer: All these worlds are yours except Cognitive Service, that's for a di
 #  
 #### SessionID: 102906
 # SQL Server 2019: Sua plataforma de dados moderna
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBaaS)
 ## Speaker: Leonardo Fonseca
 ## Title: SQL Server 2019: Sua plataforma de dados moderna
@@ -116,7 +117,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBa
 #  
 #### SessionID: 103825
 # QUALIDADE EM PROJETOS DE BI - DO ZERO A ENTREGA FINAL!
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBaaS)
 ## Speaker: Rayssa Dias
 ## Title: QUALIDADE EM PROJETOS DE BI - DO ZERO A ENTREGA FINAL!
@@ -125,7 +126,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBa
 #  
 #### SessionID: 105639
 # Criptografia do AZURE SQL DB e Integração com AZURE KEY VAULT
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBaaS)
 ## Speaker: Wagner Crivelini
 ## Title: Criptografia do AZURE SQL DB e Integração com AZURE KEY VAULT
@@ -134,7 +135,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBa
 #  
 #### SessionID: 108227
 # Databases na AWS: A ferramenta certa para cada serviço
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Cloud (Infra - AZ - AWS)
 ## Speaker: Bruno Lopes
 ## Title: Databases na AWS: A ferramenta certa para cada serviço
@@ -145,7 +146,7 @@ Também vamos falar sobre como converter e migrar suas bases de dados relacionai
 #  
 #### SessionID: 102372
 # Desenvolvimento e Administração em SQL Server com Python
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Developer
 ## Speaker: William Lino Oliveira
 ## Title: Desenvolvimento e Administração em SQL Server com Python
@@ -154,7 +155,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Developer
 #  
 #### SessionID: 105932
 # Backups no SQL Server - Melhores práticas
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBaaS)
 ## Speaker: CAIO GARCIA BUZO
 ## Title: Backups no SQL Server - Melhores práticas
@@ -163,7 +164,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBa
 #  
 #### SessionID: 108177
 # Azure SQL Managed Instance - lições aprendidas
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBaaS)
 ## Speaker: Roberto Cavalcanti
 ## Title: Azure SQL Managed Instance - lições aprendidas
@@ -172,7 +173,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBa
 #  
 #### SessionID: 108193
 # Como automatizar o Deploy de recursos de banco de dados no Azure
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBaaS)
 ## Speaker: Tiago Crespi
 ## Title: Como automatizar o Deploy de recursos de banco de dados no Azure
@@ -182,7 +183,7 @@ Imagine um ambiente de teste que precise ser recriado diariamente e que possua d
 #  
 #### SessionID: 102341
 # Linux Administration for SQL SERVER DBAs
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Cloud (Infra - AZ - AWS)
 ## Speaker: Marcelo Adade
 ## Title: Linux Administration for SQL SERVER DBAs
@@ -191,7 +192,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Cloud (Infra - AZ - AWS
 #  
 #### SessionID: 108190
 # Técnicas de Tuning que Todo Desenvolvedor Deve Saber
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Developer
 ## Speaker: Rodrigo Crespi
 ## Title: Técnicas de Tuning que Todo Desenvolvedor Deve Saber
@@ -201,7 +202,7 @@ Contudo, você sabe o impacto de suas consultas no futuro? Nesta sessão, aprend
 #  
 #### SessionID: 108288
 # Testes automatizados em projetos de dados.
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Developer
 ## Speaker: Anderson Vasconcelos
 ## Title: Testes automatizados em projetos de dados.
@@ -210,7 +211,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Developer
 #  
 #### SessionID: 108338
 # Automatizando a criação de VMs Linux com SQL Server através de Ansible
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Cloud (Infra - AZ - AWS)
 ## Speaker: Murilo Miranda
 ## Title: Automatizando a criação de VMs Linux com SQL Server através de Ansible
@@ -221,7 +222,7 @@ Nesta sessão, irei mostrar como Ansible pode nos ajudar a criar VMs no Azure, a
 #  
 #### SessionID: 104036
 # Caso de Estudo: Modelagem de um sistema utilizando dados relacionais e não relacionais em SQL Server
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Developer
 ## Speaker: Marcelo Amaral
 ## Title: Caso de Estudo: Modelagem de um sistema utilizando dados relacionais e não relacionais em SQL Server
@@ -230,7 +231,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Developer
 #  
 #### SessionID: 108174
 # Azure SQL DB - Automatizando/Provisionando o seu banco de dados
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBaaS)
 ## Speaker: Thiago Carlos de Alencar
 ## Title: Azure SQL DB - Automatizando/Provisionando o seu banco de dados
@@ -239,7 +240,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBa
 #  
 #### SessionID: 108295
 # Mineração de Dados com SQL Server - DataMining
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Developer
 ## Speaker: Rodrigo Dornel
 ## Title: Mineração de Dados com SQL Server - DataMining
@@ -248,7 +249,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Developer
 #  
 #### SessionID: 108302
 # Como implantar modelos de machine learning com Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBaaS)
 ## Speaker: Sidney Cirqueira
 ## Title: Como implantar modelos de machine learning com Azure Machine Learning
@@ -257,7 +258,7 @@ Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Data (IaaS - PaaS - DBa
 #  
 #### SessionID: 108586
 # Scaling-up Kafka message processing using Dotnet Core and TPL Dataflow
-#### [Back to calendar](#SQLSaturday-#935-–-Salvador-–-Virtual-2020)
+#### [Back to calendar](#nr-935)
 Event Date: 17-10-2020 - Session time: 15:00:00 - Track: Developer
 ## Speaker: Jose Araujo
 ## Title: Scaling-up Kafka message processing using Dotnet Core and TPL Dataflow

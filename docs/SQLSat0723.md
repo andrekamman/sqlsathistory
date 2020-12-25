@@ -1,3 +1,4 @@
+#### Nr: 723
 #### [Back to Main list](index.md)
 # SQLSaturday #723 - Rochester 2018
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 71067
 # Drinking From the Firehose: a Guide to Keeping Up with Technology
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Eugene Meidinger
 ## Title: Drinking From the Firehose: a Guide to Keeping Up with Technology
@@ -44,7 +45,7 @@ Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 73030
 # What's new in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Strategy and Architecture
 ## Speaker: Hasan Savran
 ## Title: What's new in SQL Server 2017
@@ -53,7 +54,7 @@ Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 73121
 # Painting with PowerShell: SQL Server Administration
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Sommer
 ## Title: Painting with PowerShell: SQL Server Administration
@@ -64,7 +65,7 @@ Join me to learn how to paint your own SQL Server canvas with PowerShell.
 #  
 #### SessionID: 73614
 # Basic Database Programming
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: SQL Starter Track
 ## Speaker: John Miner
 ## Title: Basic Database Programming
@@ -92,7 +93,7 @@ Coverage:
 #  
 #### SessionID: 73637
 # Replication Technologies
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hilary Cotter
 ## Title: Replication Technologies
@@ -101,7 +102,7 @@ Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71019
 # Getting to and Nailing Your Interviews
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Paresh Motiwala
 ## Title: Getting to and Nailing Your Interviews
@@ -127,7 +128,7 @@ Keep going at it. Never stop looking!!!
 #  
 #### SessionID: 71156
 # Should I move my database to the cloud?
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Strategy and Architecture
 ## Speaker: James Serra
 ## Title: Should I move my database to the cloud?
@@ -136,7 +137,7 @@ Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 72012
 # Pester your SQL Servers!
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: James Livingston
 ## Title: Pester your SQL Servers!
@@ -149,7 +150,7 @@ This session will work through some light demos.  Familiarity with SQL Server da
 #  
 #### SessionID: 72443
 # Back to the Basics: T-SQL 101
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: SQL Starter Track
 ## Speaker: Deborah Melkin
 ## Title: Back to the Basics: T-SQL 101
@@ -160,7 +161,7 @@ This session is designed for the junior DBA or developer who is looking for a be
 #  
 #### SessionID: 74090
 # Query Store Primer
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
@@ -169,7 +170,7 @@ Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71068
 # Execution Plans 101
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eugene Meidinger
 ## Title: Execution Plans 101
@@ -178,7 +179,7 @@ Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73056
 # “Go Faster!” And Other Things Yelled at the Backup Jobs
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Hays
 ## Title: “Go Faster!” And Other Things Yelled at the Backup Jobs
@@ -187,7 +188,7 @@ Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73599
 # Destination Azure... building ETL workloads in the cloud!
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Business Intelligence
 ## Speaker: Chris Seferlis
 ## Title: Destination Azure... building ETL workloads in the cloud!
@@ -196,7 +197,7 @@ Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Business Intelligence
 #  
 #### SessionID: 73612
 # How to audit and prevent unwanted user actions.
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Application  Database Development (Cloud  On-Premises)
 ## Speaker: John Miner
 ## Title: How to audit and prevent unwanted user actions.
@@ -219,7 +220,7 @@ Coverage:
 #  
 #### SessionID: 73639
 # Stress testing SQL Server
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hilary Cotter
 ## Title: Stress testing SQL Server
@@ -228,7 +229,7 @@ Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71017
 # Big Data and Hadoop: A primer for the weary DBA
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Strategy and Architecture
 ## Speaker: Paresh Motiwala
 ## Title: Big Data and Hadoop: A primer for the weary DBA
@@ -240,7 +241,7 @@ Over and above, we'll also take a quick peek at some of the huge and successful 
 #  
 #### SessionID: 71021
 # I lost my job!  Now what?!?  A survival guide for the unemployed
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: I lost my job!  Now what?!?  A survival guide for the unemployed
@@ -253,7 +254,7 @@ Fortunately, unemployment is survivable.  In this session, I'll share my own exp
 #  
 #### SessionID: 71239
 # Insight into the SQL Server Buffer Cache
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Edward Pollack
 ## Title: Insight into the SQL Server Buffer Cache
@@ -262,7 +263,7 @@ Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 72727
 # SQL Injection Vulnerabilities: Is Your Data Secure?
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Application  Database Development (Cloud  On-Premises)
 ## Speaker: Bert Wagner
 ## Title: SQL Injection Vulnerabilities: Is Your Data Secure?
@@ -275,7 +276,7 @@ If you ever write or maintain dynamic SQL queries then this session is for you.
 #  
 #### SessionID: 73031
 # How to use Spatial Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Strategy and Architecture
 ## Speaker: Hasan Savran
 ## Title: How to use Spatial Data in SQL Server
@@ -285,7 +286,7 @@ In the first half, learn the spatial data types and common spatial functions in 
 #  
 #### SessionID: 71154
 # How to build your career
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: James Serra
 ## Title: How to build your career
@@ -298,7 +299,7 @@ Your first step to enhancing your career will be to attend this session!  Let me
 #  
 #### SessionID: 71344
 # New features in Management Studio and Showplan -- Performance Troubleshooting made easier!
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taiob Ali
 ## Title: New features in Management Studio and Showplan -- Performance Troubleshooting made easier!
@@ -311,7 +312,7 @@ In this demo intensive session, I will show you how to find and use new features
 #  
 #### SessionID: 73448
 # Running SQL Server in Amazon's Relational Database Service (RDS)
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Sommer
 ## Title: Running SQL Server in Amazon's Relational Database Service (RDS)
@@ -322,7 +323,7 @@ In this session I will outline a number of the benefits of running your database
 #  
 #### SessionID: 73822
 # I have to support what!?  SQL, Oracle, and Mongo -  A side by side “how to”
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: SQL Starter Track
 ## Speaker: Kimberly StJacques
 ## Title: I have to support what!?  SQL, Oracle, and Mongo -  A side by side “how to”
@@ -331,7 +332,7 @@ Event Date: 24-03-2018 - Session time: 15:50:00 - Track: SQL Starter Track
 #  
 #### SessionID: 77951
 # Uncovering Duplicate, Redundant,  Missing Indexes
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Yun
 ## Title: Uncovering Duplicate, Redundant,  Missing Indexes
@@ -341,7 +342,7 @@ Attend this session and learn how SQL Server tracks actual index usage, and how 
 #  
 #### SessionID: 71024
 # Disaster Documents: The role of documentation in disaster recovery
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Disaster Documents: The role of documentation in disaster recovery
@@ -352,7 +353,7 @@ While other disaster recovery presentations talk about strategies, plans, and te
 #  
 #### SessionID: 71240
 # Dynamic SQL: Writing Efficient Queries on the Fly
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Application  Database Development (Cloud  On-Premises)
 ## Speaker: Edward Pollack
 ## Title: Dynamic SQL: Writing Efficient Queries on the Fly
@@ -363,7 +364,7 @@ Explore the many uses for dynamic SQL as well as best practices for writing, tes
 #  
 #### SessionID: 72545
 # From (User) Story to Tables: Read Between the Lines to Find Your Data
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Application  Database Development (Cloud  On-Premises)
 ## Speaker: Deborah Melkin
 ## Title: From (User) Story to Tables: Read Between the Lines to Find Your Data
@@ -378,7 +379,7 @@ This is for DBAs who are involved in any part of designing databases, who want t
 #  
 #### SessionID: 72725
 # DBAs vs. Developers: JSON in SQL Server
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Application  Database Development (Cloud  On-Premises)
 ## Speaker: Bert Wagner
 ## Title: DBAs vs. Developers: JSON in SQL Server
@@ -393,7 +394,7 @@ By the end of this session DBAs and developers will know how to efficiently work
 #  
 #### SessionID: 77141
 # Everyone Has a Story to Tell: Developing Your First Presentation
-#### [Back to calendar](#SQLSaturday-#723-Rochester-2018)
+#### [Back to calendar](#nr-723)
 Event Date: 24-03-2018 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Andy Yun
 ## Title: Everyone Has a Story to Tell: Developing Your First Presentation

@@ -1,3 +1,4 @@
+#### Nr: 97
 #### [Back to Main list](index.md)
 # SQLSaturday #97 - Austin 2011
 Start Time (24h)|Speaker|Track|Title
@@ -35,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28503
 # Central Management Server - Fundamentals
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: AJ Mendo
 ## Title: Central Management Server - Fundamentals
@@ -44,7 +45,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 29555
 # Data Orchestration with System Center + SQL
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Charles Joy
 ## Title: Data Orchestration with System Center + SQL
@@ -53,7 +54,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 29593
 # New Features in Denali: Apollo Columnar Data Store
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Conor Cunningham
 ## Title: New Features in Denali: Apollo Columnar Data Store
@@ -62,7 +63,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 29756
 # SSIS Done Right With Package Configurations
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: David Stein
 ## Title: SSIS Done Right With Package Configurations
@@ -73,7 +74,7 @@ In this presentation, I’ll demonstrate an easy to understand three step proces
 #  
 #### SessionID: 29757
 # Data Warehouse Mistakes You Can’t Afford to Make
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: David Stein
 ## Title: Data Warehouse Mistakes You Can’t Afford to Make
@@ -84,7 +85,7 @@ Learn how to avoid many common mistakes, from someone who’s made them and then
 #  
 #### SessionID: 30089
 # Zero to cube in 1 hour
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Erin Welker
 ## Title: Zero to cube in 1 hour
@@ -93,7 +94,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 30578
 # Advanced Table Constraints
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Joe Celko
 ## Title: Advanced Table Constraints
@@ -102,7 +103,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 30579
 # Nested Sets model for Trees in SQL
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Joe Celko
 ## Title: Nested Sets model for Trees in SQL
@@ -111,7 +112,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 30711
 # Code Sins
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Jennifer McCown
 ## Title: Code Sins
@@ -120,7 +121,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 30713
 # T-SQL Brush-up:The Best Things You Forgot You Knew
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Jennifer McCown
 ## Title: T-SQL Brush-up:The Best Things You Forgot You Knew
@@ -129,7 +130,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 30838
 # Denali AlwaysOn - Finally, A usable 'mirror'!
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Jim Murphy
 ## Title: Denali AlwaysOn - Finally, A usable 'mirror'!
@@ -138,7 +139,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 31004
 # Adventures in Project Management 
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Jonathan Gardner
 ## Title: Adventures in Project Management 
@@ -147,7 +148,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 31165
 # Visual Studio 2010 SQL 2008 Database Projects  
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Justin Mason
 ## Title: Visual Studio 2010 SQL 2008 Database Projects  
@@ -158,7 +159,7 @@ I will be covering the new approach Microsoft has provided through the Visual St
 #  
 #### SessionID: 31652
 # Nuts and Bolts of Table Compression
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Mike Byrd
 ## Title: Nuts and Bolts of Table Compression
@@ -167,7 +168,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 31755
 # SQL Server Performance Analysis
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Mike Hotek
 ## Title: SQL Server Performance Analysis
@@ -176,7 +177,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 32045
 # Managing SQL Server in the Enterprise with TLAs
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Nancy Hidy Wilson
 ## Title: Managing SQL Server in the Enterprise with TLAs
@@ -185,7 +186,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 32476
 # Virtualization and Consolidation best practices
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Reinaldo Kibel
 ## Title: Virtualization and Consolidation best practices
@@ -196,7 +197,7 @@ You will learn how we managed our internal consolidation efforts. We will cover 
 #  
 #### SessionID: 32607
 # Expand your TSQL: Intersect, Except, and Apply
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Roudy Rodarte
 ## Title: Expand your TSQL: Intersect, Except, and Apply
@@ -205,7 +206,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 32685
 # Architecting no downtime databases.
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Russell Johnson
 ## Title: Architecting no downtime databases.
@@ -214,7 +215,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 32688
 # SSRS data driven subscription using SSIS
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Russel Loski
 ## Title: SSRS data driven subscription using SSIS
@@ -224,7 +225,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 32741
 # Mirroring: The Bare Necessities
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Ryan Adams
 ## Title: Mirroring: The Bare Necessities
@@ -233,7 +234,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 32858
 # The Backup Tune-up
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Sean McCown
 ## Title: The Backup Tune-up
@@ -242,7 +243,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 32921
 # Analysis Services Performance Monitoring Deepdive
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Sid Atkinson
 ## Title: Analysis Services Performance Monitoring Deepdive
@@ -253,7 +254,7 @@ This session will go into details on how to configure a performance monitoring e
 #  
 #### SessionID: 33055
 # SQL Server Memory Management
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Thomas LaRock
 ## Title: SQL Server Memory Management
@@ -262,7 +263,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 33236
 # SQL Server Amnesia
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Steven Ormrod
 ## Title: SQL Server Amnesia
@@ -273,7 +274,7 @@ When I started as a DBA I didn't know much about SQL Server internals.  I inheir
 #  
 #### SessionID: 33604
 # It is TEMPDB, Why Should You Care?
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Tim Radney
 ## Title: It is TEMPDB, Why Should You Care?
@@ -282,7 +283,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 33627
 # Pro Tips:  Tuning the data flow in ssis
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Tim Costello
 ## Title: Pro Tips:  Tuning the data flow in ssis
@@ -291,7 +292,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 33683
 # Data File Sizes – How much is enough, if you don’t
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: TJay Belt
 ## Title: Data File Sizes – How much is enough, if you don’t
@@ -300,7 +301,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 33744
 # An Introduction to Profiler and SQL Trace
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Trevor Barkhouse
 ## Title: An Introduction to Profiler and SQL Trace
@@ -309,7 +310,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 33819
 # Introduction to Common Table Expressions
-#### [Back to calendar](#SQLSaturday-#97-Austin-2011)
+#### [Back to calendar](#nr-97)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Vicky Harp
 ## Title: Introduction to Common Table Expressions

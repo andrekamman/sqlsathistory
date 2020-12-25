@@ -1,3 +1,4 @@
+#### Nr: 900
 #### [Back to Main list](index.md)
 # SQLSaturday #900 - Vitória 2019
 Start Time (24h)|Speaker|Track|Title
@@ -34,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 93708
 # Azure Databricks e Delta Lake
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arthur Luz
 ## Title: Azure Databricks e Delta Lake
@@ -43,7 +44,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93990
 # Acessando dados com performance e qualidade no .NET e Azure
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: HENRIQUE MAURI
 ## Title: Acessando dados com performance e qualidade no .NET e Azure
@@ -59,7 +60,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 94888
 # Interpretando informações CPU no SQL Server e Windows
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rodrigo Ribeiro Gomes
 ## Title: Interpretando informações CPU no SQL Server e Windows
@@ -68,7 +69,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 98111
 # Relatos das trincheiras: O dia a dia de uma consultoria de banco de dados
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Igor Santos de Paula
 ## Title: Relatos das trincheiras: O dia a dia de uma consultoria de banco de dados
@@ -78,7 +79,7 @@ Falaremos sobre arquitetura de dados, boas práticas de backup, alta disponibili
 #  
 #### SessionID: 93744
 # Visualização de Dados na Era do Big Data
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Nilton Kazuyuki Ueda
 ## Title: Visualização de Dados na Era do Big Data
@@ -87,7 +88,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 93764
 # Power Bi Embedded - Insira os visuais interativos do Power BI na sua aplicação WEB
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rafael Mendonça
 ## Title: Power Bi Embedded - Insira os visuais interativos do Power BI na sua aplicação WEB
@@ -96,7 +97,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93858
 # Criando um Ambiente de Alta Disponibilidade no Linux com SQL AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Wiluey Sousa
 ## Title: Criando um Ambiente de Alta Disponibilidade no Linux com SQL AlwaysOn Availability Groups
@@ -109,7 +110,7 @@ Aproveite!!
 #  
 #### SessionID: 95015
 # Power BI - Práticas de ETL e Consequências na Modelagem
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Laennder Alves
 ## Title: Power BI - Práticas de ETL e Consequências na Modelagem
@@ -118,7 +119,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93717
 # Troubleshooting your SQL Server
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcel Inowe
 ## Title: Troubleshooting your SQL Server
@@ -128,7 +129,7 @@ Preparem-se, vamos levar o SQL Server ao seu limite!!!
 #  
 #### SessionID: 93837
 # Aliviando o Stress do DBA (e do seu banco de dados!)
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Rafael dos Santos
 ## Title: Aliviando o Stress do DBA (e do seu banco de dados!)
@@ -137,7 +138,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 94651
 # Joins deep dive: Entenda os algoritmos por detrás dos panos.
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Reginaldo Silva
 ## Title: Joins deep dive: Entenda os algoritmos por detrás dos panos.
@@ -146,7 +147,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 95011
 # Power BI e Azure Analysis Services! Só amor!
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Claudio Bonel
 ## Title: Power BI e Azure Analysis Services! Só amor!
@@ -159,7 +160,7 @@ Tamojunto e Boas análises!
 #  
 #### SessionID: 98206
 # DevOps para Mobile com App Center
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Jucinei Santos
 ## Title: DevOps para Mobile com App Center
@@ -168,7 +169,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 93969
 # SQL Server 2019 Big Data Clusters
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Luiz Henrique Garetti
 ## Title: SQL Server 2019 Big Data Clusters
@@ -179,7 +180,7 @@ Nesta sessão, vamos aprofundar um pouco mais nesse assunto, entendendo (na teor
 #  
 #### SessionID: 94788
 # Análises Avançadas com DAX e Otimização de Modelos com DAX Studio e VertiPaq Analyzer
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Leonardo Karpinski
 ## Title: Análises Avançadas com DAX e Otimização de Modelos com DAX Studio e VertiPaq Analyzer
@@ -192,7 +193,7 @@ Por fim, irei mostrar que, ao mesmo tempo que é possível criar medidas muito e
 #  
 #### SessionID: 94853
 # Boas práticas de segurança no acesso a dados em aplicações Web
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Renato Groffe
 ## Title: Boas práticas de segurança no acesso a dados em aplicações Web
@@ -201,7 +202,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 95012
 # Tuning no SQL Server 2019 - Quais as novidades?
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Fabiano Amorim
 ## Title: Tuning no SQL Server 2019 - Quais as novidades?
@@ -210,7 +211,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 93701
 # Migração de Dados com Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Orlando Gomes
 ## Title: Migração de Dados com Azure Data Factory
@@ -219,7 +220,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 93720
 # Containers! SQL Server + Docker + Kubernetes
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: William Lino Oliveira
 ## Title: Containers! SQL Server + Docker + Kubernetes
@@ -228,7 +229,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 95014
 # Carreira - Dicas para fazer um milhao com MSSQL
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Professional Development
 ## Speaker: Fabiano Amorim
 ## Title: Carreira - Dicas para fazer um milhao com MSSQL
@@ -239,7 +240,7 @@ também veremos algumas boas práticas para desenvolvedores e administradores de
 #  
 #### SessionID: 95066
 # Consultando Dados Externos com o AZURE SQL DATA WAREHOUSE
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Wagner Crivelini
 ## Title: Consultando Dados Externos com o AZURE SQL DATA WAREHOUSE
@@ -248,7 +249,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 94041
 # Modelando em Document Model - Além do NoJoin com MongoDB!
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Leandro Domingues
 ## Title: Modelando em Document Model - Além do NoJoin com MongoDB!
@@ -257,7 +258,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 94783
 # Power BI,  Inteligencia Artificial e Machine Learning - Enriquecendo suas análises.
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rafael Mendonça
 ## Title: Power BI,  Inteligencia Artificial e Machine Learning - Enriquecendo suas análises.
@@ -266,7 +267,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 94904
 # Container Internals -  O que um DBA precisa saber
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Raul Oliveira
 ## Title: Container Internals -  O que um DBA precisa saber
@@ -275,7 +276,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 95086
 # Carreira - Meus 40 anos com tecnologia
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Other
 ## Speaker: Joao Benito Savastano
 ## Title: Carreira - Meus 40 anos com tecnologia
@@ -285,7 +286,7 @@ Vamos rever um pouco desta história e de como a Microsoft iniciou as suas ativi
 #  
 #### SessionID: 93841
 # Backup SQL Server On Premisses para o Azure
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Fernando Avelãs
 ## Title: Backup SQL Server On Premisses para o Azure
@@ -294,7 +295,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 94075
 # DevOps for Azure SQL Databases
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sidney Cirqueira
 ## Title: DevOps for Azure SQL Databases
@@ -303,7 +304,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 94787
 # Power BI - Real-time Data and Sentimental Analysis with local audience
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Fernando Garcia
 ## Title: Power BI - Real-time Data and Sentimental Analysis with local audience
@@ -312,7 +313,7 @@ Event Date: 24-08-2019 - Session time: 16:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 95003
 # SELECT * FROM  BI INNER JOIN  UX  ON BI.KPI = UX.KPI
-#### [Back to calendar](#SQLSaturday-#900-Vitória-2019)
+#### [Back to calendar](#nr-900)
 Event Date: 24-08-2019 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Thais Mafra
 ## Title: SELECT * FROM  BI INNER JOIN  UX  ON BI.KPI = UX.KPI

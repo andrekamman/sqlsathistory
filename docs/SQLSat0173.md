@@ -1,3 +1,4 @@
+#### Nr: 173
 #### [Back to Main list](index.md)
 # SQLSaturday #173 - Washington DC 2012
 Start Time (24h)|Speaker|Track|Title
@@ -37,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10015
 # PowerShell 101 for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Allen White
 ## Title: PowerShell 101 for the SQL Server DBA
@@ -46,7 +47,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 10762
 # The Art of Questions and success as an IT Pro
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Brian Moran
 ## Title: The Art of Questions and success as an IT Pro
@@ -62,7 +63,7 @@ And oh yeah. I'll leave time for asking questions at the end.
 #  
 #### SessionID: 12129
 # “ColumnStore” Indexes for Fast EDW Query
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 2
 ## Speaker: Derek Dai
 ## Title: “ColumnStore” Indexes for Fast EDW Query
@@ -71,7 +72,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 2
 #  
 #### SessionID: 12578
 # Virtualizing Business Critical SQL Servers
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: David Klee
 ## Title: Virtualizing Business Critical SQL Servers
@@ -80,7 +81,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 13227
 # PerfTuning: Intro To Execution Plan Analysis
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Konstatin Melamud
 ## Title: PerfTuning: Intro To Execution Plan Analysis
@@ -89,7 +90,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 13649
 # How PowerShell helps me as a DBA
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Carlton Ramsey
 ## Title: How PowerShell helps me as a DBA
@@ -98,7 +99,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 14084
 # Join Us! Getting Started as a Technical Speaker
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Eddie Wuerch
 ## Title: Join Us! Getting Started as a Technical Speaker
@@ -107,7 +108,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 14472
 # Using Expressions to Avoid Three SSRS Annoyances
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 1
 ## Speaker: Geoff Johnson
 ## Title: Using Expressions to Avoid Three SSRS Annoyances
@@ -116,7 +117,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 1
 #  
 #### SessionID: 15507
 # (SQL,SSIS,MDS) Adv Fuzzy Matching Roll Your Own
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Ira Warren
 ## Title: (SQL,SSIS,MDS) Adv Fuzzy Matching Roll Your Own
@@ -125,7 +126,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 15841
 #  Isn't that Spatial! (BI Edition)
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 1
 ## Speaker: Jason Horner
 ## Title:  Isn't that Spatial! (BI Edition)
@@ -139,7 +140,7 @@ basic concepts of working with spatial data in SQL Server.
 #  
 #### SessionID: 15903
 # Advanced Charting Techniques in SSRS
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 2
 ## Speaker: Jason Thomas
 ## Title: Advanced Charting Techniques in SSRS
@@ -149,7 +150,7 @@ This session will talk about the basic functionalities of all the charts as well
 #  
 #### SessionID: 16176
 # SQL 2012 -- All About HA and DR
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Joseph D'Antoni
 ## Title: SQL 2012 -- All About HA and DR
@@ -158,7 +159,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 16765
 # Recipe for a happy DBA
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Jason Hall
 ## Title: Recipe for a happy DBA
@@ -168,7 +169,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 17703
 # Performance Tuning for Pirates
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 2
 ## Speaker: John Sterrett
 ## Title: Performance Tuning for Pirates
@@ -178,7 +179,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 2
 #  
 #### SessionID: 18142
 # Let's Talk Licensing
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Kevin Goode
 ## Title: Let's Talk Licensing
@@ -187,7 +188,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 18307
 # SQL Server 2012 Columnstore index
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 1
 ## Speaker: Kevin Goff
 ## Title: SQL Server 2012 Columnstore index
@@ -196,7 +197,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 1
 #  
 #### SessionID: 20231
 # Virtualizing SQL 2012: Doing It Right
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Michael Corey
 ## Title: Virtualizing SQL 2012: Doing It Right
@@ -205,7 +206,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 20438
 # DBA Worst Practices, Disasters and Horror Stories
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Mike Walsh
 ## Title: DBA Worst Practices, Disasters and Horror Stories
@@ -214,7 +215,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 21785
 # Shortcuts to Building SSIS in .Net
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 2
 ## Speaker: Paul Rizza
 ## Title: Shortcuts to Building SSIS in .Net
@@ -223,7 +224,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 2
 #  
 #### SessionID: 23295
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -232,7 +233,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 23296
 # Revenge: The SQL Part 2: The Sequel!
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL Part 2: The Sequel!
@@ -241,7 +242,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 24701
 # Taking BI to the Next Level: Collaboration
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 2
 ## Speaker: Stacia Varga
 ## Title: Taking BI to the Next Level: Collaboration
@@ -250,7 +251,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 2
 #  
 #### SessionID: 25943
 # Resource Governor for SQL Server
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Steven Wright
 ## Title: Resource Governor for SQL Server
@@ -259,7 +260,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 26254
 # SQL Server 2012 TSQL Enhancements and Additions
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2012 TSQL Enhancements and Additions
@@ -268,7 +269,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 26256
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -277,7 +278,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 26698
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -288,7 +289,7 @@ In this session I will cover several methods for performing much needed backups 
 #  
 #### SessionID: 27705
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -297,7 +298,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 27706
 # Windowing Functions in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Wayne Sheffield
 ## Title: Windowing Functions in SQL Server 2012
@@ -306,7 +307,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 28024
 # Getting Started with MDX: The (Very) Basics
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 1
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX: The (Very) Basics
@@ -315,7 +316,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 1
 #  
 #### SessionID: 34865
 # DBA’s1st Date - Getting to know a new environment
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Ryan Brickey
 ## Title: DBA’s1st Date - Getting to know a new environment
@@ -324,7 +325,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 34879
 # Panel discussion - Professional Development
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: SQLSAT DC
 ## Title: Panel discussion - Professional Development
@@ -333,7 +334,7 @@ Event Date: 08-12-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 9532
 # Loading Data Warehouse Partitions with SSIS 2012
-#### [Back to calendar](#SQLSaturday-#173-Washington-DC-2012)
+#### [Back to calendar](#nr-173)
 Event Date: 08-12-2012 - Session time: 00:00:00 - Track: BI / SSAS 1
 ## Speaker: Andy Leonard
 ## Title: Loading Data Warehouse Partitions with SSIS 2012

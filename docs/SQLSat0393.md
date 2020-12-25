@@ -1,3 +1,4 @@
+#### Nr: 393
 #### [Back to Main list](index.md)
 # SQLSaturday #393 - Redmond 2015
 Start Time (24h)|Speaker|Track|Title
@@ -25,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 21128
 # Best Practices for Upgrading to SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Michael Schaeffer
 ## Title: Best Practices for Upgrading to SQL Server 2014
@@ -34,7 +35,7 @@ Event Date: 16-05-2015 - Session time: 14:45:00 - Track: DBA
 #  
 #### SessionID: 21869
 # Tabular Models: Easier  Faster Than Cubes; Really? 
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: BI
 ## Speaker: Paul Turley
 ## Title: Tabular Models: Easier  Faster Than Cubes; Really? 
@@ -44,7 +45,7 @@ Event Date: 16-05-2015 - Session time: 14:45:00 - Track: BI
 #  
 #### SessionID: 22044
 # End-to-End SQL Server Master Data Services
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Design
 ## Speaker: Peter Myers
 ## Title: End-to-End SQL Server Master Data Services
@@ -57,7 +58,7 @@ This session will be of interest to data stewards, ETL developers and ETL admini
 #  
 #### SessionID: 9786
 # Stored Procedures vs. Ad-Hoc SQL: Performance Showdown!
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Performance
 ## Speaker: Argenis Fernandez
 ## Title: Stored Procedures vs. Ad-Hoc SQL: Performance Showdown!
@@ -67,7 +68,7 @@ Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Performance
 #  
 #### SessionID: 12801
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: BI
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -76,7 +77,7 @@ Event Date: 16-05-2015 - Session time: 14:45:00 - Track: BI
 #  
 #### SessionID: 23969
 # Business Continuity with SQL Server: Real-Life War Stories
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Sanjay Mishra
 ## Title: Business Continuity with SQL Server: Real-Life War Stories
@@ -85,7 +86,7 @@ Event Date: 16-05-2015 - Session time: 14:45:00 - Track: DBA
 #  
 #### SessionID: 27387
 # Practical Fundamentals of Query Performance Tuning
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Performance
 ## Speaker: Vern Rabe
 ## Title: Practical Fundamentals of Query Performance Tuning
@@ -94,7 +95,7 @@ Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Performance
 #  
 #### SessionID: 9868
 # RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works.
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: TSQL
 ## Speaker: Arnie Rowland
 ## Title: RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works.
@@ -103,7 +104,7 @@ Event Date: 16-05-2015 - Session time: 14:45:00 - Track: TSQL
 #  
 #### SessionID: 12167
 # Power BI - getting it right - a full walkthrough
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: BI
 ## Speaker: Dandy Weyn
 ## Title: Power BI - getting it right - a full walkthrough
@@ -119,7 +120,7 @@ By the end of this session you will have a full understanding of the Power BI of
 #  
 #### SessionID: 13078
 # DevOps for the DBA - Bridging the Gap Between Infrastructure, Administration, and Development
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Denis McDowell
 ## Title: DevOps for the DBA - Bridging the Gap Between Infrastructure, Administration, and Development
@@ -128,7 +129,7 @@ Event Date: 16-05-2015 - Session time: 14:45:00 - Track: DBA
 #  
 #### SessionID: 24544
 # Get Testing with tSQLt
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Design
 ## Speaker: Steve Jones
 ## Title: Get Testing with tSQLt
@@ -137,7 +138,7 @@ Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Design
 #  
 #### SessionID: 8828
 # Organizing and Ranking SQL Result Sets
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: TSQL
 ## Speaker: Aaron Buma
 ## Title: Organizing and Ranking SQL Result Sets
@@ -146,7 +147,7 @@ Event Date: 16-05-2015 - Session time: 14:45:00 - Track: TSQL
 #  
 #### SessionID: 11463
 # Diagnosing Performance with Wait Statistics
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Robert Davis
 ## Title: Diagnosing Performance with Wait Statistics
@@ -157,7 +158,7 @@ This session will cover what you need to know about wait stats like the best way
 #  
 #### SessionID: 16842
 # Columnstore Indexes in SQL Server 2014: Flipping the DW Fast
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: DBA
 ## Speaker: J May
 ## Title: Columnstore Indexes in SQL Server 2014: Flipping the DW Fast
@@ -166,7 +167,7 @@ Event Date: 16-05-2015 - Session time: 14:45:00 - Track: DBA
 #  
 #### SessionID: 17157
 # Enterprise-grade MDM On SQL Server - the Keys to Success 
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Design
 ## Speaker: John McAllister
 ## Title: Enterprise-grade MDM On SQL Server - the Keys to Success 
@@ -175,7 +176,7 @@ Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Design
 #  
 #### SessionID: 21424
 # WHAT HA/DR OPTION(S) ARE RIGHT FOR YOU
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Nicholas Cain
 ## Title: WHAT HA/DR OPTION(S) ARE RIGHT FOR YOU
@@ -188,7 +189,7 @@ In this talk we will cover the various options, what the strengths and weaknesse
 #  
 #### SessionID: 17914
 # 5+ Database Design Blunders and How To Avoid Them
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Karen Lopez
 ## Title: 5+ Database Design Blunders and How To Avoid Them
@@ -199,7 +200,7 @@ In this presentation we discuss five physical data modeling mistakes that cost y
 #  
 #### SessionID: 25752
 # Exploring SQL Server  Join Types – INNER, OUTER, and much more
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: TSQL
 ## Speaker: Steve Stedman
 ## Title: Exploring SQL Server  Join Types – INNER, OUTER, and much more
@@ -211,7 +212,7 @@ By the end of this presentation you will at a minimum you will be able to answer
 #  
 #### SessionID: 25900
 # Case Study: How answers.microsoft.com Overcame the key Challenges of Upgrading to SQL Server 2014 
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Varun  Singh
 ## Title: Case Study: How answers.microsoft.com Overcame the key Challenges of Upgrading to SQL Server 2014 
@@ -220,7 +221,7 @@ Event Date: 16-05-2015 - Session time: 14:45:00 - Track: DBA
 #  
 #### SessionID: 37061
 # SQL Server 2016 Technical Overview on New Features
-#### [Back to calendar](#SQLSaturday-#393-Redmond-2015)
+#### [Back to calendar](#nr-393)
 Event Date: 16-05-2015 - Session time: 14:45:00 - Track: TSQL
 ## Speaker: Marko Hotti
 ## Title: SQL Server 2016 Technical Overview on New Features

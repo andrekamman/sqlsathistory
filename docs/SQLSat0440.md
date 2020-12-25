@@ -1,3 +1,4 @@
+#### Nr: 440
 #### [Back to Main list](index.md)
 # SQLSaturday #440 - Pittsburgh 2015
 Start Time (24h)|Speaker|Track|Title
@@ -50,7 +51,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 36726
 # What Every DBA Needs To Know About Storage For SQL Server
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Slocum
 ## Title: What Every DBA Needs To Know About Storage For SQL Server
@@ -61,7 +62,7 @@ In this session we will discuss RAID types, Local/Direct Attached Storage vs SAN
 #  
 #### SessionID: 36730
 # What is a DBA?
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael John
 ## Title: What is a DBA?
@@ -71,7 +72,7 @@ Presented by Michael John and  Ed Wagner
 #  
 #### SessionID: 36790
 # Query Tuning - Get it Right the First Time 
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Query Tuning - Get it Right the First Time 
@@ -82,7 +83,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 36801
 # APPLY Yourself
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
@@ -91,7 +92,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 37723
 # Self-Service ETL with Power Query
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan Clark
 ## Title: Self-Service ETL with Power Query
@@ -100,7 +101,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 37879
 # Get Familiar with Spatial Data
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Slava Murygin
 ## Title: Get Familiar with Spatial Data
@@ -110,7 +111,7 @@ We'll go through very basic SQL Server Spatial data functionality and draw some 
 #  
 #### SessionID: 39423
 # Data Architecture 101
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Data Architecture 101
@@ -122,7 +123,7 @@ You’ll get a big bonus if you build this right, but you also remember what you
 #  
 #### SessionID: 36769
 # Introduction to the Script Task in SSIS
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Katie Vetter
 ## Title: Introduction to the Script Task in SSIS
@@ -133,7 +134,7 @@ I'll introduce you to the SSIS Script Task and beginner-intermediate level  vb s
 #  
 #### SessionID: 36898
 # DBA Monitoring and Maintenance Fundamentals
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warren Sifre
 ## Title: DBA Monitoring and Maintenance Fundamentals
@@ -142,7 +143,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37093
 # Dynamic SQL: Build Fast, Flexible Queries
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Jeremiah Peschka
 ## Title: Dynamic SQL: Build Fast, Flexible Queries
@@ -154,7 +155,7 @@ Jeremiah Peschka has been making extensive use of dynamic SQL throughout his car
 #  
 #### SessionID: 37965
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -163,7 +164,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38218
 # First Look at SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Heiges
 ## Title: First Look at SQL Server 2016
@@ -172,7 +173,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39750
 # Disabling xp_CmdShell…Is it Really a “Best Practice”?
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Moden
 ## Title: Disabling xp_CmdShell…Is it Really a “Best Practice”?
@@ -186,7 +187,7 @@ Come to this session to find out why turning off xp_CmdShell may be a "worst pra
 #  
 #### SessionID: 40929
 # A typical day in the life of a DBA
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Matt Gallentine
 ## Title: A typical day in the life of a DBA
@@ -195,7 +196,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 36934
 # Licensing Simplified Into Awesome Diagrams
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Strategy and Architecture
 ## Speaker: Brent Ozar
 ## Title: Licensing Simplified Into Awesome Diagrams
@@ -204,7 +205,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 39560
 # Make Your SQL Server Queries Go Faster
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: Make Your SQL Server Queries Go Faster
@@ -213,7 +214,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39564
 # Surviving a Technical SQL Interview
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Reed Powell
 ## Title: Surviving a Technical SQL Interview
@@ -223,7 +224,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 39732
 # Fixing Page Life Expectancy
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Steve Hood
 ## Title: Fixing Page Life Expectancy
@@ -232,7 +233,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 39760
 # The TSQL Review for the Busy Data Professional
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Carlos L Chacon
 ## Title: The TSQL Review for the Busy Data Professional
@@ -241,7 +242,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 40930
 # What makes a good DBA?
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Brandi Dollar
 ## Title: What makes a good DBA?
@@ -250,7 +251,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 41191
 # Optimizing your data warehouse for OLAP Processing
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Konstantin Melamud
 ## Title: Optimizing your data warehouse for OLAP Processing
@@ -259,7 +260,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 40918
 # Dell Lunchtime session
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: Dell Lunchtime session
@@ -269,7 +270,7 @@ Food is not permitted in the classrooms.  Please eat lunch in the gallery first 
 #  
 #### SessionID: 40919
 # Profisee lunchtime session
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: Profisee lunchtime session
@@ -279,7 +280,7 @@ Food is not permitted in the classrooms.  Please eat lunch in the gallery first 
 #  
 #### SessionID: 40920
 # Pyramid Analytics lunchtime session
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: Pyramid Analytics lunchtime session
@@ -289,7 +290,7 @@ Food is not permitted in the classrooms.  Please eat lunch in the gallery first 
 #  
 #### SessionID: 40931
 # Women In Technology
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Katie Vetter
 ## Title: Women In Technology
@@ -299,7 +300,7 @@ Food is not permitted in the classrooms, so please eat in the Gallery first and 
 #  
 #### SessionID: 36752
 # Going beyond SELECT *
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Eugene Meidinger
 ## Title: Going beyond SELECT *
@@ -308,7 +309,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 37003
 # Dealing With Difficult People
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Gigi Bell
 ## Title: Dealing With Difficult People
@@ -317,7 +318,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 38561
 # 14 Features in SQL Server 2014 You Haven't Considered
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Strategy and Architecture
 ## Speaker: Tony Milne
 ## Title: 14 Features in SQL Server 2014 You Haven't Considered
@@ -326,7 +327,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 39265
 # SQL Server Storage Engine under the hood 
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: SQL Server Storage Engine under the hood 
@@ -341,7 +342,7 @@ Which I/O Subsystems (including SSD) are best for which type of data and what's 
 #  
 #### SessionID: 39377
 # Automating "Excel Hell" with T-SQL
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Information Delivery
 ## Speaker: Jeff Moden
 ## Title: Automating "Excel Hell" with T-SQL
@@ -357,7 +358,7 @@ Don’t let the “Advanced” rating of this session scare you away. It's simpl
 #  
 #### SessionID: 40149
 # Convert from T-SQL to MDX queries
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Dan King
 ## Title: Convert from T-SQL to MDX queries
@@ -366,7 +367,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 #  
 #### SessionID: 40935
 # Business Intelligence
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Jeb Sears
 ## Title: Business Intelligence
@@ -377,7 +378,7 @@ Covering the basics of the MS BI stack. SSIS, SSRS, SSAS.
 #  
 #### SessionID: 36933
 # Watch Brent Tune Queries
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Brent Ozar
 ## Title: Watch Brent Tune Queries
@@ -386,7 +387,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 39070
 # Availability Groups 101: An Introduction
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adam Belebczuk
 ## Title: Availability Groups 101: An Introduction
@@ -395,7 +396,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39696
 # What Makes SSIS Tick? A Look at Internals for Performance
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ravi Kumar
 ## Title: What Makes SSIS Tick? A Look at Internals for Performance
@@ -404,7 +405,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 39792
 # Maintain SQL Server Performance Baseline w/PowerShell
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Maintain SQL Server Performance Baseline w/PowerShell
@@ -413,7 +414,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40917
 # Hacking Expos#233; - Using SSL to Secure SQL Server Connections
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Strategy and Architecture
 ## Speaker: Chris Bell
 ## Title: Hacking Expos#233; - Using SSL to Secure SQL Server Connections
@@ -431,7 +432,7 @@ Goal 2: Learn how to configure SQL Serve to use an SSL certificate t
 #  
 #### SessionID: 41005
 # Basics of relational database design
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Strategy and Architecture
 ## Speaker: Kermit Seubert
 ## Title: Basics of relational database design
@@ -440,7 +441,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 37785
 # An Introduction to Big Data, Hadoop and Microsoft Azure HDInsight.
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Adriano da Silva
 ## Title: An Introduction to Big Data, Hadoop and Microsoft Azure HDInsight.
@@ -449,7 +450,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 38013
 # Become a SQL Server Performance Detective
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Danette Riviello
 ## Title: Become a SQL Server Performance Detective
@@ -458,7 +459,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38189
 # Clusters! From the ground up, let's build one together
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Popovich Jr
 ## Title: Clusters! From the ground up, let's build one together
@@ -468,7 +469,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38330
 # Do More With Less: Inside SQL Agent Multi-Server Administration
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Hillwig
 ## Title: Do More With Less: Inside SQL Agent Multi-Server Administration
@@ -477,7 +478,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39846
 # "Can I Get A Report of This?":  Introduction to SSRS
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Frye
 ## Title: "Can I Get A Report of This?":  Introduction to SSRS
@@ -486,7 +487,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 39847
 # Agile BI with Power BI
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Greg Baldini
 ## Title: Agile BI with Power BI
@@ -499,7 +500,7 @@ Specifically we highlight how an agile approach can address some of the followin
 #  
 #### SessionID: 40921
 # Experts Panel
-#### [Back to calendar](#SQLSaturday-#440-Pittsburgh-2015)
+#### [Back to calendar](#nr-440)
 Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Matt Nelson
 ## Title: Experts Panel

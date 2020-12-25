@@ -1,3 +1,4 @@
+#### Nr: 392
 #### [Back to Main list](index.md)
 # SQLSaturday #392 - Atlanta 2015
 Start Time (24h)|Speaker|Track|Title
@@ -88,7 +89,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 14447
 # Introduction to Master Data Management (MDM) with SQL Server Master Data Services (MDS) for Beginner
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Gene Webb
 ## Title: Introduction to Master Data Management (MDM) with SQL Server Master Data Services (MDS) for Beginner
@@ -104,7 +105,7 @@ How to use MDS with a data warehouse to improve data quality
 #  
 #### SessionID: 34780
 # Getting Started with Database Automation
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Michael Fal
 ## Title: Getting Started with Database Automation
@@ -113,7 +114,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 #  
 #### SessionID: 34781
 # Powershell and the Art of SQL Server Deployment
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Michael Fal
 ## Title: Powershell and the Art of SQL Server Deployment
@@ -122,7 +123,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 #  
 #### SessionID: 12253
 # Database: The Motion Picture
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Reporting  Visualization
 ## Speaker: Dave Mattingly
 ## Title: Database: The Motion Picture
@@ -131,7 +132,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Reporting  Visualizatio
 #  
 #### SessionID: 12349
 # Clustered Columnstore Indexes in SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Dave Fackler
 ## Title: Clustered Columnstore Indexes in SQL Server 2014
@@ -140,7 +141,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 #  
 #### SessionID: 13351
 # Emulating a SELECT Trigger if Such a Thing Existed
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Dan Holmes
 ## Title: Emulating a SELECT Trigger if Such a Thing Existed
@@ -149,7 +150,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 #  
 #### SessionID: 13494
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -158,7 +159,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 #  
 #### SessionID: 16288
 # Sliding Window Table Partition Intro
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Jeff Reinhard
 ## Title: Sliding Window Table Partition Intro
@@ -168,7 +169,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 #  
 #### SessionID: 16840
 # Closing the SSIS Package Management Story with BIPS
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: PowerShell
 ## Speaker: Jim Christopher
 ## Title: Closing the SSIS Package Management Story with BIPS
@@ -181,7 +182,7 @@ In this session, you will learn how to leverage BIPS in your own environment.  S
 #  
 #### SessionID: 22985
 # Why should I care about the plan cache?
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: Rick Lowe
 ## Title: Why should I care about the plan cache?
@@ -190,7 +191,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 #  
 #### SessionID: 24056
 # SSIS Unit and Integration Testing with the Open Source BEST project
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BIML
 ## Speaker: Scott Currie
 ## Title: SSIS Unit and Integration Testing with the Open Source BEST project
@@ -205,7 +206,7 @@ Note that while BEST is implemented using Biml, you do not need to learn Biml to
 #  
 #### SessionID: 26430
 # SQL Server Defaults SUCK!!
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Kevin Boles
 ## Title: SQL Server Defaults SUCK!!
@@ -214,7 +215,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 #  
 #### SessionID: 26941
 # Increase Your BI Developer Productivity with Community Samples
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 ## Speaker: Teo Lachev
 ## Title: Increase Your BI Developer Productivity with Community Samples
@@ -223,7 +224,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 #  
 #### SessionID: 10859
 # Using Extended Events in SQL Server
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Jason Brimhall
 ## Title: Using Extended Events in SQL Server
@@ -232,7 +233,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 #  
 #### SessionID: 12179
 # Tuning SQL Server for SharePoint
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Daniel Glenn
 ## Title: Tuning SQL Server for SharePoint
@@ -242,7 +243,7 @@ Some of the topics covered will include: the configuration steps and settings ne
 #  
 #### SessionID: 16028
 # Are users working against you? Manage human factors to achieve BI success
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 ## Speaker: Javier Guillen
 ## Title: Are users working against you? Manage human factors to achieve BI success
@@ -255,7 +256,7 @@ In this presentation, attendees will learn about a perspective that can help inc
 #  
 #### SessionID: 16336
 # Indexing for Join Optimization
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for Join Optimization
@@ -265,7 +266,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 #  
 #### SessionID: 21622
 # Sentiment Analysis with Big Data
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Big Data  Data Science
 ## Speaker: Paco Gonzalez
 ## Title: Sentiment Analysis with Big Data
@@ -274,7 +275,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Big Data  Data Science
 #  
 #### SessionID: 22807
 # Increase your SSIS productivity with Biml
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BIML
 ## Speaker: Reeves Smith
 ## Title: Increase your SSIS productivity with Biml
@@ -286,7 +287,7 @@ This session will be a demo based session that will inspire you to make Biml you
 #  
 #### SessionID: 24447
 # Beginners SQL Server Security the Low Hanging Fruit
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Lindsay Clark
 ## Title: Beginners SQL Server Security the Low Hanging Fruit
@@ -295,7 +296,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 #  
 #### SessionID: 25922
 # Gentle Introduction to T-SQL Window Functions
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: Sven Aelterman
 ## Title: Gentle Introduction to T-SQL Window Functions
@@ -304,7 +305,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 #  
 #### SessionID: 28345
 # Version control with GIT for the DBA
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Justin Dearing
 ## Title: Version control with GIT for the DBA
@@ -326,7 +327,7 @@ We will be covering using git from both the command line and Vis
 #  
 #### SessionID: 9397
 # SSIS 2014: Project Deployment  Configuration using SSIS Catalog
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: ETL/SSIS
 ## Speaker: Amir Charania
 ## Title: SSIS 2014: Project Deployment  Configuration using SSIS Catalog
@@ -338,7 +339,7 @@ By the end of this session, you will be ready to start taking advantage of these
 #  
 #### SessionID: 20709
 # PS C:\gt; Get-Started -With 'PowerShell Desired State Configuration'
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: PowerShell
 ## Speaker: Mike Robbins
 ## Title: PS C:\gt; Get-Started -With 'PowerShell Desired State Configuration'
@@ -347,7 +348,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: PowerShell
 #  
 #### SessionID: 22095
 # Common Coding Mistakes and how to Mitigate them
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: William Wolf
 ## Title: Common Coding Mistakes and how to Mitigate them
@@ -356,7 +357,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 #  
 #### SessionID: 22259
 # Choosing the right clustering key
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: Phil Pledger
 ## Title: Choosing the right clustering key
@@ -365,7 +366,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 #  
 #### SessionID: 23154
 # Loading a Data Warehouse with SSIS
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: ETL/SSIS
 ## Speaker: Robert Biddle
 ## Title: Loading a Data Warehouse with SSIS
@@ -374,7 +375,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: ETL/SSIS
 #  
 #### SessionID: 23255
 # Getting Started With SQL Server Replication
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Availability  Replication
 ## Speaker: Robert Verell
 ## Title: Getting Started With SQL Server Replication
@@ -383,7 +384,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Availability  Replicati
 #  
 #### SessionID: 28181
 # 20-Minute Tabular Model
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 ## Speaker: Bill Anton
 ## Title: 20-Minute Tabular Model
@@ -392,7 +393,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 #  
 #### SessionID: 28254
 # The Absolute Beginner's Guide to BIML
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BIML
 ## Speaker: Kevin Hazzard
 ## Title: The Absolute Beginner's Guide to BIML
@@ -401,7 +402,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BIML
 #  
 #### SessionID: 34748
 # Microsoft Technologies for Data Science
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Big Data  Data Science
 ## Speaker: Mark Tabladillo
 ## Title: Microsoft Technologies for Data Science
@@ -410,7 +411,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Big Data  Data Science
 #  
 #### SessionID: 34779
 # Powershell Tips and Tricks for SQL Server Administration
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Michael Fal
 ## Title: Powershell Tips and Tricks for SQL Server Administration
@@ -419,7 +420,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 #  
 #### SessionID: 37062
 # Ask Doc Brown and Einstein!
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Ask Doc  Einstein!
 ## Speaker: Rob Volk
 ## Title: Ask Doc Brown and Einstein!
@@ -428,7 +429,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Ask Doc  Einstein!
 #  
 #### SessionID: 9410
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
@@ -438,7 +439,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 #  
 #### SessionID: 9740
 # Database Development Using SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: Robert Cain
 ## Title: Database Development Using SQL Server Data Tools
@@ -454,7 +455,7 @@ In this session we'll look at the tools included with SSDT such as the all new l
 #  
 #### SessionID: 11171
 # Standalone to High-Availability Clusters over Lunch—with Time to Spare
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Availability  Replication
 ## Speaker: Carl Berglund
 ## Title: Standalone to High-Availability Clusters over Lunch—with Time to Spare
@@ -463,7 +464,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Availability  Replicati
 #  
 #### SessionID: 14448
 # Learn How To Build A Golden Record for Any Subject Over Lunch!
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 ## Speaker: Gene Webb
 ## Title: Learn How To Build A Golden Record for Any Subject Over Lunch!
@@ -477,7 +478,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 #  
 #### SessionID: 36841
 # Girl, Interrupted: Supporting Women's Voices - Sponsored by Intellinet
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Girl, Interrupted: Supporting Women's Voices - Sponsored by Intellinet
@@ -487,7 +488,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 37004
 # Cisco: Optimize Your SQL Server 2014 Workloads with Cisco UCS
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Sponsor/Lunch
 ## Speaker: Gary Serda
 ## Title: Cisco: Optimize Your SQL Server 2014 Workloads with Cisco UCS
@@ -496,7 +497,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Sponsor/Lunch
 #  
 #### SessionID: 37006
 # Clusters Your Way: #SANLess clusters for physical, virtual  cloud environments
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Availability  Replication
 ## Speaker: SIOS Technology
 ## Title: Clusters Your Way: #SANLess clusters for physical, virtual  cloud environments
@@ -505,7 +506,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Availability  Replicati
 #  
 #### SessionID: 37011
 # SQL Server and Microsoft Business Solutions - Tegile
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Sponsor/Lunch
 ## Speaker: Brett Johnson
 ## Title: SQL Server and Microsoft Business Solutions - Tegile
@@ -514,7 +515,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Sponsor/Lunch
 #  
 #### SessionID: 37063
 # 1.21 Gigawatt Talks!
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Ask Doc  Einstein!
 ## Speaker: Rob Volk
 ## Title: 1.21 Gigawatt Talks!
@@ -523,7 +524,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Ask Doc  Einstein!
 #  
 #### SessionID: 37164
 # SQL Server Clinic
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Sponsor/Lunch
 ## Speaker: Denny Cherry
 ## Title: SQL Server Clinic
@@ -532,7 +533,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Sponsor/Lunch
 #  
 #### SessionID: 37235
 # Learn about Governed Data Discovery with Pyramid Analytics
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Sponsor/Lunch
 ## Speaker: Mark Scott
 ## Title: Learn about Governed Data Discovery with Pyramid Analytics
@@ -541,7 +542,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Sponsor/Lunch
 #  
 #### SessionID: 11174
 # How I Became a BIML Believer
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BIML
 ## Speaker: Carla Sessions
 ## Title: How I Became a BIML Believer
@@ -560,7 +561,7 @@ All of the code and techniques in this session can be used with the free BIDS He
 #  
 #### SessionID: 11222
 # Making your SSIS Fly Beyond the Sky
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: ETL/SSIS
 ## Speaker: Carlos Rodrigues
 ## Title: Making your SSIS Fly Beyond the Sky
@@ -569,7 +570,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: ETL/SSIS
 #  
 #### SessionID: 13080
 # DevOps for the DBA - Bridging the Gap Between Infrastructure, Administration, and Development
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Sponsor/Lunch
 ## Speaker: Denis McDowell
 ## Title: DevOps for the DBA - Bridging the Gap Between Infrastructure, Administration, and Development
@@ -578,7 +579,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Sponsor/Lunch
 #  
 #### SessionID: 15911
 # Memoirs of Building a 150 GB (and growing) SSAS Tabular Model
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 ## Speaker: Jason Thomas
 ## Title: Memoirs of Building a 150 GB (and growing) SSAS Tabular Model
@@ -587,7 +588,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 #  
 #### SessionID: 17324
 # Continuous Integration with SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: Jon Boulineau
 ## Title: Continuous Integration with SQL Server Data Tools
@@ -596,7 +597,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 #  
 #### SessionID: 20426
 # SQL Server 2014 In-Memory Programming
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: miguel Cebollero
 ## Title: SQL Server 2014 In-Memory Programming
@@ -605,7 +606,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 #  
 #### SessionID: 21072
 # Index Internals
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: Denny Cherry
 ## Title: Index Internals
@@ -616,7 +617,7 @@ If you came to this session last year, that wasn't this.  Since then this sessio
 #  
 #### SessionID: 22370
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Reporting  Visualization
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports
@@ -626,7 +627,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Reporting  Visualizatio
 #  
 #### SessionID: 24436
 # Parameter Sniffing the Good and the Bad
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: Lance Tidwell
 ## Title: Parameter Sniffing the Good and the Bad
@@ -635,7 +636,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 #  
 #### SessionID: 27354
 # Self-Service ETL with Microsoft Power Query
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: ETL/SSIS
 ## Speaker: Damu Venkatesan
 ## Title: Self-Service ETL with Microsoft Power Query
@@ -644,7 +645,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: ETL/SSIS
 #  
 #### SessionID: 36842
 # Awesome PowerShell for SQL 2014
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: PowerShell
 ## Speaker: Aaron Nelson
 ## Title: Awesome PowerShell for SQL 2014
@@ -653,7 +654,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: PowerShell
 #  
 #### SessionID: 37174
 # Independent Contracting 101
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Michael French
 ## Title: Independent Contracting 101
@@ -662,7 +663,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 9276
 # Business Continuity: The Real Reason for HA and DR
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Availability  Replication
 ## Speaker: Allan Hirt
 ## Title: Business Continuity: The Real Reason for HA and DR
@@ -671,7 +672,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Availability  Replicati
 #  
 #### SessionID: 10303
 # SQL Server Encryption
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
@@ -680,7 +681,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 #  
 #### SessionID: 10768
 # 9 secrets to independent consulting success
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Brian Moran
 ## Title: 9 secrets to independent consulting success
@@ -705,7 +706,7 @@ We often learn the most from our mistakes. 25 years of mistakes has made me an I
 #  
 #### SessionID: 13702
 # Performance Tuning for Mere Mortals Part I
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Ed Watson
 ## Title: Performance Tuning for Mere Mortals Part I
@@ -714,7 +715,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 #  
 #### SessionID: 15877
 # Dimensional Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
@@ -723,7 +724,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 #  
 #### SessionID: 16223
 # Becoming a Top DBA--Learning Automation in SQL Server
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Joseph D'Antoni
 ## Title: Becoming a Top DBA--Learning Automation in SQL Server
@@ -739,7 +740,7 @@ This session will benefit both new and Senior DBAs, as well as anyone who wants 
 #  
 #### SessionID: 20077
 # Unit Testing with tSQLt an Open Source Testing Framework for SQL
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: Mark Fugel
 ## Title: Unit Testing with tSQLt an Open Source Testing Framework for SQL
@@ -748,7 +749,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 #  
 #### SessionID: 22967
 # Design principles for robust ETL processes
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: ETL/SSIS
 ## Speaker: Rafael Salas
 ## Title: Design principles for robust ETL processes
@@ -759,7 +760,7 @@ Data integration is still the most common point of failure of data centric proje
 #  
 #### SessionID: 24824
 # Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Reporting  Visualization
 ## Speaker: Wes Springob
 ## Title: Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
@@ -769,7 +770,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Reporting  Visualizatio
 #  
 #### SessionID: 24927
 # Introduction to SQL Server Clustering
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Availability  Replication
 ## Speaker: Chad Churchwell
 ## Title: Introduction to SQL Server Clustering
@@ -778,7 +779,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Availability  Replicati
 #  
 #### SessionID: 25722
 # Near Real-Time Data Warehouse Updates with CDC  SSIS
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: ETL/SSIS
 ## Speaker: Steve Wake
 ## Title: Near Real-Time Data Warehouse Updates with CDC  SSIS
@@ -787,7 +788,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: ETL/SSIS
 #  
 #### SessionID: 25858
 # Eating The Elephant; A DBA's Guide to Hadoop  Big Data
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Big Data  Data Science
 ## Speaker: Stuart Ainsworth
 ## Title: Eating The Elephant; A DBA's Guide to Hadoop  Big Data
@@ -800,7 +801,7 @@ Examples and demos will highlight basic query tools, including transferring data
 #  
 #### SessionID: 26726
 # Getting involved and Getting ahead
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Tim Radney
 ## Title: Getting involved and Getting ahead
@@ -809,7 +810,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 27771
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -818,7 +819,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 #  
 #### SessionID: 9554
 # Using BIML as an SSIS Design Patterns Engine 
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BIML
 ## Speaker: Andy Leonard
 ## Title: Using BIML as an SSIS Design Patterns Engine 
@@ -827,7 +828,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BIML
 #  
 #### SessionID: 11132
 # Master Data Management with MDS, DQS and SSIS
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 ## Speaker: Julie Smith
 ## Title: Master Data Management with MDS, DQS and SSIS
@@ -836,7 +837,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 #  
 #### SessionID: 13190
 # Advanced SSIS Techniques
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: ETL/SSIS
 ## Speaker: David Dye
 ## Title: Advanced SSIS Techniques
@@ -857,7 +858,7 @@ Upon completion of this workshop attendees will be able to:
 #  
 #### SessionID: 16864
 # Entity Framework performance monitoring and tuning
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: Jim Wooley
 ## Title: Entity Framework performance monitoring and tuning
@@ -866,7 +867,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 #  
 #### SessionID: 16998
 # Changing Data Is Easy, Managing Data Change is Hard!
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: James McAuliffe
 ## Title: Changing Data Is Easy, Managing Data Change is Hard!
@@ -875,7 +876,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 #  
 #### SessionID: 17210
 # Continuous Delivery for Data Warehouses and Marts
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 ## Speaker: John Welch
 ## Title: Continuous Delivery for Data Warehouses and Marts
@@ -886,7 +887,7 @@ Most data warehouses are in a constant state of flux. There are new requirements
 #  
 #### SessionID: 17214
 # What's your Character Type?
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 ## Speaker: John Deardurff
 ## Title: What's your Character Type?
@@ -895,7 +896,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DEV
 #  
 #### SessionID: 17268
 # Only You Can Prevent Database Fires!
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: John Morehouse
 ## Title: Only You Can Prevent Database Fires!
@@ -904,7 +905,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 #  
 #### SessionID: 18246
 # SQL Server Internals and Architecture
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals and Architecture
@@ -920,7 +921,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 #  
 #### SessionID: 19005
 # R intro for the SQL Server Pro
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Reporting  Visualization
 ## Speaker: Luis Figueroa
 ## Title: R intro for the SQL Server Pro
@@ -929,7 +930,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: Reporting  Visualizatio
 #  
 #### SessionID: 20606
 # Performance Tuning for Mere Mortals Part II
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Mike Lawell
 ## Title: Performance Tuning for Mere Mortals Part II
@@ -942,7 +943,7 @@ There will be homework!
 #  
 #### SessionID: 24941
 # Power BI as a Self-Service BI Platform: Architecture, Strengths, and Shortcomings
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 ## Speaker: Melissa Coates
 ## Title: Power BI as a Self-Service BI Platform: Architecture, Strengths, and Shortcomings
@@ -951,7 +952,7 @@ Event Date: 16-05-2015 - Session time: 15:45:00 - Track: BI
 #  
 #### SessionID: 26727
 # Understanding SQL Backups and Restores
-#### [Back to calendar](#SQLSaturday-#392-Atlanta-2015)
+#### [Back to calendar](#nr-392)
 Event Date: 16-05-2015 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Tim Radney
 ## Title: Understanding SQL Backups and Restores
